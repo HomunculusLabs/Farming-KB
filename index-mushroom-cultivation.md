@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1391 pages**
+**1406 pages**
 
 ## #
 
@@ -76,6 +76,8 @@
 - [[brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis]]
 - [[brassinosteroids-psilocybin-fruiting]]
 - [[brown-rice-flour-substrate]]
+- [[brown-rice-flour-supplementation-straw-substrate-mushroom]]
+- [[brown-rice-petri-plate-inoculation-vermiculite-transfer-psilocybe-cubensis-badham-1982]]
 - [[buildings-tools-equipment-mushroom-cultivation]]
 - [[bulk-substrate-field-capacity]]
 - [[bulk-substrate-preparation]]
@@ -140,6 +142,7 @@
 - [[chen-maitake-substrate-formulation]]
 - [[cho-water-soluble-phosphoric-acid-preparation]]
 - [[christmas-mushroom-symbolism]]
+- [[closed-circuit-wind-tunnel-design-mushroom-tropism-badham-1982]]
 - [[coaxial-power-splitter-waveguide-microwave-sterilization]]
 - [[cold-shock-fruiting-selectivity-psilocybe-species]]
 - [[cold-shock-fruiting-strain-specificity]]
@@ -212,6 +215,7 @@
 - [[disposable-tray-casing-method-grass-seed-substrate]]
 - [[dual-chambered-terrarium-design]]
 - [[dual-chambered-terrarium-fruiting]]
+- [[dual-chambered-terrarium-fungus-fruiting]]
 - [[dual-chambered-terrarium-mushroom-fruiting]]
 - [[duggar-mushroom-common-varieties]]
 - [[duggar-mushroom-disease-and-contamination]]
@@ -285,11 +289,14 @@
 - [[entheogenic-mushroom-species]]
 - [[environmental-control-mushroom-growing]]
 - [[ethnobotanical-use-of-sacred-mushrooms-in-indigenous-cultures]]
+- [[ethnobotanical-use-of-sacred-mushrooms-in-mexico]]
 - [[eu-hallucinogenic-mushroom-smartshop-market-2006]]
 - [[eu-legislative-responses-hallucinogenic-mushrooms-2001-2006]]
 - [[eu-magic-mushroom-prevalence-and-market-trends]]
+- [[european-hallucinogenic-mushroom-prevalence-and-trends]]
 - [[european-hallucinogenic-mushroom-prevalence-demographic-patterns-emcdda-2006]]
 - [[european-legal-responses-smartshop-regulation-hallucinogenic-mushrooms-emcdda]]
+- [[european-mushroom-markets-and-smartshop-economy]]
 - [[european-mushroom-poisoning-history]]
 - [[european-prevalence-and-patterns-of-magic-mushroom-use]]
 - [[european-prevalence-hallucinogenic-mushrooms]]
@@ -521,6 +528,7 @@
 - [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]]
 - [[hallucinogenic-mushroom-user-terminology-and-brand-names]]
 - [[hallucinogenic-mushrooms-european-prevalence]]
+- [[hallucinogenic-mushrooms-european-prevalence-and-trends]]
 - [[hallucinogenic-mushrooms-european-trends]]
 - [[hamilton-deep-bed-system]]
 - [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]]
@@ -541,6 +549,7 @@
 - [[hplc-analysis-psychedelic-mushroom-alkaloids]]
 - [[humidity-chamber-aquarium-mushroom-fruiting]]
 - [[humidity-chamber-designs-jarrold-mushroom-cultivation]]
+- [[hydro-pellet-fish-tank-humidity-chamber-mushroom-fruiting]]
 
 ## I
 
@@ -700,7 +709,7 @@
 - [[microwave-sterilization-dose-response-microbial-kill-kinetics-nasa-testing]]
 - [[microwave-sterilization-mixed-contaminant-kill-kinetics]]
 - [[microwave-sterilization-of-enclosed-systems]]
-- [[microwave-sterilization-power-density-calibration-3.6-w-cm2]]
+- [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
 - [[microwave-sterilization-system-hardware-architecture]]
 - [[microwave-sterilization-system-hardware-architecture-power-waveguide-antenna]]
 - [[microwave-sterilization-versus-conventional-methods-comparison]]
@@ -708,7 +717,7 @@
 - [[microwave-surface-sterilization-2-45ghz-nasa]]
 - [[microwave-surface-sterilization-core-concept]]
 - [[microwave-surface-sterilization-microbial-kill-kinetics]]
-- [[microwave-surface-sterilization-system-design-nasa-msap-2.45-ghz-trace-water-steam]]
+- [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]
 - [[microwave-surface-sterilization-technology]]
 - [[microwave-versus-conventional-surface-sterilization-comparison]]
 - [[microwave-vs-conventional-surface-sterilization-methods]]
@@ -906,6 +915,7 @@
 - [[mushroom-potency-drying-and-extraction]]
 - [[mushroom-potency-harvest-age]]
 - [[mushroom-potency-harvest-timing]]
+- [[mushroom-potency-harvesting-and-drying]]
 - [[mushroom-potency-harvesting-drying]]
 - [[mushroom-poverty-alleviation-developing-countries]]
 - [[mushroom-radiotherapy-adjunct]]
@@ -1078,6 +1088,7 @@
 - [[pasteurization-techniques]]
 - [[pasteurized-straw-cultivation-techniques]]
 - [[pda-and-tissue-culture]]
+- [[peat-perlite-casing-layer-composition-psilocybe-cubensis-miniculture-bigwood-beug]]
 - [[pelletized-granular-spawn]]
 - [[perlite-humidification-technique-mushroom-fruiting-pf-tek]]
 - [[pf-substrate]]
@@ -1088,6 +1099,7 @@
 - [[pf-tek-alcohol-flaming-sterilization-method]]
 - [[pf-tek-bacteria-contamination-detection]]
 - [[pf-tek-brown-rice-flour-freshness-and-preparation]]
+- [[pf-tek-brown-rice-vermiculite-cultivation]]
 - [[pf-tek-brown-rice-vermiculite-method]]
 - [[pf-tek-brown-rice-vermiculite-substrate]]
 - [[pf-tek-cake-birthing-technique]]
@@ -1376,6 +1388,7 @@
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]
 - [[stamets-shiitake-fruiting-management]]
 - [[stamets-species-sequencing-recycling-substrates]]
+- [[stamets-species-sequencing-substrate-recycling-cascade-cultivation]]
 - [[stamets-substrate-supplementation-strategies-mushroom-cultivation]]
 - [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 - [[staycare-spent-mushroom-compost-bioremediation]]
@@ -1410,6 +1423,7 @@
 - [[substrate-preparation-mushroom-growing]]
 - [[sumerian-mushroom-nomenclature]]
 - [[supplemented-sawdust-fruiting-block-production]]
+- [[surface-sterilization-comparison-microwave-autoclave-gamma-uv-chemical-trade-offs]]
 - [[surface-sterilization-methods-comparison]]
 - [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
 - [[sustaining-mushroom-crop-flushing-harvesting]]
@@ -1431,6 +1445,7 @@
 - [[trace-water-enhanced-microwave-surface-sterilization]]
 - [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics]]
 - [[trace-water-flash-steam-microwave-sterilization]]
+- [[trace-water-steam-sterilization]]
 - [[training-program-mushroom-cultivation]]
 - [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]
 - [[turkey-tail-mushroom-cancer-research]]

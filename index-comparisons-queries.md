@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1193 pages**
+**1198 pages**
 
 ## A
 
@@ -508,6 +508,7 @@
 - [[comparison-square-foot-vs-raised-bed-gardening]]
 - [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
 - [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]
+- [[comparison-stinging-nettle-vs-dandelion]]
 - [[comparison-stinging-nettle-vs-horsetail]]
 - [[comparison-stinging-nettle-vs-mullein]]
 - [[comparison-stinging-nettle-vs-yarrow]]
@@ -752,6 +753,7 @@
 - [[query-how-do-i-identify-and-control-whiteflies-on-cannabis]]
 - [[query-how-do-i-identify-prevent-and-treat-fusarium-wilt]]
 - [[query-how-do-i-identify-the-most-common-edible-wild-mushrooms]]
+- [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]]
 - [[query-how-do-i-improve-soil-drainage-in-my-garden]]
 - [[query-how-do-i-integrate-ducks-into-my-permaculture-system]]
 - [[query-how-do-i-keep-goats-on-a-permaculture-homestead]]
@@ -1046,6 +1048,7 @@
 - [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]
 - [[query-what-are-root-exudates-and-how-do-they-shape-soil-life]]
 - [[query-what-are-the-12-permaculture-principles]]
+- [[query-what-are-the-benefits-of-growing-calendula-and-how-do-i-use-it]]
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 - [[query-what-are-the-benefits-of-integrating-chickens-into-a-garden]]
 - [[query-what-are-the-benefits-of-no-till-gardening]]
@@ -1076,6 +1079,7 @@
 - [[query-what-are-the-different-types-of-mycorrhizal-fungi]]
 - [[query-what-are-the-health-benefits-of-dietary-polyphenols]]
 - [[query-what-are-the-health-benefits-of-lions-mane-mushroom]]
+- [[query-what-are-the-health-benefits-of-sea-buckthorn-and-how-do-i-grow-it]]
 - [[query-what-are-the-health-benefits-of-turkey-tail-mushroom]]
 - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
 - [[query-what-are-the-most-common-cannabis-nutrient-deficiencies]]
@@ -1154,6 +1158,7 @@
 - [[query-what-is-silvopasture-and-how-does-it-work]]
 - [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]]
 - [[query-what-is-super-cropping-and-when-to-do-it]]
+- [[query-what-is-supercropping-cannabis-and-how-does-it-work]]
 - [[query-what-is-syntropic-agriculture-and-how-do-i-start]]
 - [[query-what-is-terra-preta-and-how-does-it-differ-from-modern-biochar]]
 - [[query-what-is-the-bauhaus-movement-and-why-does-it-matter]]

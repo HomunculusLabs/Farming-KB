@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**471 pages**
+**483 pages**
 
 ## A
 
@@ -67,6 +67,7 @@
 - [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
 - [[coleman-compost-and-organic-fertility-management]]
 - [[coleman-cover-crop-rotation-and-soil-health]]
+- [[coleman-french-maraicher-horse-manure-hotbed-system]]
 - [[coleman-french-maraicher-manure-system-and-compost-quality]]
 - [[coleman-hotbed-manure-heat-system]]
 - [[coleman-soil-block-transplant-system]]
@@ -80,6 +81,7 @@
 - [[comfrey-tea-liquid-fertilizer]]
 - [[complete-organic-fertilizer-cof]]
 - [[complete-organic-fertilizer-cof-recipe-solomon]]
+- [[complete-organic-fertilizer-cof-solomon]]
 - [[complete-organic-fertilizer-formulation]]
 - [[complete-organic-fertilizer-recipes]]
 - [[compost-biology-organisms]]
@@ -213,11 +215,13 @@
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
 - [[ingham-antibiotics-osmotic-shock-compost-tea]]
 - [[ingham-blackstrap-molasses-compost-tea-concentration-osmotic-effects]]
+- [[ingham-brix-testing-plant-quality-compost-tea-response]]
 - [[ingham-carbon-nitrogen-ratios-compost-tea]]
 - [[ingham-charcoal-biochar-compost-tea]]
 - [[ingham-chelation-microbial-nutrient-processing]]
 - [[ingham-coli-compost-tea-food-safety]]
 - [[ingham-compost-contaminants]]
+- [[ingham-compost-quality-assessment-visual-microbial-indicators]]
 - [[ingham-compost-tea-application-rates-and-timing]]
 - [[ingham-compost-tea-holding-time-shelf-life]]
 - [[ingham-compost-tea-pathogen-safety-anaerobic-risk]]
@@ -240,6 +244,7 @@
 - [[ingham-food-safety-compost-tea]]
 - [[ingham-humic-acids-extraction-and-soil-function]]
 - [[ingham-inorganic-fertilizers-soil-biology-damage]]
+- [[ingham-kelp-seaweed-sea-minerals-compost-tea-brewing]]
 - [[ingham-leaf-surface-biology-phyllosphere-compost-tea-attachment]]
 - [[ingham-light-uv-effects-compost-tea]]
 - [[ingham-manure-antibiotics-chemical-residues-composting]]
@@ -248,6 +253,7 @@
 - [[ingham-natural-growth-regulators-soil-microbes]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[ingham-pest-management-aact]]
+- [[ingham-pleomorphism-microbial-form-shifting-soil-conditions]]
 - [[ingham-protozoa-nutrient-cycling]]
 - [[ingham-protozoa-soil-food-web-nutrient-cycling]]
 - [[ingham-root-disease-treatment]]
@@ -388,6 +394,7 @@
 - [[plant-nutrient-uptake]]
 - [[plant-nutrient-uptake-mechanisms]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
+- [[plow-pan-soil-compaction-remediation-solomon]]
 - [[potassium-in-plant-nutrition]]
 - [[potassium-plant-nutrition]]
 - [[potassium-role-in-plants]]
@@ -425,6 +432,7 @@
 - [[soil-edaphic-factors-microbial-communities]]
 - [[soil-erosion-control]]
 - [[soil-fertility-building-gradient-solomon]]
+- [[soil-fertility-gradient-solomon]]
 - [[soil-fertility-management]]
 - [[soil-food-web]]
 - [[soil-food-web-and-building-living-soil]]
@@ -438,13 +446,16 @@
 - [[soil-foodweb-biology-balance]]
 - [[soil-foodweb-biology-overview]]
 - [[soil-health-and-management]]
+- [[soil-health-assessment-biological-chemical-physical-indicators]]
 - [[soil-health-indicators]]
 - [[soil-health-management]]
 - [[soil-life]]
+- [[soil-microbial-biomass-measurement-ecological-significance]]
 - [[soil-microbiology-basics]]
 - [[soil-microorganisms-natural-fertility]]
 - [[soil-microscope-analysis]]
 - [[soil-nutrient-cycling]]
+- [[soil-organic-carbon-fractions-turnover-dynamics]]
 - [[soil-ph-management]]
 - [[soil-ph-management-for-vegetable-gardens]]
 - [[soil-physicochemical-properties-microbial-communities]]
@@ -527,6 +538,7 @@
 - [[vegetable-nutrient-demand-categories-solomon]]
 - [[vegetable-nutrient-demand-levels]]
 - [[vegetable-weed-control-and-mulching]]
+- [[vermicompost-production-systems-quality-standards]]
 - [[vermicompost-tea]]
 - [[von-liebig-law-of-the-minimum-and-fertilizer-history]]
 
