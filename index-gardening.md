@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1078 pages**
+**1079 pages**
 
 ## A
 
@@ -52,6 +52,7 @@
 - [[blanching-vegetables-for-freezing]]
 - [[bloomfield-coffee-rust-and-crop-pathogens]]
 - [[bloomfield-plant-hypersensitive-response-rust-arms-race]]
+- [[bloomfield-rust-sex-insect-mediated-spermatia-transfer-dikaryon-formation]]
 - [[blue-city-diesel-west-coast-blueberry-nyc-diesel-hybrid-oner]]
 - [[blue-light-phototropism-red-light-photoperiodism-dual-plant-vision-system]]
 - [[blueberry-growing-guide]]

@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1609 pages**
+**1613 pages**
 
 ## #
 
@@ -159,6 +159,7 @@
 - [[bom-pihkal-entry-17]]
 - [[brain-neuroscience-and-psychedelic-mechanism]]
 - [[brazilian-ayahuasca-churches]]
+- [[brazilian-ayahuasca-churches-santo-daime-udv-barquinha-structural-comparison]]
 - [[brazilian-ayahuasca-syncretic-churches-santo-daime-udv-barquinha]]
 - [[brugmansia-entheogens]]
 
@@ -1100,6 +1101,7 @@
 ## N
 
 - [[naranjo-harmaline-yage-experiment]]
+- [[native-american-church-peyote-ceremony-structure-roles-roadman]]
 - [[natural-farming-and-spirituality]]
 - [[natural-farming-livestock-integration]]
 - [[natural-intelligence]]
@@ -1441,6 +1443,7 @@
 - [[sam-stein-psilocybe-cubensis-bad-trip-1961]]
 - [[san-francisco-shipibo-ayahuasca-ceremonial-center]]
 - [[san-francisco-yarina-shipibo-ayahuasca-ceremonial-center]]
+- [[san-pedro-cactus-curandero-altar-mesa-ceremony-andean-tradition]]
 - [[san-pedro-cactus-history]]
 - [[san-pedro-cactus-preparation]]
 - [[sananga-eye-medicine-amazonian-ethnobotany]]
@@ -1535,6 +1538,7 @@
 - [[shulgin-rating-scale]]
 - [[shulgin-research-contributions]]
 - [[shulgin-safety-principles-self-experimentation]]
+- [[sidney-cohen-oscar-janiger-hollywood-psychedelic-therapy-1960s]]
 - [[sigma-1-receptor-and-psychedelics]]
 - [[singer-wasson-scientific-rivalry-psilocybe-taxonomy]]
 - [[sinicuichi-heimia-salicifolia-auditory-hallucinogen]]

@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**1004 pages**
+**1005 pages**
 
 ## A
 
@@ -1036,6 +1036,7 @@
 - [[savory-weak-link-analysis]]
 - [[scientific-farming-paradoxes-according-to-fukuoka]]
 - [[soil-microbiology-in-natural-farming]]
+- [[soil-microbiome-natural-farming]]
 - [[solomon-choosing-seeds-and-catalogs]]
 - [[st-johns-wort-guide]]
 - [[straw-mulch-in-agriculture]]

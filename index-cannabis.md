@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**1124 pages**
+**1125 pages**
 
 ## #
 
@@ -1138,6 +1138,7 @@
 - [[sea-of-green]]
 - [[silica-cannabis]]
 - [[soil-heritability-otu-sharing-white-widow-cross-soil-cannabis-endorhiza]]
+- [[soil-physicochemical-properties-cannabis-microbiome-assembly-winston]]
 - [[soil-type-otu-abundance-vs-strain-structure-cannabis-microbiome]]
 - [[solomon-foliar-feeding-fish-emulsion-and-kelp]]
 - [[solomon-liquid-fertilizers-and-foliar-feeding]]
