@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1199 pages**
+**1201 pages**
 
 ## A
 
@@ -216,6 +216,7 @@
 - [[comparison-echinacea-vs-calendula]]
 - [[comparison-echinacea-vs-chamomile]]
 - [[comparison-echinacea-vs-lemon-balm]]
+- [[comparison-echinacea-vs-st-johns-wort]]
 - [[comparison-echinacea-vs-tulsi]]
 - [[comparison-echinacea-vs-yarrow]]
 - [[comparison-elderberry-vs-echinacea]]
@@ -402,6 +403,7 @@
 - [[comparison-panax-ginseng-vs-siberian-ginseng]]
 - [[comparison-papercrete-vs-cob-construction]]
 - [[comparison-parasitoid-wasps-vs-chemical-pesticides]]
+- [[comparison-passionflower-vs-st-johns-wort]]
 - [[comparison-passionflower-vs-tulsi]]
 - [[comparison-passive-solar-vs-earth-sheltered]]
 - [[comparison-pasteurization-vs-sterilization]]

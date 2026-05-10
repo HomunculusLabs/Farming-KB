@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1420 pages**
+**1425 pages**
 
 ## #
 
@@ -422,6 +422,7 @@
 - [[growing-gourmet-cold-shock-temperature-initiation-fruiting]]
 - [[growing-gourmet-contamination-prevention]]
 - [[growing-gourmet-cropping-containers-growing-systems]]
+- [[growing-gourmet-cultivation-troubleshooting-diagnostic-guide]]
 - [[growing-gourmet-culture-slant-preservation-cryogenic-storage]]
 - [[growing-gourmet-elm-oyster-hypsizygus-ulmarius]]
 - [[growing-gourmet-enoki-cultivation]]
@@ -441,6 +442,7 @@
 - [[growing-gourmet-liquid-inoculation-fermentation]]
 - [[growing-gourmet-maitake-cultivation]]
 - [[growing-gourmet-medicinal-polysaccharides-mushroom-compounds]]
+- [[growing-gourmet-mushroom-culinary-preparation-cooking]]
 - [[growing-gourmet-mushroom-dehydration-methods-equipment]]
 - [[growing-gourmet-mushroom-farm-design-environments]]
 - [[growing-gourmet-mushroom-harvesting-marketing-guide]]
@@ -471,6 +473,7 @@
 - [[growing-gourmet-soak-and-strike-forcing]]
 - [[growing-gourmet-spawn-production]]
 - [[growing-gourmet-spawn-rate-optimization]]
+- [[growing-gourmet-species-sequencing-substrate-cascades]]
 - [[growing-gourmet-stamets-p-value-strain-age-system]]
 - [[growing-gourmet-stametsian-permaculture-model]]
 - [[growing-gourmet-strain-selection]]
@@ -553,6 +556,7 @@
 - [[hplc-analysis-psychedelic-mushroom-alkaloids]]
 - [[humidity-chamber-aquarium-mushroom-fruiting]]
 - [[humidity-chamber-designs-jarrold-mushroom-cultivation]]
+- [[humidity-chamber-mushroom-fruiting]]
 - [[hydro-pellet-fish-tank-humidity-chamber-mushroom-fruiting]]
 
 ## I
@@ -1419,6 +1423,7 @@
 - [[straw-based-oyster-mushroom-cultivation]]
 - [[straw-cultivation-methods]]
 - [[straw-pasteurization-methods]]
+- [[straw-substrate-mushroom-cultivation-boil-bag]]
 - [[straw-substrate-pasteurization-methods-mushroom-cultivation]]
 - [[straw-substrate-preparation-marmite-yeast-extract-soak]]
 - [[straw-substrate-preparation-mushroom-cultivation]]

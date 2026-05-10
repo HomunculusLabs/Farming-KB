@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**978 pages**
+**985 pages**
 
 ## A
 
@@ -221,6 +221,7 @@
 - [[crop-rotation-principles]]
 - [[crop-rotation-vegetable-garden]]
 - [[cucumber-growing-guide]]
+- [[cultivar-specificity-microbiome-plant-genotype]]
 - [[cultivar-specificity-plant-microbiome]]
 
 ## D
@@ -646,6 +647,7 @@
 - [[photoperiodism-plant-day-length-measurement]]
 - [[photoperiodism-plant-flowering]]
 - [[photoperiodism-plants]]
+- [[photoperiodism-plants-measure-night-length]]
 - [[phototropism-and-plant-light-responses]]
 - [[phototropism-darwin-plant-light-response]]
 - [[phototropism-darwin-plant-light-sensing]]
@@ -841,6 +843,7 @@
 - [[solomon-community-garden-models-hard-times-cuba-britain]]
 - [[solomon-companion-planting-evidence-based]]
 - [[solomon-crop-rotation-and-garden-planning]]
+- [[solomon-difficult-vegetables-celery-cauliflower-high-demand-crops]]
 - [[solomon-disease-identification-and-organic-remedies]]
 - [[solomon-domestication-vulnerability-vegetable-competitive-disadvantage]]
 - [[solomon-double-digging]]
@@ -906,6 +909,7 @@
 - [[solomon-sprinkler-irrigation-vegetable-gardens]]
 - [[solomon-sprouting-seeds-and-early-season-nutrition]]
 - [[solomon-thinning-spacing-and-direct-seeding]]
+- [[solomon-tool-care-sharpening-shovels-hoes-essential-gardening]]
 - [[solomon-transplanting-and-hardening-off]]
 - [[solomon-variety-degradation-home-seed-trade]]
 - [[solomon-vegetable-demand-classification-low-medium-high]]
@@ -1034,6 +1038,9 @@
 - [[weed-suppression-strategies]]
 - [[weeding-strategies-low-input-garden]]
 - [[well-drilling-and-maintenance]]
+- [[what-a-plant-knows-photoperiodism-flowering-time-measurement]]
+- [[what-a-plant-knows-plant-mechanosensation-touch-response]]
+- [[what-a-plant-knows-plant-olfaction-volatile-communication]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[white-clover-ground-cover]]
 - [[wicking-bed-crop-selection-seasonal-management]]

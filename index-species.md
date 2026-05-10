@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**3854 pages**
+**3860 pages**
 
 ## #
 
@@ -198,6 +198,7 @@
 - [[abrus-precatorius]]
 - [[acacia]]
 - [[acacia-acuminata]]
+- [[acacia-confusa]]
 - [[acacia-farnesiana]]
 - [[acacia-mearnsii]]
 - [[acacia-nilotica]]
@@ -708,6 +709,7 @@
 - [[campanula-lactiflora]]
 - [[campanula-medium]]
 - [[campanula-persicifolia]]
+- [[campanula-rotundifolia]]
 - [[campanula-trachelium]]
 - [[camphene]]
 - [[camphor]]
@@ -1253,6 +1255,7 @@
 - [[diospyros-kaki]]
 - [[diospyros-virginiana]]
 - [[diplazium-esculentum]]
+- [[diplopterys-cabreraeana]]
 - [[diplopterys-cabrerana]]
 - [[diploschistes-scruposus]]
 - [[diplotaxis-tenuifolia]]
@@ -1437,6 +1440,7 @@
 - [[erythrina-crista-galli]]
 - [[erythrina-fusca]]
 - [[erythroxylum-coca]]
+- [[erythroxylum-novogranatense]]
 - [[escaline-entity]]
 - [[eschscholzia-californica]]
 - [[eth-lad]]
@@ -3571,6 +3575,7 @@
 - [[tetrahydroharmine-entity-tihkal]]
 - [[tetraphis-pellucida]]
 - [[tetrapteris-methystica]]
+- [[tetrapterys-mucronata]]
 - [[teucrium-chamaedrys]]
 - [[teucrium-marum]]
 - [[teucrium-polium]]
@@ -3832,6 +3837,7 @@
 - [[vipera-berus]]
 - [[virodhamine]]
 - [[virola-calophylla]]
+- [[virola-elongata]]
 - [[virola-sebifera]]
 - [[virola-surinamensis]]
 - [[virola-theiodora]]
