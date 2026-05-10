@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**1000 pages**
+**1004 pages**
 
 ## A
 
@@ -279,6 +279,7 @@
 - [[fukuoka-inductive-deductive-intuitive-reasoning-agricultural-research]]
 - [[fukuoka-innocence-of-children]]
 - [[fukuoka-insects-create-new-rice-varieties]]
+- [[fukuoka-intellect-vs-nature]]
 - [[fukuoka-international-nature-university-peace-march]]
 - [[fukuoka-irrigation-topsoil-erosion-salt-accumulation]]
 - [[fukuoka-italian-agriculture-observations]]
@@ -328,6 +329,7 @@
 - [[fukuoka-natural-diet-as-foundation]]
 - [[fukuoka-natural-diet-food-philosophy]]
 - [[fukuoka-natural-diet-four-types]]
+- [[fukuoka-natural-diet-movement-america]]
 - [[fukuoka-natural-diet-movement-america-europe]]
 - [[fukuoka-natural-diet-philosophy]]
 - [[fukuoka-natural-diet-theory]]
@@ -428,6 +430,7 @@
 - [[fukuoka-orchard-soil-restoration-barren-clay]]
 - [[fukuoka-orchard-without-pruning]]
 - [[fukuoka-organic-farming-destructive-compost-depletion-critique]]
+- [[fukuoka-organic-to-natural-farming-transition]]
 - [[fukuoka-organic-versus-natural-farming]]
 - [[fukuoka-origin-agriculture-dietary-cravings]]
 - [[fukuoka-paradoxes-scientific-farming]]
@@ -955,6 +958,7 @@
 - [[natural-farming-seed-balls]]
 - [[natural-farming-seed-saving]]
 - [[natural-farming-soil-building]]
+- [[natural-farming-soil-ecology]]
 - [[natural-farming-soil-management]]
 - [[natural-farming-sustainable-living-principles]]
 - [[natural-farming-vs-organic-farming]]

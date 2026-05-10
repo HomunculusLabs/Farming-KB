@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**962 pages**
+**971 pages**
 
 ## A
 
@@ -149,6 +149,7 @@
 - [[grassland-pasture-management-mollison]]
 - [[greenhouse-cool-climates-mollison]]
 - [[greywater-systems-detailed]]
+- [[greywater-wetland-plants-guide]]
 - [[guild-design-methods]]
 - [[guild-planting-systems]]
 
@@ -182,6 +183,7 @@
 - [[holmgren-biomass-fuels-and-energy-yield-ratios]]
 - [[holmgren-bioregional-governance-and-political-structures]]
 - [[holmgren-built-environment-household-energy-storage]]
+- [[holmgren-catch-and-store-energy-four-landscape-storages]]
 - [[holmgren-community-design-and-intentional-communities]]
 - [[holmgren-consumer-addiction-and-hedonic-treadmill]]
 - [[holmgren-ecological-succession-and-pulsing]]
@@ -211,6 +213,7 @@
 - [[holmgren-principle-observe-interact-experiential-learning-postmodern]]
 - [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]
 - [[holmgren-renewability-versus-durability-building]]
+- [[holmgren-self-regulation-and-feedback-systems-design]]
 - [[holmgren-site-design-as-cellular-design]]
 - [[holmgren-site-design-zones-slopes-cellular]]
 - [[holmgren-third-wave-environmentalism]]
@@ -334,10 +337,12 @@
 
 ## I
 
+- [[ianto-evans-polyculture-system]]
 - [[integrate-rather-than-segregate]]
 
 ## J
 
+- [[jajarkot-advanced-polyculture]]
 - [[jeavons-biointensive-spacing]]
 - [[jeavons-carbon-farming]]
 - [[jeavons-diet-design-self-sufficiency]]
@@ -740,6 +745,7 @@
 - [[permaculture-edge-effect-design]]
 - [[permaculture-energy-cycling-and-resource-efficiency]]
 - [[permaculture-energy-descent-planning]]
+- [[permaculture-energy-hierarchy]]
 - [[permaculture-ethical-principles-holmgren]]
 - [[permaculture-ethics-and-principles]]
 - [[permaculture-farm-design-principles]]
@@ -873,6 +879,7 @@
 - [[permaculture-temperate-design-strategies]]
 - [[permaculture-thermal-belt-siting]]
 - [[permaculture-tree-crop-systems]]
+- [[permaculture-twelve-design-principles]]
 - [[permaculture-two-species-compendium]]
 - [[permaculture-urban-design]]
 - [[permaculture-urban-design-apartments-balconies]]
@@ -898,8 +905,10 @@
 - [[permaculture-zones-and-sectors]]
 - [[permaculture-zones-in-practice]]
 - [[permitted-vs-forced-functions]]
+- [[pioneer-species-in-permaculture-design]]
 - [[pioneer-species-permaculture]]
 - [[pioneer-species-selection-for-permaculture-systems]]
+- [[plant-propagation-techniques-for-permaculture]]
 - [[polyculture-design-hemenway]]
 - [[polyculture-design-holzer]]
 - [[pond-and-aquaculture]]

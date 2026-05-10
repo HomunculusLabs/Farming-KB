@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**531 pages**
+**548 pages**
 
 ## A
 
@@ -26,14 +26,17 @@
 - [[aact-disease-suppression-mechanisms-ingham]]
 - [[aact-disease-suppression-recipes]]
 - [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]
+- [[aact-fermentative-and-anaerobic-tea-types-ingham]]
 - [[aact-fish-hydrolysate-marine-brewing-ingredients-ingham]]
 - [[aact-foam-management-troubleshooting-ingham]]
 - [[aact-foliar-sticker-spreaders-leaf-surface-attachment-ingham]]
 - [[aact-microbial-chelation-of-minerals-ingham]]
+- [[aact-microbial-foliar-nutrient-uptake-co2-stomata-ingham]]
 - [[aact-nitrogen-forms-microbial-nutrient-cycling-ingham]]
 - [[aact-nitrogen-forms-nitrate-amino-sugars-plant-nutrition-ingham]]
 - [[aact-pathogen-safety-ingham]]
 - [[aact-ph-water-quality-ingham]]
+- [[aact-plate-counts-vs-direct-microscopy-molecular-dna-testing-ingham]]
 - [[aact-soil-food-web-twelve-step-balancing-protocol]]
 - [[aact-spray-equipment-nozzle-selection-ingham]]
 - [[aact-tea-types-and-definitions-ingham]]
@@ -89,6 +92,7 @@
 - [[coleman-french-maraicher-manure-system-and-compost-quality]]
 - [[coleman-hotbed-manure-heat-system]]
 - [[coleman-mobile-greenhouse-crop-rotation-soil-health]]
+- [[coleman-mobile-greenhouse-green-manure-soil-building]]
 - [[coleman-soil-block-transplant-system]]
 - [[coleman-soil-heat-mass-passive-thermal-storage]]
 - [[coleman-soil-heat-storage-diurnal-freeze-thaw-cycle]]
@@ -107,6 +111,7 @@
 - [[compost-biology-organisms]]
 - [[compost-building-guide]]
 - [[compost-container-types]]
+- [[compost-making-methods-solomon]]
 - [[compost-quality-grades]]
 - [[compost-quality-grades-and-methods]]
 - [[compost-quality-standards]]
@@ -149,6 +154,7 @@
 - [[direct-seeded-no-tillage-rice-barley-succession-in-clover]]
 - [[direct-seeded-no-tillage-rice-winter-grain-succession]]
 - [[direct-seeded-notillage-rice-barley-clover-succession]]
+- [[duggar-stable-manure-selection-compost-materials]]
 - [[dynamic-accumulator-bracken-fern-potash]]
 - [[dynamic-accumulator-phosphate-liberators]]
 - [[dynamic-accumulator-plants-calcium-and-magnesium]]
@@ -171,6 +177,7 @@
 - [[fertilizer-pollution-environmental-impact]]
 - [[flocculation-and-natural-subsoil-loosening-solomon]]
 - [[flushing-nutrients]]
+- [[foliar-nutrient-diagnosis-deficiency-identification]]
 - [[foliar-pest-deterrence-aact-mechanisms]]
 
 ## G
@@ -183,6 +190,7 @@
 - [[garden-myths-mulch-and-watering]]
 - [[garden-myths-soil-and-amendments]]
 - [[garden-soil-basics]]
+- [[garden-soil-fertility-mineral-balance-solomon]]
 - [[garden-soil-terminology-glossary]]
 - [[ginger-garlic-extract-bionutrient]]
 - [[green-manure-cover-crops]]
@@ -279,6 +287,7 @@
 - [[ingham-microscope-identification-soil-biology]]
 - [[ingham-moss-algae-control]]
 - [[ingham-natural-growth-regulators-soil-microbes]]
+- [[ingham-npk-game-organic-conversion-microbial-nutrient-cycling]]
 - [[ingham-nutrient-cycling-soil-food-web]]
 - [[ingham-pest-management-aact]]
 - [[ingham-pleomorphism-microbial-form-shifting-soil-conditions]]
@@ -323,6 +332,7 @@
 
 - [[lactic-acid-bacteria-lab]]
 - [[leaf-mold-composting]]
+- [[leaf-tissue-analysis-crop-nutrient-status]]
 - [[ley-farming-soil-rebuilding-solomon]]
 - [[liquid-fertilizer-from-weeds]]
 - [[living-mulch-systems-guide]]
@@ -423,6 +433,7 @@
 - [[plant-nutrient-mobility-in-soil]]
 - [[plant-nutrient-uptake]]
 - [[plant-nutrient-uptake-mechanisms]]
+- [[plant-sap-analysis-nutrient-diagnostics]]
 - [[plant-secondary-macronutrients-calcium-magnesium-and-sulfur]]
 - [[plow-pan-soil-compaction-remediation-solomon]]
 - [[potassium-in-plant-nutrition]]
@@ -456,6 +467,7 @@
 - [[soil-building-ecological-garden]]
 - [[soil-chytridiomycete-isolation-baiting-techniques]]
 - [[soil-chytridiomycetes-diversity-distribution]]
+- [[soil-compaction-diagnosis-remediation]]
 - [[soil-compaction-solutions]]
 - [[soil-compaction-solutions-ingham]]
 - [[soil-conditioners-guide]]
@@ -466,12 +478,12 @@
 - [[soil-fertility-gradient-approach]]
 - [[soil-fertility-gradient-solomon]]
 - [[soil-fertility-management]]
-- [[soil-food-web]]
 - [[soil-food-web-and-building-living-soil]]
 - [[soil-food-web-assessment]]
 - [[soil-food-web-management-for-farmers]]
 - [[soil-food-web-nutrient-cycling]]
 - [[soil-food-web-structure]]
+- [[soil-foodweb]]
 - [[soil-foodweb-balancing-protocol-ingham]]
 - [[soil-foodweb-biological-balancing-protocol-ingham]]
 - [[soil-foodweb-biology]]
@@ -488,11 +500,13 @@
 - [[soil-microorganisms-natural-fertility]]
 - [[soil-microscope-analysis]]
 - [[soil-moisture-management-and-root-growth]]
+- [[soil-moisture-monitoring-irrigation-management]]
 - [[soil-nutrient-cycling]]
 - [[soil-organic-carbon-fractions-turnover-dynamics]]
 - [[soil-ph-management]]
 - [[soil-ph-management-for-vegetable-gardens]]
 - [[soil-physicochemical-properties-microbial-communities]]
+- [[soil-porosity-pore-size-distribution]]
 - [[soil-preparation-organic-gardens]]
 - [[soil-protozoa-ecology-trophic-interactions]]
 - [[soil-protozoa-nutrient-cycling-and-mineralization]]
@@ -508,6 +522,7 @@
 - [[solomon-buckwheat-summer-cover-crop-guide]]
 - [[solomon-carbon-nitrogen-ratios]]
 - [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]]
+- [[solomon-chemical-vs-organic-fertilizer-slow-release-trace-minerals]]
 - [[solomon-clay-soil-management-and-remediation]]
 - [[solomon-complete-organic-fertilizer-cof-recipe]]
 - [[solomon-complete-organic-fertilizer-guide]]
@@ -517,6 +532,7 @@
 - [[solomon-cool-climate-compost-soil-temperature-nutrient-release]]
 - [[solomon-cover-crops-green-manure-guide]]
 - [[solomon-fertigation-bucket-drip-water-nutrient-delivery]]
+- [[solomon-fertigation-bucket-drip-water-nutrient-delivery-system]]
 - [[solomon-fertilizer-selection-application]]
 - [[solomon-fine-seedbed-soil-tilth-clod-management-raking]]
 - [[solomon-garden-ley-rotation-soil-restoration]]
@@ -592,6 +608,7 @@
 
 ## W
 
+- [[water-infiltration-soil-hydraulic-conductivity]]
 - [[water-soluble-potassium-wp]]
 - [[weed-tea-liquid-fertilizer]]
 - [[white-clover-living-mulch]]

@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1051 pages**
+**1078 pages**
 
 ## A
 
@@ -71,6 +71,7 @@
 - [[chacruna-plant]]
 - [[chamomile-growing-guide]]
 - [[chamovitz-circadian-rhythm-internal-clock-plants]]
+- [[chamovitz-gradualist-framework-plant-sensory-capabilities]]
 - [[chamovitz-gravitropism-plant-knows-where-it-is]]
 - [[chamovitz-plant-acoustic-and-vibration-sensing]]
 - [[chamovitz-plant-electrical-signaling-action-potentials]]
@@ -103,6 +104,7 @@
 - [[cold-climate-gardening]]
 - [[cold-frame-construction]]
 - [[cold-frame-gardening]]
+- [[cold-greenhouse-growing]]
 - [[cold-house-winter-harvest-system]]
 - [[cole-crop-harvest-and-storage]]
 - [[coleman-baby-leaf-mix-quality-standards-ingredients]]
@@ -135,6 +137,7 @@
 - [[coleman-double-cover-air-inflated-trial-temperature-data]]
 - [[coleman-double-cover-inflated-plastic-trial]]
 - [[coleman-double-cover-microclimate-protection]]
+- [[coleman-double-layer-climate-modification-temperature-data]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]
 - [[coleman-drip-irrigation-and-water-management]]
 - [[coleman-emery-emmert-plastic-greenhouse-pioneer]]
@@ -147,6 +150,7 @@
 - [[coleman-french-maraicher-transport-britain-kropotkin]]
 - [[coleman-gothic-arch-greenhouse-design-specifications]]
 - [[coleman-greenhouse-covering-materials-comparison]]
+- [[coleman-greenhouse-end-wall-ventilation-design-mobile-houses]]
 - [[coleman-greenhouse-heating-options-winter-production]]
 - [[coleman-greenhouse-interior-design-and-management]]
 - [[coleman-greenhouse-orientation-site-selection-wind-protection-coleman]]
@@ -169,6 +173,7 @@
 - [[coleman-meadow-vole-pest-management]]
 - [[coleman-mobile-greenhouse-crop-rotation-design]]
 - [[coleman-mobile-greenhouse-design-and-operation]]
+- [[coleman-mobile-greenhouse-rotation-design-two-three-four-plot-systems]]
 - [[coleman-mobile-greenhouse-system]]
 - [[coleman-moveable-greenhouse-system]]
 - [[coleman-overwintered-onions-and-early-spring-crops]]
@@ -183,6 +188,7 @@
 - [[coleman-protected-cultivation]]
 - [[coleman-quick-hoops]]
 - [[coleman-quick-hoops-construction]]
+- [[coleman-quick-hoops-low-cost-season-extension-structures-design]]
 - [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[coleman-row-cover-fabric-management]]
 - [[coleman-row-cover-trial-lightweight-heavyweight-sun-run]]
@@ -205,9 +211,11 @@
 - [[coleman-sweet-winter-carrots-cold-sweetening]]
 - [[coleman-tools-small-farm]]
 - [[coleman-unheated-greenhouse-design]]
+- [[coleman-unheated-greenhouse-economic-model-passive-winter-production]]
 - [[coleman-vertical-trellis-growing-greenhouse-tomatoes]]
 - [[coleman-wash-pack-infrastructure-four-season-farm]]
 - [[coleman-weed-control]]
+- [[coleman-wiggle-wire-channel-greenhouse-plastic-attachment-system]]
 - [[coleman-winter-carrots]]
 - [[coleman-winter-greens]]
 - [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
@@ -243,6 +251,7 @@
 - [[contour-line-water-management]]
 - [[cotter-natural-pest-control-disease-management]]
 - [[critical-haze-strain-profile-resin-seeds-oner]]
+- [[crop-coefficients-irrigation-scheduling]]
 - [[crop-rotation-and-ley-farming]]
 - [[crop-rotation-benefits]]
 - [[crop-rotation-principles]]
@@ -254,7 +263,9 @@
 
 ## D
 
+- [[darwin-five-seedling-phototropism-experimental-conditions]]
 - [[darwin-phototropism-discovery-plant-light-perception]]
+- [[darwin-phototropism-experiments-plant-light-sensing]]
 - [[darwin-phototropism-experiments-plant-vision]]
 - [[darwin-plant-movement-experiments]]
 - [[darwin-power-movement-in-plants]]
@@ -519,6 +530,7 @@
 - [[home-vegetable-gardening]]
 - [[homestead-water-purification]]
 - [[honey-locust-pod-fodder-timber-production]]
+- [[human-eye-photoreceptor-analogy-plant-light-perception]]
 - [[human-vs-plant-photoreception-comparison]]
 - [[human-vs-plant-photoreception-rods-cones-phytochrome]]
 - [[human-vs-plant-photoreceptor-systems-comparison]]
@@ -532,6 +544,7 @@
 - [[ingham-brix-plant-health-indicator-limitations]]
 - [[ingham-brix-testing-plant-quality]]
 - [[ingham-foliar-insect-pest-deterrence-mechanisms]]
+- [[ingham-fresh-seaweed-kelp-brewing-ingredients]]
 - [[ingham-nitrate-amino-sugars-plant-nutrition]]
 - [[ingham-weed-control-through-biology]]
 - [[insect-allies]]
@@ -580,6 +593,7 @@
 - [[jeavons-water-management-irrigation]]
 - [[jeavons-watering-technique]]
 - [[jeavons-weed-management]]
+- [[jujube-ziziphus-species-profile]]
 
 ## K
 
@@ -631,6 +645,7 @@
 - [[natural-pest-deterrents]]
 - [[nehemiah-grew-plant-anatomy]]
 - [[no-pruning-fruit-trees]]
+- [[nurse-scaffold-chaperone-plants]]
 - [[nursery-management]]
 
 ## O
@@ -641,6 +656,7 @@
 - [[oner-bubba-sativa-wicked-bubba-kush-sativa-pheno-riot-seeds]]
 - [[oner-la-roja-panama-red-colombian-sativa-jamaica-seeds]]
 - [[oner-mango-haze-mr-nice-seedbank-haze-skunk]]
+- [[oner-peptide-limestone-city-seeds-heavy-duty-fruity-sweet-tooth-durban-poison]]
 - [[oner-space-grape-ultra-genetics-nebula-grapefruit]]
 - [[oner-super-lemon-haze-greenhouse-strain-profile]]
 - [[oner-temple-bodhi-seeds-super-silver-haze-williams-wonder]]
@@ -669,6 +685,7 @@
 
 - [[palm-tree-uses]]
 - [[parasitic-plant-host-detection-volatile-sensing]]
+- [[parisian-market-gardening]]
 - [[parsley-celery-herbs-growing-guide]]
 - [[passionflower-growing-guide]]
 - [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
@@ -694,6 +711,7 @@
 - [[photoperiodism-plant-flowering]]
 - [[photoperiodism-plants]]
 - [[photoperiodism-plants-measure-night-length]]
+- [[phototropin-blue-light-receptor-plant-directional-sensing]]
 - [[phototropism-and-plant-light-responses]]
 - [[phototropism-darwin-plant-light-response]]
 - [[phototropism-darwin-plant-light-sensing]]
@@ -703,6 +721,7 @@
 - [[phytochrome-photoperiodism-plant-flowering]]
 - [[phytochrome-photoperiodism-plants]]
 - [[phytochrome-photoreceptor-plant-vision]]
+- [[phytochrome-plant-light-perception]]
 - [[phytochrome-plant-light-sensing]]
 - [[phytochrome-plant-photoreceptor]]
 - [[phytochrome-red-far-red-light-switch-plant-pigment]]
@@ -748,10 +767,10 @@
 - [[plant-memory-and-priming]]
 - [[plant-memory-and-spatial-awareness]]
 - [[plant-memory-environmental-learning]]
+- [[plant-memory-epigenetic-recall-mechanisms]]
 - [[plant-memory-what-a-plant-remembers]]
 - [[plant-mothers-spirits]]
 - [[plant-olfaction-and-chemical-communication]]
-- [[plant-olfaction-and-chemical-sensing]]
 - [[plant-olfaction-and-volatile-signaling]]
 - [[plant-olfaction-chemical-sensing]]
 - [[plant-olfaction-volatile-chemical-detection]]
@@ -770,6 +789,7 @@
 - [[plant-photoreceptors-and-mechanism-of-light-perception]]
 - [[plant-photoreceptors-light-perception]]
 - [[plant-photoreceptors-phytochromes-cryptochromes]]
+- [[plant-phototropism]]
 - [[plant-phototropism-and-photoperiodism]]
 - [[plant-phototropism-darwin-experiments]]
 - [[plant-propagation]]
@@ -873,6 +893,7 @@
 - [[seed-saving-principles-solomon]]
 - [[seed-saving-storage]]
 - [[seed-saving-techniques]]
+- [[seed-saving-variety-selection-solomon]]
 - [[seed-saving-vegetables]]
 - [[seed-sourcing-and-variety-selection]]
 - [[seed-starting-indoors]]
@@ -884,6 +905,7 @@
 - [[shamanism-plant-ecstasy]]
 - [[shock-method-fruit-tree]]
 - [[short-day-and-long-day-plant-classification]]
+- [[silicon-plant-nutrition-beneficial-element]]
 - [[silvopasture-systems]]
 - [[slugs-and-snails-organic-control]]
 - [[small-scale-grain-growing]]
@@ -906,6 +928,7 @@
 - [[solomon-fertigation-and-transplant-establishment]]
 - [[solomon-food-preservation-storage]]
 - [[solomon-fruit-vegetables-growing]]
+- [[solomon-garden-center-seedling-traps-transplant-buyer-awareness]]
 - [[solomon-garden-centers-seedling-traps]]
 - [[solomon-garden-hoe-and-cultivation-techniques]]
 - [[solomon-garden-planning-calorie-production]]
@@ -928,6 +951,7 @@
 - [[solomon-hard-times-gardening-philosophy-self-sufficiency]]
 - [[solomon-harvesting-techniques-and-timing]]
 - [[solomon-hill-planting-large-vegetables-spacing]]
+- [[solomon-hybrid-to-open-pollinated-variety-conversion-breeding]]
 - [[solomon-hybrid-vs-open-pollinated]]
 - [[solomon-insects-and-diseases-integrated-approach]]
 - [[solomon-insects-diseases-pest-management]]
@@ -978,6 +1002,7 @@
 - [[solomon-watering-and-dry-farming]]
 - [[solomon-watering-strategies-and-dry-farming-techniques]]
 - [[solomon-weed-management-without-chemicals]]
+- [[solomon-wheelbarrow-selection-garden-tool-care-maintenance]]
 - [[solomon-wide-spacing-versus-intensive-gardening-debate]]
 - [[solomon-winter-gardening-and-season-planning]]
 - [[sound-and-music-effects-on-plants]]
@@ -993,6 +1018,7 @@
 - [[strawberry-growing-guide]]
 - [[sub-irrigated-planter-sip-guide]]
 - [[succession-planting]]
+- [[succession-planting-winter]]
 - [[sulfur-plant-nutrition]]
 - [[supercropping]]
 - [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]
@@ -1062,6 +1088,7 @@
 
 - [[valerian-growing-guide]]
 - [[variety-trials-seed-company-quality-solomon]]
+- [[vegetable-crop-demand-classification-fertility-matching-solomon]]
 - [[vegetable-demand-classification]]
 - [[vegetable-garden-fertilization]]
 - [[vegetable-garden-guide]]
