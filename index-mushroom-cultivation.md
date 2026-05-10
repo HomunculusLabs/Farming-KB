@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1429 pages**
+**1451 pages**
 
 ## #
 
@@ -218,6 +218,7 @@
 - [[dual-chambered-terrarium-fungus-fruiting]]
 - [[dual-chambered-terrarium-mushroom-fruiting]]
 - [[duggar-mushroom-common-varieties]]
+- [[duggar-mushroom-culinary-preparation-and-cooking]]
 - [[duggar-mushroom-disease-and-contamination]]
 - [[duggar-mushroom-economics]]
 - [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
@@ -230,6 +231,7 @@
 - [[duggar-mushroom-spawn-preparation]]
 - [[duggar-mushroom-spawn-preparation-techniques]]
 - [[duggar-tissue-culture-pure-spawn-method]]
+- [[duggar-wild-mushroom-markets-and-seasonal-harvesting]]
 
 ## E
 
@@ -580,6 +582,10 @@
 - [[jar-preparation-and-sterilization]]
 - [[jar-shaking-colonization-acceleration-grain-spawn-grass-seed]]
 - [[jarrold-boil-a-bag-mushroom-cultivation-method]]
+- [[jarrold-filter-can-vermiculite-air-exchange-mushroom-cultivation]]
+- [[jarrold-fruiting-initiation-bag-opening-humidity-chamber]]
+- [[jarrold-straw-substrate-preparation-marmite-supplementation]]
+- [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]]
 - [[jesus-name-etymology-mushroom-theories]]
 - [[juncao-grass-substrate-technique]]
 - [[juncao-technology-mushroom-substrate]]
@@ -753,6 +759,7 @@
 - [[mushroom-bioremediation]]
 - [[mushroom-cancer-clinical-trials-overview]]
 - [[mushroom-casing-layers]]
+- [[mushroom-casing-layers-fruiting-initiation-stamets]]
 - [[mushroom-casing-moisture-management]]
 - [[mushroom-casing-preparation]]
 - [[mushroom-casing-scratching]]
@@ -771,6 +778,7 @@
 - [[mushroom-contamination-identification]]
 - [[mushroom-contamination-prevention]]
 - [[mushroom-contamination-vectors]]
+- [[mushroom-contamination-vectors-prevention-stamets]]
 - [[mushroom-cooking-catsup]]
 - [[mushroom-cooking-techniques]]
 - [[mushroom-crop-management-flush-harvesting]]
@@ -786,8 +794,11 @@
 - [[mushroom-cultivation-contamination-prevention]]
 - [[mushroom-cultivation-contamination-troubleshooting]]
 - [[mushroom-cultivation-disabilities-marketing-and-enterprise]]
+- [[mushroom-cultivation-disabilities-nine-week-training-program]]
 - [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]
 - [[mushroom-cultivation-disabilities-pasteurization-methods]]
+- [[mushroom-cultivation-disabilities-substrate-bag-production]]
+- [[mushroom-cultivation-disabilities-thai-processed-mushroom-products]]
 - [[mushroom-cultivation-disabilities-training-manual-overview]]
 - [[mushroom-cultivation-environmental-parameters]]
 - [[mushroom-cultivation-environments]]
@@ -809,6 +820,7 @@
 - [[mushroom-cultivation-photographic-guide]]
 - [[mushroom-cultivation-problems]]
 - [[mushroom-cultivation-sterile-technique]]
+- [[mushroom-cultivation-sterilization-pressure-cooker-inoculation-hygiene]]
 - [[mushroom-cultivation-troubleshooting]]
 - [[mushroom-cultivator-agar-media-formulas]]
 - [[mushroom-cultivator-bulk-substrate]]
@@ -1034,6 +1046,7 @@
 - [[oyster-growing-house-types]]
 - [[oyster-insect-pests]]
 - [[oyster-mushroom-bag-preparation-and-pasteurization]]
+- [[oyster-mushroom-bagging-methods-worldwide-comparison]]
 - [[oyster-mushroom-brown-blotch-disease]]
 - [[oyster-mushroom-by-products-permaculture]]
 - [[oyster-mushroom-clean-room-design]]
@@ -1044,9 +1057,11 @@
 - [[oyster-mushroom-fruiting-chamber-environment]]
 - [[oyster-mushroom-fruiting-conditions]]
 - [[oyster-mushroom-fruiting-environment]]
+- [[oyster-mushroom-grain-spawn-making-clean-bench-propagation]]
 - [[oyster-mushroom-growing-house-design-site-selection-tropical-climates]]
 - [[oyster-mushroom-growing-house-types]]
 - [[oyster-mushroom-harvesting-post-harvest]]
+- [[oyster-mushroom-heat-treatment-sterilization-pasteurization-worldwide]]
 - [[oyster-mushroom-marketing-economics]]
 - [[oyster-mushroom-non-sterilized-substrate-cultivation]]
 - [[oyster-mushroom-nutritional-composition]]
@@ -1054,12 +1069,14 @@
 - [[oyster-mushroom-pasteurized-straw-cultivation]]
 - [[oyster-mushroom-pinning-induction-fruiting-conditions]]
 - [[oyster-mushroom-pleurotus-ostreatus]]
+- [[oyster-mushroom-post-harvest-storage-canning-drying-pickling]]
 - [[oyster-mushroom-shelf-cultivation]]
 - [[oyster-mushroom-shelf-fermentation-substrate-preparation]]
 - [[oyster-mushroom-spawn-preparation]]
 - [[oyster-mushroom-spawn-production]]
 - [[oyster-mushroom-spawn-production-grain-sawdust]]
 - [[oyster-mushroom-spawn-types-and-quality-grain-sawdust-plug-liquid]]
+- [[oyster-mushroom-spawning-methods-worldwide-comparison]]
 - [[oyster-mushroom-species]]
 - [[oyster-mushroom-species-and-strain-selection]]
 - [[oyster-mushroom-species-comparison]]
@@ -1344,6 +1361,7 @@
 - [[shirota-forensic-standard-compounds-magic-mushroom-identification]]
 - [[shirota-japan-narcotics-control-law-magic-mushroom-regulation]]
 - [[shirota-japan-narcotics-regulation-magic-mushrooms-2002]]
+- [[short-needle-vs-long-needle-mushroom-inoculation-methods]]
 - [[shotgun-fruiting-chamber]]
 - [[shroom-cultural-history-mushroom-art-and-iconography]]
 - [[shroom-cultural-history-mushroom-in-ancient-civilizations]]
@@ -1380,6 +1398,7 @@
 - [[spent-mushroom-substrate-applications]]
 - [[stackable-plastic-bin-fruiting-chamber-design]]
 - [[stamets-african-psilocybin-mushroom-distribution]]
+- [[stamets-biological-efficiency-yield-metrics-mushroom-cultivation]]
 - [[stamets-contamination-sources-laboratory-hygiene]]
 - [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]
 - [[stamets-cultivator-humidity-management-fogging-systems]]
@@ -1408,9 +1427,11 @@
 - [[stamets-psylo-historical-perspective]]
 - [[stamets-reishi-ganoderma-lucidum-cultivation]]
 - [[stamets-shiitake-fruiting-management]]
+- [[stamets-spawn-types-and-viability-home-made-commercial]]
 - [[stamets-species-sequencing-recycling-substrates]]
 - [[stamets-species-sequencing-substrate-recycling-cascade-cultivation]]
 - [[stamets-substrate-supplementation-strategies-mushroom-cultivation]]
+- [[stamets-supplemented-sawdust-substrate-preparation]]
 - [[staycare-bjerkandera-and-pleurotus-in-pollutant-degradation]]
 - [[staycare-spent-mushroom-compost-bioremediation]]
 - [[steam-sterilization-techniques]]
@@ -1470,6 +1491,7 @@
 - [[trace-water-steam-sterilization]]
 - [[training-program-mushroom-cultivation]]
 - [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]
+- [[tropical-shiitake-cultivation-sawdust-substrate-low-cost]]
 - [[turkey-tail-mushroom-cancer-research]]
 
 ## V

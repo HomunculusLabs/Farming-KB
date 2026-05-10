@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**951 pages**
+**959 pages**
 
 ## A
 
@@ -186,6 +186,7 @@
 - [[holmgren-ecological-succession-and-pulsing]]
 - [[holmgren-ecological-succession-design]]
 - [[holmgren-economic-and-social-succession]]
+- [[holmgren-energy-descent-culture-scavenging-modernity-rubbish-tip]]
 - [[holmgren-energy-descent-permaculture-flower]]
 - [[holmgren-energy-descent-planning]]
 - [[holmgren-food-systems-and-local-self-reliance]]
@@ -200,11 +201,13 @@
 - [[holmgren-nuclear-and-fossil-fuel-techno-optimism]]
 - [[holmgren-observe-and-interact-detailed]]
 - [[holmgren-obtain-a-yield-detailed]]
+- [[holmgren-optimum-scale-speed-balance-industrial-post-industrial]]
 - [[holmgren-pattern-thinking-and-pattern-language]]
 - [[holmgren-permaculture-education-training-and-pdc]]
 - [[holmgren-permaculture-flower-conceptual-framework]]
 - [[holmgren-permaculture-front-end-design-vs-back-end-problem-solving]]
 - [[holmgren-permaculture-twelve-design-principles-framework]]
+- [[holmgren-principle-observe-interact-experiential-learning-postmodern]]
 - [[holmgren-produce-no-waste-waste-hierarchy-refuse-reduce-reuse-repair-recycle]]
 - [[holmgren-renewability-versus-durability-building]]
 - [[holmgren-site-design-as-cellular-design]]
@@ -214,6 +217,8 @@
 - [[holmgren-transport-speed-and-energy-descent]]
 - [[holmgren-trees-solar-power-plants-detailed]]
 - [[holmgren-vegetation-patterns-biomass-fertility]]
+- [[holmgren-voluntary-frugality-energy-descent-prosperous-road-down]]
+- [[holmgren-waste-hierarchy-container-reuse-industrial-recycling]]
 - [[holmgren-water-harvesting-storage-landscapes]]
 - [[holmgren-wholistic-design-thinking]]
 - [[holmgren-wild-foods-and-marginal-systems]]
@@ -803,6 +808,7 @@
 - [[permaculture-plant-selection-and-useful-species-categories]]
 - [[permaculture-plant-selection-guide]]
 - [[permaculture-plant-stacking-vertical-guilds]]
+- [[permaculture-plants-acacia-species-arid-reclamation]]
 - [[permaculture-plants-aquatic-and-wetland-species]]
 - [[permaculture-plants-aquatic-systems-water-plants]]
 - [[permaculture-plants-bamboo-varieties-uses]]
@@ -823,6 +829,8 @@
 - [[permaculture-plants-medicinal-herbs-healing]]
 - [[permaculture-plants-pioneer-nurse-trees]]
 - [[permaculture-plants-root-crops-and-tubers]]
+- [[permaculture-plants-tagasaste-comprehensive-profile]]
+- [[permaculture-plants-tree-lupin-nurse-crop-profile]]
 - [[permaculture-polyculture-fish-pond]]
 - [[permaculture-polycultures]]
 - [[permaculture-pond-and-water-garden]]
