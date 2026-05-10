@@ -1,5 +1,5 @@
 ---
-title: fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic Guide
+title: Animal Manure Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Animal manures are the very best sources of [[hamilton-composting-and-organic-matter-management]] for soil, improving condition and supplying nutrients. They can be used on any soil type. Some, like poultry manure, require care due to high nitrogen content. Commercial manure may be adulterated with hormones, herbicides, and pesticides, but stacking for at least a year significantly reduces contamination risk.
+Animal manures are the very best sources of organic matter for soil, improving condition and supplying nutrients. They can be used on any soil type. Some, like poultry manure, require care due to high nitrogen [[agaricus-phase-i-composting]] content. Commercial manure may be adulterated with hormones, herbicides, and pesticides, but stacking for at least a year significantly reduces contamination risk.
 
 ## General Guidelines
 
@@ -27,7 +27,7 @@ Animal manures are the very best sources of [[hamilton-composting-and-organic-ma
 
 - **Nitrogen:** 0.6% | **Phosphorus:** 0.2-0.3% | **Potassium:** 0.3-0.5% | **Trace elements:** Full range
 - **Coverage:** 20-30lb (9-15kg) per sq yard/meter
-- Store for 12 months before use. Very cheap and excellent as soil conditioner and nutrient source. Though lower in nutrient percentage than [[ingham-inorganic-fertilizers-soil-biology-damage]], the large volume applied makes mineral concentration less significant. Manure holds water and maintains high fertility levels.
+- Store for 12 months before use. Very cheap and excellent as soil conditioner and nutrient source. Though lower in nutrient percentage than inorganic fertilizers, the large volume applied makes mineral concentration less significant. Manure holds water and maintains high fertility levels.
 - Source from farmers who graze cattle outside — obtain after cows are turned out for summer.
 
 ### Horse Manure
@@ -64,28 +64,10 @@ Animal manures are the very best sources of [[hamilton-composting-and-organic-ma
 
 ## Chickens as Soil Improvers
 
-Half a dozen chickens in a portable house with movable wire-mesh run can be rotated through the [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]]. As crops finish, move hens onto the space — they devour green matter (recycling it as high-nitrogen fertilizer), peck out old seeds, and eat soil pests near the surface.
+Half a dozen chickens in a portable house with movable wire-mesh run can be rotated through the vegetable garden. As crops finish, move hens onto the space — they devour green matter (recycling it as high-nitrogen [[agaricus-phase-i-composting]] fertilizer), peck out old seeds, and eat soil pests near the surface.
 
 ## Related
 
 - [[homemade-liquid-fertilizer]] — making liquid manure from animal droppings
 - [[composting-materials-alternative]] — alternative sources for composting
 - [[soil-conditioners-guide]] — other soil conditioners beyond manure
-## Practical Considerations
-
-Successful implementation of Animal Manure Guide requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

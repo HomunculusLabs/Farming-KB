@@ -5,7 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Harborne, J.B. (1998). Phytochemical Methods: A Guide to Modern Techniques of Plant Analysis, 3rd ed. Springer."
-  - "Wink, M. (2010). Functions of Plant [[antifungal-secondary-metabolites-coprophilous-fungi]] and Their Exploitation in Biotechnology. Annual Plant Reviews Vol. 39."
+  - "Wink, M. (2010). Functions of Plant antifungal-secondary-metabolites-coprophilous-fungi and Their Exploitation in Biotechnology. Annual Plant Reviews Vol. 39."
   - "Crozier, A., Clifford, M.N., Ashihara, H. (2006). Plant Secondary Metabolites: Occurrence, Structure and Role in the Human Diet. Blackwell Publishing."
   - "Dixon, R.A. & Paiva, N.L. (1995). Stress-Induced Phenylpropanoid Metabolism. The Plant Cell, 7(7), 1085–1097."
   - "Ziegler, J. & Facchini, P.J. (2008). Alkaloid Biosynthesis: Metabolism and Transport. Annual Review of Plant Biology, 59, 735–769."

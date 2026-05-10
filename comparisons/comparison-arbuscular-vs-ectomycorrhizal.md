@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [mycology, soil-biology, fungal-ecology, plant-nutrition]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 # Arbuscular vs Ectomycorrhizal Fungi ## Overview Arbuscular mycorrhizal fungi (AMF) and [[mycelial-networks]] extending meters from root tips. Diversity spans Amanita,

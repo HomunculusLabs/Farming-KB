@@ -135,15 +135,8 @@ LSD is absorbed rapidly and reaches peak plasma concentrations within 1.5–3 ho
 **Physical:**
 - Pupil dilation (mydriasis)
 - Increased heart rate and blood pressure
-## See Also
 
+## See Also
 - [[microdosing-guide]]
-
-- [[ergot-fungus]] — Natural source of lysergic acid
-- serotonin 2a receptor — Primary pharmacological target
-- mku ltra — CIA mind control program
-- bicycle day — Annual celebration (April 19)
-
-## See Also
-
+- [[ergot-fungus]]
 - [[lsd-lysergic-acid-diethylamide-experience-guide]]

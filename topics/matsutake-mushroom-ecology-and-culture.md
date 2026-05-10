@@ -139,7 +139,6 @@ The Pacific Northwest of the United States and British Columbia, Canada, hosts t
 - **The Cascade Range** (Oregon and Washington): The eastern slopes of the Cascades, particularly in the Deschutes, Willamette, and Mt. Hood National Forests, produce commercially significant quantities.
 - **The Klamath-Siskiyou region** (southwestern Oregon and northern California): Known for large, aromatic specimens.
 - **The Rocky Mountains** (Montana, Idaho, Wyoming): Smaller but locally important harvests, particularly in areas with lodgepole and whitebark pine.
-- **British Columbia**: The interior plateau and coastal mountains of BC are important Canadian production areas.
 ## See Also
 
 - [[truffle-cultivation-and-ecology]] — Another prized ectomycorrhizal mushroom

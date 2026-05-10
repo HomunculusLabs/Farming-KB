@@ -108,6 +108,10 @@ Hepatoprotective effects have been documented in rodent models of carbon tetrach
 
 ## See Also
 
+- [[solanum-dulcamara]]
+
+- [[solanum-americanum]]
+
 - [[atropa-belladonna]]
 - [[datura-stramonium]]
 - [[hyoscyamus-niger]]

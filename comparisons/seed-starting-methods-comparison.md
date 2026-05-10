@@ -5,7 +5,6 @@ updated: 2026-04-13
 type: comparison
 tags: [seeds, gardening, comparison]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Seed Starting Methods Comparison

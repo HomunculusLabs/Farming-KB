@@ -69,7 +69,6 @@ activities.
 ## Taxonomy and Species Complex
 
 Ganoderma lucidum is the type species of the genus Ganoderma within the family
-Ganodermataceae and order Polyporales. However, what has traditionally been
 ## See Also
 
 - [[maitake-mushroom-cultivation-and-medicinal-properties]] for another major

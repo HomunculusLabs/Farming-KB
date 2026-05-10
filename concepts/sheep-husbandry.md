@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, homesteading, livestock, forage, byproducts, livestock-health]
-sources:
-  sources: []
+sources: []
 ---
 
 # Sheep Husbandry
@@ -50,12 +49,12 @@ require attentive predator protection and parasite management.
 Sheep are grazers (unlike goats, which are browsers) and thrive on quality
 pasture.
 
-- [[comparison-rotational-grazing-vs-continuous-grazing]] is essential — move sheep every 1-5 days depending on
+- Rotational grazing is essential — move sheep every 1-5 days depending on
   stocking density and season. See [[pasture-management]].
 - Ideal sward height: 3-6 inches. Graze down to 2-3 inches, then rotate.
-- Sheep do well on mixed grass-clover pastures. [[fukuoka-white-clover-cover-crop-system]] provides
-  [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and high protein.
-- Toxic plants: rhododendron, azalea, [[dynamic-accumulator-bracken-fern-potash]], hemlock. Less prone to
+- Sheep do well on mixed grass-clover pastures. White clover provides
+  nitrogen fixation and high protein.
+- Toxic plants: rhododendron, azalea, bracken fern, hemlock. Less prone to
   browse toxic plants than goats, but still at risk.
 - Stocking rate: 4-6 sheep per acre on good pasture with rotational grazing.
   Adjust for climate and soil quality.
@@ -96,7 +95,7 @@ Sheep are less prone to escape than goats but still need good fencing.
 
 ## Feeding
 
-- Good pasture is the primary feed source during the [[savory-growing-season-and-non-growing-season-management]].
+- Good pasture is the primary feed source during the growing season.
 - Supplement with hay in winter: 2-4% of body weight daily.
 - Feeder lambs on grain (corn, barley, oats) for faster finishing.
 - Ewes in late gestation and early lactation need higher energy and protein
@@ -145,6 +144,7 @@ Sheep are extremely vulnerable to predation. Protection is essential.
   (FECRT) to determine effective dewormers.
 
 ### Vaccinations
-## Related
+- CD&T (Clostridium perfringens C & D + tetanus) — core vaccine.
+- Ewes: booster 4-6 weeks pre-lambing to pass immunity to lambs via colostrum.
+- Lambs: first dose at 6-8 weeks, booster at 10-12 weeks.
 
-- [[sheep-health-and-production]]

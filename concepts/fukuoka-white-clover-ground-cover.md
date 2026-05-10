@@ -5,7 +5,7 @@ updated: 2026-04-16
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  sources: []
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 # Fukuoka's White Clover Ground Cover
 

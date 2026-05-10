@@ -104,7 +104,6 @@ limiting their use to research settings and specialized nurseries.
 suited to different application methods and scales of operation.
 
 Granular and powder formulations mix spores, hyphal fragments, and
-root segments containing vesicles with inert carrier materials such as
 ## See Also
 
 [[mycorrhizal-fungi]] | [[mycorrhizal-networks-and-the-wood-wide-web]]

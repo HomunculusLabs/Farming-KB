@@ -139,11 +139,8 @@ tissue boundary.
 ## Cultivation Relevance
 
 Cultivar-specificity of Cannabis endorhiza communities suggests
-## See Also
 
+## See Also
 - [[cannabis-rhizosphere-microbiome]]
 - [[soil-edaphic-factors-microbial-communities]]
-
-## See Also
-
 - [[proteobacteria-dominance-cannabis-endorhiza-community]]

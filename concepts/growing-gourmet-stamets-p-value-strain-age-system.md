@@ -95,7 +95,9 @@ Spawn in advanced states of senescence, although appearing healthy, grows slowly
 
 The P-value system works hand-in-hand with the strain evaluation using the 28 features described in Chapter 14.
 
-## Related Concepts
+## Related
+
+- [[stamets-p-value-strain-age-system]] Concepts
 
 - [[growing-gourmet-strain-senescence-degeneration|Strain Senescence and Degeneration]]
 - [[growing-gourmet-volunteer-primordia-agar-media|Volunteer Primordia on Agar Media]]

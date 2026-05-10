@@ -11,9 +11,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán, G. & Pollock, S.H. (1978). "Notes on the genus Psilocybe: section Stropharia." Mycotaxon 7(1): 161-170.
-  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
+  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Guzmán, G. (2005). "The genus Psilocybe: a systematic revision." Folia Cryptogamica Estonica 38: 19-38.
-  - Allen, J.W. & Merlin, M.D. (1992). "The [[grass-seed-cultivation-of-psilocybe-mushrooms]] cubensis in defined medium." Journal of Ethnopharmacology 35(3): 225-228.
+  - Allen, J.W. & Merlin, M.D. (1992). "The grass-seed-cultivation-of-psilocybe-mushrooms cubensis in defined medium." Journal of Ethnopharmacology 35(3): 225-228.
 created: 2026-05-07
 ---
 

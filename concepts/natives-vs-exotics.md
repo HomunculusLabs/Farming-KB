@@ -96,10 +96,13 @@ that can enhance both the effectiveness and efficiency of implementation.
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single [[dom|dom]]ain.
+perspectives and solutions that may not emerge within any single [[dom]] ain.
 
 For continued learning, recommended resources include current research
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.

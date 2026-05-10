@@ -125,12 +125,7 @@ type: comparison
 In a permaculture or food forest design, sea buckthorn and aronia are highly complementary. Sea buckthorn provides nitrogen fixation, wind protection, and vitamin C/omega oil production on the sun-exposed edge. Aronia fills the partial-shade understory positions with minimal care and exceptional antioxidant density. Together, they provide two of the most nutritionally powerful berries available, with overlapping but non-competing harvest windows (aronia August–September, sea buckthorn September–October).
 
 ## See Also
-
-- [[comparison-elderberry-vs-echinacea]] — another medicinal berry comparison
-- gaias-garden-hedgerows-and-windbreaks — [[fukuoka-textdoc-shelterbelt-design-environmental-tree-planting]]
-
-## See Also
-
+- [[comparison-elderberry-vs-echinacea]]
 - [[comparison-aronia-vs-goji-vs-sea-buckthorn]]
 - [[food-forest-design]]
 - [[comparison-serviceberry-vs-elderberry-vs-aronia]]

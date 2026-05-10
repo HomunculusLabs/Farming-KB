@@ -9,17 +9,17 @@ sources: []
 
 # Pollinator Gardening
 
-Pollinators are essential for the reproduction of over 80% of flowering plants and approximately one-third of human food crops. Creating habitat for pollinators supports both wild ecosystems and agricultural productivity. A pollinator garden provides food (nectar and pollen), nesting sites, and shelter for bees, butterflies, hummingbirds, moths, flies, and beetles.
+Pollinators are essential for the reproduction of over 80% of flowering plants and approximately one-third of human food crops. Creating habitat for pollinators supports both wild ecosystems and agricultural productivity. A pollinator garden provides food (nectar and pollen), nesting sites, and shelter for bees, butterflies, hummingbirds, moths, flies, and beetles. (see [[bird-habitat-creation]]).
 
 ## Native Bee Species
 
-[[psilocybin-north-america-pacific-northwest]] has over 4,000 native bee species. Unlike the European honeybee (Apis mellifera), most [[query-how-to-attract-native-bees-and-beneficial-insects]] are solitary and do not live in colonies. Key groups include:
+North America has over 4,000 native bee species. Unlike the European honeybee (Apis mellifera), most native bees are solitary and do not live in colonies. Key groups include:
 
 ### Bumblebees (Bombus spp.)
-Large, fuzzy bees that can buzz-pollinate (vibrate flowers to release pollen), making them essential for tomatoes, peppers, and eggplants. They live in small underground colonies of 50-500 individuals. Queens overwinter in [[dighton-fungal-decomposition-leaf-litter-dynamics]] or soil and emerge in [[coleman-overwintered-onions-and-early-spring-crops]].
+Large, fuzzy bees that can buzz-pollinate (vibrate flowers to release pollen), making them essential for tomatoes, peppers, and eggplants. They live in small underground colonies of 50-500 individuals. Queens overwinter in leaf litter or soil and emerge in early spring. (see [[wildlife-habitat-creation]]).
 
 ### Mason Bees (Osmia spp.)
-Solitary bees that nest in hollow stems and pre-existing cavities. Orchard mason bees (Osmia lignaria) are superb early-season pollinators for [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. They are active in cool weather when honeybees are not yet flying. They seal nest cells with mud.
+Solitary bees that nest in hollow stems and pre-existing cavities. Orchard mason bees (Osmia lignaria) are superb early-season pollinators for fruit trees. They are active in cool weather when honeybees are not yet flying. They seal nest cells with mud.
 
 ### Leafcutter Bees (Megachile spp.)
 Solitary bees that cut neat circles from leaves to line their nests. Excellent pollinators of alfalfa, legumes, and many wildflowers. Active from mid-summer through fall.
@@ -80,7 +80,7 @@ Also provide:
 - Leave some bare, undisturbed soil patches for ground-nesting species
 - Provide bee blocks or bundles of hollow stems (bamboo, elderberry, sumac) for cavity nesters
 - Drill holes (3/8 inch or less) in untreated wood blocks for mason bees
-- Maintain [[fungal-dead-wood-diversity]] and standing dead stems (not a fire hazard if managed)
+- Maintain dead wood and standing dead stems (not a fire hazard if managed)
 - Avoid disturbing nest sites during active season (March-October)
 
 ### For Butterflies
@@ -139,8 +139,6 @@ A successful pollinator garden provides continuous blooms from early spring thro
 - Use organic practices only -- pesticides are the primary threat to pollinators
 
 ## See Also
-
-- [[buddleja-davidii]]
 
 - [[integrated-pest-management]] -- managing pests while protecting pollinators
 - [[plant-disease-identification]] -- keeping pollinator plants healthy

@@ -60,7 +60,7 @@ information-saturated environment.
 
 McKenna suggested that if extraterrestrial or transhuman intelligence wished to
 communicate, it would not necessarily use radio waves. He proposed that
-tryptamine hallucinogens — particularly [[dmt-dimethyltryptamine|DMT]] and
+tryptamine hallucinogens — particularly [[dmt-nn-dimethyltryptamine|DMT]] and
 [[psilocybin-and-tryptamine-hallucinogens|psilocybin]] — might function as
 biological transceivers, allowing direct confrontation with what he
 experienced as an alien intelligence operating through the visual cortex and

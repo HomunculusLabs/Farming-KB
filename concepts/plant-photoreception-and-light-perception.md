@@ -122,6 +122,8 @@ members with distinct but overlapping functions.
 
 ## See Also
 
+- [[chamovitz-ultraviolet-and-infrared-plant-light-perception]]
+
 - [[phototropism-and-plant-light-responses]]
 - [[phytochromes-and-plant-light-sensing]]
 - electromagnetic spectrum in biology

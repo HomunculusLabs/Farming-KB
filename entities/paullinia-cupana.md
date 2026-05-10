@@ -98,4 +98,4 @@ that of coffee beans, making it the most potent natural caffeine source.
 See also: [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
 
 ## See Also
-- [[caffeine-plants-and-stimulant-herb-cultivation]]
+- [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]

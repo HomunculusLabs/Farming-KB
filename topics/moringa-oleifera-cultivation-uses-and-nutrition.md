@@ -135,7 +135,6 @@ Moringa thrives in tropical and subtropical climates with the following characte
 | Light | Full sun | Partial shade tolerated |
 
 Moringa is remarkably drought-tolerant due to its deep taproot system, which can extend 2–3 meters below ground. However, young trees require regular watering during the first 2–3 months. The tree is sensitive to frost — temperatures below 2°C cause leaf drop, and prolonged freezing kills the above-ground growth, though the root system can resprout.
-
 ## See Also
 
 - Moringa oleifera vs [[moringa-stenopetala]] (comparison)

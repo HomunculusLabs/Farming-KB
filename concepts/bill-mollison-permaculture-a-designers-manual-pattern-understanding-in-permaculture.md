@@ -56,6 +56,42 @@ strategy. This principle allows permaculture designers to work at any scale
 from a balcony garden to a bioregional plan using the same fundamental pattern
 understanding.
 
+## Edge Effects and Boundary Patterns
+
+The edge effect is one of the most productive pattern applications in permaculture
+design. Where two ecosystems meet, the transition zone between them is typically
+more diverse and productive than either ecosystem alone. Forest edges, shoreline
+transitions, and grassland-woodland boundaries all demonstrate this principle.
+
+Mollison emphasized designing with lobate and crenulated boundaries to maximize
+edge length and ecological niches. A pond with an irregular shoreline supports
+far more species than a round pond of equal surface area, making edge design
+critical for maximizing biodiversity within limited space and resources.
+
+## Flow Patterns and Energy Distribution
+
+Natural systems distribute energy, water, and nutrients through predictable flow
+patterns. Mollison identified braided flows in river systems, meandering flows
+that slow velocity and increase infiltration, and vortex flows that concentrate
+energy at specific points within a landscape or water body.
+
+Understanding how water moves across a landscape allows designers to place
+swales, ponds, and diversion drains to capture, slow, and spread water evenly.
+Pattern-aware design mimics a healthy forest canopy, distributing rainfall
+across the landscape rather than allowing destructive concentration and erosion.
+
+## Time-Based Patterns and Seasonal Cycles
+
+Patterns operate in time as well as space. Seasonal cycles, successional
+sequences, and daily rhythms follow predictable patterns that designers can
+work with rather than against. Mollison considered understanding biological
+timing as important as understanding spatial pattern in design.
+
+Phenological patterns like flowering sequences and decomposition rates provide
+a temporal framework for design decisions. Planting schedules aligned with
+natural rhythms reduce maintenance and increase yields by working within the
+ecosystem's own cycles of growth, reproduction, and seasonal dormancy.
+
 ## Applying Patterns in Design
 
 Mollison recommended a systematic approach to pattern application. First,

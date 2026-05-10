@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - USDA NRCS (2024). Plant Profile: Ilex vomitoria. plants.usda.gov.
   - Edwards, A.L. & Bennett, B.C. (2005). "Diversity of use of Ilex vomitoria (Yaupon) by Native Americans." Economic Botany 59(3): 263–274.
-  - Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. CRC Press.
+  - Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. CRC Press.
   - Taylor, L. (2005). The Healing Power of Rainforest Herbs. Square One Publishers.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
 ---

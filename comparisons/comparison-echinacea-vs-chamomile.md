@@ -144,7 +144,6 @@ of growth. However, once established, echinacea is a durable, drought-
 tolerant perennial that attracts pollinators and requires little
 maintenance. Both herbs prefer full sun and well-drained soil, making them
 compatible companions in [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] garden.
-
 ## See Also
 
 - [[comparison-echinacea-vs-tulsi]]

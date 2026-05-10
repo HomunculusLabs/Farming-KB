@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Nerium oleander** (oleander) is an evergreen shrub in the family **Apocynaceae**, renowned for its showy, fragrant flowers and extreme toxicity. It is one of the most poisonous commonly cultivated garden plants, with all parts containing potent **cardiac glycosides**.
+**nerium oleander er]] er]] er]] er]]** (oleander) is an evergreen shrub in the family **Apocynaceae**, renowned for its showy, fragrant flowers and extreme toxicity. It is one of the most poisonous commonly cultivated garden plants, with all parts containing potent **cardiac glycosides**.
 
 Despite its toxicity, oleander has a long history of use in **traditional medicine** across the Middle East, Asia, and the Mediterranean. Extracts have been investigated for anticancer, cardiotonic, and antimicrobial properties.
 
@@ -30,7 +30,7 @@ The plant is among the most widely planted ornamental shrubs in warm climates wo
 
 **Nerium oleander** L. is the sole species in the genus *Nerium*. Classification:
 
-- **King[[dom|dom]]:** Plantae
+- **King [[dom]]:** Plantae
 - **Order:** Gentianales
 - **Family:** Apocynaceae
 - **Genus:** *Nerium* L.
@@ -81,3 +81,6 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.

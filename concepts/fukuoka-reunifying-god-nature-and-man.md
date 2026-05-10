@@ -5,7 +5,6 @@ tags: [philosophy, natural-farming, spirituality, fukuoka]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---

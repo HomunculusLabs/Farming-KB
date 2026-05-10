@@ -104,6 +104,8 @@ Yields vary significantly with tree age and management. Mature trees (10+ years)
 
 ## See Also
 
+- [[illicium-anisatum]]
+
 - [[zingiber-officinale]]
 - [[cinnamomum-cassia]]
 - [[pimpinella-anisum]]

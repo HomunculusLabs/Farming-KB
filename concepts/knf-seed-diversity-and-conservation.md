@@ -117,12 +117,8 @@ farming practice.
 
 - Native seed varieties have superior adaptability, pest resistance,
   and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] compared to commercial seeds.
-## See Also
 
+## See Also
 - [[knf-imo-diversity-and-best-practices]]
-
 - [[seed-saving-techniques]]
-
-## See Also
-
 - [[gadd-fungal-biodiversity-conservation]]

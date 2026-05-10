@@ -13,7 +13,7 @@ principle of orbital symmetry conservation.
 
 Pericyclic reactions fall into four main categories based on the topology of bond reorganization:
 
-**Electrocyclic reactions** are intramolecular processes where a sigma bond forms or cleaves at
+**Electrocyclic reactions** are [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis|intramolecular]] processes where a sigma bond forms or cleaves at
 the termini of a conjugated pi system, changing ring size by one. The number of pi electrons
 (4n or 4n+2) determines whether ring closure proceeds via conrotatory or disrotatory motion.
 
@@ -77,7 +77,7 @@ These reactions are completely stereospecific.
 
 The Diels-Alder reaction, discovered by Diels and Alder (Nobel Prize 1950), combines a conjugated
 diene (4 pi electrons) with a dienophile (2 pi electrons) to form a six-membered ring in a
-concerted suprafacial-suprafacial [4+2] cycloaddition. Stereospecificity is complete: cis-
+concerted suprafacial-suprafacial [4+2] cycloaddition. Stereospecificity is [[complete-organic-fertilizer-formulation|complete]]: cis-
 dienophiles yield cis-substituted cyclohexenes, and trans-dienophiles yield trans-substituted
 products. Endo selectivity arises from secondary orbital interactions between dienophile
 substituent pi orbitals and the diene pi system, making the endo transition state kinetically

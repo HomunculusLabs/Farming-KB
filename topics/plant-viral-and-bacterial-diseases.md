@@ -4,8 +4,7 @@ subtitle: "Pathogens, symptoms, transmission, and management of viral and bacter
 tags: [plant-disease, virology, bacteriology, plant-pathology, crop-protection]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 related_concepts:
   - viral-plant-diseases
   - bacterial-plant-diseases
@@ -128,7 +127,6 @@ plants through natural openings (stomata, hydathodes, lenticels) and
 through wounds caused by wind, hail, insects, [[gottlieb-psilocybin-cultivation-equipment-and-facilities]], or
 harvesting operations. Water splash from rain or irrigation is a primary
 mechanism for dispersing bacteria from infected to healthy plants within
-a field. Overhead irrigation can dramatically increase bacterial disease
 ## See Also
 
 - [[viral-plant-diseases]]

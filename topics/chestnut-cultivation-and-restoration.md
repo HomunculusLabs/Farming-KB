@@ -140,7 +140,6 @@ Returning chestnuts to forest ecosystems requires appropriate site selection and
 
 - **Site requirements**: Well-drained acidic soils (pH 4.5–6.5), full sun to partial shade, minimum 750 mm annual precipitation, ridge-top or upper-slope positions (avoid frost pockets)
 - **Planting density**: Initial spacing of 3–5 m for nut production orchards; 2–3 m for timber-type plantings; wider spacing (5–8 m) for forest restoration interplanting
-- **Companion species**: Compatible with oak-hickory forest types; can be interplanted with white oak, red oak, hickory, tulip poplar, and black locust
 ## See Also
 
 - [[nut-tree-cultivation-for-permaculture-food-forests]]

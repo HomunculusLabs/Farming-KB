@@ -4,8 +4,7 @@ title: "fruit-tree-pruning"
 tags: [comparison, fruit, orcharding, pruning, perennial]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 ---
 
 # Berry Growing vs Fruit Tree Pruning

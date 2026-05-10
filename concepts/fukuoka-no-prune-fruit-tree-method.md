@@ -18,8 +18,7 @@ tags:
 - plant-systems
 
 sources:
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+- raw/papers/one-straw-revolution-masanobu-fukuoka.md
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
@@ -58,7 +57,7 @@ People observe this and conclude "pruning is essential" — but they are observi
 
 ### Single Central Trunk Pattern
 
-Fukuoka observed that all [[query-best-citrus-varieties-for-different-climates]] share a fundamental growth pattern: **a single central trunk growing straight, with branches spreading out alternately** — same as cedar or pine.
+Fukuoka observed that all citrus varieties share a fundamental growth pattern: **a single central trunk growing straight, with branches spreading out alternately** — same as cedar or pine.
 
 Variation by type:
 - **Hassaku and Shaddock**: Grow very tall
@@ -71,7 +70,7 @@ Variation by type:
 The tree must be:
 1. **Started from seed or unpruned nursery stock** — most nursery trees are already pruned or root-damaged, which makes pruning necessary from the start
 2. **Grown with no-till, no-fertilizer, no-spray methods** — these methods create the conditions where natural form can express itself
-3. **Supported by biodiversity** — ground cover, [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat, windbreaks
+3. **Supported by biodiversity** — ground cover, beneficial insect habitat, windbreaks
 4. **Given proper spacing** — no competition from neighboring trees
 
 ### Correcting Previously Pruned Trees
@@ -86,7 +85,7 @@ For trees already shaped by pruning, Fukuoka recommends gradual correction:
 Fukuoka acknowledges that pruning developed for legitimate reasons — but only *within a system of cultivation that includes tilling, weeding, fertilizing, and spraying*:
 
 - Lower branches are removed for **tillage and weeding access** — unnecessary with no-till
-- Trees are shaped for **[[jadam-pesticide-spray-timing-and-technique]] penetration** — unnecessary without pesticides
+- Trees are shaped for **pesticide spray penetration** — unnecessary without pesticides
 - Branches are thinned for **harvesting convenience** — a valid concern, but natural trees maintain open form anyway
 - Growth is balanced with fruit set to **prevent alternate bearing** — unnecessary in naturally-formed trees
 
@@ -99,7 +98,7 @@ Fukuoka acknowledges that pruning developed for legitimate reasons — but only 
 Fukuoka's key companion tree, planted 5-6 per quarter-acre:
 
 **Benefits**:
-- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] via rhizobium bacteria (deep soil strata)
+- Nitrogen fixation via rhizobium bacteria (deep soil strata)
 - Windbreak and shade
 - Flowers attract bees
 - Leaves provide fodder
@@ -114,7 +113,7 @@ Fukuoka's key companion tree, planted 5-6 per quarter-acre:
 
 Effective against mites and scales by:
 - Modifying microclimate (sunlight, breeze, humidity)
-- Providing year-round [[query-how-do-i-design-habitat-for-beneficial-insects]] insects
+- Providing year-round habitat for beneficial insects
 - Preventing the pest population explosions triggered by uniform monoculture
 
 ## Disease and Insect Control Without Chemicals
@@ -131,7 +130,7 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 
 ### Specific Pest Management
 
-**[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]]**:
+**Arrowhead Scale**:
 - Natural predators: parasitic wasps, 4-5 types of ladybugs
 - Worst damage in congested, unventilated branches
 - If unconcerned about appearance: no spraying needed at all
@@ -140,11 +139,12 @@ Fukuoka provides a resistance guide (from Natural Way of Farming):
 **Mites**:
 - Pre-WWII: not a major problem (controlled by lime-sulfur, which also preserved predators)
 - Post-WWII: organophosphate pesticides destroyed predators, creating uncontrollable outbreaks
-## See Also
+- "If man had left the mite alone, it would never have become a major pest"
+- Solution: restore biodiversity; mites are "even more sensitive to microclimatic changes in the tree than are scales"
 
-- [[fukuoka-soil-building-method]] — Soil restoration for orchards
-- [[natural-farming-fukuoka]] — Full method overview
-- [[natural-farming-vs-organic-vs-conventional]] — Comparison with other approaches
-- [[one-straw-revolution-guide]] — Book context
-- [[natural-way-of-farming-guide]] — Detailed technical reference
-- [[masanobu-fukuoka]] — Biographical entity page
+**Cottony-Cushion Scale**:
+- Was one of three major citrus pests before vedalia ladybug release (~40 years prior)
+- Disappeared naturally with biological control
+- Post-WWII: organophosphate spraying killed vedalia ladybugs → severe outbreaks
+- In Fukuoka's unsprayed orchard: "almost no damage"
+

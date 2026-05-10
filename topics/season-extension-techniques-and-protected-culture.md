@@ -8,7 +8,7 @@ sources:
   - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=299
   - https://www.sare.org/publications/season-extension-techniques-for-market-gardeners/
   - https://www.nrcs.usda.gov/wps/portal/nrcs/detailfull/national/technical/atlas/?cid=nrcseprd1338614
-  - Coleman, Eliot. The [[coleman-claytonia-winter-harvest-cultivation]] Handbook. Chelsea Green, 2009.
+  - Coleman, Eliot. The coleman-claytonia-winter-harvest-cultivation Handbook. Chelsea Green, 2009.
   - Nearing, Helen and Scott. The Good Life. Schocken Books, 1970.
 ---
 
@@ -144,7 +144,6 @@ A hotbed is a cold frame with a heat source beneath the growing bed. The traditi
 | March | Sow carrots, beets, chard, peas, Asian greens |
 | April | Harden off transplants; sow warm-season seeds by month's end |
 | May | Remove lid during warm days; transition crops to open garden |
-| September | Sow spinach, lettuce, mache, radishes, cilantro for winter |
 ## Related
 - [[deep-water-culture]]
 - [[cotter-agar-tissue-culture-techniques]]

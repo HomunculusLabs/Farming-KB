@@ -1,6 +1,6 @@
 ---
 
-title: cho-fermented-mixed-compost-methods Compost (FMC) — IMO-Enriched Compost
+title: Fermented Mixed Compost (FMC) — IMO-Enriched Compost
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # Fermented Mixed Compost (FMC)
 
-Fermented Mixed Compost is KNF's signature composting method. It combines IMO-4 (cultivated [[beneficial-indigenous-microorganisms-bim]]) with organic matter and select KNF inputs to create a microbially-rich, nutrient-balanced compost. Unlike traditional composting which relies on ambient microbes, FMC actively inoculates the compost with targeted beneficial microorganisms from your local environment.
+Fermented Mixed Compost is KNF's signature composting method. It combines IMO-4 (cultivated indigenous microorganisms) with organic matter and select KNF inputs to create a microbially-rich, nutrient-balanced compost. Unlike traditional composting which relies on ambient microbes, FMC actively inoculates the compost with targeted beneficial microorganisms from your local environment.
 
 FMC is the bridge between KNF liquid inputs and long-term soil building. While KNF sprays provide immediate nutrition, FMC builds the soil food web infrastructure that sustains plant health between applications.
 
@@ -37,7 +37,7 @@ A straightforward approach for on-farm compost production.
 
 **Materials (per 1000 kg organic matter)**:
 - Organic matter (crop residue, animal manure, leaf mold): 1000 kg
--  IMO-4: 200-300 kg
+- [[indigenous-microorganisms-imo]] IMO-4: 200-300 kg
 - Water: 200-300 Liters (adjust for moisture)
 - Optional: FPJ, FAA, OHN, LAB diluted 1:1000 as moisture source
 
@@ -72,7 +72,7 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 | Red clay/loess | 50-100 kg | Minerals, microbial habitat |
 | FPJ diluted 1:1000 | 20-30 L | Microbial energy |
 | FAA diluted 1:1000 | 10-20 L | Nitrogen boost |
-| OHN diluted 1:1000 | 10-20 L | [[cervantes-pest-disease-prevention-overview]] |
+| OHN diluted 1:1000 | 10-20 L | Disease prevention |
 | LAB diluted 1:1000 | 10-20 L | Lactic acid bacteria boost |
 | Seawater | 3-5 L | Full-spectrum minerals |
 | Water (non-chlorinated) | As needed | Moisture adjustment |
@@ -137,13 +137,14 @@ Cho's comprehensive method with precise layering and nutrient input scheduling.
 - Keep covered with breathable material (jute, straw, not plastic)
 
 ## Seasonal Timing
-## See Also
 
-- [[knf-leaf-mold-humus]]
+Make FMC between November and March for best results. Cool, dry weather favors fermenting microbes (Aspergillus oryzae, Absida, Mucor, Rhizopus) over bacteria. In summer's heat and humidity, bacteria multiply too fast and outcompete fermenters, causing decay. The first stage of FMC is saccharification — fermenting microbes make sugars unimpeded by bacteria in late fall/winter conditions.
 
-- [[fmc-application-and-troubleshooting]] — [[ingham-compost-tea-application-rates-and-timing]], SOS, troubleshooting
-- [[indigenous-microorganisms-imo]] — IMO collection and cultivation (source of IMO-4)
-- [[knf-preparations]] — KNF liquid inputs (FPJ, FAA, OHN, LAB)
-- [[composting-systems]] — Other [[natural-farming-guide-composting-methods-and-techniques]]
-- [[bokashi]] — EM-based [[jadam-anaerobic-fermentation-principles]]
-- [[soil-food-web-nutrient-cycling]] — How FMC feeds the soil food web
+## Material Selection Philosophy
+
+From Cho's recipe book — four principles for choosing FMC ingredients:
+
+1. **Include all four realms**: mountain (fallen leaf or fruit), paddy (rice bran or straw), field (oil dreg, bean dreg, bush clover), and sea (fish waste or seaweed)
+2. **Protein-rich animal materials**: bone meal, fish meal as major ingredients alongside plant materials
+3. **Avoid agricultural by-products** (chemically treated residues)
+4. **Microbe food = human food = plant food**: choose high-quality diverse materials

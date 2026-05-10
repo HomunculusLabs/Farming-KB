@@ -109,6 +109,8 @@ Timber harvesting of live oak declined sharply after the transition from wooden 
 
 ## See Also
 
+- [[ostrya-virginiana]]
+
 - [[quercus-robur]]
 - [[quercus-alba]]
 - [[quercus-rubra]]

@@ -5,7 +5,6 @@ tags: [query, cannabis, curing, post-harvest]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---

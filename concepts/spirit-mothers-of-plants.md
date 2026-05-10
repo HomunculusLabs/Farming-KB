@@ -58,15 +58,12 @@ tell mysterious tales and represent the five fingers of the right
 hand, while the tataicunas represent the five fingers of the left
 hand. They carry out mysterious functions in the cosmology of plant
 spirits, connected to the fundamental elements of the earth.
-## See Also
-
-- [[ayahuasca-preparation]] -- Spiritual requirements for engaging
-  plant spirits
-- [[icaros-power-songs]] -- Songs taught by the spirit mothers
 
 ## See Also
-
+- [[ayahuasca-preparation]]
+- [[icaros-power-songs]]
 - [[plant-mothers-spirits]]
+
 ## Practical Considerations
 
 Successful implementation of Spirit Mothers of Plants requires attention to

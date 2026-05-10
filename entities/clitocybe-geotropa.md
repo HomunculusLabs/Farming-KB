@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - Bon, M. (1990). "The Mushrooms and Toadstools of Britain and North-western Europe." Hodder & Stoughton.
   - Breitenbach, J. & Kränzlin, F. (1991). "Fungi of Switzerland, Vol. 3." Verlag Mykologia, Lucerne.
-  - Phillips, R. (2006). "Mushrooms: A Comprehensive Guide to [[psilocybin-mushroom-identification-guide]]." Pan Macmillan.
+  - Phillips, R. (2006). "Mushrooms: A Comprehensive Guide to psilocybin-mushroom-identification-guide." Pan Macmillan.
   - Consiglio, G. et al. (2004). "Clitocybe geotropa and allies: a morphological and molecular study." Mycological Research 108(9): 1012-1020.
-  - Kalac, P. (2009). "Chemical composition and nutritional value of European species of wild [[falconer-growing-mushrooms-in-sheds]]." Nutrition Reviews 67(12): 694-705.
+  - Kalac, P. (2009). "Chemical composition and nutritional value of European species of wild falconer-growing-mushrooms-in-sheds." Nutrition Reviews 67(12): 694-705.
 created: 2026-04-28
 ---
 

@@ -133,7 +133,7 @@ problem-solving in the field.
 
 ## See Also
 
-- [[korean-natural-farming-and-jadam]] the one-straw revolution
+- [[query-jadam-vs-korean-natural-farming]] the one-straw revolution
 - Clover and Chinese milk vetch as living mulch
 - No-tillage rice/barley [[no-tillage-rice-barley-succession-cropping]]
 - Weed ecology in natural farming systems

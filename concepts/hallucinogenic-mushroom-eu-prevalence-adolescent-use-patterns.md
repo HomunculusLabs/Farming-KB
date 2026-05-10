@@ -131,7 +131,6 @@ The EMCDDA analysis highlighted several implications for drug policy and prevent
 
 1. **Lifestyle context:** Mushroom use is embedded in broader lifestyle trends (return to nature, interest in natural psychoactives)
 2. **Economic drivers:** Commercial interests (smartshops, internet retailers) play a major role in promoting and distributing mushrooms
-3. **Legal substitution:** Prohibition of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] may drive users toward Amanita muscaria, which carries different and potentially greater health risks
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-school-surveys-adolescent-use|EMCDDA School Surveys]]

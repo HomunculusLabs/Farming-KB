@@ -104,6 +104,8 @@ The species has not been domesticated for fruiting-body production, and its toug
 
 ## See Also
 
+- [[robinia-hispida]]
+
 - [[trametes-hirsuta]]
 - [[coriolopsis-gallica]]
 - [[bjerkandera-adusta]]

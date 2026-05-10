@@ -4,8 +4,7 @@ created: 2026-04-17
 updated: 2026-04-18
 type: entity
 tags: [psychedelics]
-sources:
-  sources: []
+sources: []
 ---
 
 # MDAI — 5,6-Methylenedioxy-2-aminoindane

@@ -1,150 +1,109 @@
 ---
-title: Complete Organic Fertilizer (COF) Recipe and Soil [[allegro-fertility-philosophy-of-the-ancient-near-east]]
+title: Solomon's [[complete-organic-fertilizer-cof]] Fertilizer (COF) Recipe
 source: gardening-when-it-counts-steve-solomon.md
-author: Steve Solomon
-topics:
-  - organic-fertilizer
-  - soil-fertility
-  - vegetable-gardening
-  - nutrient-management
-  - seedmeal
+source_author: Steve Solomon
+tags: [fertilizer, organic, COF, complete-fertilizer, soil-fertility, steve-solomon, gardening]
 ---
 
-# Complete Organic Fertilizer (COF): Recipe and Philosophy
+# Solomon's Complete Organic Fertilizer (COF) Recipe
 
 ## Overview
 
-Steve Solomon's Complete Organic Fertilizer (COF) is a homemade organic fertilizer blend designed to provide balanced nutrition for [[maintaining-organic-matter-in-vegetable-gardens]]. Unlike commercial [[cannabis-organic-fertilizers]] sold at high prices in small boxes, COF uses bulk agricultural ingredients that can be sourced from feed and grain dealers at a fraction of the cost. Solomon emphasizes that COF is "concocted by the gardener" and should be measured by volume, not weight.
+Steve Solomon's Complete Organic Fertilizer (COF) is a custom organic fertilizer blend
+designed to provide balanced plant nutrition for [[maintaining-organic-matter-in-vegetable-gardens]]. Developed through
+decades of gardening experience and seed company [[coleman-seed-selection-and-variety-trials]], COF addresses the
+nutritional gaps left by manure and compost alone. Solomon considers COF far superior to
+relying solely on organic matter for crop nutrition.
 
-## The COF Recipe
+## The Problem with Manure and Compost Alone
 
-### Base Formula
+Many organic gardeners rely primarily on manure and compost for soil fertility. While
+these materials [[query-how-do-fungi-improve-soil-structure]] and feed soil microbes, they often fail to provide
+adequate mineral nutrition for demanding vegetable crops. Manure, particularly the sacked
+steer manure commonly sold at supermarkets, may contain semi-decomposed sawdust and usually
+has little fertilizing value. Chicken manure is far better but can be overused. Compost,
+while valuable, varies enormously in nutritional content depending on its ingredients.
 
-Mix the following by **volume** (scoop, bucketful, jar full):
+## COF Design Philosophy
 
-**Option A (standard):**
-- 4 parts any kind of seedmeal
-- ½ part ordinary agricultural lime (finely ground)
-- ½ part dolomite lime
-- ½ part gypsum (if you don't use gypsum, double the quantity of agricultural lime)
-- 1 part phosphorus source: finely ground rock phosphate ("hard" or "soft"), bonemeal, or high-phosphate guano
-- ½ part kelpmeal (or ½ part basalt dust)
+COF is described by Solomon as "potent" and is intended to supplement modest amounts of
+manure and/or compost. It is designed to be used in combination with organic matter, not
+as a replacement for it. The combination of COF with manure or compost produces vegetables
+containing far more human nutrition than vegetables grown by any other method.
 
-**Option B (higher nitrogen, for leafy spring crops):**
-- 3 parts seedmeal + 1 part tankage (blood-and-bone or meatmeal)
-- Same lime, phosphorus, and kelp proportions as Option A
+## Application Rates by Crop Demand Category
 
-**Option C (using coprameal — lower nitrogen):**
-- 4 parts coprameal (coconut seedmeal, ~1/3 weaker than other seedmeals)
-- 2 parts tankage to boost nitrogen content
-- Same remaining proportions
+### Low-Demand Vegetables
+- 1/4 inch (6 mm) layer sacked steer manure or 1/2 inch finished compost
+- 4-6 kg COF per 10 square meters (4-6 kg/100 sq m)
+- OR (far better): 1 inch layer steer manure or 1/2 inch deepest finished compost
+  plus COF at same rate
+- 50 lb/1,000 sq ft lime, spade, rake, plant
 
-### Proportions Tolerance
+### Medium-Demand Vegetables
+- 1/4 inch (6 mm) layer sacked steer manure or 1/2 inch finished compost
+- 4-6 kg COF per 10 square meters (4-6 kg/100 sq m)
+- 1/8 inch (3 mm) layer composted chicken manure
+- 50 lb/1,000 sq ft lime, spade, rake, plant
 
-Solomon notes that variations of plus or minus 10 percent from the targeted volume will work out to be approximately exact. The recipe is forgiving — precision is not required.
+### High-Demand Vegetables
+- 1/2 inch (12 mm) layer sacked steer manure or 4 inch finished compost
+- 4-6 kg COF per 10 square meters (4-6 kg/100 sq m)
+- 1/4 inch (6 mm) layer composted chicken manure
+- 50 lb/1,000 sq ft lime, spade, rake, plant
 
-## Ingredient Details
+## Important Usage Guidelines
 
-### Seedmeals
+### Do Not Overapply
+COF is potent. Use no more than recommended. If vegetables appear to be growing poorly,
+do not remedy the situation with more manure or compost — fix it with additional COF.
 
-Seedmeals are the primary nitrogen source in COF. They are byproducts of vegetable oil extraction:
+### Organic Matter Can Be Exceeded
+It is always wise to exceed the amounts of manure or compost suggested by half again
+or double if you can afford to. However, do not apply more than double the recommended
+amount, as this risks unbalancing the soil's mineral content.
 
-- Common sources: canola, soybean, cottonseed, linseed (flax), sunflower
-- Typical analysis: approximately 6-4-2 (NPK)
-- Coprameal (coconut) is about one-third weaker in NPK than other seedmeals
-- The general rule: buy whichever seedmeal provides the most protein per unit cost
-- Store seedmeals dry and protected from moisture with a tight lid
+### Hilling for Large Plants
+For large plants such as squash, corn, and tomatoes, create hills and place additional
+strong fertilizer in each hill. Agronomists call this practice "banding" — placing a
+concentrated zone of highly fertile soil where young plant roots will immediately
+discover it. This gives plants a fast start so they outgrow environmental threats.
 
-### Tankage
+## Soil Temperature and Growth Rate
 
-Tankage is a slaughterhouse byproduct — the whole animal minus the fat:
+Solomon emphasizes that plant growth speed is determined by soil temperature. For every
+10°F (5°C) increase in temperature, growth speed doubles. Growth increases geometrically:
+at 50°F nighttime low, plants grow one size overnight; at 60°F, two sizes; at 70°F,
+four sizes; at 80°F, eight sizes. This makes soil warmth and oxygen availability (tilth)
+critical factors that complement proper nutrition.
 
-- Analyzes at approximately 10-4-0 (higher nitrogen than seedmeals)
-- Use with caution for summer crops, as the higher nitrogen content can push excessive nitrates
-- Tankage has been used successfully in organic gardens for over 20 years
-- The main consequence of variable tankage quality is needing slightly more to get the same result
+## Root Oxygen Requirements
 
-### Lime Sources
+Roots do not photosynthesize and cannot receive oxygen from leaves. They must absorb
+oxygen directly from the soil air. Soil that appears solid is actually composed of tiny
+particles with spaces between them. Good soil tilth — the crumbly texture created by
+proper organic matter management — ensures adequate oxygen reaches roots. COF combined
+with organic matter improves soil structure, enhancing both nutrition and aeration.
 
-Three types of lime provide [[dynamic-accumulator-plants-calcium-and-magnesium]]:
+## Economic Considerations
 
-- **Agricultural lime**: Relatively pure calcium carbonate
-- **Dolomitic lime**: Contains both calcium and magnesium, usually in roughly equal amounts
-- **Gypsum**: Calcium sulfate — provides calcium without affecting pH
+Solomon frames the economics compellingly: spending five or ten cents to grow a dollar's
+worth of food seems entirely reasonable. COF is made from [[agricultural-waste-substrates]] products
+and crushed rock minerals, making it inexpensive relative to its nutritional value.
+For gardeners with limited budgets, COF provides the most nutritional bang per dollar
+spent on soil amendments.
 
-Solomon recommends using all three when possible, as each provides different benefits. If choosing only one, agricultural lime is probably the best choice, though mixing all three gives superior results.
+## Context of Hard Times
 
-### Phosphorus Sources
-
-All three options are rich in trace elements:
-
-- **Rock phosphate**: Hard rock or soft rock varieties; releases phosphorus slowly
-- **Bonemeal**: Also provides calcium
-- **High-phosphate guano**: Most expensive but fastest-releasing option
-
-Soil mineral levels have steadily declined over recent decades. USDA data shows that the mineral content of food tables has decreased about 20-25% in the last 25 years, making phosphorus supplementation increasingly important.
-
-### Kelpmeal
-
-Kelpmeal is Solomon's preferred micronutrient source:
-
-- Contains a broad and complete spectrum of all vitamins and minerals
-- Includes growth regulators and natural hormones
-- Provides resistance to cold, frost, and other stresses
-- Imported Korean kelp costs less per unit than many seedmeals
-- Can be substituted with basalt dust (which is cheaper but less complete)
-- Foliar feeding with liquid kelp is more effective than mixing kelpmeal into COF, though mixing is more convenient
-
-## Application Rates
-
-### Initial Soil Building
-
-Apply COF at least once per year (best in spring):
-
-- 4 to 6 liters per 100 square feet (10 square meters) of raised bed
-- Or per 50 lineal feet (15 meters) of row 12 to 18 inches (30-45 cm) wide
-- Work the fertilizer in with a hoe or spade, or spread on top and let earthworms incorporate it
-
-### Side-Dressing
-
-For medium- and high-demand vegetables, apply additional small amounts after seedlings emerge or after transplanting:
-
-- Sprinkle small amounts around each plant, covering the area the root zone will reach
-- Reapply every few weeks as plants grow, spreading wider as root zones expand
-- Beets may need up to 1 liter per 100 square feet during a full growing season
-
-## The Potassium Tradeoff
-
-Solomon highlights an important nutritional tradeoff:
-
-- You could increase bulk yield by boosting soil potassium levels
-- But nutritional content of vegetables would decrease by about the same proportion
-- Higher potassium yields come as starch and fiber, not as protein, vitamins, enzymes, and minerals
-- Most commercial growers (both chemical and organic) push potassium for profit
-- The COF recipe deliberately avoids excessive potassium to maximize [[coleman-winter-greens-nutritional-quality-cold-sweetening]]
-
-## Chemical vs. Organic Fertilizer Release
-
-A key advantage of COF over [[cannabis-chemical-fertilizers]]:
-
-- Chemical fertilizers dissolve rapidly, causing a growth spike followed by a sag, requiring repeated applications
-- Organic materials release nutrients only as they decompose, mediated by the soil's living ecology
-- Complete release of COF takes around two months in warm soil
-- Decomposition rate doubles for each 10°F (5°C) increase in soil temperature
-- Gardeners in hot climates get bigger results from smaller applications, but the effect lasts a shorter time
-
-## pH Management Philosophy
-
-Solomon advises gardeners to largely ignore soil pH:
-
-- If a soil test shows low pH, do not lime specifically to correct it
-- Instead, follow the regular COF and compost program
-- Over time, pH will correct itself — more from organic matter addition than from calcium/magnesium
-- Vegetables still need calcium and magnesium in the right balance, which COF provides
-- When using COF routinely, there should never be a need to lime separately
+COF was developed with the coming hard times in mind. [[cannabis-chemical-fertilizers]] and many
+organic ones are made with petroleum or natural gas and will become increasingly
+expensive. COF provides a sustainable, petroleum-independent approach to maintaining
+soil fertility that will remain accessible even as conventional fertilizer costs rise
+with energy prices.
 
 ## See Also
 
-- [[solomon-low-grade-compost-making-methods]]
-- [[solomon-sprinkler-irrigation-vegetable-gardens]]
-- [[basalt-rock-dust-agriculture]]
+- clay soil management organic amendments solomon
+- vegetable demand classification fertility requirements solomon
+- garden self sufficiency space requirements hard times solomon
+- seed saving and varietal selection solomon

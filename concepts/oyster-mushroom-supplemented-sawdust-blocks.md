@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: "2026-04-24"
 sources:
   - "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (Paul Stamets, 1993)"
-  - "Oyster [[accessible-mushroom-cultivation-for-disabilities]] (MushWorld, 2004)"
+  - "Oyster accessible-mushroom-cultivation-for-disabilities (MushWorld, 2004)"
 type: concept
 tags: [growing growing-gourmet-thermogenesis-mushroom-cultivation mushroom cultivation, oyster oyster-mushroom-pasteurized-straw-cultivation straw cultivation]
 ---

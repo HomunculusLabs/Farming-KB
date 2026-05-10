@@ -1,5 +1,5 @@
 ---
-title: Permaculture mollison-designers-climate-classification-and-design-zones
+title: Permaculture Climate Classification
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -15,13 +15,13 @@ sources:
 
 # Permaculture Climate Classification
 
-Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding [[mollison-climate-zones-permaculture-strategies]] is the first step in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
+Chapter 5 of the Designers' Manual covers climatic factors, providing the framework for all subsequent climate-specific design chapters. Understanding climate zones is the first step in permaculture [[solomon-climate-zones-and-growing-seasons]] design, as plants, techniques, and strategies do not split neatly into climatic areas but overlap significantly.
 
 ## Classification of Broad Climatic Zones
 
-The Manual uses the Trewartha (1954) classification system as its primary framework, while acknowledging Koppen and other systems. The broad climatic zones addressed include:
+The Manual uses the Trewartha (1954) classification system as its primary framework, while acknowledging Koppen and other systems. The broad climatic zones [[solomon-climate-zones-and-growing-seasons]] addressed include:
 
-- **Humid tropics** (wet tropics, wet-dry tropics): River basins and wet coasts from latitudes 0-25 degrees. Temperature fluctuates little (21-32C), humidity constantly high, frost unknown, rainfall 152-328 cm. Major areas: Amazon, Congo basins, [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]], Sri Lanka, Malaya, Borneo, New Guinea.
+- **Humid tropics** (wet tropics, wet-dry tropics): River basins and wet coasts from latitudes 0-25 degrees. Temperature fluctuates little (21-32C), humidity constantly high, frost unknown, rainfall 152-328 cm. Major areas: Amazon, Congo basins, Central America, Sri Lanka, Malaya, Borneo, New Guinea.
 
 - **Dry tropics and subtropics**: Areas with seasonal drought, including savannah, desert, and semi-arid regions.
 
@@ -51,7 +51,7 @@ Wind patterns affect evaporation, plant growth, building design, and energy syst
 
 ### Landscape Effects
 
-Topography modifies climate at the local scale: slope orientation (sunward vs. shade-side), elevation, valley vs. ridge position, and proximity to water bodies all [[query-how-do-i-create-microclimates-in-my-garden]] within broader climate zones.
+Topography modifies climate at the local scale: slope orientation (sunward vs. shade-side), elevation, valley vs. ridge position, and proximity to water bodies all create microclimates within broader climate zones.
 
 ### Latitude Effects
 
@@ -65,22 +65,4 @@ A subtropical site may have severe frosts, cold winds, torrential summer rains, 
 
 - [[permaculture-temperate-design-strategies]] -- Strategies for cool and cold climates
 - [[permaculture-forestry-systems]] -- Tree systems across climate zones
-- [[zone-sector-analysis-guide]] -- [[mollison-designers-sector-analysis-wind-sun-fire]] for climate factors
-## Practical Considerations
-
-Successful implementation of Permaculture Climate Classification requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+- [[permaculture-zone-and-sector-analysis]] -- Sector analysis for climate factors

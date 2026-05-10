@@ -121,10 +121,6 @@ for distribution. Saving for personal use from open-
 pollinated varieties is generally acceptable.
 
 ## See Also
-
 - [[crop-rotation-vegetable-garden]]
 - [[organic-pest-disease-control]]
-
-## See Also
-
 - [[seed-saving-in-permaculture]]

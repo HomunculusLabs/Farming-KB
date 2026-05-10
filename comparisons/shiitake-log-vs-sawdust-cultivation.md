@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: comparison
 tags: [comparison]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Shiitake Log vs Sawdust Cultivation Comparison

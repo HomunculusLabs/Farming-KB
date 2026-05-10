@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - "Shulgin, A. & Shulgin, A. (1997). \"TiHKAL: The Continuation.\" Transform Press."
   - "Shulgin, A.T. (1981). \"Hallucinogens.\" In Burg & Wolbach (Eds.), The Psychopharmacology of Hallucinogens. Pergamon Press."
-  - "Ray, T.S. (2010). \"Psychedelics: The Pharmacology of 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]].\" Drug Discovery Today: Disease Models, 7(3–4), e109–e118."
+  - "Ray, T.S. (2010). \"Psychedelics: The Pharmacology of 5-HT2A cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching.\" Drug Discovery Today: Disease Models, 7(3–4), e109–e118."
   - "Nichols, D.E. (2016). \"Psychedelics.\" Pharmacological Reviews, 68(2), 264–355."
-  - "Passie, T. et al. (2008). \"The Pharmacology of [[ergot-and-lysergic-acid-history]] Diethylamide.\" CNS Neuroscience & Therapeutics, 14(4), 295–310."created: 2026-05-07
+  - "Passie, T. et al. (2008). \"The Pharmacology of ergot-and-lysergic-acid-history Diethylamide.\" CNS Neuroscience & Therapeutics, 14(4), 295–310."created: 2026-05-07
 
 created: 2026-05-07
 ---

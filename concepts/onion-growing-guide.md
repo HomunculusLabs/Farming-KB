@@ -1,5 +1,5 @@
 ---
-title: Onion comparison-bean-growing-guide-vs-pepper-growing-guide
+title: Onion Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,16 +9,16 @@ sources: []
 
 # Onion Growing Guide
 
-Onions (Allium cepa) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, native american planting methods and indigenous agriculture (sets, seeds, transplants), growing care, curing, and storage.
+Onions (Allium cepa) are a foundational kitchen staple with specific day-length requirements that determine bulb formation. This guide covers day-length types, planting methods (sets, seeds, transplants), growing care, curing, and storage. (see [[carrot-growing-guide]]).
 
 ## Day-Length Types
 
-Onions bulb in response to daylight hours. Choosing the correct type for your latitude is the most important factor in onion success.
+Onions bulb in response to daylight hours. Choosing the correct type for your latitude is the most important factor in onion success. (see [[strawberry-growing-guide]]).
 
 | Type | Daylight Required | Latitude Range | Planting Season | Examples |
 |------|------------------|----------------|-----------------|----------|
 | Short-day | 10-12 hours | Southern US (zones 7-10) | Fall/winter | Granex (Vidalia), Texas 1015, Red Burgundy |
-| Long-day | 14-16 hours | Northern US/Canada (zones 3-6) | [[coleman-overwintered-onions-and-early-spring-crops]] | Walla Walla, Copra, Yellow Stuttgarter, Red Wing |
+| Long-day | 14-16 hours | Northern US/Canada (zones 3-6) | Early spring | Walla Walla, Copra, Yellow Stuttgarter, Red Wing |
 | Day-neutral | ~12-14 hours | Most US zones (5-9) | Spring | Candy, Red Candy Apple, Super Star |
 
 ### Key Rule
@@ -73,7 +73,7 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 
 ### Fertilizing
 - Onions are heavy nitrogen feeders.
-- Side-dress with nitrogen-rich fertilizer (blood meal, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], [[solomon-foliar-feeding-fish-emulsion-and-kelp]]) every 2-3 weeks until bulbs begin to swell.
+- Side-dress with nitrogen-rich fertilizer (blood meal, composted manure, fish emulsion) every 2-3 weeks until bulbs begin to swell.
 - Stop nitrogen when bulbs are 2/3 their final size — excess N delays maturity.
 - Apply phosphorus and potassium at planting (bone meal, kelp meal).
 
@@ -114,7 +114,7 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 
 ## Storage
 
-- [[vegetable-storage-conditions-by-temperature-and-humidity]]: cool (35-45°F), dry (60-70% humidity), dark, well-ventilated.
+- Storage conditions: cool (35-45°F), dry (60-70% humidity), dark, well-ventilated.
 - **Do NOT refrigerate** — cold + humidity causes sprouting and rot.
 - Mesh bags, nylon stockings, or slatted crates allow airflow.
 - Store in a cool basement, root cellar, or unheated garage.
@@ -141,9 +141,10 @@ Onions bulb in response to daylight hours. Choosing the correct type for your la
 | Small bulbs | Wrong day-length type, insufficient nitrogen, crowding | Choose correct type, fertilize, proper spacing |
 | Thick necks (won't cure) | Excess nitrogen late in season, too much water | Stop N when bulbs are 2/3 mature, reduce watering |
 | Bolting | Temperature fluctuations, large sets | Use transplants/seeds, mulch, avoid large sets |
+| Thrips | Tiny insects sucking sap from leaves | Insecticidal soap, neem oil, encourage beneficials |
+| Downy mildew | Fungal disease in humid conditions | Good airflow, avoid overhead watering, copper spray |
+
 ## Related Concepts
 
 - [[garlic-growing-guide]] — related allium with similar planting and curing methods
 - [[companion-planting-reference]] — carrots, beets, lettuce as onion companions; avoid beans
-- [[soil-amendment-reference]] — nitrogen and phosphorus sources for onion beds
-- [[mulching-guide]] — straw mulch for moisture retention and weed suppression

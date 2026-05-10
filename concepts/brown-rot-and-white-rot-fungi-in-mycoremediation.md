@@ -5,10 +5,10 @@ updated: 2026-04-19
 type: concept
 tags: [remediation, environment]
 sources:
-  sources: []
+  - "raw/papers/mycelium-running-stamets.md"
 ---
 
-**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets, Ch. 6) | **Updated:** 2026-04-18
+**Source:** woodlovers-mycelium-running-pathway-technique (Paul Stamets, Ch. 6) | **Updated:** 2026-04-18
 
 ## Overview
 

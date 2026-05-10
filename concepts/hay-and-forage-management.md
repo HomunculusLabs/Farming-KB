@@ -4,17 +4,15 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [forage, animal-husbandry, homesteading, livestock, storage, preservation]
-sources:
-  sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
 # Hay and Forage Management
 
-Producing and managing high-quality hay and forage is essential for any
+Producing and managing high-quality hay and forage [[permaculture-duck-orchard-integration]] is essential for any
 livestock homestead. Winter feeding typically represents 40-60% of annual
 feed costs, and hay quality directly affects animal health, reproduction, and
-production. Understanding hay types, cutting timing, storage, and nutritional
+production [[permaculture-duck-orchard-integration]]. Understanding hay types, cutting timing, storage, and nutritional
 value allows homesteaders to maximize self-sufficiency and reduce purchased
 feed inputs.
 
@@ -38,7 +36,7 @@ feed inputs.
   and horses in work. Can cause bloat if fed as the sole forage to cattle
   and sheep.
 - **Clover hay (red/white):** 12-18% protein. Good quality, but red clover
-  can cause reproductive issues in sheep (phytoestrogens). [[fukuoka-white-clover-cover-crop-system]] is
+  can cause reproductive issues in sheep (phytoestrogens). White clover is
   lower-yielding but excellent quality.
 - **Birdsfoot Trefoil:** 12-16% protein. Non-bloating legume. Tolerates
   wet and acid soils. Good for sheep and cattle pastures and hay.
@@ -131,20 +129,27 @@ higher protein, higher energy, and more palatable hay, but sacrifices yield.
 - Store on pallets or gravel floor (never directly on concrete or dirt).
 - Stack with adequate ventilation between bales.
 - Barn-stored hay retains quality for 2-3 years.
-- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: below 70°F. Monitor for heating in the first 2 weeks
+- Ideal temperature: below 70°F. Monitor for heating in the first 2 weeks
   after baling.
 
 ### Outdoor Storage
 - Net-wrapped round bales stored outside lose 10-20% of dry matter in the
   outer 4-6 inches.
-- Store bales on gravel or raised racks (never on [[savory-bare-ground-and-soil-exposure]]).
+- Store bales on gravel or raised racks (never on bare ground).
 - Line bales up end-to-end (not in pyramid) in a well-drained area.
 - Store north-south to maximize sun exposure and drying on both sides.
 - Use bales stored outside first (oldest first, FIFO system).
 - Plastic-wrapped baleage/bale silage: 40-60% moisture, anaerobic
   fermentation. Requires specialized wrapper and plastic. Excellent feed
+  quality if properly sealed.
+
+### Hay Storage Management
+- Inventory hay in fall: calculate total tons needed based on number of
+  animals and days of feeding.
+- Rule of thumb: 1 ton of hay per cow-calf pair per winter (120-150 days).
+- Sheep: 1 ton per 5-6 adult sheep per winter.
+
+
 ## See Also
-- [[fukuoka-textdoc-ladino-clover-alfalfa-bur-clover-orchard-ground-cover]]
-- [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]]
-- [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]]
-- [[query-which-drought-tolerant-legumes-are-best-for-cover-crops-and-grain]]
+- [[pasture-management-and-forage]]
+- [[weed-management-and-ecological-weed-control]]

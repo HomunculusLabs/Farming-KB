@@ -141,7 +141,6 @@ The consistent presence of these structural and experiential
 elements across cultures suggests they represent a discovered
 technology rather than an arbitrary tradition. The darkness,
 the singing, the minimal talking, the experienced guide—these
-features recur because they work. Modern therapeutic approaches
 ## See Also
 
 - [[ayahuasca-pharmacology-maoi-interactions]]

@@ -4,9 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [grain, processing, food, homesteading, off-grid, storage, nutrition]
-sources:
-  sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
 ## Overview
@@ -124,7 +122,7 @@ The primary grain for most home millers:
 - **Corn** — For cornmeal and polenta. Steel burr or stone mill. Can be milled to various textures from coarse grits to fine cornmeal
 - **Barley** — Mild flavor, low gluten. Often mixed with wheat for bread
 - **Buckwheat** — Not a true grain (a pseudocereal). Gluten-free, strong flavor, good for pancakes and soba noodles
-- **Rice** — [[cho-brown-rice-vinegar-preparation]] can be milled into flour for gluten-free baking
+- **Rice** — Brown rice can be milled into flour for gluten-free baking
 
 ## Grinding Fresh Flour: Practical Tips
 
@@ -138,7 +136,7 @@ The primary grain for most home millers:
 
 1. **Set the grind consistency** — Start coarser and adjust finer until the desired texture is achieved
 2. **Mill in batches** — Do not overload the mill. Feed grain steadily for best results
-3. **Sift if desired** — For finer pastry flour, sift fresh flour through a fine mesh sieve. The bran that remains can be used in granola or added to [[fukuoka-textdoc-plowing-ruins-soil-compaction-bread-dough-analogy]]
+3. **Sift if desired** — For finer pastry flour, sift fresh flour through a fine mesh sieve. The bran that remains can be used in granola or added to bread dough
 4. **Let flour cool** — If milling produces warm flour, let it cool to room temperature before using (warm flour ferments too quickly in sourdough)
 
 ### After Milling
@@ -146,5 +144,7 @@ The primary grain for most home millers:
 1. **Use immediately or store briefly** — Fresh flour is at peak nutrition within hours of milling
 2. **Short-term storage** — Room temperature in a paper bag or breathable container for 1-2 weeks
 3. **Longer storage** — Refrigerate for up to 1 month, freeze for up to 3 months
-## Related Topics
+4. **Do not store fresh flour in sealed containers at room temperature** — The oils in the germ will go rancid
+
+## Grain Storage
 

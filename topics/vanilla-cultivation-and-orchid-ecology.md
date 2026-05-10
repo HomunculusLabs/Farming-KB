@@ -11,7 +11,7 @@ sources:
   - "Havkin-Frenkel, D., & Belanger, F.C. (2018). Handbook of Vanilla Science and Technology. Wiley-Blackwell."
   - "Kull, C.A. (2004). Isle of Fire: The Political Ecology of Landscape Burning in Madagascar. University of Chicago Press."
   - "Royal Botanic Gardens, Kew. (2024). Vanilla planifolia — World Checklist of Selected Plant Families."
-  - "Dumas, Y., & Fikry, W. (2022). 'Vanilla curing methods [[fungi-around-the-world-species-distribution]]: A comparative review.' Journal of Food Science, 87(4), 1598-1612."
+  - "Dumas, Y., & Fikry, W. (2022). 'Vanilla curing methods fungi-around-the-world-species-distribution: A comparative review.' Journal of Food Science, 87(4), 1598-1612."
 ---
 
 # Vanilla Cultivation and Orchid Ecology
@@ -138,7 +138,6 @@ After successful pollination, the ovary begins to swell into a pod (technically 
 
 - **Months 1–3**: Rapid elongation; the bean reaches near-full length (15–25 cm for *V. planifolia*)
 - **Months 3–6**: Slow thickening; chlorophyll content is high; beans are deep green
-- **Months 6–9**: Maturation; beans begin to turn from green to pale yellow at the tip; glucovanillin (vanillin precursor) accumulates
 ## See Also
 
 - [[comparison-vanilla-vs-cacao-cultivation|Vanilla vs Cacao Cultivation]]

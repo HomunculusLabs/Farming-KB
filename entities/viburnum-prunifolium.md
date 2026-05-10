@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Felter, H.W. & Lloyd, J.U. (1898). King's American Dispensatory. histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus Co."
   - "Millspaugh, C.F. (1974). American Medicinal Plants. Dover Publications."
-  - "Moerman, D. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press."
+  - "Moerman, D. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press."
   - "Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. Medpharm Scientific Publishers."
   - "Upton, R. (2001). \"Viburnum prunifolium.\" American Herbal Pharmacopoeia."
 ---
@@ -27,16 +27,13 @@ sources:
 *Viburnum prunifolium*, known as blackhaw or sweet haw, is a deciduous
 shrub or small tree native to eastern and central [[psilocybin-north-america-pacific-northwest]]. It is one
 of the most important traditional uterine tonics and antispasmodics in
-both Native American and Western [[amazonian-medicinal-plants-in-amaringos-visions]]
+both [[halpern-sacramental-peyote-and-native-american-church]] and Western [[amazonian-medicinal-plants-in-amaringos-visions]]
 - [[viburnum-opulus]]
 
 ## See Also
-
-- herbal plant remedies
-
-## See Also
-
+- [[herbal-plant-remedies]]
 - [[natives-vs-exotics]]
+
 ## Practical Applications
 
 Viburnum prunifolium has a range of practical applications that make it relevant to
@@ -54,7 +51,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -104,7 +101,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.

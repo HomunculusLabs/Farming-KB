@@ -20,7 +20,7 @@ interactions:
 - **Saprotrophic fungi** serve as primary decomposers, converting
   dead organic matter into fungal biomass that becomes food for
   fungal-feeding nematodes, microarthropods, and collembola
-- **Mycorrhizal fungi** function as mutualistic symbionts that
+- **Mycorrhizal fungi** function as [[mycelium-running-endophyte-mutualistic-symbionts]] that
   channel photosynthate carbon from plants into the soil food web
   while simultaneously delivering mineral nutrients to host roots
 - **Predatory fungi** in the phylum Zoopagomycota form adhesive
@@ -44,8 +44,8 @@ interactions in ways that are only partially understood:
   a significant competitive advantage to infected plants in grazed
   ecosystems
 - **Non-clavicipitaceous endophytes** colonize a broad range of
-  plant species and can enhance drought tolerance, disease
-  resistance, and nutrient acquisition through mechanisms that
+  plant species and can enhance [[dighton-fungal-drought-tolerance-plant-water-relations]], disease
+  resistance, and [[dighton-ericoid-mycorrhizal-nutrient-acquisition]] through mechanisms that
   differ from those of mycorrhizal fungi
 - Endophyte-mediated resistance to plant pathogens involves
   direct antimicrobial compound production, competition for
@@ -60,10 +60,10 @@ interactions in ways that are only partially understood:
 
 Fungal communities contribute to ecosystem stability and recovery
 following disturbance through several mechanisms:
-- Mycorrhizal networks persist underground through fire, drought,
+- [[arbuscular-mycorrhizal-networks]] persist underground through fire, drought,
   and logging events, providing inoculum sources that accelerate
   plant community regeneration after disturbance
-- Fungal functional redundancy, where multiple species perform
+- Fungal [[functional-redundancy-fungal-communities]], where multiple species perform
   similar ecological roles, provides insurance against the loss
   of individual species from environmental stress or perturbation
 - Saprotrophic fungal communities shift in composition along
@@ -84,7 +84,7 @@ ecological roles and are widely used as bioindicators:
   initiating soil formation through physical and chemical weathering
   that creates substrate for subsequent plant establishment
 - Lichen sensitivity to atmospheric pollutants, particularly sulfur
-  dioxide and nitrogen deposition, makes them reliable indicators
+  dioxide and [[dighton-nitrogen-deposition-mycorrhizal-community-shifts]], makes them reliable indicators
   of air quality in both urban and remote environments
 - Crustose lichens contribute to biological soil crust formation
   in arid and semi-arid ecosystems, stabilizing surface soils and

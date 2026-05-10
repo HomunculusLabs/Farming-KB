@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Ali-Shtayeh, M.S. et al. (2020). "Micromeria fruticosa: Traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 259, 112950.
-  - Dudai, N. et al. (2019). "[[permaculture-designers-manual-essential-oil-plants]] composition and antimicrobial activity of Micromeria fruticosa from Israel." Journal of Agricultural and Food Chemistry, 67(15), 4231-4238.
+  - Dudai, N. et al. (2019). "permaculture-designers-manual-essential-oil-plants composition and antimicrobial activity of Micromeria fruticosa from Israel." Journal of Agricultural and Food Chemistry, 67(15), 4231-4238.
   - Fleischer, A. & Stern, A. (2021). "Ethnobotany of Micromeria species in the Mediterranean region." Economic Botany, 75(2), 234-248.
   - Baranauskiene, R. et al. (2018). "Variability of essential oil composition in Micromeria fruticosa populations." Chemistry & Biodiversity, 15(5), e1800123.
   - Said, O. et al. (2020). "Antibacterial activity of Palestinian medicinal plants including Micromeria fruticosa." Journal of Basic Microbiology, 60(4), 398-405.

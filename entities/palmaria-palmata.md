@@ -105,6 +105,8 @@ Integrated multi-trophic aquaculture (IMTA) systems have been proposed, where du
 
 ## See Also
 
+- [[acropora-palmata]]
+
 - [[thelephora-palmata]]
 
 - [[chondrus-crispus]] — Irish moss, co-occurring red alga with different industrial applications

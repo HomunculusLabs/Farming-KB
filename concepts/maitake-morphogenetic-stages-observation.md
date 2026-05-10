@@ -90,9 +90,4 @@ strain, [[medicinal-mushroom-compound-extraction]] [[maitake-grifola-frondosa-co
 Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], Vol. 1, pp. 153-167.
 
 ## See Also
-
 - [[maitake-cultivation]]
-
-## See Also
-
-- maitake morphogenetic stages observation

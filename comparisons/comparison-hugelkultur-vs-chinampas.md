@@ -90,6 +90,8 @@ Designers should also consider wind patterns, sun exposure, and access paths whe
 
 ## See Also
 
+- [[comparison-hugelkultur-vs-syntropic-agriculture]]
+
 - chinampas
 
 Both systems reward patience and observation. The first season may show modest results as biological networks establish, but productivity compounds significantly in subsequent years as soil ecology matures and nutrient cycles close.

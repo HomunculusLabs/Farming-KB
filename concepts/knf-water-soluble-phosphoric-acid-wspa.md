@@ -119,13 +119,9 @@ storage:
 - Treating leaf color abnormalities indicating phosphoric acid
   imbalance
 - Supporting protein synthesis and anabolite transport in crops
+
 ## See Also
-
 - [[knf-phosphoric-acid-deficiency-symptoms]]
-
 - [[water-soluble-calcium-wca]]
 - [[knf-nutritive-cycle-theory]]
-
-## See Also
-
 - [[water-soluble-phosphoric-acid-wpa]]

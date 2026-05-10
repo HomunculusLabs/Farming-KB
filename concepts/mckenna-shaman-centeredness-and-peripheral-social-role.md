@@ -125,6 +125,8 @@ naturally, "but I am underwhelmed by the evidence that this is so."
 
 ## See Also
 
+- [[mckenna-shaman-as-phenomenologist-and-crisis-responder]]
+
 - [[dmt-black-hole-effect-and-shamanic-practice]]
 - [[mckenna-amazon-shamanism-and-ayahuasca]]
 

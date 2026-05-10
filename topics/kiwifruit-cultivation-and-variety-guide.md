@@ -140,7 +140,6 @@ Kiwifruit require rigorous annual pruning—more than almost any other fruit cro
 - Remove 70% of the previous season's growth.
 - Retain 1-year-old canes spaced 15–20 cm apart along the cordon.
 - Cut each retained cane back to 8–12 buds.
-- Remove dead, damaged, or crossing wood.
 ## See Also
 
 - [[grain-legumes-and-pulse-crops]] — nitrogen-fixing companions

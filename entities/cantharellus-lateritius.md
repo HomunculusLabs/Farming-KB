@@ -115,13 +115,8 @@ sources:
 - **Storage life:** Fresh specimens keep 7–14 days refrigerated in paper bags; dried specimens retain quality for 12–18 months in airtight containers stored away from light
 
 ## See Also
-
-- [[craterellus-cornucopioides]] — the black trumpet, a related chanterelle-like edible mushroom
-- [[boletus-edulis-entity]] — another prized ectomycorrhizal edible mushroom in oak forests
-
-## See Also
-
-- edible-wild-mushroom-guide
+- [[craterellus-cornucopioides]]
+- [[boletus-edulis-entity]]
 - [[ectomycorrhiza]]
 - [[ergothioneine]]
 - [[mycorrhizal-inoculation]]

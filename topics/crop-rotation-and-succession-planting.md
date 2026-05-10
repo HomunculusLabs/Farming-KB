@@ -5,7 +5,6 @@ tags: [agriculture, soil-health, organic-gardening, crop-rotation, succession-pl
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
   - /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
@@ -64,6 +63,8 @@ The benefits of crop rotation extend far beyond simple nutrient management.
 A well-designed rotation addresses multiple dimensions of garden and farm
 health simultaneously, creating synergistic effects that compound over time.
 
+For those interested in understanding the relationship between [[comparisons/comparison-companion-planting-vs-crop-rotation]], it's important to recognize that while companion planting focuses on spatial relationships (what grows together), rotation focuses on temporal relationships (what grows when). Both approaches work together to create resilient growing systems.
+
 Pest and disease disruption is perhaps the most immediate benefit. Many
 insect pests and soil-borne diseases are host-specific, meaning they depend
 on a continuous supply of their preferred crop to complete their life cycle.
@@ -113,7 +114,9 @@ family in areas where soil-borne diseases are prevalent.
 The Fabaceae, or legume family, includes beans, peas, lentils, fava beans,
 clover, and vetch. These are the "givers" in rotation terminology, fixing
 nitrogen through rhizobial symbiosis. Their placement at the beginning of a
-rotation cycle enriches the soil for the demanding crops that follow.
+rotation cycle enriches the soil for demanding crops that follow. This process
+is enhanced by practices like [[comparisons/comparison-biochar-vs-compost]] which
+can further improve soil fertility and structure when combined with legume-based rotations.
 
 The Apiaceae family covers carrots, parsnips, celery, celeriac, dill,
 fennel, cilantro, and parsley. These are generally light feeders with
@@ -126,7 +129,6 @@ sunflowers, and calendula. These are moderate feeders that adapt well to
 the residual fertility left after legume and brassica crops have passed
 through a rotation cycle.
 
-The Alliaceae family covers onions, garlic, leeks, shallots, and chives.
 ## See Also
 
 - [[cover-crops-and-green-manures]] for detailed cover crop selection and management
@@ -141,10 +143,8 @@ The Alliaceae family covers onions, garlic, leeks, shallots, and chives.
 - [[season-extension-techniques-and-protected-culture]] for extending the growing season
 - [[the-soil-food-web]] for understanding the biological processes that rotation supports
 ## References
+
 - Coleman, Eliot. *The Winter Harvest Handbook*. Chelsea Green, 2009.
 - Fukuoka, Masanobu. *The Natural Way of Farming*. Japan Publications, 1985.
 - Hamilton, Geoff. *The Organic Gardening Book*. BBC Books, 1990.
 - Jeavons, John. *How to Grow More Vegetables*. Ten Speed Press, 2012.
-- Solomon, Steve. *Gardening When It Counts*. New Society Publishers, 2006.
-- Cho, Youngsang. *JADAM Organic Farming*. JADAM, 2017.
-- Cervantes, Jorge. *Marijuana Horticulture*. Van Patten Publishing, 2015.

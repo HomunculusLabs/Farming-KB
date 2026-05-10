@@ -120,6 +120,8 @@ where appropriate.
 
 ## See Also
 
+- [[fungal-cave-diversity]]
+
 - [[two-tier-selection-model-plant-microbiome]] — Framework explaining diversity patterns
 - [[cannabis-endorhiza-microbiome]] — Endorhiza [[core-endorhiza-bacterial-community-composition-cannabis]]
 - [[edaphic-factors-microbial-community-structure]] — How soil shapes communities

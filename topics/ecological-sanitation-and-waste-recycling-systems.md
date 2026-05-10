@@ -102,7 +102,6 @@ thermophilic composting of human waste with clarity, humor, and scientific
 rigor. Jenkins demonstrated through decades of personal practice and laboratory
 analysis that properly managed composting destroys pathogens and produces a safe,
 nutrient-rich soil amendment. His work popularized the term "humanure" and
-inspired a generation of homesteaders, permaculture practitioners, and
 ## See Also
 
 - [[humanure-composting]] — thermophilic composting of human manure

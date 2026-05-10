@@ -16,13 +16,13 @@ sources:
 
 ## Overview
 
-Maitake ([[maitake-grifola-frondosa-comprehensive-profile]]), commonly called Hen of the Woods, is a highly prized edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]] that forms large, clustered, overlapping caps at the base of oak trees and other hardwoods. It is among the more challenging [[growing-gourmet-mushrooms-civilization-history]] to cultivate commercially, but its culinary quality and [[maitake-mushroom-research|medicinal reputation]] make it a valuable target for cultivators.
+Maitake (Grifola frondosa), commonly called Hen of the Woods, is a highly prized edible and medicinal mushroom that forms large, clustered, overlapping caps at the base of oak trees and other hardwoods. It is among the more challenging gourmet mushrooms to cultivate commercially, but its culinary quality and [[maitake-mushroom-research|medicinal reputation]] make it a valuable target for cultivators.
 
 ## Species Description
 
 Maitake produces large fruiting bodies composed of multiple rosettes of grayish-brown, fan-shaped caps that overlap like the feathers of a hen. A single specimen can weigh 10-50 pounds in the wild. The flesh is firm, white, and has a rich, earthy, peppery flavor that is highly regarded in Japanese and Western cuisine.
 
-Natural habitat: found at the base of oak trees (Quercus species) and occasionally other hardwoods, forming a [[saprotrophic-fungi|saprotrophic]] or possibly weak parasitic relationship with living roots. Distributed across temperate regions of [[polypore-fungi-eastern-north-america]] America, Europe, and Japan.
+Natural habitat: found at the base of oak trees (Quercus species) and occasionally other hardwoods, forming a [[saprotrophic-fungi|saprotrophic]] or possibly weak parasitic relationship with living roots. Distributed across temperate regions of eastern North America, Europe, and Japan.
 
 ## Cultivation Challenges
 
@@ -75,7 +75,7 @@ Maitake requires specific environmental triggers for fruiting:
 1. **Cold shock:** Reduce temperature to 55-60°F (13-16°C) for 5-7 days
 2. **Fresh air exchange:** Increase ventilation significantly
 3. **Light exposure:** Introduce indirect light at 500-1000 lux
-4. **Scratching (optional):** Some cultivators report that lightly scratching or ruffling the colonized surface stimulates [[growing-gourmet-primordia-formation-pinning]]
+4. **Scratching (optional):** Some cultivators report that lightly scratching or ruffling the colonized surface stimulates primordia formation
 
 ### Fruiting Parameters
 
@@ -98,7 +98,7 @@ Harvest when individual caps are still soft and fleshy, before they become tough
 
 ### Yield
 
-- **[[stamets-biological-efficiency-yield]]:** 50-100% on supplemented sawdust (lower than many species)
+- **Biological efficiency:** 50-100% on supplemented sawdust (lower than many species)
 - **Total flushes:** Usually 1-2 significant flushes; the first is by far the largest
 - **Typical yield per 5 lb block:** 1.5-3 lbs fresh weight
 

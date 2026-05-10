@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Smith, A.H. & Thiers, H.D. (1971). The Boletes of Michigan. University of Michigan Press."
   - "Kuo, M. (2024). Leccinum insigne. MushroomExpert.com."
-  - "Fischer, D. & Bessette, A.E. (2012). Mushrooms of the Northeastern [[dmt-containing-plants-united-states-halpern]] and Eastern Canada. Timber Press."
+  - "Fischer, D. & Bessette, A.E. (2012). Mushrooms of the Northeastern dmt-containing-plants-united-states-halpern and Eastern Canada. Timber Press."
   - "Watling, R. (1970). \"Notes on British boletes: Leccinum and the genus Boletus.\" Notes from the Royal Botanic Garden Edinburgh, 30, 103-124."
 ---
 
@@ -138,10 +138,6 @@ dynamics. Fruiting is promoted by adequate summer rainfall following
 a dry spring period.
 
 ## See Also
-
-- [[suillus-luteus]] — Pine-associated bolete, contrasting mycorrhizal partner
-- [[gyroporus-cyanescens]] — Another bolete with distinctive color reactions
-
-## See Also
-
+- [[suillus-luteus]]
+- [[gyroporus-cyanescens]]
 - [[mycorrhizal-edible-mushroom-species-overview]]

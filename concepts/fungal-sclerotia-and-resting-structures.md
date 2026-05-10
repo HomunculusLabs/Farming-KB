@@ -97,7 +97,7 @@ In [[fungal-ecosystem-processes-overview]], sclerotia of saprotrophic
 basidiomycetes contribute to soil carbon storage. The heavily melanized hyphae
 and sclerotia of species such as [[cenococcum-geophilum]] are produced abundantly
 in forest soils and persist for extended periods, contributing to the formation
-of stable [[humus-and-soil-organic-matter]].
+of stable [[humus-formation-and-soil-organic-matter]].
 ## Environmental Regulation
 The formation of sclerotia is regulated by environmental signals including
 [[ph-and-nutrient-availability-garden-soils]], temperature, light, pH, and the presence of other

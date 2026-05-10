@@ -4,17 +4,16 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil, ph, npk, fertility, nutrients, soil-amendment, minerals, gardening, cultivation, soil-building]
-sources:
-  sources: []
+sources: []
 ---
 
 # Soil Testing and Analysis
 
-Soil testing is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and how to interpret and act on results.
+Soil testing is the foundation of informed soil management. Without knowing your soil's current condition, amendment decisions are guesswork that can waste money, harm soil biology, and even make existing problems worse. This guide covers pH testing, macronutrient analysis, cation exchange capacity, and how to interpret and act on results. (see [[cannabis-nutrient-management]]).
 
 ## Why Test Your Soil
 
-- Identify [[hamilton-nutrient-deficiencies-and-treatment]] and excesses before they cause visible plant problems
+- Identify nutrient deficiencies and excesses before they cause visible plant problems
 - Determine lime and fertilizer requirements accurately
 - Avoid over-application (excess phosphorus is a widespread water pollution problem)
 - Establish a baseline for tracking soil health over time
@@ -23,7 +22,7 @@ Soil testing is the foundation of informed soil management. Without knowing your
 
 ## pH Testing
 
-Soil pH affects [[ph-and-nutrient-availability-garden-soils]], microbial activity, and root function. Most garden vegetables and [[hamilton-annual-flowers-organic]] prefer a slightly acidic pH of 6.0-7.0. Blueberries, azaleas, and rhododendrons prefer 4.5-5.5.
+Soil pH affects nutrient availability, microbial activity, and root function. Most garden vegetables and annual flowers prefer a slightly acidic pH of 6.0-7.0. Blueberries, azaleas, and rhododendrons prefer 4.5-5.5. (see [[soil-amendment-reference]]).
 
 ### pH Test Methods
 
@@ -53,7 +52,7 @@ Soil pH affects [[ph-and-nutrient-availability-garden-soils]], microbial activit
 | pH Range | Classification | Common Issues | Typical Action |
 |---|---|---|---|
 | Below 5.0 | Strongly acidic | Aluminum and manganese toxicity, low calcium/magnesium, poor microbial activity | Apply lime (dolomitic if Mg needed) |
-| 5.0-5.5 | Moderately acidic | Reduced [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] | Apply lime, monitor |
+| 5.0-5.5 | Moderately acidic | Reduced phosphorus availability | Apply lime, monitor |
 | 5.5-6.5 | Slightly acidic | Ideal for most crops | Usually no action needed |
 | 6.5-7.0 | Neutral | Ideal for most garden vegetables | No action needed |
 | 7.0-7.5 | Slightly alkaline | Iron, manganese, zinc deficiency likely | Add sulfur or organic matter |
@@ -77,7 +76,7 @@ Excess symptoms: excessive vegetative growth at the expense of fruit/flower prod
 - Essential for root development, flowering, fruit set, and energy transfer (ATP)
 - Relatively immobile in soil -- does not leach easily
 - Becomes unavailable at pH above 7.5 or below 5.5
-- Most soils in developed areas have excess phosphorus from decades of [[cervantes-fertilizer-application-strain-feeding]]
+- Most soils in developed areas have excess phosphorus from decades of fertilizer application
 
 Sources: bone meal, rock phosphate, compost, manure
 
@@ -139,12 +138,13 @@ Beyond pH testing, several simple DIY assessments provide useful information:
 2. Count earthworms
 3. More than 10: healthy soil biology
 4. 5-10: moderate biological activity
-## See Also
+5. Fewer than 5: likely compacted, chemically treated, or low organic matter
 
-- [[composting-methods-comparison]] -- building soil fertility through composting
-- soil testing and analysis -- understanding your soil before amending
-- [[soil-food-web-nutrient-cycling]]
+### Organic Matter Estimation
+Dark, rich soil typically contains 3-5% organic matter. Very light-colored sandy soil may be below 1%. For accurate organic matter percentage, use a commercial lab test.
 
-## Related
+## Commercial Laboratory Testing
 
-- [[garden-soil-basics]]
+For comprehensive analysis, send samples to a professional soil testing laboratory.
+
+### How to Collect a Representative Sample

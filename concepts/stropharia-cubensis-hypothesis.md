@@ -24,7 +24,7 @@ Consciousness."
 According to McKenna, during psychedelic sessions the mushroom itself presented
 a coherent narrative about its own nature and origins. The mushroom stated that
 it is an extraterrestrial organism whose spores can survive the conditions of
-interstellar space. Several properties of [[emcdda-psilocybin-mushroom-dose-and-effects]] spores support
+interstellar space. Several properties of [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] spores support
 this claim:
 
 - **Color**: The spores are deep purple — the color they would need to be to

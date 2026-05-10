@@ -15,7 +15,7 @@ updated: 2026-04-12
 
 # Fungal Species Estimates and Taxonomy
 
-Estimating the total number of fungal species is one of the most fundamental — and controversial — questions in mycology. Current estimates range from 1.5 to 5.1 million species, but only approximately 150,000 species have been formally described. This page synthesizes [[fungal-species-estimation-methods-total-diversity]], the current state of [[molecular-methods-fungal-taxonomy-and-diversity]], and the classification of the fungal kingdom.
+Estimating the total number of fungal species is one of the most fundamental — and controversial — questions in mycology. Current estimates range from 1.5 to 5.1 million species, but only approximately 150,000 species have been formally described. This page synthesizes estimation methods, the current state of fungal taxonomy, and the classification of the fungal kingdom. (see [[fungal-species-estimation-methods-total-diversity]]).
 
 ## The Species Gap
 
@@ -27,7 +27,7 @@ Estimating the total number of fungal species is one of the most fundamental —
 | Species described per year | ~1,200-1,500 |
 | Time to describe all species (at current rate) | 800-3,000+ years |
 
-This gap means the vast majority of fungal species remain unknown to science.
+This gap means the vast majority of fungal species remain unknown to science. (see [[fungal-biodiversity-species-estimation]]).
 
 ## Methods for Estimating Fungal Diversity
 
@@ -75,7 +75,7 @@ This gap means the vast majority of fungal species remain unknown to science.
 - Limitations: convergent evolution, phenotypic plasticity, cryptic species
 
 ### Molecular Systematics Revolution
-- [[environmental-dna-sequencing-fungi]] has transformed fungal taxonomy
+- DNA sequencing has transformed fungal taxonomy
 - **ITS (Internal Transcribed Spacer)**: Official fungal barcode; resolves most species
 - **LSU (28S rDNA)**: Useful for higher-level classification
 - **SSU (18S rDNA)**: Deep phylogenetic relationships
@@ -85,9 +85,9 @@ This gap means the vast majority of fungal species remain unknown to science.
 ### Cryptic Species
 - Many "known" species are actually species complexes
 - Examples:
-  - *[[allegro-amanita-muscaria-properties-and-pharmacology]]*: 6+ phylogenetic species globally
+  - *Amanita muscaria*: 6+ phylogenetic species globally
   - *Pleurotus ostreatus* complex: Multiple species across continents
-  - *Armillaria mellea* complex: At least 10+ species in [[psilocybin-north-america-pacific-northwest]] alone
+  - *Armillaria mellea* complex: At least 10+ species in North America alone
   - *Fusarium graminearum* complex: 15+ phylogenetic species
 - Cryptic species have different ecological roles, host ranges, and geographic distributions
 
@@ -121,7 +121,7 @@ This gap means the vast majority of fungal species remain unknown to science.
 
 **Glomeromycota**
 - ~300 described species (likely severely underestimated)
-- [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] (AM) fungi
+- Arbuscular mycorrhizal (AM) fungi
 - Obligate symbionts with ~80% of plant species
 - See [[mycorrhizal-types]]
 
@@ -143,7 +143,8 @@ This gap means the vast majority of fungal species remain unknown to science.
 
 ### Groups Traditionally Studied by Mycologists
 
-## See Also
-- [[mycorrhizal-types]]
-- [[anaerobic-gut-fungi]]
-- [[fungal-species-estimation-methods-total-diversity]]
+**Peronosporomycetes (Oomycetes)** — Not true fungi (Straminipila), but studied by mycologists
+- Water molds, downy mildews
+- Include *Phytophthora infestans* (potato blight), *Pythium* (damping-off)
+- ~700 described species
+

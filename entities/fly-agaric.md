@@ -21,7 +21,7 @@ sources:
   - Ott, J. (1976). "Pharmacognosy of Amanita muscaria." Journal of Psychoactive Drugs, 8(3), 189-199.
   - Waser, P.G. (1967). "The Pharmacology of Amanita muscaria." In: Ethnopharmacologic Search for Psychoactive Drugs, Efron, D.H. (ed.), Public Health Service Publication No. 1645.
   - Tsujikawa, K., et al. (2007). "Analysis of Ibotenic Acid and Muscimol in Amanita Species." Forensic Science International, 164(2-3), 172-178.
-  - Stamets, P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
+  - Stamets, P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
 ---
 
 ## Overview

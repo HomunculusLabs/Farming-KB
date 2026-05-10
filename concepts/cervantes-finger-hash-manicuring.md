@@ -5,7 +5,6 @@ created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, hash, manicuring, harvest, kief]
 ---
@@ -118,10 +117,6 @@ time for harvest and manicuring ensures both quality buds and
 maximum finger hash recovery.
 
 ## See Also
-
 - [[cervantes-hand-rubbed-hash-charas]]
 - [[green-cannabis-grow-bible-sog-scrog-advanced-methods]]
-
-## See Also
-
 - [[cervantes-washing-machine-hash]]

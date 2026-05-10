@@ -9,7 +9,7 @@ sources: []
 
 # 5-MeO-DMT Reference
 
-5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a naturally occurring psychedelic tryptamine found in certain plant species and notably in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It produces extremely intense, short-lived psychedelic experiences characterized by [[psilocybin-ego-dissolution-mechanisms]], unity consciousness, and profound mystical-type experiences. Often described as more powerful than N,N-DMT, 5-MeO-DMT has gained significant research interest for its therapeutic potential in treating depression, anxiety, and addiction.
+5-Methoxy-N,N-dimethyltryptamine (5-MeO-DMT) is a naturally occurring psychedelic tryptamine found in certain plant species and notably in the venom of the Colorado River toad (Incilius alvarius, formerly Bufo alvarius). It produces extremely intense, short-lived psychedelic experiences characterized by ego dissolution, unity consciousness, and profound mystical-type experiences. Often described as more powerful than N,N-DMT, 5-MeO-DMT has gained significant research interest for its therapeutic potential in treating depression, anxiety, and addiction. (see [[dm-reference]]).
 
 See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharmacology.
 
@@ -26,7 +26,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 ### Natural Sources
 
 **Plant sources**:
-- [[yopo-anadenanthera-peregrina-snuff]] (yopo, cohoba) seeds — also contains bufotenin
+- Anadenanthera peregrina (yopo, cohoba) seeds — also contains bufotenin
 - Anadenanthera colubrina (vilca) seeds
 - Virola species (bark resin) — used in Amazonian snuffs
 - Dictyoloma incanescens (root bark)
@@ -34,7 +34,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 **Animal source**:
 - Incilius alvarius (Colorado River toad / Sonoran Desert toad) — venom glands contain 5-MeO-DMT as the primary psychoactive compound, along with bufotenin (5-HO-DMT)
 
-**Synthetic**: 5-MeO-DMT is also produced synthetically for research and clinical use. Synthetic 5-MeO-DMT provides consistent dosing and purity.
+**Synthetic**: 5-MeO-DMT is also produced synthetically for research and clinical use. Synthetic 5-MeO-DMT provides consistent dosing and purity. (see [[dimethyltryptamine]]).
 
 ## Pharmacology
 
@@ -44,7 +44,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 - **5-HT1A agonist**: Significant activity — may contribute to the calming, mystical character of the experience (similar to the compound befiradol)
 - **Sigma-1 receptor agonist**: May contribute to neuroprotective and anti-inflammatory effects
 - **Non-selective**: Also interacts with 5-HT1B, 5-HT1D, 5-HT2B, 5-HT2C, 5-HT6, and 5-HT7 receptors
-- **Rapid metabolism**: Broken down by MAO-A in the gut and liver (does not require MAOI for [[tihkal-oral-activity-mao-inhibition]] when smoked/vaporized, but does for oral ingestion)
+- **Rapid metabolism**: Broken down by MAO-A in the gut and liver (does not require MAOI for oral activity when smoked/vaporized, but does for oral ingestion)
 
 ### Pharmacokinetics
 
@@ -105,7 +105,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 
 | Feature | 5-MeO-DMT | N,N-DMT |
 |---------|-----------|---------|
-| Visuals | Less geometric/complex, more formless | Highly complex geometric, [[dmt-entity-encounters-and-the-logos]] |
+| Visuals | Less geometric/complex, more formless | Highly complex geometric, entity encounters |
 - Character | Mystical, formless, unity | Psychedelic, visionary, alien |
 | Ego dissolution | More consistent and complete | Dose-dependent, variable |
 | Duration | 15-30 min | 15-30 min (vaporized) |
@@ -121,7 +121,7 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 - Emerging research shows rapid and sustained reduction in depression and anxiety symptoms
 - A 2019 study (Mithoefer et al.) found significant reductions in depression, anxiety, and PTSD symptoms following 5-MeO-DMT administration
 - Effects may persist for weeks to months after a single session
-- Mystical experience intensity correlates with therapeutic outcomes (similar to [[early-paris-psilocybin-research-1960s]])
+- Mystical experience intensity correlates with therapeutic outcomes (similar to psilocybin research)
 
 ### Addiction
 
@@ -141,9 +141,10 @@ See also [[dmt-reference]] for the related compound N,N-DMT and ayahuasca pharma
 ### Current Research
 
 - Johns Hopkins University: Investigating 5-MeO-DMT for depression and anxiety
-- Maastricht University (Netherlands): [[mushroom-cancer-clinical-trials-overview]] exploring therapeutic mechanisms
-## See Also
+- Maastricht University (Netherlands): Clinical trials exploring therapeutic mechanisms
+- Various independent research groups studying neuroimaging correlates
+- Research is in early stages — no FDA-approved therapeutic application yet
 
-- [[dmt-reference]] — N,N-DMT chemistry, pharmacology, and effects
-- [[psilocybin-mushroom-chemistry]]
-- [[psilocybin-and-mystical-experience]]
+## Safety
+
+### Physical Safety

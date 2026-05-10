@@ -115,7 +115,7 @@ The flush-dependent variability complicates dosage estimation for dried mushroom
 - [[psilocybin-psilocin-variation-flushes-cubensis]]
 - [[psilocybin-miniculture-rye-grain-method-bigwood-beug]]
 - [[psilocybin-cap-stem-distribution-bigwood-beug]]
-- [[psilocin-psilocin-chemistry]]
+- [[psilocybin-psilocin-chemistry]]
 - [[hplc-analysis-psilocybin-psilocin]]
 - [[reversed-phase-hplc-psilocybin-psilocin-quantification-bigwood-beug]]
 

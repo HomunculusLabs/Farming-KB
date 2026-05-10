@@ -19,12 +19,12 @@ The psychedelic effects of phenethylamines are primarily mediated through intera
 The principal receptor responsible for psychedelic effects across all compound classes. Phenethylamines with psychedelic activity are agonists (or partial agonists) at the 5-HT2A receptor:
 
 - **Key compounds**: 2C-B ([[2c-b-compound-profile]]), 2C-I ([[2c-i-compound-profile]]), 2C-E ([[2c-e-compound-profile]]), DOB, DOI ([[dob-compound-profile]]), [[mescaline-compound-profile]]
-- **Mechanism**: Receptor activation leads to increased cortical excitability, altered thalamocortical signaling, and changes in the [[psilocybin-default-mode-network-ego-dissolution]] network
+- **Mechanism**: Receptor activation leads to increased cortical excitability, altered thalamocortical signaling, and changes in the default mode network
 - **SAR relationship**: 2,5-dimethoxy-4-substitution pattern optimizes 5-HT2A binding; larger 4-position substituents generally increase affinity
 - **DOI**: One of the most selective 5-HT2A agonists known, widely used as a research tool
 
 ### 5-HT2C Receptor
-Activation of 5-HT2C receptors contributes to the overall [[leary-psychedelic-experience-bardo-mapping]] and may modulate anxiety and visual effects:
+Activation of 5-HT2C receptors contributes to the overall psychedelic experience and may modulate anxiety and visual effects:
 
 - Many 2C and DO compounds have activity at 5-HT2C
 - 5-HT2C activation may contribute to the "body load" and physical sensations reported with some phenethylamines

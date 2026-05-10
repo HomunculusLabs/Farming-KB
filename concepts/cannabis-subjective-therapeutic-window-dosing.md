@@ -140,11 +140,10 @@ Adolescents or young adults with a known family history of psychosis or schizoph
 - Blesching, U. (2015). The Cannabis Health Index. North Atlantic Books. Chapter I.
 - FDA Adverse Event Reporting System data, 1997–2005.
 - Meier, M.H. et al. (2012). Persistent cannabis users show neuropsychological decline from childhood to midlife. PNAS.
-
 ## See Also
 
 - [[cannabis-endocannabinoid-system]]
 - [[cannabis-health-cbd-cannabidiol]]
 - [[cannabis-health-thc-tetrahydrocannabinol]]
 - [[cannabis-sativa-vs-indica-therapeutic-profiles]]
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]

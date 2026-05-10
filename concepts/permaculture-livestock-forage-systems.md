@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture livestock forage systems Systems
+title: Permaculture Livestock Forage Systems
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -15,11 +15,11 @@ sources:
 
 # Permaculture Livestock Forage Systems
 
-Permaculture integrates livestock into designed systems through diverse forage sources including pasture grasses, leguminous shrubs, fodder trees, and crop residues. Mollison's Manual (particularly Chapters 9-10) details extensive species lists and management strategies for forage production across climate zones.
+Permaculture integrates livestock [[medicinal-plant-guide]] into designed systems through diverse forage sources including pasture grasses, leguminous shrubs, fodder trees, and crop residues. Mollison's Manual (particularly Chapters 9-10) details extensive species lists and management strategies for forage production across climate zones.
 
 ## Fodder Trees and Shrubs
 
-Tree fodders are central to permaculture forage systems, providing browse during dry seasons, yielding on marginal land, and contributing to soil improvement through [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and deep [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
+Tree fodders are central to permaculture [[medicinal-plant-guide]] forage systems, providing browse during dry seasons, yielding on marginal land, and contributing to soil improvement through nitrogen fixation and deep nutrient cycling.
 
 ### Key Fodder Tree Species
 
@@ -33,9 +33,9 @@ Tree fodders are central to permaculture forage systems, providing browse during
 
 ### Design Integration
 
-Fodder trees are integrated into:
+Fodder trees [[medicinal-plant-guide]] are integrated into:
 - Windbreak rows (providing shelter and browse simultaneously)
-- Hedge rows along contour for [[permplant-willows-salix-erosion-control-fodder]] and fodder
+- Hedge rows along contour for erosion control and fodder
 - Riparian zones for stream bank stability and browse
 - Paddock systems as shade and supplementary feed
 
@@ -48,7 +48,7 @@ Fodder trees are integrated into:
 - **Silverleaf desmodium** (D. uncinatum) -- for mulch in established orchards, rocky sites, pastures, wet areas and acid soils
 - **Glycine** (Neonotonia wightii) -- deep-rooted twining perennial, cycles phosphates from deep soil layers, resists drought
 - **Lucerne** (Medicago sativa) -- grown from cool temperate to tropics, deep-rooted, combines well with many grasses
-- **Siratro** (Macroptilium atropurpureum) -- perennial legume, excellent nitrogen contribution to grasses, ideal for [[comparison-rotational-grazing-vs-continuous-grazing]]
+- **Siratro** (Macroptilium atropurpureum) -- perennial legume, excellent nitrogen contribution to grasses, ideal for rotational grazing
 - **Puero** (Pueraria phaseoloides) -- pioneer green and cover crop, very vigorous summer mat, good in wet tropics
 - **Stylo** (Stylosanthes guianensis) -- pioneer of poor acid soils, excellent mulch in tree systems
 - **Cowpea** (Vigna sinensis) -- preferred annual cover crop, combined with sorghum, maize, millet as hay or mulch
@@ -64,7 +64,7 @@ Fodder trees are integrated into:
 
 ### Rotational Grazing
 
-Pasture legumes need rotational grazing to persist. Species like glycine are fenced out in late summer as a winter reserve. Siratro and centro persist well under rotational management but can be grazed or cut out under continuous pressure.
+Pasture legumes need rotational grazing to persist. Species like glycine are fenced out in late summer as a winter [[multi-purpose-trees]] reserve. Siratro and centro persist well under rotational management but can be grazed or cut out under continuous pressure.
 
 ### Fenced Reserves
 
@@ -80,16 +80,6 @@ Tagasaste is drilled with turnip for future sheep forage; seedling trees establi
 
 ## Related Concepts
 
-- permaculture livestock forage systems -- Rotational [[permaculture-grazing-and-pasture]] management
+- permaculture livestock forage systems -- Rotational grazing and pasture management
 - permaculture livestock forage systems -- Animal species in permaculture systems
 - [[permaculture-woody-mulch-systems]] -- Forage species that double as mulch producers
-
-## See Also
-
-- holmgren-livestock-animal-systems
-
-- forage-systems-animals-permaculture
-- [[permaculture-designers-manual-animal-forage-systems]]
-- [[lablab-purpureus]]
-- [[leucaena-leucocephala]]
-- [[pasture-management]]

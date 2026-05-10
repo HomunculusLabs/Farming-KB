@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Tuli, H.S., et al. (2014). "Cordycepin and its Potential Therapeutic Applications." Advances in Pharmacological Sciences, 2014, 693749.
   - Das, S.K., et al. (2010). "Cordyceps militaris: A Potential Candidate for Health Benefits." Journal of Pharmacy & Bioallied Sciences, 2(4), 286-293.
-  - Holliday, J., Cleaver, M. (2008). "Medicinal Value of the Caterpillar Fungi." International Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], 10(3), 245-262.
+  - Holliday, J., Cleaver, M. (2008). "Medicinal Value of the Caterpillar Fungi." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 10(3), 245-262.
   - Mao, X., et al. (2021). "Cordyceps militaris: A Review of Pharmacological Functions." Frontiers in Pharmacology, 12, 653822.
   - Sung, J.M., et al. (2007). "Cordyceps spp.: A Complete Compendium." CRC Press.
 ---

@@ -5,7 +5,6 @@ tags: [agriculture, soil-health, regenerative, no-till, permaculture, soil-food-
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - /Users/t3rpz/wiki/raw/papers/one-straw-revolution-masanobu-fukuoka.md
   - /Users/t3rpz/wiki/raw/papers/lowenfels-teaming-with-microbes.md
@@ -141,7 +140,6 @@ White clover served as a permanent living mulch, fixing atmospheric nitrogen,
 suppressing weeds through competition, and maintaining soil moisture. Rice
 straw, scattered uncut over the field after harvest, provided a carbon-rich
 surface mulch that decomposed slowly, feeding soil organisms and protecting the
-soil surface from rain impact and desiccation. The clover was weakened
 ## See Also
 
 - [[mollison-designers-community-garden-design-urban-permaculture]]

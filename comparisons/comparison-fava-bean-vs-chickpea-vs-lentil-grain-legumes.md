@@ -12,11 +12,11 @@ date: 2026-05-03
 updated: 2026-05-03
 sources:
   - "FAO. FAOSTAT — Crops and livestock products. Food and Agriculture Organization of the United Nations. https://www.fao.org/faostat/"
-  - "Vance, C.P., Graham, P.H. & Allan, D.L. (2000). [[biological-nitrogen-fixation-agriculture]] fixation: Phosphorus — a critical future need? In: Nitrogen Fixation: From Molecules to Crop Productivity. Springer."
+  - "Vance, C.P., Graham, P.H. & Allan, D.L. (2000). biological-nitrogen-fixation-agriculture fixation: Phosphorus — a critical future need? In: Nitrogen Fixation: From Molecules to Crop Productivity. Springer."
   - "Siddique, K.H.M., Loss, S.P., Herwig, S.P. & Wilson, J.M. (1996). Growth, yield and water use of chickpea (Cicer arietinum L.) in a Mediterranean-type environment. Australian Journal of Experimental Agriculture, 36(7), 837–844."
   - "ICARDA — International Center for Agricultural Research in the Dry Areas. https://www.icarda.org/"
   - "Muehlbauer, F.J., Sarker, A. & Vandenberg, A. (2010). Lentil breeding. In: Handbook of Plant Breeding, Vol. 5, Springer."
-  - "Link, W., Balk, J. & Märländer, B. (2010). Nitrogen turnover and nitrate leaching after grain legume cultivation. In: [[query-best-grain-legumes-for-a-small-homestead]], Springer."
+  - "Link, W., Balk, J. & Märländer, B. (2010). Nitrogen turnover and nitrate leaching after grain legume cultivation. In: query-best-grain-legumes-for-a-small-homestead, Springer."
 type: comparison
 created: 2026-05-03
 ---

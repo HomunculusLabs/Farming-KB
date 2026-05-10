@@ -15,7 +15,7 @@ sources:
   - Ma, L.Q. et al. (2001). "A fern that hyperaccumulates arsenic." Nature 409: 579.
   - Singh, N. et al. (2006). "Arsenic tolerance and accumulation in Pteris vittata." Environmental Pollution 143: 261–267.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
-  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). "Pteridaceae." Flora of North America, Vol. 2.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora of North America, Vol. 2.
   - Jones, D.L. (1998). "Encyclopaedia of Ferns." Timber Press.
 ---
 

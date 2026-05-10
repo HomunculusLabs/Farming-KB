@@ -95,7 +95,7 @@ Impedance mismatches between system components cause reflected power that reduce
 
 ## Relationship to Microwave Steam Flash Sterilization
 
-The dipolar coupling mechanism described here provides the initial energy absorption step that drives the microwave steam flash sterilization process described in [[microwave-water-interaction-2.45-ghz]] Concepts
+The dipolar coupling mechanism described here provides the initial energy absorption step that drives the microwave steam flash sterilization process described in [[microwave-water-interaction-2-45-ghz]] Concepts
 
 - [[microwave-steam-flash-sterilization-mechanism]] for the trace water steam flash process
 - [[bacterial-spore-microwave-resistance]] for why spores evade the dipolar coupling mechanism

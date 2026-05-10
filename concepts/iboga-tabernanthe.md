@@ -1,18 +1,17 @@
 ---
-title: plants-of-the-gods-tabernanthe-iboga-chemistry — Iboga, Ibogaine, and Bwiti Ceremony
+title: Tabernanthe iboga — Iboga, Ibogaine, and Bwiti Ceremony
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [ethnobotany, psychopharmacology, consciousness, religion, culture, medicine, therapy, health, plants]
-sources:
-  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
+sources: []
 ---
 
 # Tabernanthe iboga
 
 ## Overview
 
-Tabernanthe iboga is a perennial rainforest shrub in the Apocynaceae family, native to the Congo Basin of West-Central Africa — particularly Gabon, Cameroon, and the Republic of Congo. The root bark contains the [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] **ibogaine**, along with dozens of related alkaloids including ibogamine, ibogaline, and tabernanthine. Iboga has been used for centuries in the **Bwiti** spiritual tradition and, since the mid-20th century, has attracted global attention for its potential in treating substance use disorders.
+Tabernanthe iboga is a perennial rainforest shrub in the Apocynaceae family, native to the Congo Basin of West-Central Africa — particularly Gabon, Cameroon, and the Republic of Congo. The root bark contains the indole alkaloid **ibogaine**, along with dozens of related alkaloids including ibogamine, ibogaline, and tabernanthine. Iboga has been used for centuries in the **Bwiti** spiritual tradition and, since the mid-20th century, has attracted global attention for its potential in treating substance use disorders.
 
 ## Botany
 
@@ -69,7 +68,7 @@ The Bwiti tradition, practiced primarily by the Fang, Mitsogo, and Punu peoples 
 - 1962: Howard Lotsof, a 19-year-old heroin user in New York, discovered ibogaine's anti-addictive properties after purchasing it from a chemist
 - Lotsof subsequently devoted his life to advocating for ibogaine research and treatment access
 - 1980s-90s: Underground ibogaine treatment networks emerged in Europe and the Americas
-- [[hofmann-lsd-clinical-research-early-studies]] has been conducted in Panama, Mexico, the Netherlands, and elsewhere
+- Clinical research has been conducted in Panama, Mexico, the Netherlands, and elsewhere
 
 ### Treatment Models
 
@@ -87,7 +86,7 @@ The Bwiti tradition, practiced primarily by the Fang, Mitsogo, and Punu peoples 
 
 ## Safety and Contraindications
 
-Ibogaine carries significant [[ayahuasca-tourism-medical-risks-prescription-interactions]]:
+Ibogaine carries significant medical risks:
 
 - **Cardiac**: QT interval prolongation, risk of torsades de pointes, fatal arrhythmias
 - **Contraindicated** with: heart disease, prolonged QT, liver impairment, history of stroke or seizures
@@ -120,8 +119,8 @@ Wild T. iboga populations are declining due to:
 
 ## Related Pages
 
-- [[psychedelic-compounds-reference]] for [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] with other entheogens
+- [[psychedelic-compounds-reference]] for pharmacological comparison with other entheogens
 - [[richard-evans-schultes-updated]] documented iboga use during his ethnobotanical fieldwork in the region
 - [[psychedelic-therapy-current-research]] covers the broader history of psychedelic-assisted treatment
-- [[harm-reduction-guide]] for [[shulgin-safety-principles-self-experimentation]] relevant to ibogaine use
+- [[harm-reduction-guide]] for safety principles relevant to ibogaine use
 - [[ibogaine-reference]]

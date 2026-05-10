@@ -97,6 +97,8 @@ hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
 ## See Also
+
+- [[ingham-foliar-applications-compost-tea-disease-suppression]]
 - [[ingham-compost-tea-application-rates-and-timing]]
 - [[ingham-field-guide-compost-tea-application-rates]]
 - [[ingham-compost-contaminants]]

@@ -108,6 +108,8 @@ Several Chinese cities have adopted Metasequoia as their official civic tree. Th
 
 ## See Also
 
+- [[encephalartos-altensteinii]]
+
 - [[sequoia-sempervirens]]
 - [[sequoiadendron-giganteum]]
 - [[taxodium-distichum]]

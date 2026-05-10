@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
   - Chang, S.T. & Miles, P.G. (2004). "Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact." 2nd ed. CRC Press.
-  - Stamets, P. (1993). "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]." Ten Speed Press.
+  - Stamets, P. (1993). "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." Ten Speed Press.
   - Wasser, S.P. (2010). "Medicinal mushroom science: history, current status, future trends, and unsolved problems." International Journal of Medicinal Mushrooms 12(1): 1-16.
 ---
 

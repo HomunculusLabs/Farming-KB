@@ -18,7 +18,7 @@ for uncontrolled pollen distribution. The resulting first-generation seeds,
 produced from unknowable parentage combinations, were called the "Trainwreck
 generation." This method was the origin of many named West Coast sativa lines
 and represents an important historical breeding approach predating modern
-controlled crosses and [[trainwreck]]
+controlled crosses and [[trainwreck-cannabis]]
 - [[fukuoka-textdoc-soil-building-as-multigenerational-legacy]]
 
 - [[equatorial-photoperiod-early-flowering]]

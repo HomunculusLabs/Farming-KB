@@ -40,11 +40,10 @@ Source: [[cover-crops]]
 ### Fava Beans (Broad Beans)
 
 - More frost-hardy than garden peas
-## See Also
 
 ## See Also
-
 - [[solomon-growing-vegetables-essentials]]
+
 ## Practical Considerations
 
 When working with Solomon Fruit Vegetables Growing, several practical factors should be

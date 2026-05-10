@@ -9,6 +9,18 @@ type: concept
 ---
 # Mushroom Cultivation Phases Successful mushroom cultivation follows a defined sequence of phases, each with specific environmental requirements. For oyster mushrooms (*Pleurotus* spp.), the entire cycle from inoculation to harvest typically spans 4-8 weeks depending on species, substrate, and conditions. ## Phase 1: Strain Selection and Maintenance Cultivation begins with selecting a genetically stable strain suited to the target species, substrate, and environment. Strains are maintained on agar media (malt extract agar or potato dextrose agar) and stored under refrigeration. Regular subculturing every 3-6 months prevents senescence. Key considerations include fruiting temperature range, colonization speed, biological efficiency, and market characteristics (color, size, shelf life). ## Phase 2: Spawn Production Spawn is the living fungal inoculum used to transfer mycelium into bulk substrate. Quality spawn is the foundation of successful cultivation. ### Grain Spawn The most common spawn type. Rye, wheat, or millet grain is hydrated, sterilized, and inoculated with agar culture. Mycelium colonizes the grain over 10-14 days at 22-25 degrees C. Grain spawn offers rapid colonization due to numerous inoculation points. ### Sawdust Spawn Hardwood sawdust mixed with bran is sterilized and inoculated. Slower to produce but less prone to contamination during handling. Preferred for log inoculation and some commercial operations. ## Phase 3: Substrate Preparation The chosen substrate is prepared through chopping, hydrating, and pasteurization or sterilization. Moisture content is adjusted to 60-75%, and pH is typically corrected to 6.5-7.5 for oyster mushrooms. See [[spent-mushroom-substrate]] for detailed management approaches.
 
+## Phase 4: Inoculation and Colonization
+
+Spawn is mixed into the cooled substrate at a rate of 5-15% by weight. Higher inoculation rates speed colonization and reduce contamination risk but increase cost. During colonization, the substrate should be kept in darkness at 22-26 degrees C with adequate gas exchange. Full colonization typically takes 14-21 days for oyster mushrooms on straw or supplemented sawdust. See [[mycelium-colonization]] for detailed guidance on monitoring progress.
+
+## Phase 5: Fruiting
+
+Once fully colonized, substrates are exposed to fruiting triggers: fresh air exchange (high CO2 to ambient O2), indirect light (12 hours on/off), high humidity (85-95%), and a temperature drop of 5-10 degrees C. Primordia (pin formation) typically appears within 3-7 days. Proper [[mushroom-fruiting-environment]] management during this phase is critical for yield and quality.
+
+## Phase 6: Harvesting and Post-Harvest
+
+Mushrooms are harvested just before or as the veil tears, when flavor and nutritional value peak. Oyster mushrooms are typically pulled or cut from the substrate. After the first flush, substrates can be rehydrated to produce additional flushes, though biological efficiency declines with each successive flush. See [[mushroom-cultivation-overview]] for the complete lifecycle context.
+
 ## See Also
 
 - [[oyster-mushroom-substrates]]

@@ -10,7 +10,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mills, S. (2012). \"Cannabis: The Genus Cannabis.\" CRC Press."
-  - "ElSohly, M.A. & Slade, D. (2005). \"Chemical Constituents of Marijuana.\" Perspectives in Medicinal [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] Research, 1, 1–17."
+  - "ElSohly, M.A. & Slade, D. (2005). \"Chemical Constituents of Marijuana.\" Perspectives in Medicinal psilocybin-psilocin-chemistry-and-pharmacology-emcdda Research, 1, 1–17."
   - "Hazekamp, A. & Fischedick, J.T. (2012). \"Cannabis — from Cultivar to Chemovar.\" Drug Testing and Analysis, 4(10), 660–667."
   - "Lewis, M.A. et al. (2018). \"Tolerance to the Effects of High-Potency Cannabis.\" Neuropsychopharmacology, 43(4), 726–735."created: 2026-05-07
 

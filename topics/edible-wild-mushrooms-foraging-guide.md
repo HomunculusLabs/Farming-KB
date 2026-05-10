@@ -107,7 +107,6 @@ look-alike species with different spore colors.
 
 Essential foraging equipment includes a basket or mesh bag (allowing spore
 dispersal), a sharp knife, a small brush for cleaning debris, paper bags for
-separating species, a regional [[field-guide-psilocybin-bluing-reaction-identification]], and a hand lens. A notebook for
 ## See Also
 
 - chanterelle identification for detailed chanterelle species coverage

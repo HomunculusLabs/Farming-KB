@@ -9,11 +9,11 @@ sources: []
 
 # Chanterelle Guide
 
-Chanterelles are among the most prized [[edible-wild-mushrooms-by-region]] for foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy to identify — making them an ideal target for beginning foragers.
+Chanterelles are among the most prized wild mushrooms for foraging, valued for their fruity aroma, peppery flavor, and firm, meaty texture. Found across the Northern Hemisphere in association with specific trees, chanterelles are reliable, abundant, and relatively easy to identify — making them an ideal target for beginning foragers. (see [[comparison-morel-vs-chanterelle]]).
 
 ## Overview
 
-"Chanterelle" refers to several species in two genera: Cantharellus (true chanterelles) and Craterellus (trumpet chanterelles and allies). All are mycorrhizal, forming symbiotic associations with tree roots, which means they cannot be cultivated commercially. They must be wild-harvested, and they represent one of the most commercially important groups of wild-foraged mushrooms worldwide.
+"Chanterelle" refers to several species in two genera: Cantharellus (true chanterelles) and Craterellus (trumpet chanterelles and allies). All are mycorrhizal, forming symbiotic associations with tree roots, which means they cannot be cultivated commercially. They must be wild-harvested, and they represent one of the most commercially important groups of wild-foraged mushrooms worldwide. (see [[chanterelle-species-eastern-us]]).
 
 ## Major Species
 
@@ -30,7 +30,7 @@ The most widely known and collected chanterelle:
 - Spore print: pale yellow to cream
 - Habitat: mixed forests, primarily with oak, beech, birch, spruce, and Douglas-fir
 - Season: June through October (varies by region)
-- Distribution: widespread across [[psilocybin-north-america-pacific-northwest]], Europe, and Asia
+- Distribution: widespread across North America, Europe, and Asia
 
 ### Cantharellus cinnabarinus (Cinnabar Chanterelle)
 
@@ -64,7 +64,7 @@ The most widely known and collected chanterelle:
 ### Cantharellus lateritius (Smooth Chanterelle)
 
 - Cap: orange, smooth underside (nearly absent false gills)
-- Common in [[polypore-fungi-eastern-north-america]] America
+- Common in eastern North America
 - Good edible but less flavorful than C. cibarius
 
 ## Mycorrhizal Ecology
@@ -73,7 +73,7 @@ All chanterelle species form ectomycorrhizal associations with trees:
 
 - They form a sheath around fine root tips of compatible host trees
 - Exchange soil minerals and water for photosynthetic sugars
-- Can form extensive [[fungal-mycelial-networks-nutrient-translocation]] connecting multiple trees
+- Can form extensive mycelial networks connecting multiple trees
 - Fruiting is triggered by specific environmental cues:
   - Adequate soil moisture (after rain events)
   - Moderate temperatures (55-70 F for most species)
@@ -140,10 +140,11 @@ The most dangerous chanterelle look-alike:
 - Mature forests (30+ years old) with a mix of tree species
 - Moist but well-drained soils
 - Areas with dappled light (forest edges, gaps in canopy)
-## Related Topics
+- Mossy areas, especially near streams
+- Check the same spots annually — chanterelles are site-loyal
 
-- [[porcini-boletus-guide]] for another premier wild-foraged [[mycelium-running-mycorrhizal-mushroom-gardens]]
-- [[matsutake-mushroom]] for high-value mycorrhizal [[fukuoka-matsutake-artificial-cultivation-attempt]]
-- [[truffle-guide]] for another uncultivable mycorrhizal fungus
+### Timing
 
-## Related
+- After sustained rain (2+ inches over several days)
+- 2-7 days after significant rainfall
+- Morning foraging is best (mushrooms are fresh before insects and heat)

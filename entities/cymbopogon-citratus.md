@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/ — citral pharmacology, antimicrobial, and anti-inflammatory studies
-  - https://powo.science.kew.org/ — [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]] and distribution
+  - https://powo.science.kew.org/ — bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson and distribution
   - Shah, G. et al. "Scientific Basis for the Therapeutic Use of Cymbopogon citratus, Stapf (Lemongrass)." Evidence-Based Complementary and Alternative Medicine, 2011.
   - Bakkali, F. et al. "Biological Effects of Essential Oils — A Review." Food and Chemical Toxicology, 2008.
 ---

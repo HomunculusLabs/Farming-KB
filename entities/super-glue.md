@@ -13,7 +13,7 @@ sources:
   - Leafly Staff (2023). "Super Glue Cannabis Strain Information." Leafly.com.
   - AllBud (2024). "Super Glue Weed Strain." AllBud.com.
   - Pearce, D.T. et al. (2020). "Cannabis chemovar identification using terpene and cannabinoid profiles." Cannabis and Cannabinoid Research 5(3): 213-224.
-  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] over the last two decades." Biological Psychiatry 79(7): 613-619.
+  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing over the last two decades." Biological Psychiatry 79(7): 613-619.
 created: 2026-04-28
 ---
 
@@ -113,5 +113,5 @@ The strain produces strong lateral branching when trained, making it suitable fo
 - [[gmo-garlic-cookies]]
 - [[gelato]]
 - [[kush-mints]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[purple-punch]]

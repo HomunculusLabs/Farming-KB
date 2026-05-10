@@ -6,7 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - title: "The Natural Way of Farming"
-    author: "[[masanobu-fukuoka-natural-farming-philosophy]]"
+    author: "masanobu-fukuoka-natural-farming-philosophy"
     pages: "407-410, 3544-3597"
 type: concept
 ---

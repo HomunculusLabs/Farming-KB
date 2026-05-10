@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [hash-oil, cannabis-oil, extraction, butane, honey-oil]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources:
+sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---

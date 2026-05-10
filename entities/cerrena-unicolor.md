@@ -24,7 +24,7 @@ updated: 2026-04-28
 sources:
   - Ryvarden, L. & Gilbourn, C.L. (2004). "Polyporaceae." Synopsis Fungorum 21: 1–708.
   - Floudas, D. et al. (2012). "The Paleozoic Origin of Enzymatic Lignin Decomposition Reconstructed from 31 Fungal Genomes." Science 336(6089): 1715–1719.
-  - Dashtban, M. et al. (2010). "Fungal Biodegradation and [[singh-ligninolytic-enzymes-fungal-bioremediation]]." International Biodeterioration & Biodegradation 64(6): 433–451.
+  - Dashtban, M. et al. (2010). "Fungal Biodegradation and singh-ligninolytic-enzymes-fungal-bioremediation." International Biodeterioration & Biodegradation 64(6): 433–451.
   - Binder, M. et al. (2013). " molecular Phylogeny of Polyporales." Mycologia 105(6): 1430–1450.
 ---
 

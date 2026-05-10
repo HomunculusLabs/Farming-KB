@@ -52,6 +52,21 @@ This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
+## Biological Treatment Systems
+
+Permaculture water treatment relies on biological processes rather than
+chemical or mechanical filtration. Constructed reed beds and gravel
+wetlands use aquatic plants and their associated root-zone microorganisms
+to break down organic matter and filter pathogens. The three zones of
+treatment typically include an anaerobic settling chamber, a facultative
+wetland with emergent plants, and a polishing zone with sub-surface flow.
+
+Plants commonly used in treatment wetlands include Phragmites australis
+(common reed), Typha latifolia (cattail), Iris pseudacorus (yellow flag
+iris), and Scirpus species (bulrushes). These plants transport oxygen to
+their root zones, supporting aerobic microbial communities that decompose
+organic waste and reduce pathogen counts.
+
 ## Future Directions
 
 Ongoing developments in research and practice continue to expand our

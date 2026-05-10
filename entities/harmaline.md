@@ -140,10 +140,6 @@ The 7-hydroxy group increases polarity, affecting brain
 - **Harmane** — Methylated beta-carboline in tobacco smoke.
 
 ## See Also
-
 - [[harmala-alkaloids]]
 - [[beta-carboline]]
-
-## See Also
-
 - [[syrian-rue-peganum-harmala-ethnobotany]]

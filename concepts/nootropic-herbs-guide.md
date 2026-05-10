@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-Nootropics are substances that enhance cognitive function — memory, focus, creativity, motivation, and attention. While the term was coined in 1972 by Romanian chemist Corneliu Giurgea (referring to piracetam), many herbs have been used for thousands of years in traditional medicine systems for cognitive enhancement. These herbal nootropics generally work through gentler, multi-target mechanisms compared to synthetic nootropics.
+Nootropics are substances that enhance cognitive function — memory, focus, creativity, motivation, and attention. While the term was coined in 1972 by Romanian chemist Corneliu Giurgea (referring to piracetam), many herbs [[parsley-celery-herbs-growing-guide]] have been used for thousands of years in traditional medicine systems for cognitive enhancement. These herbal nootropics generally work through gentler, multi-target mechanisms compared to synthetic nootropics.
 
-This guide covers five primary nootropic herbs: bacopa, lion's mane, gotu kola, ginkgo, and rosemary.
+This guide covers five primary nootropic herbs [[parsley-celery-herbs-growing-guide]]: bacopa, lion's mane, gotu kola, ginkgo, and rosemary.
 
 ## Bacopa (Bacopa monnieri)
 
@@ -52,18 +52,18 @@ One of the most important herbs in Ayurvedic medicine, known as Brahmi. Used for
 ## Lion's Mane (Hericium erinaceus)
 
 ### Overview
-A [[gourmet-medicinal-mushroom-casing-layer-techniques]] with unique neuroregenerative properties. Covered in detail in [[medicinal-mushroom-guide-lions-mane]]. Key points for nootropic use:
+A medicinal mushroom with unique neuroregenerative properties. Covered in detail in [[medicinal-mushroom-guide-lions-mane]]. Key points for nootropic use:
 
 ### Nootropic Mechanisms
 - **Hericenones and erinacines:** Cross the blood-brain barrier and stimulate nerve growth factor (NGF) and brain-derived neurotrophic factor (BDNF).
 - **Neuroplasticity:** Promotes neurite outgrowth and synaptic formation.
 - **Anti-inflammatory neuroprotection:** Reduces neuroinflammation via microglial modulation.
-- **Antioxidant:** Protects neurons from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
+- **Antioxidant:** Protects neurons from oxidative stress.
 - **Myelin support:** May enhance myelination of nerve fibers.
 
 ### Nootropic Dosing
-- **Cognitive enhancement:** 1000-3000mg [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] extract daily.
-- **Mild cognitive impairment:** 3000mg/day based on [[mushroom-cancer-clinical-trials-overview]].
+- **Cognitive enhancement:** 1000-3000mg fruiting body extract daily.
+- **Mild cognitive impairment:** 3000mg/day based on clinical trials.
 - Effects begin at 2-4 weeks, peak at 8-12 weeks.
 - Dual extraction preferred for comprehensive compound coverage.
 
@@ -137,14 +137,18 @@ One of the oldest living tree species — fossil records date back 270 million y
 - **Bleeding risk:** Ginkgolide B inhibits platelet aggregation. Discontinue 2 weeks before surgery. Avoid with anticoagulants (warfarin, aspirin, clopidogrel).
 - Seizure disorders (rare increased seizure frequency). Pregnancy and breastfeeding. Many medication interactions — check with pharmacist.
 
-## Related
+---
 
-- [[phenibut]] Topics
+## Rosemary (Rosmarinus officinalis)
 
-- [[medicinal-mushroom-guide-lions-mane]] for detailed lion's mane information
-- [[adaptogenic-herbs-guide]] for stress-supporting herbs that complement cognitive enhancement
-- [[psychedelic-plants-chemical-guide]] for psychoactive compound comparisons
+### Overview
+Mediterranean aromatic herb used since ancient times for memory enhancement. The Latin name translates roughly to "dew of the sea." Greek students wore rosemary garlands during exams. Shakespeare's Ophelia says, "There's rosemary, that's for remembrance." Modern research validates its cognitive-enhancing properties.
+
+### Key Compounds
+- **1,8-cineole (eucalyptol):** Monoterpene ketone. Primary compound responsible for cognitive effects. Crosses blood-brain barrier.
+- **Carnosic acid:** Phenolic diterpene. Potent neuroprotective antioxidant.
+- **Rosmarinic acid:** Polyphenol with antioxidant, anti-inflammatory, and anxiolytic effects.
+
 
 ## See Also
-
-- [[picamilon]]
+- [[culinary-herbs-cultivation-and-kitchen-garden-guide]]

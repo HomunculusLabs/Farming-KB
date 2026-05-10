@@ -16,7 +16,7 @@ updated: 2026-04-28
 sources:
   - "Glaser, B. et al. (2001). 'Amazonian Dark Earths: Origin, Properties, Management.' Kluwer Academic Publishers."
   - "Woods, W.I. et al. (2009). 'Amazonian Dark Earths: Wim Sombroek's Vision.' Springer."
-  - "Lehmann, J. et al. (2003). '[[ph-and-nutrient-availability-garden-soils]] and Leaching in an Archaeological Anthrosol and a Ferralsol of the Central Amazon Basin.' Geoderma, 112(3-4), 293-313."
+  - "Lehmann, J. et al. (2003). 'ph-and-nutrient-availability-garden-soils and Leaching in an Archaeological Anthrosol and a Ferralsol of the Central Amazon Basin.' Geoderma, 112(3-4), 293-313."
   - "Liang, B. et al. (2006). 'Black Carbon Increases Cation Exchange Capacity in Soils.' Soil Science Society of America Journal, 70(5), 1719-1730."
   - "Steiner, C. et al. (2007). 'Long Term Effects of Manure, Charcoal and Mineral Fertilization on Crop Production and Fertility on a Highly Weathered Central Amazonian Upland Soil.' Plant and Soil, 291(1-2), 275-290."
   - "Mann, C.C. (2005). '1491: New Revelations of the Americas Before Columbus.' Alfred A. Knopf."
@@ -140,7 +140,6 @@ Early results from Terra Preta Nova trials have been promising. Plots amended wi
 Despite the excitement surrounding terra preta and biochar, several important caveats and challenges must be acknowledged:
 
 ### Feedstock Sustainability
-
 ## See Also
 
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]

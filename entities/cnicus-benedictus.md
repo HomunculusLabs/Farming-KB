@@ -10,7 +10,7 @@ updated: 2026-05-08
 sources:
   - Stuart, M. (1979). "The Encyclopedia of Herbs and Herbalism." Orbis Publishing.
   - Chevallier, A. (1996). "The Encyclopedia of Medicinal Plants." DK Publishing.
-  - Small, E. (2006). "[[holzer-medicinal-and-culinary-herbs-compendium]]." NRC Research Press.
+  - Small, E. (2006). "holzer-medicinal-and-culinary-herbs-compendium." NRC Research Press.
   - Al-Snafi, A.E. (2015). "Chemical constituents and pharmacological effects of Cnicus benedictus." Indo American Journal of Pharmaceutical Research, 5(7), 1600-1608.
   - Bremness, L. (1994). "Herbs." DK Publishing.
 ---

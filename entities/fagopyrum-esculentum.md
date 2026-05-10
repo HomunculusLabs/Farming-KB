@@ -56,6 +56,8 @@ Buckwheat is direct-seeded at 40–60 kg/ha, 2–5 cm deep, after soil temperatu
 
 ## See Also
 
+- [[fagopyrum-tataricum]]
+
 - [[diplazium-esculentum]]
 
 - [[dynamic-accumulator-plants-nitrogen]]

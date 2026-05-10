@@ -12,9 +12,9 @@ updated: 2026-04-28
 sources:
   - Arora, D. (1986). "Mushrooms Demystified." 2nd ed. Ten Speed Press.
   - Kreisel, H. (2001). "Die Gattung Phallus in Mitteleuropa." Zeitschrift für Mykologie, 67, 89-104.
-  - Tuno, N. (1998). "[[aquatic-fungi-spore-dispersal-ingold]] of Dictyophora indusiata and Phallus impudicus." Mycoscience, 39, 79-83.
+  - Tuno, N. (1998). "aquatic-fungi-spore-dispersal-ingold of Dictyophora indusiata and Phallus impudicus." Mycoscience, 39, 79-83.
   - Courtney, R. & Tuthill, D. (2000). "Stinkhorn fungi." Mycologist, 14(3), 104-105.
-  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms." Knopf.
+  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms." Knopf.
 created: 2026-04-28
 ---
 

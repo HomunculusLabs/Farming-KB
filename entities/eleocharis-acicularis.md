@@ -12,10 +12,10 @@ sources:
   - Strong, A.S. (2006). "Taxonomic Revision of the Eleocharis acicularis
     Complex." PhD Dissertation, University of Illinois.
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of
-    Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada." New York Botanical Garden.
+    Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada." New York Botanical Garden.
   - USDA NRCS (2024). "Eleocharis acicularis Plant Guide." Natural Resources
     Conservation Service.
-  - Godfrey, R.K. & Wooten, J.W. (1979). "[[permaculture-plants-aquatic-and-wetland-species]] Plants of
+  - Godfrey, R.K. & Wooten, J.W. (1979). "permaculture-plants-aquatic-and-wetland-species Plants of
     Southeastern United States." University of Georgia Press.
 ---
 
@@ -132,6 +132,8 @@ The species is listed in several state-level protected plant databases as
 an indicator of high-quality wetland communities.
 
 ## See Also
+
+- [[eleocharis-equisetiformis]]
 
 - [[juncus-effusus]]
 - [[schoenoplectus-lacustris]]

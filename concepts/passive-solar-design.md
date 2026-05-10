@@ -1,11 +1,10 @@
 ---
-title: comparison-passive-solar-vs-earth-sheltered Design
+title: Passive Solar Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [design, permaculture, construction, sustainability, homesteading, energy, off-grid]
-sources:
-  sources: []
+sources: []
 ---
 
 # Passive Solar Design
@@ -35,7 +34,7 @@ The long axis of the building should face within 15 degrees of true south (not m
 ### 2. Glazing (Windows)
 
 **South-facing windows:**
-- Collect [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]] during winter
+- Collect solar energy during winter
 - Typical area: 40-60% of south wall as glass
 - Double or triple-glazed windows (R-2 to R-5)
 - Low-emissivity (low-E) coatings: Low-E with high solar heat gain coefficient (SHGC) on south windows
@@ -59,9 +58,9 @@ Thermal mass stores heat from the sun during the day and releases it slowly at n
 - Concrete slab floors: R-value per inch is low, but mass is excellent
 - Stone: Granite, limestone, sandstone
 - Adobe and compressed earth block
-- [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
+- [[cob-building-basics-detailed|Cob]] walls: Excellent thermal mass in a natural building
 - Water: The highest volumetric heat capacity of any common material
-- Earthen plaster over [[comparison-cob-construction-vs-straw-bale-construction]]: Moderate mass
+- Earthen plaster over straw bale: Moderate mass
 
 **Placement:**
 - Directly behind south-facing windows (sun must hit the mass)
@@ -71,7 +70,7 @@ Thermal mass stores heat from the sun during the day and releases it slowly at n
 - Indirect gain: Sun heats an attached sunspace that transfers heat to the main building
 
 **Sizing thermal mass:**
-- Rule of thumb: 4-6 square feet of 4-inch-thick masonry per [[comparison-biointensive-vs-square-foot-gardening]] of south-facing glazing
+- Rule of thumb: 4-6 square feet of 4-inch-thick masonry per square foot of south-facing glazing
 - Too little mass: Overheating during the day, cold at night
 - Too much mass: Takes too long to heat, never reaches comfortable temperature
 
@@ -142,9 +141,10 @@ Even the best passive solar design fails without proper insulation and air seali
 - Maximize south-facing windows relative to wall area
 - Heavy floor or a water-filled thermal mass container
 - Minimal north-facing glazing
-## See Also
+- Overhangs sized for your latitude
+- Insulation priority: Tiny houses have high surface-to-volume ratio
 
-- [[urban-permaculture-passive-solar-cistern-design]]
+### [[earthbag-building|Earthbag Structures]]
 
-- [[radiant-floor-heating]]
-- [[masonry-heater-design]]
+- Thick earth walls provide excellent thermal mass
+- Small, well-placed windows on south side

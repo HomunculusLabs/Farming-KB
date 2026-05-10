@@ -14,7 +14,7 @@ sources:
   - Leopold, D.J. (2005). "Native Plants of the Northeast." Timber Press.
   - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." New England Wild Flower Society.
   - USDA NRCS (2024). "Lindera benzoin Plant Guide." USDA Natural Resources Conservation Service.
-  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Brinkman, K.A. (1974). "Lindera benzoin (L.) Blume — Spicebush." USDA Forest Service Silvics Manual.
 ---
 

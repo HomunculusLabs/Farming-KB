@@ -103,6 +103,8 @@ Major commercial cultivars include 'Mephisto', 'G-2', and several Hungarian bree
 
 ## See Also
 
+- [[penstemon-digitalis]]
+
 - [[digitalis-purpurea]]
 - [[convallaria-majalis]]
 - [[atropa-belladonna]]

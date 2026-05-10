@@ -4,8 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: entity
 tags: [chemistry, tihkal]
-sources:
-  sources: []
+sources: []
 ---
 # 4-MA
 
@@ -54,7 +53,7 @@ administration of up to 600 mg amphetamine produced no detectable 4-MA in urine,
 this theory was not valid.
 
 **Social tragedy:** 4-MA was widely distributed in the US (as sulfate) and
-Canada (as hydrochloride), promoted as being [[mescaline-entity]] -- the 3,4,5-trimethoxyphenethylamine
+Canada (as hydrochloride), promoted as being [[mescaline]] -- the 3,4,5-trimethoxyphenethylamine
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
 - [[alexander-shulgin]]

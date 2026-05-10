@@ -113,5 +113,7 @@ Amanita relatives. Following the prohibition of psilocybin mushrooms in the UK i
 2005, some retailers began promoting Amanita muscaria as a legal alternative, a
 ## See Also
 
+- [[emcdda-psilocybin-mushroom-species-and-identification]]
+
 - [[baeocystin]]
 - [[dimethyltryptamine]]

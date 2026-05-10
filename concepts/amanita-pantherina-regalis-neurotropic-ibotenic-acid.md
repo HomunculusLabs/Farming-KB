@@ -108,3 +108,7 @@ The mycorrhizal ecology of these Amanita species has profound implications:
 - Homrich, M.H. (1965). Ocorrência de Amanita muscaria no Brasil.
 - Jenkins, D.T. (1986). Amanita regalis in Alaska.
 - Wasson, R.G. & Wasson, V.P. (1957). Mushrooms, Russia and History. Pantheon Books.
+
+## See Also
+
+- [[indigenous-use-neurotropic-fungi-mexico]]

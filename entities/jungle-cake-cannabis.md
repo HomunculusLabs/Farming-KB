@@ -118,6 +118,8 @@ heavy consumption, making the strain less suitable for daytime use.
 
 ## See Also
 
+- [[wedding-cake-cannabis]]
+
 - [[girl-scout-cookies]]
 - [[chemdawg]]
 - [[mac-1]]

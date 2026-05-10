@@ -15,14 +15,14 @@ sources:
 
 ## Overview
 
-Agar media are gelatinous, nutrient-rich substrates used for culturing mushroom mycelium in the laboratory. They serve essential functions in [[accessible-mushroom-cultivation-for-disabilities]]: isolating pure strains from spores or tissue, expanding mycelium for [[mushroom-cultivation-grain-spawn|grain spawn]] production, and maintaining [[mushroom-genetics-strain-selection|strain collections]]. Different formulations suit different purposes and species preferences.
+Agar media are gelatinous, nutrient-rich substrates used for culturing mushroom mycelium in the laboratory. They serve essential functions in mushroom cultivation: isolating pure strains from spores or tissue, expanding mycelium for [[mushroom-cultivation-grain-spawn|grain spawn]] production, and maintaining [[mushroom-genetics-strain-selection|strain collections]]. Different formulations suit different purposes and species preferences.
 
 ## Basic Principles
 
 All agar media share these components:
 
-- **Agar:** A gelling agent derived from red algae (Gelidium or Gracilaria species), typically used at 1.5-2.0% concentration (15-20 g per liter). Provides a solid but moist surface for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
-- **Nutrient source:** Provides carbohydrates, nitrogen, minerals, and vitamins for [[brassinosteroid-fungal-growth-promotion]]
+- **Agar:** A gelling agent derived from red algae (Gelidium or Gracilaria species), typically used at 1.5-2.0% concentration (15-20 g per liter). Provides a solid but moist surface for mycelial growth
+- **Nutrient source:** Provides carbohydrates, nitrogen, minerals, and vitamins for fungal growth
 - **Water:** Distilled or deionized; typically 1 liter per recipe
 - **pH adjustment:** Most mushroom mycelium prefers slightly acidic conditions (pH 5.0-6.5)
 
@@ -30,7 +30,7 @@ All agar media share these components:
 
 ### Potato Dextrose Agar (PDA)
 
-The most widely used general-purpose [[mazatec-mushroom-culture-and-velada]] medium. Suitable for most cultivated species.
+The most widely used general-purpose mushroom culture medium. Suitable for most cultivated species.
 
 **Ingredients:**
 - 200-300 g potatoes (peeled, diced)
@@ -53,7 +53,7 @@ An excellent all-purpose medium, often preferred over PDA for its consistency an
 
 **Ingredients:**
 - 20 g malt extract powder (light malt extract, not dark)
-- 2 g [[marmite-yeast-extract-straw-substrate]] (optional but beneficial)
+- 2 g yeast extract (optional but beneficial)
 - 15-20 g agar powder
 - 1 liter distilled water
 
@@ -136,14 +136,15 @@ For isolating slow-growing fungi that might be overgrown on richer media, or for
 
 A richer medium for fastidious species:
 
-## See Also
+- 5 g nutrient broth
+- 5 g yeast extract
+- 10 g peptone
+- 20 g dextrose
+- 15-20 g agar
+- 1 liter distilled water
 
-- [[pda-and-tissue-culture|PDA and tissue culture]]
-- [[mushroom-agar-work|agar work guide]]
-- [[agar-work-guide|agar work detailed guide]]
-- [[mushroom-cultivation-cloning-isolation|tissue culture and strain isolation]]
+## Pouring Plates
 
-## Related
-
-- [[grain-spawn-preparation]]
-- [[mushroom-cultivation-sterile-technique]]
+1. Allow sterilized media to cool to approximately 50-55°C (comfortable to touch but still liquid)
+2. Pour 20-25 mL into each sterile Petri dish inside a laminar flow hood
+3. Cover immediately and allow to solidify (15-30 minutes)

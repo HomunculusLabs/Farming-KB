@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [forest-ecology, ecology, biodiversity, nutrient-cycling, succession, conservation]
-sources:
-  - "raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md"
+sources: []
 ---
 
 # Forest Ecology Basics
@@ -31,7 +30,7 @@ Composed of woody plants under 15-20 feet. This layer includes berry-producing s
 Non-woody plants including ferns, wildflowers, and grasses. This layer is most diverse in spring before canopy leaf-out creates deep shade. Many spring ephemerals complete their entire life cycle in this brief window.
 
 ### Forest Floor and Litter Layer
-The ground layer includes leaf litter, downed wood, and soil organic matter. This zone hosts the majority of forest [[fungal-decomposition|decomposition]] and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Fungal networks ([[mycorrhizal-types|mycorrhizae]]) are concentrated here, connecting trees and facilitating [[arbuscule-isolation-and-nutrient-exchange-mechanisms]].
+The ground layer includes leaf litter, downed wood, and soil organic matter. This zone hosts the majority of forest [[fungal-decomposition|decomposition]] and nutrient cycling. Fungal networks ([[mycorrhizal-types|mycorrhizae]]) are concentrated here, connecting trees and facilitating nutrient exchange.
 
 ### Root Zone
 Below ground, root systems create a complex network. Most tree roots are in the top 2-3 feet of soil, though taproots can extend much deeper. The root zone is the primary interface between plants and soil [[fungal-biology-fundamentals|biology]].
@@ -71,7 +70,7 @@ Certain species have disproportionately large ecological impacts:
 
 - **Beavers**: Create wetland habitat that benefits amphibians, fish, and waterfowl
 - **Woodpeckers**: Create cavities used by dozens of secondary cavity nesters
-- **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]**: Connect 80-90% of forest plants in nutrient-sharing networks
+- **Mycorrhizal fungi**: Connect 80-90% of forest plants in nutrient-sharing networks
 - **Predators**: Regulate herbivore populations, preventing overbrowsing of seedlings
 
 ### Edge Effects
@@ -84,7 +83,7 @@ In forests, 90%+ of nutrients are held in living and dead biomass rather than fr
 
 1. Fresh litter arrives (leaves, twigs, woody debris)
 2. Fungi colonize and begin breaking down lignin and cellulose
-3. [[cultivar-endorhiza-bacterial-communities-cannabis]] process simpler compounds
+3. Bacterial communities process simpler compounds
 4. Invertebrates (springtails, mites, millipedes) fragment and mix material
 5. Mineral nutrients are released and taken up by plant roots and mycorrhizae
 
@@ -93,8 +92,8 @@ Most forest trees form mycorrhizal associations. These fungal networks:
 
 - Extend root absorption surface area 100-1000x
 - Transfer water and nutrients between trees (including from older to younger trees)
-- Facilitate [[plant-hormones-and-chemical-signaling-systems]] between plants
-- Contribute significantly to carbon cycling through soil [[holmgren-soil-humus-carbon-storage-rebuilding]]
+- Facilitate chemical signaling between plants
+- Contribute significantly to carbon cycling through soil carbon storage
 
 ### Nutrient Retention Mechanisms
 Forests are exceptionally efficient at retaining nutrients:

@@ -141,7 +141,9 @@ scientifically rigorous basis for microwave sterilization protocol validation.
 
 ## See Also
 
-- [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]] — Full kill curves
-- [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] — Spore resistance
-- [[trace-water-flash-steam-microwave-sterilization]] — Water-enhanced killing
-- [[microwave-sterilization-dose-response-microbial-kill-kinetics-nasa-testing]] — Dose response
+- [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
+- [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]
+- [[microwave-water-coupling-2-45-ghz-surface-sterilization-physics]]
+- [[mixed-population-kill-kinetics-microwave-surface-sterilization-nasa]]
+- [[pf-tek-inoculation-sterilization]]
+- [[surface-sterilization-comparison-microwave-autoclave-gamma-uv-chemical-trade-offs]]

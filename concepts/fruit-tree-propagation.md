@@ -9,21 +9,21 @@ sources: []
 
 # Fruit Tree Propagation
 
-Propagating your own [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] saves money, preserves heritage varieties, and allows you to create custom combinations of rootstock and scion wood. Most fruit trees do not grow true from seed -- vegetative [[vegetative-propagation-methods-mollison]] are required to reproduce exact copies of a desired variety.
+Propagating your own fruit trees saves money, preserves heritage varieties, and allows you to create custom combinations of rootstock and scion wood. Most fruit trees do not grow true from seed -- vegetative propagation methods are required to reproduce exact copies of a desired variety. (see [[grafting-fruit-trees]]).
 
 ## Why Propagate Vegetatively
 
-- Seeds produce unpredictable offspring ([[fungal-life-cycles-sexual-reproduction-metamorphosis]] shuffles genetics)
+- Seeds produce unpredictable offspring (sexual reproduction shuffles genetics)
 - Grafted trees combine a desirable fruiting variety (scion) with a rootstock that controls size, disease resistance, and soil adaptation
 - Cloning preserves the exact characteristics of the parent tree
 - Cost: a grafted tree from a nursery costs $25-60; propagating your own costs $2-5 per tree
 
 ## Grafting
 
-Grafting joins two pieces of living plant tissue so they grow together as one. The scion (top portion) provides the [[old-fruit-variety-selection]]; the rootstock (bottom portion) provides the root system.
+Grafting joins two pieces of living plant tissue so they grow together as one. The scion (top portion) provides the fruit variety; the rootstock (bottom portion) provides the root system. (see [[plant-propagation-methods]]).
 
 ### When to Graft
-Most grafting is done in late winter to [[coleman-overwintered-onions-and-early-spring-crops]] (February-April) before buds break. The scion wood should be collected during dormancy (January-February) and stored in the refrigerator in a sealed plastic bag with damp paper towels.
+Most grafting is done in late winter to early spring (February-April) before buds break. The scion wood should be collected during dormancy (January-February) and stored in the refrigerator in a sealed plastic bag with damp paper towels.
 
 ### Whip and Tongue Graft
 The most common graft for small-diameter material (1/4 to 1/2 inch). Used for new trees.
@@ -99,7 +99,7 @@ Used for figs, grapes, currants, gooseberries, and some berries.
 1. Take cuttings from current season's growth, 4-6 inches long
 2. Remove lower leaves, keeping 2-3 leaves at the top
 3. Dip the cut end in rooting hormone
-4. Insert 2-3 inches into moist [[solomon-potting-mix-and-seedling-soil-recipe]] (perlite/peat or sand/peat)
+4. Insert 2-3 inches into moist potting mix (perlite/peat or sand/peat)
 5. Cover with a humidity dome or plastic bag
 6. Keep in bright, indirect light at 65-75F
 7. Mist regularly. Roots form in 3-6 weeks

@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Archer AW, Elix JA. (2004). "A key and annotated species catalogue of the lichen family Pertusariaceae in Australia." Bibliotheca Lichenologica 88.
   - Smith CW, Aptroot A, Coppins BJ, et al. (2009). The Lichens of Great Britain and Ireland. British Lichen Society.
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Wirth V, Hauck M, Schultz M. (2013). Die Flechten Deutschlands. Eugen Ulmer.
 ---
 

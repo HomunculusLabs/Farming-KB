@@ -1,6 +1,6 @@
 ---
 
-title: cultivar-cannabis-microbiome-two-tier-selection-model Research — Current State and Implications
+title: Cannabis Microbiome Research — Current State and Implications
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -24,13 +24,13 @@ sources:
 
 # Cannabis Microbiome Research
 
-Cannabis microbiome research is a young but rapidly growing field. The foundational study by Winston et al. (2014) provided the first comprehensive characterization of [[cultivar-endorhiza-bacterial-communities-cannabis]] across the root-soil continuum, but significant questions remain. This page synthesizes what is known, what is uncertain, and the practical implications for living soil cultivation.
+Cannabis microbiome research is a young but rapidly growing field. The foundational study by Winston et al. (2014) provided the first comprehensive characterization of bacterial communities across the root-soil continuum, but significant questions remain. This page synthesizes what is known, what is uncertain, and the practical implications for living soil cultivation.
 
 ## What We Know
 
 ### The Two-Tier Selection Model Is Valid for Cannabis
 Winston et al. confirmed that cannabis follows the same microbiome assembly model observed in Arabidopsis, poplar, and other plants:
-- **Tier 1**: [[soil-edaphic-factors-microbial-communities]] (soil chemistry) determine which microbes are available in the rhizosphere
+- **Tier 1**: Edaphic factors (soil chemistry) determine which microbes are available in the rhizosphere
 - **Tier 2**: Plant genotype determines which microbes are enriched inside root tissue (endorhiza)
 
 This was validated across two experiments, five cultivars, and three soil types, with highly significant statistical support (ADONIS p < 0.001 for soil type, sample type, and strain effects).
@@ -45,10 +45,10 @@ Regardless of cultivar or soil type, a set of bacterial taxa consistently coloni
 These are well-known endophytes in other plant systems, suggesting conserved plant-microbe signaling mechanisms.
 
 ### Cultivar-Specificity Is Real but Subtle
-Different cannabis varieties do recruit different endorhiza communities — but the differences are in *abundance* (71 significant OTUs), not in *presence/absence* (zero significant differences). This means all cultivars draw from the same microbial pool, but they adjust the relative proportions differently. Cultivar chemistry (root exudates, [[antifungal-secondary-metabolites-coprophilous-fungi]]) likely drives these differences.
+Different cannabis varieties do recruit different endorhiza communities — but the differences are in *abundance* (71 significant OTUs), not in *presence/absence* (zero significant differences). This means all cultivars draw from the same microbial pool, but they adjust the relative proportions differently. Cultivar chemistry (root exudates, secondary metabolites) likely drives these differences.
 
 ### Nitrogen Dominates Soil Microbiome Structure
-Of all soil factors tested, nitrogen content has the strongest correlation with microbial [[core-endorhiza-bacterial-community-composition-cannabis]]. This has a practical implication: maintaining steady, moderate nitrogen levels is more important for soil biology than chasing specific P/K ratios. See [[cannabis-root-microbiome]] for the full edaphic ranking.
+Of all soil factors tested, nitrogen content has the strongest correlation with microbial community composition. This has a practical implication: maintaining steady, moderate nitrogen levels is more important for soil biology than chasing specific P/K ratios. See [[cannabis-root-microbiome]] for the full edaphic ranking.
 
 ### Soil > Cultivar for Microbial Composition
 Soil type produces 657 significant OTU differences, while strain produces only 71. The plant's genotype matters, but the soil environment matters ~10x more for determining which microbes are present. This is why building diverse living soil is the single most impactful thing a grower can do.
@@ -82,7 +82,7 @@ All samples in the Winston et al. study were from outdoor organically-grown plan
 - Controlled temperature/humidity
 - Absence of natural microbial inoculation from wind/rain
 - Different soil mixes (peat-based vs native soil)
-- Lack of [[dighton-mycorrhizal-networks-carbon-transfer]] from surrounding plants
+- Lack of mycorrhizal networks from surrounding plants
 
 ## Practical Implications for Growers
 

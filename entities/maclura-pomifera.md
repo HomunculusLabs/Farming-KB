@@ -143,7 +143,6 @@ often serving as wildlife corridors.
 - **Moisture:** Drought-tolerant once established; water
   regularly during first [[savory-growing-season-and-non-growing-season-management]]
 - **Propagation by seed:** Stratify 30-90 days at 5 degrees C;
-  scarification improves germination; seed viability
 ## See Also
   - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
 - [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]

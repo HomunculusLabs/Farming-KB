@@ -1,0 +1,124 @@
+---
+title: "Mobile Greenhouse Crop Rotation Design"
+source: "Eliot Coleman - The Winter Harvest Handbook"
+source_id: "coleman-winter-harvest-handbook"
+topics: [mobile-greenhouse, crop-rotation, winter-harvest, coleman, four-season-farming, season-extension]
+---
+
+# Mobile Greenhouse Crop Rotation Design
+
+## Overview
+
+The mobile greenhouse is one of [[eliot-coleman]]'s most innovative
+contributions to year-round [[coleman-french-historical-winter-vegetable-production]]. By placing greenhouses
+on wheels or skids that move between growing sites, the mobile greenhouse
+solves persistent problems of permanent structures: soil degradation,
+pest and disease buildup, and difficulty managing summer and winter crops
+in the same space. The rotation design integrates greenhouse movement
+with crop succession, soil building, and fallow periods.
+
+## The Two-Site Model
+
+Coleman's basic rotation uses one mobile greenhouse serving two adjacent
+sites. During summer, the greenhouse covers heat-loving crops (tomatoes,
+peppers, cucumbers, eggplants) on Site A. Site B is uncovered, exposed
+to sun, rain, wind, and snow. Winter crops are established on Site B
+during late summer and early fall.
+
+In mid to late October, the greenhouse moves from Site A to Site B,
+covering established winter crops. Site A is uncovered for soil recovery
+— planted to green manure or left fallow. The following October, the
+process reverses for a new cycle.
+
+## Advantages
+
+### Soil Restoration
+
+Permanent greenhouses develop problems with excess nutrients, salt
+accumulation, and compaction. The uncovered year allows natural
+restoration: rain leaches salts, freeze-thaw cycles improve structure,
+and [[green-manure-crops]] ps]] add [[savory-soil-organic-matter-and-decomposition-dynamics]] fix nitrogen.
+
+### Pest and Disease Break
+
+Greenhouse-dependent [[mushroom-pests-and-diseases]] build up in protected
+environments. Removing the cover for a full year exposes organisms to
+outdoor conditions that disrupt their life cycles. Soil-borne pathogens
+are suppressed by UV radiation, desiccation, and competition from
+diverse soil organisms colonizing during the uncovered period.
+
+### Elimination of Cooling Costs
+
+Summer greenhouses in northern climates require ventilation or cooling.
+The mobile greenhouse avoids this by covering heat-loving crops in summer
+and moving to cool-season crops before heating becomes necessary. No
+energy is spent fighting the seasons.
+
+## Rotation Timeline
+
+### Summer Crop Phase (May–October)
+
+The greenhouse covers summer crops at peak production. Coleman
+recommends indeterminate tomatoes, cucumbers, peppers, and eggplants.
+These are started as transplants and moved in after last frost. The
+summer site is prepared in spring with compost or well-rotted manure.
+
+### Winter Crop Establishment (August–October)
+
+While summer crops occupy the greenhouse, winter crops are direct-seeded
+or transplanted into the open field on the alternate site. This reverse-
+season challenge requires precise sowing dates because day length is
+contracting and growth rates are slowing.
+
+The key insight is getting crops almost to maturity before day length
+drops below ten hours (the Persephone months). After that threshold,
+growth virtually stops and crops simply hold in the protected
+environment until harvest.
+
+### The Move (Mid to Late October)
+
+The greenhouse moves once summer crops finish and before hard freezing.
+On Coleman's Maine farm, this is mid to late October. The move must be
+coordinated so winter crops are well-established enough for immediate
+protection but not so overgrown that the greenhouse damages them.
+
+### Winter Harvest (November–March)
+
+The greenhouse protects winter crops. Outdoor temperatures of -15°F
+(-26°C) translate to only 15–18°F under the inner row cover layer.
+Continuous harvest of spinach, carrots, leeks, and salad greens occurs
+throughout winter.
+
+### Fallow or Green Manure (November–September)
+
+The vacated site rests outdoors. Coleman plants long-term leguminous
+green manure crops for up to thirteen months, protecting, enriching, and
+aerating soil. Green manures are turned under three to four weeks before
+the next planting date.
+
+## Sled vs. Rail Systems
+
+Coleman developed two designs. The sled system uses skids pulled by a
+tractor — simpler and less expensive but more labor-intensive to move.
+The rail system uses pipe rails and wheels for smooth rolling between
+sites. Rails require initial investment but dramatically reduce moving
+labor. Sled houses are typically 20×48 feet; rail houses range from
+22×48 to 30×96 feet.
+
+## Key Considerations
+
+The mobile greenhouse rotation requires more planning than permanent
+structures. Crop timing, site preparation, and the physical move must
+be coordinated. However, benefits in soil health, pest management, and
+energy savings make additional planning worthwhile. Coleman considers
+the mobile greenhouse one of the most important tools for sustainable
+four-season farming.
+
+## See Also
+
+- Coleman mobile greenhouse system
+- [[coleman-rolling-greenhouse-wheel-rail-design]] wheel rail design
+- [[coleman-backwards-farm-experiment-winter-only]] experiment winter only
+- Coleman summer fallow green manure greenhouse
+- Coleman Persephone months winter day length
+- [[coleman-winter-harvest-philosophy]] planting schedule

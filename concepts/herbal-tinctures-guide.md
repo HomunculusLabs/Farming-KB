@@ -1,5 +1,5 @@
 ---
-title: query-how-to-make-herbal-tinctures-salves-and-extracts-at-home Guide
+title: Herbal Tinctures Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,15 +9,15 @@ sources: []
 
 # Herbal Tinctures Guide
 
-Tinctures are concentrated liquid herbal extracts made by soaking plant material in alcohol (or glycerin) to extract medicinal compounds. They are the backbone of a home herbal apothecary — portable, long-lasting, fast-acting, and potent.
+Tinctures are concentrated liquid herbal extracts made by soaking plant material in alcohol (or glycerin) to extract medicinal compounds. They are the backbone of a home herbal apothecary — portable, long-lasting, fast-acting, and potent. (see [[herbal-tincture-making]]).
 
 ## What Is a Tincture?
 
-A tincture is a solution of herbal constituents dissolved in a solvent (menstruum). The standard tincture ratio is expressed as 1:5 (1 part dried herb by weight to 5 parts solvent by volume) or 1:2 for fresh herbs. Alcohol is the primary solvent because it extracts both water-soluble and alcohol-soluble compounds effectively.
+A tincture is a solution of herbal constituents dissolved in a solvent (menstruum). The standard tincture ratio is expressed as 1:5 (1 part dried herb by weight to 5 parts solvent by volume) or 1:2 for fresh herbs. Alcohol is the primary solvent because it extracts both water-soluble and alcohol-soluble compounds effectively. (see [[cannabis-tinctures-guide]]).
 
 ## Advantages of Tinctures
 
-- Long [[psilocybin-shelf-life-stability]]: 2-5+ years (alcohol-based)
+- Long shelf life: 2-5+ years (alcohol-based)
 - Concentrated: small doses deliver therapeutic amounts
 - Fast absorption: liquid form enters the bloodstream quickly
 - Portable: small dropper bottles for travel
@@ -50,7 +50,7 @@ Dilute 190-proof alcohol with distilled water to achieve the desired percentage.
 
 The folk method is simple and practical for home use:
 
-1. Fill a [[sterile-spore-print-collection-glass-jar-technique]] 1/3 to 1/2 full with dried herb (or pack full with chopped fresh herb)
+1. Fill a glass jar 1/3 to 1/2 full with dried herb (or pack full with chopped fresh herb)
 2. Pour alcohol over the herb until completely covered, plus 1-2 inches extra
 3. Cap tightly and label with: herb name, alcohol %, date
 4. Shake daily for the first week, then weekly
@@ -104,7 +104,7 @@ For mushrooms and herbs with both water-soluble and alcohol-soluble compounds:
 4. Combine alcohol tincture and water decoction
 5. Optional: evaporate some alcohol to concentrate further
 
-Used for: reishi, chaga, [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], ashwagandha, astragalus
+Used for: reishi, chaga, turkey tail, ashwagandha, astragalus
 
 ## Glycerites (Alcohol-Free Tinctures)
 
@@ -138,11 +138,13 @@ Percolation produces a finished tincture in 24-48 hours instead of 4-6 weeks:
 Requires practice to get the drip rate right. Produces clearer, more standardized tinctures.
 
 ## Dosing Guidelines
-## See Also
 
-- [[herbal-medicine]] — Individual herb profiles and preparations
-- [[herbal-salves-and-balms]] — Topical herbal preparations
+Standard adult dose: 20-60 drops (1/4 to 1 dropperful), 2-4 times daily.
 
-## Related
+### By Body Weight (General Guideline)
 
-- [[natural-dye-plants]]
+- Under 150 lbs: 20-30 drops
+- 150-200 lbs: 30-50 drops
+- Over 200 lbs: 50-60 drops
+
+### Administration

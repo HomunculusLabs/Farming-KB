@@ -35,10 +35,10 @@ Effects include visual tracers, shimmer, and a general "clouding" of consciousne
 - Human tissues: endogenous beta-carbolines (pinoline, harmane) are found in the [[mckenna-tryptamine-endogenous-dmt-pineal-gland-theory]] and brain
 
 ## See Also
-
 - [[5-meo-dmt-compound-profile]]
 - [[ayahuasca-preparation]]
 - [[dmt-and-ayahuasca-history]]
+- [[22s-23s-homobrassinolide-chemistry-and-synthesis]]
 
 ## Merged: MAOI Oral Activity Requirement
 The pharmacological necessity of monoamine oxidase inhibition (MAOI) for oral tryptamine activity is one of the most practically important principles in [[5-methoxy-compounds]] - [[5-meo-dmt-compound-profile]] - beta carboline chemistry - beta carboline chemistry - beta carboline chemistry

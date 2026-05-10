@@ -5,7 +5,6 @@ tags: [cannabis, additives, hormones, enzymes, nutrients]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---

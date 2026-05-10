@@ -106,3 +106,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+## See Also
+
+- [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]]

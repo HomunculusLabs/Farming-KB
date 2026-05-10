@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Nut Butter
 
-Nut butter is a spreadable paste made by grinding nuts (or seeds) into a smooth or crunchy consistency. The most common varieties are peanut butter, almond butter, and cashew butter, but virtually any nut or seed can be processed into butter. Homemade nut butters are superior to commercial versions — they contain no hydrogenated oils, excess sugar, preservatives, or emulsifiers. Making nut butter at home requires only a food processor and patience.
+Nut butter is a spreadable paste made by grinding nuts (or seeds) into a smooth or crunchy consistency. The most common varieties are peanut butter, almond butter, and cashew butter, but virtually any nut or seed can be processed into butter. Homemade nut butters are superior to commercial versions — they contain no hydrogenated oils, excess sugar, preservatives, or emulsifiers. Making nut butter at home requires only a food processor and patience. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ## Equipment
 
@@ -18,7 +18,7 @@ Nut butter is a spreadable paste made by grinding nuts (or seeds) into a smooth 
 - Spice grinder or coffee grinder — useful for small batches or seeds
 - The process generates significant heat — processor bowls may get warm; this is normal
 
-A food processor is generally preferred over a blender because the wider bowl shape keeps the nuts in contact with the blades more consistently.
+A food processor is generally preferred over a blender because the wider bowl shape keeps the nuts in contact with the blades more consistently. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
 
 ## Nut Selection and Preparation
 
@@ -53,12 +53,12 @@ A food processor is generally preferred over a blender because the wider bowl sh
 - Pecan butter: rich, buttery, very soft; processes quickly; expensive but delicious
 - Pistachio butter: vibrant green, complex flavor; excellent for desserts
 - Hazelnut butter: nutella-like; pairs well with chocolate and maple
-- [[mollison-designers-macadamia-nut-in-tropical-polyculture]] butter: very creamy, high fat; processes very quickly
+- Macadamia nut butter: very creamy, high fat; processes very quickly
 - Brazil nut butter: rich, selenium-rich; strong flavor; use in moderation or blend
 
 ### Seed Butters
 
-- [[oyster-mushroom-sunflower-seed-hull-substrate]] butter (sunbutter): affordable, nut-free alternative; can turn green when combined with baking soda (harmless chemical reaction)
+- Sunflower seed butter (sunbutter): affordable, nut-free alternative; can turn green when combined with baking soda (harmless chemical reaction)
 - Pumpkin seed butter: green color, earthy flavor, very nutritious
 - Tahini (sesame seed butter): essential for hummus; thin, pourable consistency
 - Hemp seed butter: green, high-protein; strongly flavored
@@ -69,7 +69,7 @@ A food processor is generally preferred over a blender because the wider bowl sh
 
 1. **Chunky / crumb stage (1-3 minutes):** Nuts break into small pieces and meal
 2. **Dry ball stage (3-5 minutes):** Meal clumps together into a dry, powdery ball
-3. **Thick paste stage (5-10 minutes):** Ball begins to [[query-can-fungi-break-down-plastic-pollution]] as oils release; paste is thick and grainy
+3. **Thick paste stage (5-10 minutes):** Ball begins to break down as oils release; paste is thick and grainy
 4. **Smooth butter stage (10-20 minutes):** Oils fully release; paste becomes smooth, creamy, and pourable
 
 ### Key Tips
@@ -95,7 +95,7 @@ Most nuts will become smooth without added oil if processed long enough. However
 - Honey: 1-2 tablespoons per cup of nuts
 - Maple syrup: 1-2 tablespoons
 - Coconut sugar or brown sugar: 1-2 tablespoons
-- Stevia or [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]: for sugar-free options
+- Stevia or monk fruit: for sugar-free options
 - Dates: blend a few dates into the butter for natural sweetness and texture
 - Powdered sugar: dissolves more easily than granulated
 
@@ -142,6 +142,7 @@ Natural nut butters will separate over time, with the oil rising to the top. Thi
 - 2 cups peanuts (about 10 oz) yields roughly 1 cup peanut butter
 - 2 cups cashews (about 10 oz) yields roughly 1 cup cashew butter
 - Yield is roughly 50% by volume from whole nuts to butter
+
 ## See Also
 
 - [[granola-making]] — homemade granola pairs perfectly with nut butters

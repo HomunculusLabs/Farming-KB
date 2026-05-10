@@ -9,11 +9,11 @@ sources: []
 
 # Cannabis Trichome Guide
 
-Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the [[lichens-primary-production-soil-formation-dighton]] sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing [[cannabis-harvest-timing-visual-cues]] and final product quality.
+Trichomes are the tiny, crystal-like glandular structures that cover cannabis flowers and sugar leaves. They are the primary production sites for cannabinoids (THC, CBD, etc.) and terpenes. Understanding trichome types, development stages, and how to assess maturity is essential for optimizing harvest timing and final product quality. (see [[cannabis-glandular-trichome-types-resin-production-clarke]]).
 
 ## What Are Trichomes?
 
-Trichomes are epidermal outgrowths — hair-like projections on the surface of cannabis flowers, leaves, and stems. The word comes from Greek "trichoma" meaning "growth of hair." In cannabis, glandular trichomes are the tiny mushroom-shaped or bulbous structures that produce and store the plant's psychoactive and aromatic compounds.
+Trichomes are epidermal outgrowths — hair-like projections on the surface of cannabis flowers, leaves, and stems. The word comes from Greek "trichoma" meaning "growth of hair." In cannabis, glandular trichomes are the tiny mushroom-shaped or bulbous structures that produce and store the plant's psychoactive and aromatic compounds. (see [[cannabis-resin-production-and-quality-traits-clarke]]).
 
 Functions in nature:
 - Chemical defense against herbivores (bitter, intoxicating resin deters grazing)
@@ -39,7 +39,7 @@ Functions in nature:
 - More abundant than bulbous, found primarily on leaves and bracts
 - Consist of a stalk and a slightly larger head (not raised above the surface)
 - Begin producing cannabinoids during early flowering
-- Intermediate stage in [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]
+- Intermediate stage in trichome development
 
 ### Capitate-Stalked Trichomes
 
@@ -52,7 +52,7 @@ Functions in nature:
 
 The capitate-stalked trichome head contains:
 - Secretory cells: synthesize cannabinoids and terpenes from precursor molecules
-- Stalk: elevates the head above the [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] for maximum exposure
+- Stalk: elevates the head above the leaf surface for maximum exposure
 - Cuticle: waxy outer membrane that can rupture when pressed or agitated
 
 ## Trichome Development Stages
@@ -142,8 +142,9 @@ Cooler night temperatures (around 65-70°F / 18-21°C) in the final weeks of flo
 
 Proper nutrition throughout flowering supports maximum trichome production. Phosphorus and potassium are particularly important. Excess nitrogen late in flower can delay maturation and reduce trichome density.
 
-## See Also
+### Growing Medium
 
-- [[cannabis-terpene-profile]] for what trichomes produce beyond cannabinoids
-- [[cannabis-flavonoids]] for lesser-known compounds also produced in trichomes
-- [[cannabis-lighting-guide]] for how [[cannabis-light-spectrum-and-color-bands]] affects trichome development
+Living soil systems with diverse microbiology tend to produce more complex terpene profiles in trichomes compared to synthetic nutrient systems. See [[cannabis-terpene-profile]] for how cultivation method affects terpene expression.
+
+## Post-Harvest Trichome Preservation
+

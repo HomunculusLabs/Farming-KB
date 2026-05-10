@@ -43,6 +43,9 @@ muira puama ("potency wood") or marapuama, it is one of the most renowned
 plants in Brazilian [[turnera-diffusa]]*, *[[humulene]]
 - [[humulene]]
 
+See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
+See [[query-what-is-the-wood-wide-web-and-how-do-mycorrhizal-networks-work]] for more on Query What Is The Wood Wide Web And How Do Mycorrhizal Networks Work.
+
 ## See Also
 
 - vegetalismo-amazonian-plant-medicine
@@ -97,7 +100,7 @@ that can enhance both the effectiveness and efficiency of implementation.
 Integration with other disciplines and approaches creates synergies that
 advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single [[dom|dom]]ain.
+perspectives and solutions that may not emerge within any single [[dom]] ain.
 
 For continued learning, recommended resources include current research
 publications, established practitioner networks, hands-on experimentation,

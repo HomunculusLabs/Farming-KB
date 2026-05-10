@@ -5,7 +5,6 @@ tags: [query, nutrients, calcium, magnesium, deficiency]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---

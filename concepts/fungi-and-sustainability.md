@@ -24,7 +24,7 @@ sources:
 
 # Fungi and Sustainability
 
-The role of fungi in pursuing environmental sustainability — from waste recycling and [[mushroom-poverty-alleviation-developing-countries]] through [[accessible-mushroom-cultivation-for-disabilities]], to the essential fungal networks that sustain terrestrial ecosystems (Spinosa, Fungi Magazine, 2008).
+The role of fungi in pursuing environmental sustainability — from waste recycling and poverty alleviation through mushroom cultivation, to the essential fungal networks that sustain terrestrial ecosystems (Spinosa, Fungi Magazine, 2008).
 
 ## The Sustainability Framework
 
@@ -44,7 +44,7 @@ Mushroom cultivation addresses multiple sustainability goals simultaneously:
 - **Low-tech, family-scale**: manageable by a family or small community
 - **Market demand**: "Gourmet mushrooms" command premium prices; worldwide demand increasing
 - **Nutrition**: High nutritional value; potential food source for impoverished areas
-- **Medicinal properties**: Shiitake produces Lentinan (anti-cancer compound under evaluation); Turkey Tail ([[staycare-trametes-versicolor-bioremediation-applications]]) produces PSK (another anti-cancer compound)
+- **Medicinal properties**: Shiitake produces Lentinan (anti-cancer compound under evaluation); Turkey Tail (Trametes versicolor) produces PSK (another anti-cancer compound)
 
 ### Waste-to-Value Transformation
 
@@ -58,7 +58,7 @@ The key virtue: mushrooms transform agricultural and organic waste into nutritio
 
 **Hong Kong poultry crisis**: After avian flu mass-slaughter devastated small poultry farmers, the Hong Kong Department of Agriculture promoted mushroom cultivation as an alternative livelihood, offering training seminars.
 
-**Chinchina, Colombia**: Coffee growers (mostly low-income peasants) utilized coffee waste as substrate for shiitake cultivation at 75% [[stamets-biological-efficiency-yield]], providing additional income and nutrition (Jaramillo et al., 2004). See [[zeri-circular-economy-systems]] for the ZERI model behind this approach.
+**Chinchina, Colombia**: Coffee growers (mostly low-income peasants) utilized coffee waste as substrate for shiitake cultivation at 75% biological efficiency, providing additional income and nutrition (Jaramillo et al., 2004). See [[zeri-circular-economy-systems]] for the ZERI model behind this approach.
 
 ## Fungi in Ecosystem Sustainability
 
@@ -85,13 +85,11 @@ Matching native fungi to native tree species is a core principle of [[mycoforest
 
 - Increases soil depth and carrying capacity for tree successions
 - Reduces erosion and silt flow along roadsides and clear-cuts
-- Creates densely bound [[fungal-mycelial-networks-nutrient-translocation]] that hold soil
+- Creates densely bound mycelial networks that hold soil
 
 ## See Also
 
-- fungi-sustainability-food-security-and-nutrition
-
-- [[zeri-circular-economy-systems]] — ZERI five-kingdoms [[zeri-circular-economy-systems]] model
+- [[zeri-circular-economy-systems]] — ZERI five-kingdoms circular economy model
 - [[fungal-ecosystem-roles]] — Paleontological record of fungi after mass extinctions
 - [[mycorestoration-framework]] — Stamets' 4-branch mycorestoration framework
 - [[mycoforestry-forest-restoration]] — Forest restoration with fungi

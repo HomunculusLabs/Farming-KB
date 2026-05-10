@@ -87,12 +87,6 @@ was that of an amine salt with a strong OH group present. Anal.
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
 - [[bod-entity-pihkal]]
 - [[bom-entity-pihkal]]
-
-- PIHKAL (the source book)
-
-## See Also
-
 - [[tma-5-entity-pihkal]]

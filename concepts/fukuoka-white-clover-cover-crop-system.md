@@ -5,7 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  sources: []
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # White Clover Cover Crop System

@@ -33,7 +33,7 @@ Alexander "Sasha" Shulgin (1925-2014) was an American pharmacologist, chemist, a
 - **PIHKAL (1991):** Co-authored with [[ann-shulgin]]. Documents 179 phenethylamine compounds with synthesis instructions, dosage data, and qualitative experience reports. The 2C family (2C-B, 2C-I, 2C-E) became widely known.
 - **TIHKAL (1997):** Continuation covering tryptamine compounds including many novel DMT derivatives and beta-carbolines.
 - **MDMA research:** Rediscovered and advocated for MDMA as a therapeutic tool in the 1970s, introducing it to [[timothy-leary]] and other researchers. Believed it had unique empathogenic properties.
-- **"Drugs of Abuse in the Future" (1975):** Seminal paper (Clin. Toxicol. 8(4), 405-456) predicting the emergence of [[shulgin-designer-drugs-analysis]]. See [[shulgin-designer-drugs-analysis]].
+- **"Drugs of Abuse in the Future" (1975):** Seminal paper (Clin. Toxicol. 8(4), 405-456) predicting the emergence of designer drugs. See [[shulgin-designer-drugs-analysis]].
 - **Over 200 novel psychoactives synthesized**, many at his private lab in Lafayette, California.
 
 ## "Drugs of Abuse in the Future" (1975) -- Key Arguments
@@ -42,7 +42,7 @@ This paper systematically predicted:
 
 1. **Prohibition drives innovation**: Restricting supply without reducing demand inevitably creates economic pressure to synthesize substitutes from uncontrolled precursors
 2. **Underground exploitation of published research**: Every pharmacology journal article describing new compound families provides a roadmap for illicit manufacturers who perform "synthetic repetitions... with immediate pharmacologic evaluation in man"
-3. **The opiate substitute problem**: Detailed [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of morphinans, benzomorphans, and oripavine derivatives showing how compounds 10,000x more potent than morphine could be synthesized from commercially available materials
+3. **The opiate substitute problem**: Detailed chemical analysis of morphinans, benzomorphans, and oripavine derivatives showing how compounds 10,000x more potent than morphine could be synthesized from commercially available materials
 4. **Blurring of pharmacological categories**: "Antagonists" themselves have abuse potential -- cyclazocine, cyprenorphine, and pentazocine all produce hallucinations in addition to their designed antagonistic effects
 5. **The thebaine pathway**: Thebaine (~1% of raw opium) can be converted into compounds exceeding morphine potency by four orders of magnitude (10,000x)
 
@@ -59,7 +59,7 @@ Shulgin identified multiple chemical families exploitable for heroin substitutio
 - **The Fentanyl line**: Active at 25 micrograms IV; logical endpoint of morphine simplification
 
 ### Stimulant Families
-- **Amphetamine analogs**: 393+ [[emcdda-brand-names-user-terms-smartshop-marketing]] from 204+ manufacturers by 1971; costs as low as 2 cents/dose
+- **Amphetamine analogs**: 393+ brand names from 204+ manufacturers by 1971; costs as low as 2 cents/dose
 - **Metabolic masking**: Fenethylline (Captagon) metabolizes to amphetamine + theophylline in vivo; abuse would register as amphetamine in urine
 - **Cocaine synthesis**: Total synthesis procedures published for decades; benzoyl-pseudotropeine is an accessible natural alternative
 - **Pipradrol analogs**: Schering's Sch-5472 counteracts fatigue at submilligram levels
@@ -80,7 +80,7 @@ Shulgin categorized hallucinogens into three qualitative families based on their
 Shulgin identified fundamental contradictions in the BNDD scheduling system:
 - Specific naming allows pharmacologically similar analogs to escape control
 - Broad class definitions sweep in medically useful compounds
-- [[ergot-and-lysergic-acid-history]] scheduled as a depressant (III) while LSD is Schedule I -- classification is pharmacologically improper, purely a precursor control measure
+- Lysergic acid scheduled as a depressant (III) while LSD is Schedule I -- classification is pharmacologically improper, purely a precursor control measure
 - Racemorphan (containing 50% Schedule I dextrophan by weight) is Schedule II
 - Hydromorphinol and oxymorphone appear in different schedules despite being synonymous
 
@@ -88,7 +88,7 @@ Shulgin identified fundamental contradictions in the BNDD scheduling system:
 
 - PhD in biochemistry from UC Berkeley (1954)
 - Senior research chemist at Dow Chemical (1950s-1960s)
-- Lecturer at UC Berkeley and [[shipibo-san-francisco-ceremonial-center-ucayali]] State
+- Lecturer at UC Berkeley and San Francisco State
 - DEA license controversy: After publishing PIHKAL, the DEA raided his lab in 1993 and revoked his license, though no charges were filed
 - Married [[ann-shulgin]] in 1981; she was his research partner and co-author
 

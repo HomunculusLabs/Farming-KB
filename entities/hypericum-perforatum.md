@@ -133,10 +133,6 @@ In **permaculture systems**, St. John's Wort serves multiple functions:
 *H. perforatum* is classified as a noxious weed in over 20 countries. It is particularly problematic in rangelands where it displaces native forage species and causes **hypericin photosensitization in livestock** (especially sheep and cattle), a condition known as "hypericism" or "St. John's Wort poisoning." [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] programs using the beetle *Chrysolina quadrigemina* have been implemented in Australia and North America with mixed success.
 
 ## See Also
-- [[hypericin]] — primary photosensitizing naphthodianthrone compound
-- hypericum perforatum — primary antidepressant phloroglucinol compound
-- [[medicinal-mushroom-guide-turkey-tail]] — medicinal species in permaculture design
-
-## See Also
-
+- [[hypericin]]
+- [[medicinal-mushroom-guide-turkey-tail]]
 - [[permaculture-plants-medicinal-herbs-healing]]

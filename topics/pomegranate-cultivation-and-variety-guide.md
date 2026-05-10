@@ -7,7 +7,7 @@ sources:
   - "Stover, E. & Mercure, E.W. (2007). The Pomegranate: A New Look at the Fruit of Paradise. HortScience, 42(5), 1088-1092."
   - "Ferguson, L. et al. (2013). Pomegranate Production. UC ANR Publication 3504."
   - "California Rare Fruit Growers (CRFG). Pomegranate Fruit Facts. crfg.org."
-  - "Mars, M. (2000). Pomegranate ([[punica-granatum]] L.) Plant Resources of Tropical Africa."
+  - "Mars, M. (2000). Pomegranate (punica-granatum L.) Plant Resources of Tropical Africa."
   - "Holland, D., Hatib, K., & Bar-Ya'akov, I. (2009). Pomegranate: Botany, Horticulture, Breeding. Horticultural Reviews, 35, 127-191."
   - "Melgarejo, P. et al. (2018). Pomegranate (Punica granatum L.): Ancient Fruit with Modern Relevance. In: Handbook of Plant Food Phytochemicals."
   - "LaRue, J.H. (1980). Growing Pomegranates in California. UC Cooperative Extension Leaflet 2469."
@@ -145,6 +145,5 @@ A newer selection known for extremely early maturity and soft seeds.
 - **Best for:** Fresh eating, early market, home gardens where soft seeds are preferred
 
 #### Eversweet
-
 ## Related
 - [[oyster-mushroom-species-guide|oyster mushroom species guide]]

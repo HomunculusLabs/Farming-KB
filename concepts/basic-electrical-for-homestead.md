@@ -9,7 +9,7 @@ sources: []
 
 # Basic Electrical for Homestead
 
-Electrical work on a homestead ranges from wiring a simple shed to installing a full residential service panel. Electricity is the most dangerous system a homeowner can work with — mistakes cause fires, electrocution, and death. This page covers wiring fundamentals, circuit basics, outlet installation, GFCI protection, and critical [[psychedelic-safety-guidelines-turner]]. It also covers when to hire a licensed electrician.
+Electrical work on a homestead ranges from wiring a simple shed to installing a full residential service panel. Electricity is the most dangerous system a homeowner can work with — mistakes cause fires, electrocution, and death. This page covers wiring fundamentals, circuit basics, outlet installation, GFCI protection, and critical safety guidelines. It also covers when to hire a licensed electrician. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
 
 ## Safety First
 
@@ -21,7 +21,7 @@ Electrical work on a homestead ranges from wiring a simple shed to installing a 
 - Use insulated tools rated for electrical work
 - Wear safety glasses and dry gloves
 
-**Electrical burns are deceptive** — they may not look serious externally but can cause deep tissue damage. Arc flash can cause instant third-degree burns and blindness.
+**Electrical burns are deceptive** — they may not look serious externally but can cause deep tissue damage. Arc flash can cause instant third-degree burns and blindness. (see [[hurricane-preparedness-guide]]).
 
 ## Wiring Basics
 
@@ -29,7 +29,7 @@ Electrical work on a homestead ranges from wiring a simple shed to installing a 
 
 **NM-B (Romex):**
 - Non-metallic sheathed cable for interior residential wiring
-- Contains 2-3 insulated conductors plus a [[savory-bare-ground-and-soil-exposure]] wire
+- Contains 2-3 insulated conductors plus a bare ground wire
 - Cannot be used outdoors, in wet locations, or where exposed to physical damage
 - 14/2 NM-B = 2 conductors (14 AWG) + ground, for 15-amp circuits
 - 12/2 NM-B = 2 conductors (12 AWG) + ground, for 20-amp circuits
@@ -142,8 +142,9 @@ Required in modern construction for bedrooms, living rooms, and other habitable 
 - Loose wire connection at the switch or fixture
 - Voltage drop from overloaded circuit
 - Failing light switch — replace if it feels warm or makes crackling sounds
-## Related Concepts
+- If widespread, may indicate a failing main connection — call an electrician
 
-- [[barn-construction-reference]] — Building and construction infrastructure for the homestead
-- [[mushroom-foraging-safety-guide]] — [[shulgin-safety-principles-self-experimentation]] and risk management across homestead systems
-- [[emergency-preparedness]] — Backup power considerations during electrical outages
+## Tools for Basic Electrical Work
+
+- Non-contact voltage tester (essential)
+- Multimeter

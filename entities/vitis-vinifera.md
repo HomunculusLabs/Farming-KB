@@ -12,9 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Myles S. et al. (2011). "Genomic structure of the cultivated grapevine, Vitis vinifera L." Nature.
-  - McGovern P.E. (2003). "[[amanita-muscaria-ancient-wine-question]]: The Search for the Origins of Viniculture." Princeton University Press.
+  - McGovern P.E. (2003). "amanita-muscaria-ancient-wine-question: The Search for the Origins of Viniculture." Princeton University Press.
   - Yang J., Martin I., Martin C. (2009). "Production of resveratrol and its derivatives in grape cell cultures." Methods in Molecular Biology.
-  - Xia E.H. et al. (2017). "The grapevine genome and the diversification of fruit [[cannabis-resin-production-and-quality-traits-clarke]]." Nature Communications.
+  - Xia E.H. et al. (2017). "The grapevine genome and the diversification of fruit cannabis-resin-production-and-quality-traits-clarke." Nature Communications.
   - Waterhouse A.L. (2002). "Wine phenolics." Annals of the New York Academy of Sciences.
 created: 2026-04-28
 ---

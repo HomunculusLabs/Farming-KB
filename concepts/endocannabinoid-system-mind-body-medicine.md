@@ -107,9 +107,9 @@ The fourth practice is gratitude and compassion — cultivating emotional states
 The fifth practice is somatic integration — paying attention to the body's signals and allowing physical sensations to inform emotional processing. The endocannabinoid system mediates the body's communication with the brain, making somatic awareness a direct pathway to influencing neurochemical balance.
 
 ## See Also
-
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 - [[deep-relaxation-and-mind-body-healing]]
+- [[mind-body-medicine-and-endocannabinoid-system]]
 
 ## References
 

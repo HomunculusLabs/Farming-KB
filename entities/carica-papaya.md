@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Morton, J.F. (1987). "Papaya." In: Fruits of Warm Climates. Creative Resource Systems.
-  - Krishna, K.L. et al. (2008). "[[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]] of Carica papaya." Natural Product Radiance 7(4): 364–373.
+  - Krishna, K.L. et al. (2008). "psilocybin-psilocin-chemistry-and-pharmacology-emcdda of Carica papaya." Natural Product Radiance 7(4): 364–373.
   - OECD. (2005). "Carica papaya: Consensus Document on the Biology of Fruits." ENV/JM/MONO(2005)7.
   - Nakasone, H.Y. & Paull, R.E. (1998). "Tropical Fruits." CAB International.
 ---

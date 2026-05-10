@@ -122,13 +122,10 @@ impressions reveal the hilar appendix at the base of each footprint:
 the decisive signature of the catapult mechanism. While dinosaurs
 trotted past and pterosaurs wheeled overhead, the "dew of heaven"
 was beading on a mushroom before tree resin preserved the instant.
-## See Also
 
+## See Also
+- [[bloomfield-buller-drops-and-surface-tension-spore-catapult-mechanism]]
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-buller-experimental-mycology]]
-
-## See Also
-
-- bloomfield-mushroom-gill-anatomy-spore-discharge-bullers-drop
 - [[bullers-drop-spore-discharge]]
 - [[bloomfields-orchard-spore-discharge-mechanisms]]

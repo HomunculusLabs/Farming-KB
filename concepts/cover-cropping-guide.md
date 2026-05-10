@@ -31,7 +31,7 @@ Cover crops are plants grown primarily to benefit the soil rather than for harve
 ### Benefits to Soil
 - **Erosion prevention** — roots hold soil; foliage breaks rain impact
 - **Organic matter** — roots and top-growth add humus when terminated
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]** — legumes convert atmospheric N to plant-available form
+- **Nitrogen fixation** — legumes convert atmospheric N to plant-available form
 - **Nutrient mining** — deep-rooted species bring subsoil minerals to surface
 - **Soil structure** — root channels improve water infiltration and aeration
 - **Weed suppression** — competitive canopy shades out weed seeds
@@ -45,7 +45,7 @@ Steve Solomon recommends letting garden beds go fallow every 3-4 years:
 1. Plant a cover crop mix instead of vegetables
 2. Let it grow the full season without harvesting
 3. Terminate and incorporate in fall
-4. This restores soil [[root-anatomy-structure-and-nutrient-uptake]] reserves
+4. This restores soil structure and nutrient reserves
 5. Especially important for beds showing declining productivity
 
 ## Cover Crop Families
@@ -59,7 +59,7 @@ Steve Solomon recommends letting garden beds go fallow every 3-4 years:
 | Crimson clover | 50-100 | Cool | Moderate | Beautiful red flowers; good bee forage |
 | Red clover | 140 | Cool | Hardy | Biennial; can undersow in corn |
 | White clover | 100 | Cool | Hardy | Living mulch; tolerates foot traffic |
-| Cowpea | 80-120 | Warm | Tender | Heat/[[permplant-carob-drought-tolerant-food-tree]] |
+| Cowpea | 80-120 | Warm | Tender | Heat/drought tolerant |
 | Austrian winter pea | 100-140 | Cool/Fall | Very hardy | Excellent fall-planted cover |
 | Sweet clover | 160 | Cool | Hardy | Deep taproot (6+ ft); biennial |
 | Alfalfa | 250 | Cool | Hardy | Perennial; deep taproot; needs good drainage |
@@ -70,7 +70,7 @@ Steve Solomon recommends letting garden beds go fallow every 3-4 years:
 
 | Crop | Primary Benefit | Best Season | Notes |
 |------|----------------|-------------|-------|
-| Winter rye | [[permplant-willows-salix-erosion-control-fodder]], weed suppression | Fall/Winter | Most cold-hardy; vigorous root system |
+| Winter rye | Erosion control, weed suppression | Fall/Winter | Most cold-hardy; vigorous root system |
 | Oats | Quick cover, biomass | Cool | Winter-kill in cold climates (easy termination) |
 | Annual ryegrass | Quick establishment, erosion | Cool/Fall | Can become weedy if let go to seed |
 | Barley | Quick cover, salt tolerant | Cool | Good in alkaline soils |
@@ -108,7 +108,7 @@ Steve Solomon recommends letting garden beds go fallow every 3-4 years:
 - No fallow period needed
 
 ### 3. Winter Cover
-- After [[purdue-vegetable-harvest-and-storage-guide]], sow winter rye + Austrian winter pea
+- After vegetable harvest, sow winter rye + Austrian winter pea
 - Rye provides erosion control; peas fix nitrogen
 - Terminate in spring (crimp or mow before planting)
 
@@ -128,7 +128,7 @@ Steve Solomon recommends letting garden beds go fallow every 3-4 years:
 |--------|-----|----------|-------|
 | Crimping | Roll with crimper at flowering | Winter rye, vetch | No-till; leaves mulch mat |
 | Mowing | Cut at soil level | Most covers | May need multiple passes |
-| Tillage | Incorporate into soil | All | Destroys [[arbuscular-mycorrhizal-network-visualization-anastomosis]] |
+| Tillage | Incorporate into soil | All | Destroys mycorrhizal network |
 | Winter kill | Let frost kill | Oats, buckwheat, sorghum | Easiest; plan timing right |
 | Herbicide | Spray (non-organic) | All | Defeats organic purpose |
 

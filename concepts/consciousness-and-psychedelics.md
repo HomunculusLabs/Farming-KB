@@ -65,7 +65,7 @@ The deliberate ingestion of naturally occurring entheogenic alkaloids allows acc
 
 ## Shamanic Traditions and Altered Consciousness
 
-The birth of the religious impulse may itself be rooted in encounters with entheogenic species. The very source of Homo sapiens' religious impulse lies in our ancestors' primeval encounters with raw entheogenic species like the [[emcdda-psilocybin-mushroom-dose-and-effects]]. God becomes connected to a level or state of consciousness, an inwardly felt presence welling up from the depths of the psyche, not from abstract religious dogma. This does not lessen religion but empowers it.
+The birth of the religious impulse may itself be rooted in encounters with entheogenic species. The very source of Homo sapiens' religious impulse lies in our ancestors' primeval encounters with raw entheogenic species like the [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]. God becomes connected to a level or state of consciousness, an inwardly felt presence welling up from the depths of the psyche, not from abstract religious dogma. This does not lessen religion but empowers it.
 
 Shamanism is perhaps the oldest form of religious psychotherapy, and the knowledge gained by visionary shamans was used precisely to help heal the tribe. In Gaian terms, the shamanic ingestion of plants and fungi is an entirely natural process, essentially homeostatic: one part of the environment acts upon another to restore harmony.
 

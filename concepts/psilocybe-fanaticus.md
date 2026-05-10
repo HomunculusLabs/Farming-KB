@@ -1,7 +1,7 @@
 ---
 title: Psilocybe Fanaticus
 created: 2026-04-28
-tags: [mycology, history, cultivation, legal, pioneer]
+tags: [mycology, history, [[spore-printing-and-spore-syringe-preparation-for-mushroom-cultivation|cultivation]], legal, pioneer]
 date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/fanaticus-pf-tek-psilocybe-fanaticus.md]
@@ -22,7 +22,7 @@ an entire generation of cultivators.
 
 McPherson developed the PF Tek through extensive experimentation and
 simplification of existing cultivation methods. The scientific literature on
-psilocybin mushroom cultivation, particularly the work of R. Gordon Wasson,
+psilocybin [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison|mushroom]] cultivation, particularly the work of R. Gordon Wasson,
 Roger Heim, and later Paul Stamets and J.S. Chilton (who published the
 influential "Psilocybin Mushrooms of the World" in 1977), described methods
 that required agar work, grain spawn, and bulk substrates. These methods

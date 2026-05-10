@@ -1,5 +1,5 @@
 ---
-title: "Steve Solomon's Evidence-Based Organic Gardening"
+title: "Steve Solomon's Evidence-Based [[green-manures-organic-gardening]]"
 subtitle: "The Complete Organic Fertilizer, wide-spacing methods, and
   resilient food production from the author of Gardening When It Counts"
 tags: [organic-gardening, soil-fertility, self-sufficiency, steve-solomon,
@@ -37,11 +37,11 @@ Seed Company in 1979 and ran it until 1986, establishing himself as a
 leading advocate of intensive raised-bed methods during those years.
 After decades of hands-on experimentation, Solomon underwent a
 remarkable intellectual transformation, becoming one of the most vocal
-critics of the very intensive gardening orthodoxy he once championed.
+critics of the very [[coleman-british-adoption-of-french-intensive-gardening]] orthodoxy he once championed.
 His 2005 book "Gardening When It Counts: Growing Food in Hard Times"
 represents the mature expression of this evolution, offering a
 comprehensive system for growing food that prioritizes resilience,
-self-sufficiency, and nutritional quality over theoretical yield
+self-sufficiency, and [[coleman-winter-greens-nutritional-quality-cold-sweetening]] over theoretical yield
 maximization.
 
 Solomon's approach is distinctive because it is grounded in empirical
@@ -60,7 +60,7 @@ environmental pressures intensify.
 At the heart of Solomon's system is the Complete Organic Fertilizer,
 or COF, a custom-blended organic fertilizer mix designed to provide
 balanced major and trace mineral nutrition to vegetable crops. Unlike
-commercial organic fertilizers sold in small, expensive boxes at garden
+commercial [[cannabis-organic-fertilizers]] sold in small, expensive boxes at garden
 centers, COF uses bulk agricultural ingredients sourced from feed and
 grain dealers at a fraction of the cost. Solomon emphasizes that COF
 should be measured by volume rather than weight, making it accessible
@@ -80,7 +80,7 @@ tools.
 Seedmeals, including canola, soybean, cottonseed, and linseed
 varieties, typically analyze at approximately 6-4-2 NPK. Solomon's
 guideline is to buy whichever seedmeal provides the most protein per
-unit cost, as protein content correlates with nitrogen availability.
+unit cost, as protein content correlates with [[nitrogen-availability-in-legumes]].
 For gardeners seeking higher nitrogen for spring leaf crops, he offers
 a variant that substitutes one part of the seedmeal with tankage, a
 slaughterhouse byproduct analyzing at roughly 10-4-0. Coprameal,
@@ -128,7 +128,7 @@ trimmings with C/N ratios exceeding 50:1, barely qualifies as useful
 even for low-demand vegetables. Medium-quality compost, his recommended
 standard for home gardeners, requires building one large heap per year
 with careful layering of green materials and manure, regular turning,
-and moisture management. High-quality compost exceeding three percent
+and [[mushroom-casing-moisture-management]]. High-quality compost exceeding three percent
 nitrogen is possible but demands careful ingredient selection and
 management that most home gardeners will not sustain.
 
@@ -147,4 +147,3 @@ C/N no higher than 30:1, and liming at fifty pounds per thousand
 square feet each time raw materials are incorporated.
 
 ## Wide Spacing Versus Intensive Gardening
-

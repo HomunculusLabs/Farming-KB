@@ -109,6 +109,8 @@ In fragmented boreal landscapes, *P. aphthosa* shows limited dispersal ability, 
 
 ## See Also
 
+- [[peltigera-rufescens]]
+
 - [[peltigera-canina]]
 - [[peltigera-membranacea]]
 - [[lobaria-pulmonaria]]

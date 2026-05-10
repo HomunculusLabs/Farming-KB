@@ -3,7 +3,7 @@ title: Duboisia hopwoodii
 created: 2026-04-28
 type: species
 tags:
-  - [[nicotine]]
+  - [nicotine]]
   - solanaceae
   - australia
   - aboriginal

@@ -1,5 +1,5 @@
 ---
-title: Old [[holzer-recommended-old-fruit-varieties]] [[coleman-winter-greens-variety-selection]] Selection
+title: Old Fruit Variety Selection
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Old Fruit Variety Selection
 
-[[comparison-sepp-holzer-vs-biodynamic]] has discovered that supposedly very demanding varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
+Sepp Holzer has discovered that supposedly very demanding [[holzer-stone-fruit-varieties-and-growing]] varieties — which experts say only thrive in warm climates and at low altitudes — can also adjust to high altitudes and give satisfactory yields. For example, Golden Delicious thrives at 1,400m above sea level. It is important to investigate different local varieties first. The ripening times below are averages for around 1,000m altitude.
 
 ## Recommended Old Apple Varieties
 
@@ -53,7 +53,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 ## Wild and Sour Cherries
 
-Holzer cultivates wild cherries in the forest to increase species diversity. Wild cherries at high altitudes ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because of the harsh nights.
+Holzer cultivates wild cherries in the forest to increase species diversity. Wild cherries at high altitudes [[holzer-stone-fruit-varieties-and-growing]] ripen in September when the harvest is long over at lower altitudes. At high altitudes plums, pears and apples develop a very intense flavour because of the harsh nights.
 
 ## Apricot and Peach Varieties
 
@@ -64,21 +64,3 @@ These can be grown at altitude if sheltered from wind and grown in climatically 
 - [[fruit-tree-grafting-guide]]
 - [[fruit-forest-establishment]]
 - [[sepp-holzer-method]]
-## Practical Considerations
-
-Successful implementation of Old Fruit Variety Selection requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

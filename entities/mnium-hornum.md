@@ -80,3 +80,11 @@ Mnium hornum frequently grows alongside [[polytrichum-commune]], and [[pleuroziu
 - [[fagus-sylvatica]]
 - [[marchantia-polymorpha]]
 - [[athyrium-filix-femina]]
+
+## See Also
+
+- [[buxbaumia-aphylla]]
+
+- [[bartramia-pomiformis]]
+
+- [[anomodon-viticulosus]]

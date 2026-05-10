@@ -74,7 +74,7 @@ fungal microorganism. Caused by *[[bloomfield-aspergillus-biology-and-aflatoxins
 
 - bloomfield-poisonous-mushrooms-and-mycotoxins
 
-- [Amanita Phalloides (Death Cap)]([[amanita-phalloides-death-cap]].md)
+- [[amanita-phalloides-death-cap|Amanita Phalloides (Death Cap)]]
 - [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[fungal-spore-biology]](fungal-spore-biology.md)
 - [[mycelial-networks]](mycelium-network.md)
 

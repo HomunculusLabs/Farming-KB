@@ -9,7 +9,7 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 # Mushroom Toxicology — Palmer's Theory
 
-Julius Palmer's pioneering (if partially mistaken) theory of fungal poison absorption, based on self-experimentation and case reports from "About Mushrooms" (1894).
+Julius Palmer's pioneering (if partially mistaken) theory of fungal poison absorption, based on self-experimentation and case reports from "About Mushrooms" (1894). (see [[fungal-poisons-and-toxicology]]).
 
 ## The Amanita Threat
 
@@ -30,7 +30,7 @@ Palmer proposed that fungal toxins work by **absorption** rather than digestion:
 
 1. **Intestinal absorption**: The alkaloid enters the system through the villi of the intestinal canal. "Were we to remove every vestige of the mushroom, the system might possibly be left so charged with poison as to refuse to rally."
 
-2. **Cross-contamination**: [[palmer-edible-mushrooms-north-america]] absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing Coprinus deliquescens caused immediate symptoms.
+2. **Cross-contamination**: Edible mushrooms absorb the properties of poisonous ones when stored together. "If edible and noxious toadstools be gathered together, the former will absorb the properties of the latter." He proved this by personal experience — eating common mushrooms that had been in a box with decomposing Coprinus deliquescens caused immediate symptoms. (see [[inocybe-geophylla]]).
 
 3. **Dermal absorption**: "An Amanita held in the closed hand will produce all the symptoms of poisoning, even to convulsions." He experienced nausea from holding Amanitas in a warm, perspiring hand while traveling in a closed railway car.
 
@@ -42,7 +42,7 @@ Palmer's recommended treatments (with modern annotations):
 
 | Palmer's Remedy | Rationale | Modern Assessment |
 |---|---|---|
-| **Sweet oil ([[staycare-fungal-treatment-of-olive-oil-mill-wastewater]])** liberally | Neutralizes alkaloidal poison | May slow absorption; not an antidote |
+| **Sweet oil (olive oil)** liberally | Neutralizes alkaloidal poison | May slow absorption; not an antidote |
 | Whiskey + sweet oil (equal parts) | Combines stimulant with oil neutralizer | Alcohol is not recommended |
 | **Subcutaneous atropine/belladonna injections** | Antagonizes Amanita alkaloids | Partially correct — atropine antagonizes muscarine (A. muscaria) but NOT amatoxins (A. phalloides) |
 | Warm water + oil enemata | Expels substance from lower intestines | Supportive care, not curative |
@@ -55,12 +55,12 @@ Palmer correctly noted that one case survivor used vinegar on the toadstool befo
 **Where Palmer was correct:**
 - Amanitas are the primary lethal mushroom genus
 - No simple test distinguishes edible from poisonous species
-- Delayed onset is characteristic of [[bloomfield-amatoxin-poisoning-mechanism]]
+- Delayed onset is characteristic of amatoxin poisoning
 - Cross-contamination between mushroom species is possible
 - Absorption (not just ingestion) of fungal toxins is real
 
 **Where Palmer was mistaken:**
-- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]/muscimol — different toxins with different mechanisms
+- His "Amanitine" conflated muscarine (A. muscaria), amatoxins (A. phalloides), and ibotenic acid/muscimol — different toxins with different mechanisms
 - Atropine antagonizes muscarine but not amatoxins (the truly deadly compounds)
 - Dermal absorption of amatoxins is not medically established
 - The "vinegar antidote" is not reliable
@@ -79,8 +79,8 @@ Palmer observed that animal susceptibility to mushroom toxins does not correlate
 - Rabbits swallowed non-edible fungi unharmed
 - A dog died from Agaricus melleus (honey mushroom) in 12 hours
 - A cat died in convulsions from Marasmius oreades (fairy-ring champignon)
-- A dog became sick from [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] ([[growing-gourmet-shaggy-mane-coprinus-cultivation]])
+- A dog became sick from Coprinus comatus (shaggy mane)
 
 "Because a mushroom is eaten with impunity by the lower animals it by no means follows that it is fit for the food of man."
 
-See also: [[amanita-muscaria-guide]] | [[amanita-muscaria-preparation-methods]] | [[nineteenth-century-mushroom-identification]] | [[julius-palmer]]
+See also: [[amanita-muscaria-guide]] | [[amanita-preparation-methods]] | [[nineteenth-century-mushroom-identification]] | [[julius-palmer]]

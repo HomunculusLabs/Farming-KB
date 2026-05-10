@@ -63,7 +63,7 @@ Both trees fit the canopy or sub-canopy layer. Figs are ideal near south-facing 
 
 ## Complementary Functions in Polyculture
 
-Beyond [[query-how-do-i-prune-brambles-for-maximum-fruit-production]], both trees serve multiple functions in a permaculture design. Figs drop leaf litter that builds [[humus-and-soil-organic-matter]] quickly, and their broad leaves provide summer shade for understory plants. Mulberries, with their deep roots, mine minerals from subsoil layers and bring them to the surface via leaf fall. Both species produce mulch that decomposes rapidly, feeding soil microbes and supporting the [[teaming-with-microbes-tilling-damage-to-fungal-networks]] critical to food forest health.
+Beyond [[query-how-do-i-prune-brambles-for-maximum-fruit-production]], both trees serve multiple functions in a permaculture design. Figs drop leaf litter that builds [[humus-formation-and-soil-organic-matter]] quickly, and their broad leaves provide summer shade for understory plants. Mulberries, with their deep roots, mine minerals from subsoil layers and bring them to the surface via leaf fall. Both species produce mulch that decomposes rapidly, feeding soil microbes and supporting the [[teaming-with-microbes-tilling-damage-to-fungal-networks]] critical to food forest health.
 
 ## Recommendations by Scenario
 

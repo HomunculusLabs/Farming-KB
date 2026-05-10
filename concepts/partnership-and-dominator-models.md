@@ -116,7 +116,7 @@ Mellaart noted that its religious art appeared "three or four thousand years ahe
 
 McKenna interpreted the Genesis story of the expulsion from Eden as a cultural memory of the transition from partnership to dominator society.
 
-The "fruit of the Tree of Knowledge" was identified with the [[emcdda-psilocybin-mushroom-dose-and-effects]] that catalyzed the Tassili partnership Eden. The story records that "the eyes of both of them were opened and they discovered that they were naked," suggesting attainment of consciousness of self and other.
+The "fruit of the Tree of Knowledge" was identified with the [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] that catalyzed the Tassili partnership Eden. The story records that "the eyes of both of them were opened and they discovered that they were naked," suggesting attainment of consciousness of self and other.
 
 The "angel with flashing sword" guarding the return to Eden symbolized the harshness of desert drought conditions that disrupted the pastoralists' Saharan paradise.
 

@@ -17,7 +17,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://www.mycobank.org/ (Lactarius indigo taxonomy)
-  - Hesler, L.R. & Smith, A.H. (1979). [[growing-gourmet-north-american-reishi-species]] Species of Lactarius. Univ. Michigan Press.
+  - Hesler, L.R. & Smith, A.H. (1979). growing-gourmet-north-american-reishi-species Species of Lactarius. Univ. Michigan Press.
   - Garibay-Orijel, R. et al. (2009). "Ethnomycological knowledge of Lactarius deliciosus and L. indigo in tropical Mexico." Journal of Ethnobiology.
   - Montoya, L. et al. (2012). "Edible mushrooms of Mexico." Springer.
   - Bandala, V.M. & Montoya, L. (2014). "Lactarius species from Mexico." Mycotaxon.
@@ -135,15 +135,11 @@ Cultivation of *L. indigo* has proven challenging due to its ectomycorrhizal dep
 - **Lactarius paradoxus** — smaller, darker blue, latex turns green immediately
 - **Lactarius quieticolor** — similar but with reddish-brown tones on cap
 - **Lactarius chelidonium** — orange-yellow latex, yellowish tones
-## See Also
 
+## See Also
 - [[lactarius-chrysorrheus]]
 - [[lactarius-piperatus]]
 - [[lactarius-camphoratus]]
-
-- [[russula-emetica]] — A poisonous Russulaceae member
-- [[cantharellus-cibarius-entity]] — Chanterelle, companion species in mixed forests
-
-## See Also
-
+- [[russula-emetica]]
+- [[cantharellus-cibarius-entity]]
 - [[edible-mushroom-families-boleti-russula-lactarius-clavaria-puffballs-palmer]]

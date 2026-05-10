@@ -107,6 +107,8 @@ Conservation efforts focus on protecting large subalpine heathland areas and mai
 
 ## See Also
 
+- [[rhododendron-catawbiense]]
+
 - [[rhododendron-ponticum]]
 - [[vaccinium-myrtillus]]
 - [[vaccinium-uliginosum]]

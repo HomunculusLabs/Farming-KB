@@ -5,7 +5,6 @@ tags: [cannabis, seedlings, germination, early-growth, seed-care]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---

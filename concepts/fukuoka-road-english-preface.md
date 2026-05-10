@@ -4,8 +4,8 @@ created: 2026-04-28
 tags: [philosophy, god, nature, preface, road-back-to-nature]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka-human-intellect-barrier-to-nature-road-back|fukuoka.md"
 type: concept
 ---
 
@@ -73,7 +73,7 @@ The preface closes with a poem Fukuoka wrote in April
 
   Look how beautiful, the flowers of the earth!
   This is the land where live the gods;
-  A perfect, faultless, natural paradise.
+  A perfect, faultless, [[fukuoka-natural-farming-philosophy-road-back-to-nature|natural]] paradise.
 
   Now in the deep slumber of spring in my Eden,
   I dream a private dream of returning to nature.

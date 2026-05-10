@@ -126,7 +126,7 @@ branching and respond well to low-stress training and trellising.
 ## See Also
 
 - [[kush-mints]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[runtz-entity]]
 - animal cookies
 - [[wedding-cake]]

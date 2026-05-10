@@ -5,8 +5,7 @@ updated: 2026-05-06
 tags: [photosynthesis, plant-physiology, c4-plants, cam-plants, carbon-fixation, plant-biochemistry, crop-science, water-use-efficiency, climate-change]
 date: 2026-05-02
 type: concept
-sources:
-  sources: []
+sources: []
 ---
 
 c4 and [[comparison-c3-c4-and-cam-photosynthesis-pathways]] are evolutionary adaptations that concentrate

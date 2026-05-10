@@ -102,7 +102,7 @@ A crucial question raised by the model is whether the process is reversible. Can
 
 The physical driver behind stage one was ecological change. The psilocybin-containing Stropharia cubensis requires warm, moist grassland conditions — precisely the conditions that prevailed in Africa during the emergence of Homo sapiens but which progressively disappeared as the Sahara dried and the Fertile Crescent desiccated. As the mushroom's habitat contracted, so too did the frequency of human-mushroom contact.
 
-The desertification of the entire area from North Africa to the region around Delhi has distorted our conception of what occurred when ancient civilizations were in their infancy and the area received higher rainfall. The [[emcdda-psilocybin-mushroom-dose-and-effects]] religion, born at the birth of cognition in the grasslands of Africa, may actually be the [[mckenna-psilocybin-generic-religion-humanity]] of human beings.
+The desertification of the entire area from North Africa to the region around Delhi has distorted our conception of what occurred when ancient civilizations were in their infancy and the area received higher rainfall. The [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] religion, born at the birth of cognition in the grasslands of Africa, may actually be the [[mckenna-psilocybin-generic-religion-humanity]] of human beings.
 
 ### The Vedic Transition
 

@@ -139,7 +139,6 @@ when offered to wealthy [[ayahuasca-tourism-western-seekers-and-integration]].
   income, creating new class divisions within communities.
 - **Tourism dependency**: Communities become vulnerable to travel
   disruptions, legal changes, or shifts in tourist preferences.
-
 ## See Also
 
 - [[peruvian-ayahuasca-government-festivals-and-presidential-ceremony]]

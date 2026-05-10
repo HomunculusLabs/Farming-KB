@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-[[comparison-natural-swimming-pool-vs-conventional-pool]] pools (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and beneficial microorganisms purify the water. The result is a pool that looks and functions like a natural pond while being safe for swimming.
+Natural swimming pools (also called swimming ponds or bio-pools) use biological filtration instead of chlorine or other chemicals to maintain clean, clear water. They combine a swimming zone with one or more planted filtration zones where aquatic plants and beneficial microorganisms purify the water. The result is a pool that looks and functions like a natural [[slip-form-stone-construction]] pond while being safe for swimming.
 
 ## How Natural Pools Work
 
@@ -18,7 +18,7 @@ A natural pool operates as a closed-loop ecosystem:
 1. **Swimming zone** — The open water area where people swim. Typically 6-8 feet deep at the center, with sloped sides.
 2. **Filtration zone** — A shallower area (12-24 inches deep) filled with gravel and aquatic plants. Water circulates between zones.
 3. **Circulation** — A small pump moves water from the swimming zone through the filtration zone and back. In some designs, aeration devices supplement flow.
-4. **Biological filtration** — Plant roots absorb nutrients (nitrogen, phosphorus) from the water. Biofilm on gravel surfaces hosts bacteria that [[query-can-fungi-break-down-plastic-pollution]] [[hamilton-composting-and-organic-matter-management]]. Zooplankton consume algae cells.
+4. **Biological filtration** — Plant roots absorb nutrients (nitrogen, phosphorus) from the water. Biofilm on gravel surfaces hosts bacteria that break down organic matter. Zooplankton consume algae cells.
 
 The key principle: algae growth is limited by nutrient competition. Plants in the filtration zone take up the nutrients that would otherwise feed algae in the swimming zone.
 
@@ -96,11 +96,11 @@ Plants are the primary filtration mechanism. Select for:
 - Iris (Iris versicolor, I. pseudacorus)
 - Arrowhead (Sagittaria latifolia)
 - Cattail (Typha latifolia) — aggressive, use sparingly
-- Sweet flag ([[sweet-flag-acorus-calamus-ethnobotany]])
+- Sweet flag (Acorus calamus)
 - Water mint (Mentha aquatica)
 - Elephant ear (Colocasia)
 
-**Floating plants** (for additional [[plant-nutrient-uptake-mechanisms]]):
+**Floating plants** (for additional nutrient uptake):
 - Water hyacinth (Eichhornia) — aggressive, control carefully
 - Water lettuce (Pistia)
 
@@ -144,6 +144,12 @@ Plants are the primary filtration mechanism. Select for:
 
 ### Slime on Surfaces
 
-## Related Topics
+- Cause: Biofilm buildup — actually normal and beneficial
+- Solution: Brush walls gently; this is part of the biological process
 
-Natural pools are part of a broader ecological water management approach. See [[greywater-systems-detailed]] for household wastewater and [[water-management]] for comprehensive water system design. The aquatic plants in a natural pool can also serve as [[mulching-guide]] and [[composting-methods-comparison]] material when trimmed.
+### Mosquitoes
+
+
+## See Also
+- [[query-what-are-the-best-natural-building-methods]]
+- [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]

@@ -135,16 +135,8 @@ fungi. They demonstrate that:
    predictors of fungal [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]].
 2. The taxonomy of Psilocybe, organized into sections, reflects genuine
    biogeographic and evolutionary history, not merely morphological
-   convenience.
-## See Also
-
-- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]: Temperate Cosmopolitan Distribution
-- Neurotropic Fungi and Vegetation Types: Mesophytic and Cloud Forest
-  Diversity
-- Hongo's Nine Distribution Types in Neurotropic Fungi
-- Southern Hemisphere Origin Hypothesis for Neurotropic Psilocybe
 
 ## See Also
-- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
 - [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]
+- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
 - [[guzman-allen-gartz-psilocybe-sections-biogeographic-significance]]

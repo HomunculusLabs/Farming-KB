@@ -17,7 +17,7 @@ sources:
   - "Wang, J., et al. (2021). Anticancer effects of Ganoderma lucidum polysaccharides and triterpenoids. Frontiers in Pharmacology, 12, 640257."
   - "Liu, Y.T., et al. (2019). Cultivation of Ganoderma lucidum – A review. Molecules, 24(21), 3900."
   - "Cao, L.Z., & Lin, Z.B. (2004). Regulation on maturation and function of dendritic cells by Ganoderma lucidum polysaccharides. Immunology Letters, 91(1), 35–41."
-  - "Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press."
+  - "Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press."
 ---
 
 # Reishi (*[[medicinal-mushrooms]] in the world, with over 2,000 years of documented use in East Asian medicine. Classified as an **adaptogen**, Reishi supports homeostatic regulation of the body's stress response systems.

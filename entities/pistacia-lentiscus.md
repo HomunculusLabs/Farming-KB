@@ -123,12 +123,6 @@ It serves as a nurse plant for establishing more sensitive species in degraded l
 The resin and fruit provide diversified income streams in agroforestry systems.
 
 ## See Also
-
 - [[boswellia-serrata]]
 - [[rhus-coriaria]]
-- olea europaea
-- myrtus communis
-
-## See Also
-
 - [[permaculture-plants-fire-resistant-trees-shrubs]]

@@ -1,11 +1,10 @@
 ---
-title: Permaculture jeavons-climate-adaptation-growing-seasons
+title: Permaculture Climate Adaptation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, climate, resilience, design, water-management, sustainability, environment]
-sources:
-  sources: []
+sources: []
 ---
 
 # Permaculture Climate Adaptation
@@ -32,8 +31,8 @@ Drought is one of the most common and challenging climate stresses. Permaculture
 
 ### Soil Strategies
 - Increase organic matter content (each 1% increase holds approximately 20,000 gallons more water per acre)
-- Biochar amendment increases water retention and [[ph-and-nutrient-availability-garden-soils]]
-- Minimize tillage to preserve soil structure and [[dighton-mycorrhizal-networks-carbon-transfer]]
+- Biochar amendment increases water retention and nutrient availability
+- Minimize tillage to preserve soil structure and mycorrhizal networks
 - Cover crops to protect soil from drying winds and sun
 - Rock mulches can reduce evaporation while slowly releasing minerals
 
@@ -50,7 +49,7 @@ Excessive water can be as damaging as too little. Permaculture design distribute
 ### Earthworks for Flood Management
 - Swales spread water across the landscape instead of concentrating it
 - Contour planting and terraces slow water movement downhill
-- [[mollison-designers-diversion-drains-and-interceptor-banks]] redirect excess water away from vulnerable areas
+- Diversion drains redirect excess water away from vulnerable areas
 - Spillways on ponds ensure controlled overflow
 - Check dams in drainage lines slow water velocity and allow sediment deposition
 
@@ -73,7 +72,7 @@ Rising temperatures and more frequent heat waves stress plants, animals, and peo
 ### Shading and Cooling
 - Deciduous shade trees to the south and west of buildings (shade in summer, sun in winter)
 - Pergolas, arbors, and vine-covered structures for outdoor shade
-- Water features for [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]
+- Water features for evaporative cooling
 - Light-colored surfaces to reflect heat
 - Shade cloth for vulnerable crops during peak heat
 
@@ -142,9 +141,10 @@ Climate change is making weather patterns increasingly erratic. Resilient design
 - Monitor early warning signs (soil moisture, pest pressure, plant stress)
 - Design for easy modification — movable structures, flexible planting plans
 - Connect with local knowledge networks for shared learning
-## See Also
 
-- [[water-management]] — water earthworks for drought and flood
-- [[permaculture-site-analysis]] — understanding [[pdc-climate-and-microclimate-analysis]]
-- [[permaculture-forest-garden-establishment]] — perennial systems for climate resilience
-- [[permaculture-community-resilience]] — social and economic climate adaptation
+## Resilience Through Diversity
+
+The single most effective climate adaptation strategy is biodiversity. Diverse systems with many species, many functions, and many income streams are inherently more resilient than simplified systems. Monocultures fail catastrophically; polycultures adapt.
+
+- Species diversity — many types of plants, animals, and microorganisms
+- Functional diversity — many ways of meeting each need (food, water, fertility)

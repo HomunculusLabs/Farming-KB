@@ -100,10 +100,6 @@ rows where seeds will be planted, leaving the rest of the bed undisturbed, as
 recommended by the soil food web approach.
 
 ## See Also
-
 - [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
 - [[bacterial-vs-fungal-soil]]
-
-## See Also
-
 - [[comparison-no-till-vs-raised-bed]]

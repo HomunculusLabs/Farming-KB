@@ -11,9 +11,9 @@ tags:
   - agaricales
 sources:
   - Guzmán G, Allen JW, Gartz J. (1998). "A worldwide geographical distribution of the neurotropic fungi." Mycological Research 102(4): 405–410.
-  - Stamets P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
+  - Stamets P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
   - Gartz J. (1994). "Der Pilz als Droge." Naturwissenschaftliche Rundschau 47(8): 317–320.
-  - Weeks RJ, Flegg PB, Woodbridge AP. (1979). "The [[grass-seed-cultivation-of-psilocybe-mushrooms]] semilanceata." Journal of the Natural History Society 11: 63–65.
+  - Weeks RJ, Flegg PB, Woodbridge AP. (1979). "The grass-seed-cultivation-of-psilocybe-mushrooms semilanceata." Journal of the Natural History Society 11: 63–65.
   - https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=129191
 ---
 

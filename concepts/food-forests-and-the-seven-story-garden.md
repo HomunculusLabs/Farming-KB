@@ -105,10 +105,10 @@ celery, dill, coriander), and pest-confusers (horseradish, Mexican marigold, gar
 artemisia. His work shows food forests can be economically viable at extreme elevations.
 ## See Also
 
-- [Permaculture Principles]([[permaculture-principles]].md)
-- [Plant Guilds](plant-guilds.md)
-- [Ecological Succession](ecological-succession.md)
-- [Agroforestry](agroforestry.md)
-- [Forest Gardening](forest-gardening.md)
+- [[permaculture-principles|Permaculture Principles]]
+- Plant Guilds
+- Ecological Succession
+- [[agroforestry|Agroforestry]]
+- Forest Gardening
 - [[forest-gardens]]
 - [[jerusalem-artichoke]]

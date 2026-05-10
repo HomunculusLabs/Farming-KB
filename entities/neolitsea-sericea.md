@@ -109,6 +109,9 @@ Genetic diversity studies using molecular markers have revealed moderate populat
 
 ## See Also
 
+- [[cornus-sericea]]
+- [[neolitsea-aurata]]
+
 - [[litsea-cubeba]]
 - [[litsea-glauca]]
 - [[lindera-benzoin]]

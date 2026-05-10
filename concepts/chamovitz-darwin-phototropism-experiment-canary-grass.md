@@ -134,12 +134,7 @@ represent one of the most elegant experimental designs in the history
 of plant biology.
 
 ## See Also
-
 - [[canary-grass-phototropism-model-organism]]
-
 - [[chamovitz-plant-senses-overview]]
 - [[phytochrome-photoreception]]
-
-## See Also
-
 - [[darwins-phototropism-experiments]]

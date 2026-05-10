@@ -4,11 +4,10 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [mushroom-cultivation, mycology]
-sources: sources:
+sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
---- title: [[duggar-mushroom-growing-room-design]] [[chen-maitake-growth-parameters-environmental-control]] System created: 2026-04-26 tags: [mycology, mushroom-cultivation, environmental-control, ventilation, stamets]] date: 2026-04-25 updated: 2026-04-25 sources: [raw/papers/the-mushroom-cultivator-stamets.md] type: concept --- # Mushroom Growing Room Environmental Control System The mushroom growing room must maintain a selected temperature range at high relative humidities. This is accomplished through adequate insulation and an environmental control system providing heating, cooling, humidification, and air handling. [[mushroom-cultivator-fruiting-conditions:----supplies-oxygen-to-growing-mushrooms.----carries-away-co2-produced-by-[[agaricus-brunnescens]]*: 4-6 changes per hour.
--   *[[psilocybe-cubensis]]*: 2-3 changes per hour.
+--- title: duggar-mushroom-growing-room-design chen-maitake-growth-parameters-environmental-control System created: 2026-04-26 tags: [mycology, mushroom-cultivation, environmental-control, ventilation, stamets date: 2026-04-25 updated: 2026-04-25 sources: [raw/papers/the-mushroom-cultivator-stamets.md] type: concept --- # duggar-mushroom-growing-history-and-methods Room [[chen-maitake-growth-parameters-environmental-control]] System The [[duggar-mushroom-growing-history-and-methods]] room must maintain a selected query-what-is-the-ideal-temperature-range-for-growing-cannabis at high relative humidities. This is accomplished through adequate insulation and an environmental control system providing heating, cooling, humidification, and air handling. [[coprinus-atrementarius-entity-the-mushroom-cultivator]] [[fruiting-conditions]]:   supplies oxygen to [[falconer-growing-mushrooms-in-sheds]].    carries away co2 produced by agaricus*: 2-3 changes per hour.
 
 **Formula for required CFM:**
 CFM = (air changes/hour x free air space in cu. ft.) / 60
@@ -34,7 +33,7 @@ Standard inflatable polyethylene tubing sized to the fan diameter:
     section.
 -   Hole spacing equals 1/4 the distance from duct to wall or floor.
 -   **Entrainment** — air discharge at sufficient velocity draws in
-    surrounding room air, enhancing circulation and eliminating dead-air
+    surrounding [[stamets-growing-room-air-circulation-co2-management]], enhancing circulation and eliminating dead-air
     pockets.
 
 ### Air Recirculation
@@ -62,7 +61,7 @@ Two approaches:
 
 -   **Dry heat** — hot water or steam through closed pipe systems,
     resistance coils, or baseboard heaters. Lowers air moisture content.
--   **Live steam** — maintains temperature AND humidity simultaneously.
+-   **Live steam** — maintains [[greg-green-temperature-and-humidity-control]] simultaneously.
     Control volumetrically via hand valve rather than on/off.
 
 The growing room should take full advantage of substrate heat generation
@@ -87,7 +86,7 @@ Three primary methods:
     Appropriate nozzles emit 0.5-1.0 gallons/hour at 20-30 psi.
 3.  **Evaporative pad systems** — air passes through water-saturated
     absorbent material, similar to a "swamp cooler." Provides both
-    humidification and temperature regulation.
+    humidification and [[blesching-cannabis-fever-temperature-regulation]].
 
 ## Thermostats and Humidistats
 
@@ -111,9 +110,9 @@ Photosensitive species require light for proper development:
 
 ## Monitoring Equipment
 
-Essential for the sensitive growing environment:
+Essential for the sensitive [[cannabis-growing-environment-setup]]:
 
 -   Maximum-minimum thermometers for temperature fluctuations.
 -   Hygrometers or sling psychrometers for humidity (calibrate
     periodically).
--   Advanced equipment: CO2 detectors, moisture meters, anemometers,
+-   Advanced equipment: CO2 detectors, [[cervantes-moisture-meters-watering-technique]], anemometers,

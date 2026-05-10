@@ -13,7 +13,7 @@ Phytochrome is a photoreceptor pigment protein that allows plants to detect red 
 
 ## Historical Discovery
 
-### Maryland Mammoth Tobacco
+### [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism|Maryland]] Mammoth Tobacco
 
 The story of photoperiodism begins with a mutant tobacco strain discovered in southern Maryland around 1906. This strain, named *Maryland Mammoth*, grew continuously to heights of 4.5 meters with nearly a hundred leaves, but rarely flowered — a serious problem for farmers who needed seed for the next year's crop.
 
@@ -67,7 +67,7 @@ The red/far-red system has deep ecological logic:
 
 ## Where Phytochrome Senses Light
 
-Unlike phototropism (where Darwin showed the "eye" is at the shoot tip), phytochrome-mediated photoperiodism is sensed primarily in the **leaves**:
+Unlike [[phototropism-darwin-plant-light-sensing|phototropism]] (where Darwin showed the "eye" is at the shoot tip), phytochrome-mediated photoperiodism is sensed primarily in the **leaves**:
 
 - Illuminating any single leaf with red light during the night is sufficient to regulate flowering in the entire plant.
 - A plant with all leaves removed, leaving only stem and apex, is "blind" to photoperiodic light signals even if the entire shoot is illuminated.

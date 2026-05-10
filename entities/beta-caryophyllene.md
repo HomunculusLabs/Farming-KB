@@ -116,4 +116,6 @@ expertise and contributing to the ongoing evolution of this field.
 
 ## See Also
 
+- [[blesching-dietary-beta-caryophyllene-spice-sources-cb2-agonist]]
+
 - [[guaiene]]

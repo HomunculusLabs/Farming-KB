@@ -85,13 +85,8 @@ forest understories, edible landscaping, and [[mollison-designers-mixed-orchard-
 iodine content of the fruit is an unusual nutritional benefit.
 
 ## See Also
-- Guava
-- Loquat
-- Strawberry Guava
-- Windbreak Plants
-- Subtropical [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
 
-## See Also
+- [[feijoa-sellowiana]]
 - [[permaculture-plants-fruit-trees-temperate]]
 - [[permaculture-plants-fruit-trees-selection]]
 - [[plant-macronutrient-functions-nitrogen-phosphorus-potassium]]

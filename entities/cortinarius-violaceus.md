@@ -137,11 +137,6 @@ Regular monitoring programs in countries such as Sweden, Finland, and the Nether
 *Cortinarius violaceus* has no significant ethnobotanical use. Its primary importance lies in mycology and forest ecology, where it serves as a flagship species for fungal conservation. Its striking appearance makes it one of the most photographed wild mushrooms and a popular subject in mycological field guides. In recent years, it has become a symbol of fungal conservation efforts in Europe, featured in public awareness campaigns about the importance of forest biodiversity and the often-overlooked role of fungi in ecosystem health.
 
 ## See Also
-
 - [[mushroom-cultivation-basics]]
-
 - [[amanita-muscaria-entity]]
-
-## See Also
-
 - [[mycorrhizal-edible-mushroom-species-overview]]

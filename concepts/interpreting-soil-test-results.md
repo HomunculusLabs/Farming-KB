@@ -31,14 +31,14 @@ This page covers how to read a soil test report and translate numbers into actio
 
 See [[soil-fertility-management]] for detailed pH management. Key points:
 
-- **6.0–6.8**: Optimal for most vegetables and cannabis. Maximum [[ph-and-nutrient-availability-garden-soils]] on the availability chart.
+- **6.0–6.8**: Optimal for most vegetables and cannabis. Maximum nutrient availability on the availability chart.
 - **< 5.5**: Aluminum and manganese toxicity risk. Liming needed.
 - **> 7.5**: Iron, manganese, zinc, boron become unavailable. Sulfur or elemental sulfur needed.
 - **Living soil note**: The [[soil-food-web-nutrient-cycling]] buffers pH. Microbial respiration produces organic acids that moderate swings. But starting pH still matters — biology can't fix a pH of 4.5.
 
 ## CEC (Cation Exchange Capacity)
 
-CEC measures the soil's ability to hold positively-charged nutrients (Ca²⁺, Mg²⁺, K⁺, NH₄⁺). Higher CEC = greater [[dighton-fungal-biomass-nutrient-reservoir-ecosystems]], slower leaching.
+CEC measures the soil's ability to hold positively-charged nutrients (Ca²⁺, Mg²⁺, K⁺, NH₄⁺). Higher CEC = greater nutrient reservoir, slower leaching.
 
 | CEC Range | Soil Type | Implication |
 |-----------|-----------|-------------|
@@ -78,7 +78,7 @@ Check which method your lab uses before comparing results to guidelines. Living 
 
 Most labs do NOT test total nitrogen reliably. Instead:
 - **Pre-plant nitrate-N test**: Measures plant-available N at time of sampling. Most useful for field crops.
-- **[[hamilton-composting-and-organic-matter-management]] %**: A rough proxy for N-supplying power. 1% OM ≈ 20–40 lbs N/acre/year released through mineralization.
+- **Organic matter %**: A rough proxy for N-supplying power. 1% OM ≈ 20–40 lbs N/acre/year released through mineralization.
 - **In living soil systems**: The [[soil-food-web-nutrient-cycling]] mineralizes N from organic matter on demand. Synthetic N tests are less meaningful. Focus on OM%, CEC, and biological activity.
 
 ## Amending Based on Test Results
@@ -96,7 +96,7 @@ The [[soil-food-web-nutrient-cycling]] and KNF/[[effective-microorganisms-em]] a
 - **Focus on biology first, chemistry second** — if microbial life is thriving, many nutrient "deficiencies" resolve as microbes mineralize locked-up nutrients
 - **Build OM% before chasing individual nutrients** — compost, [[vermicomposting]], [[cover-cropping-guide]], and mulch raise OM which raises CEC which raises nutrient holding capacity
 - **Use rock minerals for long-term reserves** — rock phosphate, azomite, basalt dust release over years. They feed microbes which feed plants.
-- **[[teaming-with-fungi-mycorrhizal-inoculation-techniques]]** can reduce P fertilizer needs by 30–60% — see [[mycorrhizal-fungi]]
+- **Mycorrhizal inoculation** can reduce P fertilizer needs by 30–60% — see [[mycorrhizal-fungi]]
 - **[[knf-preparations]]** provide biological inputs that help plants access existing soil nutrients rather than adding more
 
 ### Decision Framework
@@ -119,31 +119,32 @@ The [[soil-food-web-nutrient-cycling]] and KNF/[[effective-microorganisms-em]] a
 |-----------|-----------|
 | New garden / new property | Before planting (baseline) |
 | Established garden | Every 2–3 years |
-| Intensive cannabis beds | Annually (heavy [[vegetable-nutrient-demand-levels]]) |
+| Intensive cannabis beds | Annually (heavy nutrient demand) |
 | Problem diagnosis | As needed |
 | After major amendments | 3–6 months post-application |
 | Pasture / field | Every 3 years minimum |
 
 ## KNF Approach to Soil Assessment
 
-Master Cho and Korean [[comparison-natural-farming-vs-permaculture]] take an observational approach complementing lab tests:
+Master Cho and Korean Natural Farming take an observational approach complementing lab tests:
 
 - **Plant indicators**: Certain weeds indicate soil conditions — see [[common-homestead-weeds]] and [[dynamic-accumulators]]
-## See Also
+- **Soil smell**: Healthy soil has an earthy, sweet smell (geosmin from actinomycetes). Sour = anaerobic. Ammonia = excess N.
+- **Soil structure**: Crumbly, well-aggregated soil holds together when squeezed but breaks apart easily. Hard, massive soil = compacted, low biology.
+- **Earthworm presence**: Indicator of biological activity and organic matter
+- **Water infiltration**: Dig a hole, fill with water, time how long it drains. >1 inch/hour = good. <0.5 inch/hour = compaction or drainage issue.
+- **Seawater analysis**: [[knf-preparations]] uses diluted seawater (1:30) as a full-spectrum mineral supplement — if plants respond well, trace mineral deficiency was likely
 
-- [[soil-testing]] — what to test, labs, DIY methods, sampling technique
-- [[soil-fertility-management]] — comprehensive fertility framework, COF recipe, NPK details
-- [[soil-food-web-nutrient-cycling]] — the biological engine that makes nutrients available
-- [[cannabis-plant-nutrition]] — cannabis-specific nutrient needs and organic sources
-- [[dynamic-accumulators]] — plants that mine minerals for you
-- [[knf-preparations]] — biological inputs as alternative to mineral amendments
+The KNF philosophy: test the soil, but also test the plant's response. If plants are healthy and productive, the soil is adequate regardless of what the lab says.
 
-## Related
+## Cannabis-Specific Testing Considerations
 
-- [[animal-byproducts]]
-- [[cover-cropping-guide]]
-- [[effective-microorganisms-em]]
-- [[mycorrhizal-fungi]]
-- [[cannabis-living-soil-guide]]
-- [[water-soluble-calcium-wca]]
-- [[nutritive-cycle-theory]]
+For [[cannabis-living-soil-guide]] beds:
+
+- **Pre-mix testing**: Test your soil mix before planting — amendments can be adjusted in the mix
+- **Runoff pH/EC testing**: Collect runoff water from watering to monitor what's leaching. pH 6.0–7.0, EC depends on stage
+- **Tissue testing**: Leaf tissue analysis reveals what the plant is actually taking up (vs. what's in the soil). Useful when visual deficiency symptoms appear. Most university labs offer tissue analysis.
+- **Post-harvest soil test**: Test after harvest to plan next cycle's amendments
+- See [[cannabis-plant-nutrition]] for deficiency symptom identification and [[cannabis-living-soil-amendment-schedule]] for amendment timing
+
+## Quick Reference: Soil Test Action Guide

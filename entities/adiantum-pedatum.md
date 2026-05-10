@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Hoshizaki, B.J. & Moran, R.C. (2001). "Fern Grower's Manual." Timber Press.
   - Lellinger, D.B. (1985). "A Field Manual of the Ferns and Fern-Allies of the United States and Canada." Smithsonian Institution Press.
-  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). "Pteridaceae." Flora of North America, Vol. 2.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Pteridaceae." Flora of North America, Vol. 2.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Rothmaler, W. (2005). "Exkursionsflora von Deutschland." Spektrum Akademischer Verlag.
 ---
@@ -96,6 +96,8 @@ Competition from aggressive ground covers such as English ivy or Japanese pachys
 Garden division is the most practical propagation method for most growers. Established clumps can be carefully lifted and separated in early spring before new frond growth begins, with each division containing a viable growing point and attached rhizome.
 
 ## See Also
+
+- [[botrypus-virginianus]]
 
 - [[matteuccia-struthiopteris]]
 - [[osmunda-regalis]]

@@ -42,17 +42,31 @@ complexity of multi-variable interactions, and the difficulty of
 predicting outcomes with certainty in dynamic systems. Anticipating
 these challenges enables more proactive and effective management.
 
-Building resilience into implementations through diversity, redundancy,
-and adaptive capacity helps buffer against unpredictable events and
-conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
-than assuming perfect predictability or control over outcomes.
+## Nutrient Translocation Mechanisms
 
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
+Mycelial networks move nutrients through cytoplasmic streaming and
+vacuolar transport. Cytoplasmic flow within hyphae can reach speeds of
+several micrometers per second, driven by pressure gradients generated
+by osmotic water uptake at the growing tips. This allows fungi to
+redistribute carbon, nitrogen, phosphorus, and other minerals from
+nutrient-rich zones to nutrient-poor areas of the network. In wood-
+decomposing basidiomycetes, this translocation is critical because
+the front of the colony often encounters nitrogen-limited substrate
+while the older, rear portions have already mineralized sufficient
+nutrients to support continued exploration.
+
+## Ecological Significance
+
+Mycelial networks are foundational to terrestrial ecosystem function.
+They decompose roughly 85% of plant-derived organic matter in forests,
+converting complex polymers like lignin and cellulose into forms usable
+by other organisms. Mycorrhizal mycelial networks connect 80-90% of
+terrestrial plant species, facilitating nutrient exchange and chemical
+signaling between individuals. These networks can extend for hundreds
+of meters in some forest ecosystems, creating a "wood wide web" that
+links trees of different species and ages into a shared resource system.
+See [[mycelium-running-mycelium-soil-building]] for applications in
+soil restoration.
 
 ## Future Directions
 
@@ -60,11 +74,6 @@ Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
 and analytical methods offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
 
 For continued learning, recommended resources include current research
 publications, established practitioner networks, hands-on experimentation,

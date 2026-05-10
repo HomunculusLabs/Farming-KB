@@ -67,6 +67,8 @@ Some foliar fungi are specialized residents that complete their entire life cycl
 
 ## Related
 
+- [[ingham-leaf-surface-biology-phyllosphere-compost-tea-attachment]]
+
 - [[soil-food-web-nutrient-cycling]]
 
 - fungal-community-ecology

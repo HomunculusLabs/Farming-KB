@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Lapin I. (2001). "Phenibut (beta-phenyl-GABA): a transporter of phenyl group in the brain and pharmacological aspects of its use." Bulletin of Experimental Biology and Medicine.
   - Malykh A.G., Sadaie M.R. (2010). "No drugs, no diet, no exercise — what else can protect the aging brain?" Journal of Alzheimer's Disease, 20(1), 25-28.
-  - Samokhvalov A.V. et al. (2013). "Phenibut abuse in the [[dmt-containing-plants-united-states-halpern]]." American Journal on Addictions, 22(5), 470-471.
+  - Samokhvalov A.V. et al. (2013). "Phenibut abuse in the dmt-containing-plants-united-states-halpern." American Journal on Addictions, 22(5), 470-471.
   - Wikipedia contributors. "Phenibut." Wikipedia, The Free Encyclopedia.
 ---
 
@@ -135,7 +135,6 @@ substances significantly increases overdose risk.
 | Australia | Schedule 4 | Prescription required |
 | United Kingdom | Uncontrolled | Banned from supplement sales (2024) |
 | Canada | Prescription | Health Canada regulated |
-
 ## See Also
 
 - [[withania-somnifera]]

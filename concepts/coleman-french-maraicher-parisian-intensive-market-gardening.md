@@ -123,11 +123,13 @@ growers. Coleman's visit to Louis Savier's garden in 1974 demonstrated that
 the system's principles — intensive spacing, protected cultivation,
 biological fertility — remained viable and could be adapted to modern
 conditions.
-
 ## See Also
 
 - [[coleman-soil-heat-mass-passive-thermal-storage]]
 - [[coleman-french-maraicher-transport-britain-kropotkin]]
+- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
+- [[coleman-winter-harvest-cut-and-come-again-techniques]]
+- [[coleman-french-historical-winter-vegetable-production]]
 
 ## Merged: French Intensive Winter Salad Tradition
 
@@ -146,5 +148,3 @@ The Parisian *maraîchers* (market gardeners) of 1850–1900 created the most im
 ### Origins at Versailles
 
 The earliest developments in season extension began in the royal *potager* (vegetable garden) at Versailles under the celebrated head gardener La Quintinie in the 1670s and 1680s. These primitive predecessors of the cold frame were refined over nearly two centuries before reaching their peak in nineteenth-century Paris.
-
-### The Golden Age: 1850–1900

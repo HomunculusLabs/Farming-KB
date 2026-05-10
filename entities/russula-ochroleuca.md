@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kibby, G. & Fatto, R. (2019). "ghouled-field-guide-historical-context to the Mushrooms of Britain and Europe." Merlin Unwin Books.
-  - Phillips, R. (2010). "Mushrooms: A Comprehensive Guide to [[psilocybin-mushroom-identification-guide]]." Macmillan.
+  - Phillips, R. (2010). "Mushrooms: A Comprehensive Guide to psilocybin-mushroom-identification-guide." Macmillan.
   - Knudsen, H. & Vesterholt, J. (2012). "Funga Nordica: Agaricoid, Boletoid and Cyphelloid Genera." Nordsvamp.
   - Boertmann, D. (2010). "The Mushrooms and Toadstools of Britain and North-West Europe." PilzPress.
 created: 2026-05-07

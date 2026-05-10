@@ -4,16 +4,12 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, preparation, recipe, workflow, genetics]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
-  - "raw/papers/laminar-flow-hood-construction-1.md"
-  - "raw/papers/unknown-working-with-agar.md"
-  - "raw/papers/working-with-agar.md"
+sources: []
 ---
 
 ## Overview
 
-Agar work is the practice of growing mushroom mycelium on nutrient agar in petri dishes. It is the foundation of advanced [[accessible-mushroom-cultivation-for-disabilities]], enabling spore germination, [[mushroom-cultivation-contamination-troubleshooting]], strain isolation, and long-term [[cotter-culture-storage-senescence]]. Working with agar transforms cultivation from a gamble with multi-spore genetics into a precise, repeatable process. Every serious cultivator eventually adopts agar work as a core skill.
+Agar work is the practice of growing mushroom mycelium on nutrient agar in petri dishes. It is the foundation of advanced mushroom cultivation, enabling spore germination, contamination identification, strain isolation, and long-term culture storage. Working with agar transforms cultivation from a gamble with multi-spore genetics into a precise, repeatable process. Every serious cultivator eventually adopts agar work as a core skill.
 
 ## What is Agar?
 
@@ -23,7 +19,7 @@ Agar is a gelatinous substance derived from red algae. It serves as a solid grow
 
 ### Malt Extract Agar (MEA) — The Standard
 
-The most widely used agar recipe for mushroom cultivation. Simple, reliable, and promotes good [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]].
+The most widely used agar recipe for mushroom cultivation. Simple, reliable, and promotes good mycelial growth.
 
 - 10g light malt extract (not hopped malt extract used for brewing)
 - 10g agar powder
@@ -113,7 +109,7 @@ The primary technique for moving mycelium between plates or from plates to grain
 
 ### Tissue Culture (Cloning)
 
-Taking a piece of tissue directly from a [[ectomycorrhizal-mushroom-fruiting-ecology]] body to create a genetically identical culture:
+Taking a piece of tissue directly from a mushroom fruiting body to create a genetically identical culture:
 
 1. Select a healthy, vigorous mushroom with desirable characteristics.
 2. Tear (do not cut) the stem to expose clean inner tissue. The outside of the mushroom is heavily contaminated with spores and environmental organisms; the inside is relatively sterile.
@@ -143,8 +139,12 @@ Strain isolation is the process of selecting and separating individual genetic s
 ## Long-Term Storage: Agar Slants
 
 Agar slants are test tubes partially filled with solidified agar, stored at cool temperatures. They allow long-term culture preservation (6-12 months) without the need for frequent transfers.
-## Related Topics
 
-- [[mushroom-sterile-technique-detailed]] — [[cultivator-sterile-technique-and-agar-culture]] for agar work
-- [[mushroom-laminarar-flow-hood]] — the ideal workspace for agar work
-- [[mushroom-spore-printing-and-storage]] — creating spore syringes for agar inoculation
+### Preparation
+
+1. Prepare agar solution as normal.
+2. Dispense 5-8ml into sterile test tubes.
+3. Sterilize in the pressure cooker at 15 PSI for 30 minutes.
+4. While still liquid, lay tubes at an angle so the agar solidifies as a diagonal surface (a "slant").
+5. Inoculate with a small wedge of mycelium.
+6. Once colonized, seal with a cap or parafilm and store at 35-45F (2-7C).

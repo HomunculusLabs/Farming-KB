@@ -103,6 +103,8 @@ Manipulative experiments where decaying root tissue from one cultivar is introdu
 
 ## See Also
 
+- [[post-harvest-vs-pre-harvest-sampling-cannabis-endorhiza]]
+
 - [[cellvibrio-root-decay-indicator-cannabis-endorhiza]] — Cellvibrio as a biomarker of post-harvest root decay
 - [[cannabis-microbiome-two-tier-selection]] — The two-tier selection model for root microbiome assembly
 - [[two-tier-selection-model-plant-microbiome]] — General model for root microbiome assembly

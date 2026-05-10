@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [greywater, water-management, water, sustainability, homesteading, off-grid, conservation]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
@@ -35,7 +34,7 @@ The branched drain system, developed by Art Ludwig, is the simplest and most rel
 **How it works:**
 1. A single 1.5-inch PVC pipe carries greywater from the house
 2. The line splits into progressively smaller branches using double ell fittings
-3. Each branch terminates in a mulch basin filled with [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]
+3. Each branch terminates in a mulch basin filled with wood chips
 4. Water percolates through the mulch and into the soil
 5. Plant roots take up water and nutrients
 
@@ -71,7 +70,7 @@ A constructed wetland treats greywater through biological processes before reuse
 
 1. Water flows through a lined basin filled with gravel and sand
 2. Aquatic and marginal plants (cattails, reeds, iris) grow in the media
-3. Microorganisms on plant roots and gravel surfaces [[query-can-fungi-break-down-plastic-pollution]] [[hamilton-composting-and-organic-matter-management]]
+3. Microorganisms on plant roots and gravel surfaces break down organic matter
 4. Plants take up nutrients
 5. Effluent is collected at the far end for irrigation
 
@@ -143,8 +142,9 @@ Greywater regulations vary enormously by jurisdiction:
 
 **Restricted or requiring permits:** Many states require permits, specific design approval, or professional installation
 
-## Related
-
-- [[natural-pool-building]]
-- [[basic-plumbing-for-homestead]]
-- [[teaming-with-microbes-mulch-and-soil-food-web]]
+**Common regulatory requirements:**
+- System must be entirely subsurface (no surface pooling or spray)
+- Minimum setback distances from property lines, wells, and surface water
+- No kitchen grease water without additional treatment
+- System must not create a nuisance (odor, breeding mosquitoes)
+- Professional design may be required for systems above a certain volume

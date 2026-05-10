@@ -3,7 +3,6 @@ title: emcdda-psilocybin-mushroom-dose-and-effects Habitat and Ecology
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [ecology, habitat, mushroom-cultivation, psilocybin]

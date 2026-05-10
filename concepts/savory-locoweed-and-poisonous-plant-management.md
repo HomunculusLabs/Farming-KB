@@ -66,18 +66,22 @@ is explained through the four [[desertification]] causes, and
 many other problems that conventional management approaches through
 direct intervention rather than systemic correction.
 
+## Livestock Poisoning Mechanisms
+
+Locoweed toxicity is caused by swainsonine, an alkaloid that inhibits
+alpha-mannosidase enzymes in mammalian cells. Chronic consumption
+leads to a neurological condition called locoism, characterized by
+weight loss, depression, ataxia, and reproductive failure in cattle,
+sheep, and horses. Horses are particularly susceptible and may suffer
+irreversible neurological damage. Animals typically consume locoweed
+only when more palatable forage is unavailable, linking the poisoning
+problem directly to grassland degradation. Other problematic rangeland
+plants include larkspur (Delphinium), lupine (Lupinus), and
+selenium-accumulating Astragalus species, each with distinct
+toxicological mechanisms but similar ecological triggers related to
+overgrazing-induced community shifts.
+
 ## See Also
-
-- [[savory-overgrazing-vs-overrest]] - Dual causes of plant community
-  degradation
-- cause and effect guideline - Testing whether tools address
-  cause or symptom
-- brittle environments - Why these problems are worst in brittle
-  areas
-- plant [[savory-plant-succession-and-community-dynamics]] dynamics - How communities shift
-- [[savory-livestock-grazing-planning]] planning - The planning process that corrects
-  underlying causes
-
-## See Also
-
+- [[savory-overgrazing-vs-overrest]]
+- [[savory-livestock-grazing-planning]]
 - [[savory-technology-as-management-tool]]

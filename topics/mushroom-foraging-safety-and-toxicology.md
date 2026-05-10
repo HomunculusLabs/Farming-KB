@@ -117,7 +117,6 @@ silibinin, N-acetylcysteine (NAC), and potentially liver transplantation,
 mortality can be reduced to approximately 10 to 15 percent.
 
 The lethal dose of amatoxins for an adult human is estimated at 6 to 7
-milligrams. A single mature cap of *Amanita phalloides* can contain this
 ## See Also
 
 - mushroom-identification-basics

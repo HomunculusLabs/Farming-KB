@@ -116,5 +116,5 @@ experience supporting cannabinoid antiemetic efficacy.
 ## See Also
 
 - [[cannabis-neuroprotection]]
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 - [[cannabidiol-cbd]]

@@ -142,6 +142,8 @@ fundamentally at odds with the natural season.
 The cold-house approach inverts this logic: instead of creating an
 artificial summer, it creates a protected version of winter — a
 ## See Also
+
+- [[coleman-overwintered-spinach-cold-house-production]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
 - [[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]]
 - [[natural-farming-guide-zone-design-system]]

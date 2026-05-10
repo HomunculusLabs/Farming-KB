@@ -5,8 +5,7 @@ type: species
 tags: [contaminant, coprinaceae, ink-cap, compost-competitor, toxic]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 
 # Coprinus atrementarius

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) during [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]]. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. Pablo Amaringo's paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista.
+Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) during ayahuasca ceremonies. They are received directly from plant spirits during dieta (plant dieting) and serve multiple functions: calling protective spirits, directing the visionary experience, extracting illness, and defending against hostile entities. Pablo Amaringo's paintings frequently depict icaros as visible, luminous energies — ribbons, waves, or geometric patterns that radiate from the mouth of the singing vegetalista. (see [[icaros-power-songs]]).
 
 ## Nature and Origin of Icaros
 
@@ -55,7 +55,7 @@ Icaros are sacred healing songs used by Amazonian vegetalistas (plant healers) d
 3. **Healing work**: Specific icaros are used when treating individual patients
 4. **Closing**: Final icaros help integrate the experience and close the ceremonial space
 
-The singing is described as producing visible effects — Amaringo painted icaros as streams of color, sound-waves made visible, that shape the visionary landscape. The icaro itself becomes a tool as real as any physical instrument.
+The singing is described as producing visible effects — Amaringo painted icaros as streams of color, sound-waves made visible, that shape the visionary landscape. The icaro itself becomes a tool as real as any physical instrument. (see [[ayahuasca-visions]]).
 
 ## Whistled Icaros
 
@@ -85,7 +85,7 @@ Amaringo's paintings represent a visual translation of icaros — the patterns, 
 
 ## Modern Context
 
-Icaros have become one of the most studied aspects of [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]. They represent:
+Icaros have become one of the most studied aspects of Amazonian shamanism. They represent:
 - An oral tradition of immense complexity and specificity
 - A pharmacological component (sound/vibration affecting consciousness states)
 - A cultural bridge between Indigenous Amazonian knowledge and the modern world

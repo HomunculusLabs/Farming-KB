@@ -21,7 +21,7 @@ TP is a highly potent psychedelic compound with a dosage range of only 20 to 25 
 
 The duration of effects is 10 to 15 hours.
 
-This represents a dramatic increase in potency over the parent compound [[mescaline-entity]] itself requires doses of 200-400 mg.
+This represents a dramatic increase in potency over the parent compound [[mescaline]] itself requires doses of 200-400 mg.
 
 [[proscaline]]
 

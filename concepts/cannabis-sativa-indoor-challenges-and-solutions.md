@@ -64,6 +64,48 @@ For many sativa-dominant strains, keeping the vegetative period short is critica
 
 Sativa strains generally require higher light intensity than indicas to produce dense buds. They need careful temperature management (70-80°F optimal for many strains), lower humidity during flowering to prevent mold on the often-looser sativa buds, and careful pH monitoring. Extra zinc, iron, and manganese in feeding regimens are beneficial for many sativa varieties, particularly Diesel lineages.
 
+## Pest Management
+
+Sativa plants, with their longer flowering cycles and often looser bud structures,
+are more vulnerable to pest infestations than compact indicas. Spider mites,
+fungus gnats, and thrips are the most common indoor pests affecting sativa grows.
+The extended flowering period gives pest populations more time to establish and
+multiply, making early detection and prevention especially critical.
+
+Integrated pest management (IPM) approaches work best for sativa cultivation.
+Beneficial predator insects like ladybugs and predatory mites can control pest
+populations without introducing harmful chemicals into the flowering canopy.
+Regular inspection of leaf undersides and maintaining proper environmental
+conditions reduce the likelihood of severe infestations during long flowering cycles.
+
+## Nutrient Deficiency Troubleshooting
+
+Identifying nutrient deficiencies quickly is essential during a 14-16 week sativa
+flowering cycle, as problems have more time to compound and reduce final yield.
+Nitrogen deficiency presents as uniform yellowing of older leaves, while iron
+deficiency shows as interveinal chlorosis on new growth. Zinc and manganese
+deficiencies are particularly common in sativa strains, especially Diesel lineages.
+
+The Rev recommends keeping pH strictly between 6.0 and 6.8 for soil grows and
+5.5 to 6.2 for hydroponic systems to ensure nutrient availability. Organic
+cultivation methods provide a natural buffer against pH swings and reduce the
+risk of lockout. When deficiencies appear, correcting pH first often resolves
+the issue without the need for additional nutrient supplementation.
+
+## Lighting Optimization
+
+Sativa strains generally require higher light intensity than indicas to develop
+dense, resinous buds. A minimum of 50 watts per square foot during flowering
+is recommended, with some high-performance sativas benefiting from even higher
+intensity. Light spectrum also matters: sativas respond well to full-spectrum
+lighting that mimics the intense tropical sun these strains evolved under.
+
+Light height management is critical since sativas stretch significantly after
+the flip to flowering. Starting flowering lights higher and gradually lowering
+them as the stretch subsides prevents burning the elongating colas. Some
+experienced growers use vertical lighting setups or light movers to ensure
+even coverage across the tall canopy that sativa plants naturally develop.
+
 ## The Sativa Renaissance
 
 With legal systems shifting away from prohibition, [[cervantes-medical-marijuana-pharmacology]] meant that growers who had to hide away in closets and tiny grow spaces were now able to come out into the open and branch out beyond the 4-foot indicas and auto-flowers they had come to rely on. Many medical marijuana users realized they had been numbing themselves with indicas when they really needed something to give them a kick of energy and inspiration. People finally turned back to sativas—and when the world came knocking, sativas were ready.
@@ -75,7 +117,4 @@ With legal systems shifting away from prohibition, [[cervantes-medical-marijuana
 ## See Also
 - [[cannabis-auto-flowering-ruderalis-sativa-indoor]]
 - [[cannabis-sativa-indoor-training-techniques]]
-
-## See Also
-
 - [[cannabis-sativa-indoor-challenges]]

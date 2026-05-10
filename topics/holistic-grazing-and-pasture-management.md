@@ -125,7 +125,6 @@ The distinction between animal impact and animal numbers is crucial and frequent
 
 The role of animal behavior in generating beneficial impact extends beyond the simple presence of hooves on soil. Cattle, sheep, and goats differ in their physical impact characteristics: cattle produce the most trampling force but are selective grazers; sheep produce less force but graze more close to the ground; goats combine browsing with grazing and can access rougher terrain. Multispecies grazing can therefore generate a broader spectrum of animal impact than single-species management, particularly on diverse landscapes with varied terrain and plant communities. Some practitioners deliberately mix species within their herds to capture this complementarity, though the added complexity of managing different nutritional requirements and behavioral patterns demands greater planning skill.
 
-## Planning Grazing: Animal Days and Stock Density
 ## See Also
 
 [[savory-brittle-environments]] | [[savory-brittleness-scale]] |

@@ -1,5 +1,5 @@
 ---
-title: query-how-to-make-cannabis-tinctures-at-home Guide
+title: Cannabis Tinctures Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Cannabis tinctures are liquid extracts made by [[knf-seed-soaking-cannabis-germination]] flower or concentrate in a solvent (alcohol, glycerin, or oil). They are administered sublingually (under the tongue) for rapid absorption or added to food and beverages. Tinctures offer precise dosing, discreet use, long [[psilocybin-shelf-life-stability]], and a smoke-free consumption method.
+Cannabis tinctures are liquid extracts made by soaking cannabis flower or concentrate in a solvent (alcohol, glycerin, or oil). They are administered sublingually (under the tongue) for rapid absorption or added to food and beverages. Tinctures offer precise dosing, discreet use, long shelf life, and a smoke-free consumption method. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ## How Tinctures Work
 
@@ -21,7 +21,7 @@ When taken sublingually:
 4. Effects are felt within 15-45 minutes (faster than edibles)
 5. Duration: 2-4 hours
 
-When swallowed or added to food, tinctures are processed through the digestive system like edibles, with onset in 1-2 hours and effects lasting 4-8 hours.
+When swallowed or added to food, tinctures are processed through the digestive system like edibles, with onset in 1-2 hours and effects lasting 4-8 hours. (see [[blesching-cannabis-modes-administration-pharmacokinetics]]).
 
 ## Types of Tinctures
 
@@ -116,7 +116,7 @@ To estimate tincture potency, you need to know the starting cannabis percentage:
 ### Dosing Guidelines
 
 - **Beginner**: Start with 1-2.5 mg THC
-- **[[ultra-low-dose-brassinosteroid-response-psilocybe-cubensis]]**: 2.5-5 mg THC
+- **Low dose**: 2.5-5 mg THC
 - **Moderate dose**: 5-15 mg THC
 - **High dose**: 15-30 mg THC
 - **Microdosing**: 0.5-2.5 mg, 2-3 times daily
@@ -141,9 +141,10 @@ Tinctures can be flavored with:
 - **Terpenes**: Add strain-specific or botanical terpenes for flavor and effect enhancement
 - **Cinnamon, ginger, or chamomile**: Steep with the cannabis during extraction
 
-## See Also
-- [[query-how-to-use-neem-oil-for-cannabis-pest-control]]
-- [[query-what-is-the-difference-between-lst-and-hst-for-cannabis]]
-- [[query-what-is-the-difference-between-aeroponics-and-hydroponics-for-cannabis]]
-- [[query-how-to-grow-cannabis-in-an-aquaponics-system]]
-- [[query-what-is-the-cannabis-entourage-effect]]
+## Storage
+
+- Store all tinctures in dark glass bottles (amber or cobalt)
+- Keep in a cool, dark place
+- Alcohol tinctures: shelf stable at room temperature for 1-2 years
+- Glycerin tinctures: 6-12 months at room temperature
+- MCT oil tinctures: 3-6 months; do not refrigerate

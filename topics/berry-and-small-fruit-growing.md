@@ -122,7 +122,6 @@ Several types of blueberries are available. Northern highbush blueberries
 (Vaccinium corymbosum) are the most common for home gardens, forming upright
 shrubs four to six feet tall in zones three through seven. Southern highbush
 varieties have lower chill hour requirements for zones five through ten.
-Rabbiteye blueberries (V. virgatum) are native to the southeastern US, forming
 ## See Also
 
 berry-fruit-production-in-permaculture

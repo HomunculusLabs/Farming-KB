@@ -113,5 +113,5 @@ Aeruginascin, a trimethylammonium analog of psilocybin, is a related alkaloid fo
 - [[norbaeocystin]]
 - [[dmt]]
 - [[bufotenin]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[lsd-d-lysergic-acid-diethylamide]]

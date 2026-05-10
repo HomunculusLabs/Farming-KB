@@ -66,7 +66,7 @@ The anti-proliferative effects of cannabinoids on immune cell cancers suggest th
 
 Leukemia patients have compromised immune systems and are often on intensive chemotherapy regimens. Cannabis may interact with chemotherapy agents and other medications. CBD may affect the metabolism of pharmaceuticals through cytochrome P450 enzyme interactions. See [[cannabis-for-cancer-patients]] for broader cancer applications
 
-- [[cannabis-for-chemotherapy-nausea]] for treatment side effects
+- [[blesching-cannabis-nausea-chemotherapy-vomiting-dronabinol]] for treatment side effects
 
 - [[cannabis-cbd-therapeutic-profile]] for CBD anti-cancer properties
 

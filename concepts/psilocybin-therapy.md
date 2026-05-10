@@ -126,11 +126,6 @@ to training standards, informed consent procedures, and the protection
 of vulnerable populations.
 
 ## See Also
-
 - [[psilocybin-mushrooms-biology]]
-- psychedelic [[metzner-mdma-assisted-therapy-research]] protocol
 - [[psilocybin-depression-anxiety-treatment]]
-
-## See Also
-
 - [[psilocybin-psychotherapy]]

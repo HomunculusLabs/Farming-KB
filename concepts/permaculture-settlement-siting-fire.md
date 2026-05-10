@@ -76,5 +76,9 @@ landscape architect placing a house with an acre of fire-promoting
 eucalyptus and pampas grass converging toward it. While the aesthetics
 were reasonable, the function could be fatal. See
 [[permaculture-settlement-design]], permaculture-household-economics
+
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
+
 ## See Also
 - [[permaculture]]

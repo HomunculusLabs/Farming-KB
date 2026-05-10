@@ -1,6 +1,6 @@
 ---
 title: "Apple Cultivation and Variety Guide"
-subtitle: "A comprehensive guide to growing apples, from planting and pruning to pest management, variety selection, and permaculture integration"
+subtitle: "A comprehensive guide to growing apples, from [[garden-myths-planting-and-pruning]] to pest management, [[coleman-winter-greens-variety-selection]], and [[mycological-permaculture-integration]]"
 tags: [fruit-trees, apples, orchard, cultivation, pruning, rootstocks, varieties, permaculture, pollination, pests, diseases]
 date: 2026-05-09
 updated: 2026-05-09
@@ -30,7 +30,7 @@ the apple has been cultivated for thousands of years and now comprises
 thousands of named varieties across every inhabited continent. Its
 adaptability to diverse climates, long productive lifespan of 50 to 100 years
 or more, and remarkable genetic diversity make it a cornerstone of home
-orchards, commercial production, and permaculture food forests alike.
+orchards, commercial production, and [[nut-tree-cultivation-for-permaculture-food-forests]] alike.
 
 The genus Malus includes dozens of wild species, but the domesticated
 apple is primarily descended from Malus sieversii of the Tian Shan
@@ -68,7 +68,7 @@ Celsius are needed for proper bud break in spring.
 
 ## Climate and Site Requirements
 
-Apples are remarkably adaptable but perform best in temperate climates with
+Apples are remarkably adaptable but perform best in [[fukuoka-natural-farming-temperate-climates]] with
 cold winters and warm summers. Most varieties require 500 to 1,500 chill hours
 (accumulated hours between 0 and 7 degrees Celsius during dormancy) to break
 dormancy and flower properly. Low-chill varieties (under 500 hours) exist for
@@ -116,7 +116,7 @@ soils well but is highly susceptible to crown rot in wet conditions.
 
 Standard or semi-standard rootstocks produce full-sized trees 5 to 8 metres
 tall. MM111 is a robust rootstock producing trees about 75 to 80 percent of
-standard size, with excellent drought tolerance and good anchorage. Seedling
+standard size, with excellent [[dighton-fungal-drought-tolerance-plant-water-relations]] and good anchorage. Seedling
 rootstocks produce the largest trees and are the most long-lived, but they may
 take 6 to 10 years to begin bearing. Antonovka seedlings are popular in cold
 climates for their exceptional hardiness.

@@ -12,7 +12,7 @@ type: concept
 # Smartshops and Hallucinogenic Mushroom Retail
 
 The commercialization of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] through smartshops, internet retailers, and market
-stalls was a primary driver in the emergence of [[emcdda-psilocybin-mushroom-dose-and-effects]] use as a widespread drug trend
+stalls was a primary driver in the emergence of [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] use as a widespread drug trend
 in Europe during the late 1990s and early 2000s. Smartshops in the Netherlands played a particularly
 important role in kick-starting the trend.
 

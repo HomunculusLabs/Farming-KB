@@ -86,7 +86,7 @@ Following the UK ban in April 2010, prevalence declined sharply but did not disa
 Mephedrone has been detected in illicit drug markets in Europe, [[psilocybe-southeast-asia-pacific]], and Australia. It is frequently found as an adulterant in **mdma** or **[[pentylone]]
 
 - [[ethylone]] — beta-keto analogue of MDMA and structural relative of mephedrone
-- [[mescaline-entity]] — natural phenethylamine psychedelic with different receptor profile
+- [[mescaline]] — natural phenethylamine psychedelic with different receptor profile
 - [[lsd]] — classical psychedelic with serotonergic mechanism of action
 - [[ephedrine]] — natural sympathomimetic amine used as a precursor compound
 - [[ephedra-sinica]] — ephedra, source of ephedrine and related alkaloids

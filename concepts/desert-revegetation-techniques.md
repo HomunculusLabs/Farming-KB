@@ -115,10 +115,6 @@ vitality could still produce crops with petroleum energy and chemicals.
 Some even considered the soil itself to be a nuisance.
 
 ## See Also
-
 - [[natural-farming-philosophy]]
 - [[desertification]]
-
-## See Also
-
 - [[fukuoka-desert-revegetation-natural-farming]]

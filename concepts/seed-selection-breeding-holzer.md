@@ -5,7 +5,6 @@ updated: 2026-04-14
 type: concept
 tags: [seeds, gardening]
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Old Varieties vs. Modern Hybrids

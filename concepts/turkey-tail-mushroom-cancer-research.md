@@ -1,5 +1,5 @@
 ---
-title: Turkey turkey tail mushroom cancer research — Cancer Research
+title: Turkey Tail Mushroom — Cancer Research
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 
 ## Trametes versicolor (Turkey Tail) — Cancer Research Summary
 
-Turkey tail (Trametes versicolor, formerly Coriolus versicolor) is one of the most extensively researched [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] for cancer treatment. It produces two key polysaccharide compounds: PSK (polysaccharide-K, krestin) and PSP (polysaccharide-peptide).
+Turkey tail (Trametes versicolor, formerly Coriolus versicolor) is one of the most extensively researched medicinal mushrooms for cancer treatment. It produces two key polysaccharide compounds: PSK (polysaccharide-K, krestin) and PSP (polysaccharide-peptide).
 
 ### Active Compounds
 
@@ -20,7 +20,7 @@ Both are water-soluble, heat-stable, and administered orally.
 
 ### Mechanism of Action
 
-1. **Immunomodulation**: PSK and PSP activate multiple [[mushroom-immune-cell-activation-mechanisms]] populations — natural killer (NK) cells, cytotoxic T lymphocytes, macrophages, and dendritic cells. They enhance cytokine production including interleukins (IL-1, IL-2, IL-6), interferon-gamma, and tumor necrosis factor-alpha.
+1. **Immunomodulation**: PSK and PSP activate multiple immune cell populations — natural killer (NK) cells, cytotoxic T lymphocytes, macrophages, and dendritic cells. They enhance cytokine production including interleukins (IL-1, IL-2, IL-6), interferon-gamma, and tumor necrosis factor-alpha.
 
 2. **Anti-tumor activity**: PSK demonstrates direct anti-tumor effects including inhibition of tumor cell proliferation, induction of apoptosis in cancer cells, and anti-angiogenic activity (inhibition of new blood vessel formation that tumors require).
 
@@ -35,9 +35,9 @@ Both are water-soluble, heat-stable, and administered orally.
 - PSK combined with standard chemotherapy showed improved disease-free survival and overall survival in several RCTs. Meta-analyses confirm modest but consistent survival benefit.
 
 **Breast cancer**:
-- PSP combined with chemotherapy showed improved immune parameters and quality of life measures in Chinese [[mushroom-cancer-clinical-trials-overview]]. PSK showed similar immune-boosting effects in Japanese studies.
+- PSP combined with chemotherapy showed improved immune parameters and quality of life measures in Chinese clinical trials. PSK showed similar immune-boosting effects in Japanese studies.
 
-**[[psk-breast-lung-cancer-clinical-trials]]**:
+**Lung cancer**:
 - PSK combined with chemotherapy or radiation showed improved survival in non-small cell lung cancer trials.
 
 ### Dosage in Clinical Studies
@@ -47,7 +47,7 @@ Both are water-soluble, heat-stable, and administered orally.
 
 ### Safety Profile
 
-Excellent safety record across decades of clinical use. Mild gastrointestinal effects (nausea, diarrhea) occasionally reported. No significant [[cannabis-drug-interactions-and-contraindications]] documented. Well tolerated alongside conventional chemotherapy.
+Excellent safety record across decades of clinical use. Mild gastrointestinal effects (nausea, diarrhea) occasionally reported. No significant drug interactions documented. Well tolerated alongside conventional chemotherapy.
 
 ### Traditional Use
 
@@ -60,21 +60,3 @@ Used in Traditional Chinese Medicine as "Yun Zhi" (cloud mushroom) to strengthen
 - [[chaga-mushroom-research]]
 - [[medicinal-mushroom-guide-turkey-tail]]
 - [[turkey-tail-trametes-versicolor]]
-## Practical Considerations
-
-Successful implementation of Turkey Tail Mushroom — Cancer Research requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

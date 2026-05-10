@@ -1,5 +1,5 @@
 ---
-source: "The Natural Way of Farming - Masanobu Fukuoka"
+source: "The Natural Way of Farming - [[masanobu-fukuoka]]"
 source_file: administrator-microsoft-word-fukuoka-textdoc.md
 extracted: 2026-04-10
 type: concept
@@ -11,7 +11,7 @@ tags: [natural-farming, fukuoka, forests, shrine-groves, ecological-observation,
 ## Summary
 
 Fukuoka observes that shrine groves in Japanese villages grow to magnificent size without any
-application of nutrition science, plant ecology, pesticides, or human intervention whatsoever.
+application of [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]], plant ecology, pesticides, or human intervention whatsoever.
 Trees saved from axe and saw by the shrine deity grew into large trees "of their own accord,"
 demonstrating that nature maintains forests entirely without human knowledge or management.
 This stands in stark contrast to scientific forestry that clears diverse forests and replants
@@ -22,7 +22,7 @@ with single species, triggering cascading ecological collapse.
 Fukuoka draws on a powerful everyday observation to challenge the fundamental premise of
 scientific land management. Shrines in Japanese villages are, he notes, "often surrounded by a
 grove of tall trees." These trees are not the product of any forestry program, any nutrient
-management plan, any pest control regimen, or any human cultivation technique. They were not
+management plan, any pest control regimen, or any human [[boil-a-bag-mushroom-cultivation-technique]]. They were not
 "grown with the aid of nutrition science, nor were they protected by plant ecology." The single
 reason they reached their great size is that they were "saved from the axe and saw by the shrine
 deity." Left alone, they "grew into large trees of their own accord."
@@ -41,7 +41,7 @@ as pine and cedar, are planted in large number. We even go so far as to call thi
 conservation.'" This label, he argues, is deeply misleading. What is actually happening is the
 destruction of a complex, self-sustaining ecosystem and its replacement with a fragile
 monoculture. The word "conservation" is appropriated to describe the very process of ecological
-destruction, revealing how thoroughly scientific agriculture has confused itself about what it
+destruction, revealing how thoroughly [[critique-of-scientific-agriculture]] has confused itself about what it
 means to care for the land and maintain the health of forest ecosystems over time.
 
 When a diverse section of forest is clear-cut and replaced with cedar trees, a cascade of
@@ -93,7 +93,7 @@ of life. Only nature has the power to produce something from nothing. Farmers me
 nature." The shrine grove takes this even further: here, nature is not even being assisted. It is
 simply being permitted to exist. And in that permission, it achieves a complexity, productivity,
 and stability that no amount of human management can replicate. The lesson is not that humans
-should never interact with forests, but that the default assumption of modern science — that
+should never interact with forests, but that the default assumption of [[fukuoka-road-critique-of-modern-science]] — that
 nature requires human knowledge and intervention to function — is fundamentally wrong.
 
 The shrine groves stand as silent, towering evidence that the opposite is true: nature functions
@@ -106,7 +106,7 @@ calculations dressed up in the language of science and conservation.
 
 This principle extends beyond forests to all of agriculture. Just as the shrine grove grows
 without nutrition science or plant ecology, Fukuoka's own fields produce abundant rice and barley
-without plowing, chemical fertilizers, or pesticides. The same intelligence that grows the grove
+without plowing, [[cannabis-chemical-fertilizers]], or pesticides. The same intelligence that grows the grove
 trees grows the crops, if only humans would stop interfering and allow nature to follow its own
 course.
 
@@ -114,7 +114,7 @@ course.
 
 - [[fukuoka-nature-neither-living-nor-dead-holistic-biosystem]]
 - [[fukuoka-plow-hardens-soil-creates-need-for-plowing]]
-- [[fukuoka-do-nothing-farming-movement]]
-- [[fukuoka-natural-farming-vs-scientific-farming]]
-- [[fukuoka-science-cannot-reproduce-natures-functions]]
-- [[fukuoka-human-knowledge-insignificant-futile]]
+- [[fukuoka-do-nothing-farming-and-spiritual-life]]
+- fukuoka natural farming vs scientific farming
+- fukuoka science cannot reproduce natures functions
+- [[fukuoka-nature-transcends-human-knowledge]]

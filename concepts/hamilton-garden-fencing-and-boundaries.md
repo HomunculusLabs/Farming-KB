@@ -65,7 +65,7 @@ over the top.
 
 Hedges make the best windbreaks. You can choose formal hedges, kept
 compact by clipping, or informal ones allowed to flower. Hedges take
-up [[alpine-plant-cultivation-guide]]s such as pink lewisias. A wooden trellis serves as both
+up [[alpine-plant-cultivation-guide]] s such as pink lewisias. A wooden trellis serves as both
 a practical barrier and a decorative feature when shrubs or climbers,
 such as scented roses, are trained against it. This approach turns a
 bare wall into a living feature that supports wildlife and adds
@@ -103,6 +103,9 @@ timber to keep the gravel contained.
   boundaries provide effective shelter without creating frost traps
 - When planning fencing, consider how it will look from the house and
   whether it complements the overall garden style
+
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] for more on Query How To Make And Use Plant Based Foliar Sprays For Pest And Disease Prevention.
 
 ## See Also
 

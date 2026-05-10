@@ -22,7 +22,7 @@ updated: 2026-04-28
 sources:
   - Nichols DE. (2014). "NBOMe hallucinogens: potency, pharmacology, and patterns of use." In: Pharmacology and Therapeutics of Drugs of Abuse, Springer.
   - Poklis JL, Peace MR, Poklis A. (2014). "2C-I-NBOMe and the NBOMe series: A review." Journal of Medical Toxicology, 10(4), 439–443.
-  - Suzuki J, et al. (2015). "Deaths from use of [[25b-nbome]] and 25I-NBOMe." Journal of Forensic Sciences, 60(2), 532–535.
+  - Suzuki J, et al. (2015). "Deaths from use of 25b-nbome and 25I-NBOMe." Journal of Forensic Sciences, 60(2), 532–535.
   - EMCDDA. (2014). "NBOMe compounds: Risk assessment." European Monitoring Centre for Drugs and Drug Addiction.
   - Glennon RA, et al. (1992). "Evidence for 5-HT2 involvement in the mechanism of action of hallucinogenic agents." Life Sciences, 50(14), 983–991.
   - Halberstadt AL, Geyer MA. (2014). "Effects of the 5-HT2A agonist 25I-NBOMe on behavior in mice." Psychopharmacology, 231(13), 2645–2652.

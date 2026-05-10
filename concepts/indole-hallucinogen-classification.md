@@ -131,10 +131,6 @@ serotonergic systems, producing their characteristic effects on perception,
 mood, cognition, and the sense of self.
 
 ## See Also
-
 - [[stoned-ape-hypothesis-mckenna]]
 - [[shamanic-ecstasy-and-healing]]
-
-## See Also
-
 - [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]]

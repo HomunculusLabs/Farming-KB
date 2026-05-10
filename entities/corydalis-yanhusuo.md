@@ -136,14 +136,8 @@ THP produces analgesia through multiple receptor interactions:
 Multiple alkaloids inhibit:
 - COX-2 expression and PGE₂ production
 - NF-κB signaling pathway
-## See Also
 
+## See Also
 - [[corydalis-cava]]
-
 - [[herbal-medicine]]
-
-- [[herbal-medicine-making-basics]]
-
-## See Also
-
 - [[herbal-medicine-making-basics]]

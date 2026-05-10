@@ -114,4 +114,4 @@ The structural similarity between these compounds arises from shared biosyntheti
 - [[harmaline]]
 - [[tetrahydroharmine]]
 - [[5-meo-dmt-entity]]
-- [[mescaline-entity]]
+- [[mescaline]]

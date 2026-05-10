@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Moore, M. (1993). "Medicinal Plants of the Pacific West." Red Crane Books.
-  - Foster, S., Duke, J.A. (1990). "A Field Guide to Medicinal Plants and Herbs of Eastern and Central [[psilocybin-north-america-pacific-northwest]]." Houghton Mifflin.
+  - Foster, S., Duke, J.A. (1990). "A Field Guide to Medicinal Plants and Herbs of Eastern and Central psilocybin-north-america-pacific-northwest." Houghton Mifflin.
   - USDA Forest Service Silvics Manual (1990). "Ulmus rubra Muhl." United States Department of Agriculture.
   - Tyler, V.E. (1993). "The Honest Herbal: A Sensible Guide to the Use of Herbs and Related Remedies." Pharmaceutical Products Press.
   - Duke, J.A. (2002). "Handbook of Medicinal Herbs." 2nd Edition. CRC Press.

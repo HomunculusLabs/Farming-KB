@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Psychedelic integration is the process of incorporating insights, emotions, and experiences from psychedelic or entheogenic journeys into everyday life. The [[leary-psychedelic-experience-bardo-mapping]] itself is often just the beginning; the real therapeutic work happens in the days, weeks, and months afterward. Without intentional integration, powerful experiences may fade or even become sources of confusion and distress.
+Psychedelic integration is the process of incorporating insights, emotions, and experiences from psychedelic or entheogenic journeys into everyday life. The psychedelic experience itself is often just the beginning; the real therapeutic work happens in the days, weeks, and months afterward. Without intentional integration, powerful experiences may fade or even become sources of confusion and distress.
 
 ## Why Integration Matters
 
@@ -19,7 +19,7 @@ Psychedelics can produce experiences that feel more real and significant than or
 
 - Profound insights about oneself, relationships, or life direction
 - Emotional release of suppressed grief, trauma, or fear
-- [[psilocybin-ego-dissolution-mechanisms]] experiences that challenge habitual self-concepts
+- Ego dissolution experiences that challenge habitual self-concepts
 - Visions, metaphors, or symbolic content demanding interpretation
 - Mystical or transcendent experiences that defy language
 - Difficult or challenging experiences (bad trips) that leave lingering fear or confusion
@@ -52,10 +52,10 @@ Regular meditation practice helps stabilize the mind and embody psychedelic insi
 
 The body stores and processes experience; somatic practices are essential:
 
-- Yoga, [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]], or qigong — gentle movement that integrates body and mind
+- Yoga, tai chi, or qigong — gentle movement that integrates body and mind
 - Time in nature — many psychedelic experiences connect people to the natural world
 - Exercise — running, swimming, hiking can help process emotional energy
-- Breathwork — [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] or other structured breathing practices
+- Breathwork — holotropic breathwork or other structured breathing practices
 - Body work — massage, somatic experiencing, or fascial release
 
 ### Creative Expression
@@ -137,13 +137,20 @@ The ego's attempt to co-opt a transcendent experience, leading to:
 
 ### Fragmentation
 
+The sense that the psychedelic experience exists in a separate reality from daily life:
+
+- Feeling that the experience was "more real" than ordinary life
+- Difficulty returning to work, relationships, or routine
+- Persistent longing to return to the altered state
+- Neglecting practical responsibilities
+
+## Integration Timeline
+
+| Timeframe | Focus | Practices |
+|-----------|-------|-----------|
+
+
 ## See Also
-
-- [[psychedelic-therapy-current-research]] — clinical context for integration
-- [[harm-reduction-guide]] — pre-experience [[adverse-effects-and-harm-reduction-psilocybin]]
-- [[entheogenic-ceremony-preparation]] — preparation practices that set the stage for integration
-
-## Related
-
-- [[microdosing-guide]]
-- [[psychedelic-integration]]
+- [[psychedelic-plants-chemical-guide]]
+- [[psychedelic-mushroom-effects-guide]]
+- [[psychedelic-mushroom-dosage-guide]]

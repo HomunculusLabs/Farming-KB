@@ -55,7 +55,7 @@ Common mycorrhizal networks (CMNs) -- hyphal connections that
 interlink the roots of multiple plants -- add complexity to
 competitive interactions. CMNs can facilitate carbon and nitrogen
 transfer between plants, potentially reducing competitive
-asymmetries. While the [[lichen-biology-and-ecological-significance]] of carbon transfer
+asymmetries. While the lichen biology and ecological significance of carbon transfer
 remains debated, nitrogen transfer between plants linked by CMNs
 has been well documented.
 

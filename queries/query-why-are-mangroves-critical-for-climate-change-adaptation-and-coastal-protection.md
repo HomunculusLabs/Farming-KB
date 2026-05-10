@@ -16,7 +16,7 @@ sources:
   - "Spalding, M.D. et al. (2022). Global mangrove extent change 1996–2020.
     Global Ecology and Biogeography, 31(9), 1530–1545."
   - "IPCC (2019). Special Report on the Ocean and Cryosphere in a Changing Climate.
-    Chapter 5: Changing Ocean, [[fungal-biodiversity-marine-ecosystems-coastal-deep-sea]], and Dependent Communities."
+    Chapter 5: Changing Ocean, fungal-biodiversity-marine-ecosystems-coastal-deep-sea, and Dependent Communities."
   - "Narayan, S. et al. (2017). The effectiveness, costs, and coastal protection
     benefits of natural and nature-based defences. PLoS ONE, 12(5), e0174741."
 type: query

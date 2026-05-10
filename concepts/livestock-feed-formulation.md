@@ -4,27 +4,25 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, homesteading, livestock, forage, nutrients, recipe]
-sources:
-  sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
+sources: []
 ---
 
 # Livestock Feed Formulation
 
-Understanding [[savory-livestock-nutrition-and-supplementation]] and feed formulation allows homesteaders to
+Understanding livestock nutrition and feed formulation allows homesteaders to
 optimize animal health, reduce purchased feed costs, and make the most of
 on-farm resources. Feed represents 50-70% of the cost of livestock production,
 so even small improvements in feeding efficiency have significant economic
 impact. This guide covers the fundamentals of livestock nutrition, common
-feeds, and practical formulation for homestead-scale operations.
+feeds, and practical formulation for homestead-scale operations. (see [[comparison-black-soldier-fly-vs-vermicomposting]]).
 
 ## Nutritional Fundamentals
 
 ### Water
 - The most critical nutrient. Animals can survive weeks without food but
-  only days without water.
+  only days without water. (see [[comparison-fermented-vegetables-vs-canning]]).
 - Cattle: 10-20 gallons/day. Sheep/goats: 1-4 gallons/day. Pigs: 2-6
-  gallons/day. Poultry: continuous access.
+  gallons/day. Poultry: continuous access. (see [[pig-husbandry]]).
 - Water quality matters: clean, free of contaminants, not excessively cold
   in winter.
 
@@ -34,7 +32,7 @@ feeds, and practical formulation for homestead-scale operations.
 - Ruminants (cattle, sheep, goats) can use both true protein and non-protein
   nitrogen (NPN) thanks to rumen microbes.
 - Monogastrics (pigs, poultry, rabbits) require true protein with specific
-  [[cho-fish-amino-acid-preparation]] profiles.
+  amino acid profiles.
 - Deficiency: poor growth, low milk production, rough hair coat, weight loss,
   reduced fertility.
 - Excess: wasted money, increased nitrogen excretion (environmental concern).
@@ -42,7 +40,7 @@ feeds, and practical formulation for homestead-scale operations.
 ### Energy
 - Required for maintenance, movement, production, and body temperature
   regulation.
-- Measured as Total Digestible Nutrients (TDN), [[fukuoka-agricultural-production-net-energy-deduction]] (NE), or
+- Measured as Total Digestible Nutrients (TDN), Net Energy (NE), or
   Metabolizable Energy (ME).
 - Sources: carbohydrates (grains, molasses) and fats (oilseeds, animal fat).
 - Ruminants get most energy from fermentation of fiber in the rumen.
@@ -101,7 +99,7 @@ feeds, and practical formulation for homestead-scale operations.
 - **Distillers grains (DDGS):** 25-30% CP, high energy and fat. Byproduct
   of ethanol production. Good for cattle.
 - **Linseed (flaxseed) meal:** 34-36% CP. Good for ruminants. Adds omega-3
-  [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]].
+  fatty acids.
 
 ### Forages
 - See [[hay-and-forage-management]] for detailed forage analysis.
@@ -144,7 +142,9 @@ feeds, and practical formulation for homestead-scale operations.
 
 ### Feed Additives
 - **Probiotics:** Support rumen and gut health.
-## See Also
-
-- livestock-feed-management
-- [[holzer-livestock-integration-pigs-cattle]]
+- **Prebiotics:** Feed beneficial gut microbes.
+- **Yeast culture:** Improves fiber digestion in ruminants.
+- **Apple cider vinegar:** 1-2 tbsp/gallon in water. Supports digestion
+  and immune health (anecdotal evidence).
+- **Diatomaceous earth:** For parasite control (limited evidence, widely
+  used).

@@ -140,10 +140,8 @@ until banned in 2008.
 - **Pleurotus tuberregium** (king tuber oyster): Produces large edible sclerotia valued as food
   in West Africa and Southeast Asia, reaching several kilograms and cultivated commercially.
 - **Morchella spp.** (true morels): Produce small dark sclerotia in soil serving as inoculum
+
 ## See Also
 - [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]
 - [[sclerotia-timing-dark-incubation-psilocybe-tampanensis-mexicana]]
-
-## See Also
-
 - [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]

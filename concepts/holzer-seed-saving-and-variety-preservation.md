@@ -3,7 +3,6 @@ title: Holzer Seed seed-saving-and-variety-selection Preservation
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
 tags: [holzer, plant-growth]

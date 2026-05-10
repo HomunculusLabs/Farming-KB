@@ -120,13 +120,7 @@ The concept continues to evolve as researchers develop more sophisticated unders
 Metzner's original formulation remains the foundation, but contemporary work has added nuance and specificity to our understanding of this critical framework.
 
 ## See Also
-
 - [[set-and-setting-universal-framework-altered-states]]
-
 - [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]]
-
 - [[psychedelic-integration-practices]]
-
-## See Also
-
 - [[set-and-setting-model-psychedelic-therapy]]

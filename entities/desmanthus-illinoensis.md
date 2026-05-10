@@ -10,7 +10,7 @@ sources:
   - https://pfaf.org/
 ---
 
-> "Among the prairie legumes, Desmanthus illinoensis stands as both a keystone [[mimosa-hostilis]]
+> "Among the prairie legumes, Desmanthus illinoensis stands as both a keystone mimosa-hostilis
 - **Illinois Mimosa** — regional variant, less common in current usage
 
 ## Etymology
@@ -35,6 +35,8 @@ sources:
 - desmanthus virgatus — close relative, tropical forage species, l [[mimosa-pudica]] — sensitive plant, related Mimosoideae with trace tryptamines
 
 ## See Also
+
+- [[desmanthus-leptolobus]]
 
 - nitrogen-fixing-plants — index of nitrogen-fixing species for agriculture
 - prairie restoration — techniques for restoring native [[growing-gourmet-north-american-reishi-species]] grasslands

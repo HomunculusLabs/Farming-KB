@@ -11,12 +11,12 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Few gardens produce enough waste organic material to be self-sufficient in compost. However, a remarkable amount of useful material that would otherwise be thrown away can be "harvested" by the organic gardener from local sources.
+Few gardens produce enough waste organic material to be self-sufficient in compost. However, a remarkable amount of useful material that would otherwise be thrown away can be "harvested" by the organic gardener from local sources. (see [[hamilton-alternative-soil-conditioners]]).
 
 ## External Sources of Compost Material
 
 ### Supermarkets and Farmers' Markets
-An excellent source of green material. Arrange to visit after closing time on Saturdays to collect waste produce.
+An excellent source of green material. Arrange to visit after closing time on Saturdays to collect waste produce. (see [[mulching-techniques]]).
 
 ### Sports Fields and Golf Clubs
 Often have massive amounts of grass cuttings with no disposal means and are glad to have them cleared away.
@@ -43,10 +43,10 @@ Leaves are slow to rot because they contain lignin. Expect to wait at least one 
 
 ## Sheet Composting
 
-For gardeners who lack time for proper composting but refuse to throw away [[hamilton-composting-and-organic-matter-management]]. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
+For gardeners who lack time for proper composting but refuse to throw away organic matter. This technique involves spreading a thin layer of organic matter on the soil between rows of vegetables or on vacant areas, allowing it to rot down in place.
 
 - Useful only in productive areas where aesthetics are not important
-- Works well on paths between rows or as mulch around [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
+- Works well on paths between rows or as mulch around fruit trees
 - Weeds must be wilted beyond recovery before spreading (to prevent re-rooting)
 - Ensure weeds are not about to shed seeds
 - Grass cuttings are ideal but watch for annual meadow grass seeds
@@ -59,22 +59,3 @@ For gardeners who lack time for proper composting but refuse to throw away [[ham
 - [[compost-container-types]] — container designs for proper composting
 - [[animal-manure-guide]] — animal manures as compost material and fertilizer
 - [[soil-conditioners-guide]] — alternative soil conditioners including leaf mold and green compost
-
-## Practical Considerations
-
-Successful implementation of Composting Materials — Alternative Sources requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

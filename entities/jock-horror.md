@@ -6,7 +6,6 @@ tags: [cannabis, sativa, strain, horticulture, genetics, breeding, cultivation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 

@@ -11,8 +11,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Ravindran, P.N., Kallupurackal, J.A. (2000). Lemongrass — Cymbopogon citratus. In: K.V. Peter (ed.), Handbook of Herbs and Spices, CRC Press."
-  - "Weyerstahl, P., Marschall-Weyerstahl, H. (1997). Constituents of the [[permaculture-designers-manual-essential-oil-plants]] of Cymbopogon martinii. Flavour and Fragrance Journal, 12(3), 179-183."
-  - "Ganjewala, D. (2009). Cymbopogon [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]: Chemical compositions and bioactivities. International Journal of Essential Oil Therapeutics, 3(1), 56-65."
+  - "Weyerstahl, P., Marschall-Weyerstahl, H. (1997). Constituents of the permaculture-designers-manual-essential-oil-plants of Cymbopogon martinii. Flavour and Fragrance Journal, 12(3), 179-183."
+  - "Ganjewala, D. (2009). Cymbopogon comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap: Chemical compositions and bioactivities. International Journal of Essential Oil Therapeutics, 3(1), 56-65."
   - "Tanker, M., et al. (2002). Essential oils of Cymbopogon nardus and Cymbopogon winterianus from various origins. Journal of Essential Oil Research, 14(4), 244-248."
 created: 2026-05-07
 type: comparison

@@ -16,7 +16,7 @@ type: concept
 
 # Mushroom Cultivation Photographic Guide
 
-The [[emcdda-psilocybin-mushroom-dose-and-effects]] Image Guide from Erowid contains an extensive
+The [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] Image Guide from Erowid contains an extensive
 series of cultivation photographs documenting the [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]] of
 [[psilocybin-mushrooms]]
 indoors. The photographs in the image guide document several key

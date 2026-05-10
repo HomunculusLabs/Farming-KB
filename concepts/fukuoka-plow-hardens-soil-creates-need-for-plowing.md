@@ -1,5 +1,5 @@
 ---
-source: "The Natural Way of Farming - Masanobu Fukuoka"
+source: "The Natural Way of Farming - [[masanobu-fukuoka]]"
 source_file: administrator-microsoft-word-fukuoka-textdoc.md
 extracted: 2026-04-10
 type: concept
@@ -36,15 +36,15 @@ to undo the damage. The solution perpetuates the problem it claims to solve, and
 never notices because the cycle is so deeply ingrained in agricultural practice that it appears
 to be a natural and inevitable part of farming.
 
-The same self-perpetuating logic applies to chemical fertilizers and pesticides. "By killing the
-soil with plow and chemical fertilizer, and rotting the roots through prolonged summer flooding,
+The same self-perpetuating logic applies to [[cannabis-chemical-fertilizers]] and pesticides. "By killing the
+soil with plow and chemical fertilizer, and rotting the roots through prolonged [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]],
 farmers create weak, diseased rice plants that require the nutritive boost of chemical fertilizers
 and the protection of pesticides." The sequence is clear: human intervention damages the soil
 and weakens the plants, and then more human intervention is applied to compensate for the
 damage caused by the first intervention. "Healthy rice plants have no need for the plow or
 chemicals," Fukuoka states. The entire edifice of modern rice farming — the plowing, the
 flooding, the fertilizing, the pesticide applications — exists to solve problems that are
-created by the farming methods themselves.
+created by the [[cho-poultry-natural-farming-methods]] themselves.
 
 Fukuoka returns to this theme later with even more direct language: "By flooding the paddy
 fields and breaking up the soil with tillers until it hardens to the consistency of adobe, rice
@@ -73,7 +73,7 @@ structure. In fact, they improve it.
 Fukuoka expands on this point when discussing animal power in agriculture. He notes that "farmers
 would have been better off using pigs and goats to plow and turn the soil. In fact, what they
 should have done was to leave the soil to be worked by small animals — chickens, rabbits, mice,
-moles, and even worms." Large animals like horses and oxen, and even more so heavy machinery,
+moles, and even worms." Large animals like horses and oxen, and even more so [[jadam-soil-compaction-heavy-machinery]],
 compress the soil and create the hardpan conditions that then require further plowing. The
 smaller creatures of nature work the soil gently and continuously, maintaining its friable
 structure without ever creating the conditions that demand human intervention. "Large animals
@@ -84,7 +84,7 @@ fifty to a hundred people if nature's own powers were fully utilized instead.
 The practical implications of this insight are far-reaching. If plowing is not merely unnecessary
 but actively harmful, then the entire foundation of conventional agriculture needs to be
 reexamined. The energy expenditure of plowing alone is enormous. Fukuoka's data shows that
-natural farming requires only one man-day of labor per quarter-acre to produce 130 pounds of
+[[cho-loess-powder-in-natural-farming]] requires only one man-day of labor per quarter-acre to produce 130 pounds of
 rice, while mechanized agriculture requires ten to fifty times as much energy input for the same
 output. Much of that excess energy goes into soil preparation — breaking up the very hardpan
 that previous tillage created.
@@ -117,7 +117,7 @@ problems they claim to solve.
 
 - [[fukuoka-shrine-grove-trees-grow-without-human-aid]]
 - [[fukuoka-nature-neither-living-nor-dead-holistic-biosystem]]
-- [[fukuoka-chemical-fertilizers-effective-only-on-dead-soil]]
-- [[fukuoka-pesticides-kill-natural-enemies-first]]
-- [[fukuoka-no-till-direct-seeded-rice-barley-clover]]
-- [[fukuoka-do-nothing-farming-movement]]
+- fukuoka chemical fertilizers effective only on dead soil
+- fukuoka pesticides kill natural enemies first
+- fukuoka no till direct seeded rice barley clover
+- [[fukuoka-do-nothing-farming-and-spiritual-life]]

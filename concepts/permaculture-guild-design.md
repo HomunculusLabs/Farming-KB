@@ -1,5 +1,5 @@
 ---
-title: query-what-is-a-permaculture-guild-and-how-do-i-design-one Design
+title: Permaculture Guild Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -17,16 +17,16 @@ A well-designed guild typically includes plants serving the following functional
 
 - **Central element** — usually a productive tree or shrub (apple, peach, plum, chestnut)
 - **Nitrogen fixers** — convert atmospheric nitrogen into plant-available form
-- **[[comparison-dynamic-accumulators-vs-cover-crops]]** — deep-rooted plants that mine minerals from subsoil
+- **Dynamic accumulators** — deep-rooted plants that mine minerals from subsoil
 - **Pest confusers** — aromatic plants that disrupt pest insect behavior
 - **Mulch makers** — plants that produce abundant biomass for ground cover
-- **Pollinator attractors** — flowering plants that support [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- **Pollinator attractors** — flowering plants that support beneficial insects
 - **Root exudate contributors** — plants that feed soil biology through root sugars
 
 ## Functional Roles in Detail
 
 ### Nitrogen Fixers
-Nitrogen fixers form symbiotic relationships with rhizobacteria (legumes) or actinomycetes (non-legumes like alder and seaberry). They convert atmospheric nitrogen (N2) into ammonium (NH4+), which becomes available to neighboring plants through root exudation and leaf [[dighton-pine-needle-litter-decomposition-fungal-succession]].
+Nitrogen fixers form symbiotic relationships with rhizobacteria (legumes) or actinomycetes (non-legumes like alder and seaberry). They convert atmospheric nitrogen (N2) into ammonium (NH4+), which becomes available to neighboring plants through root exudation and leaf litter decomposition.
 
 Common nitrogen fixers:
 - **Legumes**: clover, alfalfa, lupine, peas, beans, locust trees, caragana, Siberian pea shrub
@@ -62,7 +62,7 @@ Common mulch makers:
 - **Clover** — living mulch ground cover that also fixes nitrogen
 - **Daikon radish** — large taproot, biomass, and soil penetration
 - **Squash and pumpkins** — large leaves shade the soil surface
-- **[[comparison-jerusalem-artichoke-vs-potato]]** — tall, prolific, provides massive stem biomass
+- **Jerusalem artichoke** — tall, prolific, provides massive stem biomass
 
 ## Example Guild: Apple Tree Guild
 
@@ -77,7 +77,7 @@ A classic permaculture example centered on a semi-dwarf apple tree:
 - **Root crops**: daikon radish (soil aeration and mineral mining)
 - **Climbers**: hardy kiwi or grape (on the north side to avoid shading)
 
-This guild provides: apples, herbs, greens, cut flowers, mulch material, compost input, pollinator habitat, and [[cannabis-pest-management-guide]] — all from one integrated planting.
+This guild provides: apples, herbs, greens, cut flowers, mulch material, compost input, pollinator habitat, and pest management — all from one integrated planting.
 
 ## Guild Design Process
 

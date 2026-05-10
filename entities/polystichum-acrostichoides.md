@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Polystichum." Flora of North America North of Mexico, Vol. 2. Oxford University Press.
-  - Cobb, B. (1984). A [[ghouled-field-guide-historical-context]] to Ferns and Their Related Families. Houghton Mifflin.
+  - Cobb, B. (1984). A ghouled-field-guide-historical-context to Ferns and Their Related Families. Houghton Mifflin.
   - Moran, R.C. (2004). A Natural History of Ferns. Timber Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
 ---

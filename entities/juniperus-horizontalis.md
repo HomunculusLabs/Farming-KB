@@ -14,7 +14,7 @@ sources:
   - Adams, R.P. (2004). "Junipers of the World: The Genus Juniperus." Trafford Publishing.
   - Welsh, S.L. et al. (2015). "A Utah Flora." Brigham Young University.
   - Van Pelt, R. (2001). "Conifers of the Pacific Northwest." Oregon State University Press.
-  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). "Flora of North America North of Mexico, Vol. 2." Oxford University Press.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Flora of North America North of Mexico, Vol. 2." Oxford University Press.
 ---
 
 # Juniperus horizontalis

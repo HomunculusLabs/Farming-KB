@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - USDA NRCS (2024). "Lycopodium obscurum." PLANTS Database.
-  - Wagner, W.H. & Beitel, J.M. (1993). "Lycopodiaceae." In: Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 2. Oxford University Press.
+  - Wagner, W.H. & Beitel, J.M. (1993). "Lycopodiaceae." In: Flora of psilocybin-north-america-pacific-northwest, Vol. 2. Oxford University Press.
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Jones, G.P. (1987). "Lycopodium Alkaloids." In: S.W. Pelletier (ed.), "Alkaloids: Chemical and Biological Perspectives." Wiley.
   - Flora of North America Editorial Committee (1993). "Lycopodium obscurum." FNA Vol. 2: 22–23.

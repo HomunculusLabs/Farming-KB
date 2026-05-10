@@ -45,9 +45,9 @@ MDMA is distinguished from other phenethylamines by its primary empathogenic/ent
 
 ## Therapeutic Potential
 
-MDMA's therapeutic applications, as explored in the context of Shulgin's work and subsequent [[hofmann-lsd-clinical-research-early-studies]]:
+MDMA's therapeutic applications, as explored in the context of Shulgin's work and subsequent clinical research:
 
-- **PTSD treatment**: The most extensively researched application; MDMA-assisted psychotherapy has shown significant efficacy in [[mushroom-cancer-clinical-trials-overview]]
+- **PTSD treatment**: The most extensively researched application; MDMA-assisted psychotherapy has shown significant efficacy in clinical trials
 - **Couples therapy**: Enhanced empathy and communication facilitate relationship work
 - **Anxiety disorders**: The anxiolytic effects combined with emotional openness can address end-of-life anxiety, social anxiety, and related conditions
 - **Addiction treatment**: Preliminary evidence suggests potential benefits in treating substance use disorders
@@ -76,7 +76,7 @@ MDA ([[mda-compound-profile]]) is the N-desmethyl version of MDMA:
 
 MDMA's legal trajectory has been contentious:
 
-- 1985: Emergency scheduled by the DEA in the [[dmt-containing-plants-united-states-halpern]] despite protests from therapists and researchers
+- 1985: Emergency scheduled by the DEA in the United States despite protests from therapists and researchers
 - 1986: Permanently placed in Schedule I
 - Shulgin publicly contested the scheduling, arguing that MDMA had unique therapeutic value that warranted controlled clinical access rather than blanket prohibition
 - The scheduling controversy is a key episode in [[shulgin-research-contributions]]

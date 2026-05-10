@@ -61,7 +61,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 **Chemical**:
 - Lignin:N ratio is often the best predictor of decomposition rate
 - Polyphenol content negatively correlated with decomposition
-- [[ph-and-nutrient-availability-garden-soils]] (especially N and P) affects fungal activity
+- Nutrient availability (especially N and P) affects fungal activity
 
 **Biological**:
 - Fungal species identity matters; different fungi have different enzyme capabilities
@@ -82,7 +82,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 - Degradation of both cellulose and lignin
 - Caused by Basidiomycetes (primarily)
 - Wood becomes lighter in color, soft, spongy
-- Enzymes: lignin peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), laccase
+- Enzymes: lignin peroxidase (LiP), manganese peroxidase (MnP), laccase
 - Key genera: *Phanerochaete*, *Trametes*, *Bjerkandera*, *Irpex*, *Pleurotus*, *Piptoporus*
 - Complete decomposition of all wood components is possible
 
@@ -113,7 +113,7 @@ Fungi are the primary decomposers of plant litter and wood in terrestrial ecosys
 
 **Early decomposition (1-5 years)**:
 - Primary decay fungi establish: white-rot and brown-rot basidiomycetes
-- Competition between species determines [[core-endorhiza-bacterial-community-composition-cannabis]]
+- Competition between species determines community composition
 - *Stereum*, *Trametes*, *Bjerkandera* (white rot) and *Gloeophyllum*, *Serpula* (brown rot) common
 
 **Late decomposition (5-50+ years)**:
@@ -135,15 +135,16 @@ Fungi compete intensely for wood resources. Interactions include:
 - **Intermingling**: Hyphae grow through each other without apparent effect
 - **Deadlock**: Hyphae meet and stop growing; stable interface forms
 - **Replacement**: One species overgrows and replaces another
-- **Bystander effect**: Fungi release [[fungal-volatile-organic-compounds-communication]] compounds that inhibit distant competitors
+- **Bystander effect**: Fungi release volatile organic compounds that inhibit distant competitors
 
 ### Combat Mechanisms
-## Related Topics
+- **Antibiotic production**: Trichoderma produces trichodermin, gliotoxin
+- **Enzyme secretion**: Laccases, proteases, chitinases attack competitors
+- **Physical contact**: Hyphal coiling, penetration, lysis
+- **Resource sequestration**: Rapid colonization of new territory
+- **Secondary metabolites**: Many basidiomycetes produce antifungal compounds
 
-- [[fungal-decomposition]] — Decomposition processes overview
-- [[fungal-enzymatic-capabilities]] — Fungal enzyme systems
-- [[fungal-nutrient-cycling-mineral-transformations]] — Carbon and nutrient cycling
-- [[fungal-growth-dynamics]] — [[fungal-mycelial-foraging-heterogeneous-environments]] and resource translocation
-- [[fungi-in-climate-change]] — Climate effects on decomposition
-- [[fairy-rings-and-giant-mycelia]] — Armillaria and large [[fungal-mycelial-networks-nutrient-translocation]]
-- [[fungal-ecology-decomposition-cycles]] — Decomposition cycles in ecosystems
+### Outcomes
+- Combat outcomes depend on: relative growth rates, resource status, moisture, temperature
+- Replacements are more common when one fungus has occupied the resource longer
+- Community composition in wood is largely determined by competitive hierarchy

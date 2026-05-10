@@ -1,5 +1,5 @@
 ---
-title: bloomfield-fungal-pathogens-and-parasites in Agriculture
+title: Fungal Pathogens in Agriculture
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-en
 
 # Fungal Pathogens in Agriculture
 
-Fungal pathogens are the most significant cause of crop disease worldwide, responsible for billions of dollars in annual losses. Understanding the major fungal pathogens, their life cycles, and management strategies is essential for sustainable agriculture.
+Fungal pathogens are the most significant cause of crop disease worldwide, responsible for billions of dollars in annual losses. Understanding the major fungal pathogens, their life cycles, and management strategies is essential for sustainable agriculture. (see [[cannabis-disease-guide]]).
 
 ## Major Fungal Pathogen Groups
 
@@ -21,7 +21,7 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - **Botrytis** (Botrytis cinerea): Gray mold. Affects virtually all crops, especially in cool damp conditions. Post-harvest rot
 
 ### Soil-Borne Root and Stem Pathogens
-- **Fusarium wilt** (Fusarium oxysporum): [[cervantes-fusarium-vascular-wilt-diseases]], blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
+- **Fusarium wilt** (Fusarium oxysporum): Vascular wilt, blocks water transport. Race-specific strains. Affects tomato, banana (Panama disease), cotton, watermelon
 - **Verticillium wilt** (Verticillium dahliae): Similar to Fusarium wilt but broader host range. Affects potato, tomato, pepper, eggplant
 - **Rhizoctonia** (Rhizoctonia solani): Damping-off of seedlings, stem canker, root rot. Very broad host range. Soil inhabitant (survives as sclerotia)
 - **Pythium** (Pythium spp.): Damping-off, root rot. Water mold. Favored by waterlogged soils
@@ -45,14 +45,14 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 ### Biological Control
 - **Trichoderma**: Antagonistic fungus used as seed treatment and soil drench. Competes with pathogens, produces antibiotics, parasitizes pathogenic fungi
 - **Bacillus subtilis**: Bacterial biocontrol agent. Produces antifungal compounds
-- **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]**: Protect roots from pathogen colonization
+- **Mycorrhizal fungi**: Protect roots from pathogen colonization
 - **Compost tea**: Apply beneficial organisms that compete with pathogens
 
 ### Organic Approved Fungicides
 - Copper-based products (Bordeaux mix): broad-spectrum, some soil accumulation concern
 - Sulfur: effective against powdery mildew, rusts
 - Neem oil: antifungal and insecticidal
-- Potassium bicarbonate: changes leaf surface pH, inhibits [[growing-gourmet-spore-germination-strain-isolation]]
+- Potassium bicarbonate: changes leaf surface pH, inhibits spore germination
 - Biological fungicides (Trichoderma-based products)
 
 ### Integrated Management
@@ -64,25 +64,7 @@ Fungal pathogens are the most significant cause of crop disease worldwide, respo
 - Rotate crops to break pathogen cycles
 
 ## Related
-- [[natural-farming-pest-management]] — for organic [[cannabis-pest-management-guide]]
+- [[natural-farming-pest-management]] — for organic pest management
 - [[companion-planting-deterrents]] — for prevention-based approaches
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
-- [[soil-food-web-structure]] — for biological [[aact-disease-suppression-mechanisms-ingham]]
-## Practical Considerations
-
-Successful implementation of Fungal Pathogens in Agriculture requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+- [[soil-food-web-structure]] — for biological disease suppression

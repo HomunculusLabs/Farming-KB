@@ -110,6 +110,9 @@ The AGM designation reflects the species' hardiness, disease resistance, and lon
 
 ## See Also
 
+- [[genista-tinctoria]]
+- [[isatis-tinctoria]]
+
 - [[baptisia-australis]]
 - [[robinia-pseudoacacia]]
 - [[trifolium-pratense]]

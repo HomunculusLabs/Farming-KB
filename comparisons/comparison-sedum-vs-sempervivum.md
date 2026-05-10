@@ -134,12 +134,7 @@ Neither genus tolerates heavy clay or persistently wet feet. [[comparison-raised
 Both genera reward gardeners with years of beauty and resilience. For maximum impact, combine them — use Sempervivum as structural rosette accents and Sedum as the connecting, spreading ground cover beneath.
 
 ## See Also
-
-- permaculture-ground-cover-plants
+- [[sedum-acre]]
 - [[plant-propagation]]
-
-## See Also
-
-- gaias-garden-living-mulches-ground-covers
 - [[comparison-stevia-vs-monk-fruit-sweetener-cultivation]]
 - [[comparison-solar-dehydrator-vs-electric-dehydrator]]

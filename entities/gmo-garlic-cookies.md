@@ -124,6 +124,6 @@ GMO has gained significant traction in medical cannabis communities:
 - [[platinum-garlic]]
 
 - [[girl-scout-cookies]]
-- [[og-kush]] — Influential ancestor in the Chemdawg lineage
+- [[og-kush-cannabis-entity]] — Influential ancestor in the Chemdawg lineage
 - [[granddaddy-purple]] — Another heavy indica with potent sedating effects
 - Caryophyllene — Dominant terpene in GMO's profile

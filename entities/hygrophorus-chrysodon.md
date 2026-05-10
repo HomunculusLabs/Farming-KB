@@ -70,12 +70,15 @@ The stipe is solid to slightly hollow, with a fibrillose white surface.
 **Spores:** White spore print. Basidiospores are ellipsoid to broadly ellipsoid, 6.5–8.5 × 4.5–5.5 μm, smooth, inamyloid.
 
 ## Distribution and Habitat
-## See Also
 
+## See Also
 - [[hericium-erinaceus]]
 - [[cantharellus-cibarius-entity]]
 - [[amanita-muscaria-entity]]
 - [[armillaria-mellea-entity]]
+- [[pleurotus-ostreatus]]
+- [[boletus-edulis-entity]]
+- [[inonotus-obliquus]]
 
 ## Merged: "Hygrophorus agathosmus"
 

@@ -86,4 +86,4 @@ sustained fruit production throughout the long growing season:
 - [[permaculture-beekeeping]]
 - [[permaculture-tree-crop-systems]]
 - [[jadam-fruit-tree-winter-pest-control]]
-- [[permaculture-fruit-tree-planting-guide]]
+- [[permaculture-fruit-tree-guide]]

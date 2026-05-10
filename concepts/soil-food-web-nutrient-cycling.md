@@ -53,7 +53,7 @@ The soil food web converts organic matter and rock minerals into plant-available
 
 ### Glomalin and Soil Aggregation (Lowenfels/Ingham)
 
-[[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi secrete glomalin, a sticky glycoprotein that contributes up to 30% of soil carbon, binds particles into aggregates, improves aeration/drainage/water-holding capacity, and persists for decades. It cannot be produced without living mycorrhizal hyphae — this is why [[no-till-gardening-method]] builds soil structure over time. See [[mycorrhizal-networks]] for full mycorrhizal ecology.
+Arbuscular mycorrhizal fungi secrete glomalin, a sticky glycoprotein that contributes up to 30% of soil carbon, binds particles into aggregates, improves aeration/drainage/water-holding capacity, and persists for decades. It cannot be produced without living mycorrhizal hyphae — this is why [[no-till-gardening-method]] builds soil structure over time. See [[mycorrhizal-networks]] for full mycorrhizal ecology.
 
 ## Building Soil Biology
 
@@ -61,18 +61,18 @@ The soil food web converts organic matter and rock minerals into plant-available
 - [[fermented-mixed-compost-fmc]] — IMO-enriched compost (Cho)
 - [[compost-tea-guide]] — AACT for rapid microbial inoculation
 - LAB (lactic acid bacteria) is the "major workhorse" — 50% of BIM composition (Carandang)
-- No-till preserves fungal networks; mulch feeds [[ingham-leaf-surface-biology-exudates]] (living soil)
+- No-till preserves fungal networks; mulch feeds surface biology (living soil)
 - Compost is the single best input for building food web diversity
 
 ### Bionutrient Effects on Soil Biology
 
 Bionutrient preparations (see [[bionutrients-guide]]) directly feed and shape soil microbial communities:
 
-- **FPJ ([[bionutrients-lab-fermented-plant-juice-fpj]])**: Provides plant growth hormones (gibberellins, auxins, cytokinins) that stimulate [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] activity. Fast-growing plant extracts (kangkong, kelp) trigger microbial blooms that accelerate decomposition and nutrient cycling.
+- **FPJ (fermented plant juice)**: Provides plant growth hormones (gibberellins, auxins, cytokinins) that stimulate bacterial and fungal activity. Fast-growing plant extracts (kangkong, kelp) trigger microbial blooms that accelerate decomposition and nutrient cycling.
 - **FAA (fish amino acid)**: High-nitrogen input causes rapid bacterial population growth, which protozoa then graze — releasing plant-available ammonium through the microbial loop. Essential for bacterial-dominated soils (vegetables, annuals).
 - **LAB (lactic acid bacteria)**: Shifts soil conditions away from anaerobic putrefaction toward lactic fermentation. Arrests ammonia from decomposing wastes, neutralizes pH locally, and creates conditions where beneficial microbes outcompete pathogens. LAB-enriched soil becomes soft and fluffy.
 - **OHN (oriental herbal nutrient)**: Natural antibiotic properties selectively suppress harmful organisms (salmonella, E. coli) while sparing beneficial soil biology. The sulfur compounds in garlic are particularly effective against soil-borne fungal pathogens.
-- **[[bionutrients-lab-calcium-phosphate-calamansi]]**: Applied during the changeover period, strengthens plant cell walls and supports microbial communities involved in [[mollison-phosphorus-cycling-and-conservation-in-permaculture-systems]]. Calcium is a key signaling ion for root-microbe communication.
+- **Calcium phosphate**: Applied during the changeover period, strengthens plant cell walls and supports microbial communities involved in phosphorus cycling. Calcium is a key signaling ion for root-microbe communication.
 - **Designer compost (bokashi)**: Combines all of the above into a single inoculated substrate. The charcoal dust provides habitat ([[biochar-in-agriculture|biochar]] effect) for microbial colonization. When incorporated into soil, bokashi acts as a concentrated microbial inoculant and slow-release nutrient source.
 
 ### General Principles
@@ -85,8 +85,6 @@ Bionutrient preparations (see [[bionutrients-guide]]) directly feed and shape so
 6. **Avoid chemicals** — synthetic fertilizers and pesticides harm soil biology
 
 ## See Also
-
-- [[laetisaria-arvalis]]
 
 - soil food web nutrient cycling — Overview of trophic levels and bacterial vs. fungal dominance
 - soil food web nutrient cycling — Detailed nutrient cycling and fungal ecology

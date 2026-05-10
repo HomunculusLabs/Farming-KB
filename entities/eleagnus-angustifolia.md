@@ -23,7 +23,7 @@ sources:
   - Keshavarzi, M. et al. (2019). "A review on phytochemistry and pharmacological effects of Elaeagnus angustifolia." J Pharmacy & Bioallied Sciences, 11(4), 388-393.
   - Balandari, A. et al. (2020). "Nutritional and therapeutic properties of E. angustifolia fruits." Food Science & Nutrition, 8(5), 2197-2213.
   - Shabani, L. et al. (2020). "Antioxidant and anti-inflammatory activities of E. angustifolia." Pharmaceutical Biology, 48(8), 923-927.
-  - Toogood, S. & Jefferson, L. (2021). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by Elaeagnus in temperate agroforestry." Agroforestry Systems, 95(2), 501-515.
+  - Toogood, S. & Jefferson, L. (2021). "comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer by Elaeagnus in temperate agroforestry." Agroforestry Systems, 95(2), 501-515.
   - Sheppard, A.W. et al. (2006). "A review of the biology and management of invasive Elaeagnus." Weed Research, 46(4), 261-273.
 ---
 

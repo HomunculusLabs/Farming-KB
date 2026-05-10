@@ -139,10 +139,6 @@ approaches and allows phylogenetic placement of environmental sequences that
 cannot be assigned to species-level taxa using reference databases alone.
 
 ## See Also
-
 - [[fungal-species-estimates]]
 - [[fungal-ecology]]
-
-## See Also
-
 - [[environmental-dna-metabarcoding-fungi]]

@@ -3,7 +3,7 @@ title: jeavons flat preparation seedling raising, Seedling Raising, and Transpla
 created: 2026-04-26
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
-    title: How to Grow More Vegetables - [[john-jeavons]]
+    title: How to Grow More Vegetables - john-jeavons
     author: John Jeavons
 updated: 2026-04-24
 type: concept

@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -139,12 +138,8 @@ The ultimate goal of Mollison's zone one design is a productive
 polyculture that mimics the structure and function of a [[fukuoka-natural-ecosystem-food-chain-interconnection]].
 Multiple crop families share each bed, root zones stratify vertically,
 [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] find habitat among diverse flowers, and the soil food
-web remains active year-round. This approach stands in direct contrast to
-## See Also
 
+## See Also
 - [[mollison-pdc-trellis-systems-climate-control]]
 - [[jeavons-companion-planting]]
-
-## See Also
-
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]

@@ -9,7 +9,7 @@ sources:
 ---
 # Cannabis for Nausea and Appetite Stimulation
 
-Cannabis has been recognized as an effective remedy to stimulate appetite and reduce nausea in almost every culture and medical tradition throughout history. Modern science has confirmed that the [[cannabis-for-chemotherapy-nausea]]
+Cannabis has been recognized as an effective remedy to stimulate appetite and reduce nausea in almost every culture and medical tradition throughout history. Modern science has confirmed that the [[blesching-cannabis-nausea-chemotherapy-vomiting-dronabinol]]
 - [[cannabis-for-cancer-patients]]
 - [[cannabis-dosing-guidelines-by-condition]]
 
@@ -19,6 +19,8 @@ While cancer anorexia studies show mixed results, AIDS-related and elderly-relat
 
 ## See Also
 
+- [[cinderella-99]]
+
 - [[cannabis-for-gerd-and-acid-reflux]]
 
 - [[cannabis-for-periodontitis]]
@@ -26,7 +28,7 @@ While cancer anorexia studies show mixed results, AIDS-related and elderly-relat
 - [[2c-d-pihkal-entry-23]]
 - [[dom-compound-profile]]
 - [[cannabis-for-ptsd-and-trauma]]
-- [[cannabis-cannabinoid-receptor-pharmacology]] receptors. - [[cannabis-chronic-pain-management]] - [[cannabis-cannabinoid-receptor-pharmacology]] - [[blesching-cannabis-hiv-aids]] - [[cannabis-endocannabinoid-system]] plays a crucial role in the earliest processes of conception and egg implantation. Levels of endogenous anandamide via [[cannabis-thc-therapeutic-profile]] binds to the same receptors and therefore may also play a significant role in early pregnancy processes. Related: [[cannabis-for-chemotherapy-nausea]], [[cannabis-for-chronic-pain]]
+- [[cannabis-cannabinoid-receptor-pharmacology]] receptors. - [[cannabis-chronic-pain-management]] - [[cannabis-cannabinoid-receptor-pharmacology]] - [[blesching-cannabis-hiv-aids]] - [[cannabis-endocannabinoid-system]] plays a crucial role in the earliest processes of conception and egg implantation. Levels of endogenous anandamide via [[cannabis-thc-therapeutic-profile]] binds to the same receptors and therefore may also play a significant role in early pregnancy processes. Related: [[blesching-cannabis-nausea-chemotherapy-vomiting-dronabinol]], [[cannabis-for-chronic-pain]]
 ## Practical Applications
 
 Cannabis for Nausea and Appetite Stimulation has a range of practical applications that make it relevant to

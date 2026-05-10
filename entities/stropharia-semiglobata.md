@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Noordeloos M.E. (2011). "Strophariaceae s.l." Fungi Europaei, Vol. 13. — Edizioni Candusso.
-  - Stamets P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
+  - Stamets P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
   - Watling R., Gregory N.M. (1987). "Stropharia (Fr.) Quél." — In: Henderson D.M., Orton P.D., Watling R. "British fungus flora: agarics and boleti."
   - Bugskill R., Jordan M. (2004). "The genus Stropharia in Britain." Field Mycology.
   - Gulden G. (2005). "Strophariaceae (Agaricales) in Norway." — Norwegian Journal of Botany.

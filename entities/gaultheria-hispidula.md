@@ -14,7 +14,7 @@ sources:
   - Hultén, E. (1968). "Flora of Alaska and Neighboring Territories." Stanford University Press.
   - Fernald, M.L. (1950). "Gray's Manual of Botany." American Book Company.
   - USDA NRCS. "Gaultheria hispidula." https://plants.usda.gov/home/plantProfile?symbol=GAHI2
-  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada." New York Botanical Garden.
+  - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada." New York Botanical Garden.
 ---
 
 ## Overview

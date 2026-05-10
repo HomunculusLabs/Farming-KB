@@ -4,8 +4,7 @@ title: "vermicomposting"
 tags: [comparison, soil-amendment, biochar, vermicomposting, organic]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 ---
 
 # Biochar vs Vermicomposting
@@ -80,3 +79,8 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## See Also
+
+- [[aact-vermicompost-vs-thermal-compost-ingham]]
+- [[query-how-do-i-start-vermicomposting-at-home]]

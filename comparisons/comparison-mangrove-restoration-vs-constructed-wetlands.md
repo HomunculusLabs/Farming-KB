@@ -8,7 +8,7 @@ sources:
   - "Lewis, R.R. III. (2009). Methods and Criteria for Successful Mangrove Forest Restoration. Coastal Wetlands: An Integrated Ecosystem Approach."
   - "Kadlec, R.H. & Wallace, S. (2008). Treatment Wetlands, 2nd Edition. CRC Press."
   - "Mcleod, E. et al. (2011). A Blueprint for Blue Carbon. Conservation International."
-  - "Vymazal, J. (2011). Constructed Wetlands for [[mollison-designers-wastewater-treatment-wetlands]]: Five Decades of Experience. Environmental Science & Technology, 45(1), 61–69."
+  - "Vymazal, J. (2011). Constructed Wetlands for mollison-designers-wastewater-treatment-wetlands: Five Decades of Experience. Environmental Science & Technology, 45(1), 61–69."
   - "Spalding, M. et al. (2010). World Atlas of Mangroves. Earthscan/Routledge."
   - "Donato, D.C. et al. (2011). Mangroves Among the Most Carbon-Rich Forests in the Tropics. Nature Geoscience, 4, 293–297."
 type: comparison

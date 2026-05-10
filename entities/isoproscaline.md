@@ -101,7 +101,7 @@ The compound is controlled by name in few countries due to its rarity. Legal sta
 
 ## See Also
 
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[allylescaline]]
 - [[2c-b]]
 - [[pihkal-introduction-and-methodology]]

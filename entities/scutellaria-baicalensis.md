@@ -113,6 +113,8 @@ Modern clinical applications include:
 
 ## See Also
 
+- [[scutellaria-indica]]
+
 - [[ocimum-tenuiflorum-entity]] — Lamiaceous medicinal herb used in Ayurvedic medicine (tulsi)
 - [[panax-ginseng]] — Fundamental TCM herb with synergistic use in classical formulations
 - [[ilex-paraguariensis]] — Caffeinated herbal with anti-inflammatory flavonoid profile

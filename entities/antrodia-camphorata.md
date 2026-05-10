@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Chang, T.T. & Chou, W.N. (1995). "Antrodia cinnamomea sp. nov. on Cinnamomum kanehirai in Taiwan." Mycological Research, 99(6), 756–758.
   - Wu, S.H. et al. (1997). "antrodia camphorata ('Niu-Chang-Chih'), New Combination of a Medicinal Fungus in Taiwan." Botanical Bulletin of Academia Sinica, 38, 273–275.
-  - Geethangili, M. & Tzeng, Y.M. (2011). "Review of Pharmacological Effects of Antrodia camphorata and Its [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]." Evidence-Based Complementary and Alternative Medicine, 2011, 212641.
+  - Geethangili, M. & Tzeng, Y.M. (2011). "Review of Pharmacological Effects of Antrodia camphorata and Its query-what-are-the-main-bioactive-compounds-in-medicinal-plants." Evidence-Based Complementary and Alternative Medicine, 2011, 212641.
   - Ao, Z.H. et al. (2009). "Antrodia camphorata: A Potent Folk Remedy for Various Disorders." Journal of Food and Drug Analysis, 17(4), 317–326.
   - Lu, M.K. et al. (2013). "Recent Research and Development of Antrodia cinnamomea." Journal of Traditional and Complementary Medicine, 3(1), 58–66.
 ---
@@ -24,6 +24,10 @@ niu-chang-chih (牛樟芝), is a rare parasitic fungus endemic to Taiwan
 that grows exclusively on the inner cavity of the decayed heartwood of
 the endangered camphor tree *Cinnamomum kanehirai*. It is one of the most
 valued [[query-what-are-the-best-mushroom-substrates-for-different-species]] — The lingzhi mushroom, a fellow polyporaceous
+medicinal fungus, is its closest well-known analogue in traditional
+medicine, though *A. cinnamomea* commands significantly higher market
+prices due to its extreme rarity and the cultural importance attached
+to its wild-harvested fruiting bodies.
 
 ## Taxonomic History
 
@@ -62,6 +66,55 @@ and cream to orange in color. The pore surface is orange to brownish-red
 with circular to angular pores numbering 2-4 per millimeter. The tube
 layer extends up to 1 cm deep. The context (flesh) is corky to woody in
 texture and reddish-brown, measuring 3-8 mm thick. The [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
+
+## Conservation Status
+
+The conservation status of *Antrodia cinnamomea* is intimately linked to
+that of its sole host tree, *Cinnamomum kanehirai*. This camphor species
+is classified as endangered in Taiwan due to historical overharvesting for
+timber and essential oil production; remaining old-growth stands are
+heavily fragmented and legally protected. Wild *A. cinnamomea* is
+correspondingly rare and is listed as endangered under Taiwan's
+Wildlife Conservation Act. Collection without permit is illegal, and
+enforcement has intensified due to the high black-market value. The
+The species is not formally evaluated by the IUCN Red List, but its
+dependence on a single endangered host and extremely restricted natural
+range would likely qualify it for an endangered listing if assessed.
+## Legal Status
+
+As a non-psychoactive medicinal fungus, *A. cinnamomea* is not subject to
+drug scheduling. Taiwan strictly regulates harvest and trade of wild-
+collected material under the Wildlife Conservation Act; only cultivated
+specimens from licensed facilities may be sold. In the EU and US, products
+are sold as dietary supplements, though health claims are restricted under
+FDA and EFSA regulations. Japan has approved certain extracts as Foods for
+Specified Health Uses (FOSHU).
+
+## Seasonality
+
+In the wild, *Antrodia cinnamomea* fruiting bodies are most commonly
+collected during the warm, humid months from approximately June through
+September in Taiwan's lowland and montane forests. Sporulation is
+triggered by sustained warm temperatures (25-30 degrees C) combined with
+high relative humidity (above 85%), conditions typical of Taiwan's
+summer monsoon season. The fungus fruits exclusively on standing dead or
+declining *Cinnamomum kanehirai* trees, and fruiting is often associated
+with the onset of the rainy season when moisture levels in the host
+wood reach optimal levels for basidiocarp development.
+
+In cultivation, both solid-state (wood log) and submerged fermentation
+methods decouple production from natural seasonality. Wood-log cultivation
+still requires 6-12 months of incubation before fruiting can be induced,
+while submerged liquid fermentation of mycelium provides year-round
+biomass production independent of seasonal constraints. The market price
+of cultivated fruiting bodies typically shows seasonal variation, with
+higher prices commanded during winter months when natural supplies are
+absent and consumer demand for immune-support supplements peaks.
+
+## Similar Species
+- **[[stamets-reishi-ganoderma-lucidum-cultivation]]** (*G. lucidum*) — Shares lacquered, zonate surface; distinguished by broadleaf hardwood host preference and darker pores.
+- **Ganoderma tsugae** — Hemlock-associated reishi; softer fruiting body and white pore surface when fresh.
+- **Ganoderma tropicum** — Tropical polypore occasionally confused with *A. cinnamomea* in dried product markets; larger pores, different hosts.
 
 ## See Also
 - [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]

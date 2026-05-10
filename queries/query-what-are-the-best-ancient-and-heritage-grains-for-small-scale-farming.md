@@ -134,10 +134,12 @@ Heritage grains improve farm systems beyond their direct value:
 | Gluten-free market | Quinoa, amaranth, teff, sorghum |
 | Premium artisan flour | Einkorn, emmer, Red Fife wheat |
 | Poor / marginal soil | Sorghum, finger millet, rye |
-## See Also
 
-- faires-grain-harvesting-and-processing
+## See Also
 - [[mollison-permaculture-two-no-tillage-grain-cropping]]
+- [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]]
+- [[setaria-italica]]
+- [[triticum-aestivum]]
 
 ## Merged: Best Goat Breeds for Small Homesteads and Permaculture Systems
 

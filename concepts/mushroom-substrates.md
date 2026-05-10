@@ -1,6 +1,6 @@
 ---
 
-title: query-what-are-the-best-mushroom-substrates-for-different-species
+title: Mushroom Substrates
 created: 2026-04-11
 updated: 2026-04-13
 type: concept
@@ -16,8 +16,7 @@ tags:
 - water
 
 sources:
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+- raw/papers/the-mushroom-cultivator-stamets.md
 - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 - raw/papers/unknown-oyster-mushroom-cultivation.md
 - raw/papers/the-effect-of-the-interaction-of-various-spawn-grains-with-different-culture-med.md
@@ -88,13 +87,13 @@ The backbone of commercial indoor cultivation for shiitake, lion's mane, reishi,
 
 ### Wood Chips
 
-- Ideal for outdoor beds, wine cap, and [[fukuoka-matsutake-natural-culture-medium-microbiological-innovation]] methods.
-- Irregular chips 1-3 inches give better results than finely ground material — greater nutrient and water reservoir with substantial surface area for [[growing-gourmet-primordia-formation-pinning]].
+- Ideal for outdoor beds, wine cap, and natural culture methods.
+- Irregular chips 1-3 inches give better results than finely ground material — greater nutrient and water reservoir with substantial surface area for primordia formation.
 - Fresh chips are preferable to aged; sawdust supports rapid initial growth but soon loses vitality.
 
 ### Straw
 
-- Wheat straw is the standard for oyster [[accessible-mushroom-cultivation-for-disabilities]]. Pasturized at 160F for 20-30 minutes.
+- Wheat straw is the standard for oyster mushroom cultivation. Pasturized at 160F for 20-30 minutes.
 - Straw can be used whole or chopped; chopped permeates more rapidly.
 - Chopped or whole straw adequate for Stropharia rugoso-annulata; compacted 6-12 inches deep.
 
@@ -113,7 +112,7 @@ Supplements boost nutritional value and accelerate colonization and yields.
 |--------|-----------|----------|----------|
 | Hot water pasteurization | 160F (71C) | 20-30 min | Straw, wood chip beds for oysters, wine cap |
 | Steam pasteurization | 160-170F | 1-2 hours | Bulk substrates in barrels or steam chambers |
-| [[boil-a-bag-pressure-sterilization-technique]] | 15-18 psi (~250F) | 1-2 hours | Grain spawn, [[oyster-mushroom-supplemented-sawdust-blocks]] bags |
+| Pressure sterilization | 15-18 psi (~250F) | 1-2 hours | Grain spawn, supplemented sawdust bags |
 
 Pasteurization kills most competitors but leaves beneficial thermotolerant organisms. Sterilization kills everything — required for supplemented substrates which would otherwise be colonized by contaminants faster than mushroom mycelium.
 
@@ -145,6 +144,7 @@ Synthetic logs combine the natural log geometry with supplemented sawdust nutrit
 | Gypsum (CaSO4) | 12g | pH buffer, calcium, texture |
 | Calcium carbonate (CaCO3) | 6g | pH buffer |
 | Water | 1.2-1.3L | 55-65% moisture content |
-## See Also
 
-## Related
+Mix thoroughly, pack into 3-4 inch diameter x 12-18 inch polypropylene tubes or lay flat bags. Sterilize at 15 psi for 90-120 min. Cool to room temperature before inoculation. Inoculate with 5-10% grain spawn by weight.
+
+**Moisture test**: Squeeze a handful of substrate firmly -- a few drops of water should appear between fingers but no stream. Too dry = no drops; too wet = water streams freely.

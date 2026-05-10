@@ -58,7 +58,7 @@ brassinosteroids and common plant sterols.
 
 ## Biological Activity
 
-### [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] of this class:
+### [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] of this class:
 
 - Promotion of cell elongation and cell division
 - Enhancement of reproductive development

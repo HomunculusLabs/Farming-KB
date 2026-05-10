@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, plants, wildlife, ecology, design, cultivation]
-sources:
-  sources: []
+sources: []
 ---
 
 # Hedgerow Planting
 
-Hedgerows are dense rows of shrubs, trees, and herbaceous plants that serve as living fences, windbreaks, wildlife corridors, and sources of food, medicine, and materials. They are a cornerstone of [[permaculture-design|permaculture]] and [[williams-pdc-ecological-design-principles]], providing multiple functions in a single linear planting.
+Hedgerows are dense rows of shrubs, trees, and herbaceous plants that serve as living fences, windbreaks, wildlife corridors, and sources of food, medicine, and materials. They are a cornerstone of [[permaculture-design|permaculture]] and ecological design, providing multiple functions in a single linear planting.
 
 ## Hedgerow Design
 
@@ -18,7 +17,7 @@ Hedgerows are dense rows of shrubs, trees, and herbaceous plants that serve as l
 
 Before selecting species, define the primary and secondary functions of the hedgerow:
 
-- **[[cervantes-wind-protection-outdoor-cannabis]]**: Dense, multi-layered planting; see [[windbreak-and-shelterbelt-design]]
+- **Wind protection**: Dense, multi-layered planting; see [[windbreak-and-shelterbelt-design]]
 - **Privacy screening**: Evergreen species for year-round coverage
 - **Wildlife corridor**: Native species providing food and shelter; connect to larger habitat areas
 - **Livestock containment**: Thorny, stock-proof species (hawthorn, blackthorn, honey locust)
@@ -86,7 +85,7 @@ Edge:      g g g g g g g g       (ground covers, herbs, brambles)
 
 - Oregon grape (Mahonia aquifolium): Evergreen, edible tart berries
 - Red-flowering currant (Ribes sanguineum): Early hummingbird nectar source
-- Pacific ninebark (Physocarpus capitatus): [[permplant-willows-salix-erosion-control-fodder]], wildlife cover
+- Pacific ninebark (Physocarpus capitatus): Erosion control, wildlife cover
 - Salmonberry (Rubus spectabilis): Edible berries, thicket-forming
 - Salal (Gaultheria shallon): Evergreen ground cover, edible berries
 - Evergreen huckleberry (Vaccinium ovatum): Evergreen, edible berries
@@ -96,7 +95,7 @@ Edge:      g g g g g g g g       (ground covers, herbs, brambles)
 Including nitrogen fixers improves soil fertility for surrounding plants:
 
 - Russian olive (Elaeagnus angustifolia) — note: invasive in some areas
-- [[comparison-sea-buckthorn-vs-aronia]] (Hippophae rhamnoides)
+- Sea buckthorn (Hippophae rhamnoides)
 - American silverberry (Elaeagnus commutata)
 - Black locust (Robinia pseudoacacia) — fast-growing, excellent fence posts
 - Siberian pea shrub (Caragana arborescens) — edible seeds, hardy
@@ -110,7 +109,7 @@ Hedgerows provide significant wind reduction:
 - A 15-foot-tall hedgerow reduces wind for 150-225 feet downwind
 - Wind reduction improves crop yields, reduces soil erosion, and lowers heating costs for nearby buildings
 - Density of 40-60% is optimal (too dense creates turbulence on the lee side)
-- See [[windbreak-and-shelterbelt-design]] for detailed [[comparison-windbreak-design-vs-species-selection]]
+- See [[windbreak-and-shelterbelt-design]] for detailed windbreak design
 
 ## Wildlife Corridor Design
 
@@ -120,7 +119,7 @@ A hedgerow becomes a wildlife highway connecting fragmented habitats:
 - **Diverse structure**: Include trees, shrubs, ground covers, and dead wood for nesting
 - **Food continuity**: Select species that produce fruit, seeds, and nuts across seasons
 - **Nesting habitat**: Thorny species (hawthorn, blackberry) protect bird nests from predators
-- **[[hemenway-insectary-plants-and-beneficial-insects]]**: Leave some dead stems, leaf litter, and standing dead wood
+- **Insect habitat**: Leave some dead stems, leaf litter, and standing dead wood
 - **Avoid invasive species**: They can escape the hedgerow and spread into natural areas
 - **Minimum width**: 10+ feet for effective wildlife movement
 
@@ -142,9 +141,10 @@ A hedgerow becomes a wildlife highway connecting fragmented habitats:
 ### Establishment Care
 - Water weekly during the first growing season (more in hot, dry weather)
 - Weed control is critical in years 1-2 — mulch heavily and hand-pull weeds
-## See Also
+- Stake tall trees only if necessary (remove stakes after 1 year)
+- Protect young plants from deer and rabbits with tree tubes or fencing
+- Avoid herbicides in or near the hedgerow
 
-- [[windbreak-and-shelterbelt-design]]
-- [[native-plant-gardening]]
-- [[ground-cover-plants]]
-- [[edible-landscaping]]
+## Management
+
+### Pruning

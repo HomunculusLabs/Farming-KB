@@ -5,7 +5,6 @@ tags: [fukuoka, desert-revegetation, seed-balls, clay-pellets, green-manure, eco
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -136,7 +135,6 @@ awakened from its slumber with natural farming."
 In California, he learned that about 30 percent of [[psilocybin-north-america-pacific-northwest]] consists
 of arid land, the central grain belt has been severely depleted (another 30
 percent), and green plains make up only another 30 percent. More than half
-of the country was already desert or approaching a desert-like state. The quickest way to enrich land, he discovered through years of observation,
 ## Related Concepts
 
 - [[fukuoka-reunifying-god-nature-and-man]] — the philosophical foundation

@@ -1,5 +1,5 @@
 ---
-title: Tools and Equipment for [[biointensive-gardening-and-minifarming]]
+title: Tools and Equipment for biointensive gardening and minifarming
 created: 2026-04-28
 tags: [biointensive, tools, equipment, hand-tools, jeavons]
 date: 2026-04-28

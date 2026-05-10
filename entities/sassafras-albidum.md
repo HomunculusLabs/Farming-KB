@@ -19,9 +19,9 @@ tags:
   - dynamic-accumulator
 sources:
   - Hardin, J.W. (1973). "Sassafras albidum." Econ. Bot. 27(1): 45-48.
-  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
   - USDA Forest Service. "Sassafras albidum." www.fs.usda.gov
-  - Burrows, G.E. & Tyrl, R.J. (2013). "Toxic Plants of [[psilocybin-north-america-pacific-northwest]]." 2nd ed. Wiley.
+  - Burrows, G.E. & Tyrl, R.J. (2013). "Toxic Plants of psilocybin-north-america-pacific-northwest." 2nd ed. Wiley.
   - Foster, S. & Duke, J.A. (2014). "Peterson Field Guide to Medicinal Plants." Houghton Mifflin.
 ---
 

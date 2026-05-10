@@ -124,10 +124,6 @@ Xylaria hypoxylon is not commercially cultivated. Laboratory cultivation is poss
 Cultivation is primarily of research interest for studying secondary metabolite production and bioluminescence rather than for food or medicinal purposes.
 
 ## See Also
-
-- [[trametes-versicolor-entity]] — Turkey Tail, another common wood-decomposing fungus with medicinal properties
-- [[fungal-ecology]] — Comprehensive overview of fungal roles in [[fungal-ecosystem-processes-overview]]
-
-## See Also
-
+- [[trametes-versicolor-entity]]
+- [[fungal-ecology]]
 - [[comparison-reishi-vs-chaga-medicinal-mushrooms]]

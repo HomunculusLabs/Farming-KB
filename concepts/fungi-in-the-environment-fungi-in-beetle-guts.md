@@ -114,12 +114,7 @@ One notable difference is that bacterial endosymbionts are often vertically tran
 The beetle gut remains one of the most promising frontiers for [[biodiversity-fungal-biodiversity-estimation-methods]] discovery. With an estimated 350,000 to 400,000 described beetle species (and many more undescribed), and with the majority not yet examined for gut fungi, the potential for new yeast species is enormous. The discovery of the *Candida tanzawaensis* clade as a major insect-associated radiation suggests that many more such specialized clades await discovery. Advances in high-throughput sequencing and single-cell genomics will likely accelerate this discovery process in the coming years.
 
 ## See Also
-
-- [[fungi-in-the-environment-decomposition-wood-decay]] for [[dighton-fungal-decomposition-leaf-litter-dynamics]] of woody substrates
-- fungi-in-the-environment-soil-fungal-community-structure for [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in soil habitats
-
-## See Also
-
+- [[fungi-in-the-environment-decomposition-wood-decay]]
 - [[endophytic-fungi-biology-ecology-taxonomic-diversity]]
 - [[decomposition]]
 - [[fungal-decomposition]]

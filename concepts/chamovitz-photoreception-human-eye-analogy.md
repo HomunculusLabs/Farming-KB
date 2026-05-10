@@ -117,6 +117,8 @@ to warrant the term.
 
 ## See Also
 
+- [[human-vs-plant-photoreception-comparison]]
+
 - [[chamovitz-phytochrome-mobile-signal-leaf-to-flowering]]
 - [[cryptochrome-and-blue-light-photoreception]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]

@@ -143,7 +143,6 @@ Cortinarius webcaps among the most insidious of all mushroom poisons.
 - Symptoms are delayed 1 to 3 weeks after ingestion, far longer than the
   8-hour to 2-day delay seen with amatoxin poisoning.
 - C. orellanus and C. speciosissimus are the species most commonly responsible
-  for human poisonings, primarily documented in Europe.
 ## See Also
 - [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
 - [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]

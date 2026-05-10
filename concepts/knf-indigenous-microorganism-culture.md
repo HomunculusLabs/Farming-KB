@@ -1,5 +1,5 @@
 ---
-title: KNF knf indigenous microorganism culture Culture (IMO)
+title: KNF Indigenous Microorganism Culture (IMO)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,17 +11,17 @@ sources:
 
 # KNF Indigenous Microorganism Culture (IMO)
 
-[[beneficial-indigenous-microorganisms-bim]] (IMOs) are locally-sourced microorganisms cultured and multiplied for use in soil conditioning, compost making, and plant health. In [[comparison-natural-farming-vs-permaculture]], IMOs are the primary tool for building fertile, healthy soil.
+Indigenous Microorganisms (IMOs) are locally-sourced microorganisms cultured and multiplied for use in soil conditioning, compost making, and plant health. In Natural Farming, IMOs are the primary tool for building fertile, healthy soil. (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
 
 ## Why Indigenous Microorganisms
 
-Microorganisms that have survived in the local area for a long time are most powerful and effective. They can survive extreme climatic conditions of the local environment far better than artificially produced microorganisms. Since they are already available in the field, they are considered the best inputs for conditioning the land.
+Microorganisms that have survived in the local area for a long time are most powerful and effective. They can survive extreme climatic conditions of the local environment far better than artificially produced microorganisms. Since they are already available in the field, they are considered the best inputs for conditioning the land. (see [[natural-farming-composting-methods]]).
 
 Dr. Cho advocates collecting microorganisms from different areas (sunny, shaded, different altitudes, different directions) to maximize microbial diversity.
 
 ## Two Major Functions of IMOs
 
-1. Decompose complex [[fungal-volatile-organic-compounds-communication]] (dead plant/animal bodies, wastes) into nutrients easily absorbable by plants
+1. Decompose complex organic compounds (dead plant/animal bodies, wastes) into nutrients easily absorbable by plants
 2. Create antibiotic substances, enzymes, and lactic acids that suppress diseases and promote healthy soil conditions
 
 ## IMO Stages 1-4
@@ -37,7 +37,7 @@ Dr. Cho advocates collecting microorganisms from different areas (sunny, shaded,
 6. When rice is covered with microorganisms (white, yellow, red growth), transfer to clay pot or glass jar
 7. Black molds indicate you have exceeded the number of days
 
-**Method 2 -- From [[cho-imo-collection-bamboo-stump-and-paddy-field]]:**
+**Method 2 -- From bamboo stump:**
 1. Cut a healthy bamboo shoot 10 cm from ground, trim edges to prevent juice leaking
 2. Fill cavity with boiled rice (level higher than edge)
 3. Cover with wooden box, dry leaves, and plastic sheet
@@ -59,7 +59,7 @@ Mix IMO-1 with jaggery/brown sugar in 1:1 ratio by weight. Example: 1 kg jaggery
 1. Dilute IMO-2 with water (1:1000 ratio) and mix with rice bran/flour to 65-70% moisture (lumps when pressed, loosens when shaken)
 2. Add diluted NF inputs (FPJ, FAA, OHN etc.) for better results
 3. Stack mixture on soil floor (NOT concrete) in heaps 30-40 cm high
-4. Cover with [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] to prevent temperature exceeding 50C; flip straw every 2 days
+4. Cover with paddy straw to prevent temperature exceeding 50C; flip straw every 2 days
 5. Takes 5-7 days for whitish spores to cover surface
 6. When temperature stops increasing, fermentation is complete
 7. Pleasant smell when finished; moisture drops to ~40%

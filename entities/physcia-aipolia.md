@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Moberg, R. & Carlin, G. (1993). "Physcia." In: Purvis, O.W. et al. (eds), The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
   - Nimis, P.L. & Martellos, S. (2008). ITALIC - The Information System on Italian Lichens. University of Trieste.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Lücking, R. (1999). "Ecology of foliicolous lichens at the 'Botanische Garten' in Zürich." Bibliotheca Lichenologica, 74, 1-260.
   - Nash III, T.H. (2008). Lichen Biology (2nd ed.). Cambridge University Press.
 ---
@@ -64,13 +64,16 @@ tree bark.
 The species is almost exclusively corticolous, growing on the bark of
 deciduous and coniferous trees. It is particularly abundant on nutrient-
 enriched bark in urban parks, gardens, hedgerows, and along roadsides.
-## See Also
 
+## See Also
 - [[xanthoria-parietina]]
 - [[lobaria-pulmonaria]]
 - [[peltigera-canina]]
 - [[cladonia-alpestris]]
 - [[fucus-vesiculosus]]
+- [[lecanora-conizaeoides]]
+- [[cladonia-fimbriata]]
+- [[usnea-barbata]]
 
 ## Merged: "Physcia stellaris"
 

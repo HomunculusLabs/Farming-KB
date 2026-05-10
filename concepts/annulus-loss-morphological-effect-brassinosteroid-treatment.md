@@ -40,19 +40,11 @@ The annulus loss phenomenon merits further investigation using modern molecular 
 
 ## See Also
 
-- [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]]
-
-- Brassinosteroid [[brassinosteroid-growth-promotion-psilocybe-cubensis]] in Psilocybe cubensis
-- Incomplete fruit body suppression by brassinosteroid
-- Fruiting body morphology in [[accessible-mushroom-cultivation-for-disabilities]]
-- Taxonomic identification of Psilocybe species
-- Partial veil development in agaric mushrooms
-
-## See Also
-
+- [[basidiocarp-four-stages-psilocybe-cubensis-morphological-development]]
 - [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]]
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
+
 ## Practical Considerations
 
 When working with Annulus Loss Morphological Effect of Brassinosteroid Treatment, several practical factors should be

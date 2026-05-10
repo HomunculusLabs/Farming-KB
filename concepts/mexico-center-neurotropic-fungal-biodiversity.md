@@ -82,7 +82,7 @@ history of any psychoactive mushroom tradition:
   [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative]] used by Mazatec peoples
 - **1955**: R. Gordon Wasson participated in a velada (night ceremony)
   with María Sabina, becoming the first Westerner to publicly document
-  a [[emcdda-psilocybin-mushroom-dose-and-effects]] ceremony
+  a [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] ceremony
 - **1956-1958**: Roger Heim and R. Gordon Wasson published scientific
   studies confirming the hallucinogenic properties of Mexican mushrooms
 
@@ -141,7 +141,6 @@ government prohibition of neurotropic fungi. *P. cubensis* is the most
 commonly trafficked species due to its large size, potency, and ease of
 cultivation. Despite prohibition, use continues both domestically and
 through illegal international trade.
-
 ## Related Topics
 
 - [[psilocybe-genus-taxonomy-classification]] — detailed taxonomy

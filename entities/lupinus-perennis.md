@@ -109,6 +109,8 @@ The chromosome number of L. perennis is 2n = 48. Cytological studies confirm its
 
 ## See Also
 
+- [[bellis-perennis]]
+
 - [[baptisia-australis]]
 - [[trifolium-pratense]]
 - [[lespedeza-cuneata]]

@@ -16,7 +16,7 @@ sources:
   - "FAO Olive Cultivation Technical Guidelines — fao.org"
   - "University of Arizona Cooperative Extension — Pomegranate Production"
   - "California Rare Fruit Growers — crfg.org"
-  - "University of Florida IFAS Extension — Fig [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]"
+  - "University of Florida IFAS Extension — Fig comparison-biochar-production-guide-vs-biochar-soil-amendment"
   - "Permaculture Research Institute — Temperate Food Forest Design"
 ---
 

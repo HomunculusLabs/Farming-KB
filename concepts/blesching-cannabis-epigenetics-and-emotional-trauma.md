@@ -42,13 +42,11 @@ effectively changes gene expression.
   extinction and promoting [[blesching-cannabis-neurogenesis-and-neuroplasticity]]
 - Changing thought patterns and beliefs can alter gene expression
   through epigenetic mechanisms
-## See Also
 
+## See Also
 - [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]
-
-## See Also
-
 - [[blesching-cannabis-emotional-intelligence-healing-framework]]
+
 ## Practical Considerations
 
 When working with Blesching Cannabis Epigenetics And Emotional Trauma, several practical factors should be

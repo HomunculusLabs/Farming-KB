@@ -143,7 +143,6 @@ Understanding fungal mineral transformations informs:
 - **Soil development**: Fungi accelerate primary succession on bare rock
 - **Nutrient availability**: Fungal solubilization makes essential nutrients plant-available
 - **Soil structure**: Fungal exopolymers and hyphae stabilize soil aggregates
-
 ## See Also
 
 - [[mycorrhizal-carbon-sequestration]]

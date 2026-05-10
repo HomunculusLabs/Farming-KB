@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Morris, H. & Wallach, J. (2014). "From PCP to MXE: A Comprehensive Review of the Non-Medical Use of Dissociative Drugs." Drug Science, Policy and Law, 1, 1–37.
   - EMCDDA-Europol Joint Report (2014). "Methoxetamine — a chemical and pharmacological overview." European Monitoring Centre for Drugs and Drug Addiction.
-  - Roth, B. L. et al. (2013). "Ketamine and LSD: a [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]." Pharmacology & Therapeutics, 138(3), 459–470.
+  - Roth, B. L. et al. (2013). "Ketamine and LSD: a dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor." Pharmacology & Therapeutics, 138(3), 459–470.
   - gluc, A. et al. (2011). "First reported case of methoxetamine (MXE) toxicity." Journal of the Royal Society of Medicine Short Reports, 2(11), 84.
 created: 2026-04-28
 ---

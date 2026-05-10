@@ -141,4 +141,6 @@ shade drying to preserve andrographolide content, followed by milling.
 
 ## See Also
 
+- [[koelreuteria-paniculata]]
+
 [[phyllanthus-niruri]] · tinospora-cordifolia · [[glycyrrhiza-glabra]] · [[azadirachta-indica]] · [[justicia-adhatoda]]

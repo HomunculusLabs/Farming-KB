@@ -144,7 +144,6 @@ sources: ["domain-knowledge"]
     yuccaols have anti-inflammatory activity)
   - Topical application for wounds and skin eruptions
   - Caution: saponins are toxic in large doses
-- **Other uses:**
 ## See Also- [[nutrient-movement-through-soil-to-plant-roots]]
 - [[query-which-grain-is-best-for-drought-tolerant-small-scale-farming]]
 - [[yucca-schidigera]]

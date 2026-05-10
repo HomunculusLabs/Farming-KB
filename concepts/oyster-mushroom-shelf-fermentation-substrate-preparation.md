@@ -142,8 +142,6 @@ Despite producing higher quality mushrooms, shelf cultivation has been declining
 - Bag cultivation is easier and safer, producing acceptable if somewhat lower quality
 
 The fermentation principles remain applicable, particularly in tropical and subtropical regions where fermentation requires less fuel input due to naturally warm conditions. The knowledge may also benefit growers seeking to improve substrate quality through biological processing rather than purely thermal treatment.
-## See Also
 
 ## See Also
-
 - [[oyster-mushroom-non-sterilized-substrate-cultivation]]

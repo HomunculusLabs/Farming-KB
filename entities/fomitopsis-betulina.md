@@ -13,7 +13,7 @@ sources:
   - Ryvarden, L. & Gilbertson, R.L. (1993). "European Polypores, Part 1." Synopsis Fungorum 6.
   - Niemelä, T. (2005). "Polypores of Finland." Finnish Museum of Natural History.
   - Spirin, V. & Zmitrovich, I. (2018). "Polyporoid fungi of Russia." National Lincean Academy.
-  - Smith, J.E. et al. (2002). "The medicinal value of the polypore fungi." International Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] 4(2): 103-118.
+  - Smith, J.E. et al. (2002). "The medicinal value of the polypore fungi." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive 4(2): 103-118.
   - Karaman, M. et al. (2010). "Antibacterial and antioxidant activities of the larch polypore." Journal of Ethnopharmacology 128(2): 497-501.
 created: 2026-04-28
 ---

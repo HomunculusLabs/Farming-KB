@@ -116,6 +116,8 @@ period has been characterized by:
 
 ## Related
 
+- [[five-historical-periods-neurotropic-fungi-discovery-guzman-1998]]
+
 - neurotropic-fungi-in-mexico is closely tied to
   the broader topic of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]].
 - [[guzman-allen-gartz-psilocybe-taxonomic-challenges-and-synonymy]] in identifying neurotropic species are detailed in

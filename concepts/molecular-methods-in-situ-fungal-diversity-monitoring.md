@@ -4,8 +4,7 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [fungal ecology], mycology, research-methods]
-sources:
-  sources: []
+sources: []
 ---
 ---
 title: Molecular Methods for In-Situ growing gourmet global Monitoring
@@ -140,10 +139,8 @@ monitoring:
   population changes over time at specific sites
 
 ## Monitoring Species in Complex Substrata
+
 ## See Also
 - [[microfungal-biodiversity-ecology-wood-debris-sampling]]
-
-## See Also
-
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[molecular-methods-fungal-diversity]]

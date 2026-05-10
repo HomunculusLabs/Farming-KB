@@ -13,7 +13,7 @@ sources:
   - Clarke, C.M. (2001). "Nepenthes of Sumatra and Peninsular Malaysia." Natural History Publications.
   - Murphy, D. (2018). "Nepenthes: The Tropical Pitcher Plants." Redfern Natural History Productions.
   - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
-  - McPherson, S. & Robinson, A. (2012). "[[ghouled-field-guide-historical-context]] to the Pitcher Plants of Borneo." Redfern Natural History Productions.
+  - McPherson, S. & Robinson, A. (2012). "ghouled-field-guide-historical-context to the Pitcher Plants of Borneo." Redfern Natural History Productions.
 ---
 
 ## Overview

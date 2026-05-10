@@ -120,11 +120,6 @@ The concept invites a new kind of science—one that combines the rigor of empir
 Whether or not one accepts McKenna's ontological claims, the phenomenology of the tryptamine hypercontinuum demands explanation, and no existing framework adequately accounts for it.
 
 ## See Also
-
 - [[mckenna-tryptamines-logos-consciousness]]
-
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
-
-## See Also
-
 - [[tryptamine-hypercontinuum]]

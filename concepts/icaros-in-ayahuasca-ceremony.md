@@ -125,7 +125,7 @@ with specific applications.
 
 - [[shipibo-san-francisco-ceremonial-center-ucayali]]
 
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]
 
 - [[ayahuasca-tourism-in-peru]]
 - [[ayahuasca-shamanism-economics]]

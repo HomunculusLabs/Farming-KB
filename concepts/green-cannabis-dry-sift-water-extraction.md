@@ -64,12 +64,11 @@ extraction only, with minimal plant contamination. The process:
    hash.
 The principle behind water extraction is that cold water breaks the
 glands away from the leaf matter. The glands are heavier than water and
+
 ## See Also
 - [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]]
-
-## See Also
-
 - [[oner-cannabis-water-extraction-ice-water-hash]]
+
 ## Practical Considerations
 
 Successful implementation of Dry Sift and Water Extraction Methods for Cannabis requires attention to

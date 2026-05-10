@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Macrofungi on Woody Substrata — Survey Design Wood-inhabiting macrofungi are a diverse and ecologically critical group requiring specialized survey protocols. Their substrata range from tiny twigs to large trunks, each supporting distinct fungal communities. ## Ecological Importance All decay fungi recycle lignocellulosic and mineral nutrients back into ecosystems. Their activities soften woody tissues, making them more amenable to bird and small-mammal habitation and use by arthropods, nematodes, and other invertebrates. Wood in advanced stages of decay is important for establishment of mycorrhizal associations with seedlings, and decayed woody debris acts as a moisture sink for maintaining mycorrhizal fungi in seasonally dry forests. The role of wood-inhabiting fungi in [[fungal-species-richness-and-diversity-indices]] literature.

@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [query, mushrooms, fruiting-chamber, monotub, shotgun-FC, cultivation, growing]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: query
 ---
 The monotub and the shotgun fruiting chamber (SGFC) are two of the most popular designs for indoor [[ectomycorrhizal-mushroom-fruiting-ecology]].

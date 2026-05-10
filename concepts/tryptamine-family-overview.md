@@ -36,13 +36,13 @@ The indole ring provides substitution positions (1, 2, 4, 5, 6, 7), and the side
 - 5-MeO-DMT — see [[5-meo-dmt-compound-profile]]
 - 5-MeS-DMT (methylthio analogue)
 - 4,5-MDO-DMT, 5,6-MDO-DMT (methylenedioxy bridges)
-- Ring substitution at 4-position confers [[tihkal-oral-activity-mao-inhibition]]; at 5-position increases smoked potency
+- Ring substitution at 4-position confers oral activity; at 5-position increases smoked potency
 
 **Thiophenes** (furan bioisosteres):
 - 5-thienyl substituted tryptamines — isosteric replacements of the indole benzene ring
 
 **Lysergamides** (ergoline derivatives):
-- LSD, AL-LAD, ETH-LAD, LSM ([[ergot-and-lysergic-acid-history]] morpholide), LSP
+- LSD, AL-LAD, ETH-LAD, LSM (lysergic acid morpholide), LSP
 - Dramatically more potent (microgram range vs milligram range)
 - Complex tetracyclic structure incorporating the tryptamine pharmacophore
 - See [[2c-family-compounds-overview]] for comparison with phenethylamine psychedelics
@@ -61,7 +61,7 @@ Key SAR principles from the Shulgin data:
 3. **Potency**: Adding a 5-methoxy group increases potency 4-6x for smoking but does not confer oral activity.
 4. **Duration**: Alpha-methyl substitution on the ethyl side chain extends duration from ~1 hour to 8-12+ hours by blocking MAO access to the alpha-carbon.
 5. **N-alkyl chain**: Activity drops sharply beyond N,N-dipropyl. Bulky groups decrease receptor affinity.
-6. **Visual character**: 4-substituted compounds tend toward richer, more colorful visual experiences. 5-methoxy compounds tend toward [[psilocybin-ego-dissolution-mechanisms]] with less visual content.
+6. **Visual character**: 4-substituted compounds tend toward richer, more colorful visual experiences. 5-methoxy compounds tend toward ego dissolution with less visual content.
 7. **Ion mass signatures**: Tertiary amines show 130+ as a minor MS peak; secondary amines show 131+ exceeding 130+ — useful analytical fingerprint.
 
 ### Naming Convention

@@ -5,7 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [remediation, environment]
 sources:
-  sources: []
+  - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
 Updated: 2026-04-18

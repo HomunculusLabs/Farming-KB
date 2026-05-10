@@ -140,7 +140,6 @@ Mexicanae. Similarly, Psilocybe aucklandii from New Zealand is closely related t
 Psilocybe zapotecorum from Mexico and South America, both belonging to the section
 Zapotecorum.
 
-These trans-Pacific relationships suggest an ancient distribution pattern that
 ## See Also
 
 - [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]]

@@ -12,11 +12,11 @@ tags: [psychedelics, ethnobotany, mckenna, minoan, dionysus, eleusinian-mysterie
 
 [[mckenna-minoan-crete-mushroom-fantasies-and-mycenaean-religion|McKenna]] explores the late Minoan civilization's transition from psychedelic
 mushroom religions to opium-based visionary practices, framing this shift as a
-symptom of cultural decay within a Goddess-worshipping partnership society. He
+symptom of cultural decay within a Goddess-worshipping [[dominator-culture-and-partnership-society]]. He
 traces Dionysus from his Minoan origins as a subservient vegetation god of the
 Great Mother to his later Greek transformation into the god of wine and revelry,
 arguing that Dionysus represents the spiritual crisis that overcame Minoan
-culture. The Eleusinian Mysteries, held for two thousand years near Athens, are
+culture. [[plutarch-and-cicero-on-the-eleusinian-mysteries]], held for two thousand years near Athens, are
 presented as the final flowering of Minoan-derived psychedelic religion—a mystery
 cult whose hallucinogenic sacrament scholars have long struggled to identify.
 
@@ -49,16 +49,16 @@ decline, not Minoan flowering.
 
 The Minoan willingness to incorporate opium into religious rites is significant.
 McKenna argues that this openness indicates "a willingness to associate ecstasy
-and the pursuit of altered states of consciousness with plant alkaloids," which
+and the pursuit of altered [[mckenna-food-gods-designer-states-of-consciousness]] with plant alkaloids," which
 in turn constitutes "a strong argument that other plants may have been utilized
-originally." If late Minoan culture accepted opium in its religious ceremonies,
+originally." If late Minoan culture accepted opium in its [[entheogenic-folk-religious-ceremonies]],
 the earlier, healthier phases of that culture almost certainly employed other
 psychoactive plants—most likely the psilocybin-containing *Stropharia cubensis*
 that McKenna associates with cattle-based Goddess cultures throughout the ancient
 world.
 
 The connection to honey is also suggestive. McKenna notes parallels with the
-mushroom cults of the New World, where psychoactive mushrooms are thought of as
+mushroom cults of the New World, where [[ceremonial-shamanic-use-psychoactive-mushrooms]] are thought of as
 small children—"los ninos, the dear sweet little ones," as Maria Sabina called
 them. This "motif of the alchemical children, the elfin denizens of some nearby
 magical continuum, accessed through psilocybin," connects Minoan mushroom religion
@@ -131,7 +131,7 @@ memory for life. It was not until 1964 that Robert Graves suggested a
 hallucinogenic plant was involved. Graves argued that Triptolemus's secret could
 not have been grain agriculture—grain had been cultivated since 7000 B.C., while
 Triptolemus belongs to the late second millennium. "Triptolemus's secret seems
-therefore concerned with hallucinogenic mushrooms," Graves wrote, suggesting the
+therefore concerned with [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]," Graves wrote, suggesting the
 priesthood discovered an alternative easier to handle than *Amanita muscaria*—one
 that could be baked in sacrificial cakes without losing hallucinogenic power.
 
@@ -143,7 +143,6 @@ may have extracted the water-soluble ergot alkaloids while avoiding the toxic
 peptide alkaloids that cause ergotism. This theory elegantly connects grain's
 importance to the harvest festival with the visionary experience that made
 Eleusis powerful for two millennia.
-
 ## See Also
 
 - [[mckenna-minoan-crete-eleusinian-mysteries]]

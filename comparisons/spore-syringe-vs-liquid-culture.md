@@ -4,8 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: comparison
 tags: [comparison]
-sources:
-  sources: []
+sources: []
 ---
 
 # Spore Syringe vs Liquid Culture Comparison

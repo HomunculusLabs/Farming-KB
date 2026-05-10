@@ -139,10 +139,6 @@ The choice of administration method depends on several factors:
 - Need for precise dosing (tinctures and oils preferred)
 
 ## See Also
-
-- [[cannabis-health-pain-management]] — how different [[cannabis-administration-methods-comparison]] affect pain treatment outcomes
-- [[cannabis-health-strains-sativa-indica]] — how [[blesching-cannabis-strain-selection-receptor-targeting]] relates to preferred administration routes
-
-## See Also
-
+- [[cannabis-health-pain-management]]
+- [[cannabis-health-strains-sativa-indica]]
 - [[cannabis-administration-methods-comparison]]

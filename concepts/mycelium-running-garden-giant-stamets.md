@@ -3,7 +3,6 @@ title: "Garden Giant Mushroom (Stropharia rugoso-annulata) in Mycorestoration"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [gardening, mycelium]

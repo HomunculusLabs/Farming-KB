@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Zhao, J.D. & Zhang, X.Q. (2000). "Ganoderma sinense: a new species of lingzhi from China." Mycosystema 19(4): 484-487.
-  - Wang, J. et al. (2012). "Comparison of polysaccharides from [[stamets-reishi-ganoderma-lucidum-cultivation]] and G. sinense." Journal of Pharmaceutical and Biomedical Analysis 59: 114-118.
+  - Wang, J. et al. (2012). "Comparison of polysaccharides from stamets-reishi-ganoderma-lucidum-cultivation and G. sinense." Journal of Pharmaceutical and Biomedical Analysis 59: 114-118.
   - Shi, L. et al. (2015). "Ganoderma sinense polysaccharide: extraction, structure and bioactivity." Carbohydrate Polymers 132: 219-227.
   - Cao, Q.Z. & Lin, Z.B. (2006). "Antitumor and anti-angiogenic activity of Ganoderma lucidum polysaccharides peptide." Acta Pharmacologica Sinica 27(5): 659-665.
   - Chinese Pharmacopoeia (2020). "Lingzhi (Ganoderma lucidum and G. sinense)." China Medical Science Press.

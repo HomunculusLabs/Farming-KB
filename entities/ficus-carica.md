@@ -93,6 +93,10 @@ it a multi-functional garden element.
 
 ## See Also
 
+- [[ficus-religiosa]]
+
+- [[ficus-lyrata]]
+
 - [[food-forest-design]]
 - carob
 - olea europaea

@@ -127,16 +127,6 @@ The minor grains that modern agriculture discarded may be precisely the crops
 needed to rebuild sustainable food systems adapted to local conditions.
 
 ## See Also
-
-- Natural [[natural-farming-principles-fukuoka]]
-- The five-grain food mandala
-- Nutritional density and seed size
-- Japanese traditional agriculture
-
-## See Also
 - [[fukuoka-natural-upland-rice-minor-grains]]
 - [[fukuoka-natural-foods-movement-america]]
-
-## See Also
-
 - [[fukuoka-textdoc-minor-grains-soil-preservation-health-foods]]

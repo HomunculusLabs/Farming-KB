@@ -1,5 +1,5 @@
 ---
-title: Turkey Tail (staycare-trametes-versicolor-bioremediation-applications) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: Turkey Tail (Trametes versicolor) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-Turkey tail is one of the most common mushrooms on Earth, found on every continent except Antarctica. Named for its colorful concentric zones of brown, tan, white, blue, and orange that resemble a wild turkey's tail feathers. It is a bracket polypore that grows on dead hardwood logs and stumps worldwide.
+Turkey tail is one of the most common mushrooms on Earth, found on every continent except Antarctica. Named for its colorful concentric zones of brown, tan, white, blue, and orange that resemble a wild turkey's tail feathers. It is a bracket polypore that grows on dead hardwood logs and stumps worldwide. (see [[turkey-tail-mushroom-cultivation-and-medicinal-properties]]).
 
-Turkey tail is the most extensively researched medicinal mushroom for immune support and cancer adjunct therapy. Its polysaccharide derivatives PSK and PSP are approved pharmaceutical drugs in Japan and China respectively, prescribed alongside conventional cancer treatments.
+Turkey tail is the most extensively researched medicinal mushroom for immune support and cancer adjunct therapy. Its polysaccharide derivatives PSK and PSP are approved pharmaceutical drugs in Japan and China respectively, prescribed alongside conventional cancer treatments. (see [[medicinal-mushroom-guide-oyster]]).
 
 ## Key Compounds
 
@@ -47,7 +47,7 @@ Turkey tail is the most extensively researched medicinal mushroom for immune sup
 Turkey tail is the best-evidenced medicinal mushroom for cancer support:
 
 ### Clinical Evidence
-- PSK has been studied in hundreds of [[mushroom-cancer-clinical-trials-overview]], primarily in Japan.
+- PSK has been studied in hundreds of clinical trials, primarily in Japan.
 - Meta-analyses show improved survival rates in gastric, colorectal, breast, and lung cancers when PSK is added to conventional chemotherapy.
 - 5-year survival improvement of 5-15% in various cancer types.
 - PSP shows similar results in Chinese clinical trials.
@@ -59,7 +59,7 @@ Turkey tail is the best-evidenced medicinal mushroom for cancer support:
 - Improves quality of life during cancer treatment.
 
 ### Important Caveats
-- Most [[hofmann-lsd-clinical-research-early-studies]] uses isolated PSK or PSP, not whole mushroom extracts.
+- Most clinical research uses isolated PSK or PSP, not whole mushroom extracts.
 - Supplement quality varies enormously — few consumer products contain clinically relevant PSK/PSP levels.
 - Consult oncologist before using turkey tail alongside cancer treatment.
 
@@ -69,7 +69,7 @@ Turkey tail is a broad-spectrum immunomodulator:
 
 1. **Innate immunity:** Activates macrophages, neutrophils, and NK cells. Increases phagocytic activity.
 2. **Adaptive immunity:** Enhances T-cell and B-cell responses. Promotes antibody production.
-3. **Gut immune health:** Acts as a prebiotic, supporting beneficial gut bacteria that produce short-chain [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (SCFAs). SCFAs in turn support immune regulation.
+3. **Gut immune health:** Acts as a prebiotic, supporting beneficial gut bacteria that produce short-chain fatty acids (SCFAs). SCFAs in turn support immune regulation.
 4. **Anti-inflammatory:** Reduces excessive inflammatory cytokine production (IL-6, TNF-alpha) while maintaining pathogen-fighting capacity.
 5. **Antiviral activity:** Inhibits viral replication of HPV, influenza, and herpes in laboratory studies. Used as an adjunct in HPV treatment protocols.
 
@@ -131,7 +131,7 @@ Turkey tail can be cultivated but is often wild-harvested due to abundance:
 
 - Extremely safe with long history of use as food and medicine.
 - No significant toxicity in animal or human studies even at high doses.
-- May enhance immune function — caution with [[cannabis-autoimmune-conditions-detailed]] (lupus, MS, rheumatoid arthritis).
+- May enhance immune function — caution with autoimmune conditions (lupus, MS, rheumatoid arthritis).
 - Possible interactions with immunosuppressant medications.
 - Safe during most chemotherapy regimens but always consult oncologist.
 

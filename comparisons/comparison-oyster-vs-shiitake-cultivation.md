@@ -5,7 +5,6 @@ tags: [comparison, mushroom-cultivation, oyster, shiitake, fungi]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: comparison
 ---

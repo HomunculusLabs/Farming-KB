@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Steiner, R. (1924). *Spiritual Foundations for the Renewal of Agriculture* (Agricultural Course). Rudolf Steiner Press.
   - Proctor, P. (1989). *Grasp the Nettle*. Bio-Dynamic Farming and Gardening Association.
-  - Koepf, H., Pettersson, B. D., & Schaumann, W. (1990). *[[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]]: An Introduction*. Hawthorn Press.
+  - Koepf, H., Pettersson, B. D., & Schaumann, W. (1990). *query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic: An Introduction*. Hawthorn Press.
   - Graf, V. (2010). The Biodynamic Preparations in Practice. *Journal of Organic Systems*, 5(1), 15-28.
   - Turinek, M., et al. (2009). Biodynamics — is it organic plus? *Journal of Sustainable Agriculture*, 33(1), 56-73.
   - Spieß, H., et al. (2011). Enhanced soil organic matter in long-term biodynamic farming. *Organic Agriculture*, 1(4), 219-233.

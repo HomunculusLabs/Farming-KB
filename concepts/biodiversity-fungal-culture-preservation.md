@@ -123,6 +123,8 @@ results recorded alongside preservation dates and replicate vial counts.
 
 ## See Also
 
+- [[mushroom-spore-printing-syringe-preparation-and-preservation]]
+
 - [[fungal-biodiversity-herbarium-collections]]
 - biodiversity-fungi-conservation
 - [[strain-isolation-from-wild-specimens]]

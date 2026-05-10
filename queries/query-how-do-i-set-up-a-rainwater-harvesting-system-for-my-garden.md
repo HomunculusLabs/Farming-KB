@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [query, rainwater-harvesting, water-management, permaculture, irrigation, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: query
 ---
 # How Do I Set Up a Rainwater Harvesting System for My Garden?

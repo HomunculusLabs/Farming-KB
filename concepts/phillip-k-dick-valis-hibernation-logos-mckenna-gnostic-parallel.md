@@ -136,7 +136,6 @@ McKenna noted that these three developments — the rediscovery of Gnostic texts
 the emergence of [[controlled-substances-act-and-psychedelic-research]], and the UFO phenomenon — may represent
 the simultaneous reactivation of an information symbiote that had been dormant
 since the suppression of the ancient mystery traditions.
-
 ## See Also
 
 - [[dmt-entity-encounters-and-the-logos]]

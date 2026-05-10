@@ -127,15 +127,10 @@ plastic surface is also non-porous and resistant to disinfectant
 absorption, unlike cardboard.
 
 ## See Also
-
-- [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]](mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison.md)
-- [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] Lysol Flame Sterilization](flammability-hazard-alcohol-lysol-flame-sterilization-mycology.md)
-- [Jar Preparation and Sterilization](jar-preparation-and-sterilization.md)
-- [[sterilization-techniques-mushroom-cultivation]] Cultivation](sterilization-techniques-mushroom-cultivation.md)
-
-## See Also
-
+- [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]
+- [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
+- [[sterilization-techniques-mushroom-cultivation]]
 - [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-contamination-troubleshooting]]
-- [[kh2po4-phosphate-supplementation-mushroom-substrates]] grain spawn bulk
+- [[kh2po4-phosphate-supplementation-mushroom-substrates]]
 - [[mushroom-fruiting-body-morphogenesis]]

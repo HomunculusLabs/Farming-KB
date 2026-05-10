@@ -14,7 +14,7 @@ sources:
   - Rock, C.K. (1998). "Ecology and Reproductive Biology of Allium tricoccum Ait." M.S. Thesis, University of Tennessee.
   - Pritts, M.P. & Wargo, J.M. (2002). "Ramp (Allium tricoccum) Riches: A Native Edible Plant at Risk." HortTechnology, 12(3), 440–442.
   - NatureServe (2023). "Allium tricoccum — Element Conservation Status Report." natureserve.org.
-  - Burkhart, E.P. & Jacobson, M.G. (2006). "Forest Farming of Ramps (Allium tricoccum)." In: Proceedings of the [[growing-gourmet-north-american-reishi-species]] Agroforestry Conference.
+  - Burkhart, E.P. & Jacobson, M.G. (2006). "Forest Farming of Ramps (Allium tricoccum)." In: Proceedings of the growing-gourmet-north-american-reishi-species Agroforestry Conference.
 ---
 
 ## Overview

@@ -4,15 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [conservation, wildlife, species, plants, ecology, biodiversity]
-sources:
-  sources: []
+sources: []
 ---
 
 # Bird Habitat Creation
 
 ## Overview
 
-Creating bird habitat on the homestead provides ecological benefits including insect [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], pollination, seed dispersal, and ecosystem monitoring. Birds are also indicators of environmental health—their presence and diversity reflect the quality of habitat, water, and air. A thoughtfully designed homestead can support 50-100+ bird species through the year by providing food, water, shelter, and nesting sites across all seasons. This connects to [[pollinator-conservation]], [[pollinator-conservation|conservation]], and [[invasive-species-management]] practices.
+Creating bird habitat on the homestead provides ecological benefits including insect pest control, pollination, seed dispersal, and ecosystem monitoring. Birds are also indicators of environmental health—their presence and diversity reflect the quality of habitat, water, and air. A thoughtfully designed homestead can support 50-100+ bird species through the year by providing food, water, shelter, and nesting sites across all seasons. This connects to [[pollinator-conservation]], [[pollinator-conservation|conservation]], and [[invasive-species-management]] practices.
 
 ## Habitat Requirements
 
@@ -31,7 +30,7 @@ Birds use different layers of vegetation:
 - **Mid-story**: Saplings and tall shrubs for flycatchers, thrushes, and catbirds
 - **Shrub layer**: Dense shrubs for sparrows, thrashers, and cardinals
 - **Herbaceous layer**: Grasses and wildflowers for ground-nesting birds and foraging insectivores
-- **Ground layer**: [[dighton-fungal-decomposition-leaf-litter-dynamics]], bare soil, and moss for thrushes, towhees, and sparrows
+- **Ground layer**: Leaf litter, bare soil, and moss for thrushes, towhees, and sparrows
 
 ## Nest Boxes
 
@@ -53,7 +52,7 @@ Different bird species require different nest box dimensions:
 
 ### Construction Guidelines
 - **Wood**: Use untreated 1-inch lumber (cedar, pine, or fir); avoid plywood for exterior surfaces
-- **Ventilation**: Drill small holes near the top of the sides for [[stamets-growing-room-air-circulation-co2-management]]
+- **Ventilation**: Drill small holes near the top of the sides for air circulation
 - **Drainage**: Drill small drainage holes in the floor corners
 - **Access**: Hinged or removable side panel for cleaning
 - **Interior**: Rough interior surfaces or grooves below the entrance hole for fledglings to climb
@@ -122,7 +121,7 @@ Different feeders attract different birds:
 - Connects to [[amphibian-habitat-creation]] for dual wildlife benefit
 
 ### Misters and Drippers
-- **Misters**: Fine [[ingham-spray-nozzles-equipment-compost-tea]] attached to garden hoses; attract hummingbirds and warblers that prefer leaf bathing
+- **Misters**: Fine spray nozzles attached to garden hoses; attract hummingbirds and warblers that prefer leaf bathing
 - **Drippers**: Simple devices that drip water into birdbaths or ponds; attract birds with sound and motion
 
 ## Native Plants for Bird Habitat
@@ -148,3 +147,4 @@ Different feeders attract different birds:
 - **Native sunflowers (Helianthus spp.)**: Seeds for finches, sparrows, juncos
 - **Goldenrod (Solidago spp.)**: Seeds for winter birds; host for many insect species
 - **Asters (Symphyotrichum spp.)**: Seeds; late-fall nectar for migrating butterflies
+- **Native grasses**: Seeds for sparrows; cover for ground-nesting birds; see [[prairie-ecology]]

@@ -4,8 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mycology, medicine, mushrooms]
-sources:
-  sources: []
+sources: []
 ---
 # Medicinal Mushroom Antimicrobial Properties Medicinal mushroom extracts demonstrate broad-spectrum antimicrobial activity through two complementary mechanisms: direct antibiotic action of specific secondary metabolites, and indirect immune-mediated antimicrobial effects through [[lentinan-pre-clinical-antitumour-models]]** — when used with AZT, suppressed surface expression of HIV on T-cells more effectively than AZT alone. Both lentinan and sulfated lentinan exhibited potent anti-HIV activity, inhibiting viral replication and cell fusion
 - **Sulfated schizophyllan** — displayed strong anti-HIV activity (though antitumour effect was reduced or lost by sulfation)

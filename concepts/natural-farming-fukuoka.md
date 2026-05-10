@@ -1,6 +1,6 @@
 ---
 
-title: Fukuoka's comparison-natural-farming-vs-permaculture
+title: Fukuoka's Natural Farming
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -20,8 +20,7 @@ tags:
 - culture-media
 
 sources:
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+- raw/papers/one-straw-revolution-masanobu-fukuoka.md
 - raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 - raw/papers/masanobu-fukuoka-fukuoka.md
@@ -48,10 +47,10 @@ Fukuoka distilled his approach into four principles:
 Plowing disturbs the soil ecosystem -- earthworms, mycorrhizal fungi, and beneficial microbes are destroyed. Natural soil structure, built by roots and soil organisms over years, is far superior to anything created by mechanical disturbance. Fukuoka observed that nature never plows, yet forests and meadows thrive. See [[no-till-gardening-method]] for practical methods.
 
 ### 2. No Chemical Fertilizer
-[[cervantes-chemical-fertilizers-guide]] disrupt the natural [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] between plants, soil organisms, and organic matter. When you add soluble nitrogen, plants become dependent on external inputs and stop forming relationships with soil microbes. Fukuoka used only [[cover-cropping-guide]] with legumes (clover, vetch) and returned all plant residues to the field. Soil fertility comes from the living soil food web -- bacteria, fungi, earthworms, and decomposition of organic matter. This aligns closely with [[cannabis-living-soil-guide]] philosophy.
+Chemical fertilizers disrupt the natural nutrient cycling between plants, soil organisms, and organic matter. When you add soluble nitrogen, plants become dependent on external inputs and stop forming relationships with soil microbes. Fukuoka used only [[cover-cropping-guide]] with legumes (clover, vetch) and returned all plant residues to the field. Soil fertility comes from the living soil food web -- bacteria, fungi, earthworms, and decomposition of organic matter. This aligns closely with [[cannabis-living-soil-guide]] philosophy.
 
 ### 3. No Pesticides or Herbicides
-Chemical pesticides kill [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and soil life along with target pests. Fukuoka's approach was to build balanced ecosystems where pests are controlled by natural predators. He used:
+Chemical pesticides kill beneficial insects and soil life along with target pests. Fukuoka's approach was to build balanced ecosystems where pests are controlled by natural predators. He used:
 - **Duck-rice farming**: Ducks eat insects and weeds in rice paddies while fertilizing the water
 - **Diverse plantings**: Mixed crops resist pest outbreaks better than monocultures
 - **Healthy soil**: Plants grown in living soil are more pest-resistant
@@ -127,24 +126,25 @@ See [[natural-farming-vs-organic-vs-conventional]] for the three-way comparison.
 
 Fukuoka's natural farming shares philosophical roots with Korean Natural Farming (KNF). Both emphasize:
 - Living soil as the foundation of plant health
-- [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] and [[beneficial-indigenous-microorganisms-bim]]
+- Fermented plant extracts and indigenous microorganisms
 - Elimination of chemical inputs
 - Observation over intervention
 - Closed-loop nutrient cycling
 
 However, KNF (developed by Cho Han-Kyu) is more interventionist -- it uses specific fermented preparations (FPJ, LAB, OHN) to support plant growth, while Fukuoka aimed for the most minimal intervention possible.
-## Related Pages
-- [[one-straw-revolution-guide]] — Complete deep dive into The One-Straw Revolution
-- [[natural-way-of-farming-guide]] — Complete deep dive into The Natural Way of Farming
-- [[fukuoka-no-prune-fruit-tree-method]] — Detailed orchard no-pruning technique
-- [[fukuoka-soil-building-method]] — Soil restoration from barren land
-- [[no-till-gardening-method]]
-- [[cover-cropping-guide]]
-- [[permaculture-principles]]
-- [[cannabis-living-soil-guide]]
-- [[companion-planting-reference]]
-- [[fukuoka-philosophy-in-practice]] — deep philosophy dive
-- [[natural-farming-seed-balls]] — clay pellet technique
-- [[natural-farming-vs-organic-vs-conventional]] — three-way comparison
-- [[orchard-management]]
-- [[knf-preparations]]
+
+## Orchard Management
+
+Fukuoka's hilltop citrus orchard demonstrated natural farming principles for tree crops:
+
+- **No pruning**: Trees grow in natural form; branches don't tangle, sunlight reaches every leaf, and trees bear fully each year rather than alternating
+- **Chickens range free**: They eat insects, scratch the soil, and deposit manure beneath the trees
+- **Semi-wild vegetables**: Grow in clover beneath fruit trees. Scatter seeds of daikon, turnip, garlic, and legumes among the weeds. Left to reseed, they produce vigorous hybrids.
+- **No spraying**: Balanced ecosystem with ground cover and chickens controls pests
+- **No fertilizer**: Clover and returned organic matter build soil. See [[orchard-management]].
+
+## Semi-Wild Vegetable Cultivation
+
+Fukuoka scattered vegetable seed on unused land -- orchards, levees, open fields -- mixed with clover:
+
+- **Timing**: Sow autumn vegetables when summer weeds fade but before winter weeds germinate. Sow spring vegetables after winter weeds pass but before summer weeds emerge.

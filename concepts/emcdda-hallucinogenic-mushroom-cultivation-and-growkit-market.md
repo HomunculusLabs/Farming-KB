@@ -139,11 +139,8 @@ One site (allsalvia.co.uk) was "sold out" in July 2005 with a notice that
 growkits were about to become Class A controlled drugs. The Irish online
 headshop THC stopped offering mushroom products from January 2006. Despite
 legal restrictions, spore prints and cultivation information remained
-## See Also
 
+## See Also
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
-
-## See Also
-
 - [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]]

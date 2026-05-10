@@ -9,11 +9,11 @@ sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 
 ## Ganoderma lucidum (Reishi / Lingzhi) — Medicinal Research Summary
 
-Reishi (Ganoderma lucidum) is the most revered [[gourmet-medicinal-mushroom-casing-layer-techniques]] in Asian herbal medicine, known as "Lingzhi" in Chinese ("spiritual mushroom") and "Mannentake" in Japanese ("10,000-year mushroom"). It has been used medicinally for over 2,000 years in China, Korea, and Japan.
+Reishi (Ganoderma lucidum) is the most revered medicinal mushroom in Asian herbal medicine, known as "Lingzhi" in Chinese ("spiritual mushroom") and "Mannentake" in Japanese ("10,000-year mushroom"). It has been used medicinally for over 2,000 years in China, Korea, and Japan.
 
 ### Active Compounds
 
-**Polysaccharides** (primarily from [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] and mycelium):
+**Polysaccharides** (primarily from fruiting body and mycelium):
 - Beta-1,3/1,6-glucans — immunomodulatory, anti-tumor
 - Heteropolysaccharides with various sugar compositions
 
@@ -23,14 +23,14 @@ Reishi (Ganoderma lucidum) is the most revered [[gourmet-medicinal-mushroom-casi
 - **Ganoderiol**: additional triterpene class
 - Responsible for the characteristic bitter taste
 
-**Other**: nucleotides, sterols, [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]], proteins, peptides, amino acids
+**Other**: nucleotides, sterols, fatty acids, proteins, peptides, amino acids
 
 ### Pharmacological Activities
 
 **Immunomodulation**:
 - Enhances NK cell activity, macrophage function, and dendritic cell maturation
 - Modulates cytokine production: increases IL-2, interferon-gamma; can reduce excessive IL-6 and TNF-alpha (anti-inflammatory effect)
-- Dual-directional immune regulation: stimulates immune response in immunocompromised states while calming excessive immune activity in [[cannabis-autoimmune-conditions-detailed]]
+- Dual-directional immune regulation: stimulates immune response in immunocompromised states while calming excessive immune activity in autoimmune conditions
 
 **Anti-tumor**:
 - Polysaccharides activate immune-mediated tumor cell killing
@@ -50,7 +50,7 @@ Reishi (Ganoderma lucidum) is the most revered [[gourmet-medicinal-mushroom-casi
 - Demonstrates hepatoprotective activity (protects liver)
 
 **Anti-oxidant**:
-- Scavenges free radicals, reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers
+- Scavenges free radicals, reduces oxidative stress markers
 - Protects against radiation-induced damage
 
 ### Clinical Evidence

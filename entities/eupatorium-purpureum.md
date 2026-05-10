@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Moore, M. (1993). Medicinal Plants of the Pacific West. Red Crane Books, Santa Fe.
   - Fernald, M.L. (1950). Gray's Manual of Botany, 8th edition. American Book Company.
-  - Ernst, W.R. (1962). "The genus Eupatorium in the [[growing-gourmet-north-american-reishi-species]] flora." Ph.D. dissertation, University of Pennsylvania.
+  - Ernst, W.R. (1962). "The genus Eupatorium in the growing-gourmet-north-american-reishi-species flora." Ph.D. dissertation, University of Pennsylvania.
   - Foster, S. & Duke, J.A. (1990). A Field Guide to Medicinal Plants. Houghton Mifflin.
   - Cullina, W. (2000). The New England Wild Flower Society Guide to Growing and Propagating Wildflowers. Houghton Mifflin.
 ---

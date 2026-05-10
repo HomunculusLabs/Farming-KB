@@ -11,17 +11,17 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Apart from compost and manure, many organic materials can be dug into soil or used as mulch to help improve drainage or water-holding capacity, depending on the soil type. These materials should be looked upon primarily as soil conditioners; although some contain plant nutrients, they are not present in large enough quantities to replace fertilizers.
+Apart from compost and manure, many organic materials can be dug into soil or used as mulch to help improve drainage or water-holding capacity, depending on the soil type. These materials should be looked upon primarily as soil conditioners; although some contain plant nutrients, they are not present in large enough quantities to replace fertilizers. (see [[hamilton-alternative-soil-conditioners]]).
 
 ## Conditioner Types
 
 ### Spent Mushroom Compost
 
-- **Source:** Waste product of the mushroom-growing industry ([[falconer-horse-manure-varieties]] + peat/chalk, with a [[sustaining-mushroom-crop-flushing-harvesting]] grown in it)
+- **Source:** Waste product of the mushroom-growing industry (horse manure + peat/chalk, with a mushroom crop grown in it)
 - **Nutrient content:** N 0.71% | P 0.3% | K 0.26% | Trace elements: Full range
 - **Coverage:** 2-3lb (1-1.5kg) per sq yard/meter
 - Slightly alkaline (contains ground chalk) — never use on acid-loving plants (rhododendrons, azaleas, heathers)
-- Leave for at least a year before use to leach out chemical insecticides and harbor pests ([[query-how-to-control-fungus-gnats-organically]])
+- Leave for at least a year before use to leach out chemical insecticides and harbor pests (fungus gnats)
 - After a year: consistency of coarse peat
 - Mushroom growers normally add gypsum, which helps bind clay particles — ideal for heavy clay soils
 - Use sparingly around plants (can badly scorch young shoots)
@@ -64,9 +64,9 @@ Apart from compost and manure, many organic materials can be dug into soil or us
 
 - **Nutrient content:** N -- | P -- | K -- | Trace elements: --
 - Normally sold partly composted; contains virtually no nutrients
-- **Best used as mulch only** — digging it in can cause severe nitrogen deficiency (lignin takes a long time to [[query-can-fungi-break-down-plastic-pollution]], bacteria consume nitrogen in the process)
+- **Best used as mulch only** — digging it in can cause severe nitrogen deficiency (lignin takes a long time to break down, bacteria consume nitrogen in the process)
 - Very expensive; very hard material in virtually unrotted state
-- Excellent mulch for organic [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
+- Excellent mulch for organic weed control
 - **Coverage:** 2-3in (5-7cm) layer as weed suppressant in ornamental borders
 
 ### Green Compost

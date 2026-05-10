@@ -102,12 +102,9 @@ water, potentially replacing manure input. Yellow attracts insects,
 but Mollison cautions (via Dan Hemenway's note) that insects use
 prismatic eyes seeing spectral yellow as a band, not the red-plus-
 green mixture humans see as yellow. Spectral yellow traps must be
-## See Also
 
+## See Also
+- [[earthmoving-tools-permaculture-mollison]]
 - [[peyote-harvesting-sustainability]]
-
 - [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]
-
-## See Also
-
 - [[bill-mollison-permaculture-a-designers-manual-water-harvesting-and-earthworks]]

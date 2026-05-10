@@ -131,6 +131,14 @@ Sage has an extensive history of medicinal use spanning over 2,000 years, docume
 
 ## See Also
 
+- [[veronica-officinalis]]
+
+- [[pulmonaria-officinalis]]
+
+- [[corallina-officinalis]]
+
+- [[asparagus-officinalis]]
+
 - [[salvia-divinorum|Salvia divinorum]]
 - [[lavandula-angustifolia|Lavandula angustifolia]]
 - [[thymus-vulgaris-entity|Thymus vulgaris]]

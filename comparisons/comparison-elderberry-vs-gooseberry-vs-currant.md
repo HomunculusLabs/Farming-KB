@@ -139,11 +139,8 @@ fruit on 2–3 year old spurs; prune less aggressively, similar to gooseberries.
 |---|---|
 | Fastest yield & highest volume | Elderberry |
 | Best for partial shade | Currant (red/white) |
-## See Also
 
+## See Also
 - [[pruning-fruit-trees-and-bushes]]
 - [[fruit-tree-propagation]]
-
-## See Also
-
 - [[comparison-gooseberry-vs-currant]]

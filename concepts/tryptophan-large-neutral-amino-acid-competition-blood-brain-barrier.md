@@ -6,8 +6,8 @@ The transport of tryptophan across the blood-brain barrier (BBB) is governed by 
 large neutral amino acid (LNAA) transporter system, also known as the L-type amino
 acid transporter 1 (LAT1). This competitive transport mechanism has profound
 implications for understanding how dietary factors, metabolic states, and
-pharmacological interventions influence brain serotonin synthesis, and by extension,
-the pharmacological effects of psychedelic tryptamine compounds. The principle that
+pharmacological interventions influence brain [[serotonin]] synthesis, and by extension,
+the pharmacological effects of psychedelic [[tryptamine]] compounds. The principle that
 tryptophan competes with other large neutral amino acids for a shared transport
 mechanism is one of the most well-established concepts in neurochemical pharmacology.
 
@@ -71,7 +71,7 @@ protocols, where some clinicians recommend reducing dietary protein intake in th
 days preceding a session to potentially increase the tryptophan-to-LNAA ratio.
 
 The competition mechanism also has implications for understanding pharmacokinetic
-differences between consuming psilocybin as whole mushrooms versus isolated
+differences between consuming [[psilocybin]] as whole mushrooms versus isolated
 compounds. Mushrooms contain a complex mixture of amino acids and other compounds
 that could theoretically influence the LNAA transport landscape, potentially
 contributing to differences between natural and synthetic psilocybin preparations.

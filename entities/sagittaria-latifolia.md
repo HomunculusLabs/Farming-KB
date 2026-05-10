@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "Sculthorpe, C.D. (1967). The Biology of Aquatic Vascular Plants. Edward Arnold."
-  - "Moerman, D.E. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press."
+  - "Moerman, D.E. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press."
   - "Kubin, W. & Melzer, A. (1996). \"Aquatic Macrophytes as Bioindicators.\" Archiv für Hydrobiologie, 135(3), 389-407."
   - "Yeo, R.R. (1965). \"Life History of Sagittaria latifolia.\" Ecology, 46(3), 444-448."
 ---
@@ -97,6 +97,8 @@ Propagation from seed requires cold, wet stratification for 60–90 days. Seed g
 Container culture in aquatic plant baskets allows control of the plant's aggressive spread. Regular division every 2–3 years prevents overcrowding and maintains vigor. Hardy to USDA zones 3–10, the species is one of the most cold-tolerant aquatic ornamentals available.
 
 ## See Also
+
+- [[sagittaria-sagittifolia]]
 
 - [[phragmites-australis]] — Common reed, dominant grass in freshwater marshes
 - nelumbo-nucifera — Sacred lotus, aquatic plant with edible tubers and seeds

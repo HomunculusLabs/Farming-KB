@@ -136,7 +136,6 @@ Meta-analyses of companion planting research show:
 ### Seasonal Considerations
 - **Spring**: Plant peas with radishes and spinach; interplant lettuce with slower-growing brassicas
 - **Summer**: Tomatoes with basil and marigolds; corn-bean-squash trio; cucumbers with sunflowers
-- **Autumn**: Cover crops of clover, vetch, and rye for winter soil protection and nitrogen fixation
 ## See Also
 
 - [[phacelia-tanacetifolia]]

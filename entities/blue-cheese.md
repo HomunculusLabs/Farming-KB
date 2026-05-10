@@ -127,10 +127,6 @@ Less common: dizziness (higher doses), mild paranoia in THC-sensitive individual
 headache on comedown. Contraindicated for daytime use in most contexts.
 
 ## See Also
-
-- [[cannabis-blue-dream]] — Blueberry lineage cousin with sativa-dominant profile
-- [[girl-scout-cookies]] — contemporary high-THC strain with pungent aroma
-
-## See Also
-
+- [[blue-dream]]
+- [[girl-scout-cookies]]
 - [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

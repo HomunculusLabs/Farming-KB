@@ -120,6 +120,9 @@ Argentina).
 
 ## See Also
 
+- [[psilocybe-aucklandii]]
+- [[psilocybe-eucalypta]]
+
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
 - [[allen-psilocybin-potency-australian-species]]
 - allen-magic-mushrooms-australia-newzealand-species-guide

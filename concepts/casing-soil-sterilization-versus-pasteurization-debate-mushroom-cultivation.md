@@ -26,7 +26,7 @@ sterilization of casing soil:
 ### Rationale for Pasteurization
 1. **Beneficial microorganisms**: The casing layer naturally hosts bacteria such as
    *Pseudomonas putida* and actinomycetes that stimulate fruiting body initiation
-   in many mushroom species. These bacteria produce volatile [[plant-volatile-organic-compounds-and-chemical-ecology]]
+   in many mushroom species. These bacteria produce volatile [[plant-communication-volatile-organic-compounds]]
    enzymes that trigger the developmental switch from vegetative mycelium to
    reproductive fruiting.
 2. **Biological buffering**: A living [[cannabis-cultivar-microbial-community-effects]] in the casing competes

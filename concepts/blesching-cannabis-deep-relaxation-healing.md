@@ -19,7 +19,7 @@ The first section of Chapter V in The [[blesching-cannabis-health-index-autoimmu
 
 These changes are particularly important for patients with cardiovascular illnesses and those suffering from adult-onset [[anandamide-aea]], the endogenous cannabinoid produced by nerve cells, contributes to the relaxation response. Anandamide has been shown to induce the widening of coronary arteries (which supply the heart), thus reducing hypertension. This vasodilatory effect potentially benefits numerous patient populations with cardiovascular conditions.
 
-If these findings are confirmed in human trials, it would suggest that patients can learn to actively direct a relaxation response by engaging the [[cannabis-health-endo-cannabinoid-system]] with plant cannabinoids may deepen the response
+If these findings are confirmed in human trials, it would suggest that patients can learn to actively direct a relaxation response by engaging the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] with plant cannabinoids may deepen the response
 
 ## Cannabis Strain Selection for Deep Relaxation
 

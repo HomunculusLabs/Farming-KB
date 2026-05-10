@@ -141,7 +141,6 @@ previously available to practitioners working within single disciplines.
 For those seeking to deepen their knowledge, recommended resources
 include primary research literature, established reference works,
 practitioner communities, and hands-on experimentation under guided
-conditions. The combination of theoretical study and practical experience
 ## See Also
 
 - [[solomon-root-crops-growing]]

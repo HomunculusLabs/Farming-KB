@@ -40,6 +40,8 @@ demonstrates its value in succession-based forest establishment.
 
 ## See Also
 
+- [[lespedeza-hirta]]
+
 - [[lespedeza-cuneata]]
 
 - [[robinia-pseudoacacia]]

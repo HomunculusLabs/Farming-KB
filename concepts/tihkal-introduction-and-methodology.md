@@ -40,7 +40,7 @@ Examples: DMT = N,N-Dimethyl-T; 5-MeO-DMT = 5-Methoxy-N,N-dimethyl-T; 4-HO-DMT =
 The compounds cataloged in TIHKAL illustrate several structure-activity relationships:
 
 - The basic tryptamine skeleton (indole ring + ethylamine side chain) is the foundation
-- Substitution at the 4-position (hydroxy, as in psilocin) produces [[tihkal-oral-activity-mao-inhibition]]
+- Substitution at the 4-position (hydroxy, as in psilocin) produces oral activity
 - Substitution at the 5-position (methoxy, as in 5-MeO-DMT) increases potency when smoked but not orally (requires MAOI)
 - N,N-dialkyl groups longer than propyl decrease activity
 - The alpha-carbon adjacent to the amine can be substituted (alpha-methyltryptamines) extending duration significantly
@@ -55,11 +55,11 @@ Each entry follows a consistent format:
 3. Dosage ranges by route of administration
 4. Duration of effects
 5. Qualitative comments from human trials (first-person experience reports)
-6. Extensions and commentary — pharmacology, [[brassinosteroid-natural-occurrence-plant-kingdoms]], historical context, comparative analysis
+6. Extensions and commentary — pharmacology, natural occurrence, historical context, comparative analysis
 
 ## Pharmacological Context
 
-Tryptamines primarily act as serotonin [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], particularly at 5-HT2A and 5-HT1A receptors. The Shulgin compounds span a wide range of receptor affinities and functional selectivities, from the extremely potent lysergamides (microgram range) to the simpler tryptamines (milligram range).
+Tryptamines primarily act as serotonin receptor agonists, particularly at 5-HT2A and 5-HT1A receptors. The Shulgin compounds span a wide range of receptor affinities and functional selectivities, from the extremely potent lysergamides (microgram range) to the simpler tryptamines (milligram range).
 
 ## See Also
 
@@ -68,21 +68,3 @@ Tryptamines primarily act as serotonin [[cannabinoid-receptor-agonists-antagonis
 - [[psilocin-and-psilocybin-chemistry]]
 - [[5-meo-dmt-compound-profile]]
 - [[ayahuasca-pharmacology]]
-## Practical Considerations
-
-Successful implementation of TIHKAL — Introduction and Methodology requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

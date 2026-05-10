@@ -71,7 +71,7 @@ As a psilocybin-containing species, *P. allenii* is illegal to possess, cultivat
 
 ## See Also
 
-- [[psilocybe-azurescens]] — the most potent known [[emcdda-psilocybin-mushroom-dose-and-effects]], coastal Oregon
+- [[psilocybe-azurescens]] — the most potent known [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]], coastal Oregon
 - [[psilocybe-cubensis]] — the most commonly cultivated psilocybin mushroom
 - [[psilocybin]] — the primary psychoactive compound
 ## Practical Considerations

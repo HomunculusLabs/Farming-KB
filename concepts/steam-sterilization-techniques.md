@@ -134,3 +134,7 @@ steel tools during sterile work. The combination of denatured alcohol,
 eyedropper, and tequila shotglass forms a portable sterile field that
 requires no specialized equipment beyond what is already in the PF TEK
 [[oss-oeric-equipment-and-materials-list]].
+
+## See Also
+
+- [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]

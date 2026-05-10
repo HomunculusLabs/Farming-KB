@@ -1,5 +1,5 @@
 ---
-title: [[comparison-kelp-meal-vs-rock-dust]] Fertilizer
+title: Kelp Meal Fertilizer
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive, it is better balanced and its nutrients are in slow-release form. It contains 60 to 70 different chemical elements, including the complete range of [[teaming-with-nutrients-micronutrients-and-trace-elements]].
+Kelp meal is an alternative to blood, fish, and bone meal. Though more expensive, it is better balanced and its nutrients are in slow-release form. It contains 60 to 70 different chemical elements, including the complete range of trace elements. (see [[hamilton-alternative-soil-conditioners]]).
 
 ## Nutrient Content
 
@@ -56,28 +56,10 @@ If you live near the ocean, fresh kelp (seaweed) washed up on the beach provides
 | Fish meal | 9% | 2.5% | -- | -- |
 | Dried blood | 12-14% | Small | -- | -- |
 
-Kelp meal's key advantage is its complete trace element profile and balanced slow-release nutrition.
+Kelp meal's key advantage is its complete trace element profile and balanced slow-release nutrition. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
 
 ## Related
 
 - [[trace-elements-in-soil]] — preventing and treating trace element deficiencies
 - [[homemade-liquid-fertilizer]] — liquid kelp fertilizer as a foliar spray
 - [[soil-conditioners-guide]] — kelp as a soil conditioner
-## Practical Considerations
-
-Successful implementation of Kelp Meal Fertilizer requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

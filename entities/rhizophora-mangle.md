@@ -13,7 +13,7 @@ sources:
   - Tomlinson, P.B. (1986). "The Botany of Mangroves." Cambridge University Press.
   - Spalding, M., Kainuma, M. & Collins, L. (2010). "World Atlas of Mangroves." Earthscan.
   - Duke, N.C. (2006). "Australia's Mangroves: The Authoritative Guide." University of Queensland.
-  - Farnsworth, E.J. & Ellison, A.M. (1997). "Global patterns of mangrove [[mollison-wet-tropical-forest-structure-and-polyculture]] and function." Biotropica, 29(2), 195–212.
+  - Farnsworth, E.J. & Ellison, A.M. (1997). "Global patterns of mangrove mollison-wet-tropical-forest-structure-and-polyculture and function." Biotropica, 29(2), 195–212.
   - Alongi, D.M. (2009). "The Energetics of Mangrove Forests." Springer.
 ---
 

@@ -4,8 +4,7 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungal Bioreactor Types for Bioremediation Fungal bioreactors provide engineered systems for applying mycoremediation at scale, from laboratory treatability studies to industrial wastewater treatment and soil remediation. Reactor design must account for the unique growth characteristics of filamentous fungi, including mycelial morphology, pellet formation, oxygen requirements, and enzyme production kinetics. ## Batch Stirred-Tank Reactors The simplest and earliest bioreactor configuration used for fungal remediation studies. The entire volume of contaminated solution is treated as a single batch with fungal inoculum. Key considerations include: - Retention times of 2-5 minutes for rapid biosorption processes - Polyelectrolyte addition for biomass flocculation and settling - Continuous operation achieved through sequential batch processing - Suitable for [[fungal-bioreactors-for-phenol-and-chlorophenol-removal]]
 - Membrane fouling by fungal mycelium is a major operational challenge

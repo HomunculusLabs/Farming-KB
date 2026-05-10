@@ -79,7 +79,7 @@ Insulation is critical — metal buses conduct heat and cold aggressively. Witho
 - Cost: $500-1,000
 
 **Havelock Wool (Natural Option)**
-- Sheep's [[mollison-designers-wool-insulation-and-natural-textiles]] batts
+- Sheep's wool insulation batts
 - Naturally manages moisture, fire-resistant
 - Cost: $2,000-3,000
 
@@ -141,9 +141,10 @@ Build a stud wall framework inside the bus:
 - Mount propane tanks in a ventilated exterior compartment
 - Run copper or CSST flexible gas line to appliances
 - Install propane regulator, shutoff valve, and leak detector
-## See Also
+- Appliances: cooktop, oven, heater, water heater, refrigerator
 
-- [[tiny-house-on-wheels]]
-- [[van-life-off-grid]]
-- [[off-grid-waste-management]]
-- [[homestead-winter-preparations]]
+### Phase 8: Interior Finish (2-4 Weeks)
+
+1. Install wall paneling (tongue-and-groove pine, shiplap, or painted plywood)
+2. Install ceiling (thin plywood or paneling)
+3. Install flooring

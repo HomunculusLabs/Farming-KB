@@ -4,23 +4,22 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [permaculture, soil, compost, regenerative, methods, design, plant-growth, troubleshooting]
-sources:
-  sources: []
+sources: []
 ---
 
 # Hugelkultur
 
-Hugelkultur (German for "mound culture") is a permaculture technique that uses woody debris as the core of raised garden beds. As the wood decomposes, it acts like a sponge, absorbing and releasing water and nutrients over many years. Popularized by Austrian farmer [[sepp-holzer-entity]] and widely adopted in temperate permaculture design, hugelkultur beds convert waste wood into productive growing space while reducing irrigation needs and building soil fertility.
+Hugelkultur (German for "mound culture") is a permaculture technique that uses woody debris as the core of raised garden beds. As the wood decomposes, it acts like a sponge, absorbing and releasing water and nutrients over many years. Popularized by Austrian farmer [[sepp-holzer]] and widely adopted in temperate permaculture design, hugelkultur beds convert waste wood into productive growing space while reducing irrigation needs and building soil fertility.
 
 ## How Hugelkultur Works
 
 The concept is simple: bury logs and branches under soil and plant on top. The decomposing wood core provides several functions simultaneously:
 
 - **Water retention**: Rotting wood absorbs and holds water like a sponge. A mature hugelkultur bed may hold enough moisture to go weeks without supplemental irrigation, even in drought conditions.
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: As wood decomposes, it releases nutrients slowly. Fungi, bacteria, and other decomposers in the [[soil-food-web-nutrient-cycling]] break down lignin and cellulose into plant-available forms.
+- **Nutrient cycling**: As wood decomposes, it releases nutrients slowly. Fungi, bacteria, and other decomposers in the [[soil-food-web-nutrient-cycling]] break down lignin and cellulose into plant-available forms.
 - **Soil warming**: The decomposition process generates heat, warming the bed earlier in spring and extending the growing season.
 - **Soil building**: Over years, the wood breaks down into rich humus, building deep topsoil from below.
-- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Wood buried in hugel beds is largely anaerobic and decomposes slowly, storing carbon for decades.
+- **Carbon sequestration**: Wood buried in hugel beds is largely anaerobic and decomposes slowly, storing carbon for decades.
 
 ## Construction Methods
 
@@ -51,7 +50,7 @@ Better for windy or arid climates where above-ground mounds would dry out:
 
 A contained version suitable for urban and suburban settings:
 
-1. [[query-how-to-build-a-raised-bed-garden]] bed frame (wood, stone, or metal) 12-24 inches tall
+1. Build a raised bed frame (wood, stone, or metal) 12-24 inches tall
 2. Fill the bottom half with wood debris (smaller pieces than mounded versions)
 3. Layer nitrogen, compost, and soil as above
 4. More contained and tidy than mounded versions
@@ -59,7 +58,7 @@ A contained version suitable for urban and suburban settings:
 
 ### Sheet Hugelkultur (HUG Beds)
 
-Paul Stamets' adaptation for [[accessible-mushroom-cultivation-for-disabilities]] integration:
+Paul Stamets' adaptation for mushroom cultivation integration:
 
 1. Lay woody debris in a single layer on the ground
 2. Cover with cardboard or newspaper
@@ -127,7 +126,7 @@ As decomposition progresses, the bed becomes increasingly productive:
 - **Waste utilization**: Converts brush, fallen trees, and prunings into productive growing space
 - **No-till**: Once built, hugel beds are never tilled. [[no-till-gardening-method]] is inherent to the design.
 - **Soil building**: Creates deep, rich topsoil from wood waste
-- **[[mollison-designers-microclimate-creation-frost-protection]]**: Mounds create sun-facing and shade-facing microclimates for diverse plantings
+- **Microclimate creation**: Mounds create sun-facing and shade-facing microclimates for diverse plantings
 
 ## Troubleshooting
 
@@ -137,7 +136,7 @@ As decomposition progresses, the bed becomes increasingly productive:
 | Bed is drying out | Too much woody material; insufficient soil depth; wood not rotting | Add more soil and compost; increase mulch; inoculate with fungal compost tea |
 | Excessive settling | Air pockets in wood core; insufficient compaction | Pack wood tightly during construction; add soil/compost to level settled areas |
 | Fungal fruiting bodies everywhere | Normal decomposition; saprophytic fungi breaking down wood | Generally beneficial; remove only if mushrooms are known toxic species |
-| Ant infestation | Dry, well-drained wood core attracting carpenter ants | Not usually a crop problem; if severe, add nematodes or [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] at base |
+| Ant infestation | Dry, well-drained wood core attracting carpenter ants | Not usually a crop problem; if severe, add nematodes or diatomaceous earth at base |
 | Woody plants at base die | Nitrogen draw-down near wood core | Plant woody perennials away from the wood zone; add compost buffer between wood and roots |
 | Bed becomes waterlogged | Poor drainage; clay subsoil; bed in low spot | Add drainage; raise bed higher; incorporate coarse sand or gravel at base |
 

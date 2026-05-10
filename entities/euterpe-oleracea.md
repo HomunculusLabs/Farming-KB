@@ -114,6 +114,8 @@ Concerns about unsustainable harvesting and labor practices in the supply chain 
 
 ## See Also
 
+- [[euterpe-edulis]]
+
 - [[mangifera-indica]]
 - [[moringa-oleifera]]
 - bambusa

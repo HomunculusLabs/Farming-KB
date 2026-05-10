@@ -12,8 +12,8 @@ sources: []
 ## Overview
 
 Adaptogens are a class of herbs and mushrooms that help the body resist physiological and psychological stress. The concept originated in Soviet research in the 1940s-1960s, pioneered by toxicologist Nikolai Lazarev. The formal definition requires that an adaptogen:
-1. Be non-specific (increase resistance to a broad range of stressors).
-2. Have a normalizing effect (bring homeostasis regardless of direction of imbalance).
+1. Be non-specific (increase resistance to a broad range of stressors). (see [[medicinal-mushroom-guide-oyster]]).
+2. Have a normalizing effect (bring homeostasis regardless of direction of imbalance). (see [[medicinal-mushroom-guide-chaga]]).
 3. Be safe and non-toxic with minimal side effects.
 
 This guide covers five primary adaptogenic herbs: ashwagandha, rhodiola, holy basil, eleuthero, and maca.
@@ -50,13 +50,13 @@ Ayurvedic rasayana (rejuvenative) herb used for over 3,000 years. One of the mos
 ## Rhodiola (Rhodiola rosea)
 
 ### Overview
-Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medicine. Vikings reportedly used it for endurance. Known as "golden root" or "arctic root." Grows in cold, high-altitude environments across Europe, Asia, and [[psilocybin-north-america-pacific-northwest]].
+Arctic/alpine herb used in Scandinavian, Russian, and traditional Chinese medicine. Vikings reportedly used it for endurance. Known as "golden root" or "arctic root." Grows in cold, high-altitude environments across Europe, Asia, and North America.
 
 ### Key Compounds
 - **Salidroside:** Primary adaptogenic glycoside. Anti-fatigue, neuroprotective, anti-inflammatory.
 - **Rosavin:** Signature compound (used for standardization along with salidroside). Found only in R. rosea among Rhodiola species.
 - **Rosin, rosinarin:** Related cinnamyl alcohol glycosides.
-- **Tyrosol:** [[cho-fish-amino-acid-preparation]] derivative with antioxidant effects.
+- **Tyrosol:** Amino acid derivative with antioxidant effects.
 
 ### Mechanisms
 - Modulates cortisol and stress hormone release.
@@ -121,7 +121,7 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 - **Lignans:** Including syringaresinol with antioxidant activity.
 
 ### Mechanisms
-- Modulates HPA axis [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]].
+- Modulates HPA axis stress response.
 - Enhances cellular metabolism and ATP production.
 - Improves oxygen utilization and athletic endurance.
 - Stimulates immune function: enhances NK cell activity, T-cell proliferation, and antibody production.
@@ -136,14 +136,15 @@ Also known as Siberian ginseng (though not a true Panax ginseng). Woody shrub na
 - Take consistently for 4-8 weeks for full adaptogenic effects.
 
 ### Contraindications
-- Caution with cardiovascular conditions and hypertension (some reports of palpitations). [[cannabis-autoimmune-conditions-detailed]]. May interact with digoxin, barbiturates, and antidiabetic drugs. Avoid in children without professional guidance.
+- Caution with cardiovascular conditions and hypertension (some reports of palpitations). Autoimmune conditions. May interact with digoxin, barbiturates, and antidiabetic drugs. Avoid in children without professional guidance.
 
 ---
 
 ## Maca (Lepidium meyenii)
-## Related Topics
 
-- [[medicinal-mushroom-guide-reishi]] for mushroom adaptogens
-- [[medicinal-mushroom-guide-cordyceps]] for energy-focused mushroom adaptogens
-- [[nootropic-herbs-guide]] for cognitive enhancement herbs
-- [[herbal-tinctures-guide]]
+### Overview
+Root vegetable from the high Andes of Peru, cultivated at altitudes above 3,500 meters. Used as food and medicine by indigenous Andean peoples for over 2,000 years. Not a true adaptogen by strict definition (lacks HPA axis modulation) but commonly classified as one due to its stress-resistance and vitality-enhancing properties. Three main varieties: yellow (most common), red, and black (each with slightly different properties).
+
+### Key Compounds
+- **Macaenes and macamides:** Unique fatty acid amides. Believed responsible for many of maca's effects, particularly on sexual function and mood.
+- **Glucosinolates:** Sulfur-containing compounds (also found in cruciferous vegetables).

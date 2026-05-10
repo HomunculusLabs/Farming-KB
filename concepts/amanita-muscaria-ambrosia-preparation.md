@@ -61,6 +61,8 @@ Place a fingertip on the surface of the oil and apply to the center of the foreh
 The active principle can be absorbed through the skin. If you gently hold a fresh Amanita muscaria stem in your hand for about 5 minutes, you will start feeling a light giddiness -- the longer the contact, the more intense the effects.
 ## See Also
 
+- [[ambrosia-artemisiifolia]]
+
 - [[amanita-muscaria-drying-and-preparation]] -- Pre-processing
 - Sacred wine preparation -- Detailed wine method
 - Eucharist wafer preparation -- Herb flour and wafers

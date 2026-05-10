@@ -1,16 +1,15 @@
 ---
-title: Root root vegetable storage guide Guide
+title: Root Vegetable Storage Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [storage, preservation, food, homesteading, off-grid, vegetables, sustainability]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-[[growing-root-vegetables-guide]] are among the most practical crops for winter food self-sufficiency because many store for months under the right conditions without any processing. A proper root cellar or modified cold storage setup can keep potatoes, carrots, beets, parsnips, turnips, and rutabagas fresh from harvest through spring. The key is understanding each crop's specific requirements for temperature, humidity, and handling.
+Root vegetables are among the most practical crops for winter food self-sufficiency because many store for months under the right conditions without any processing. A proper root cellar or modified cold storage setup can keep potatoes, carrots, beets, parsnips, turnips, and rutabagas fresh from harvest through spring. The key is understanding each crop's specific requirements for temperature, humidity, and handling.
 
 ## General Harvest and Handling Principles
 
@@ -30,7 +29,7 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 
 ### Temperature Zones
 
-| Zone | [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Crops |
+| Zone | Temperature Range | Crops |
 |------|------------------|-------|
 | Cold and moist | 32-40F, 90-95% humidity | Carrots, beets, parsnips, turnips, rutabagas |
 | Cool and dry | 50-60F, 60-70% humidity | Potatoes |
@@ -43,12 +42,12 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - **Humidity** — Too dry: roots shrivel. Too wet: rot and mold. Most roots need high humidity
 - **Ventilation** — Roots are alive and respire. They need oxygen and produce carbon dioxide. Stagnant air causes off-flavors and decay
 - **Darkness** — Light causes potatoes to turn green (solanine production) and most roots to sprout
-- **[[stamets-growing-room-air-circulation-co2-management]]** — Roots should not be packed tightly. Air must flow around them
+- **Air circulation** — Roots should not be packed tightly. Air must flow around them
 
 ### Potatoes
 
 **Ideal:** 45-50F (never below 40F — cold causes sweetening), 85-90% humidity, essential darkness.
-**Cure** 10-14 days at 55-65F to thicken skin, then store in slatted crates or paper bags (never plastic). Late-season varieties store 4-6 months. Problems: greening (light), sprouting (warmth), rot (moisture/damage), shriveling ([[pf-tek-low-humidity-symptoms-and-remediation]]).
+**Cure** 10-14 days at 55-65F to thicken skin, then store in slatted crates or paper bags (never plastic). Late-season varieties store 4-6 months. Problems: greening (light), sprouting (warmth), rot (moisture/damage), shriveling (low humidity).
 
 ## Carrot Storage (Daucus carota)
 
@@ -61,7 +60,7 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 ### Storage Methods
 
 **In sand or sawdust (best for home storage):**
-1. Use a clean container (wooden crate, [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]], or cardboard box)
+1. Use a clean container (wooden crate, plastic bin, or cardboard box)
 2. Alternate layers of carrots with slightly damp sand or sawdust
 3. Do not let carrots touch each other (prevents rot spread)
 4. Keep sand barely moist — not wet, not dry
@@ -144,7 +143,8 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 ## Rutabaga Storage (Brassica napus)
 
 ### Ideal Conditions
-## Related Topics
+- Temperature: 32-35F
+- Humidity: 90-95%
+- Darkness: Important
+- Ventilation: Good
 
-Root storage complements other preservation methods for winter food security. See [[mason-jar-preserving-guide]] for canning excess roots, and [[smoking-meat-and-fish]] for protein preservation. Growing root crops connects to [[perennial-vegetables]] and broader [[winter-gardening-techniques]] practices. Storage design integrates with [[swale-design-construction]] and homestead [[fungi-and-sustainability]] planning.
-- [[deer-fencing-and-deterrents]]

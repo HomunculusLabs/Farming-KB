@@ -141,7 +141,6 @@ may act to cement pre-existing limestones. During
 decomposition of fungal hyphae, calcite crystals
 formed from oxalate transformation can act as
 sites of further secondary calcite precipitation,
-contributing to soil carbonate accumulation and
 ## See Also
 - [[fungal-monitoring-long-term-studies]]
 - [[dighton-fungal-metal-transformation-methylation]]

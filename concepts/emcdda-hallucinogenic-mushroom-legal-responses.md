@@ -138,12 +138,3 @@ to use in combination with alcohol.
 In a snapshot of 21 online shops viewed in January 2006, the majority warned
 not to use hallucinogenic mushrooms when taking medication and/or in
 combination with alcohol or other drugs. Only two thirds did not recommend
-## See Also
-
-- [[emcdda-return-to-nature-megatrend-mushroom-appeal]]
-
-- [[emcdda-hallucinogenic-mushroom-emerging-trend-analysis]]
-
-## See Also
-
-- [[emcdda-hallucinogenic-mushroom-eu-legislation-responses-2001-2006]]

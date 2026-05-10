@@ -108,6 +108,8 @@ R. aquatilis is included in several national aquatic plant monitoring schemes. S
 
 ## See Also
 
+- [[trollius-europaeus]]
+
 - [[alisma-plantago-aquatica]]
 - [[myriophyllum-spicatum]]
 - [[potamogeton-natans]]

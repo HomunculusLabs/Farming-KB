@@ -28,7 +28,7 @@ sources:
 
 # Food Forest Layers and Species
 
-Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-8, with guild examples, spacing, nitrogen fixers, pollination partners, succession timeline, and [[mollison-animal-integration-permaculture-design]]. See [[food-forest-design]] for design principles and [[permaculture-useful-plants-reference]] for the full plant catalog.
+Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-8, with guild examples, spacing, nitrogen fixers, pollination partners, succession timeline, and animal integration. See [[food-forest-design]] for design principles and [[permaculture-useful-plants-reference]] for the full plant catalog.
 
 ## Species by Layer (Zones 7-8)
 
@@ -71,9 +71,9 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 ### 4. Herbaceous (Perennials) — Spacing: 1-3 ft
 | Species | Function | Notes |
 |---------|----------|-------|
-| Comfrey (*Symphytum officinale*) | [[nutrient-dynamic-accumulator-reference]] | THE key mulch plant. Chop-and-drop 4-6x/yr. K, Ca, Mg |
+| Comfrey (*Symphytum officinale*) | Dynamic accumulator | THE key mulch plant. Chop-and-drop 4-6x/yr. K, Ca, Mg |
 | Yarrow (*Achillea millefolium*) | Insectary, accumulator | P, K, Cu. Attracts ladybugs, parasitic wasps |
-| [[comparison-stinging-nettle-vs-horsetail]] (*Urtica dioica*) | Accumulator, compost activator | Fe, N, K. Cook before eating. Contain roots |
+| Stinging Nettle (*Urtica dioica*) | Accumulator, compost activator | Fe, N, K. Cook before eating. Contain roots |
 | Asparagus (*Asparagus officinalis*) | Food | 15-20 yr productive. Plant crowns in spring |
 | Rhubarb (*Rheum rhabarbarum*) | Food | Shade tolerant, long-lived |
 | Lovage (*Levisticum officinale*) | Food, accumulator | Tall (6 ft), celery substitute, deep taproot |
@@ -81,7 +81,7 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 | Walking Onion (*Allium proliferum*) | Food, pest deterrent | Self-propagating topsets |
 | Egyptian Walking Onion | Food | Perennial, pest confuser |
 | Milkweed (*Asclepias*) | Pollinator host | Monarch butterfly host, contains cardenolides |
-| [[comparison-jerusalem-artichoke-vs-potato]] (*Helianthus tuberosus*) | Food (root layer too) | Contain in root barrier — very aggressive |
+| Jerusalem Artichoke (*Helianthus tuberosus*) | Food (root layer too) | Contain in root barrier — very aggressive |
 
 ### 5. Ground Cover — Spacing: 6-12 in
 | Species | N-Fix | Notes |
@@ -92,7 +92,7 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 | Creeping Thyme | No | Edible, aromatic, bee forage |
 | Sweet Woodruff | No | Shade tolerant, medicinal |
 | Nasturtium | No | Edible, traps aphids, trails |
-| Creeping Phlox | No | Early spring color, [[permplant-willows-salix-erosion-control-fodder]] |
+| Creeping Phlox | No | Early spring color, erosion control |
 
 ### 6. Root Layer
 | Species | Zone | Notes |
@@ -101,7 +101,7 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 | Groundnut (*Apios americana*) | 3-9 | Native, nitrogen-fixing vine, protein-rich tubers |
 | Horseradish | 3-9 | Contain — aggressive. Medicinal |
 | Yacon (*Smallanthus sonchifolius*) | 7-10 | Sweet tubers, low calorie. Harvest after frost |
-| Oca (*[[oxalis-tuberosa]]*) | 7-9 | Andean tuber, day-length sensitive |
+| Oca (*Oxalis tuberosa*) | 7-9 | Andean tuber, day-length sensitive |
 | Chinese Artichoke (*Stachys affinis*) | 4-9 | Small tubers, mild flavor, easy to grow |
 
 ### 7. Vine Layer
@@ -139,11 +139,12 @@ Detailed species breakdown for each of the 7 food forest layers in USDA zones 7-
 ### Persimmon Guild
 - **Center**: American persimmon (female, with 1 male nearby)
 - **N-fixers**: Autumn olive or goumi (same Elaeagnus genus — synergistic)
-## Related Pages
-- [[food-forest-design]] — Design principles, guild concept, spacing overview
-- [[orchard-management]] — Pruning, pest management, seasonal care
-- [[berry-growing]] — Berry planning, IPM, seasonal calendar
-- [[duck-keeping]] — Duck breeds, housing, forage, manure
-- [[fruit-tree-varieties]] — Detailed variety tables for zone 7-8
-- [[permaculture-useful-plants-reference]] — Full plant function catalog
-- [[companion-planting-reference]] — Polyculture design combinations
+- **Accumulators**: Comfrey, nettles (persimmons are heavy feeders young)
+- **Ground cover**: White clover + strawberry
+- **Shrubs**: Aronia, elderberry (tolerate shade, share harvest season)
+- **Vine**: Passionfruit (maypop) — dies back, shares late-season interest
+- **Animal integration**: Fallen fruit feeds ducks and goats
+
+## Nitrogen Fixers by Layer
+| Layer | Species | Fix Rate (lb N/acre/yr) |
+|-------|---------|------------------------|

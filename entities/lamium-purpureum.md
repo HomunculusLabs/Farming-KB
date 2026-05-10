@@ -13,7 +13,7 @@ sources:
   - Bartlett, M.E. et al. (2019). "Phylogeny of Lamium (Lamiaceae)." Botanical Journal of the Linnean Society, 191(1), 77-95.
   - Tutin, T.G. et al. (1972). "Flora Europaea, Vol. 3." Cambridge University Press.
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book, 4th ed." Cambridge University Press.
-  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]], 2nd ed." CRC Press.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing, 2nd ed." CRC Press.
 ---
 
 ## Overview

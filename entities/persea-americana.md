@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Knight, R.J. (2002). "History, distribution and uses." Avocado Science and Technology, 1–15.
   - Dreher, M.L. & Davenport, A.J. (2013). "Hass avocado composition and potential health effects." Critical Reviews in Food Science and Nutrition, 53(7), 738–750.
-  - López-García, G. et al. (2019). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] and health benefits of avocado." Nutrients, 11(9), 2249.
+  - López-García, G. et al. (2019). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants and health benefits of avocado." Nutrients, 11(9), 2249.
   - USDA Natural Resources Conservation Service. "Persea americana Mill." PLANTS Database.
   - Whiley, A.W. et al. (2002). "The avocado." Encyclopedia of Food Sciences and Nutrition, 341–351.
 ---

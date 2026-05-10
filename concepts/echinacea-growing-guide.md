@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, permaculture, ethnobotany]
-sources:
-  sources: []
+sources: []
 ---
 
 # Echinacea Growing Guide (Echinacea purpurea / E. angustifolia)
@@ -13,11 +12,11 @@ sources:
 ## Overview
 
 Echinacea, commonly known as purple coneflower, is one of the most
-commercially important [[permaculture-plants-medicinal-herbs-healing]] in [[psilocybin-north-america-pacific-northwest]]. Native to the
-prairies and open woodlands of central and [[polypore-fungi-eastern-north-america]] America, echinacea
+commercially important medicinal herbs in North America. Native to the
+prairies and open woodlands of central and eastern North America, echinacea
 has been used by Indigenous peoples for centuries and is now one of the most
 widely used immune-supporting herbs in Western herbal medicine. Three species
-are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
+are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida. (see [[valerian-growing-guide]]).
 
 ## Species Comparison
 
@@ -33,7 +32,7 @@ are primarily used medicinally: E. purpurea, E. angustifolia, and E. pallida.
 E. purpurea is the most commonly cultivated due to its vigor and ease of
 growth. E. angustifolia is considered by many herbalists to produce the most
 potent medicine, particularly in the root, but is slower growing and more
-demanding.
+demanding. (see [[hawthorn-berry-guide]]).
 
 ## Medicinal Uses
 
@@ -47,12 +46,12 @@ Primary applications:
 - Topical use for wounds, skin infections, and insect bites
 - Anti-inflammatory action for sore throats and swollen lymph nodes
 
-[[kava-traditional-preparation-ceremonial-context]] methods:
+Traditional preparation methods:
 - Tincture: Fresh root tincture (1:2 in 60-95% alcohol) is considered the
   gold standard. Dosage: 30-60 drops, 3-5 times daily at first sign of illness.
 - Decoction: Dried root simmered for 20-30 minutes
 - Tea: Dried aerial parts steeped 10-15 minutes
-- [[query-how-do-i-make-a-medicinal-mushroom-double-extraction-tincture]]: For maximum extraction of both water-soluble and alcohol-
+- Double extraction: For maximum extraction of both water-soluble and alcohol-
   soluble compounds
 
 Note: Echinacea is most effective when taken at the very first signs of illness
@@ -115,7 +114,7 @@ Echinacea is relatively trouble-free but watch for:
 - Aster yellows: A phytoplasma disease causing green, distorted flowers.
   Remove and destroy infected plants immediately.
 - Japanese beetles: May defoliate plants; handpick or use neem.
-- [[cervantes-powdery-mildew-prevention-treatment]]: Improve air circulation and avoid overhead watering.
+- Powdery mildew: Improve air circulation and avoid overhead watering.
 - Root rots: Prevent by ensuring excellent drainage.
 
 ## Harvesting
@@ -139,12 +138,13 @@ Roots:
 - Chop roots into small pieces (1/4 inch) while fresh
 - Spread on screens in a warm, dry, well-ventilated area
 - A dehydrator at 95-100 degrees F works well
-## See Also
+- Roots are fully dry when they snap rather than bend
+- Store in airtight glass jars in a cool, dark place
 
-- [[yarrow-plant-guide]] -- excellent companion plant; combine in immune teas
-- [[comfrey-plant-guide]] -- another medicinal perennial for the homestead
-  medicine garden
+Aerial parts:
+- Bundle stems and hang upside down to dry, or spread on screens
+- Dry away from direct sunlight to preserve compounds
+- Store dried herb in airtight containers
+- Properly stored echinacea retains potency for 1-2 years
 
-## Related
-
-- [[gotu-kola-growing-guide]]
+## Yields

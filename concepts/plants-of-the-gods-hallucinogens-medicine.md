@@ -68,11 +68,10 @@ techniques such as electroshock, insulin treatment, and
 psychosurgery. In expert hands, hallucinogens may be regarded as
 virtually without physical risk, though psychological preparation
 remains essential.
-## See Also
 
 ## See Also
-
 - [[plants-of-the-gods-claviceps-ergot-alkaloids]]
+
 ## Practical Considerations
 
 Successful implementation of Uses of Hallucinogens in Medicine — Hofmann's Framework requires attention to

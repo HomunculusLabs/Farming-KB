@@ -1,6 +1,6 @@
 ---
 
-title: arthur-mushrooms-and-mankind-ethnomycology-and-religion
+title: Mushrooms and Mankind
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -23,13 +23,13 @@ sources:
 
 # Mushrooms and Mankind
 
-The theory that psychoactive mushrooms — particularly [[allegro-amanita-muscaria-properties-and-pharmacology]] — have played a central role in the development of human religion, mythology, and cultural symbolism. James Arthur's "Mushrooms and Mankind" (2000s) is one of the most comprehensive popular works on this topic, spanning Egyptian, Christian, Hindu, Buddhist, Norse, Mithraic, and shamanic traditions.
+The theory that psychoactive mushrooms — particularly Amanita muscaria — have played a central role in the development of human religion, mythology, and cultural symbolism. James Arthur's "Mushrooms and Mankind" (2000s) is one of the most comprehensive popular works on this topic, spanning Egyptian, Christian, Hindu, Buddhist, Norse, Mithraic, and shamanic traditions.
 
 Related: [[psychedelic-mushroom-history]], [[entheogen-culture]], [[mushroom-folklore-and-culture]]
 
 ## Core Hypothesis
 
-Arthur argues that Amanita muscaria is encoded throughout world religions and mythologies as the hidden sacramental substance — the "Flesh of God," "Soma," "Manna," "Ambrosia," and the "Holy Grail." He traces mushroom symbolism through visual art, linguistic analysis, and comparative mythology. The book is structured in four parts: Christmas/Santa Claus symbolism, Christianity/Egyptian connections, [[fukuoka-western-eastern-philosophy-agriculture]] (Soma/Amrita), and secret societies/government/religion.
+Arthur argues that Amanita muscaria is encoded throughout world religions and mythologies as the hidden sacramental substance — the "Flesh of God," "Soma," "Manna," "Ambrosia," and the "Holy Grail." He traces mushroom symbolism through visual art, linguistic analysis, and comparative mythology. The book is structured in four parts: Christmas/Santa Claus symbolism, Christianity/Egyptian connections, Eastern philosophy (Soma/Amrita), and secret societies/government/religion.
 
 ## Key Cultural Connections
 
@@ -70,7 +70,7 @@ See [[soma-hypothesis]] for the academic debate.
 
 ### Buddhism and Vajrayana
 - Vajrayana ("lightning vehicle") claims enlightenment in a single lifetime
-- The Vajra/Dorje (thunderbolt) resembles a mushroom, associated with lightning and [[pf-tek-mushroom-growth-timeline]]
+- The Vajra/Dorje (thunderbolt) resembles a mushroom, associated with lightning and mushroom growth
 - The "death yoga" at higher initiatory levels involves the mushroom
 - The stupa: mushroom-shaped meditation object with fire from the top
 - Thousand-armed Bodhisattva: arms represent mushroom gills (bottom view of cap)
@@ -79,7 +79,7 @@ See [[soma-hypothesis]] for the academic debate.
 
 ### Greek Traditions
 - Ambrosia: "food of the gods"
-- The [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]] (see [[entheogen-culture]])
+- The Eleusinian Mysteries (see [[entheogen-culture]])
 - The Phoenix: egg (button) to snake-like shaft (stem) to feathered cap to dissolution (spores)
 
 ### Norse/Germanic Mythology
@@ -98,7 +98,7 @@ See [[soma-hypothesis]] for the academic debate.
 Arthur's unique contribution: a 12th-century painting of "Jesus as Lord of Magical Plants" depicts five plants that may constitute the true Soma brew:
 1. Amanita muscaria (red) — quickening of spirit
 2. Psilocybe species (blue) — opens third eye
-3. Syrian Rue / [[mckenna-food-gods-peganum-harmala-soma]] (MAO inhibitor — telepathine)
+3. Syrian Rue / Peganum harmala (MAO inhibitor — telepathine)
 4. Opium Poppy / Papaver somniferum (euphoria, relaxation; "Somniferum" ~ "Soma")
 5. Cannabis and other green plants (anti-nausea, neuro-pathway reactivation, DMT)
 

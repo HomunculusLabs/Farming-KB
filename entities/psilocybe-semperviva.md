@@ -24,7 +24,7 @@ The species belongs to the bluing, psilocybin-producing section of Psilocybe, th
 Within the European Psilocybe flora, P. semperviva contributes to the recognition that Europe harbors a more diverse assemblage of [[cattle-dispersal-psychoactive-fungi-australia]] than was appreciated in earlier mycological literature. It sits alongside better-known species such as [[psilocybe-cyanescens]], and [[psilocybin]] and [[baeocystin]] — A biosynthetic precursor of psilocybin
 - [[psilocybe-semilanceata]] | More conic cap with pronounced papilla; robust curved stipe |
 | [[psilocybe-bohemica]] | Central European; larger stature |
-| [[psilocybe-semilanceata]] — Most common European [[emcdda-psilocybin-mushroom-dose-and-effects]]
+| [[psilocybe-semilanceata]] — Most common European [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[psilocybe-cyanescens]] — Potent wood-inhabiting species
 - [[psilocin]] — Active metabolite of psilocybin
 

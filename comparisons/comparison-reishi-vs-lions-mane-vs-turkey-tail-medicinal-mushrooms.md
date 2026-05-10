@@ -13,10 +13,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Wasser, S.P., "medicinal-mushrooms as a Source of Antitumor and Immunomodulating Polysaccharides," Applied Microbiology and Biotechnology, vol. 60, 2002.
-  - Hobbs, C., "[[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]: An Exploration of Tradition, Healing, and Culture," Botanica Press, 1995.
+  - Hobbs, C., "cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides: An Exploration of Tradition, Healing, and Culture," Botanica Press, 1995.
   - Stamets, P., "Growing Gourmet and Medicinal Mushrooms," 3rd ed., Ten Speed Press, 2000.
   - Pillai, T.G. et al., "An Updated Review of Turkey Tail Mushroom," Phytochemistry, vol. 188, 2022.
-  - Li, I.W. et al., "Health Benefits of the Lion's Mane Mushroom and Its [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]," Molecules, vol. 25, 2020.
+  - Li, I.W. et al., "Health Benefits of the Lion's Mane Mushroom and Its query-what-are-the-main-bioactive-compounds-in-medicinal-plants," Molecules, vol. 25, 2020.
 type: comparison
 ---
 # Reishi vs Lion's Mane vs turkey tail mushroom cultivation and medicinal properties

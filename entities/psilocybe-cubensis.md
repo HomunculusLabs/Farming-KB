@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J. "A worldwide geographical distribution of the neurotropic fungi." Mycotaxon. 1998.
   - Stijve T, Kuyper TW. "Occurrence of psilocybin in various higher fungi." Persoonia. 1985.
-  - Stamets P. "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press. 1996.
+  - Stamets P. "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press. 1996.
 ---
 
 # Psilocybe cubensis
@@ -131,7 +131,6 @@ A landmark 2021 study published in *NEJM* found that a single 25 mg dose of synt
 - Psychological distress ("bad trips") — mitigated by set and setting, preparation, and integration
 - Accidental misidentification — risk of consuming toxic look-alikes when foraging
 - Precipitation of psychotic episodes in individuals with personal or family history of schizophrenia or bipolar disorder
-
 ## See Also
 
 - [[pleurocybella-porrigens]]

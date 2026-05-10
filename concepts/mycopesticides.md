@@ -1,5 +1,5 @@
 ---
-title: Mycopesticides — Fungi as Natural mushroom-pests-insect-control-stamets
+title: Mycopesticides — Fungi as Natural Insect Control
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -10,7 +10,7 @@ sources:
 
 # Mycopesticides — Fungi as Natural Insect Control
 
-Using [[singh-entomopathogenic-fungi-biocontrol-agents]] to control insect pests — from termites and carpenter ants to fire ants, flies, and agricultural pests. Pioneered by [[paul-stamets]]' discovery of pre-sporulating mycelium as an insect attractant. From *[[woodlovers-mycelium-running-pathway-technique]]* (2005).
+Using entomopathogenic fungi to control insect pests — from termites and carpenter ants to fire ants, flies, and agricultural pests. Pioneered by [[paul-stamets]]' discovery of pre-sporulating mycelium as an insect attractant. From *Mycelium Running* (2005).
 
 ## The Discovery: Pre-Sporulating Mycelium as a Trojan Horse
 
@@ -48,7 +48,7 @@ Some entomopathogenic fungi express two forms:
 - **Mold state**: Metarhizium anisopliae (green mold) — pathogenic to ants, termites, locusts, mosquitoes, mites
 - **Mushroom state**: Cordyceps species — fruit from dead insect carcasses
 
-Cordyceps lloydii infects carpenter ants and compels them to climb to the canopy, lock mandibles into a leaf, and die — ensuring wide [[aquatic-fungi-spore-dispersal-ingold]].
+Cordyceps lloydii infects carpenter ants and compels them to climb to the canopy, lock mandibles into a leaf, and die — ensuring wide spore dispersal.
 
 ### Major Genera
 
@@ -112,7 +112,7 @@ Presporulating mycelium can be projected via many carriers:
 - Paper
 - Cardboard
 - Biodegradable fabrics
-- [[fungi-in-composting-and-agricultural-waste-conversion]] products
+- Agricultural waste products
 
 This enables "landscapes customized with mycelial matrices" targeting specific insects.
 
@@ -139,11 +139,12 @@ Stamets also found that Beauveria bassiana produces attractants prior to sporula
 - EPA has encouraged study of Metarhizium anisopliae as biopesticide
 - Insects recruit others to their own destruction
 - After treatment, spores repel future invasions (long-term protection)
-## See Also
+- Uses genome as indigenous source — limits tolerance buildup
+- Minimizes harm to nontargeted insects
+- Reduces need for termite-resistant tropical hardwoods from rain forests
+- Spent mycelium becomes a soil amendment after remediation
 
-- [[fungal-pest-control]] for existing page on this topic
-- [[mycorestoration-overview]] for the umbrella concept
-- [[stamets-patents]] for patent details
-- [[paul-stamets]] for the researcher
-- [[mycoremediation-basics]] for related [[cotter-pet-livestock-waste-fungal-remediation-systems]] techniques
-- [[garden-mushroom-growing]] for integrating fungi into homestead pest management
+## Historical Context
+
+- **1834**: Agustino Bassi noticed Beauveria bassiana spores causing muscardine disease in silkworms — credited with conceiving "germ theory" before Pasteur (1858)
+- **1990s onward**: Multiple patents awarded on entomopathogenic fungi

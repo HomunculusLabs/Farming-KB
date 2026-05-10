@@ -1,6 +1,6 @@
 ---
 
-title: Think think grow model h plus H Plus LED
+title: Think Grow Model H Plus LED
 created: 2026-04-10
 updated: 2026-04-12
 type: entity
@@ -25,18 +25,18 @@ sources:
 
 # Think Grow Model H Plus 4-Channel LED
 
-The Think Grow Model H Plus is a 4-channel LED grow light used for indoor [[query-how-does-no-till-cannabis-cultivation-work]]. It features independently controllable spectrum channels, allowing growers to tailor light output for vegetative and flowering stages.
+The Think Grow Model H Plus is a 4-channel LED grow light used for indoor cannabis cultivation. It features independently controllable spectrum channels, allowing growers to tailor light output for vegetative and flowering stages.
 
 ## Overview
 
-The Model H Plus is a multi-channel LED fixture designed for coverage of a standard grow area (typically 4x4 ft or similar footprint). The 4-channel design provides granular control over the [[cannabis-light-spectrum-and-color-bands]].
+The Model H Plus is a multi-channel LED fixture designed for coverage of a standard grow area (typically 4x4 ft or similar footprint). The 4-channel design provides granular control over the light spectrum.
 
 ## 4-Channel Spectrum Control
 
 The four independent channels typically correspond to:
 
 1. **White channel** — full-spectrum white LEDs providing baseline illumination and canopy penetration (green wavelengths)
-2. **Blue channel** — 450nm blue LEDs for [[cannabis-vegetative-growth-stage]], compact internode spacing, and chlorophyll production
+2. **Blue channel** — 450nm blue LEDs for vegetative growth, compact internode spacing, and chlorophyll production
 3. **Red channel** — 630-660nm red LEDs, the primary driver of photosynthesis and flowering
 4. **UV/Far-Red channel** — supplementary wavelengths: UV for trichome stimulation, far-red (730nm) for phytochrome-mediated flowering response
 
@@ -81,7 +81,7 @@ The Model H Plus works well in sealed grow environments with:
 
 ## Note
 
-Specific wattage, coverage area, and exact channel specifications should be verified from the manufacturer's documentation, as these details were not found in the available source papers. This page serves as a [[ghouled-field-guide-historical-context]] for operational use within this wiki's indoor [[comparison-living-soil-cannabis-vs-hydroponic-cannabis]] system.
+Specific wattage, coverage area, and exact channel specifications should be verified from the manufacturer's documentation, as these details were not found in the available source papers. This page serves as a field guide for operational use within this wiki's indoor living soil cannabis system.
 
 ## Related Pages
 

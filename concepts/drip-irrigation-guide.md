@@ -1,5 +1,5 @@
 ---
-title: comparison-drip-irrigation-vs-passive-irrigation Guide
+title: Drip Irrigation Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -68,7 +68,7 @@ Discrete devices inserted into the lateral pipe at each plant location. Flow rat
 - **Non-pressure-compensating**: Flow varies with pressure. Cheaper but less accurate. Suitable for flat terrain only.
 - **Adjustable flow**: Twist to change flow rate. Useful where water needs vary between plants.
 
-Best for: widely spaced plants (tomatoes, peppers, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]), container plants, irregular layouts.
+Best for: widely spaced plants (tomatoes, peppers, fruit trees), container plants, irregular layouts.
 
 ### Drip Tape
 
@@ -77,7 +77,7 @@ Flat polyethylene tape with built-in emitters spaced at regular intervals (typic
 - **DripLine (dripperline)**: Round pipe with pre-installed inline emitters. More durable than tape, can be buried.
 - **T-Tape**: Flat tape, thinner wall, less expensive. Single-season use (though can last 2-3 seasons with care).
 
-Best for: densely planted rows (vegetable beds, strawberries, cut flowers), [[comparison-raised-beds-vs-hugelkultur]].
+Best for: densely planted rows (vegetable beds, strawberries, cut flowers), raised beds.
 
 ### Micro-Sprinklers
 
@@ -86,7 +86,7 @@ Small spray heads that deliver water in a circular pattern (radius 1-10 feet). F
 - **Spinner type**: Rotating stream, good coverage area, lower clog risk.
 - **Spray type**: Fixed spray pattern, higher precipitation rate.
 
-Best for: [[permaculture-plants-food-forest-ground-covers-bamboos]], densely planted areas, orchards where canopy coverage is needed. Not ideal for foliar-disease-prone crops.
+Best for: ground covers, densely planted areas, orchards where canopy coverage is needed. Not ideal for foliar-disease-prone crops.
 
 ### Soaker Hoses
 
@@ -140,10 +140,11 @@ Ensure zone flow does not exceed water source capacity. For a typical residentia
 
 Fertigation delivers soluble fertilizers through the drip system, providing nutrients directly to the root zone.
 
-## Related Topics
+### Fertigation Equipment
 
-- [[rainwater-harvesting-systems]] for water source options
-- [[water-management]] for broader water strategy
-- [[season-extension-techniques]] for irrigation in protected culture
-- [[cover-cropping-guide]] for reducing irrigation needs through soil improvement
-- [[irrigation-watering-techniques]]
+- **Fertilizer injector**: Installs inline and draws concentrated fertilizer solution into the water stream. Venturi injectors (simple, no power needed) or diaphragm injectors (more precise).
+- **Fertilizer tank**: Holds concentrated solution. Connects to the injector.
+- **Check valve**: Prevents fertilizer from siphoning back into the water source.
+
+### Fertigation Schedule
+

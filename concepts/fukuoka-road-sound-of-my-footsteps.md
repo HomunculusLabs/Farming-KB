@@ -4,15 +4,15 @@ created: 2026-04-28
 tags: [travel, europe, philosophy, culture, observation]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources:
+  - "raw/papers/one-fukuoka-road-one-straw-revolution-continuation|straw-revolution-masanobu-fukuoka-road-touring-europe-geta-monpe|fukuoka.md"
 type: concept
 ---
 
 # The Sound of My Footsteps: Walking Through Europe
 
 Walking through Europe in geta (Japanese wooden clogs),
-masanobu-fukuoka|Fukuoka discovered that the sound of his footsteps became a
+masanobu-fukuoka [[fukuoka-road-one-straw-revolution-continuation]]|Fukuoka discovered that the sound of his footsteps became a
 medium for philosophical and cultural observation. The
 rhythmic clatter of geta on European cobblestone streets
 opened windows into national character, the relationship

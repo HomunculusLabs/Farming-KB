@@ -140,10 +140,5 @@ inhibition of hepatic gluconeogenesis.
 ### Heavy Metal Chelation
 
 ## See Also
-
 - [[dom]]
-- permaculture
-
-## See Also
-
 - [[phosphorus-plant-nutrition]]

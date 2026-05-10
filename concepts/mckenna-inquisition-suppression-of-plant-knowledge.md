@@ -133,5 +133,7 @@ framework, not coincidental but structural to dominator culture.
 
 ## See Also
 
+- [[christus-eros-osiris-mckenna-mythological-framework-suppression-psychedelic-knowledge]]
+
 - [[mckenna-ergot-and-witches-sabbath-theory]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]

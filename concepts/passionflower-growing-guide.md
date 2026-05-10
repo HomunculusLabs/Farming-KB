@@ -1,5 +1,5 @@
 ---
-title: Passionflower comparison-bean-growing-guide-vs-pepper-growing-guide
+title: Passionflower Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,12 +13,12 @@ sources: []
 
 Passionflower (also called maypop, wild passion vine, or passion vine) is a
 fast-growing perennial vine native to the southeastern United States and
-[[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]. Named by Spanish missionaries in the 16th century who saw
+Central America. Named by Spanish missionaries in the 16th century who saw
 symbols of Christ's passion (crucifixion) in the flower's intricate
 structure, passionflower has been used for centuries by Indigenous peoples
 and European herbalists as a gentle but effective sedative, anxiolytic, and
 pain reliever. Passiflora incarnata is the primary species used medicinally
-in [[growing-gourmet-north-american-reishi-species]] and European herbal practice.
+in North American and European herbal practice. (see [[permaculture-passionfruit]]).
 
 ## Botanical Profile
 
@@ -33,12 +33,12 @@ in [[growing-gourmet-north-american-reishi-species]] and European herbal practic
 The spectacular flowers are 2-3 inches across with a fringe of filaments,
 five stamens, and three styles -- one of the most distinctive flowers in
 the plant kingdom. The vine dies back to the ground each winter in most of
-its range and regrows vigorously from the root system in spring.
+its range and regrows vigorously from the root system in spring. (see [[hawthorn-berry-guide]]).
 
 ## Medicinal Uses
 
 Passionflower contains flavonoids (chrysin, apigenin, vitexin, orientin),
-[[turner-harmala-alkaloids-preparation-and-dosage]] (harmine, harmaline in small amounts), and GABA-boosting
+harmala alkaloids (harmine, harmaline in small amounts), and GABA-boosting
 compounds that produce its calming effects.
 
 Key medicinal applications:
@@ -123,9 +123,9 @@ From layering:
 - Mulch 3-4 inches deep to retain moisture and suppress weeds
 
 ### Care and Maintenance
-- Water regularly during the first [[savory-growing-season-and-non-growing-season-management]]
+- Water regularly during the first growing season
 - Once established, water during dry periods (1 inch per week)
-- Fertilize lightly in spring with compost or balanced [[complete-organic-fertilizer-cof-recipe-solomon]];
+- Fertilize lightly in spring with compost or balanced organic fertilizer;
   excess nitrogen produces lush foliage with fewer flowers
 - Train vines onto support structure; redirect as needed
 - Prune aggressively in late winter or early spring to control size and
@@ -137,13 +137,14 @@ From layering:
   - Deadheading flowers if you do not want fruit/seeds
   - Containing in large pots or raised beds with root barriers
 
-## See Also
+## Pollinator Plant
 
-- [[valerian-growing-guide]] -- the classic combination with passionflower
-  for sleep and relaxation formulas
-- [[yarrow-plant-guide]] -- pair with passionflower in nervine tea blends
-  for daytime anxiety support
+Passionflower is an excellent pollinator plant:
+- The complex flowers are pollinated primarily by large bees (carpenter
+  bees, bumblebees) and some butterfly species
+- The leaves are the sole larval food source for several butterfly species,
+  most notably the Gulf fritillary (Agraulis vanillae), variegated fritillary,
+  and zebra longwing
+## Harvesting
 
-## Related
-
-- [[st-johns-wort-guide]]
+Harvest aerial parts (leaves, stems, and flowers) during peak bloom on dry

@@ -118,7 +118,6 @@ temperament. Goat milk is naturally homogenized, with smaller fat globules that
 remain suspended; this gives it a creamy texture but makes gravity cream
 separation slower than with cow milk.
 
-Sheep milk is less common in home systems but highly valuable for cheese. East
 ## See Also
 
 faires-yogurt-and-sourdough-making

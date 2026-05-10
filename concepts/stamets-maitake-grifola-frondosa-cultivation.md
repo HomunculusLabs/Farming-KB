@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, maitake, gourmet-mushrooms]
-sources: sources:
+sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Maitake (Grifola frondosa) Cultivation from Stamets #mushroom-cultivation #medicinal-mushrooms #polypore-cultivation #outdoor-cultivation Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Maitake chapter and Ch. 5 ## Overview Maitake (Grifola frondosa), known as Hen of the Woods, is a premier medicinal and culinary mushroom. Native to eastern North America, Japan, and Europe, it grows at the base of oak trees and other hardwoods. Maitake has gained significant attention for anti-cancer properties, particularly its D-fraction beta-glucan. See also [[maitake-grifola-frondosa-comprehensive-profile]], [[maitake-d-fraction-research]].

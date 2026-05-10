@@ -68,6 +68,8 @@ Lightly misting with a fine spray bottle can restore proper moisture without ove
 The [[mushroom-cultivation-bulk-substrates]] include straw, sawdust, compost, and coco coir, while pleurotus-species-guide) generally do not need casing, but [[fruiting-body-development]]
 ## See Also
 
+- [[query-what-is-the-difference-between-a-casing-layer-and-a-top-dressing]]
+
 - [[casing-layer-technique]]
 
 - [[query-what-is-the-difference-between-a-hedgerow-and-a-windbreak]]

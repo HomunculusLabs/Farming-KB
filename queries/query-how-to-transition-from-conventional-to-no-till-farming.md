@@ -6,7 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Rodale Institute. "Farming Systems Trial: 40-Year Report." (2022)
-  - Lal, Rattan. "No-Till Farming Effects on Soil Health and [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]." Advances in Agronomy, 2023.
+  - Lal, Rattan. "No-Till Farming Effects on Soil Health and mycorrhizal-fungi-soil-carbon-sequestration-by-type." Advances in Agronomy, 2023.
   - USDA NRCS. "No-Till Transition Guide." Soil Health Technical Note No. 5.
   - Brown, Gabe. "Dirt to Soil: One Family's Journey into Regenerative Agriculture." Chelsea Green, 2018.
   - Conservation Technology Information Center (CTIC). "National Crop Residue Management Survey." 2024.
@@ -85,6 +85,8 @@ Most economic analyses show break-even by year 3–4 and net profit improvement 
 
 **Well-suited for:**
 ## See Also
+
+- [[query-how-does-soil-naturally-transition-from-bacterial-to-fungal-dominance]]
 
 - [[cover-crops]]
 - [[decomposition]]

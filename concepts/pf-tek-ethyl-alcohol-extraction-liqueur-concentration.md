@@ -123,6 +123,8 @@ The extraction technique becomes "even more effective if used in conjunction wit
 
 ## See Also
 
+- [[pf-tek-evaporation-concentration-extraction]]
+
 - [[pf-tek-desiccant-drying-technique]]
 - [[pf-tek-mushroom-potency-and-age-relationship]]
 - [[pf-tek-alcohol-extraction-method]]

@@ -140,10 +140,6 @@ pellet method demonstrates that vegetation can be restored without scientific
 analysis, irrigation, or ongoing human management.
 
 ## See Also
-
 - [[natural-ground-cover-and-straw-mulching]]
 - [[non-causality-in-nature]]
-
-## See Also
-
 - [[fukuoka-desert-revegetation-clay-pellets]]

@@ -27,7 +27,7 @@ sources:
 
 # KNF Preparations — Complete Input Guide
 
-Korean [[comparison-natural-farming-vs-permaculture]] (KNF) uses fermented biological inputs to feed plants and soil life. Developed by Master Han-Kyu Cho, these preparations replace synthetic fertilizers and pesticides with locally-sourced, microbially-active solutions. The system is built on the [[nutritive-cycle-theory]] which prescribes the right input at the right growth stage.
+Korean Natural Farming (KNF) uses fermented biological inputs to feed plants and soil life. Developed by Master Han-Kyu Cho, these preparations replace synthetic fertilizers and pesticides with locally-sourced, microbially-active solutions. The system is built on the [[nutritive-cycle-theory]] which prescribes the right input at the right growth stage.
 
 ## Core Inputs Overview
 
@@ -42,7 +42,7 @@ Korean [[comparison-natural-farming-vs-permaculture]] (KNF) uses fermented biolo
 | WS-K | Potassium source | Tobacco stems + water | 1:30 |
 | WS-PA | Phosphorus source | Sesame stem charcoal + water | 1:30 |
 | WS-Ca | Calcium source | Eggshells + BRV | 1:1000 |
-| WS-CaPo | [[bionutrients-lab-calcium-phosphate-calamansi]] | Animal bones + BRV | 1:500-1000 |
+| WS-CaPo | Calcium phosphate | Animal bones + BRV | 1:500-1000 |
 | BRV | Trace minerals/vinegar | Fermented brown rice | 1:200-500 |
 | Yeast | Growth recovery | Grape/strawberry + sugar | 1:1000 |
 | Loess Powder | Trace minerals/healing | Ant hill or loess soil | 20-30g/L |
@@ -55,15 +55,15 @@ Korean [[comparison-natural-farming-vs-permaculture]] (KNF) uses fermented biolo
 
 JADAM (Youngsang Cho, Korea) extends KNF toward zero-budget agriculture. Key innovations:
 
-- **JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA)**: Canola oil + caustic potash + water (no heating). Replaces commercial surfactants. Essential for all foliar/pesticide applications.
+- **JADAM Wetting Agent (JWA)**: Canola oil + caustic potash + water (no heating). Replaces commercial surfactants. Essential for all foliar/pesticide applications.
 - **JADAM Sulfur (JS)**: Sulfur + caustic soda + red clay/phyllite powder + sea salt. Powerful germicide.
-- **JADAM [[jadam-microorganism-solution-culturing]] (JMS)**: Culture microbes from leaf mold, feed with potatoes. Soil inoculant and pathogen suppressor.
+- **JADAM Microorganism Solution (JMS)**: Culture microbes from leaf mold, feed with potatoes. Soil inoculant and pathogen suppressor.
 - **JADAM Mineral Water (JMW)**: Leaf mold + rocks in water. Slow-release mineral input.
 - **Cost**: ~$100/acre/year target. 10-100x reduction vs conventional. All inputs made on-farm from local materials.
 - **Pesticide combos**: JNP (JWA+JS+JHS), JMS-JHS (JMS+JHS+JWA), JS-JHS. Combine wetting agent with sulfur/herb solution.
 - **Philosophy**: "Bring farming back to farmers" — no patents, all knowledge shared openly.
 
-Based on Cho's [[cho-nutritive-cycle-theory]] Theory — see [[nutritive-cycle-theory]] for full explanation.
+Based on Cho's Nutritive Cycle Theory — see [[nutritive-cycle-theory]] for full explanation.
 
 ### Vegetative Growth Stage
 - FPJ (from fast-growing plants like mugwort, bamboo shoots, arrowroot) at 1:800-1000
@@ -81,7 +81,7 @@ The transition from vegetative to reproductive growth. Plants need "sour nutrien
 
 ### Reproductive Growth Stage
 - FFJ (from fully ripened fruits — banana, mango, papaya, peach, apple) at 1:1000
-- OHN at 1:1000 — pest/[[cervantes-pest-disease-prevention-overview]]
+- OHN at 1:1000 — pest/disease prevention
 - WS-Ca at 1:1000 — prevents overgrowth, hardens fruit, promotes sugar accumulation
 - WS-K at 1:30 — potassium for starch synthesis, fruit quality, sugar content
 - LAB — reduce amount in later stages (makes fruits/leaves large)
@@ -122,28 +122,29 @@ Treats seeds to recover natural vitality before planting:
 
 Mix and set aside 3-5 hours for microorganisms to propagate. Apply 7 days before seeding/transplanting (14 days for repeated cultivation disorder). Apply 2-3 hours before sunset. See [[fermented-mixed-compost-fmc]] for FMC details.
 
-## See Also
+## Pest Control Methods
 
-- [[indigenous-microorganisms-imo]] — step-by-step IMO collection (3 methods)
-- [[fermented-plant-extract-fpe]] — FPJ/FFJ detailed recipes
-- [[fish-amino-acid-faa]] — FAA recipe and application
-- [[oriental-herbal-nutrient-ohn]] — OHN recipe
-- [[lactic-acid-bacteria-lab]] — LAB serum recipe
-- [[soil-food-web-nutrient-cycling]] — why biological inputs work
-- [[jadam-methods]] — JADAM's parallel approach to self-made inputs
-- [[nutritive-cycle-theory]] — Cho's growth stage framework
-- [[fermented-mixed-compost-fmc]] — FMC recipe for soil building
-- [[water-soluble-calcium-wca]] — WS-Ca detailed preparation
-- [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo for changeover period
-- [[brown-rice-vinegar-brv]] — BRV as extraction solvent and growth stimulant
+KNF uses non-toxic attractants rather than pesticides. See [[indigenous-microorganisms-imo]] and [[oriental-herbal-nutrient-ohn]] for biological pest control.
 
-## Related
+### Aromatic Insect Attractant (AIA)
+- Slit open a PET bottle on two sides
+- Fill with rice wine and FPJ diluted 300 times (FFJ is best for attracting insects)
+- Hang at the height of fruits/leaves that moths/butterflies target
+- Install during egg-laying season — useless once insects have already laid eggs
+- Hang 4-6 bottles per fruit tree, at plant height for vegetables
 
-- [[knf-input-application-timing]]
+### Fluorescent Insect Attractant (FIA)
+- Hang fluorescent light vertically on an L-shaped zinc sheet
+- Place basin of water with gasoline/kerosene underneath
+- Insects attracted to light fall into water and drown
+- Most effective during peak reproductive growth and vegetative growth of leafy vegetables
 
-- [[knf-oha]]
+## Crack Prevention Treatment
 
-- [[knf-soap-water-and-hot-pepper]]
-- [[complete-knf-input-reference]] — complete input reference
-- [[knf-vs-jadam-vs-em]] — comparison
-- [[soil-amendment-reference]] — amendment quick-reference by nutrient
+For fruits/vegetables during drought (to prevent cracking when rains arrive):
+
+| Input | Amount per 1000ml water |
+|-------|------------------------|
+| OHN | 1 ml |
+| BRV | 2 ml |
+| FPJ | 2 ml |

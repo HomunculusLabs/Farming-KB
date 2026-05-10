@@ -9,19 +9,19 @@ sources: []
 
 ## What Is Tempeh
 
-Tempeh is a traditional Indonesian fermented food made from cooked and inoculated legumes or grains bound together by a dense white mycelium of Rhizopus oligosporus. Originating on the island of Java, tempeh has been a staple protein source in Indonesia for centuries. The fermentation process makes the beans more digestible, reduces anti-nutritional factors, and creates a firm, nutty, cake-like product that can be sliced, crumbled, marinated, fried, grilled, or steamed.
+Tempeh is a traditional Indonesian fermented food made from cooked and inoculated legumes or grains bound together by a dense white mycelium of Rhizopus oligosporus. Originating on the island of Java, tempeh [[comparison-tempeh-vs-miso]] has been a staple protein source in Indonesia for centuries. The fermentation process makes the beans more digestible, reduces anti-nutritional factors, and creates a firm, nutty, cake-like product that can be sliced, crumbled, marinated, fried, grilled, or steamed.
 
 ## The Inoculant: Rhizopus Oligosporus
 
 Tempeh fermentation relies on Rhizopus oligosporus, a zygomycete fungus that:
 
 - Produces a strong white mycelium that binds the substrate into a solid cake
-- Produces enzymes that [[query-can-fungi-break-down-plastic-pollution]] proteins, oils, and complex carbohydrates
+- Produces enzymes that break down proteins, oils, and complex carbohydrates
 - Inhibits many harmful bacteria through antibiotic compounds
 - Grows optimally at 85-90F (30-32C)
 - Requires oxygen (unlike anaerobic ferments like miso or kimchi)
 
-The inoculant can be purchased as tempeh starter (spores mixed with [[brown-rice-flour-substrate]]) from specialty suppliers. Store starter in the refrigerator or freezer for long [[psilocybin-shelf-life-stability]].
+The inoculant can be purchased as tempeh starter (spores mixed with rice flour) from specialty suppliers. Store starter in the refrigerator or freezer for long shelf life. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ## Soybean Tempeh (Traditional)
 
@@ -33,7 +33,7 @@ The inoculant can be purchased as tempeh starter (spores mixed with [[brown-rice
 
 ### Step 1: Dehulling
 
-Soybean hulls (seed coats) must be removed for good tempeh. The hulls harbor bacteria and prevent the mycelium from binding the beans tightly.
+Soybean hulls (seed coats) must be removed for good tempeh. The hulls harbor bacteria and prevent the mycelium from binding the beans tightly. (see [[straw-based-mushroom-substrate-preparation]]).
 
 Methods:
 - Split-hull method: soak beans 8-12 hours, split by rubbing or crushing lightly, then float off the hulls in water (hulls float, beans sink). This is the most common home method.
@@ -123,7 +123,7 @@ When using non-soy substrates:
 ## Troubleshooting
 
 - No mycelium growth — temperature too low, starter expired, or beans too wet
-- Patchy growth — uneven inoculation, poor [[stamets-growing-room-air-circulation-co2-management]], or beans too dry
+- Patchy growth — uneven inoculation, poor air circulation, or beans too dry
 - Black spots — sporulation; harvest immediately, still edible
 - Yellow, orange, or pink spots — possible contamination; if widespread or foul-smelling, discard
 - Ammonia smell — over-fermentation; the tempeh has gone too long

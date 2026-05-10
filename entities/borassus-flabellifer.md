@@ -108,6 +108,10 @@ In traditional medicine, various parts of the palmyra palm are used to treat ail
 
 ## See Also
 
+- [[lodoicea-maldivica]]
+
+- [[borassus-aethiopum]]
+
 - [[cocos-nucifera]]
 - [[phoenix-dactylifera]]
 - [[elaeis-guineensis]]

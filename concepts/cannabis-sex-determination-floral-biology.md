@@ -132,10 +132,7 @@ offspring. Imported strains typically exhibit great seedling diversity
 for most traits.
 
 ## References
-## See Also
 
+## See Also
 - [[cannabis-sex-expression-hermaphrodite-breeding-clarke]]
-
-## See Also
-
 - [[clarke-marijuana-botany-sex-determination-reproductive-biology]]

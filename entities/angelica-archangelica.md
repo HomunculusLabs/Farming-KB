@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Bown, D. (2001). Encyclopedia of Herbs and Their Uses. DK Publishing
-  - Chevallier, A. (2016). Encyclopedia of [[herbal-medicine]]. 3rd ed. DK Publishing
+  - Chevallier, A. (2016). Encyclopedia of herbal-medicine. 3rd ed. DK Publishing
   - Hoffmann, D. (2003). Medical Herbalism. Healing Arts Press
   - Foster, S. & Duke, J.A. (2013). Peterson Field Guide to Medicinal Plants. 3rd ed. Houghton Mifflin
   - Duke, J.A. et al. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press
@@ -113,9 +113,5 @@ Angelica has significant value in permaculture and ecological gardening:
 - **Carbon farming:** The large biennial plants contribute significant biomass, which can be composted or used as mulch.
 
 ## See Also
-
 - [[food-forest]]
-
-## See Also
-
 - [[permaculture-plants-herbaceous-perennials]]

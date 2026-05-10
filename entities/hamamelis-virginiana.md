@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Deters, A. et al. (2001). \"Hamamelis virginiana bark extract.\" Planta Medica, 67(8), 707-713."
   - "Rauwald, H.W. et al. (1991). \"Tannins and related polyphenols from Hamamelis bark.\" Planta Medica, 57(2), 154-158."
-  - "Foster, S. & Duke, J.A. (2014). Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants. Houghton Mifflin Harcourt."
+  - "Foster, S. & Duke, J.A. (2014). Peterson ghouled-field-guide-historical-context to Medicinal Plants. Houghton Mifflin Harcourt."
   - "Erdelmeier, C.A.J. et al. (1996). \"Anti-inflammatory activity of Hamamelis distillate.\" Skin Pharmacology, 9(4), 246-250."
 ---
 

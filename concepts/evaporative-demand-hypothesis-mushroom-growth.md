@@ -1,0 +1,148 @@
+---
+title: Evaporative Demand Hypothesis for [[mushroom-tropisms]]
+category: mycology
+tags: [evaporative-demand, tropism-mechanism, mushroom-physiology, boundary-layer, mycology]
+created: 2026-05-09
+source: tropisms-in-the-mushroom-psilocybe-cubensis.md
+related: [anemotropism-in-basidiomycete-mushrooms, negative-geotropism-in-mushroom-fruiting, mushroom-stipe-development-stages]
+---
+
+# Evaporative Demand Hypothesis for Mushroom Tropisms
+
+The evaporative demand hypothesis, proposed by Badham (1982) based on wind
+tunnel experiments with *[[brassinosteroid-growth-promotion-psilocybe-cubensis]]*, suggests that differential
+evaporative demand across the stipe surface is the primary driver of
+directional mushroom growth. This hypothesis provides a unifying framework
+that explains both anemotropism (wind response) and phototropism (light
+response) through a single physical mechanism.
+
+## Core Mechanism
+
+The hypothesis proposes that stipe curvature results from differential
+[[brassinosteroid-physiological-mechanisms-cell-elongation-division]] caused by asymmetric evaporative demand across the stipe
+surface. When one side of the stipe experiences greater evaporative demand
+than the other, cells on the high-demand side grow at a different rate,
+producing curvature.
+
+The cells of the stipe may be responding to this stimulus individually —
+that is, each cell detects its local evaporative environment and adjusts
+its expansion rate accordingly, without requiring a centralized hormonal
+signal for the initial anemotropic response.
+
+## The Four Factors of Evaporative Demand
+
+Badham identified four [[duggar-mushroom-environmental-factors-temperature-moisture-light]] that contribute to
+evaporative demand at the stipe surface:
+
+### 1. Wind (Airflow)
+Wind reduces the boundary layer thickness on the windward side of the
+stipe. A thinner boundary layer means more efficient removal of water
+vapor from the surface, increasing evaporative demand. Conversely, the
+leeward side has a thicker boundary layer with reduced evaporation.
+
+This boundary layer asymmetry is the primary driver of anemotropism. The
+windward side dries faster, creating a physiological gradient that directs
+stipe curvature into the wind.
+
+### 2. Humidity
+Higher ambient humidity reduces the water vapor concentration gradient
+between the stipe surface and the surrounding air, decreasing evaporative
+demand. Lower humidity increases the gradient and evaporative demand. In
+Badham's experiments, humidity was maintained at 94 ± 3% RH — close to
+saturation but still allowing sufficient evaporative demand for tropic
+responses.
+
+### 3. Light
+Light can influence evaporative demand through two mechanisms:
+
+- **Thermal effect**: Light heats the mushroom surface, increasing water
+  evaporation. The illuminated side of the stipe would experience greater
+  evaporative demand, causing curvature toward the light source
+  (positive phototropism of the stipe).
+- **Hormonal effect**: Small quantities of light may trigger hormonal
+  responses that modify growth patterns independently of the thermal
+  effect. The light flux density in Badham's experiments was approximately
+  one-tenth of natural field conditions, suggesting the thermal effect was
+  minimal.
+
+### 4. Temperature
+Higher temperature increases the rate of water evaporation and the
+kinetic energy of water molecules, both of which increase evaporative
+demand. Temperature gradients across the stipe surface could therefore
+contribute to differential growth rates.
+
+## Interaction and Hierarchy of Factors
+
+The four factors interact in complex ways, and their relative importance
+can shift depending on conditions:
+
+- Under moderate wind and high humidity, **wind is the dominant factor**
+  (anemotropism prevails)
+- Under strong light and still air, **light may become dominant**
+  (phototropism prevails)
+- During spore production, **a gill-derived hormone may override both**
+  wind and [[phototropism-and-plant-light-responses]], making gravity the dominant directional cue
+  ([[negative-geotropism-in-mushroom-fruiting]] prevails)
+
+This hierarchy explains why different researchers have reported different
+tropic responses under different experimental conditions — the dominant
+factor depends on the specific combination and intensity of environmental
+variables.
+
+## Boundary Layer Physics
+
+The boundary layer is the thin layer of relatively still air adjacent to
+the stipe surface. Within this layer, water vapor concentration is highest
+right at the surface and decreases toward the bulk air. The thickness of
+the boundary layer depends on:
+
+- **Wind speed**: Higher wind speed → thinner boundary layer → more
+  evaporation
+- **Surface geometry**: Rough or irregular surfaces create turbulent
+  boundary layers with complex local variation
+- **Surface orientation**: The windward side of a cylindrical object in
+  airflow has a thinner boundary layer than the leeward side
+
+In the context of mushroom growth, the boundary layer redistribution caused
+by wind creates a systematic asymmetry: the windward side always has higher
+evaporative demand than the leeward side, regardless of wind direction.
+
+## Analogy with Phycomyces
+
+The evaporative demand hypothesis draws support from studies of
+*Phycomyces blakesleeanus*, a zygomycete fungus that shows both
+anemotropism and an avoidance response (bending away from objects):
+
+- **Johnson and Gamow (1971)** demonstrated that both wind and water vapor
+  are necessary for the *Phycomyces* avoidance response
+- **Cohen et al. (1975)** described the anemotropic response in
+  *Phycomyces* in detail
+- The mechanism in *Psilocybe* may be fundamentally similar — cells on the
+  stipe surface detect local evaporative conditions and adjust their
+  elongation accordingly
+
+## Testable Predictions
+
+The evaporative demand hypothesis makes several testable predictions:
+
+1. Manipulating boundary layer thickness without changing wind direction
+  should alter tropic response magnitude
+2. Humidity gradients across a stipe in still air should induce curvature
+  toward the drier side
+3. Localized heating of one side of the stipe should produce curvature
+  similar to directed light
+4. Species with different stipe surface textures should show different
+  sensitivities to wind-driven evaporative demand
+
+## Limitations
+
+The evaporative demand hypothesis does not fully explain:
+
+- The precise cellular mechanism by which differential evaporation is
+  sensed and transduced into differential cell elongation
+- Why sporeless mutants lack the geotropic response if evaporative demand
+  gradients are still present
+- The role of hormones produced in the gills that can override the
+  evaporative demand response
+- Why some mushroom species show stronger or weaker tropic responses than
+  others despite similar environmental conditions

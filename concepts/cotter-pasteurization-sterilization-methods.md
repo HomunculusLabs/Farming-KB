@@ -126,6 +126,8 @@ plant material to destroy reproductive potential.
 
 ## See Also
 
+- [[grain-sterilization-methods]]
+
 - [[pasteurization-vs-sterilization]]
 
 - [[cotter-laboratory-setup]] -- clean room and HEPA requirements

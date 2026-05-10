@@ -1,5 +1,5 @@
 ---
-title: shulgin-mda-compound-profile Profile
+title: MDA Compound Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -36,7 +36,7 @@ MDA combines psychedelic and empathogenic/entactogenic qualities. Shulgin's repo
 - Enhanced sensory perception
 - Deep introspective potential
 
-At moderate doses (100-120 mg), MDA produces a full-spectrum [[leary-psychedelic-experience-bardo-mapping]] with more visual intensity than [[mdma-in-pihkal-context]] but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
+At moderate doses (100-120 mg), MDA produces a full-spectrum psychedelic experience with more visual intensity than [[mdma-in-pihkal-context]] but somewhat less emotional warmth. The stimulant component is more pronounced, and the overall experience tends to be more "edgy" or intense.
 
 ## History
 
@@ -68,26 +68,3 @@ This dual action — serotonin release plus 5-HT2A agonism — distinguishes MDA
 MDA is typically synthesized from safrole or isosafrole via isomerization, oxidation to MDP2P (3,4-methylenedioxyphenyl-2-propanone), and reductive amination with ammonia or nitroethane/LiAlH4 reduction.
 
 See also: [[mdma-in-pihkal-context]], [[dob-compound-profile]], [[phenethylamine-chemistry-basics]], [[phenethylamine-receptor-pharmacology]]
-## Practical Considerations
-
-Successful implementation of MDA Compound Profile requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[mdo-compound-profile]]
-- [[mde-compound-profile]]

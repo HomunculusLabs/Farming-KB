@@ -18,10 +18,10 @@ White-rot fungi (Basidiomycota) are the most effective known biological agents f
 The model white-rot fungus; first organism shown to degrade lignin and polymeric dyes (Glenn and Gold, 1983). Produces LiP, MnP, and H2O2-generating enzymes under nitrogen-limited secondary metabolism. Degrades PAHs, azo dyes, pentachlorophenol, TNT, and polychlorinated biphenyls. Achieves 100% decolorization of Orange II, Azure B, and Tropaeolin O.
 
 ### Trametes versicolor
-Often superior to P. chrysosporium in rate and extent of degradation. Produces laccase, MnP, and LiP. Strict secondary metabolism not required for ligninolytic [[ligninolytic-enzyme-production-bioremediation]]. Decolorizes reactive dyes (95-98% of Remazol Blue/Red), PAHs, and endocrine-disrupting compounds. Effective in both static and agitated cultures.
+Often superior to P. chrysosporium in rate and extent of degradation. Produces laccase, MnP, and LiP. Strict secondary metabolism not required for ligninolytic enzyme production. Decolorizes reactive dyes (95-98% of Remazol Blue/Red), PAHs, and endocrine-disrupting compounds. Effective in both static and agitated cultures.
 
 ### Pleurotus Species (oyster mushrooms)
-- **P. ostreatus** — High decolorization efficiency (49% of [[fungal-olive-mill-wastewater-treatment]] wastewater); effective dye degrader; produces laccase and MnP
+- **P. ostreatus** — High decolorization efficiency (49% of olive mill wastewater); effective dye degrader; produces laccase and MnP
 - **P. sajor-caju** — 72-75% decolorization of olive mill effluent; produces laccase active toward o-dianisidine
 - **P. pulmonarius** — 97% decolorization of Remazol Brilliant Blue R in solid-state fermentation; high laccase activity
 - **P. calyptratus** — 91% decolorization of Orange G via laccase
@@ -38,7 +38,7 @@ Often superior to P. chrysosporium in rate and extent of degradation. Produces l
 
 ## Mechanism of Action
 
-White-rot fungi degrade pollutants through their ligninolytic system, originally evolved to [[query-can-fungi-break-down-plastic-pollution]] lignin — the second most abundant biopolymer on Earth. The nonspecific nature of LiP and MnP (enhanced by redox mediators) enables oxidation of compounds with structural similarity to lignin. Laccases oxidize phenolic compounds and, with mediators, extend to non-phenolic substrates.
+White-rot fungi degrade pollutants through their ligninolytic system, originally evolved to break down lignin — the second most abundant biopolymer on Earth. The nonspecific nature of LiP and MnP (enhanced by redox mediators) enables oxidation of compounds with structural similarity to lignin. Laccases oxidize phenolic compounds and, with mediators, extend to non-phenolic substrates.
 
 ## Environmental Factors
 
@@ -53,62 +53,4 @@ White-rot fungi degrade pollutants through their ligninolytic system, originally
 - [[mycoremediation-techniques]] for application methods
 - [[mycoremediation-textile-dye-degradation]] for dye-specific applications
 - [[mycoremediation-field-applications]] for field deployment
-- [[fungal-role-in-carbon-cycling]] for [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] roles
-## Practical Considerations
-
-When working with White-Rot Fungi in Bioremediation, several practical factors should be
-carefully considered to achieve optimal results. These include
-the specific conditions of the implementation context, available
-resources, timing requirements, and the interactions between this
-topic and other elements of the broader system. A holistic view
-that considers these interconnections produces better outcomes.
-
-Environmental conditions such as temperature, moisture, and
-seasonal patterns significantly influence results. Monitoring these
-variables and adapting practices accordingly is essential for success.
-The most effective practitioners develop keen observation skills and
-respond flexibly to changing conditions rather than following rigid
-protocols regardless of circumstances or local variation.
-
-[[savory-holistic-resource-management-animal-impact]] encompasses not only material inputs but also
-knowledge, time, and ongoing attention. Realistic assessment of what
-can be sustainably maintained helps prevent overextension and ensures
-that implementations remain viable and productive over the long term.
-
-## Common Challenges and Solutions
-
-Several recurring challenges tend to arise in work related to this
-topic. These include variability in environmental conditions, the
-complexity of multi-variable interactions, and the difficulty of
-predicting outcomes with certainty in dynamic systems. Anticipating
-these challenges enables more proactive and effective management.
-
-Building resilience into implementations through diversity, redundancy,
-and adaptive capacity helps buffer against unpredictable events and
-conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
-than assuming perfect predictability or control over outcomes.
-
-Documentation and record-keeping support continuous improvement by
-creating a reference base of observations, interventions, and results.
-This accumulated knowledge enables progressively better decision-making
-and helps identify patterns that might otherwise be overlooked in the
-complexity of day-to-day management and observation activities.
-
-## Future Directions
-
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
-
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
+- [[fungal-role-in-carbon-cycling]] for natural decomposition roles

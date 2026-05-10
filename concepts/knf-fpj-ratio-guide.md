@@ -1,5 +1,5 @@
 ---
-title: KNF FPJ cannabis-thc-cbd-ratio-guide-for-conditions
+title: KNF FPJ Ratio Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # KNF FPJ Ratio Guide
 
-[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation times.
+Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) both follow the same fundamental osmotic pressure extraction method. This guide covers the correct ratios by plant material type, sugar ratios, and expected fermentation [[bahay-kubo-imo-collection-and-preparation]] times.
 
 ## Base Ratio
 
@@ -29,7 +29,7 @@ Choose plant material that matches the growth stage of your target crop:
 | Target Stage | Use Material From | Examples |
 |-------------|-------------------|----------|
 | Early growth (spring) | Fast-growing spring plants | Mugwort, dropwort, bamboo shoot |
-| [[cannabis-vegetative-growth-stage]] | Summer-growing plants | [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]] tips, squash tips, tomato |
+| Vegetative growth | Summer-growing plants | Sweet potato tips, squash tips, tomato |
 | Flowering | Plants that flower in your season | Fruit blossoms, mugwort flowers |
 | Fruiting | Mature/fruiting plants | Banana peel, mango, papaya |
 
@@ -92,7 +92,7 @@ Choose plant material that matches the growth stage of your target crop:
 | Early growth boost | 1:500 |
 | Stress recovery | 1:500 |
 | Soil drench | 1:1,000 |
-| [[jadam-seed-treatment-and-nursery-management]] | 1:1,000 |
+| Seed treatment | 1:1,000 |
 
 ## Temperature
 

@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [query, bokashi, composting, fermentation, soil-health]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: query
 ---
 
@@ -107,3 +106,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+## See Also
+
+- [[query-what-is-compost-tea-and-does-it-actually-work]]

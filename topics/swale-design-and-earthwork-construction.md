@@ -1,6 +1,6 @@
 ---
 title: "Swale Design and Earthwork Construction"
-subtitle: "Comprehensive guide to swales, keyline design, dams, and landscape water management earthworks"
+subtitle: "[[allen-australian-psilocybe-species-comprehensive-guide]] to swales, keyline design, dams, and landscape water management earthworks"
 tags: [permaculture, earthworks, swales, water-harvesting, keyline-design, dams, ponds, erosion-control, contour, land-restoration]
 date: 2026-05-09
 updated: 2026-05-09
@@ -31,7 +31,7 @@ into productive soil moisture. From the simple contour ditch to the
 sophisticated keyline irrigation system, earthworks form the foundation upon
 which productive, drought-resilient landscapes are built.
 
-The core principle behind all water harvesting earthworks can be stated in
+The core principle behind all water [[mollison-designers-swale-design-and-water-harvesting-earthworks]] can be stated in
 three words: slow, spread, and sink. Fast-moving water erodes soil, carries
 away nutrients, and delivers nothing to the land it crosses. By intercepting
 water as it moves across slopes and giving it time to percolate into the
@@ -51,7 +51,7 @@ one of the highest-leverage interventions available to land designers.
 The practice has ancient roots. The terraced rice paddies of Southeast Asia,
 the qanat tunnels of Persia, the check dams of the Negev Desert, and the
 chinampa islands of the Aztec Valley of Mexico all represent sophisticated
-pre-industrial water management systems. Modern permaculture earthworks draw
+pre-industrial water management systems. Modern [[permaculture-earthworks]] draw
 on these traditions while incorporating contemporary understanding of soil
 science, hydrology, and landscape ecology, synthesised through the work of
 P.A. Yeomans, Bill Mollison, Sepp Holzer, and Geoff Lawton.
@@ -67,7 +67,7 @@ space and how the shape of the landscape can help achieve harmony with the
 least amount of input.
 
 Understanding how water moves through a landscape is the foundation of all
-earthworks design. When rain falls, it may infiltrate into soil, run off
+[[mollison-course-swales-and-earthworks-design]]. When rain falls, it may infiltrate into soil, run off
 across the surface, evaporate, or be taken up by plants and returned
 through transpiration. In healthy, vegetated landscapes most rainfall
 infiltrates, moving slowly through soil profiles to recharge groundwater.
@@ -76,7 +76,7 @@ contributing to flooding downstream. Earthworks restore the natural
 infiltration capacity that has been lost through compaction, deforestation,
 and poor land management.
 
-In the permaculture design hierarchy for humid landscapes, water planning
+In the [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] hierarchy for humid landscapes, water planning
 comes first, followed by access planning (roads and tracks), then plant and
 animal system planning. Without adequate water planning, subsequent
 decisions about roads, buildings, and plantings will inevitably conflict
@@ -121,7 +121,7 @@ water-harvesting earthworks. Mollison emphasised that swales should be
 broad, hardly ever less than four feet wide and often much wider, and
 should not be used on steep slopes, only on moderate to shallow systems.
 
-The standard contour swale is the most common type, dug exactly on contour
+The standard [[comparison-keyline-vs-contour-swale]] is the most common type, dug exactly on contour
 with a level bottom so that water spreads evenly along the entire length.
 These serve for tree planting, slope stabilisation, and broad-scale
 landscape hydration. Diversion swales differ in that they are dug with a

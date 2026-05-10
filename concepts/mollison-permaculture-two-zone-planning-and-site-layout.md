@@ -1,10 +1,10 @@
 ---
-title: Mollison Zone Planning and Site Layout in Permaculture Two
+title: [[mollison-designers-climate-zone-2-orchard-food-forest|Mollison]] Zone Planning and Site Layout in Permaculture Two
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, soil]
-sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
+sources: [raw/papers/bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests|bill-mollison-permaculture-a-designers-manual.md]
 ---
 
 # Mollison Zone Planning and Site Layout in Permaculture Two

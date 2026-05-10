@@ -13,9 +13,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Sargent, C.S. (1965). "Manual of the Trees of psilocybin-north-america-pacific-northwest." Dover Publications.
-  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
-  - Isely, D. (1990). "Vascular Flora of the Southeastern [[dmt-containing-plants-united-states-halpern]]." University of North Carolina Press.
+  - Isely, D. (1990). "Vascular Flora of the Southeastern dmt-containing-plants-united-states-halpern." University of North Carolina Press.
   - USDA NRCS (2024). "Cercis canadensis L." Plant Database, plants.usda.gov.
 ---
 

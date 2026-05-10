@@ -9,7 +9,7 @@ sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 
 ## Inonotus obliquus (Chaga) — Research Summary
 
-Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch trees (Betula spp.) in cold climates across the Northern Hemisphere — Siberia, Scandinavia, Canada, and northern parts of the [[dmt-containing-plants-united-states-halpern]] and Japan. Unlike other [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], the commercially used part is not the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] but a dense mass of mycelium and wood that has been infected and transformed by the fungus over years or decades.
+Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch trees (Betula spp.) in cold climates across the Northern Hemisphere — Siberia, Scandinavia, Canada, and northern parts of the United States and Japan. Unlike other medicinal mushrooms, the commercially used part is not the fruiting body but a dense mass of mycelium and wood that has been infected and transformed by the fungus over years or decades.
 
 ### Active Compounds
 
@@ -30,7 +30,7 @@ Chaga (Inonotus obliquus) is a sterile conk (sclerotium) that grows on birch tre
 
 **Superoxide dismutase (SOD)**:
 - Chaga contains a form of SOD, one of the body's most important antioxidant enzymes
-- SOD catalyzes the conversion of superoxide radicals (damaging) to [[cervantes-hydrogen-peroxide-sterilization]] and oxygen
+- SOD catalyzes the conversion of superoxide radicals (damaging) to hydrogen peroxide and oxygen
 - Chaga SOD is one of the highest natural sources of this enzyme
 
 **Other**: polyphenols, triterpenoids (inotodiol, trametenolic acid), lanosterol, ergosterol, and various minerals
@@ -87,7 +87,7 @@ Used extensively in Siberian, Russian, and Scandinavian folk medicine for centur
 ### Preparation
 
 - **Tea/decoction**: Traditional method, simmered for extended periods (hours). Extracts water-soluble components (polysaccharides, melanin).
-- **Dual extract**: Water extraction followed by [[pf-tek-alcohol-extraction-method]] captures both water-soluble (beta-glucans, melanin) and alcohol-soluble (betulin, triterpenes) components.
+- **Dual extract**: Water extraction followed by alcohol extraction captures both water-soluble (beta-glucans, melanin) and alcohol-soluble (betulin, triterpenes) components.
 - **Powder**: Dried and ground, can be added to foods or encapsulated.
 
 ## See Also

@@ -117,7 +117,6 @@ Southern highbush blueberries require only 200 to 500 chill hours and are the
 foundation of blueberry production in the southeastern United States,
 California, and Mediterranean regions globally. They tend to be slightly
 smaller in stature than northern highbush and are more sensitive to soil pH
-extremes. Notable varieties include O'Neal, one of the earliest southern
 ## See Also
 
 - [[permaculture|permaculture]] for integrating blueberries into

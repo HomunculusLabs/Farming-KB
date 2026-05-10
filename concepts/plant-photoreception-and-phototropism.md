@@ -137,6 +137,8 @@ Understanding plant [[darwin-phototropism-discovery-plant-light-perception]] is 
 
 ## See Also
 
+- [[plant-phototropism-and-photoperiodism]]
+
 - [[photoperiodism-plant-flowering]]
 - [[plant-photoreceptors-phytochromes-cryptochromes]]
 - [[darwin-plant-movement-experiments]]

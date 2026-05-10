@@ -14,8 +14,8 @@ sources:
   - Zadrazil, F. (1978). "The ecology and industrial production of Pleurotus ostreatus." Mushroom Science X(1): 621-628.
   - Sánchez, C. (2010). "Cultivation of Pleurotus ostreatus and other edible mushrooms." Applied Microbiology and Biotechnology 85(5): 1321-1337.
   - Royse, D.J. et al. (2017). "Sixteen years of cultivation of Pleurotus spp. on tree leaves." Mushroom Science 15(1): 381-388.
-  - Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. 3rd ed. Ten Speed Press.
-  - Oei, P. (2003). [[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications.
+  - Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press.
+  - Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications.
 ---
 
 ## Overview

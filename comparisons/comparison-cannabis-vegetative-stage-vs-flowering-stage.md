@@ -4,8 +4,7 @@ title: "cannabis-vegetative-stage vs Flowering Stage"
 tags: [comparison, growth-stages, flowering, vegetative, light-cycles]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 ---
 
 # Cannabis Vegetative Stage vs Flowering Stage
@@ -71,3 +70,19 @@ system maximizes space utilization and ensures regular harvest intervals. Some g
 use light manipulation to extend or compress specific phases; for example, gradually reducing
 the light period from 18 to 12 hours over several days can ease the transition and reduce
 stretch compared to an abrupt switch.
+
+## Nutrient Profile Differences
+
+Vegetative and flowering stages require distinct nutrient formulations. During vegetative
+growth, plants require higher nitrogen (N) relative to phosphorus (P) and potassium (K), with
+typical NPK ratios of 3-1-2 or 2-1-2. During flowering, demand shifts: nitrogen needs
+decrease while phosphorus and potassium requirements increase for bud formation, resin
+production, and terpene synthesis. Typical flowering NPK ratios are 1-3-4 or 1-2-3.
+
+## Stretch Management
+
+When photoperiod plants are flipped from 18/6 to 12/12, most strains undergo a stretch phase
+lasting 2-3 weeks where plants can double or triple in height. Sativa-dominant strains stretch
+more than indica-dominant ones. Managing this stretch is critical to avoid plants exceeding the
+grow space. Techniques include reducing nitrogen before the flip, maintaining slightly higher
+temperatures during day than night, and using trellis netting.

@@ -106,6 +106,9 @@ Queen palms are also hosts for palm leaf skeletonizer moths and various scale in
 
 ## See Also
 
+- [[spiranthes-romanzoffiana]]
+- [[syagrus-coronata]]
+
 - [[cocos-nucifera]]
 - [[areca-catechu]]
 - [[butia-capitata]]

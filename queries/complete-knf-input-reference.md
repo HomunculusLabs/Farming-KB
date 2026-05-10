@@ -36,29 +36,29 @@ sources:
 
 # Complete KNF Input Quick Reference
 
-Consolidated reference for all Korean [[comparison-natural-farming-vs-permaculture]] (KNF) inputs — ingredients, fermentation times, dilution rates, and growth-stage application. See [[nutritive-cycle-theory]] for the science behind stage-based feeding.
+Consolidated reference for all Korean Natural Farming (KNF) inputs — ingredients, fermentation times, dilution rates, and growth-stage application. See [[nutritive-cycle-theory]] for the science behind stage-based feeding.
 
 ## All KNF Inputs
 
 | Input | Abbr. | Purpose | Key Ingredients | Ferment Time | Dilution | Stage | See Also |
 |-------|-------|---------|-----------------|-------------|----------|-------|----------|
-| [[beneficial-indigenous-microorganisms-bim]] | IMO (1-4) | Soil inoculant | Forest microbes + steamed rice | 3-7d per stage | Direct / 1:100 | ALL | [[indigenous-microorganisms-imo]] |
-| [[bionutrients-lab-fermented-plant-juice-fpj]] | FPJ | Plant nutrient / energy | Growing tips + brown sugar 1:1 | 7d sum / 10-15d win | 1:800-1000 | VEG | [[fermented-plant-extract-fpe]] |
+| Indigenous Microorganisms | IMO (1-4) | Soil inoculant | Forest microbes + steamed rice | 3-7d per stage | Direct / 1:100 | ALL | [[indigenous-microorganisms-imo]] |
+| Fermented Plant Juice | FPJ | Plant nutrient / energy | Growing tips + brown sugar 1:1 | 7d sum / 10-15d win | 1:800-1000 | VEG | [[fermented-plant-extract-fpe]] |
 | Fermented Fruit Juice | FFJ | Fruit / flower growth | Ripe fruit + brown sugar 1:1 | 7d sum / 10-15d win | 1:1000 | CHG / REPR | [[fermented-plant-extract-fpe]] |
 | Fish Amino Acid | FAA | Nitrogen source | Fish + brown sugar 1:1 | 7-10d sum / 10-15d win | 1:1000 | VEG only | [[fish-amino-acid-faa]] |
-| [[bionutrients-lab-oriental-herbal-nutrients-ohn]] Nutrient | OHN | Immune booster / pesticide | 5 herbs + beer/rice wine | 21d (3x7d phases) | 1:500-1000 | REPR / PRE-H | [[oriental-herbal-nutrient-ohn]] |
+| Oriental Herbal Nutrient | OHN | Immune booster / pesticide | 5 herbs + beer/rice wine | 21d (3x7d phases) | 1:500-1000 | REPR / PRE-H | [[oriental-herbal-nutrient-ohn]] |
 | Lactic Acid Bacteria | LAB | Microbe support, disease suppress | Rice wash + milk | 12-15d | 1:1000 | VEG (reduce late REPR) | [[lactic-acid-bacteria-lab]] |
 | Water-Soluble Potassium | WS-K | Potassium source | Tobacco stems + water (boil) | N/A (extraction) | 1:30 | REPR | [[knf-preparations]] |
 | Water-Soluble Phosphoric Acid | WS-PA | Phosphorus source | Sesame stem charcoal + water | N/A (extraction) | 1:30 | CHG | [[knf-preparations]] |
 | Water-Soluble Calcium | WS-Ca | Calcium source | Eggshells + BRV | 7-10d | 1:1000 | CHG / REPR | [[water-soluble-calcium-wca]] |
-| Water-Soluble Ca Phosphate | WS-CaPo | [[bionutrients-lab-calcium-phosphate-calamansi]] (P+Ca) | Animal bones + BRV | 7-10d | 1:500-1000 | CHG | [[water-soluble-calcium-phosphate-wcp]] |
+| Water-Soluble Ca Phosphate | WS-CaPo | Calcium phosphate (P+Ca) | Animal bones + BRV | 7-10d | 1:500-1000 | CHG | [[water-soluble-calcium-phosphate-wcp]] |
 | Brown Rice Vinegar | BRV | Vinegar / extraction solvent | Brown rice + IMO + water | 5-7d wine + 2-4w vinegar | 1:200-500 | CHG | [[brown-rice-vinegar-brv]] |
 | Yeast | -- | Growth recovery | Grape/strawberry + sugar | 7d | 1:1000 | Stress recovery | [[knf-preparations]] |
 | Loess Powder | -- | Trace minerals | Ant hill / loess soil | N/A (direct) | 20-30 g/L | ALL | [[knf-preparations]] |
 | Seawater | -- | Full-spectrum minerals | Surface seawater | N/A (direct) | 1:30 | ALL / PRE-H | [[knf-preparations]] |
 | Fermented Mixed Compost | FMC | Compost fertilizer | IMO-4 + organics + KNF inputs | 4-6 weeks | 1-2 kg/m2 direct | ALL | [[fermented-mixed-compost-fmc]] |
 
-Stages: **VEG** = vegetative, **CHG** = changeover ([[cho-morning-sickness-and-plant-cross-over-period]]), **REPR** = reproductive, **PRE-H** = pre-harvest
+Stages: **VEG** = vegetative, **CHG** = changeover (morning sickness), **REPR** = reproductive, **PRE-H** = pre-harvest
 
 ## Growth Stage Application Summary
 

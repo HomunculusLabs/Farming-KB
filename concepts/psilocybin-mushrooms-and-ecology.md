@@ -5,7 +5,6 @@ updated: 2026-04-15
 type: concept
 tags: [psilocybin, mushrooms]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Psilocybin Mushrooms and Ecology

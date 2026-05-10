@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Sakurai H, Nagata T, Yamashita M (2010). "Phytochemistry and pharmacology of Amomum species." Natural Product Communications, 5(11), 1741–1750.
   - Tewari D, Sah AN, Pandey A, et al. (2021). "Amomum subulatum Roxb.: A comprehensive review on ethnobotany, phytochemistry, and pharmacological activities." Journal of Ethnopharmacology, 274, 114029.
-  - Raina VK, Srivastava SK, Syamsundar KV, et al. (2004). "[[permaculture-designers-manual-essential-oil-plants]] composition of Amomum subulatum Roxb. from the northern Himalayas." Flavour and Fragrance Journal, 19(4), 322–324.
+  - Raina VK, Srivastava SK, Syamsundar KV, et al. (2004). "permaculture-designers-manual-essential-oil-plants composition of Amomum subulatum Roxb. from the northern Himalayas." Flavour and Fragrance Journal, 19(4), 322–324.
   - Chopra RN, Nayar SL, Chopra IC (1956). Glossary of Indian Medicinal Plants. CSIR, New Delhi.
 ---
 

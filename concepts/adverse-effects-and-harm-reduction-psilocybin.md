@@ -112,4 +112,6 @@ similar habitats and substrates to *Psilocybe* species. Spore print color is a
 
 ## See Also
 
+- [[dmt-black-hole-effect-and-incommunicability]]
+
 - [[powell-psilocybin-harm-reduction]]

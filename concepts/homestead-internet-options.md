@@ -141,9 +141,15 @@ A WISP installs a small directional antenna on your roof or a tower, aimed at th
 - Check Wireless ISP Association (WISPA) directory
 - Ask neighbors what they use
 - Look for towers on hilltops with dish-shaped antennas
-## Related
 
-- [[homestead-first-aid-guide]]
-- [[homestead-water-purification]]
-- [[homestead-financial-planning]]
-- [[off-grid-electricity-basics]]
+## Option 4: DSL (Digital Subscriber Line)
+
+DSL delivers internet over existing copper telephone lines. Availability is declining as carriers abandon copper infrastructure.
+
+### Specifications
+
+
+
+## See Also
+- [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
+- [[query-how-to-start-beekeeping-on-a-homestead]]

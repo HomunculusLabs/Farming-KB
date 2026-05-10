@@ -136,12 +136,11 @@ A complete trace water dosing protocol for microwave surface sterilization inclu
 1. **Surface preparation** — Clean the surface to remove gross contamination and debris
 2. **Water preparation** — Use deionized or distilled water at room temperature
 3. **Dose calculation** — Calculate total water volume based on surface area (9 µL/cm²)
-4. **Water application** — Apply water using the chosen method to achieve uniform coverage
 ## See Also
 
-- [[microwave-water-interaction-2.45-ghz]]
+- [[microwave-water-interaction-2-45-ghz]]
 
-- [[microwave-water-interaction-2.45-ghz]]
+- [[microwave-water-interaction-2-45-ghz]]
 
 - [[microwave-reflective-transparent-materials-surface-sterilization]]
 

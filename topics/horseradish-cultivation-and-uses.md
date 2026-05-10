@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "U.S. Department of Agriculture — Natural Resources Conservation Service: Armoracia rusticana Plant Profile"
-  - "Small, E. (2006). [[holzer-medicinal-and-culinary-herbs-compendium]]. NRC Research Press."
+  - "Small, E. (2006). holzer-medicinal-and-culinary-herbs-compendium. NRC Research Press."
   - "Simon, J.E., et al. (1984). 'Herbs: An Indexed Bibliography 1971-1980.' Purdue University."
   - "Kårlund, A., et al. (2014). 'Antioxidant and anti-inflammatory activities of horseradish.' J. Agric. Food Chem., 62(12), 2530–2540."
   - "Mazurek, B. & Pączkowski, C. (2021). 'Glucosinolates in Armoracia rusticana — chemistry, biosynthesis, and bioactivity.' Phytochemistry Reviews, 20, 415–434."
@@ -139,7 +139,6 @@ Horseradish can be grown in containers to control its invasive spread:
 
 ### Watering
 
-- **Regular moisture**: Horseradish prefers consistent, even moisture throughout the growing season. Aim for 2.5–5 cm (1–2 in) of water per week from rainfall or irrigation.
 ## Related Topics
 
 - [[companion-planting-and-polycultures]] — integration of horseradish into polyculture designs

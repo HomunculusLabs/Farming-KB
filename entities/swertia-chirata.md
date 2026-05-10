@@ -25,7 +25,7 @@ sources:
 
 ## Overview
 
-*Swertia chirata* (syn. *S. chirayita*) is a critically endangered
+*swertia chirata* (syn. *S. chirayita*) is a critically endangered
 herb in Gentianaceae, renowned as one of the most valuable bitter
 tonic plants in traditional medicine.
 
@@ -41,7 +41,7 @@ and *CITES Appendix II* regulates its trade.
 
 ## Taxonomy
 
-- **King[[dom|dom]]:** Plantae
+- **King [[dom]]:** Plantae
 - **Division:** Angiospermae
 - **Class:** Magnoliopsida
 - **Order:** Gentianales
@@ -71,7 +71,7 @@ releasing numerous small, winged seeds.
 
 ## Distribution and Habitat
 
-*Swertia chirata* is endemic to the Himalayan region, found across
+*swertia chirata* is endemic to the Himalayan region, found across
 Nepal, Bhutan, northern India (Uttarakhand, Sikkim, Arunachal Pradesh,
 and other northeastern states), and parts of Myanmar and southern China.
 
@@ -137,13 +137,11 @@ wild collection due to quality differences.
 
 ## 
 
-*Swertia chirata* is classified as **Critically Endangered** by the
-## See Also
+*swertia chirata* is classified as **Critically Endangered** by the
+
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
 
 ## See Also
-- mushroom-cultivation-for-people-with-disabilities
 - [[companion-cultivation-of-mushrooms-with-garden-vegetables]]
-
-## See Also
-
 - [[herbal-plant-remedies]]

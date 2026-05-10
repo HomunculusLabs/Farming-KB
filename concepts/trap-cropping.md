@@ -1,16 +1,15 @@
 ---
-title: comparison-trap-cropping-vs-beneficial-insects
+title: Trap Cropping
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, companion-planting, agriculture, gardening, vegetables, plants, ecology]
-sources:
-  sources: []
+sources: []
 ---
 
 # Trap Cropping
 
-Trap cropping is the practice of growing a sacrificial "trap" crop that attracts pests away from the main cash crop. The pests concentrate on the trap crop, which is then monitored, managed, or destroyed along with the pests. It is a key strategy in [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management (IPM) and pairs well with [[companion-planting-reference]] and [[insectary-plantings]].
+Trap cropping is the practice of growing a sacrificial "trap" crop that attracts pests away from the main cash crop. The pests concentrate on the trap crop, which is then monitored, managed, or destroyed along with the pests. It is a key strategy in integrated pest management (IPM) and pairs well with [[companion-planting-reference]] and [[insectary-plantings]].
 
 ## How Trap Cropping Works
 
@@ -78,12 +77,12 @@ Tomato hornworms (Manduca quinquemaculata) and tobacco hornworms (Manduca sexta)
 
 **Trap Crops:**
 - **Dill**: Hornworms prefer dill over tomatoes. Plant dill at the perimeter of tomato beds. Adult moths are also attracted to dill flowers for nectar.
-- **Borage**: Attracts hornworms and also repels them through [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] (conflicting research — may depend on density). Plant near tomatoes.
+- **Borage**: Attracts hornworms and also repels them through volatile compounds (conflicting research — may depend on density). Plant near tomatoes.
 - **Moonflowers (Datura inoxia)**: Extremely attractive to hornworm adults for egg-laying. A "dead-end" trap crop — larvae that feed on datura die from the toxic alkaloids.
 
 **Management:**
 - Hand-pick hornworms from trap crops (they are large and easy to spot)
-- Parasitic braconid wasps provide [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] — leave parasitized hornworms (those with white cocoons on their backs) alone
+- Parasitic braconid wasps provide biological control — leave parasitized hornworms (those with white cocoons on their backs) alone
 - See [[beneficial-insects-guide]] for braconid wasp support
 
 ### Cabbage Worms and Loopers
@@ -97,7 +96,7 @@ Imported cabbageworm, cabbage looper, and diamondback moth larvae damage brassic
 
 **Management:**
 - Monitor trap crops for eggs and small larvae
-- Apply [[cervantes-bacillus-thuringiensis-bt-control]] (Bt) to trap crops only, or to the entire brassica bed when larvae are small
+- Apply Bacillus thuringiensis (Bt) to trap crops only, or to the entire brassica bed when larvae are small
 - Use floating row covers on the main crop until the trap crop is established
 - Destroy trap crop at end of season to reduce overwintering population
 
@@ -140,11 +139,12 @@ Slugs and snails feed at night on a wide range of plants.
 **Management:**
 - Hand-pick slugs at night with a flashlight
 - Beer traps (shallow dishes of beer sunk into the soil) drown slugs
-- [[query-how-to-use-diatomaceous-earth-in-the-garden]] around the main crop (see [[natural-pest-deterrents]])
+- Diatomaceous earth around the main crop (see [[natural-pest-deterrents]])
 - Reduce mulch depth near susceptible crops (slugs hide in mulch)
 
-## Related Topics
+## Trap Crop Design Principles
 
-- [[companion-planting-reference]] for pest-repellent plant pairings
-- [[beneficial-insects-guide]] for biological control of pests on trap crops
-- [[natural-pest-deterrents]] for spray-based control of concentrated pest populations
+### Perimeter Trap Cropping
+
+Plant the trap crop completely around the border of the main crop. Pests approaching from outside encounter the trap crop first and concentrate there.
+

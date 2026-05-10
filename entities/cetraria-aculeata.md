@@ -107,6 +107,8 @@ The dark pigmentation of the thallus may serve a photoprotective function in the
 
 ## See Also
 
+- [[acrocomia-aculeata]]
+
 - [[desmarestia-aculeata]]
 
 - [[cetraria-islandica]]

@@ -16,7 +16,7 @@ updated: 2026-05-08
 sources:
   - Halpern JH (2004). "Hallucinogens and Dissociative Agents Growing in the United States." Pharmacology & Therapeutics 102(2): 131-138.
   - Valdes LJ, Diaz J, Paul A (1983). "Ethnopharmacology of Ska Maria Pastora (Salvia divinorum, Epling and Jativa-M.)." Journal of Ethnopharmacology 7: 287-312.
-  - Siebert DJ (1994). "Salvia [[salvia-divinorum-and-salvinorin-a]] A: new pharmacologic findings." Journal of Ethnopharmacology 43: 53-56.
+  - Siebert DJ (1994). "Salvia salvia-divinorum-and-salvinorin-a A: new pharmacologic findings." Journal of Ethnopharmacology 43: 53-56.
   - Roth BL et al. (2002). "Salvinorin A: a potent naturally occurring nonnitrogenous kappa opioid selective agonist." PNAS 99: 11934-11939.
 ---
 

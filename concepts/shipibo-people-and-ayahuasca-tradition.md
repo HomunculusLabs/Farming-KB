@@ -130,7 +130,7 @@ spiritual traditions.
 
 ## See Also
 
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]
 
 - [[ayahuasca]] · [[ayahuasqueros]] · [[icaros]]
 - [[ayahuasca-tourism-in-peru]] · [[garden-bed-designs]]

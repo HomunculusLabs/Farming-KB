@@ -109,6 +109,10 @@ The fern is well suited to alpine trough gardens constructed from tufa or limest
 
 ## See Also
 
+- [[woodsia-oregana]]
+
+- [[woodsia-ilvensis]]
+
 - [[pteridium-aquilinum]]
 - [[adiantum-pedatum]]
 - [[polypodium-vulgare]]

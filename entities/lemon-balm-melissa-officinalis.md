@@ -135,14 +135,10 @@ Lemon balm's pest-repellent and pollinator-attracting properties make it a versa
 - **Tomatoes**: Repels whiteflies and tomato hornworms; improves fruit set via pollinator support
 - **Brassicas**: Deters cabbage white butterflies and cabbage moths with aromatic oils
 - **Squash and cucumbers**: Repels squash bugs; attracts pollinators for better fruit set
-## See Also
 
+## See Also
 - [[herbal-medicine-making-basics]]
 - [[plant-tissue-systems-meristematic-ground-vascular-and-dermal]]
-
-## See Also
-
-- permaculture-plants-salt-tolerant-fodder-systems
 - [[melissa-officinalis]]
 - [[companion-planting]]
 - [[valeriana-officinalis]]

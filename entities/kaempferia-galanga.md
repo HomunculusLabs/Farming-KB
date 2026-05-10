@@ -61,7 +61,7 @@ In Malaysia, K. galanga was historically added to the arrow poison prepared from
 
 ### Hallucinogenic Use (New Guinea)
 
-There are vague reports that Galanga is employed as a hallucinogen in New Guinea. The specific context, [[emcdda-psilocybin-mushroom-dose-and-effects]] of this use remain poorly documented in the ethnobotanical literature. Some researchers have suggested that the hallucinogenic effects attributed to Galanga in New Guinea may actually result from confusion with other species or from adulteration of preparations with other psychoactive plants.
+There are vague reports that Galanga is employed as a hallucinogen in New Guinea. The specific context, [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] of this use remain poorly documented in the ethnobotanical literature. Some researchers have suggested that the hallucinogenic effects attributed to Galanga in New Guinea may actually result from confusion with other species or from adulteration of preparations with other psychoactive plants.
 
 ## Chemistry
 

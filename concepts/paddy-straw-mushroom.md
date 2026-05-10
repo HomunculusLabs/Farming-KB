@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, species, food, asia, agriculture, composting]
-sources:
-  sources: []
+sources: []
 ---
 
 # Paddy Straw Mushroom (Volvariella volvacea)
 
-The Paddy Straw Mushroom is a tropical and subtropical edible mushroom that is one of the most [[fungi-cultivated-mushrooms-pathogens-competitors]] in Southeast Asia and other warm-climate regions. Named for its traditional cultivation on rice straw, it is an important food source and cash crop in tropical agriculture systems.
+The Paddy Straw Mushroom is a tropical and subtropical edible mushroom that is one of the most cultivated mushrooms in Southeast Asia and other warm-climate regions. Named for its traditional cultivation on rice straw, it is an important food source and cash crop in tropical agriculture systems.
 
 ## Overview
 
@@ -31,7 +30,7 @@ Volvariella volvacea is a fast-growing, heat-loving mushroom that has been culti
 
 ## Critical Identification Warning
 
-Volvariella volvacea has a volva (cup-like structure at the base) and pink spores — features it shares with several deadly Amanita species, particularly Amanita phalloides (Death Cap) and [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (Destroying Angel). While cultivated paddy straw mushrooms are safe, wild foraging is strongly discouraged:
+Volvariella volvacea has a volva (cup-like structure at the base) and pink spores — features it shares with several deadly Amanita species, particularly Amanita phalloides (Death Cap) and Amanita virosa (Destroying Angel). While cultivated paddy straw mushrooms are safe, wild foraging is strongly discouraged:
 
 - Death Cap also has a volva and white gills when young
 - Mistaken identity is fatal
@@ -42,7 +41,7 @@ Volvariella volvacea has a volva (cup-like structure at the base) and pink spore
 
 Paddy straw mushroom is extremely heat-tolerant:
 
-- [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]: 75-95 F (24-35 C); optimal at 86-95 F (30-35 C)
+- Mycelial growth: 75-95 F (24-35 C); optimal at 86-95 F (30-35 C)
 - Fruiting: 80-95 F (27-35 C); optimal at 82-88 F (28-31 C)
 - Will not grow below 68 F (20 C)
 - Dies below 50 F (10 C)
@@ -116,7 +115,7 @@ Modern commercial production often uses cotton waste mixed with rice straw (70% 
 
 ## Yield Expectations
 
-- [[stamets-biological-efficiency-yield]]: 10-25% (lower than most cultivated mushrooms)
+- Biological efficiency: 10-25% (lower than most cultivated mushrooms)
 - Traditional bed method: 2-5 kg fresh per 100 kg dry substrate
 - Cotton waste substrate: 5-15 kg fresh per 100 kg dry substrate
 - Multiple flushes possible but first flush dominates (70-80% of yield)
@@ -142,9 +141,14 @@ Paddy straw mushroom is extremely perishable:
 - Drying: possible but quality is inferior
 - Freezing: blanch first, then freeze for up to 3 months
 
-The cold sensitivity is a significant challenge for distribution. Refrigeration at standard [[oyster-mushroom-storage-processing]] temperatures (35-38 F) causes chilling injury: browning, softening, and off-flavors. Ideal storage is 50-55 F — warmer than typical refrigeration.
-## Related Topics
+The cold sensitivity is a significant challenge for distribution. Refrigeration at standard mushroom storage temperatures (35-38 F) causes chilling injury: browning, softening, and off-flavors. Ideal storage is 50-55 F — warmer than typical refrigeration.
 
-- [[oyster-mushroom-species-guide]] for comparison with heat-tolerant Pleurotus species
-- [[nameko-cultivation]] for another Asian commercially important mushroom
-- [[shiitake-cultivation-guide]] for temperate [[accessible-mushroom-cultivation-for-disabilities]] methods
+## Nutritional Value
+
+- Protein: 2.5-3.5g per 100g fresh (relatively high for a vegetable)
+- Good source of B vitamins (niacin, thiamin, riboflavin)
+- Contains vitamin C (unusual for mushrooms)
+
+
+## See Also
+- [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]

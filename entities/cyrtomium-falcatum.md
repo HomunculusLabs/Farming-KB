@@ -13,7 +13,7 @@ updated: 2026-05-09
 sources:
   - Kramer, K.U. (1990). "Cyrtomium." In: Kubitzki, K. (ed.), The Families and Genera of Vascular Plants, Vol. 1. Springer.
   - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). "Cyrtomium." Flora of North America, Vol. 2. Oxford University Press.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). "Cyrtomium." Flora of North America, Vol. 2. Oxford University Press.
   - Valdespino, I.A. (1993). "Cyrtomium falcatum (Dryopteridaceae), new to the Texas flora." Madroño 40(3): 187–189.
 ---
 

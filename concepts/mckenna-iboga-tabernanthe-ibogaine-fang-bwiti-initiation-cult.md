@@ -125,7 +125,7 @@ dependency in ways conventional therapy cannot.
 
 Iboga is significant for its pharmacological uniqueness and what it
 represents culturally. It is a major entheogenic tradition developing
-independently of the [[emcdda-psilocybin-mushroom-dose-and-effects]] cults of Mesoamerica and
+independently of the [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] cults of Mesoamerica and
 ayahuasca traditions of Amazonia. Its survival into the modern era
 demonstrates the resilience of humanity's impulse to seek
 transcendence through plant medicines.

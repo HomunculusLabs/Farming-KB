@@ -138,12 +138,9 @@ These techniques are not mutually exclusive — in fact, they complement each ot
 **Choose hugelkultur** when you have abundant wood, need dramatic water retention, and are working at garden-to-homestead scale. It's the better choice for immediate, visible impact on challenging sites.
 
 **Choose terra preta (biochar)** when you want permanent soil improvement, need to scale across large areas, or are focused on carbon sequestration. It's the better choice for long-term investment in soil health.
-## See Also
 
+## See Also
 - [[comparison-terra-preta-vs-modern-biochar]]
 - [[decomposition]]
 - [[hugelkultur]]
-
-## See Also
-
 - [[comparison-hugelkultur-vs-biochar-soil-building]]

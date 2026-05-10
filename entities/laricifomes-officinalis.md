@@ -144,6 +144,7 @@ The full complement of [[query-what-are-the-main-bioactive-compounds-in-medicina
 - Paul Stamets has called it “the most endangered medicinal mushroom in North America”
 - Its extremely slow growth rate (decades to produce fruiting bodies) makes population recovery very slow after disturbance
 ## See Also
+
+- [[dichomitus-squalens]]
 - [[pseudotsuga-menziesii]]
 - [[medicinal-mushrooms]]
-- [[larix-decidua]]

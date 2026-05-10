@@ -16,9 +16,9 @@ tags:
   - cyanobacteria
 sources:
   - Lumpkin, T.A. & Plucknett, D.L. (1980). "Azolla: Botany, Physiology, and Use as a Green Manure." Economic Botany, 34(2), 111–153.
-  - Bocchi, S. & Malgioglio, A. (2010). "Azolla-Anabaena as a biofertilizer for rice paddy fields." In: [[hamilton-organic-fertilizers-and-plant-nutrition]]. Springer.
+  - Bocchi, S. & Malgioglio, A. (2010). "Azolla-Anabaena as a biofertilizer for rice paddy fields." In: hamilton-organic-fertilizers-and-plant-nutrition. Springer.
   - Wagner, G.M. (1997). "Azolla: A review of its biology and utilization." The Botanical Review, 63(1), 1–26.
-  - Shi, D.J. & Hall, D.O. (1988). "The Azolla-Anabaena association: [[lemon-cannabis-alchemy-historical-perspective-and-references]]." In: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]. Springer.
+  - Shi, D.J. & Hall, D.O. (1988). "The Azolla-Anabaena association: lemon-cannabis-alchemy-historical-perspective-and-references." In: comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer. Springer.
   - Watanabe, I. & Liu, C.C. (1992). "Improving nitrogen-fixing systems and integrating them into sustainable rice farming." Plant and Soil, 141(1), 57–67.
 ---
 
@@ -109,6 +109,8 @@ In modern ecosystems, *A. caroliniana* plays important roles in freshwater nutri
 Wild populations of *A. caroliniana* provide habitat and food for aquatic invertebrates, amphibian larvae, and waterfowl. The dense floating mats create microhabitats that support diverse communities of microscopic organisms.
 
 ## See Also
+
+- [[cabomba-caroliniana]]
 
 - [[carpinus-caroliniana]]
 

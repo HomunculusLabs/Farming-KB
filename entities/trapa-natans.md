@@ -125,3 +125,7 @@ Traditional cultivation in China and India uses shallow pond beds:
   and [[mollison-designers-fish-pond-water-quality-and-aeration]] management
 - lemna — Duckweed, high-protein floating aquatic plant for
   integrated aquaculture systems
+
+## See Also
+
+- [[trapa-bispinosa]]

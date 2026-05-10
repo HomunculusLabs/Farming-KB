@@ -4,9 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [composting, compost, homesteading, sustainability, microbes, safety, off-grid]
-sources:
-  sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
 ## Overview
@@ -24,7 +22,7 @@ Joseph Jenkins pioneered the modern approach to thermophilic humanure composting
 5. Allow the compost to thermophilically decompose
 6. Cure for 12-24 months before garden application
 
-The method requires no electricity, no water, and minimal equipment. Jenkins emphasizes that the process is fundamentally about [[fukuoka-microbial-ecology-decomposition]] — create the right conditions and beneficial organisms do the work.
+The method requires no electricity, no water, and minimal equipment. Jenkins emphasizes that the process is fundamentally about microbial ecology — create the right conditions and beneficial organisms do the work.
 
 ## Carbon Material Requirements
 
@@ -54,7 +52,7 @@ Stockpile carbon materials when they are abundant (autumn leaves, summer grass h
 
 ### Target Temperatures
 
-| Phase | [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]] | Duration |
+| Phase | Temperature Range | Duration |
 |-------|------------------|----------|
 | Mesophilic | 70-100F | 2-7 days |
 | Thermophilic onset | 100-113F | 1-3 days |
@@ -113,13 +111,13 @@ Thermophilic composting relies on successive waves of microorganisms:
 5. **Actinomycetes** — Bridge between bacteria and fungi, important in later stages of decomposition
 6. **Earthworms and macrofauna** — Enter during cooling and curing, further process and stabilize the material
 
-The microbial diversity in a well-managed compost pile rivals that of any [[fukuoka-natural-ecosystem-food-chain-interconnection]]. This diversity is itself a safety mechanism — competition from billions of beneficial organisms suppresses any surviving pathogens.
+The microbial diversity in a well-managed compost pile rivals that of any natural ecosystem. This diversity is itself a safety mechanism — competition from billions of beneficial organisms suppresses any surviving pathogens.
 
 ## Curing and Maturation
 
 Curing is the extended period after active composting where the material stabilizes. During curing:
 
-- Remaining [[hamilton-composting-and-organic-matter-management]] slowly breaks down
+- Remaining organic matter slowly breaks down
 - pH neutralizes (finished compost pH is typically 6.5-7.5)
 - Ammonia converts to stable organic nitrogen
 - Earthworms and other macrofauna process the material
@@ -134,7 +132,7 @@ Finished humanure compost is a valuable soil amendment:
 
 - Nutrient content comparable to other composts (NPK roughly 1-1-1)
 - High in humic acids, beneficial microorganisms, and trace minerals
-- Improves soil structure, water retention, and [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity
+- Improves soil structure, water retention, and cation exchange capacity
 - Application rate: 1-2 inches worked into garden beds, or top-dressed around perennials
 
 Best practices suggest applying to fruit trees, berry bushes, and ornamental plants first. Application to root crops and leafy vegetables is safe after proper composting but may face greater social resistance.
@@ -144,7 +142,9 @@ Best practices suggest applying to fruit trees, berry bushes, and ornamental pla
 - "It smells" — A properly managed system has no more odor than a regular compost pile
 - "It's illegal everywhere" — Regulations vary widely; many rural areas have no specific prohibition
 - "It spreads disease" — Thermophilic composting is a proven pathogen destruction method used in municipal sewage treatment worldwide
-- "It's only for hippies" — [[comparison-composting-toilets-vs-greywater-systems-detailed]] are used in national parks, eco-villages, and off-grid homes across the socioeconomic spectrum
+- "It's only for hippies" — Composting toilets are used in national parks, eco-villages, and off-grid homes across the socioeconomic spectrum
+
 ## Related Topics
 
 For the collection side of the system, see [[sawdust-toilet-composting]]. For companion water systems, see [[greywater-systems-detailed]]. The finished compost integrates into broader [[fukuoka-soil-building-method]] practices and [[composting-methods-comparison]] systems on the homestead.
+- [[homestead-first-aid-guide]]

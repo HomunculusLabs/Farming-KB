@@ -14,7 +14,7 @@ sources:
   - Blesching, U. (2015). "The blesching-cannabis-health-index-autoimmune-conditions." North Atlantic Books.
   - Benson, H. et al. "Relaxation Response and gene expression." Benson-Henry Institute.
   - Dusek, J.B. et al. (2008). "Genomic counter-stress effects." PLoS ONE.
-  - University of Regensburg. (2009). "Word choice and physiological [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]."
+  - University of Regensburg. (2009). "Word choice and physiological mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide."
 ---
 
 ## Overview

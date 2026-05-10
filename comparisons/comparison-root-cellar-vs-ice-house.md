@@ -5,7 +5,6 @@ updated: 2026-05-02
 type: comparison
 tags: [general]
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---
@@ -103,10 +102,6 @@ These integrated systems demonstrate that pre-industrial food preservation
 technologies remain highly relevant for modern self-sufficient living.
 
 ## See Also
-
 - [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
 - [[ice-house-and-spring-house]]
-
-## See Also
-
 - [[comparison-root-cellaring-vs-food-dehydration]]

@@ -5,7 +5,6 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Design Principle Integration in Permaculture

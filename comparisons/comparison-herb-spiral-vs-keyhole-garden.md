@@ -5,8 +5,7 @@ date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, permaculture, garden-design, intensive-gardening, 
 small-space]
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 

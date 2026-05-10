@@ -140,7 +140,6 @@ treat large areas.
 The food sources are carefully chosen. Bacterial foods include simple
 sugars like molasses for rapid bacterial growth. Fungal foods include
 complex carbohydrates such as kelp meal, humic acids, and fish
-hydrolysate. By adjusting the ratio of [[ingham-bacterial-to-fungal-succession-soil-food-web]] foods, the
 ## See Also
 
 - [[query-what-is-the-difference-between-aerobic-compost-tea-and-fermented-plant-extracts]]

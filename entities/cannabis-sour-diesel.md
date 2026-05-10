@@ -25,7 +25,7 @@ From those 13 seeds came a lineage that includes:
 
 ### Original Diesel (the parent)
 
-The Original oner-diesel-strain-lineage (also known as Diesel #1, UnderDawg, or Daywrecker depending on the source) is a Chemdawg offspring that carries genetics from Chemdawg, MassSuperSkunk, Sensi [[cannabis-northern-lights]], and RFK Skunk. This strain is the direct parent of all Sour Diesel varieties.
+The Original oner-diesel-strain-lineage (also known as Diesel #1, UnderDawg, or Daywrecker depending on the source) is a Chemdawg offspring that carries genetics from Chemdawg, MassSuperSkunk, Sensi [[northern-lights]], and RFK Skunk. This strain is the direct parent of all Sour Diesel varieties.
 
 ### DNL (the other parent)
 

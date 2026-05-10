@@ -14,10 +14,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Mimosa Weed Strain Information." Leafly.com.
-  - AllBud (2023). "Mimosa [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com.
+  - AllBud (2023). "Mimosa blesching-cannabis-strain-selection-receptor-targeting." AllBud.com.
   - Snoop Dogg's Leaf List (2022). "Mimosa Strain Review." LeafsbySnoop.com.
   - Wikileaf (2023). "Mimosa Strain: Effects, Flavor, and Grow Info." Wikileaf.com.
-  - [[query-sog-vs-scrog-cannabis-training-methods]] University (2023). "Top Citrus Cannabis Strains." CTU.edu.
+  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Citrus Cannabis Strains." CTU.edu.
 created: 2026-04-28
 ---
 

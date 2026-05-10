@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [mycology, psilocybe, species-guide, taxonomy]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 # [[psychedelic-mushroom-set-and-setting]] (Earle) Singer is one of the most widely known

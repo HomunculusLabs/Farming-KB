@@ -130,10 +130,6 @@ preserving only its memory in the increasingly abstract and
 metaphorical language of the Rig Veda.
 
 ## See Also
-
-- [[amanita-muscaria-entity]] - Fly agaric [[amanita-muscaria-cultural-history]] history
-- [[archaic-revival-philosophy]] - Recovering lost plant knowledge
-
-## See Also
-
+- [[amanita-muscaria-entity]]
+- [[archaic-revival-philosophy]]
 - [[mckenna-soma-vedic-enigma]]

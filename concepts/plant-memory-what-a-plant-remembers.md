@@ -84,13 +84,6 @@ it to modify their behaviour. Whether or not one chooses to call this
 that deserves serious scientific attention.
 
 ## See Also
-
 - [[plant-olfaction-what-a-plant-smells]]
-- epigenetics in plants
-- vernalisation
 - [[plant-life-rhythms-pulsatory-growth]]
-- plant memory
-
-## See Also
-
 - [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]

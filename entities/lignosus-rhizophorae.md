@@ -18,8 +18,8 @@ updated: 2026-04-28
 sources:
   - "Lee, S.S. et al. (2012). \"Lignosus rhizophorae: A new species from Malaysia.\" Mycotaxon 121(1): 57-63."
   - "Tan, N.H. et al. (2015). \"Anti-inflammatory and immunomodulatory activities of Lignosus rhizophorae.\" BMC Complementary and Alternative Medicine 15: 332."
-  - "Wong, K.K. et al. (2017). \"Taxonomic and phylogenetic studies of Lignosus (Polyporaceae) in Southeast Asia.\" [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 85(1): 145-165."
-  - "Huang, H. et al. (2020). \"Cultivation and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of tiger milk mushrooms (Lignosus spp.).\" Journal of Fungi 6(3): 231."
+  - "Wong, K.K. et al. (2017). \"Taxonomic and phylogenetic studies of Lignosus (Polyporaceae) in Southeast Asia.\" arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 85(1): 145-165."
+  - "Huang, H. et al. (2020). \"Cultivation and query-what-are-the-main-bioactive-compounds-in-medicinal-plants of tiger milk mushrooms (Lignosus spp.).\" Journal of Fungi 6(3): 231."
   - "https://www.mycobank.org/Lignosus-rhizophorae"
 aliases:
   - Tiger Milk Mushroom

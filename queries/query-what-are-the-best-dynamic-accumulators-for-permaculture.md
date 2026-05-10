@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Carpenter, Thomas J. How to Make a mollison-designers-forest-garden-layer-canopy-understory. Permanent Publications, 2020."
   - "White, Robert D. Plants for a Future: Edible, Medicinal and Useful Plants for a Healthier World. Permanent Publications, 1996."
-  - "Jacke, Dave, and Eric Toensmeier. Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], Vol. 2. Chelsea Green, 2005."
+  - "Jacke, Dave, and [[eric-toensmeier]]. Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests, Vol. 2. Chelsea Green, 2005."
   - "Hemenway, Toby. Gaia's Garden: A Guide to Home-Scale Permaculture. Chelsea Green, 2009."
   - "Kourik, Robert. Designing and Maintaining Your Edible Landscape Naturally. Metamorphic Press, 1986."
 type: query
@@ -27,7 +27,7 @@ type: query
 - [[decomposition]]
 ## Practical Applications
 
-What Are the Best Dynamic Accumulator Plants for Permaculture? has a range of practical applications that make it relevant to
+What Are the Best [[dynamic-accumulator-plants-calcium-and-magnesium]] for Permaculture? has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -42,7 +42,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -92,7 +92,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.

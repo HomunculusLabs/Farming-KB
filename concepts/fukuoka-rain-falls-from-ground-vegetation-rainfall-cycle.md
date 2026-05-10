@@ -135,12 +135,6 @@ place. The solution lies not in better engineering but in stepping back and allo
 the natural whole to restore itself.
 
 ## See Also
-
-- fukuoka-desertification-rain-vegetation-precedes-rainfall
-
 - [[desertification]]
 - [[stomata-transpiration-and-plant-water-regulation]]
-
-## See Also
-
 - [[fukuoka-vegetation-rainfall-feedback-cycle]]

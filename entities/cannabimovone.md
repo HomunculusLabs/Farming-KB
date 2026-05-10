@@ -112,5 +112,5 @@ Other rare cannabinoids with non-classical structures include cannabichromene (C
 
 - [[cannabis-minor-cannabinoids]] — principal psychoactive cannabinoid
 - [[cannabis-terpene-profiles]] — sesquiterpene with CB₂ receptor affinity
-- [[cannabis-blue-dream]] — high-THC cultivar with complex cannabinoid profiles
+- [[blue-dream]] — high-THC cultivar with complex cannabinoid profiles
 - [[wedding-cake]] — modern hybrid with elevated minor cannabinoids

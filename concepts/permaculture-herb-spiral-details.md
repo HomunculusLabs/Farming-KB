@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Herb Spiral Details
 
-The herb spiral is one of the most iconic and practical features of permaculture [[comparison-mandala-garden-design-vs-keyhole-garden-design]]. Described extensively by Toby Hemenway in Gaia's Garden, it is a three-dimensional, upward-coiling garden bed that packs a remarkable diversity of growing conditions into a compact footprint.
+The herb spiral is one of the most iconic and practical features of permaculture garden design. Described extensively by Toby Hemenway in Gaia's Garden, it is a three-dimensional, upward-coiling garden bed that packs a remarkable diversity of growing conditions into a compact footprint.
 
 ## What Is an Herb Spiral?
 
@@ -23,7 +23,7 @@ An herb spiral is a raised bed built in a spiral shape, typically 1.5 to 2.5 met
 
 ## Why Build One?
 
-The [[herb-spiral-design-guide]] maximizes edge (see [[permaculture-edge-effect-design]]) and creates a gradient of conditions:
+The spiral design maximizes edge (see [[permaculture-edge-effect-design]]) and creates a gradient of conditions:
 
 - The top is the **driest and warmest** zone, exposed to sun and wind
 - The bottom is the **coolest and wettest**, near the water that drains down
@@ -56,7 +56,7 @@ This range of conditions allows you to grow herbs with very different needs in a
 - Begin laying the wall material in a spiral pattern from the outside edge
 - The spiral should make approximately 1.5 to 2.5 complete turns from the outside to the center
 - Stack the wall progressively higher as you move inward, creating a dome shape
-- Leave gaps between stones for drainage and [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] habitat
+- Leave gaps between stones for drainage and beneficial insect habitat
 - The center peak is typically 0.9 to 1.2 meters high
 
 ### 4. Fill With Growing Media
@@ -110,12 +110,12 @@ Place herbs according to their preferred conditions:
 - Harvest regularly to keep plants compact and productive
 - Replace annuals as needed; perennials will persist for years
 - Top-dress with compost annually
-- Trim [[query-how-to-propagate-woody-herbs-from-cuttings]] to maintain shape and encourage new growth
-- Check the pond area for mosquito larvae; add mosquito fish or [[cervantes-bacillus-thuringiensis-bt-control]] if needed
+- Trim woody herbs to maintain shape and encourage new growth
+- Check the pond area for mosquito larvae; add mosquito fish or Bacillus thuringiensis if needed
 
 ## Design Variations
 
-- **Stone versus brick**: Stones create more [[query-how-do-i-design-habitat-for-beneficial-insects]] insects in their gaps; bricks give a cleaner look
+- **Stone versus brick**: Stones create more habitat for beneficial insects in their gaps; bricks give a cleaner look
 - **Double spiral**: Two interleaving spirals can hold even more plants
 - **Herb snail**: A spiral laid flat rather than built up, creating a ground-level pattern
 - **Combined with keyhole**: The spiral can incorporate a keyhole bed access path
@@ -129,12 +129,10 @@ Place herbs according to their preferred conditions:
 - Excellent educational tool for demonstrating microclimate variation
 - Stone walls absorb heat during the day and release it at night, moderating temperatures
 
-## Related
-
-- [[query-what-is-a-herb-spiral-in-permaculture]] Concepts
+## Related Concepts
 
 - [[herb-spiral-construction]]
-- [[herb-spiral-design-guide]]
+- [[herb-spiral-design]]
 - [[herb-spiral]]
 - [[keyhole-garden-design]]
 - [[mandala-garden-design]]

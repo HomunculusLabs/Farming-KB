@@ -18,7 +18,7 @@ updated: 2026-04-28
 sources:
   - "Greenhouse Seeds Co. (1994). White Widow — strain haze-cannabis-lineage-and-breeding-history documentation. Amsterdam."
   - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
-  - "ElSohly, M.A., et al. (2016). Changes in [[green-cannabis-potency-maximizing]] over the last two decades. Biological Psychiatry, 79(7), 613-619."
+  - "ElSohly, M.A., et al. (2016). Changes in green-cannabis-potency-maximizing over the last two decades. Biological Psychiatry, 79(7), 613-619."
   - "Mudge, E.M., et al. (2018). Cannabis sativa L. cultivar nomenclature. Journal of AOAC International, 101(5), 1436-1442."
   - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug Testing and Analysis, 4(7-8), 660-667."
   - "Casano, S., et al. (2011). Phytochemical diversity of Cannabis. Natural Product Communications, 6(12), 1921-1926."
@@ -118,7 +118,7 @@ White Widow's [[ethnomycology-cultural-significance-sacred-fungi]] extends far b
 
 ## See Also
 
-- [[blue-dream-strain]] — Balanced hybrid with different terpene profile
+- [[blue-dream]] — Balanced hybrid with different terpene profile
 - [[northern-lights-cannabis]] — Indica-dominant classic often compared alongside White Widow
 - [[amnesia-haze]] — Sativa-dominant coffee shop classic from the same era
 - [[white-rhino]]

@@ -138,11 +138,5 @@ Pins become visible approximately 9 days after opening blocks (India method). Ma
 Most growers take 3 flushes. Mushrooms from the third flush are often dried for maximum dry matter recovery. Harvest when caps reach approximately 5 cm diameter. Stop irrigation 1-2 days before harvest. Second flush typically appears 15 days after the first.
 
 ## See Also
-
 - [[pasteurized-straw-cultivation-techniques]]
-
 - [[straw-based-oyster-mushroom-cultivation]]
-
-## See Also
-
-- mushroom-training-oyster-straw-cultivation

@@ -68,7 +68,7 @@ The structural homology between serotonin and psychedelic tryptamines is fundame
 
 - [[psilocin]] act as partial agonists at 5-HT₂A receptors
 - dimethyltryptamine|DMT is a potent 5-HT₂A agonist and also activates sigma-1 receptors
-- [[ayahuasca-vision-art-and-shipibo-tradition]]) prevent serotonin metabolism, potentiating endogenous and exogenous tryptamines
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]) prevent serotonin metabolism, potentiating endogenous and exogenous tryptamines
 
 ## Historical Context
 

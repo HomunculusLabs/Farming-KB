@@ -115,7 +115,9 @@ strongly support a start-low-and-go-slow approach to mushroom dosing. See
 [[psychedelic-mushroom-dosage-guide]] for practical harm
 reduction guidance.
 
-## Related Concepts
+## Related
+
+- [[street-sample-alkaloid-variability-dosage-unpredictability-bigwood-beug]] Concepts
 
 - [[psilocybe-cubensis-potency-variation-by-flush]]
 - [[psilocybin-mushroom-dosage-and-acute-effects]]

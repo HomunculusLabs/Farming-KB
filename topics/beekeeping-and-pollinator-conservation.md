@@ -115,7 +115,6 @@ detailed beekeeping advice in their agricultural texts.
 
 For most of human history, beekeeping meant harvesting from fixed-comb hives:
 skeps woven from straw, log gums, and clay pots, which required destroying
-the colony to access the honey. The transformative invention was the
 ## See Also
 
 - [[beekeeping-basics]] for getting started with [[bee-forage-hive-management-mollison]]

@@ -140,7 +140,6 @@ All three chamber designs require regular monitoring:
 - **Humidity monitoring**: While Jarrold's original design does not include hygrometers, modern practitioners should add a digital hygrometer to any fruiting chamber for accurate monitoring.
 - **Contamination watch**: Monitor for signs of mold (colored patches on substrate) or bacterial contamination (slimy or foul-smelling areas). Remove contaminated blocks immediately to prevent spread.
 - **Water level**: Check water reservoirs and hydroton moisture levels daily. Evaporation rates will vary with ambient conditions.
-
 ## See Also
 
 - [[jarrold-boil-a-bag-mushroom-cultivation-method]] — Complete boil-a-bag cultivation method overview

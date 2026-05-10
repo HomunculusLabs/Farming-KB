@@ -118,7 +118,6 @@ psychedelics like psilocybin or DMT.
 LSD is one of the most potent pharmacologically active substances known.
 An active dose ranges from approximately 20 to 200 micrograms, making it
 roughly one ten-thousandth the weight of an aspirin tablet. A single
-gram of LSD crystal contains approximately 5,000 to 10,000 active
 ## See Also
 
 - [[lsd-discovery-and-history]] for the complete historical narrative

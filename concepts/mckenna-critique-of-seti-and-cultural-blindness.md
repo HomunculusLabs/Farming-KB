@@ -121,6 +121,8 @@ orthodox science refuses to examine the data on its own terms.
 
 ## See Also
 
+- [[mckenna-seti-critique-radio-signals-cultural-presumption]]
+
 - [[mckenna-extraterrestrial-communication-cultural-conceit]]
 - [[mckenna-habit-creode-waddington-cultural-evolution]]
 

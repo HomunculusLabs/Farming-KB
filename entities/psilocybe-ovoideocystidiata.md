@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, temperate, north-america]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources: []
+sources: []
 ---
 
 # Psilocybe ovoideocystidiata
@@ -64,7 +64,7 @@ sources: sources: []
 - Moderate potency compared to other Psilocybe species
 - [[field-guide-psilocybin-bluing-reaction-identification]] is prominent on the cap, gills, and stipe when damaged
 - Potency can vary depending on substrate, age, and environmental conditions
-- Active at typical [[emcdda-psilocybin-mushroom-dose-and-effects]] dosages
+- Active at typical [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] dosages
 
 ## Identification Notes
 

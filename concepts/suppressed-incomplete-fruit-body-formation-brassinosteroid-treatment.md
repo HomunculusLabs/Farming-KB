@@ -131,15 +131,8 @@ If brassinosteroid treatment proves effective across fungal species, it could re
 - Gartz, J., Adam, G., & Vorbrodt, H.-M. (1990). Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus Psilocybe cubensis. Naturwissenschaften, 77, 388–389.
 
 ## See Also
-
 - [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]]
 - [[incomplete-fruit-body-suppression-brassinosteroid-cultivation]]
 - [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]]
-
-## See Also
-
-- [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]]
-
-- incomplete-fruit-body-suppression-brassinosteroid
 - [[brassinosteroid]]
 - [[agaricus-bisporus]]

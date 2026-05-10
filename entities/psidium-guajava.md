@@ -110,6 +110,8 @@ Commercial guava cultivation centers on a limited number of named cultivars sele
 
 ## See Also
 
+- [[psidium-cattleianum]]
+
 - [[terminalia-chebula]]
 - punica-granatum
 - [[curcuma-longa]]

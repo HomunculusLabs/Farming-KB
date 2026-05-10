@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Rogers, D.L., Sturmbauer, C., Peery, M.Z. (2000). "Genetic Variation and the Status of Monterey Pine (*Pinus radiata* D. Don)." Forest Genetics, 7(1), 1–12.
-  - Lavery, P.B., Mead, D.J. (1998). "Pinus radiata: A Narrow Endemic from [[psilocybin-north-america-pacific-northwest]] Takes on the World." In: IUFRO Proceedings, pp. 33–45.
+  - Lavery, P.B., Mead, D.J. (1998). "Pinus radiata: A Narrow Endemic from psilocybin-north-america-pacific-northwest Takes on the World." In: IUFRO Proceedings, pp. 33–45.
   - Burdon, R.D., Bannister, M.H., Low, C.B. (1992). "Genetic Survey of Pinus radiata." New Zealand Journal of Forestry Science, 22(1), 3–24.
   - Earle, C.J. (2024). "The Gymnosperm Database — Pinus radiata." www.conifers.org.
   - Edlin, H.L. (1973). "Atlas of Pinus." Forestry Commission Bulletin No. 48, HMSO, London.

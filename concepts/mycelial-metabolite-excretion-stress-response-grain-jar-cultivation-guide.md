@@ -132,11 +132,9 @@ This documentation helps identify patterns over time and calibrate conditions fo
 - Cultivation of fruitbodies and sclerotia on sterilised grass seed. Exotic mushroom cultivation guide.
 
 ## See Also
+- [[yellow-metabolite-excretion-mycelial-stress-indicator-grain-spawn]]
+- [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]
 - [[mycelial-metabolite-exudation-stress-indicator-jar-cultivation]]
 - [[singh-mycorrhizal-response-under-salinity-stress]]
-
-## See Also
-
-- mycelial-metabolite-excretion-stress-response-grain-jars
 - [[exotic-mushroom-cultivation-guide]]
 - [[sclerotia-production]]

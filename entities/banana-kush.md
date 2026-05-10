@@ -121,7 +121,7 @@ a parent or genetic contributor to several newer strains in the tropical-
 flavored category.
 ## See Also
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[sour-diesel]]
 - [[gelato]]
 - [[cannabis-indica]]

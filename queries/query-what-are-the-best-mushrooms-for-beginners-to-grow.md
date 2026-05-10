@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [query, mycology, mushroom-cultivation, beginner, gourmet]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: query
 ---
 
@@ -44,6 +43,8 @@ All [[accessible-mushroom-cultivation-for-disabilities]] follows the same basic 
 - contamination-identification-and-prevention is the most important skill to develop early
 
 ## Related
+
+- [[query-what-are-the-best-medicinal-herbs-to-grow-for-a-first-aid-garden]]
 
 - [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]]
 

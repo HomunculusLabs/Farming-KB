@@ -1,6 +1,6 @@
 ---
 
-title: comparison-nutrient-cycling-vs-nutrient-dense-gardening Gardening
+title: Nutrient Dense Gardening
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -26,12 +26,12 @@ Nutrient-dense gardening is the practice of growing fruits and vegetables with m
 
 ## Core Philosophy
 
-Most home gardeners and organic farmers focus on nitrogen, phosphorus, and potassium (NPK). But plants require 13 essential mineral nutrients. When soil lacks trace minerals, plants grow but their [[coleman-winter-greens-nutritional-quality-cold-sweetening]] is poor. Solomon's approach:
+Most home gardeners and organic farmers focus on nitrogen, phosphorus, and potassium (NPK). But plants require 13 essential mineral nutrients. When soil lacks trace minerals, plants grow but their nutritional quality is poor. Solomon's approach:
 
 1. **Start with a soil test** — know what you have and what you're missing
 2. **Apply complete mineral fertilizer** — all 13 essential nutrients, not just NPK
 3. **Use organic matter as a carrier** — compost and manure feed soil biology, but minerals must be supplemented
-4. **Grow nutrient-dense food** — healthier plants resist [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] naturally
+4. **Grow nutrient-dense food** — healthier plants resist pests and diseases naturally
 
 ## The 13 Essential Plant Nutrients
 
@@ -48,7 +48,7 @@ Most home gardeners and organic farmers focus on nitrogen, phosphorus, and potas
 | Zn (Zinc) | Growth hormone production | Small leaves, rosetting |
 | Cu (Copper) | Enzyme cofactor | Wilting, die-back of tips |
 | B (Boron) | Cell division, pollination | Hollow stems, poor fruit set |
-| Mo (Molybdenum) | [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]/utilization | Yellow edges, whip-tail in cauliflower |
+| Mo (Molybdenum) | Nitrogen fixation/utilization | Yellow edges, whip-tail in cauliflower |
 | Cl (Chlorine) | Osmosis, ion balance | Wilting, chlorosis (rare) |
 
 ## The Complete Organic Fertilizer Recipe
@@ -74,9 +74,9 @@ Solomon's COF (Complete Organic Fertilizer) recipe for 100 sq ft:
 
 See [[soil-testing]] and [[interpreting-soil-test-results]] for detailed guidance. Key points:
 
-- **pH 6.2-6.8** is ideal for most vegetables (slightly acidic maximizes [[ph-and-nutrient-availability-garden-soils]])
+- **pH 6.2-6.8** is ideal for most vegetables (slightly acidic maximizes nutrient availability)
 - **Organic matter 3-5%** ensures good water retention and biology
-- **CEC ([[mollison-designers-tropical-soils-and-cation-exchange-management]] Capacity)** tells you how much fertilizer the soil can hold
+- **CEC (Cation Exchange Capacity)** tells you how much fertilizer the soil can hold
 - **Base saturation** percentages matter more than total ppm values
 
 ## The Albrecht System

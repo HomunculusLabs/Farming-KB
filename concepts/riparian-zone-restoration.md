@@ -92,18 +92,18 @@ When bioengineering alone is insufficient:
 | Species | Zone | Notes |
 |---------|------|-------|
 | Black willow (Salix nigra) | Stream bank | Fast-growing; tolerates flooding; easy to propagate from cuttings |
-| Cottonwood ([[populus-deltoides]]) | Floodplain | Fast-growing pioneer; wildlife habitat |
+| Cottonwood (Populus deltoides) | Floodplain | Fast-growing pioneer; wildlife habitat |
 | Red maple (Acer rubrum) | Riparian forest | Tolerates seasonal flooding; fall color |
-| Sycamore ([[platanus-occidentalis]]) | Stream bank | Distinctive bark; flood-tolerant |
+| Sycamore (Platanus occidentalis) | Stream bank | Distinctive bark; flood-tolerant |
 | River birch (Betula nigra) | Stream bank | Ornamental bark; tolerates wet soil |
-| Green ash ([[fraxinus-pennsylvanica]]) | Riparian forest | Fast-growing; note: susceptible to emerald ash borer |
-| Bald cypress ([[taxodium-distichum]]) | Swamps | Very flood-tolerant; southern species |
+| Green ash (Fraxinus pennsylvanica) | Riparian forest | Fast-growing; note: susceptible to emerald ash borer |
+| Bald cypress (Taxodium distichum) | Swamps | Very flood-tolerant; southern species |
 | American elm (Ulmus americana) | Riparian forest | Good shade; Dutch elm disease-resistant varieties available |
 
 ### Shrub Species
 - **Silky dogwood (Cornus amomum)**: Blue berries for wildlife; tolerates wet soil
 - **Red osier dogwood (Cornus sericea)**: Red stems; excellent erosion control; easy to propagate
-- **Elderberry ([[sambucus-canadensis]])**: Edible berries; medicinal flowers; wildlife food
+- **Elderberry (Sambucus canadensis)**: Edible berries; medicinal flowers; wildlife food
 - **Buttonbush (Cephalanthus occidentalis)**: Spherical flower heads; excellent for wet areas
 - **Spicebush (Lindera benzoin)**: Butterfly host plant; aromatic foliage
 - **Winterberry (Ilex verticillata)**: Red berries persist through winter; bird food
@@ -113,7 +113,7 @@ When bioengineering alone is insufficient:
 - **Blue flag iris (Iris versicolor)**: Wetland iris; erosion control; pollinator plant
 - **Swamp milkweed (Asclepias incarnata)**: Monarch butterfly host; wet soil
 - **Joe-pye weed (Eutrochium purpureum)**: Tall, showy; butterfly magnet
-- **Cardinal flower ([[lobelia-cardinalis]])**: Brilliant red flowers; hummingbird attractor
+- **Cardinal flower (Lobelia cardinalis)**: Brilliant red flowers; hummingbird attractor
 - **Blue vervain (Verbena hastata)**: Tall spikes of purple flowers; self-seeds
 - **New England aster (Symphyotrichum novae-angliae)**: Late fall bloom; pollinator resource
 - **Switchgrass (Panicum virgatum)**: Deep roots for erosion control; see [[prairie-ecology]]

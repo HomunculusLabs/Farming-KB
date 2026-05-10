@@ -143,7 +143,4 @@ heating.
 ## See Also
 - [[coleman-winter-harvest-philosophy]]
 - [[coleman-semi-hibernating-winter-crops-harvest-extension]]
-
-## See Also
-
 - [[coleman-winter-harvest-planting-schedule]]

@@ -98,6 +98,8 @@ Harlequin holds an important place in the evolution of medical cannabis. At a ti
 
 ## See Also
 
+- [[haze-plum-purple-passion-medical-sativa-strain]]
+
 - [[golden-goat-sativa-strain-profile]] — Another notable sativa-dominant hybrid from the same source volume
 - [[cannabis-colombian-gold-landrace-sativa]] — The Colombian Gold parent variety
 - [[cannabis-sativa-landrace-strains]] — Broader context on landrace sativa genetics

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Poulsen, A.D. (2006). "A Revision of Amomum (Zingiberaceae) in Peninsular Malaysia." Royal Botanic Gardens, Kew.
-  - Xia, Y.M. et al. (2014). "Chemical composition and antibacterial activity of [[permaculture-designers-manual-essential-oil-plants]] from Amomum kravanh." Journal of Ethnopharmacology.
+  - Xia, Y.M. et al. (2014). "Chemical composition and antibacterial activity of permaculture-designers-manual-essential-oil-plants from Amomum kravanh." Journal of Ethnopharmacology.
   - CSIR (1959). "The Wealth of India: A Dictionary of Indian Raw Materials and Industrial Products." Vol. I.
   - Burkill, I.H. (1966). "A Dictionary of the Economic Products of the Malay Peninsula." Vol. I.
   - Sirirugsa, P. (1999). "Thai Zingiberaceae: Species Diversity and Their Uses."

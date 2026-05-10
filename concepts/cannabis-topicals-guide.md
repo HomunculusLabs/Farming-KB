@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, recipe, medicine, health, preparation, organic]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and [[cannabis-for-skin-conditions-detailed]]. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors in the skin and local tissues).
+Cannabis topicals are preparations applied directly to the skin for localized relief of pain, inflammation, muscle soreness, and skin conditions. Unlike inhaled or ingested cannabis, topicals do not produce psychoactive effects because cannabinoids do not readily penetrate the bloodstream through the skin when applied topically (they bind to CB2 receptors in the skin and local tissues). (see [[blesching-cannabis-modes-administration-pharmacokinetics]]).
 
 ## How Cannabis Topicals Work
 
@@ -23,7 +22,7 @@ The human skin contains endocannabinoid receptors, primarily CB2 receptors, whic
 
 ### Topical vs Transdermal
 
-- **Topical**: Applied to the skin surface; works locally. Does not enter bloodstream. Includes salves, balms, lotions, and creams.
+- **Topical**: Applied to the skin surface; works locally. Does not enter bloodstream. Includes salves, balms, lotions, and creams. (see [[cannabis-sativa-vs-indica-guide]]).
 - **Transdermal**: Designed with permeation enhancers to deliver cannabinoids through the skin into the bloodstream for systemic effects. Includes patches and specific formulations. Can produce psychoactive effects if THC is present.
 
 This guide focuses on topicals. Transdermal products require pharmaceutical-grade formulation and are typically commercially manufactured.
@@ -40,7 +39,7 @@ Salves are oil-based preparations with a firm, waxy consistency. They are the si
 
 ### Balms
 
-Similar to salves but typically include more butter (shea, cocoa) and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] for a richer, creamier texture.
+Similar to salves but typically include more butter (shea, cocoa) and essential oils for a richer, creamier texture.
 
 **Base ingredients**: Cannabis-infused oil + beeswax + shea butter + cocoa butter
 **Consistency**: Softer than salve, more emollient
@@ -75,8 +74,8 @@ Creams are thicker than lotions with a higher oil-to-water ratio.
 
 - May offer enhanced pain relief due to THC's analgesic properties
 - Still non-psychoactive when applied topically
-- [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction
-- May be combined with CBD for [[cannabis-terpene-entourage-effect-profiles]]
+- Legal status varies by jurisdiction
+- May be combined with CBD for entourage effect
 
 ### Full-Spectrum vs Isolate
 
@@ -90,7 +89,7 @@ The base for most topicals is a carrier oil infused with decarboxylated cannabis
 
 ### Decarboxylation
 
-Before infusing, [[cervantes-cannabis-flower-anatomy]] must be decarboxylated to activate cannabinoids:
+Before infusing, cannabis flower must be decarboxylated to activate cannabinoids:
 
 1. Preheat oven to 240 F (115 C)
 2. Grind cannabis coarsely (not to powder)
@@ -107,7 +106,7 @@ Before infusing, [[cervantes-cannabis-flower-anatomy]] must be decarboxylated to
 4. Heat on low (160-180 F) for 2-4 hours, stirring occasionally
 5. Strain through cheesecloth or fine mesh strainer
 6. Squeeze remaining oil from the plant material
-7. Store infused oil in a [[sterile-spore-print-collection-glass-jar-technique]] in a cool, dark place
+7. Store infused oil in a glass jar in a cool, dark place
 
 ### Alternative: Quick Infusion with Lecithin
 
@@ -142,9 +141,10 @@ Adding sunflower or soy lecithin (1 teaspoon per cup of oil) improves cannabinoi
 ## Dosing
 
 Topical dosing is less precise than other methods. General guidelines:
-## See Also
-- [[query-what-are-the-stages-of-cannabis-growth]]
-- [[cannabis-for-skin-conditions-detailed]]
-- [[cannabis-for-chronic-pain]]
-- [[cannabis-for-chronic-pain-comprehensive]]
-- [[query-what-are-the-most-common-cannabis-nutrient-deficiencies]]
+
+- **Mild potency**: 1/4 ounce (7g) cannabis per 1 cup oil
+- **Medium potency**: 1/2 ounce (14g) cannabis per 1 cup oil
+- **Strong potency**: 1 ounce (28g) cannabis per 1 cup oil
+
+Start with a small amount and apply more as needed. Effects are typically felt within 15-30 minutes and last 2-4 hours. For chronic conditions, consistent daily application is more effective than sporadic heavy use.
+

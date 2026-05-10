@@ -18,7 +18,7 @@ updated: 2026-04-28
 sources:
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:582804-1
   - https://pfaf.org/user/Plant.aspx?LatinName=Helichrysum+italicum
-  - Appending, G. (2013). The [[permaculture-designers-manual-essential-oil-plants]] of Helichrysum italicum. International Journal of Clinical Aromatherapy.
+  - Appending, G. (2013). The permaculture-designers-manual-essential-oil-plants of Helichrysum italicum. International Journal of Clinical Aromatherapy.
   - Sneader, W. (2005). Drug Discovery: A History. Wiley.
 ---
 

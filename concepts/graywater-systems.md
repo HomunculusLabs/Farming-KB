@@ -4,8 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [permaculture, water, design, ecology, regenerative, methods, homesteading, troubleshooting]
-sources:
-  sources: []
+sources: []
 ---
 
 # Graywater Systems
@@ -17,7 +16,7 @@ Graywater is wastewater from household sources other than toilets (sinks, shower
 Understanding the distinction is critical:
 
 - **Graywater**: Wastewater from showers, bathtubs, bathroom sinks, laundry machines, and kitchen sinks (in some jurisdictions). Contains soap, hair, skin cells, food particles, and pathogens but is relatively low in nitrogen compared to blackwater.
-- **Blackwater**: Toilet wastewater. Contains high levels of nitrogen, pathogens, and [[hamilton-composting-and-organic-matter-management]]. Requires extensive treatment. See [[humanure-composting]] for safe handling of toilet waste.
+- **Blackwater**: Toilet wastewater. Contains high levels of nitrogen, pathogens, and organic matter. Requires extensive treatment. See [[humanure-composting]] for safe handling of toilet waste.
 - **Never mix**: Graywater systems must be completely separate from blackwater plumbing. Cross-contamination creates serious health risks.
 
 ## Legal Status
@@ -90,9 +89,9 @@ The biggest long-term concern with graywater irrigation is salt accumulation:
 The mulch basin is the heart of most graywater systems — the point where graywater meets soil:
 
 - **Size**: 2-4 feet wide by 6-12 inches deep, sized to hold the surge volume from one fixture use
-- **Fill**: Coarse [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] (not bark mulch) to a depth of 6-12 inches
-- **Plants**: [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], berries, ornamentals, and perennials planted around the basin perimeter
-- **Function**: Mulch layer provides biofilter removing pathogens, hair, and soap residues. Fungi and bacteria [[query-can-fungi-break-down-plastic-pollution]] organic matter. Water percolates into soil below.
+- **Fill**: Coarse wood chips (not bark mulch) to a depth of 6-12 inches
+- **Plants**: Fruit trees, berries, ornamentals, and perennials planted around the basin perimeter
+- **Function**: Mulch layer provides biofilter removing pathogens, hair, and soap residues. Fungi and bacteria break down organic matter. Water percolates into soil below.
 - **Maintenance**: Top off mulch annually (connect to [[composting-systems]] for mulch supply). Flush distribution pipes if flow slows. Ensure drainage within 1-2 hours. Replace mulch every 2-3 years.
 
 ## Plant Selection
@@ -106,8 +105,8 @@ The mulch basin is the heart of most graywater systems — the point where grayw
 
 ### Plants to Avoid Near Graywater
 
-- [[growing-root-vegetables-guide]] (carrots, potatoes, onions) — potential pathogen contact with edible root
-- [[solomon-leafy-greens-growing]] eaten raw (lettuce, spinach) — pathogen risk
+- Root vegetables (carrots, potatoes, onions) — potential pathogen contact with edible root
+- Leafy greens eaten raw (lettuce, spinach) — pathogen risk
 - Acid-loving plants (blueberries, rhododendrons) — graywater tends toward alkaline
 - Plants sensitive to sodium or boron
 

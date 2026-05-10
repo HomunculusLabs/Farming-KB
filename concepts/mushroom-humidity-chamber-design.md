@@ -130,10 +130,6 @@ When transferring colonized bags from the colonization phase:
 - Avoid over-saturating the hydro pellet base
 
 ## See Also
-
 - [[mushroom-spore-print-technique]]
 - [[psilocybin-mushrooms-species-and-pharmacology]]
-
-## See Also
-
 - [[mushroom-humidity-chamber-design-operation]]

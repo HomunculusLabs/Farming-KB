@@ -68,7 +68,7 @@ diversity in Psilocybe and Copelandia:
 
 - neurotropic-fungi-in-asia([[guzman-allen-gartz-neurotropic-fungi-asia]].md)
 - [Amanita Muscaria and [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] Fungi](amanita-muscaria-and-ibotenic-acid-fungi.md)
-- [Psilocybe Venenata](psilocybe-venenata-profile.md)
+- Psilocybe Venenata
 ## Practical Considerations
 
 Successful implementation of Neurotropic Fungi of Japan and East Asia Species and Cultural Context requires attention to

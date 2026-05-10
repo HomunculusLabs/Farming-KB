@@ -144,7 +144,6 @@ Emerging approach using tanks, ponds, or photobioreactors:
 - **Protection from waves**: Sheltered bays, fjords, or behind breakwaters preferred. Open-ocean farming requires specialized gear.
 - **Substrate**: For bottom methods, sandy or muddy bottoms are acceptable. Rocky bottoms can damage lines.
 - **Proximity to infrastructure**: Access to seed supply, processing facilities, and markets.
-- **Regulatory permits**: Aquaculture licenses, environmental impact assessments, coastal zone management approvals.
 ## Related
 - [[cho-natural-farming-philosophy-of-non-interference|cho natural farming philosophy of non interference]]
 - [[fukuoka-road-do-nothing-farming|fukuoka road do nothing farming]]

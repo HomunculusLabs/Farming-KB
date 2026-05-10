@@ -140,7 +140,6 @@ The arbuscule is the primary site of [[arbuscule-isolation-and-nutrient-exchange
 intimately against the plant cell membrane, creating an enormous surface area for
 the transfer of phosphorus, nitrogen, zinc, and other elements from fungus to
 plant, and of carbon compounds from plant to fungus.
-
 ## See Also
 
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]

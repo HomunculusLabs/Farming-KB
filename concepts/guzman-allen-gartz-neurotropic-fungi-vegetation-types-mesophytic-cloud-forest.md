@@ -138,13 +138,9 @@ temperate regions of North America and Europe.
 
 ## Implications for Conservation and Discovery
 
-The strong correlation between vegetation type and neurotropic fungal
 ## See Also
-
-- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]: Temperate Cosmopolitan Distribution
-- [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Relationships and Trans-Pacific Disjunctions
-
-## See Also
+- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]
+- [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]]
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]
 - [[guzman-allen-gartz-neurotropic-fungi-central-america-caribbean]]
 - [[guzman-allen-gartz-neurotropic-fungi-caribbean-central-america]]

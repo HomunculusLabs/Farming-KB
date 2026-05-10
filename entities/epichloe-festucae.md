@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Schardl, C.L. et al. (2013). "Epichloë endophytes: clavicipitaceous symbionts." Mycologia 105(6): 1433-1457.
-  - Scott, B. & Schardl, C.L. (2011). "Epichloë festucae and the [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]]." Fungal Genetics and Biology 48(2): 82-90.
+  - Scott, B. & Schardl, C.L. (2011). "Epichloë festucae and the endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium." Fungal Genetics and Biology 48(2): 82-90.
   - Clay, K. & Schardl, C.L. (2002). "Evolutionary origins and ecological consequences of endophyte symbiosis." Annual Review of Ecology and Systematics 33: 451-470.
   - Leuchtmann, A. et al. (2014). "Epichloë endophytes in natural grass populations." Evolutionary Applications 7(3): 375-385.
 aliases:

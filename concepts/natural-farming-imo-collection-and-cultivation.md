@@ -128,10 +128,6 @@ Procedure:
 - Carandang, G.A. (2003). Indigenous Microorganisms: Grow Your Own. Herbana Farms.
 
 ## See Also
-
 - [[natural-farming-knf-overview]]
 - [[natural-farming-ohn-preparation]]
-
-## See Also
-
 - [[chos-natural-farming-imo-collection-cultivation]]

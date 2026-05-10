@@ -142,4 +142,4 @@ uplift before deeper physical relaxation.
 - [[gelato]]
 - [[girl-scout-cookies]]
 - sunset sherbert cannabis
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]

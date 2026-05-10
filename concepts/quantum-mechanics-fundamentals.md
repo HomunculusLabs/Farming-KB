@@ -138,10 +138,8 @@ expansions for Hermitian operators.
 - **Quantum computing**: Qubits exploit superposition and entanglement;
   Shor's algorithm (factoring) and Grover's search offer speedups.
 - **Quantum optics**: Single-photon sources, squeezed light, QKD (BB84),
-## See Also
 
+## See Also
 - [[stereochemistry-and-chirality]]
-
-## See Also
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
 - [[teaming-with-microbes-soil-food-web-overview]]

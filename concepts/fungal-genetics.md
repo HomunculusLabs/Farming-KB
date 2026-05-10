@@ -19,7 +19,7 @@ Fungal genetics encompasses the study of heredity, variation, and gene function 
 - **Gene count**: Typically 5,000-15,000 protein-coding genes
 - **Gene density**: Higher than in plants and animals — fewer introns, less repetitive DNA
 - **Chromosomes**: Vary from 4-6 in yeasts to 10+ in filamentous fungi. Chromosome number does not correlate with genome size
-- **Ploidy**: Predominantly haploid during [[cannabis-vegetative-growth-stage]] (unlike plants and animals), which simplifies genetic analysis
+- **Ploidy**: Predominantly haploid during vegetative growth (unlike plants and animals), which simplifies genetic analysis
 
 ### Model Organism Genomes
 
@@ -52,7 +52,7 @@ See [[fungal-sexual-reproduction]] for comprehensive coverage of mating systems.
 
 - Two unlinked loci (A and B) with multiple alleles each
 - ~25% inter-fertility among spores from a single fruiting body
-- A locus: regulates nuclear pairing and clamp [[clamp-connection-formation-and-nuclear-migration]]
+- A locus: regulates nuclear pairing and clamp connection formation
 - B locus: regulates nuclear migration and septal dissolution
 - Example: Schizophyllum commune has hundreds of A and B alleles, creating thousands of possible mating types
 
@@ -78,7 +78,7 @@ Discovered by Pontecorvo (1956) in Aspergillus nidulans, the parasexual cycle al
 The parasexual cycle is significant because:
 - It occurs in fungi that lack a known sexual cycle (asexual fungi like Aspergillus and Penicillium)
 - It generates genetic diversity without meiosis
-- It has been exploited for genetic mapping and [[mushroom-strain-improvement-and-breeding-methods]] in industrial fungi
+- It has been exploited for genetic mapping and strain improvement in industrial fungi
 
 ## Genetic Tools and Techniques
 
@@ -128,22 +128,23 @@ CRISPR-Cas9 genome editing has revolutionized fungal genetics since ~2015:
 | Group | CRISPR Status | Notable Achievements |
 |-------|--------------|---------------------|
 | Yeasts (S. cerevisiae) | Well established | Precise metabolic engineering for biofuel production |
-| Aspergillus spp. | Well established | Strain improvement for [[ligninolytic-enzyme-production-bioremediation]] |
+| Aspergillus spp. | Well established | Strain improvement for enzyme production |
 | Penicillium spp. | Established | Enhanced penicillin production |
 | Trichoderma spp. | Established | Improved enzyme cocktails |
 | Neurospora crassa | Established | Model for repeat-induced point mutation (RIP) |
 | Pleurotus spp. (oyster) | Emerging | Early-stage editing for cultivation traits |
-| [[genetic-improvement-agaricus-bisporus-molecular-approaches]] | Emerging | Challenging due to multinucleate cells |
+| Agaricus bisporus | Emerging | Challenging due to multinucleate cells |
 | Psilocybe spp. | Nascent | Potential for understanding psilocybin biosynthesis |
 
 ### Challenges in Mushroom-Forming Fungi
 
 - Many basidiomycetes are dikaryotic — two nuclei per cell complicates editing
 - Efficient transformation protocols are still being developed for many species
-## See Also
+- Some species have robust DNA repair systems that reduce editing efficiency
+- Regulatory concerns for genome-edited cultivated mushrooms
 
-- [[fungal-biology-fundamentals]] for the genetic context of the fungal life cycle
-- [[mushroom-genetics-strain-selection]] for practical genetics in cultivation
-- [[fungal-sexual-reproduction]] for mating type systems
-- [[fungal-evolution]] for how fungal genomes have changed over time
-- [[agar-work-guide]] for techniques used in [[biodiversity-fungal-culture-preservation]] work
+## Epigenetics in Fungi
+
+- **DNA methylation**: Variable across fungal groups. Heavy in some basidiomycetes; minimal in S. cerevisiae (no detectable methylation)
+- **Repeat-Induced Point Mutation (RIP)**: A fungal-specific genome defense in Neurospora and related genera. Duplicates DNA sequences are mutated by C-to-T transitions during the sexual cycle, silencing transposons and duplicated genes
+- **Histone modifications**: H3K9 methylation, H3K27 methylation regulate gene expression

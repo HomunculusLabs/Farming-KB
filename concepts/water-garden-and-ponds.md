@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [water-management, ecology, wildlife, plants, design, permaculture]
-sources:
-  sources: []
+sources: []
 ---
 
 # Water Gardens and Ponds
@@ -16,7 +15,7 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 
 ### Planning
 - **Location**: Minimum 6 hours of sunlight for water lilies and most aquatic plants; partial shade reduces algae
-- **Size**: Larger ponds are more stable (fewer temperature swings, easier biological balance); minimum 50 square feet for [[fukuoka-ecological-balance-principles]], ideally 100+ square feet
+- **Size**: Larger ponds are more stable (fewer temperature swings, easier biological balance); minimum 50 square feet for ecological balance, ideally 100+ square feet
 - **Depth**: Shelves for marginal plants (6-12 inches), deeper zone for fish and overwintering (24-36 inches minimum; 48+ inches in cold climates to prevent freezing to the bottom)
 - **Utilities**: Plan for electrical access (pumps, lighting, aeration) and water supply
 - **Zoning**: Avoid placing under trees (leaf debris causes water quality issues) or in low spots that receive runoff (fertilizers, pesticides)
@@ -85,7 +84,7 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 - Soften the transition between water and land
 
 ### Planting Tips
-- Use heavy loam or aquatic planting soil (no regular [[solomon-potting-mix-and-seedling-soil-recipe]] — it floats)
+- Use heavy loam or aquatic planting soil (no regular potting mix — it floats)
 - Top pots with 1 inch of gravel to prevent fish from digging up plants
 - Fertilize aquatic plants with aquatic plant tablets pushed into soil (not granular — dissolves in water column and feeds algae)
 - Divide overgrown plants every 2-3 years
@@ -136,15 +135,16 @@ Water gardens and ponds introduce aquatic ecosystems into the landscape, support
 
 ### Natural Filtration
 - **Plant filters**: Bog areas or separate bog filters where water flows through gravel-planted zones
-- **[[comparison-constructed-wetlands-vs-bioswales]]**: The most effective natural filtration — water pumped through a gravel wetland bed planted with marginals
+- **Constructed wetlands**: The most effective natural filtration — water pumped through a gravel wetland bed planted with marginals
 - **Beneficial bacteria**: Add bacterial starter cultures; maintain surface area for colonization
 
 ### UV Clarifiers
 - Kill suspended algae (green water) by exposing it to ultraviolet light
 - Do not harm beneficial bacteria
-## See Also
+- Effective but not necessary if biological balance is maintained
 
-- [[rain-garden-design]]
-- [[xeriscaping-guide]]
-- [[native-plant-gardening]]
-- [[green-roof-and-living-walls]]
+## Wildlife Habitat
+
+A well-designed pond becomes a magnet for wildlife:
+
+- **Amphibians**: Frogs, toads, and salamanders will colonize naturally (no stocking needed)

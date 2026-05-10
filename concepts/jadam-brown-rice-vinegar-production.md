@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-23
 sources:
   - "raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md"
-  - JADAM [[coleman-deep-organic-farming-philosophy]]: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
+  - JADAM coleman-deep-organic-farming-philosophy: The Way to Ultra-Low-Cost Agriculture (Youngsang Cho, 2016)
 type: concept
 tags: [jadam, vinegar]
 ---

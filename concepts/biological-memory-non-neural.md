@@ -102,5 +102,7 @@ philosophical implications for understanding the evolution of intelligence.
 
 ## See Also
 
+- [[plant-memory-what-a-plant-remembers]]
+
 - [[bio-electronic-interfaces]]
 - [[mycelial-network-computation]]

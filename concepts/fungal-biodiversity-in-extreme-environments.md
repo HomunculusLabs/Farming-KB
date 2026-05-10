@@ -15,13 +15,13 @@ sources:
 
 ## Overview
 
-Fungi have colonized virtually every environment on Earth, including some of the most extreme habitats imaginable. From the frozen soils of Antarctica to the hydrothermal vents of the deep sea, from acidic [[acid-mine-drainage-treatment]] to the surfaces of radioactive materials, fungi demonstrate remarkable metabolic versatility. These [[extremophilic-fungi|extremophilic fungi]] represent a largely untapped reservoir of biodiversity and potential biotechnological applications.
+Fungi have colonized virtually every environment on Earth, including some of the most extreme habitats imaginable. From the frozen soils of Antarctica to the hydrothermal vents of the deep sea, from acidic mine drainage to the surfaces of radioactive materials, fungi demonstrate remarkable metabolic versatility. These [[extremophilic-fungi|extremophilic fungi]] represent a largely untapped reservoir of biodiversity and potential biotechnological applications.
 
 ## Desert Fungi
 
 ### Arid Soil Communities
 
-Desert soils harbor diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] adapted to extreme desiccation, high temperatures, and intense UV radiation. Key adaptations include:
+Desert soils harbor diverse fungal communities adapted to extreme desiccation, high temperatures, and intense UV radiation. Key adaptations include:
 
 - Production of melanin pigments that protect against UV damage
 - Formation of resilient spore structures capable of surviving decades of dormancy
@@ -34,13 +34,13 @@ In arid regions of the Mediterranean, Middle East, and North Africa, desert truf
 
 ### Microcolonial Fungi
 
-Rock-inhabiting microcolonial fungi (also called black fungi or meristematic fungi) colonize rock surfaces in deserts worldwide. These slow-growing, melanized fungi can survive extreme desiccation and temperature fluctuations. They contribute to [[dighton-fungal-rock-weathering-mineral-dissolution]] and soil formation through biochemical and biophysical mechanisms.
+Rock-inhabiting microcolonial fungi (also called black fungi or meristematic fungi) colonize rock surfaces in deserts worldwide. These slow-growing, melanized fungi can survive extreme desiccation and temperature fluctuations. They contribute to rock weathering and soil formation through biochemical and biophysical mechanisms.
 
 ## Deep Sea and Marine Fungi
 
 ### Deep-Sea Sediment Communities
 
-The deep sea floor hosts diverse fungal communities in sediments at depths exceeding 5,000 meters. These fungi participate in [[hamilton-composting-and-organic-matter-management]] decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in one of Earth's most extreme environments -- characterized by high pressure, low temperature, complete darkness, and limited organic input.
+The deep sea floor hosts diverse fungal communities in sediments at depths exceeding 5,000 meters. These fungi participate in organic matter decomposition and nutrient cycling in one of Earth's most extreme environments -- characterized by high pressure, low temperature, complete darkness, and limited organic input.
 
 ### Wood-Boring and Shipworm-Associated Fungi
 
@@ -85,7 +85,7 @@ Fungi are among the first organisms to colonize fresh volcanic deposits, playing
 
 ### Arctic and Antarctic Fungi
 
-Polar regions support specialized fungal communities adapted to permanently cold conditions ([[psychrotolerant-psychrophilic-fungi-ecology]]). These include:
+Polar regions support specialized fungal communities adapted to permanently cold conditions (psychrophilic fungi). These include:
 
 - **Snow fungi:** Species that fruit on or within snowpack
 - **Permafrost fungi:** Communities surviving in permafrost soils, with some showing evidence of extremely long-term viability
@@ -100,8 +100,6 @@ High-altitude environments share many selective pressures with polar regions (co
 The ability of fungi to survive extreme conditions makes them of particular interest to astrobiology. Experiments have demonstrated that certain fungi (particularly melanized species) can survive exposure to space conditions, including vacuum, UV and cosmic radiation, and extreme temperature fluctuations. This resilience raises questions about the potential for fungal life on other planets and the role of fungi in planetary ecology beyond Earth.
 
 ## See Also
-
-- [[fungal-biodiversity-built-environments-indoor-mycobiome]]
 
 - [[fungal-biodiversity|fungal biodiversity overview]]
 - [[extremophilic-fungi|extremophilic fungi]]

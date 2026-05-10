@@ -107,10 +107,10 @@ The fungus does not produce mycotoxins in food crops at mycopesticides-entomopat
 - [[metarhizium]]
 
 - [ophiocordyceps-unilateralis [[claviceps-purpurea-chemistry-and-water-soluble-ergot-alkaloids]] nilateralis.md)
-- [beauveria-bassiana](beauveria-bassiana.md)
-- [claviceps-purpurea](claviceps-purpurea.md)
-- [purpureocillium-lilacinum](purpureocillium-lilacinum.md)
-- [entomophthora-muscae](entomophthora-muscae.md)
-- [tolypocladium-ophioglossoides](tolypocladium-ophioglossoides.md)
-- [cordyceps-militaris](cordyceps-militaris.md)
-- [[permaculture](permaculture.md)]]
+- [[beauveria-bassiana|beauveria-bassiana]]
+- [[claviceps-purpurea|claviceps-purpurea]]
+- [[purpureocillium-lilacinum|purpureocillium-lilacinum]]
+- [[entomophthora-muscae|entomophthora-muscae]]
+- tolypocladium-ophioglossoides
+- [[cordyceps-militaris|cordyceps-militaris]]
+- [[permaculture]]

@@ -78,12 +78,6 @@ the solids removed by filtration. The filtrate was stripped of
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
 - [[2-br-4-5-mda-entity-pihkal]]
 - [[2c-c-entity-pihkal]]
-
-- PIHKAL (the source book)
-
-## See Also
-
 - [[tma-5-entity-pihkal]]

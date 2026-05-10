@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Foster, S. (2013). "Caulophyllum thalictroides." In: Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants. Houghton Mifflin.
+  - Foster, S. (2013). "Caulophyllum thalictroides." In: Peterson ghouled-field-guide-historical-context to Medicinal Plants. Houghton Mifflin.
   - Felter, H.W. & Lloyd, J.U. (1898). "Caulophyllum." King's American Dispensatory.
   - Low Dog, T. (2006). "Women's health in complementary and alternative medicine." Obstetrics and Gynecology Clinics, 33(3), 627-644.
   - Upton, R. (2002). "Blue Cohosh Root." American Herbal Pharmacopoeia.

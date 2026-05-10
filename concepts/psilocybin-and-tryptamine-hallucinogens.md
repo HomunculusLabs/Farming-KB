@@ -141,5 +141,5 @@ and Yale University. Key findings include:
 - [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
 - [[dmt-phenomenology-and-hyperspace-geometry]]
 - [[tryptamines-and-the-logos]]
-- [[emcdda-psilocybin-mushroom-species-and-identification]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[psychedelic-assisted-therapy-protocol]]

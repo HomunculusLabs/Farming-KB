@@ -3,8 +3,7 @@ title: "comparison green roof vs earth sheltered vs Earth-Sheltered Structures"
 tags: [comparison, natural-building, permaculture, passive-climate-control]
 date: 2026-05-08
 updated: 2026-05-08
-sources:
-  sources: []
+sources: []
 ---
 
 # Green Roof vs Earth-Sheltered Structures

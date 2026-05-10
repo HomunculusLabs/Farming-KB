@@ -23,7 +23,7 @@ sources:
   - Harrison, K.A. (1973). "The genus Hericium in Ontario." Canadian Journal of Botany 51(6): 1201-1207.
   - Binder, M. et al. (2006). "A higher-level phylogenetic classification of the Fungi." Mycological Research 110(5): 463-475.
   - Wang, J. & Wang, H.Y. (2014). "The genus Hericium: a resource for novel bioactive metabolites." Journal of Traditional and Complementary Medicine 4(2): 118-124.
-  - Stamets, P. (2000). "Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]." Ten Speed Press.
+  - Stamets, P. (2000). "Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive." Ten Speed Press.
 ---
 ## Overview
 

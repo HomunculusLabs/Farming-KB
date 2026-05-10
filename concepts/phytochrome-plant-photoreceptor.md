@@ -125,4 +125,4 @@ is the "eye," and the signal it produces travels to the growing tip,
 where flowers are formed. This elegant division of labour — perception
 in the leaves, response at the apex — is one of the most remarkable
 features of the phytochrome system and underscores the sophistication
-of plant [[plant-sensory-biology-and-intelligence]].
+of plant [[plant-sensory-biology-chamovitz]].

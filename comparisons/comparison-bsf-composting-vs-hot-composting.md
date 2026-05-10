@@ -5,7 +5,6 @@ updated: 2026-05-02
 type: comparison
 tags: [composting, soil-science]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 ---

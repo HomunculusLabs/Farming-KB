@@ -142,8 +142,9 @@ from [[cannabis-vegetative-growth-stage]] to flowering.
 
 ## See Also
 
+- [[plant-epigenetic-memory-gene-based-remembering]]
+
 - [[chamovitz-plant-photoreceptors-beyond-phytochrome]]
 
 - [[phytochrome-red-far-red-switch-and-photoperiodism]]
 - [[shade-avoidance-syndrome]]
-- [[chamovitz-plant-senses-overview]]

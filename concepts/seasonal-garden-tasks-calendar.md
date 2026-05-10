@@ -5,7 +5,6 @@ updated: 2026-05-02
 type: concept
 tags: [gardening, homesteading]
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 ---

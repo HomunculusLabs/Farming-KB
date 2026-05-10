@@ -1,134 +1,129 @@
 ---
-title: Global Distribution of Psilocybe Species
+title: [[geographic-distribution-of-psilocybe-species]] of the Psilocybe Genus
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
-tags: [mycology, biogeography, psilocybe, distribution, ecology]
+created: 2026-05-09
+tags: [mycology, psilocybe, biogeography, distribution, biodiversity, tropics, mexico]
 ---
 
-# Global Distribution of Psilocybe Species
+# Geographic Distribution of the Psilocybe Genus
 
-The genus Psilocybe contains the majority of known neurotropic fungi, with 116 species catalogued by Guzmán, Allen & Gartz (2000). Their distribution spans all continents but is markedly concentrated in the subtropical and tropical regions, with the highest diversity in the Austral hemisphere — particularly in Mesoamerica, South America, and the Asia-Pacific region.
+## Overview
+
+The genus *Psilocybe* is the most diverse and widely distributed group of
+neurotropic fungi, with 116 of the 216 known neurotropic species catalogued by
+Guzmán, Allen and Gartz (2000). These species are found on every continent
+except Antarctica, from sea level to 4,000 meters elevation, though their
+distribution is markedly uneven.
 
 ## Hemispheric Asymmetry
 
-A striking pattern emerges from the distribution data: of 85 neurotropic Psilocybe species analyzed by Guzmán (1983), 59 occur in South America and Mexico, compared to only 18 in the USA and Canada, and just 9 in Europe. This disparity persists despite far more intensive mycological exploration in northern regions, suggesting a genuine center of diversity in the southern hemisphere. Mexico alone has 44 taxa of neurotropic Psilocybe — representing 39% of the world total.
+A striking pattern emerges from distributional analysis: the **majority of
+Psilocybe species occur in or near the Southern Hemisphere**, primarily in
+subtropical humid forests. Of 85 neurotropic Psilocybe species analyzed:
 
-The evidence suggests that Psilocybe may have originated in South America, radiating northward through Mesoamerica into North America and eventually reaching Europe and Asia via land connections. This is supported by the observation that South America and Mesoamerica have the highest species counts, while northern continents have fewer species despite greater survey effort.
+- **59 species** in South America and Mexico (austral)
+- **18 species** in the USA and Canada (boreal)
+- **9 species** in Europe
 
-## Mexico: The Global Center of Diversity
+This pattern persists even though Northern Hemisphere regions are more
+mycologically explored, suggesting genuine biodiversity rather than sampling
+bias — though the bias is real: as Gartz (1996) noted, "The mushrooms occur
+in abundance wherever mycologists abound."
 
-Mexico stands as the single most important country for neurotropic Psilocybe diversity, with 76 total neurotropic fungal species (including non-Psilocybe genera). Of 42 neurotropic Psilocybe species in Guzmán's 1983 monograph:
+## Mexico: Global Center of Diversity
 
+Mexico has the highest number of [[guzman-caribbean-neurotropic-fungi-species-distribution]] of any country,
+with **76 species** total, of which **44 belong to Psilocybe** — representing
+39% of the world's Psilocybe species. Mexico's exceptional diversity stems from
+its position as a biogeographic crossroads where Northern and Southern
+Hemisphere mycobiotas converge.
+
+Ecological distribution within Mexico (from 42 neurotropic Psilocybe species):
 - **34 species** from mesophytic (cloud) forests
-- **4 species** from tropical forests
+- **4 species** from [[fungal-biodiversity-tropical-forests]]
 - **4 species** from coniferous forests
 
-This pattern holds even though coniferous forests have been more thoroughly surveyed in Mexico. Mesophytic forests — characterized by high humidity, moderate temperatures, and rich epiphyte communities — appear to be the primary habitat for Psilocybe diversification.
+Notable Mexican endemics include *P. muliercula*, *P. chiapanensis*, *P. laurae*,
+and *[[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]]* (collected only once in 1955 by Wasson and never
+re-found despite extensive fieldwork).
 
-Mexico's extraordinary diversity results from its position as a biogeographic crossroads where northern and southern mycobiotas converge. Northern species such as P. caerulipes, common in eastern North American deciduous forests, reach northeastern Mexico (Zacualtipan, Hidalgo) through continuous mesophytic forest with Fagus. Southern species like P. yungensis and P. subyungensis, common in South America, reach Mexico through mesophytic forests with Alnus.
+## Major Regions of Diversity
 
-## Distribution Patterns by Region
-
-### North America (USA and Canada)
-
-Twenty-one taxa of neurotropic Psilocybe are reported. Key species include:
-
-- **P. cyanescens** — Pacific Northwest, introduced in Europe; grows on wood chips in disturbed areas.
-- **P. semilanceata** — widely distributed in temperate grasslands; common in the Pacific Northwest.
-- **P. pelliculosa** and **P. silvatica** — coniferous forests of the Pacific Northwest.
-- **P. stuntzii** — exclusive to the Pacific Northwest.
-- **P. baeocystis** — Oregon, Washington, and British Columbia.
-- **P. azurescens** — coastal dune grasses of the Pacific Northwest; one of the most potent species.
-- **P. caerulipes** — deciduous forests of eastern North America, reaching into northeastern Mexico.
-- **P. quebecensis** — Quebec, Canada; alpine-subalpine habitat.
-
-Notably, several US states have no records of neurotropic Psilocybe (Arizona, Colorado, Illinois, Maryland, Vermont, Massachusetts, New Hampshire, Pennsylvania) — a gap attributable to limited mycological survey rather than absence.
-
-### Europe
-
-Only 14 species of neurotropic Psilocybe are known, despite extensive mycological exploration:
-
-- **P. semilanceata** — the most common and widely distributed; found in wet grassy fields throughout central and northern Europe (UK, Norway, Germany, and many others). Absent from Mexico despite its global range.
-- **P. cyanescens** — introduced, growing on wood chips in disturbed urban areas. Also known as P. bohemica (Czech Republic) and P. serbica (Central Europe); Krieglsteiner (1986) considered all three synonymous.
-- **P. coprinifacies** — Central Europe (Czech Republic, Slovakia); taxonomically confused with P. bohemica and P. serbica.
-- **P. fimetaria** — found in both North America and Europe.
-- **P. hispanica** — endemic to Spain.
-
-European species are primarily temperate, unlike the predominantly subtropical species of the Americas.
+### Central America and Caribbean
+High species concentration throughout. *P. cubensis* is pantropical but
+especially common here. The Caribbean region harbors species like
+*P. portoricensis* (Puerto Rico endemic).
 
 ### South America
+Colombia is a major center with endemics including *P. columbiana*, *P. guatapensis*,
+and *P. pintonii*. Brazil has *P. brasiliensis* and *P. paulensis*. The continent
+remains under-explored mycologically.
 
-High diversity despite limited mycological exploration. Notable species include:
+### New Guinea and Southeast Asia
+Among the best-documented regions for indigenous ceremonial use of neurotropic
+fungi outside Mexico. Species here show close taxonomic relationships with
+Mesoamerican taxa: *P. samuiensis* (Thailand) is closely related to *P. mexicana*
+(Mexico/Guatemala), both in Section *Mexicanae*.
 
-- **P. brasiliensis** and **P. paulensis** — endemic to Brazil.
-- **P. columbiana**, **P. guatapensis**, **P. pintonii** — endemic to Colombia.
-- **P. meridiensis** — Venezuela.
-- **P. argentipes** — closely related to Japanese P. subcaerulipes.
+### Europe
+Only 9 neurotropic Psilocybe species, but several are widespread:
+- *P. semilanceata* — the most common, found in wet pastures across central
+  and northern Europe (curiously absent from Mexico)
+- *P. cyanescens* — found in disturbed habitats
+- *P. bohemica* / *P. serbica* — [[psilocybe-bohemica-central-european]] endemics
 
-Colombia has 12 neurotropic Psilocybe species, with ancient gold pectorals related to mushroom use discovered by Schultes and Bright (1979).
-
-### Asia-Pacific
-
-The Asia-Pacific region shows remarkable biogeographic connections with the Americas:
-
-- **P. samuiensis** (Thailand) and **P. makarorae** (New Zealand) are both closely related to P. mexicana (Mexico/Guatemala), all belonging to Section Mexicanae.
-- **P. aucklandii** (New Zealand) is closely related to P. zapotecorum (Mexico/South America), both in Section Zapotecorum.
-- **P. argentipes** and **P. subcaerulipes** (Japan) are closely related to American P. graveolens, P. muliercula, P. pintonii, and P. zapotecorum.
-
-Horak (1983) noted broader agaric relationships between South America/Southeast Asia (New Guinea, Indonesia, Australia) involving genera Cystoagaricus, Galerina, Mycena, and Paxillus, suggesting ancient Gondwanan connections.
+### North America (USA and Canada)
+18 known species. The [[psilocybin-north-america-pacific-northwest]] is particularly rich, with *P. pelliculosa*,
+*P. silvatica*, and *P. stuntzii*. Several states (Arizona, Colorado, Illinois,
+Maryland, Vermont, Massachusetts, New Hampshire, Pennsylvania) have no records —
+likely reflecting under-sampling rather than absence.
 
 ### Africa
+Severely under-explored despite high overall biodiversity. Only 6–8 neurotropic
+Psilocybe species known. No records from many regions.
 
-Africa is severely under-explored mycologically. Only 6-8 neurotropic Psilocybe species are known:
+### Asia and Oceania
+*P. semilanceata* extends to India. Japan has several species including *P. argentipes*
+and *P. subcaerulipes*. New Zealand has *P. makarorae* and *P. aucklandii*. Notable
+gaps include Korea, Malaysia (except Java and Sumatra), and Hawaii.
 
-- **P. cubensis** — reported from Kenya, though historical reports by Cullinan et al. (1945) are confusing. P. aquamarina (closely related to P. cubensis) was reported from Kenya by Pegler (1977).
-- **P. natalensis** — the only confirmed neurotropic Psilocybe from South Africa (Gartz et al., 1995).
-- **P. mairei** — known from Northern Africa (Morocco, Algeria) and Czechoslovakia.
+## Distribution Patterns
 
-## Ecological Distribution Patterns
+Hongo (1978) identified nine distribution types applicable to neurotropic fungi:
 
-### Habitat Types
+1. **Cosmopolitan** — *Panaeolus* spp., *P. foenisecii*
+2. **Northern Hemisphere** — *Amanita* spp., *P. pelliculosa*, *P. silvatica*
+3. **Eurasian** — *A. muscaria*
+4. **North American + East Asian** — disjunct distributions
+5. **Far Eastern** — limited to Japan/East Asia
+6. **Southeast Asian** — *P. subaeruginascens*
+7. **Tropical/Subtropical** — *P. cubensis*, *Copelandia* spp.
+8. **Arctic/Alpine** — *P. aztecorum* var. *aztecorum* (Mexico, 4000m)
+9. **Endemic** — numerous country-specific species
 
-The majority of neurotropic Psilocybe species are found in:
+## The Mesophytic Forest Corridor
 
-1. **Subtropical humid forests** — the primary habitat, especially mesophytic/cloud forests.
-2. **Tropical forests** — fewer species, including P. cubensis on dung.
-3. **Temperate grasslands** — P. semilanceata and allies.
-4. **Coniferous forests** — relatively few species despite extensive survey.
-5. **Alpine/subalpine zones** — P. aztecorum grows at 4,000 m elevation in Mexican high mountains.
-6. **Disturbed/anthropogenic habitats** — P. cyanescens on wood chips; P. cubensis on cattle dung.
+A key biogeographic insight is the role of **mesophytic forests** in facilitating
+species movement between hemispheres. Northern species like *P. caerulipes* reach
+northeastern Mexico (Zacualtipan, Hidalgo) through continuous deciduous forest.
+Southern species like *P. yungensis* reach Mexico through mesophytic forests with
+*Alnus*. Mexico thus serves as a conjugation point where both mycobiotas meet.
 
-### Altitudinal Range
+## Under-Explored Regions
 
-Neurotropic Psilocybe species range from sea level to approximately 4,000 m elevation. P. aztecorum represents the high-elevation extreme in the volcanic mountains of central Mexico. Copelandia cyanescens grows at 3,000 m in Maui, Hawaii.
+Records are absent or sparse from southeastern Russia, Mongolia, Arabia, Turkey,
+much of Africa, Central America (excluding Mexico), Alaska, and Costa Rica.
+Every new collection effort in these regions tends to yield new species,
+suggesting the 216-species count is a significant underestimate.
 
-### Substrate Preferences
+## References
 
-- **Dung** — P. cubensis, P. subcubensis, Copelandia spp., Panaeolus spp. P. cubensis grows on cow dung throughout the Americas but interestingly does not occur in Europe — it was likely introduced to the Americas through the slave trade during Spanish colonial times, since cattle were introduced by the Spanish in the 16th-17th centuries.
-- **Wood and wood chips** — P. cyanescens, P. azurescens, P. stuntzii.
-- **Soil and forest litter** — P. semilanceata, P. caerulipes, P. mexicana.
-- **Grasslands and pastures** — P. semilanceata, P. foenisecii.
+- Guzmán, G., Allen, J.W. & Gartz, J. (2000). Ann. Mus. civ. Rovereto, 14, 189–280.
+- Gartz, J. (1996). Distribution patterns of psychoactive fungi worldwide.
+- Hongo, T. (1978). Distribution types of Japanese agarics and boletes.
+- Horak, E. (1983). Mycogeography of the South Pacific.
+## See Also
 
-## Hongo's Nine Distribution Types
-
-The Japanese mycologist Hongo (1978) described nine types of fungal distribution, all observable in neurotropic fungi:
-
-1. **Cosmopolitan** — Panaeolus spp., Panaeolina foenisecii.
-2. **Northern hemisphere** — Amanita spp., Cordyceps spp., P. pelliculosa, P. silvatica.
-3. **Eurasian** — Amanita muscaria.
-4. **North American and Eastern Asiatic** — ties between American and Japanese species.
-5. **Far Eastern** — not clearly represented in neurotropic fungi.
-6. **Southeastern Asiatic** — P. subaeruginascens (Japan and Java).
-7. **Tropical and subtropical** — P. cubensis, Copelandia cyanescens, C. tropicalis.
-8. **Arctic and alpine** — P. aztecorum, Panaeolus moellerianus, P. olivaceus.
-9. **Endemic** — many Mexican species (C. siligineoides, H. naematoliformis, P. muliercula, P. chiapanensis), Colombian species, P. brasiliensis, P. hispanica, P. serbica, P. portoricensis.
-
-## Data Gaps and Survey Bias
-
-As Gartz (1996) observed: "The mushrooms occur in abundance wherever mycologists abound." This survey bias means that many regions likely harbor undocumented species:
-
-- No records from southeastern Russia, Mongolia, Arabia, Turkey.
-- No records from Korea, Malaysia (except Java and Sumatra), or Hawaii for Psilocybe.
-- Few records from Alaska, Costa Rica, and much of Africa.
-- Even well-studied countries like the USA have gaps in states with limited mycological activity.
-
-Whenever new regions are surveyed, new species are discovered — a pattern that has held consistently from the 1980s through the 1990s.
+- [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
+- [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]
+- [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]

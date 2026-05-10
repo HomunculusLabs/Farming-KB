@@ -22,11 +22,11 @@ sources:
 
 # Ben Lemon
 
-Author of "[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" (1979), published under the pseudonym Nicolas Flamel. A foundational text in underground cannabis chemistry that documented solvent extraction, isomerization, THC [[thc-acetate-synthesis-and-pharmacology]], and purification techniques for [[cervantes-hash-cannabis-oil-production]].
+Author of "Cannabis Alchemy" (1979), published under the pseudonym Nicolas Flamel. A foundational text in underground cannabis chemistry that documented solvent extraction, isomerization, THC acetate synthesis, and purification techniques for cannabis oil. (see [[cannabis-chromatography-cannabinoid-purification]]).
 
 ## Context
 
-"Cannabis Alchemy" appeared during a transitional period when [[comparison-cannabis-extraction-basics-vs-extraction-methods]] was shifting from folk methods (hand-rubbed charas, dry sifting) to chemistry-based techniques. The book was one of the first widely distributed practical guides to cannabis oil extraction and chemical modification, predating the modern commercial concentrate industry by decades.
+"Cannabis Alchemy" appeared during a transitional period when cannabis extraction was shifting from folk methods (hand-rubbed charas, dry sifting) to chemistry-based techniques. The book was one of the first widely distributed practical guides to cannabis oil extraction and chemical modification, predating the modern commercial concentrate industry by decades. (see [[cannabis-potency-enhancement-intact-flowers]]).
 
 The pseudonym "Nicolas Flamel" references the legendary 14th-century French scribe and alchemist supposedly capable of transmuting base metals into gold -- appropriate for a book about transforming plant material into purified concentrates.
 
@@ -43,8 +43,8 @@ Documented the synthesis of THC acetate from high-rotating THC using acetic anhy
 
 ### Purification Techniques
 - Petroleum ether re-extraction for removing water-soluble tars
-- Activated charcoal filtering for producing translucent "[[cannabis-honey-oil-production]]"
-- [[cannabis-fractional-distillation-cannabinoids]] under vacuum for further refinement
+- Activated charcoal filtering for producing translucent "honey oil"
+- Fractional distillation under vacuum for further refinement
 - Chromatographic isolation of pure cannabidiol and conversion to pure THC
 
 ### High-Volume Extraction
@@ -63,21 +63,3 @@ The techniques described in Cannabis Alchemy -- particularly isomerization and h
 - [[thc-acetate-and-isomerization]] for detailed chemistry from this book
 - [[cannabis-hashish-guide]] for traditional and modern hashish techniques
 - [[cannabis-health-therapeutics]] for medical applications of extracts
-## Practical Considerations
-
-Successful implementation of Ben Lemon (Nicolas Flamel) requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

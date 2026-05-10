@@ -118,7 +118,7 @@ These trials demonstrated significant reductions in PTSD symptom severity compar
 - [[mdea]]
 - [[lsd]]
 - [[psilocybin]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[serotonin]]
 - [[2c-b]]
 - [[blesching-cannabis-dopamine-endocannabinoid-system]]

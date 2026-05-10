@@ -101,7 +101,7 @@ occurring active principle of the Mexican magic drug ololiuqui.
 ## BOL-148: From Hallucinogen to Migraine Medicine
 
 Certain results of the chemical modification of LSD proved valuable to
-[[cordyceps-cultivation-and-medicinal-research]]. LSD derivatives were found that were only weakly or
+cordyceps cultivation and medicinal research. LSD derivatives were found that were only weakly or
 not at all hallucinogenic but exhibited other LSD effects to an
 increased extent. Such an effect was LSD's blocking effect on the
 neurotransmitter serotonin. Since serotonin plays a role in

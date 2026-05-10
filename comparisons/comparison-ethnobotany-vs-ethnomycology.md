@@ -121,11 +121,8 @@ therapy research has renewed funding for ethnomycological study.
   as it relates to cultural practice.
 - **Both** when studying entheogenic traditions, traditional fermentation systems,
   or biocultural diversity where plants and fungi are intertwined.
+
 ## See Also
 - [[allegro-sacred-prostitute-and-the-mushroom-cult]]
-- ethnomycology
 - [[allegro-names-of-the-gods-and-their-fertility-origins]]
-
-## See Also
-
 - [[comparison-amanita-ethnobotany-vs-arthur-ethnomycology]]

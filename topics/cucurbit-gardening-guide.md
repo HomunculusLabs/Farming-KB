@@ -9,7 +9,7 @@ updated: 2026-05-08
 sources:
   - solomon-growing-cucurbits-guide Guide (wiki concept)
   - Hamilton, Geoff. The Ornamental Kitchen Garden. BBC Books, 1997.
-  - Solomon, Steve. [[container-growing-vegetables-herbs]] West of the Cascades. Sasquatch Books, 2000.
+  - Solomon, Steve. container-growing-vegetables-herbs West of the Cascades. Sasquatch Books, 2000.
 related_concepts:
   - solomon-growing-cucurbits-guide
   - cucumber-growing-guide
@@ -129,7 +129,6 @@ gardeners plant cucurbits directly into compost piles or hugelkultur
 mounds, where the decomposing organic matter provides both warmth
 and nutrition throughout the season.
 
-## Planting and Spacing Guidelines
 ## See Also
 
 [[companion-planting-and-polycultures]] [[integrated-pest-management-ipm]]

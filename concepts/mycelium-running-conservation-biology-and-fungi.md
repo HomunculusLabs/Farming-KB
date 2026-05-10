@@ -2,8 +2,7 @@
 title: "mycelium running conservation biology and fungi and Fungi"
 created: 2026-04-26
 updated: "2025-04-23"
-sources:
-  sources: []
+sources: []
 type: concept
 tags: [fungi, mycelium]
 ---

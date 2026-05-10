@@ -116,6 +116,6 @@ Natural regeneration is limited by seed predation from rodents and livestock, co
 - [[serenoa-repens]]
 - [[trachycarpus-fortunei]]
 - [[sabal-palmetto]]
-- [[South-America]]
-- [[biodiversity]]
+- South America
+- [[fungal-biodiversity]]
 - [[agroforestry]]

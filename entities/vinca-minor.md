@@ -15,7 +15,7 @@ sources:
   - López-García, R.E. et al. (2018). "Vincamine and related alkaloids: a comprehensive review." Journal of Pharmacy and Pharmacology 70(7): 879-894.
   - Duke, J.A. (2002). Handbook of Medicinal Herbs. 2nd ed. CRC Press.
   - Newall, C.A. et al. (1996). Herbal Medicines: A Guide for Health-Care Professionals. Pharmaceutical Press.
-  - van Beek, T.A. (2005). "[[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] of Vinca alkaloids." Journal of Pharmaceutical and Biomedical Analysis 38(4): 555-563.
+  - van Beek, T.A. (2005). "challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification of Vinca alkaloids." Journal of Pharmaceutical and Biomedical Analysis 38(4): 555-563.
   - Szabó, L. (1958). "Investigations on Vinca minor alkaloids." Acta Pharmaceutica Hungarica 28: 68-74.
 created: 2026-04-28
 ---

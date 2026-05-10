@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources:
-  sources: []
+sources: []
 ---
 Updated: 2026-04-18 Asparagus (Asparagus officinalis) is a long-lived perennial vegetable that provides delicious edible shoots for 15+ years from a single planting. It is a high-nutrition food worth the initial setup effort. ## Botanical Description Asparagus is a herbaceous perennial that produces feathery, fern-like foliage reaching 3-5 feet (1-1.5 m) tall. The edible spears emerge from a crown and root system in [[coleman-overwintered-onions-and-early-spring-crops]]. Mature plants form a large, bushy fern that yellow and die back in autumn. A well-maintained asparagus bed can remain productive for 20-30 years, making it an excellent long-term investment in any [[compost-building-guide]] or well-rotted manure. A soil pH between 6.5 and 7.5 is ideal. Adding rock phosphate or bone meal at planting time supports the deep root system.
 

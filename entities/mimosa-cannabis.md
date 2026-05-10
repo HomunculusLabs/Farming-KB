@@ -132,4 +132,4 @@ Mimosa is a **THC-dominant strain** with virtually no CBD. The [[cannabis-terpen
 **Purple Punch-dominant:** Shorter/bushier, purple calyxes, sweeter grape flavor, more body relaxation, faster flowering (7–8 weeks).
 ## See Also
 
-- [[cannabis-blue-dream]]
+- [[blue-dream]]

@@ -81,7 +81,7 @@ As of 2026, comprehensive safety and toxicity data for THCP are lacking:
 - **Acute toxicity**: No published LD₅₀ data; the extreme potency suggests a narrow [[blesching-cannabis-therapeutic-window-dosing]]
 - **Chronic effects**: No long-term studies exist
 - **Pharmacokinetics**: Absorption, distribution, metabolism, and excretion profiles are unknown
-- **[[emcdda-psilocybin-flashbacks-and-persistent-psychosis-risk]] es concerns about acute anxiety, dissociation, and psychosis ris [[query-what-is-the-cannabis-entourage-effect]] ption. However, the possibility of **synergistic effects** with other cannabinoids (entourage effect) remains an active area of investigation.
+- **[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] es concerns about acute anxiety, dissociation, and psychosis ris [[query-what-is-the-cannabis-entourage-effect]] ption. However, the possibility of **synergistic effects** with other cannabinoids (entourage effect) remains an active area of investigation.
 
 ## Synthetic and Semi-Synthetic Production
 

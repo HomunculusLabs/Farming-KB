@@ -2,7 +2,7 @@
 
 ## Overview
 
-β-Caryophyllene (BCP) is a bicyclic sesquiterpene (C₁₅H₂₄) found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of [[syzygium-aromaticum]]), cinnamon (Cinnamomum spp.), copaiba, and rosemary. It is distinguished from other [[cannabis-terpenes-and-the-entourage-effect]] by its unique cyclobutane ring — a rare structural feature among natural terpenes. BCP is the first [[beta-caryophyllene-dietary-cannabinoid]] identified, functioning as a selective agonist of the cannabinoid CB2 receptor while also interacting with several other molecular targets relevant to inflammation, pain, and neuroprotection. Its presence in cannabis may contribute significantly to the entourage effect, the proposed synergistic interaction between cannabinoids and terpenes.
+β-Caryophyllene (BCP) is a bicyclic sesquiterpene (C₁₅H₂₄) found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of [[syzygium-aromaticum]]), cinnamon (Cinnamomum spp.), copaiba, and rosemary. It is distinguished from other [[query-what-is-the-cannabis-entourage-effect]] by its unique cyclobutane ring — a rare structural feature among natural terpenes. BCP is the first [[beta-caryophyllene-dietary-cannabinoid]] identified, functioning as a selective agonist of the cannabinoid CB2 receptor while also interacting with several other molecular targets relevant to inflammation, pain, and neuroprotection. Its presence in cannabis may contribute significantly to the entourage effect, the proposed synergistic interaction between cannabinoids and terpenes.
 
 ## Chemical Structure and Properties
 

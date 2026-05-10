@@ -21,7 +21,7 @@ sources:
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Tilford, G.L. (1997). "Edible and Medicinal Plants of the West." Mountain Press.
   - Hitchcock, C.L. & Cronquist, A. (1973). "Flora of the Pacific Northwest." University of Washington Press.
-  - Werier, D. et al. (2022). "Pedicularis groenlandica." Flora of [[psilocybin-north-america-pacific-northwest]]. http://floranorthamerica.org
+  - Werier, D. et al. (2022). "Pedicularis groenlandica." Flora of psilocybin-north-america-pacific-northwest. http://floranorthamerica.org
   - Schofield, J.J. (1989). "Discovering Wild Plants." Alaska Northwest Books.
 ---
 

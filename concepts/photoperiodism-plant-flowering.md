@@ -1,150 +1,128 @@
 ---
-title: Photoperiodism Plant Flowering
+title: Photoperiodism in Plant Flowering
+aliases: [photoperiod, short-day plants, long-day plants, day-length
+[[mollison-designers-day-length-and-flowering-response]]]
+tags: [botany, plant-physiology, photoperiodism, flowering, cannabis]
 created: 2026-05-09
-tags: [plant-biology, photoperiodism, flowering, light-signaling, circadian]
-date: 2026-05-09
-aliases: [Photoperiod, [[coleman-persephone-months-winter-day-length]] Flowering, Short Day Plants, Long Day Plants]
+source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
 ---
 
-# Photoperiodism and Plant Flowering
+# Photoperiodism in Plant Flowering
 
-Photoperiodism is the physiological response of plants to the duration of light and
-dark periods. Discovered in 1920 by Wightman W. Garner and Harry A. Allard at the
-US Department of Agriculture, photoperiodism was the first strong evidence that
-plants measure time — specifically, the length of the daily light period — and use
-this information to trigger major developmental transitions such as flowering.
+Photoperiodism is the physiological response of organisms to the
+duration of light and dark periods in a 24-hour cycle. In plants, it is
+one of the most critical environmental signals controlling the
+transition from vegetative growth to reproductive development
+(flowering). The [[maryland-mammoth-tobacco-and-the-discovery-of-photoperiodism]] in the early twentieth
+century revolutionized agriculture and remains fundamental to modern
+[[arbuscular-mycorrhizal-fungi-cannabis-cultivation]], where light cycle manipulation is the primary tool
+for controlling plant [[pf-tek-mushroom-morphology-and-lifecycle-stages]].
 
 ## The Maryland Mammoth Discovery
 
-The phenomenon of photoperiodism was discovered through a tobacco variety called
-Maryland Mammoth, which appeared in southern Maryland farms around 1906. This
-strain exhibited unusual behavior: it grew to 4.5 meters in height, produced nearly
-100 leaves, and never stopped growing — but it rarely flowered, making seed harvest
-for the next season nearly impossible.
+The story of photoperiodism begins with a remarkable tobacco strain
+called Maryland Mammoth, first noticed by farmers in the valleys of
+southern Maryland around 1906. These valleys had been home to some of
+America's greatest tobacco farms since European settlers arrived in the
+late seventeenth century, learning cultivation from native tribes such
+as the Susquehannock. Normal tobacco was planted in spring and harvested
+in late summer, with some plants left to flower for seed production.
 
-Garner and Allard hypothesized that the exceptionally long days of summer were
-preventing flowering. They divided Maryland Mammoth plants into two groups:
+Maryland Mammoth was different. It could reach four and a half metres in
+height, produce almost a hundred leaves, and would only stop growing
+when frosts set in. Like the two-faced Roman god Janus, it was both
+blessing and curse: vigorous growth, yet rarely flowered. In 1918,
+Wightman W. Garner and Harry A. Allard at the US Department of
+Agriculture discovered that by moving plants to a dark shed each
+afternoon, artificially shortening days, Maryland Mammoth would flower.
+This phenomenon, named photoperiodism, provided the first evidence that
+plants measure light duration.
 
-- **Group 1:** Left in the field with natural long summer days
-- **Group 2:** Moved to a dark shed every afternoon, creating artificially short days
+## Classification of Photoperiodic Responses
 
-The results were dramatic. Group 1 continued [[cannabis-vegetative-growth-stage]] without flowering.
-Group 2, exposed to shortened day length, stopped growing and began flowering.
-This experiment proved that plants measure [[coleman-winter-day-length-and-persephone-months]] use it as a developmental
-signal.
+Scientists classified flowering into three categories. **Short-day
+plants (SDP)** flower when continuous darkness exceeds a critical
+threshold, typically blooming in autumn as days shorten. Examples
+include chrysanthemums, soybeans, poinsettias, and Cannabis sativa. In
+Cannabis cultivation, the short-day response is exploited by switching
+from 18/6 vegetative to 12/12 flowering cycles. **Long-day plants
+(LDP)** flower when the dark period falls below a critical duration,
+blooming in spring. Examples include irises, barley, and spinach. **Day-
+neutral plants** flower regardless of photoperiod, responding to cues
+like age or temperature. Examples include tomatoes and sunflowers. The
+classification reflects deep evolutionary adaptation to seasonal cycles.
 
-## Classification by Photoperiodic Response
+## Plants Measure Darkness, Not Daylight
 
-Plants are classified into three main categories based on their [[mollison-designers-day-length-and-flowering-response]]
-to day length:
+One of the most surprising findings was that plants measure the length
+of continuous darkness, not daylight. This was demonstrated through
+night-break experiments around World War II. When a short-day plant is
+kept under short autumn days but a light is turned on for a few minutes
+mid-night, it will NOT flower — the brief interruption creates two short
+nights. Conversely, a long-day plant kept under short winter days WILL
+flower if a light breaks the night — the perceived night is shortened
+below threshold.
 
-### Short-Day Plants (SDP)
+Chrysanthemum farmers applied this immediately: they prevented flowering
+by turning on greenhouse lights for minutes each night, then stopped two
+weeks before Mother's Day for synchronized blooms. Florida farmers grew
+Maryland Mammoth for months, with plants flowering naturally in
+midwinter when days were shortest.
 
-- Flower when the day length is **shorter** than a critical threshold
-- Typically flower in late summer or autumn as days shorten
-- The critical factor is actually the **long night** — they require a minimum
-  uninterrupted dark period
-- Examples: chrysanthemum, poinsettia, strawberry, soybean, cannabis (*Cannabis
-  sativa* is a short-day plant, flowering under 12 hours or less of light)
-- A common mnemonic: "Short-day plants flower when days are short — or equivalently,
-  when nights are long"
+## Red/Far-Red Light Quality and the Phytochrome Switch
 
-### Long-Day Plants (LDP)
+Only red light (~660 nm) effectively interrupted the dark period. Blue
+or green flashes had no effect, revealing a dedicated photoreceptor
+system. In the early 1950s, Harry Borthwick and colleagues at the USDA
+found that far-red light (~730 nm) could completely cancel the red light
+effect. The relationship was fully reversible: red-on, far-red-off,
+cycling indefinitely with seconds of exposure.
 
-- Flower when the day length is **longer** than a critical threshold
-- Typically flower in spring or early summer as days lengthen
-- They require a maximum dark period — if the night is too long, flowering is
-  suppressed
-- Examples: spinach, lettuce, radish, clover, barley, wheat
-- Biennial plants (carrots, beets) are often long-day plants that require vernalization
-  (cold exposure) before they become responsive to photoperiod
+This toggle is mediated by phytochrome, existing in two forms: Pr
+(inactive, absorbs red) and Pfr (active, absorbs far-red). In nature,
+dusk's far-red light converts phytochrome to Pr — the plant "turns off."
+Morning red light converts it to Pfr — the plant "wakes up." By tracking
+time since last conversion, the plant measures continuous darkness with
+remarkable precision.
 
-### Day-Neutral Plants (DNP)
+## The Mobile Flowering Signal from Leaves
 
-- Flower regardless of day length, or have no critical photoperiod
-- Flowering is controlled by other factors such as plant age, temperature, or
-  nutrient status
-- Examples: tomato, cucumber, corn, rice, bean
+Where does [[leaf-based-photoperiodic-perception]] occur? Darwin showed the shoot tip
+was the "eye" for phototropism, so scientists hypothesized the apex
+might measure day length. Surprisingly, illuminating any single leaf was
+sufficient to regulate flowering in the entire plant. Removing all
+leaves made the plant completely blind to photoperiodic cues, even when
+the entire remaining plant was illuminated.
 
-## The Night Break Experiment
+Phytochrome in the leaves receives light cues and initiates a mobile
+signal — "florigen" — that propagates to the shoot apical meristem.
+Modern biology identified this as the FT (FLOWERING LOCUS T) protein,
+which travels through the phloem from leaves to the shoot tip to trigger
+the reproductive transition.
 
-A critical insight came from night-break experiments, which revealed that it is the
-**dark period**, not the light period, that plants actually measure:
+## Photoperiodism in Cannabis Cultivation
 
-- If a long night is interrupted by a brief flash of light (a "night break"), the
-  plant perceives the night as two short nights
-- For short-day plants, a night break prevents flowering (the night is no longer
-  long enough)
-- For long-day plants, a night break promotes flowering (the long night is broken
-  into acceptable shorter segments)
-- The most effective wavelength for night breaks is red light (~660nm), which is
-  sensed by phytochrome photoreceptors
+For Cannabis growers, photoperiodism is the single most important
+concept for indoor cultivation. The entire cycle is structured around
+manipulating light:
 
-This finding led to the understanding that photoperiodic timekeeping is mediated by
-the phytochrome system's ability to track the duration of continuous darkness.
-
-## The Phytochrome Hourglass
-
-Phytochrome exists in two interconvertible forms:
-
-- **Pr (P660):** Absorbs red light (660nm) and converts to Pfr
-- **Pfr (P730):** Absorbs far-red light (730nm) and converts to Pr
-
-During daylight, red light converts Pr to Pfr. In darkness, Pfr slowly reverts
-to Pr (or is degraded). The plant effectively uses Pfr as a biochemical hourglass
-— it accumulates during the day and decays during the night. The amount of Pfr
-remaining at the end of the night signals the night's duration to the plant's
-flowering machinery.
-
-## Molecular Mechanism: CONSTANS and FT
-
-The molecular pathway linking photoperiod perception to flowering has been
-extensively characterized in *[[arabidopsis-thaliana]]*:
-
-1. **Circadian clock genes** generate rhythmic expression patterns synchronized
-   to the light/dark cycle
-2. **CONSTANS (CO)** gene expression peaks in the late afternoon, but the CO
-   protein is only stable in light (it is degraded in darkness)
-3. On long days, CO protein accumulates because light extends into the period
-   when CO mRNA is being produced
-4. CO protein activates **FLOWERING LOCUS T (FT)**, a mobile protein that travels
-   from leaves to the shoot apex
-5. FT protein at the shoot apex triggers the floral transition — converting
-   vegetative meristems into floral meristems
-
-This pathway explains why long days promote flowering in long-day plants: the
-extended light period stabilizes the CO protein, allowing it to activate FT and
-initiate flowering.
-
-## Photoperiodism in Agriculture
-
-Understanding photoperiodism has major practical applications:
-
-### Greenhouse Lighting
-
-- **Long-day treatment:** Supplemental lighting extends the photoperiod to promote
-  flowering in long-day crops or prevent flowering in short-day crops
-- **Short-day treatment:** Blackout curtains create artificial short days to induce
-  flowering in short-day crops like chrysanthemums year-round
-- **Night interruption:** Brief light flashes during the night can prevent flowering
-  in short-day plants without requiring continuous additional lighting
-
-### Cannabis Cultivation
-
-Cannabis is a short-day plant that transitions from [[query-how-to-transition-cannabis-from-vegetative-to-flowering]] stage
-when the photoperiod drops below approximately 12 hours of light. Indoor cultivators
-typically use 18/6 (18 hours light, 6 hours dark) for vegetative growth and switch
-to 12/12 to trigger flowering. This precise control over photoperiod allows year-
-round cultivation regardless of seasonal light conditions.
-
-### Geographic Adaptation
-
-Plant varieties are adapted to the photoperiodic conditions of their native latitude.
-Moving a photoperiod-sensitive variety to a different latitude without adjusting
-planting time can result in flowering at the wrong time or complete failure.
+- **Vegetative stage:** Maintained under 18/6, suppressing flowering genes for indefinite vegetative growth and biomass accumulation.
+- **Flowering induction:** Switching to 12/12 mimics autumn. Flowers appear after 1-2 weeks; full flowering takes 7-12 weeks depending on cultivar.
+- **Dark period integrity:** Any light interruption during the dark period can cause re-vegetation, delayed flowering, or hermaphroditism. Complete darkness is essential for quality sinsemilla production.
+- **Autoflowering varieties:** Derived from [[cannabis-ruderalis]] genetics, these carry photoperiodic pathway mutations and flower based on age (2-4 weeks post-germination) regardless of light cycle.
+- **Outdoor cultivation:** Latitude determines the natural flowering window. Cannabis flowers in late summer to autumn as nights lengthen past 12 hours.
 
 ## See Also
 
-- [[plant-photoreception-and-phototropism]]
-- [[plant-photoreceptors-phytochromes-cryptochromes]]
-- circadian rhythm plants
+- [[phytochrome-photoreceptor]]
+- [[phototropism-darwin-plants]]
+- [[plant-vision-light-perception]]
+- [[plant-sensory-biology-chamovitz]]
+
+## References
+
+- Chamovitz D (2012) What a Plant Knows: A Field Guide to the Senses. Oneworld Publications.
+- Garner WW, Allard HA (1920) Effect of the Relative Length of Day and Night. J Agric Res, 18.
+- Borthwick HA, Hendricks SB (1960) Photoperiodism in Plants. Science, 132(3433).
+- Turck F, Fornara F, Coupland G (2008) Regulation and identity of florigen. Annu Rev Plant Biol, 59.
+- Song YH, Ito S, Imaizumi T (2010) Similarities in the circadian clock and photoperiodism. J Biol Rhythms, 25.

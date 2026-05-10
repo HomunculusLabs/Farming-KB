@@ -1,5 +1,5 @@
 ---
-title: mollison-designers-charcoal-production-biochar-soil-amendment for Cooking
+title: Charcoal Production for Cooking
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Charcoal is wood that has been heated in the absence of sufficient oxygen to drive off [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] (water, methane, hydrogen, tar), leaving behind a carbon-rich fuel that burns hotter, cleaner, and more consistently than raw wood. For off-grid and homestead cooking, producing your own charcoal reduces fuel costs, provides a high-quality cooking fuel, and can create biochar as a soil amendment.
+Charcoal is wood that has been heated in the absence of sufficient oxygen to drive off volatile compounds (water, methane, hydrogen, tar), leaving behind a carbon-rich fuel that burns hotter, cleaner, and more consistently than raw wood. For off-grid and homestead cooking, producing your own charcoal reduces fuel costs, provides a high-quality cooking fuel, and can create biochar as a soil amendment. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
 
 ## The Chemistry of Charcoal
 
@@ -18,7 +18,7 @@ Wood is roughly:
 - 6% hydrogen
 - 44% oxygen (plus trace minerals)
 
-When heated to 400-500C in low-oxygen conditions (pyrolysis), the hydrogen and oxygen are driven off as volatile gases, leaving a product that is 70-85% carbon. This concentrated carbon burns at higher temperatures (up to 1100F) compared to raw wood (500-800F), produces less smoke, and has roughly double the energy density by weight.
+When heated to 400-500C in low-oxygen conditions (pyrolysis), the hydrogen and oxygen are driven off as volatile gases, leaving a product that is 70-85% carbon. This concentrated carbon burns at higher temperatures (up to 1100F) compared to raw wood (500-800F), produces less smoke, and has roughly double the energy density by weight. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ## Charcoal Yield
 
@@ -142,8 +142,9 @@ Any charcoal production method can produce biochar for soil amendment:
 - Quench hot charcoal with water rather than letting it cool slowly (water quenching preserves more micropore structure)
 - Crush charcoal to particle sizes from powder to 1/2 inch
 - Incorporate into compost piles or garden beds at 5-10% by volume
-- Biochar improves soil water retention, [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity, and microbial habitat
-- "Charge" biochar by soaking in [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] or mixing with compost before soil application
-## Related Topics
+- Biochar improves soil water retention, cation exchange capacity, and microbial habitat
+- "Charge" biochar by soaking in compost tea or mixing with compost before soil application
 
-Charcoal production connects to broader off-grid energy and soil systems. See [[pellet-stove-heating]] for another wood fuel processing method. The biochar byproduct integrates with [[composting-methods-comparison]] and soil building. Wood [[cannabis-breeding-selection-principles-clarke]] overlap with [[fungi-and-sustainability]] and forestry management on the homestead.
+See [[composting-methods-comparison]] for integration with biochar production.
+
+## Safety Considerations

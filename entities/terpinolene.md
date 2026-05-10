@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - Tisserand, R. & Young, R. (2014). "permaculture-designers-manual-essential-oil-plants Safety." 2nd ed. Elsevier.
   - Rice, S. & Koziel, J.A. (2015). "The role of terpenes in cannabis." Journal of the American Society of Brewing Chemists 73(3): 231–240.
-  - Guzmán-Gutiérrez, S.L. et al. (2012). "Antidepressant-like activity of [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]." Phytomedicine 19(2): 97–107.
+  - Guzmán-Gutiérrez, S.L. et al. (2012). "Antidepressant-like activity of comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap." Phytomedicine 19(2): 97–107.
   - Do, T.K.D. et al. (2015). "Chemical composition of essential oils." In: Essential Oils in Food Preservation. Springer.
 ---
 

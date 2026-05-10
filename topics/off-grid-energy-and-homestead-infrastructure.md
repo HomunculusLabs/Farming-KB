@@ -113,7 +113,6 @@ reduce solar output (storm fronts, overcast skies) often increase wind
 speeds.
 
 Not every site is suitable for wind power. The minimum requirement is an
-average annual wind speed of 10 miles per hour (4.5 meters per second) at
 ## See Also
 
 - [[wind-power-basics]]

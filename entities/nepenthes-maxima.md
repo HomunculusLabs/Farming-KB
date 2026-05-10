@@ -12,7 +12,7 @@ sources:
   - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
   - Murphy, D.J. (2017). "Carnivorous Plants of the World." Timber Press.
   - Danser, B.H. (1928). "The Nepenthaceae of the Netherlands Indies." Bulletin de Jardin de Botanique.
-  - McPherson, S.R. (2009). "Pitcher Plants of the [[datura-metel-old-world-ethnobotany]]." Redfern Natural History Productions.
+  - McPherson, S.R. (2009). "Pitcher Plants of the datura-metel-old-world-ethnobotany." Redfern Natural History Productions.
   - Meijer, W. (1997). "Nepenthes of Sumatra." National Parks Board of Singapore.
 ---
 

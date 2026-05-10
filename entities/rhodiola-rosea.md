@@ -30,8 +30,7 @@ taxonomy:
   genus: Rhodiola
   species: R. rosea
   authority: L.
-sources:
-  sources: []
+sources: []
 ---
 
 # Rhodiola rosea

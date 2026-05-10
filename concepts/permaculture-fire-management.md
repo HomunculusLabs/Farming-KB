@@ -61,7 +61,7 @@ In fireprone areas, buildings should have:
 
 ## Forest/Fuel Wood Selection
 
-Downslope forests should be slow-burning deciduous trees with [[ultra-low-leaf-mold-as-ideal-soil-model]] oils, sappy or thick-leaved species, with a clean floor or succulent groundcovers. Avoid planting inflammable trees (eucalypts, pines) or grasses (pampas grass) along house driveways, as these create a blowtorch effect.
+Downslope forests should be slow-burning deciduous trees with low leaf oils, sappy or thick-leaved species, with a clean floor or succulent groundcovers. Avoid planting inflammable trees (eucalypts, pines) or grasses (pampas grass) along house driveways, as these create a blowtorch effect.
 
 ## Related Concepts
 
@@ -69,22 +69,4 @@ Downslope forests should be slow-burning deciduous trees with [[ultra-low-leaf-m
 - [[permaculture-settlement-design]] -- community-scale fire planning
 - [[permaculture-zone-0-house-design]] -- protecting the home
 - [[permaculture-pond-construction]] -- dams designed for firefighting
-- [[permaculture-tree-crop-systems]] -- fire-resistant tree [[cover-crop-selection-guide]]
-## Practical Considerations
-
-Successful implementation of Permaculture Fire Management requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+- [[permaculture-tree-crop-systems]] -- fire-resistant tree crop selection

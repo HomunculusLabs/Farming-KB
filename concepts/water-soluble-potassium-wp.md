@@ -23,7 +23,7 @@ sources:
 
 # Water-Soluble Potassium (WS-K)
 
-WS-K is a [[complete-knf-input-reference]] made from tobacco stem charcoal steeped in water. Potassium activates starch-synthesizing enzymes, regulates stomata and water use, and translocates photosynthates to fruit. It is critical during [[knf-reproductive-growth-stage]] for fruit quality, sugar content, and disease resistance.
+WS-K is a KNF input made from tobacco stem charcoal steeped in water. Potassium activates starch-synthesizing enzymes, regulates stomata and water use, and translocates photosynthates to fruit. It is critical during reproductive growth for fruit quality, sugar content, and disease resistance.
 
 ## What Potassium Does
 
@@ -49,7 +49,7 @@ WS-K is a [[complete-knf-input-reference]] made from tobacco stem charcoal steep
 
 ## Excess Symptoms
 
-- Induces [[query-how-to-fix-magnesium-deficiency-in-cannabis]]
+- Induces magnesium deficiency
 - Similar to gas disorder — appears in middle of leaves
 
 ## Recipe
@@ -86,14 +86,14 @@ WS-K must be used alone. If applied with nitrogen in hot/humid conditions or on 
 
 ## When to Apply
 
-- **Reproductive [[cho-plant-growth-stage-treatment-protocols]]**: Primary use — fruit quality and sugar content
+- **Reproductive growth stage**: Primary use — fruit quality and sugar content
 - **Fruit enlargement period**: Potassium demand peaks
 - **Pre-harvest**: Improves starch/sugar accumulation
 
 ## See Also
 
-- [[knf-preparations]] — all [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] and growth stage schedules
-- [[nutritive-cycle-theory]] — when to apply WS-K in the [[cho-nutritive-cycle-theory]]
+- [[knf-preparations]] — all KNF inputs and growth stage schedules
+- [[nutritive-cycle-theory]] — when to apply WS-K in the nutritive cycle
 - [[water-soluble-calcium-wca]] — calcium for reproductive stage
 - [[water-soluble-phosphoric-acid-wpa]] — phosphorus for changeover period
 - [[fermented-plant-extract-fpe]] — FFJ for reproductive growth energy

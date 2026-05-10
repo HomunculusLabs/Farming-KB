@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [query, permaculture, season-extension, soil-health, cover-crops]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: query
 ---
 

@@ -108,6 +108,8 @@ In large-scale conservation plantings, Echium vulgare is often combined with [[a
 
 ## See Also
 
+- [[limonium-vulgare]]
+
 - [[borago-officinalis]] — borage, a related Boraginaceae species also valued as a bee forage plant
 - [[symphytum-officinale]] — comfrey, a Boraginaceae species with similar bristly foliage and medicinal history
 - [[lithospermum-erythrorhizon]] — gromwell, a Boraginaceae species noted for its red naphthoquinone pigments

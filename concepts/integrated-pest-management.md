@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, pest-control, troubleshooting, cultivation, gardening, permaculture, ecology, plants]
-sources:
-  sources: []
+sources: []
 ---
 
 # Integrated Pest Management (IPM)
 
-Integrated Pest Management is a systematic, science-based approach to managing pests (insects, diseases, weeds) that combines multiple [[jadam-weed-control-strategies-natural]] while minimizing environmental impact, economic cost, and risks to human health. IPM does not aim for complete pest eradication but rather for economically and ecologically acceptable levels of pest suppression.
+Integrated Pest Management is a systematic, science-based approach to managing pests (insects, diseases, weeds) that combines multiple control strategies while minimizing environmental impact, economic cost, and risks to human health. IPM does not aim for complete pest eradication but rather for economically and ecologically acceptable levels of pest suppression.
 
 ## The Five Steps of IPM
 
@@ -61,7 +60,7 @@ IPM uses a hierarchy of control methods, always preferring the least disruptive 
 
 #### Cultural Controls (First Line of Defense)
 These prevent or reduce pest problems through growing practices:
-- Crop rotation -- breaks [[hamilton-pest-and-disease-control-organic]] cycles
+- Crop rotation -- breaks pest and disease cycles
 - Resistant varieties -- select cultivars with known pest resistance
 - Proper spacing -- reduces humidity and disease spread
 - Sanitation -- remove crop debris, weed hosts, and infected plants
@@ -73,8 +72,8 @@ These prevent or reduce pest problems through growing practices:
 Using living organisms to control pests:
 - Predators: ladybugs (aphids), lacewings (aphids, thrips), predatory mites (spider mites)
 - Parasitoids: parasitic wasps (caterpillars, whiteflies, aphids)
-- Pathogens: [[cervantes-bacillus-thuringiensis-bt-control]] (Bt) for caterpillars, Beauveria bassiana for various insects
-- Microbial fungicides: Trichoderma species for fungal suppression, Bacillus subtilis for [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] diseases
+- Pathogens: Bacillus thuringiensis (Bt) for caterpillars, Beauveria bassiana for various insects
+- Microbial fungicides: Trichoderma species for fungal suppression, Bacillus subtilis for bacterial and fungal diseases
 
 Conserve existing beneficials by avoiding broad-spectrum insecticides and providing habitat (flowering plants for nectar, ground cover for shelter).
 
@@ -118,7 +117,7 @@ When you detect a pest, ask these questions before acting:
 ## Building an IPM Program
 
 Start with prevention as the core strategy:
-- Build healthy soil (healthy plants resist [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] more effectively)
+- Build healthy soil (healthy plants resist pests and diseases more effectively)
 - Choose adapted, resistant varieties
 - Encourage biodiversity (complex ecosystems have natural pest regulation)
 - Monitor regularly and systematically
@@ -133,7 +132,7 @@ Start with prevention as the core strategy:
 
 - [[fungal-plant-diseases]] -- common fungal pathogens and their management within IPM
 - [[plant-disease-identification]] -- correct identification as the critical first step of IPM
-- [[pollinator-gardening]] -- supporting [[coleman-beneficial-insects-and-ecological-pest-control]] as biological control agents
+- [[pollinator-gardening]] -- supporting beneficial insects as biological control agents
 
 ## Related
 

@@ -140,7 +140,6 @@ The enzymatic pathway from tryptamine to psilocybin and its dephosphorylated cou
 enzymatic steps that are less completely characterized than the upstream shikimate pathway but are nonetheless
 well supported by experimental evidence. The transformation requires both hydroxylation at the four-position
 of the indole ring and methylation of the primary amine to produce the N,N-dimethyl configuration found in
-psilocybin.
 ## See Also
 
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]

@@ -15,7 +15,7 @@ Salvinorin A is the primary psychoactive compound found in [[salvia-divinorum|Sa
 
 ## Pharmacology
 
-Salvinorin A is a highly selective kappa-opioid receptor (KOR) agonist. This distinguishes it from virtually all other psychedelic substances, which primarily target serotonin 5-HT2A receptors.
+Salvinorin A is a highly selective kappa-opioid receptor (KOR) agonist. This distinguishes it from virtually all other psychedelic substances, which primarily target serotonin 5-HT2A receptors. (see [[salvia-divinorum-pharmacology]]).
 
 Key pharmacological properties:
 
@@ -26,7 +26,7 @@ Key pharmacological properties:
 - Half-life: Approximately 60-90 minutes
 - Non-nitrogenous: Contains no basic nitrogen, making it structurally unique among psychedelics
 
-The KOR system is involved in perception, consciousness, and interoception. Activation produces dissociative, hallucinatory, and often profoundly disorienting effects that are qualitatively different from serotonergic psychedelics.
+The KOR system is involved in perception, consciousness, and interoception. Activation produces dissociative, hallucinatory, and often profoundly disorienting effects that are qualitatively different from serotonergic psychedelics. (see [[salvia-divinorum-salvinorin]]).
 
 ## Effects
 
@@ -98,11 +98,11 @@ Salvinorin A has no known lethal dose and is not considered physiologically toxi
 
 ## Legal Status
 
-Salvinorin A is unscheduled in many countries but regulated or banned in others. In the [[dmt-containing-plants-united-states-halpern]], it is unscheduled at the federal level but banned or controlled in numerous states. Legal status changes frequently and should be verified locally.
+Salvinorin A is unscheduled in many countries but regulated or banned in others. In the United States, it is unscheduled at the federal level but banned or controlled in numerous states. Legal status changes frequently and should be verified locally.
 
 ## History and Cultural Context
 
-Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
+Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional healing and divination ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid receptor pharmacology.
 
 ## See Also
 

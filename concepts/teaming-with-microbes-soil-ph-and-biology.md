@@ -4,8 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [soil-ph, microbiology, nitrification, soil-chemistry]
-sources:
-  sources: []
+sources: []
 ---
 
 # Soil pH and Biology

@@ -141,9 +141,7 @@ Cultivation initiatives by government agencies and NGOs are promoting sustainabl
 **Permaculture functions:**
 - Multi-layer food system: root crop integrated into food forests with overstory shade
 - Deep root system stabilizes slopes and cycles nutrients to the surface
-## See Also
 
 ## See Also
-
 - [[query-what-is-the-role-of-endophytic-fungi-in-plant-health]]
 - [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]

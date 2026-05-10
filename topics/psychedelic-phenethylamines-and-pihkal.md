@@ -121,7 +121,6 @@ provided the chemical name and structure, step-by-step synthesis procedures,
 dosage information, duration, qualitative commentary, and footnotes on related
 compounds. The book was followed in 1997 by TIHKAL ("Tryptamines I Have Known
 and Loved"), which applied the same format to the tryptamine family.
-
 ## See Also
 
 [[2c-b-psychedelic-empathogen-guide]]

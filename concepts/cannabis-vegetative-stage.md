@@ -1,5 +1,5 @@
 ---
-title: comparison-cannabis-vegetative-stage-vs-flowering-stage Stage
+title: Cannabis Vegetative Stage
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ The vegetative stage is the growth phase where cannabis plants develop structure
 
 ## Light Cycle
 
-The standard vegetative [[query-best-light-schedule-for-cannabis]] is 18 hours on / 6 hours off (18/6). This extended photoperiod keeps plants in vegetative growth by preventing the hormonal shift triggered by longer dark periods.
+The standard vegetative light schedule is 18 hours on / 6 hours off (18/6). This extended photoperiod keeps plants in vegetative growth by preventing the hormonal shift triggered by longer dark periods.
 
 - **18/6** — most common, allows good growth with rest period
 - **20/4** — slightly faster growth, minimal added electricity cost
@@ -77,11 +77,11 @@ A common vegetative NPK ratio is 3-1-2 or similar. Key points:
 
 ### Micronutrients
 
-Calcium, magnesium, iron, and manganese are critical during veg. [[knf-calcium-deficiency-symptoms]] causes leaf tip curl; [[query-how-to-fix-magnesium-deficiency-in-cannabis]] presents as interveinal chlorosis on lower leaves. Cal-Mag supplements are commonly added to feed water, especially in RO or distilled water setups.
+Calcium, magnesium, iron, and manganese are critical during veg. Calcium deficiency causes leaf tip curl; magnesium deficiency presents as interveinal chlorosis on lower leaves. Cal-Mag supplements are commonly added to feed water, especially in RO or distilled water setups.
 
 ### Feeding Schedule
 
-- Week 1 from seed: plain water or very light [[cannabis-nutrient-solution-preparation]] (EC 0.4-0.6)
+- Week 1 from seed: plain water or very light nutrient solution (EC 0.4-0.6)
 - Week 2-3: gradually increase to half-strength (EC 0.8-1.0)
 - Week 4+: full vegetative strength (EC 1.2-1.8 depending on medium)
 - Watch for nutrient burn — tip curling and clawing leaves indicate excess
@@ -117,7 +117,7 @@ In living soil beds, water when the top inch of soil feels dry. Overwatering dur
 
 - Stunted growth and drooping leaves
 - Root rot risk in poorly drained media
-- [[cannabis-nutrient-lockout-and-ph]] from anaerobic root zones
+- Nutrient lockout from anaerobic root zones
 
 Allow the root zone to partially dry between waterings. This encourages roots to search for moisture, building a denser root network.
 

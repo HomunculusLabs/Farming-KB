@@ -58,11 +58,11 @@ Plants measure the length of continuous darkness, not the length of the day:
 
 ## What a Plant Smells
 
-Plants detect [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) in the air:
+Plants detect volatile organic compounds (VOCs) in the air:
 
-- Plants can sense ripening fruit, neighboring species, and even herbivore damage through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]]
-- When a plant is attacked by pests, it releases [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] that warn neighboring plants to activate their defenses
-- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] works partly through [[plant-hormones-and-chemical-signaling-systems]] between species
+- Plants can sense ripening fruit, neighboring species, and even herbivore damage through chemical signals
+- When a plant is attacked by pests, it releases volatile compounds that warn neighboring plants to activate their defenses
+- Companion planting works partly through chemical signaling between species
 - The [[soil-food-web-nutrient-cycling]] produces chemical signals that roots detect, influencing nutrient uptake and [[mycorrhizal-fungi]] colonization
 
 ## What a Plant Feels
@@ -99,7 +99,7 @@ Plants exhibit forms of memory:
 
 | Plant Sense | Growing Application |
 |---|---|
-| Light (blue) | Use blue-rich spectrum in veg for [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]] |
+| Light (blue) | Use blue-rich spectrum in veg for compact growth |
 | Light (red/far-red) | Use red-heavy spectrum + far-red EOD for flowering |
 | Photoperiod | Maintain strict 12/12 dark period — no light leaks |
 | Smell (VOCs) | Companion planting, intercropping, pest defense priming |

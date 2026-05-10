@@ -23,7 +23,7 @@ Cover crops are plants grown primarily to benefit the soil rather than for harve
 - Scavenge residual soil nutrients and prevent leaching
 - Build soil organic matter
 - Break compaction layers with deep taproots
-- Attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and pollinators
+- Attract beneficial insects and pollinators
 - Cycle nutrients from deep soil layers to the surface
 - Provide biomass for [[hot-composting-vs-vermicompost-vs-bokashi]] production
 
@@ -34,7 +34,7 @@ Cover crops are plants grown primarily to benefit the soil rather than for harve
 **Crimson Clover (Trifolium incarnatum)**
 - Hardiness: annual, dies at 15F
 - Seeding rate: 15-20 lbs/acre or 1/4 lb per 1000 sq ft
-- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]: 70-150 lbs N/acre
+- nitrogen fixation: 70-150 lbs N/acre
 - Benefits: Excellent nitrogen fixer, beautiful red flowers attract pollinators, winter-hardy in zone 7+
 - Termination: Mow or crimp at early bloom, or till in
 - Good for: Preceding corn, tomatoes, peppers, squash
@@ -67,7 +67,7 @@ Cover crops are plants grown primarily to benefit the soil rather than for harve
 **Sorghum-Sudangrass**
 - Hardiness: warm-season annual
 - Seeding rate: 30-50 lbs/acre
-- Benefits: Massive [[dighton-fungal-biomass-production-aquatic-ecosystems]] (can reach 8+ feet), deep root system breaks compaction, [[permplant-carob-drought-tolerant-food-tree]], allelopathic weed suppression
+- Benefits: Massive biomass production (can reach 8+ feet), deep root system breaks compaction, drought tolerant, allelopathic weed suppression
 - Termination: Mow repeatedly to prevent seed set, incorporate when 3-4 feet tall
 - Caution: Prussic acid toxicity — do not graze during drought or after frost
 - Good for: Building large amounts of organic matter, subsoiling
@@ -76,7 +76,7 @@ Cover crops are plants grown primarily to benefit the soil rather than for harve
 - Hardiness: warm-season annual
 - Seeding rate: 40-60 lbs/acre
 - Nitrogen fixation: 100-150 lbs N/acre
-- Benefits: Excellent heat and [[dighton-fungal-drought-tolerance-plant-water-relations]], good nematode suppression, produces edible beans
+- Benefits: Excellent heat and drought tolerance, good nematode suppression, produces edible beans
 - Termination: Mow or incorporate at flowering
 - Good for: Summer nitrogen fixation in hot climates
 
@@ -108,7 +108,7 @@ Cover crops are plants grown primarily to benefit the soil rather than for harve
 
 Multi-species mixes outperform monocultures in most situations. A basic fall mix for cold climates:
 
-- Winter rye: 2 lbs per 1000 sq ft (structure, [[permplant-willows-salix-erosion-control-fodder]])
+- Winter rye: 2 lbs per 1000 sq ft (structure, erosion control)
 - Hairy vetch: 0.5 lbs per 1000 sq ft (nitrogen fixation)
 - Crimson clover: 0.25 lbs per 1000 sq ft (nitrogen fixation, pollinator attraction)
 - Daikon radish: 0.25 lbs per 1000 sq ft (compaction breaking)

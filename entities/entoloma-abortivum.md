@@ -22,8 +22,8 @@ updated: 2026-04-28
 sources:
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
   - "Kuo, M. (2023). Entoloma abortivum. MushroomExpert.com."
-  - "Bessette, A.E. et al. (1997). Mushrooms of Northeastern [[psilocybin-north-america-pacific-northwest]]. Syracuse University Press."
-  - "Lincoff, G.H. (1981). National Audubon Society [[ghouled-field-guide-historical-context]] to [[growing-gourmet-north-american-reishi-species]] Mushrooms. Knopf."
+  - "Bessette, A.E. et al. (1997). Mushrooms of Northeastern psilocybin-north-america-pacific-northwest. Syracuse University Press."
+  - "Lincoff, G.H. (1981). National Audubon Society ghouled-field-guide-historical-context to growing-gourmet-north-american-reishi-species Mushrooms. Knopf."
   - "Halling, R.E. (1993). \"Molecular systematics of the Entolomataceae.\" Mycologia 85(5): 735-745."
 ---
 

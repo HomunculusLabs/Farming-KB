@@ -3,7 +3,7 @@ title: Nitrogen-Fixing Green Manures
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
-tags: [permaculture, gardening, urban-agriculture]
+tags: [[comparison-permaculture-tuber-crops-vs-bean-growing-guide|permaculture], gardening, urban-agriculture]
 sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sustainable-living.md]
 ---
 # Nitrogen-Fixing Green Manures Nitrogen-fixing green manures are plants -- primarily legumes -- that convert atmospheric nitrogen into plant-available forms through symbiotic relationships with rhizobia bacteria in their root nodules. When these plants are cut and incorporated into the soil (or left as surface mulch), they release stored nitrogen and organic matter, building soil fertility without synthetic fertilizers. ## Why Green Manures Matter In a closed-loop permaculture system, fertility must be generated on-site. Nitrogen is the most commonly limiting plant nutrient, and green manures are the primary biological mechanism for [[comparison-sheet-mulching-vs-chop-and-drop]], break pest cycles, suppress weeds, improve soil structure, prevent erosion, and feed pollinators. They are the cheapest and most sustainable form of fertilizer available.
@@ -24,7 +24,7 @@ A leguminous woody shrub of the dry subtropics and tropics. Frost-sensitive. Qui
 
 **Uses:** Major tropical food grain -- green seeds and pods used as vegetables. Ripe seeds ground into flour or dhal. Sprouts are highly nutritious (22% protein, 10% calcium). Important forage plant eaten green or made into hay or silage. Sometimes planted in pastures as a browse plant. Ideal windbreak and shade for vegetables. Leaves cut for mulch on garden beds. Used as shade tree in coffee, cacao, and vanilla plantations in India. Useful windbreak hedge species.
 
-**As green manure:** Excellent green manure and cover crop. Used in erosion control on slopes. Dried stalks provide firewood, thatching, and basket-making material in India. Deep taproot brings up subsoil nutrients.
+**As green manure:** Excellent green manure and [[mollison-designers-cover-crops-and-green-manure-species|cover]] crop. Used in erosion control on slopes. Dried stalks provide firewood, thatching, and basket-making material in India. Deep taproot brings up subsoil nutrients.
 
 **Medicinal:** Used in Asian medicine as a treatment for skin irritations and cuts. Leaves used for silkworm culture in Madagascar.
 

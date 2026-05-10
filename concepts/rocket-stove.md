@@ -1,11 +1,10 @@
 ---
-title: comparison-rocket-stove-vs-masonry-heater
+title: Rocket Stove
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [permaculture, equipment, design, homesteading, methods, regenerative, ecology]
-sources:
-  sources: []
+sources: []
 ---
 
 # Rocket Stove
@@ -60,7 +59,7 @@ For a standard cooking rocket stove with a 4-inch diameter system:
 - Sawdust-clay mix (light cob) — natural, moderate insulation
 
 **Outer shell**:
-- Steel drum (55-gallon) for large [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] heaters
+- Steel drum (55-gallon) for large rocket mass heaters
 - Metal box or bucket for portable cooking stoves
 - Cob or stone for permanent installations
 - Brick for permanent outdoor installations
@@ -112,7 +111,7 @@ Rocket stoves can be integrated with cob ovens to create an extremely efficient 
 - Once the oven is hot, the cob mass retains heat for hours of baking
 - The rocket stove can continue providing heat for a stovetop surface while the oven bakes
 - This combination uses a fraction of the wood of a traditional cob oven
-- See [[natural-building]] for [[comparison-cob-construction-vs-straw-bale-construction]] techniques
+- See [[natural-building]] for cob construction techniques
 
 ## Fuel Requirements
 
@@ -121,7 +120,7 @@ Rocket stoves are designed to burn small-diameter wood efficiently:
 - **Ideal fuel**: Dry sticks and twigs 0.5-2 inches in diameter and 12-24 inches long
 - **Wood species**: Any dry wood works. Hardwoods (oak, maple, hickory) burn longer; softwoods (pine, cedar) burn faster and hotter.
 - **Moisture content**: Below 20% moisture is ideal. Green or wet wood produces smoke and reduces efficiency.
-- **Fuel preparation**: Prunings from [[fukuoka-orchard-management-detailed]], fallen branches, and construction scraps are all suitable fuel. This makes rocket stoves an excellent way to use [[food-forest-design]] pruning waste.
+- **Fuel preparation**: Prunings from orchard management, fallen branches, and construction scraps are all suitable fuel. This makes rocket stoves an excellent way to use [[food-forest-design]] pruning waste.
 - **Feed rate**: Feed sticks into the horizontal tube as they burn down. The self-feeding design means you add fuel every 5-10 minutes rather than constantly tending.
 
 ## Applications
@@ -136,15 +135,16 @@ Rocket stoves are designed to burn small-diameter wood efficiently:
 ### Heating
 
 - Space heating via rocket mass heater (described above)
-- [[biomass-compost-greenhouse-heating-systems]]: Small rocket stoves can heat [[greenhouse-design]] spaces efficiently
+- Greenhouse heating: Small rocket stoves can heat [[greenhouse-design]] spaces efficiently
 - Water heating: Wrap a water jacket around the heat riser for domestic hot water
 
 ### Homestead Processing
 
 - Maple syrup boiling: High heat output is ideal for evaporating sap
-- Canning: Sustained heat for water [[water-bath-canning-guide]] — see [[food-preservation-canning]]
+- Canning: Sustained heat for water bath canning — see [[food-preservation-canning]]
 - Rendering: Melting fats for soap and candle making — see [[candle-making]]
 - Scalding: Processing poultry — see [[animal-harvest-and-processing]]
-## Related
 
-- [[mud-oven]]
+## Safety Considerations
+
+- The combustion chamber and heat riser reach temperatures of 1000-1800F — serious burn hazard

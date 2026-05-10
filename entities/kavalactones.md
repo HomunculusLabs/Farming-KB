@@ -119,13 +119,7 @@ sources:
 | Australia | Banned (2007); under re-evaluation as of 2024 |
 | Canada | Legal with restrictions (since 2012) |
 | South Pacific | Unrestricted; culturally protected |
-## See Also
 
+## See Also
 - [[glucuronidation]]
-
-- Kava — the plant *[[plants-of-the-gods-piper-methysticum-kava]]* and its ethnobotany
-- GABA-A Receptor — primary target of kavalactone anxiolysis
-
-## See Also
-
 - [[gaian-psychotherapy-and-entheogenic-plants]]

@@ -13,7 +13,7 @@ sources:
   - "Pennell, F.W. (1935). \"The Scrophulariaceae of eastern temperate psilocybin-north-america-pacific-northwest.\" Academy of Natural Sciences of Philadelphia Monograph, 1."
   - "Barnes, T.G. & Francis, J.K. (2015). \"Veronicastrum virginicum.\" USDA NRCS Plant Guide."
   - "Cane, J.H. (2005). \"Pollinators of native plants.\" USDA Forest Service, General Technical Report WO-71."
-  - "Moerman, D. (1998). \"[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany.\" Timber Press."
+  - "Moerman, D. (1998). \"halpern-sacramental-peyote-and-native-american-church Ethnobotany.\" Timber Press."
 ---
 
 # Veronicastrum virginicum (Culver's Root)

@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - Watling, R. (1970). "The genus Xerocomus." Notes from the Royal Botanic Garden Edinburgh, 30(2), 207-235.
   - Smith, A.H. & Thiers, H.D. (1971). "The Boletes of Michigan." University of Michigan Press.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes." Syracuse University Press.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "growing-gourmet-north-american-reishi-species Boletes." Syracuse University Press.
   - Krombholz, J.V. (1831-1846). "Naturgetreue Abbildungen und Beschreibungen der Schwämme."
 aliases:
   - Red-cracking Bolete

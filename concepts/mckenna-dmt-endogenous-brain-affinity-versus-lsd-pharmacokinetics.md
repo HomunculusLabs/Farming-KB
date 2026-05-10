@@ -115,6 +115,10 @@ This methodological self-awareness distinguished McKenna from both skeptics and 
 
 ## See Also
 
+- [[mckenna-dmt-serotonin-structural-affinity-and-endogenous-presence]]
+
+- [[mckenna-dmt-psilocybin-lsd-pharmacokinetic-comparison]]
+
 - [[dmt-self-transforming-machine-elves-mckenna]]
 - [[mckenna-dmt-onset-phenomenology-and-mode-shift-experience]]
 - [[mckenna-tryptamine-glossolalia-and-primal-language]]

@@ -141,6 +141,6 @@ sources: ["domain-knowledge"]
   resistance while maintaining original characteristics
 ## See Also
 
-- [[og-kush]] — Indica-dominant hybrid with similar medicinal applications
+- [[og-kush-cannabis-entity]] — Indica-dominant hybrid with similar medicinal applications
 - [[northern-lights]] — Pure indica with comparable relaxing effects
 - [[granddaddy-purple]] — Heavy indica with similar sedative and pain-relief properties

@@ -124,6 +124,8 @@ antibiotic production and industrial biotechnology.
 
 ## See Also
 
+- [[staphylococcus-aureus]]
+
 - [[penicillium-expansum]]
 - [[trichoderma-viride]]
 - [[colletotrichum-gloeosporioides]]

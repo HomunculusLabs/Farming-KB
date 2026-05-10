@@ -6,12 +6,12 @@ created: 2026-05-02
 updated: 2026-05-06
 type: concept
 sources:
-  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
+  - "raw/papers/permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems|bill-mollison.md"
 ---
 
 Phase transfer catalysis is a strategy for making two immiscible reaction phases behave as if the reactive species could meet in the same solution.
 
-It is most often used when an inorganic anion or other ionic reagent is soluble [[pericyclic-reactions-organic-chemistry]] because it can replace dry polar aprotic solvents, strong bases, and elaborate anhydrous procedures with cheaper biphasic mixtures.
+It is most often used when an inorganic anion or other ionic reagent is [[cho-water-soluble-calcium-and-potassium|soluble]] [[pericyclic-reactions-organic-chemistry]] because it can replace dry polar aprotic solvents, strong bases, and elaborate anhydrous procedures with cheaper biphasic mixtures.
 
 In industry, phase transfer catalysis is valued because it combines high reaction rates with simple workups, concentrated media, and comparatively mild operating conditions.
 

@@ -57,6 +57,7 @@ Some collections of C. tenera have been reported to contain psilocybin|psilocybi
 - **Conocybe lactea** — A very similar species with a more consistently white to cream-colored cap that lacks the ochre-brown tones of C. tenera; some authorities treat it as synonymous.
 - **[[pholiotina-filaris-profile]]** — An extremely dangerous species containing deadly amatoxins, formerly placed in Conocybe, and virtually indistinguishable from C. tenera in the field without [[fungal-microscopic-examination-mounting-media-techniques]].
 - **[[archaeology-of-psychedelic-mushroom-use]]** — The psychoactive species traditionally used in Oaxaca, Mexico, with documented psilocybin|psilocybin content.
+- **Conocybe cyanopus** — A northern species with more reliably psychoactive populations, distinguished by a bluing reaction on the stipe base and a preference for colder climates.
 
 ## Ecological Role
 
@@ -69,6 +70,22 @@ Within the mycological literature on psychoactive mushrooms, C. tenera occupies 
 ## Seasonality
 
 C. tenera fruits from late spring through autumn (May to October in the Northern Hemisphere), with peak abundance during warm, wet conditions in mid-summer. In temperate regions, fruiting is triggered by sustained rainfall and warm overnight temperatures. Individual fruiting bodies are short-lived, typically persisting for only a few days before deliquescing in hot weather. In warmer climates, the fruiting season can extend considerably, and subtropical populations may produce basidiocarps nearly year-round.
+
+## Legal Status
+
+Conocybe tenera is not specifically scheduled or controlled in most
+jurisdictions, as it is not considered a reliable or significant source
+of psilocybin. However, in countries where psilocybin itself is a
+controlled substance, any material containing detectable levels of the
+compound is technically subject to the same restrictions as other
+psilocybin-containing mushrooms. In the United Kingdom, the 2005
+Psychoactive Substances Act and prior drug legislation apply to
+preparations intended for psychoactive use regardless of species. In
+the United States, psilocybin and psilocin are Schedule I under the
+Controlled Substances Act, though enforcement against non-target species
+is essentially nonexistent. The Netherlands prohibits the sale of all
+psilocybin-containing fungi under their Opium Act regardless of species
+identity. No country specifically lists C. tenera by name in scheduling.
 
 ## Notes
 

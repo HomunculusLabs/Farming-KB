@@ -124,13 +124,7 @@ closed-loop approach turns all organic waste into a resource for the
 garden.
 
 ## See Also
-
 - [[urban-permaculture-design]]
-- urban-permaculture-productive-yards
-
-## See Also
-
-- permaculture-designers-manual-passive-solar-design
 - [[passive-solar-design]]
 - [[solar-water-heating]]
 - [[permaculture-urban-design]]

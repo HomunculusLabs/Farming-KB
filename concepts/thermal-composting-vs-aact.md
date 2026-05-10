@@ -9,7 +9,7 @@ sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-c
 
 # Thermal Composting vs Actively Aerated Compost Tea
 
-Two approaches to building soil biology: thermal composting creates a concentrated biological inoculant in solid form, while actively aerated compost tea (AAct) multiplies that biology into a liquid form that can be applied to large areas at low cost.
+Two approaches to building soil biology: thermal composting creates a concentrated biological inoculant in solid form, while actively aerated compost tea (AAct) multiplies that biology into a liquid form that can be applied to large areas at low cost. (see [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]]).
 
 ## Thermal Composting
 
@@ -24,7 +24,7 @@ Two approaches to building soil biology: thermal composting creates a concentrat
 - Produces large volumes of amendment (bulk application to soil)
 - Kills pathogens and weed seeds through heat
 - Stable product that stores for months
-- Adds [[hamilton-composting-and-organic-matter-management]] and humus to soil
+- Adds organic matter and humus to soil
 
 ### Limitations
 - Labor-intensive (turning, watering, monitoring)
@@ -37,7 +37,7 @@ Two approaches to building soil biology: thermal composting creates a concentrat
 
 ### Process
 - Start with a small amount of high-quality finished compost (biological inoculant)
-- Add microbial food sources (molasses, kelp, [[comparison-fish-hydrolysate-vs-fish-emulsion]])
+- Add microbial food sources (molasses, kelp, fish hydrolysate)
 - Extract and multiply the biology in aerated water for 24-36 hours
 - Apply immediately as a soil drench or foliar spray
 
@@ -62,7 +62,7 @@ Two approaches to building soil biology: thermal composting creates a concentrat
 | Time to produce | 3-12 months | 24-36 hours |
 | Labor per acre | High (tons to spread) | Low (spray 20 gal/acre) |
 | Organic matter added | Yes (bulk humus) | No (biology only) |
-| Pathogen control | Yes (heat kills) | Depends on [[aact-compost-quality-standards-ingham]] |
+| Pathogen control | Yes (heat kills) | Depends on compost quality |
 | Storage | Stable for months | Must use within hours |
 | Coverage | Tons per acre needed | 20-50 gallons per acre |
 | Cost | Moderate (materials + labor) | Low (compost + food sources) |
@@ -80,14 +80,14 @@ Two approaches to building soil biology: thermal composting creates a concentrat
 - Already have reasonable soil organic matter
 - Need to cover large areas efficiently
 - Want foliar protection (spray on leaf surfaces)
-- During active [[savory-growing-season-and-non-growing-season-management]] (fast turnaround)
+- During active growing season (fast turnaround)
 - As a regular maintenance application (monthly during growing season)
 
 ## The Synergy
-Best practice: use both. Thermal compost to build the soil base (apply 1/4-1/2 inch annually), then AAct to maintain and boost biology during the growing season. AAct can also be used to speed the biological recovery after disturbance (tilling, heavy rain, compaction).
+Best practice: use both. Thermal compost to build the soil base (apply 1/4-1/2 inch annually), then AAct to maintain and boost biology during the growing season. AAct can also be used to speed the biological recovery after disturbance (tilling, heavy rain, compaction). (see [[compost-tea-guide]]).
 
 ## Related
-- [[compost-building-guide]] — for thermal [[natural-farming-guide-composting-methods-and-techniques]]
-- [[compost-tea-recipe-guide]] — for [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]] recipes
+- [[compost-building-guide]] — for thermal composting methods
+- [[compost-tea-recipe-guide]] — for AAct brewing recipes
 - [[soil-microscope-analysis]] — for assessing both products
 - [[soil-food-web-structure]] — for understanding the biology being added

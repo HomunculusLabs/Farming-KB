@@ -113,10 +113,6 @@ recovered.
 
 ## See Also
 - [[fungal-inventory-and-survey-methods]]
-- endophytic-fungi-diversity-and-ecology
-
-## See Also
-
 - [[fungal-biodiversity-species-estimation]]
 - [[fungal-biodiversity]]
 - [[decomposition]]

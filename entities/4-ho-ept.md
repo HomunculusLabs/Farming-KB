@@ -113,4 +113,4 @@ The compound is controlled as a Class B drug in the United Kingdom under the Psy
 - [[tryptamine]]
 - [[4-acetoxy-dmt]]
 - [[norbaeocystin]]
-- [[mescaline-entity]]
+- [[mescaline]]

@@ -8,7 +8,7 @@ sources:
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
 ---
 
-**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets, Ch. 7) | **Updated:** 2026-04-18
+**Source:** woodlovers-mycelium-running-pathway-technique (Paul Stamets, Ch. 7) | **Updated:** 2026-04-18
 
 ## Overview
 

@@ -19,7 +19,7 @@ sources:
 - HCl salt mp: 190-191 C
 - Picrate salt mp: 182-184 C (179-181 C after recrystallization)
 - Derived from: myristicin (3-methoxy-4,5-methylenedioxyallylbenzene)
-- [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]]: tetraoxygenated amphetamine, one of the Essential Amphetamines alongside [[mescaline-entity]]. Reaches a climax with pleasant afterglow. Produces a "Sunday afternoon" feeling of luxurious layback. No color enhancement in open-eye visual scene (except greenish tinges in faces), but closed-eye hallucinations quite real in 3-D. Dreams appear first in black and white, then colors emerge (chartreuse, magenta, blue, red). Described as bringing dreams to the conscious level — a link between subconscious and conscious.
+- [[serotonin-psilocybin-structural-relationship-hallucinogenic-mechanism]]: tetraoxygenated amphetamine, one of the Essential Amphetamines alongside [[mescaline]]. Reaches a climax with pleasant afterglow. Produces a "Sunday afternoon" feeling of luxurious layback. No color enhancement in open-eye visual scene (except greenish tinges in faces), but closed-eye hallucinations quite real in 3-D. Dreams appear first in black and white, then colors emerge (chartreuse, magenta, blue, red). Described as bringing dreams to the conscious level — a link between subconscious and conscious.
 
 At 225 mg, strange awareness of hands within 20 minutes. Acute experience of aloneness and fearfulness. Vivid school scenes more real than actual surroundings. Extreme sleepiness during the experience. Described as most like a series of easily remembered dreams.
 

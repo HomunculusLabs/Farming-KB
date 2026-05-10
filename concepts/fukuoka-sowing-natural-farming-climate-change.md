@@ -122,11 +122,6 @@ Scientific revegetation measures consider only one route to healing, and
 scattered, localized efforts end up as half-baked measures.
 
 ## See Also
-
-- [[fukuoka-sowing-seed-ball-desert-revegetation]] — The alternative
-approach Fukuoka advocates - [[fukuoka-road-critique-of-modern-science]] — Earlier
-[[fukuoka-critique-of-scientific-agriculture]] approaches
-
-## See Also
-
+- [[fukuoka-sowing-seed-ball-desert-revegetation]]
+- [[fukuoka-road-critique-of-modern-science]]
 - [[fukuoka-natural-farming-temperate-climates]]

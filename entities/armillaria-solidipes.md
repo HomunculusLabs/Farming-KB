@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - Anderson, J.B. & Kohn, L.M. (2007). "Diversity and distributions of fungal species in the Armillaria mellea complex." New Phytologist, 175(3), 488–498.
   - Ferguson, B.A., Dreisbach, T.A., Parks, C.G., Filip, G.M. & Schmitt, C.L. (2003). "Coarse-scale population structure of pathogenic Armillaria species in a mixed-conifer forest in the Blue Mountains of northeast Oregon." Canadian Journal of Forest Research, 33(4), 612–623.
-  - Smith, M.L., Bruhn, J.N. & Anderson, J.B. (1992). "The fungus Armillaria bulbosa is among the largest and oldest [[savory-living-organisms-as-tools]]." Nature, 356(6368), 428–431.
+  - Smith, M.L., Bruhn, J.N. & Anderson, J.B. (1992). "The fungus Armillaria bulbosa is among the largest and oldest savory-living-organisms-as-tools." Nature, 356(6368), 428–431.
   - Trest, M.T. & Thorn, R.G. (2021). "Armillaria." In: The Mycota (Vol. 10). Springer.
-  - Klopfenstein, N.B. et al. (2017). "Armillaria species: primary drivers of forest [[fungal-ecosystem-processes-overview]] and forest health." Forest Pathology, 47(6), e12343.
+  - Klopfenstein, N.B. et al. (2017). "Armillaria species: primary drivers of forest fungal-ecosystem-processes-overview and forest health." Forest Pathology, 47(6), e12343.
 created: 2026-04-28
 ---
 

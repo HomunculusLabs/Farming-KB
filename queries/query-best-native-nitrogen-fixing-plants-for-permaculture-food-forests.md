@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - Martin, A.C. (1951). "American Wildlife and Plants." McGraw-Hill.
   - NCRS Plant Materials Program — USDA Conservation Plant Guides.
-  - Holzer, S. (2010). [[sepp-holzer-entity]]'s Permaculture. Chelsea Green.
-  - Jacke, D. & Toensmeier, E. (2005). Edible [[forest-gardens]] Vol. 1 & 2. Chelsea Green.
+  - Holzer, S. (2010). sepp-holzer-entity's Permaculture. Chelsea Green.
+  - Jacke, D. & Toensmeier, E. (2005). Edible forest-gardens Vol. 1 & 2. Chelsea Green.
   - Allen, O.N. & Allen, E.K. (1981). The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation. University of Wisconsin Press.created: 2026-05-07
 type: query
 

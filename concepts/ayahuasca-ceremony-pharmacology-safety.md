@@ -112,14 +112,7 @@ markedly from recreational psychedelic use and generally supports safer,
 more integrative experiences.
 
 ## See Also
-
 - [[ayahuasca-pharmacology-maoi-interactions]]
-
 - [[ayahuasca-tourism-in-peru]]
-- [[ayahuasqueros-shamanic-practice|Ayahuasqueros and Shamanic Practice]]
-
-## See Also
-
-- [[ayahuasca-pharmacology-maoi-interactions]]
-
+- [[ayahuasqueros-shamanic-practice]]
 - [[ayahuasca-ceremony-structure-and-practice]]

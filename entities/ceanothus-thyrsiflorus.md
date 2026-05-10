@@ -25,7 +25,7 @@ updated: 2026-04-28
 sources:
   - McMinn, H.E. (1939). An Illustrated Manual of California Shrubs. University of California Press.
   - "Ceanothus thyrsiflorus." USDA NRCS PLANTS Database. https://plants.usda.gov/
-  - Condron, T. et al. (2018). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by Ceanothus in California ecosystems." Plant and Soil, 428(1-2), 273-287.
+  - Condron, T. et al. (2018). "comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer by Ceanothus in California ecosystems." Plant and Soil, 428(1-2), 273-287.
   - Bornstein, C. et al. (2005). California Native Plants for the Garden. Cachuma Press.
   - Bentrup, G. (2008). "Conservation buffers: Design guidelines for buffers, corridors, and greenways." USDA Forest Service General Technical Report SRS-109.
 created: 2026-04-28

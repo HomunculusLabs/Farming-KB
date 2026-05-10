@@ -135,14 +135,10 @@ For trays, pots, and other reusable containers:
 ## Automation Considerations
 
 Container filling is one of the most labor-intensive steps:
-## See Also
 
+## See Also
 - [[mushroom-spawn-run-thermogenesis-cotter]]
 - [[mushroom-contamination-identification]]
-
-## See Also
-
-- cotter-cropping-containers-for-mushroom-cultivation
 - [[permanent-marker]]
 - [[mycoremediation]]
 - [[cotter-inoculation-techniques-and-hygiene]]

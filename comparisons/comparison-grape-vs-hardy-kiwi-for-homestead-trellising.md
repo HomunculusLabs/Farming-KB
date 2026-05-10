@@ -5,7 +5,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Cornell University College of Agriculture and Life Sciences –  Guide"
-  - "University of Minnesota Extension – Hardy Kiwi ([[actinidia-arguta]])"
+  - "University of Minnesota Extension – Hardy Kiwi (actinidia-arguta)"
   - "Missouri Botanical Garden – Actinidia arguta Plant Profile"
   - "USDA Natural Resources Conservation Service – Plant Guides for Vitis and Actinidia"
   - "California Rare Fruit Growers – Hardy Kiwi Fact Sheet"

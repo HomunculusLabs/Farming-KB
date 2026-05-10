@@ -23,7 +23,7 @@ sources:
   - U.S. Department of Agriculture. (2024). "Borago officinalis." Natural Resources Conservation Service PLANTS Database.
   - Leung, A.Y. & Foster, S. (1996). "Encyclopedia of Common Natural Ingredients Used in Food, Drugs, and Cosmetics." Wiley.
   - Mills, S. & Bone, K. (2000). "The Essential Guide to Herbal Safety." Elsevier.
-  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." CRC Press.
 created: 2026-04-28
 ---
 

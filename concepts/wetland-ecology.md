@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Wetlands are ecosystems where water saturates the soil for at least part of the [[savory-growing-season-and-non-growing-season-management]], creating conditions favoring hydrophytic (water-adapted) vegetation. Often called "nature's kidneys," wetlands filter water, store floodwaters, and support extraordinary biodiversity. On the homestead, understanding wetland ecology is valuable for [[riparian-zone-restoration]], [[watershed-management]], and [[graywater-systems|greywater]] treatment systems.
+Wetlands are ecosystems where water saturates the soil for at least part of the growing season, creating conditions favoring hydrophytic (water-adapted) vegetation. Often called "nature's kidneys," wetlands filter water, store floodwaters, and support extraordinary biodiversity. On the homestead, understanding wetland ecology is valuable for [[riparian-zone-restoration]], [[watershed-management]], and [[graywater-systems|greywater]] treatment systems.
 
 ## Wetland Types
 
@@ -41,7 +41,7 @@ Bogs are peat-accumulating wetlands fed primarily by precipitation (ombrotrophic
 - **Acid-tolerant trees** like black spruce and tamarack form the bog forest margin
 - **Orchids** and other specialized plants thrive in the low-nutrient, high-light environment
 
-Bogs accumulate peat at rates of 0.5-1.0 mm/year and can be thousands of years old. They are significant [[dighton-fungi-elevated-co2-global-carbon-cycling]] stores.
+Bogs accumulate peat at rates of 0.5-1.0 mm/year and can be thousands of years old. They are significant global carbon stores.
 
 ### Fens
 Fens are peat-accumulating wetlands fed by groundwater (minerotrophic), making them less acidic and more nutrient-rich than bogs:
@@ -84,7 +84,7 @@ Wetland plants have evolved several strategies for root zone anoxia:
 | Plant | Type | Function |
 |-------|------|----------|
 | Cattail (Typha) | Emergent | Wildlife cover, water filtration, edible shoots |
-| Blue flag iris | Emergent | Pollinator habitat, [[permplant-willows-salix-erosion-control-fodder]] |
+| Blue flag iris | Emergent | Pollinator habitat, erosion control |
 | Swamp milkweed | Emergent | Monarch butterfly host plant |
 | Buttonbush | Shrub | Wildlife food (seeds), erosion control |
 | Red maple | Tree | Flood-tolerant timber, fall color |
@@ -119,7 +119,7 @@ Wetland invertebrates form the base of the food web:
 - Dragonflies and damselflies (adults and aquatic nymphs)
 - Mayflies, caddisflies, and stoneflies (water quality indicators)
 - Freshwater mussels (water filtration, indicator species)
-- Aquatic snails and clams ([[comparison-nutrient-cycling-vs-nutrient-dense-gardening]])
+- Aquatic snails and clams (nutrient cycling)
 
 ## Ecosystem Services
 
@@ -129,7 +129,7 @@ Wetlands remove pollutants through several mechanisms:
 - **Sediment trapping**: Suspended particles settle in slow-moving water
 - **Nutrient removal**: Plants and microbes take up nitrogen and phosphorus
 - **Pathogen removal**: UV exposure, predation, and filtration reduce bacteria
-- **Heavy [[chelation-and-metal-binding-in-plants]]**: [[hamilton-composting-and-organic-matter-management]] and mineral soils sequester metals
+- **Heavy metal binding**: Organic matter and mineral soils sequester metals
 
 A single acre of wetland can store 1-1.5 million gallons of floodwater and remove significant nutrient loads from agricultural runoff.
 

@@ -1,5 +1,5 @@
 ---
-title: comparison-quail-husbandry-vs-rabbit-husbandry (Detailed)
+title: Quail Husbandry (Detailed)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -68,7 +68,7 @@ several color and production varieties:
 - Remove aggressive birds immediately.
 
 ### Aviary / Floor System
-- Birds kept on the ground with [[comparison-deep-litter-vs-hot-composting]] (pine shavings).
+- Birds kept on the ground with deep litter (pine shavings).
 - More natural, allows dust bathing and foraging.
 - Higher disease risk (contact with droppings).
 - Eggs must be collected from floor (may be soiled).
@@ -101,7 +101,7 @@ several color and production varieties:
 - Grit (fine) free-choice if feeding anything other than commercial pellets.
 - Oyster shell free-choice for layers.
 - Mealworms as protein supplement (10% of diet max).
-- Dark [[solomon-leafy-greens-growing]] (chopped fine), cooked egg, and seeds as treats.
+- Dark leafy greens (chopped fine), cooked egg, and seeds as treats.
 
 ### Feed Formulation
 - See [[livestock-feed-formulation]] for making custom rations.
@@ -143,7 +143,8 @@ several color and production varieties:
 - See [[animal-harvest-and-processing]] for broader processing principles.
 
 ## Breeding and Incubation
-## See Also
-- [[animal-harvest-and-processing]]
-- [[livestock-feed-formulation]]
-- [[quail-egg-production]]
+
+### Breeding Ratio
+- 1 male per 2-3 females in breeder cages.
+- Males become aggressive in crowded conditions. Monitor and separate.
+- Breeding season: year-round with 14+ hours of light.

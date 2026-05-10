@@ -2,7 +2,7 @@
 
 ## Overview
 
-Kava ([[amanita-muscaria-preparation-methods]] and ceremonial contexts evolving in different island cultures. While modern commercialization has introduced standardized extracts and capsules, traditional kava preparation remains the gold standard for both safety and subjective experience quality. Understanding traditional methods is essential for appreciating kava's cultural significance and for optimizing preparation in contemporary contexts.
+Kava ([[amanita-preparation-methods]] and ceremonial contexts evolving in different island cultures. While modern commercialization has introduced standardized extracts and capsules, traditional kava preparation remains the gold standard for both safety and subjective experience quality. Understanding traditional methods is essential for appreciating kava's cultural significance and for optimizing preparation in contemporary contexts.
 
 ## Origins and Distribution
 

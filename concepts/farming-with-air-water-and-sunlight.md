@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [agriculture, homesteading]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Farming with Air, Water and Sunlight

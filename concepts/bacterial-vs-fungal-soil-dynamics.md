@@ -85,4 +85,6 @@ dominance. This is because:
 
 ## See Also
 
+- [[rhizosphere-bacterial-community-dynamics]]
+
 - [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]

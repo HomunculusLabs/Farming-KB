@@ -1,5 +1,5 @@
 ---
-title: comparison-chicken-keeping-vs-beekeeping-basics
+title: Chicken Keeping
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Chicken Keeping
 
-Chickens are the most accessible and productive livestock for homesteads of any size. A small flock of 4-12 hens provides a steady supply of eggs, produces valuable manure for [[composting-systems]], controls insects, and processes food waste. They integrate naturally into [[permaculture-zones-in-practice]] as a Zone 2 element and contribute to the integrated homestead through [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]], and food production.
+Chickens are the most accessible and productive livestock for homesteads of any size. A small flock of 4-12 hens provides a steady supply of eggs, produces valuable manure for [[composting-systems]], controls insects, and processes food waste. They integrate naturally into [[permaculture-zones-in-practice]] as a Zone 2 element and contribute to the integrated homestead through nutrient cycling, pest control, and food production.
 
 ## Breed Selection
 
@@ -68,7 +68,7 @@ Bred for maximum egg production (250-320 eggs/year):
 ### Coop Types
 
 - **Stationary coop**: Permanent structure with attached run. Most common. Easier to predator-proof.
-- **[[comparison-chicken-tractor-vs-free-range]]**: Mobile coop on wheels/skids moved to fresh ground daily. Chickens fertilize and till soil. Excellent for [[no-till-gardening-method]] integration. Best for spring-fall.
+- **Chicken tractor**: Mobile coop on wheels/skids moved to fresh ground daily. Chickens fertilize and till soil. Excellent for [[no-till-gardening-method]] integration. Best for spring-fall.
 - **Coop and run**: Stationary coop with large fenced outdoor run. Cover run with wire/netting for aerial predator protection.
 
 ### Deep Litter Method
@@ -90,7 +90,7 @@ Bred for maximum egg production (250-320 eggs/year):
 
 - **Kitchen scraps**: Vegetable peels, fruit, bread, rice, pasta — up to 10% of diet. No avocado, onion, garlic, chocolate, or salty foods.
 - **Scratch grains**: Corn, wheat, oats. Treat only. Scatter to encourage foraging. Best in late afternoon for overnight energy.
-- **Protein supplements**: Mealworms, [[comparison-black-soldier-fly-composting-vs-bokashi]] fly larvae, fish scraps. Especially valuable during molting and winter.
+- **Protein supplements**: Mealworms, black soldier fly larvae, fish scraps. Especially valuable during molting and winter.
 
 ### Water
 
@@ -118,7 +118,7 @@ Bred for maximum egg production (250-320 eggs/year):
 
 ### Common Health Issues
 
-- **Mites and lice**: External parasites causing anemia, stress, reduced production. Treat with [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] in dust bath areas, permethrin spray in coop.
+- **Mites and lice**: External parasites causing anemia, stress, reduced production. Treat with diatomaceous earth in dust bath areas, permethrin spray in coop.
 - **Respiratory disease**: Often from poor ventilation. Symptoms: sneezing, coughing, swollen eyes.
 - **Egg-bound hen**: Egg stuck in reproductive tract. Lethargy, straining, penguin walk. Warm bath and calcium may help.
 - **Crop impaction**: Blockage from long grass, string, insufficient grit. Massage crop, provide olive oil and water.
@@ -138,12 +138,13 @@ Bred for maximum egg production (250-320 eggs/year):
 |---|---|---|
 | Raccoons | Reach through wire, open latches | Hardware cloth (1/2 inch); padlocks on doors |
 | Hawks | Aerial attack during day | Covered run; scare tape; roosters as guards |
-## Related
+| Foxes | Dig under fences | Wire buried 12 inches; electric wire at base |
+| Weasels/minks | Enter through small openings | Hardware cloth on all openings (no gaps >1/2 inch) |
+| Owls | Aerial night attack | Covered run; lock in coop at dusk |
+| Dogs | Pack attack | Fencing; guardian animals |
+| Snakes | Eat eggs and chicks | Small mesh wire; secure nesting boxes |
 
-- [[homesteading-livestock-comparison]]
-- [[duck-keeping]]
-- [[food-forest-design]]
-- [[insect-allies]]
-- [[barn-design]]
-- [[goose-keeping]]
-- [[quail-husbandry-detailed]]
+**Best practices**: Lock chickens in coop every night before dark. Use 1/2 inch hardware cloth instead of chicken wire. Bury fencing or run electric wire at ground level. Consider a livestock guardian dog for free-range flocks.
+
+## Seasonal Care
+

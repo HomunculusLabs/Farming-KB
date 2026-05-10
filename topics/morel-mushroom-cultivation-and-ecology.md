@@ -9,7 +9,7 @@ sources:
   - Ower, R., Mills, G., Malachowski, J. Cultivation of Morchella. US Patent 4,593,336. 1986
   - Volk, T.J., Leonard, T.J. Cytology of the life cycle of Morchella. Mycologia. 1990;82(3):306-310
   - Kuo, M. et al. Taxonomic revision of true morels (Morchella) in North America. Mycologia. 2012;104(5):1164-1181
-  - Stamets, P. Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. 3rd ed. Ten Speed Press; 1993
+  - Stamets, P. Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press; 1993
   - Cotter, T. Organic Mushroom Farming and Mycoremediation. Chelsea Green Publishing; 2014
   - Money, N.P. Mr. Bloomfield's Orchard: The Mysterious World of Mushrooms, Molds, and Mycologists. Oxford University Press; 2002
   - Leonard, T.J., Volk, T.J. A preliminary investigation of the life cycle and ecology of Morchella. Mycologia. 1992;84(4):516-523
@@ -138,7 +138,6 @@ implications for cultivation: placing inoculum at a nutrient boundary
 may accelerate sclerotia formation by a week or more.
 
 Significant differences exist between the sclerotia of different
-morel species. Black morel sclerotia (M. angusticeps complex) are
 ## See Also
 
 - [[edible-wild-mushrooms-foraging-guide]] for general foraging techniques

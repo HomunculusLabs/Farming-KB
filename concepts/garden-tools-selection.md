@@ -1,5 +1,5 @@
 ---
-title: solomon-garden-tools-selection-and-maintenance Selection
+title: Garden Tools Selection
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Tools Selection
 
-Steve Solomon advocates that successful [[home-vegetable-garden-planning]] requires only a few well-chosen [[garden-hand-tools-solomon]], properly maintained. [[solomon-garden-centers-seedling-traps]] and catalogs promote the idea that appealing merchandise is useful and essential — most of it is not.
+Steve Solomon advocates that successful vegetable gardening requires only a few well-chosen hand tools, properly maintained. Garden centers and catalogs promote the idea that appealing merchandise is useful and essential — most of it is not.
 
 ## The Essential Few Tools
 
@@ -62,21 +62,3 @@ The low-input philosophy extends to tools:
 - [[direct-seeding-techniques]] — Techniques that minimize the need for specialized equipment
 - [[soil-conditioners-guide]] — Understanding soil helps you use tools more effectively
 - [[irrigation-watering-techniques]]
-## Practical Considerations
-
-Successful implementation of Garden Tools Selection requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

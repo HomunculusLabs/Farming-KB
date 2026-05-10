@@ -5,7 +5,6 @@ tags: [cannabis, humidity, environment, climate-control, indoor-growing]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -79,3 +78,7 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## See Also
+
+- [[perlite-humidification-technique-mushroom-fruiting-pf-tek]]

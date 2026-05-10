@@ -24,10 +24,10 @@ sources:
 
 # Toby Hemenway
 
-American permaculture designer, teacher, and author of Gaia's Garden: A Guide to Home-Scale Permaculture (2001, 2nd ed. 2009), the best-selling permaculture book in [[psilocybin-north-america-pacific-northwest]]. Hemenway made permaculture accessible to suburban and urban gardeners, translating the often rural and broadscale focus of Mollison and Holmgren into practical home-garden design.
+American permaculture designer, teacher, and author of Gaia's Garden: A Guide to Home-Scale Permaculture (2001, 2nd ed. 2009), the best-selling permaculture book in North America. Hemenway made permaculture accessible to suburban and urban gardeners, translating the often rural and broadscale focus of Mollison and Holmgren into practical home-garden design.
 
 ## Biography
-- PhD in biology from Harvard; originally worked in [[mycelium-running-conservation-biology-and-fungi]] and immunology
+- PhD in biology from Harvard; originally worked in conservation biology and immunology
 - Moved to permaculture after recognizing that conventional environmentalism was not creating tangible change at the household level
 - Taught permaculture at Portland State University and ran a permaculture design consultancy
 - Key contributor to the popularisation of permaculture in North America through clear, practical writing
@@ -35,14 +35,14 @@ American permaculture designer, teacher, and author of Gaia's Garden: A Guide to
 ## Key Contributions
 
 ### Gaia's Garden
-The definitive introduction to permaculture for [[growing-gourmet-north-american-reishi-species]] home gardeners. Core ideas:
+The definitive introduction to permaculture for North American home gardeners. Core ideas:
 - **The garden as ecosystem**: Design your garden to function like a natural plant community, not a farm field
 - **Guild design**: Detailed guild recipes (apple tree guild, walnut guild, Three Sisters, chinampa-inspired wetland gardens, Oregon white oak guild)
 - **Soil as the foundation**: Deep treatment of building soil through [[cover-cropping-guide]], [[sheet-mulching]], mulching, [[companion-planting-reference]], and no-till methods
 - **Urban and suburban focus**: Proved that permaculture applies to small lots, not just rural acreage
 - **The "pop" phenomenon**: Gardens undergo a dramatic transformation after 3-5 years when soil biology, shade, and biodiversity reach critical mass
 - **Growing by chunking**: Start small with successful nuclei, then expand outward
-- **[[mollison-animal-integration-permaculture-design]]**: Chickens, ducks, and wildlife allies as essential ecosystem components
+- **Animal integration**: Chickens, ducks, and wildlife allies as essential ecosystem components
 - **Case studies**: Roxanne Swentzell's New Mexico desert garden, Bullock brothers' Orcas Island food forest, Jerome Osentowski's Colorado mountain food forest, Hemenway's own Oregon garden
 
 ### Key Design Principles (Hemenway's Framing)
@@ -60,31 +60,13 @@ Hemenway bridged the gap between academic permaculture ([[permaculture-design-me
 
 ## Related Pages
 - [[permaculture-principles]] -- Ethics and 12 principles
-- [[permaculture-design]] -- Zone/[[mollison-designers-sector-analysis-wind-sun-fire]]
+- [[permaculture-design]] -- Zone/sector analysis
 - [[permaculture-design-methods]] -- Full design toolkit
 - [[food-forest-design]] -- Food forest theory and practice
 - [[gaias-garden-methods]] -- Home-scale methods extracted from Gaia's Garden
 - [[gaia-garden-plant-guilds]] -- Detailed guild design from Gaia's Garden
 - [[sheet-mulching]] -- No-till soil building technique
 - [[permaculture-animal-integration]] -- Animals in permaculture systems
-- [[permaculture-succession]] -- [[holmgren-ecological-succession-and-pulsing]] and garden assembly
+- [[permaculture-succession]] -- Ecological succession and garden assembly
 - [[bill-mollison]] -- Co-founder of permaculture
 - [[david-holmgren]] -- Co-founder, 12 principles author
-## Practical Considerations
-
-Successful implementation of Toby Hemenway requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

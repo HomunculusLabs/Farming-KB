@@ -19,7 +19,7 @@ sources:
   - "SARE (Sustainable Agriculture Research & Education). Cover Crop Topic: Lupin. USDA."
   - "Lucas, M.M. et al. (2015). Advances in legume research. Frontiers in Plant Science, 6, 364."
   - "Petterson, D.S. (1998). Composition and food uses of lupins. In 'Lupins as Crop Plants', CAB International."
-  - "Wink, M. (2013). Evolution of [[antifungal-secondary-metabolites-coprophilous-fungi]] in legumes. Journal of Experimental Botany, 64, 601–616."
+  - "Wink, M. (2013). Evolution of antifungal-secondary-metabolites-coprophilous-fungi in legumes. Journal of Experimental Botany, 64, 601–616."
 ---
 
 # Lupin Cultivation, Ecology, and Uses
@@ -136,7 +136,6 @@ even gravelly soils with good drainage. Heavy clay soils or waterlogged conditio
 are detrimental. Lupins are notably salt-sensitive and should not be grown on saline soils.
 
 ### Climate
-
 ## Related Pages
 
 - [[cover-crop-species-comparison]] — Lupin alongside other cover crop species

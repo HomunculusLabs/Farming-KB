@@ -139,11 +139,8 @@ modulate the psychoactive experience toward alertness and creative
 engagement, while caryophyllene adds anti-inflammatory benefits
 through CB2 receptor activation. This synergy underscores the
 importance of preserving full-spectrum terpene profiles.
-## See Also
 
+## See Also
 - [[cannabis-sativa-morphology-and-plant-architecture]]
 - [[hashish-binding-pressing-and-storage-techniques]]
-
-## See Also
-
 - [[cannabis-terpene-profiles-sativa]]

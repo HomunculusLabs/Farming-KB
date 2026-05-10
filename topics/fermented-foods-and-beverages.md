@@ -105,7 +105,6 @@ fermentations including miso, soy sauce, sake, and amazake, breaking down
 proteins and starches that other organisms cannot access.
 
 ### The Four Stages of Lacto-Fermentation
-
 ## See Also
 
 - [[food-fermentation-guide]] — Core lacto-fermentation techniques and

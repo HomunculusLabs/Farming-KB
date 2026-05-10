@@ -115,7 +115,6 @@ chicken, weekly bouquets of cut flowers, fresh herbs, mushroom shares, or
 value-added products like jam, hot sauce, honey, and soap. These add-ons can
 contribute an additional five to fifteen thousand dollars to a fifty-member
 CSA operation, making the difference between a marginal and a viable farm
-enterprise.
 ## See Also
 
 - [[community-supported-agriculture-csa]]

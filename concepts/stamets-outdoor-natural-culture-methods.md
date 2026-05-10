@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, outdoor-beds]
-sources: sources:
+sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Outdoor and Natural Mushroom Culture Methods #mushroom-cultivation #permaculture #outdoor-cultivation #forest-gardening Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 5 "Permaculture with a Mycological Twist" ## Overview Stamets presents a comprehensive permaculture framework for outdoor mushroom cultivation, integrating fungi into landscape design, waste management, and ecological restoration. The chapter covers eight categories of outdoor mushroom culture, each suited to different environments and objectives. See also [[outdoor-mushroom-bed-preparation]], stamets-mycoforestry-case-studies.

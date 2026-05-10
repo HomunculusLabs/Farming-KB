@@ -1,5 +1,5 @@
 ---
-title: Edible edible wild mushrooms by region by Region
+title: Edible Wild Mushrooms by Region
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,15 +9,15 @@ sources: []
 
 ## Overview
 
-Edible wild mushroom species vary significantly by region in [[psilocybin-north-america-pacific-northwest]]. This guide covers the most sought-after edible species for major regions, organized by season. Always verify identification with multiple sources and an experienced forager before consuming any wild mushroom.
+Edible wild mushroom species vary significantly by region in North America. This guide covers the most sought-after edible species for major regions, organized by season. Always verify identification with multiple sources and an experienced forager before consuming any wild mushroom. (see [[mushroom-picking-seasons]]).
 
 ## Northeast (New England, Mid-Atlantic)
 
 ### Spring (April-June)
 - **Morels (Morchella americana, M. esculentoides)**: Peak in May; under dead elms, ash, tulip poplar, and old apple trees; black morels appear first, followed by yellow and half-free morels
-- **[[query-how-to-grow-oyster-mushrooms-at-home]] (Pleurotus ostreatus)**: On dead hardwood; available spring through fall
+- **Oyster mushrooms (Pleurotus ostreatus)**: On dead hardwood; available spring through fall
 - **Dryad's saddle (Cerioporus squamosus)**: May on dead elm; only young specimens are edible; can be tough
-- **Pheasant back ([[growing-gourmet-polyporus-umbellatus-zhu-ling-cultivation]])**: Spring on dead maple and oak
+- **Pheasant back (Polyporus umbellatus)**: Spring on dead maple and oak
 
 ### Summer (June-August)
 - **Chanterelles (Cantharellus cibarius)**: Late June through August; oak and beech forests
@@ -26,7 +26,7 @@ Edible wild mushroom species vary significantly by region in [[psilocybin-north-
 - **Boletes (Boletus edulis, B. bicolor, B. pallidus)**: Mid-summer; under oaks and conifers
 
 ### Fall (September-November) -- Peak Season
-- **Hen of the woods/Maitake ([[maitake-grifola-frondosa-comprehensive-profile]])**: September-October; base of oak trees; can be enormous (up to 50 lbs)
+- **Hen of the woods/Maitake (Grifola frondosa)**: September-October; base of oak trees; can be enormous (up to 50 lbs)
 - **Honey mushroom (Armillaria mellea)**: October-November; on stumps and roots; must be thoroughly cooked
 - **Lion's mane (Hericium erinaceus)**: Fall on dead/dying hardwood; beech and oak
 - **Shaggy mane (Coprinus comatus)**: Lawns and disturbed ground; must be cooked immediately (deliquesces)
@@ -105,7 +105,7 @@ Edible wild mushroom species vary significantly by region in [[psilocybin-north-
 - **Hedgehog mushroom (Hydnum umbilicatum)**: Fall under conifers
 - **Coral mushrooms (Ramaria spp.)**: Late summer-fall in conifer forests
 - **Wood ear (Auricularia americana)**: Fall on dead hardwoods and elderberry; rehydrates well
-- **Turkey tail ([[staycare-trametes-versicolor-bioremediation-applications]])**: Technically edible when young; better for medicinal tea
+- **Turkey tail (Trametes versicolor)**: Technically edible when young; better for medicinal tea
 
 ### Winter
 - Very limited; some oyster mushrooms on warm days
@@ -141,10 +141,10 @@ Edible wild mushroom species vary significantly by region in [[psilocybin-north-
 - **Oyster mushrooms**: Winter on alder
 - **Enoki**: Winter on alder and cottonwood
 - **Black trumpet (Craterellus cornucopioides)**: Winter in coastal forests
-## See Also
 
-- [[pseudohydnum-gelatinosum]]
+## Dangerous Look-alikes by Region
 
-- [[mushroom-foraging-safety-guide]] -- ethical harvesting practices for all regions
-- [[mushroom-cooking-techniques]] -- how to prepare your regional finds
-- [[mushroom-festivals-and-events]] -- forays and events by region
+### Amanita Species (Nationwide)
+- **Death cap (Amanita phalloides)**: West Coast, expanding eastward; looks like edible paddy straw mushroom
+- **Destroying angel (A. virosa, A. bisporigera)**: White mushroom in the button stage resembles meadow mushroom and puffballs
+- Always check for: white gills, volva (cup at base), ring on stem, growing from volva in soil

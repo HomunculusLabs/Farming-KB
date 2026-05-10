@@ -1,20 +1,19 @@
 ---
-title: Mushroom comparison-laminar-flow-hood-vs-fruiting-chamber Hood Design
+title: Mushroom Laminar Flow Hood Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, equipment, engineering, lab-technique, filtration]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-A laminar flow hood (LFH) is a piece of equipment that creates a continuous stream of HEPA-filtered air moving in parallel lines across a work surface. This sterile airflow prevents airborne contaminants from settling on exposed cultures during inoculation, agar work, and other sensitive procedures. For serious mushroom cultivators, a flow hood is the single most impactful upgrade over a still [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]], dramatically reducing contamination rates and enabling faster, more comfortable work.
+A laminar flow hood (LFH) is a piece of equipment that creates a continuous stream of HEPA-filtered air moving in parallel lines across a work surface. This sterile airflow prevents airborne contaminants from settling on exposed cultures during inoculation, agar work, and other sensitive procedures. For serious mushroom cultivators, a flow hood is the single most impactful upgrade over a still air box, dramatically reducing contamination rates and enabling faster, more comfortable work. (see [[mushroom-grow-equipment]]).
 
 ## How Laminar Flow Works
 
-The concept is simple but effective. A blower fan draws [[stamets-growing-room-air-circulation-co2-management]] through a HEPA (High-Efficiency Particulate Air) filter. The filter removes 99.97% of particles 0.3 microns and larger, including mold spores, bacteria, and dust. The clean air exits the filter as a uniform, non-turbulent (laminar) stream that flows across the work surface and out the front of the hood. Because the air is moving in parallel lines without turbulence, contaminants from the room cannot cross into the sterile zone.
+The concept is simple but effective. A blower fan draws room air through a HEPA (High-Efficiency Particulate Air) filter. The filter removes 99.97% of particles 0.3 microns and larger, including mold spores, bacteria, and dust. The clean air exits the filter as a uniform, non-turbulent (laminar) stream that flows across the work surface and out the front of the hood. Because the air is moving in parallel lines without turbulence, contaminants from the room cannot cross into the sterile zone. (see [[mushroom-agar-work]]).
 
 Key principles:
 - The work area must be within the "zone of laminarity" — the region where the air flows smoothly without breaking into turbulence.
@@ -134,4 +133,4 @@ A DIY laminar flow hood typically costs $200-500 depending on size and blower ch
 - [[mushroom-sterile-technique-detailed]] — sterile procedures for working at the hood
 - [[agar-work-guide]] — agar technique, the primary use case for a flow hood
 - [[grain-spawn-preparation]] — sterile inoculation of grain jars
-- [[mushroom-spore-printing-and-storage]] — creating [[query-spore-syringes-vs-liquid-culture]] under sterile conditions
+- [[mushroom-spore-printing-and-storage]] — creating spore syringes under sterile conditions

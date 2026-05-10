@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3322425/
   - https://www.first-nature.com/fungi/laricifomes-officinalis.php
-  - Stamets, P. (2005). [[woodlovers-mycelium-running-pathway-technique]]. Ten Speed Press.
+  - Stamets, P. (2005). woodlovers-mycelium-running-pathway-technique. Ten Speed Press.
   - "Fungal Conservation" issues on old-growth forest protection
 ---
 

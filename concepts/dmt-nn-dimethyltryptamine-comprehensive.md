@@ -55,7 +55,7 @@ Unlike smoked DMT, which lasts five minutes, ayahuasca produces an experience la
 
 ## Comparison with Other Psychedelics
 
-DMT is often grouped with [[mescaline-entity]] in public perception and law, but McKenna insisted each is "a phenomenologically defined universe unto itself."
+DMT is often grouped with [[mescaline]] in public perception and law, but McKenna insisted each is "a phenomenologically defined universe unto itself."
 
 DMT is distinguished by the intensity and concentration of its visual effects, the consistent presence of entity encounters, its action on language centers, and its remarkably [[savory-short-duration-grazing-and-cell-systems]] when smoked.
 

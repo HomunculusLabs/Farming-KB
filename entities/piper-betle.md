@@ -133,7 +133,6 @@ tropics, occupying the understory beneath taller tree crops used as
 living supports. Compatible companions include black pepper, ginger,
 turmeric, and colocasia. The dense foliage suppresses weeds and
 conserves soil moisture. In Kerala and Sri Lankan homegardens, betel
-vine contributes to household income and biodiversity.
 ## Related Species
 
 - *Piper nigrum* L. — Black pepper; shares many terpenoid compounds.
@@ -143,6 +142,8 @@ vine contributes to household income and biodiversity.
   species with similar properties.
 
 ## See Also
+
+- [[piper-lanceaefolium]]
 
 - [[piper-methysticum]]
 - [[eugenol]] · [[areca-catechu]] · [[arecoline]]

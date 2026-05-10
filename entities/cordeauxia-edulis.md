@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Thulin, M. (1983). "A revision of the genus Cordeauxia." Kew Bulletin, 38(1), 1–8.
   - Lewis, G. et al. (2005). "Legumes of the World." Royal Botanic Gardens, Kew.
-  - Negri, M. (2015). "Cordeauxia edulis: A threatened [[mollison-designers-chestnut-as-multipurpose-tree-crop]] species." Genetic Resources and Crop Evolution, 62, 1025–1034.
+  - Negri, M. (2015). "Cordeauxia edulis: A threatened mollison-designers-chestnut-as-multipurpose-tree-crop species." Genetic Resources and Crop Evolution, 62, 1025–1034.
 ---
 
 ## Overview

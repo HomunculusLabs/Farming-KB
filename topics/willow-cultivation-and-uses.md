@@ -145,6 +145,5 @@ For basketry and craft rods:
 ### Pollarding
 
 Cutting at 2–4 m height to keep growth above animal browse height:
-- Used historically in floodplains where grazing animals were present
 ## Related
 - [[coleman-claytonia-winter-harvest-cultivation]]

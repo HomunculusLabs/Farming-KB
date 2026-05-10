@@ -36,10 +36,10 @@ over the years, including P. semilanceata var. caerulescens (Cooke) Sacc.
 and P. cookei Singer. P. callosa, sometimes confused with P. strictipes,
 was clarified by Guzmán (1983) as a separa [[psilocybe-semilanceata-distribution-ecology]]
 
-- [Psilocybe](psilocybe-genus.md)
-- [Neurotropic Fungi Biogeographic Patterns](neurotropic-fungi-biogeographic-patterns.md)
+- Psilocybe
+- Neurotropic Fungi Biogeographic Patterns
 - [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] Origin of Neurotropic Fungi](southern-hemisphere-origin-of-neurotropic-fungi.md)
-- [European Neurotropic Fungi](guzman-allen-gartz-neurotropic-fungi-europe.md)
+- [[guzman-allen-gartz-neurotropic-fungi-europe|European Neurotropic Fungi]]
 - [[fungal-biogeography]]
 ## Practical Considerations
 

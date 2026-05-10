@@ -141,7 +141,6 @@ substrates show different kinetic parameters,
 reflecting specialization.
 
 Laccase and peroxidase enzymes, central to lignin
-degradation, follow complex kinetic patterns influenced
 ## See Also
 - [[enzyme-kinetics-michaelis-menten-model]]
 - [[fungal-decomposition-ecology]]

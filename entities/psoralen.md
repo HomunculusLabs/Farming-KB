@@ -116,10 +116,6 @@ protection during treatment.
 | Bergamottin | Prenylated dimer | CYP3A4 inhibitor in grapefruit |
 
 ## See Also
-
-- [[cinnamomum-verum]] — Cinnamon, another aromatic plant with coumarin content
-- [[ficus-carica]] — Fig, major natural source of psoralen compounds
-
-## See Also
-
+- [[cinnamomum-verum]]
+- [[ficus-carica]]
 - [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]

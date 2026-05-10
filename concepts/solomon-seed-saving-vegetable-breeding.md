@@ -14,6 +14,8 @@ seed crops
 
 ## See Also
 
+- [[hybrid-to-op-variety-conversion-breeding-solomon]]
+
 - [[permaculture-seed-saving-breeding]]
 ## Background and Context
 

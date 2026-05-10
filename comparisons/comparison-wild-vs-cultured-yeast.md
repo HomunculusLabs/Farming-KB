@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [comparison, fermentation, yeast, brewing, food-preservation]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 

@@ -136,7 +136,6 @@ McKenna's thesis faces several challenges:
   relationship between emergent properties and their substrates
 - The extrapolation from DMT experiences to linguistic evolution is
   speculative without independent evidence
-
 ## See Also
 
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]]

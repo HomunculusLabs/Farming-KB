@@ -138,7 +138,6 @@ mineral deposits on misting nozzles and mushroom surfaces, while chlorinated wat
 can inhibit mycelial growth. Many commercial operations install water filtration
 systems and use humidistats connected to automated misting controllers for precise
 humidity management.
-
 ## See Also
 
 - [[growing-gourmet-agar-media-formulation-guide]]

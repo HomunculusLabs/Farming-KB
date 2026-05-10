@@ -10,7 +10,7 @@ tags: [mycology, fungi, plant-pathology, orchard, apple-trees, agricultural-loss
 
 ## Summary
 
-Fungi cause more plant diseases than all other enemies combined, a fact vividly illustrated by Mr. Bloomfield's untended apple orchard, which was consumed by bitter rot, black rot, blossom end rot, canker, rust, powdery mildew, rubbery wood, and scab.
+Fungi cause more plant diseases than all other enemies combined, a fact vividly illustrated by Mr. Bloomfield's untended apple orchard, which was consumed by bitter rot, black rot, blossom end rot, canker, rust, [[cervantes-powdery-mildew-prevention-treatment]], rubbery wood, and scab.
 
 Since the beginning of agriculture, billions of livelihoods and lives have been lost to rusts, smuts, bunts, mildews, potato blight, and rice blast, with annual losses to agriculture caused by fungi being incalculably high.
 
@@ -36,7 +36,7 @@ The most magical inhabitant of the orchard was a green woodpecker, a magnificent
 
 The combined onslaught from fungi, insects, and birds was dissolving an Eden created by some long-dead Victorian, but Mr. Bloomfield didn't seem to care.
 
-The scene captures a fundamental truth about fungal ecology: where plants weaken and die, fungi thrive, accelerating decomposition and recycling nutrients in a process that is simultaneously destructive and regenerative.
+The scene captures a fundamental truth about [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]: where plants weaken and die, fungi thrive, accelerating decomposition and recycling nutrients in a process that is simultaneously destructive and regenerative.
 
 For a child, this landscape of decay was both terrifying and enchanting, a place where the boundaries between life and death seemed to dissolve into a fog of fungal spores.
 
@@ -44,15 +44,15 @@ For a child, this landscape of decay was both terrifying and enchanting, a place
 
 Apple trees and all other plants are attacked by bacteria and viruses, nematode worms, and insects, but fungi cause more plant diseases than all other enemies combined.
 
-This is a staggering fact that underscores the primacy of fungal pathogens in the natural world and their outsized impact on human agriculture and food security.
+This is a staggering fact that underscores the primacy of [[fungal-pathogens-in-agriculture]] the natural world and their outsized impact on human agriculture and food security.
 
 Since the beginning of agriculture, billions of livelihoods and lives have been lost to rusts, smuts, bunts, mildews, potato blight, and rice blast.
 
 Each of these diseases represents a different fungal strategy for exploiting plant hosts, from the rusts that produce multiple spore types on alternate hosts to the mildews that coat plant surfaces with white mycelium.
 
-Of particular significance to Money is a pestilence called coffee rust that ravages an indispensable crop in South America, threatening the livelihoods of millions of farmers and the daily routines of billions of consumers.
+Of particular significance to Money is a pestilence called coffee rust that ravages an indispensable crop in [[guzman-psilocybin-mushrooms-south-america]], threatening the livelihoods of millions of farmers and the daily routines of billions of consumers.
 
-Annual losses to agriculture caused by fungi are incalculably high, and chemical fungicides represent a tremendous investment made by farmers and ultimately paid for by consumers through higher food prices.
+Annual losses to agriculture caused by fungi are incalculably high, and [[cervantes-chemical-fungicides-insecticides]] represent a tremendous investment made by farmers and ultimately paid for by consumers through higher food prices.
 
 Fungi also spoil food after it has been harvested, rotting fruits and vegetables during storage, transport, and in the recesses of our refrigerators.
 
@@ -84,7 +84,7 @@ The diversity of these fungal pathogens attacking a single tree species in one l
 
 ## The Spectrum of Fungal Plant Diseases
 
-The diseases devastating Bloomfield's orchard are part of a broader catalog of fungal plant pathogens that spans every major crop and ecosystem on Earth.
+The diseases devastating Bloomfield's orchard are part of a broader catalog of [[bloomfield-fungal-plant-pathogens]] that spans every major crop and ecosystem on Earth.
 
 Rusts, smuts, and bunts primarily affect cereal grains — the foundation of human caloric intake worldwide.
 
@@ -115,7 +115,7 @@ Each new resistant crop variety is eventually overcome by a new fungal race, in 
 ## See Also
 
 - [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]
-- [[bloomfield-apple-scab-venturia-inaequalis-orchard-disease]]
-- [[bloomfield-powdery-mildew-fungal-surface-colonization]]
-- [[bloomfield-potato-blight-phytophthora-infestans-famine]]
-- [[bloomfield-fungal-arms-race-insect-pathogen-coevolution]]
+- bloomfield apple scab venturia inaequalis orchard disease
+- bloomfield powdery mildew fungal surface colonization
+- bloomfield potato blight phytophthora infestans famine
+- bloomfield fungal arms race insect pathogen coevolution

@@ -142,7 +142,6 @@ classical Greek rationalism as a critical historical watershed:
   culture over partnership values
 - The loss of these sacraments produced the spiritual emptiness that
   characterizes modern Western civilization
-
 ## Related Topics
 
 - [[soma-vedic-enigma-amanita-psilocybin-debate]] — the Vedic parallel

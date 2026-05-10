@@ -27,7 +27,7 @@ Stamets describes decomposition as a wave-like succession of organisms, each pre
 - Saprophytic fungi specialize in breaking down complex plant polymers (cellulose, lignin, hemicellulose)
 - White-rot fungi produce lignin peroxidases and manganese peroxidases to degrade lignin
 - Brown-rot fungi use Fenton chemistry to depolymerize cellulose
-- [[fungal-mycelial-networks-nutrient-translocation]] spread through the substrate, secreting extracellular enzymes
+- Mycelial networks spread through the substrate, secreting extracellular enzymes
 
 ### Stage 3: Invertebrate Processing (Weeks-Months)
 - Fungal mycelium attracts and supports invertebrate decomposers
@@ -49,7 +49,7 @@ Stamets describes decomposition as a wave-like succession of organisms, each pre
 - Can degrade ALL components of wood, including lignin
 - Produce extracellular enzymes: lignin peroxidase (LiP), manganese peroxidase (MnP), laccase
 - Leave wood bleached or white because they remove the brown lignin
-- Key species: [[staycare-phanerochaete-chrysosporium-in-bioremediation]], [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Pleurotus ostreatus
+- Key species: Phanerochaete chrysosporium, Trametes versicolor, Pleurotus ostreatus
 - **Critical for mycoremediation**: Their non-specific enzyme systems also degrade pollutants (PCBs, PAHs, petroleum)
 
 ### Brown Rot Fungi
@@ -57,7 +57,7 @@ Stamets describes decomposition as a wave-like succession of organisms, each pre
 - Degrade cellulose and hemicellulose but NOT lignin
 - Use a different mechanism: generate hydroxyl radicals via Fenton chemistry (iron + H2O2)
 - Leave wood brown and cubical because lignin remains
-- Key species: [[fungal-serpula-lacrymans-dry-rot-buildings]] (dry rot), Postia placenta, Gloeophyllum trabeum
+- Key species: Serpula lacrymans (dry rot), Postia placenta, Gloeophyllum trabeum
 - Important in forest ecosystems for creating humus-rich brown rot residue
 
 ## Carbon Cycling
@@ -85,7 +85,7 @@ Stamets describes decomposition as a wave-like succession of organisms, each pre
 Stamets emphasizes that fungi are primary soil builders:
 
 1. **Rock dissolution**: Fungal hyphae and associated organic acids dissolve minerals from rock particles, making nutrients available
-2. **[[soil-aggregate-formation-fungal-contributions]]**: Mycelium physically binds soil particles together; glomalin acts as biological glue
+2. **Aggregate formation**: Mycelium physically binds soil particles together; glomalin acts as biological glue
 3. **Humus creation**: Partial decomposition of organic matter creates stable humus
 4. **Channel creation**: Hyphal growth creates micropores for air and water movement
 5. **Water retention**: Mycelial networks improve soil water-holding capacity
@@ -112,7 +112,7 @@ Stamets emphasizes that fungi are primary soil builders:
 - **Fungal:bacterial ratio**: Fungal-dominated soils have slower nitrogen cycling (more stable), bacterial-dominated soils have faster cycling (more available N)
 
 ### Phosphorus
-- Fungi are critical for [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] in most ecosystems
+- Fungi are critical for phosphorus availability in most ecosystems
 - Mycorrhizal fungi solubilize phosphate minerals using organic acids
 - Hyphal networks access phosphorus beyond the root depletion zone
 - Phosphorus transported back to host plants in exchange for carbon
@@ -133,16 +133,18 @@ Stamets emphasizes that fungi are primary soil builders:
 | Clear-cutting | Removes host trees, eliminates ECM fungi | 5-20 years |
 | Fire | Kills surface fungi; some species survive as sclerotia | 1-10 years |
 | Pesticides | Reduces fungal diversity, especially beneficial species | Variable |
-## See Also
+| Compaction | Reduces air spaces, limits hyphal growth | 1-5 years |
+| Chemical fertilization | Shifts balance from fungal to bacterial dominance | 1-3 years |
 
-- [[fungal-ecology]] for the broad overview of fungal roles in ecosystems
-- [[fungal-decomposition]] for detailed white/brown rot chemistry
-- [[fungal-ecosystem-roles]] for water transport, erosion, fire ecology
-- [[soil-food-web-nutrient-cycling]] for the complete soil biology picture
-- [[mycorrhizal-fungi]] for plant-fungal partnerships
-- [[mycoforestry-forest-restoration]] for forest applications
-- [[glomalin-and-soil-carbon]] for the carbon sequestration glycoprotein
+### Fungal Recovery Strategies
 
-## Related
+- **Spore bank**: Many fungi persist as spores in soil, germinating when conditions improve
+- **Sclerotia**: Hardened fungal masses (e.g., Morchella sclerotia) survive adverse conditions
+- **Mycorrhizal legacy**: Some mycorrhizal connections survive disturbance through surviving roots or root fragments
+- **Pioneer species**: Fast-colonizing fungi (many saprophytes) quickly recolonize disturbed areas
+- **Inoculation**: Active mycorrhizal inoculation can dramatically accelerate recovery (see [[mycoforestry-forest-restoration]])
 
-- [[fungal-conservation-strategies]]
+## Fungal Bacterial Partnerships
+
+Stamets emphasizes the interdependence of fungi and bacteria:
+

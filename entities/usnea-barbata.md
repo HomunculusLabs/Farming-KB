@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Cocchietto, M., Skert, N., Nimis, P.L., Sava, G. (2002). "A review on usnic acid, an interesting natural compound." Naturwissenschaften, 89(4), 137–146.
   - Ingólfsdóttir, K. (2002). "Usnic acid." Phytochemistry, 61(7), 729–736.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Perry, N.B., Benn, M.H., Brennan, N.J., et al. (1999). "Antimicrobial, antiviral and cytotoxic activities of New Zealand lichens." Lichenologist, 31(5), 627–636.
   - NSC (2008). "The International Chemical Identification Number (NSC) record for Usnea spp." National Safety Council Database.
 ---

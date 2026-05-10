@@ -126,9 +126,7 @@ associations in agriculture alone is estimated at billions of dollars annually
 through improved nutrient uptake and reduced fertilizer requirements.
 
 ## See Also
+- [[pleosporales-loculoascomycete-diversity-ecology]]
 - [[fungal-taxonomy-and-kingdom-fungi]]
 - [[hamilton-organic-fertilizers-and-plant-nutrition]]
-
-## See Also
-
 - [[coprophilous-fungi-ecology-diversity]]

@@ -4,14 +4,13 @@ created: 2026-04-28
 tags: [fermentation, beverages, probiotics, comparison]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 
 ## Kefir vs Kombucha: Fermented Beverage Comparison
 
-Kefir and kombucha are the two most popular home-fermented probiotic beverages, but they differ fundamentally in origin, microbial culture, base ingredients, and flavor profile. Both offer rich probiotic benefits and can be made at home with minimal equipment, yet they occupy distinct niches in the [[fermented-foods-and-beverages]] world.
+Kefir and kombucha are the two most popular home-fermented probiotic beverages, but they differ fundamentally in origin, microbial culture, base ingredients, and flavor profile. Both offer rich probiotic benefits and can be made at home with minimal equipment, yet they occupy distinct niches in the fermented foods and beverages world.
 
 ## Origins
 

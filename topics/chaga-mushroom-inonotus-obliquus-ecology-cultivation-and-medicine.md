@@ -119,7 +119,6 @@ the Otztal Alps on the border of Austria and Italy. Otzi was carrying
 two [[growing-gourmet-polypore-mushrooms-cultivation-overview]]: Piptoporus betulinus ([[iceman-otzi-birch-polypore-prehistoric-mushroom-use]]) and
 Fomes fomentarius (tinder conk). While neither was chaga itself, the
 find demonstrates that early humans actively collected and transported
-birch-associated polypores for medicinal and practical purposes,
 ## See Also
 
 - [[chaga-inonotus-obliquus-medicinal-profile]]

@@ -26,6 +26,8 @@ with minimal intervention.
 
 ## See Also
 
+- [[warm-humid-air-delivery-chamber-cold-climate-mushroom]]
+
 - gaias-garden-suntraps-and-microclimate-protection
 - gaias-garden-hedgerows-and-windbreaks
 - [[ecological-garden-design]]

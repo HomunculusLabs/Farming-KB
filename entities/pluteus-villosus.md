@@ -5,7 +5,7 @@ type: species
 tags: [fungi, pluteus, wood-inhabiting, psychoactive, temperate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources: []
+sources: []
 ---
 
 # Pluteus villosus

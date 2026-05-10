@@ -4,8 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungal Enzymatic Diversity in Decomposition
 Fungi produce a remarkably diverse array of extracellular enzymes that enable
@@ -142,7 +141,6 @@ valuable information about [[fungal-ecosystem-processes-overview]] and nutrient 
 - **N-acetylglucosaminidase activity**: This chitinase-related enzyme
   activity reflects the turnover of fungal cell walls and chitin-containing
   invertebrate exoskeletons, serving as an indicator of fungal biomass
-  dynamics and microbial grazing pressure in decomposing litter.
 ## See Also
 - [[fungal-decomposition-lignin-cellulose]]
 - [[fungal-decomposition-processes]]

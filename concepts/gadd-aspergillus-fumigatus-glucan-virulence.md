@@ -139,7 +139,9 @@ components. The essential nature of AGS1 in S. pombe and its dominant
 role in A. fumigatus make the Ags1p protein a particularly attractive
 target for antifungal development.
 
-## Related concepts
+## Related
+
+- [[aspergillus-fumigatus-alpha-1-3-glucan-virulence]] concepts
 
 - [[gadd-fungal-metal-interactions]]
 - [[gadd-peroxisomes-ascomycete-lifestyle]]

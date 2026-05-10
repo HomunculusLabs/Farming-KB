@@ -97,7 +97,6 @@ consequences, including pesticide-resistant pests and decimated pollinator
 communities, led to a resurgence beginning in the 1960s. The development
 of IPM as a formal framework in the 1970s provided a systematic way to
 incorporate biological control. Today, commercial suppliers offer dozens of
-species of predatory mites, parasitoid wasps, and [[ingham-beneficial-nematodes-soil-food-web]]. In
 ## See Also
 
 - [[beneficial-insect-habitat]]: Detailed guidance on creating habitat for

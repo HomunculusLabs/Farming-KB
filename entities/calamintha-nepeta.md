@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Morris S. (1997). "A Monograph of the Genus Calamintha (Labiatae)." Botanical Journal of the Linnean Society, 125(4), 341-373.
-  - Formisano C. et al. (2012). "Chemical Composition and Antimicrobial Activity of Calamintha nepeta [[permaculture-designers-manual-essential-oil-plants]]." Chemistry & Biodiversity, 9(4), 723-734.
+  - Formisano C. et al. (2012). "Chemical Composition and Antimicrobial Activity of Calamintha nepeta permaculture-designers-manual-essential-oil-plants." Chemistry & Biodiversity, 9(4), 723-734.
   - Tutin T.G. et al. (1972). Flora Europaea, Vol. 3. Cambridge University Press.
   - Piccaglia R. et al. (1993). "Essential Oil Composition of Calamintha nepeta." Journal of Essential Oil Research, 5(2), 155-159.
 ---

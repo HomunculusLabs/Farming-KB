@@ -13,8 +13,8 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Desjardin, D.E., et al. (2008). "Neonothopanus nambi sp. nov., a new bioluminescent agaric from the Atlantic Forest." Mycologia, 100(6), 883–889.
-  - Oliveira, A.G., et al. (2015). "The decay of wood luminescence in [[bloomfield-bioluminescent-fungi-overview]]." [[bloomfield-fungal-biology-and-hyphal-growth]], 119(8), 739–746.
-  - Kotlobay, A.A., et al. (2018). "[[fukuoka-textdoc-genetic-engineering-critique-warning]] of hispidin biosynthesis in yeast." Proceedings of the National Academy of Sciences, 115(6), 1276–1281.
+  - Oliveira, A.G., et al. (2015). "The decay of wood luminescence in bloomfield-bioluminescent-fungi-overview." bloomfield-fungal-biology-and-hyphal-growth, 119(8), 739–746.
+  - Kotlobay, A.A., et al. (2018). "fukuoka-textdoc-genetic-engineering-critique-warning of hispidin biosynthesis in yeast." Proceedings of the National Academy of Sciences, 115(6), 1276–1281.
   - Stevani, C.V., et al. (2013). "Bioluminescent fungi." In: Bioluminescence: Fundamentals and Applications in Biotechnology. Springer, pp. 271–296.
   - Weitz, H.J., et al. (2019). "The fungal luciferase from Neonothopanus nambi." Nature Chemical Biology, 15, 1057–1063.
 ---

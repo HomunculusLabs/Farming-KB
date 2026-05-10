@@ -127,12 +127,6 @@ symbiosis regulation may simultaneously influence interactions with
 soil-borne pathogens within the mycorrhizosphere.
 
 ## See Also
-
-- mycorrhizal-grasses-lawns
-
 - [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
 - [[bacterial-associates-amf-structures-biocontrol]]
-
-## See Also
-
 - [[dighton-mycorrhizae-pathogen-biocontrol-interactions]]

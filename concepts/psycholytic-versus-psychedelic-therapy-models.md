@@ -142,7 +142,6 @@ scheduling of psychedelic compounds in the late 1960s and early
 1970s. Metzner's review serves partly as a historical document
 preserving the theoretical and practical knowledge developed
 during this period, knowledge that has become increasingly relevant
-with the resurgence of clinical psychedelic research in the 21st
 ## See Also
 
 - [[consciousness-and-psychedelics]]

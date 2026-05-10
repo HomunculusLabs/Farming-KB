@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [regenerative, farming, food-forest, orchard, pest-control]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Orchard Restoration and Natural Pest Balance

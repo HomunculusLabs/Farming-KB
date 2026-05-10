@@ -1,0 +1,150 @@
+---
+title: [[biodiversity-fungal-culture-preservation]] — Methods for Maintaining Viability
+source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, 2004)
+concepts: [culture-preservation, cryopreservation, lyophilization, silica-gel, fungal-culture]
+---
+
+# Fungal Culture Preservation Techniques
+
+Maintaining living fungal cultures in a viable state is essential for taxonomic research,
+biotechnology, plant pathology, and [[fungal-biodiversity-conservation-status]]. Chapter 3 of *Biodiversity
+of Fungi* (Mueller, Bills & Foster, 2004), by Nakasone, Peterson, and Jong, provides a
+comprehensive treatment of methods for preserving and distributing fungal cultures. The
+appropriate technique depends on the fungal group, available infrastructure, and goals.
+
+## Short-Term Preservation Methods
+
+Short-term methods are accessible to most laboratories and require minimal specialized
+equipment, but they demand regular monitoring and periodic subculturing. They are
+particularly valuable for field stations and resource-limited settings.
+
+### Serial Transfer on Agar
+
+The simplest approach: fungi are periodically transferred to fresh agar slants or plates,
+typically at one to six month intervals depending on growth rate and medium composition.
+While straightforward, serial transfer is labor-intensive and carries significant drawbacks.
+Cultures gradually lose sporulation capacity, pathogenicity, enzyme production, and other
+phenotypic traits with each passage. Genetic drift through accumulated mutations is a
+persistent risk, making serial transfer unsuitable for long-term maintenance of reference
+strains or type material.
+
+### Mineral Oil Overlay
+
+Cultures are covered with a layer of sterile mineral oil or liquid paraffin, which slows
+desiccation and [[arbuscule-isolation-metabolic-activity-assays]] by limiting oxygen exchange. Under oil, many fungi
+remain viable for several years without transfer. The oil layer should be at least 1 cm
+above the agar surface to ensure complete coverage. However, the anaerobic conditions
+may select for mutant variants over extended periods, and retrieving clean cultures from
+beneath the oil layer can be technically fussy.
+
+### Distilled Water Immersion
+
+Cultures are placed in sterile distilled water and stored at refrigeration temperatures
+(~5°C). This deceptively simple method works remarkably well for certain groups, especially
+**oomycetes**, many **basidiomycetes**, and **ectomycorrhizal fungi**. Most isolates
+survive two or more years under these conditions. The technique is inexpensive, requires
+no cryoprotectants, and is widely recommended for field mycology laboratories. Sporulating
+cultures, hyphal plugs, and colonized agar pieces can all be stored by this method.
+
+### Organic Substrata Storage
+
+Fungi are grown on or in natural organic materials that mimic their native substrate, then
+stored under refrigeration. This approach exploits the evolutionary adaptations of fungi:
+
+- **Wood chips or beech stems** — used for wood-inhabiting fungi, with viability
+  extending up to 10 years when refrigerated. The lignocellulosic matrix provides a
+  stable, nutrient-rich environment that supports sustained viability.
+- **Cereal grains** (wheat, sorghum, rice) — effective for genera such as *Sclerotinia*
+  and *Magnaporthe*, also lasting up to a decade.
+- **Soil or sand** — suitable for soil-borne fungi, leveraging the natural microenvironment
+  these organisms inhabit.
+
+### Silica Gel Desiccation
+
+Developed by Perkins (1962) for *Neurospora*, this method involves mixing fungal spores or
+mycelial fragments with sterile silica gel crystals in sealed vials. The silica gel
+rapidly desiccates the biological material, arresting metabolic activity. Spores preserved
+by this technique remain viable for 4–11 years. It is especially useful for fungi that
+produce abundant conidia or other dry spore types. The resulting vials are easy to ship,
+making silica gel storage popular for distribution as well as preservation.
+
+## Long-Term Preservation Methods
+
+Long-term methods aim for preservation measured in decades, reducing genetic drift and
+phenotypic change by bringing metabolism to a near-standstill.
+
+### Sclerotization
+
+Some fungi naturally form sclerotia — hardened, compact [[fungal-sclerotia-and-resting-structures]] rich in stored
+nutrients and protective melanin. Myxomycetes, *Magnaporthe* species, and *Phymatotrichum*
+produce sclerotia that remain viable for 2–5 years under dry, cool storage. When available
+as a natural option, sclerotization requires minimal intervention and produces resilient
+propagules, though it cannot be applied universally.
+
+### Lyophilization (Freeze-Drying)
+
+Lyophilization removes water from frozen cultures under vacuum, producing a stable dry
+product sealed in ampoules or vials. It is excellent for sporulating fungi (particularly
+ascomycetes and deuteromycetes) and can achieve essentially permanent preservation when
+sealed under vacuum or inert gas. A protective medium (often skim milk or sucrose) aids
+survival. The main limitation is that fungi with delicate mycelium — including many
+basidiomycetes — generally do not survive freeze-drying.
+
+### Cryopreservation in Liquid Nitrogen
+
+The most versatile and widely recommended long-term method. Cultures are stored at
+ultra-low temperatures, typically between **−135°C and −196°C** (liquid nitrogen phase).
+At these temperatures, all metabolic activity ceases and [[cannabis-genetic-stability]] is effectively
+guaranteed indefinitely. Most fungi survive cryopreservation, though cryoprotectants
+improve recovery rates. Common cryoprotectants include **glycerol** (5–10%) and **DMSO**
+(5–10%). A controlled-rate cooling step (~1°C per minute) is critical for many species to
+prevent lethal intracellular ice crystal formation. Cryopreservation is now the standard
+method adopted by major culture collections worldwide.
+
+### Agar Strip Vacuum-Drying
+
+A specialized technique described by Nuzum (1989) in which agar strips bearing fungal
+mycelium are vacuum-dried and sealed. Basidiomycetes preserved by this method survive
+approximately 18 months. While less durable than cryopreservation, it offers a practical
+middle ground for laboratories without liquid nitrogen infrastructure.
+
+## Record-Keeping, Distribution, and Shipping
+
+Rigorous documentation is inseparable from preservation. Each culture record should include
+species name and authority, isolate number, collection locality and date, substrate or
+host, collector name, preservation method, and dates of all transfers or retrievals.
+Electronic databases with backup copies are preferred over paper-only systems.
+
+Fungal cultures are routinely exchanged between institutions and culture collections.
+International shipments must comply with **phytosanitary regulations** and import/export
+permit requirements of both the sending and receiving countries. Packaging must prevent
+desiccation and contamination while maintaining viability during transit.
+
+## Permanent Preservation and Type Specimens
+
+The **International Code of Botanical Nomenclature (ICBN), Article 8.4**, recognizes living
+cultures as acceptable repositories for nomenclatural type specimens, provided they are
+preserved in a metabolically inactive state — typically through cryopreservation or
+lyophilization. This underscores the importance of reliable long-term methods for taxonomic
+mycology, where type cultures serve as the definitive reference for species concepts.
+
+## Choosing a Preservation Strategy
+
+No single method is optimal for all fungi. The choice should be guided by:
+
+| Factor | Consideration |
+|--------|---------------|
+| **Fungal group** | Basidiomycetes may require cryopreservation; sporulating ascomycetes tolerate lyophilization |
+| **Available infrastructure** | Liquid nitrogen and controlled-rate freezers represent significant investment |
+| **Duration of storage** | Short-term field work vs. permanent reference collection |
+| **Genetic stability needs** | Serial transfer risks drift; cryopreservation best preserves genotype |
+| **Regulatory context** | International exchange requires phytosanitary compliance |
+
+In practice, most well-managed culture collections employ a combination of methods, using
+short-term techniques for working stocks and long-term cryopreservation or lyophilization
+as the definitive archive.
+
+## See Also
+
+- [[biodiversity-of-fungi-soil-isolation-methods]]
+- [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]

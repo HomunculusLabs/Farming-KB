@@ -139,11 +139,8 @@ Lactarius quietus naturally establishes in agroforestry systems and food
 forests with oak canopy trees. Its presence indicates functional
 [[dighton-mycorrhizal-networks-carbon-transfer]] and contributes to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. No commercial
 cultivation exists, but preserving oak mycorrhizal communities during
-## See Also
 
+## See Also
 - [[russula-cyanoxantha]]
 - [[hygrophorus-russula]]
-
-## See Also
-
 - [[mycorrhizal-edible-mushroom-species-overview]]

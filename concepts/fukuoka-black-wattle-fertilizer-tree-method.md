@@ -16,7 +16,7 @@ The black wattle ([[fukuoka-no-prune-fruit-tree-method]]
 - [[fukuoka-orchard-cover-crop-black-wattle-system]]
 ## Background and Context
 
-Black Wattle as Fertilizer Tree [[insectary-plants-and-beneficial-insect-habitat-design]] Host is an important subject that has garnered significant attention
+Black Wattle as Fertilizer Tree [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]] Host is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

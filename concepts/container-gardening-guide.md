@@ -1,5 +1,5 @@
 ---
-title: comparison-cold-frame-gardening-vs-container-gardening-guide Guide
+title: Container Gardening Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -54,13 +54,13 @@ Container plants depend entirely on the soil you provide — they cannot reach i
 - Mycorrhizal inoculant at planting (especially for peppers and tomatoes)
 
 ### Commercial Options
-- Quality bagged [[solomon-potting-mix-and-seedling-soil-recipe]] (avoid "garden soil" in bags — too heavy for containers)
+- Quality bagged potting mix (avoid "garden soil" in bags — too heavy for containers)
 - Add perlite if the mix seems too dense
-- Replenish with [[coleman-compost-and-organic-fertility-management]] fertilizer each season; replace mix every 2-3 years
+- Replenish with compost and organic fertilizer each season; replace mix every 2-3 years
 
 ## Drainage
 
-Proper drainage is the single most important factor in container gardening success.
+Proper drainage is the single most important factor in container [[coleman-high-tunnel-cold-frame-design]] gardening success.
 
 ### Essential Practices
 - Every container must have drainage holes — no exceptions
@@ -86,7 +86,7 @@ Proper drainage is the single most important factor in container gardening succe
 - **Beans (bush)**: No trellis needed, produce in 50-60 days. Pole beans need support but produce longer.
 - **Cucumbers (bush type)**: Bush cucumbers bred for container culture; full-size types need large pots with trellises.
 - **Eggplant**: Needs consistent heat and full sun; 5+ gallon pots.
-- **Strawberries**: Grow in [[hamilton-hanging-baskets-organic]], strawberry jars, or regular pots; need acidic soil (pH 5.5-6.5).
+- **Strawberries**: Grow in hanging baskets, strawberry jars, or regular pots; need acidic soil (pH 5.5-6.5).
 
 ### Crops That Struggle in Containers
 - Sweet corn (needs blocks of plants for pollination, deep soil)
@@ -118,7 +118,7 @@ Container gardens dry out much faster than in-ground gardens, especially in summ
 Container soils get depleted faster than garden soil since roots cannot explore beyond the pot.
 
 - **At planting**: Mix slow-release organic fertilizer into soil (fish bone meal, kelp meal)
-- **During growth**: Liquid feed every 2-3 weeks with compost tea, [[solomon-foliar-feeding-fish-emulsion-and-kelp]], or [[comparison-seaweed-extract-vs-fish-hydrolysate]]
+- **During growth**: Liquid feed every 2-3 weeks with compost tea, fish emulsion, or seaweed extract
 - **Heavy feeders** (tomatoes, peppers, eggplant): More frequent feeding — weekly once fruiting begins
 - **Light feeders** (herbs, lettuce): Less frequent — monthly or not at all if soil is rich
 

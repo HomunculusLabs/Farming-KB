@@ -32,6 +32,37 @@ from elder mushrooms.
 - Volume strategy: Massive spore production compensates for
   the low probability of any [[single-spore-isolation-and-monokaryon-culture]] finding success
 
+## Wind Dispersal and Atmospheric Transport
+
+Spore-bearing mushrooms exploit the full range of atmospheric
+transport mechanisms. Ballistospore discharge launches spores
+clear of the boundary layer of still air surrounding the fruiting
+body, where they are then carried by even gentle air currents. Some
+coprophilous (dung-inhabiting) fungi have evolved mechanisms to
+time spore release for periods of peak insect activity, ensuring
+their spores are carried to fresh dung deposits. Truffle-like fungi
+have abandoned wind dispersal entirely, relying instead on mammals
+that detect their volatile aroma compounds from considerable
+distances. Spores of many species have been detected in upper
+atmosphere samples and even in Antarctic ice cores, demonstrating
+that long-distance dispersal is common despite the low probability
+of any individual spore successfully establishing in a new habitat.
+
+## Water Dispersal and Rain-Splash Mechanisms
+
+Many fungi use rain-splash to distribute spores over short distances.
+Bird's nest fungi (Cyathus species) use the force of raindrops
+falling into their cup-shaped fruiting bodies to eject peridioles
+(containing spores) up to a metre away. Pilobolus, a dung fungus,
+aims its entire sporangium toward light sources and uses a
+pressure-driven cannon mechanism to launch spore packets toward
+vegetation where herbivores will graze. Aquatic hyphomycetes
+produce tetraradiate or sigmoid spores shaped to anchor in flowing
+water while maximising surface area for nutrient absorption. These
+convergent solutions across unrelated fungal groups illustrate the
+selective pressure for effective spore placement in diverse
+environments.
+
 ## Applications
 
 - Spore slurry inoculation of tree seedlings and [[natural-farming-guide-hugelkultur-mounded-garden-beds]]
@@ -42,6 +73,8 @@ from elder mushrooms.
   spores to young planted trees
 
 ## See Also
+
+- [[mushroom-spore-dispersal-mechanisms]]
 
 - [[mushroom-spore-dispersal-ecological-networks]]
 

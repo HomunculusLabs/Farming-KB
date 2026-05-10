@@ -1,5 +1,5 @@
 ---
-title: mollison-designers-fire-resistant-landscape-design Plants
+title: Fire Resistant Plants
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 # Fire Resistant Plants
 
-Plants with low fire potential are critical for permaculture designs in fire-prone areas. They can be used as firebreaks, windbreaks, and shelterbelts that also serve multiple other functions. Note that species marked with an asterisk (*) have conflicting reports of their ability to resist fire.
+Plants with low fire potential are critical for permaculture designs in fire-prone areas. They can be used as firebreaks, windbreaks, and shelterbelts that also serve multiple other functions. Note that species marked with an asterisk (*) have conflicting reports of their ability to resist fire. (see [[low-fire-trees]]).
 
 ## Trees and Shrubs with Low Fire Potential
 
@@ -51,7 +51,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 ### Fruit and Nut Trees
 - Carya illinoensis (Pecan)
 - Ceratonia siliqua (Carob) -- recovers
-- Castanea sativa ([[holzer-sweet-chestnut-and-nut-trees]])
+- Castanea sativa (Sweet Chestnut)
 - Fortunella japonica (Round Kumquat) -- recovers
 - Juglans regia (Persian Walnut)
 - Olea europaea (Olive) -- recovers
@@ -59,7 +59,7 @@ Plants with low fire potential are critical for permaculture designs in fire-pro
 - Ginkgo biloba
 
 ### Other Notable Trees
-- Robinia pseudoacacia ([[comparison-black-locust-vs-honey-locust]])
+- Robinia pseudoacacia (Black Locust)
 - Salix spp. (Willows)
 - Populus alba (White Poplar) -- recovers
 - Platanus acerifolia (London Plane)

@@ -127,11 +127,6 @@ shamanic ecstasy has "robbed us of life's meaning and made us enemies of the
 planet, of ourselves, and our grandchildren."
 
 ## See Also
-
 - [[mckenna-habit-culture-religion]]
 - [[mckenna-consciousness-expansion-and-drug-war]]
-- mckenna-legalization-debate-and-archaic-revival
-
-## See Also
-
 - [[mckenna-food-gods-sugar-addiction-slavery]]

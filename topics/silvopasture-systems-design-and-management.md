@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Garrett, L.W., "Silvopasture: An Agroforestry Practice," USDA National Agroforestry Center, 2009.
   - Gold, M.A. and Garrett, H.E., "Agroforestry Systems for the Southern United States," Agroforestry Systems, vol. 77, 2009.
-  - Jose, S., "Agroforestry for [[biodiversity-of-fungi-ecosystem-services-agriculture]] and Environmental Benefits," Tree Physiology, vol. 29, 2009.
+  - Jose, S., "Agroforestry for biodiversity-of-fungi-ecosystem-services-agriculture and Environmental Benefits," Tree Physiology, vol. 29, 2009.
   - Clason, T.R., "Silvopastoral Practices Sustain Timber and Forage Production," USDA Forest Service, 1999.
   - World Agroforestry Centre (ICRAF), "Agroforestry and Livelihood Systems," 2020.
 ---

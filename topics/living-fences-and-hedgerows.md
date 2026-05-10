@@ -137,7 +137,6 @@ Species selection depends on function, climate, and management capacity. Key con
 - Hazel (*Corylus avellana*), dogwood (*Cornus sanguinea*), elder (*Sambucus nigra*), blackberry (*Rubus fruticosus*), gooseberry (*Ribes uva-crispa*), currants (*Ribes* spp.), viburnum, serviceberry (*Amelanchier*)
 
 **Nitrogen fixers** (soil improvement and fodder):
-- Black locust (*Robinia pseudoacacia*), autumn olive (*Elaeagnus umbellata*), sea buckthorn (*Hippophae rhamnoides*), caragana (*Caragana arborescens*), broom (*Cytisus scoparius*), tagasaste (*Chamaecytisus palmensis*), gliricidia (*Gliricidia sepium*), leucaena (*Leucaena leucocephala*)
 ## See Also
 
 - [[windbreaks-hedgerows-and-shelterbelts]]

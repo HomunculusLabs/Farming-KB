@@ -68,11 +68,11 @@ destructive behavior is a legacy of unhappiness for us all. But if we sufficient
 reconstructed our image of self and world, we could make out of psychopharmacology
 the stuff of our grandest hopes and dreams. Instead, pharmacology has become the
 demonic handmaiden of an unchecked descent into regimentation and erosion of civil
-## See Also
 
 ## See Also
 - [[mckenna-television-dominator-drug]]
 - [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
+
 ## Practical Considerations
 
 Successful implementation of Television as the Hidden Persuader and Dominator Drug requires attention to

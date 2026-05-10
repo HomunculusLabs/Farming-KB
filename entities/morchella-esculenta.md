@@ -17,7 +17,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5308708/
   - Kuo, "Morchella: Morels" (2023), MushroomExpert.com
   - Bunyard, "The Beginner's Guide to Mushrooms" (2021)
-  - Richard et al., "[[morel-morchella-cultivation-life-cycle]]: A review" (2021), Applied Microbiology
+  - Richard et al., "morel-morchella-cultivation-life-cycle: A review" (2021), Applied Microbiology
 created: 2026-04-28
 ---
 
@@ -129,13 +129,8 @@ Morels offer several potential applications in permaculture and ecological desig
 - **Biodiversity indicator** — morel presence indicates healthy soil fungal communities and functioning [[dighton-mycorrhizal-networks-carbon-transfer]]
 
 ## See Also
-
-- [[medicinal-mushroom-guide-turkey-tail]] — techniques for growing morels
-- [[mycorrhizal-networks]] — fungal networks in forest ecosystems
-
-## See Also
-
-- edible-wild-mushroom-guide
+- [[medicinal-mushroom-guide-turkey-tail]]
+- [[mycorrhizal-networks]]
 - [[populus-deltoides]]
 - [[spawn-production]]
 - [[ergothioneine]]

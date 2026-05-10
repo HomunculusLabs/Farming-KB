@@ -121,10 +121,6 @@ Fukuoka's insight was that many of these interventions, while well-intentioned, 
 The protective forest establishment method is a practical expression of this philosophy: the human does one thing (aerial seed pellet distribution) and then steps back entirely, trusting the land to do the rest.
 
 ## See Also
-
-- [[fukuoka-natural-farming-philosophy]] for the philosophical foundation
-- [[vegetable-growing-guide-solomon]] for companion techniques in food production
-
-## See Also
-
+- [[fukuoka-natural-farming-philosophy]]
+- [[vegetable-growing-guide-solomon]]
 - [[fukuoka-textdoc-natural-paddy-farm-establishment-method]]

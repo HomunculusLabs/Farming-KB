@@ -14,7 +14,7 @@ sources:
   - Reichstein, T. (1981). "Asplenium scolopendrium." Flora Europaea, Vol. 1.
   - Page, C.N. (1997). "The Ferns of Britain and Ireland." Cambridge University Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Flora of [[psilocybin-north-america-pacific-northwest]] Editorial Committee (1993). FNA Vol. 2.
+  - Flora of psilocybin-north-america-pacific-northwest Editorial Committee (1993). FNA Vol. 2.
 ---
 
 ## Overview

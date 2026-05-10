@@ -138,7 +138,6 @@ The leachate collected from bokashi fermentation is a complex biological liquid 
 
 ### Small-Scale and Urban Farming
 
-Bokashi has found a natural home in urban agriculture, community gardens, and small-scale diversified farming. The ability to process all food waste on-site, including restaurant scraps and market surplus, creates a closed-loop nutrient cycle that reduces input costs and waste disposal fees. Many urban farmers operate multiple bokashi buckets simultaneously, cycling them through the fermentation process on a staggered schedule to ensure a continuous supply of pre-compost for soil incorporation.
 ## See Also
 
 - vermicomposting-and-earthworm-ecology — alternative indoor composting using worms

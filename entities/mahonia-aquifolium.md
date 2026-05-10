@@ -134,5 +134,5 @@ activation and LDL receptor upregulation.
 
 - [[berberis-vulgaris]]
 - comfrey-permaculture
-- [[food-forest-permaculture]]
+- [[food-forest]]
 - [[ilex-aquifolium]]

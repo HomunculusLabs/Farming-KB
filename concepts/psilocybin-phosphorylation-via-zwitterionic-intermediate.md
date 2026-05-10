@@ -145,4 +145,4 @@ By exploiting the compound's zwitterionic properties — specifically its insolu
 - [[zwitterionic-intermediates-tryptamine-phosphorylation]]
 
 - [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole|Psilocin Synthesis from 4-Hydroxyindole]] — the upstream synthesis of psilocin
-- [[australian-magic-mushroom-common-names|Magic Mushroom Constituents] — naturally occurring tryptamines in Psilocybe species - [[psilocybin-compound-profile|Psilocybin Compound Profile]] — pharmacological and clinical information]]
+- [[australian-magic-mushroom-common-names|Magic Mushroom Constituents]] — naturally occurring tryptamines in Psilocybe species - [[psilocybin-compound-profile|Psilocybin Compound Profile]] — pharmacological and clinical information

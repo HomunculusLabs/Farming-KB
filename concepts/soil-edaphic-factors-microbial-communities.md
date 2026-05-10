@@ -126,10 +126,6 @@ than any single factor alone.
 - **pH**: Target 6.3-6.9 for optimal microbial diversity.
 
 ## See Also
-
 - [[cannabis-rhizosphere-microbiome]]
 - [[cannabinoid-concentration-endorhiza-microbiome-correlation-cannabis]]
-
-## See Also
-
 - [[edaphic-factors-structuring-cannabis-microbiome]]

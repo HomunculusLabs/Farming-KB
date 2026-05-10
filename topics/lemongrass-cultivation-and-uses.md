@@ -144,7 +144,6 @@ While C. citratus and C. flexuosus are the most important, several related speci
 ---
 
 ## Cultivation Requirements
-
 ## Related
 - [[coleman-claytonia-winter-harvest-cultivation]]
 - [[arbuscular-mycorrhizal-fungi-cannabis-cultivation]]

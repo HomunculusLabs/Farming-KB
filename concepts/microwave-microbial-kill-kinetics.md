@@ -140,6 +140,8 @@ basis for:
 
 ## See Also
 
+- [[microbial-kill-microwave-irradiation]]
+
 - [[microwave-surface-sterilization]]
 - [[msap-subsystem-architecture-microwave-sterilizable-access-port]]
 - d value

@@ -110,4 +110,4 @@ and appropriate [[green-cannabis-grow-bible-nutrient-management-ppm]] practices.
 
 ## See Also
 
-- [[glomalin]]
+- [[glomalin-and-soil-carbon]]

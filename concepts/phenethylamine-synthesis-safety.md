@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Shulgin's Cautionary Framework
 
-PIHKAL includes explicit and repeated warnings about the dangers of unauthorized synthesis. Shulgin's [[pihkal-cautionary-note-and-legal-context]], appearing in the book, states: "No one who is lacking legal authorization should attempt the synthesis of any of the compounds described in these files, with the intent to give them to man. To do so is to risk legal action which might lead to the tragic ruination of a life."
+PIHKAL includes explicit and repeated warnings about the dangers of unauthorized synthesis. Shulgin's cautionary note, appearing in the book, states: "No one who is lacking legal authorization should attempt the synthesis of any of the compounds described in these files, with the intent to give them to man. To do so is to risk legal action which might lead to the tragic ruination of a life."
 
 He further warned that self-experimentation without knowledge of a drug's action is "acting irresponsibly and immorally, whether or not he is doing so within the bounds of the law."
 
@@ -40,7 +40,7 @@ The syntheses documented in PIHKAL employ a range of hazardous chemicals and pro
 
 Many of the starting materials for phenethylamine synthesis are controlled substances or watched chemicals:
 
-- **Safrole/Isosafrole**: Precursors for MD [[2c-family-compounds-overview]] ([[mda-compound-profile]], [[mdma-in-pihkal-context]])
+- **Safrole/Isosafrole**: Precursors for MD family compounds ([[mda-compound-profile]], [[mdma-in-pihkal-context]])
 - **Piperonal (heliotropin)**: Used in various synthetic routes
 - **Anise oil**: Source of 4-methoxy-substituted precursors
 - **Hydroquinone and derivatives**: Used in some synthetic pathways
@@ -62,9 +62,9 @@ Based on the procedures described in PIHKAL, a properly equipped laboratory woul
 
 ## Legal Framework
 
-The [[ayahuasca-tourism-legal-status-by-country]] of phenethylamine synthesis has evolved significantly since PIHKAL's publication:
+The legal status of phenethylamine synthesis has evolved significantly since PIHKAL's publication:
 
-- Many PIHKAL compounds are now Schedule I in the [[dmt-containing-plants-united-states-halpern]] and internationally
+- Many PIHKAL compounds are now Schedule I in the United States and internationally
 - The Federal Analog Act in the US can apply to unscheduled compounds that are "substantially similar" to scheduled substances
 - Possession of precursor chemicals with intent to manufacture controlled substances is a criminal offense
 - Shulgin himself faced DEA scrutiny and legal action; his relationship with regulatory agencies is documented in [[shulgin-research-contributions]]

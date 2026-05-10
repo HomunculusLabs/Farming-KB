@@ -1,5 +1,5 @@
 ---
-title: bloomfield-history-of-mycology-pioneers Timeline
+title: History of Mycology Timeline
 created: 2026-04-11
 updated: 2026-04-12
 type: query
@@ -38,22 +38,22 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
 
 - **~500 BCE — Rig Vedic Soma:**
   [[r-gordon-wasson]] proposed (1968) in Soma: Divine Mushroom of Immortality
-  that the divine Soma of Vedic ritual was [[allegro-amanita-muscaria-properties-and-pharmacology]].
+  that the divine Soma of Vedic ritual was Amanita muscaria.
   This remains debated among scholars.
   See [[amanita-muscaria-guide]] and [[soma-hypothesis]].
 
-- **~300 BCE — [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]:**
+- **~300 BCE — Eleusinian Mysteries:**
   Annual initiation rites at Eleusis honoring Demeter and Persephone,
   lasting nearly 2,000 years.
   Participants included Aristotle, Plato, Homer, and Sophocles.
   Wasson, [[albert-hofmann]], and Carl Ruck proposed in The Road to Eleusis (1978)
-  that the kykeon potion contained ergot ([[bloomfield-ergot-claviceps-purpurea-ergotism]]).
+  that the kykeon potion contained ergot (Claviceps purpurea).
   See [[entheogen-culture]].
 
 ## Classical and Medieval Period (0-1600 CE)
 
 - **First century CE — Dioscorides:**
-  Greek physician Pedanius Dioscorides documented [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]
+  Greek physician Pedanius Dioscorides documented medicinal mushrooms
   in De Materia Medica, including larch agaric (Fomitopsis officinalis)
   for intestinal ailments and sweating sickness.
   His work remained the standard pharmacopeia for 1,500 years.
@@ -71,7 +71,7 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
 
 - **1600s — La Quintinie and Paris mushroom caves:**
   Jean de La Quintinie (1624-1688), director of royal gardens at Versailles,
-  developed systematic European [[accessible-mushroom-cultivation-for-disabilities]]
+  developed systematic European mushroom cultivation
   in underground quarries and cellars near Paris using horse manure substrate.
   See [[historical-mushroom-cultivation]].
 
@@ -135,15 +135,16 @@ Draws from history of mycology timeline, [[fungal-evolution]], and entity pages 
   practical instructions for British market gardeners covering
   bed preparation, spawn storage, and growing methods.
   See [[james-cuthill]].
-## Related Pages
 
-- [[mycology-modern-era]] — modern era mycology from 1940 to present
-- history of mycology timeline — existing concept page with additional detail
-- [[fungal-evolution]] — phylogeny, fossil record, and molecular dating
-- [[psychedelic-mushroom-history]] — parallel timeline of psychoactive fungi
-- [[historical-mushroom-cultivation]] — cultivation-focused history
-- [[victorian-mycology]] — Victorian-era fungal taxonomy and the Woolhope Club
-- [[fungal-biology-fundamentals]] — modern understanding of fungal life cycles
-- [[fungal-ecology]] — fungi as keystone ecosystem engineers
-- [[buller-ahr]]
-- [[ingold-cecil-t]]
+- **1905 — Benjamin Duggar:**
+  American botanist (1872-1956) who brought scientific rigor
+  to mushroom cultivation literature.
+  See [[benjamin-duggar]].
+
+- **1928 — Alexander Fleming discovers penicillin:**
+  Scottish bacteriologist noticed that Penicillium notatum mold
+  contaminating a bacterial culture killed surrounding Staphylococcus bacteria.
+  The antibiotic revolution that followed transformed medicine.
+
+- **1930s — Sinden's grain spawn revolution:**
+  Development of pure culture grain spawn using sterilized grain

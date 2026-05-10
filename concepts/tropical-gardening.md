@@ -4,15 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, climate, plants, cultivation, water-management, ecology, biodiversity]
-sources:
-  sources: []
+sources: []
 ---
 
 # Tropical Gardening
 
 ## Overview
 
-Tropical gardening encompasses growing food and ornamental plants in regions near the equator where temperatures remain consistently warm (mean annual temperature above 64°F/18°C) and frost is absent. Tropical gardens can produce year-round harvests but face unique challenges including high humidity, heavy rainfall, [[hamilton-pest-and-disease-control-organic]] pressure, and rapid soil nutrient depletion. These systems overlap significantly with [[food-forest-design|food forest]] design and [[permaculture-design|permaculture]] principles.
+Tropical gardening encompas [[growing-food-in-hard-times]] food and ornamen [[psychedelic-plants-in-ancient-cultures]] s in regions near the equator where temperatures remain consistently warm (mean annual temperature above 64°F/18[[hamilton-cloches-and-frost-protection]] rost is absent. Tropical gardens can produce year-round harvests but face unique challenges including high humidity, heavy rainfall [[potato-pest-and-disease-management]] se pressure [[tryptamine-endogenous-familiarity-and-rapid-pharmacokinetics]] i [[soil-nutrient-cycling]] nt depletion. These systems overlap significantly with [[food-forest-design]] design and [[permaculture-design]] principles.
 
 ## Tropical Climate Zones
 
@@ -21,7 +20,7 @@ Tropical gardening encompasses growing food and ornamental plants in regions nea
 - Annual rainfall often exceeds 100 inches
 - High humidity (80%+ year-round)
 - Consistent temperatures with minimal seasonal variation
-- Rapid decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- Rapid decomposition and nutrient cycling
 
 ### Monsoon Climates (Am)
 - Short dry season (1-3 months) with heavy monsoon rains
@@ -39,7 +38,7 @@ In frost-free tropical climates, many crops produce year-round or in overlapping
 
 - Leafy greens: Harvest continuously by picking outer leaves
 - Root vegetables: Can be planted and harvested any month
-- [[comparison-perennial-vegetables-vs-cover-crops]]: Chaya, cassava, taro, sweet potato produce for years
+- Perennial vegetables: Chaya, cassava, taro, sweet potato produce for years
 - Fruit trees: Multiple species fruit at different times, providing year-round harvest
 
 ### Succession Planting
@@ -56,7 +55,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 - Perennial vegetables require less replanting and soil disturbance
 - Tree crops provide shade, mulch, and food simultaneously
 - Perennial root crops (cassava, taro, yam) are calorie-dense staples
-- [[food-forest-design|food forest]] design is essentially a tropical concept adapted worldwide
+- [[food-forest-design]] design is essentially a tropical concept adapted worldwide
 
 ## Wet and Dry Season Management
 
@@ -70,7 +69,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 ### Wet Season Strategies
 - Plant on raised beds or mounds to improve drainage
 - Use mulch to protect soil from rain impact
-- Apply slow-release [[hamilton-organic-fertilizers-and-plant-nutrition]]
+- Apply slow-release organic fertilizers
 - Plant cover crops in unused areas to prevent erosion
 
 ### Dry Season Challenges
@@ -111,7 +110,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 
 ### Perennial Vegetables
 - **Chaya (Cnidoscolus aconitifolius)**: Spinach substitute; must be cooked; extremely productive
-- **Moringa ([[comparison-moringa-oleifera-vs-moringa-stenopetala]])**: Nutritious leaves, pods, and flowers; fast-growing tree
+- **Moringa (Moringa oleifera)**: Nutritious leaves, pods, and flowers; fast-growing tree
 - **Katuk (Sauropus androgynus)**: Shrub with edible leaves; grows in shade
 - **Egyptian spinach (Corchorus olitorius)**: Molokhia; annual but self-seeds readily
 - **Pigeon pea (Cajanus cajan)**: Perennial legume producing edible peas; nitrogen fixer
@@ -131,7 +130,7 @@ Tropical gardens benefit enormously from emphasizing perennials:
 ### Common Tropical Diseases
 High humidity and warmth create ideal conditions for pathogens:
 
-- **Fungal diseases**: Anthracnose, [[cervantes-powdery-mildew-prevention-treatment]], downy mildew, rust, leaf spot, root rot
+- **Fungal diseases**: Anthracnose, powdery mildew, downy mildew, rust, leaf spot, root rot
 - **Bacterial diseases**: Bacterial wilt, bacterial leaf spot, fire blight
 - **Viral diseases**: Papaya ringspot, banana bunchy top, mosaic viruses
 - **Nematodes**: Root-knot nematodes are a major problem in tropical soils
@@ -148,3 +147,4 @@ Root-knot nematodes are among the most damaging tropical soil pests:
 
 - Rotate with nematode-resistant crops (marigold, sunn hemp, some cowpea varieties)
 - Incorporate organic matter (compost, green manure) to support nematode-predatory microbes
+- Solarize soil during hot dry season (cover moist soil with clear plastic for 6-8 weeks)

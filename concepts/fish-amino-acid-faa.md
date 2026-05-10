@@ -26,7 +26,7 @@ sources:
 
 # Fish Amino Acid (FAA)
 
-Fish Amino Acid is a nitrogen-rich KNF input made by fermenting fish parts with brown sugar. It provides bioavailable amino acids, peptides, and nitrogen compounds that plants can absorb directly through foliage and roots. It is especially important during early [[cannabis-vegetative-growth-stage]] and for recovering stressed or weakened plants.
+Fish Amino Acid is a nitrogen-rich KNF input made by fermenting fish parts with brown sugar. It provides bioavailable amino acids, peptides, and nitrogen compounds that plants can absorb directly through foliage and roots. It is especially important during early vegetative growth and for recovering stressed or weakened plants.
 
 ## Why Fish?
 
@@ -36,7 +36,7 @@ Fish and animal proteins are high in amino acids and nitrogen. Cho emphasizes us
 - Rapid fermentation due to high enzyme activity
 - Strong nitrogen/amino acid profile
 
-Other suitable fish: sardines, anchovies, any oily fish. Avoid large predator fish (potential bioaccumulation of [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]).
+Other suitable fish: sardines, anchovies, any oily fish. Avoid large predator fish (potential bioaccumulation of heavy metals).
 
 ## FAA Recipe
 
@@ -90,8 +90,8 @@ Other suitable fish: sardines, anchovies, any oily fish. Avoid large predator fi
 | Vegetative growth | 1:1000 | Standard foliar spray |
 | Stressed/weak plants | 1:500 | Higher rate for recovery |
 | Soil drench | 1:500-1000 | Feed soil microbes |
-| [[jadam-seed-treatment-and-nursery-management]] (SES) | 1 ml/L | Only for weak seedlings |
-| [[comparison-cannabis-vegetative-stage-vs-flowering-stage]] | 1:1000 | Sparingly — living soil already has N |
+| Seed treatment (SES) | 1 ml/L | Only for weak seedlings |
+| Cannabis vegetative | 1:1000 | Sparingly — living soil already has N |
 | Root dip for transplants | 1:100 | Quick nitrogen boost |
 
 Apply as foliar spray early morning or late evening. Do not apply during flowering/reproductive stage — excess nitrogen causes:
@@ -113,13 +113,13 @@ After extracting FAA, the remaining fish bones and residue are valuable:
 From Cho's book — a specific application:
 - Mackerel FAA at appropriate dilution can help control mites
 - The amino acid profile of mackerel FAA creates conditions unfavorable for mite reproduction
-- Combine with [[oriental-herbal-nutrient-ohn]] for enhanced [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] effect
+- Combine with [[oriental-herbal-nutrient-ohn]] for enhanced pest control effect
 - Apply during vegetative growth when mites are most problematic
 
 ## FAA in the Nutritive Cycle
 
 According to [[nutritive-cycle-theory]]:
-- **[[cannabis-vegetative-stage-management]]**: FAA at 1:1000 supports leaf and stem growth
+- **Vegetative stage**: FAA at 1:1000 supports leaf and stem growth
 - **Changeover period**: STOP FAA — nitrogen during flower transition causes problems
 - **Reproductive stage**: STOP FAA — let plant focus on flowers/fruit, not leaves
 - **Late reproductive**: FAA only if plants show nitrogen deficiency (yellowing older leaves)
@@ -139,11 +139,12 @@ FAA is the strongest nitrogen input in KNF. Overuse causes:
 | Solid residue smell bad | Fat not dissolving | Add IMO-3 or more sugar |
 | Weak nitrogen effect | Too diluted | Increase concentration to 1:500 |
 | Burn on leaves | Too concentrated or wrong time | Reduce rate, apply only vegetative stage |
-## See Also
 
-- [[knf-preparations]] — all KNF inputs overview
-- [[fermented-plant-extract-fpe]] — FPJ/FFJ companion input
-- [[nutritive-cycle-theory]] — when to apply FAA
-- [[water-soluble-calcium-phosphate-wcp]] — use FAA residue for WS-CaPo
-- [[brown-rice-vinegar-brv]] — BRV for calcium extraction from bones
-- [[cannabis-living-soil-guide]] — caution with FAA in living soil (already N-rich)
+## Pairing with Other Inputs
+
+FAA works synergistically with:
+- [[fermented-plant-extract-fpe]] — FPJ provides energy, FAA provides nitrogen
+- [[indigenous-microorganisms-imo]] — IMO provides microbes to break down FAA in soil
+- [[lactic-acid-bacteria-lab]] — LAB helps prevent putrefaction
+- [[oriental-herbal-nutrient-ohn]] — OHN prevents disease on nitrogen-rich soft tissue
+- [[water-soluble-calcium-wca]] — WS-Ca balances nitrogen, strengthens cell walls

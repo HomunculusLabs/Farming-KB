@@ -135,13 +135,12 @@ Despite differences between the psycholytic and psychedelic approaches, Metzner
 identified five shared conclusions: (1) psychedelics produce profoundly expanded
 states of consciousness; (2) set and setting are the primary determinants; (3)
 the amplifier and [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]] apply; (4) the therapist's personal
-experience is an essential prerequisite; and (5) access to transpersonal
-## See Also
 
+## See Also
 - [[metzner-lsd-military-weapon-to-mystic-catalyst]]
 - [[metzner-amplifier-microscope-metaphors-psychedelic-therapy]]
-
 - [[metzner-lsd-origins-sandoz-psycholytic-osmond-hoffer-alcoholism-and-consciousness-expansion]]
+- [[metzner-set-and-setting-hypothesis-origins-and-extensions]]
 
 ## References
 

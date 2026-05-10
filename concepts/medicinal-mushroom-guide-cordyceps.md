@@ -1,11 +1,10 @@
 ---
-title: Cordyceps (C. militaris, C. sinensis) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: Cordyceps (C. militaris, C. sinensis) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profiles, pharmacology, biochemistry]
-sources:
-  sources: []
+sources: []
 ---
 
 # Cordyceps (Cordyceps militaris and Ophiocordyceps sinensis)
@@ -14,8 +13,8 @@ sources:
 
 Cordyceps refers to a genus of parasitic fungi that infect insects and other arthropods. The two most medicinally relevant species are:
 
-- **Cordyceps militaris:** Bright orange, cultivable species. Contains cordycepin. Commercially cultivated worldwide.
-- **Ophiocordyceps sinensis (formerly C. sinensis):** The original "caterpillar fungus" from the Tibetan Plateau. Parasitizes ghost moth larvae. Wild-harvested only, extremely expensive ($50,000-100,000+/kg). Now taxonomically separated into the Ophiocordyceps genus.
+- **Cordyceps militaris:** Bright orange, cultivable species. Contains cordycepin. Commercially cultivated worldwide. (see [[medicinal-mushroom-guide-oyster]]).
+- **Ophiocordyceps sinensis (formerly C. sinensis):** The original "caterpillar fungus" from the Tibetan Plateau. Parasitizes ghost moth larvae. Wild-harvested only, extremely expensive ($50,000-100,000+/kg). Now taxonomically separated into the Ophiocordyceps genus. (see [[medicinal-mushroom-guide-chaga]]).
 
 Cordyceps has been used in Tibetan and Chinese medicine for centuries as a tonic for vitality, stamina, and respiratory health. Modern research focuses on its ergogenic (performance-enhancing), adaptogenic, and immunomodulatory properties.
 
@@ -81,14 +80,14 @@ Cordyceps has a reputation as an aphrodisiac in TCM:
 Traditional use as a kidney tonic in Chinese medicine:
 - Protective effects against nephrotoxic drugs and chemicals in animal models.
 - May improve renal function markers in chronic kidney disease (early research).
-- Reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in kidney tissue.
+- Reduces oxidative stress in kidney tissue.
 
 ## Preparation Methods
 
 ### C. militaris (Cultivated)
 Most commercially available cordyceps products are C. militaris:
 - **Whole dried fruiting bodies:** Can be added to soups, broths, or teas.
-- **Hot water extract:** Simmer 30-45 minutes for [[mushroom-polysaccharide-extraction-chemistry]].
+- **Hot water extract:** Simmer 30-45 minutes for polysaccharide extraction.
 - **Dual extraction:** Water + alcohol to capture both polysaccharides and cordycepin.
 - **Powder/capsules:** Most common supplement form. Look for standardized cordycepin content.
 
@@ -114,7 +113,7 @@ Most commercially available cordyceps products are C. militaris:
 
 Wild O. sinensis faces severe overharvesting:
 - Harvests have declined by 50-90% in some regions of the Tibetan Plateau over the past 20 years.
-- [[dighton-fungi-climate-change-feedback]] is reducing the range and abundance of the host ghost moth larvae.
+- Climate change is reducing the range and abundance of the host ghost moth larvae.
 - Prices have skyrocketed, driving overharvesting by rural communities dependent on the income.
 - C. militaris cultivation is the sustainable alternative and provides comparable or superior cordycepin content.
 
@@ -125,7 +124,7 @@ C. militaris can be cultivated on grain substrates (rice, wheat) or insect pupae
 - **Temperature:** 68-75°F (20-24°C) colonization; 50-65°F (10-18°C) for fruiting (cool fruiting triggers).
 - **Light:** Required for fruiting body development and cordycepin production.
 - **Fruiting time:** 3-6 weeks after inoculation.
-- **Yield:** 30-50% [[stamets-biological-efficiency-yield]] on grain substrates.
+- **Yield:** 30-50% biological efficiency on grain substrates.
 - Insect pupae substrates produce fruiting bodies more chemically similar to wild O. sinensis.
 
 ## Safety Considerations
@@ -133,7 +132,7 @@ C. militaris can be cultivated on grain substrates (rice, wheat) or insect pupae
 - Generally well-tolerated.
 - May lower blood sugar — caution with diabetes medications.
 - Possible blood-thinning effects — caution with anticoagulants.
-- [[cannabis-autoimmune-conditions-detailed]]: immune-stimulating effects may be problematic.
+- Autoimmune conditions: immune-stimulating effects may be problematic.
 - Avoid during pregnancy and breastfeeding.
 - Rare reports of dry mouth, nausea, and diarrhea at high doses.
 

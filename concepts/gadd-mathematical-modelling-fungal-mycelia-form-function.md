@@ -142,7 +142,6 @@ Comparing model predictions to experiments is difficult:
 - 2D models cannot fully capture 3D soil environments
 - Laboratory microcosms differ from natural field conditions
 - Some model outputs (internal nutrient distributions) are not directly measurable
-
 ## See Also
 
 - [[mycelial-network-nutrient-dynamics]]

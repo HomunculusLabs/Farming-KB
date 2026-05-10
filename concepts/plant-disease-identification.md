@@ -1,17 +1,15 @@
 ---
-title: Plant solomon-disease-identification-and-organic-remedies
+title: Plant Disease Identification
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [plants, troubleshooting, pathogens, fungi, bacteria, gardening, pest-control, reference]
-sources:
-  sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 # Plant Disease Identification
 
-Accurate disease identification is the critical first step in effective plant [[plant-disease-management-solomon]]. Misidentification leads to incorrect treatment, wasted resources, and potentially worse outcomes. This guide provides a systematic approach to diagnosing plant diseases based on symptoms, affected plant parts, and environmental conditions.
+Accurate disease identification is the critical first step in effective plant disease management. Misidentification leads to incorrect treatment, wasted resources, and potentially worse outcomes. This guide provides a systematic approach to diagnosing plant diseases based on symptoms, affected plant parts, and environmental conditions. (see [[cannabis-disease-guide]]).
 
 ## Systematic Diagnostic Approach
 
@@ -29,10 +27,10 @@ Accurate disease identification is the critical first step in effective plant [[
 
 | Symptom Pattern | Likely Cause | Key Distinguishing Features |
 |---|---|---|
-| White powdery coating (top/bottom) | [[cervantes-powdery-mildew-prevention-treatment]] | Dry conditions, starts lower leaves, rubs off |
+| White powdery coating (top/bottom) | Powdery mildew | Dry conditions, starts lower leaves, rubs off |
 | Yellow patches with gray fuzz underneath | Downy mildew | Angular lesions bounded by veins, cool wet weather |
 | Brown concentric ring spots ("bullseye") | Early blight (Alternaria) | Starts on lower leaves, solanaceous crops |
-| Yellowing between veins (interveinal) | [[cannabis-grow-nutrient-deficiency-problem-solving]] | Often iron or manganese, pH-related |
+| Yellowing between veins (interveinal) | Nutrient deficiency | Often iron or manganese, pH-related |
 | Mosaic pattern (light/dark green) | Virus (TMV, CMV) | Irregular pattern, may include leaf curling |
 | Small dark spots with yellow halos | Bacterial spot | Water-soaked edges, "shot-hole" when centers drop |
 | Rust-colored pustules on undersides | Rust fungi | Orange-brown powder when touched |
@@ -63,7 +61,7 @@ Accurate disease identification is the critical first step in effective plant [[
 |---|---|---|
 | Water-soaked lesions, rapid collapse | Late blight | Fast-spreading, gray fuzz on margins |
 | Sunken dark spots with pink spore masses | Anthracnose | Concentric rings possible, warm wet weather |
-| Black leathery spots on blossom end | Blossom-end rot | [[knf-calcium-deficiency-symptoms]], not infectious |
+| Black leathery spots on blossom end | Blossom-end rot | Calcium deficiency, not infectious |
 | Gray fuzzy mold on soft fruit | Botrytis gray mold | Starts on damaged or senescing tissue |
 | Mosaic pattern or ring spots on fruit | Virus | Associated leaf symptoms present |
 
@@ -119,7 +117,7 @@ Accurate disease identification is the critical first step in effective plant [[
 
 ## See Also
 
-- [[viral-plant-diseases]] -- [[cervantes-viral-diseases-cannabis]]
+- [[viral-plant-diseases]] -- viral diseases
 
 - [[bacterial-plant-diseases]] -- bacterial diseases
 

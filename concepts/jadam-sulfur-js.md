@@ -1,6 +1,6 @@
 ---
 
-title: ultra-low-jadam-sulfur-js (JS) — Natural Germicide Recipe
+title: JADAM Sulfur (JS) — Natural Germicide Recipe
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # JADAM Sulfur (JS)
 
-JS is a natural germicide made by melting sulfur in caustic soda (NaOH) with water -- no external heating required. The exothermic reaction produces enough heat (~100C) to fully liquefy sulfur. Effective against [[cervantes-powdery-mildew-prevention-treatment]], [[cervantes-downy-mildew-fungal-blight]], canker, black spot, pear rust, anthracnose, and most fungal diseases. Costs under $0.50/L. No expiration date. Unlike lime-sulfur, JS does not damage greenhouse plastic or steel pipes.
+JS is a natural germicide made by melting sulfur in caustic soda (NaOH) with water -- no external heating required. The exothermic reaction produces enough heat (~100C) to fully liquefy sulfur. Effective against powdery mildew, downy mildew, canker, black spot, pear rust, anthracnose, and most fungal diseases. Costs under $0.50/L. No expiration date. Unlike lime-sulfur, JS does not damage greenhouse plastic or steel pipes. (see [[jadam-sulfur-application]]).
 
 ## Recipe: 100L (26 gal) Batch
 
@@ -50,7 +50,7 @@ JS is a natural germicide made by melting sulfur in caustic soda (NaOH) with wat
 10. Stir well one final time
 11. Close lid, let sit 24 hours
 
-**After 24 hours**: Upper portion will be clear (25% sulfur content). Do NOT keep in making container -- upper/lower portions have different concentrations. Decant clear upper liquid into thick-walled storage bottles. Seal airtight. If crystals form on surface, the seal failed.
+**After 24 hours**: Upper portion will be clear (25% sulfur content). Do NOT keep in making container -- upper/lower portions have different concentrations. Decant clear upper liquid into thick-walled storage bottles. Seal airtight. If crystals form on surface, the seal failed. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
 
 ## Scale Reference Table
 
@@ -77,11 +77,11 @@ Increase in 0.2L increments only. Above 2.5L causes concentration damage (burned
 ## Disease Targets
 
 - Powdery mildew and downy mildew (primary targets)
-- Black spot, canker, pear rust, [[oyster-brown-blotch-disease]]
+- Black spot, canker, pear rust, brown blotch
 - Anthracnose, grey mold, green mold
 - Rice blast, rice sheath blight, smut
 - Leaf fungus, white rot, valsa canker
-- [[jadam-rice-bakanae-treatment]] disease (seed soak: 5L JS in 500L cold water, 48 hrs)
+- Rice bakanae disease (seed soak: 5L JS in 500L cold water, 48 hrs)
 
 ## JS Germicide Recipe (JS + JWA)
 
@@ -123,6 +123,6 @@ Grapes, persimmons, walnuts, and perilla are sensitive to sulfur. Always do conc
 ## See Also
 
 - [[jadam-wetting-agent-jwa]] — required companion for JS application
-- [[jadam-natural-pesticide-jnp]] — complete [[jadam-combined-pesticide-programs-jwa-js-jhs]]
+- [[jadam-natural-pesticide-jnp]] — complete pesticide programs
 - [[jadam-methods]] — JADAM system overview
 - [[knf-preparations]] — KNF alternatives for comparison

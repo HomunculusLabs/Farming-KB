@@ -5,8 +5,7 @@ updated: 2026-05-06
 aliases: [conjugation reactions, phase ii metabolism, drug conjugation, glucuronidation, sulfation, acetylation, glutathione conjugation]
 tags: [biochemistry, pharmacology, drug-metabolism, toxicology, enzymology]
 type: concept
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview

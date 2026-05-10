@@ -16,11 +16,11 @@ Pruning is the selective removal of branches to shape the tree, improve fruit qu
 ### Benefits of Proper Pruning
 
 - **Improved light penetration**: Sun-exposed fruit ripens better, develops more sugar, and has fewer disease problems
-- **Better air circulation**: Reduces humidity within the canopy, decreasing [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] pressure
+- **Better air circulation**: Reduces humidity within the canopy, decreasing fungal disease pressure
 - **Easier harvest**: Well-shaped trees are more accessible for picking
-- **[[plant-disease-management-solomon]]**: Removal of infected wood slows the spread of canker, fire blight, and other diseases
-- **Tree vigor control**: Pruning balances [[cannabis-vegetative-growth-stage]] with fruit production
-- **[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]**: Removing weak crotches and crowded branches prevents breakage under fruit load
+- **Disease management**: Removal of infected wood slows the spread of canker, fire blight, and other diseases
+- **Tree vigor control**: Pruning balances vegetative growth with fruit production
+- **Structural strength**: Removing weak crotches and crowded branches prevents breakage under fruit load
 - **Renewal**: Removing old wood stimulates new productive growth
 
 ### When Not to Prune
@@ -141,9 +141,10 @@ Espalier is the practice of training trees to grow flat against a wall, fence, o
    - Third cut: Remove the remaining stub, cutting just outside the branch collar
 
 ## Timing by Tree Type
-## Related Topics
 
-- [[grafting-fruit-trees]] for propagating fruit trees to prune
-- [[plant-propagation-methods]] for other propagation techniques
-- [[fruit-tree-pruning]] for general fruit tree care
-- [[orchard-management]] for [[fukuoka-orchard-management-detailed]]
+### Apples and Pears
+
+- **Winter pruning (February-March)**: Primary structural pruning. Tree is dormant; branch structure is visible.
+- **Summer pruning (June-August)**: Remove water sprouts, thin crowded areas, improve light. Less vigorous regrowth from summer cuts.
+- Best pruned during dormancy; summer pruning is supplemental.
+

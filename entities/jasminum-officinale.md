@@ -10,7 +10,7 @@ updated: 2026-05-08
 sources:
   - "Green, P.S. (2004). A revision of Jasminum (Oleaceae) in Asia. Kew Bulletin, 59, 491–515."
   - "RHS (2023). Jasminum officinale. Royal Horticultural Society."
-  - "Khalil, A.K. et al. (2020). \"[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] and biological activities of Jasminum officinale.\" J. Essent. Oil Res., 32(3), 244–256."
+  - "Khalil, A.K. et al. (2020). \"query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms and biological activities of Jasminum officinale.\" J. Essent. Oil Res., 32(3), 244–256."
 ---
 
 # Jasminum officinale (Common Jasmine)

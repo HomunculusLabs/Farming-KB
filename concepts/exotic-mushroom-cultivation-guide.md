@@ -90,13 +90,8 @@ Mist casings **daily** and never let the surface dry out. Increase watering afte
 | Sclerotia duration | Up to 4 months |
 
 ## See Also
-
 - [[mushroom-cultivation-sterile-technique]]
 - [[mushroom-cultivation-methods]]
-
-## See Also
-
-- grass-seed-substrate-psilocybe-mushroom-sclerotia-cultivation-guide
 - [[mushroom-cultivation]]
 - [[psilocybe-mexicana]]
 - [[substrate-preparation]]

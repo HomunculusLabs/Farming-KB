@@ -7,9 +7,7 @@ tags: [homesteading, business, community, law, regulation, economics]
 sources: []
 ---
 
-# Homestead Labor and Volunteers
-
-As a homestead grows beyond what one or two people can manage, labor becomes a critical consideration. Options range from informal volunteer exchanges to formal employees. Each approach has legal, financial, and interpersonal implications. This guide covers WWOOF, Workaway, apprenticeships, hiring, and labor law compliance.
+# Homestead Labor and Volunteer [[allegro-christianity-as-a-fertility-cult]] s a homestead grows beyond what one or two people can manage, labor becomes a critical consideration. Options range from informal volunteer exchanges to formal employees. Each approach has legal, financial, and interpersonal implications. This guide covers WWOOF, Workaway, apprenticeships, hiring, and labor law compliance. (see [[permaculture-social-design]]).
 
 ## Labor Needs Assessment
 
@@ -17,16 +15,13 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Weekly farm work exceeds 40 hours for available people
 - Seasonal peaks (planting, harvest, preservation) create bottlenecks
 - You're turning down market days or orders due to lack of production capacity
-- You want to scale (see [[homestead-scale-assessment]]) but lack labor bandwidth
-
-### Types of Tasks Suitable for Helpers
+- You want to scale (see [[homestead-scale-assessment]]) but lack labor bandwi [[fukuoka-four-types-of-diet]] Types of Tasks Suitable for Helpers
 - Planting, weeding, harvesting
-- Animal feeding and chores
-- Market setup and sales
-- Food preservation (canning, drying, packing)
-- Fence building and repair
+[[bee-feeding-and-fungal-pesticides]] eding and chores
+- Market setup and [[food-preservation-canning]] ervation (canning, drying, packing)
+[[solomon-humus-building-and-soil-life]] ding and repair
 - Building and infrastructure projects
-- Social media and marketing (skilled volunteers)
+- Socia [[small-farm-business-and-marketing]] arketing (skilled volunteers)
 
 ## WWOOF (World Wide Opportunities on Organic Farms)
 
@@ -65,7 +60,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Often attracts travelers with diverse skills (carpentry, photography, IT)
 
 ### Differences from WWOOF
-- Less focus on [[coleman-deep-organic-farming-philosophy]] specifically
+- Less focus on organic farming specifically
 - More diverse volunteer pool (international travelers)
 - Some volunteers have specialized skills (web design, construction)
 - Less structured than WWOOF
@@ -132,7 +127,7 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - Experienced farm worker: $16-22/hour
 - Farm manager: $40,000-55,000/year
 - Market sales: $15-20/hour
-- Include benefits discussion: flexibility, [[selling-farm-products-and-business]], housing (if applicable)
+- Include benefits discussion: flexibility, farm products, housing (if applicable)
 
 ## Labor Laws
 
@@ -143,7 +138,8 @@ As a homestead grows beyond what one or two people can manage, labor becomes a c
 - OSHA: Occupational Safety and Health Administration applies to farms with 11+ employees (smaller farms largely exempt)
 - H-2A visa program: for hiring seasonal foreign agricultural workers (complex, expensive, but legal pathway for labor shortage)
 
-## See Also
-- [[homestead-scale-assessment]]
-- [[homestead-insurance-guide]]
-- [[natural-farm-food-preservation-methods]]
+### State Requirements
+- State minimum wage may exceed federal ($7.25/hour) -- most states are $12-16/hour
+- State workers comp requirements vary
+- State unemployment insurance: required for most employers
+- State-mandated breaks and meal periods

@@ -11,7 +11,7 @@ sources:
 
 # A.H.R. Buller
 
-Arthur Henry Reginald Buller (1874–1944) was a British-Canadian mycologist considered the greatest experimental mycologist in history. His seven-volume *Researches on Fungi* (1909–1934) established the foundations of fungal spore biology, including the mechanics of [[bloomfields-orchard-spore-discharge-mechanisms]], [[bloomfield-buller-spore-velocity-stokes-law-experiments]], and the role of [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] in ballistospore launch.
+Arthur Henry Reginald Buller (1874–1944) was a British-Canadian mycologist considered the greatest experimental mycologist in history. His seven-volume *Researches on Fungi* (1909–1934) established the foundations of fungal spore biology, including the mechanics of spore discharge, spore velocity, and the role of surface tension in ballistospore launch.
 
 ## Biography
 
@@ -51,13 +51,13 @@ Arthur Henry Reginald Buller (1874–1944) was a British-Canadian mycologist con
 - Systematically studied bioluminescence in fungi, particularly *Panellus stypticus* (a bracket fungus on tree stumps)
 - Rose at 4:00 AM and walked to lab before sunrise for dark-adapted eyes; muffled head in horse blinders during commute to avoid street lamp light
 - Photographed using light from fungal mycelia and fruiting bodies; studied dependence on oxygen and temperature
-- Found [[growing-gourmet-north-american-reishi-species]] strains luminous but English strain non-luminous; when paired on agar, produced hybrid mycelium with luminous and non-luminous sectors
+- Found North American strains luminous but English strain non-luminous; when paired on agar, produced hybrid mycelium with luminous and non-luminous sectors
 
 ### Rust Fungi and Genetics
 
 - Made major contributions to understanding rust fungi (*Puccinia*) that parasitize cereal crops — life cycles involving four spore types and two host species
 - Hypothesized that flies transfer sex cells between rust strains (like insect pollinators); advised plant pathologist John Craigie to study insects on infected leaves — the idea was correct and led to solving the puzzle of rust sexuality
-- Investigated sexuality of ink-caps (*Coprinus*) and processes of hyphal fusion and nuclear migration preceding [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]]
+- Investigated sexuality of ink-caps (*Coprinus*) and processes of hyphal fusion and nuclear migration preceding mushroom formation
 - Contemporaneous molecular research on mating types and compatibility built on his experiments
 
 ### Honors and Retirement
@@ -79,6 +79,6 @@ Buller's work on spore discharge laid the foundation for all subsequent research
 
 - [[nicholas-money]] — modern mycologist who documented Buller's legacy
 - [[fungal-spore-biology]] — the field Buller founded
-- [[fungal-biology-fundamentals]] — broader [[bloomfield-fungal-biology-and-hyphal-growth]]
+- [[fungal-biology-fundamentals]] — broader fungal biology
 - [[ingold-cecil-t]] — contemporary who discovered aquatic fungi
 - [[history-of-mycology-timeline]] — Buller's place in mycological history

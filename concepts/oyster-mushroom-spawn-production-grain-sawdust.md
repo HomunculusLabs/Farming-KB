@@ -1,5 +1,5 @@
 ---
-title: "Oyster [[mushroom-spawn-production-and-laboratory-techniques]]: Grain and Sawdust Methods"
+title: "Oyster [[spawn-production-techniques]]: Grain and Sawdust Methods"
 source: unknown-oyster-mushroom-cultivation.md
 topics: [oyster-mushroom, spawn, grain-spawn, sawdust-spawn, inoculation, tissue-culture, pleurotus]
 ---

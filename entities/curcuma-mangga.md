@@ -10,9 +10,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sakai K, Nagamasu H, Ito T. (2000). "Curcuma of Borneo." Acta Phytotaxonomica et Geobotanica.
-  - Theilade I, Theilade S. (2013). "Zingiberaceae of [[psilocybe-southeast-asia-pacific]]." Blumea.
+  - Theilade I, Theilade S. (2013). "Zingiberaceae of psilocybe-southeast-asia-pacific." Blumea.
   - Sirirugsa P. (1999). "Thai Zingiberaceae: Species Diversity and Their Uses." International Meeting on Zoology.
-  - Ong HC, Nordiana NA. (1999). "Use of Traditional Medicine Among the Local Communities in Pantai Acheh, Penang." Journal of [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] Science.
+  - Ong HC, Nordiana NA. (1999). "Use of Traditional Medicine Among the Local Communities in Pantai Acheh, Penang." Journal of arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration Science.
 ---
 
 # Curcuma mangga

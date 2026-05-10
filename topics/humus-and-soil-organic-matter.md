@@ -140,7 +140,6 @@ Humus also influences nutrient availability through its effects on soil pH and i
 
 The chelating capacity of humic and fulvic acids helps maintain these micronutrients in plant-available forms. Humic substances can also buffer soil pH, helping to moderate both acidification and alkalinization and maintaining soil conditions within the range optimal for nutrient availability and microbial activity.
 
-The relationship between humus and phosphorus deserves special attention. Phosphorus is one of the most limiting nutrients in agricultural systems, and much of the phosphorus applied as fertilizer becomes locked into insoluble compounds in soil. Humus helps maintain [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] through several mechanisms.
 ## See Also
 
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]

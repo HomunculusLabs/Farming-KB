@@ -24,8 +24,8 @@ sources:
   - National Research Council (1993). "comparison-vetiver-grass-vs-bamboo-for-erosion-control: A Thin Green Line Against Erosion." National Academies Press, Washington, DC.
   - Truong, P.N. (2002). "Vetiver grass technology." In: Land and Water Discussion Paper, FAO.
   - Lavania, U.C. (2003). "Vetiver: a miracle grass for soil and water conservation." Proceedings of the Third International Conference on Vetiver, Guangzhou, China.
-  - Martínez, M. et al. (2016). "Use of vetiver grass for phytoremediation of [[dighton-fungal-biosorption-heavy-metal-remediation]] contaminated soils." Environmental Science and Pollution Research, 23(14), 13782-13789.
-  - Weyerstahl, P. et al. (2000). "Constituents of the [[permaculture-designers-manual-essential-oil-plants]] of Vetiveria zizanoides." Flavour and Fragrance Journal, 15(6), 395-412.
+  - Martínez, M. et al. (2016). "Use of vetiver grass for phytoremediation of dighton-fungal-biosorption-heavy-metal-remediation contaminated soils." Environmental Science and Pollution Research, 23(14), 13782-13789.
+  - Weyerstahl, P. et al. (2000). "Constituents of the permaculture-designers-manual-essential-oil-plants of Vetiveria zizanoides." Flavour and Fragrance Journal, 15(6), 395-412.
 ---
 
 # Vetiver (*Vetiveria zizanoides*)

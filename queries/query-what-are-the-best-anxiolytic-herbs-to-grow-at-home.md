@@ -113,7 +113,7 @@ sources:
 
 **Growing constraints**: Requires tropical conditions (zones 11+), high humidity, consistent warmth (never below 15°C), and 3–5 years to mature. Not practical for most home growers outside tropical climates. Indoor/ greenhouse cultivation is possible but demanding.
 
-**For most home growers**: Purchase dried noble kava root from reputable vendors rather than attempting cultivation. See [Kava Kava — Cultivation, Ethnobotany, and Chemistry](../topics/kava-kava-cultivation-ethnobotany-and-chemistry.md) for detailed growing information.
+**For most home growers**: Purchase dried noble kava root from reputable vendors rather than attempting cultivation. See Kava Kava — Cultivation, Ethnobotany, and Chemistry for detailed growing information.
 
 ### Valerian
 

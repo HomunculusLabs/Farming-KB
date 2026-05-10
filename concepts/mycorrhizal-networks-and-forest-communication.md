@@ -1,5 +1,5 @@
 ---
-title: dighton-mycorrhizal-networks-carbon-transfer and Forest Communication
+title: Mycorrhizal Networks and Forest Communication
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 ## Overview
 
-Common mycorrhizal networks (CMNs), sometimes called "wood wide webs," are underground fungal networks that connect individual plants and trees, enabling [[mycelial-network-resource-sharing-plants]], [[plant-hormones-and-chemical-signaling-systems]], and information transfer between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
+[[common-mycorrhizal-networks]] (CMNs), sometimes called "wood wide webs," a [[underground-fungal-networks]] rks that connect individu [[plants-and-electromagnetism]] and trees, enabling resource sharing, chemical signaling, a [[transcendent-other-and-plant-human-information-transfer]] fer between forest organisms. Research has revealed that these networks facilitate cooperative behaviors between trees, including the support of seedlings by mature "mother trees."
 
-## Types of Mycorrhizal Networks
+[[fukuoka-four-types-of-diet]] [[mycorrhizal-networks]] rks
 
-### Arbuscular Mycorrhizal Networks
+[[arbuscular-mycorrhizal-networks]] orks
 - Formed by Glomeromycota fungi
 - Associate with most herbaceous plants and tropical trees
 - Hyphal connections are relatively short-range (cm scale)
@@ -54,9 +54,9 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 ## Chemical Signaling
 
 ### Defense Signaling
-- Plants under insect or pathogen attack send [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] through CMNs
+- Plants under insect or pathogen attack send chemical signals through CMNs
 - Neighboring plants receive these signals and activate defense responses
-- [[fungal-volatile-organic-compounds-communication]] compounds and systemic signals transmitted through fungal hyphae
+- Volatile organic compounds and systemic signals transmitted through fungal hyphae
 - Documented in: tomato (defense against aphids), bean (defense against Botrytis), ponderosa pine (defense against bark beetles)
 - Primer effect: pre-exposed plants respond faster and stronger to subsequent attacks
 
@@ -103,7 +103,7 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 - Seedling regeneration in logged areas benefits from network preservation
 
 ### Climate Change
-- Warming may shift fungal [[core-endorhiza-bacterial-community-composition-cannabis]]
+- Warming may shift fungal community composition
 - Drought reduces mycorrhizal connectivity
 - CO2 enrichment effects on networks are complex and context-dependent
 - See [[fungi-in-climate-change]] for detailed climate impacts
@@ -142,8 +142,9 @@ Suzanne Simard's pioneering research at the University of British Columbia:
 ## Controversies and Open Questions
 
 - The extent and ecological significance of resource transfer through CMNs is debated
-## See Also
+- Some researchers argue that resource movement is small relative to total plant budgets
+- Kin selection through CMNs is supported by some studies but not universally accepted
+- The signaling function of CMNs is well-documented but field significance is debated
+- Popular accounts (including Simand's "Finding the Mother Tree") have been criticized for over-stating the cooperation narrative
 
-- [[fungi-in-climate-change]] -- climate impacts on mycorrhizal networks
-- [[biochar-and-fungi]] -- supporting mycorrhizal networks with biochar amendments
-- [[endophytic-fungi-in-agriculture]] -- related plant-fungal symbiotic relationships
+## See Also

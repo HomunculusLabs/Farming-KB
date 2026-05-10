@@ -17,7 +17,7 @@ sources:
     genus Lycoperdon." Mycologia 101(6): 828-837.
   - Kreisel, H. (1967). "Taxonomic-pflanzengeographische Monographie der
     Gattung Lycoperdon." Nova Hedwigia 20: 1-250.
-  - Wasser, S.P. (2002). "[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] as a source of antitumor
+  - Wasser, S.P. (2002). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor
     and immunomodulating polysaccharides." Applied Microbiology and
     Biotechnology 60(3): 258-274.
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed.
@@ -137,13 +137,7 @@ L. perlatum is excellent when young with white, firm gleba:
   cracking to reveal lead-colored inner skin
 
 ## See Also
-
 - [[parmotrema-perlatum]]
-
 - [[lycoperdon-pyriforme]]
-
 - [[decomposition]]
-
-## See Also
-
 - [[permaculture-plants-edible-perennials-understory]]

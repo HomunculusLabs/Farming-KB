@@ -1,9 +1,7 @@
 ---
 created: 2026-04-12
 source: biodiversity-of-fungi (Hyde et al. Appendix II, Bills/Foster)
-sources:
-  - "raw/papers/unknown-working-with-agar.md"
-  - "raw/papers/working-with-agar.md"
+sources: []
 tags:
 - laboratory-methods
 - culture-media
@@ -17,13 +15,13 @@ updated: 2026-04-12
 
 # Fungal Culture Media
 
-Fungal culture media are formulated substrates used to isolate, cultivate, maintain, and study fungi in the laboratory. Media selection is critical for successful isolation and depends on the nutritional requirements and ecological characteristics of the target fungi. This reference covers the major media types and their applications.
+Fungal culture media are formulated substrates used to isolate, cultivate, maintain, and study fungi in the laboratory. Media selection is critical for successful isolation [[selective-agents-fungal-isolation-antibiotics-fungicides]] and depends on the nutritional requirements and ecological characteristics of the target fungi. This reference covers the major media types and their applications.
 
 ## Principles of Media Formulation
 
 ### Key Considerations
-- **Carbon source**: Mono/disaccharides favor [[cannabis-vegetative-growth-stage]]; polysaccharides (cellulose, starch) favor [[ligninolytic-enzyme-production-bioremediation]]
-- **Nitrogen source**: Inorganic (NO3, NH4) or organic (peptone, [[marmite-yeast-extract-straw-substrate]], amino acids)
+- **Carbon source**: Mono/disaccharides favor vegetative growth; polysaccharides (cellulose, starch) favor enzyme production
+- **Nitrogen source**: Inorganic (NO3, NH4) or organic (peptone, yeast extract, amino acids)
 - **pH**: Most fungi prefer pH 4-7; some alkalophiles prefer pH 8-10
 - **Water activity (aw)**: High sugar/salt concentrations reduce aw, selecting for osmotolerant/xerophilic species
 - **Antibiotics**: Added to suppress bacterial growth during isolation
@@ -67,7 +65,7 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 ### Soil Fungi
 - **Glucose Ammonium Nitrate Agar (GAN)**: Glucose 10g, NH4NO3 1g, rose bengal 30mg, agar 20g, water 1L. Substitute cyclosporin A (2-10mg) for rose bengal as useful variation. Incubate in dark.
 - **Alpha-Cellulose Agar**: For nonsporulating soil isolates; contains alpha-cellulose, coconut milk, oatmeal, tomato paste
-- **DRBC (Dichloran-Rose Bengal-Chloramphenicol Agar)**: For soil fungi, dried seeds, food products, [[osmophilic-osmotolerant-fungi-low-water-activity]]. Dichloran 2mg/L, rose bengal 25mg/L, chloramphenicol 0.1g/L.
+- **DRBC (Dichloran-Rose Bengal-Chloramphenicol Agar)**: For soil fungi, dried seeds, food products, osmotolerant fungi. Dichloran 2mg/L, rose bengal 25mg/L, chloramphenicol 0.1g/L.
 - **DG18 (Dichloran-Glycerol Agar)**: 18% glycerol for osmotolerant, xerotolerant, and xerophilic fungi. aw = 0.955.
 
 ### Dung and Coprophilous Fungi
@@ -99,7 +97,7 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 ### Clinical and Medical Fungi
 - **Brain-Heart Infusion Agar (BHIA)**: Calf-brain infusion 200g, beef-heart infusion 250g, peptone 10g, glucose 2g, NaCl 5g, agar 15g, water 1L. For clinical samples.
 - **Chocolate Agar**: Casein + peptone medium + 5-10% defibrinated blood heated to 80°C. For clinical fungal cultures.
-- **Caffeic Acid (Phenol Oxidase) Medium**: Tests for [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] melanin production.
+- **Caffeic Acid (Phenol Oxidase) Medium**: Tests for Cryptococcus neoformans melanin production.
 
 ### Cellulolytic Activity
 - **Carboxymethyl Cellulose (CMC) Agar**: CMC 10g, yeast extract 0.5g, (NH4)2SO4 1g, NaNO3 2g, salts, agar 15g, water 1L. Detects cellulolytic activity.
@@ -140,4 +138,4 @@ Fungal culture media are formulated substrates used to isolate, cultivate, maint
 - [[mushroom-sterile-technique-detailed]] — Aseptic laboratory procedures
 - [[agar-work-guide]] — Working with agar media
 - [[fungal-biodiversity-biogeography]] — Sampling design for fungal surveys
-- [[fungal-ecology]] — Understanding [[dighton-fungal-nutritional-composition-animal-diets]] needs
+- [[fungal-ecology]] — Understanding fungal nutritional needs

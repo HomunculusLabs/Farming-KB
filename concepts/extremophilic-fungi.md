@@ -14,7 +14,7 @@ Fungi inhabit virtually every environment on Earth, including extreme conditions
 ## Acidophilic Fungi
 
 ### Habitat
-- Acid [[acid-mine-drainage-treatment]] (pH 1-3)
+- Acid mine drainage (pH 1-3)
 - Acidic soils (pH < 4)
 - Volcanic hot springs
 - Stomachs of ruminants
@@ -32,7 +32,7 @@ Fungi inhabit virtually every environment on Earth, including extreme conditions
 ### Applications
 - Bioleaching: extraction of metals from low-grade ores using acidophilic fungi/bacteria
 - Bioremediation of acid mine drainage
-- Industrial [[ligninolytic-enzyme-production-bioremediation]] (fungal cellulases, xylanases work optimally at low pH)
+- Industrial enzyme production (fungal cellulases, xylanases work optimally at low pH)
 
 ## Thermophilic Fungi
 
@@ -44,7 +44,7 @@ Fungi inhabit virtually every environment on Earth, including extreme conditions
 
 ### Adaptations
 - Heat-stable enzymes (cellulases, amylases, proteases)
-- Thermostable membrane lipids (saturated [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]])
+- Thermostable membrane lipids (saturated fatty acids)
 - Efficient DNA repair mechanisms
 - Rapid growth rate at high temperatures
 
@@ -113,7 +113,7 @@ Fungi inhabit virtually every environment on Earth, including extreme conditions
 
 ### Species
 - Cladosporium sphaerospermum: grows toward ionizing radiation (radiotrophic)
-- [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]: melanin provides radiation protection
+- Cryptococcus neoformans: melanin provides radiation protection
 - Wangiella dermatitidis: melanized, highly radiation-resistant
 
 ### Applications
@@ -122,9 +122,9 @@ Fungi inhabit virtually every environment on Earth, including extreme conditions
 - Melanin-based radioprotection research
 
 ## Related
-- [[fungal-biodiversity-soil-habitats]] — for soil [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+- [[fungal-biodiversity-soil-habitats]] — for soil fungal communities
 - [[fungal-biodiversity-tropical-ecosystems]] — for comparison with tropical diversity
-- [[cotter-mycoremediation-overview]] — for [[cotter-pet-livestock-waste-fungal-remediation-systems]] applications
+- [[mycoremediation-overview]] — for fungal remediation applications
 - [[fungal-biology-fundamentals]]
 - [[fungal-ecology]]
 - [[fungal-biodiversity]]

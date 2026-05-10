@@ -1,0 +1,143 @@
+---
+title: "Cannabis and Hypertension — Cardiovascular Effects and Considerations"
+source: uwe-blesching-the-cannabis-health-index.md
+author: Blesching
+tags: [cannabis, hypertension, blood-pressure, cardiovascular, CBD, THC, endocannabinoid, vasodilation]
+---
+
+# Cannabis and Hypertension
+
+## Cardiovascular Effects and Therapeutic Considerations
+
+Hypertension, commonly known as high blood pressure, is the most common
+cardiovascular condition worldwide and a leading risk factor for heart disease,
+stroke, kidney failure, and premature death. Often called the "silent killer,"
+hypertension typically produces no symptoms while progressively damaging blood
+vessels, the heart, brain, and kidneys over years or decades. The relationship
+between cannabis [[post-harvest-vs-pre-harvest-sampling-cannabis-endorhiza]] and blood pressure is complex, involving both potential
+therapeutic benefits and important safety considerations. (see [[cannabis-and-copd-research]]).
+
+### Understanding Blood Pressure
+
+Blood pressure is the force exerted by circulating blood against the walls of
+arteries. It is expressed as two numbers: systolic pressure (the force during
+heartbeats) over diastolic pressure (the force between beats). Normal blood
+pressure is generally considered below 120/80 mmHg. Hypertension is diagnosed
+when readings consistently exceed 130/80 mmHg (per current ACC/AHA guidelines)
+or 140/90 mmHg (per some international guidelines). (see [[thc-heart-protective-mechanisms-blesching]]).
+
+Blood pressure is regulated by multiple interacting systems:
+
+- **Renin-angiotensin-aldosterone system (RAAS)**: Controls blood volume and
+  vascular tone through hormone cascades
+- **Sympathetic nervous system**: Regulates heart rate, cardiac output, and
+  peripheral vascular resistance
+- **Endothelial function**: The inner lining of blood vessels produces
+  vasodilating substances (nitric oxide, prostacyclin) and vasoconstricting
+  substances (endothelin)
+- **Renal pressure regulation**: The kidneys adjust blood volume through
+  sodium and water handling
+
+### Types and Causes
+
+**Primary (essential) hypertension** (90-95% of cases) has no single cause,
+resulting from genetic predisposition combined with environmental factors:
+high sodium intake, sedentary lifestyle, obesity, chronic stress, alcohol,
+tobacco, and environmental pollutants.
+
+**Secondary hypertension** (5-10%) results from identifiable causes such as
+kidney disease, endocrine disorders, medications, sleep apnea, or vascular
+abnormalities.
+
+### Complications
+
+Chronic elevated blood pressure promotes arterial damage and atherosclerosis,
+left ventricular hypertrophy leading to heart failure, ischemic and
+hemorrhagic stroke, progressive kidney damage (nephrosclerosis), and retinal
+damage causing vision loss.
+
+### Cannabis and Blood Pressure — Acute Effects
+
+The cardiovascular effects of cannabis are primarily mediated by THC's
+interaction with CB1 receptors, which are present in the cardiovascular
+system, including the heart, blood vessels, and brain centers that regulate
+autonomic function.
+
+**Immediate effects of THC** include dose-dependent tachycardia (increased
+heart rate) and a transient increase in blood pressure followed by
+vasodilation-induced hypotension (lowered blood pressure). The initial
+pressor response reflects sympathetic activation, while the subsequent
+depressor response results from CB1-mediated vasodilation of resistance
+vessels. This biphasic pattern is well-documented and typically self-limiting.
+
+**Orthostatic hypotension** is a notable concern with cannabis use. The
+vasodilatory effects can cause a significant drop in blood pressure upon
+standing, potentially leading to dizziness or fainting, particularly in
+older adults or those already taking antihypertensive medications.
+
+### Endocannabinoid System and Cardiovascular Regulation
+
+The endocannabinoid system plays a significant role in cardiovascular
+homeostasis:
+
+- **CB1 receptors** in vascular endothelium and cardiac tissue mediate
+  vasodilation and cardioprotective effects under certain conditions
+- **CB2 receptors** on immune cells modulate the inflammatory component of
+  atherosclerosis and vascular injury
+- **Anandamide** (AEA) and **2-arachidonoylglycerol** (2-AG) influence
+  vascular tone, cardiac contractility, and inflammatory responses in the
+  cardiovascular system
+
+Dysregulation of the endocannabinoid system has been implicated in various
+cardiovascular pathologies, including atherosclerosis, hypertension, and
+cardiomyopathy, suggesting therapeutic potential for cannabinoid modulation.
+
+### CBD and Cardiovascular Health
+
+Cannabidiol (CBD) may offer cardiovascular benefits without the acute
+hemodynamic effects associated with THC:
+
+- **Vasodilation**: CBD has been shown to cause vasorelaxation in isolated
+  arteries, potentially contributing to blood pressure reduction
+- **Anti-inflammatory effects**: CBD reduces vascular inflammation, a key
+  driver of atherosclerosis and hypertension progression
+- **Anxiolytic properties**: By reducing anxiety and stress — significant
+  contributors to blood pressure elevation — CBD may indirectly lower
+  blood pressure
+- **Cardioprotective effects**: Animal studies suggest CBD may protect
+  against ischemia-reperfusion injury and reduce myocardial infarct size
+
+### Safety Considerations
+
+Important cautions regarding cannabis use in hypertensive patients:
+
+- **Drug interactions**: Cannabis may interact with antihypertensive
+  medications, potentially amplifying blood pressure-lowering effects
+- **Acute THC effects**: The tachycardia and blood pressure fluctuations
+  from THC could be concerning for patients with unstable cardiovascular
+  disease
+- **Tolerance development**: With regular use, the acute cardiovascular
+  effects of THC diminish as tolerance develops to the tachycardic response
+- **Smoking concerns**: Combustion of cannabis produces many of the same
+  harmful compounds as tobacco smoke, with potential cardiovascular risks
+
+### Summary
+
+The relationship between cannabis and hypertension is nuanced. While acute
+THC administration produces transient cardiovascular effects including
+orthostatic hypotension, chronic endocannabinoid system modulation may offer
+therapeutic potential through anti-inflammatory and anxiolytic mechanisms.
+CBD appears particularly promising for cardiovascular health without the acute
+hemodynamic concerns of THC. Patients with hypertension should exercise
+caution and consult healthcare providers, particularly regarding drug
+interactions and delivery methods.
+
+## See Also
+
+- Endocannabinoid system and cardiovascular regulation
+- CBD vasodilation and anti-inflammatory properties
+- Cannabis drug interactions
+- Cannabis and cardiovascular safety
+- [[health-risks-and-harm-reduction-for-hallucinogenic-mushroom-use]]
+- [[anandamide-and-the-endocannabinoid-system]]
+- [[cannabis-thc-cbd-ratio-guide-for-conditions]]

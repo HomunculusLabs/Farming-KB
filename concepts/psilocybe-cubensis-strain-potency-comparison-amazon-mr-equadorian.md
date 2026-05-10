@@ -4,8 +4,7 @@ created: 2026-05-07
 updated: 2026-05-07
 type: concept
 tags: []
-sources:
-  sources: []
+sources: []
 ---
 
 --- title: Psilocybe Cubensis Strain Potency Comparison of Amazon, M.R., and Equadorian tags:

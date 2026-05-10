@@ -9,7 +9,7 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Homesteading Water Systems
 
-A reliable water system is the foundation of any homestead. The goal is to capture, store, and distribute water using gravity where possible, minimizing dependence on pumped municipal or well water.
+A reliable water system is the foundation of any homestead. The goal is to capture, store, and distribute water using gravity where possible, minimizing dependence on pumped municipal or well water. (see [[rainwater-harvesting-systems]]).
 
 ## Rainwater Harvesting
 
@@ -31,7 +31,7 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - Gravity-feed from elevated tanks (1 ft height = 0.43 PSI)
 - For adequate pressure: tank at least 30 ft above point of use (~13 PSI)
 - 1/2 inch pipe for domestic use, 3/4 inch for irrigation
-- Use [[comparison-drip-irrigation-vs-passive-irrigation]] or soaker hoses (90% efficient vs 50% for sprinklers)
+- Use drip irrigation or soaker hoses (90% efficient vs 50% for sprinklers)
 
 ## Greywater Systems
 
@@ -41,15 +41,15 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - 30-50 gallons per person per day is recyclable
 
 ### Simple Systems
-1. **Laundry-to-landscape**: Washing machine drain hose to mulch basin near [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
+1. **Laundry-to-landscape**: Washing machine drain hose to mulch basin near fruit trees
 2. **Branch drain**: Sink/shower drains to a mulch basin with gravel and plants
-3. **[[comparison-constructed-wetland-vs-backyard-pond]]**: Greywater flows through a gravel bed planted with reeds, iris, and water-loving plants; filtered water exits for irrigation
+3. **Constructed wetland**: Greywater flows through a gravel bed planted with reeds, iris, and water-loving plants; filtered water exits for irrigation
 
 ### Greywater Guidelines
 - Use biodegradable, low-phosphate soaps
 - Don't store greywater (treats within 24 hours)
 - Distribute to mulch basins, don't allow ponding
-- Don't apply to [[growing-root-vegetables-guide]] or where it contacts edible parts
+- Don't apply to root vegetables or where it contacts edible parts
 - Ideal for fruit trees, berries, ornamentals, and lawn irrigation
 
 ## Wells
@@ -57,7 +57,7 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - Dug wells: 20-50 ft deep, shallow water table, lower cost
 - Driven wells (sand points): 25-50 ft deep, suitable for sandy soil
 - Always test well water for bacteria, nitrates, and minerals
-- [[mollison-designers-hand-pump-and-water-lifting-devices]] backup for power outages
+- Hand pump backup for power outages
 
 ## Water Purification
 - **Boiling**: 1 minute rolling boil kills all pathogens
@@ -67,24 +67,6 @@ A reliable water system is the foundation of any homestead. The goal is to captu
 - **Distillation**: Boil and condense — removes everything including minerals
 
 ## Related
-- [[permaculture-water-harvesting]] — for earthworks and [[comparison-swale-design-vs-contour-swale-irrigation-design]]
+- [[permaculture-water-harvesting]] — for earthworks and swale design
 - [[swale-construction-guide]] — for swale building
 - [[irrigation-watering-techniques]] — for garden irrigation methods
-## Practical Considerations
-
-Successful implementation of Homesteading Water Systems requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

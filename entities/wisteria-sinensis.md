@@ -99,6 +99,8 @@ In Western [[comparison-mandala-garden-design-vs-keyhole-garden-design]], Chines
 
 ## See Also
 
+- [[wisteria-frutescens]]
+
 - [[parthenocissus-tricuspidata]]
 - [[morus-alba]]
 - [[prunus-spinosa]]

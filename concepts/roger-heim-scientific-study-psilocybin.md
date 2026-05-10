@@ -53,7 +53,7 @@ Professor Jean Delay (1907-1987) and his team at Sainte-Anne Hospital in Paris c
 
 ## Species Identification
 
-Heim's taxonomic work was foundational. He identified and described several new species of psilocybin-containing mushrooms from Mexico, including [Psilocybe mexicana, Psilocybe caerulescens, and Psilocybe aztecorum. His collaboration with Wasson brought these species to international attention and established the scientific framework within which all subsequent [[emcdda-psilocybin-mushroom-dose-and-effects]] research would take place.
+Heim's taxonomic work was foundational. He identified and described several new species of psilocybin-containing mushrooms from Mexico, including [Psilocybe mexicana, Psilocybe caerulescens, and Psilocybe aztecorum. His collaboration with Wasson brought these species to international attention and established the scientific framework within which all subsequent [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] research would take place.
 
 ## Sandoz and the Distribution of Psilocybin
 

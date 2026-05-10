@@ -18,9 +18,9 @@ updated: 2026-04-28
 sources:
   - Ryvarden, L. & Gilbertoni-Lyman, T. (2004). "Pycnoporus P. Karst. (Polyporaceae)." Synopsis Fungorum, 19, 1–85.
   - Martins, L.O. et al. (2002). "Production and biotechnological applications of laccases from Pycnoporus cinnabarinus." Enzyme and Microbial Technology, 30(6), 745-751.
-  - Eggert, C. et al. (1996). "[[fungal-manganese-peroxidase-remediation]] from the white-rot fungus Pycnoporus cinnabarinus." Applied Microbiology and Biotechnology, 45(5), 628-632.
+  - Eggert, C. et al. (1996). "fungal-manganese-peroxidase-remediation from the white-rot fungus Pycnoporus cinnabarinus." Applied Microbiology and Biotechnology, 45(5), 628-632.
   - https://www.mycobank.org/ (taxonomic classification)
-  - Dai, Y.C. (2012). "Polyporaceae s.l. (Basidiomycota) in China." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 52, 49-93.
+  - Dai, Y.C. (2012). "Polyporaceae s.l. (Basidiomycota) in China." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 52, 49-93.
 ---
 
 # Pycnoporus cinnabarinus (Cinnabar Polypore)

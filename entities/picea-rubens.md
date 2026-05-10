@@ -13,7 +13,7 @@ sources:
   - Blum, B.M. (1990). "Picea rubens Sarg." Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA FS.
   - Peart, D.R. (1984). "Ecological Significance of Red Spruce." Journal of the Arnold Arboretum 65.
   - Eagar, C. & Adams, M.B. (1992). "Ecology and Decline of Red Spruce." Ecological Studies 96. Springer.
-  - White, P.S. & Cogbill, C.V. (1992). "Spruce-Fir Forests of [[polypore-fungi-eastern-north-america]] America." Elsevier.
+  - White, P.S. & Cogbill, C.V. (1992). "Spruce-Fir Forests of polypore-fungi-eastern-north-america America." Elsevier.
 ---
 
 # Picea rubens

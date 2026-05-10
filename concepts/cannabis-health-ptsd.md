@@ -39,7 +39,7 @@ An Ottawa study (2009) reported that cannabis could remove fear
 responses to stressors such as nightmares, poor sleep, [[blesching-cannabis-cancer-night-sweats]],
 and flashbacks. Forty-seven PTSD patients whose nightmares failed to
 respond adequately to standard pharmaceutical antidepressants and
-hypnotics received the synthetic cannabinoid [[cannabis-health-endo-cannabinoid-system]] plays a necessary role in the extinction of
+hypnotics received the synthetic cannabinoid [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] plays a necessary role in the extinction of
 aversively motivated behaviors. Their results provided compelling
 support for the hypothesis that endogenous cannabinoids are involved
 specifically in forgetting painful events while being expendable for

@@ -12,11 +12,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Gonçalves, E.C. et al. (2012). \"Nerolidol, a sesquiterpene alcohol: Pharmacology and therapeutic potential of this underestimated molecule.\" Mini-Reviews in Medicinal Chemistry, 12(15), 1635-1644."
-  - "Sokmen, A. et al. (2004). \"The in vitro antimicrobial and antioxidant activities of the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of various plants.\" Journal of the Science of Food and Agriculture, 84(10), 1169-1176."
+  - "Gonçalves, E.C. et al. (2012). \"Nerolidol, a sesquiterpene alcohol: Pharmacology and metzner-ayahuasca-therapeutic-potential of this underestimated molecule.\" Mini-Reviews in Medicinal Chemistry, 12(15), 1635-1644."
+  - "Sokmen, A. et al. (2004). \"The in vitro antimicrobial and antioxidant activities of the comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap of various plants.\" Journal of the Science of Food and Agriculture, 84(10), 1169-1176."
   - "Rao, V.S.N. et al. (2008). \"Anti-inflammatory and anti-nociceptive effects of nerolidol.\" Journal of Pharmacy and Pharmacology, 60(sup1), A44."
-  - "Aprotosoaie, A.C. et al. (2014). \"Essential oils and their components as potential antifungal agents.\" Chemistry & Biodiversity, 11(7), 1114-1130."
-  - "Rice, S. & Koziel, J.A. (2015). \"The chemistry of [[query-what-are-cannabis-terpenes-and-why-do-they-matter]].\" In: Handbook of Cannabis. Oxford University Press."
+  - "Aprotosoaie, A.C. et al. (2014). \"[[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] their components as potential antifungal agents.\" Chemistry & Biodiversity, 11(7), 1114-1130."
+  - "Rice, S. & Koziel, J.A. (2015). \"The chemistry of query-what-are-cannabis-terpenes-and-why-do-they-matter.\" In: Handbook of Cannabis. Oxford University Press."
 ---
 
 # Nerolidol
@@ -24,7 +24,7 @@ sources:
 ## Overview
 
 Nerolidol (also known as peruviol) is a naturally occurring sesquiterpene alcohol
-found in the essential oils of many aromatic plants and in numerous cannabis
+found in the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] of many aromatic plants and in numerous cannabis
 cultivars. It exists as two isomers: cis-nerolidol and trans-nerolidol, with
 trans being more common in nature.
 
@@ -53,7 +53,7 @@ effect.
 ### Cannabis (*Cannabis sativa* L.)
 
 - Present in the trichome head resin of many cultivars
-- Typically 0.01–0.3% of total essential oil fraction
+- Typically 0.01–0.3% of total [[permaculture-designers-manual-essential-oil-plants]] fraction
 - Especially elevated in [[bisabolol]]) but
   contributes to overall antioxidant capacity of essential oil blends
 

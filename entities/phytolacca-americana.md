@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - USDA NRCS (2024). "The PLANTS Database." National Plant Data Team, Baton Rouge, LA.
   - Foster, S. & Duke, J.A. (1990). "A Field Guide to Medicinal Plants." Houghton Mifflin.
-  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Mills, S. & Bone, K. (2000). "The Essential Guide to Herbal Safety." Elsevier.
 ---
 

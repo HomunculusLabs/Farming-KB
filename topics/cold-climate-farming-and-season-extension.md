@@ -111,7 +111,6 @@ stress, and deep snow can collapse inadequately designed greenhouses.
 
 Perhaps most critically for winter production, day length drops below the
 ten-hour threshold that most plants require for active growth during the
-period Coleman calls the "[[coleman-persephone-months-winter-day-length]]." At his farm on the 44th
 ## See Also
 
 [[cold-climate-gardening]]

@@ -111,6 +111,8 @@ While shoots exhibit **positive phototropism** (growing toward light), roots typ
 Root phototropism is generally weaker than shoot phototropism and is often overridden by gravitropism (the root's strong tendency to grow downward in response to gravity). In nature, these two tropic responses are integrated to guide root growth into the optimal soil zone.
 
 ## See Also
+
+- [[phototropism-darwin-experiments]]
 - [[darwin-phototropism-discovery-plant-light-perception]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 

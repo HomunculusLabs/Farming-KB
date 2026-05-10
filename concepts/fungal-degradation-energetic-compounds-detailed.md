@@ -43,6 +43,40 @@ Fungi employ several mechanisms for degrading energetic compounds:
 - [[fungal-cytochrome-p450-biodegradation]]
 - [[enzymatic-degradation-in-mycoremediation]]
 
+## Toxicity Reduction and Intermediate Metabolites
+
+A critical consideration in fungal degradation of energetic compounds is the
+fate and toxicity of transformation intermediates. The reductive pathway that
+converts TNT to 4ADNT and 2ADNT (amino-dinitrotoluenes) reduces the parent
+compound's mutagenicity but the amino metabolites can be more mobile in
+groundwater and may form covalent bonds with soil organic matter through
+oxidative coupling reactions catalyzed by [[fungal-laccase-mediator-systems|fungal laccase enzyme systems]].
+This immobilization is generally considered beneficial for site remediation
+since it sequesters the contamination, but bound residues can be released if
+soil conditions change. Complete mineralization — conversion to carbon dioxide,
+water, and inorganic nitrogen — is the ideal outcome, but most fungal systems
+achieve only partial mineralization of TNT (typically 10 to 35 percent under
+laboratory conditions). Research into combining fungal treatment with subsequent
+bacterial mineralization stages has shown improved outcomes, as bacteria can
+more readily process the partially transformed intermediates that fungi produce.
+
+## Field Applications and Site-Specific Considerations
+
+Applying fungal degradation to military training ranges and munitions production
+sites requires adapting laboratory protocols to field realities. TNT-contaminated
+soils often have low organic matter and poor water retention, conditions
+unfavorable for fungal growth. Soil amendments with lignocellulosic materials
+(sawdust, straw, composted green waste) are typically necessary to support
+robust fungal colonization and sustain [[ligninolytic-enzyme-systems-white-rot-fungi]]
+expression. Phytoremediation combined with mycoremediation shows particular
+promise: plants such as smooth brome and switchgrass grown in contaminated soil
+provide root exudates that support fungal growth, while their root systems
+improve soil structure and moisture retention. [[mycorrhizal-pah-tnt-degradation]]
+research has demonstrated that arbuscular mycorrhizal fungi associated with
+plant roots can contribute to TNT transformation in the rhizosphere, extending
+degradation beyond the surface soil layer where applied saprophytic fungi are
+most active.
+
 ## Practical Considerations
 
 Successful implementation of Fungal Degradation Energetic Compounds Detailed requires attention to

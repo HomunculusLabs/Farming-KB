@@ -137,7 +137,6 @@ working under controlled conditions, primarily for forensic identification
 purposes rather than clinical investigation. This pattern repeated globally,
 contributing to the decades-long hiatus in psychedelic research that only
 began to reverse in the 2010s.
-
 ## See Also
 
 - [[japan-narcotics-control-law-psilocybin-fungi-2002]]

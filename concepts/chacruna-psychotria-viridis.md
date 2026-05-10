@@ -122,10 +122,6 @@ and substance use disorders has renewed scientific interest in the
 pharmacological properties of *Psychotria viridis*.
 
 ## See Also
-
 - [[plant-mothers-spirits]]
 - [[icaros-power-songs]]
-
-## See Also
-
 - [[schultes-psychotria-chacruna-dmt-admixture]]

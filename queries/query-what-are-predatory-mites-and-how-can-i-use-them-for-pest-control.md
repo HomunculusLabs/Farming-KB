@@ -114,3 +114,7 @@ Predatory mites are available from specialized biological control suppliers:
 - **Koppert Biological Systems** (koppert.com) — global supplier offering Spidex (*P. persimilis*), Swirski-Mite (*A. swirskii*), Cal-Mite (*N. californicus*), Thripex (*N. cucumeris*), and more. Comprehensive documentation and multi-language grower support. One of the oldest and most established suppliers in the industry.
 - **Biobest** (biobestgroup.com) — Belgium-based with [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
 - [[hamilton-beneficial-insects-and-biological-pest-control]]
+
+## See Also
+
+- [[query-how-do-i-use-beauveria-bassiana-for-pest-control]]

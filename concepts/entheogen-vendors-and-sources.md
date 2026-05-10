@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, safety, reference, community, culture, preparation, cultivation, beginner, methods, species]
-sources:
-  sources: []
+sources: []
 ---
 
 # Entheogen Vendors and Sources
@@ -63,7 +62,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 - Commonly found on eBay, Etsy, and specialty ethnobotanical shops
 - Cuttings are the most common propagation method (the plant rarely produces viable seeds)
 
-**[[mckenna-food-gods-peganum-harmala-soma]] (Syrian Rue)**
+**Peganum harmala (Syrian Rue)**
 - Seeds are widely available — sold as botanical specimens, dye material, and incense
 - Legal in the US and most countries
 - Available from herb shops, ethnobotanical suppliers, and online seed vendors
@@ -75,7 +74,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 - Sold as a dye material or botanical specimen
 - Availability fluctuates based on regulatory pressure
 
-**[[allegro-amanita-muscaria-properties-and-pharmacology]]**
+**Amanita muscaria**
 - Dried caps available from many online vendors
 - Legal in the US and most countries (not a controlled substance)
 - Also available as extracts and tinctures
@@ -88,7 +87,7 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 
 ## Mushroom Spore Vendors
 
-[[emcdda-psilocybin-mushroom-dose-and-effects]] spores do not contain psilocybin or psilocin and are therefore legal to possess in most US states. They are sold for "microscopy research" or "educational purposes."
+Psilocybin mushroom spores do not contain psilocybin or psilocin and are therefore legal to possess in most US states. They are sold for "microscopy research" or "educational purposes."
 
 ### Legal Status of Spores
 - **Legal**: Most US states (excluding California, Georgia, Idaho)
@@ -111,9 +110,9 @@ Disclaimer: This page is for informational purposes only. Verify the legality of
 
 ### Common Species Available
 - Psilocybe cubensis (dozens of named varieties: Golden Teacher, B+, Ecuador, Thai, etc.)
-- [[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]] (more specialized vendors)
-- [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (rarely available commercially — mostly foraged)
-- [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] ("copelandia")
+- Psilocybe cyanescens (more specialized vendors)
+- Psilocybe semilanceata (rarely available commercially — mostly foraged)
+- Panaeolus cyanescens ("copelandia")
 - Gymnopilus species
 
 ## Extraction Chemical Suppliers
@@ -144,7 +143,8 @@ For those performing plant extractions (see [[dmt-extraction-guide]] and [[mesca
 - **Iboga**: Wild iboga harvesting is putting pressure on Gabonese forests. Seek sustainably cultivated sources
 - **Mimosa hostilis**: Brazilian harvesting has raised ecological concerns
 - **Salvia divinorum**: Wild populations in Oaxaca are limited — cultivate rather than wild-harvest
-## Related Topics
 
-- [[psychedelic-plants-legal-status]] — legal status of entheogens by jurisdiction
-- [[psychedelic-plants-indoor-growing]] — cultivation guidance for legal entheogenic plants
+### Cultural Respect
+- Many of these plants are sacred to indigenous communities
+- Commercial exploitation of traditional medicines raises ethical questions
+- Consider supporting indigenous communities and conservation efforts

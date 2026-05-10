@@ -9,13 +9,13 @@ sources: []
 
 # Aquaponics Plant Selection
 
-Plant selection in aquaponics depends on system type (media bed, raft, NFT), nutrient density of the fish water, available light, and grower experience. Some plants thrive in the nutrient-rich, constantly moist aquaponic environment while others struggle. Matching plants to system conditions is key to productivity.
+Plant selection in aquaponics depends on system type (media bed, raft, NFT), nutrient density of the fish water, available light, and grower experience. Some plants thrive in the nutrient-rich, constantly moist aquaponic environment while others struggle. Matching plants to system conditions is key to productivity. (see [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]).
 
 ## Best Plants for Aquaponics
 
 ### Leafy Greens and Herbs (Beginner)
 
-These are the most reliable and productive aquaponics crops. They have low-to-moderate nutrient demands and grow quickly.
+These are the most reliable and productive aquaponics crops. They have low-to-moderate nutrient demands and grow quickly. (see [[aquaponics]]).
 
 -  **Lettuce** — Butterhead, romaine, and leaf lettuce all perform exceptionally well. Ready to harvest in 30-45 days from transplant. Plant spacing: 15-20 cm in media beds, 20-25 cm in rafts. Best in cool water (18-24 C).
 -  **Basil** — One of the highest-value aquaponics herbs. Genovese, Thai, and lemon basil all thrive. Pinch flower buds to extend harvest. Plant spacing: 15-20 cm. Prefers warm water (22-28 C).
@@ -44,16 +44,16 @@ Root crops are challenging in aquaponics because dense media beds can restrict r
 
 ## Nutrient Needs by Plant Category
 
-The fish stocking density determines [[ph-and-nutrient-availability-garden-soils]] for plants. Match plant selection to nutrient levels:
+The fish stocking density determines nutrient availability for plants. Match plant selection to nutrient levels:
 
 -  **Low nutrient systems** (1-2 kg fish per 1000L water): Leafy greens, herbs, watercress. Ideal for goldfish or koi systems.
 -  **Medium nutrient systems** (3-5 kg fish per 1000L): Leafy greens plus peppers, cucumbers, beans, peas.
 -  **High nutrient systems** (5+ kg fish per 1000L): Tomatoes, fruiting vegetables, heavy feeders. Requires tilapia or catfish at higher stocking densities.
 
-Most nutrients are provided by fish waste converted through the [[query-how-does-the-nitrogen-cycle-work-in-a-garden]]. However, aquaponics systems commonly run low in:
+Most nutrients are provided by fish waste converted through the nitrogen cycle. However, aquaponics systems commonly run low in:
 
 -  **Potassium** — Deficiency shows as yellowing leaf edges and poor fruit set. Supplement with potassium hydroxide (also raises pH) or kelp extract.
--  **Calcium** — Blossom end rot in tomatoes indicates [[knf-calcium-deficiency-symptoms]]. Add calcium hydroxide or calcium carbonate.
+-  **Calcium** — Blossom end rot in tomatoes indicates calcium deficiency. Add calcium hydroxide or calcium carbonate.
 -  **Iron** — Yellowing between leaf veins (interveinal chlorosis) indicates iron deficiency. Chelated iron (DTPA or EDTA) at 2-5 mg/L is the standard supplement.
 -  **Phosphorus** — Usually adequate from fish feed, but can be low in heavily planted systems. Rock phosphate is not soluble enough for direct application; use phosphoric acid (also lowers pH) if needed.
 
@@ -64,7 +64,7 @@ Most nutrients are provided by fish waste converted through the [[query-how-does
 - Leafy greens: 15-20 plants per square meter
 - Fruiting vegetables: 4-6 plants per square meter
 - Herbs: 15-25 plants per square meter
-- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] improves diversity and pest resistance
+- Companion planting improves diversity and pest resistance
 
 ### Raft Systems (Deep Water Culture)
 
@@ -87,9 +87,9 @@ Most nutrients are provided by fish waste converted through the [[query-how-does
 
 ## Common Problems
 
--  **[[cannabis-grow-nutrient-deficiency-problem-solving]]** — Yellowing leaves, stunted growth, poor fruit set. Test water for iron, potassium, and calcium first. Supplement as needed.
+-  **Nutrient deficiency** — Yellowing leaves, stunted growth, poor fruit set. Test water for iron, potassium, and calcium first. Supplement as needed.
 -  **Pythium (root rot)** — Brown, slimy roots in warm water. Improve aeration, lower water temperature if possible, and ensure adequate biological filtration. Beneficial bacteria in healthy systems suppress pythium.
--  **Pest insects** — Aphids, whiteflies, and spider mites can move in quickly. Use neem oil, insecticidal soap, or introduce [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (ladybugs, lacewings).
+-  **Pest insects** — Aphids, whiteflies, and spider mites can move in quickly. Use neem oil, insecticidal soap, or introduce beneficial insects (ladybugs, lacewings).
 -  **pH drift** — Nitrification produces acid, lowering pH over time. Monitor weekly and adjust with potassium carbonate or calcium carbonate as needed.
 
 ## Seasonal Planning

@@ -135,12 +135,8 @@ balanced against invasive potential.
 
 In controlled settings (pollarding, coppicing systems), it functions as
 a productive nurse tree, providing shade, [[cervantes-wind-protection-outdoor-cannabis]], and soil
-## See Also
 
+## See Also
 - [[alnus-glutinosa]]
-- comfrey-permaculture
-
-## See Also
-
 - [[permaculture-plants-nitrogen-fixing-trees-shrubs]]
 - [[acacia]]

@@ -136,7 +136,6 @@ Moisture is the single most important factor controlling protozoan activity:
 - Protozoan activity generally increases with temperature up to an optimum of 20–30°C for most temperate species.
 - Tropical species may have higher temperature optima.
 - Freezing temperatures kill active trophozoites but cysts survive and repopulate after thawing.
-- Seasonal patterns show peak protozoan populations in spring and autumn in temperate climates.
 ## See Also
 
 - [[the-soil-food-web]]

@@ -1,11 +1,10 @@
 ---
-title: Rain comparison-mandala-garden-design-vs-keyhole-garden-design
+title: Rain Garden Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [water-management, ecology, permaculture, gardening, plants, earthworks]
-sources:
-  sources: []
+sources: []
 ---
 
 # Rain Garden Design
@@ -17,8 +16,8 @@ Rain gardens are shallow, vegetated depressions designed to capture, absorb, and
 Rain gardens function as bioretention systems — engineered landscapes that use soil, plants, and microbes to treat stormwater:
 
 - **Physical filtration**: Soil and root zones trap sediments and particulates
-- **Biological treatment**: Soil microbes [[query-can-fungi-break-down-plastic-pollution]] organic pollutants, petroleum hydrocarbons, and some nutrients
-- **Chemical adsorption**: Soil particles bind [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] and phosphorus
+- **Biological treatment**: Soil microbes break down organic pollutants, petroleum hydrocarbons, and some nutrients
+- **Chemical adsorption**: Soil particles bind heavy metals and phosphorus
 - **Infiltration**: Water percolates into the ground rather than running off into storm drains
 - **Evapotranspiration**: Plants absorb water and release it through leaves, reducing total volume
 
@@ -68,7 +67,7 @@ For precise design, calculate based on:
 6. **Add an overflow**: Create a low point (notch) in the berm or add a standpipe to direct overflow during extreme rain events
 7. **Install edging** (optional): Stone, brick, or metal edging defines the garden and prevents lawn encroachment
 8. **Plant**: Install native plants adapted to wet and dry conditions (see below)
-9. **Mulch**: Apply 2-3 inches of double-shredded hardwood mulch (do not use floatable mulch like [[fukuoka-pine-bark-weevil-ecology]] nuggets)
+9. **Mulch**: Apply 2-3 inches of double-shredded hardwood mulch (do not use floatable mulch like pine bark nuggets)
 10. **Test**: After the first rain, observe where water flows, how quickly it infiltrates, and adjust berm height or overflow as needed
 
 ## Native Plant Selection
@@ -132,7 +131,7 @@ Rain gardens experience alternating wet (after rain) and dry (between rains) con
 ### Established Rain Garden (Year 3+)
 - Minimal watering needed (only during severe drought)
 - Weed 2-4 times per year
-- Cut back dead stems in [[coleman-overwintered-onions-and-early-spring-crops]] (leave 6 inches for overwintering insects)
+- Cut back dead stems in early spring (leave 6 inches for overwintering insects)
 - Replenish mulch every 2-3 years as it decomposes
 - Inspect berm and overflow after major storms
 - Divide overgrown perennials every 3-5 years
@@ -142,6 +141,7 @@ Rain gardens experience alternating wet (after rain) and dry (between rains) con
 - **Erosion**: Stabilize with additional plants or stone in the inflow area
 - **Mosquitoes**: Not typically a problem if water infiltrates within 48 hours; add native fish (mosquitofish) if water persists
 - **Invasive plants**: Monitor and remove promptly; Japanese knotweed, purple loosestrife, and reed canary grass can colonize rain gardens
+
 ## See Also
 
 - [[native-plant-gardening]]

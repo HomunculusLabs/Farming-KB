@@ -15,7 +15,7 @@ sources:
 
 # Permaculture Chicken Tractor System
 
-The chicken tractor is a foundational tool in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] that integrates poultry into the garden and landscape in a mutually beneficial way. Toby Hemenway describes [[mollison-designers-chicken-tractors-egg-production]] in Gaia's Garden as a key example of "[[gaias-garden-stacking-functions-detailed]]" -- getting multiple useful outputs from a single element.
+The chicken tractor is a foundational tool in permaculture design that integrates poultry into the garden and landscape in a mutually beneficial way. Toby Hemenway describes chicken tractors in Gaia's Garden as a key example of "stacking functions" -- getting multiple useful outputs from a single element.
 
 ## What Is a Chicken Tractor?
 
@@ -73,8 +73,8 @@ The chickens themselves produce eggs and, eventually, meat. In a well-managed sy
 
 ### Moving Frequency
 
-- **Daily moves**: Best for [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] [[azurescens-outdoor-bed-preparation-woodchips]]; birds stay on each spot just long enough to clean up and lightly fertilize
-- **Every 2-3 days**: Good for [[grassland-pasture-management-mollison]]; allows birds to forage more thoroughly on each spot
+- **Daily moves**: Best for intensive garden bed preparation; birds stay on each spot just long enough to clean up and lightly fertilize
+- **Every 2-3 days**: Good for pasture management; allows birds to forage more thoroughly on each spot
 - **Weekly moves**: Suitable for larger areas or when birds need more time to work the soil
 
 ### Seasonal Use
@@ -103,9 +103,7 @@ Chicken manure is "hot" -- very high in nitrogen. If birds stay too long in one 
 - **Salatin-style**: Named after Joel Salatin; large, floorless shelters for pasture-based poultry
 - **Chickshaw**: A wheeled chicken tractor designed for easy movement (see [[chickshaw-and-poultry-tractors]])
 
-## Related
-
-- [[duck-tractor]] Concepts
+## Related Concepts
 
 - [[chicken-keeping]]
 - [[chickshaw-and-poultry-tractors]]

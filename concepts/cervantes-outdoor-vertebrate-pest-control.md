@@ -1,5 +1,5 @@
 ---
-title: [[cervantes-outdoor-soil-types-clay-sand-loam]] vertebrate [[beneficial-insects-and-biological-pest-control]] comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol
+title: [[cervantes-outdoor-soil-types-clay-sand-loam]] vertebrate [[hamilton-beneficial-insects-and-biological-pest-control]] comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol
 created: 2026-04-28
 tags:
   - vertebrate-pests
@@ -9,7 +9,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - gopher control

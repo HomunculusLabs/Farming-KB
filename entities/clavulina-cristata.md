@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Corner, E.J.H. (1950). "A Monograph of Clavaria and Allied Genera." Annals of Botany Memoirs, Oxford.
-  - Petersen, R.H. (1988). "The Clavariaceae of North [[fukuoka-america-revisited-agricultural-revolution]]." Mycotaxon 33: 1-130.
+  - Petersen, R.H. (1988). "The Clavariaceae of North fukuoka-america-revisited-agricultural-revolution." Mycotaxon 33: 1-130.
   - Kuo, M. (2023). "Clavulina cristata." MushroomExpert.com.
   - Arnolds, E. (2006). "The Fungi of the Netherlands." CBS Biodiversity Series.
 ---
@@ -138,12 +138,7 @@ colored (yellow, orange, pink), and have a different microscopic profile with
 four-spored basidia and frequently amyloid spore ornamentation.
 
 ## See Also
-
 - [[clavulina-rugosa]]
-
-- [[cantharellus-cibarius-entity]] — Chanterelle, fellow Cantharellales member of forest floors
-- [[ramaria-stricta]] — Common coral fungus of similar appearance but larger stature
-
-## See Also
-
+- [[cantharellus-cibarius-entity]]
+- [[ramaria-stricta]]
 - [[ectomycorrhizal-fungal-ecology]]

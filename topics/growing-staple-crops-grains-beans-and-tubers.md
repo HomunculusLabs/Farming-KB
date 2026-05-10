@@ -103,7 +103,6 @@ calories. The major true cereal grains include wheat, rice, maize, oats,
 barley, rye, sorghum, and millet, while quinoa, amaranth, and buckwheat are
 pseudo-cereals from unrelated plant families that fill a similar nutritional
 role. All share the basic pattern of annual growth from seed to mature grain
-head within a single season.
 ## See Also
 
 - [[bean-growing-guide]]

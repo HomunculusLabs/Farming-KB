@@ -55,6 +55,19 @@ Two ecologically distinct groups of asexual fungi dominate freshwater habitats:
 - See [[fungal-sampling-methods]] protocols to capture the complete diversity of fungi in landscapes that include aquatic habitats, particularly in studies of [[fungal-indicators-soil-quality-ecosystem-health]]
 - [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]]
 
+## Sampling Methodology
+
+Collecting freshwater fungi requires specific techniques adapted to aquatic habitats:
+
+- **Submerged wood baits**: The most productive method for collecting freshwater Ascomycetes. Pre-cut wood segments (e.g., birch twigs, 2-5 cm long) are tied to nylon lines, submerged, and retrieved after 4-12 weeks. Ascospores colonize the wood surface, and fruiting bodies develop during incubation in moist chambers.
+- **Foam spore traps**: Polyurethane foam blocks anchored in flowing water capture conidia of Ingoldian hyphomycetes. Traps are collected at intervals and spores are quantified under a compound microscope.
+- **Leaf litter processing**: Decomposing leaves are collected from stream beds and incubated in moist chambers to induce sporulation of both ascomycetes and hyphomycetes.
+- **Water filtration**: Membrane filtration of water samples captures zoospores of chytrids and other zoosporic fungi, which are then cultured on selective media.
+
+### Preservation and Documentation
+
+Freshwater fungal specimens require careful documentation including collection date, GPS coordinates, water temperature, pH, substrate type, and flow rate. Photographs of fruiting structures in situ are essential. Specimens for DNA analysis should be dried with silica gel or preserved in CTAB buffer. Voucher specimens are deposited in herbaria with accession numbers.
+
 ## Practical Considerations
 
 Successful implementation of Freshwater Fungi — Sampling, Isolation, and Diversity requires attention to

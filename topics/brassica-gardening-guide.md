@@ -131,7 +131,6 @@ fail to establish.
 
 For spring plantings, transplant broccoli and cabbage 2 to 4 weeks
 before the last expected frost. Cauliflower needs 2 to 3 weeks
-before last frost but must be harvested before summer heat arrives.
 ## See Also
 
 - [[home-vegetable-gardening-essentials]]

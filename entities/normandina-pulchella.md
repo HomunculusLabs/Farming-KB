@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Smith, C.W., Aptroot, A., Coppins, B.J. et al. (2009). "The Lichens of Great Britain and Ireland." British Lichen Society.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." Natural History Museum Publications.
   - Nimis, P.L. (2016). "The Lichens of Italy: A Second Catalogue." EUT Edizioni Università di Trieste.
 ---

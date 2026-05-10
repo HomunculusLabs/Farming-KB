@@ -43,6 +43,10 @@ Limitations include the use of a single strain (the Pucallpa isolate), which mea
 
 ## Related
 
+- [[miniculture-production-yield-data-psilocybe-cubensis-bigwood-beug]]
+
+- [[psilocin-biosynthetic-accumulation-flush-pattern-bigwood-beug]]
+
 - [[psilocybin-miniculture-rye-grain-method-bigwood-beug]] for detailed protocol steps
 - [[psilocybin-cap-stem-distribution-bigwood-beug]] for the cap [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] comparison
 ## Practical Considerations

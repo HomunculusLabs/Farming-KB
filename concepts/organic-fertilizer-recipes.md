@@ -1,6 +1,6 @@
 ---
 
-title: complete-organic-fertilizer-cof-recipe-solomon Recipes
+title: Organic Fertilizer Recipes
 created: 2026-04-11
 updated: 2026-04-13
 type: concept
@@ -34,7 +34,7 @@ For 100 square feet of garden bed:
 | Ingredient | Amount | Nutrients Provided |
 |-----------|--------|-------------------|
 | Seed meal (cottonseed, canola, or soybean) | 4 quarts (~4 lbs) | N, P, trace minerals |
-| Agricultural lime OR [[cervantes-dolomite-lime-ph-buffering]] | 1 quart (~1 lb) | Ca (and Mg if dolomite) |
+| Agricultural lime OR dolomite lime | 1 quart (~1 lb) | Ca (and Mg if dolomite) |
 | Bone meal OR rock phosphate | 1 quart (~1 lb) | P, Ca |
 | Kelp meal | 1 quart (~1 lb) | K + all trace minerals |
 
@@ -53,7 +53,7 @@ For 100 square feet of garden bed:
 
 ## 2. KNF Fish Amino Acid (FAA)
 
-For nitrogen and amino acids during [[cannabis-vegetative-growth-stage]]:
+For nitrogen and amino acids during vegetative growth:
 
 1. Collect fish waste (heads, guts, bones) — 1 part by volume
 2. Add brown sugar — 1 part by volume (1:1 ratio)
@@ -69,7 +69,7 @@ For nitrogen and amino acids during [[cannabis-vegetative-growth-stage]]:
 
 Plant immune booster and pest deterrent:
 
-**Step 1 — [[ginger-garlic-extract-bionutrient]]**: Crush garlic, soak in vodka or rice wine (1:2 ratio) for 7 days. Drain.
+**Step 1 — Garlic extract**: Crush garlic, soak in vodka or rice wine (1:2 ratio) for 7 days. Drain.
 
 **Step 2 — Ginger extract**: Crush ginger, soak in vodka/rice wine (1:2 ratio) for 7 days. Drain.
 
@@ -107,7 +107,7 @@ From common garden weeds:
 
 **Nettle tea**: Fill bucket with nettle tops (wear gloves!), cover with water, let steep 1-2 weeks. Dilute 1:10 for soil drench. Rich in N, Fe, K.
 
-**[[comparison-comfrey-tea-vs-compost-tea]]**: Fill bucket with comfrey leaves, cover with water, let steep 2-4 weeks (WARNING: very smelly). Dilute 1:10. Rich in K, excellent for fruiting plants.
+**Comfrey tea**: Fill bucket with comfrey leaves, cover with water, let steep 2-4 weeks (WARNING: very smelly). Dilute 1:10. Rich in K, excellent for fruiting plants.
 
 **Dandelion tea**: Steep dandelion leaves and flowers in water 1-2 weeks. Dilute 1:10. Provides Ca, K, Fe.
 
@@ -121,7 +121,7 @@ Trace mineral boost for any stage:
 4. Add 1 teaspoon mild liquid soap (as surfactant)
 5. Spray on leaves in early morning or late evening
 
-**Provides**: All trace minerals, [[ingham-natural-growth-regulators-soil-microbes]] hormones (cytokinins, auxins), stress resistance.
+**Provides**: All trace minerals, natural growth hormones (cytokinins, auxins), stress resistance.
 
 ## Safety Notes
 

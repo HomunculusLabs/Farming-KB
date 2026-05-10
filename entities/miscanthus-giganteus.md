@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Lewandowski, I. et al. (2000). \"Miscanthus: European experience with a novel energy crop.\" Biomass and Bioenergy, 19(4), 209-227."
   - "Heaton, E.A. et al. (2008). \"Miscanthus: a promising biomass crop.\" Advances in Botanical Research, 49, 79-107."
-  - "Christian, D.G. et al. (2008). \"[[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]] use and energy crops.\" Aspects of Applied Biology, 90, 1-8."
+  - "Christian, D.G. et al. (2008). \"fukuoka-textdoc-agricultural-land-law-obstruction-return-farming use and energy crops.\" Aspects of Applied Biology, 90, 1-8."
   - "McCalmont, J.P. et al. (2017). \"Environmental trade-offs of miscanthus cultivation.\" GCB Bioenergy, 9(3), 445-458."
   - "https://www.rhs.org.uk/plants/13199/miscanthus-x-giganteus"
 created: 2026-05-07

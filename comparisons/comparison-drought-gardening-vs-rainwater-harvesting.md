@@ -5,8 +5,7 @@ tags: [comparison, water-management, conservation, gardening,
 climate-adaptation]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 

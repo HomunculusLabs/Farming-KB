@@ -85,3 +85,7 @@ psychoactive mushroom species can be roughly ranked by potency:
 
 - *[[allen-australian-psilocybe-species-comprehensive-guide]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
+
+## See Also
+
+- [[psilocybin-potency-variation-species-strain-growth-conditions]]

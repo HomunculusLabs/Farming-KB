@@ -5,7 +5,7 @@ type: person
 tags: [permaculture, ecological-design, water-harvesting, earthworks, teacher, australia, regenerative-agriculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources:
+sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Geoff Lawton ## Overview Geoff Lawton is an Australian permaculture consultant, designer, teacher, and practitioner widely regarded as one of the most influential figures in the global permaculture movement. A former student of [[bill-mollison]] — Permaculture co-founder and Lawton's teacher

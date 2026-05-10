@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Grieve, M. (1931). A Modern Herbal. Jonathan Cape."
-  - "Chadwick, L. (2013). Yarrow ([[achillea-millefolium]] L.). J Herbs Spices Med Plants."
+  - "Chadwick, L. (2013). Yarrow (achillea-millefolium L.). J Herbs Spices Med Plants."
   - "Stansbury, J. (2012). Herbal Formularies for Health Professionals. Chelsea Green."
   - "Mills, S. & Bone, K. (2000). The Essential Guide to Herbal Safety. Elsevier."
 ---

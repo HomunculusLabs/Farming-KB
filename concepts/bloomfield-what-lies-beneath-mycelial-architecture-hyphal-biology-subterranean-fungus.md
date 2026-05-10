@@ -99,6 +99,8 @@ The chapter also serves a broader philosophical purpose: to shift the reader's a
 
 ## See Also
 
+- [[mycelial-networks-wood-wide-web]]
+
 - [[bloomfield-fairy-rings-armillaria-giant-fungi]] — Detailed treatment of Armillaria biology and fairy ring formation
 - [[bloomfield-turgor-pressure-and-hyphal-invasion]] — Osmotic mechanics of hyphal penetration
 - [[bloomfield-basidiomycete-mating-systems-tetrapolar-incompatibility-dikaryon-genetics]] — Dikaryotic mycelium formation and clamp connections

@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "https://en.wikipedia.org/wiki/Phellinus_igniarius"
   - "https://www.firstnature.com/fungi/phellinus-igniarius.php"
-  - "Cancer Treatments and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] (wiki raw source)"
+  - "Cancer Treatments and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (wiki raw source)"
 ---
 
 # Phellinus igniarius

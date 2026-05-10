@@ -140,7 +140,6 @@ and the production of antibiotics.
 Higa later revised his formulation to focus on three primary groups: lactic
 acid bacteria, purple bacteria, and yeasts. The claimed benefits of EM
 inoculation, as outlined in Higa and Wididana's foundational paper "The
-Concepts and Theories of Effective Microorganisms," include the suppression of
 ## See Also
 
 - [[soil-type-otu-abundance-vs-strain-structure-cannabis-microbiome]]

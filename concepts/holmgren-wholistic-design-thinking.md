@@ -3,7 +3,7 @@ title: Holmgren holmgren wholistic design thinking Thinking
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  sources: []
+  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: concept
 tags: [design]
 ---

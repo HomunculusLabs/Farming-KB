@@ -119,7 +119,6 @@ in the same bed -- dramatically increases the productive use of space. A bed
 might contain tomatoes (tall), peppers (medium), and lettuce or basil
 (low), each occupying a different vertical niche and root zone. This
 approach is the garden-scale version of the seven-layer food forest
-architecture.
 ## See Also
 
 - [[companion-planting]] -- companion [[purdue-vegetable-planting-reference-table]] table and classic

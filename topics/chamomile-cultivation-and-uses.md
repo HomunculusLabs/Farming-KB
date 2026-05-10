@@ -19,7 +19,7 @@ related_concepts:
 Chamomile is among the oldest and most widely used medicinal plants in human
 history, with a recorded lineage stretching back over five millennia. Belonging
 to the Asteraceae family, the two primary species cultivated worldwide are
-German chamomile (Matricaria chamomilla, formerly Matricaria recutita) and
+German chamomile ([[matricaria-chamomilla]], formerly Matricaria recutita) and
 Roman chamomile (Chamaemelum nobile, formerly Anthemis nobilis). Despite their
 shared common name and overlapping medicinal profiles, these two plants differ
 markedly in their botany, growth habits, preferred growing conditions, and
@@ -45,13 +45,13 @@ characterized, and in many cases validated through clinical trials, making
 chamomile one of the best-documented medicinal herbs in the scientific
 literature.
 
-Beyond its therapeutic applications, chamomile plays significant ecological
+Beyond its [[psilocybin-therapeutic-applications]], chamomile plays significant ecological
 roles in agricultural and garden systems. Its flowers attract beneficial
 insects including pollinators and parasitic wasps, its roots can contribute to
 soil health, and its tolerance of poor soils makes it an excellent candidate
 for marginal growing areas. In permaculture design, chamomile serves multiple
 functions simultaneously — as a medicinal crop, a [[comparison-chamomile-vs-nettle|companion]] plant, a ground
-cover, and a dynamic accumulator of certain nutrients.
+cover, and a [[comparison-hyperaccumulator-vs-dynamic-accumulator]] of certain nutrients.
 
 ## Botanical Classification and Species Overview
 
@@ -77,7 +77,7 @@ for low-traffic areas.
 ## Active Phytochemicals and Pharmacology
 
 The medicinal activity of chamomile derives from a complex matrix of
-secondary metabolites. In German chamomile, the essential oil constitutes
+[[antifungal-secondary-metabolites-coprophilous-fungi]]. In German chamomile, the essential oil constitutes
 0.24 to 1.9 percent of the dry flower weight and contains over 120
 identified compounds. The principal bioactive constituents include
 alpha-bisabolol and its oxide (constituting up to 50 percent of the
@@ -119,9 +119,9 @@ women applied crushed chamomile flowers to their skin for cosmetic purposes,
 and the plant was dedicated to Ra, the sun god, likely due to its solar-
 yellow flower center and its association with warmth and healing.
 
-Greek physician Dioscorides, writing in De Materia Medica (circa 78 CE),
+Greek physician Dioscorides, writing in De [[herbal-materia-medica]] (circa 78 CE),
 described chamomile for menstrual disorders, fever, and digestive ailments.
-Galen prescribed it for nervous disorders and insomnia. Roman physicians
+Galen prescribed it for nervous [[cannabis-sleep-disorders-and-insomnia]]. Roman physicians
 adopted and expanded upon Greek usage, and the plant became a staple of
 the Roman herbal tradition. The Anglo-Saxon herbal manuscript known as the
 Leechdoms (circa 10th century) lists chamomile as one of the "nine sacred
@@ -146,5 +146,4 @@ drainage is adequate. Soil pH between 5.6 and 7.5 is acceptable, with a
 slightly acidic to neutral range (6.0 to 7.0) being optimal. Excessively
 rich soil or heavy nitrogen fertilization produces lush, floppy foliage at
 the expense of flower production, so this species is well suited to
-marginal garden areas.
 ## See Also

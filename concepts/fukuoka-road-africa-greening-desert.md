@@ -5,7 +5,7 @@ updated: 2026-04-25
 type: concept
 tags: [africa, somalia, desert, revegetation, farming, fukuoka, refugees]
 sources:
-  sources: []
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 # Fukuoka's Visit to Africa — Greening the Desert
 

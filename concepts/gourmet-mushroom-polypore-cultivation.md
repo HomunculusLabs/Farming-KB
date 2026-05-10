@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [cultivation, mycology]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Gourmet Mushroom Polypore Cultivation Overview

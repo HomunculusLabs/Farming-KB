@@ -138,12 +138,6 @@ other.
 - **Contraindication:** Patients sensitive to THC should start with
   low doses; the 1:1 ratio does not eliminate all psychoactive
   effects
-## See Also
-
-[[sour-tsunami]] represents another approach to high-CBD
-breeding with different parent genetics. [[jack-herer]] shares lineage through Jack the
-Ripper's genetic background in modern breeding programs.
 
 ## See Also
-
 - [[cannabis-health-strains-sativa-indica]]

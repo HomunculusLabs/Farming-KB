@@ -19,6 +19,8 @@ chemistry and psychiatric disorders.
 
 ## See Also
 
+- [[tryptamine-vs-lsd-pharmacokinetic-differences-brain-familiarity]]
+
 - [[lsd-pharmacology]]
 - [[lsd-compound-profile]]
 - [[hofmann-lsd-pharmacokinetics-dosage-tolerance]]

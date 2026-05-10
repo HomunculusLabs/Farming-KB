@@ -145,6 +145,5 @@ Fava beans have the highest yield potential and nitrogen fixation capacity of an
 
 **Agronomic Advantages**: Deep root system (1–1.5 m), excellent nitrogen fixation, high biomass production, frost tolerance, and tolerance of heavy wet soils. Fava beans are increasingly intercropped with cereals in Europe as a sustainable protein source, replacing soybean imports in some supply chains.
 
-### Dry Pea (*Pisum sativum*)
 ## Related
 - [[gourmet-medicinal-mushroom-spawn-grain-production]]

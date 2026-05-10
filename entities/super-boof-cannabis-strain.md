@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Seed Junky Genetics. "Super Boof Strain Profile." seedjunky.com.
-  - Leafly Staff (2024). "Super Boof [[blesching-cannabis-strain-selection-receptor-targeting]] Information." Leafly.
+  - Leafly Staff (2024). "Super Boof blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2024). "Super Boof Weed Strain." AllBud.com.
   - Weedmaps (2024). "Super Boof Strain Review." Weedmaps.
   - Cookies Fam Genetics. Strain database entries.

@@ -62,10 +62,10 @@ The essential pharmacological innovation of ayahuasca is the MAO-A inhibition th
 
 ## Traditional and Cultural Use
 
-### Indigenous Amazonian Use
 ## See Also
-
 - [[ayahuasca-pharmacology-maoi-interactions]]
+- [[pablo-amaringo]]
+- [[amazonian-medicinal-plants-in-amaringos-visions]]
 
 ## Merged: Amazonian Mythological Beings in Pablo Amaringo's Visionary World
 

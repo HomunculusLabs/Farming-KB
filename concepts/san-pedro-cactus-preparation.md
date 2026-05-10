@@ -1,5 +1,5 @@
 ---
-title: San san-pedro-cactus-history Preparation
+title: San Pedro Cactus Preparation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -104,7 +104,7 @@ Onset: 45–90 minutes. Peak: 2–4 hours. Duration: 8–12 hours total.
 Effects include:
 - Strong visual hallucinations — geometric patterns, color intensification, morphing surfaces
 - Empathogenic feelings — emotional openness, connection to others and nature
-- Cognitive shifts — philosophical insights, [[psilocybin-ego-dissolution-mechanisms]] at higher doses
+- Cognitive shifts — philosophical insights, ego dissolution at higher doses
 - Physical effects — nausea (common during onset), increased heart rate, body temperature changes
 - Afterglow — a period of calm, clarity, and emotional sensitivity lasting 1–3 days after
 
@@ -117,10 +117,10 @@ San Pedro is exceptionally easy to grow from cuttings:
 3. Do not water until roots form (2–6 weeks)
 4. Once rooted, water thoroughly then allow soil to dry completely between waterings
 5. Provide full sun to partial shade
-6. Fertilize lightly during the [[savory-growing-season-and-non-growing-season-management]] with low-nitrogen cactus fertilizer
+6. Fertilize lightly during the growing season with low-nitrogen cactus fertilizer
 7. Growth rate: 30–60 cm per year under good conditions
 
-See [[psychedelic-plants-indoor-growing]] for detailed [[cannabis-sativa-indoor-cultivation-techniques]] guidance.
+See [[psychedelic-plants-indoor-growing]] for detailed indoor cultivation guidance.
 
 ## Safety Considerations
 
@@ -133,4 +133,4 @@ See [[psychedelic-plants-indoor-growing]] for detailed [[cannabis-sativa-indoor-
 ## Related Topics
 
 - [[mescaline-extraction-guide]] — acid-base extraction of mescaline
-- [[peyote-ceremony-guide]] — traditional mescaline use in [[psilocybin-north-america-pacific-northwest]]
+- [[peyote-ceremony-guide]] — traditional mescaline use in North America

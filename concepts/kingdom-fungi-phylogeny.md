@@ -1,88 +1,144 @@
 ---
-title: [[fungal-taxonomy-and-kingdom-fungi]] Phylogeny and Classification
-created: 2026-04-28
-tags:
-  - mycology
-  - phylogeny
-  - taxonomy
-  - ascomycota
-  - basidiomycota
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md
+title: Kingdom Fungi Phylogeny
+source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, 2004)
 type: concept
+tags: [mycology, phylogeny, taxonomy, kingdom-fungi, ascomycota, basidiomycota]
+created: 2026-05-09
 ---
 
-# Kingdom Fungi Phylogeny and Classification
+# Kingdom Fungi Phylogeny
 
-## Overview
+The Kingdom Fungi comprises a monophyletic group of eukaryotic organisms that
+are distinct from plants, animals, and protists. Modern molecular phylogenetic
+analyses, particularly based on ribosomal DNA (rDNA) sequences, have
+revolutionized our understanding of fungal evolutionary relationships, revealing
+a complex history that diverges significantly from traditional morphology-based
+classifications. At least 74,000 fungal species have been formally described,
+but estimates of total [[arbuscular-mycorrhizal-fungal-diversity]] range from 1.5 million to over 5
+million species — meaning we have described at most 5% of all fungal species
+on Earth.
 
-Fungi are heterotrophic organisms that permeate our environment. With
-few exceptions, fungi have filamentous bodies enclosed by [[alpha-1-3-glucan-fungal-pathogen-cell-walls]],
-are nonmotile, and reproduce both sexually and asexually by spores.
-During the last decade, mycologists have made unprecedented progress
-toward producing a phylogenetic classification of fungi; a skeleton
-phylogeny based on analyses of DNA characters was developed relatively
-early on. One important finding has been that "fungi" are polyphyletic,
-their morphologies being convergent, derived independently from among
-several independent eukaryotic lineages.
+## Traditional Classification
 
-## True Fungi as a Monophyletic Group
+Historically, the Kingdom Fungi was classified into four phyla:
+**Chytridiomycota**, **Zygomycota**, **Basidiomycota**, and **Ascomycota**.
+This classification was based primarily on morphological characteristics such
+as the presence or absence of flagella, the type of sexual spore produced,
+and the structure of the fruiting body. While useful for identification, this
+system did not accurately reflect evolutionary relationships.
 
-A monophyletic group, exclusive of [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]] and oomycetes, is well
-defined and supported as "true fungi," a kingdom-level taxon. Members
-Members of Kingdom Fungi are most closely related to animals, not
-plants, possibly through a choanoflagellate-like ancestor. The
-phylogenetic positions of other groups once considered as fungi are
-not always well defined among eukaryotes.
+## Molecular Phylogenetics and the Crown Fungi
 
-## Phylum Chytridiomycota
+Modern phylogenetic analyses using nuclear small subunit rDNA (SSU rDNA),
+along with protein-coding genes such as alpha-tubulin, beta-tubulin, actin,
+and elongation factor 1-alpha (EF-1α), have revealed that the traditional
+four-phylum system is phylogenetically inaccurate. The key findings include:
 
-The Chytridiomycota has been defined traditionally on the basis of the
-presence of a single posteriorly inserted smooth flagellum. At the time
-molecular methods came into use, some mycologists doubted that the
-Chytridiomycota were true fungi, but their inclusion was confirmed based
-on rDNA evidence. While subsequent studies have shown that the
-Chytridiomycota are not monophyletic, chytrid groups are basal in
-phylogenetic trees.
+- **Chytridiomycota is not monophyletic**: Some chytrid lineages form the
+  basal branch of the Kingdom Fungi, consistent with a flagellated ancestor,
+  but the group as traditionally defined does not form a single clade.
+- **Zygomycota is polyphyletic**: The zygomycetes, as traditionally
+  circumscribed, include multiple independent lineages that do not share a
+  common exclusive ancestor.
+- **Glomales, Ascomycota, and Basidiomycota form a monophyletic "crown
+  fungi" clade**: These three groups together constitute the most derived
+  lineage within the Kingdom Fungi, sometimes called the "crown group."
 
-Five orders of chytrids were established based on zoospore
-ultrastructure: Blastocladiales, Monoblepharidales, Neocallimastigales,
-Spizellomycetales, and Chytridiales. Phylogenetic analysis
-distinguished four monophyletic clades consistent with groupings based
-on zoospore ultrastructure. See [[biodiversity-macrofungi-inventory-methods]] for sampling these fungi.
+The concept of **crown fungi** is significant because the origin of this
+clade appears to coincide with the origin and diversification of land plants,
+suggesting a co-evolutionary relationship. An estimated 80% of all plant
+species are associated with Glomales ([[arbuscular-mycorrhizal-colonization-patterns]] fungi), and
+the Ascomycota and Basidiomycota today predominate in terrestrial
+environments.
 
-## Kingdom Straminipila
+## Phylum Chytridiomycota (Zoosporic Fungi)
 
-Oomycetes and other groups with a heterokont or derivative flagellar
-condition form a sister group to the Fungi. These include the
-Oomycota, Hyphochytriomycetes, Labyrinthulales, and
-Thraustochytriales. These are fungus-like organisms that were
-traditionally studied by mycologists but are now recognized as belonging
-to a separate kingdom.
+The Chytridiomycota is defined by the presence of flagellated cells
+(zoospores or gametes) at some stage in their life cycle — a plesiomorphic
+(ancestral) trait. The presence of flagella links fungi to their aquatic
+ancestors and represents the ancestral condition from which the terrestrial
+fungi evolved through loss of the flagellated stage.
 
-## Slime Molds
+Five orders of chytrids were established based on zoospore ultrastructure:
+Blastocladiales, Monoblepharidales, Neocallimastigales, Spizellomycetales,
+and Chytridiales. Molecular analyses support these as generally valid clades,
+though their interrelationships remain poorly resolved.
 
-[[slime-molds]] include the Plasmodiophorales (parasitic slime molds),
-Myxomycota, Dictyosteliomycota (plasmodial and cellular slime molds),
-and Acrasiomycota. Dictyostelid and myxomycete slime molds may comprise
-a monophyletic group that, together with certain amoebae, is the sister
-group to Fungi, Microsporidia, and Metazoa. Acrasid slime molds occur
-in a clade with predaceous vahlkampfiid amoebae, remote from other
-slime mold groups.
+One notable chytrid is *[[batrachochytrium-dendrobatidis]]*, associated with
+global amphibian declines. This species does not fall within any of the
+established chytrid groups based on DNA characters, highlighting how much
+chytrid diversity remains to be discovered.
 
-## Crown Fungi
+## Phylum Zygomycota
 
-Glomales, Ascomycota, and Basidiomycota comprise a large monophyletic
-clade of "crown" fungi, representing the most derived, higher
-monophyletic grouping within Kingdom Fungi. The timing of the appearance
-of this clade on Earth probably coincided with the origin and
-diversification of land plants. An estimated 80% of all plant species
-are associated with Glomales. Today the crown groups predominate in
-terrestrial environments and make life on Earth possible.
+Zygomycota, with more than 1,000 described species, is defined by the
+production of zygospores (meiospores) and the absence of flagella. Modern
+analyses show the group is polyphyletic. Several lineages are recognized as
+monophyletic:
+
+- **Entomophthorales**: Fungal pathogens of insects
+- **Harpellales and Kickxellales**: Sister taxa sharing plugged, flared
+  septal pores; found in arthropod guts
+- **Mucorales**: The largest order; includes common molds like *Rhizopus*
+  and *Mucor*. Many are economically important as food spoilers or in
+  industrial fermentation.
+- **Mortierellales**: Basal sister group to the Mucorales
+- **Dimargaritales and Zoopagales**: Predators or parasites of other fungi
+  and invertebrates
+
+Notably, the traditional families within Mucorales (Mucoraceae,
+Thamnidiaceae, Pilobolaceae) have been shown to be polyphyletic.
+
+## Clade Glomales (Arbuscular Mycorrhizal Fungi)
+
+The Glomales are fungi forming arbuscular mycorrhizal (AM) associations
+with an estimated 80% of the world's plant species. Molecular evidence
+places Glomales as a sister clade to the Ascomycota-Basidiomycota lineage,
+making them a critical component of the crown fungi.
+
+Two major lineages are recognized: Glomaceae and Gigasporaceae. Two
+previously unrecognized families, Archaeosporaceae and Paraglomaceae,
+have been shown to have evolved from outside the traditional Glomalean
+lineages despite sharing morphological similarities. *Geosiphon*, a
+symbiont of cyanobacteria, may also be derived from within this group.
+
+## Phylum Ascomycota
+
+The Ascomycota is the largest phylum of Kingdom Fungi, with approximately
+32,000 described species. It is characterized by the production of
+meiospores (ascospores) within sac-shaped cells (asci). Three major
+classes are recognized:
+
+- **Archiascomycetes**: A paraphyletic assemblage of basal taxa including
+  *Taphrinales* (plant pathogens) and *Pneumocystis* (associated with
+  mammalian pneumonia)
+- **Saccharomycetes**: True yeasts, including *[[saccharomyces-cerevisiae]]*
+  (brewer's yeast) and *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* (human pathogen)
+- **Euascomycetes**: The largest class, including filamentous, sporocarp-
+  producing taxa and their diverse asexual (anamorphic) relatives. This
+  class includes the economically vital genera *Penicillium* (source of
+  penicillin) and *Aspergillus*.
+
+## Phylum Basidiomycota
+
+The Basidiomycota includes mushrooms, puffballs, bracket fungi, rusts,
+and smuts. Together with the Ascomycota, they comprise more than 95% of
+all known fungal taxa. The Basidiomycota and Ascomycota are monophyletic
+sister taxa, sharing a common ancestor within the crown fungi clade.
+
+## Fungal Relationships to Other Eukaryotes
+
+Molecular phylogenetics has revealed that Fungi are more closely related
+to animals (Metazoa) than to plants. Fungi and animals share a
+choanoflagellate-like common ancestor. Microsporidia, once classified as
+protists, are now recognized as a sister group to Fungi. This close
+fungi-animal relationship has important implications for understanding
+fungal biology, including why fungal diseases in humans can be difficult
+to treat — many fungal cellular processes are more similar to human
+biology than to plant biology.
+
 ## See Also
 
-- kingdom-fungi-overview
-- [[fungal-species-estimates-biodiversity-overview]] for species counts
-- [[fungal-biodiversity-forest-ecosystems]] for analytical approaches
+- [[arbuscular-mycorrhizal-fungi]]
+- [[ascomycota]]
+- fungal specimen preservation

@@ -55,9 +55,9 @@ EMM is a research chemical documented in PIHKAL. Dosage data and safety profiles
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
-
 - [[2c-g-4-entity-pihkal]]
-- [[mescaline-entity]], escaline
+- [[mescaline]]
+- [[tma-5-entity-pihkal]]
 
 ## Pharmacology
 
@@ -100,7 +100,7 @@ EMM is part of the systematic ethoxy homologue series of TMA-2:
 - MEM — the active breakthrough compound of the series (2,5-dimethoxy-4-ethoxy)
 - MEE, EEM, EME, EEE — other ethoxy permutations explored by Shulgin
 - TMA-2 — the parent trimethoxy compound
-- [[mescaline-entity]] — the foundational phenethylamine
+- [[mescaline]] — the foundational phenethylamine
 
 ## See Also
 

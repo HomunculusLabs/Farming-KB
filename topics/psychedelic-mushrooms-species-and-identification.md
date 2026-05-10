@@ -85,7 +85,6 @@ not recommended for collection due to the high prevalence of toxic species
 within the genus, though a small number are known to contain psilocybin.
 
 ## Key Species Descriptions
-
 ## See Also
 
 [[liberty-cap-psilocybe-semilanceata-history-biology]]

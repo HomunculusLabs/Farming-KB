@@ -1,6 +1,6 @@
 ---
 
-title: Vegetable purdue-four-step-garden-fertilization-program
+title: Vegetable Garden Fertilization
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # Vegetable Garden Fertilization
 
-Comprehensive fertilization program for home vegetable gardens, based on Purdue Extension guidelines. Covers soil test-based fertility, annual maintenance fertilization, starter solutions for transplants, nitrogen side-dressing by crop, soil pH adjustment, and [[hamilton-composting-and-organic-matter-management]] management.
+Comprehensive fertilization program for home vegetable gardens, based on Purdue Extension guidelines. Covers soil test-based fertility, annual maintenance fertilization, starter solutions for transplants, nitrogen side-dressing by crop, soil pH adjustment, and organic matter management.
 
 Related: [[vegetable-garden-guide]], [[soil-testing]], [[interpreting-soil-test-results]], [[soil-fertility-management]]
 
@@ -93,17 +93,15 @@ Based on 9-inch plow depth, 100% calcium carbonate equivalent limestone.
 - **Peat moss**: Excellent for small gardens; use coarse types for best soil conditioning
 - **Compost**: Adds organic matter and reuses plant materials
 - **Animal manures**: Well-rotted, applied in fall, plowed under. Chief drawback: weed seeds
-- **[[jeavons-green-manures-cover-crops]]**: Winter (rye, wheat, barley, winter vetch); Summer (Sudangrass, soybeans, cowpeas). Wait 3 weeks after turning under before planting
+- **Green manures**: Winter (rye, wheat, barley, winter vetch); Summer (Sudangrass, soybeans, cowpeas). Wait 3 weeks after turning under before planting
 
 ### Rotation Strategy
 Plant half the garden to winter green manure (Sep/Oct), apply well-rotted manure to the other half, fall-plow. Rotate areas yearly.
 
 ## See Also
 
-- [[purdue-four-step-garden-fertilization-program]]
-
-- [[vegetable-garden-guide]] — [[fukuoka-creating-natural-farm-site-selection-establishment]], planting guide, techniques, and harvest
+- [[vegetable-garden-guide]] — Site selection, planting guide, techniques, and harvest
 - [[soil-testing]] — Soil analysis methods
 - [[interpreting-soil-test-results]] — Understanding soil test reports
-- [[soil-fertility-management]] — [[coleman-compost-and-organic-fertility-management]] management
-- [[cover-cropping-guide]] — Green manures and [[gaias-garden-cover-crops-soil-building]]
+- [[soil-fertility-management]] — Organic fertility management
+- [[cover-cropping-guide]] — Green manures and cover crops

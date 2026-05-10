@@ -140,7 +140,6 @@ irresponsible, illicit drug abuse.
 
 However, Internet-facilitated access makes it harder to maintain
 the boundary between sacramental and recreational contexts.
-
 ## See Also
 
 - [[salvia-divinorum]] — The Mazatec diviner's sage

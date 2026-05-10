@@ -41,7 +41,7 @@ Many experiments were conducted in combination with [[tma-2-entity]]
 
 [[2c-b]]
 
-[[mescaline-entity]]
+[[mescaline]]
 
 mem entity
 

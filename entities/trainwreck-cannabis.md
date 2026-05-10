@@ -140,5 +140,5 @@ Trainwreck holds a unique position in [[mckenna-cannabis-culture-history]] as on
 - [[myrcene]] — Secondary terpene contributing to the [[cannabis-terpene-entourage-effect-profiles]]
 - [[tetrahydrocannabinol-thc]] — Primary psychoactive cannabinoid in Trainwreck
 - northern-lights — Classic indica in many hybrid breeding programs
-- [[og-kush]] — Southern California counterpart and fellow legacy strain
-- [[cannabis-blue-dream]] — Blueberry × Haze cross with a similar balanced profile
+- [[og-kush-cannabis-entity]] — Southern California counterpart and fellow legacy strain
+- [[blue-dream]] — Blueberry × Haze cross with a similar balanced profile

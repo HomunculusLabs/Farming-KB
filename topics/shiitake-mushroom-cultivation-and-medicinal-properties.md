@@ -106,7 +106,6 @@ China and Japan. The earliest written accounts describe a practice of placing
 freshly cut shii logs near trees already bearing shiitake, relying on airborne
 spores to inoculate the new wood. Over centuries, growers refined these
 techniques, learning to manage moisture, shade, and timing to improve yields.
-
 ## See Also
 
 - [[shiitake-cultivation-guide]]

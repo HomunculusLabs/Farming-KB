@@ -135,3 +135,7 @@ jurisdictions, particularly when sold for ornamental
 - [[ayahuasca-brewing-guide]]
 - [[ayahuasca-pharmacology]]
 - [[harmala-alkaloids-and-ayahuasca-preparation]]
+
+## See Also
+
+- [[amanita-muscaria-legal-alternative]]

@@ -6,22 +6,22 @@ tags: [cultivation, pf-tek, brown-rice-flour, vermiculite, mycology, substrate]
 
 # PF Tek Brown Rice Vermiculite Cultivation Method
 
-The "PF TEK" (Psilocybe Fanaticus Technique) is the most widely used method for amateur cultivation of Psilocybe cubensis and related species. Developed by Robert McPherson (alias "Psilocybe Fanaticus" or "PF") in the early 1990s, it was revolutionary in its simplicity: it required no pressure cooker, no flow hood, and no specialized equipment beyond items available at any grocery or garden store. The method remains the standard entry point for home cultivation and the foundation upon which more advanced techniques are built.
+The "PF TEK" (Psilocybe Fanaticus Technique) is the most widely used method for amateur [[grass-seed-cultivation-of-psilocybe-mushrooms]] cubensis and related species. Developed by Robert McPherson (alias "Psilocybe Fanaticus" or "PF") in the early 1990s, it was revolutionary in its simplicity: it required no pressure cooker, no flow hood, and no specialized equipment beyond items available at any grocery or garden store. The method remains the standard entry point for home cultivation and the foundation upon which more advanced techniques are built.
 
 ## Overview and Principles
 
 The PF TEK is based on a simple premise: create a sterile, nutritious substrate in small containers, inoculate it with mushroom spores, allow the mycelium to colonize fully, then introduce fruiting conditions. The key innovations that made this accessible were:
 
-1. **Brown rice flour + vermiculite substrate** — a simple, effective, and contamination-resistant medium.
+1. **Brown rice flour + [[pf-tek-brown-rice-vermiculite-substrate]]** — a simple, effective, and contamination-resistant medium.
 2. **Half-pint canning jars** as the cultivation vessel — the tapered shape allows the colonized cake to slide out easily.
 3. **Steam sterilization** instead of pressure cooking — a boiling water bath achieves sufficient sterility for the relatively clean BRF substrate.
 4. **Dry vermiculite barrier layer** — a filter that allows gas exchange while preventing airborne contamination.
-5. **Spore syringe inoculation** — a simple, low-contamination method of introducing the mushroom culture.
+5. **Spore [[mushroom-spore-syringe-inoculation]]** — a simple, low-contamination method of introducing the mushroom culture.
 
 ## Materials Required
 
 ### Substrate Ingredients
-- **Brown rice** — standard long-grain brown rice from any grocery store. Must be brown (unpolished), not white rice, as the bran contains nutrients essential for mycelium growth.
+- **Brown rice** — standard long-grain brown rice from any grocery store. Must be brown (unpolished), not white rice, as the bran contains [[teaming-with-nutrients-essential-plant-nutrients]] for mycelium growth.
 - **Vermiculite** — coarse grade preferred. Available at garden centers. This expanded mica mineral provides water retention, aeration, and structure. Medium or coarse grade is preferred; fine grade compacts too much and restricts gas exchange.
 
 ### Equipment
@@ -34,7 +34,7 @@ The PF TEK is based on a simple premise: create a sterile, nutritious substrate 
 - **Aluminum foil** — to cover jar lids during sterilization and incubation.
 - **Spore syringe** — containing Psilocybe cubensis spores in sterile water.
 - **Alcohol lamp or lighter** — for flame sterilization of the needle between inoculations.
-- **Isopropyl alcohol (70%)** — for surface sterilization.
+- **Isopropyl alcohol (70%)** — for [[challenge-microorganisms-microwave-surface-sterilization]].
 - **Rubbing alcohol or Lysol** — for workspace disinfection.
 - **Transparent storage container or aquarium** — for the fruiting chamber (terrarium).
 - **Perlite** — for humidity control in the fruiting chamber.
@@ -128,7 +128,7 @@ The PF TEK substrate is relatively clean and nutrient-poor compared to grain-bas
 - **Temperature:** 75-81°F (24-27°C). P. cubensis mycelium grows fastest in this range. Higher temperatures increase contamination risk; lower temperatures slow growth significantly.
 - **Light:** Not required during colonization. In fact, darkness is slightly preferred, though ambient room light is harmless.
 - **Air exchange:** The dry vermiculite barrier and lid holes provide sufficient gas exchange. Do not loosen lids or remove foil during colonization.
-- **Duration:** Full colonization of a half-pint jar typically takes 14-28 days. Factors affecting speed include spore viability, strain genetics, temperature, and substrate moisture.
+- **Duration:** Full colonization of a half-pint jar typically takes 14-28 days. [[factors-affecting-mycoremediation-efficiency]] speed include spore viability, strain genetics, temperature, and substrate moisture.
 
 ### Monitoring
 

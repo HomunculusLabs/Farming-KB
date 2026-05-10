@@ -1,6 +1,6 @@
 ---
 
-title: Mycorrhizal directed-inoculum-production-process-for-amf
+title: Mycorrhizal Inoculum Production
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # Mycorrhizal Inoculum Production
 
-Methods for producing your own arbuscular and ectomycorrhizal [[ingham-fungal-inoculum-sourcing]], from field harvesting to greenhouse pot culturing. Based on Jeff Lowenfels' *Teaming with Fungi*. See [[mycorrhizal-fungi]] for the overview of mycorrhizal types and [[inoculation-methods]] for mushroom [[growing-gourmet-sawdust-spawn-production-use]].
+Methods for producing your own arbuscular and ectomycorrhizal fungal inoculum, from field harvesting to greenhouse pot culturing. Based on Jeff Lowenfels' *Teaming with Fungi*. See [[mycorrhizal-fungi]] for the overview of mycorrhizal types and [[inoculation-methods]] for mushroom spawn production.
 
 ## Why Make Your Own Inoculum
 
@@ -68,7 +68,7 @@ Successful host plants include corn, onion, strawberry, peanut, sorghum, big blu
 1. Start with any commercial soil mix without added fertilizers or manures
 2. Sterilize at 260°F (121°C) for ~90 minutes (autoclave or oven — oven creates unpleasant odors)
 3. After 1-2 weeks, mix 1 part field-collected soil with 3 parts sterilized soil
-4. Choose collection site: previously productive field with rich organic matter and high [[dighton-mycorrhizal-diversity-ecosystem-function]]
+4. Choose collection site: previously productive field with rich organic matter and high mycorrhizal diversity
 5. Have field soil tested for propagules before use
 
 **Strawberry field culture method:** Transplant strawberry plant from field to pot of sterile soil, or establish a runner in potted field soil then transplant to sterile soil. Nurture until mature. Remove plants, save soil clinging to roots, chop roots. Use resulting products as inoculum.
@@ -79,7 +79,7 @@ Successful host plants include corn, onion, strawberry, peanut, sorghum, big blu
 
 ## Ectomycorrhizal Inoculum
 
-[[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] are easier to produce if you have the appropriate host plant:
+Ectomycorrhizal fungi are easier to produce if you have the appropriate host plant:
 
 ### Soil Transfer Method
 
@@ -122,7 +122,7 @@ The standard lab technique for isolating spores from soil: suspend soil in water
 
 ### Staining for Microscopy
 
-To visualize arbuscular [[arbuscular-mycorrhizal-colonization-patterns]] in roots: clear root tissue with KOH, stain with trypan blue or acid fuchsin, mount on slides. Arbuscules, vesicles, and hyphal coils become visible. This is the standard method for determining colonization percentage.
+To visualize arbuscular mycorrhizal colonization in roots: clear root tissue with KOH, stain with trypan blue or acid fuchsin, mount on slides. Arbuscules, vesicles, and hyphal coils become visible. This is the standard method for determining colonization percentage.
 
 ## Related Pages
 

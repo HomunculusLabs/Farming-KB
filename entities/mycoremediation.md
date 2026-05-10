@@ -20,7 +20,7 @@ sources:
   - Kulshreshtha S, Mathur N, Bhatnagar P. "Mushroom as a product and their role in mycoremediation." _Ambient Science_, 2014.
   - Akhtar N, Verma S, Khan GD. "Mycoremediation of pollutants: a cost-effective and eco-friendly approach for environmental cleanup." _Environmental Science and Pollution Research_, 2021.
   - Pankhurst CE, Ophel-Keller K, Doube BM, Gupta VVSR. "Current status and prospects for soil biological management in sustainable agriculture." _Biology and Fertility of Soils_, 1996.
-  - Lakshmi V, Das N, Sahoo S. "Biodegradation of [[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons by filamentous fungi." _Applied Biochemistry and Biotechnology_, 2022.
+  - Lakshmi V, Das N, Sahoo S. "Biodegradation of singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons hydrocarbons by filamentous fungi." _Applied Biochemistry and Biotechnology_, 2022.
 ---
 
 # Mycoremediation

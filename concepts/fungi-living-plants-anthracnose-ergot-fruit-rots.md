@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungi on Living Plants — Anthracnose, Ergot, and Fruit Rots
 Fungi that infect living plant tissues — leaves, stems, flowers, and fruits

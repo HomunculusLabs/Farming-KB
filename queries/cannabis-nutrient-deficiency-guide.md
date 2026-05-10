@@ -1,6 +1,6 @@
 ---
 
-title: Cannabis cannabis-grow-nutrient-deficiency-problem-solving Guide
+title: Cannabis Nutrient Deficiency Guide
 created: 2026-04-11
 updated: 2026-04-12
 type: query
@@ -28,7 +28,7 @@ sources:
 
 # Cannabis Nutrient Deficiency Guide
 
-Visual symptom reference for diagnosing [[hamilton-nutrient-deficiencies-and-treatment]] in cannabis. Covers all 12 essential nutrients with mobility classification, symptom location, quick fixes, and a reverse-lookup table. Synthesized from [[cannabis-plant-nutrition]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], and [[soil-amendment-reference]].
+Visual symptom reference for diagnosing nutrient deficiencies in cannabis. Covers all 12 essential nutrients with mobility classification, symptom location, quick fixes, and a reverse-lookup table. Synthesized from [[cannabis-plant-nutrition]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], and [[soil-amendment-reference]].
 
 ## Macronutrient Deficiencies
 
@@ -38,7 +38,7 @@ Visual symptom reference for diagnosing [[hamilton-nutrient-deficiencies-and-tre
 | **P (Phosphorus)** | Mobile | Dark green or purplish leaves, esp. undersides; slow growth; poor root dev | OLDER leaves; leaf undersides | Early veg (roots) + flowering (buds) | Coco coir, compacted soil | Bone meal top-dress, WS-PA 1:30, bat guano | Pre-amend 2c bone meal + 2c rock phosphate |
 | **K (Potassium)** | Mobile | Brown leaf edges/tips (scorch); weak stems; poor bud density; slow growth | OLDER leaves; leaf margins | Flowering (peak demand) | Coco coir, sandy soils | Langbeinite, kelp meal, wood ash (sparingly) | Pre-amend 1/2c langbeinite; top-dress kelp week 4-5 flower |
 | **Ca (Calcium)** | Immobile | Distorted new growth; brown spots on leaves; root tips die back; cupped leaves | NEW leaves/apex | All stages; esp. early flower | Coco coir, RO water, low pH | Oyster shell flour, cal-mag, WCA 1:1000 | Pre-amend 1c oyster shell flour; gypsum for Ca w/o pH shift |
-| **Mg (Magnesium)** | Mobile | Interveinal chlorosis on older leaves; yellowing between green veins | OLDER leaves first | All stages; esp. mid-late flower | Coco coir, RO water, acidic soils | Epsom salt foliar (sparingly), [[cervantes-dolomite-lime-ph-buffering]] | Pre-amend dolomite lime; kelp meal provides steady Mg |
+| **Mg (Magnesium)** | Mobile | Interveinal chlorosis on older leaves; yellowing between green veins | OLDER leaves first | All stages; esp. mid-late flower | Coco coir, RO water, acidic soils | Epsom salt foliar (sparingly), dolomite lime | Pre-amend dolomite lime; kelp meal provides steady Mg |
 | **S (Sulfur)** | Immobile | Uniform yellowing of NEW leaves (like N def but on new growth); stunted | NEW leaves (tip/upper) | Vegetative | Peat-heavy mixes, low-organic soils | Gypsum, kelp meal, elemental sulfur | Kelp meal in base mix; gypsum provides S + Ca |
 
 ## Micronutrient Deficiencies
@@ -46,10 +46,10 @@ Visual symptom reference for diagnosing [[hamilton-nutrient-deficiencies-and-tre
 | Nutrient | Mobile? | Deficiency Symptoms | Leaf Location | Affected Stage | Common Medium | Quick Fix | Best Prevention |
 |----------|---------|-------------------|---------------|----------------|---------------|-----------|-----------------|
 | **Fe (Iron)** | Immobile | Interveinal chlorosis on new leaves; yellow leaves with green veins | NEW leaves (upper) | All; esp. rapid growth | High pH (>7.0), over-limed | Chelated iron foliar; lower pH with elemental S | Keep soil pH 6.0-7.0; kelp + compost provide Fe |
-| **Mn (Manganese)** | Immobile | Interveinal chlorosis on new leaves + dead brown spots | NEW leaves (upper) | All | High pH (>7.0), peat-heavy | Foliar Mn sulfate; lower pH | Kelp meal, [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]; maintain pH <7.0 |
+| **Mn (Manganese)** | Immobile | Interveinal chlorosis on new leaves + dead brown spots | NEW leaves (upper) | All | High pH (>7.0), peat-heavy | Foliar Mn sulfate; lower pH | Kelp meal, compost tea; maintain pH <7.0 |
 | **Zn (Zinc)** | Immobile | Small distorted new leaves; short internodes; "little leaf" | NEW leaves (upper) | Vegetative | High pH, high P | Zinc sulfate foliar; reduce P if over-applied | Kelp meal; avoid excess P (>70 ppm) |
 | **Cu (Copper)** | Immobile | Wilting; darkened or bluish-green leaves; limp growth | NEW leaves | All | Peat, sandy soils | Cu sulfate (trace); kelp foliar | Kelp meal in base mix; compost provides Cu |
-| **B (Boron)** | Immobile | Cracked/hollow stems; bud die-off; distorted growth | Growing tips | Flowering (critical for buds) | Sandy soils, low [[hamilton-composting-and-organic-matter-management]] | Borax solution (trace — easy to overdo) | Kelp meal; compost |
+| **B (Boron)** | Immobile | Cracked/hollow stems; bud die-off; distorted growth | Growing tips | Flowering (critical for buds) | Sandy soils, low organic matter | Borax solution (trace — easy to overdo) | Kelp meal; compost |
 | **Mo (Molybdenum)** | Immobile | Similar to N deficiency; whiptail leaf distortion; stunted | NEW leaves; whole plant | All | Acidic soils (<5.5) | Raise pH with lime; Mo foliar | Dolomite lime buffers pH; kelp + compost |
 
 ## Symptom Lookup: "If You See X, It's Likely Y"
@@ -65,7 +65,7 @@ Visual symptom reference for diagnosing [[hamilton-nutrient-deficiencies-and-tre
 | Distorted/cupped new growth | Growing tip | Calcium (Ca) | Boron (B) — also causes distortion |
 | Brown spots on new leaves | Upper canopy | Calcium (Ca) or Manganese (Mn) | Ca = spots + distortion; Mn = spots + chlorosis |
 | Small, stunted new leaves | Growing tip | Zinc (Zn) | Copper (Cu) deficiency |
-| Cracked or hollow stems | Stems, branches | Boron (B) | [[knf-calcium-deficiency-symptoms]] |
+| Cracked or hollow stems | Stems, branches | Boron (B) | Calcium deficiency |
 | Wilting despite adequate water | Any | Copper (Cu) | Root rot, overwatering |
 | General yellowing, no pattern | Whole plant | Overwatering, root issues | Check drainage, soil moisture first |
 

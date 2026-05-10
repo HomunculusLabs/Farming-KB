@@ -32,7 +32,7 @@ The chinampa system represents one of the most sophisticated examples of [[perma
 The productivity of chinampas comes from several synergistic factors:
 
 - **Constant moisture**: Water wicking up from below keeps soil consistently moist without irrigation, eliminating water stress on plants
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Organic matter from the canal bottom (fish waste, decaying plants, sediment) is continuously cycled onto the growing surface
+- **Nutrient cycling**: Organic matter from the canal bottom (fish waste, decaying plants, sediment) is continuously cycled onto the growing surface
 - **Thermal moderation**: Water acts as a thermal buffer, preventing frost damage and keeping soil warmer in cold months and cooler in hot months
 - **Aquaculture integration**: Fish in the canals produce waste that fertilizes the islands; plant roots filter water for fish
 - **Biodiversity**: The wetland ecosystem supports diverse insects, amphibians, and birds that provide pest control and pollination
@@ -50,7 +50,7 @@ For homesteads with existing ponds or wetland areas:
 2. Build retaining walls from logs, branches, or stone
 3. Fill with pond muck, compost, and topsoil
 4. Plant directly into the bed
-5. The pond provides constant moisture and [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]
+5. The pond provides constant moisture and nutrient exchange
 6. See [[pond-and-aquaculture]] for pond management integration
 
 ### Container Chinampas
@@ -66,7 +66,7 @@ A small-scale version suitable for any water feature or even large containers:
 
 ### Raft Culture (Hybrid)
 
-Similar to [[cannabis-deep-water-culture-guide]] aquaponics but with organic, soil-based growing media:
+Similar to deep water culture aquaponics but with organic, soil-based growing media:
 
 1. Build floating rafts from bamboo, PVC, or closed-cell foam
 2. Fill with a soil-compost mix contained in mesh or fabric
@@ -127,7 +127,7 @@ Chinampas are among the most productive agricultural systems per unit area:
 - Deep-rooted vegetables (carrots, parsnips) may grow too deep and into the water
 - Potatoes (tubers will rot in saturated conditions)
 - Large, heavy plants (corn, sunflowers) may be unstable on wet beds
-- Plants sensitive to wet feet (most [[query-best-mediterranean-herbs-for-beginner-herb-garden]], lavender, rosemary)
+- Plants sensitive to wet feet (most Mediterranean herbs, lavender, rosemary)
 
 ## Integration with Aquaculture
 
@@ -136,14 +136,15 @@ The traditional chinampa system integrates fish production with crop production:
 - **Fish in canals**: Tilapia, catfish, or native minnows in the water between chinampa beds
 - **Duck integration**: [[duck-keeping]] on the pond surface — ducks add manure, eat insects, and don't disturb established plants
 - **Nutrient cycling**: Fish and duck waste fertilizes the chinampa beds; plant roots and algae clean the water
-- **Feed source**: [[comparison-black-soldier-fly-composting-vs-bokashi]] fly larvae from compost, duckweed, and azolla can feed fish
+- **Feed source**: Black soldier fly larvae from compost, duckweed, and azolla can feed fish
 - **Harvest synergy**: Fish waste management connects to [[composting-systems]] and [[animal-byproducts]]
 
 ## Ecological Benefits
 
-- **Wetland habitat creation**: Chinampas create valuable wetland edge habitat for amphibians, birds, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- **Wetland habitat creation**: Chinampas create valuable wetland edge habitat for amphibians, birds, and beneficial insects
 - **Water filtration**: Plant roots filter nutrients and sediment from pond water
 - **Carbon sequestration**: Anaerobic conditions in the saturated soil slow organic matter decomposition, building carbon-rich soils
-## Related
+- **Biodiversity**: The water-land interface (ecotone) is the most biologically productive zone in any landscape
+- **Soil building**: Continuous deposition of organic matter from the water builds deep topsoil over time
 
-- [[permaculture-history-timeline]]
+## Troubleshooting

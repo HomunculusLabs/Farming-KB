@@ -108,6 +108,8 @@ Winter hardiness is excellent across USDA zones 4–9. Deciduous above-water gro
 
 ## See Also
 
+- [[nuphar-pumila]]
+
 - [[nuphar-lutea]]
 - [[nymphaea-alba]]
 - [[nymphaea-odorata]]

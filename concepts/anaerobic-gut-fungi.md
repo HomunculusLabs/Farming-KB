@@ -41,7 +41,7 @@ Discovered in 1975 by Colin Orpin, these zoosporic fungi were initially mistaken
 |-------|-------------|-------------------|---------------|
 | Neocallimastix | Polycentric, mycelioid | Polyflagellate | Rumen, cecum |
 | Piromyces | Filamentous rhizoids | Polyflagellate | Rumen, cecum, hindgut |
-| Caecomyces | [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] (unicellular) | Polyflagellate | Cecum (horse), rumen |
+| Caecomyces | Vegetative cell (unicellular) | Polyflagellate | Cecum (horse), rumen |
 | Anaeromyces | Polycentric, mycelioid | Polyflagellate | Rumen |
 | Orpinomyces | Terminal globose sporangia | Apical pore discharge | Rumen |
 | Ruminomyces | Intercalary globose sporangia | Apical pore discharge | Rumen |
@@ -106,8 +106,8 @@ Anaerobic fungi are among the most effective organisms at degrading plant struct
   - Biomass conversion for biofuel production
   - Industrial processing of plant waste
   - Animal feed supplementation
-- Contribute to methane production in ruminants ([[dighton-fungal-greenhouse-gas-nitrogen-saturation]] implications)
-- Recently isolated from pond sediments and marsh environments, suggesting [[dighton-fungal-roles-in-nutrient-cycling]] recycling beyond herbivore guts
+- Contribute to methane production in ruminants (greenhouse gas implications)
+- Recently isolated from pond sediments and marsh environments, suggesting roles in nutrient recycling beyond herbivore guts
 
 ## Collection and Culture
 
@@ -137,13 +137,14 @@ Anaerobic fungi are among the most effective organisms at degrading plant struct
 - Genomic sequencing revealing extensive enzyme repertoires
 - Potential for biotechnological applications (biofuel production, feed enzymes)
 - Manipulation to enhance ruminant digestion efficiency
-- Role in methane emissions and [[dighton-fungi-climate-change-feedback]]
-## Related
+- Role in methane emissions and climate change
+- Discovery in non-animal environments (ponds, marshes)
+- Metagenomic surveys revealing previously unknown diversity
 
-- [[anaerobic-zoosporic-fungi]] Topics
+## Related Topics
 
-- [[fungal-biodiversity-biogeography]] — [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] patterns
+- [[fungal-biodiversity-biogeography]] — Fungal diversity patterns
 - [[mycorrhizal-types]] — Other fungal symbioses
 - [[fungal-enzymatic-capabilities]] — Fungal enzyme systems
-- [[soil-food-web-nutrient-cycling]] — [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in ecosystems
+- [[soil-food-web-nutrient-cycling]] — Nutrient cycling in ecosystems
 - [[saprotrophic-fungi]] — Decomposer strategies

@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - "Pierce, A. et al. (2020). 'Cannabis Chemotaxonomic and Genotypic Analyses of the Cookie Family.' Molecules, 25(18), 4084."
   - "De Meijer, E.P.M. et al. (2003). 'The inheritance of chemical phenotype in Cannabis sativa L.' Genetics, 163(1), 335-346."
-  - "ElSohly, M.A. et al. (2016). 'Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades.' Biological Psychiatry, 79(7), 613-619."
+  - "ElSohly, M.A. et al. (2016). 'Changes in green-cannabis-potency-maximizing Over the Last Two Decades.' Biological Psychiatry, 79(7), 613-619."
   - "PotGuide.com. 'Gelato Strain Review.' Accessed 2026."
   - "Leafly. 'Gelato Cannabis Strain Information.' Accessed 2026."
 ---
@@ -126,7 +126,7 @@ humid conditions.
 - [[girl-scout-cookies]]
 - [[sunset-sherbet]]
 - [[thin-mint-cookies]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[runtz-entity]]
 - [[gorilla-glue]]
 - [[mac-1]]

@@ -30,7 +30,7 @@ sources:
 # Jedi Death Star
 
 **Lineage:** Death Star × [[blesching-cannabis-apoptosis-and-cancer-cell-death]] × Sensi Star (bred by Empire Genetics, Ohio)
-- **Jedi Kush:** Death Star × [[og-kush]]
+- **Jedi Kush:** Death Star × [[og-kush-cannabis-entity]]
 - **Origin:** Pacific Northwest / California — West Coast creation combining
   Midwestern and European-bred Death Star lines
 
@@ -127,10 +127,7 @@ look elsewhere.
 - Popular among West Coast medical patients for reliable potency and sedation
 - Sought after by experienced users as a creeper strain with devastating effects
 - Represents the trend of backcrossing proven genetics rather than novel combinations
-## See Also
 
+## See Also
 - [[blesching-cannabis-apoptosis-and-cancer-cell-death]]
-
-## See Also
-
 - [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

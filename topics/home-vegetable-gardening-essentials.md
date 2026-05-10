@@ -113,7 +113,6 @@ in cool conditions. Seed-starting mixes, typically composed of peat moss or
 coconut coir blended with perlite or vermiculite, provide a sterile,
 well-draining medium that reduces the risk of damping-off disease.
 
-Hardening off is the critical process of gradually acclimating indoor-grown
 ## See Also
 
 - [[tomato-growing-guide]]

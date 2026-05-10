@@ -17,7 +17,7 @@ sources:
   - Wang, J. et al. (2019). "Polysaccharides from Tremella aurantialba." Carbohydrate Polymers, 208, 389-401.
   - Chen, Y. & Wang, M. (2020). "Immunomodulatory effects of T. aurantialba polysaccharides." Int. J. Biol. Macromol., 150, 865-873.
   - Liu, H. et al. (2018). "Antioxidant and anti-inflammatory activities of golden ear mushroom." J. Ethnopharmacol., 222, 1-9.
-  - Zhang, L. et al. (2021). "Cultivation techniques and [[dighton-fungal-nutritional-composition-animal-diets]] in Yunnan." Mycobiology, 49(3), 245-256.
+  - Zhang, L. et al. (2021). "Cultivation techniques and dighton-fungal-nutritional-composition-animal-diets in Yunnan." Mycobiology, 49(3), 245-256.
   - Li, S. et al. (2017). "Anti-tumor activity of T. aurantialba polysaccharides." Front. Pharmacol., 8, 123.
   - Wu, X. et al. (2022). "Hypoglycemic and hypolipidemic effects in diabetic mice." J. Funct. Foods, 88, 104832.
   - Bandoni, R.J. & Roberts, M.L. (2014). "Tremellomycetes." The Mycota VII, Springer, 387-404.

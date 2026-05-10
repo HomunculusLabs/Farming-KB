@@ -125,10 +125,6 @@ experiences for those who seek them, with appropriate preparation,
 integration, and follow-up.
 
 ## See Also
-
-- [[stoned-ape-hypothesis]] - Evolutionary origins of the relationship
-- [[mckenna-habit-culture-religion]] - Culture, religion, and plants
-
-## See Also
-
+- [[stoned-ape-hypothesis]]
+- [[mckenna-habit-culture-religion]]
 - [[mckenna-hyperspace-law-and-the-remarkable-overmind]]

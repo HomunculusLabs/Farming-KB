@@ -23,13 +23,13 @@ tags:
   - physicist
   - acoustics
   - optics
-  - plant-research-context
+  - [[what-a-plant-knows-plant-mechanosensation-touch-response|plant]]-research-context
   - nobel-prize
 sources:
   - https://en.wikipedia.org/wiki/John_William_Strutt,_3rd_Baron_Rayleigh
   - https://www.nobelprize.org/prizes/physics/1904/rayleigh/biographical/
 related_concepts:
-  - jagadis-chandra-bose-plant-research
+  - [[tompkins-jagadis-bose-plant-response-crescograph|jagadis]]-chandra-bose-plant-research
 ---
 
 # Lord Rayleigh

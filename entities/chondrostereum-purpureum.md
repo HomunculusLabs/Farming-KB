@@ -15,7 +15,7 @@ sources:
   - "Rayner, A.D.M. (1977). \"Microbial cycling of nutrients in forest floors.\" Annual Review of Ecology and Systematics, 8, 429-442."
   - "De Jong, E. (2000). \"The genus Chondrostereum.\" Persoonia, 17(3), 399-422."
   - "Schwarze, F.W.M.R., Engels, J., Mattheck, C. (2000). Fungal Strategies of Wood Decay in Trees. Springer."
-  - "Ramsfield, T.D. et al. (1996). \"Chondrostereum purpureum as a [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agent.\" Canadian Journal of Plant Pathology, 18, 331-335."
+  - "Ramsfield, T.D. et al. (1996). \"Chondrostereum purpureum as a fukuoka-textdoc-biological-control-fallacy-pheromone-critique agent.\" Canadian Journal of Plant Pathology, 18, 331-335."
   - "Blanchette, R.A. (1991). \"Delignification by wood-decay fungi.\" Annual Review of Phytopathology, 29, 381-398."
 ---
 

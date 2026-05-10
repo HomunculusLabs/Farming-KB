@@ -109,6 +109,8 @@ Several notable yellowwood specimens exist in botanical gardens, including a lar
 
 ## See Also
 
+- [[cladrastis-kentukea]]
+
 - [[gymnocladus-dioicus]]
 - [[gleditsia-triacanthos]]
 - [[cercis-canadensis]]

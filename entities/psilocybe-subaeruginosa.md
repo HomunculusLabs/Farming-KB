@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe subaeruginosa
 
-**Psilocybe subaeruginosa** is a potent [[emcdda-psilocybin-mushroom-dose-and-effects]] native to Australasia, where it is one of the most commonly encountered [[cattle-dispersal-psychoactive-fungi-australia]]. It is closely related to the Northern Hemisphere [[psilocybe-azurescens]] and [[psilocybe-cyanescens]] in the Northern Hemisphere, suggesting a broad ecological adaptability to anthropogenic lignicolous substrates.
+**Psilocybe subaeruginosa** is a potent [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] native to Australasia, where it is one of the most commonly encountered [[cattle-dispersal-psychoactive-fungi-australia]]. It is closely related to the Northern Hemisphere [[psilocybe-azurescens]] and [[psilocybe-cyanescens]] in the Northern Hemisphere, suggesting a broad ecological adaptability to anthropogenic lignicolous substrates.
 
 ## Ethnobotanical Significance
 

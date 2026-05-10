@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Xie C. T. & C. Y. Wang (2013). "Pyropia haitanensis: A species with economic importance." Journal of Applied Phycology.
-  - Yan X. H. et al. (2005). "[[biodiversity-fungal-molecular-identification-dna-barcoding]] and genetic analysis of Porphyra haitanensis (Bangiales, Rhodophyta) from China." Journal of Applied Phycology.
+  - Yan X. H. et al. (2005). "biodiversity-fungal-molecular-identification-dna-barcoding and genetic analysis of Porphyra haitanensis (Bangiales, Rhodophyta) from China." Journal of Applied Phycology.
   - Sutherland J. E. et al. (2011). "A new look at an ancient order: generic revision of the Bangiales." Journal of Phycology.
   - "Pyropia haitanensis." AlgaeBase. https://www.algaebase.org/
 ---

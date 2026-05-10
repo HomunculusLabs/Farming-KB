@@ -96,6 +96,8 @@ species. Understanding both decay types is essential for comprehensive forest
 management and wood protection strategies.
 
 ## See Also
+
+- [[resin-acid-fungal-biodegradation]]
 - [[wood-decay-fungi]]
 - [[oyster-mushroom-cultivation-methods]]
 - [[wine-cap-mushroom-cultivation]]

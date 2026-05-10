@@ -106,7 +106,7 @@ The species plays a role in nutrient cycling, drawing minerals from deep soil la
 - [[daucus-carota]]
 - [[angelica-archangelica]]
 - [[levisticum-officinale]]
-- [[foeniculum-vulgare]]
+- [[foeniculum-vulgare-entity]]
 - [[ferula-drudeana]]
 - [[petroselinum-crispum]]
 - [[anethum-graveolens]]

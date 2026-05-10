@@ -1,5 +1,5 @@
 ---
-title: hallucinogenic-mushroom-legislation-in-europe Worldwide — Legal Status of forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc
+title: Mushroom Legislation Worldwide — Legal Status of Psilocybin Mushrooms
 created: 2026-04-11
 updated: 2026-04-12
 type: summary
@@ -57,7 +57,7 @@ See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 
 ### Netherlands
 
-- Fresh "[[guzman-magic-mushrooms-african-species]]" (paddos) were banned in 2008 following several high-profile incidents
+- Fresh "magic mushrooms" (paddos) were banned in 2008 following several high-profile incidents
 - However, **magic truffles** (sclerotia of Psilocybe species) remain legal and are sold openly in "smart shops"
 - This is because truffles were not specifically named in the legislation
 - The Netherlands remains the most accessible country in Europe for psilocybin
@@ -99,7 +99,7 @@ See [[psychedelic-mushroom-history]] for the historical context of prohibition.
 ### Switzerland
 
 - Psilocybin is controlled under Swiss drug law
-- However, Switzerland has a progressive medical research environment; [[mushroom-cancer-clinical-trials-overview]] are active
+- However, Switzerland has a progressive medical research environment; clinical trials are active
 - Compassionate use programs exist in some cantons
 - Some therapists operate in legal gray areas offering guided sessions
 
@@ -120,7 +120,7 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 | Jul 2001 | Denmark | Added "Mushrooms or spores of P. semilanceata, P. cubensis or other fungi/spores containing psilocin or psilocybin" as controlled substance |
 | Nov 2002 | Netherlands | Supreme Court ruled Opium Act applies to dried/processed mushrooms (but not fresh) |
 | Mar 2005 | Germany | Changed definition from "plant" to "organism" to include mushrooms (closing fungal loophole) |
-| May 2005 | Estonia | Clarified that cultivation of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] is an offence |
+| May 2005 | Estonia | Clarified that cultivation of hallucinogenic mushrooms is an offence |
 | Jul 2005 | UK | Drugs Act 2005: "Fungus (of any kind) which contains psilocin or an ester of psilocin" became Class A — no longer only "if treated or prepared" |
 | Feb 2006 | Ireland | Criminalized possession/sale of "fungus of any kind containing psilocin" (exempt if growing uncultivated) |
 
@@ -141,9 +141,10 @@ Six EU member states tightened mushroom legislation in response to increasing pr
 
 - Not specifically scheduled; mushrooms grow naturally in the country
 - No active enforcement against personal use
-## Related Pages
+- Several retreat centers operate openly, primarily catering to international visitors
 
-- [[psychedelic-therapy-current-research]] for the arc of research and prohibition
-- [[psychedelic-compounds-reference]] for pharmacological context
-- [[psychedelic-mushroom-history]] for the [[shroom-cultural-history-hippie-revolution-and-counterculture]]
-- [[harm-reduction-guide]] for safety in contexts where mushrooms are accessible
+## Asia and Oceania
+
+### Japan
+
+- Psilocybin is controlled under the Narcotics and Psychotropics Control Law

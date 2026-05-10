@@ -128,17 +128,8 @@ $8-25 per board foot depending on grade and figure.
 - *Carya illinoinensis* — Pecan; related Juglandaceae species
 
 ## See Also
-
 - [[black-walnut-juglans-nigra]]
-
-- permaculture
 - [[companion-planting]]
-
-## See Also
-
-- [[black-walnut-juglans-nigra]]
-
-- permaculture-designers-manual-vines-and-climbers
 - [[juglans-regia]]
 - [[intercropping-systems]]
 - [[juglans-cinerea]]

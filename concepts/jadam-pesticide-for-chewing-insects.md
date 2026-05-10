@@ -1,6 +1,6 @@
 ---
 
-title: JADAM jadam pesticide for chewing insects Insects
+title: JADAM Pesticide for Chewing Insects
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -27,9 +27,9 @@ Targets moths, caterpillars, armyworms, diamondback moth, cabbage butterflies, f
 
 **Standard moth/caterpillar control**:
 - JWA: 8L (2.1 gal)
-- [[comparison-jerusalem-artichoke-vs-potato]] JHS: 15L (4 gal)
+- Jerusalem artichoke JHS: 15L (4 gal)
 
-**With [[hamilton-pest-and-disease-control-organic]]** (caterpillars + [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]]):
+**With disease control** (caterpillars + fungal disease):
 - JWA: 8L + JS 1-2L + Jerusalem artichoke JHS 15L
 
 **Enhanced** (heavy infestation):
@@ -46,7 +46,7 @@ Targets moths, caterpillars, armyworms, diamondback moth, cabbage butterflies, f
 
 ## Pests Controlled
 
-Tobacco moth, beet armyworm, diamondback moth, oriental fruit moth, fruitworm, cabbage moth, perilla leaf moth, slug moth larvae, citrus mealybug, [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]], and various caterpillars
+Tobacco moth, beet armyworm, diamondback moth, oriental fruit moth, fruitworm, cabbage moth, perilla leaf moth, slug moth larvae, citrus mealybug, arrowhead scale, and various caterpillars
 
 ## Application Timing
 
@@ -91,4 +91,4 @@ JADAM does not use Bt as a separate input. Instead:
 - [[jadam-herb-solution-jhs]] -- herb selection guide and JHS preparation
 - [[jadam-natural-pesticide-jnp]] -- complete formulation reference
 - [[jadam-pesticide-for-aphids-and-mites]] -- lighter formulation for soft-bodied pests
-- [[insect-allies]] -- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] that prey on caterpillars
+- [[insect-allies]] -- beneficial insects that prey on caterpillars

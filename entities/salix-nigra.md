@@ -96,6 +96,8 @@ Black willow is susceptible to willow scab, black canker, and several species of
 
 ## See Also
 
+- [[quercus-nigra]]
+
 - [[salix-babylonica]]
 - [[salix-purpurea]]
 - [[populus-tremuloides]]

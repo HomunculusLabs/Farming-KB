@@ -112,3 +112,7 @@ that can also be found in the [[pluteus-saliginus]]
 - [[gartz-psilocybin-potency-and-alkaloid-variations]] - Psilocybin
   potency variations across species
 - [[pluteus-saliginus]]
+
+## See Also
+
+- [[pluteus-salicinus]]

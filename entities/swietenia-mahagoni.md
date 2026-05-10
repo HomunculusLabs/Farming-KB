@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Lamb, F.B. (1966). "Mahogany of Tropical America." University of Michigan Press.
   - Styles, B.T. & Khosla, P.K. (1976). "Cytology and Reproductive Biology of Mahogany." Silvae Genetica 25: 174-179.
-  - Grogan, J. & Barreto, P. (2005). "Big-leaf Mahogany in Brazil." [[mycelium-running-conservation-biology-and-fungi]] 19(3): 698-704.
+  - Grogan, J. & Barreto, P. (2005). "Big-leaf Mahogany in Brazil." mycelium-running-conservation-biology-and-fungi 19(3): 698-704.
   - Newton, A.C. et al. (1999). "The Genetic Resources of Mahogany." FAO Forestry Paper.
 ---
 

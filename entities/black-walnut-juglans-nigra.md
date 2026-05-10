@@ -16,7 +16,7 @@ sources:
   - Jose, S. (2009). "Black Walnut (Juglans nigra L.): Ecological and Agroforestry Perspectives." Agroforestry Systems.
   - Rietveld, W.J. & Schreiber, J.D. (2011). "Juglone toxicity and its role in black walnut allelopathy." Journal of Chemical Ecology.
   - Toensmeier, E. (2016). The Carbon Farming Solution. Chelsea Green.
-  - Jacke, D. & Toensmeier, E. (2005). Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]. Chelsea Green.
+  - Jacke, D. & Toensmeier, E. (2005). Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests. Chelsea Green.
   - Cappiello, P. & Dirr, M.A. (1998). "Juglans nigra." The Manual of Woody Landscape Plants.
 created: 2026-04-28
 ---
@@ -131,19 +131,9 @@ Black walnut is among the most valuable North American hardwoods:
 - **Kernel:** Rich, distinctive, pungent flavor; higher in oil and protein than English walnut
 - **Oil content:** 60–70% (one of the highest oil contents among tree nuts)
 - **Nutritional value:** High in omega-3 fatty acids (α-linolenic acid), protein, magnesium, phosphorus, and antioxidants
-## See Also
 
+## See Also
 - [[juglans-cinerea]]
 - [[vietnam-black]]
-
 - [[juglans-nigra]]
-
-- juglone — The allelopathic compound produced by black walnut
-- allelopathy — The broader phenomenon of plant chemical interference
-- english walnut — The commercial walnut species with low juglone
-- [[silvopasture]] — Integrating trees with [[savory-livestock-grazing-planning]]
-- walnut timber — Detailed guide to black walnut timber management and valuation
-
-## See Also
-
-- gaias-garden-nut-trees-home-garden
+- [[silvopasture]]

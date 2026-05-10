@@ -139,6 +139,8 @@ sober companion present throughout the experience:
 
 ## See Also
 
+- [[ethnobotanical-use-of-sacred-mushrooms-in-mexico]]
+
 - [[teaming-with-microbes-compost-tea-brewing-guide]]
 
 - [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]

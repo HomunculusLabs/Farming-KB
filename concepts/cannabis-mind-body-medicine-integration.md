@@ -12,7 +12,7 @@ tags: [cannabis, medicine]
 
 The [[cannabis-for-epilepsy-and-seizure-disorders]], PhD, uniquely integrates
 evidence-based cannabis science with mind-body medicine techniques. This
-approach recognizes that the [[cannabis-health-endo-cannabinoid-system]] as Mind-Body Bridge
+approach recognizes that the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] as Mind-Body Bridge
 
 The [[serotonin]] (I am happy)
 

@@ -140,7 +140,6 @@ Historical mangrove loss has been severe:
 ### Primary Drivers of Loss
 
 **Aquaculture and Shrimp Farming.** Conversion to shrimp ponds has been the single largest driver of mangrove loss, particularly in Thailand, Vietnam, Indonesia, Ecuador, and Bangladesh. Between 1980 and 2000, an estimated 1.0–1.5 million hectares of mangroves were converted to aquaculture-ponds-and-integrated-fish-systems globally. Most shrimp pond operations are short-lived (3–8 years) before disease, soil acidification, and pond abandonment render them unproductive.
-
 ## See Also
 
 - [[query-why-are-mangroves-critical-for-climate-change-adaptation-and-coastal-protection]]

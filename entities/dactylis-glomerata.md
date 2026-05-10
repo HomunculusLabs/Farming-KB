@@ -13,7 +13,7 @@ sources:
   - Hitchcock, A.S. (1951). "Manual of the Grasses of the United States." USDA.
   - Barnes, R.F. et al. (2007). "Forages: The Science of Grassland Agriculture." 6th ed. Wiley-Blackwell.
   - Soreng, R.J. et al. (2003). "Catalogue of New World Grasses." Smithsonian Institution.
-  - FNA Editorial Committee. (2007). "Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 24." Oxford University Press.
+  - FNA Editorial Committee. (2007). "Flora of psilocybin-north-america-pacific-northwest, Vol. 24." Oxford University Press.
 ---
 
 ## Overview

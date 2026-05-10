@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, gourmet-mushrooms]
-sources: sources:
+sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Morel (Morchella) Cultivation and Natural Culture #mushroom-cultivation #mycorrhizal-mushrooms #outdoor-cultivation #permaculture Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Morel chapter, Ch. 5 ## Overview Morels (Morchella spp.) are among the most prized edible mushrooms in the world. Their cultivation has been described as the "holy grail" of mycology due to their fickle and elusive nature. Morels grow in temperate regions worldwide, fruiting in spring. Stamets presents detailed cultivation techniques based on the work of Ower (1982), Ower et al. (1986, 1988), Leonard & Volk (1992), and Volk & Leonard (1989). See also stamets morel morchella cultivation, [[composting-systems]])

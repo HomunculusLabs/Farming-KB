@@ -4,8 +4,7 @@ created: 2026-04-20
 updated: 2026-05-09
 type: concept
 tags: [permaculture, design]
-sources:
-  sources: []
+sources: []
 ---
 # Permaculture Built Environment Design
 

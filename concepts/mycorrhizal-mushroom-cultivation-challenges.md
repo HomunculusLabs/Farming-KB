@@ -108,7 +108,4 @@ challenges.
 ## See Also
 - [[mycorrhizal-fungi-diversity-ecology-mutualism]]
 - [[outdoor-mushroom-cultivation]]
-
-## See Also
-
 - [[mycorrhizal-edible-mushroom-species-overview]]

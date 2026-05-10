@@ -107,11 +107,13 @@ The species has ornamental value in naturalistic landscape plantings, where its 
 
 ## See Also
 
+- [[elymus-hystrix]]
+
 - [[schizachyrium-scoparium]]
 - [[panicum-virgatum]]
 - [[andropogon-gerardii]]
 - [[festuca-arundinacea]]
 - [[deschampsia-caespitosa]]
-- [[pennisetum-alpecuroides]]
+- [[pennisetum-alopecuroides]]
 - [[molinia-caerulea]]
 - [[stipa-tenuissima]]

@@ -14,7 +14,7 @@ sources:
   - Schofield J.J. (1989). "Discovering Wild Plants." Alaska Northwest Books.
   - Moore M. (1993). "Medicinal Plants of the Pacific West." Red Crane Books.
   - Turner N.J. (1995). "Food Plants of Coastal First Peoples." UBC Press.
-  - Foster S., Hobbs C. (2002). "A [[ghouled-field-guide-historical-context]] to Western Medicinal Plants."
+  - Foster S., Hobbs C. (2002). "A ghouled-field-guide-historical-context to Western Medicinal Plants."
   - Small E., Catling P.M. (1999). "Canadian Medicinal Crops." NRC Research Press.
 ---
 

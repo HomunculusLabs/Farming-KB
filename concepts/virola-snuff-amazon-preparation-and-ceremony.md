@@ -60,8 +60,8 @@ There is some vague evidence that certain Venezuelan natives may smoke the bark 
 ## Significance in Amazonian Ethnopharmacology
 
 Virola snuff represents one of the most potent and culturally significant of all Amazonian psychoactive preparations. The high concentration of 5-MeO-DMT in the resin — up to 8 percent — makes it one of the richest natural sources of this powerful tryptamine alkaloid. The combination of tryptamines with beta-carboline MAO inhibitors in the same resin represents a sophisticated natural pharmacological formulation that parallels the intentional combination of plants in [ayahuasca preparations.
-## See Also
 
+## See Also
 - [[yopo-anadenanthera-peregrina-snuff]]
 
 ## Historical Context

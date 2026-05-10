@@ -126,6 +126,8 @@ truly solved unless a common solution is found for all areas.
 
 ## See Also
 
+- [[fukuoka-textdoc-early-direct-seeding-failures-breakthrough]]
+
 - [[fukuoka-textdoc-creating-rice-paddy-natural-methods]]
 - [[fukuoka-natural-farming-philosophy]]
 - [[fukuoka-textdoc-critique-inductive-deductive-reasoning-agriculture]]

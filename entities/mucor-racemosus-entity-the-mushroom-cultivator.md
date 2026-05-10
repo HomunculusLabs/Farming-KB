@@ -5,8 +5,7 @@ type: species
 tags: [contaminant, zygomycetes, black-pin-mold, grain-contaminant, mucormycosis]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 
 # Mucor racemosus

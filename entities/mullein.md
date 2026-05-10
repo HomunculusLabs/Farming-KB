@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Turker, A.U. & Gurel, E. (2005). 'Common mullein (Verbascum thapsus L.): Recent advances in research.' Phytotherapy Research, vol. 19, no. 9, pp. 733-739."
-  - "Foster, S. & Duke, J.A. (2014). 'A Field Guide to Medicinal Plants and Herbs of Eastern and Central [[psilocybin-north-america-pacific-northwest]].' 3rd ed. Houghton Mifflin Harcourt."
+  - "Foster, S. & Duke, J.A. (2014). 'A Field Guide to Medicinal Plants and Herbs of Eastern and Central psilocybin-north-america-pacific-northwest.' 3rd ed. Houghton Mifflin Harcourt."
   - "Upton, R. (2013). 'Verbascum thapsus: Monograph.' American Herbal Pharmacopoeia."
   - "European Medicines Agency. 'Verbascum thapsus, folium et flos.' HMPC Monograph."
   - "PFAF. 'Verbascum thapsus — Plants For A Future.' https://pfaf.org/user/Plant.aspx?LatinName=Verbascum+thapsus"
@@ -138,12 +138,8 @@ Mullein is generally considered safe with low toxicity. However:
 
 - The fine hairs on leaves and flowers can be irritating to skin, eyes, and mucous membranes; always strain teas and infusions through a fine filter or coffee filter before consumption
 - No significant drug interactions have been documented, but the theoretical possibility exists for interactions with sedatives or antihypertensive medications
-## See Also
-
-- [[glycyrrhiza-glabra]] — Licorice root, synergistic respiratory demulcent
-- thyme — Antimicrobial respiratory herb often combined with mullein
-- [[urtica-dioica]] — Nettle, dynamic mineral accumulator for permaculture
 
 ## See Also
-
+- [[glycyrrhiza-glabra]]
+- [[urtica-dioica]]
 - [[permaculture-dynamic-accumulator-plants]]

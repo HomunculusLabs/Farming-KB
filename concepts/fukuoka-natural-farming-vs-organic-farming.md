@@ -3,7 +3,6 @@ title: masanobu-fukuoka-natural-farming-philosophy comparison-biodynamic-farming
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept

@@ -4,8 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mycology, medicine, mushrooms]
-sources:
-  sources: []
+sources: []
 ---
 # Medicinal Mushroom Antioxidant and Anti-inflammatory Properties Reactive oxygen species (ROS) — including superoxide radicals, hydroxyl radicals, and high-energy oxidants such as peroxynitrite — are mediators of inflammation, shock, and ischemia/reperfusion injury. They also contribute to DNA damage, carcinogenesis, cellular degeneration, and the ageing process. Several medicinal mushroom species have demonstrated significant antioxidant and anti-inflammatory activities. ## Oxidative Stress and Disease ROS are produced by: - Sunlight, ultraviolet and ionizing radiation - Chemical reactions and metabolic processes - Inflammatory responses at tissue sites Interventions against ROS can exert beneficial effects on inflammation, shock, and age-related degeneration. Mushroom-derived compounds target oxidative stress through multiple mechanisms: direct free radical scavenging, induction of endogenous antioxidant enzymes, and inhibition of pro-oxidant enzyme systems. ## Ganoderma lucidum Antioxidant Effects ### Free Radical Scavenging - [[psk-psp-polysaccharide-peptides]] demonstrates multiple antioxidant mechanisms:
 
@@ -96,3 +95,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+## See Also
+
+- [[ergothioneine-mushroom-antioxidant]]

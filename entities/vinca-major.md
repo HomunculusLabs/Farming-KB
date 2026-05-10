@@ -23,7 +23,7 @@ sources:
   - Mabberley, D.J. (2017). "Mabberley's Plant-Book: A Portable Dictionary of Plants." 4th ed. Cambridge University Press.
   - van der Heijden, R. et al. (2004). "Biosynthesis of terpenoid indole alkaloids in Catharanthus roseus." Phytochemistry Reviews, 3(1-2), 107–116.
   - USDA, NRCS (2024). "Vinca major L." PLANTS Database. plants.usda.gov.
-  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
   - IPNI (2024). "Vinca major L." International Plant Names Index.
 created: 2026-05-07
 ---

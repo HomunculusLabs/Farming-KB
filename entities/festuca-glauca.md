@@ -101,7 +101,7 @@ In green roof applications, blue fescue provides [[permplant-willows-salix-erosi
 ## See Also
 
 - [[deschampsia-caespitosa]]
-- [[pennisetum-alpecuroides]]
+- [[pennisetum-alopecuroides]]
 - [[miscanthus-sinensis]]
 - [[panicum-virgatum]]
 - [[andropogon-gerardii]]

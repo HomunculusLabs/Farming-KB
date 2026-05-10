@@ -1,5 +1,5 @@
 ---
-source: "The Natural Way of Farming - Masanobu Fukuoka"
+source: "The Natural Way of Farming - [[masanobu-fukuoka]]"
 source_file: administrator-microsoft-word-fukuoka-textdoc.md
 extracted: 2026-04-10
 type: concept
@@ -20,8 +20,8 @@ because what he is examining is no longer nature at all.
 ## Key Concepts
 
 Fukuoka's statement that "properly speaking, nature is neither living nor dead" is one of the
-most radical and consequential claims in his entire philosophy of natural farming. It strikes
-directly at the conceptual framework through which modern science understands the natural world.
+most radical and consequential claims in his entire philosophy of [[cho-loess-powder-in-natural-farming]]. It strikes
+directly at the [[holmgren-permaculture-flower-conceptual-framework]] through which [[fukuoka-road-critique-of-modern-science]] understands the natural world.
 Science depends on classification: things must be categorized as living or non-living, as
 species or genera, as beneficial or harmful. Fukuoka denies that these categories apply to
 nature itself. "Nor is it small or large, weak or strong, feeble or thriving." Nature, in his
@@ -59,7 +59,7 @@ nature from them is, in Fukuoka's view, the fundamental error of modern science.
 He elaborates: "Or rather, those who break off a piece of nature lay hold of something that is
 dead, and, unaware that what they are examining is no longer what they think it to be, claim to
 understand nature." The scientist examining a leaf in a laboratory, or a soil sample under a
-microscope, or a tissue culture in a petri dish, believes he is studying nature. But what he
+microscope, or a [[cervantes-tissue-culture-micropropagation]] in a petri dish, believes he is studying nature. But what he
 is actually studying is a dead fragment of nature, stripped of the relationships and context
 that gave it life and meaning. The conclusions he draws from this study may be internally
 consistent and technically precise, but they do not describe nature. They describe something
@@ -90,7 +90,7 @@ This connects directly to Fukuoka's observation about the scientific approach to
 revegetation. Scientists gather data on which plants die first in a drying landscape and which
 survive longest, but even if they could determine the precise order of extinction, "he would
 still not know enough to decide whether to begin by planting the first type of vegetation to
-disappear or the last to survive." The reason is that "in nature, there is no cause and effect"
+disappear or the last to survive." The reason is that "in nature, there is no [[fukuoka-textdoc-no-cause-and-effect-in-nature]]"
 in the simple, linear way that science assumes. The relationships between organisms and their
 environment are too complex, too interconnected, and too dynamic to be captured by
 cause-and-effect analysis. The data may be accurate as far as it goes, but it never goes far
@@ -118,7 +118,7 @@ dissected.
 
 - [[fukuoka-shrine-grove-trees-grow-without-human-aid]]
 - [[fukuoka-plow-hardens-soil-creates-need-for-plowing]]
-- [[fukuoka-human-knowledge-insignificant-futile]]
-- [[fukuoka-science-cannot-reproduce-natures-functions]]
-- [[fukuoka-all-begins-by-relinquishing-human-knowledge]]
-- [[fukuoka-nature-maintains-great-harmony-without-human-notions]]
+- [[fukuoka-nature-transcends-human-knowledge]]
+- fukuoka science cannot reproduce natures functions
+- fukuoka all begins by relinquishing human knowledge
+- fukuoka nature maintains great harmony without human notions

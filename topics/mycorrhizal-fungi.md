@@ -119,7 +119,6 @@ cells. Instead, they form a dense sheath or mantle around the root tip and
 produce a network of hyphae called the Hartig net that grows between the 
 cortical cells of the root. This intercellular interface is where nutrient 
 exchange occurs. Ectomycorrhizal fungi are incredibly diverse taxonomically, 
-with thousands of species drawn from both Basidiomycota and Ascomycota. They 
 ## See Also
 
 [[arbuscular-mycorrhizal-fungi]] [[common-mycorrhizal-networks]]

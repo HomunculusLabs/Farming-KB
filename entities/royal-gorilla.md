@@ -15,7 +15,7 @@ sources:
   - "Mudge, E. et al. (2019). \"Cannabinoid and terpene profiling of commercial Cannabis strains.\" ACS Omega, 4(6), 10052-10060."
   - "European Cannabis Flower Cup (2016-2017). Official results."
   - "PubMed. (2018). \"Cannabidiol and THC interactions: a review.\" Pharmacology & Therapeutics, 186, 62-77."
-  - "Black, D. et al. (2021). \"[[cannabis-terpene-profiles-sativa]] in Cannabis sativa L.\" Molecules, 26(9), 2670."
+  - "Black, D. et al. (2021). \"cannabis-terpene-profiles-sativa in Cannabis sativa L.\" Molecules, 26(9), 2670."
 ---
 
 # Royal Gorilla

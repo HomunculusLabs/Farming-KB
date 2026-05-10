@@ -25,7 +25,7 @@ Smut fungi (order Ustilaginales, phylum [[basidiomycete-phylum-guide|Basidiomyco
 
 ### Ustilago (Covering Smuts)
 
-The largest genus of smut fungi. "Covering smuts" destroy the entire grain/kernel, replacing it with a mass of teliospores enclosed by a thin membrane that eventually ruptures.
+The largest genus of smut fungi. "Covering smuts" destroy the entire grain/kernel, replacing it with a mass of teliospores enclosed by a thin membrane that eventually ruptures. (see [[gadd-fungal-ecology-pathogens]]).
 
 #### Ustilago maydis (Corn Smut / Huitlacoche)
 - One of the most economically important smut fungi
@@ -44,7 +44,7 @@ The largest genus of smut fungi. "Covering smuts" destroy the entire grain/kerne
 - Systemic infection: fungus grows within the plant without visible symptoms until heading
 - Replaces entire grain with spore mass covered by persistent membrane
 - Membrane usually remains intact until harvest, limiting spread
-- Primarily seed-borne; [[jadam-seed-treatment-and-nursery-management]] is the main control method
+- Primarily seed-borne; seed treatment is the main control method
 - Yield losses can reach 100% in severely affected fields
 
 #### Ustilago tritici (Loose Smut of Wheat)
@@ -63,7 +63,7 @@ The largest genus of smut fungi. "Covering smuts" destroy the entire grain/kerne
 - Streaks contain spore balls (groups of spores surrounded by sterile cells)
 - Primarily soil-borne; spores survive in soil for years
 - More important in dryland wheat areas
-- Control through resistant [[holzer-old-varieties-and-seed-saving]] treatment
+- Control through resistant varieties and seed treatment
 
 ### Sphacelotheca (Sorghum Smuts)
 
@@ -106,7 +106,7 @@ Most smut fungi follow a similar pattern:
 5. Infection occurs through seedling tissue (most common) or through flowers
 6. The fungus grows systemically within the plant (intercellularly)
 7. At flowering or maturity, the fungus replaces reproductive structures with teliospores
-8. Teliospores are released and persist until the next [[savory-growing-season-and-non-growing-season-management]]
+8. Teliospores are released and persist until the next growing season
 
 ## Control Methods
 
@@ -122,28 +122,29 @@ Most smut fungi follow a similar pattern:
 - Durability varies: some resistance genes have remained effective for decades
 
 ### Cultural Practices
-- [[comparison-crop-rotation-vs-cover-cropping]] reduces soil-borne smut inoculum (most effective with non-host crops)
+- Crop rotation reduces soil-borne smut inoculum (most effective with non-host crops)
 - Planting date adjustment: avoid conditions favorable for infection
 - Deep plowing can bury teliospores below the infection zone
 - Clean seed: use certified seed from smut-free fields
 
 ### Biological Control
-- Some [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] antagonists show promise against smut fungi
+- Some bacterial and fungal antagonists show promise against smut fungi
 - Bacillus subtilis and Trichoderma species have been investigated
 - Not yet widely adopted commercially
 
 ## Economic Impact
 
 - Corn smut: estimated global losses of hundreds of millions of dollars annually
-- Loose smut of wheat: historically caused losses of 1-3% in [[psilocybin-north-america-pacific-northwest]]; more severe in developing countries
+- Loose smut of wheat: historically caused losses of 1-3% in North America; more severe in developing countries
 - Common bunt: can cause 1-20% losses depending on severity
 - Karnal bunt (Tilletia indica): quarantine disease that affects wheat trade, even at low incidence levels
 - Total smut-related losses to cereals globally are estimated in the billions of dollars
 
 ## Smut Fungi as Model Organisms
 
-## Related
-
-- [[fungal-plant-diseases]]
-- [[fungal-biology-fundamentals]]
-- [[plant-disease-identification]]
+Ustilago maydis has become an important model system for studying:
+- Plant-microbe interactions and fungal pathogenicity
+- Mating type and sex determination in fungi
+- Filamentous growth and dimorphism
+- Signal transduction pathways
+- Genome evolution in pathogenic fungi

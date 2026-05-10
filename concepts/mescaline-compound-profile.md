@@ -11,7 +11,7 @@ sources: [raw/papers/shulgin-a-pihkal.md]
 
 ## Chemical Identity
 
-**Mescaline**: 3,4,5-Trimethoxyphenethylamine. The prototypical natural phenethylamine psychedelic, found in several cactus species including peyote (Lophophora williamsii), [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] (Echinopsis pachanoi), and the Peruvian torch (Echinopsis peruviana).
+**Mescaline**: 3,4,5-Trimethoxyphenethylamine. The prototypical natural phenethylamine psychedelic, found in several cactus species including peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi), and the Peruvian torch (Echinopsis peruviana).
 
 Molecular formula: C11H17NO3
 
@@ -30,7 +30,7 @@ Effective duration: 10-12 hours.
 
 ## Qualitative Effects
 
-Mescaline is described in PIHKAL and throughout the literature as producing a classic [[leary-psychedelic-experience-bardo-mapping]]:
+Mescaline is described in PIHKAL and throughout the literature as producing a classic psychedelic experience:
 
 - Rich, colorful visual effects with flowing patterns and enhanced color perception
 - Deep emotional and philosophical content
@@ -65,21 +65,3 @@ The 3,4,5-trimethoxy pattern of mescaline was the starting point for systematic 
 - Alpha-methylation converts mescaline to TMA (trimethoxyamphetamine), increasing both potency and stimulant character
 
 See also: [[phenethylamine-chemistry-basics]], [[2c-family-compounds-overview]], [[2c-b-compound-profile]], [[pihkal-introduction-and-methodology]]
-## Practical Considerations
-
-Successful implementation of Mescaline Compound Profile requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

@@ -5,7 +5,7 @@ created: 2026-04-25
 type: concept
 updated: 2026-04-25
 sources:
-  sources: []
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 tags: [cannabis, edibles, butter, cooking, extraction]
 ---
 

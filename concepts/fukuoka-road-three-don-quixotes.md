@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [conference, permaculture, science, philosophy, natural-farming]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources:
+sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---

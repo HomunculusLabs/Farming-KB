@@ -2,8 +2,7 @@
 title: query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing Growing
 created: 2026-04-26
 updated: 2026-04-23
-sources:
-  sources: []
+sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]

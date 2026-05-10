@@ -67,6 +67,19 @@ Strain improvement through mutagenesis and optimization of culture conditions ha
 The species has also been investigated for its ability to detoxify agricultural wastes and pulp mill effluents. Enzyme preparations from C. spissa cultures show effective decolorization of azo, anthraquinone, and triphenylmethane dyes under mild conditions.
 
 ## See Also
+- [[ganoderma-lucidum]]
+- [[bjerkandera-adusta]]
+- [[coriolopsis-gallica]]
+- [[xylaria-polymorpha-entity]]
+- [[laccase]]
+- [[mycoremediation]]
+- [[daldinia-concentrica]]
+- [[trametes-hirsuta]]
+- [[laetiporus-sulphureus]]
+- [[pleurotus-eryngii]]
+- [[inonotus-obliquus]]
+- [[ergosterol]]
+
 ## Related Species
 
 Ceriporia is a genus of approximately 30 species of resupinate polypores. C. spissa is the type species and the most commonly encountered member of the genus in European mycofloras.
@@ -94,17 +107,3 @@ Ergosterol, the principal sterol of fungal cell membranes, has been quantified a
 These findings suggest that beyond its ecological role in wood decomposition, C. spissa may have untapped biotechnological potential as a source of antimicrobial and immunomodulatory compounds. Further metabolomic profiling using modern analytical techniques is warranted.
 
 ## See Also
-
-- [[ganoderma-lucidum]]
-- [[bjerkandera-adusta]]
-- [[coriolopsis-gallica]]
-- [[xylaria-polymorpha-entity]]
-- [[laccase]]
-- [[mycoremediation]]
-- [[daldinia-concentrica]]
-- [[trametes-hirsuta]]
-- [[laetiporus-sulphureus]]
-- [[pleurotus-eryngii]]
-- [[inonotus-obliquus]]
-- kappa opioid receptor
-- [[ergosterol]]

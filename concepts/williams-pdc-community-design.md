@@ -56,6 +56,8 @@ diversity and [[permaculture-guilds]] where community members
   strategies
 
 ## See Also
+
+- [[pdc-right-livelihood-and-permaculture-economics]]
 - [[urban-permaculture-community-building-social-design]]
 
 ## Practical Considerations

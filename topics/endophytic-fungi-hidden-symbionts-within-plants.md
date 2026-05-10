@@ -4,8 +4,7 @@ subtitle: The endophytic fungi hidden symbionts within plants Living Within Plan
 tags: [mycology, plant-biology, symbiosis, endophytes, fungal-ecology, agriculture, chemical-ecology]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
   - /Users/t3rpz/wiki/raw/papers/symbiotic-fungi.md
   - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
   - /Users/t3rpz/wiki/raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md
@@ -140,7 +139,6 @@ andreanae from the Pacific yew tree, which produces taxol, the same potent
 anticancer compound previously isolated only from the yew itself. This suggested
 that some valuable plant-derived medicines might actually be products of
 endophytic fungi. Endophytes also produce serotonin-like tryptamines, a class
-including toxic cyclopeptides and substances such as psilocybin, representing an
 ## See Also
 
 - [[endophytic-fungi-grass-symbiosis-insect-defense-alkaloids-epichloe-neotyphodium]]

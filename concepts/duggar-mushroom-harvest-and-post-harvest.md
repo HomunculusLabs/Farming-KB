@@ -32,7 +32,9 @@ Beds which are yielding heavily will require considerable water. No grower can m
 ### Harvest Timing
 Mushrooms should be picked at the button stage for highest quality and market value. In the most successful [[staycare-spent-mushroom-compost-bioremediation]] is excellent for garden use, making it a valuable byproduct rather than a waste disposal problem.
 
-## Related Concepts
+## Related
+
+- [[mushroom-hematopoietic-restoration-post-chemo]] Concepts
 
 - [[duggar-mushroom-economics]] - Market prices and profitability
 - [[duggar-mushroom-disease-and-contamination]] - Preventing post-harvest losses

@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Sárbu I et al. (2013). "Phytochemical and pharmacological studies on Dictamnus albus." Pharmaceutical Biology, 51(12), 1503-1510.
   - Gonzalez JV et al. (2012). "Chemical composition and biological activity of Dictamnus albus essential oil." Journal of Ethnopharmacology, 144(2), 461-466.
-  - Duke JA (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press.
+  - Duke JA (2002). Handbook of permaculture-plants-medicinal-herbs-healing. 2nd ed. CRC Press.
   - Tsesmetzis N et al. (2016). "Furanocoumarins from Dictamnus albus." Phytochemistry Reviews, 15(6), 993-1010.
   - Frohne D, Pfänder HJ (2005). Poisonous Plants. 2nd ed. Timber Press.
 ---

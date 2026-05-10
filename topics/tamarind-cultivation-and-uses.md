@@ -140,7 +140,6 @@ Despite being a legume, tamarind shows minimal nitrogen fixation and responds we
 |---|---|---|---|
 | 1–3 | 50–100 | 30–50 | 30–50 |
 | 4–7 | 100–200 | 60–100 | 60–100 |
-| 8+ | 200–500 | 100–200 | 100–200 |
 ## See Also
 
 - [[comparison-tamarind-vs-carob]] — comparison of tamarind and carob as leguminous pod-bearing trees

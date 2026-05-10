@@ -120,7 +120,6 @@ wet after nearby paths are dry. A shaded squash leaf may support powdery
 mildew while sunlit leaves remain clean. Containers with poor drainage
 may host [[ingham-root-disease-treatment]] even when adjacent beds are healthy.
 
-## Major Groups of Garden Pathogens
 ## See Also
 
 - [[bacterial-plant-diseases]]

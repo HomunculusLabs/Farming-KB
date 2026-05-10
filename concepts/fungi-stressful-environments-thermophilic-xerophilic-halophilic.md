@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungi in Stressful Environments
 Thermophilic, Psychrotropic, Xerophilic, and Halophilic

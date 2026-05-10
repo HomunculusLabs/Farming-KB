@@ -128,6 +128,8 @@ Raffia palms provide supplementary income through fruit harvesting, thatch produ
 
 ## See Also
 
+- [[raphia-farinifera]]
+
 - [[cocos-nucifera]]
 - [[elaeis-guineensis]]
 - [[borassus-flabellifer]]

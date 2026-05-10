@@ -139,5 +139,5 @@ regulations or unapproved supplement rules.
 ## See Also
 
 - [[nymphaea-caerulea]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[5-meo-dmt-entity]]

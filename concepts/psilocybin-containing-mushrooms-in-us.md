@@ -35,7 +35,7 @@ environments for these fungi.
 ## Misidentification Risks
 
 Misidentification of wild mushrooms is the most significant danger
-associated with [[emcdda-psilocybin-mushroom-dose-and-effects]] use. Many [[growing-gourmet-poisonous-mushroom-lookalikes]]
+associated with [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] use. Many [[growing-gourmet-poisonous-mushroom-lookalikes]]
 species grow in the same habitats as Psilocybe species, and
 inexperienced foragers risk consuming toxic look-alikes. This risk
 can result in serious illness or death from liver failure or other

@@ -134,6 +134,8 @@ caution and professional guidance are warranted.
 
 ## See Also
 
+- [[query-how-do-i-grow-echinacea-and-what-are-its-medicinal-benefits]]
+
 - [[comparison-ashwagandha-vs-tulsi]]
 - [[comparison-echinacea-vs-tulsi]]
 - [[comparison-elderberry-vs-echinacea]]

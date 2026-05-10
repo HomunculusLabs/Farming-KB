@@ -12,7 +12,7 @@ tags:
 sources:
   - Gene, J. (1972). "Agaricus xanthodermus and Related Species." Persoonia.
   - Capelli, F. (1984). "Agaricus L. (Fungi, Basidiomycotina)." Quaderni della Civica Stazione di Milano.
-  - Kerrigan, R.W. (2016). "Agaricus of [[psilocybin-north-america-pacific-northwest]]." Memoirs of the New York Botanical Garden.
+  - Kerrigan, R.W. (2016). "Agaricus of psilocybin-north-america-pacific-northwest." Memoirs of the New York Botanical Garden.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
   - Boertmann, D. (1995). "The Genus Agaricus in Denmark." Danish Mycological Society.
 ---

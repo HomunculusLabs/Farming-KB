@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin, entheogenic, agaricales, pacific-northwest, baeocystin]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources: []
+sources: []
 ---
 
 # Psilocybe baeocystis

@@ -119,7 +119,7 @@ MAC is considered a strong breeding parent and has been used extensively to crea
 ## See Also
 
 - [[gelato]]
-- [[biscotti-cannabis]]
+- [[biscotti-cannabis-strain]]
 - [[kush-mints]]
 - [[thin-mint-cookies]]
 - [[cereal-milk]]

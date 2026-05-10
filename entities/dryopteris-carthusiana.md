@@ -109,6 +109,8 @@ Urban and suburban populations of D. carthusiana have been documented in old cem
 
 ## See Also
 
+- [[dryopteris-affinis]]
+
 - [[dryopteris-filix-mas]]
 - [[athyrium-filix-femina]]
 - [[pteridium-aquilinum]]

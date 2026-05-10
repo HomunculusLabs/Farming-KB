@@ -137,7 +137,6 @@ Cacao has high nutrient demands, particularly for potassium (K), nitrogen (N), a
 - **Bearing trees (4+ years):** 100–150 g N, 25–50 g P₂O₅, 150–200 g K₂O per tree annually, plus 25–50 g MgO
 - **Organic alternatives:** Composted cacao pod husks, poultry manure, [[green-manure-cover-crops]] from shade trees, rock phosphate, wood ash
 
-Leaf tissue analysis is the most reliable method for determining nutrient status. Deficiency symptoms include interveinal chlorosis (Mg), leaf bronzing (K), stunted growth with pale leaves (N), and internal bark necrosis (B).
 ## See Also
 
 - Agroforestry and Alley Cropping

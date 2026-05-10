@@ -45,7 +45,7 @@ Consider: nearby roads, towns, toxic sources (trash dumps), forests, neighbour s
 ### Client Interview
 The goal is to get into the client's head and think like them. Design is a manifestation of philosophy -- you are attempting to manifest the client's philosophy, not yours. Key questions:
 - Understanding of permaculture?
-- Willing to let design progress through [[holmgren-ecological-succession-and-pulsing]]?
+- Willing to let design progress through ecological succession?
 - Health needs and dietary requirements?
 - Physical/mental limitations?
 - Budget and time frame?
@@ -65,7 +65,7 @@ Research historical patterns -- major climactic events AND human habitation. Loo
 Observe the site for plant and animal indicator species that reveal soil conditions, water patterns, and ecosystem health.
 
 ### Inventories
-Lists of available resources: plants, animals, [[natural-building-materials-guide]], salvageable materials, water sources, available people power, community resources.
+Lists of available resources: plants, animals, building materials, salvageable materials, water sources, available people power, community resources.
 
 ### Observation and Interaction
 Spend time on the site observing patterns, processes, and relationships before making design decisions.
@@ -76,7 +76,7 @@ Test infiltration rates across the site. Take samples where differences are obse
 ### Surface Water Flow
 Chart water flow across the site using topographical information. The ultimate goal: all rainwater falling on the site stays on the site and infiltrates into the ground.
 
-### [[zone-sector-analysis-guide|Zones and Sectors]]
+### [[permaculture-zone-and-sector-analysis|Zones and Sectors]]
 Map zones (0-5) based on frequency of human use. Map sectors (sun, wind, fire, noise, views, wildlife) based on external energies.
 
 ### Zoning Ordinances
@@ -87,7 +87,7 @@ Research local regulations that may constrain or enable design options.
 Once analysis is complete, use the collected data to create the design:
 - Apply permaculture principles
 - Place elements according to zone and sector analysis
-- [[permaculture-principle-design-from-patterns-to-details]] to details
+- Design from patterns to details
 - Integrate elements so each serves multiple functions
 - Use the charette process for team-based design development
 
@@ -97,11 +97,11 @@ Organise a practice run and formal presentation of the design to the client.
 
 ## Design Elements to Consider
 
-Animal Systems, [[mollison-designers-appropriate-technology-small-scale-tools]], Community, Composting, Earthworks, Electricity, Food Systems, Forests, Hydro Cycle, [[permaculture-invisible-structures-economics]], Passive Design, Plants, Rain Water, [[pdc-right-livelihood-and-permaculture-economics]], Soils, Structures, Trees, Water Courses, Water Treatment.
+Animal Systems, Appropriate Technology, Community, Composting, Earthworks, Electricity, Food Systems, Forests, Hydro Cycle, Invisible Structures, Passive Design, Plants, Rain Water, Right Livelihood, Soils, Structures, Trees, Water Courses, Water Treatment.
 
 ## Related
 
-- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-climate-zones]]
 - [[permaculture-plant-selection-guide]]
 - [[fukuoka-natural-farming-method]]

@@ -16,7 +16,7 @@ sources:
 
 # Permaculture Dynamic Accumulator Plants
 
-[[comparison-dynamic-accumulators-vs-cover-crops]] are plants with deep taproots that mine minerals from subsoil layers and concentrate them in their leaves and above-ground tissues. When these plants are cut and used as mulch or compost, they cycle nutrients from deep in the soil profile to the surface where other plants can access them. Toby Hemenway discusses nutrient accumulators as a critical guild component in Gaia's Garden.
+Dynamic accumulators are plants with deep taproots that mine minerals from subsoil layers and concentrate them in their leaves and above-ground tissues. When these plants are cut and used as mulch or compost, they cycle nutrients from deep in the soil profile to the surface where other plants can access them. Toby Hemenway discusses nutrient accumulators as a critical guild component in Gaia's Garden.
 
 ## How Dynamic Accumulators Work
 
@@ -31,8 +31,8 @@ Hemenway explains: "The deep taproots of these plants plunge far into the minera
 The archetype of dynamic accumulators and the most valued in permaculture design:
 
 - **Mineral accumulation**: Particularly rich in potassium, calcium, and other trace minerals. Leaves contain 2-3 times more potassium than farmyard manure.
-- **[[dighton-fungal-biomass-production-aquatic-ecosystems]]**: Extraordinarily productive; can be cut 4-5 times per summer
-- **Multiple functions**: Mulch production, medicine (wound healing, bone repair), bee forage, [[jadam-liquid-fertilizer-nutritional-perspective]] ([[compost-tea-brewing|comfrey tea]])
+- **Biomass production**: Extraordinarily productive; can be cut 4-5 times per summer
+- **Multiple functions**: Mulch production, medicine (wound healing, bone repair), bee forage, liquid fertilizer ([[compost-tea-brewing|comfrey tea]])
 - **Fortress plant**: Dense growth suppresses weeds; deep roots break compacted soil
 - **Guild role**: Central mulch producer in fruit tree guilds; ring around drip line of fruit trees
 - **Culinary note**: Some varieties have edible young leaves; Russian comfrey (S. x uplandicum) is most common in permaculture
@@ -41,8 +41,8 @@ The archetype of dynamic accumulators and the most valued in permaculture design
 
 - **Mineral accumulation**: Accumulates potassium, phosphorus, and copper
 - **Medicinal**: Wound healing, fever reduction, digestive tonic
-- **Insectary**: Attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] including predatory wasps, ladybugs, and hoverflies
-- **[[permplant-carob-drought-tolerant-food-tree]]**: Deep roots make it resilient in dry conditions
+- **Insectary**: Attracts beneficial insects including predatory wasps, ladybugs, and hoverflies
+- **Drought tolerant**: Deep roots make it resilient in dry conditions
 - **Ground cover**: Spreads slowly to form a useful living mulch
 
 ### Borage (Borago officinalis)
@@ -112,13 +112,11 @@ Grow accumulators as cover crops before establishing gardens or orchards to brin
 
 ## Important Notes
 
-- As guilds mature and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] becomes self-sufficient, accumulator plants naturally become less critical and may decline -- this is a sign of a healthy, functioning system
+- As guilds mature and nutrient cycling becomes self-sufficient, accumulator plants naturally become less critical and may decline -- this is a sign of a healthy, functioning system
 - The term "dynamic accumulator" is based on traditional use and some analytical data, though comprehensive scientific studies of mineral content for all species are limited
 - Not all deep-rooted plants are good accumulators; the key is both deep rooting AND high mineral concentration in the leaves
 
-## Related
-
-- [[comparison-hyperaccumulator-vs-dynamic-accumulator]] Concepts
+## Related Concepts
 
 - [[permaculture-guild-design-method]]
 - [[permaculture-multi-purpose-plants]]

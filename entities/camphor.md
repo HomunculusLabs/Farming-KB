@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Chen, W. et al. (2013). \"Pharmacological effects of camphor.\" Evidence-Based Complementary and Alternative Medicine, 2013, 1–8."
-  - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press."
+  - "Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. 2nd ed. CRC Press."
   - "Wichtl, M. (2004). Herbal Drugs and Phytopharmaceuticals. 3rd ed. Medpharm Scientific Publishers."
   - "De Sousa, D.P. (2011). \"Analgesic-like activity of camphor.\" Revista Brasileira de Farmacognosia, 21(5), 847–852."
   - "Sullivan, J.B. et al. (2000). \"Camphor poisoning: a persistent problem.\" Journal of Toxicology: Clinical Toxicology, 38(1), 57–60."

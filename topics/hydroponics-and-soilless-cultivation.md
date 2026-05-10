@@ -130,7 +130,6 @@ solution from a reservoir into a medium, making the method quiet, cheap,
 and forgiving for small plants but limited for heavy feeding crops.
 
 Top feed and drip systems deliver solution from above, then allow runoff
-or recirculation. They are popular because timing, volume, and drainage
 ## See Also
 
 - [[hydroponic-growing-basics]]

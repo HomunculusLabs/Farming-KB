@@ -130,21 +130,14 @@ contamination. Key differentiating features:
 ## Scientific Basis
 
 Mycelial metabolite exudation is analogous to the production of
-extracellular polymeric substances [[plant-defense-chemistry-and-secondary-metabolites]] observed in
+extracellular polymeric substances plant defense chemistry and secondary metabolites observed in
 fungal laboratory research. Under stress, many basidiomycete species
 redirect metabolic resources toward defensive and signaling compounds.
 The yellowish color suggests phenolic or quinone-type compounds.
 
 ## See Also
-
-- [Grass Seed Substrate [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]]](grass-seed-substrate.md)
-- [[jar-shaking-colonization-acceleration-grain-spawn-grass-seed]] Acceleration](jar-shaking-colonization-acceleration-grain-spawn-grass-seed.md)
-- [Casing Soil Mushroom Cultivation](casing-soil-mushroom-cultivation.md)
-- [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]](mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison.md)
-
-## See Also
-
+- [[jar-shaking-colonization-acceleration-grain-spawn-grass-seed]]
+- [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]
 - [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-contamination-troubleshooting]]
-- mushroom substrates grain spawn bulk
 - [[mushroom-fruiting-body-morphogenesis]]

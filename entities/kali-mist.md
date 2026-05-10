@@ -128,9 +128,11 @@ Its genetics have been used in crosses such as Kali Amnesia (Kali Mist × [[amne
 
 ## See Also
 
+- [[kali-snacks]]
+
 - [[amnesia-haze]]
 - [[super-silver-haze]]
-- [[purple-haze]]
+- [[purple-haze-cannabis]]
 - [[cannabis-seed-banks-and-genetics]]
 - [[cannabis-sativa]]
 - [[cannabis-terpene-profiles-sativa]]

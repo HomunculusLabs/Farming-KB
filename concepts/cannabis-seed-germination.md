@@ -4,19 +4,18 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, germination, plant-growth, indoor, beginner, troubleshooting]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-Seed germination is the process of initiating growth from a dormant cannabis seed. Proper technique during this critical early stage sets the foundation for a healthy plant. [[query-how-to-store-cannabis-seeds-for-long-term-viability]] contain the embryo of the plant along with a small nutrient reserve (endosperm) to fuel initial growth until the seedling develops its first true leaves and root system.
+Seed germination is the process of initiating growth from a dormant cannabis seed. Proper technique during this critical early stage sets the foundation for a healthy plant. Cannabis seeds contain the embryo of the plant along with a small nutrient reserve (endosperm) to fuel initial growth until the seedling develops its first true leaves and root system. (see [[cannabis-seed-scuffing-and-preparation]]).
 
 ## Seed Selection and Quality
 
-[[query-how-to-manage-ph-for-healthy-cannabis-plants]] seeds should exhibit:
+Healthy cannabis seeds should exhibit:
 
-- **Dark color**: Brown, tan, or mottled. Very pale or white seeds are often immature.
+- **Dark color**: Brown, tan, or mottled. Very pale or white seeds are often immature. (see [[psychedelic-plants-indoor-growing]]).
 - **Hard shell**: Should resist gentle pressure between fingers. Soft or crushable seeds are likely dead.
 - **Smooth, intact surface**: Cracks, dents, or holes suggest damage or age.
 - **Size**: Larger seeds generally have more energy reserves, though this is not always correlated with plant quality.
@@ -51,7 +50,7 @@ Planting seeds directly into their final medium:
 5. Maintain warm temperatures and high humidity (dome recommended)
 6. Seedling should emerge in 3-7 days
 
-Direct sowing avoids [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] but offers less control and visibility.
+Direct sowing avoids transplant shock but offers less control and visibility.
 
 ### Water Soaking
 
@@ -78,7 +77,7 @@ Using Rockwool, peat, or coco cubes:
 
 ### First Days Above Ground
 
-When the seedling emerges, it will have two embryonic leaves called cotyledons. These are rounded and unlike true [[query-what-causes-cannabis-leaves-to-curl-and-how-to-fix-it]]. Within a few days, the first set of serrated "true leaves" will appear.
+When the seedling emerges, it will have two embryonic leaves called cotyledons. These are rounded and unlike true cannabis leaves. Within a few days, the first set of serrated "true leaves" will appear.
 
 - **Light**: Use low-intensity light (CFL, T5, or dimmed LED). Start at 200-400 PPFD. Intense light burns young seedlings.
 - **Humidity**: 60-80% RH. Seedlings have underdeveloped root systems and rely on high humidity.
@@ -89,7 +88,7 @@ When the seedling emerges, it will have two embryonic leaves called cotyledons. 
 ### Common Seedling Problems
 
 - **Stretching**: Tall, thin, weak stems — caused by insufficient light. Move light closer or increase intensity.
-- **[[cervantes-damping-off-seedling-disease-prevention]]**: Seedling collapses at the soil line — fungal infection from overwatering and poor airflow. Reduce moisture, increase airflow, use chamomile tea as a mild fungicide.
+- **Damping off**: Seedling collapses at the soil line — fungal infection from overwatering and poor airflow. Reduce moisture, increase airflow, use chamomile tea as a mild fungicide.
 - **Cotyledon discoloration**: Slight yellowing as cotyledons are consumed is normal. Green cotyledons that suddenly yellow or purple may indicate temperature stress or nutrient issues.
 - **Shell stuck on seedling**: If the seed shell remains attached to the first leaves, mist with water and gently assist removal after the leaves have expanded. Leaving it can deform growth.
 
@@ -112,7 +111,7 @@ Feminized seeds eliminate the need for sexing but may have slightly higher herma
 
 ### Early Sexing Techniques
 
-Some growers force sex identification by taking a cutting from a vegetative plant and placing it on 12/12 in a separate small space. The clone will reveal sex in 7-10 days while the mother remains in [[cannabis-vegetative-growth-stage]]. See [[cannabis-cloning-guide]] for cloning techniques.
+Some growers force sex identification by taking a cutting from a vegetative plant and placing it on 12/12 in a separate small space. The clone will reveal sex in 7-10 days while the mother remains in vegetative growth. See [[cannabis-cloning-guide]] for cloning techniques.
 
 ## Germination Environment
 

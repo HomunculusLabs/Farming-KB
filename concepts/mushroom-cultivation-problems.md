@@ -97,3 +97,7 @@ Problems can persist even after harvest:
 - **Weight loss:** Mushrooms lose moisture rapidly in low-humidity storage environments. Packaging with moisture-retaining materials or perforated film can extend shelf life.
 
 Systematic problem-solving in mushroom cultivation requires attention to detail at every stage. Most problems trace back to a limited set of root causes: poor hygiene, incorrect environmental parameters, or compromised starting materials. Addressing these fundamentals prevents the majority of common cultivation failures.
+
+## See Also
+
+- [[mushroom-overlay-problems]]

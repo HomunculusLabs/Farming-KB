@@ -1,6 +1,6 @@
 ---
 
-title: mollison-designers-goat-dairy-and-cheese-production Making
+title: Dairy and Cheese Making
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -75,7 +75,7 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 
 - Dosage: ~¼-½ tsp liquid rennet per gallon (follow package); dilute in cool chlorine-free water
 - Store liquid rennet in fridge; freeze for long-term (1+ year)
-- **Plant rennet:** [[comparison-stinging-nettle-vs-horsetail]], cardoon thistle, fig sap (see [[herbal-medicine]])
+- **Plant rennet:** Stinging nettle, cardoon thistle, fig sap (see [[herbal-medicine]])
 
 ## Fresh Dairy Products
 
@@ -102,7 +102,7 @@ Processing goat milk into cheese, butter, yogurt, and other dairy products on th
 3. Set 12-18 hours until clean break (curd pulls from pot edge, whey is clear-yellow)
 4. Ladle into cheesecloth; drain 6-12 hours at room temp
 5. Salt (1 tsp/lb); add herbs, garlic, honey, or pepper as desired
-- **Yield:** ~1 lb per gallon. **[[psilocybin-shelf-life-stability]]:** 1-2 weeks refrigerated; freezes 3 months
+- **Yield:** ~1 lb per gallon. **Shelf life:** 1-2 weeks refrigerated; freezes 3 months
 
 ### Ricotta (from whey)
 - Heat saved whey to 195-200°F; add ¼ cup white vinegar per gallon; drain in cheesecloth 15-30 min

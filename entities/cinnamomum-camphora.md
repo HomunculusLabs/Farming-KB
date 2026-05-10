@@ -23,7 +23,7 @@ aliases:
   - shiu-wood
 sources:
   - Chen, W. et al. (2021). "Cinnamomum camphora: A comprehensive review of traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 275, 114113.
-  - Chang, K.C. et al. (2015). "Chemical composition and bioactivity of Cinnamomum camphora [[permaculture-designers-manual-essential-oil-plants]]." Molecules, 20(9), 16757–16767.
+  - Chang, K.C. et al. (2015). "Chemical composition and bioactivity of Cinnamomum camphora permaculture-designers-manual-essential-oil-plants." Molecules, 20(9), 16757–16767.
   - Floyd, A.G. (1989). "Rainforest Trees of Mainland South-eastern Australia." Inkata Press.created: 2026-05-07
 
 created: 2026-05-07
@@ -110,6 +110,10 @@ The wood resists insect attack due to its natural camphor content, making it his
 Camphor oil extraction was a major industry in Taiwan and Japan during the 19th and early 20th centuries, before synthetic camphor production displaced natural sources. At peak production, Taiwan exported over 10,000 tonnes of crude camphor annually.
 
 ## See Also
+
+- [[echinocactus-grusonii]]
+
+- [[cinnamomum-tamala]]
 
 - [[cinnamomum-cassia]] — cassia cinnamon
 - [[eugenol]] — phenylpropene found in related Cinnamomum species

@@ -11,7 +11,7 @@ sources:
   - Leafly Staff (2024). "Donny Burger blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
   - AllBud (2024). "Donny Burger Strain Review." AllBud.com.
   - Symbiotic Genetics (2023). "Donny Burger — Strain Lineage." Official breeder catalog.
-  - Baumeister, D. et al. (2022). "A comprehensive review of cannabis [[cannabis-terpene-pharmacology-and-entourage-effect]]." Frontiers in Plant Science, 13, 865914.
+  - Baumeister, D. et al. (2022). "A comprehensive review of cannabis cannabis-terpene-pharmacology-and-entourage-effect." Frontiers in Plant Science, 13, 865914.
 created: 2026-05-07
 ---
 
@@ -104,8 +104,8 @@ Cross-breeding derivatives include **Donny Burger × Gelato** (combining savory 
 ## See Also
 
 - [[girl-scout-cookies]]
-- [[cannabis-blue-dream]]
-- [[biscotti-cannabis]]
+- [[blue-dream]]
+- [[biscotti-cannabis-strain]]
 - [[georgia-pie]]
 - [[white-cherry-gelato]]
 - [[gary-payton-cannabis]]

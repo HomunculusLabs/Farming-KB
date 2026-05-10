@@ -143,7 +143,6 @@ the Other as genuinely present while retaining discernment.
 
 This stance requires psychological maturity, consistent with the
 shamanic understanding that extensive training is prerequisite to
-working with entheogenic medicines. McKenna's framework provides a
 ## See Also
 - [[i-thou-relationship-with-psychedelic-entities]]
 - [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]]

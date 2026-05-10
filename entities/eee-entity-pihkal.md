@@ -75,5 +75,5 @@ EEE belongs to the trialkoxyamphetamine series explored by Shulgin:
 - EEM (2-ethoxy-4,5-dimethoxyamphetamine) — intermediate in the series
 - EME (2-ethoxy-4-methoxy-5-ethoxyamphetamine) — mixed substitution pattern
 - TMA-2 (2,4,5-trimethoxyamphetamine) — the parent compound and prototype
-- [[mescaline-entity]] (3,4,5-trimethoxyphenethylamine) — the classic
+- [[mescaline]] (3,4,5-trimethoxyphenethylamine) — the classic
   phenethylamine reference compound

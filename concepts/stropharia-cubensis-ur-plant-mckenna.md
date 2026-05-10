@@ -139,10 +139,6 @@ active compounds are controlled. Legal status varies significantly by country
 and has changed rapidly in some jurisdictions in recent years.
 
 ## See Also
-
 - [[psilocybin-chemistry-and-pharmacology]]
 - [[indole-hallucinogen-classification]]
-
-## See Also
-
 - [[stropharia-cubensis-as-ur-plant]]

@@ -119,7 +119,6 @@ required to display germination test results. Instead they fall under
 USDA Minimum Standard Germination: floor-level minimums of 75% for
 cabbage, 80% for lettuce, 65% for muskmelon, and just 60% for leek. A
 seed packer can sell right at these minimums, and by planting time six to
-twelve months later, germination may have dropped below useful levels.
 ## See Also
 
 - [[plant-propagation-methods]]

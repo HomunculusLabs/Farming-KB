@@ -4,8 +4,7 @@ created: 2026-04-18
 updated: 2026-05-09
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources:
-  sources: []
+sources: []
 ---
 # Mycorrhizal Phosphatase Activity Detection by ELF-97 Substrate
 ## Overview

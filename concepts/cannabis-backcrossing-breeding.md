@@ -4,7 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [cannabis, breeding, genetics, techniques]
-sources: sources:
+sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 

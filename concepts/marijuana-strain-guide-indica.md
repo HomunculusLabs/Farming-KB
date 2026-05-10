@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, beginner, plants, species-profiles, ethnobotany, psychopharmacology]
-sources:
-  - "raw/papers/ben-lemon-cannabis-alchemy.md"
+sources: []
 ---
 
 # Marijuana Strain Guide — Indica
@@ -77,7 +76,7 @@ Indicas are more forgiving with light intensity than sativas. They perform well 
 
 ### Nutrient Needs
 
-Indicas tend to be heavier feeders than sativas, particularly during the [[cannabis-flowering-stage-management]] when bud development demands significant phosphorus and potassium. They respond well to nutrient-dense [[mushroom-growing-methods-comparison]] including [[cannabis-living-soil-guide|living soil]] systems.
+Indicas tend to be heavier feeders than sativas, particularly during the flowering stage when bud development demands significant phosphorus and potassium. They respond well to nutrient-dense growing methods including [[cannabis-living-soil-guide|living soil]] systems.
 
 ### Flowering Time
 
@@ -98,7 +97,7 @@ Indica strains are generally best suited for:
 
 - Evening and nighttime use
 - Pain management and chronic pain conditions
-- Insomnia and [[cannabis-sleep-disorders-and-insomnia]]
+- Insomnia and sleep disorders
 - Anxiety and stress relief
 - Muscle spasms and tremors
 - Appetite stimulation for medical patients
@@ -122,9 +121,9 @@ Patients commonly use indica strains for:
 
 - Chronic pain conditions (arthritis, fibromyalgia, neuropathy)
 - Insomnia and sleep disorders
-- [[cannabis-anxiety-and-ptsd-treatment]]
+- Anxiety and PTSD
 - Muscle spasms (multiple sclerosis, spinal cord injuries)
-- [[cannabis-for-nausea-and-appetite-stimulation]] loss (HIV/AIDS, chemotherapy)
+- Nausea and appetite loss (HIV/AIDS, chemotherapy)
 - Glaucoma (intraocular pressure reduction)
 - Epilepsy (high-CBD indica strains)
 
@@ -137,4 +136,4 @@ When selecting indica strains from [[cannabis-seed-banks-and-genetics|seed banks
 - Resistance to mold and pests
 - Terpene profile for desired flavor and effects
 - Cannabinoid ratios (THC:CBD)
-- Suitability for your [[cannabis-growing-environment-setup]] and [[cannabis-regulations-by-state|local regulations]]
+- Suitability for your growing environment and [[cannabis-regulations-by-state|local regulations]]

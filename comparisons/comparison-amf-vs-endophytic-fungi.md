@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [mycology, symbiosis, plant-microbe-interactions, soil-health, agriculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 # Arbuscular [[endophytic-fungi]]

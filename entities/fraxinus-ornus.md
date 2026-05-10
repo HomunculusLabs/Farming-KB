@@ -13,7 +13,7 @@ sources:
   - Sficas, A.D. (1980). "Fraxinus ornus L. (manna ash)." Economic Botany, 34(2), 168–176.
   - Tutin, T.G. et al. (1968–1980). "Flora Europaea, Vol. 4." Cambridge University Press.
   - Pieroni, A. et al. (2002). "Ethnobotanical knowledge in south-eastern Italy." Journal of Ethnopharmacology, 79(2), 217–228.
-  - Christensen, K.I. (2004). "Fraxinus." In: Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 8, Oxford University Press.
+  - Christensen, K.I. (2004). "Fraxinus." In: Flora of psilocybin-north-america-pacific-northwest, Vol. 8, Oxford University Press.
   - Rivera, D. et al. (2006). "Manna: a traditional product of Southern Italy." Economic Botany, 60(3), 259–266.
 ---
 

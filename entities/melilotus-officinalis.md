@@ -125,6 +125,8 @@ In permaculture systems, sweet clover serves multiple functions simultaneously:
 
 ## See Also
 
+- [[melilotus-albus]]
+
 - [[trifolium-repens]]
 - [[medicago-sativa]]
 - coumarin

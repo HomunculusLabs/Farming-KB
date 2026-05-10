@@ -134,7 +134,6 @@ Folate and folic acid are related but not identical; their effects depend on dos
 More methyl donors are not always better because nucleotide synthesis, redox balance, and cell proliferation may respond differently.
 Pathway charts can make flux look linear, while real cells use reversible reactions, compartments, feedback regulation, and competing demands.
 The most accurate view is of an adaptable metabolic hub that integrates nutrition, growth, defense, and gene regulation.
-
 ## Related Concepts
 
 - one carbon metabolism

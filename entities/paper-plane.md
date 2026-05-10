@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Seed Junky Genetics. "Paper Plane Strain Profile." https://seedjunky.com
-  - Leafly. "Paper Plane [[blesching-cannabis-strain-selection-receptor-targeting]]." https://www.leafly.com/strains/paper-plane
+  - Leafly. "Paper Plane blesching-cannabis-strain-selection-receptor-targeting." https://www.leafly.com/strains/paper-plane
   - AllBud. "Paper Plane Strain Information." https://www.allbud.com
   - Wikileaf. "Paper Plane Marijuana Strain." https://www.wikileaf.com/strain/paper-plane
 created: 2026-05-07
@@ -104,7 +104,7 @@ Outdoor cultivation is possible in Mediterranean climates with a harvest window 
 - [[animal-cookies]]
 - [[white-runtz]]
 - [[sfv-og]]
-- [[biscotti-cannabis]]
+- [[biscotti-cannabis-strain]]
 - [[wedding-cake]]
 - stuffed og
 - cake wreck

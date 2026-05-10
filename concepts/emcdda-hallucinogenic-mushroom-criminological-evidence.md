@@ -103,6 +103,8 @@ The criminological data supports what might be called an enforcement-disproporti
 
 ## See Also
 
+- [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]]
+
 - [[emcdda-hallucinogenic-mushroom-telephone-helpline-data]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]

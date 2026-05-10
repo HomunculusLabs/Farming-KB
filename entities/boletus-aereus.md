@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - Kibby, G. (2016). "Boletes of psilocybin-north-america-pacific-northwest: A Compendium." CreateSpace.
   - Watling, R. (2010). "Boletes and their allies." Field Mycology.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes." Syracuse University Press.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "growing-gourmet-north-american-reishi-species Boletes." Syracuse University Press.
   - Assyov, B. & Denchev, C.M. (2023). "Checklist of the Boletes of Europe." MycoKeys.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press.
 ---

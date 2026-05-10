@@ -1,5 +1,5 @@
 ---
-title: hamilton-seasonal-gardening-calendar Calendar
+title: Seasonal Gardening Calendar
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -17,7 +17,7 @@ Month-by-month garden tasks for temperate climates (USDA zones 5-7). Covers plan
 - Review seed catalogs and place orders; plan garden layout
 - Test soil pH if not done in fall; inventory and clean tools
 - Order bare-root fruit trees, berry bushes, and asparagus crowns
-- Check stored crops (squash, [[growing-root-vegetables-guide]]) for spoilage
+- Check stored crops (squash, root vegetables) for spoilage
 - Start onion and leek seeds indoors (10-12 weeks before last frost)
 - Build or repair structures, trellises, raised beds, cold frames
 
@@ -110,13 +110,13 @@ Month-by-month garden tasks for temperate climates (USDA zones 5-7). Covers plan
 
 ### Planting and Harvesting
 - Transplant fall brassicas; direct sow carrots, beets, radishes, turnips, spinach
-- Sow cover crops ([[comparison-lupin-vs-crimson-clover-green-manure]], winter rye, oats); plant garlic
+- Sow cover crops (crimson clover, winter rye, oats); plant garlic
 - Harvest melons, peppers, plums, potatoes, herbs
 
 ### Maintenance
-- Reduce water on potatoes; prepare cold frames for [[comparison-season-extension-techniques-vs-cold-frame-gardening]]
+- Reduce water on potatoes; prepare cold frames for season extension
 - Renovate strawberry beds; see [[strawberry-growing-guide]]
-- Continue [[hamilton-pest-and-disease-control-organic]] monitoring; remove diseased material
+- Continue pest and disease monitoring; remove diseased material
 
 ## September: Fall Harvest and Planting
 
@@ -142,8 +142,9 @@ Month-by-month garden tasks for temperate climates (USDA zones 5-7). Covers plan
 - Cut back perennial herbs; mulch all beds and fruit trees heavily (4-6 inches)
 - Drain irrigation systems; clean and store tools; apply compost top-dress
 - See [[carrot-growing-guide]] for winter carrot storage
-## See Also
 
-- [[lettuce-and-leafy-greens]] for cool-season [[mushroom-crop-management-flush-harvesting]]
-- [[brassica-growing-guide]] for brassica-specific timing
-- [[urban-farming-methods]] for adapting this calendar to small spaces
+## November-December: Rest and Plan
+
+### November
+- Harvest remaining root crops before hard freeze; store in cool, humid conditions
+- Complete final cleanup; mulch perennial beds and fruit trees

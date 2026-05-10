@@ -118,4 +118,4 @@ beyond the boundaries of acceptable scientific or therapeutic discourse.
 - [[metzner-shamanic-healing-divination-paradigms]]
 - ayahuasca preparation brewing chemistry
 - peyote cactus mescaline pharmacology
-- [[ Native American Church peyote ceremonies]]
+- Native American Church peyote ceremonies

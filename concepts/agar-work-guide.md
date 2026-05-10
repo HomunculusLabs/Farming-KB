@@ -23,7 +23,7 @@ sources:
 
 # Agar Work Guide
 
-Agar is the foundation of advanced [[accessible-mushroom-cultivation-for-disabilities]]. Working with agar allows you to isolate clean genetics from spores, rescue contaminated cultures, store long-term, and propagate without losing vigor.
+Agar is the foundation of advanced mushroom cultivation. Working with agar allows you to isolate clean genetics from spores, rescue contaminated cultures, store long-term, and propagate without losing vigor.
 
 Related: [[mushroom-sterile-technique-detailed]], [[mushroom-spore-printing-and-storage]]
 
@@ -47,7 +47,7 @@ Related: [[mushroom-sterile-technique-detailed]], [[mushroom-spore-printing-and-
 - Excellent for recovering weak or old spores
 
 ### Grain Water Agar — Zero-Waste
-- Water from boiling/soaking [[comparison-grain-spawn-vs-grain-to-grain-transfer]] (1:2 grain:water ratio)
+- Water from boiling/soaking grain spawn (1:2 grain:water ratio)
 - 15-20g agar per liter of grain water
 - Already contains nutrients leached from grain
 
@@ -61,7 +61,7 @@ Related: [[mushroom-sterile-technique-detailed]], [[mushroom-spore-printing-and-
 1. Mix ingredients in a flask or jar. Heat to dissolve agar completely.
 2. Sterilize at 15 psi for 30-45 minutes in a pressure cooker.
 3. Allow to cool to ~120F (warm to touch but not hot enough to cause heavy condensation).
-4. Pour inside a still air box or in front of a [[comparison-laminar-flow-hood-vs-fruiting-chamber]] hood.
+4. Pour inside a still air box or in front of a laminar flow hood.
 5. Fill plates 1/3 full (~20ml per 90mm plate).
 6. Crack lids slightly during cooling to reduce condensation, then close.
 7. Store inverted at room temperature. Use within 2-4 weeks.
@@ -80,7 +80,7 @@ Related: [[mushroom-sterile-technique-detailed]], [[mushroom-spore-printing-and-
 4. Seal and incubate at species-appropriate temperature.
 
 ### Tissue Culture
-1. Select a healthy [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] from inside (less contamination risk than exterior).
+1. Select a healthy fruiting body from inside (less contamination risk than exterior).
 2. Tear the mushroom open with sterile hands — do not cut through the outer skin.
 3. Flame scalpel, take a tiny piece of inner tissue.
 4. Place on agar. Mycelium should grow from the tissue in 3-7 days.
@@ -125,7 +125,7 @@ Rhizomorphic growth generally indicates stronger fruiting potential than cottony
 |---------|-------------|----------|
 | No growth at all | Dead spores, agar too hot, incorrect temp | Fresh spores; cool agar to 120F before pouring |
 | Slow growth | Low nutrition, cold temp, old genetics | Use MEA; check temp; fresh source material |
-| Bacterial contamination (slime, sour smell) | Poor [[cultivator-sterile-technique-and-agar-culture]], dirty tools | Improve technique; work in SAB or flow hood |
+| Bacterial contamination (slime, sour smell) | Poor sterile technique, dirty tools | Improve technique; work in SAB or flow hood |
 | Mold contamination (green, black, fuzzy) | Airborne spores landing on plate | Better filtration; slower movements; parafilm |
 | Mycelium stops growing at edge | Depleted nutrition, contamination | Transfer to fresh plate |
 | Excess condensation on plates | Poured too hot, rapid temp change | Cool agar longer; store plates warm-side-up initially |
@@ -134,7 +134,7 @@ Rhizomorphic growth generally indicates stronger fruiting potential than cottony
 
 [[mushroom-contamination-identification]], [[mushroom-indoor-cultivation]]
 - [[mushroom-sterile-technique-detailed]] for workspace preparation and contamination prevention
-- [[mushroom-spore-printing-and-storage]] for making your own [[query-spore-syringes-vs-liquid-culture]]
+- [[mushroom-spore-printing-and-storage]] for making your own spore syringes
 - [[mushroom-cultivation-basics]] for using agar cultures in the full grow cycle
 
 ## Related

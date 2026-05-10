@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [earthworks, water-management, permaculture, erosion, regenerative, agriculture, construction]
-sources:
-  sources: []
+sources: []
 ---
 
 # Earthworks for Water Management
 
-Earthworks are deliberate modifications to the land surface to control, direct, store, and infiltrate water. They are foundational infrastructure in regenerative agriculture, [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], and homesteading. Well-designed earthworks transform how water moves through a landscape, turning erosion problems into hydration opportunities and creating the foundation for productive land.
+Earthworks are deliberate modifications to the land surface to control, direct, store, and infiltrate water. They are foundational infrastructure in regenerative agriculture, permaculture design, and homesteading. Well-designed earthworks transform how water moves through a landscape, turning erosion problems into hydration opportunities and creating the foundation for productive land.
 
 ## Design Principles
 
@@ -40,7 +39,7 @@ Design for a 1-in-100-year storm as the maximum event. All spillways, overflows,
 
 Ponds store water on the surface for irrigation, livestock, wildlife habitat, fire protection, and aquaculture.
 
-**Site [[cannabis-breeding-traits-selection-criteria-clarke]]:**
+**Site Selection Criteria:**
 - A suitable depression or valley where a dam can be economically constructed
 - Adequate catchment area to fill the pond (minimum 5:1 catchment-to-pond area ratio in moderate rainfall)
 - Impermeable soil (clay content >20%) or a suitable liner strategy
@@ -66,7 +65,7 @@ Ponds store water on the surface for irrigation, livestock, wildlife habitat, fi
 - **Compacted clay**: Cheapest if suitable clay is available on site. Compact to 95% density.
 - **Bentonite clay**: Sodium bentonite spread and compacted. Swells to form impermeable layer.
 - **HDPE liner**: Durable plastic liner. Most reliable but expensive.
-- **Gley**: Organic method — fill pond with manure/[[hamilton-composting-and-organic-matter-management]], flood, let anaerobic bacteria seal the soil.
+- **Gley**: Organic method — fill pond with manure/organic matter, flood, let anaerobic bacteria seal the soil.
 
 ### Berms
 
@@ -75,7 +74,7 @@ Berms are raised earthen mounds used to direct water, create level planting area
 **Types:**
 - **Diversion berm**: Directs water away from an area. Common along roads, buildings, or across slopes above gardens.
 - **Retention berm**: Holds water on the surface to allow infiltration. Often combined with swales.
-- **Windbreak berm**: Low berm (1-3 feet) planted with trees for [[cervantes-wind-protection-outdoor-cannabis]].
+- **Windbreak berm**: Low berm (1-3 feet) planted with trees for wind protection.
 - **Terrace berm**: Creates level shelves on slopes for planting.
 
 **Construction:**
@@ -140,11 +139,12 @@ Small structures placed in drainage channels to slow water flow and trap sedimen
 
 **Gabions:** Wire cages filled with rocks, placed across ephemeral streams or drainage channels. They slow water, trap sediment, and eventually create level areas behind them.
 
-## Related Topics
+**Check Dams:** Small rock, log, or brush dams placed in drainage channels. Similar function to gabions but simpler and smaller. Often used in series (several dams along a channel, each creating a small pool behind it).
 
-- [[swale-design-construction]] for detailed swale building
-- [[keyline-design]] for landscape-scale water distribution
-- [[rainwater-harvesting-systems]] for collection and storage
-- erosion for [[permplant-willows-salix-erosion-control-fodder]]
-- [[permaculture-design-methods]] for design framework
-- [[permaculture-earthworks-guide]] — [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]] Guide is a comprehensive reference for all types of permaculture earthworks.
+## Earthworks Machinery and Tools
+
+### Hand Tools (for areas under 0.5 acres)
+
+- Shovel, mattock, pickaxe for small-scale shaping
+- Wheelbarrow for moving soil
+- Manual tamper for compacting berms and dam cores

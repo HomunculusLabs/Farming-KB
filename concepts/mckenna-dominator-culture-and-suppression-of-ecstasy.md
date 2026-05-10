@@ -140,8 +140,8 @@ excluded.
 - [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
 - [[dominator-culture-and-partnership-society]]
 
-- [McKenna Shamanic Meme](mckenna-shamanic-meme.md)
-- [McKenna Food of the Gods](mckenna-food-of-the-gods.md)
-- [Partnership versus Dominator 
-Societies](partnership-versus-dominator-societies.md)
+- [[mckenna-shamanic-meme|McKenna Shamanic Meme]]
+- McKenna Food of the Gods
+- Partnership versus Dominator 
+Societies
 - [Entheogenic Plants and Religious 

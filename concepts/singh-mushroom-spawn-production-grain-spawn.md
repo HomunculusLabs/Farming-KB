@@ -24,7 +24,7 @@ techniques similar to [[singh-composted-fungal-biomass-heavy-metal-immobilizatio
 - [[singh-white-rot-fungi-lignin-modifying-enzymes]]
 ## Practical Applications
 
-Mushroom [[mushroom-spawn-production-and-laboratory-techniques]] [[comparison-grain-spawn-vs-grain-to-grain-transfer]] has a range of practical applications that make it relevant to
+Mushroom [[spawn-production-techniques]] [[comparison-grain-spawn-vs-grain-to-grain-transfer]] has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications

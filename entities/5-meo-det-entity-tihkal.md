@@ -4,7 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: entity
 tags: [chemistry, tihkal, tryptamines]
-sources: ["raw/papers/shulgin-a-tihkal.md"]
+sources: ["raw/papers/shulgin-mda-compound-profile|shulgin-a-tihkal.md"]
 ---
 # 5-MeO-DET — TIHKAL #36
 
@@ -16,7 +16,7 @@ sources: ["raw/papers/shulgin-a-tihkal.md"]
 
 - Class: Tryptamine, 5-methoxy substituted, N,N-diethyl
 
-- Source: [[5-meo-dmt-entity]]): Positive psychedelic, 6-20 mg
+- Source: [[5-meo-dmt-entity-[[ibogaine-entity-tihkal]]]]): Positive psychedelic, 6-20 mg
 
 - BE ([[5-meo-dipt]]): Positive, LSD-like, 8-12 mg
 
@@ -30,14 +30,14 @@ maintaining the erotic and potentially psychedelic properties?
 Two routes are described: from 5-methoxytryptamine via alkylation with bromoethane
 and diisopropylethylamine (35% yield), and from 5-methoxyindole via the oxalyl
 chloride/LAH reduction sequence (74% yield). The hydrochloride salt has mp
-190-191°C. A byproduct, N-ethylmelatonin, proved extremely difficult to hydrolyze.
+190-191°C. A byproduct, N-ethylmelatonin, proved extremely difficult to hydrolyze. (see [[tihkal-introduction-and-methodology]]).
 
 ## Chemical Family Context
 
 5-MeO-DET is a member of the 5-methoxytryptamine family, which represents
 one of the most potent classes of oral tryptamine psychedelics. The 5-methoxy
 group dramatically enhances potency compared to unsubstituted tryptamines,
-with most members active in the 1-20 mg range orally.
+with most members active in the 1-20 mg range orally. (see [[tryptamine-family-overview]]).
 
 The compound's designation as "CC" in Shulgin's systematic code reflects its
 position in the matrix of 5-methoxylated tryptamines organized by nitrogen

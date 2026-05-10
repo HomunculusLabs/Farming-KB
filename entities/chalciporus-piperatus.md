@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Chalciporus piperatus." MushroomExpert.com. https://www.mushroomexpert.com/chalciporus_piperatus.html
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes." Syracuse University Press.
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "growing-gourmet-north-american-reishi-species Boletes." Syracuse University Press.
   - Watling, R. & Hills, A.E. (2005). "Boletes and their Allies." Royal Botanic Gardens, Kew.
   - Klofac, W. (2011). "The genus Chalciporus (Boletales) — a review." Österreichische Zeitschrift für Pilzkunde, 20, 31–44.
 ---

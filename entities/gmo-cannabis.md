@@ -134,10 +134,6 @@ The caryophyllene-dominant profile is unusual and directly responsible for the g
 - **Original Mamiko cut:** The clone-only breeder cut remains the gold standard for phenotype
 
 ## See Also
-
-- [[bubba-kush]] — Indica with similarly heavy sedative effects
-- [[do-si-dos-entity]] — GSC-derived strain with balanced hybrid effects
-
-## See Also
-
+- [[bubba-kush]]
+- [[do-si-dos-entity]]
 - [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

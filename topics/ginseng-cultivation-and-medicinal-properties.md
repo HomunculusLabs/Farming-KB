@@ -121,7 +121,6 @@ profile in traditional terms. Panax notoginseng contains exceptionally
 high levels of Rb1, Rg1, and notoginsenoside R1, with particular
 affinity for cardiovascular and hemostatic applications.
 
-Ginsenosides exert diverse biological effects depending on their
 ## See Also
 
 [[medicinal-herb-growing-guide]] | [[forest-gardening-and-food-forests]]

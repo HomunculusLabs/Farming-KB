@@ -83,7 +83,7 @@ Conservation priorities for the species include population monitoring on public 
 - [[baptisia-australis]]
 - [[baptisia-tinctoria]]
 - [[lupinus-perennis]]
-- [[lupinus-argenteus]]
+- lupinus argenteus
 - [[lupinus-polyphyllus]]
 - [[robinia-pseudoacacia]]
 - [[trifolium-pratense]]

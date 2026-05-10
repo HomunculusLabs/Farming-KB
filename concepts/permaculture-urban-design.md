@@ -16,10 +16,10 @@ Urban permaculture applies ecological design principles to cities, towns, and de
 Even a small balcony can produce a meaningful amount of food and serve as a habitat for pollinators.
 
 ### Design Principles
-- **Vertical growing** — trellises, [[hamilton-hanging-baskets-organic]], wall-mounted planters, stackable containers
+- **Vertical growing** — trellises, hanging baskets, wall-mounted planters, stackable containers
 - **Microclimate awareness** — balconies have specific sun exposure, wind patterns, and temperature extremes
 - **Water efficiency** — self-watering containers, drip irrigation from a single tap
-- **[[comparison-season-extension-techniques-vs-cold-frame-gardening]]** — cold frames, row covers, and shade cloth [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season
+- **Season extension** — cold frames, row covers, and shade cloth extend the growing season
 
 ### Productive Balcony Plants
 - **Herbs** — basil, mint, rosemary, thyme, cilantro, parsley
@@ -65,7 +65,7 @@ Community gardens are shared growing spaces where individuals or groups cultivat
 
 ### Permaculture Features in Community Gardens
 - Composting stations for organic waste from plots and surrounding community
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]] from nearby buildings
+- Rainwater harvesting from nearby buildings
 - Fruit trees and berry bushes in shared areas
 - Pollinator habitat (flower borders, insect hotels, native plant areas)
 - Children's garden areas for education
@@ -80,7 +80,7 @@ Community gardens are shared growing spaces where individuals or groups cultivat
 
 ## Food Forests in Cities
 
-Urban food forests are multi-layered perennial polycultures that produce food while providing [[biodiversity-of-fungi-ecosystem-services-agriculture]] in urban environments.
+Urban food forests are multi-layered perennial polycultures that produce food while providing ecosystem services in urban environments.
 
 ### Design Considerations
 - **Species selection** — choose compact, disease-resistant varieties suited to urban conditions
@@ -137,7 +137,7 @@ See [[permaculture-animal-integration]] for multi-species strategies.
 
 ## See Also
 
-- [[permaculture-ethics-and-principles]] — applying [[williams-pdc-permaculture-ethics-and-holmgrens-principles]] in urban contexts
+- [[permaculture-ethics-and-principles]] — applying permaculture ethics in urban contexts
 - [[water-management]] — urban water harvesting and greywater
 - [[permaculture-food-waste-cycling]] — composting and waste cycling in small spaces
 - [[permaculture-community-resilience]] — building resilient urban communities

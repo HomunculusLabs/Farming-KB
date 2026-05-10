@@ -26,11 +26,11 @@ sources:
 
 # Pablo Amaringo
 
-Pablo Amaringo (1938-2009) was a Peruvian vegetalista (plant healer), shaman, and artist from the Ucayali region of the Peruvian Amazon. He became internationally renowned for his intricate visionary paintings depicting ayahuasca experiences, Amazonian plant spirits, and the invisible world of the vegetalista.
+Pablo Amaringo (1938-2009) was a Peruvian vegetalista (plant healer), shaman, and artist from the Ucayali region of the Peruvian Amazon. He became internationally renowned for his intricate visionary paintings depicting ayahuasca experiences, Amazonian plant spirits, and the invisible world of the vegetalista. (see [[ayahuasca-visions]]).
 
 ## Biography
 
-Amaringo was born in the jungle of the Ucayali region of Peru. He became a riverside vegetalista, dedicating many years to obtaining knowledge through ayahuasca. His training followed the traditional path of Amazonian plant medicine, involving strict dietary restrictions, isolation, and progressive initiation through the three degrees of vegetalista medicine: muraya, sumi, and banco.
+Amaringo was born in the jungle of the Ucayali region of Peru. He became a riverside vegetalista, dedicating many years to obtaining knowledge through ayahuasca. His training followed the traditional path of Amazonian plant medicine, involving strict dietary restrictions, isolation, and progressive initiation through the three degrees of vegetalista medicine: muraya, sumi, and banco. (see [[vegetalista-shamanism]]).
 
 ## Philosophy
 
@@ -92,7 +92,7 @@ Amaringo describes the two plants as snake spirits:
 
 ## Legacy
 
-Amaringo's paintings bridge [[mckenna-food-gods-amazonian-shamanism-ayahuasca]] and the global art world, providing an unparalleled visual record of ayahuasca visionary experiences. His work contributed to international awareness of Amazonian plant medicine traditions and the concept of plant consciousness.
+Amaringo's paintings bridge Amazonian shamanism and the global art world, providing an unparalleled visual record of ayahuasca visionary experiences. His work contributed to international awareness of Amazonian plant medicine traditions and the concept of plant consciousness.
 
 ## See Also
 

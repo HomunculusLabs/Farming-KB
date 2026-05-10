@@ -18,7 +18,7 @@ sources:
   - The Fungal Kingdom, comprehensive mycology reference
   - Medicinal Mushrooms: Their therapeutic properties and current medical usage
   - AHCC Research Association data
-  - Beta-Glucan [[tihkal-receptor-binding-serotonin]] research
+  - Beta-Glucan tihkal-receptor-binding-serotonin research
   - Ganoderma/Reishi research
   - Chaga research
   - Maitake D-fraction research
@@ -88,7 +88,6 @@ without the attendant pathogenicity of live fungi, they activate immune
 monitoring without causing disease, effectively serving as a gentle training
 signal for immune cells.
 
-The primary receptor for beta-glucans on immune cells is complement receptor
 ## See Also
 
 - [[ahcc-active-hexose-correlated-compound]]

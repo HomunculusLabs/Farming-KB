@@ -26,7 +26,7 @@ sources:
     journal: "Phytochemistry"
     year: 2019
     url: "https://doi.org/10.1016/j.phytochem.2018.01.025"
-  - title: "Systemic Acquired Resistance and [[endophytic-mycorrhizal-induced-systemic-resistance]] Resistance in Plant Defense"
+  - title: "Systemic Acquired Resistance and endophytic-mycorrhizal-induced-systemic-resistance Resistance in Plant Defense"
     author: "Fu, Z.Q. & Dong, X."
     journal: "Annual Review of Plant Biology"
     year: 2013

@@ -15,7 +15,7 @@ updated: 2026-04-12
 
 # Fungal Sampling Methods
 
-Standardized methods for documenting fungal biodiversity across habitats. Fungal [[ingham-soil-food-web-diversity-assessment-dna-molecular-methods]] requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
+Standardized methods for documenting fungal biodiversity across habitats. Fungal diversity assessment requires specialized techniques that differ markedly from plant or animal survey methods because most fungi are microscopic for much of their life cycle, and fruiting is often episodic.
 
 ## General Principles
 
@@ -30,8 +30,8 @@ Standardized methods for documenting fungal biodiversity across habitats. Fungal
 - GPS, camera, field notebook, collection bags
 - Hand lens (10x), knife, pruning shears
 - Sterile collection containers (paper bags, not plastic for mushrooms)
-- [[myxomycete-sampling-collection-moist-chamber-culturing]] supplies (Petri dishes, filter paper, distilled water)
-- Microscope slides, coverslips, [[fungal-microscopic-examination-mounting-media-techniques]]
+- Moist chamber supplies (Petri dishes, filter paper, distilled water)
+- Microscope slides, coverslips, mounting media
 - Temperature/humidity data logger
 
 ## Habitat-Specific Methods
@@ -119,11 +119,11 @@ Standardized methods for documenting fungal biodiversity across habitats. Fungal
 
 ### Freshwater Fungi (see [[freshwater-fungi-biodiversity]])
 
-Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 week-1 month); examine algae, aquatic plants, insect exuviae. Peronosporomycetes: hemp seed/snake skin baiting in water; [[particle-filtration-dilution-plating-microfungal-isolation]] for Pythium. Ascomycetes/hyphomycetes: collect submerged wood and plant debris, stream leaf litter bags, bubble chamber for aquatic spores. See [[freshwater-fungi-biodiversity]] for detailed protocols.
+Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 week-1 month); examine algae, aquatic plants, insect exuviae. Peronosporomycetes: hemp seed/snake skin baiting in water; dilution plating for Pythium. Ascomycetes/hyphomycetes: collect submerged wood and plant debris, stream leaf litter bags, bubble chamber for aquatic spores. See [[freshwater-fungi-biodiversity]] for detailed protocols.
 
 ### Endophytic Fungi
 
-**[[challenge-organisms-nasa-microwave-surface-sterilization-testing]] protocol**:
+**Surface sterilization protocol**:
 1. Collect healthy-looking leaves/stems
 2. Wash in 70% ethanol (30 sec) - 2.5% sodium hypochlorite (2-5 min) - 70% ethanol (30 sec)
 3. Rinse in sterile distilled water
@@ -136,14 +136,15 @@ Chytrids: bait with chitin, cellulose, keratin, or pollen (in situ mesh bags 1 w
 **Moist chamber method**:
 - Standard for protostelids, dictyostelids, and smaller myxomycetes
 - Substrata placed in Petri dishes on moist filter paper
-- Incubate at [[jadam-ambient-temperature-principle]]
+- Incubate at ambient temperature
 - Examine microscopically for fruiting bodies over 4-12 weeks
 
 **Soil plating** (dictyostelids):
 - Soil/litter samples plated on weak nutrient agar with E. coli
 - Emerging colonies documented
-## Related Topics
+- Most clones isolated from surface humus layers
 
-- [[fungal-biodiversity-biogeography]] — Global diversity patterns
-- [[freshwater-fungi-biodiversity]] — Aquatic fungal sampling
-- [[coprophilous-fungi]] — Dung fungal methods
+## Quantitative Methods
+
+### Diversity Indices
+- Species richness (S): total number of species

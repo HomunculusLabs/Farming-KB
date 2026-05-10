@@ -1,12 +1,11 @@
 ---
-title: coleman-deep-organic-farming-philosophy History
+title: Organic Farming History
 created: 2026-04-11
 updated: 2026-04-12
 type: query
 tags: [timeline, regenerative, living-soil, soil, microbes, ecology, history, sustainability, homesteading]
 sources:
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+- raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 - raw/articles/nicole-faires-the-ultimate-guide-to-natural-farming-and.md
 - raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
@@ -26,7 +25,7 @@ and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
   All agriculture is "organic" by default.
   Farmers rely on animal manure, composting, crop rotation,
   fallow periods, green manures, and mixed farming systems.
-  Soil fertility maintained through closed-loop [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
+  Soil fertility maintained through closed-loop nutrient cycling.
 
 - **Ancient China and Japan — Intensive organic systems:**
   Thousands of years of sustained fertility through night soil recycling,
@@ -73,7 +72,7 @@ and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
   for fertilizer. Global trade in mineral fertilizers expands dramatically.
 
 - **1909-1913 — Haber-Bosch process:**
-  Fritz Haber and Carl Bosch develop industrial [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]],
+  Fritz Haber and Carl Bosch develop industrial nitrogen fixation,
   synthesizing ammonia from atmospheric nitrogen and hydrogen.
   Transforms global agriculture but begins the cycle of soil degradation,
   water pollution, and dependence on fossil fuels.
@@ -93,8 +92,8 @@ and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
 
 - **1924 — Rudolf Steiner's biodynamics:**
   Steiner delivers his Agriculture Course in Koberwitz, Silesia,
-  founding [[query-what-is-biodynamic-agriculture-and-how-does-it-differ-from-organic]].
-  Key practices: lunar planting calendars, [[comparison-biodynamic-preparations-vs-biofertilizers]] (BD 500-508),
+  founding biodynamic agriculture.
+  Key practices: lunar planting calendars, biodynamic preparations (BD 500-508),
   compost inoculation, and integration of livestock and crops.
   The farm as a self-sustaining living organism.
   Demeter certification established in 1928.
@@ -137,14 +136,15 @@ and [[conventional-vs-organic-vs-regenerative]] for paradigm comparisons.
   Fukuoka's seminal work published, translated into 25+ languages.
   Influences [[bill-mollison]] and [[david-holmgren]] in developing permaculture.
 
-## Related Pages
+- **1960s-1980s — Korean Natural Farming (KNF) develops:**
+  [[cho-han-kyu]] (Master Cho, 1935-2018) develops KNF,
+  using indigenous microorganisms (IMO), fermented plant extracts (FPJ),
+  fish amino acids (FAA), oriental herbal nutrients (OHN),
+  and other locally-sourced inputs.
+  Based on the principle of "feeding the microbes that feed the plants."
+  See [[knf-preparations]] and [[indigenous-microorganisms-imo]].
 
-- [[regenerative-agriculture-history]] — modern regenerative synthesis
-- [[natural-farming-fukuoka]] — Fukuoka's do-nothing [[fukuoka-do-nothing-farming-philosophy-and-practice]]
-- [[natural-farming-vs-organic-vs-conventional]] — three-way paradigm comparison
-- [[conventional-vs-organic-vs-regenerative]] — detailed paradigm comparison
-- [[knf-preparations]] — KNF input catalog with recipes
-- [[jadam-methods]] — ultra-low-cost organic farming methods
-- [[soil-food-web-nutrient-cycling]] — biological foundation of organic/regenerative practices
-- [[compost-tea-aact]] — actively aerated compost tea for soil biology
-- [[geoff-hamilton]]
+- **1970s-1980s — JADAM develops from KNF:**
+  Youngsang Cho develops JADAM as a simplified, ultra-low-cost version of KNF.
+  Core principle: if farming input costs exceed $100/acre/year, something is wrong.
+  All inputs from locally foraged or farmed materials.

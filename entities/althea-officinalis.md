@@ -103,6 +103,8 @@ Within Malvaceae, *Abelmoschus esculentus* (okra) shares the characteristic muci
 
 ## See Also
 
+- [[rosmarinus-officinalis-entity]]
+
 - [[glycyrrhiza-glabra]]
 - [[aloe-vera]]
 - [[verbascum-thapsus]]

@@ -141,7 +141,6 @@ navigation. Nasturtiums serve as a trap crop for aphids while repelling
 whitefly. Marigolds deter root-knot nematodes. The key is interplanting these
 throughout the guild rather than concentrating them in one area.
 
-Insectary plants attract pollinators and predatory insects. Umbellifers like
 ## See Also
 - [[hemenway-mulch-makers-and-plant-functional-roles]]
 - [[hemenway-guild-member-roles-and-species-selection]]

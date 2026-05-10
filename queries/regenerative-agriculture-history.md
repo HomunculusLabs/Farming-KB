@@ -5,7 +5,7 @@ updated: 2026-04-12
 type: query
 tags: [timeline, regenerative, living-soil, soil, microbes, ecology, history, sustainability, homesteading, carbon-sequestration]
 sources:
-sources: []
+- raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 ---
 
 # Regenerative Agriculture History
@@ -26,7 +26,7 @@ for the conceptual framework.
 
 - **2007-2010s — No-till farming spreads:**
   Gabe Brown (North Dakota), Ray Archuleta (NRCS), and others
-  demonstrate that no-till + [[fukuoka-clover-cover-cropping-soil-ecology]] + diverse rotations
+  demonstrate that no-till + cover cropping + diverse rotations
   can regenerate degraded soils.
   See [[no-till-gardening-method]].
 
@@ -45,7 +45,7 @@ for the conceptual framework.
 - **2015 — Project Drawdown:**
   Paul Hawken's Project Drawdown identifies regenerative agriculture,
   silvopasture, and other farming practices as among the top solutions
-  for reversing [[dighton-fungi-climate-change-feedback]].
+  for reversing climate change.
 
 - **2018 — US organic market exceeds $50 billion:**
   Organic food sales reach $52.5 billion in the US.
@@ -53,7 +53,7 @@ for the conceptual framework.
 
 - **2019 — Kiss the Ground documentary:**
   Raises public awareness of regenerative agriculture
-  and soil [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]].
+  and soil carbon sequestration.
 
 ## 2020s — Regenerative Certification and Living Soil
 
@@ -65,13 +65,13 @@ for the conceptual framework.
 
 - **2020s — Living soil movement:**
   Integration of KNF, JADAM, and soil food web principles
-  into [[query-how-does-no-till-cannabis-cultivation-work]], market gardening, and homesteading.
+  into cannabis cultivation, market gardening, and homesteading.
   Living soil approaches emphasize building self-sustaining
   soil ecosystems rather than adding external inputs.
   See [[cannabis-living-soil-guide]] and [[cannabis-growing-mediums]].
 
 - **2020s — KNF and JADAM global spread:**
-  Korean [[comparison-natural-farming-vs-permaculture]] and JADAM spread worldwide through online communities.
+  Korean Natural Farming and JADAM spread worldwide through online communities.
   Particularly adopted among cannabis growers
   and tropical agriculture practitioners.
   See [[cho-han-kyu]] and [[jadam-methods]].
@@ -90,5 +90,5 @@ for the conceptual framework.
 - [[elaine-ingham]] — soil food web pioneer
 - [[no-till-gardening-method]] — key regenerative practice
 - [[knf-preparations]] — KNF input catalog with recipes
-- [[jadam-methods]] — ultra-low-cost [[coleman-deep-organic-farming-philosophy]] methods
+- [[jadam-methods]] — ultra-low-cost organic farming methods
 - [[cannabis-living-soil-amendment-schedule]] — applied living soil techniques

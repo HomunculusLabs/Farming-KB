@@ -134,6 +134,8 @@ and animal relationships form an interconnected web.
 - [[bacterial-endophytes-plant-roots]]
 - mycorrhizal-plant-signaling
 ## See Also
+
+- [[rhodopsin-photopsins-animal-visual-pigments-plant-photoreceptor-parallels]]
 - [[mimosa-pudica]]
 - [[mycorrhizal-fungi]]
 - [[tompkins-plant-perception-experiments]]

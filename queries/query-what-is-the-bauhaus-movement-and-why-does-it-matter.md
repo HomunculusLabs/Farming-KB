@@ -71,6 +71,8 @@ These signals do not prove direct Bauhaus origin, but they show the movement's c
 - [[bill-mollison]] permaculture
 
 ## See Also
+
+- [[query-what-is-the-rhizosphere-and-why-does-it-matter-for-plants]]
 - [[query-what-is-tissue-culture-and-why-does-it-matter-for-growers]]
 ## Practical Considerations
 

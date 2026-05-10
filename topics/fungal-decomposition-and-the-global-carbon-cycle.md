@@ -140,7 +140,6 @@ release as carbon dioxide, while brown rot leaves behind a more recalcitrant
 carbon pool that can contribute to long-term soil carbon storage.
 
 ## Mycelial Foraging Strategies in Heterogeneous Environments
-
 ## See Also
 
 - [[fungal-decomposition-nutrient-cycling-ecosystems-dighton]]

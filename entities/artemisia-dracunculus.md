@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - "Rivera, D. et al. (2006). \"Artemisia dracunculus: A review.\" J Ethnopharmacol, 107(3), 320-331."
   - "Greaves, J. et al. (2014). \"Chemical composition of tarragon.\" Food Chemistry, 155, 337-343."
-  - "Kaufmann, A. (2014). [[holzer-medicinal-and-culinary-herbs-compendium]] and Spices of the World. Royal Botanic Gardens, Kew."
-  - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press."
+  - "Kaufmann, A. (2014). holzer-medicinal-and-culinary-herbs-compendium and Spices of the World. Royal Botanic Gardens, Kew."
+  - "Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. 2nd ed. CRC Press."
 ---
 
 # Artemisia dracunculus
@@ -94,5 +94,7 @@ coiled root system. "Tarragon" derives from Arabic *tarkhūn* via Latin *tarchon
 - **Multi-use:** Culinary, medicinal, aromatic, ornamental in one perennial
 
 ## See Also
+
+- [[dracunculus-vulgaris]]
 
 - [[artemisia-annua]] — Sweet wormwood, source of antimalarial [[ocimum-basilicum]] — Basil, fellow fine herbe

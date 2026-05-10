@@ -1,11 +1,11 @@
 ---
-title: guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution Profile
+title: Psilocybe semilanceata Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [species-profiles, species-identification, mycology, psilocybin, potency, temperate, europe, distribution]
 sources:
-  sources: []
+  - raw/papers/psilocybin-mushrooms-of-the-world-stamets.md
   - raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md
 ---
 
@@ -13,11 +13,11 @@ sources:
 
 ## Overview
 
-Psilocybe semilanceata, the [[peter-mantle-liberty-cap-chromatographic-discovery-1969]], is the classic and most widely known psychoactive mushroom of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of psilocybin intoxication occurred with this species in London's St. James's Green Park in 1799.
+Psilocybe semilanceata, the liberty cap, is the classic and most widely known psychoactive mushroom of Europe. It may be the most common psychoactive Psilocybe mushroom in the world. The first documented case of psilocybin intoxication occurred with this species in London's St. James's Green Park in 1799. (see [[psilocybin-mushrooms-overview]]).
 
 ## Taxonomy
 
-- **Species**: Psilocybe semilanceata (Fr.) Kumm. / (Fr.) Quel.
+- **Species**: Psilocybe semilanceata (Fr.) Kumm. / (Fr.) Quel. (see [[psilocybe-natmansii]]).
 - **Synonyms**: Agaricus semilanceatus Fr., Coprinarius semilanceatus Fr., Panaeolus semilanceatus (Fr.) Lge.
 - **Common names**: Liberty cap
 
@@ -27,7 +27,7 @@ Psilocybe semilanceata, the [[peter-mantle-liberty-cap-chromatographic-discovery
 - **Gills**: Olive brown to blackish purple brown, crowded, edges often remaining white. Attachment adnexed to roughly linear.
 - **Stem**: 6-12 cm long, 1.25-2 mm thick, very slender and always twisted. Yellowish or whitish; areas under pressure develop bluish-green stains. Cortinate fibrils appear at center like remnants of a veil.
 - **Flesh**: Pale yellow in cap, ocher brown in stem. Odorless, mild flavor.
-- **[[comparison-spore-print-collection-vs-spore-syringe-production]]**: Blackish purple brown.
+- **Spore print**: Blackish purple brown.
 - **Spores**: 12-16 x 6-8 micrometers, elongated to elliptical.
 
 ## Potency
@@ -42,11 +42,11 @@ Psilocybe semilanceata, the [[peter-mantle-liberty-cap-chromatographic-discovery
 - **Season**: August to October.
 - **Altitude**: From sea level to 1,720 meters in mountainous regions.
 - **European range**: Finland, Norway, Sweden, Denmark, Germany, Switzerland, Austria, Netherlands, Belgium, France, Russia, Poland, Czech Republic, Hungary, Romania, Scotland, England, Wales, Italy, Spain.
-- **Global range**: Also found in [[psilocybin-north-america-pacific-northwest]] (Northern California to British Columbia, and the Pacific Northwest), Australia, and Asia.
+- **Global range**: Also found in North America (Northern California to British Columbia, and the Pacific Northwest), Australia, and Asia.
 
 ## Historical Significance
 
-The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby, is the earliest known case of psilocybin [[panaeolus-mushroom-intoxication-history]]. Symptoms included dilated pupils, spontaneous laughter, delirium, and visual disturbances. M.C. Cooke (c. 1900) later noted that only the blue-bruising variety caused symptoms.
+The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby, is the earliest known case of psilocybin mushroom intoxication. Symptoms included dilated pupils, spontaneous laughter, delirium, and visual disturbances. M.C. Cooke (c. 1900) later noted that only the blue-bruising variety caused symptoms.
 
 ## Distinguishing Features
 
@@ -60,21 +60,3 @@ The 1799 intoxication of a London family, documented by E. Brande and J. Sowerby
 - [[psilocybe-azurescens-profile]] -- shares high baeocystin content
 - [[psilocybe-cubensis-profile]] -- tropical dung species
 - [[psilocybe-mexicana-profile]] -- subtropical grassland equivalent
-## Practical Considerations
-
-Successful implementation of Psilocybe semilanceata Profile requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

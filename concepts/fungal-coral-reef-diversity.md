@@ -4,8 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungal Diversity in Coral Reef and Marine Substrates Coral reefs and associated marine substrates represent one of the most biodiverse yet poorly documented habitats for marine fungi. The complex three-dimensional structure of reef systems provides diverse microhabitats for fungal colonization. [[fungal-biodiversity]] [[marine-fungal-diversity]] [[lichenized-fungi-detailed]] [[fungal-parasites]] [[marine-fungal-diversity]] fungal lichens
 

@@ -103,7 +103,7 @@ Make multiple copies for different analytical layers:
 2. Surface water flow and soil types
 3. Vegetation and existing plant communities
 4. Microclimates
-5. [[permaculture-access-and-circulation-design]]
+5. Access and circulation
 6. Buildings and infrastructure
 
 ## Mapping Techniques
@@ -135,15 +135,20 @@ After mapping contours, chart surface water flow:
 ## Scale Considerations
 
 Choose a scale appropriate to your property size and the level of detail needed:
-## Related
 
-- [[crispr-base-editing]] Concepts
+- Too small a scale (too zoomed out) and you cannot show design details
+- Too large a scale (too zoomed in) and the map becomes unwieldy with multiple sheets
+- The scale should allow you to show the smallest detail you need to design while fitting the entire property on one sheet
 
-- [[permaculture-site-analysis]]
-- [[permaculture-site-assessment-checklist]]
-- [[permaculture-design-methods]]
-- [[zone-sector-analysis-guide]]
-- [[permaculture-slope-analysis-and-reading]]
-- [[permaculture-sector-analysis]]
-- [[permaculture-access-and-circulation-design]]
-- [[permaculture-garden-design-process]]
+## Digital Mapping Tools
+
+Modern permaculture designers increasingly use digital tools:
+
+- **Google Earth/Google Maps**: Free imagery, measurement tools, and export capabilities
+- **GIS software (QGIS)**: Professional-grade mapping with multiple data layers
+- **CAD software**: Precise drafting for detailed designs
+- **Drawing apps**: SketchUp, Illustrator, or similar for attractive presentation maps
+
+
+## See Also
+- [[permaculture-mapping-and-reading-the-landscape]]

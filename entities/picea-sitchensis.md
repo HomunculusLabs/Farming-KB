@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
-  - Harris, A.S. (1990). "Picea sitchensis." In: Silvics of [[psilocybin-north-america-pacific-northwest]]. USDA Forest Service.
+  - Harris, A.S. (1990). "Picea sitchensis." In: Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
   - Packee, E.C. (1990). "Sitka Spruce." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of North America, Vol. 1.
   - IUCN Red List (2023). "Picea sitchensis."
 ---

@@ -1,5 +1,5 @@
 ---
-title: query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule
+title: Succession Planting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Succession Planting
 
-Succession planting is the practice of staggering plantings of the same or different crops throughout the [[savory-growing-season-and-non-growing-season-management]] to ensure continuous harvests and maximize garden productivity. Rather than planting everything at once and harvesting all at once, succession planting spreads production across weeks and months.
+Succession planting is the practice of staggering plantings of the same or different crops throughout the growing season to ensure continuous harvests and maximize garden productivity. Rather than planting everything at once and harvesting all at once, succession planting spreads production across weeks and months.
 
 ## Types of Succession Planting
 
@@ -120,7 +120,7 @@ With protection, many crops can be harvested through winter. See [[winter-garden
 
 ### Overwintering Crops
 
-Plant in fall for [[coleman-overwintered-onions-and-early-spring-crops]] harvest:
+Plant in fall for early spring harvest:
 
 - **Garlic**: Plant fall, harvest early summer
 - **Shallots**: Plant fall, harvest early summer
@@ -137,13 +137,14 @@ Plant in fall for [[coleman-overwintered-onions-and-early-spring-crops]] harvest
 3. For each crop, note days to maturity and preferred planting window
 4. Mark spring, summer, and fall plantings on a calendar
 5. Identify gaps in the calendar where beds will be empty
-6. Fill gaps with [[gaias-garden-cover-crops-soil-building]], succession plantings, or [[comparison-season-extension-techniques-vs-cold-frame-gardening]] crops
+6. Fill gaps with cover crops, succession plantings, or season extension crops
 7. Plan for overlap — have transplants ready when a crop is harvested
 
-## Related Topics
+### Maximizing Bed Productivity
 
-- [[winter-gardening-techniques]] for cold-season [[mushroom-growing-methods-comparison]]
-- [[season-extension-techniques]] for protecting crops from cold
-- [[seed-starting-reference]] for starting transplants on schedule
-- [[intercropping-systems]] for combining crops in space and time
-- [[cover-cropping-guide]] for filling gaps between cash crops
+- Aim for every bed to produce 2-3 crops per year (spring, summer, fall)
+- Use transplants to reduce the time a bed is occupied by a slowly establishing crop
+- Interplant fast crops (radishes) between slow crops (carrots, parsnips)
+- Use [[cover-cropping-guide]] for any period longer than 4 weeks between cash crops
+- Keep a garden journal recording actual planting and harvest dates to refine future plans
+

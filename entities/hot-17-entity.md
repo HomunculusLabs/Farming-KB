@@ -39,7 +39,7 @@ The compound represents the N-hydroxylated version of the  has an ethylthio grou
 
 2c-t-17
 
-[[mescaline-entity]]
+[[mescaline]]
 
 ## References
 

@@ -142,7 +142,4 @@ Under-hydrated grain cannot support sclerotia growth, and the result may be full
 ## See Also
 - [[substrate-consistency-water-absorption-grass-seed]]
 - [[grass-seed-water-absorption-and-moisture-calibration]]
-
-## See Also
-
 - [[grass-seed-water-absorption-variability-substrate-preparation]]

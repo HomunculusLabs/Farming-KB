@@ -93,7 +93,6 @@ subterranean fruiting bodies represents one of the most remarkable ecological
 transitions in the fungal kingdom. This hypogeous shift occurred independently
 in at least eight lineages spanning both the Ascomycota and Basidiomycota
 phyla, suggesting strong convergent evolutionary pressures. Three coordinated
-changes were required: the enclosure of spores within a protective peridium, the
 ## See Also
 
 - [[truffle-cultivation-basics]]

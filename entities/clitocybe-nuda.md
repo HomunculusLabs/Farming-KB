@@ -17,10 +17,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "[/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]"
-  - "Lincoff, G.H. (1981). 'National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms.' Knopf."
+  - "Lincoff, G.H. (1981). 'National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms.' Knopf."
   - "Arora, D. (1986). 'Mushrooms Demystified.' 2nd ed. Ten Speed Press."
   - "Stamets, P. & Chilton, J.S. (1983). 'The Mushroom Cultivator.' Agarikon Press."
-  - "Phillips, R. (2006). 'Mushrooms: A Comprehensive Guide to [[psilocybin-mushroom-identification-guide]].' Macmillan."
+  - "Phillips, R. (2006). 'Mushrooms: A Comprehensive Guide to psilocybin-mushroom-identification-guide.' Macmillan."
 ---
 
 # Clitocybe nuda

@@ -3,8 +3,7 @@ title: "What Are the query what are the best fish species for different aquaponi
 tags: [query, aquaponics, fish, aquaculture, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
-sources:
-  sources: []
+sources: []
 ---
 
 # What Are the Best Fish Species for Different Aquaponics Setups?

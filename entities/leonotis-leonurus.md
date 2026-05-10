@@ -140,6 +140,8 @@ In contemporary herbalism and ethnopharmacology, *L. leonurus* is used for:
 
 ## See Also
 
+- [[leonurus-japonicus]]
+
 - leonotis-nepetifolia
 
 - [[leonurus-cardiaca-entity]] — Motherwort (Lamiaceae relative)

@@ -9,7 +9,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - [[cannabis-terpene-pharmacology-and-entourage-effect]]

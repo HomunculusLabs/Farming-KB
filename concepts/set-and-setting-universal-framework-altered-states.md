@@ -142,7 +142,6 @@ regulatory and institutional constraints often limit therapists'
 ability to gain direct personal experience with the compounds they
 administer. This disconnect between the traditional requirement and
 modern institutional reality remains one of the unresolved tensions
-in the field.
 ## See Also
 
 - [[22s-23s-homobrassinolide-chemistry-and-synthesis]]

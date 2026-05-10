@@ -46,6 +46,17 @@ The logical progression for quality and consistency involves:
 
 Mushroom DS products may play a role in cancer chemoprevention — the prevention of cancer by ingestion of agents that prevent carcinogenesis. Epidemiological evidence from Japanese mushroom growers (regular consumers) shows lower cancer incidence compared to national averages. This preventive role differs from both primary prevention (e.g., smoking cessation) and chemotherapy (post-diagnosis treatment).
 
+## Key Bioactive Compounds
+
+Medicinal mushroom supplements derive their therapeutic potential from several classes of bioactive compounds:
+
+- **Beta-glucans**: The primary immunomodulatory polysaccharides found in most medicinal mushrooms. Beta-(1,3)/(1,6)-glucans from *Ganoderma lucidum* (reishi), *Trametes versicolor* (turkey tail), and *Lentinula edodes* (shiitake) activate innate immune responses through Dectin-1 and complement receptors on macrophages and natural killer cells. See [[medicinal-mushroom-immune-modulation]] for detailed mechanisms.
+- **Triterpenoids**: Particularly abundant in reishi mushroom (Ganoderma lucidum), these compounds exhibit anti-inflammatory, hepatoprotective, and antitumor properties. Over 150 triterpenoids have been identified from Ganoderma species alone.
+- **Ergothioneine**: A unique antioxidant amino acid found at high concentrations in many mushroom species. It accumulates in human tissues through diet and may protect against oxidative stress and chronic inflammation.
+- **Hericenones and erinacines**: Nerve growth factor-stimulating compounds from *Hericium erinaceus* (lion's mane) that have shown promise in supporting cognitive function and nerve regeneration in preclinical studies.
+
+Different [[mushroom-extraction-methods]] selectively extract different compound classes -- hot water extracts favor polysaccharides while alcohol extracts capture terpenoids and smaller phenolic compounds.
+
 ## Related
 
 - [[mushroom-delayed-release-supplements]]

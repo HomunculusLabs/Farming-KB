@@ -3,8 +3,7 @@ title: "How Do I query how do i control tomato blight Blight?"
 tags: [query, tomato, disease, blight, organic-gardening]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 
 # How Do I Control Tomato Blight?

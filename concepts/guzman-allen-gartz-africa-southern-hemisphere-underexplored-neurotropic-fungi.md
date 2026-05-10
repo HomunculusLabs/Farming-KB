@@ -135,16 +135,8 @@ catalogued by Guzmán, Allen, and Gartz.
 The underexplored regions represent a significant frontier for
 mycological discovery. Guzmán's experience consistently showed that
 whenever materials from previously unsampled regions are studied, new
-species are found. Africa alone could potentially double the known
-## See Also
 
-- [Four Groups of Neurotropic Fungi Global Distribution](four-groups-neurotropic-fungi-global-distribution-guzman-1998.md)
-- [Guzman Allen Gartz Global Psilocybe Biogeography](guzman-allen-gartz-global-psilocybe-biogeography.md)
-- [Guzman Africa Neurotropic Fungi Underexplored Biodiversity](guzman-africa-neurotropic-fungi-underexplored-biodiversity.md)
-- [Distribution of Neurotropic Fungi](distribution-of-neurotropic-fungi.md)
-- [Guzman Allen Gartz Amazonia and Unexplored Neotropical Regions](guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions.md)
+## See Also
 - [[guzman-allen-gartz-africa-underexplored-neurotropic-fungi]]
-
-## See Also
 - [[guzman-allen-gartz-neurotropic-fungi-vegetation-types-mesophytic-cloud-forest]]
 - [[guzman-allen-gartz-hongo-nine-distribution-types-neurotropic-fungi]]

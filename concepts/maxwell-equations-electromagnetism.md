@@ -69,7 +69,7 @@ equations characterizing each medium's electromagnetic response. For linear, iso
 media: **D** = ε**E** (ε = ε₀ε_r, permittivity), **B** = μ**H** (μ = μ₀μ_r,
 permeability), and **J** = σ**E** (Ohm's law, σ = conductivity). Vacuum constants are
 ε₀ = 8.854 × 10⁻¹² F/m and μ₀ = 4π × 10⁻⁷ H/m. For anisotropic media such as
-birefringent [[dislocation-theory-crystal-plasticity|crystal]]s, these become tensor relations: D_i = ε_ij E_j. In dispersive
+birefringent [[dislocation-theory-crystal-plasticity]] s, these become tensor relations: D_i = ε_ij E_j. In dispersive
 media, ε and μ depend on frequency ε(ω), producing chromatic dispersion. Nonlinear
 media exhibit intensity-dependent responses including the Kerr effect and second-
 harmonic generation, essential to nonlinear optics and photonics.
@@ -142,3 +142,6 @@ and **B** in Tesla. In **Gaussian CGS** (theoretical physics), ε₀ = μ₀ = 1
 and **B** share dimensions, and c appears explicitly in Faraday's and Ampère's laws.
 
 See also: [[natural-farming-guide-seed-saving-and-heirloom-varieties]]
+
+See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.

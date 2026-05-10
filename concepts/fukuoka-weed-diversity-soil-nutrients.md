@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative, soil]
-sources: sources:
+sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 

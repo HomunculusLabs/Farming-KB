@@ -1,17 +1,15 @@
 ---
-title: hamilton-cucumber-growing-organic Guide
+title: Cucumber Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [vegetables, gardening, cultivation, beginner, pest-control, harvesting]
-sources:
-  sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 ## Overview
 
-Cucumbers are warm-season vines that produce prolifically when given proper support, consistent moisture, and warm temperatures. They are among the most productive plants per square foot in the home garden. This guide covers trellising, pruning, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], pickling varieties, and pest management.
+Cucumbers are warm-season vines that produce prolifically when given proper support, consistent moisture, and warm temperatures. They are among the most productive plants per square foot in the home garden. This guide covers trellising, pruning, succession planting, pickling varieties, and pest management. (see [[brassica-growing-guide]]).
 
 ## Varieties
 
@@ -39,11 +37,11 @@ Cucumbers are warm-season vines that produce prolifically when given proper supp
 
 ## Trellising
 
-Trellising cucumbers is strongly recommended for better fruit quality, [[cervantes-pest-disease-prevention-overview]], and space efficiency.
+Trellising cucumbers is strongly recommended for better fruit quality, disease prevention, and space efficiency. (see [[strawberry-growing-guide]]).
 
 ### Benefits of Trellising
 - Straighter, cleaner fruit (no soil contact)
-- Better [[stamets-growing-room-air-circulation-co2-management]] reduces disease
+- Better air circulation reduces disease
 - Easier to spot and harvest fruit
 - Saves garden space — grow vertically
 - Reduces slug and ground pest damage
@@ -75,7 +73,7 @@ Pruning cucumbers improves air circulation, directs energy to fruit production, 
 
 ### Benefits
 - Earlier and larger fruit on the main vine
-- Reduced [[cervantes-powdery-mildew-prevention-treatment]] due to better airflow
+- Reduced powdery mildew due to better airflow
 - Easier to see and harvest fruit
 - Extends productive life of the plant
 
@@ -92,7 +90,7 @@ Cucumbers are productive but have a defined lifespan — succession planting ext
 
 ### Tips
 - Vining types have a longer productive window (8-10 weeks) than bush types (5-6 weeks)
-- Later successions often face more [[hamilton-pest-and-disease-control-organic]] pressure
+- Later successions often face more pest and disease pressure
 - In hot climates, mid-summer plantings may struggle — choose heat-tolerant varieties
 
 ## Planting and Care
@@ -144,7 +142,9 @@ Cucumber beetles are the primary pest of cucumbers and can devastate plantings.
 - **Spotted cucumber beetle**: Yellow with black spots, also feeds on other crops
 - Both transmit bacterial wilt, which kills vines rapidly
 
-## See Also
+### Damage
+- Adults chew holes in leaves, flowers, and fruit
+- Larvae feed on roots and underground stems
+- Most damaging: they transmit bacterial wilt (Erwinia tracheiphila)
+- Bacterial wilt causes vines to wilt suddenly and die — no cure once infected
 
-- [[bean-growing-guide]] for companion trellis crops
-- [[seasonal-gardening-calendar]] for planting dates

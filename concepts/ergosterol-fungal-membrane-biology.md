@@ -24,22 +24,22 @@ Many fungal membrane proteins require ergosterol for proper folding, trafficking
 
 - **H⁺-ATPase (Pma1)**: The primary plasma membrane proton pump essential for maintaining electrochemical gradients requires ergosterol for activity and stability
 - **Nutrient transporters**: , increased ergosterol content correlates with ethanol tolerance — a finding exploited in industrial fermentation strain development
-- **Temperature adaptation**: Psychrophilic [[soil-mycobiome]]iome assessment**: Ergosterol content correlates with total living fungal biomass (typically 5–50 μg/g soil in temperate ecosystems)
+- **Temperature adaptation**: Psychrophilic [[soil-mycobiome]] iome assessment**: Ergosterol content correlates with total living fungal biomass (typically 5–50 μg/g soil in temperate ecosystems)
 - **Indoor air quality**: Ergosterol in settled dust correlates with mold exposure and is used in epidemiological studies of respiratory health
 - **Food and feed safety**: Ergosterol levels indicate fungal contamination in grains and stored products
-- **Compost maturity**: Declining ergosterol-to-bacterial-marker ratios indicate progression from fungal-dominated to mature compost
+- **[[ingham-compost-quality-assessment-visual-microbial-indicators|Compost]] maturity**: Declining ergosterol-to-bacterial-marker ratios indicate progression from fungal-dominated to mature compost
 
 Analytical methods include HPLC with UV detection (λ = 282 nm), GC-MS after saponification, and LC-MS/MS for higher sensitivity. Modern methods achieve detection limits of 0.1–1 ng/mL.
 
 ## Ergosterol-Derived Vitamin D₂
 
-When exposed to ultraviolet B (UVB) radiation, ergosterol undergoes photolysis to form **ergocalciferol (vitamin D₂)**. The photolysis pathway proceeds through:
+When exposed to ultraviolet B (UVB) radiation, ergosterol undergoes photolysis to [[ingham-pleomorphism-microbial-form-shifting-soil-conditions|form]] **ergocalciferol (vitamin D₂)**. The photolysis pathway proceeds through:
 
 1. **Previtamin D₂**: UVB cleaves the B-ring (C9-C10 bond) to form previtamin D₂
 2. **Vitamin D₂**: Thermal isomerization to the more stable ergocalciferol form
 3. **Tachysterol and lumisterol**: Competing photoisomers formed at different UV wavelengths
 
-Vitamin D₂ is the primary dietary source of vitamin D for vegans and vegetarians, and is produced commercially by UV irradiation of ergosterol extracted from yeast (Saccharomyces cerevisiae) or mushroom ([[agaricus-bisporus]]) biomass. UV-exposed mushrooms can provide 100% of the daily vitamin D requirement per serving when irradiated during cultivation or post-harvest.
+Vitamin D₂ is the primary dietary source of vitamin D for vegans and vegetarians, and is produced commercially by UV irradiation of ergosterol extracted from yeast ([[saccharomyces-cerevisiae]] ae]]) or mushroom ([[agaricus-bisporus]]) biomass. UV-exposed mushrooms can provide 100% of the daily vitamin D requirement per serving when irradiated during cultivation or post-harvest.
 
 ## Industrial and Biotechnological Applications
 
@@ -51,7 +51,7 @@ Ergosterol and its derivatives have several commercial applications beyond antif
 - **Cosmetic ingredient**: Ergosterol derivatives are used in skin care formulations for their purported moisturizing and antioxidant properties
 ## Practical Considerations
 
-When working with Ergosterol Fungal Membrane Biology, several practical factors should be
+When worki ergosterol fungal membrane biology Biology, several practical factors should be
 carefully considered to achieve optimal results. These include
 the specific conditions of the implementation context, available
 resources, timing requirements, and the interactions between this

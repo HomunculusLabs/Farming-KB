@@ -110,7 +110,9 @@ Basalt dust is a valuable addition to composting and vermicomposting systems. Wh
 
 Basalt rock dust is considered an environmentally benign amendment when sourced responsibly. It is a natural geological material that introduces no synthetic chemicals, heavy metal contamination (when properly sourced), or persistent [[fungal-volatile-organic-compounds-communication]] into the soil. The carbon sequestration potential of enhanced silicate weathering is an active area of research: as basalt minerals weather, they consume atmospheric CO2 to form bicarbonate ions, potentially sequestering carbon in soil solution and eventually in ocean sediments. This process, called enhanced weathering, could contribute to climate change mitigation when applied at scale. Recent estimates suggest that spreading basalt dust on agricultural land could sequester 0.5-4 tonnes of CO2 per hectare per year, depending on climate, soil type, and application rate.
 
-## Related Topics
+## Related
+
+- [[natural-farming-do-nothing-agriculture]] Topics
 
 - [[rock-dust-soil-remineralization]]
 - [[biochar-soil-amendment]]

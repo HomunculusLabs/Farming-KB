@@ -135,16 +135,3 @@ soil management:
    rather than maximizing content
 4. **Water management** and **pH adjustment** fine-tune the community
    but have smaller effects within normal ranges
-
-## See Also
-
-- [[edaphic-determinants-cannabis-microbiome-community-structure]]
-- [[cannabis-microbiome-soil-type-composition-strain-structure]]
-- [[soil-type-otu-abundance-vs-strain-structure-cannabis-microbiome]]
-- [[two-tier-selection-model-plant-microbiome]]
-
-## Source
-
-- Winston ME, Hampton-Marcell J, Zarraonaindia I, et al. Understanding
-  Cultivar-Specificity and Soil Determinants of the Cannabis Microbiome.
-  *PLoS ONE* 9(6): e99641, 2014.

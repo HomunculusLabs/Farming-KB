@@ -141,7 +141,6 @@ experimental methods that purport to generate it.
 
 ## Significance in Natural Farming
 
-This argument is foundational to Fukuoka's broader philosophy. If soil microbial
 ## See Also
 - [[fukuoka-textdoc-soil-complexity-microorganisms-fertilizer-interactions]]
 - [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]

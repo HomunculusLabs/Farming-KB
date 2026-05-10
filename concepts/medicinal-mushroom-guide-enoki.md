@@ -1,21 +1,20 @@
 ---
-title: Enoki (Flammulina velutipes) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: Enoki (Flammulina velutipes) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, species-profiles, pharmacology]
-sources:
-  sources: []
+sources: []
 ---
 
 # Enoki (Flammulina velutipes)
 
 ## Overview
 
-Enoki, also known as enokitake in Japanese and winter mushroom or velvet foot in English, is a popular edible mushroom recognized by its long, thin white stems and small caps. It is one of the most widely consumed mushrooms in East Asia, particularly in Japan, China, and Korea, where it features prominently in hot pot dishes, soups, and noodle preparations.
+Enoki, also known as enokitake in Japanese and winter mushroom or velvet foot in English, is a popular edible mushroom recognized by its long, thin white stems and small caps. It is one of the most widely consumed mushrooms in East Asia, particularly in Japan, China, and Korea, where it features prominently in hot pot dishes, soups, and noodle preparations. (see [[medicinal-mushroom-guide-oyster]]).
 
 Two distinct forms exist:
-- **Wild type:** Brown-capped with shorter, thicker stems. Found growing on the stumps of trees in cold weather.
+- **Wild type:** Brown-capped with shorter, thicker stems. Found growing on the stumps of trees in cold weather. (see [[medicinal-mushroom-guide-chaga]]).
 - **Cultivated type:** Long, thin, white stems with tiny caps — produced by growing in complete darkness and elevated CO2, which etiolates the fruiting body.
 
 Beyond its culinary popularity, enoki has a growing body of research supporting immunomodulatory, anti-tumor, and neuroprotective properties.
@@ -48,7 +47,7 @@ Proflamin is the most distinctive medicinal compound in enoki:
 
 ### Beta-Glucans
 - Standard immunomodulatory mechanisms (macrophage activation, NK cell stimulation).
-- Present at lower levels than in dedicated [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] but still contribute to overall immune support.
+- Present at lower levels than in dedicated medicinal mushrooms but still contribute to overall immune support.
 
 ## Anti-Tumor Research
 
@@ -98,7 +97,7 @@ Enoki is a staple in East Asian cuisine:
 
 ### Medicinal Use
 - **Hot water extract:** Simmer dried enoki for 30-45 minutes. Extracts polysaccharides and proflamin.
-- **Dual extraction tincture:** Water + [[pf-tek-alcohol-extraction-method]] for comprehensive compound coverage.
+- **Dual extraction tincture:** Water + alcohol extraction for comprehensive compound coverage.
 - **Enoki broth:** Traditional method — simmer enoki in broth for soups. A palatable way to consume medicinal compounds.
 
 ### Important: Flammutoxin Safety
@@ -126,8 +125,8 @@ Enoki is commercially cultivated on a massive scale:
 - **Colonization:** 20-30 days at 68-72°F (20-22°C).
 - **Etiolation phase:** High CO2 (3000-5000 ppm), complete darkness, and cool temperatures (50-60°F / 10-15°C) produce the characteristic long, white stems.
 - **Fruiting time:** 14-20 days from induction to harvest.
-- **[[stamets-biological-efficiency-yield]]:** 80-120% (high-yielding).
-- One of the fastest and most productive [[fungi-cultivated-mushrooms-pathogens-competitors]].
+- **Biological efficiency:** 80-120% (high-yielding).
+- One of the fastest and most productive cultivated mushrooms.
 
 Wild enoki fruits in late fall through winter, even at temperatures near freezing.
 
@@ -136,7 +135,7 @@ Wild enoki fruits in late fall through winter, even at temperatures near freezin
 - **Must be cooked** — raw enoki contains flammutoxin.
 - Wash thoroughly to reduce bacterial contamination risk.
 - Generally safe when properly prepared.
-- Immune-stimulating effects — caution with [[cannabis-autoimmune-conditions-detailed]].
+- Immune-stimulating effects — caution with autoimmune conditions.
 - May interact with anticoagulant medications.
 - Avoid large medicinal doses during pregnancy and breastfeeding.
 - Ergothioneine supplementation is considered safe, but whole mushroom preparations have broader effects.

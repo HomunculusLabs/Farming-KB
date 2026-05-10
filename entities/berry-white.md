@@ -12,7 +12,7 @@ sources:
   - Leafly. "Berry White Cannabis Strain." www.leafly.com.
   - AllBud. "Berry White Weed Strain." www.allbud.com.
   - "Strainbank Genetics Database." www.strainbank.com.
-  - Mudge EM, Murch SJ (2020). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of Commercial Cannabis Strains." Cannabis and Cannabinoid Research 5(4).
+  - Mudge EM, Murch SJ (2020). "Cannabinoid and cannabis-terpene-profiles-sativa of Commercial Cannabis Strains." Cannabis and Cannabinoid Research 5(4).
 created: 2026-04-28
 ---
 
@@ -113,6 +113,8 @@ The "White" phenotype leans toward White Widow characteristics, with more abunda
 Crosses using Berry White as a parent include several modern strains that combine its flavor profile with increased potency or altered growth characteristics. Its genetics remain available from multiple seed banks, though clone-only cuts from established growers are often preferred for consistency.
 
 ## See Also
+
+- [[white-russian]]
 
 - [[granddaddy-purple]]
 - [[girl-scout-cookies]]

@@ -14,7 +14,7 @@ sources:
   - Leafly Strain Database. "Starfighter." leafly.com.
   - AllBud Strain Reviews. "Starfighter." allbud.com.
   - SeedFinder Database. "Starfighter." seedfinder.eu.
-  - Dutch Passion Seed Co. "[[cannabis-strain-breeding-techniques]] notes." dutch-passion.com.
+  - Dutch Passion Seed Co. "cannabis-strain-breeding-techniques notes." dutch-passion.com.
   - "Cannabis chemotype analysis of Chemdawg-derived hybrids." (2019). Journal of Cannabis Research.
 created: 2026-04-28
 ---

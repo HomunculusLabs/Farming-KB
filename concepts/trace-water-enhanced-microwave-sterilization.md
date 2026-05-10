@@ -16,7 +16,7 @@ type: concept
 
 # Trace Water Enhanced Microwave Sterilization
 
-Trace water enhanced [[microwave-water-interaction-2.45-ghz]]
+Trace water enhanced [[microwave-water-interaction-2-45-ghz]]
 
 - [[microwave-surface-sterilization]] for the overall technology
 - [[microwave-sterilization-of-enclosed-systems]] for penetration through barriers
@@ -100,10 +100,10 @@ expertise and contributing to the ongoing evolution of this field.
 
 ## See Also
 
-- [[microwave-water-interaction-2.45-ghz]]
+- [[microwave-water-interaction-2-45-ghz]]
 
 - [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]]
 
 - [[bacterial-spore-microwave-resistance]]
 
-- [[microwave-water-interaction-2.45-ghz]]
+- [[microwave-water-interaction-2-45-ghz]]

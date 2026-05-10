@@ -68,6 +68,8 @@
 
 ## See Also
 
+- [[plant-perception]]
+
 - [[query-what-are-pgpr-and-how-do-they-promote-plant-growth]]
 
 - [[query-how-do-phytohormones-regulate-plant-growth-and-stress-responses]]

@@ -144,4 +144,6 @@ Unlike classical glossolalia, which has been studied in religious contexts, the 
 ## See Also
 
 - [[psilocybin-compound-profile|Psilocybin]] — the orally active tryptamine found in [[guzman-magic-mushrooms-african-species]]
-- [[ayahuasca-pharmacology-and-drug-interactions|Ayahuasca]] — the DMT-containing Amazonian brew combining DMT with MAO inhibition - [[tryptamine-receptor-pharmacology|Tryptamine Receptor Interactions] — neuropharmacology of tryptamine binding - [[self-transforming-machine-elves|Self-Transforming Machine Elves]] — McKenna's account of DMT entities]]
+- [[ayahuasca-pharmacology-and-drug-interactions|Ayahuasca]] — the DMT-containing Amazonian brew combining DMT with MAO inhibition
+- [[tryptamine-receptor-pharmacology|Tryptamine Receptor Pharmacology]] — neuropharmacology of tryptamine binding
+- [[self-transforming-machine-elves|Self-Transforming Machine Elves]] — McKenna's account of DMT entities

@@ -1,26 +1,25 @@
 ---
-title: archaeology-of-psychedelic-mushroom-use Chemistry
+title: Psychedelic Mushroom Chemistry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, chemistry, biochemistry, psychopharmacology, entheogen, entheogen-research]
-sources:
-  sources: []
+sources: []
 ---
 
 # Psychedelic Mushroom Chemistry
 
 ## Overview
 
-Psychedelic mushrooms produce a family of tryptamine alkaloids, with psilocybin being the principal psychoactive compound. The chemistry of these compounds encompasses their biosynthesis in fungal tissue, their stability under various conditions, their metabolic conversion in the body, and their interaction with neural receptors.
+Psychedelic mushrooms produce a family of tryptamine alkaloids, with psilocybin being the principal psychoactive compound. The chemistry of these compounds encompasses their biosynthesis in fungal tissue, their stability under various conditions, their metabolic conversion in the body, and their interaction with neural receptors. (see [[norbaeocystin]]).
 
 ## Primary Compounds
 
 ### Psilocybin
 
-Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is the primary prodrug found in psilocybin-containing mushrooms. It is a zwitterionic compound at physiological pH, existing as a white crystalline solid. Its molecular formula is C12H17N2O4P with a molecular weight of 284.25 g/mol.
+Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is the primary prodrug found in psilocybin-containing mushrooms. It is a zwitterionic compound at physiological pH, existing as a white crystalline solid. Its molecular formula is C12H17N2O4P with a molecular weight of 284.25 g/mol. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
 
-Psilocybin itself is not directly psychoactive; it is a prodrug that is dephosphorylated in the body to form psilocin, the pharmacologically active compound. This dephosphorylation occurs primarily through the action of alkaline phosphatase enzymes in the intestinal wall and liver.
+Psilocybin itself is not directly psychoactive; it is a prodrug that is dephosphorylated in the body to form psilocin, the pharmacologically active compound. This dephosphorylation occurs primarily through the action of alkaline phosphatase enzymes in the intestinal wall and liver. (see [[psilocybin-chemistry-stability]]).
 
 ### Psilocin
 
@@ -30,7 +29,7 @@ Psilocin is present in smaller quantities in fresh mushrooms but can increase as
 
 ### Baeocystin
 
-Baeocystin (4-phosphoryloxy-N-methyltryptamine) is a structural analog of psilocybin with a mono-methylated terminal amine instead of dimethyl. It is found in most psilocybin-containing species, typically at 10-50% of the psilocybin concentration. Its pharmacological activity is less well characterized but it appears to have weak psychoactive properties, possibly contributing to the overall effect profile. The compound was first isolated from [[stamets-psi-psilocybe-baeocystis-knobby-tops]].
+Baeocystin (4-phosphoryloxy-N-methyltryptamine) is a structural analog of psilocybin with a mono-methylated terminal amine instead of dimethyl. It is found in most psilocybin-containing species, typically at 10-50% of the psilocybin concentration. Its pharmacological activity is less well characterized but it appears to have weak psychoactive properties, possibly contributing to the overall effect profile. The compound was first isolated from Psilocybe baeocystis.
 
 ### Norbaeocystin
 
@@ -49,20 +48,20 @@ This gene cluster has been identified in multiple distantly related fungal gener
 
 ## The Blueing Reaction
 
-When [[emcdda-psilocybin-mushroom-dose-and-effects]] tissue is damaged, a characteristic blue-to-blue-black coloration develops. This reaction is caused by the oxidation of psilocin and related phenolic compounds:
+When psilocybin mushroom tissue is damaged, a characteristic blue-to-blue-black coloration develops. This reaction is caused by the oxidation of psilocin and related phenolic compounds:
 
 1. Tissue damage exposes cellular contents to air
 2. Endogenous phosphatases dephosphorylate psilocybin to psilocin
 3. Psilocin is oxidized by polyphenol oxidase (PPO) enzymes to quinone intermediates
 4. These quinones polymerize into blue-colored compounds
 
-The intensity of blueing does not reliably correlate with potency. Some highly potent species (like [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]) blue weakly, while some weaker species blue strongly. Blueing is primarily a qualitative indicator, not a quantitative one.
+The intensity of blueing does not reliably correlate with potency. Some highly potent species (like Psilocybe semilanceata) blue weakly, while some weaker species blue strongly. Blueing is primarily a qualitative indicator, not a quantitative one.
 
 ## Stability and Degradation
 
 ### Psilocybin Stability
 
-Psilocybin is relatively stable compared to psilocin. Under proper [[vegetable-storage-conditions-by-temperature-and-humidity]], it degrades slowly:
+Psilocybin is relatively stable compared to psilocin. Under proper storage conditions, it degrades slowly:
 
 - **Room temperature, dry, dark**: Minimal degradation over 6-12 months
 - **Refrigerated (2-4°C), desiccant**: Near-complete preservation for 1-2 years
@@ -91,7 +90,7 @@ The conversion of psilocybin to psilocin (dephosphorylation) can occur through s
 - **Enzymatic**: Alkaline phosphatase in the GI tract is the primary in vivo pathway
 - **Chemical (acidic)**: Strong acids (pH < 3) can hydrolyze the phosphate ester. Lemon tek and similar acidic preparation methods may partially convert psilocybin to psilocin before ingestion
 - **Thermal**: Moderate heat in the presence of moisture accelerates enzymatic conversion
-- **Endogenous fungal enzymes**: Some residual [[mycorrhizal-phosphatase-activity-elf97-detection]] persists in dried material, slowly converting psilocybin over time
+- **Endogenous fungal enzymes**: Some residual phosphatase activity persists in dried material, slowly converting psilocybin over time
 
 ## Analytical Methods
 
@@ -114,7 +113,3 @@ Psilocybin content varies significantly based on species, strain, growing condit
 - **P. mexicana**: 0.1-0.4% — relatively low
 
 Intraspecific variation can be 3-5x within a single species, making generalizations unreliable. See [[psychedelic-mushroom-taxonomy]] for species-level detail and [[psychedelic-mushroom-dosage-guide]] for practical dosing considerations.
-
-## See Also
-
-- [[psychedelic-mushroom-set-and-setting]]

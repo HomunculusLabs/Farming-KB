@@ -16,7 +16,7 @@ sources:
   - Aronsen, A. & Laessøe, T. (2016). The genus Mycena in northern Europe. Naturhistoriska Riksmuseet.
   - Desjardin, D.E. et al. (2008). "Mycena section Calodontes in the Madrean Sky Islands." Mycologia, 100(6), 889-906.
   - Corner, E.J.H. (1994). Agarics in Malaysia and Singapore. Royal Botanic Gardens, Kew.
-  - Fuhrer, B. (2009). A [[ghouled-field-guide-historical-context]] to Australian Fungi. Bloomings Books.
+  - Fuhrer, B. (2009). A ghouled-field-guide-historical-context to Australian Fungi. Bloomings Books.
 ---
 
 # Mycena interrupta

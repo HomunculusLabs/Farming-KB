@@ -139,8 +139,8 @@ GSC has been widely used medicinally for:
 - [[donny-burger]]
 - [[oreoz]]
 
-- [[og-kush]]
-- [[cannabis-blue-dream]]
+- [[og-kush-cannabis-entity]]
+- [[blue-dream]]
 - [[northern-lights]]
 - [[gorilla-glue]]
 - [[cannabis-indica]]

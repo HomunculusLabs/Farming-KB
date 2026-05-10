@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Bernicchia, A. (2005). "Fungi Europaei: Polyporaceae s.l." Edizioni Candusso.
   - Ryvarden, L. & Gilbourn, L. (2004). "European Polyporaceae: Part 2." Synopsis Fungorum 21.
-  - Dai, Y.C. (2010). "Hymenochaetaceae (Basidiomycota) in China." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 45: 131–343.
+  - Dai, Y.C. (2010). "Hymenochaetaceae (Basidiomycota) in China." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 45: 131–343.
   - Kirk, P.M. et al. (2008). "Dictionary of the Fungi." 10th ed. CABI Publishing.
 created: 2026-04-28
 ---

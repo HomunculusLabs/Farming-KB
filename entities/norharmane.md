@@ -28,7 +28,7 @@ updated: 2026-04-28
 sources:
   - Hahn, R.A. et al. (1979). "Norharman: a potent MAO inhibitor." Research Communications in Chemical Pathology and Pharmacology, 26(1), 43–55.
   - Rommelspacher, H. et al. (1994). "Harman and norharman are endogenous monoamine oxidase inhibitors." Naunyn-Schmiedeberg's Archives of Pharmacology, 349(Suppl), R64.
-  - McIlhenny, E.H. et al. (2011). "β-Carboline alkaloid concentrations in the seeds of [[mckenna-food-gods-peganum-harmala-soma]] L." Phytochemistry Letters, 4(2), 136–139.
+  - McIlhenny, E.H. et al. (2011). "β-Carboline alkaloid concentrations in the seeds of mckenna-food-gods-peganum-harmala-soma L." Phytochemistry Letters, 4(2), 136–139.
   - Pfau, W. & Skog, K. (2004). "Exposure to β-carbolines and heterocyclic amines." Cancer Letters, 198(2), 117–126.
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
 created: 2026-04-28

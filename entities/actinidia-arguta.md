@@ -109,6 +109,8 @@ Actinidia species are susceptible to several [[bloomfield-fungal-pathogens-and-p
 
 ## See Also
 
+- [[abrus-precatorius]]
+
 - [[actinidia-chinensis]]
 - [[vitis-vinifera]]
 - [[vitis-labrusca]]

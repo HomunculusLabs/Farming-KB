@@ -1,5 +1,5 @@
 ---
-title: Town comparison-mandala-garden-design-vs-keyhole-garden-design
+title: Town Garden Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -12,11 +12,11 @@ sources:
 
 ## Purpose
 
-In principle, a garden in town has the same purpose as a [[holzer-kitchen-garden-herbs-and-medicinal-plants]]. [[comparison-sepp-holzer-vs-biodynamic]] considers town gardens more important today than ever. For people who live in towns without access to animals, forests, and fields, a garden provides the opportunity to experience at least a little nature. The size of the garden is of little importance -- the therapeutic effect of experiencing the marvel of creation is what matters.
+In principle, a garden in town has the same purpose as a kitchen garden. Sepp Holzer considers town gardens more important today than ever. For people who live in towns without access to animals, forests, and fields, a garden provides the opportunity to experience at least a little nature. The size of the garden is of little importance -- the therapeutic effect of experiencing the marvel of creation is what matters. (see [[purdue-garden-planning-and-layout]]).
 
 ## Design Principles
 
-Everything that applies to a kitchen garden can also be applied to a town garden. When space is limited, optimal design becomes even more critical.
+Everything that applies to a kitchen garden can also be applied to a town garden. When space is limited, optimal design becomes even more critical. (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
 
 ### Raised Beds and Terraces
 
@@ -32,7 +32,7 @@ Valuable space can be gained by creating raised beds and terraces. These provide
 
 Before landscaping begins, examine the existing soil. Urban soil may be so heavily polluted that it must be replaced with uncontaminated soil from an organic farm. Over time, active soil life develops through mixed crops and the absence of chemical pesticides and fertilisers. The regenerative power of the soil improves enormously.
 
-For heavy loam soil that is water and air impermeable: loosen and aerate by mixing in sand, straw, leaves, and chipped material ([[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]]).
+For heavy loam soil that is water and air impermeable: loosen and aerate by mixing in sand, straw, leaves, and chipped material (wood chip).
 
 **Important:** When using an excavator, first determine the location of telephone cables, gas, water, and sewage pipes.
 
@@ -40,7 +40,7 @@ For heavy loam soil that is water and air impermeable: loosen and aerate by mixi
 
 In small gardens, careful plant selection is critical to prevent shading. Tall-growing trees should not be planted. Instead:
 - Use house or shed walls for the masonry stove effect -- brick heat retention and radiation
-- Plant heat-loving [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] (peach, apricot) as espalier trees against walls
+- Plant heat-loving fruit trees (peach, apricot) as espalier trees against walls
 - Create tiered terraces using vertical surfaces at every level
 - Plant shrubs and fruit trees at staggered heights
 - Use trees as climbing aids for grapes, kiwi fruit, cucumbers, pumpkins, courgettes, peas, and beans
@@ -61,21 +61,3 @@ Children who grow up around nature learn from it through intensive observation. 
 - [[container-gardening-guide]] -- growing in small urban spaces
 - [[raised-bed-gardening]] -- constructing raised beds for limited areas
 - [[urban-farming-methods]] -- broader urban agriculture techniques
-## Practical Considerations
-
-Successful implementation of Town Garden Design requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

@@ -99,6 +99,8 @@ The fruits are consumed by frugivorous birds including the endemic laurel pigeon
 
 ## See Also
 
+- [[daemonorops-draco]]
+
 - [[yucca-filamentosa]]
 - [[corylus-avellana]]
 - [[quercus-suber]]

@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources:
-  sources: []
+sources: []
 ---
 Updated: 2026-04-18 Duckweed (Lemna spp.) is a tiny floating aquatic plant that is extremely high in protein — even more than soybeans. It serves as animal feed, human food in some cultures, and pond management tool. It plays a unique role in [[compost-building-guide]] ingredient when harvested
 

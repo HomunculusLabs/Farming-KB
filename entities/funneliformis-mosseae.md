@@ -14,7 +14,7 @@ sources:
   - Smith SE, Read DJ (2008). "Mycorrhizal Symbiosis." 3rd ed. Academic Press.
   - Schüßler A, Walker C (2010). "The Glomeromycota: a species list with descriptions." Royal Botanic Garden Edinburgh.
   - Tisdall JM, Oades JM (1979). "Stabilization of soil aggregates by the root systems of ryegrass." Australian Journal of Soil Research, 17(3), 429-441.
-  - Jeffries P et al. (2003). "The contribution of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi to the maintenance of plant structure and function." Botanical Journal of Scotland, 55(2), 145-155.
+  - Jeffries P et al. (2003). "The contribution of comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi fungi to the maintenance of plant structure and function." Botanical Journal of Scotland, 55(2), 145-155.
 ---
 
 ## Overview

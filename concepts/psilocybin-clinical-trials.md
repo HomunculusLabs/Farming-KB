@@ -1,5 +1,5 @@
 ---
-title: Psilocybin mushroom-cancer-clinical-trials-overview
+title: Psilocybin Clinical Trials
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-After a decades-long research hiatus caused by prohibition, clinical trials of psilocybin have experienced a dramatic resurgence since the early 2000s. These trials have demonstrated significant therapeutic potential across multiple psychiatric conditions, leading to large-scale Phase III studies and the first regulatory approvals for psilocybin-assisted therapy. This page summarizes the current state of clinical evidence.
+After a decades-long research hiatus caused by prohibition, clinical trials of psilocybin have experienced a dramatic resurgence since the early 2000s. These trials have demonstrated significant therapeutic potential across multiple psychiatric conditions, leading to large-scale Phase III studies and the first regulatory approvals for psilocybin-assisted therapy. This page summarizes the current state of clinical evidence. (see [[psilocybin-end-of-life-care]]).
 
 ## Treatment-Resistant Depression
 
@@ -19,9 +19,9 @@ After a decades-long research hiatus caused by prohibition, clinical trials of p
 
 The strongest evidence base for psilocybin is in treatment-resistant depression (TRD):
 
-- **Griffiths et al. (2016, Johns Hopkins)**: In a landmark open-label study, 51 patients with cancer-related depression and anxiety received moderate-to-high doses of psilocybin with psychological support. At 6-month follow-up, approximately 80% showed clinically significant reductions in depression and anxiety. Effects were sustained at 4.5-year follow-up.
+- **Griffiths et al. (2016, Johns Hopkins)**: In a landmark open-label study, 51 patients with cancer-related depression and anxiety received moderate-to-high doses of psilocybin with psychological support. At 6-month follow-up, approximately 80% showed clinically significant reductions in depression and anxiety. Effects were sustained at 4.5-year follow-up. (see [[roland-griffiths]]).
 
-- **Carhart-Harris et al. (2016, Imperial College London)**: 12 patients with moderate-to-severe TRD received two doses of psilocybin (10mg and 25mg) one week apart. All 12 showed reductions in depressive symptoms at 1 week; 8 of 12 were in remission at 3 months. This was a proof-of-concept open-label study with no control group.
+- **Carhart-Harris et al. (2016, Imperial College London)**: 12 patients with moderate-to-severe TRD received two doses of psilocybin (10mg and 25mg) one week apart. All 12 showed reductions in depressive symptoms at 1 week; 8 of 12 were in remission at 3 months. This was a proof-of-concept open-label study with no control group. (see [[psilocybin-assisted-therapy]]).
 
 - **Carhart-Harris et al. (2021, Imperial College London)**: Randomized controlled trial comparing psilocybin therapy with escitalopram (SSRI) in 59 patients with moderate-to-severe depression. Both groups improved, but the psilocybin group showed faster onset, greater effect size, and more robust improvements in secondary measures (wellbeing, suicidality, anhedonia).
 
@@ -82,7 +82,7 @@ Emerging evidence suggests psilocybin may be effective for eating disorders:
 
 ### Study Design Challenges
 
-Clinical [[early-paris-psilocybin-research-1960s]] faces unique methodological challenges:
+Clinical psilocybin research faces unique methodological challenges:
 
 - **Blinding**: Difficult to maintain due to conspicuous subjective effects. Active placebos (niacin, diphenhydramine, low-dose psilocybin) are used but imperfect
 - **Expectancy effects**: Patients often have strong expectations about psilocybin, which can confound results
@@ -106,7 +106,7 @@ Across all published trials, psilocybin has demonstrated an excellent safety pro
 
 - No serious adverse events attributed to psilocybin
 - Transient anxiety, confusion, or nausea during sessions — manageable with therapeutic support
-- No cases of [[emcdda-psilocybin-flashbacks-and-persistent-psychosis-risk]] or HPPD in clinical trial populations
+- No cases of persistent psychosis or HPPD in clinical trial populations
 - Cardiovascular effects are mild and transient
 - No evidence of dependence or abuse potential
 
@@ -118,9 +118,3 @@ Across all published trials, psilocybin has demonstrated an excellent safety pro
 - **Canada**: Special Access Programme available for psilocybin under specific circumstances
 
 See [[psychedelic-assisted-therapy-protocol]] for the therapeutic framework and [[psychedelic-mushroom-pharmacology]] for the pharmacological basis of clinical effects.
-
-## See Also
-
-- [[psilocybin-clinical-trial-landscape-2020-2025]]
-
-- [[psp-phase-clinical-trials]]

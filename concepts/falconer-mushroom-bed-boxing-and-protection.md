@@ -81,9 +81,5 @@ the mushroom bed itself protected from cold draughts that
 would harm the crop.
 
 ## See Also
-
 - [[falconer-mushroom-preserving-and-drying]]
-
-## See Also
-
 - [[falconer-mushroom-cooking-selection-and-preparation]]

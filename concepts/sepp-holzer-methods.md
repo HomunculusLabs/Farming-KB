@@ -4,8 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [regenerative, permaculture, cultivation, ecology, water-management, livestock]
-sources: sources:
-  - "raw/papers/sepp-holzer-practical-guide.md"
+sources: [raw/papers/sepp-holzer-practical-guide.md]
 ---
 
 # Sepp Holzer's Permaculture Methods
@@ -35,10 +34,10 @@ See [[hugelkultur-guide]] for comprehensive details. Holzer's approach:
 ## Terracing and Slope Management
 
 - **Contour terraces** slow runoff, prevent erosion, create level planting surfaces
-- **Stone walls** absorb heat during day, radiate at night — extending [[savory-growing-season-and-non-growing-season-management]]
+- **Stone walls** absorb heat during day, radiate at night — extending growing season
 - **Terrace width**: Adjusted to slope gradient; steeper = narrower terraces
 - **Stabilization**: Plant deep-rooted species (comfrey, fruit trees) on risers
-- **[[holzer-humus-storage-ditches]] ditches** between terraces catch [[hamilton-composting-and-organic-matter-management]] and moisture
+- **Humus storage ditches** between terraces catch organic matter and moisture
 
 ## Water Landscapes
 
@@ -46,7 +45,7 @@ Holzer considers water management the most important aspect of his system:
 - **70+ ponds** of varying sizes across the farm
 - **Water gardens** with aquatic plants, fish, and wildlife habitat
 - **Pond placement**: Use existing wet areas; never drain wetlands — cultivate them instead
-- **Functions**: Microclimate moderation ([[holzer-frost-protection-techniques]]), wildlife habitat, aquaculture, irrigation reservoirs, aesthetic beauty
+- **Functions**: Microclimate moderation (frost protection), wildlife habitat, aquaculture, irrigation reservoirs, aesthetic beauty
 - **No drainage**: "Wherever water is found is where it should be made use of"
 - **Stream restoration**: Opposes straightened streams; natural meandering prevents downstream flooding
 - **Building**: Excavator-dug ponds with shallow edges for wetland plants, deeper centers for fish
@@ -77,7 +76,7 @@ Holzer considers water management the most important aspect of his system:
 
 ## Mushroom Cultivation on Logs
 
-- Inoculate fallen logs and stumps with [[bloomfield-boletus-satanus-edible-mushroom-hazards]] spawn
+- Inoculate fallen logs and stumps with edible mushroom spawn
 - Shiitake, oyster, and other species cultivated on hardwood logs
 - Logs placed in shady, moist locations among raised beds and terraces
 - Simple method: Drill holes, insert spawn plugs, seal with wax
@@ -142,9 +141,10 @@ Holzer achieves productive farming without irrigation through:
 
 ## Links
 
-- [[permaculture-design]] — [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] fundamentals
+- [[permaculture-design]] — Permaculture design fundamentals
 - [[food-forest-design]] — Food forest design framework
-## Related
+- [[homestead-water-systems]] — Water systems for homesteads
+- [[mushroom-cultivation-methods]] — Mushroom growing techniques
+- [[hugelkultur-guide]] — Comprehensive hugelkultur construction guide
+- [[sepp-holzer]] — Austrian farmer, Krameterhof pioneer, agro-rebel philosophy
 
-- [[mountain-gardening]]
-- [[natural-farming-livestock-integration]]

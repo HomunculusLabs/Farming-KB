@@ -1,107 +1,123 @@
----
-title: Mexico challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification Diversity Center
-created: 2026-04-28
-tags:
-  - mycology
-  - biogeography
-  - mexico
-  - biodiversity
-  - neurotropic-fungi
-  - ethnomycology
-  - wiki-concept
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Guzmán, Allen & Gartz (1998) - A Worldwide Geographical Distribution of the Neurotropic Fungi"
-type: concept
----
-# Mexico as Center  Diversity
+# Mexico: Global Center of Neurotropic Fungi Diversity
 
-Mexico is the **undisputed global center of diversity** for neurotropic fungi, harboring an extraordinary concentration of species found noguzman-allen-gartz-cosmopolitan-and-endemic-neurotropic-species. With **76 ** documented, including **44 species of Psilocybe** alone (representing 39% of all known  worldwide), Mexico far exceeds any other country or region in neurotropic .
+## Overview
 
-## Why Mexico? The Ecological Context
+Mexico possesses the highest number of neurotropic fungal species of any country
+in the world, with 76 species documented by Guzmán, Allen, and Gartz (2000).
+Of these, 44 belong to the genus Psilocybe, representing 39% of all known
+Psilocybe species globally. This extraordinary diversity reflects Mexico's complex
+topography, varied climate zones, and — most importantly — its deep indigenous
+traditions of ceremonial mushroom use that have driven scientific investigation
+for over five decades.
 
-Several factors contribute to Mexico's exceptional  ty-arid-environments:
+## Indigenous Use and Ethnobotanical Heritage
 
-1. **Geographic position**: Mexico spans temperate, subtropical, and  son-designers-house-design-climate-zones, creating diverse microhabitats
-2. **Mountain ranges**: The Sierra Madre Occidental, Sierra Madre Oriental, Transverse Volcanic Belt, and Sierra Madre del Sur provide varied elevations (from sea level to over 4,000 m) and aspect conditions
-3. **Biodiversity hotspot**: Mexico is one of the world's megadiverse countries, with high plant diversity providing diverse substrates
-4. **Subtropical humid forests**: The majority  occur in these forests, which are well represented in southern and eastern Mexico
-5. **Endemism**: Many Mexican Psilocybe species are microendemic, restricted to small areas
+### Pre-Columbian Traditions
 
-## The Psilocybe Diversity
+The use of sacred mushrooms in Mexico predates European contact by millennia. The
+Nahuatl word "teonanácatl" (divine mushroom) was first reported by the Spanish
+chronicler Bernardino de Sahagún (1569-1582) and later by Richard Evans Schultes
+(1939). Guzmán (1997) documented more than 200 common names for neurotropic fungi
+in Mexican Indian languages, including "apipiltzin" (kid or little boy), "atkad"
+(mayor or leader), "di nizé taaya" (fungus of the genius), "shi thó" (that
+eruptions thing), and "teotlaquilnanácatl" (divine fungus).
 
-### Species Exclusive to Mexico
+The most commonly used Spanish names among indigenous communities include:
+- **"San Isidros"** — associated with Saint Isidore, patron of agriculture
+- **"Pajaritos"** (little birds) — commonly used for Psilocybe cubensis
+- **"Derrumbes"** (landslides) — used for Psilocybe zapotecorum
 
-Mexico has an extraordinary number of **endemic** Psilocybe species, many restricted to single states or small geographic areas:
+### Key Indigenous Groups
 
-- **P. aztecorum** var. aztecorum: High mountains of central Mexico (State of México, Puebla, Tlaxcala)
-- **P. aztecorum** var. bonetii: Same region as P. aztecorum
-- **P. barrerae**: Veracruz
-- **P. banderillensis**: Veracruz
-- **P. chiapanensis**: Chiapas
-- **P. galindoi**: Mexico
-- **P. herrerae**: Mexico
-- **P. isabelae**: Mexico (Guzmán et al., 1999)
-- **P. jacobsii**: Mexico
-- **P. jaliscana**: Jalisco (Guzmán, 1999a)
-- **P. laurae**: Jalisco (Guzmán, 1998a)
-- **P. moseri**: Mexico
-- **P. muliercula**: Mexico (various states)
-- **P. sanctorum**: Mexico
-- **P. schultesii**: Mexico
-- **P. singerii**: Mexico
-- **P. subtropicalis**: Mexico
-- **P. subyungensis**: Mexico
-- **P. subzapotecorum**: Mexico (Guzmán, 1999a)
-- **P. villarrealii**: Jalisco (Guzmán, 1998a)
-- **P. weldenii**: Mexico
-- **P. xalapensis**: Veracruz
+Multiple indigenous groups across southern and central Mexico maintain living
+traditions of mushroom use:
 
-### Widely Distributed Species Also Found in Mexico
+- **Mazatec** (Oaxaca) — the most well-documented group, famous through the work
+  of R. Gordon Wasson and Maria Sabina. They use Psilocybe mexicana, P.
+  caerulescens, and other species in [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies
+- **Mixtec** (Oaxaca) — use puffballs ([[lycoperdon-mixtecorum]], L. marginatum)
+  and various Psilocybe species in ceremonial contexts
+- **Chinantec** (Oaxaca) — use [[dictyophora-indusiata]] for divination purposes
+- **Nahua** (central Mexico) — use P. aztecorum and other high-elevation species
+- **Trique** (Alta Mixteca, Oaxaca) — use Cordyceps species and Elaphomyces in
+  special nocturnal ceremonies
 
-Several species that occur more broadly also have significant Mexican populations:
+### The Wasson Revolution
 
-- **P. cubensis**: Widespread in tropical and subtropical lowlands
-- **P. caerulescens**: The famous "derrumbe" of Oaxaca and Veracruz
-- **P. mexicana**: The original [[allegro-the-sacred-mushroom-amanita-identification]] of the Mazatec, known from Oaxaca, Veracruz, and Puebla
-- **P. zapotecorum**: Used by the Zapotec and Mazatec peoples; found in subtropical forests
-- **P. hoogshagenii**: With two varieties in Mexico (var. hoogshagenii and var. convexa)
-- **P. yungensis**: Widespread but significant in Mexico
-- **P. wassoniorum**: Named in honor of R. gordon-wasson
+R. Gordon Wasson and Valentina Wasson's 1957 Life magazine article "Seeking the
+Magic Mushroom" brought global attention to Mexican mushroom traditions. This
+catalyzed the modern scientific study of neurotropic fungi, with Roger Heim,
+Rolf Singer, and later Gastón Guzmán conducting extensive fieldwork. Guzmán (1990)
+divided Mexican mycology into two eras: before Wasson/Heim/Singer (pre-1954) and
+after their transformative studies (post-1958).
 
-## Non Psilocybe 
+## Regional Distribution Within Mexico
 
-Mexico's neurotropic diversity extends well beyond Psilocybe:
+### Oaxaca
 
-### Copelandia Species
-- C. cyanescens
-- C. mexicana
-- C. tropicalis
+Oaxaca is the epicenter of [[mexico-center-neurotropic-fungal-diversity]] and indigenous use. The
+Sierra Mazateca, Sierra Juárez, and Mixteca regions all support rich assemblages.
+Key species include P. mexicana, P. caerulescens, P. zapotecorum, P. muliercula,
+P. cordispora, and [[guzman-conocybe-siligineoides-lost-sacred-mushroom-oaxaca-never-recollected]] (collected only once by Wasson in 1955
+and never re-found despite extensive searching). Oaxaca also hosts the unique
+tradition of using Cordyceps capitata and C. ophioglossoides alongside
+Psilocybe muliercula in Nevado de Toluca ceremonies.
 
-### Panaeolus and Panaeolina Species
-- P. sphinctrinus
-- P. subbalteatus
-- P. retirugis
-- P. fimicola
-- P. venezolanus
-- 
+### Central Mexico and High Elevations
 
-### Gymnopilus Species
-- G. spectabilis, G. lateritius, G. liquiritiae, G. sapineus, G. subpurpuratus
+Psilocybe aztecorum grows at elevations up to 4,000 m in the high mountains
+of central Mexico, making it one of the highest-elevation neurotropic fungi.
+The region around Nevado de Toluca and the volcanic belt supports specialized
+high-altitude communities.
 
-### Hypholoma Species
-- H. naematoliformis, H. rhombispora
+### Gulf Coast and Tropical Lowlands
 
-### Other Genera
-- ****: Known as "kiowa" or "hongo de pie de mazorca" (corn ear mushroom), used by the Mazatec
-- **[[amanita-pantherina]]**: Present
-- **psilocybe-diversity-in-mexico
-- psilocybe-diversity-in-mexico
+Psilocybe cubensis occurs naturally in the tropical lowlands of the Gulf Coast
+states (Veracruz, Tabasco) and southeastern Mexico (Chiapas), growing on bovine
+dung in pastures.
+
+## Unique Mexican Fungi and Traditions
+
+### The Cult of Ganoderma lobatum
+
+Guzmán et al. (1975) reported a remarkable cult of Ganoderma lobatum in
+Chignahuapan, Puebla, where a church was built specifically in honor of the
+fungus. The local Indians regard it as a saint. The inner surface of the
+fungus is decorated with an arresting sketch of Christ flanked by sun and moon.
+While Ganoderma lobatum has no confirmed neurotropic properties, its cult likely
+relates to the regional use of active Psilocybe species.
+
+### Passive Hallucinogenic Exposure
+
+Guzmán experienced a remarkable phenomenon in 1958 while staying in a small closed
+room in Oaxaca filled with fresh and semi-fermented specimens of P. caerulescens,
+P. cordispora, P. cubensis, P. mexicana, and P. zapotecorum collected for
+commercial purposes. Despite not consuming any fungi, he experienced colored
+hallucinations from prolonged exposure to the strong acrid aroma in the enclosed
+space. The hallucinations ceased upon leaving the room, suggesting that
+[[hplc-analysis-of-psilocybin-and-psilocin]] may be volatile under certain conditions.
+
+## Impact on Global Mycology
+
+The study of Mexican neurotropic fungi played such an important role that it
+transformed mycology throughout the country. Interest generated by the
+hallucinogenic fungi studies led specialists to study all fungi in Mexico,
+building the foundation for modern Mexican mycology as a scientific discipline.
+
+Mexico's preeminence in neurotropic fungal diversity (76 species, 44 Psilocybe)
+reflects both genuine ecological richness and the intensity of mycological survey
+effort driven by ethnobotanical interest — a pattern Gartz (1996) summarized as
+finding mushrooms "wherever mycologists abound."
 
 ## See Also
 
-- mexico-neurotropic-fungi-biodiversity-center-guzman-2000
-- [[neurotropic-fungi]]
-- [[mexico-center-neurotropic-fungal-diversity]]
-- [[guzman-allen-gartz-mexico-center-neurotropic-diversity]]
+- [[neurotropic-fungi-classification-and-taxonomy]]
+- [[psilocybe-genus-global-biodiversity]]
+
+## Sources
+
+- Guzmán, G., Allen, J.W. & Gartz, J. (2000). A worldwide geographical distribution
+  of the neurotropic fungi. Ann. Mus. civ. Rovereto, 14, 189-280.
+- Wasson, R.G. (1957). Seeking the Magic Mushroom. Life Magazine.
+- Guzmán, G. (1997). Los nombres de los hongos y su relación con la cultura.
+- [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]

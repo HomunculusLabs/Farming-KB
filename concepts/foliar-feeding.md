@@ -1,6 +1,6 @@
 ---
 
-title: comparison-foliar-feeding-vs-compost-tea-nutrients
+title: Foliar Feeding
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -35,7 +35,7 @@ Plants can absorb nutrients through their leaves. The nutrients enter through:
 
 Foliar feeding is not a replacement for good soil fertility, but it serves important purposes:
 - **Rapid correction of deficiencies** when soil minerals are insufficient
-- **Stress recovery** during drought, [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]], or pest damage
+- **Stress recovery** during drought, transplant shock, or pest damage
 - **Growth boost** during critical growth stages
 - **Low-water situations** when fertigation (fertilizer through irrigation) isn't possible
 
@@ -55,8 +55,8 @@ A mixture of kelp tea and fish emulsion makes plants grow much faster. The fish 
 Complete soluble chemical mixes with trace minerals can be used as foliar sprays when the soil lacks specific minerals. Ensure the solution contains all trace elements, not just NPK.
 
 ### Other Options
-- **Half-strength Coca Cola:** Contains significant [[cho-water-soluble-phosphoric-acid-preparation]] and sugars that help plants. Used by farmers in India as a foliar spray.
-- **[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]:** [[compost-tea-aact]] can be foliar-applied to deliver beneficial biology to leaf surfaces (the phyllosphere)
+- **Half-strength Coca Cola:** Contains significant phosphoric acid and sugars that help plants. Used by farmers in India as a foliar spray.
+- **Compost tea:** [[compost-tea-aact]] can be foliar-applied to deliver beneficial biology to leaf surfaces (the phyllosphere)
 
 ## Application Guidelines
 
@@ -79,6 +79,6 @@ Complete soluble chemical mixes with trace minerals can be used as foliar sprays
 
 - [[nutrient-dense-gardening]] — Complete soil mineral approach
 - [[soil-fertility-management]] — Soil-based fertility
-- [[compost-tea-aact]] — Biological [[ultra-low-cost-foliar-application-methods]]
+- [[compost-tea-aact]] — Biological foliar application
 - [[plant-nutrient-uptake]] — How plants absorb nutrients
 - [[irrigation-systems]] — Fertigation through irrigation

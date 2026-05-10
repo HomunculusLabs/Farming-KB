@@ -141,9 +141,7 @@ depends on strain and how the plant is grown.
 
 Some advanced feeding products produce greater amounts of bud but
 reduce potency and alter taste. Experimentation is essential.
+
 ## See Also
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
-
-## See Also
-
 - [[green-cannabis-grow-bible-vegetative-phase-management]]

@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 updated: 2026-04-18 Formulation of fungi for in situ fungal-bioremediation. While laboratory results with [[singh-cytochrome-p450-fungal-bioremediation]] | Straw, hay, wood | 3,4-dichloroaniline, benzo[a]pyrene | Low breakdown levels |
 | [[cotter-mycoremediation-overview]] | [[non-sterilized-wheat-straw-oyster-cultivation]] | PAHs, [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] | Superior to P. chrysosporium and T. versicolor in soil colonization |

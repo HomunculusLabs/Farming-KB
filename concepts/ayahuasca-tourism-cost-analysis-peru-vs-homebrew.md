@@ -140,7 +140,6 @@ The two approaches also differ in their risk profiles:
 - [[ayahuasca-tourism-medical-risks-prescription-interactions]] in a setting with limited medical infrastructure
 - Uncertainty about practitioner quality and intentions
 - Travel-related risks (illness, injury, crime)
-- Potential for exploitation or fraud
 ## See Also
 
 - [[ayahuasca-diy-home-brewing-as-tourism-alternative]] — Detailed guide to home brewing approach

@@ -143,7 +143,8 @@ No controlled clinical trials have been conducted. Analytical methods for standa
 
 ## See Also
 
+- [[coleman-historical-reading-list-winter-harvest-literature]]
+
 - [[beta-caryophyllene-dietary-cannabinoid]]
 - [[beta-caryophyllene-entourage-effects-cannabis]]
 - [[endocannabinoid-system-overview]]
-- [[anandamide-and-the-endocannabinoid-system]]

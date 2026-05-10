@@ -10,7 +10,6 @@ tags:
   - site-design
   - holmgren
 sources:
-  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Permaculture Zone and Sector Planning
@@ -132,12 +131,7 @@ focused close to the centre, helping practitioners act effectively at the
 appropriate scale.
 
 ## See Also
-
 - [[natfarm-zone-sector-permaculture-planning]]
-
 - [[gaias-garden-zone-and-sector-garden-layout]]
 - [[permaculture-plants-food-forest-ground-covers-bamboos]]
-
-## See Also
-
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]

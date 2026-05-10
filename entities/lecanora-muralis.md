@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Wirth, V. (2010). Flechten Baden-Württembergs. Eugen Ulmer Verlag.
   - Nimis, P.L. & Martellos, S. (2008). ITALIC - The Information System on Italian Lichens. University of Trieste.
   - Feurer, T. & Wirth, V. (2000). "Rote Liste der Flechten (Lichenes) Deutschlands." Schriftenreihe für Vegetationskunde, 35, 219-306.

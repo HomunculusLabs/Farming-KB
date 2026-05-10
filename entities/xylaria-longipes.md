@@ -1,5 +1,3 @@
-
-
 ## Overview
 
 *Xylaria longipes*, commonly known as the Dead Man's Fingers fungus, is a
@@ -53,11 +51,13 @@ antagonistic activity.
 
 ## See Also
 
+- [[mushroom-cultivation-cloning-isolation]]
+
 - [[litter-wood-decomposing-fungi]]
 
-- [Xylaria polymorpha](xylaria-polymorpha.md)
-- [[trametes-versicolor-entity]](trametes-versicolor.md)
-- [[gymnopus-dryophilus]](gymnopus-dryophilus.md)
+- [[xylaria-polymorpha|Xylaria polymorpha]]
+- [[trametes-versicolor-entity]]
+- [[gymnopus-dryophilus]]
 - [[coprinellus-micaceus]]](coprinellus-micaceus.md)
 
 ## Practical Considerations

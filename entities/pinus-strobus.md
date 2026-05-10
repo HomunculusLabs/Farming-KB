@@ -14,7 +14,7 @@ sources:
   - Abrams, M.D. (2001). "Eastern white pine versatility in the presettlement forest." BioScience, 51(11), 967–979.
   - Whitney, G.G. (1990). "The history and status of the hemlock-hardwood forests of the Allegheny Plateau." Journal of Ecology, 78(2), 443–458.
   - Nowak, D.J. (1990). "Historical vegetation change in the Allegheny Plateau." PhD Thesis, Yale University.
-  - Walter, R.S. & Yawney, H.W. (1991). "Eastern white pine." In Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 1. USDA Forest Service.
+  - Walter, R.S. & Yawney, H.W. (1991). "Eastern white pine." In Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
 ---
 
 ## Overview

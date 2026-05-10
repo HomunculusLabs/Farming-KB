@@ -1,6 +1,6 @@
 ---
 
-title: Asian emcdda-psilocybin-mushroom-dose-and-effects Guide
+title: Asian Psilocybin Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: query
@@ -30,7 +30,7 @@ Southeast Asia is one of the world's richest regions for psilocybin mushroom bio
 ### Thailand
 
 - **Psilocybe cubensis:** The most common and well-known species. Found on bovine dung in pastures throughout the country. Season: May-October (rainy season). Known locally from mushroom tourism on Koh Samui and Koh Pha-ngan.
-- **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]:** Found on bovine dung. Widely distributed in tropical lowlands. Very potent — one of the strongest Panaeolus species.
+- **Panaeolus cyanescens:** Found on bovine dung. Widely distributed in tropical lowlands. Very potent — one of the strongest Panaeolus species.
 - **Psilocybe samuiensis:** First described from Ko Samui by Guzman, Bandala and Allen (1992). Small, bluing species found in rice paddies and pastures. Named after the island where it was first collected.
 - **Psilocybe subaeruginascens:** Found in Thailand and Japan. Grows in grassy areas and on disturbed soil.
 
@@ -75,15 +75,15 @@ Southeast Asia is one of the world's richest regions for psilocybin mushroom bio
 
 ## Japan
 
-Japan has a surprisingly diverse psychoactive mushroom flora given its [[permaculture-designers-manual-temperate-climate-design]]:
+Japan has a surprisingly diverse psychoactive mushroom flora given its temperate climate:
 
 - **Psilocybe subcaerulipes:** Small woodland species found on decomposing wood and leaf litter. Known from Honshu, Shikoku, and Kyushu. One of Japan's most common psychoactive species.
 - **Psilocybe argentipes:** Found on forest floor in deciduous and coniferous forests. Known from Honshu. Produces moderate bluing reaction.
 - **Psilocybe venenata:** Formerly classified as Stropharia venenata Imai. Found in grassy areas and fields. Known from Honshu.
 - **Psilocybe subaeruginascens:** Found in grassy areas and on disturbed ground. Known from southern Japan (Kyushu, Ryukyu Islands).
-- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]:** Found on horse and cattle dung. Widespread.
+- **Panaeolus subbalteatus:** Found on horse and cattle dung. Widespread.
 - **Gymnopilus spectabilis:** Large, orange species growing on dead hardwood. Known from Japan (called "oh-waraitake" — "big laughing mushroom"). Contains psilocybin and bis-noryangonin.
-- **[[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]:** Wood-inhabiting species found on dead alder and willow. Known from Japan.
+- **Pluteus salicinus:** Wood-inhabiting species found on dead alder and willow. Known from Japan.
 
 **Japanese mushroom law:** In 2002, Japan amended the Narcotics and Psychotropics Control Law to specifically ban psilocybin and psilocybin-containing mushrooms. Previously, fresh mushrooms were in a legal gray area (only the purified alkaloids were banned). The law change was triggered by reports of mushrooms being sold openly at music festivals and in shops.
 
@@ -111,7 +111,7 @@ Japan has a surprisingly diverse psychoactive mushroom flora given its [[permacu
 
 ### Siberia and the Russian Far East
 
-- **[[allegro-amanita-muscaria-properties-and-pharmacology]]:** While not a psilocybin-containing species, A. muscaria (fly agaric) is the most culturally significant psychoactive mushroom in northern Asia. Used by Siberian peoples (Chukchee, Koryak, Kamchadal, Itelmen) for centuries in shamanic rituals.
+- **Amanita muscaria:** While not a psilocybin-containing species, A. muscaria (fly agaric) is the most culturally significant psychoactive mushroom in northern Asia. Used by Siberian peoples (Chukchee, Koryak, Kamchadal, Itelmen) for centuries in shamanic rituals.
 - **Gymnopilus spectabilis:** Reported from Siberian forests.
 - The cold continental climate of Central Asia limits psilocybin mushroom diversity, but Amanita muscaria is abundant in birch and pine forests.
 
@@ -140,10 +140,11 @@ Japan has a surprisingly diverse psychoactive mushroom flora given its [[permacu
 
 Across Asia, psychoactive mushrooms follow predictable substrate patterns:
 
-## See Also
-
-- [[psilocybin-mushroom-chemistry]] — Worldwide distribution overview
-- [[mushroom-species-guide]] — Detailed species profiles
-- [[mushroom-folklore-and-culture]] — Cultural use of mushrooms
-- [[jochen-gartz]] — Primary source researcher
-- [[john-w-allen]] — Southeast Asian mushroom researcher
+| Substrate | Species | Climate Zone |
+|---|---|---|
+| Bovine dung (cattle/water buffalo) | P. cubensis, P. samuiensis | Tropical lowlands |
+| Equine dung | P. subbalteatus, Panaeolus cyanescens | Tropical/subtropical |
+| Decomposing wood | P. subcaerulipes, Pluteus salicinus | Temperate forests |
+| Forest floor litter | P. argentipes, P. venenata | Temperate forests |
+| Dead hardwood (logs/stumps) | Gymnopilus spectabilis | Temperate |
+| Disturbed soil/grassland | P. subaeruginascens | Subtropical/tropical |

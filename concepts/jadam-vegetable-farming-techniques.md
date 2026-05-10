@@ -1,18 +1,18 @@
 ---
-title: "JADAM Vegetable Farming Techniques"
+title: "[[jadam-cover-crop-soil-temperature-management|JADAM]] Vegetable Farming Techniques"
 created: 2026-04-26
 updated: 2026-04-26
 type: concept
 tags: [jadam, vegetables]
 sources:
-  - "raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md"
+  - "raw/papers/the-way-to-ultra-low-herbal-smoker-greenhouse-pest-control|ultra-low-cost-agriculture-untitled.md"
 ---
 
 # JADAM Vegetable Farming Techniques
 
 ## Overview
 
-JADAM vegetable farming applies the same foundational principles as all [[knf-seed-treatment-and-soil-foundation]] with JMS, co-existence with weeds, [[jeavons-natural-pest-control]]icides -- with specific attention to greenhouse management, transplanting techniques, and vegetable-specific pest control.
+JADAM vegetable farming applies the same foundational principles as all [[knf-seed-treatment-and-soil-foundation]] with JMS, co-existence with weeds, [[jeavons-natural-pest-control]] icides -- with specific attention to greenhouse management, transplanting techniques, and vegetable-specific pest control.
 
 ## Soil Foundation for Vegetables
 
@@ -36,7 +36,7 @@ Apply soil foundation builder 3-4 times before transplanting. For 0.33 ha (0.8 a
 
 ## Transplanting
 
-The moment of transplanting is the most critical in vegetable farming. Root settlement at this point determines yield. JADAM methods ensure "root settlement will be robust as never before."
+The moment of transplanting is the most critical in vegetable farming. Root settlement at this point determines yield. [[jadam-methods]] ensure "root settlement will be robust as never before."
 
 ### Seedling Treatment
 - Soak seedlings in JMS dilution or leaf mold solution for 2-3 minutes before planting

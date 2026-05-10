@@ -11,14 +11,14 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Gartz J (1989). "Biotransformation of tryptamine derivatives in mycelial
-    cultures of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]." Journal of Basic Microbiology, 29(5): 347-352.
+    cultures of brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting." Journal of Basic Microbiology, 29(5): 347-352.
   - Shulgin A, Shulgin A (1997). "TIHKAL: The Continuation." Transform Press.
   - Speeter MM, Anthony WC (1954). "Analogs of bufotenine." Journal of the
     American Chemical Society, 76(22): 5889-5891.
   - Passie T, Halpern JH, Stichtenoth DO, Emrich HM, Hintzen A (2008).
     "The pharmacology of psilocybin." Addiction Biology, 13(3-4): 263-278.
   - Repke DB, Leslie DT, Guzman G (1977). "Baeocystin and norbaeocystin:
-    new analogs of psilocybin from [[stamets-psi-psilocybe-baeocystis-knobby-tops]]." Journal of
+    new analogs of psilocybin from stamets-psi-psilocybe-baeocystis-knobby-tops." Journal of
     Pharmaceutical Sciences, 66(5): 743-744.created: 2026-05-07
 
 created: 2026-05-07

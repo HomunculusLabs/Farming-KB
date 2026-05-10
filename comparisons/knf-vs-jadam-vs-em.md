@@ -25,7 +25,7 @@ sources:
 
 # KNF vs JADAM vs EM — Comparison
 
-Three systems for biological [[cho-natural-farming-inputs-overview]], all originating from East Asia, all based on cultivating beneficial microorganisms. They share the same goal — replace synthetic fertilizers and pesticides with self-made biological inputs — but differ in philosophy, cost, complexity, and approach.
+Three systems for biological farming inputs, all originating from East Asia, all based on cultivating beneficial microorganisms. They share the same goal — replace synthetic fertilizers and pesticides with self-made biological inputs — but differ in philosophy, cost, complexity, and approach.
 
 ## At a Glance
 
@@ -41,7 +41,7 @@ Three systems for biological [[cho-natural-farming-inputs-overview]], all origin
 | **Learning curve** | Steep — many preparations, timing matters | Moderate — fewer recipes, simpler process | Easy — activate and dilute |
 | **Cost** | Low (local materials + brown sugar) | Ultra-low ($100/acre/year target) | Ongoing (must purchase EM-1) |
 | **Local adaptation** | High — captures site-specific microbes | High — cultures at crop temperature | Low — uses Asian-strain consortium |
-| **Microbial diversity** | High and unknown (forest/[[psilocybin-mushroom-field-collection-techniques]]) | High and unknown (leaf mold collection) | Moderate and known (~80 species) |
+| **Microbial diversity** | High and unknown (forest/field collection) | High and unknown (leaf mold collection) | Moderate and known (~80 species) |
 
 ## Microbe Collection Comparison
 
@@ -57,12 +57,12 @@ Three systems for biological [[cho-natural-farming-inputs-overview]], all origin
 
 | Aspect | KNF | JADAM | EM |
 |--------|-----|-------|----|
-| **Nitrogen** | [[fish-amino-acid-faa]] | Sea water + phyllite + JLF | Indirect — microbes cycle [[hamilton-composting-and-organic-matter-management]] |
-| **Phosphorus** | WS-PA ([[cho-water-soluble-phosphoric-acid-preparation]]) | Phyllite solution | Indirect — soil biology solubilizes P |
+| **Nitrogen** | [[fish-amino-acid-faa]] | Sea water + phyllite + JLF | Indirect — microbes cycle organic matter |
+| **Phosphorus** | WS-PA (phosphoric acid) | Phyllite solution | Indirect — soil biology solubilizes P |
 | **Calcium** | [[water-soluble-calcium-wca]], [[water-soluble-calcium-phosphate-wcp]] | Sea water (Ca present) | Indirect |
 | **Potassium** | WS-K (tobacco stems) | Sea water + phyllite | Indirect |
 | **Trace minerals** | [[brown-rice-vinegar-brv]], seawater, loess powder | Sea water + phyllite solution | Indirect |
-| **Plant energy** | [[fermented-plant-extract-fpe]], FFJ | JLF (JADAM [[jadam-liquid-fertilizer-nutritional-perspective]]) | EM-FPE (optional add-on) |
+| **Plant energy** | [[fermented-plant-extract-fpe]], FFJ | JLF (JADAM Liquid Fertilizer) | EM-FPE (optional add-on) |
 | **Immune support** | [[oriental-herbal-nutrient-ohn]] | JHS (herb solutions) | EM-5 (garlic + chili + vinegar) |
 
 ## Pest Control Comparison
@@ -102,7 +102,7 @@ All three systems share the fundamental insight that feeding soil biology — no
 - [[knf-preparations]] — all KNF inputs with recipes
 - [[jadam-methods]] — JADAM system details
 - [[effective-microorganisms-em]] — EM products and activation
-- [[indigenous-microorganisms-imo]] — [[bahay-kubo-imo-collection-and-preparation]] step-by-step
+- [[indigenous-microorganisms-imo]] — IMO collection step-by-step
 - [[nutritive-cycle-theory]] — Cho's growth stage framework
 - [[cannabis-living-soil-guide]] — applying these systems to cannabis
 - [[soil-food-web-nutrient-cycling]] — the biology all three systems support

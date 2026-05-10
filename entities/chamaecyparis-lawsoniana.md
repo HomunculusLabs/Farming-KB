@@ -12,8 +12,8 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Farjon, A. (2005). "Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Kliejunas, J.T. et al. (2007). "Phytophthora ramorum: a pathogen of concern in [[growing-gourmet-north-american-reishi-species]] forests." USDA Forest Service.
-  - Hansen, E.M. et al. (2000). "Port-Orford-cedar [[ingham-root-disease-treatment]] in North America." Plant Disease, 84, 266–272.
+  - Kliejunas, J.T. et al. (2007). "Phytophthora ramorum: a pathogen of concern in growing-gourmet-north-american-reishi-species forests." USDA Forest Service.
+  - Hansen, E.M. et al. (2000). "Port-Orford-cedar ingham-root-disease-treatment in North America." Plant Disease, 84, 266–272.
   - Elwes, H.J. & Henry, A. (1906). "The Trees of Great Britain and Ireland." Vol. 4.
 ---
 
@@ -108,6 +108,10 @@ In Japan, the wood is valued for its acoustic properties and is used in the manu
 The timber's fine grain and resonance also make it suitable for soundboards in guitars and other stringed instruments. Export of Port Orford cedar to Japan remains a significant commercial activity.
 
 ## See Also
+
+- [[chamaecyparis-obtusa]]
+
+- [[chamaecyparis-thyoides]]
 
 - [[thuja-plicata]]
 - calocedrus decurrens

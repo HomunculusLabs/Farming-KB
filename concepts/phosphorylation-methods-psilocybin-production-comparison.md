@@ -142,7 +142,6 @@ Shirota's route has become the standard reference for practical
 of high yield, chromatography-free purification, and commercially
 available starting materials set a benchmark that subsequent
 synthetic efforts have sought to match. The zwitterionic
-intermediate discovery has also informed approaches to the
 ## See Also
 
 - [[psilocybin-phosphorylation-via-zwitterionic-intermediate]]

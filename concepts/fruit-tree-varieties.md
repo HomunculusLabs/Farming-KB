@@ -25,7 +25,7 @@ sources:
 
 # Fruit Tree Varieties, Rootstocks, and Chill Hours
 
-Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for [[fukuoka-creating-natural-farm-site-selection-establishment]], planting, pruning, [[cannabis-pest-management-guide]], and seasonal care.
+Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock selection and chill hour guidance. See [[orchard-management]] for site selection, planting, pruning, pest management, and seasonal care.
 
 ## Fruit Tree Selection
 
@@ -59,7 +59,7 @@ Detailed variety recommendations for zone 7-8 homestead orchards, plus rootstock
 #### Peaches (500-900 chill hours)
 | Variety | Disease Resistance | Pollination | Use | Chill Hours |
 |---------|-------------------|-------------|------|-------------|
-| Reliance | Good [[coleman-cold-hardiness-testing-ratings]] | Self-fertile | Fresh/canning | 800-1000 |
+| Reliance | Good cold hardiness | Self-fertile | Fresh/canning | 800-1000 |
 | Contender | Good bacterial spot resistance | Self-fertile | Fresh | 900-1000 |
 | Redhaven | Moderate | Self-fertile | Fresh/canning | 800-900 |
 | Elberta | Moderate | Self-fertile | Canning | 800-900 |
@@ -112,10 +112,10 @@ Rootstocks determine tree size, precocity, disease resistance, soil adaptation, 
 | Rootstock | Size | Notes |
 |-----------|------|-------|
 | M9 (apple) | Dwarf (8-10') | Precocious, needs staking, fire blight susceptible |
-| Bud 9 (apple) | Dwarf (8-10') | More [[coleman-cold-hardy-varieties]] than M9, better fire blight resistance |
+| Bud 9 (apple) | Dwarf (8-10') | More cold hardy than M9, better fire blight resistance |
 | M7 (apple) | Semi-dwarf (12-15') | Well-anchored, good general-purpose |
 | MM106 (apple) | Semi-dwarf (12-15') | Good anchorage, susceptible to crown rot in wet soils |
-| MM111 (apple) | Semi-standard (15-18') | Good [[dighton-fungal-drought-tolerance-plant-water-relations]] |
+| MM111 (apple) | Semi-standard (15-18') | Good drought tolerance |
 | Antonovka (apple) | Standard (20-25'+) | Very cold hardy, disease resistant |
 | OHxF 333 (pear) | Semi-dwarf (12-15') | Good fire blight resistance |
 | Lovell (peach) | ~75% standard | Deep-rooted, good drought tolerance |
@@ -141,9 +141,10 @@ Rootstocks determine tree size, precocity, disease resistance, soil adaptation, 
 ## Chill Hours
 
 ### What They Are
-## See Also
+Accumulated hours at 32-45°F during dormancy that trigger budbreak and normal flowering.
 
-- [[orchard-management]] — Site selection, planting, pruning, pest management, harvest
-- [[food-forest-design]] — Integrating [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] into food forest systems
-- [[seasonal-planning]] — Monthly task calendar for the integrated homestead
-- [[plant-propagation-methods]] — Grafting techniques (see Rootstocks section above)
+### Why They Matter
+- **Insufficient chill**: Delayed/irregular budbreak, reduced fruit set, poor quality
+- **Zone 7**: Typically 700-1200 chill hours
+- **Zone 8**: Typically 400-900 chill hours
+- **Zone 8b/coastal**: Can be as low as 200-400 hours

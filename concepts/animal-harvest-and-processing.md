@@ -139,11 +139,12 @@ Goats are typically skinned, not scalded:
 ## Curing and Smoking
 
 See [[food-preservation-canning]] for detailed methods. Quick reference:
-## Related
+- **Dry cure**: Salt + sugar + spices rub; 7-10 days per inch thickness
+- **Brine cure**: Submerge in salt/sugar/water 1-2 weeks
+- **Smoking**: Cold smoke (80-100F) 4-8 hours after curing; hardwood (hickory, apple, cherry)
+- **Bacon from duck/goat belly**: Cure 7 days, cold smoke 4 hours, cook to 150F
+- **Jerky**: Slice 1/4" strips, marinate, dehydrate at 160F until brittle
 
-- [[duck-keeping]] — raising ducks to harvest weight
-- [[goat-keeping]] — raising goats to harvest weight
-- [[goat-husbandry]]
-- [[rabbit-husbandry]]
-- [[beekeeping-basics]]
-- [[food-preservation-canning]] — canning, smoking, curing, dehydrating
+## Sausage Making
+
+**Basic fresh sausage ratio** (adjust to taste):

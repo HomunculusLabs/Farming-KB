@@ -108,6 +108,8 @@ The species plays an ecological role in its native mountain habitats by providin
 
 ## See Also
 
+- [[juniperus-phoenicea]]
+
 - [[juniperus-communis]]
 - [[juniperus-virginiana]]
 - [[juniperus-horizontalis]]

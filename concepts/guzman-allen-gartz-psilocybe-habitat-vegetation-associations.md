@@ -119,11 +119,6 @@ forests suggests that the current species count of ~170 neurotropic Psilocybe
 taxa represents a significant underestimate of the true global diversity.
 
 ## See Also
-
 - [[guzman-magic-mushrooms-habitat-ecology]]
-- guzman allen gartz diversity and vegetation types
 - [[guzman-allen-gartz-neotropical-psilocybe-species]]
-
-## See Also
-
 - [[guzman-allen-gartz-neurotropic-fungi-diversity-and-vegetation-types]]

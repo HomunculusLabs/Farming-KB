@@ -127,6 +127,14 @@ The strain-dependent localization of psilocin raises several questions for futur
 - Stijve, T. and Kuyper, T.W. (1985). "Occurrence and content of psilocybin and psilocin in the Netherlands." Pharmaceutisch Weekblad Scientific Edition 7: 233-236.
 
 ## See Also
+
+- [[guzman-central-america-neurotropic-fungi-species-distribution]]
+- [[guzman-critique-of-stamets-world-distribution-map-accuracy]]
+- [[magic-mushroom-retail-markets-and-commercial-distribution-channels]]
+- [[psilocybe-cubensis-alkaloid-distribution]]
+- [[psilocybe-genus-global-distribution-and-biogeography]]
+- [[psilocybe-geographical-distribution-patterns]]
+- [[strain-dependent-alkaloid-tissue-distribution-cap-stem-psilocybe-cubensis]]
 - [[psilocybe-cubensis-fruiting-timeline-flush-patterns-dung-grain-substrate]]
 - [[mushroom-cultivation-basics]]
 - [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]

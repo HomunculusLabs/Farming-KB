@@ -1,5 +1,5 @@
 ---
-title: hemenway-worm-bin-rabbit-integration Types Comparison
+title: Worm Bin Types Comparison
 created: 2026-04-12
 updated: 2026-04-12
 type: comparison
@@ -9,11 +9,11 @@ sources: []
 
 # Worm Bin Types Comparison
 
-Vermicomposting is a cornerstone of homestead waste management, converting kitchen scraps and [[hamilton-composting-and-organic-matter-management]] into nutrient-rich castings. The right bin design depends on available space, volume of waste, budget, and how hands-on you want to be. This page compares the four most common worm bin types used by homesteaders.
+Vermicomposting is a cornerstone of homestead waste management, converting kitchen scraps and organic matter into nutrient-rich castings. The right bin design depends on available space, volume of waste, budget, and how hands-on you want to be. This page compares the four most common worm bin types [[knf-vs-chemical-farming-comparison]] used by homesteaders.
 
 ## Overview of Types
 
-1. **[[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]] (Single or Dual Chamber)** — Simple, low-cost, enclosed container
+1. **Plastic Bin (Single or Dual Chamber)** — Simple, low-cost, enclosed container
 2. **Flow-Through Bin** — Large-scale continuous harvest system
 3. **Worm Tower** — In-garden buried system
 4. **Stacking Tray System** — Multi-tier vertical migration system
@@ -26,7 +26,7 @@ Vermicomposting is a cornerstone of homestead waste management, converting kitch
 | Capacity | 5-30 gal | 50-400+ gal | 1-5 gal per tower | 15-40 gal |
 | Harvest method | Manual separation | Continuous from below | Castings leach into soil | Bottom tray removal |
 | Scalability | Limited | Very scalable | Add more towers | Add more trays |
-| [[cannabis-odor-control-and-carbon-filters]] | Good (sealed) | Good | Moderate | Good |
+| Odor control | Good (sealed) | Good | Moderate | Good |
 | Ideal for | Beginners, apartments | Large homesteads | Garden beds, small spaces | Medium homesteads |
 | Maintenance | Low | Moderate | Very low | Moderate |
 | Pest risk | Low | Low | Higher (outdoor) | Low |
@@ -112,14 +112,14 @@ Commercial systems like the Worm Factory or Can-O-Worms use multiple stacked tra
 
 ## Worm Species
 
-Most homestead bins use one of two species:
+Most homestead bins use one of two species [[ultra-low-green-manure-cover-crop-species]]:
 - **Eisenia fetida (Red Wigglers):** Most common, hardy, reproduce quickly, tolerate a wide range of conditions
 - **Eisenia hortensis (European Nightcrawlers):** Larger, prefer cooler temperatures, good for garden beds
 
 ## Related Concepts
 
-- [[vermicomposting]] — Detailed guide on [[hamilton-worm-composting-manure]] process and management
-- [[composting-methods-comparison]] — General [[natural-farming-guide-composting-methods-and-techniques]] including thermophilic composting as an alternative or complement to vermicomposting
+- [[vermicomposting]] — Detailed guide on worm composting process and management
+- [[composting-methods-comparison]] — General composting methods including thermophilic composting as an alternative or complement to vermicomposting
 - [[cannabis-living-soil-guide]] — How worm castings contribute to living soil biology
 
 ## Key Maintenance Tips

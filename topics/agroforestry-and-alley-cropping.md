@@ -124,7 +124,6 @@ Medium spacing of 6 to 10 metres suits light-demanding field crops such as
 maize, beans, cassava, and sweet potatoes. At these distances, the hedgerows
 provide substantial mulch and nitrogen contributions while allowing adequate
 light penetration to the alley crops during the [[savory-growing-season-and-non-growing-season-management]].
-
 ## See Also
 
 - [[forest-gardening-and-food-forests]]

@@ -66,7 +66,7 @@ The sequence might have been:
 If the theory is correct, it would mean:
 
 1. The transformation of water into wine (at Cana, and in Dionysian ritual) was a reference to diluting concentrated mushroom extract
-2. All ancient wine cultures may have originated from Amanita [[amanita-muscaria-preparation-methods]]
+2. All ancient wine cultures may have originated from Amanita [[amanita-preparation-methods]]
 3. The development of alcoholic fermentation may have been discovered as a side effect of [[magic-mushroom-preparation-and-consumption-methods]]
 4. The universal ancient practice of wine dilution preserves a fossil of the original mushroom-based beverage
 

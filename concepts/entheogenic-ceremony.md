@@ -137,13 +137,8 @@ societies using hallucinogenic plants:
 4. **Metaphysical realms**: Access to multiple worlds or nonordinary
    realities, variously called the "inner world," "spirit world," "upper
    or lower world," "dreamtime," or "otherworld," accessed through journeys
-## See Also
-
-- [[harmala-alkaloids-and-ayahuasca-preparation]] - the Amazonian decoction used in South American
-  entheogenic rituals
-- [[set-and-setting]] - the framework for understanding how context shapes
-  [[leary-psychedelic-experience-bardo-mapping]]
 
 ## See Also
-
+- [[harmala-alkaloids-and-ayahuasca-preparation]]
+- [[set-and-setting]]
 - [[entheogenic-ceremony-preparation]]

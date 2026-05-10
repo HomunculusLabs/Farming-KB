@@ -140,7 +140,6 @@ dense, meaty texture and umami-rich flavor that holds up to grilling, roasting,
 and braising. P. citrinopileatus offers an intense nutty, cashew-like flavor
 that is best showcased with minimal cooking.
 
-P. djamor has a slightly stronger and more aromatic flavor than grey oyster
 ## See Also
 
 - [[oyster-mushroom-fruiting-conditions]]

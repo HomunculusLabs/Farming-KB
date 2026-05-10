@@ -141,7 +141,6 @@ applications:
 - **[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]**: Aerobic conditions are required for the oxidative
   degradation pathway and for supporting robust fungal biomass growth.
   Oxygen limitation can shift fungal metabolism toward fermentative pathways
-  that do not support cyanide degradation.
 ## See Also
 - [[fungal-biosorption-mechanisms]]
 - [[fungal-metal-redox-transformations]]

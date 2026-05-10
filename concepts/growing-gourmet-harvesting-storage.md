@@ -6,7 +6,7 @@ type: concept
 tags: [mushrooms, cultivation, harvesting, storage, drying, packaging, shelf-life, refrigeration]
 sources:
   - label: "Growing Gourmet and cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides"
-    author: [[paul-stamets]]
+    author: paul-stamets
     year: 1993
     path: wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---

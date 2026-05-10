@@ -118,7 +118,6 @@ trees can provide fuel, timber, animal shelter, wildlife habitat, wind
 protection, leaf litter, [[gourmet-medicinal-mushroom-substrate-preparation]], nectar, and microclimate
 moderation. Design begins by asking what yields are needed and what ecological
 functions the site lacks.
-
 ## See Also
 
 - 

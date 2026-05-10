@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Charles C. Thomas.
   - Anderson, E.F. (2001). "The Cactus Family." Timber Press.
-  - Trout, K. (2005). "Sacred Cacti: [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], Peruvian Torch, and Other Ethnogenic Trichocereus Species." Trout's Notes.
+  - Trout, K. (2005). "Sacred Cacti: gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch, Peruvian Torch, and Other Ethnogenic Trichocereus Species." Trout's Notes.
   - Torres, C.M. & Repke, D.B. (2006). "Anadenanthera: Visionary Plant of Ancient South America." Haworth Press.
 created: 2026-04-28
 ---
@@ -119,6 +119,8 @@ The species is relatively cold-hardy, tolerating brief freezes to -5°C if kept 
 Pests include mealybugs, scale insects, and [[cervantes-spider-mites-identification-control]]; fungal rot is the primary disease concern, particularly from overwatering or poor drainage.
 
 ## See Also
+
+- [[corypha-umbraculifera]]
 
 - [[echinopsis-lageniformis]]
 

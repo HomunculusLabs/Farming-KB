@@ -21,7 +21,7 @@ sources:
 
 # Psilocybe atlantis
 
-**Psilocybe atlantis** is a rare [[emcdda-psilocybin-mushroom-dose-and-effects]] in the family Hymenogastraceae. It is one of several *Psilocybe* species known to produce **sclerotia** — dense, hardened masses of mycelium that store nutrients and allow survival during unfavorable conditions. In commercial contexts, sclerotia of *P. atlantis* and closely related species are sold as "magic truffles" or "philosopher's stones," particularly in the Netherlands where they remain legally available (as of 2026) despite restrictions on the mushrooms themselves.
+**Psilocybe atlantis** is a rare [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] in the family Hymenogastraceae. It is one of several *Psilocybe* species known to produce **sclerotia** — dense, hardened masses of mycelium that store nutrients and allow survival during unfavorable conditions. In commercial contexts, sclerotia of *P. atlantis* and closely related species are sold as "magic truffles" or "philosopher's stones," particularly in the Netherlands where they remain legally available (as of 2026) despite restrictions on the mushrooms themselves.
 
 ## Taxonomy and Nomenclature
 

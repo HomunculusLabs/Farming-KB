@@ -5,7 +5,6 @@ tags: [fukuoka, natural-farming, philosophy, agriculture, mahayana, hinayana, sc
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -126,7 +125,4 @@ periphery.
 ## See Also
 - [[fukuoka-textdoc-mahayana-hinayana-natural-farming-pursuit-of-nature]]
 - [[mahayana-hinayana-natural-farming]]
-
-## See Also
-
 - [[fukuoka-mahayana-and-hinayana-natural-farming]]

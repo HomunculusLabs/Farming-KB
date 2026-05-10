@@ -24,10 +24,10 @@ analytical testing.
 | Terpene | Approx. Range | Notes |
 |---------|--------------|-------|
 | [[e-beta-caryophyllene-bcp]] | 0.4–1.0% | Peppery spice; dietary [[cannabis-cannabinoid-receptor-pharmacology]] agonist |
-| [[myrcene]] is the dominant terpene by weight, though [[og-kush]]
+| [[myrcene]] is the dominant terpene by weight, though [[og-kush-cannabis-entity]]
 and [[super-lemon-haze]], [[nyc-diesel]]
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[super-lemon-haze]]
 - [[myrcene]]
 - [[e-beta-caryophyllene-bcp]]

@@ -15,9 +15,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Blesching - The blesching-cannabis-health-index-autoimmune-conditions"
-  - "Robert C. Clarke - [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]]"
+  - "Robert C. Clarke - clarke-marijuana-botany-cannabinoid-biosynthesis-pathway"
   - "S.T. Oner - Cannabis Sativa Volume 3"
-  - "The Modern Farm - LAB and [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] Biosynthesis"
+  - "The Modern Farm - LAB and blesching-cannabis-cannabinoid-terpene-entourage-effect Biosynthesis"
 related_concepts:
   - cannabis-terpene-entourage-effect
   - cannabinoid-terpene-entourage-effect
@@ -124,7 +124,6 @@ cannabinoid receptors, making it function as a dietary cannabinoid.
 Found in black pepper, cinnamon, cloves, and copaiba balsam,
 caryophyllene produces warming, woody, and peppery aromas. Its CB2
 activity means it contributes anti-inflammatory effects without any
-psychoactive component, making it particularly relevant for
 ## See Also
 
 - [[cannabis-terpene-entourage-effect]]

@@ -48,14 +48,9 @@ Metamaterials are artificial media whose subwavelength structure creates enginee
 Their shared lesson is that light can be designed by designing the material architecture around it.
 
 ## See Also
-
-- photonic-crystals
-- query how do photonic crystals [[query-how-do-photonic-crystals-create-structural-color]]
 - [[sajeev-john]]
-
-## See Also
-
 - [[photonic-crystals]]
+
 ## Practical Considerations
 
 When working with Photonic Crystals vs Metamaterials, several practical factors should be

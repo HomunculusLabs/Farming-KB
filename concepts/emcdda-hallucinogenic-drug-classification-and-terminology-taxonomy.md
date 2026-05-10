@@ -121,12 +121,7 @@ This tension between clinical and user-driven terminology continues
 to shape drug policy debates across Europe.
 
 ## See Also
-
 - [[hallucinogen-terminology-and-chemical-classification]]
-
 - [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
 - [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
-
-## See Also
-
 - [[emcdda-hallucinogenic-vs-psychedelic-terminology-debate]]

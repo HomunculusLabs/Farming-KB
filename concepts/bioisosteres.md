@@ -5,8 +5,7 @@ tags: [medicinal-chemistry, pharmacology, drug-discovery, organic-chemistry, ADM
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
@@ -39,7 +38,7 @@ Nonclassical replacements are especially useful when the original group gives ex
 
 ## Design Goals
 
-One goal is to improve metabolic stability by blocking a soft site that is rapidly oxidized, hydrolyzed, reduced, or conjugated. Another goal is to tune pKa so that the molecule has the right ionization state for target binding, membrane permeability, and tissue distribution.
+One goal is to improve metabolic stability by blocking a soft site that is rapidly oxidized, hydrolyzed, reduced, or conjugated. Another goal is to tune pKa so that the molecule has the right ionization state for target binding, membrane permeability, and [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]].
 
 A third goal is to lower excessive lipophilicity, because very lipophilic compounds often show poor solubility, high clearance, promiscuous binding, or toxic accumulation. A fourth goal is to remove structural alerts such as anilines, catechols, Michael acceptors, nitroaromatics, or metabolically activated heterocycles.
 

@@ -25,11 +25,11 @@ sources:
 
 # Michael Harner
 
-American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "Hallucinogens and Shamanism" (1973).
+American anthropologist (1929-2018), founder of the Foundation for Shamanic Studies, and editor of the seminal anthology "Hallucinogens and Shamanism" (1973). (see [[hallucinogens-and-shamanism-harner-anthology]]).
 
 ## Overview
 
-Michael Harner was an anthropologist who conducted fieldwork among the Jivaro (Shuar) people of the Ecuadorian Amazon and later became one of the most influential figures in the modern neo-shamanic movement. His academic work on the role of hallucinogens in shamanism was groundbreaking, while his later career popularizing "core shamanism" has been both influential and controversial.
+Michael Harner was an anthropologist who conducted fieldwork among the Jivaro (Shuar) people of the Ecuadorian Amazon and later became one of the most influential figures in the modern neo-shamanic movement. His academic work on the role of hallucinogens in shamanism was groundbreaking, while his later career popularizing "core shamanism" has been both influential and controversial. (see [[roland-griffiths]]).
 
 ## Key Contributions
 
@@ -59,24 +59,6 @@ Harner later founded the Foundation for Shamanic Studies and developed "core sha
 ## See Also
 
 - [[siberian-shamanism-and-amanita]] — Siberian shamanism with fly-agaric, as discussed by Harner
-- [[r-gordon-wasson]] — Wasson's [[gartz-wasson-mexican-mushroom-cult-rediscovery]] discoveries that complement Harner's Amazonian work
-- [[psychedelic-mushroom-history]] — Broader timeline of [[archaeology-of-psychedelic-mushroom-use]] use
+- [[r-gordon-wasson]] — Wasson's Mexican mushroom discoveries that complement Harner's Amazonian work
+- [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
 - [[entheogen-culture]] — Broader context of psychoactive substances in spiritual practice
-## Practical Considerations
-
-Successful implementation of Michael Harner requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

@@ -136,12 +136,9 @@ more accessible, it also means the experience may be shallower than what
 would be available in a traditional community setting.
 
 ## Post-Ceremony Integration
+
 ## See Also
-- metzner-huichol-wirikuta-pilgrimage-and-peyote-ceremony-structure
 - [[ayahuasca-preparation-and-ceremony]]
-
-## See Also
-
 - [[ayahuasca-ceremony-practices]]
 - [[brugmansia-suaveolens]]
 - [[banisteriopsis-caapi]]

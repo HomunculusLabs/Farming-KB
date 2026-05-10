@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-The mushroom market has grown from a niche agricultural sector into a multi-billion dollar global industry. From the button mushroom commodity market to premium specialty varieties and [[functional-mushroom-products|medicinal mushroom products]], the economics of [[accessible-mushroom-cultivation-for-disabilities]] span a remarkable range of scales, from backyard operations to industrial complexes producing millions of pounds annually.
+The mushroom market has grown from a niche agricultural sector into a multi-billion dollar global industry. From the button mushroom commodity market to premium specialty varieties and [[functional-mushroom-products|medicinal mushroom products]], the economics of mushroom cultivation span a remarkable range of scales, from backyard operations to industrial complexes producing millions of pounds annually.
 
 ## Historical Market Context
 
@@ -35,9 +35,9 @@ William Falconer's 1891 observations paint a vivid picture of the early American
 
 In Falconer's time, the economics of mushroom cultivation were intimately tied to the manure economy:
 
-- Market gardeners already had the horse manure needed for [[gourmet-medicinal-mushroom-substrate-preparation]]
+- Market gardeners already had the horse manure needed for mushroom substrate
 - After bearing a crop of mushrooms, the spent manure was "thoroughly rotted and in good condition for early spring crops; and for seed beds of tomatoes, lettuces, cabbages, cauliflowers, and other vegetables, it is the best kind of manure"
-- This [[zeri-circular-economy-systems]] meant the mushroom crop effectively paid for the preparation of compost for subsequent vegetable crops -- the mushroom crop was nearly pure profit
+- This circular economy meant the mushroom crop effectively paid for the preparation of compost for subsequent vegetable crops -- the mushroom crop was nearly pure profit
 
 ## Modern Commercial Market
 
@@ -52,7 +52,7 @@ The global mushroom market is valued at over $50 billion annually and growing. K
 
 ### Agaricus (Button Mushroom) Market
 
-The commodity mushroom market is dominated by [[genetic-improvement-agaricus-bisporus-molecular-approaches]] in its three forms:
+The commodity mushroom market is dominated by Agaricus bisporus in its three forms:
 
 - **White button:** The commodity standard; price-competitive market
 - **Cremini (brown):** Slightly higher price point; increasingly popular
@@ -66,7 +66,7 @@ Specialty mushrooms (shiitake, oyster, king oyster, lion's mane, maitake, enoki,
 
 - **Price premium:** Specialty mushrooms typically sell for $8-20+ per pound retail, compared to $3-6 for Agaricus
 - **Growing demand:** Consumer interest in culinary diversity, health foods, and plant-based cuisine drives growth
-- **Lower barriers to entry:** Many specialty species can be grown on [[oyster-mushroom-supplemented-sawdust-blocks]] in relatively simple facilities
+- **Lower barriers to entry:** Many specialty species can be grown on supplemented sawdust in relatively simple facilities
 - **Shorter supply chains:** Local and regional production is feasible, supporting farm-direct and farmers' market sales
 
 ### Medicinal Mushroom Market
@@ -84,7 +84,7 @@ The [[medicinal-mushroom-health-benefits|medicinal mushroom]] product market has
 
 Key cost components in mushroom cultivation:
 
-- **[[growing-gourmet-substrate-materials-wood-types]]:** Sawdust, grain, supplements, compost ingredients
+- **Substrate materials:** Sawdust, grain, supplements, compost ingredients
 - **Energy:** Heating, cooling, humidification, sterilization (autoclaving is energy-intensive)
 - **Labor:** Spawn preparation, inoculation, monitoring, harvesting, packing
 - **Facility:** Growing rooms, fruiting chambers, laminar flow hoods, autoclaves

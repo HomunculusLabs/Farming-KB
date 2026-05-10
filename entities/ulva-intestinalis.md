@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Hayden H.S. et al. (2003). "Cryptic Species of Ulva (Ulvales, Ulvophyceae) in the British Isles." Journal of Phycology, 39(2), 369-377.
   - Steentoft M. et al. (1995). "A Checklist of Marine Benthic Green Algae (Chlorophyta) in the British Isles." Seaweeds of the British Isles, Vol. 1. HMSO.
-  - Løvstad Holdt S. & Kraan S. (2011). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in Seaweed: Functional Food Applications." Journal of Applied Phycology, 23(3), 543-597.
+  - Løvstad Holdt S. & Kraan S. (2011). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants in Seaweed: Functional Food Applications." Journal of Applied Phycology, 23(3), 543-597.
   - Fletcher R.L. (1996). "The Occurrence of 'Green Tides' — A Review." Marine Benthic Vegetation, Springer, 7-43.
 ---
 

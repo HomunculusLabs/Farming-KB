@@ -3,7 +3,7 @@ title: Psychedelic Mushroom Pharmacology
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [mycology|mycology], psychopharmacology, neuroscience, pharmacology, entheogen-research, psychedelics, health]
+tags: [mycology, psychopharmacology, neuroscience, pharmacology, entheogen-research, psychedelics, health]
 sources: []
 ---
 
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The pharmacology of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of [[psilocybin|psilocybin]] — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
+The pharmacology [[fly-agaric-literary-history]] of psychedelic mushrooms is defined primarily by the action of psilocin — the active metabolite of psilocybin — on serotonergic neurotransmitter systems in the central nervous system. Understanding these mechanisms is essential for explaining both the therapeutic potential and the subjective effects of these compounds.
 
 ## Primary Mechanism: 5-HT2A Receptor Agonism
 
@@ -27,7 +27,7 @@ Psilocin interacts with multiple serotonin receptor subtypes:
 - **5-HT1B**: Moderate affinity — role not fully characterized
 - **5-HT5A, 5-HT6, 5-HT7**: Lower affinity — potential contributory roles
 
-The psychedelic effects are overwhelmingly mediated through 5-HT2A activation. This has been confirmed by pharmacological blockade studies: pretreatment with ketanserin (a selective 5-HT2A antagonist) completely abolishes the subjective and behavioral effects of psilocybin.
+The psychedelic [[fly-agaric-literary-history]] effects are overwhelmingly mediated through 5-HT2A activation. This has been confirmed by pharmacological blockade studies: pretreatment with ketanserin (a selective 5-HT2A antagonist) completely abolishes the subjective and behavioral effects of psilocybin.
 
 ### Intracellular Signaling Cascades
 
@@ -42,7 +42,7 @@ The psychedelic effects are overwhelmingly mediated through 5-HT2A activation. T
 
 ### Absorption
 
-After oral ingestion, psilocybin is rapidly absorbed from the gastrointestinal tract. The phosphate group is cleaved by alkaline phosphatases in the intestinal mucosa and liver, converting psilocybin to psilocin. Peak plasma concentrations of psilocin are reached in approximately 40-90 minutes.
+After oral ingestion, psilocybin [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] is rapidly absorbed from the gastrointestinal tract. The phosphate group is cleaved by alkaline phosphatases in the intestinal mucosa and liver, converting psilocybin to psilocin. Peak plasma concentrations of psilocin are reached in approximately 40-90 minutes.
 
 ### Distribution
 
@@ -141,9 +141,8 @@ Important pharmacological interactions:
 Psilocybin has a very high safety profile:
 
 - **LD50** (lethal dose 50%) in rodents: approximately 285 mg/kg IV — far exceeding any reasonable human dose
-- **No known lethal overdose** in humans from [[psilocybin-mushroom|psilocybin mushroom]]s alone
-## See Also
+- **No known lethal overdose** in humans from psilocybin mushrooms alone
+- The primary risks are psychological (acute anxiety, panic, psychosis in vulnerable individuals) and accidental (misidentification leading to toxic species ingestion)
+- Cardiovascular effects include mild, transient increases in heart rate and blood pressure
 
-- [[psychedelic-mushroom-set-and-setting]]
-- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
-- [[emcdda-psilocybin-mushroom-dose-and-effects]]
+See [[psychedelic-mushroom-effects-guide]] for subjective effect descriptions and [[psilocybin-clinical-trials]] for clinical pharmacology data.

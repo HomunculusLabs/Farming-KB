@@ -114,10 +114,6 @@ Cordycepin modulates both innate and adaptive immune responses.
 - **Contraindications:** Caution in patients on immunosuppressive therapy or anticoagulant medications
 
 ## See Also
-
-- [[cordyceps-sinensis]] — Traditional medicinal fungus containing trace cordycepin
-- [[ergothioneine]] — Another bioactive fungal compound with distinct antioxidant properties
-
-## See Also
-
+- [[cordyceps-sinensis]]
+- [[ergothioneine]]
 - [[cordyceps-cancer-bioactive-compounds]]

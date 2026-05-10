@@ -137,6 +137,8 @@ Establishes slowly but forms long-lived, dense clumps. Excellent choice
 for shade gardens, woodland borders, and naturalistic plantings. Minimal
 ## See Also
 
+- [[polygonatum-odoratum]]
+
 - [[steve-solomon]]
 - [[solomon-raised-beds]]
 

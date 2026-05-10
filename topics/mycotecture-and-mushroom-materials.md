@@ -141,7 +141,6 @@ Mycelium composites exhibit notable fire-resistant properties:
 - **Fire rating:** Can achieve Euroclass D-s1,d0 with mineral additives; standard (unmodified) typically achieves Euroclass E or F
 - **Char formation:** Forms a protective char layer that insulates underlying material
 
-### Acoustic Properties
 ## See Also
 
 - vermicomposting-and-earthworm-ecology — related biological waste processing

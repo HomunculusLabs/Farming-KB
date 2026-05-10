@@ -4,8 +4,7 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 # Fodder Growing Guide
 

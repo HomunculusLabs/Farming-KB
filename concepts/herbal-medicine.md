@@ -31,12 +31,12 @@ sources:
 
 # Herbal Medicine — Homestead Apothecary
 
-Growing [[permaculture-plants-medicinal-herbs-healing]] provides self-reliance for common ailments, connects you to plant medicine traditions, and integrates well into a [[food-forest-design]] or [[permaculture-useful-plants-reference]] planting. This page covers the top [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]], [[cannabis-harvest-timing-visual-cues]], preparation methods, and building a home apothecary.
+Growing medicinal herbs provides self-reliance for common ailments, connects you to plant medicine traditions, and integrates well into a [[food-forest-design]] or [[permaculture-useful-plants-reference]] planting. This page covers the top herbs to grow, harvest timing, preparation methods, and building a home apothecary.
 
 ## Top 20 Herbs for a Homestead Apothecary
 
 ### Immune Support
-1. **Echinacea (E. purpurea, E. angustifolia)** — Root and aerial parts. Immune stimulant, anti-inflammatory. Full sun, well-drained soil. [[cellvibrio-post-harvest-root-decay-cannabis]] in fall of 3rd year. Zones 3-9.
+1. **Echinacea (E. purpurea, E. angustifolia)** — Root and aerial parts. Immune stimulant, anti-inflammatory. Full sun, well-drained soil. Harvest root in fall of 3rd year. Zones 3-9.
 2. **Elderberry (Sambucus nigra/canadensis)** — Berries and flowers. Antiviral, immune tonic. Shrub, 6-12 ft. Harvest flowers in June, berries Aug-Sep. Zones 3-8.
 
 ### Nervous System / Stress
@@ -91,9 +91,9 @@ Growing [[permaculture-plants-medicinal-herbs-healing]] provides self-reliance f
 
 ## Preparations
 
-**Tinctures** — [[pf-tek-alcohol-extraction-method]] (1:5 herb:liquid by weight). Vodka (80-100 proof) for most herbs. Macerate 4-6 weeks, shake daily, strain. Dose: 1-3 mL, 2-3x/day. Glycerites use vegetable glycerin instead of alcohol (for children or alcohol-sensitive).
+**Tinctures** — Alcohol extraction (1:5 herb:liquid by weight). Vodka (80-100 proof) for most herbs. Macerate 4-6 weeks, shake daily, strain. Dose: 1-3 mL, 2-3x/day. Glycerites use vegetable glycerin instead of alcohol (for children or alcohol-sensitive).
 
-**[[query-how-to-make-herbal-infused-oils-at-home]]** — Dry herb covered in oil (olive, jojoba). Solar infusion: 2-4 weeks in sunny window. Heat method: low simmer 2-4 hours (double boiler). Base for salves. Use FULLY dry herbs only (moisture = mold).
+**Infused Oils** — Dry herb covered in oil (olive, jojoba). Solar infusion: 2-4 weeks in sunny window. Heat method: low simmer 2-4 hours (double boiler). Base for salves. Use FULLY dry herbs only (moisture = mold).
 
 **Salves** — Infused oil + beeswax (1:4 to 1:5 ratio). Melt together, pour into tins. Excellent for calendula wound salve, plantain drawing salve.
 
@@ -110,7 +110,7 @@ Growing [[permaculture-plants-medicinal-herbs-healing]] provides self-reliance f
 - **Medication interactions**: Echinacea can interact with immunosuppressants. Valerian potentiates sedatives. Ginger thins blood.
 - **Allergies**: Aster family (echinacea, chamomile, calendula) — avoid if ragweed allergic.
 - **Start low**: Always begin with small doses. Discontinue if adverse reaction.
-- **Know your ID**: Never wildcraft without positive identification. See mushroom-identification principles apply to plants too.
+- **Know your ID**: Never wildcraft without positive identification. See [[mushroom-identification]] principles apply to plants too.
 - Consult a qualified herbalist or physician for serious conditions, persistent symptoms, or if pregnant/nursing.
 
 ## Building a Home Apothecary
@@ -126,7 +126,7 @@ Growing [[permaculture-plants-medicinal-herbs-healing]] provides self-reliance f
 - Labels and permanent marker
 - Mortar and pestle or herb grinder
 
-**Organize by system**: Immune, digestive, nervous/calm, skin, respiratory.
+**Organize by system**: Immune, digestive, nervous/calm, skin/[[homestead-first-aid-guide]], respiratory.
 
 ## Reference Books and Websites
 

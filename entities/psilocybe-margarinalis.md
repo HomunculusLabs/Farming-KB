@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Guzmán, G. (2005). "Species Diversity of the Genus Psilocybe (Basidiomycotina, Agaricales, Strophariaceae) in the World Mycobiota, with Special Attention to Hallucinogenic Properties." International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 7(4), 305-316.
   - Guzmán, G., Tapia, F. & Gándara, D. (2004). "A new bluing species of Psilocybe section Stropharia from Spain." Mycotaxon, 89, 177-180.
-  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
+  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Borovička, J., Noordeloos, M.E. & Gryndler, M. (2015). "Molecular phylogeny of Psilocybe sensu lato." Mycologia, 107(6), 1274-1286.
 ---
 

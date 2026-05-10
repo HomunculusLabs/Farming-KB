@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture-grazing-and-pasture
+title: Permaculture Grazing and Pasture
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,14 +9,14 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Grazing and Pasture
 
-Mollison approaches grazing and pasture as components of integrated farm systems rather than standalone enterprises. The emphasis is on diverse forage systems, rotational management, and the integration of trees with pasture to create resilient, productive landscapes.
+Mollison approaches grazing and pasture as components of integrated farm systems rather than standalone enterprises. The emphasis is on diverse forage systems, rotational management, and the integration [[goat-cattle-integration]] of trees with pasture to create resilient, productive landscapes.
 
 ## Principles of Permaculture Pasture
 
 The permaculture approach to pasture differs fundamentally from conventional monoculture grazing:
 
 - **Diverse species mixtures** rather than introduced pasture monocultures
-- **[[comparison-rotational-grazing-vs-continuous-grazing]]** to prevent overgrazing and allow recovery
+- **Rotational grazing** to prevent overgrazing and allow recovery
 - **Integration with tree crops** for shade, fodder, and shelter
 - **Stocking rates set below worst-case conditions** to ensure survival through drought
 - **Forage conservation** (hay, silage) as insurance against seasonal shortage
@@ -27,7 +27,7 @@ Mollison identifies several key management strategies for grasslands and rangela
 
 ### Addition of Forage Species
 Grasslands can be improved by adding:
-- Grass-legume mixtures ([[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] nitrogen)
+- Grass-legume mixtures (legumes fix nitrogen)
 - Forage trees (Leucaena, tagasaste, carob) providing foliage and pods
 - Deep-rooted herbs (chicory, comfrey, dandelion, dock) accessing subsoil nutrients
 
@@ -53,7 +53,7 @@ Grasslands can be improved by adding:
 The Norm Sims case study (Weekly Times, 5 Jan 1983) demonstrates practical rotational grazing:
 - 26 paddocks grazed in a 21-day rotation
 - Average field of 1.6 ha each with a trough water-point
-- Pasture area reduced to concentrate irrigation on [[query-what-are-the-best-ground-covers-for-a-no-till-garden]]
+- Pasture area reduced to concentrate irrigation on best ground
 - Result: doubled production using half the irrigation water
 
 ## Multi-Species Grazing Sequences
@@ -87,4 +87,4 @@ See [[permaculture-tree-crop-systems]] for full treatment of silvopastoral syste
 - [[permaculture-livestock-forage-systems]] -- diverse forage sources including tree fodder
 - [[permaculture-domestic-animals]] -- the animals themselves and their management
 - [[permaculture-tree-crop-systems]] -- integrating trees with grazing systems
-- [[animal-manure-guide]] -- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] from animals to soil
+- [[animal-manure-guide]] -- nutrient cycling from animals to soil

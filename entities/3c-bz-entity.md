@@ -103,7 +103,7 @@ and there was absolutely no activity of any kind observed at that level.
 
 ## Related Compounds
 
-- [[mescaline-entity]] -- 3,4,5-trimethoxyphenethylamine
+- [[mescaline]] -- 3,4,5-trimethoxyphenethylamine
 
 - [[3c-e-entity]]
 - [[alexander-shulgin]]

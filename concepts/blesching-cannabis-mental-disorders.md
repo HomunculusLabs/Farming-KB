@@ -18,7 +18,7 @@ type: concept
 
 The relationship between cannabis and mental health is one of the most complex
 and widely debated topics in medical cannabis research. According to Uwe
-Blesching's [[cannabis-health-endo-cannabinoid-system]] and Mental Health
+Blesching's [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] and Mental Health
 
 The endocannabinoid system plays a crucial role in regulating mood, emotion,
 and cognitive function. CB1 receptors are densely concentrated in brain regions

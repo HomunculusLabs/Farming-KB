@@ -1,5 +1,5 @@
 ---
-title: KNF Water cho-water-soluble-calcium-and-potassium
+title: KNF Water Soluble Calcium
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # KNF Water Soluble Calcium (WSC)
 
-Water Soluble Calcium is extracted from eggshells, animal bones, or seashells using brown [[brown-rice-vinegar-brv]] (BRV). It strengthens plant cell walls, improves fruit quality, and helps prevent disease.
+Water Soluble Calcium is extracted from eggshells, animal bones, or seashells using brown rice vinegar (BRV). It strengthens plant cell walls, improves fruit quality, and helps prevent disease. (see [[animal-byproducts]]).
 
 ## Why Calcium Matters
 
@@ -57,7 +57,7 @@ Water Soluble Calcium is extracted from eggshells, animal bones, or seashells us
 ## Dilution and Use
 
 - Basic dilution ratio: 1:1,000
-- Foliar spray during [[knf-reproductive-growth-stage]] period
+- Foliar spray during reproductive growth period
 - Apply to flowering and fruiting plants
 - Good to use with OHN for enhanced effect
 - Can be mixed with FPJ for balanced nutrition
@@ -68,7 +68,7 @@ Water Soluble Calcium is extracted from eggshells, animal bones, or seashells us
 - When plant cell walls appear weak
 - During fruiting stage for firmer, sweeter fruit
 - When insects attack (calcium-strengthened walls resist pests)
-- For [[cervantes-pest-disease-prevention-overview]]
+- For disease prevention
 - During rapid growth periods when calcium demand is high
 
 ## Storage

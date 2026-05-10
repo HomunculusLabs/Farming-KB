@@ -119,4 +119,4 @@ control to express its full terpene potential.
 
 - [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]]
 - [[wine-cap-mushroom-cultivation]]
-- [[miracle-alien-cookies]] · GMO · [[ice-cream-cake-cannabis]] · [[jealousy]] · [[do-si-dos-entity]] · [[runtz-entity]]
+- [[miracle-alien-cookies]] · GMO · [[ice-cream-cake-cannabis]] · [[jealousy-cannabis-strain-entity]] · [[do-si-dos-entity]] · [[runtz-entity]]

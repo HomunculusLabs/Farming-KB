@@ -1,7 +1,7 @@
 ---
 title: "Kirchhoff's Circuit Laws"
 aliases: [Kirchhoff laws, Kirchhoff current law, Kirchhoff voltage law, junction rule, loop rule]
-tags: [electrical-engineering, circuits, electromagnetism, physics, engineering]
+tags: [electrical-engineering, circuits, electromagnetism, [[microwave-water-coupling-2-45-ghz-surface-sterilization-physics|physics]], engineering]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
@@ -31,7 +31,7 @@ KCL applies to DC circuits, AC phasor circuits, and time-domain circuits as long
 
 It is the basis of nodal analysis, where node voltages are the unknowns and branch currents are written in terms of them.
 
-Circuit simulators such as SPICE enforce KCL at nodes while solving the nonlinear device equations of a network.
+Circuit simulators such as SPICE enforce KCL at nodes while solving the nonlinear device equations of a [[mycelial-network-graph-theory-analysis|network]].
 
 ## Voltage Law
 Kirchhoff's voltage law, often abbreviated KVL, is a loop balance for electric potential differences.
@@ -57,7 +57,7 @@ The circuit is represented as a graph of nodes and branches rather than as a ful
 
 This approximation works extremely well for power circuits, audio circuits, many control systems, and low-frequency electronics.
 
-At radio frequency, microwave frequency, or fast digital edges, wires can behave as transmission lines rather than ideal connections.
+At radio frequency, [[microwave-frequency-2450-mhz-water-dipole-coupling-sterilization]], or fast digital edges, wires can behave as transmission lines rather than ideal connections.
 
 Parasitic capacitance, inductance, resistance, and radiation then become part of the circuit model rather than small errors.
 

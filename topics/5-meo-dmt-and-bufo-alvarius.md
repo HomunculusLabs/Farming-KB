@@ -121,7 +121,6 @@ the sources as a very short, very forceful smoked or intravenous drug.
 The most famous natural source is the secretion of the Sonoran Desert
 toad. The 5-MeO-DMT compound profile identifies the venom glands of
 Bufo alvarius as containing 5-MeO-DMT as the primary psychoactive
-component and warns against confusing this species with Bufo marinus,
 ## See Also
 
 - [[5-meo-dmt-compound-profile]]

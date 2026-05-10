@@ -13,7 +13,7 @@ sources:
   - Cho, Han Kyu. Korean Natural Farming Handbook.
   - Ingham, Elaine. The Compost Tea Brewing Manual, 5th Edition.
   - Savidov, N. et al. "Evaluation of Compost Tea for Control of Foliar Diseases." Acta Horticulturae, 2004.
-  - Endo, A. & Dicksved, J. "Lactobacillus Communities in Organic Farming." [[fukuoka-microbial-ecology-decomposition]], 2015.
+  - Endo, A. & Dicksved, J. "Lactobacillus Communities in Organic Farming." fukuoka-microbial-ecology-decomposition, 2015.
   - ATTRA (NCAT). "Compost Teas: A Practical Guide for Growers." 2022.
 type: comparison
 ---

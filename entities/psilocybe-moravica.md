@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe moravica
 
-**Psilocybe moravica** is a bluing [[emcdda-psilocybin-mushroom-dose-and-effects]] species in the family strophariaceae, originally described from Moravia in the eastern Czech Republic. It was formally circumscribed by mycologist Jan Borovička and colleagues as part of a series of taxonomic revisions of European Psilocybe species in the early 2010s.
+**Psilocybe moravica** is a bluing [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] species in the family strophariaceae, originally described from Moravia in the eastern Czech Republic. It was formally circumscribed by mycologist Jan Borovička and colleagues as part of a series of taxonomic revisions of European Psilocybe species in the early 2010s.
 The species is one of several recently described European members of the genus that were previously confused with morphologically similar taxa. Its recognition reflects the growing understanding that European bluing Psilocybe diversity is significantly greater than was appreciated under traditional classification systems.
 
 ## Taxonomy and Etymology

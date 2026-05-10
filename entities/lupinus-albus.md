@@ -97,6 +97,11 @@ White lupin serves as a phosphorus-scavenging companion plant in intercropping s
 
 ## See Also
 
+- [[lupinus-luteus]]
+- [[lupinus-nootkatensis]]
+
+- [[symphoricarpos-albus]]
+
 - [[lupinus-angustifolius]]
 - [[phaseolus-vulgaris]]
 - [[pisum-sativum]]

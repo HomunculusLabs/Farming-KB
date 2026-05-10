@@ -121,7 +121,6 @@ The showy pink flower clusters provide ornamental value and attract
 pollinators, particularly bumblebees and long-tongued bees. It is
 occasionally planted in wildflower meadows, though its invasive
 potential makes this practice controversial.
-
 ## Related Species
 
 *Coronilla* (sensu stricto) includes approximately 20 species of

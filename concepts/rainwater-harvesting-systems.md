@@ -1,12 +1,10 @@
 ---
-title: comparison-xeriscaping-guide-vs-rainwater-harvesting-systems Systems
+title: Rainwater Harvesting Systems
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, off-grid, water, water-management, engineering, sustainability]
-sources:
-  sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+sources: []
 ---
 
 # Rainwater Harvesting Systems
@@ -15,7 +13,7 @@ Rainwater harvesting captures and stores precipitation for domestic,
 agricultural, and landscape use. On a homestead, it reduces dependence on
 well or municipal water, provides backup supply, and reduces stormwater
 runoff. This guide covers system components, design, sizing, filtration,
-and potability considerations.
+and potability considerations. (see [[homestead-water-systems]]).
 
 ## System Components
 
@@ -23,7 +21,7 @@ and potability considerations.
 The roof is the most common catchment surface. Metal roofing is ideal
 (smooth, non-toxic, long-lasting). Asphalt shingles are acceptable but
 release particles and chemicals. Avoid unsealed wood, tar, and treated
-materials.
+materials. (see [[homestead-water-purification]]).
 
 **Catchment area calculation:**
 - Roof area (sq ft) x rainfall (inches) x 0.623 = gallons captured
@@ -36,7 +34,7 @@ materials.
 - Downspouts direct flow to the first flush diverter and storage
 
 ### First Flush Diverter
-The first 0.02 inches of rain per [[comparison-biointensive-vs-square-foot-gardening]] of catchment washes dust,
+The first 0.02 inches of rain per square foot of catchment washes dust,
 bird droppings, pollen, and debris from the roof. A first flush diverter
 captures and discards this contaminated water.
 
@@ -80,7 +78,7 @@ events. See sizing section below.
 1. **Coarse screen** (first flush diverter) — removes large debris
 2. **Settling tank** — allows suspended solids to settle (optional)
 3. **Cartridge filter** — 20-50 micron sediment filter
-4. **[[cervantes-ventilation-fan-carbon-filter-setup]]** — removes taste, odor, and [[fungal-volatile-organic-compounds-communication]]
+4. **Carbon filter** — removes taste, odor, and organic compounds
 5. **UV disinfection** — ultraviolet light inactivates bacteria, viruses,
    and protozoa (requires power)
 6. **Boiling or chemical** — backup disinfection method
@@ -139,12 +137,14 @@ meets EPA drinking water standards in most cases. Key risks:
 
 ### Testing
 Test water annually for: coliform bacteria, E. coli, pH, turbidity, lead,
-## Related
+and nitrate. Use a state-certified laboratory.
 
-- [[enzyme-harvesting-mycorrhizal-systems]]
+## Maintenance Schedule
+- **Monthly** — check gutters, screens, and first flush diverter
+- **Quarterly** — inspect tank for sediment, algae, and mosquito larvae
+- **Annually** — clean tank interior, replace sediment filters, test water
+  quality, inspect all fittings and seals
+- **After major storms** — clean gutters and screens of debris
 
-- [[permaculture-water-harvesting]] — Permaculture Water Harvesting covers the broader [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] approach to capturing and storing water on-site.
-- mollison-designers-rainwater-tanks-and-roof-catchment-systems
-- [[mollison-designers-roof-water-catchment-calculations]]
-- [[permaculture-design]]
-- [[permaculture-water-harvesting]]
+## Off-Grid Integration
+

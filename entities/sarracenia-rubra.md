@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Schnell, D.E. (2002). Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada. 2nd ed. Timber Press.
-  - McPherson, S.R. (2011). Sarraceniaceae of [[psilocybin-north-america-pacific-northwest]]. Redfern Natural History Productions.
+  - McPherson, S.R. (2011). Sarraceniaceae of psilocybin-north-america-pacific-northwest. Redfern Natural History Productions.
   - Mellichamp, T.L. (2011). "Sarracenia rubra Walter." Flora of North America, 8, 442–444.
   - NatureServe. (2024). "Sarracenia rubra." NatureServe Explorer.
   - Slack, A. (1980). Carnivorous Plants. MIT Press.

@@ -1,6 +1,6 @@
 ---
 
-title: Log Cultivation Methods — falconer-growing-mushrooms-in-sheds on Logs and Stumps
+title: Log Cultivation Methods — Growing Mushrooms on Logs and Stumps
 created: 2026-04-11
 updated: 2026-04-13
 type: concept
@@ -17,12 +17,12 @@ tags:
 - field-methods
 
 sources:
-sources: []
+- raw/papers/mycelium-running-stamets.md
 ---
 
 # Log Cultivation Methods
 
-From Chapter 11 of *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]]. Growing mushrooms on logs and stumps is the most traditional and long-lasting cultivation method, producing for years or even decades.
+From Chapter 11 of *Mycelium Running* by [[paul-stamets]]. Growing mushrooms on logs and stumps is the most traditional and long-lasting cultivation method, producing for years or even decades.
 
 ## Choosing the Right Wood
 
@@ -35,7 +35,7 @@ The ideal trees are those the mushroom species grows upon naturally. Consult a f
 | Rapidly decomposing (alder, birch, aspen) | 6-12 months | Until bark peels | Fastest returns |
 | Medium density (oak, maple, elm) | 1-2 years | 4-7 years | Best balance |
 | Dense hardwoods (ironwood, hickory) | 2-3 years | 5-10 years | Longest production |
-| Cedar, redwood | 20+ years (aged) | Unknown | Only [[growing-gourmet-hypholoma-capnoides-cultivation]] known to work |
+| Cedar, redwood | 20+ years (aged) | Unknown | Only Hypholoma capnoides known to work |
 
 ### Key Principles
 - Oak is the natural host for shiitake, but alder, eucalyptus, and other fast-decomposing hardwoods are readily colonized
@@ -45,7 +45,7 @@ The ideal trees are those the mushroom species grows upon naturally. Consult a f
 
 ### Tree Selection
 - Cut logs in late winter/early spring when sap runs (highest sugar content)
-- Avoid wood with decay, wounds, blight signs, or preexisting [[pf-tek-mushroom-growth-timeline]]
+- Avoid wood with decay, wounds, blight signs, or preexisting mushroom growth
 - Check cut ends: healthy logs show clean growth rings; infected logs show marbling
 - If infection is near the cut zone, cut 1 full meter away from last visible discoloration and inoculate at double rate
 - Storm debris = free substrate; some arborists now offer mycological services
@@ -136,14 +136,15 @@ Using multiple inoculation strategies simultaneously:
 - Long-lived species like reishi and turkey tail are excellent stump candidates
 
 ## Bunker Spawn — Scalable Habitat Restoration
-## See Also
 
-- [[mushroom-cultivation-basics]] — The 10-step cultivation process
-- [[inoculation-methods]] — Spore, spawn, and stem butt techniques
-- [[straw-cultivation-methods]] — Pasteurization and low-tech straw growing
-- [[mushroom-species-guide]] — Species-specific wood preferences and [[chen-maitake-growth-parameters-environmental-control]]
-- [[fungal-ecology]] — Natural [[fungal-decomposition-succession-resource-quality]] on wood
+Bunker spawn is wood chip-filled burlap bags inoculated with mycelium:
 
-## Related
+### Making Bunker Spawn
+1. Fill burlap sacks with fresh wood chips
+2. Inoculate with: pure culture plug spawn (100-200 per sack), sawdust spawn, recycled kit substrate, stem butts, or cardboard sheet spawn
+3. Stack 3 high on pallets or cardboard in shade
+4. Incubate 6-12 months; colonized bags become snow-white
+5. Select bags fused together by interconnecting rhizomorphs — these have the most vigorous mycelium
+6. Use to inoculate more bags (10-100x expansion), or place directly in the landscape
 
-- [[outdoor-mushroom-bed-preparation]]
+### Applications

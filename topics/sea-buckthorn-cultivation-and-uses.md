@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - "Sea Buckthorn: Production and Utilization — Thomas S.C. Li, 2003"
   - "The Encyclopedia of Fruit and Nuts — Jules Janick & Robert E. Paull, 2008"
-  - "[[comparison-perennial-vegetables-vs-cover-crops]] — Eric Toensmeier, 2007"
+  - "comparison-perennial-vegetables-vs-cover-crops — Eric Toensmeier, 2007"
   - "USDA Natural Resources Conservation Service Plant Guide: Hippophae rhamnoides"
   - "FAO Technical Papers on Sea Buckthorn Development, 2001–2017"
   - "Journal of the Science of Food and Agriculture — sea buckthorn nutritional reviews, 2017–2024"
@@ -140,7 +140,6 @@ Sea buckthorn is relatively pest-resistant, reflecting its co-evolution with few
 #### Insects
 - **Sea buckthorn fly (*Rhagoletis batava*):** The most significant insect pest in commercial orchards, particularly in Europe. Larvae tunnel in the fruit. Yellow sticky traps for monitoring; targeted insecticide application (spinosad, pyrethrin) at petal fall.
 - **Aphids:** Occasional on new growth. Usually controlled by natural predators (lady beetles, lacewings). Blast with water or apply insecticidal soap if severe.
-- **Spider mites:** Can be problematic in hot, dry conditions. Increase humidity; release [[comparison-predatory-mites-vs-ladybugs-biocontrol]] (*Phytoseiulus persimilis*).
 ## See Also
 
 - [[moringa-oleifera-cultivation-uses-and-nutrition]] — another multi-use superfood shrub

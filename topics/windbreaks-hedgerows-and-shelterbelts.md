@@ -116,7 +116,6 @@ single most important design variable. A 10-meter windbreak protects land
 effectively for 100 to 150 meters downwind. This is why fast-growing pioneer
 species are often included in windbreak plantings: they quickly establish
 height while slower-growing climax species mature. The physics of wind flow
-also means that even a modest 3-meter hedgerow provides measurable
 ## See Also
 
 permaculture-windbreak | [[permaculture-windbreak-design-species]] |

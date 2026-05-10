@@ -108,12 +108,5 @@ reactor designs:
   for decentralized treatment applications
 
 ## See Also
-
-- fungal [[staycare-laccase-enzymes-in-bioremediation]] decolorization - Laccase enzymes central to
-  emerging contaminant transformation
-- [[singh-fungal-consortia-synergistic-biodegradation]] - Multi-species approaches
-  for complex emerging contaminant mixtures
-
-## See Also
-
+- [[singh-fungal-consortia-synergistic-biodegradation]]
 - [[singh-fungal-degradation-pesticides]]

@@ -9,14 +9,14 @@ tags:
   - sustainability
   - substrates
 sources:
-  sources: []
+  - raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
 # Mushroom Crop Rotation and Substrate Reuse
 
 ## Overview
 
-After mushroom harvest cycles are complete, the spent substrate represents both a waste management challenge and a valuable resource. Understanding how to handle, reuse, and recycle spent [[gourmet-medicinal-mushroom-substrate-preparation]] is essential for economic and environmental sustainability in [[accessible-mushroom-cultivation-for-disabilities]] operations.
+After mushroom harvest cycles are complete, the spent substrate represents both a waste management challenge and a valuable resource. Understanding how to handle, reuse, and recycle spent mushroom substrate is essential for economic and environmental sustainability in mushroom cultivation operations.
 
 ## Spent Substrate Composition
 
@@ -24,7 +24,7 @@ After the final flush of mushrooms has been harvested, the substrate (often call
 
 - **Original organic matter** has been partially decomposed by mushroom mycelium and associated microorganisms
 - **Nutrient profile** has shifted: readily available carbohydrates have been consumed, leaving a more stable, lignin-rich residue
-- **[[edaphic-factors-microbial-community-structure]]** is dominated by the cultivated mushroom species and its associated organisms
+- **Microbial community** is dominated by the cultivated mushroom species and its associated organisms
 - **pH** is typically near neutral after the mushroom growing cycle
 - **Moisture content** is reduced compared to actively fruiting substrate
 
@@ -92,7 +92,7 @@ Complete composting of spent mushroom substrate typically takes 4-8 weeks depend
 For commercial mushroom farms, management between crop cycles is critical:
 
 - **Room disinfection:** Thorough disinfection of growing rooms between crop rotations is essential to prevent disease carryover. Steam heating for 12 hours at 160°F+ is recommended for Agaricus operations.
-- **Spore filter maintenance:** High-efficiency spore filters should be installed and maintained to screen particulates exiting the [[cannabis-growing-environment-setup]]
+- **Spore filter maintenance:** High-efficiency spore filters should be installed and maintained to screen particulates exiting the growing environment
 - **Floor and hallway disinfection:** Floors and hallways leading to and from growing rooms should be disinfected with 2% chlorine solution
 - **Disease management:** Diseased mushrooms should be picked while the veil is intact, before spores are released, to minimize disease spread to subsequent crops
 
@@ -101,7 +101,7 @@ For commercial mushroom farms, management between crop cycles is critical:
 Mushroom viruses are a significant concern in commercial cultivation:
 
 - Virus particles can carry over from previous crops
-- Once anastomosed (fused), virus particles spread throughout the [[gadd-mycelial-network-dynamics]] of new mycelium
+- Once anastomosed (fused), virus particles spread throughout the mycelial network of new mycelium
 - Strict sanitation between crops is the primary defense
 - Some species are more susceptible than others
 
@@ -111,7 +111,7 @@ Mushroom viruses are a significant concern in commercial cultivation:
 
 Some species can fruit on substrate that has already been colonized and partially consumed by another mushroom species:
 
-- **[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]** (shaggy mane) fruits well on "spent" Agaricus compost that has been colonized for a year or more
+- **Coprinus comatus** (shaggy mane) fruits well on "spent" Agaricus compost that has been colonized for a year or more
 - **Oyster mushrooms** (Pleurotus species) can be inoculated into spent Agaricus compost, though yields are lower than on fresh substrate
 - The fruiting mechanism may be partly controlled by bacterial flora associated with the decomposition process in aged compost
 

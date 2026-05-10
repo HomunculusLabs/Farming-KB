@@ -4,20 +4,18 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, comparison, potency, equipment, chemistry]
-sources:
-  sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 ## Overview
 
-Cannabis concentrates are products made by extracting and concentrating cannabinoids and terpenes from the cannabis plant. They range from relatively simple mechanical preparations (kief, [[green-cannabis-dry-sift-water-extraction]]) to highly refined solvent-based extracts (shatter, distillate). Potency typically ranges from 40-99% THC compared to 15-30% in raw flower.
+Cannabis concentrates are products made by extracting and concentrating cannabinoids and terpenes from the cannabis plant. They range from relatively simple mechanical preparations (kief, dry sift) to highly refined solvent-based extracts (shatter, distillate). Potency typically ranges from 40-99% THC compared to 15-30% in raw flower. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
 
 ## Mechanical / Solventless Concentrates
 
 ### Kief
 
-Kief is the collection of trichome heads that have been separated from [[cervantes-cannabis-flower-anatomy]] using a mesh screen or grinder with a kief catcher.
+Kief is the collection of trichome heads that have been separated from cannabis flower using a mesh screen or grinder with a kief catcher. (see [[homestead-dairy-equipment]]).
 
 **Production**:
 - Grinders with 3-4 piece chambers have a bottom screen that catches fallen trichomes
@@ -49,7 +47,7 @@ Trichomes are separated from plant material using ice, water, and agitation, the
 
 **Process**:
 1. Mix cannabis with ice and cold water (near freezing)
-2. Agitate for 10-30 minutes (by hand or with a [[cervantes-washing-machine-hash]])
+2. Agitate for 10-30 minutes (by hand or with a washing machine)
 3. Pour through sequential bubble bags (220, 160, 120, 73, 45, 25 micron)
 4. Collect hash from each bag separately
 5. Air dry on parchment paper for 24-72 hours
@@ -145,6 +143,8 @@ A highly refined, nearly pure cannabinoid extract that has been stripped of near
 5. THC boils at approximately 315 F (157 C); CBD at approximately 356 F (180 C)
 
 **Characteristics**:
-## Related
-
-- [[live-resin-processing]]
+- Clear, thick, honey-like liquid
+- Potency: 85-99% THC or CBD
+- Nearly tasteless and odorless (terpenes removed)
+- Base ingredient for vape cartridges, edibles, and tinctures
+- Terpenes are often re-added (botanical or cannabis-derived) for flavor

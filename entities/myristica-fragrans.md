@@ -5,8 +5,7 @@ type: species
 tags: [plant, spice, psychoactive, myristicaceae, deliriant]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 
 # Myristica fragrans
@@ -15,7 +14,7 @@ sources:
 
 ## Taxonomy and Nomenclature
 
-*Myristica fragrans* Houtt. is the type species of the genus *Myristica*, which comprises approximately 120 species distributed across the tropics. The family Myristicaceae includes about 18 genera and 300 species of [[mescaline-entity]] (sharing the 3,4-methylenedioxyphenyl group) and to safrole. It is believed to be metabolically converted to MMDA (3-methoxy-4,5-methylenedioxyamphetamine), an amphetamine derivative, though this metabolic pathway remains debated.
+*Myristica fragrans* Houtt. is the type species of the genus *Myristica*, which comprises approximately 120 species distributed across the tropics. The family Myristicaceae includes about 18 genera and 300 species of [[mescaline]] (sharing the 3,4-methylenedioxyphenyl group) and to safrole. It is believed to be metabolically converted to MMDA (3-methoxy-4,5-methylenedioxyamphetamine), an amphetamine derivative, though this metabolic pathway remains debated.
 - **Elemicin** (3,4,5-trimethoxyallylbenzene) — a phenylpropene compound comprising approximately 0.1% to 0.4% of the seed. Elemicin is structurally related to [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]]** — including oleic, palmitic, linoleic, and stearic acids.
 
 ### Volatile Oils

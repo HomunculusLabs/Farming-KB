@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [cannabis, cultivation]
-sources:
-  sources: []
+sources: []
 ---
 
 # Cannabis for Mental Health Conditions
@@ -110,4 +109,4 @@ For mental health conditions, CBD-dominant preparations are generally preferred:
 THC should be used cautiously in mental health contexts:
 - Can trigger anxiety at higher doses
 - May worsen psychotic symptoms in vulnerable individuals
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]

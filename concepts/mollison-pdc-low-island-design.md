@@ -136,13 +136,9 @@ Low island design requires combining multiple strategies efficiently:
 The PDC emphasizes that islands can be tropical paradises if population
 density is managed. Key settlement principles include governing surface
 use with respect for water storages, and the need for careful nutrient
-## See Also
 
+## See Also
 - [[mollison-pdc-solar-greenhouse-design]]
-
-## See Also
-
-- mollison-permaculture-low-islands
 - [[permaculture-design]]
 - [[mollison-designers-high-island-and-tropical-valley-design]]
 - [[mollison-pdc-high-island-design]]

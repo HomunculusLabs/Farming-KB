@@ -130,6 +130,8 @@ fermentable sugars.
 
 ## See Also
 
+- [[agave-sisalana]]
+
 - [[genipa-americana]]
 
 - [[opuntia-ficus-indica]] — [[comparison-agave-vs-prickly-pear-cultivation]], companion arid-zone permaculture plant

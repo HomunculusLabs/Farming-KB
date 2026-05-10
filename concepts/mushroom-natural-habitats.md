@@ -1,6 +1,6 @@
 ---
 
-title: gourmet-mushroom-natural-culture Habitats — Where Fungi Thrive
+title: Mushroom Natural Habitats — Where Fungi Thrive
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -17,13 +17,12 @@ tags:
 - ph
 
 sources:
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+- raw/papers/mycelium-running-stamets.md
 ---
 
 # Mushroom Natural Habitats
 
-From Chapter 3 of *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]]. Understanding where mushrooms grow in nature is the foundation for successful cultivation and [[mycorestoration-overview]].
+From Chapter 3 of *Mycelium Running* by [[paul-stamets]]. Understanding where mushrooms grow in nature is the foundation for successful cultivation and [[mycorestoration-overview]].
 
 ## The Mycorrhizal Majority
 
@@ -31,7 +30,7 @@ Most mushrooms are mycorrhizal — they form symbiotic partnerships with tree ro
 
 ## Saprophytic Mushrooms — The Cultivator's Friends
 
-Saprophytic mushrooms decompose dead [[hamilton-composting-and-organic-matter-management]]. These are the species that can be cultivated. Key natural habitats include:
+Saprophytic mushrooms decompose dead organic matter. These are the species that can be cultivated. Key natural habitats include:
 
 ### Forest Floor Debris
 - Fallen logs, branches, and stumps in various stages of decomposition
@@ -44,7 +43,7 @@ Saprophytic mushrooms decompose dead [[hamilton-composting-and-organic-matter-ma
 - Uninoculated fresh chips are vulnerable to "spore fall" — wild spores dominate after ~2 years
 
 ### Meadow and Grassland
-- Some saprophytes grow in grassy areas (e.g., Agaricus campestris, [[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]])
+- Some saprophytes grow in grassy areas (e.g., Agaricus campestris, Coprinus comatus)
 - These species often follow decomposition of buried wood or root masses
 
 ## Parasitic Fungi in Nature
@@ -56,7 +55,7 @@ Parasitic fungi attack living trees. [[paul-stamets]] notes that parasitic speci
 
 ## Ecological Succession on Dead Wood
 
-Wood decomposition follows a predictable [[dighton-fungal-succession-disturbance]]:
+Wood decomposition follows a predictable fungal succession:
 
 1. **Pioneer fungi** (weeks): Trichoderma, Hypoxylon, Xylaria — fast colonizers
 2. **Primary saprophytes** (months): Oyster, shiitake, turkey tail — white rot decomposers
@@ -70,7 +69,7 @@ The key insight: faster-decomposing hardwoods (alder, birch, aspen) produce mush
 Identifying mycelium without its mushroom is difficult, but some signs help:
 
 - **Visual**: White, threadlike networks; wood chips gripped firmly together
-- **Scent**: Each species has a signature fragrance — [[query-how-to-grow-oyster-mushrooms-at-home]] smell of anise, Clitocybe odora has a sweet scent, matsutake has a pinelike fragrance
+- **Scent**: Each species has a signature fragrance — oyster mushrooms smell of anise, Clitocybe odora has a sweet scent, matsutake has a pinelike fragrance
 - **Mycelial lens**: A natural concentration of mycelium that can serve as a "mother patch" for transplantation
 - **Rhizomorphs**: Ropelike mycelial strands radiating from stem bases (white in beneficial species, often black in Armillaria)
 

@@ -10,7 +10,7 @@ sources:
 
 # Mycofiltration — Watershed Protection with Fungal Mats
 
-Using mycelial mats to filter water, remove pathogens, capture sediments, and protect watersheds. From [[paul-stamets]]' pioneering work in *[[woodlovers-mycelium-running-pathway-technique]]* (2005). See also [[mycofiltration-overview]].
+Using mycelial mats to filter water, remove pathogens, capture sediments, and protect watersheds. From [[paul-stamets]]' pioneering work in *Mycelium Running* (2005). See also [[mycofiltration-overview]].
 
 ## The WSDOT Experiment: Proving the Concept
 
@@ -33,7 +33,7 @@ Stamets conducted tests at his farm on Skookum Inlet, Washington:
 One of the most significant findings:
 - Water passing through Stropharia rugoso-annulata mycelial mats showed dramatic E. coli die-off
 - The mycelium produces antibacterial compounds that target gram-negative bacteria
-- The dense [[gadd-mycelial-network-dynamics]] physically traps bacteria and fine sediments
+- The dense mycelial network physically traps bacteria and fine sediments
 - This has profound implications for agricultural runoff, septic systems, and watershed protection
 
 ## Road Construction Runoff
@@ -64,7 +64,7 @@ Mushroom mycelial mats can be placed in drainage ditches, swales, and waterways 
 - Remove excess nutrients (nitrogen, phosphorus) from agricultural runoff
 - Filter animal waste pathogens (E. coli, Salmonella, Cryptosporidium)
 - Trap sediments and prevent erosion
-- Reduce the need for [[comparison-constructed-wetlands-vs-bioswales]] (which require more space)
+- Reduce the need for constructed wetlands (which require more space)
 
 ### Manure Pile Filtration
 
@@ -78,10 +78,10 @@ Placing myceliated straw or wood chip barriers around manure piles:
 
 Arica et al. (2003) demonstrated using fungi for water filtration:
 
-- **Species**: [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] (turkey tail) and Pleurotus pulmonarius var. 'sajor-caju'
+- **Species**: Trametes versicolor (turkey tail) and Pleurotus pulmonarius var. 'sajor-caju'
 - **Method**: Combined mycelial beads with alginic acid to remove 97% of mercuric ions from water
 - **Key finding**: Dead mycelium removed 73-81% of mercury — physical cellular architecture bonds with mercuric ions
-- **Application**: Mycofiltration cartridges for [[fungal-industrial-wastewater-treatment]] treatment
+- **Application**: Mycofiltration cartridges for industrial wastewater treatment
 
 ## Species Selection for Mycofiltration
 
@@ -91,7 +91,7 @@ Arica et al. (2003) demonstrated using fungi for water filtration:
 | Pleurotus ostreatus (oyster) | Hydrocarbons, bacteria | Most versatile; tolerates diverse conditions |
 | Trametes versicolor (turkey tail) | Heavy metals, bacteria | Dead biomass works for mercury |
 | Pleurotus pulmonarius (phoenix oyster) | Heavy metals | Mercury biosorption partner |
-| [[staycare-phanerochaete-chrysosporium-in-bioremediation]] | Chemical contaminants | Lab-proven for diverse toxins |
+| Phanerochaete chrysosporium | Chemical contaminants | Lab-proven for diverse toxins |
 
 ## Bunker Spawn for Mycofiltration
 

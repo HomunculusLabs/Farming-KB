@@ -2,7 +2,7 @@
 title: 2C-SE (2,5-Dimethoxy-4-methylselenophenethylamine)
 created: 2026-04-16
 updated: 2026-04-16
-type: entity
+type: [[meta-dob-entity-pihkal|entity]]
 tags: [chemistry, tihkal, 2c-family]
 sources:
   - "raw/papers/shulgin-a-pihkal.md"
@@ -87,7 +87,7 @@ a quantity of CH3SeH was released into the environment. Within minutes, there
 were two beautiful dragonflies in the lab. "A coincidence certainly, but
 somehow, it was a nice message to receive."
 
-The most promising selenium analogues would be Se-ethyl, Se-propyl, and
+The most promising selenium analogues would be Se-[[ethyl-j-entity-pihkal|ethyl]], Se-propyl, and
 Se-isopropyl (2C-SE-2, 2C-SE-4, 2C-SE-7). 2C-SE-21 would be the first
 centrally active drug with both fluorine and selenium.
 

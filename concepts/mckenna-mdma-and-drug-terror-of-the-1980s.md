@@ -116,10 +116,6 @@ plants is the unrecognized cause of the alienation of modernity and the
 cultural mind-set of planetary civilization.
 
 ## See Also
-
-- [[mckenna-drugs-governments-and-intelligence-agencies]] - government drug involvement
-- [[mckenna-consciousness-expansion-and-drug-war]] - consciousness and prohibition
-
-## See Also
-
+- [[mckenna-drugs-governments-and-intelligence-agencies]]
+- [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-food-gods-genesis-first-drug-bust]]

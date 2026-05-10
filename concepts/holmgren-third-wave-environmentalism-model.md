@@ -4,7 +4,7 @@ created: 2026-05-08
 updated: 2026-05-08
 type: concept
 tags: [permaculture, holmgren, environmentalism, social-movements, energy-descent, history, cultural-dynamics]
-sources: sources:
+sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Holmgren's Third Wave Environmentalism Model

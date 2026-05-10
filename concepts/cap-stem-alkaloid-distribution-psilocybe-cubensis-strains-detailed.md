@@ -89,7 +89,7 @@ different ratio of psilocybin to psilocin than whole-mushroom consumers.
 a crude chemical fingerprint for strain identification, complementing
 morphological characteristics.
 
-**[[amanita-muscaria-preparation-methods]].** Drying and grinding practices that homogenize the
+**[[amanita-preparation-methods]].** Drying and grinding practices that homogenize the
 whole mushroom will average out cap-stem differences, while consuming
 separated tissue will expose users to the specific alkaloid profile of that
 tissue type.

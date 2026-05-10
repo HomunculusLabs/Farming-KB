@@ -1,6 +1,6 @@
 ---
 
-title: fukuoka-orchard-management-detailed
+title: Orchard Management
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -32,7 +32,7 @@ Establishing and maintaining a productive orchard is a cornerstone of [[regenera
 ## Site Selection
 
 ### Soil Requirements
-- **Ideal**: Loam soils with 2-5% [[hamilton-composting-and-organic-matter-management]], pH 6.0-7.0 (apples/pears prefer 6.0-6.5, stone fruits 6.5-7.0)
+- **Ideal**: Loam soils with 2-5% organic matter, pH 6.0-7.0 (apples/pears prefer 6.0-6.5, stone fruits 6.5-7.0)
 - **Minimum**: 18-24 inches of well-drained soil before reaching hardpan or water table
 - **Heavy clay**: Amend with compost, consider raised beds or mounds 12-18" high, 6-8' diameter
 - **Sandy soil**: Add organic matter, mulch heavily
@@ -48,7 +48,7 @@ Establishing and maintaining a productive orchard is a cornerstone of [[regenera
 - Avoid depressions where water pools
 
 ### Sun Exposure
-- Minimum 6-8 hours direct sun during [[savory-growing-season-and-non-growing-season-management]]
+- Minimum 6-8 hours direct sun during growing season
 - Morning sun is critical: dries dew, reducing disease pressure
 - Full sun = better fruit set, sugar development, disease resistance
 - Observe winter sun angle — don't assume summer pattern applies year-round
@@ -60,7 +60,7 @@ Cold air flows downhill and pools in low spots. Avoid:
 - Areas behind solid fences that block cold air drainage
 - Frost pockets can be 5-10°F colder than surrounding slopes
 
-**Mitigation**: If no alternative, plant later-blooming varieties or use overhead irrigation for [[holzer-frost-protection-techniques]].
+**Mitigation**: If no alternative, plant later-blooming varieties or use overhead irrigation for frost protection.
 
 ### Wind Protection
 - Sustained winds >15 mph damage trees, reduce pollinator activity, increase water loss
@@ -119,7 +119,7 @@ Cold air flows downhill and pools in low spots. Avoid:
 
 ### Training Systems
 
-**[[comparison-central-leader-vs-open-center-fruit-tree-training]]** (Apples, Pears, Sweet Cherries): Single main trunk with scaffold branches in tiers. First tier at 24-30", subsequent tiers every 18-24". Good for tighter spacing.
+**Central Leader** (Apples, Pears, Sweet Cherries): Single main trunk with scaffold branches in tiers. First tier at 24-30", subsequent tiers every 18-24". Good for tighter spacing.
 
 **Open Center/Vase** (Peaches, Plums, Sour Cherries): 3-5 scaffolds radiating from trunk at 18-24" height. Essential for peaches (fruit on 1-year wood).
 
@@ -137,7 +137,7 @@ Cold air flows downhill and pools in low spots. Avoid:
 
 ## Pest Management
 
-Orchard IPM targets the most common [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]]: codling moth, cedar apple rust, apple maggot, plum curculio, brown rot, fire blight, and peach leaf curl. Key strategies include resistant varieties, sanitation, canopy management, and targeted organic sprays. See [[orchard-pest-management]] for detailed identification, treatment, and scouting guidance.
+Orchard IPM targets the most common pests and diseases: codling moth, cedar apple rust, apple maggot, plum curculio, brown rot, fire blight, and peach leaf curl. Key strategies include resistant varieties, sanitation, canopy management, and targeted organic sprays. See [[orchard-pest-management]] for detailed identification, treatment, and scouting guidance.
 
 ## Thinning
 

@@ -129,7 +129,7 @@ Zkittlez has won or placed in numerous major cannabis competitions, establishing
 
 - [[gelato]] — parent of Runtz and popular Zkittlez cross partner
 - [[gorilla-glue]] — another high-THC award-winning modern hybrid for comparison
-- [[og-kush]] — foundational West Coast breeding stock often crossed with Zkittlez descendants
+- [[og-kush-cannabis-entity]] — foundational West Coast breeding stock often crossed with Zkittlez descendants
 
 ## References
 

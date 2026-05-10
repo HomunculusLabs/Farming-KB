@@ -59,7 +59,7 @@ species include:
 - **Lycorine** — the most widely distributed Amaryllidaceae alkaloid,
   found in many genera within the family; it has emetic, antiviral,
   cytotoxic, and anti-inflammatory properties, and is responsible for much
-  of the acute toxicity of Amaryllidaceae bulbs
+  of the [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]] of Amaryllidaceae bulbs
 - **Pancratistatin** — a phenanthridone-type alkaloid with notable
   antitumor and antiviral activity, first isolated from *Pancratium
   littorale*; it exhibits selective cytotoxicity against [[blesching-cannabis-apoptosis-and-cancer-cell-death]] lines

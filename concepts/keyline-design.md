@@ -1,11 +1,11 @@
 ---
-title: query-how-does-keyline-design-work-in-permaculture
+title: Keyline Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, water-management, agriculture, regenerative, design, earthworks, erosion, soil]
 sources:
-  sources: []
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
 # Keyline Design
@@ -14,7 +14,7 @@ Keyline design is a landscape management system developed by Australian farmer P
 
 ## P.A. Yeomans and Origins
 
-Percival Alfred Yeomans (1904-1984) developed the Keyline System while managing "Nevallan" and "Yobarnie," two properties in New South Wales, Australia. Facing severe drought and erosion on degraded land, Yeomans observed that conventional contour plowing concentrated water in valleys, causing erosion and leaving ridges parched. His insight was to cultivate parallel to the "keyline" — a specific [[comparison-swale-vs-contour-line-water-management]] that naturally redistributes water from wet areas to dry areas.
+Percival Alfred Yeomans (1904-1984) developed the Keyline System while managing "Nevallan" and "Yobarnie," two properties in New South Wales, Australia. Facing severe drought and erosion on degraded land, Yeomans observed that conventional contour plowing concentrated water in valleys, causing erosion and leaving ridges parched. His insight was to cultivate parallel to the "keyline" — a specific contour line that naturally redistributes water from wet areas to dry areas.
 
 Yeomans outlined his system in several books, most notably "Water for Every Farm" (1954). The system integrates water management, soil development, tree planting, and pasture improvement into a unified landscape approach. It remains one of the most influential frameworks in [[permaculture-design-methods]] design and regenerative agriculture.
 
@@ -110,11 +110,11 @@ Larger [[earthworks-for-water-management]] projects (ponds, diversion swales) sh
 
 ### Keyline + Grazing
 
-Keyline-cultivated pastures recover faster and support higher stocking densities. The improved water distribution promotes more even forage growth. Combine with [[comparison-rotational-grazing-vs-continuous-grazing]] for maximum soil improvement.
+Keyline-cultivated pastures recover faster and support higher stocking densities. The improved water distribution promotes more even forage growth. Combine with rotational grazing for maximum soil improvement.
 
 ### Keyline + No-Till
 
-After initial keyline cultivation to break compaction and establish water [[guzman-global-distribution-patterns-neurotropic-fungi]], the land can transition to [[no-till-gardening-method]]. Keyline cultivation is a one-time or infrequent intervention, not an annual practice.
+After initial keyline cultivation to break compaction and establish water distribution patterns, the land can transition to [[no-till-gardening-method]]. Keyline cultivation is a one-time or infrequent intervention, not an annual practice.
 
 ## Application Scale
 
@@ -130,7 +130,7 @@ Keyline design works at multiple scales:
 - On very flat land, the keyline concept is less applicable (water distribution is less of an issue)
 - On very steep land (over 15% slope), keyline cultivation alone is insufficient — terracing or other earthworks are needed
 - The system was developed for the specific climate and geology of eastern Australia — adaptations may be needed for other regions
-- Initial implementation requires investment in earthworks, trees, and [[gottlieb-psilocybin-cultivation-equipment-and-facilities]]
+- Initial implementation requires investment in earthworks, trees, and cultivation equipment
 
 ## Related Topics
 
@@ -138,4 +138,4 @@ Keyline design works at multiple scales:
 - [[earthworks-for-water-management]] for comprehensive water management
 - [[rainwater-harvesting-systems]] for collection and storage
 - [[permaculture-design-methods]] for broader design framework
-- erosion for [[permplant-willows-salix-erosion-control-fodder]] context
+- erosion for erosion control context

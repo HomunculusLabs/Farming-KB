@@ -14,7 +14,7 @@ sources:
   - Osborn, T.G.B. & Kershaw, L. (1934). "The biology of Brasenia schreberi." Journal of Ecology, 22(2), 336–347.
   - Kubo, H. et al. (2011). "Reproductive biology and pollination ecology of Brasenia schreberi." Aquatic Botany, 94(4), 143–149.
   - Schneider, E.L. & Ford, J.L. (1978). "Observations on the pollination biology of Brasenia schreberi." Aquatic Botany, 4, 323–328.
-  - Cook, C.D.K. (1996). "[[permaculture-plants-aquatic-and-wetland-species]] Plants of India." Oxford University Press.
+  - Cook, C.D.K. (1996). "permaculture-plants-aquatic-and-wetland-species Plants of India." Oxford University Press.
 ---
 
 ## Overview

@@ -137,7 +137,6 @@ ABA is perceived by PYR/PYL/RCAR receptor proteins, which in the presence of ABA
 - **Abscisic acid analogs:** Although natural ABA is expensive, synthetic analogs and ABA-based products are emerging for use in reducing irrigation needs in horticulture
 - **Dormancy-breaking agents:** The interaction between ABA and GA is exploited commercially; gibberellic acid or hydrogen cyanamide is applied to break ABA-maintained bud dormancy in grapes, peaches, and other crops
 - **Stomatal antitranspirants:** Products like Vapor Gard (pinolene) form films on leaves to reduce transpiration, mimicking the effect of ABA-induced stomatal closure
-
 ## See Also
 
 - [[plant-defense-chemistry-and-secondary-metabolites]] — [[antifungal-secondary-metabolites-coprophilous-fungi]] and their roles in plant defense

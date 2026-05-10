@@ -101,3 +101,4 @@ Kratom represents a complex pharmacological s [[query-how-to-store-cannabis-seed
 ## See Also
 
 - [[chaenomeles-speciosa]]
+- [[yohimbine]]

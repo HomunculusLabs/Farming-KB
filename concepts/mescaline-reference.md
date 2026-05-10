@@ -33,7 +33,7 @@ The compound is a white crystalline solid at room temperature. It is soluble in 
 - Slow-growing: takes 5-15 years to reach maturity from seed
 - Traditional use: Huichol, Tarahumara, and other indigenous cultures in northern Mexico
 - Ceremonial context: peyote is considered a sacred medicine and teacher plant
-- [[ayahuasca-tourism-legal-status-by-country]] in the US: legal for members of the [[halpern-sacramental-peyote-and-native-american-church]] Church (NAC) for religious use; Schedule I otherwise
+- Legal status in the US: legal for members of the Native American Church (NAC) for religious use; Schedule I otherwise
 - Conservation concern: wild peyote populations are declining due to overharvesting, habitat loss, and slow growth rates
 
 ### San Pedro (Echinopsis pachanoi, syn. Trichocereus pachanoi)
@@ -50,7 +50,7 @@ The compound is a white crystalline solid at room temperature. It is soluble in 
 
 - Columnar cactus from the Bolivian highlands
 - Contains approximately 0.5-3% mescaline by dry weight (reported higher than San Pedro in some specimens)
-- Often considered among the most potent of the commonly cultivated [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
+- Often considered among the most potent of the commonly cultivated mescaline cacti
 - Used in Bolivian traditional medicine
 - Similar cultivation requirements to San Pedro
 - Contains unique alkaloids like bridgesiiine not found in other species
@@ -126,7 +126,7 @@ This method produces a purified product but involves hazardous chemicals and req
 - Synesthesia: blending of senses (seeing sounds, hearing colors)
 - Altered perception of time: time dilation, moments feeling eternal
 - Enhanced emotional sensitivity and introspection
-- Feelings of unity, connectedness, or [[psilocybin-ego-dissolution-mechanisms]] at higher doses
+- Feelings of unity, connectedness, or ego dissolution at higher doses
 - Enhanced appreciation of music and art
 - Altered thought patterns and cognitive flexibility
 - Mystical or spiritual experiences at higher doses
@@ -142,8 +142,9 @@ As with all psychedelics, set (mindset) and setting (environment) profoundly inf
 
 ## Pharmacology
 
-## See Also
-
-- [[psychoactive-cacti-guide]] for detailed cactus species identification and cultivation
-- [[lsd-reference]] for comparison with another classical psychedelic
-- [[psilocybin-pharmacology-detail]] for tryptamine psychedelic pharmacology
+- Primary mechanism: agonist activity at the 5-HT2A serotonin receptor
+- Also interacts with 5-HT2C, 5-HT1A, and alpha-2 adrenergic receptors
+- The phenethylamine structure means mescaline also has mild amphetamine-like stimulation
+- The 3,4,5-trimethoxy substitution pattern is the key pharmacophore
+- Mescaline is a partial agonist at 5-HT2A (lower intrinsic activity than LSD or psilocin)
+- Metabolized primarily by monoamine oxidase (MAO-A) and CYP2D6

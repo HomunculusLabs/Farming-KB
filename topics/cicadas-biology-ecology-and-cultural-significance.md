@@ -140,7 +140,6 @@ Cicadas are a critical food resource at every life stage:
 - **Xylem feeding**: Nymphal feeding on root xylem is generally non-lethal to mature trees but can reduce growth rates in saplings.
 - **Oviposition damage**: The slits made by females laying eggs can kill the tips of small branches (flagging), which can be significant in orchards and nurseries. Young trees (<4 years) may suffer serious damage or death during large emergences.
 - **Pollination**: While not significant pollinators, adult cicadas do visit flowers to feed on nectar and may transfer pollen incidentally.
-
 ## See Also
 
 - periodical cicadas and magicicada broods

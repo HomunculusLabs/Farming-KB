@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Øllgaard, B. (1990). "A revised classification of the Lycopodiaceae." Nordic Journal of Botany 10(2): 153–158.
-  - Wagner, W.H. & Beitel, J.M. (1992). "Generic classification of modern [[growing-gourmet-north-american-reishi-species]] Lycopodiaceae." American Fern Journal 82(4): 180–190.
+  - Wagner, W.H. & Beitel, J.M. (1992). "Generic classification of modern growing-gourmet-north-american-reishi-species Lycopodiaceae." American Fern Journal 82(4): 180–190.
   - Chopra, R.N. et al. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
   - Valiño, F. et al. (2012). "Lycopodium alkaloids: occurrence and bioactivities." Phytochemistry Reviews 11(4): 467–482.
   - Hart, J.A. (1997). "Traditional uses of Lycopodium clavatum." Journal of Ethnopharmacology 56(2): 119–124.

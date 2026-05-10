@@ -118,4 +118,4 @@ Stuart suggests that those interested primarily in the ayahuasca experience — 
 
 - [[shipibo-ayahuasca-traditions]]
 - [[shipibo-ayahuasca-towns-ucayali-pucallpa]]
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]

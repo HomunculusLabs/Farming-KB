@@ -1,5 +1,5 @@
 ---
-title: harner-amazonian-ayahuasca-preparation-methods — Traditional and Modern Methods
+title: Ayahuasca Preparation — Traditional and Modern Methods
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Ayahuasca (from Quechua: "vine of the souls" or "vine of the dead") is a psychoactive brew originating from the Amazon basin, used traditionally by Indigenous peoples of Peru, Ecuador, Colombia, Brazil, and Bolivia. The brew combines **Banisteriopsis caapi** (ayahuasca vine), which contains beta-carboline [[turner-harmala-alkaloids-preparation-and-dosage]] (MAO inhibitors), with **Psychotria viridis** (chacruna) or **Diplopterys cabrerana** (chaliponga), which provide N,N-dimethyltryptamine (DMT). The MAO inhibition allows orally active DMT, which would otherwise be degraded by monoamine oxidase enzymes in the gut.
+Ayahuasca (from Quechua: "vine of the souls" or "vine of the dead") is a psychoactive brew originating from the Amazon basin, used traditionally by Indigenous peoples of Peru, Ecuador, Colombia, Brazil, and Bolivia. The brew combines **Banisteriopsis caapi** (ayahuasca vine), which contains beta-carboline harmala alkaloids (MAO inhibitors), with **Psychotria viridis** (chacruna) or **Diplopterys cabrerana** (chaliponga), which provide N,N-dimethyltryptamine (DMT). The MAO inhibition allows orally active DMT, which would otherwise be degraded by monoamine oxidase enzymes in the gut.
 
 See [[dmt-reference]] for detailed pharmacology of DMT.
 
@@ -83,7 +83,7 @@ Important Shipibo principle: "It is not always good to mix in so many things. It
 6. **Strain**: Pour through a strainer or cloth to remove plant material.
 7. **Second/third boil**: Plant material is often re-boiled 1-2 more times with fresh water, then combined.
 8. **Final reduction**: All combined liquid is reduced to a drinkable volume, typically 100-200 ml per dose. The brew is dark brown, bitter, and thick.
-9. **Storage**: Can be stored in glass or plastic; refrigeration extends [[psilocybin-shelf-life-stability]] to several weeks. Some traditions prepare fresh for each ceremony.
+9. **Storage**: Can be stored in glass or plastic; refrigeration extends shelf life to several weeks. Some traditions prepare fresh for each ceremony.
 
 ### Traditional Variations
 
@@ -126,7 +126,7 @@ Changa is a smokable DMT blend, distinct from ayahuasca but related:
 
 - DMT-containing plant material or extracted DMT infused onto a smoking herb blend
 - Typically includes Banisteriopsis caapi leaf or extract (providing harmala alkaloids)
-- The harmala alkaloids modify and extend the [[mckenna-dmt-experience-and-hyperspace]] when smoked
+- The harmala alkaloids modify and extend the DMT experience when smoked
 - Common base herbs: mullein, peppermint, passionflower, caapi leaf, blue lotus
 - Typical DMT content: 10-30% by weight
 - Ratio of DMT to harmalas: roughly 1:1 to 1:3
@@ -141,9 +141,10 @@ Changa is a smokable DMT blend, distinct from ayahuasca but related:
 - Should follow standard ayahuasca dietary precautions
 
 ## Dietary Restrictions (Dieta)
-## Related Pages
 
-- [[dmt-reference]] for DMT pharmacology and chemistry
-- [[ayahuasca-visions]] for phenomenology and artistic interpretation
-- [[pablo-amaringo]] for the artistic tradition of ayahuasca imagery
-- [[psychedelic-compounds-reference]] for comparison with other entheogenic substances
+Traditional ayahuasca use involves dietary restrictions, partially pharmacological and partially spiritual:
+
+- **Pharmacological basis**: MAOIs can interact dangerously with tyramine-rich foods and serotonergic drugs
+- Avoid: SSRIs, SNRIs, tramadol, dextromethorphan, 5-HTP, St. John's wort, meperidine
+- Avoid: fermented foods, aged cheeses, cured meats, red wine (tyramine interaction)
+- Avoid: alcohol, recreational drugs, excessive caffeine

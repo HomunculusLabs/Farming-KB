@@ -100,7 +100,6 @@ entirely on the growing medium you provide, making soil mix quality
 and regular fertilization critical.
 
 A reliable container mix combines one-third compost, one-third
-coconut coir or peat moss for moisture retention, and one-third
 ## See Also
 
 mollison-urban-permaculture | [[holzer-urban-farming]]

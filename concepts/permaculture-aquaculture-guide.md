@@ -11,11 +11,11 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 ## Overview
 
-Aquaculture is the integration of fish, water plants, and [[fungi-aquatic-animals-pathogens-parasites]] into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site.
+Aquaculture is the integration of fish, water plants, and aquatic animals into designed landscapes. Permaculture aquaculture systems mimic natural pond ecologies, producing high yields of fish, crustaceans, and aquatic plants while performing essential water storage and purification functions on the site. (see [[backyard-pond-building]]).
 
 ## The Case for Aquaculture
 
-[[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]] serves multiple functions simultaneously:
+Aquaculture in permaculture serves multiple functions simultaneously:
 - Water storage for irrigation and domestic use
 - Food production (fish, crustaceans, edible water plants)
 - Fire control through stored water
@@ -29,7 +29,7 @@ Aquaculture is the integration of fish, water plants, and [[fungi-aquatic-animal
 
 ### Site Selection
 
-Ponds should be placed above the use point (garden, house) to enable gravity-fed water distribution. Earth dams are the most common and economical approach for [[holzer-pond-construction-and-aquaculture]]. Key considerations:
+Ponds should be placed above the use point (garden, house) to enable gravity-fed water distribution. Earth dams are the most common and economical approach for pond construction. Key considerations:
 
 - Impermeable soil layers (clay) or the use of liners and gley techniques
 - Adequate catchment area to fill and maintain water levels
@@ -47,7 +47,7 @@ Multiple pond types serve different functions in a permaculture system:
 
 ### Depth and Shape
 
-Deeper ponds (2-3m) provide thermal stability and overwintering habitat for fish. Shallow edges (0.3-0.5m) are essential for planting aquatic species and providing spawning habitat. Variable depth (stepped or terraced profiles) maximizes ecological niches.
+Deeper ponds (2-3m) provide thermal stability and overwintering habitat for fish. Shallow edges (0.3-0.5m) are essential for planting aquatic species and providing spawning habitat. Variable depth (stepped or terraced profiles) maximizes ecological niches. (see [[comparison-constructed-wetlands-vs-bioswales]]).
 
 ## Polyculture Systems
 

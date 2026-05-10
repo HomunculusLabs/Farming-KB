@@ -66,6 +66,8 @@ collect fungicolous fungi from tree canopies where they grow on
 
 ## See Also
 
+- [[fungicolous-fungi-spores-sclerotia-oospores]]
+
 ## Practical Considerations
 
 Successful implementation of Fungicolous and Mycoparasitic Fungi requires attention to

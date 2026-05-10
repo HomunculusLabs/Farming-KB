@@ -16,9 +16,9 @@ sources:
     Northern Nut Growers Association.
   - Payn, K.G. et al. (1992). "Chestnut." In: Moore, J. & Ballington,
     J.R. "Crop Production Science in Horticulture." CABI.
-  - Anagnostakis, S.L. (2012). "Chestnut breeding in the [[dmt-containing-plants-united-states-halpern]]."
+  - Anagnostakis, S.L. (2012). "Chestnut breeding in the dmt-containing-plants-united-states-halpern."
     Plant Breeding Reviews 34: 429–452.
-  - FAO (2022). "FAOSTAT: Chestnut [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]." Rome.
+  - FAO (2022). "FAOSTAT: Chestnut psilocybe-cubensis-miniculture-production-data-and-flush-longevity." Rome.
   - Burnham, C.R. et al. (1986). "Breeding Blight-Resistant Chestnuts."
     Plant Disease 70(9): 863–869.
 ---

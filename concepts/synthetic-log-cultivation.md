@@ -89,15 +89,6 @@ variants of a few common problem patterns. Embedding-based similarity checks
 and problem-structure hashing help maintain diversity.
 
 ## See Also
-
 - [[synthetic-log-cultivation-species-selection]]
-
 - [[synthetic-data-generation]]
-- chain of thought prompting
-- distillation
-- curriculum learning
-- self play
-
-## See Also
-
 - [[synthetic-log-mushroom-cultivation]]

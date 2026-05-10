@@ -9,7 +9,7 @@ sources: []
 
 ## What Is Granola
 
-Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweeteners, and oil, typically eaten with milk, yogurt, or fresh fruit. Homemade granola is far superior to store-bought — it is cheaper, customizable, fresher, and free of the excessive sugar, preservatives, and additives found in commercial varieties. Making granola at home takes about 45 minutes from start to finish and yields roughly 10-12 cups per batch.
+Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweeteners, and oil, typically eaten with milk, yogurt, or fresh fruit. Homemade granola is far superior to store-bought — it is cheaper, customizable, fresher, and free of the excessive sugar, preservatives, and additives found in commercial varieties. Making granola at home takes about 45 minutes from start to finish and yields roughly 10-12 cups per batch. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ## Core Ingredients
 
@@ -22,9 +22,9 @@ Granola is a baked breakfast food consisting of rolled oats, nuts, seeds, sweete
 
 ### Sweeteners
 
-Sweetener binds the granola together and creates clusters.
+Sweetener binds the granola together and creates clusters. (see [[grain-milling-at-home]]).
 
-- [[maple-syrup-production]] — classic, deep flavor, good binder
+- Maple syrup — classic, deep flavor, good binder
 - Honey — excellent binder, golden color, floral sweetness
 - Brown sugar — adds caramel notes and crunch
 - Coconut sugar — lower glycemic, earthy flavor
@@ -37,7 +37,7 @@ Sweetener binds the granola together and creates clusters.
 Fat carries flavor, promotes browning, and helps crisp the granola.
 
 - Coconut oil — popular choice, adds mild coconut flavor, solid at room temperature
-- [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]] — fruity, savory notes; use a mild/light [[olive-cultivation-and-olive-oil-production]]
+- Olive oil — fruity, savory notes; use a mild/light olive oil
 - Avocado oil — neutral flavor, high smoke point
 - Butter — rich, classic flavor; melt before adding
 - Ghee (clarified butter) — buttery flavor without the milk solids that can burn
@@ -142,8 +142,9 @@ Add after baking to prevent burning and drying out.
 
 ### Flavor Profiles
 
-## See Also
-
-- [[nut-butter-making]] — homemade nut butters pair well with granola
-- [[dried-herb-storage]] — drying and storing ingredients for homemade foods
-- [[jam-and-jelly-making]] — homemade preserves to pair with granola and yogurt
+- Maple Pecan: maple syrup, pecans, cinnamon, vanilla, a pinch of nutmeg
+- Coconut Almond: coconut oil, coconut flakes, almonds, coconut extract
+- Chocolate Peanut: cocoa powder, peanuts, chocolate chips (added after cooling)
+- Apple Pie: dried apples, cinnamon, nutmeg, a pinch of allspice
+- Ginger Molasses: molasses, crystallized ginger, cinnamon, cloves
+- Honey Walnut: honey, butter, walnuts, a pinch of sea salt flakes on top

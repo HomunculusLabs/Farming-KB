@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Dean, R.A. et al. (2013). "Metabolic fate of 4-acetoxy-N,N-diisopropyltryptamine." Drug Metabolism and Disposition 41(1): 215–223.
-  - Brandt, S.D. et al. (2016). "Return of the lysergamides." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 8(9): 931–940.
+  - Brandt, S.D. et al. (2016). "Return of the lysergamides." psychedelic-drug-testing-and-adulterant-screening and Analysis 8(9): 931–940.
   - Halberstadt, A.L. et al. (2020). "Pharmacology of psychoactive tryptamines." Pharmacology & Therapeutics 208: 107485.
 ---
 

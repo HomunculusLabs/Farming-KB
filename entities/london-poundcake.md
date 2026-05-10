@@ -14,7 +14,7 @@ sources:
   - Leafly Staff (2020). "London Poundcake blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2021). "London Poundcake Strain Review." AllBud.com.
   - Weedmaps (2022). "London Poundcake: Strain Info, Lineage, and More." Weedmaps.
-  - [[query-sog-vs-scrog-cannabis-training-methods]] University (2023). "Top Exotic Cannabis Strains of 2023." CTU.
+  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Exotic Cannabis Strains of 2023." CTU.
   - MJBizDaily (2023). "The Rise of Dessert and Pastry-Flavored Cannabis Strains." MJBizDaily.
 created: 2026-04-28
 ---

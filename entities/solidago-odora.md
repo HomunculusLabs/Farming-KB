@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Semple, J.C. et al. (1999). "Solidago." In Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 20. Oxford University Press.
   - USDA NRCS (2024). "Solidago odora Ait." PLANTS Database. https://plants.usda.gov
-  - Moerman, D.E. (1998). *[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany*. Timber Press.
+  - Moerman, D.E. (1998). *halpern-sacramental-peyote-and-native-american-church Ethnobotany*. Timber Press.
   - Cullina, W. (2000). *The New England Wild Flower Society Guide to Growing and Propagating Wildflowers*. Houghton Mifflin.
 ---
 

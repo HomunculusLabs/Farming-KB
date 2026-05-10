@@ -14,7 +14,7 @@ sources:
   - Cullina, W. (2002). "Native Trees, Shrubs, and Vines." Houghton Mifflin.
   - Swanson, R.E. (1994). "A Field Guide to the Trees and Shrubs of the Southern Appalachians." Johns Hopkins University Press.
   - USDA NRCS (2024). "PLANTS Database — Comptonia peregrina."
-  - Wheeler, C.T. & Miller, I.M. (1990). "The Role of [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] in Ecosystem Function." Plant and Soil.
+  - Wheeler, C.T. & Miller, I.M. (1990). "The Role of comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer in Ecosystem Function." Plant and Soil.
 ---
 
 # Comptonia peregrina

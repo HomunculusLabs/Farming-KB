@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Ullrich, S.E. (2011). Barley: Production, Improvement, and Uses. Wiley-Blackwell.
   - Newman, C.W. & Newman, R.K. (2008). Barley for Food and Health: Science, Technology, and Products. Wiley.
-  - FAO (2023). FAOSTAT [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]] for Hordeum vulgare.
+  - FAO (2023). FAOSTAT psilocybe-cubensis-miniculture-production-data-and-flush-longevity for Hordeum vulgare.
   - Shewry, P.R. (2007). "Improving the protein content and composition of cereal grain." Journal of Plant Science, 165(3), 598-606.
   - Baik, B.K. & Ullrich, S.E. (2008). "Barley for food: characteristics, improvement, and renewed interest." Journal of Cereal Science, 48(2), 233-259.
 ---
@@ -111,6 +111,8 @@ In ancient Egypt, barley was the primary grain for bread and beer production. It
 The development of malting and brewing techniques from barley is documented in Sumerian cuneiform tablets dating to approximately 1800 BCE. The Hymn to Ninkasi describes a detailed barley beer recipe.
 
 ## See Also
+
+- [[echium-vulgare]]
 
 - [[zea-mays]]
 - [[sorghum-bicolor]]

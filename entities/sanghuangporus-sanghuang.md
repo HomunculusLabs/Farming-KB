@@ -139,4 +139,4 @@ bioactive profiles differ from wild material. Optimal fruiting requires
 - [[sanghuangporus-vaninii]](sanghuangporus-vaninii.md)
 - [[sanghuangporus-baumii]]](sanghuangporus-baumii.md)
 - phellinus linteus](phellinus-linteus.md)
-- [Phellinus igniarius]([[phellinus-igniarius-entity]].md)
+- [[phellinus-igniarius-entity|Phellinus igniarius]]

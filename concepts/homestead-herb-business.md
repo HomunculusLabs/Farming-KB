@@ -27,8 +27,8 @@ A homestead herb business transforms homegrown herbs into value-added products: 
 ### Medicinal Herbs (Higher Margin, Niche Market)
 - Chamomile: calming tea, easy to grow, high demand
 - Echinacea: immune support, popular tincture ingredient
-- [[comparison-lemon-balm-vs-passionflower]]: calming, easy to grow, perennial
-- Calendula: skin healing, salves, [[query-how-to-make-herbal-infused-oils-at-home]], annual
+- Lemon balm: calming, easy to grow, perennial
+- Calendula: skin healing, salves, infused oils, annual
 - Peppermint: digestive, tea, tincture
 - Yarrow: wound healing, fever reduction, perennial
 - Holy basil (tulsi): adaptogen, growing popularity
@@ -79,7 +79,7 @@ Start with 5-8 varieties. Recommended starter mix:
 - Oven drying: lowest setting with door propped open. Less ideal -- easy to over-dry.
 - Herbs are dry when stems snap and leaves crumble.
 - Store in airtight glass jars away from light and heat.
-- [[psilocybin-shelf-life-stability]]: 1 year for leaves, 2 years for roots/seeds.
+- Shelf life: 1 year for leaves, 2 years for roots/seeds.
 
 ### Tinctures
 - Alcohol tincture: pack dried herb in jar, cover with 80-100 proof vodka or everclear
@@ -95,7 +95,7 @@ Start with 5-8 varieties. Recommended starter mix:
 - Combine infused oil with beeswax (1:4 to 1:5 beeswax to oil ratio by weight)
 - Heat gently until beeswax melts
 - Pour into tins or jars
-- Add [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] (optional) after cooling slightly
+- Add essential oils (optional) after cooling slightly
 - Shelf life: 1-2 years
 
 ### Tea Blends
@@ -144,6 +144,7 @@ Start with 5-8 varieties. Recommended starter mix:
 ## Sales Channels
 
 - Farmers markets: see [[farmers-market-selling-guide]] for booth and display guidance
-## Related
-
-- [[online-homestead-sales]]
+- Online: Etsy, Shopify, see online homestead sales
+- CSA additions: herb shares, dried herb boxes
+- Local stores: natural food stores, gift shops, co-ops
+- Herbalists and practitioners: wholesale to acupuncturists, naturopaths

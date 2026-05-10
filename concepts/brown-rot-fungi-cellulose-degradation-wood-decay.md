@@ -5,8 +5,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: ["unknown-mycelium-running.md"]
 ---
-[[query-what-are-the-best-mushroom-species-for-bioremediation]] applications. [[brown-rot-and-white-rot-fungi-in-mycoremediation]] [[gadd-fungal-wood-succession]] Decay Types
-- [[white-rot-fungi-bioremediation]]
+query-what-are-the-best-mushroom-species-for-bioremediation applications. brown-rot-and-white-rot-fungi-in-mycoremediation gadd-fungal-wood-succession Decay Types
+- white-rot-fungi-bioremediation
 - Mycoremediation Ecology
 ## Background and Context
 

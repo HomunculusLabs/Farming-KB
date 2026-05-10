@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of the African region." Kew Bulletin, 49(4), 727-740.
   - Hegde, D.M. & Anke, T. (2012). "The genus Termitomyces: A review." Mycobiology, 40(3), 157-165.
-  - Oei, P. (2005). "[[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Technologies for Developing Countries." Tools for Agriculture, 3rd ed.
+  - Oei, P. (2005). "accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Technologies for Developing Countries." Tools for Agriculture, 3rd ed.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." PNAS, 99(23), 14887-14892.
 ---
 

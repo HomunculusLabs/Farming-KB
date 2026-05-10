@@ -123,13 +123,8 @@ risk increase over many generations. Periodic refreshment
 with new genetic material is recommended.
 
 ## See Also
-
 - [[mushroom-humidity-chamber-design]]
 - [[psilocybin-mushrooms-species-and-pharmacology]]
-
-## See Also
-
-- psilocybin-mushroom-spore-print-identification
 - [[spore-print-collection]]
 - [[spore-syringe]]
 - [[sterilization]]

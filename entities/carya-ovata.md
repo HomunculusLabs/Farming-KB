@@ -98,6 +98,8 @@ Shagbark hickory is increasingly used in ecological restoration and native plant
 
 ## See Also
 
+- [[plantago-ovata]]
+
 - [[juglans-nigra]]
 - [[quercus-alba]]
 - [[acer-saccharum]]

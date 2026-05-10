@@ -101,7 +101,6 @@ community in cold compost is different from that in hot compost, with
 mesophilic organisms predominating and a greater proportion of fungi relative 
 to bacteria. Cold compost tends to have higher fungal diversity and can be 
 particularly beneficial for building fungal-dominated soils in perennial 
-plantings, orchards, and forest gardens.
 ## See Also
 
 [[compost-biology-organisms]] 

@@ -141,9 +141,10 @@ Weight is the critical constraint in THOW design. Every material choice has weig
 - Mini-split: 9,000 BTU unit heats and cools (requires 1500W power)
 - Wood stove: Cubic Mini or similar small wood stove (requires proper clearance and venting)
 - [[passive-solar-design|Passive solar]] orientation helps with both heating and cooling
-## See Also
 
-- [[skoolie-bus-conversion]]
-- [[van-life-off-grid]]
-- [[passive-solar-design]]
-- [[off-grid-waste-management]]
+## Design Considerations
+
+- Loft vs. main floor bedroom: Lofts save space but limit headroom and accessibility
+- Stairs vs. ladder: Stairs provide storage underneath and are safer; ladders save space
+- Kitchen layout: Galley (along one wall) maximizes counter space in narrow footprint
+- Bathroom: Minimum 30x36 inches for shower; wet baths combine toilet and shower

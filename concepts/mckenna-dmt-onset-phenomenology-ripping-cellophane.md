@@ -117,18 +117,9 @@ the experiencer remains fully capable of witnessing and evaluating the experienc
 its content exceeds all prior categories of understanding.
 
 ## See Also
-
 - [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
-
 - [[dmt-self-transforming-machine-elves-mckenna]]
-- mckenna dmt phenomenology and [[mckenna-cognitive-dissonance-translinguistic-object]] of wonder
 - [[tryptamine-receptor-pharmacology]]
-
-## See Also
-
-- [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
-
-- mckenna-endogenous-dmt-rapid-onset-versus-lsd-body-retention
 - [[dmt-phenomenology]]
 - [[tryptamine-hypercontinuum]]
 - [[dimethyltryptamine]]

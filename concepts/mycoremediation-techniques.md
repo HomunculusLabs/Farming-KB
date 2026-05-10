@@ -4,25 +4,23 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycoremediation, mycology, ecology, pollution, remediation, fungi, environment, methods]
-sources:
-  sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+sources: []
 ---
 
 # Mycoremediation Techniques
 
 ## Overview
 
-Mycoremediation is the use of fungi to degrade, sequester, or remove environmental contaminants from soil, water, and other substrates. Pioneered primarily by Paul Stamets and expanded by researchers worldwide, mycoremediation harnesses the remarkable enzymatic capabilities of mycelium to break down pollutants that are resistant to conventional cleanup methods. This page covers the major mycoremediation techniques, their mechanisms, and practical field applications.
+Mycoremediation is the use of fungi to degrade, sequester, or remove environmental contaminants from soil, water, and other substrates. Pioneered primarily by Paul Stamets and expanded by researchers worldwide, mycoremediation [[mycoremediation-emerging-techniques]] harnesses the remarkable enzymatic capabilities of mycelium to break down pollutants that are resistant to conventional cleanup methods. This page covers the major mycoremediation techniques, their mechanisms, and practical field applications.
 
 ## Core Mechanisms
 
 Fungi remediate contaminants through several primary mechanisms:
 
-1. Enzymatic degradation: Fungi secrete extracellular enzymes (lignin peroxidases, manganese peroxidases, laccases, cytochrome P450) that break down complex organic molecules
+1. Enzymatic degradation: Fungi secrete extracellular enzymes (lignin peroxidases, manganese peroxidases, laccases, cytochrome P450) that break down complex organic [[cotter-mycoremediation-techniques]] molecules
 2. Biosorption: Mycelium binds contaminants to its cell walls through chelation, ion exchange, and surface adsorption
 3. Bioaccumulation: Fungi absorb and concentrate contaminants within their tissues
-4. Mineralization: Complete breakdown of organic contaminants into CO2, water, and basic elements
+4. Mineralization: Complete breakdown of organic [[cotter-mycoremediation-techniques]] contaminants into CO2, water, and basic elements
 5. Cometabolism: Incidental degradation of contaminants while fungi metabolize other compounds
 
 ## Mycofiltration
@@ -49,8 +47,8 @@ Mycofiltration uses mycelial mats or fungal networks to filter contaminated wate
 
 - Pleurotus ostreatus (oyster mushroom): Broad-spectrum degradation of organic pollutants, particularly effective against petroleum hydrocarbons
 - Stropharia rugosoannulata (wine-cap stropharia): Excellent for filtering bacteria (E. coli) from water
-- [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]] (turkey tail): Effective against a wide range of organic pollutants and dyes
-- [[stamets-reishi-ganoderma-lucidum-cultivation]] (reishi): Heavy metal biosorption
+- Trametes versicolor (turkey tail): Effective against a wide range of organic pollutants and dyes
+- Ganoderma lucidum (reishi): Heavy metal biosorption
 
 ### Design Considerations
 
@@ -107,7 +105,7 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 #### Petroleum Hydrocarbons
 
-- PAHs ([[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons): A major class of petroleum-derived contaminants
+- PAHs (polycyclic aromatic hydrocarbons): A major class of petroleum-derived contaminants
 - BTEX (benzene, toluene, ethylbenzene, xylene): Common groundwater contaminants
 - Oil and fuel spills: Crude oil, diesel, gasoline, jet fuel
 - Oyster mushroom (Pleurotus) species are particularly effective
@@ -122,12 +120,12 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 
 - TNT (trinitrotoluene): White-rot fungi can mineralize TNT
 - RDX, HMX: Military explosives degraded by several fungal species
-- [[staycare-phanerochaete-chrysosporium-in-bioremediation]] is extensively studied for explosive degradation
+- Phanerochaete chrysosporium is extensively studied for explosive degradation
 
 #### Dyes and Textile Chemicals
 
-- Synthetic dyes from [[staycare-fungal-treatment-of-textile-industry-wastewater]] wastewater
-- [[singh-fungal-laccase-enzymes-bioremediation]] from white-rot fungi effectively decolorize dye wastewater
+- Synthetic dyes from textile industry wastewater
+- Laccase enzymes from white-rot fungi effectively decolorize dye wastewater
 - Trametes versicolor and Phanerochaete are the most studied species
 
 #### Polychlorinated Biphenyls (PCBs)
@@ -139,12 +137,18 @@ Mycodegradation uses fungal enzymes to break down (degrade) complex organic cont
 #### Plastics
 
 - Emerging research area: Some fungi can degrade polyurethane, polyester, and other plastics
+- Pestalotiopsis microspora: Isolated from Amazonian rainforest, can degrade polyurethane
+- Aspergillus and other species show varying plastic degradation capabilities
+- Research is early-stage; not yet practical at scale
+
+## Spent Mushroom Substrate (SMS) Applications
+
+### What It Is
+
+Spent mushroom substrate is the residual material (compost, straw, sawdust) remaining after commercial mushroom cultivation. While not mycoremediation per se, SMS has remediation applications:
+
+### Applications
+
+
 ## See Also
-
-- mycoremediation techniques — this page
-- [[medicinal-mushroom-guide]] — fungal compounds with applications beyond remediation
-- [[fungal-based-materials]] — mycelium applications in manufacturing and construction
-
-## See Also
-
-- [[mycoremediation-emerging-techniques]]
+- [[working-with-agar-grain-to-agar-transfer-techniques]]

@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - K indeed, G.E. (1979). "The history of belladonna." Pharmacy in History, 21(4), 165-172.
-  - Brown, J.H. & Taylor, P. (2001). "Muscarinic [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] and Antagonists."
+  - Brown, J.H. & Taylor, P. (2001). "Muscarinic cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching and Antagonists."
     In Goodman & Gilman's The Pharmacological Basis of Therapeutics, 10th ed.
   - Cárdenas, J.F., de los Ríos, C. & Figueroa-González, G. (2022). "Atropine in
     modern medicine: A review." Journal of Pharmacy and Pharmacology, 74(3), 425-440.

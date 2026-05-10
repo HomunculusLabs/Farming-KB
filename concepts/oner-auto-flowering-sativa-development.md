@@ -143,3 +143,7 @@ closet cultivators, medical users with limited space, and outdoor
 growers in northern latitudes with short seasons. The technology
 represents a genuine broadening of who can grow cannabis and what
 types of cannabis they can realistically produce.
+
+## See Also
+
+- [[autoflowering-sativa-development-joint-doctor]]

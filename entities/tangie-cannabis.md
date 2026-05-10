@@ -85,7 +85,7 @@ Tangie's uplifting, clear-headed effects make it particularly well-suited for da
 - **2013 High Times Cannabis Cup** — 1st Place, Sativa category (Amsterdam)
 - Tangie's victory at the 2013 Cannabis Cup cemented its reputation and accelerated its spread from Amsterdam coffeeshops to global markets
 - Consistently featured in "Best Citrus Strains" and "Best Sativa Strains" lists across cannabis media
-- Has served as a parent strain for multiple award-winning hybrids including [[og-kush]] — Foundational West Coast indica-dominant hybrid for comparison
+- Has served as a parent strain for multiple award-winning hybrids including [[og-kush-cannabis-entity]] — Foundational West Coast indica-dominant hybrid for comparison
 - [[jack-herer]] — Classic sativa-dominant hybrid with comparable creative, cerebral effects
 - [[amnesia-haze]] — Sativa-dominant strain with similar potency and cerebral stimulation
 - [[cannabis-indoor-growing-basics]] — Pure [[african-landrace-sativa-modern-hybrids]] with energetic daytime effects

@@ -101,6 +101,8 @@ Birds, particularly thrushes and waxwings, disperse the seeds widely, contributi
 
 ## See Also
 
+- [[celtis-laevigata]]
+
 - [[crataegus-monogyna]]
 
 - [[crataegus-oxyacantha]]

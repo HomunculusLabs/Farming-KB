@@ -3,7 +3,7 @@
 ---
 ## Overview
 
-Arbuscular mycorrhizal (AM) fungi are ubiquitous in agricultural and natural ecosystems, and most plant species form symbiotic associations with these fungi. The symbiosis increases plant growth and development by enhancing nutrient uptake, especially phosphorus (Ortas 1996; Smith et al. 2004). Bioassays provide critical tools for assessing the functional significance of mycorrhizal associations in ecological contexts.
+[[arbuscular-mycorrhizal-inoculum-production-best-practices|Arbuscular]] mycorrhizal (AM) fungi are ubiquitous in agricultural and natural ecosystems, and most plant species form [[symbiotic-fungi-mycorrhizal-inoculum-production|symbiotic]] associations with these fungi. The symbiosis increases plant growth and development by enhancing nutrient uptake, especially phosphorus (Ortas 1996; Smith et al. 2004). Bioassays provide critical tools for assessing the functional significance of mycorrhizal associations in ecological contexts.
 
 ## Principles of Mycorrhiza Bioassays
 

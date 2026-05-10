@@ -1,5 +1,5 @@
 ---
-title: cervantes-micronutrient-deficiency-chelation Symptoms
+title: Micronutrient Deficiency Symptoms
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -26,7 +26,7 @@ The location where deficiency symptoms appear depends on whether a nutrient is m
 
 **Mobility**: Immobile in plants
 
-**Functions**: Iron atoms serve as electron carriers for respiration and oxidation-reduction reactions. It is used to make chlorophyll (though not part of the molecule), helps chlorophyll function, and is critical to [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]].
+**Functions**: Iron atoms serve as electron carriers for respiration and oxidation-reduction reactions. It is used to make chlorophyll (though not part of the molecule), helps chlorophyll function, and is critical to nitrogen fixation.
 
 **Deficiency symptoms**:
 - Chlorosis (yellowing) due to loss of chlorophyll
@@ -63,7 +63,7 @@ The location where deficiency symptoms appear depends on whether a nutrient is m
 - Excessive branching in others
 - Wilting and death of leaf tips
 
-**Availability**: Becomes unavailable at high pH and in organic soils with high [[hamilton-composting-and-organic-matter-management]].
+**Availability**: Becomes unavailable at high pH and in organic soils with high organic matter.
 
 ## Manganese (Mn)
 
@@ -96,7 +96,7 @@ The location where deficiency symptoms appear depends on whether a nutrient is m
 
 **Mobility**: Mobile in plants
 
-**Functions**: Necessary for synthesis of organic phosphorus compounds; required by Rhizobia and Frankia bacteria to [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] in legume root nodules.
+**Functions**: Necessary for synthesis of organic phosphorus compounds; required by Rhizobia and Frankia bacteria to fix nitrogen in legume root nodules.
 
 **Deficiency symptoms**:
 - Chlorosis in older leaves (mobile, so relocated to new growth)

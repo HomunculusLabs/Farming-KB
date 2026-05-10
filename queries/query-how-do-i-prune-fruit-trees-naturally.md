@@ -5,7 +5,6 @@ tags: [query, orchard, fruit-trees, pruning]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: query
 ---

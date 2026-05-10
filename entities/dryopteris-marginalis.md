@@ -137,7 +137,6 @@ In contemporary horticulture, D. marginalis is valued for mass plantings,
 woodland garden borders, and erosion control on shaded slopes. Its evergreen
 foliage provides winter interest in temperate landscapes where most herbaceous
 perennials die back to the ground.
-
 ## See Also
 
 - [[dryopteris-filix-mas]]

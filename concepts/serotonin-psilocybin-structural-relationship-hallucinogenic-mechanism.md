@@ -117,7 +117,9 @@ The fact that a simple molecular modification of a ubiquitous neurotransmitter c
 
 ## See Also
 
-- [[emcdda-psilocybin-pharmacology-and-chemistry]] and receptor interactions
+- [[psilocybin-serotonin-structural-homology-endogenous-familiarity-argument]]
+
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] and receptor interactions
 - 5 ht2a receptor and classical psychedelics
 - serotonin neurochemistry and psychedelic interaction
 - [[psilocin-and-psilocybin-chemistry]]-synthesis-shirota

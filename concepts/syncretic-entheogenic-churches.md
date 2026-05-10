@@ -134,13 +134,5 @@ nature of these churches provides a model for how entheogenic practice
 might be responsibly integrated into modern society.
 
 ## See Also
-
-- Shamanism and Psychotherapy
-- Entheogenic Plants
-- Ayahuasca
-- Iboga and Ibogaine
-- Peyote and the Native American Church
-
-## See Also
 - [[metzner-syncretic-entheogenic-churches-brazil-bwiti]]
 - [[brazilian-ayahuasca-churches]]

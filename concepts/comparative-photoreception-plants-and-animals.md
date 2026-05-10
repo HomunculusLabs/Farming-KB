@@ -105,3 +105,7 @@ possess a form of vision. [[what-a-plant-knows-plant-vision-and-light-perception
 - chamovitz rhodopsin to phytochrome human plant photoreception parallels
 - [[phytochrome-photoreception]]
 - [[plant-light-discrimination-beyond-human-vision]]
+
+## See Also
+
+- [[phycomyces-comparative-model-mushroom-tropism-sensory-biology]]

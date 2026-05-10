@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom query-how-to-manage-pests-and-diseases-in-mushroom-cultivation
+title: Mushroom Pests and Diseases
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -17,15 +17,14 @@ tags:
 - pathogens
 
 sources:
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+- raw/papers/the-mushroom-cultivator-stamets.md
 - raw/papers/unknown-oyster-mushroom-cultivation.md
 - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 ---
 
 # Mushroom Pests and Diseases
 
-Mushroom crops face threats from competitor molds, bacterial pathogens, viral diseases, and insect pests. Prevention through [[mushroom-sterile-technique-detailed]] and [[eclss-environmental-control-life-support]] is far more effective than treatment. This page covers identification and IPM for [[accessible-mushroom-cultivation-for-disabilities]] — complementing [[mushroom-contamination-identification]] which focuses on lab/stage contamination.
+Mushroom crops face threats from competitor molds, bacterial pathogens, viral diseases, and insect pests. Prevention through [[mushroom-sterile-technique-detailed]] and environmental control is far more effective than treatment. This page covers identification and IPM for mushroom cultivation — complementing [[mushroom-contamination-identification]] which focuses on lab/stage contamination.
 
 ## Competitor Molds
 
@@ -52,7 +51,7 @@ The most common fungal disease parasitizing mushroom crops. Causes deformed caps
 | Botrytis | Brown Mold | Not highly virulent; contained by mushroom mycelium |
 | Chaetomium | Olive Green Mold | Indicator of poor composting/pasteurization |
 | Fusarium | Pink Mold | Causes "Damping Off Disease"; some species pathogenic to humans |
-| Geotrichum | Lipstick Mold | Inhibits [[growing-gourmet-primordia-formation-pinning]]; thrives on concrete surfaces |
+| Geotrichum | Lipstick Mold | Inhibits primordia formation; thrives on concrete surfaces |
 | Mucor/Rhizopus | Black Pin Mold | Very fast growing; can elevate substrate to 95–104°F |
 | Neurospora | Pink Mold | Rapid, tenacious aerial mold; heat-resistant spores |
 | Scopulariopsis | White Plaster Mold | Indicates insufficient pasteurization |
@@ -71,7 +70,7 @@ Infrequent but devastating. Causes mycelium to lose vigor, produces small or def
 ### Sciarid Flies (Fungus Gnats)
 Small gnat-like flies with long segmented antennae. Attracted by smell of pasteurized compost from miles away. Larvae ("mushroom flies") damage mycelium and create entry wounds for pathogens. Secondary damage: carry mites, Verticillium, and Trichoderma. A single sciarid can carry millions of Trichoderma spores. Populations peak September–October.
 
-**Control:** Tight-sealed growing areas, microporous filters on air intakes, sticky traps, UV insect lights, biological controls ([[cervantes-bacillus-thuringiensis-bt-control]] var. israelensis for larvae).
+**Control:** Tight-sealed growing areas, microporous filters on air intakes, sticky traps, UV insect lights, biological controls (Bacillus thuringiensis var. israelensis for larvae).
 
 ### Phorid Flies (Dung Flies)
 Considered the principal mushroom pest in western Europe. Hump-backed flies that lay eggs in compost. Larvae tunnel through mycelium and fruiting bodies, causing direct tissue damage. Odor of mushroom mycelium attracts mated females.
@@ -86,7 +85,7 @@ Microscopic roundworms — among the most numerous creatures on Earth (billions 
 - **Saprophagous:** feed on bacteria and decaying matter in substrate; cause sour-smelling, anaerobic conditions
 - **Mycophagous:** directly attack mushroom mycelium, destroying crops
 
-Control: thorough pasteurization, proper [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], avoiding anaerobic pockets in substrate.
+Control: thorough pasteurization, proper substrate preparation, avoiding anaerobic pockets in substrate.
 
 ## IPM Approach for Mushroom Cultivation
 
@@ -101,7 +100,3 @@ Control: thorough pasteurization, proper [[cotter-compost-substrate-preparation-
 The answer to disease and pest control in mushroom growing is strict hygiene, for which there can be no substitute (Stamets).
 
 See [[fungal-biology-fundamentals]] for understanding how competitor organisms interact with mushroom mycelium, and [[soil-food-web-nutrient-cycling]] for the ecological context of these organisms in decomposition systems.
-
-## See Also
-
-- [[mushroom-pests-diseases-fumigation-duggar]]

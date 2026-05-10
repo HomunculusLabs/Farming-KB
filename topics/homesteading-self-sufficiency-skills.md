@@ -87,7 +87,6 @@ in Tasmania. These institutional legacies ensured that the knowledge survived ev
 as many individuals returned to conventional life.
 
 The internet has transformed the modern homesteading renaissance. Where earlier
-generations relied on a handful of books and local mentors, today's homesteaders
 ## See Also
 
 - [[food-preservation-canning]] for comprehensive preservation methods

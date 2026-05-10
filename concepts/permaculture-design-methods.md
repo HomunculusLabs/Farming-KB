@@ -1,11 +1,10 @@
 ---
-title: bill-mollison-permaculture-a-designers-manual-permaculture-design-principles Methods
+title: Permaculture Design Methods
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, design, methods, workflow, patterns, ecological-design]
-sources:
-  sources: []
+sources: []
 ---
 
 # Permaculture Design Methods
@@ -54,7 +53,7 @@ Define physical, legal, financial, temporal, and personal boundaries. What are t
 Inventory all available resources: on-site materials, skills, community connections, financial resources, time, and energy. Distinguish between existing, available, and needed resources.
 
 ### Design
-Develop multiple design options. Evaluate each against the [[williams-pdc-permaculture-ethics-and-principles-in-practice]]. Select the best fit and develop detailed plans.
+Develop multiple design options. Evaluate each against the ethics and principles. Select the best fit and develop detailed plans.
 
 ### Implement
 Execute the design in priority order. Document the process — what was planted where, when, and why. Keep records for future evaluation.
@@ -67,7 +66,7 @@ Periodically review the system's performance. Are yields meeting expectations? A
 
 ## Random Assembly
 
-Random assembly is a creative design tool rather than a full [[hemenway-garden-design-process-observation-and-visioning]]. It helps break out of conventional thinking and discover unexpected but functional combinations.
+Random assembly is a creative design tool rather than a full design process. It helps break out of conventional thinking and discover unexpected but functional combinations.
 
 ### Process
 1. Create a comprehensive list of all elements needed or desired in the design (plants, animals, structures, functions)
@@ -77,7 +76,7 @@ Random assembly is a creative design tool rather than a full [[hemenway-garden-d
 5. Record promising connections and integrate them into the design
 
 ### Example
-Random draw: [[comparison-apple-tree-care-vs-apple-guild-design]], chickens, comfrey, rain tank, clover. The designer might realize that chickens can manage the [[fukuoka-orchard-floor-management]], comfrey accumulates potassium for the apples, the rain tank irrigates the clover understory, and clover fixes nitrogen for the whole guild. This becomes a coherent [[permaculture-guild-design]].
+Random draw: apple tree, chickens, comfrey, rain tank, clover. The designer might realize that chickens can manage the orchard floor, comfrey accumulates potassium for the apples, the rain tank irrigates the clover understory, and clover fixes nitrogen for the whole guild. This becomes a coherent [[permaculture-guild-design]].
 
 ## Flow Diagrams
 
@@ -91,7 +90,7 @@ Flow diagrams map the movement of energy, materials, and resources through a sys
 5. Identify unconnected outputs (waste) and unmet inputs (needs requiring external resources)
 
 ### Value in Design
-Flow diagrams expose inefficiencies and integration opportunities. For example, connecting chicken manure output to compost input, or connecting [[permaculture-food-waste-cycling]] outputs to [[knf-poultry-feed-preparation]] inputs. They also reveal over-reliance on external inputs that could be replaced by on-site cycling.
+Flow diagrams expose inefficiencies and integration opportunities. For example, connecting chicken manure output to compost input, or connecting [[permaculture-food-waste-cycling]] outputs to poultry feed inputs. They also reveal over-reliance on external inputs that could be replaced by on-site cycling.
 
 ## Concept Mapping
 

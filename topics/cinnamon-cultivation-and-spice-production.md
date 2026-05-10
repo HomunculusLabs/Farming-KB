@@ -138,7 +138,6 @@ C. verum produces root suckers freely, which can be separated and planted. This 
 - Mark out at recommended spacing
 
 ### Planting
-
 ## See Also
 
 - [[turmeric-and-ginger-rhizome-cultivation]] — Other tropical rhizome spices

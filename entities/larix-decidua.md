@@ -122,6 +122,8 @@ Japanese growth rates with European timber quality and canker resistance.
 
 ## See Also
 
+- [[larix-gmelinii]]
+
 - [[picea-abies]]
 - [[cedrus-libani]]
 - [[fomes-fomentarius]]

@@ -9,7 +9,7 @@ sources:
   - "University of Missouri Extension — Black Walnut Culture"
   - "Cornell University College of Agriculture and Life Sciences — Hardiness & Pollination Guides"
   - "California Walnut Board — Commercial Varieties & Production Guidelines"
-  - "University of Minnesota Extension — Growing [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]] in Cold Climates"
+  - "University of Minnesota Extension — Growing comparison-nut-trees-vs-grain-farming-for-caloric-staple-production in Cold Climates"
 ---
 
 # What Are the Best Walnut Varieties for Different Climates and Uses?

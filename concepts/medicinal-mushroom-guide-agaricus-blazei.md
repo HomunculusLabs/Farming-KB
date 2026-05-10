@@ -1,20 +1,19 @@
 ---
-title: cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides (Brazilian Mushroom) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: Agaricus blazei (Brazilian Mushroom) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, immunology, mycology, preparation, species-profiles, pharmacology]
-sources:
-  sources: []
+sources: []
 ---
 
 # Agaricus blazei (Brazilian Mushroom)
 
 ## Overview
 
-Agaricus blazei Murill (also known as Agaricus subrufescens, Agaricus brasiliensis, and "the almond mushroom") is a gilled mushroom native to the coastal region of Sao Paulo state in Brazil. It was first identified by the American mycologist William A. Murrill in 1945 but gained prominence in the 1970s-80s when researchers noticed extremely low cancer rates in the Piedade region of Brazil where it was traditionally consumed.
+Agaricus blazei Murill (also known as Agaricus subrufescens, Agaricus brasiliensis, and "the almond mushroom") is a gilled mushroom native to the coastal region of Sao Paulo state in Brazil. It was first identified by the American mycologist William A. Murrill in 1945 but gained prominence in the 1970s-80s when researchers noticed extremely low cancer rates in the Piedade region of Brazil where it was traditionally consumed. (see [[medicinal-mushroom-guide-oyster]]).
 
-The mushroom has a distinctive almond-like aroma when fresh, which is the origin of its common name "cogumelo do sol" (mushroom of the sun) in Brazil and "himematsutake" (princess matsutake) in Japan.
+The mushroom has a distinctive almond-like aroma when fresh, which is the origin of its common name "cogumelo do sol" (mushroom of the sun) in Brazil and "himematsutake" (princess matsutake) in Japan. (see [[medicinal-mushroom-guide-chaga]]).
 
 ## Key Compounds
 
@@ -45,7 +44,7 @@ Agaricus blazei has generated significant research interest for immune modulatio
 ### Anti-Inflammatory Effects
 - Reduces TNF-alpha, IL-1beta, and IL-6 production.
 - Suppresses NF-kB signaling pathway.
-- Demonstrated efficacy in [[blesching-cannabis-inflammatory-bowel-disease]] disease (IBD) models.
+- Demonstrated efficacy in inflammatory bowel disease (IBD) models.
 - May help with allergic conditions by modulating Th1/Th2 balance.
 
 ### Antioxidant Properties
@@ -102,18 +101,18 @@ Most common supplement form. Many products use dried whole mushroom powder or st
 
 Agaricus blazei is commercially cultivated on a large scale, primarily in Japan, China, and Brazil:
 
-- **Substrate:** Composted substrate (similar to button [[staycare-spent-mushroom-compost-bioremediation]]) — horse manure, straw, and various organic materials.
+- **Substrate:** Composted substrate (similar to button mushroom compost) — horse manure, straw, and various organic materials.
 - **Temperature:** 75-82°F (24-28°C) for mycelial growth; 60-68°F (16-20°C) for fruiting.
 - **Humidity:** 85-95% for fruiting.
 - **Spawn to harvest:** 60-90 days total.
-- **Yield:** [[stamets-biological-efficiency-yield]] of 60-100%.
+- **Yield:** Biological efficiency of 60-100%.
 
 ## Safety Considerations
 
 - Generally safe with a history of culinary use.
 - **Important note:** Agaricus species can contain hydrazine compounds. Properly cultivated and prepared A. blazei has not shown significant hydrazine issues, but this is a consideration for Agaricus mushrooms broadly.
 - May cause gastrointestinal upset at high doses.
-- Immune-stimulating effects — caution with [[cannabis-autoimmune-conditions-detailed]] and immunosuppressant drugs.
+- Immune-stimulating effects — caution with autoimmune conditions and immunosuppressant drugs.
 - Possible interactions with diabetes and blood pressure medications.
 - Avoid during pregnancy and breastfeeding (insufficient safety data at medicinal doses).
 - Rare reports of liver enzyme elevation at very high doses — monitor if using therapeutically.

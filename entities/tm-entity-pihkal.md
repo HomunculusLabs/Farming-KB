@@ -2,7 +2,7 @@
 title: "TM (4-TM; 4-THIOMESCALINE;) -- 2c-b-pihkal-entry-20 #156"
 created: 2026-04-23
 updated: 2026-04-23
-type: entity
+type: [[ethyl-j-entity-pihkal|entity]]
 tags: [phenethylamines, pihkal]
 sources: ["Shulgin - PIHKAL"]
 ---
@@ -31,7 +31,7 @@ sources: ["Shulgin - PIHKAL"]
 > pillow gone. A strange detail, but it perhaps gave me the flavor for
 > my day. The pillow was for me. It was gone. My place was gone.
 > Therefore I am gone. I am dead and yet I can see and think. The
-> small touch of panic at finding myself dead dispelled any internal
+> [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home|small]] touch of panic at finding myself dead dispelled any internal
 > concerns and I ran inside to find the others; they had brought my
 > pillow in. I was alive again, but the entire day balanced between the
 > alive unreality and the illusion that I was something removed and
@@ -140,10 +140,8 @@ sources: ["Shulgin - PIHKAL"]
 > closed, I found the imagery to be very impressive, but my thought
 > processes were quite convoluted and disjointed. Some were most
 > interesting, and some were ugly. I cannot see this as a party drug.
+
 ## See Also
 - [[pihkal-qualitative-effects-themes]]
 - [[greg-green-temperature-and-humidity-control]]
-
-## See Also
-
 - [[tma-5-entity-pihkal]]

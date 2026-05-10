@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
   - USDA NRCS (2024). "Vaccinium pallidum Aiton — Blue Ridge Blueberry." PLANTS Database.
-  - Camp, W.H. (1945). "The [[growing-gourmet-north-american-reishi-species]] Blueberries with Notes on Other Groups of Vacciniaceae." Brittonia, 5(3), 203-275.
+  - Camp, W.H. (1945). "The growing-gourmet-north-american-reishi-species Blueberries with Notes on Other Groups of Vacciniaceae." Brittonia, 5(3), 203-275.
   - Ballington, J.R. (2001). "Collection, utilization, and preservation of genetic resources in Vaccinium." Acta Horticulturae, 574, 21-28.
 ---
 

@@ -103,6 +103,8 @@ Post-harvest handling is critical for maintaining quality. Rapid cooling to 2–
 
 ## See Also
 
+- [[polygala-tenuifolia]]
+
 - [[sinapis-alba]]
 - [[nasturtium-officinale]]
 - [[taraxacum-officinale]]

@@ -131,5 +131,5 @@ wild [[growing-gourmet-mushroom-harvesting-marketing-guide]].
 - [[mollison-designers-mycorrhizal-fungi-and-soil-microbiology]] forest ecosystem health
 - [[fungal-spore-dispersal-mechanisms]] in basidiomycetes
 - Genetic diversity and inbreeding depression in fungi
-- [[truffle-cultivation-and-ecology]] wild harvest decline in Europe
+- [[truffle-cultivation-basics]] wild harvest decline in Europe
 - Amateur mycology and [[citizen-science-fungal-biodiversity-discovery]] contributions

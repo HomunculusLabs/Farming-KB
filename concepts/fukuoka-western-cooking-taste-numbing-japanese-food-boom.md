@@ -140,10 +140,8 @@ and spiritual concerns. He argued that:
 ## The Paradox of Japanese Modernization
 
 While Westerners were discovering the virtues of traditional Japanese
+
 ## See Also
 - [[fukuoka-japanese-cooking-culture-disappearing]]
 - [[fukuoka-western-vs-japanese-attitudes]]
-
-## See Also
-
 - [[fukuoka-western-commitment-and-japanese-halfheartedness]]

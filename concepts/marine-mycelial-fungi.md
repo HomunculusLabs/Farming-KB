@@ -48,7 +48,7 @@ Marine eumycotic fungi occupy diverse [[ecological-roles-fungi-ecosystems]]:
   lichenoids with cyanobacteria or green algae (e.g., *Halographis
   runica* in submerged snail shells), true submarine lichens
   (*Arthopyrenia halodytes* in barnacle tests), and mycophycobioses
-  (obligate symbioses with [[seaweed-and-marine-macroalgae-in-agriculture]]).
+  (obligate symbioses with seaweed and marine macroalgae in agriculture).
 - **Parasites**: About 40 species of higher marine fungi are
   parasitic, mostly Ascomycota on algae. *Mycaureola dilseae* is the
   only known filamentous basidiomycete parasitizing algae.
@@ -57,7 +57,7 @@ Marine eumycotic fungi occupy diverse [[ecological-roles-fungi-ecosystems]]:
 
 Marine fungi occur mainly in the intertidal zone where most organic
 substrata are deposited. Tropical and subtropical regions harbor
-greater species diversity than temperate zones. [[mangrove-ecosystems-and-coastal-restoration]]
+greater species diversity than temperate zones. mangrove ecosystems and coastal restoration
 are particularly rich in marine fungal species, with estimates
 suggesting over 200 species associated with mangrove woody debris
 alone. Wood substrata support the highest diversity of all marine

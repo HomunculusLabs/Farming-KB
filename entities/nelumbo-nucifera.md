@@ -13,7 +13,7 @@ sources:
   - Shen-Miller J (2002). "Long-living lotus: germination and soil irradiation of centuries-old fruits from a habitable lake." American Journal of Botany.
   - Mukherjee PK et al. (2009). "Studies on anti-inflammatory, analgesic and antipyretic properties of Nelumbo nucifera rhizome extract." Journal of Ethnopharmacology.
   - Sridhar KR, Bhat R (2007). "Aquatic macrophytes as sources of food and nutrition." Journal of Food Science and Technology.
-  - Tung YT et al. (2008). "Anti-inflammatory activities of [[permaculture-designers-manual-essential-oil-plants]] and its constituents from Calocedrus formosana leaf." Journal of Agricultural and Food Chemistry.
+  - Tung YT et al. (2008). "Anti-inflammatory activities of permaculture-designers-manual-essential-oil-plants and its constituents from Calocedrus formosana leaf." Journal of Agricultural and Food Chemistry.
 ---
 
 # Nelumbo nucifera

@@ -6,10 +6,10 @@ updated: 2026-04-28
 sources:
   - "CABI Invasive Species Compendium — Chrysanthemum cinerariifolium"
   - "US EPA — Pyrethrins/Pyrethroid Fact Sheet (2024 revision)"
-  - "Journal of Agricultural and Food Chemistry — Pyrethrin stability and [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]"
-  - "ATTRA (NCAT) — Biorational [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] Resources"
+  - "Journal of Agricultural and Food Chemistry — Pyrethrin stability and staycare-chlorophenol-degradation-pathways-white-rot-fungi"
+  - "ATTRA (NCAT) — Biorational comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol Resources"
   - "University of Minnesota Extension — Pyrethrin insecticide use guidelines"
-  - "Grzywacz et al. (2014) — Biopesticides for sustainable agriculture, [[cannabis-pest-management-guide]] Science"
+  - "Grzywacz et al. (2014) — Biopesticides for sustainable agriculture, cannabis-pest-management-guide Science"
 ---
 
 # Pyrethrum and Pyrethrin — Natural Insecticides

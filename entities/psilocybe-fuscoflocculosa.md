@@ -1,7 +1,7 @@
 ---
 title: Psilocybe fuscoflocculosa
 created: 2026-04-28
-type: species
+type: [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide|species]]
 tags:
   - psilocybin-mushroom
   - agaricales
@@ -11,7 +11,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md
+  - /Users/t3rpz/wiki/raw/papers/field-guide-psilocybin-mushroom-species-identification|field-guide-to-the-psilocybin-mushroom.md
 ---
 
 # Psilocybe fuscoflocculosa

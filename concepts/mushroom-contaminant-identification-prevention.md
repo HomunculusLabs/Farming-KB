@@ -145,6 +145,5 @@ or inoculation into the non-nutritive vermiculite layer. By keeping careful
 notes on formulas, sterilization times, and results, cultivators can
 systematically improve their technique and achieve consistently clean results
 with the [[dual-chambered-terrarium-fruiting]] setup.
-
 ## See Also
 - [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]

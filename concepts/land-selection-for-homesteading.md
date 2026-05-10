@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, water, soil, climate, permaculture, sustainability]
-sources:
-  sources: []
+sources: []
 ---
 
 # Land Selection for Homesteading
@@ -18,14 +17,14 @@ Soil is the foundation of a productive homestead. Evaluate it thoroughly before 
 
 ### Soil Types and Their Characteristics
 - **Loam** — the gold standard. Balanced mixture of sand, silt, and clay. Good drainage, good water retention, easy to work. If you find loam, consider it a major asset.
-- **Clay** — high nutrient content but poor drainage. Can be improved with [[hamilton-composting-and-organic-matter-management]], sand, and raised beds. Turns rock-hard when dry, sticky when wet. See [[soil-food-web-nutrient-cycling]] for amendment strategies.
+- **Clay** — high nutrient content but poor drainage. Can be improved with organic matter, sand, and raised beds. Turns rock-hard when dry, sticky when wet. See [[soil-food-web-nutrient-cycling]] for amendment strategies.
 - **Sandy** — excellent drainage but poor nutrient and water retention. Requires frequent irrigation and heavy organic matter additions. Warms quickly in spring.
 - **Silt** — smooth, fertile, good moisture retention. Can compact easily. Often found in floodplains.
 - **Rocky** — challenging for cultivation but may have good underlying soil. Raised beds and hugelkultur can work around shallow rock.
 
 ### How to Evaluate Soil
 - **USDA Web Soil Survey** (websoilsurvey.nrcs.usda.gov) — free online tool. Enter the property address to get soil type maps, drainage class, depth to bedrock, and suitability ratings for various crops.
-- **Soil test** — send samples to a university extension lab ($15-30 per sample). Test for pH, macronutrients (N-P-K), micronutrients, organic matter percentage, and [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC).
+- **Soil test** — send samples to a university extension lab ($15-30 per sample). Test for pH, macronutrients (N-P-K), micronutrients, organic matter percentage, and cation exchange capacity (CEC).
 - **Dig test holes** — dig several holes 2-3 feet deep across the property. Look for hardpan layers, water table depth, rock layers, and root penetration.
 - **Percolation test** — required for septic system permitting. Dig a hole, fill with water, measure how fast it drains. Critical for understanding drainage and septic feasibility.
 
@@ -57,7 +56,7 @@ Calculate your frost-free growing season:
 - Average last spring frost date
 - Average first fall frost date
 - Days between = your growing season length
-- Shorter seasons (under 120 days) require [[comparison-season-extension-techniques-vs-cold-frame-gardening]] strategies: cold frames, hoop houses, row covers, or  techniques
+- Shorter seasons (under 120 days) require season extension strategies: cold frames, hoop houses, row covers, or [[season-extension-techniques]] techniques
 
 ### Microclimate
 Every property has microclimates — areas that are warmer, cooler, wetter, or drier than the surrounding region. South-facing slopes warm earlier in spring. Frost pockets form in low-lying areas. Windbreaks (trees, buildings) create sheltered zones. Spend time on the property across different seasons and times of day to observe these patterns.
@@ -71,11 +70,11 @@ Every property has microclimates — areas that are warmer, cooler, wetter, or d
 ## Orientation and Topography
 
 ### Solar Aspect
-South-facing slopes (in the Northern Hemisphere) receive the most direct sunlight — ideal for gardens, orchards, and [[comparison-passive-solar-vs-earth-sheltered]] buildings. North-facing slopes are cooler, shadier, and slower to warm in spring.
+South-facing slopes (in the Northern Hemisphere) receive the most direct sunlight — ideal for gardens, orchards, and passive solar buildings. North-facing slopes are cooler, shadier, and slower to warm in spring.
 
 ### Slope
 - 0-3%: ideal for building and cultivation. Ensure drainage grading.
-- 3-8%: good for building with proper grading. Excellent for orchards ([[hemenway-cold-air-drainage-and-frost-management]] reduces frost damage).
+- 3-8%: good for building with proper grading. Excellent for orchards (air drainage reduces frost damage).
 - 8-15%: challenging for buildings and gardens. Good for pasture and orchard. Terracing or [[permaculture-earthworks]] may be needed.
 - 15%+: limit buildings to ridges or terraces. Use for pasture, timber, or food forest.
 
@@ -86,7 +85,7 @@ Prevailing winds affect building placement, garden siting, and animal shelter. P
 
 There is no one-size-fits-all answer, but consider your goals:
 
-- **1-2 acres** — intensive [[home-vegetable-garden-planning]], small orchard, chickens, rabbits. Suburban-scale.
+- **1-2 acres** — intensive vegetable gardening, small orchard, chickens, rabbits. Suburban-scale.
 - **5-10 acres** — serious market gardening, small orchard, chickens, goats, pigs. Room for outbuildings and some woodland.
 - **10-40 acres** — diversified homesteading with livestock, hay production, pasture, woodland. Can support a family with careful management.
 - **40+ acres** — full-scale farming operation. More than most beginning homesteaders need or can manage.

@@ -140,10 +140,8 @@ unheated hoop houses with inner row-cover protection, it produces
 reliably through the deepest winter months. Integrated into a succession
 planting program starting in early August, claytonia provides a
 continuous supply of sweet, tender, nutrient-dense salad greens
+
 ## See Also
 - [[coleman-winter-harvest-planting-schedule]]
 - [[coleman-winter-harvest-philosophy]]
-
-## See Also
-
 - [[coleman-cold-hardy-winter-vegetables]]

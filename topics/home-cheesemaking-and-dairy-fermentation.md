@@ -125,7 +125,6 @@ milk should taste sweet and mild rather than musky.
 Sheep milk is lower in volume but high in solids, making it excellent for
 cheese. In household systems it is less common because specialized breeds,
 small teats, and milking equipment can make management more demanding. The
-choice among cows, goats, and sheep is therefore not merely culinary. It is a
 ## See Also
 - [[cheese-making-basics]]
 - [[dairy-and-cheesemaking]]

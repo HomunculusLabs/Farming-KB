@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Fernald, M.L. (1950). Gray's Manual of Botany, 8th ed. American Book Co."
-  - "Moerman, D. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press."
+  - "Moerman, D. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press."
   - "Hegnauer, R. (1966). Chemotaxonomie der Pflanzen. Birkhäuser Verlag."
   - "Sprent, J.I. (2009). Legume Nodulation. Wiley-Blackwell."
   - "Mills, S.Y. (1991). The Essential Book of Herbal Medicine. Penguin Arkana."

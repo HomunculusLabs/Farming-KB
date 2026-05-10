@@ -127,7 +127,6 @@ pH buffer tests estimate how much lime is required to change acidity.
 This is different from the active pH number itself, because soils resist
 change according to clay, organic matter, and exchange sites.
 
-Saturated paste or soluble salt tests are especially useful in
 ## See Also
 
 - [[soil-testing]]

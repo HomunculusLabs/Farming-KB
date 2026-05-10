@@ -1,5 +1,5 @@
 ---
-title: Fungal Species Concepts and Estimates
+title: [[fungal-species-concept]]s and Estimates
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -51,7 +51,7 @@ In practice, mycologists use combinations of these concepts:
 ### Described Species
 
 - Approximately 74,000-120,000 fungal species have been formally described
-- Numbers vary depending on which groups are included (Oomycota, slime molds, [[mycorrhiza]]e) per host
+- Numbers vary depending on which groups are included (Oomycota, [[slime-molds]], [[mycorrhiza]] e) per host
 
 **Extrapolation from Inventories**:
 - Species accumulation curves from well-studied sites
@@ -89,7 +89,7 @@ Many fungi produce multiple sporing stages (anamorph and teleomorph) that histor
 
 - A single biological species may have two or more scientific names
 - Linking anamorph and teleomorph names requires careful experimentation
-- Some fungi never produce known sexual stages (mitosporic fungi)
+- Some fungi never produce known sexual stages ([[mitosporic-fungi-diversity-species-estimates|mitosporic]] fungi)
 - DNA sequencing is resolving many of these connections
 - The "one fungus, one name" initiative aims to resolve this
 

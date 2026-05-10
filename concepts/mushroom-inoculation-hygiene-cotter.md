@@ -139,11 +139,8 @@ For shredded straw with oyster mushrooms:
   returning
 
 ### Automating Inoculation
-## See Also
 
+## See Also
 - [[mushroom-container-filling-techniques-cotter]]
 - [[mushroom-contamination-identification]]
-
-## See Also
-
 - [[cotter-inoculation-techniques-and-hygiene]]

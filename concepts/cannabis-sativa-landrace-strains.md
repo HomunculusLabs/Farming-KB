@@ -115,10 +115,6 @@ is an irreplaceable resource, analogous to heirloom [[solomon-vegetable-varietie
 heritage livestock breeds in the broader agricultural conservation movement.
 
 ## See Also
-
 - [[durban-poison]]
 - [[cannabis-strain-breeding-techniques]]
-
-## See Also
-
 - [[landrace-cannabis-sativa-strains]]

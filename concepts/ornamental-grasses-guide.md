@@ -43,7 +43,7 @@ These emerge later in spring but thrive in summer heat:
 
 Most ornamental grasses benefit from division every 3-5 years to maintain vigor:
 
-- **When**: [[coleman-overwintered-onions-and-early-spring-crops]] (before new growth) or early fall
+- **When**: Early spring (before new growth) or early fall
 - **Method**: Dig up entire clump, cut into sections with a sharp spade or saw, each section with roots and several growing points
 - **Replant** divisions immediately and water well
 - **Signs it is time**: Dead center (doughnut shape), reduced flowering, declining vigor
@@ -89,7 +89,7 @@ Tall grasses can create informal screens. Miscanthus 'Giganteus' reaches 8-12 fe
 
 ## Care and Maintenance
 
-- **Watering**: [[permplant-carob-drought-tolerant-food-tree]] once established; water deeply weekly during first season
+- **Watering**: Drought tolerant once established; water deeply weekly during first season
 - **Fertilizer**: Generally unnecessary; excess nitrogen causes floppy growth
 - **Cutting back**: Cut to 3-6 inches above ground in late winter before new growth
 - **Weeding**: Hand-pull weeds in the first two years; established grasses suppress most weeds

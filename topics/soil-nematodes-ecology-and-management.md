@@ -6,9 +6,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Jeff Lowenfels and Wayne Lewis, *Teaming with Microbes*. Timber Press, 2010.
-  - Elaine Ingham, *The Field Guide I for Actively [[actively-aerated-compost-tea-aact-brewing]] Tea*. Soil Foodweb Inc., 2008.
+  - Elaine Ingham, *The Field Guide I for Actively actively-aerated-compost-tea-aact-brewing Tea*. Soil Foodweb Inc., 2008.
   - Geoffrey Gadd, Sarah C. Watkinson, and Paul S. Dyer, *Fungi in the Environment*. Cambridge University Press, 2007.
-  - John Dighton, *Fungi in [[fungal-ecosystem-processes-overview]]*. Marcel Dekker, 2003.
+  - John Dighton, *Fungi in fungal-ecosystem-processes-overview*. Marcel Dekker, 2003.
   - Nicholas P. Money, *Mr. Bloomfield's Orchard*. Oxford University Press, 2002.
   - Jorge Cervantes, *Marijuana Horticulture*. Van Patten Publishing, 2015.
 related_concepts:
@@ -106,7 +106,6 @@ release excess nitrogen as ammonium waste. The ratio of fungal to
 bacterial nematodes in a soil sample directly reflects the
 underlying food web structure. Soils dominated by fungal feeding
 nematodes tend to be more mature, less disturbed, and associated
-with perennial plant communities. Interestingly, moderate grazing
 ## See Also
 
 [[the-soil-food-web]] | [[trichoderma-and-biocontrol-fungi]] |

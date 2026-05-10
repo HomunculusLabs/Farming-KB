@@ -139,11 +139,8 @@ models, supporting traditional use for gastric ulcers and dyspepsia.
 
 Anti-inflammatory activity has been demonstrated through inhibition of
 NF-κB signaling and reduction of pro-inflammatory cytokines (TNF-α,
+
 ## See Also
-
 - [[cetraria-pinastri]]
-
 - [[cetraria-aculeata]]
 - [[teaming-with-microbes-specific-bacteria-fungi]]
-
-## See Also

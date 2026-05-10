@@ -3,7 +3,6 @@ title: "Mycopesticides: Fungi as Natural mushroom-pests-insect-control-stamets"
 created: 2026-04-26
 updated: "2025-04-23"
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 tags: [fungi, mycelium]

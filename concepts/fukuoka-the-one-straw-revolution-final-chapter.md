@@ -5,7 +5,6 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Fukuoka The One-Straw Revolution Final Chapter

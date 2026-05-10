@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Camp, W. H. (1944). "A systematic consideration of Vaccinium elliottii." American Midland Naturalist.
-  - Vander Kloet, S. P. (1988). The Genus Vaccinium in [[psilocybin-north-america-pacific-northwest]]. Agriculture Canada Publication.
+  - Vander Kloet, S. P. (1988). The Genus Vaccinium in psilocybin-north-america-pacific-northwest. Agriculture Canada Publication.
   - USDA NRCS. "Vaccinium elliottii" PLANTS Database. https://plants.usda.gov/
   - Riek, C. W. & Brazeau, S. M. (2012). "Breeding potential of Vaccinium elliottii." HortScience.
 ---
@@ -102,6 +102,8 @@ Chilling requirement is estimated at 300–500 hours below 7°C, classifying it 
 Yield potential in cultivated settings is lower than highbush blueberry, typically 1–2 kg per mature plant. However, the extended harvest window and early season command premium market prices in some regions.
 
 ## See Also
+
+- [[pinus-elliottii]]
 
 - [[vaccinium-angustifolium]]
 - [[vaccinium-myrtillus]]

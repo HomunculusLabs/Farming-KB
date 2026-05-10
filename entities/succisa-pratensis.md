@@ -112,3 +112,4 @@ The species is protected under wildlife legislation in several European countrie
 - [[taraxacum-officinale]]
 - [[galium-aparine]]
 - [[juncus-effusus]]
+- [[cardamine-pratensis]]

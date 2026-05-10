@@ -99,12 +99,6 @@ with H2O and the solvent was removed under vacuum leaving about 10 mL
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent [[cultural-evolution-and-psychoactive-substances]] that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
 - [[2c-d-entity-pihkal]]
 - [[2c-f-entity-pihkal]]
-
-- PIHKAL (the source book)
-
-## See Also
-
 - [[tma-5-entity-pihkal]]

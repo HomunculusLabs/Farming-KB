@@ -139,9 +139,9 @@ onto his hands during an undergraduate demonstration.
 ## See Also
 
 - [Bloomfield [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]] Biology](bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis.md)
-- [Biodiversity of Oomycetes and Straminipiles](biodiversity-oomycetes-straminipiles.md)
+- [[biodiversity-oomycetes-straminipiles|Biodiversity of Oomycetes and Straminipiles]]
 - [Cervantes [[cannabis-root-rot-prevention-and-treatment]] and Pythium [[cervantes-damping-off-seedling-disease-prevention]](cervantes-root-rot-pythium-damping-off.md)
-- [Dermatophyte Fungi and Human Disease](dermatophyte-fungi-human-disease.md)
+- [[dermatophyte-fungi-human-disease|Dermatophyte Fungi and Human Disease]]
 - [[alpha-1-3-glucan-fungal-pathogen-cell-walls]] Cell Walls](alpha-1-3-glucan-fungal-pathogen-cell-walls.md)
 - [[bloomfield-oomycete-zoospore-biology-flagella-chemotaxis-galvanotaxis]]
 - [[bloomfield-pythium-oomycete-water-molds]]

@@ -7,8 +7,7 @@ tags: [fungi, basidiomycota, agaricales, cortinariaceae,
   saprotrophic, wood-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 # Gymnopilus penetrans

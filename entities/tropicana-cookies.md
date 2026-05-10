@@ -133,5 +133,5 @@ and the widely popular Mimosa.
 - [[tropicana-cherries]]
 
 - [[girl-scout-cookies]] — female parent; foundational hybrid
-- [[cannabis-blue-dream]] — complementary sativa-dominant daytime hybrid
+- [[blue-dream]] — complementary sativa-dominant daytime hybrid
 - [[gelato]] — cookie-family relative with dessert flavor profile

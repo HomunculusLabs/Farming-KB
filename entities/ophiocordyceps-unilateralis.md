@@ -92,27 +92,6 @@ Laboratory cultivation is challenging due to the obligate requirement for living
 The fungus can be maintained on artificial media (PDA, SDA) as a saprotrophic phase, but fruiting requires infection of live ants.
 
 ## See Also
-
 - [[entomophthora-muscae]]
-
 - [[ophiocordyceps-sinensis]]
-
-- 
-
-- 
-- -cultivation
-
-- [claviceps-purpurea](claviceps-purpurea.md)
-- [cordyceps-militaris](cordyceps-militaris.md)
-- ](metarhizium-anisopliae.md)
-- [beauveria-bassiana](beauveria-bassiana.md)
-- ](entomophthora-muscae.md)
-- [tolypocladium-ophioglossoides](tolypocladium-ophioglossoides.md)
-- [cordyceps](cordyceps-militaris.md)
-- ](purpureocillium-lilacinum.md)
-
-## See Also
-
-- [[entomophthora-muscae]]
-- mycoforestry-forest-management-with-fungi
 - [[teaming-with-microbes-old-growth-forest]]

@@ -16,7 +16,7 @@ sources:
   - National Research Council (1996). "Lost Crops of Africa, Vol. 1: Grains." National Academies Press.
   - DeVries, J. & Toenniessen, G. (2001). "Securing the Harvest: Biotechnology, Breeding, and Seed Systems for African Crops." CABI.
   - Upadhyaya, H.D. et al. (2011). "Finger millet genetic resources." In: Plant Genetic Resources: Characterization and Utilization, CABI.
-  - FAO (2023). "FAOSTAT: Finger Millet [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]." fao.org/faostat.
+  - FAO (2023). "FAOSTAT: Finger Millet psilocybe-cubensis-miniculture-production-data-and-flush-longevity." fao.org/faostat.
 ---
 
 # Eleusine coracana

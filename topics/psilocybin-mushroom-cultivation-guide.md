@@ -119,7 +119,6 @@ cultivation is illegal in most countries.
 ### Why Work with Agar
 
 Agar culture is the foundation of successful mushroom cultivation. While it
-is possible to skip agar and inoculate grain directly from a spore syringe,
 ## See Also
 
 - [[mushroom-cultivation-fundamentals]] — Core principles of fungal biology

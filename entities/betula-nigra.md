@@ -12,8 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
-  - Burns, R.M. & Honkala, B.H. (1990). Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 2. USDA Forest Service.
-  - Little, E.L. (1979). Checklist of [[dmt-containing-plants-united-states-halpern]] Trees. USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). Silvics of psilocybin-north-america-pacific-northwest, Vol. 2. USDA Forest Service.
+  - Little, E.L. (1979). Checklist of dmt-containing-plants-united-states-halpern Trees. USDA Forest Service.
   - Cappiello, P. & Shadow, D. (2005). Dogwoods, Lilacs, Magnolias, and Many More. Timber Press.
 ---
 

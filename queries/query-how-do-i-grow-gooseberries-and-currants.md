@@ -11,9 +11,9 @@ updated: 2026-05-03
 sources:
   - title: Cornell University College of Agriculture and Life Sciences — Growing Currants and Gooseberries
     url: https://fruit.cornell.edu/berry/production/currants/
-  - title: Oregon State University Extension — Growing Gooseberries and Currants in the [[cool-climate-home-garden-mollison]]
+  - title: Oregon State University Extension — Growing Gooseberries and Currants in the cool-climate-home-garden-mollison
     url: https://catalog.extension.oregonstate.edu/ec1627
-  - title: Royal Horticultural Society — Gooseberry [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
+  - title: Royal Horticultural Society — Gooseberry comparison-bean-growing-guide-vs-pepper-growing-guide
     url: https://www.rhs.org.uk/fruit/gooseberries/grow-your-own
   - title: Royal Horticultural Society — Blackcurrant Growing Guide
     url: https://www.rhs.org.uk/fruit/blackcurrants/grow-your-own

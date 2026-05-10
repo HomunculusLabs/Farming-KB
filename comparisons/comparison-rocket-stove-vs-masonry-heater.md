@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [comparison, heating, wood-burning, efficient-heating, homesteading]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 
@@ -102,6 +101,8 @@ chamber represents a promising frontier in [[rocket-stove-design]] heating, comb
 engineering principles of both traditions.
 
 ## See Also
+
+- [[comparison-masonry-heater-vs-pellet-stove]]
 - [[cob-construction]]
 - [[rocket-mass-heater-design]]
 - [[masonry-heater-design]]

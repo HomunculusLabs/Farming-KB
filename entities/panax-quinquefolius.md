@@ -132,18 +132,5 @@ sources:
 ## Wiki Relevance
 
 ## See Also
-
--  — Asian ginseng (*[[panax-notoginseng]]*)
-- araliaceae — Ginseng family overview
-- adaptogens — Adaptogenic herbs and compounds
-- ginsenosides — Active triterpene saponins
-- woodland botanicals — Forest-grown medicinal plants
-
-## See Also
-- panax ginseng
-- panax notoginseng
 - [[teaming-with-nutrients-essential-plant-nutrients]]
-
-## See Also
-
 - [[cancer-medicinal-mushrooms-immune-modulation-beta-glucans]]

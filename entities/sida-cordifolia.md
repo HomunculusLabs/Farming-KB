@@ -106,7 +106,7 @@ In African traditional medicine, the plant is used for wound healing, diarrhea, 
 
 In modern herbal medicine, Sida cordifolia supplements have been marketed for weight loss, energy enhancement, and athletic performance.
 
-Regulatory agencies in several countries have restricted or banned Sida cordifolia supplements due to ephedrine-related [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]].
+Regulatory agencies in several countries have restricted or banned Sida cordifolia supplements due to ephedrine-related [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]].
 
 The FDA banned dietary supplements containing ephedrine alkaloids in 2004, effectively removing S. cordifolia products from the US market.
 
@@ -125,6 +125,8 @@ The crop requires minimal irrigation once established and is relatively pest-fre
 Post-harvest processing involves washing, slicing, and shade-drying the roots to preserve alkaloid content.
 
 ## See Also
+
+- [[nephrolepis-cordifolia]]
 
 - [[tinospora-cordifolia]]
 

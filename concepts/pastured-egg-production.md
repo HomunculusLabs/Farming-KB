@@ -4,29 +4,28 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [livestock, animal-husbandry, forage, agriculture, economics, homesteading, sustainability]
-sources:
-  sources: []
+sources: []
 ---
 
 # Pastured Egg Production
 
-Pastured eggs come from hens raised on living pasture with access to fresh forage, insects, and sunlight. The resulting eggs have deep orange yolks, superior flavor, higher omega-3 content, and command premium prices ($5-9/dozen) compared to conventional eggs.
+Pastured eggs come from hens raised on living pasture with access to fresh forage, insects, and sunlight. The resulting eggs have deep orange yolks, superior flavor, higher omega-3 content, and command premium prices ($5-9/dozen) compared to conventional eggs. (see [[chickshaw-and-poultry-tractors]]).
 
 ## Mobile Coop Systems
 
-The cornerstone of pastured egg production is the mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly.
+The cornerstone of pastured egg production is the mobile coop -- a shelter that protects birds from predators and weather while being moved to fresh pasture regularly. (see [[chicken-keeping]]).
 
 ### Eggmobile (Joel Salatin Model)
 - Enclosed shelter on wheels, holding 50-100 hens
 - Roosting space inside, nesting boxes on one side
-- Moved behind grazing cattle (birds spread manure, eat [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]])
+- Moved behind grazing cattle (birds spread manure, eat fly larvae)
 - Floorless or slatted floor (manure drops directly on pasture)
 - Requires a portable electric fence perimeter
 
 ### Chicken Tractor (Lightweight)
 - Smaller units for 10-30 birds
 - Can be moved daily by one person
-- A-frame or hoop [[mollison-designers-house-design-climate-zones]]
+- A-frame or hoop house design
 - Lightweight materials: PVC, cattle panels, plywood
 - Best for homestead-scale production
 
@@ -50,7 +49,7 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 ### Stocking Density
 - 50-100 hens per acre (moderate stocking)
 - Can go higher with frequent rotation: up to 200-300 hens/acre with daily moves
-- Overstocking leads to [[savory-bare-ground-and-soil-exposure]], parasite buildup, and poor forage
+- Overstocking leads to bare ground, parasite buildup, and poor forage
 
 ### Rotation Schedule
 - Move coop every 1-7 days depending on stocking density
@@ -92,7 +91,7 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 
 ### Nutritional Differences
 Pastured eggs vs. conventional:
-- 2-3x more omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
+- 2-3x more omega-3 fatty acids
 - 3-6x more vitamin D
 - 25% more vitamin E
 - 70% more vitamin A
@@ -109,7 +108,7 @@ Pastured eggs vs. conventional:
 ## Feed Management
 
 ### Supplemental Feed
-- Pasture provides 20-30% of diet in peak [[savory-growing-season-and-non-growing-season-management]]
+- Pasture provides 20-30% of diet in peak growing season
 - Feed a quality layer ration (16% protein) free-choice
 - Consumption: 1/4 to 1/3 lb per hen per day
 - Scratch grains as treat only (not a complete feed)
@@ -144,7 +143,8 @@ Pastured eggs vs. conventional:
 - 50 hens x 250 eggs/year = 12,500 eggs = ~1,040 dozen
 - At $6/dozen: $6,240/year
 - At $8/dozen: $8,320/year
-## See Also
-- [[grass-fed-beef-production]]
-- [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
-- [[jeavons-garden-planning-four-year-rotation]]
+
+### Profitability
+- Net profit: $2,000-5,000/year for 50-hen flock
+- Labor: 15-30 minutes/day feeding, watering, collecting
+- Most profitable at direct-sale price points ($6+/dozen)

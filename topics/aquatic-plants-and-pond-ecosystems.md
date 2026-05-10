@@ -120,7 +120,6 @@ buffers drought, provides fish refuge during heat and ice, and limits the
 spread of aggressive rooted plants. Many designs therefore combine broad
 shallow shelves with one or more deep pockets or kettles.
 
-## Construction Methods and Basin Form
 ## See Also
 - aquaculture-ponds-and-integrated-fish-systems
 - permaculture-aquaculture

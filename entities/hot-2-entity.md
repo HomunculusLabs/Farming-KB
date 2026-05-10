@@ -71,7 +71,7 @@ As with all research chemicals, limited safety data is available.
 
 [[hot-7-entity]]
 
-[[mescaline-entity]]
+[[mescaline]]
 
 ## References
 

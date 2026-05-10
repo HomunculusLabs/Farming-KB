@@ -66,6 +66,9 @@ Advances in [[fukuoka-textdoc-genetic-engineering-critique-warning]] and directe
 
 ## See Also
 
+- [[psilocybin-chemistry-and-degradation]]
+- [[psilocybin-chemistry-degradation]]
+
 - [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]]
 
 - [[ligninolytic-enzymes-bioremediation]]

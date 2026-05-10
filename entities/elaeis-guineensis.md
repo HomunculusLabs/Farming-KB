@@ -108,6 +108,8 @@ Recent developments in genome editing and marker-assisted breeding aim to increa
 
 ## See Also
 
+- [[irvingia-gabonensis]]
+
 - [[cocos-nucifera]]
 - [[areca-catechu]]
 - [[euterpe-oleracea]]
@@ -116,5 +118,5 @@ Recent developments in genome editing and marker-assisted breeding aim to increa
 - [[trachycarpus-fortunei]]
 - [[sabal-palmetto]]
 - [[jubaea-chilensis]]
-- [[fatty-acids]]
+- fatty acids
 - [[agroforestry]]

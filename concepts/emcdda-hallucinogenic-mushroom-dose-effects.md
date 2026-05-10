@@ -128,6 +128,8 @@ tend to be taken as an experimental drug and people generally discontinue use
 after a few times.
 ## See Also
 
+- [[emcdda-psilocybin-mushroom-dose-and-effects]]
+
 - [[psilocybin-pharmacology-5ht2a-receptor-mechanism]]
 
-- [[emcdda-psilocybin-mushroom-dose-and-effects]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]

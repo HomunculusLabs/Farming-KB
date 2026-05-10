@@ -4,8 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, mushrooms]
-sources:
-  sources: []
+sources: []
 ---
 # Reishi Mushroom Medicinal Properties Ganoderma lucidum, known as **Reishi** in Japan (Mannetake, or "10,000 year mushroom") and **Ling Zhi** ("Mushroom of Immortality") in China, has the longest historical usage of any medicinal mushroom, dating back at least four millennia. It is the mushroom most depicted in ancient Japanese, Korean, and Chinese art and has been widely used as a talisman against evil. ## Chemical Composition The mushroom and mycelium contain a diverse array of bioactive compounds: - **Polysaccharides** -- water-soluble, with demonstrated antitumour and immunostimulating activities - **Triterpenes** -- at least 100 different alcohol-soluble triterpenes identified - **Steroids, lactones, and alkaloids** - **Proteins** -- including the immunomodulatory protein Ling Zhi-8 (LZ-8) - **Nucleotides, fatty acids, and sterols** ### Triterpenes and Ganoderic Acids At least 100 highly oxidised **lanostane-type triterpenoids** have been identified from fruiting bodies and mycelium, including: - Ganoderic acid - Ganoderenic acid - Lucidenic acid - Ganolucidic acid - Ganodermic acids - Ganoderals and ganoderols These triterpenoids possess **adaptogenic**, **antihypertensive**, and **anti-allergic** properties. Ganodermic acids specifically function as anti-allergenic agents and cholesterol/blood pressure reducers. The triterpenes also exhibit anti-inflammatory, hepatoprotective, and anti-tumour activities through multiple mechanisms including induction of apoptosis, inhibition of angiogenesis, and suppression of metastasis. ## Immune Modulation G. lucidum contains several substances with potent [[three-pillars-mushroom-cultivation-spawn-substrate-environment]]) that are distinctly inedible in raw form, requiring extraction for consumption. Reishi is cultivated commercially on hardwood substrates (oak, plum, guava logs) and on supplemented sawdust blocks.
 
@@ -74,3 +73,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+## Related Topics
+
+- [[historical-mushroom-cultivation]]

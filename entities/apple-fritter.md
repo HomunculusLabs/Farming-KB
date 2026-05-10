@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff. "Apple Fritter Strain Information." Leafly.com, 2024.
-  - AllBud. "Apple Fritter [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com, 2024.
+  - AllBud. "Apple Fritter blesching-cannabis-strain-selection-receptor-targeting." AllBud.com, 2024.
   - Weedmaps. "Apple Fritter: Strain Review." Weedmaps.com, 2025.
 ---
 

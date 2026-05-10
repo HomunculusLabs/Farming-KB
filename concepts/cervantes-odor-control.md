@@ -5,7 +5,6 @@ tags: [cannabis, odor-control, carbon-filter, ozone, ventilation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -84,9 +83,7 @@ other pollutants from the air.
    to extract odors. The fan on professional units
    allows just enough airflow for adequate dwell
    time so odors are absorbed.
+
 ## See Also
 - [[cervantes-ozone-generators-negative-ion-odor]]
-
-## See Also
-
 - [[cervantes-neem-oil-organic-pest-control]]

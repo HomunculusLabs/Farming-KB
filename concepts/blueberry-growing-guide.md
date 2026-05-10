@@ -1,24 +1,23 @@
 ---
-title: Blueberry comparison-bean-growing-guide-vs-pepper-growing-guide
+title: Blueberry Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, gardening, fruit-tree, ph, beginner, harvesting]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-rich fruit for decades when properly established. Their primary requirement — acidic soil — makes them unique among common garden fruits. With proper site preparation and variety selection, blueberries are reliable and productive in home gardens across most temperate regions.
+Blueberries are long-lived perennial shrubs that produce delicious, antioxidant-rich fruit for decades when properly established. Their primary requirement — acidic soil — makes them unique among common garden fruits. With proper site preparation and variety selection, blueberries are reliable and productive in home gardens across most temperate regions. (see [[hawthorn-berry-guide]]).
 
 ## Soil Acidification
 
-Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critical growing requirement and the most common reason for failure.
+Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critical growing [[solomon-growing-root-crops-guide]] requirement and the most common reason for failure.
 
 ### Testing and Targeting pH
 - Test soil pH before planting — most garden soils are too alkaline (pH 6.0-7.5)
-- Target pH 4.5-5.0 for optimal growth and [[plant-nutrient-uptake-mechanisms]]
+- Target pH 4.5-5.0 for optimal growth and nutrient uptake
 - At higher pH, blueberries develop iron chlorosis (yellowing leaves with green veins) and fail to thrive
 - Test annually — pH tends to drift upward over time
 
@@ -41,13 +40,13 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
   - Southern highbush have lower chill hour requirements
 
 ### Lowbush Blueberries (Vaccinium angustifolium)
-- Native to northern [[psilocybin-north-america-pacific-northwest]]; low spreading shrubs, 6-24 inches tall
+- Native to northern North America; low spreading shrubs, 6-24 inches tall
 - Zones 2-6; small but intensely flavored berries
 - Varieties: Top Hat (ornamental), Brunswick, Fundy
 
 ### Rabbiteye Blueberries (Vaccinium virgatum)
 - Native to southeastern US; large vigorous shrubs, 6-10+ feet tall
-- Zones 7-9; very heat and [[permplant-carob-drought-tolerant-food-tree]], require cross-pollination
+- Zones 7-9; very heat and drought tolerant, require cross-pollination
 - Varieties: Brightwell, Premier, Tifblue, Climax, Powderblue
 
 ### Half-High Blueberries
@@ -62,9 +61,9 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 - Fall planting works in mild climates where roots can establish before freezing
 
 ### Site Selection
-- Full sun (6-8+ hours) for [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production
+- Full sun (6-8+ hours) for maximum fruit production
 - Afternoon shade beneficial in very hot climates (zone 8+)
-- Good [[stamets-growing-room-air-circulation-co2-management]] to reduce disease
+- Good air circulation to reduce disease
 - Avoid frost pockets (low-lying areas where cold air settles)
 - Consistent moisture access — do not plant in droughty sites without irrigation
 
@@ -120,7 +119,7 @@ Blueberries require acidic soil with a pH of 4.5-5.5. This is their most critica
 
 ## Netting Birds
 
-Birds are the primary pest of blueberries — they can strip a bush in a single day.
+Birds are the primary pest of blueberries — they can strip a bush in a single day. (see [[permaculture-pistachio-guide]]).
 
 ### Netting Methods
 - **Drape netting**: Throw bird netting over individual bushes or entire rows. Pin or staple to ground. Most common method
@@ -143,8 +142,9 @@ Birds are the primary pest of blueberries — they can strip a bush in a single 
 - Avoid nitrate-based fertilizers (they raise soil pH)
 - Avoid chlorides (blueberries are chloride-sensitive)
 
-## See Also
+### Schedule
+- Year 1: No fertilizer at planting; first application 4-6 weeks after planting with 1 tablespoon of ammonium sulfate
+- Year 2: Apply in early spring and again in late spring — 2 tablespoons per plant per application
+- Mature plants (3+ years): Apply 1/4 to 1/2 cup of ammonium sulfate per plant in early spring, split into 2 applications (early spring and late spring)
+- Stop fertilizing by mid-summer to allow new growth to harden before winter
 
-- [[strawberry-growing-guide]] for companion small fruit management
-- [[apple-tree-care]] for companion orchard tree care
-- [[backyard-orchard-design]] for integrating blueberries into orchard layouts

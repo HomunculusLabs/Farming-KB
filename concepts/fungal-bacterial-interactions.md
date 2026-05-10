@@ -31,9 +31,9 @@ Fungi and bacteria compete directly for limiting resources:
 
 Many fungi and bacteria produce antimicrobial compounds that inhibit each other:
 
-- **Fungal antibacterials**: Penicillin (from *Penicillium*), cycloheximide, and other fungal metabolites inhibit bacterial growth. These compounds are produced as [[antifungal-secondary-metabolites-coprophilous-fungi]], often under nutrient-limiting conditions.
+- **Fungal antibacterials**: Penicillin (from *Penicillium*), cycloheximide, and other fungal metabolites inhibit bacterial growth. These compounds are produced as secondary metabolites, often under nutrient-limiting conditions.
 - **Bacterial antifungals**: Many soil bacteria produce antifungal compounds. *Streptomyces* species produce numerous antifungal antibiotics. *Pseudomonas* species produce phenazine, pyoluteorin, and 2,4-diacetylphloroglucinol (DAPG), which suppress fungal plant pathogens.
-- **Volatile organic compounds (VOCs)**: Both fungi and bacteria emit VOCs that can inhibit competitors. *Muscodor albus*, an endophytic fungus, produces a mixture of [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] lethal to a broad range of fungi and bacteria.
+- **Volatile organic compounds (VOCs)**: Both fungi and bacteria emit VOCs that can inhibit competitors. *Muscodor albus*, an endophytic fungus, produces a mixture of volatile compounds lethal to a broad range of fungi and bacteria.
 
 ### Physical Interactions
 
@@ -54,7 +54,7 @@ Fungi and bacteria often work synergistically in decomposition:
 ### Nutrient Mobilization
 
 - **Bacterial nitrogen fixation with fungal partners**: In some environments, nitrogen-fixing bacteria associate with fungal hyphae. The fungal hyphae provide a carbon source and microsite for bacterial activity, while the bacteria supply nitrogen.
-- **Phosphorus solubilization**: Some bacterial-fungal consortia are more effective at P solubilization than either alone. Bacteria may produce organic acids that complement fungal [[mycorrhizal-phosphatase-activity-elf97-detection]].
+- **Phosphorus solubilization**: Some bacterial-fungal consortia are more effective at P solubilization than either alone. Bacteria may produce organic acids that complement fungal phosphatase activity.
 - **Mineral weathering**: Both fungi and bacteria contribute to rock and mineral weathering. Their combined action can be synergistic, with bacterial acids and fungal physical penetration working together to break down minerals.
 
 ### Signaling and Communication
@@ -72,7 +72,7 @@ Chemical signaling between fungi and bacteria is increasingly recognized as impo
 Plant roots create a zone of enhanced microbial activity (the rhizosphere) where fungal-bacterial interactions are particularly intense:
 
 - **Root exudates**: Plant roots release sugars, amino acids, organic acids, and secondary metabolites that select for specific microbial communities. Both fungi and bacteria respond to these signals.
-- **Mycorrhizosphere**: The area around mycorrhizal roots supports distinct [[cultivar-endorhiza-bacterial-communities-cannabis]] different from the bulk soil or non-mycorrhizal rhizosphere. AM fungal hyphae create a "hyphosphere" with its own bacterial associates.
+- **Mycorrhizosphere**: The area around mycorrhizal roots supports distinct bacterial communities different from the bulk soil or non-mycorrhizal rhizosphere. AM fungal hyphae create a "hyphosphere" with its own bacterial associates.
 - **Helper bacteria**: Some bacteria promote mycorrhizal establishment and function. *Pseudomonas* and *Bacillus* species have been identified as "mycorrhization helper bacteria" (MHBs) that stimulate spore germination, hyphal growth, and root colonization by AM fungi.
 
 ### Biocontrol Interactions
@@ -81,7 +81,7 @@ Bacterial biocontrol agents often target fungal plant pathogens:
 
 - **Antibiosis**: Biocontrol bacteria produce antifungal compounds that suppress pathogenic fungi
 - **Competition**: Biocontrol bacteria compete with pathogens for niches and nutrients on root surfaces
-- **[[endophytic-mycorrhizal-induced-systemic-resistance]] resistance (ISR)**: Some rhizobacteria trigger plant defense responses that protect against fungal pathogens. *Pseudomonas fluorescens* and *Bacillus subtilis* are well-studied ISR-inducing bacteria
+- **Induced systemic resistance (ISR)**: Some rhizobacteria trigger plant defense responses that protect against fungal pathogens. *Pseudomonas fluorescens* and *Bacillus subtilis* are well-studied ISR-inducing bacteria
 - **Enzyme degradation**: Bacterial chitinases and glucanases can degrade fungal cell walls, directly attacking pathogen hyphae
 
 ## Succession Dynamics
@@ -132,7 +132,7 @@ Understanding fungal-bacterial interactions is key to managing plant diseases:
 
 ## Related Pages
 
-- [[soil-food-web-nutrient-cycling]] -- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]] and energy flow in soil
+- [[soil-food-web-nutrient-cycling]] -- trophic structure and energy flow in soil
 - [[fungal-ecology-decomposition-cycles]] -- decomposition succession
 - [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling
 - [[mycorrhizal-types]] -- mycorrhizal associations

@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - The Plant List (2023). "Zingiber montanum J.König ex Retz." Royal Botanic Gardens Kew.
   - Sakai S & Nagamasu H (1998). "Systematics of the genus Zingiber in Japan." Journal of Plant Research, 111, 479-488.
-  - Leong-Škorić J et al. (2015). "Essential oil composition of Zingiber montanum from [[psilocybe-southeast-asia-pacific]]." Chemistry & Biodiversity, 12(8), 1193-1202.
+  - Leong-Škorić J et al. (2015). "Essential oil composition of Zingiber montanum from psilocybe-southeast-asia-pacific." Chemistry & Biodiversity, 12(8), 1193-1202.
   - Poonam & Singh (2009). "Zingiber montanum: phytochemistry and pharmacology." Pharmacognosy Reviews, 3(6), 358-362.
   - Newman MF et al. (2007). A Checklist of the Vascular Plants of Cambodia. Royal Botanic Gardens Kew.
 ---

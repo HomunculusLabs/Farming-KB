@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, beginner, education, reference, homestead-crafts]
-sources:
-  - "raw/papers/gaias-garden-toby-hemenway.md"
+sources: []
 ---
 
 # Homestead Education Resources
@@ -28,14 +27,14 @@ Homesteading requires knowledge across dozens of disciplines: agriculture, anima
 - Teaming with Microbes (Jeff Lowenfels and Wayne Lewis) — soil biology explained accessibly. Connects to [[soil-food-web-nutrient-cycling]] principles.
 
 ### Food Preservation
-- The Ball Complete Book of Home Preserving — the authoritative guide to water bath and [[comparison-pressure-canning-vs-water-bath-canning]]. Follow these recipes exactly; canning is not the place for improvisation.
+- The Ball Complete Book of Home Preserving — the authoritative guide to water bath and pressure canning. Follow these recipes exactly; canning is not the place for improvisation.
 - Preserving Food without Freezing or Canning (The Gardeners and Farmers of Terre Vivante) — traditional methods: drying, lactic fermentation, storing in oil, and root cellaring.
 - The Art of Fermentation (Sandor Ellix Katz) — comprehensive fermentation reference covering vegetables, dairy, grains, legumes, meats, and beverages.
 - Root Cellaring (Mike and Nancy Bubel) — natural cold storage for vegetables, fruits, and other foods. See [[food-dehydration-guide]] for supplementary drying methods.
 
 ### Animal Husbandry
 - Storey's Guide to Raising series — individual books for chickens, ducks, goats, sheep, pigs, cattle, rabbits, and bees. Practical, detailed, breed-specific.
-- The Small-Scale Poultry Flock (Harvey Ussery) — natural and holistic approach to [[comparison-chicken-keeping-vs-beekeeping-basics]]. Covers breeds, housing, feeding, health, and processing.
+- The Small-Scale Poultry Flock (Harvey Ussery) — natural and holistic approach to chicken keeping. Covers breeds, housing, feeding, health, and processing.
 - Keeping a Family Cow (Joann S. Grohman) — detailed guide to milking, feeding, breeding, and health care for a family cow.
 - The Sheep Book (Ronald B. Parker) — covers sheep raising from selection through management and marketing.
 
@@ -55,7 +54,7 @@ Homesteading requires knowledge across dozens of disciplines: agriculture, anima
 
 ### Gardening
 - Charles Dowding — no-dig gardening method. Excellent demonstrations of compost-based growing.
-- MIGardener — accessible [[home-vegetable-garden-planning]] tips for beginners
+- MIGardener — accessible vegetable gardening tips for beginners
 - The Gardening Channel with James Prigioni — food forest and permaculture gardening
 
 ### Building and Skills
@@ -77,7 +76,7 @@ Homesteading requires knowledge across dozens of disciplines: agriculture, anima
 
 ### Free Resources
 - USDA National Agricultural Library — publications on virtually every agricultural topic
-- ATTRA (National Center for [[mollison-designers-appropriate-technology-small-scale-tools]]) — free sustainable agriculture publications and webinars
+- ATTRA (National Center for Appropriate Technology) — free sustainable agriculture publications and webinars
 - eXtension — cooperative extension educational resources
 - SARE (Sustainable Agriculture Research and Education) — free publications and project reports
 
@@ -89,7 +88,7 @@ The USDA Cooperative Extension System is one of the most underutilized resources
 - **Soil testing** — typically $15-30 per sample with specific fertilizer recommendations for your crop
 - **Plant diagnostics** — bring in diseased plants or pest samples for identification and treatment recommendations
 - **Workshops and classes** — often free or low-cost, covering seasonal topics
-- **Master Gardener program** — volunteer [[mushroom-disabilities-training-program-design]] with extensive horticultural education (typically 40-60 hours of classroom instruction)
+- **Master Gardener program** — volunteer training program with extensive horticultural education (typically 40-60 hours of classroom instruction)
 - **4-H programs** — youth agricultural education
 - **Publications** — county-specific growing guides, pest management recommendations, and best practices
 
@@ -98,7 +97,7 @@ The USDA Cooperative Extension System is one of the most underutilized resources
 - Visit in person with samples and questions
 - Subscribe to the newsletter
 - Attend workshops and field days
-- Get on the mailing list for [[hamilton-seasonal-planting-calendars]] calendars
+- Get on the mailing list for seasonal planting calendars
 
 ## Apprenticeships and Hands-On Learning
 

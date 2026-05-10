@@ -74,7 +74,7 @@ Colombia:
 - **[[copelandia-cyanescens]]
 - [[copelandia-cyanescens]]
 
-- [Neurotropic Fungi in South America](guzman-allen-gartz-neurotropic-fungi-south-america.md)
-- [Neurotropical Psilocybe Species](guzman-allen-gartz-neotropical-psilocybe-species.md)
+- Neurotropic Fungi in South America
+- [[guzman-allen-gartz-neotropical-psilocybe-species|Neurotropical Psilocybe Species]]
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] Distribution and Ecology](psilocybe-cubensis-distribution-and-ecology.md)
 - [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] Species Guide](copelandia-genus-species-guide.md)

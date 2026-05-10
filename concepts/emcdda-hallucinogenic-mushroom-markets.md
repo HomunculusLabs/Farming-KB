@@ -115,5 +115,5 @@ Poland, Portugal, Slovakia, Slovenia, and Sweden. The largest quantity
 seized was 11.5 kg in Poland. Estonia confiscated 14 mail deliveries of
 [[hallucinogenic-mushroom-legal-status-europe]] for how
   legislation shaped the retail market
-- [[emcdda-psilocybin-mushroom-species-and-identification]] for the
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for the
   species commonly sold in retail markets

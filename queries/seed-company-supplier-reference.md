@@ -32,7 +32,7 @@ sources:
 
 # Seed Company and Supplier Reference
 
-Compiled from all wiki source texts. Lists seed companies, [[cuthill-mushroom-spawn-preparation-historical]] suppliers, cannabis seed banks, organic supply companies, and equipment suppliers mentioned or referenced across the wiki.
+Compiled from all wiki source texts. Lists seed companies, mushroom spawn suppliers, cannabis seed banks, organic supply companies, and equipment suppliers mentioned or referenced across the wiki.
 
 ## Organic Vegetable and Herb Seed Companies
 
@@ -51,7 +51,7 @@ Compiled from all wiki source texts. Lists seed companies, [[cuthill-mushroom-sp
 
 | Company | Specialty | Notable Products / Notes | Source |
 |---------|-----------|--------------------------|--------|
-| **Fungi Perfecti** | Gourmet and [[gourmet-medicinal-mushroom-casing-layer-techniques]] products, spawn, books | Founded by [[paul-stamets]]; Kamilche Point, WA; mushroom spawn, growing kits, Host Defense supplements, books | [[paul-stamets]], [[mushroom-species-guide]], mushroom-identification |
+| **Fungi Perfecti** | Gourmet and medicinal mushroom products, spawn, books | Founded by [[paul-stamets]]; Kamilche Point, WA; mushroom spawn, growing kits, Host Defense supplements, books | [[paul-stamets]], [[mushroom-species-guide]], [[mushroom-identification]] |
 | **Field & Forest Products** | Mushroom spawn, plug spawn, supplies | Sawdust and plug spawn for shiitake, oyster, lion's mane, wine cap; log cultivation supplies | [[mushroom-species-guide]] |
 | **North Spore** | Mushroom spawn, grow kits, substrates | Oyster, shiitake, lion's mane, reishi spawn; indoor grow kits; Maine-based | [[mushroom-species-guide]] |
 
@@ -59,14 +59,14 @@ Compiled from all wiki source texts. Lists seed companies, [[cuthill-mushroom-sp
 
 | Company | Specialty | Notable Notes | Source |
 |---------|-----------|---------------|--------|
-| **Burnt Ridge Nursery** | Hardy [[permaculture-plants-edible-perennials-understory]], nut and fruit trees | Mail order; hard-to-find and unusual varieties | permaculture-beginners-guide |
+| **Burnt Ridge Nursery** | Hardy edible perennials, nut and fruit trees | Mail order; hard-to-find and unusual varieties | permaculture-beginners-guide |
 | **St. Lawrence Nurseries** | Trees, shrubs, plants for cold climates | Specialized in very cold-hardy stock; Potsdam, NY | permaculture-beginners-guide |
 | **Raintree Nursery** | Fruit, nut, and berry plants | Selected for flavor and ease of growing; backyard gardener focus | permaculture-beginners-guide |
 | **Edible Landscaping** | Edible landscape plants | Online nursery; fruit trees, berries, edible ornamentals | permaculture-beginners-guide |
 
 ## Cannabis Seed Banks
 
-No specific cannabis seed banks are mentioned in wiki source texts. For [[vic-high-cannabis-genetics-mendelian-inheritance]] and breeding, see [[cannabis-genetics-and-breeding]].
+No specific cannabis seed banks are mentioned in wiki source texts. For cannabis genetics and breeding, see [[cannabis-genetics-and-breeding]].
 
 ## Equipment and Supply Companies
 
@@ -87,8 +87,8 @@ No specific cannabis seed banks are mentioned in wiki source texts. For [[vic-hi
 
 ### Mushroom Cultivation
 - Spawn: Fungi Perfecti, North Spore, Field & Forest
-- Sterilization: [[pf-tek-pressure-canner-sterilization]] (15 psi) for sawdust blocks
-- Substrate: straw, hardwood sawdust, [[oyster-mushroom-coffee-grounds-cultivation]] (often free)
+- Sterilization: pressure canner (15 psi) for sawdust blocks
+- Substrate: straw, hardwood sawdust, coffee grounds (often free)
 - Humidification: cool mist humidifier + fan
 
 ### Soil Biology

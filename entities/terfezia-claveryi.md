@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - Morte, A. et al. (2010). "Diversity of Terfezia species from arid and semi-arid climates." Mycologia, 102(6), 1253-1264.
   - Honrubia, M. et al. (1992). "Mycorrhizal synthesis between Terfezia claveryi and Helianthemum almeriense." Mycorrhiza, 2, 5-8.
-  - Bokhary, H.A. & Parvez, S. (1993). "[[desert-truffles]] of the Kingdom of Saudi Arabia." Mycotaxon, 46, 187-194.
+  - Bokhary, H.A. & Parvez, S. (1993). "desert-truffles of the Kingdom of Saudi Arabia." Mycotaxon, 46, 187-194.
 aliases:
   - desert truffle
   - terfez

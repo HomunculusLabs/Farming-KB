@@ -1,12 +1,47 @@
 ---
 
+title: First-Time Grower Common Mistakes
+created: 2026-04-12
+updated: 2026-04-12
+type: query
+
+tags:
+- cannabis
+- mushrooms
+- cultivation
+- troubleshooting
+- indoor
+- living-soil
+- fungi
+- grain
+- substrate
+- bacteria
+- reference
+
+sources:
+- concepts/cannabis-vegetative-stage.md
+- concepts/cannabis-flowering-stage.md
+- concepts/cannabis-plant-nutrition.md
+- concepts/cannabis-harvest-techniques.md
+- concepts/cannabis-seed-germination.md
+- concepts/cannabis-pest-management.md
+- concepts/mushroom-contamination-troubleshooting.md
+- concepts/mushroom-cultivation-basics.md
+- concepts/mushroom-sterile-technique.md
 ---
+
+# First-Time Grower Common Mistakes
+
+The 20 most common mistakes split between mushroom cultivation and cannabis cultivation. Learn from others' failures before making your own. See [[mushroom-contamination-identification]] and [[cannabis-pest-management]] for detailed fixes.
+
+---
+
 ## Mushroom Cultivation Mistakes (10)
 
 ### 1. Skipping Sterile Technique
 **What happens**: Contamination wipes out your entire grow -- green mold, bacteria, or yeasts take over before mycelium colonizes.
 **Why**: Airborne spores are everywhere. Opening jars outside the SAB, not flame-sterilizing tools, or working in a dirty room introduces competitors.
-**How to avoid**: Work in a still air box or flow hood. Flame-sterilize tools between every transfer. Wipe surfaces with 70% isopropyl alcohol. Shower and wear clean clothes. See mushroom-sterile-technique-detailed.
+**How to avoid**: Work in a still air box or flow hood. Flame-sterilize tools between every transfer. Wipe surfaces with 70% isopropyl alcohol. Shower and wear clean clothes. See [[mushroom-sterile-technique-detailed]].
 
 ### 2. Substrate Too Wet
 **What happens**: Bacterial contamination (sour rot), anaerobic conditions, stunted mycelial growth, grain jars that never fully colonize.
@@ -16,7 +51,7 @@
 ### 3. Under-Sterilizing Grain Jars
 **What happens**: Jars look colonized but harbor hidden bacteria. Wet spots, sour smell, failed colonization.
 **Why**: Cutting sterilization time short or not reaching 15 PSI. Endospores survive short or low-temp cycles.
-**How to avoid**: Pressure cook at 15-18 PSI for 90 minutes minimum for quart jars. Let cool naturally (no fast-release). See mushroom-substrates.
+**How to avoid**: Pressure cook at 15-18 PSI for 90 minutes minimum for quart jars. Let cool naturally (no fast-release). See [[mushroom-substrates]].
 
 ### 4. Inoculating with Dirty or Old Spores
 **What happens**: Low germination rate, slow or no growth, or introducing contamination directly into sterile grain.
@@ -31,7 +66,7 @@
 ### 6. Poor Fruiting Conditions
 **What happens**: No pins form, long thin stems with tiny caps (high CO2), or fruits that abort before maturing.
 **Why**: Failing to provide the four fruiting triggers: temperature drop, high humidity (95%), fresh air exchange, and indirect light.
-**How to avoid**: Research species-specific parameters. Oysters need more FAE; reishi tolerates higher CO2. See mushroom-species-guide.
+**How to avoid**: Research species-specific parameters. Oysters need more FAE; reishi tolerates higher CO2. See [[mushroom-species-guide]].
 
 ### 7. Opening Contaminated Jars Indoors
 **What happens**: Spores from Trichoderma or Aspergillus spread throughout the grow space, contaminating future grows.
@@ -41,7 +76,7 @@
 ### 8. Choosing Difficult Species First
 **What happens**: Frustration and wasted money on species that need precise conditions (shiitake logs take 6-12 months, reishi is slow).
 **Why**: Beginners lack the intuition for reading mycelium health and dialing in environmental controls.
-**How to avoid**: Start with oyster mushrooms on pasteurized straw -- fastest, most forgiving species. See mushroom-cultivation-basics.
+**How to avoid**: Start with oyster mushrooms on pasteurized straw -- fastest, most forgiving species. See [[mushroom-cultivation-basics]].
 
 ### 9. Ignoring Seasonal Spore Load
 **What happens**: Higher contamination rates in spring and summer even with good technique.
@@ -50,7 +85,7 @@
 
 ### 10. Harvesting Too Late or Too Early
 **What happens**: Overripe mushrooms drop spores everywhere (messy, reduces quality, can cause allergic reactions). Under-ripe mushrooms have lower yield and undeveloped flavor.
-**Why**: Not checking daily once pinning begins, or not knowing species-specific cannabis-harvest-timing-visual-cues.
+**Why**: Not checking daily once pinning begins, or not knowing species-specific harvest timing.
 **How to avoid**: Harvest just before or as the veil tears (for gilled species). For oysters: harvest when cap margins start to curl up. Check daily during fruiting.
 
 ---
@@ -58,7 +93,7 @@
 ## Cannabis Cultivation Mistakes (10)
 
 ### 11. Overwatering
-**What happens**: Droopy leaves despite wet soil, slow growth, root rot, fungus gnats, [[cannabis-nutrient-lockout-and-ph]], damping off in seedlings.
+**What happens**: Droopy leaves despite wet soil, slow growth, root rot, fungus gnats, nutrient lockout, damping off in seedlings.
 **Why**: New growers equate more water with faster growth. Roots need oxygen between waterings.
 **How to avoid**: Water when top 1-2 inches of soil feel dry. In living soil, let it dry slightly between waterings to encourage roots to seek moisture. See [[cannabis-vegetative-stage]].
 
@@ -74,8 +109,8 @@
 
 ### 14. No Pest Prevention
 **What happens**: Spider mites, fungus gnats, or thrips discovered at week 4 of flower when it's too late to spray effectively.
-**Why**: Not inspecting regularly, not quarantining new plants, no sticky traps, no preventive [[comparison-beneficial-insects-guide-vs-integrated-pest-management]].
-**How to avoid**: Daily scouting starting week 1. Yellow sticky traps. Introduce [[comparison-predatory-mites-vs-ladybugs-biocontrol]] preventively. Quarantine clones 7-14 days. See [[cannabis-pest-management]].
+**Why**: Not inspecting regularly, not quarantining new plants, no sticky traps, no preventive beneficial insects.
+**How to avoid**: Daily scouting starting week 1. Yellow sticky traps. Introduce predatory mites preventively. Quarantine clones 7-14 days. See [[cannabis-pest-management]].
 
 ### 15. Harvesting Too Early
 **What happens**: Buds are airy, low potency, clear trichomes indicate undeveloped cannabinoids. Lower yield.
@@ -98,17 +133,18 @@
 **How to avoid**: Top at week 3-4. LST with soft ties. ScrOG netting. Even canopy = even light distribution = bigger total yield. See [[cannabis-topping-training]].
 
 ### 19. Wrong Pot Size or Root-Bound Plants
-**What happens**: Plants stop growing, leaves yellow rapidly, wilting between waterings, [[hamilton-nutrient-deficiencies-and-treatment]] despite feeding.
+**What happens**: Plants stop growing, leaves yellow rapidly, wilting between waterings, nutrient deficiencies despite feeding.
 **Why**: Roots outgrow the container, becoming tangled and circling. Under-potting is more common than over-potting.
 **How to avoid**: In living soil beds, ensure minimum 15-30 gallons per plant. If using fabric pots, 5-10 gallon minimum for a full run. Transplant up before roots circle.
 
+### 20. Starting with Too Many Plants or Strains
+**What happens**: Overwhelmed grower can't give each plant proper attention. Different strains have different heights, feeding needs, and flowering times in the same space.
+**Why**: Excitement leads to ordering 10+ seeds of different varieties for a first grow.
+**How to avoid**: Start with 3-5 plants of one or two strains. Master the basics before diversifying. Keep a grow journal.
+
+---
+
 ## See Also
 
-- [[mushroom-contamination-identification]] — [[mushroom-contaminant-identification-key]] and response
+- [[mushroom-contamination-identification]] — contaminant identification and response
 - [[mushroom-sterile-technique-detailed]] — proper lab procedures
-- [[mushroom-cultivation-basics]] — 10-step cultivation process
-- [[cannabis-vegetative-stage]] — veg environment, training, watering
-- [[cannabis-flowering-stage]] — flower timeline, nutrition, environment
-- [[cannabis-plant-nutrition]] — NPK, organic sources, deficiency diagnosis
-- [[cannabis-harvest-and-curing]] — proper harvest, dry, and cure
-- [[cannabis-pest-management]] — IPM and organic controls

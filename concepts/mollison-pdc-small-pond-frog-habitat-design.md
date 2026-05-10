@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -137,7 +136,6 @@ with chicken runs (chickens drink from the pond and eat aquatic plants),
 and with composting systems (pond water can be used to moisten compost).
 This integration ensures that the pond contributes to multiple functions
 within the overall permaculture design.
-
 ## See Also
 
 - [[mollison-pdc-community-legal-structure]]

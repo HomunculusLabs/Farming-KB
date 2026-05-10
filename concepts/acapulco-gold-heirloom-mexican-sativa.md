@@ -23,7 +23,7 @@ The decline of authentic Acapulco Gold began in the late 1970s and 1980s when se
 
 ## Geographic Origin and Terroir
 
-The Acapulco region of Guerrero state, Mexico, provides a specific growing environment that shaped this strain's characteristics:
+The Acapulco region of Guerrero state, Mexico, provides a specific [[cannabis-growing-environment-setup]] that shaped this strain's characteristics:
 
 - **Climate**: Tropical coastal climate with consistent warmth, high humidity, and distinct wet and dry seasons. The long growing season allows for extended vegetative and flowering periods.
 - **Latitude**: Approximately 16.8°N, providing roughly 12.5 hours of daylight at summer solstice. This relatively low latitude growing environment is consistent with other celebrated equatorial and subtropical sativas.
@@ -60,7 +60,7 @@ The strain is described as "not too tall" for a pure sativa, which is somewhat u
 
 ### Flowering Time
 
-Acapulco Gold finishes after approximately 70 days of flowering (approximately 10 weeks). This is moderate for a pure sativa and significantly shorter than many Southeast Asian landraces that can require 14–16 weeks. The moderate flowering time makes Acapulco Gold more accessible to indoor growers than many other landrace sativas, while still maintaining the extended maturation that produces the complex cannabinoid and terpene profiles associated with long-flowering sativas.
+Acapulco Gold finishes after approximately 70 days of flowering (approximately 10 weeks). This is moderate for a pure sativa and significantly shorter than many Southeast Asian landraces that can require 14–16 weeks. The moderate flowering time makes Acapulco Gold more accessible to indoor growers than many other landrace sativas, while still maintaining the extended maturation that produces the complex cannabinoid and [[cannabis-terpene-profiles]] associated with long-flowering sativas.
 
 ### Outdoor Performance
 
@@ -72,7 +72,7 @@ The source material explicitly warns that Acapulco Gold is "not for the faint of
 
 ### Preferred Growing Method
 
-Organic soil cultivation is recommended as the ideal growing method for Acapulco Gold. This preference aligns with the Rev's broader philosophy that sativa strains are "wild-ish and highly adaptable plants" that don't respond well to synthetic nutrients. The strain "deserves respect and attention" and rewards patient, natural cultivation methods with superior flavor, potency, and overall quality.
+Organic soil cultivation is recommended as the ideal growing method for Acapulco Gold. This preference aligns with the Rev's broader philosophy that sativa strains are "wild-ish and highly adaptable plants" that don't respond well to [[organic-nutrients-vs-synthetic-nutrients]]. The strain "deserves respect and attention" and rewards patient, natural [[gourmet-medicinal-mushroom-oyster-cultivation-methods]] with superior flavor, potency, and overall quality.
 
 ## Aroma, Flavor, and Effects
 
@@ -89,11 +89,11 @@ The burnt sugar aroma translates into a complex, sweet flavor on combustion that
 The psychoactive effects of Acapulco Gold are described as exceptionally potent and immersive:
 
 - The initial onset is characterized by an intense cerebral rush that "throws you into a racecar and steps on the gas"
-- Effects progress to include visual distortion, heightened sensory perception, and an almost hallucinatory quality at higher doses
+- Effects progress to include visual distortion, heightened [[plant-sensory-perception]], and an almost hallucinatory quality at higher doses
 - The experience can be overwhelming for inexperienced users, who may find themselves "seeing things, hearing voices, or seeing the world in a blur"
 - The intensity of the experience is consistent with the strain's reputation from the 1970s, when it was considered one of the most potent varieties available
 
-This level of potency is notable because it was achieved through natural selection and traditional growing methods rather than modern breeding techniques designed to maximize THC content. The effect profile is complex and multifaceted, suggesting a rich cannabinoid and terpene composition beyond simple THC levels.
+This level of potency is notable because it was achieved through natural selection and traditional growing methods rather than modern [[cannabis-breeding-techniques-acclimatization-trait-fixing-clarke]] designed to maximize THC content. The effect profile is complex and multifaceted, suggesting a rich cannabinoid and terpene composition beyond simple THC levels.
 
 ## Preservation and Genetic Conservation
 
@@ -102,10 +102,10 @@ The preservation of Acapulco Gold by SnowHigh Seeds represents an important act 
 ## See Also
 
 - [[cannabis-colombian-gold-landrace-sativa]] — Another legendary Latin American gold-named sativa
-- [[cannabis-landrace-sativa-strains]] — Overview of landrace sativa preservation efforts
+- cannabis landrace sativa strains — Overview of landrace sativa preservation efforts
 - [[oner-colombian-landrace-sativa-strains]] — Colombian landrace varieties from the same volume
 - [[oner-sativa-landrace-preservation]] — Broader discussion of sativa landrace conservation
-- [[cannabis-sativa-landrace-heritage-varieties]] — Heritage landrace varieties in modern cannabis
+- cannabis sativa landrace heritage varieties — Heritage landrace varieties in modern cannabis
 
 ## Acapulco Gold in Modern Breeding
 

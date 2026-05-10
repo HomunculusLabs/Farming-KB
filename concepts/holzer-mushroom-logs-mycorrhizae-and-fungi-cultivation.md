@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
@@ -144,7 +143,6 @@ Spore distribution method:
 [[query-how-to-get-rid-of-slugs-and-snails-organically]] (especially the non-indigenous Spanish slug, Arion vulgaris) are the main pest of mushroom cultures. Holzer's integrated approach:
 - Pigs, ducks, and toads naturally reduce slug populations
 - Protective ring barrier: mixture of wood ash, sawdust, and slaked lime, kept dry
-- Wet grass clipping trap: attracts slugs to lay eggs, then turn over to expose eggs to sun and UV light
 ## See Also
 
 - [[pleurotoid-mushroom-morphology-gilled-fungi]]

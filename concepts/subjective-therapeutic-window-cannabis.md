@@ -138,12 +138,8 @@ therapeutic window:
 The subjective therapeutic window is not fixed—it can shift over time
 with repeated use, changes in health status, and variations in the
 underlying condition being treated. Regular reassessment is appropriate,
-## See Also
 
 ## See Also
 - [[blesching-cannabis-therapeutic-window-methodology]]
 - [[cannabis-therapeutic-index-overview]]
-
-## See Also
-
 - [[blesching-cannabis-therapeutic-window-dosing]]

@@ -142,7 +142,6 @@ Growers increasingly recognize that blending different substrate materials can
 produce results superior to those achieved with any single material alone.
 Combining a carbon-rich, structurally robust material like sawdust with a
 nitrogen-rich, rapidly colonizing material like cottonseed hulls or bran can
-create substrates with balanced nutrition, optimal physical structure, and
 ## See Also
   - [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
   - [[row-gardening-vs-intensive-methods-solomon]]

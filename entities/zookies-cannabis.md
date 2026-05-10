@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2021). "Zookies Strain Information." Leafly.com.
-  - AllBud (2022). "Zookies [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com.
+  - AllBud (2022). "Zookies blesching-cannabis-strain-selection-receptor-targeting." AllBud.com.
   - Growers Network (2021). "Cookie Family Lineage Guide." GrowersNetwork.org.
   - Wikipedia Contributors. "Gorilla Glue (cannabis)." Wikipedia.
 ---
@@ -117,6 +117,6 @@ Several named phenotypes and crosses have emerged from Zookies genetics, reflect
 
 - [[girl-scout-cookies]]
 - [[gelato]]
-- [[cannabis-blue-dream]]
-- [[og-kush]]
+- [[blue-dream]]
+- [[og-kush-cannabis-entity]]
 - [[kush-mints]]

@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [knf, biodynamic, natural-farming, organic-farming, soil-biology]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 # Korean Natural Farming vs Biodynamic Agriculture

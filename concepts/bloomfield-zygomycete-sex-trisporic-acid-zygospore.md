@@ -2,7 +2,7 @@
 title: Zygomycete fungal-life-cycles-sexual-reproduction-metamorphosis bloomfield zygomycete sex trisporic acid zygospore and Zygospore Formation
 created: 2026-04-28
 tags:
-  - [[mycology]]
+  - [mycology]]
   - zygomycete
   - sexual-reproduction
   - zygospore

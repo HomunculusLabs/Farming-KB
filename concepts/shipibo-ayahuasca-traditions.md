@@ -127,10 +127,9 @@ blueprint of reality as perceived through the ayahuasca state. Shamans may
 healing, projecting protective designs around participants.
 
 ## See Also
-
-- [[icaros]] — Sacred songs in Amazonian shamanic traditions
-- [[banisteriopsis-caapi]] — The ayahuasca vine
-- plant dietas — Traditional Amazonian plant diet practices
+- [[icaros]]
+- [[banisteriopsis-caapi]]
+- [[shipibo-ayahuasca-shamans-practice]]
 
 ## Sources
 

@@ -12,7 +12,7 @@ sources: []
 Monofloral honey comes predominantly from a single nectar source. The flavor,
 color, and medicinal properties vary dramatically depending on the floral
 source. Understanding honey varieties helps beekeepers market their product and
-consumers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] honey for culinary or therapeutic use.
+consumers choose the right honey for culinary or therapeutic use. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
 
 ## Factors That Determine Honey Character
 
@@ -26,7 +26,7 @@ consumers [[query-how-do-i-choose-the-right-cannabis-strain-for-my-grow]] honey 
 ### Clover Honey
 
 Light amber color with a mild, sweet, floral flavor. One of the most common
-varieties in [[psilocybin-north-america-pacific-northwest]]. White and sweet clover are the primary sources.
+varieties in North America. White and sweet clover are the primary sources. (see [[comparison-fermented-vegetables-vs-canning]]).
 Low crystallization tendency in liquid form. Excellent general-purpose sweetener
 and a good entry honey for new beekeepers.
 
@@ -58,7 +58,7 @@ effectiveness for nighttime cough suppression in children.
 
 Golden-green hue with a distinctive buttery, floral flavor. Produced from
 the blossoms of the Ogeechee tupelo tree (Nyssa ogeche) in the southeastern
-[[dmt-containing-plants-united-states-halpern]], particularly along the Apalachicola River in Florida.
+United States, particularly along the Apalachicola River in Florida.
 Tupelo honey resists crystallization due to its high fructose-to-glucose
 ratio. Short three-week harvest window makes it one of the more expensive
 varieties.

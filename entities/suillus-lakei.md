@@ -15,7 +15,7 @@ sources:
   - "Kuo, M. (2024). \"Suillus lakei.\" MushroomExpert.com."
   - "Smith, A.H. & Thiers, H.D. (1968). Boletes of Michigan. University of Michigan Press."
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Bessette, A.E. et al. (2000). [[growing-gourmet-north-american-reishi-species]] Boletes. Syracuse University Press."
+  - "Bessette, A.E. et al. (2000). growing-gourmet-north-american-reishi-species Boletes. Syracuse University Press."
 ---
 
 # Suillus Lakei (*Suillus lakei* (Murrill) A.H. Sm. & Thiers)

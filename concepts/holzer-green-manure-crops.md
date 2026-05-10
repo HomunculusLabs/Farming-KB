@@ -5,7 +5,7 @@ updated: 2026-04-21
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  sources: []
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Green Manure Crops
 From "Sepp Holzer's Permaculture" by Sepp Holzer.

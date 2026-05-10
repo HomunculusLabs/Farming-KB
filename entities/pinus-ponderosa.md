@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Oliver, W.W. & Ryker, R.A. (1990). "Pinus ponderosa." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
-  - Peet, R.K. (2000). "Forests and meadows of the Rocky Mountains." In: Barbour, M.G. & Billings, W.D. (eds.), [[growing-gourmet-north-american-reishi-species]] Terrestrial Vegetation. Cambridge University Press.
+  - Peet, R.K. (2000). "Forests and meadows of the Rocky Mountains." In: Barbour, M.G. & Billings, W.D. (eds.), growing-gourmet-north-american-reishi-species Terrestrial Vegetation. Cambridge University Press.
   - Sieg, C.H. et al. (2017). "Variable-retention harvest in ponderosa pine forests." Forest Ecology and Management 394: 49-58.
   - Cooper, C.F. (1960). "Changes in vegetation, structure, and growth of southwestern pine forests since white settlement." Ecological Monographs 30(2): 129-164.
 ---

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
-  - Taylor, R.J. (1993). "Tsuga." In: Flora of [[psilocybin-north-america-pacific-northwest]] North of Mexico, Vol. 2. Oxford University Press.
+  - Taylor, R.J. (1993). "Tsuga." In: Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 2. Oxford University Press.
   - Klinka, K. et al. (2000). "Distribution and Synopsis of Ecological and Silvical Characteristics of Tree Species of British Columbia." Canadian Forest Service.
   - Farjon, A. (2017). "A Handbook of the World's Conifers." 2nd ed. Brill.
 ---

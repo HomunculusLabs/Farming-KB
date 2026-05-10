@@ -35,7 +35,7 @@ to be explored rather than a revelation to be believed.
 
 ## Spore Biology and Interstellar Travel
 
-McKenna advanced several observations about [[emcdda-psilocybin-mushroom-dose-and-effects]] spores
+McKenna advanced several observations about [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] spores
 that he argued are consistent with an extraterrestrial origin:
 
 - The spores are "deep, deep purple," the color they would need to be

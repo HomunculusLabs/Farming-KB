@@ -1,5 +1,5 @@
 ---
-title: comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi Fungi
+title: Arbuscular Mycorrhizal Fungi
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/symbiotic-fungi.md]
 
 # Arbuscular Mycorrhizal Fungi
 
-Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where [[arbuscule-isolation-and-nutrient-exchange-mechanisms]] occurs. They are essential for plant nutrition, soil health, and ecosystem function.
+Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, associating with 80-90% of terrestrial plant species. Belonging to the phylum Glomeromycota, AMF form intracellular structures (arbuscules) within root cortical cells where nutrient exchange occurs. They are essential for plant nutrition, soil health, and ecosystem function. (see [[mycorrhizal-symbiosis]]).
 
 ## The Symbiosis
 
@@ -18,7 +18,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - **Nitrogen**: Access organic and inorganic N sources unavailable to roots
 - **Water**: Hyphal network improves water uptake during drought
 - **Micronutrients**: Enhanced uptake of zinc, copper, manganese
-- **Disease protection**: Physical barrier around roots, [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance
+- **Disease protection**: Physical barrier around roots, induced systemic resistance
 - **Soil aggregation**: Glomalin (a glycoprotein produced by AMF) binds soil particles into stable aggregates
 
 ### What Plants Provide
@@ -36,7 +36,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 
 ### Vesicles
 - Lipid-filled storage structures in roots (in some AMF species)
-- Serve as [[holmgren-soil-humus-carbon-storage-rebuilding]] organs
+- Serve as carbon storage organs
 - Persist longer than arbuscules
 - Some species don't produce vesicles (vesicular-arbuscular vs arbuscular)
 
@@ -57,7 +57,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 ### Broad but Not Universal
 - Most crops, vegetables, grasses, and many trees form AM associations
 - Notable non-hosts: Brassicaceae (cabbage, broccoli, mustard), Chenopodiaceae (spinach, beet), Amaranthaceae (amaranth)
-- AMF can associate with multiple plant species simultaneously — creating common [[dighton-mycorrhizal-networks-carbon-transfer]]
+- AMF can associate with multiple plant species simultaneously — creating common mycorrhizal networks
 
 ### Crop Families and AMF
 - **Highly dependent**: Allium (onion, garlic), Solanaceae (tomato, pepper), Leguminosae (beans, peas), Poaceae (corn, wheat)
@@ -88,7 +88,7 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - Over time, AMF-rich soils require fewer inputs
 
 ### Drought Resilience
-- AMF improve water uptake and [[dighton-fungal-drought-tolerance-plant-water-relations]]
+- AMF improve water uptake and drought tolerance
 - Particularly important in dryland farming
 - AMF-inoculated plants maintain turgor longer under water stress
 

@@ -42,9 +42,9 @@ agonist profile of other endocannabinoids.
   antagonist at CB1 receptors, depending on the experimental
   conditions and tissue context. This dual activity is unique among
   endocannabinoids and suggests a modulatory role in the
-  [[cannabis-health-endo-cannabinoid-system]]
+  [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 - **CB2 receptor:** Acts as a full agonist at CB2 receptors, meaning
-  it fully activates immune-system cannabinoid receptors
+  it fully activates immune-system [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]]
 - **TRPV1 receptor:** Virodhamine can also activate the transient
   receptor potential vanilloid type 1 (TRPV1) channel, which is
   involved in pain and temperature sensation

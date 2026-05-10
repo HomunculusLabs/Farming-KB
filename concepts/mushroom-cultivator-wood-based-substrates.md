@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Wood-Based Substrates in The Mushroom Cultivator
@@ -14,7 +13,7 @@ Updated: 2026-04-18
 
 ## Overview
 
-Chapter VI covers non-composted substrates used for cultivating wood-loving (lignicolous) mushroom species. These include sawdust/bran mixtures, [[pleurotus-natural-log-cultivation-methods]] culture, [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds, and [[amanita-muscaria-preparation-methods]], and cultivation guidelines for each approach.
+Chapter VI covers non-composted substrates used for cultivating wood-loving (lignicolous) mushroom species. These include sawdust/bran mixtures, [[pleurotus-natural-log-cultivation-methods]] culture, [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds, and [[amanita-preparation-methods]], and cultivation guidelines for each approach.
 
 ## Lignicolous Mushrooms
 

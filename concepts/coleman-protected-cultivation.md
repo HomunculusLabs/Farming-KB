@@ -1,7 +1,7 @@
 ---
 title: Protected Cultivation — Row Covers and Low Tunnels
 created: 2026-04-26
-tags: [row-covers, low-tunnels, protected-cultivation, double-covering, eliot-coleman]
+tags: [row-covers, low-tunnels, protected-cultivation, [[coleman-double-cover-air-inflated-trial-temperature-data|double]]-covering, eliot-[[coleman-cold-greenhouse-double-layer-protection|coleman]]]
 sources: The Winter Harvest Handbook, Eliot Coleman (2009)
 type: concept
 updated: 2026-04-26

@@ -4,7 +4,8 @@ created: 2026-04-26
 tags: [mycology, mushroom-cultivation, pests, integrated-pest-management, stamets]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 type: concept
 ---
 # Mushroom Pests and Insect Control Chapter XIV of The Mushroom Cultivator details the major pests encountered in mushroom culture. Mushroom flies and midges are present wherever fungi are found in nature, attracted by the odor of decomposing matter and growing mycelium. Their larvae cause the most extensive damage, either by feeding on mycelial cells or tunneling through fruitbodies. A commercial mushroom farm is always under siege by these pests. For [[cultivator-compost-preparation-phase-methods]]

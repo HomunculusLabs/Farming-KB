@@ -42,7 +42,7 @@ While ciliates are natural members of the soil community, their dominance over f
 
 The primary ecological role of protozoa is **nutrient mineralization**—the conversion of nutrients locked in microbial biomass into plant-available inorganic forms. This process works as follows:
 
-1. Bacteria and fungi assimilate nutrients from [[humus-and-soil-organic-matter]] and plant residues, incorporating them into their cells
+1. Bacteria and fungi assimilate nutrients from [[humus-formation-and-soil-organic-matter]] and plant residues, incorporating them into their cells
 2. Protozoa consume bacteria and fungi, digesting the microbial biomass
 3. During digestion, protozoa absorb the carbon and other nutrients they need for their own metabolism
 4. The excess nutrients—particularly nitrogen in the form of ammonium (NH₄⁺)—are excreted back into the soil solution

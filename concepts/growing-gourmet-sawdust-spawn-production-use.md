@@ -42,6 +42,40 @@ Concentrated pockets of growth adjacent to vast regions of
 no growth result in poor completion. If evenly inoculated,
 the sawdust spawn is ready to use within two weeks.
 
+## Substrate Preparation
+
+The quality of sawdust substrate directly determines the success of spawn
+production. Suitable hardwood sawdust includes oak, maple, beech, and alder,
+while softwoods like pine and cedar contain inhibitory resins that suppress
+mycelial growth. Fresh sawdust should be aged or leached to remove excess
+tannins and volatile compounds before use in any spawn production run.
+
+Moisture content is critical and must be adjusted to 60-65% by weight before
+sterilization. A simple squeeze test confirms proper hydration: the substrate
+should hold together when compressed but release only a few drops of water.
+Supplementing base sawdust with bran or grain at 5-20% by weight significantly
+boosts nutritional value and accelerates mycelial colonization rates.
+
+## Contamination Prevention
+
+Contamination is the primary cause of failure in sawdust spawn production. The
+most common contaminants include Trichoderma (green mold), bacteria, and various
+Penicillium species. Prevention begins with immaculate hygiene: all work surfaces,
+tools, and containers must be thoroughly cleaned and sanitized before substrate
+preparation begins.
+
+Sterilization at 15 PSI for 90-120 minutes is the minimum requirement for sawdust
+substrates. Insufficient sterilization leaves competitor organisms alive to
+colonize the substrate before the intended mycelium can establish dominance.
+Working quickly during inoculation and sealing bags immediately after further
+reduces contamination risk during the vulnerable transfer period.
+
+Air quality in the laboratory environment is equally important. HEPA-filtered
+laminar flow hoods provide the cleanest workspace for inoculation procedures.
+For laboratories without flow hoods, a still-air box constructed from a large
+plastic container with arm holes can dramatically reduce airborne contamination
+during the critical inoculation step.
+
 ## Temperature Management During Incubation
 
 A small thermometer placed between two touching bags allows

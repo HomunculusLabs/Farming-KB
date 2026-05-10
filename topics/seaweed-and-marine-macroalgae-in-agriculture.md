@@ -143,7 +143,6 @@ Liquid extracts are the most popular and widely studied form of seaweed biostimu
 - The traditional method where dried kelp is heated with potassium hydroxide solution at 60–80°C for several hours
 - Solubilizes alginates, fucoidans, laminarin, and other polysaccharides
 - Produces a dark, viscous liquid with pH 9–11
-- Excellent shelf stability (2+ years)
 ## See Also
 - [[seaweed-farming-and-marine-aquaculture]]
 - [[caulerpa]]

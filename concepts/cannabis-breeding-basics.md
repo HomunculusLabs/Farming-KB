@@ -1,5 +1,5 @@
 ---
-title: oner-cannabis-breeding-fundamentals Basics
+title: Cannabis Breeding Basics
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
@@ -16,7 +16,7 @@ Cannabis breeding is the deliberate crossing of cannabis plants to combine desir
 
 ## Cannabis Plant Sex and Reproduction
 
-Cannabis is a dioecious species, meaning individual plants are either male or female (with rare hermaphroditic exceptions). Understanding [[cannabis-sex-expression-hermaphrodite-breeding-clarke]] is fundamental to breeding.
+Cannabis is a dioecious species, meaning individual plants are either male or female (with rare hermaphroditic exceptions). Understanding sex expression is fundamental to breeding.
 
 ### Female Plants
 
@@ -37,7 +37,7 @@ Plants that develop both male and female sex organs. Usually caused by stress (l
 Pollen collection requires careful timing and technique:
 
 1. Isolate male plants in a separate space before pollen sacs open
-2. Place a collection container ([[sterile-spore-print-collection-glass-jar-technique]] or paper bag) over flowering branches
+2. Place a collection container (glass jar or paper bag) over flowering branches
 3. Gently shake branches to release pollen
 4. Collect pollen from the container
 5. Dry pollen for 24-48 hours in a cool, dark place
@@ -58,7 +58,7 @@ The basic process of crossing two cannabis strains:
 
 ### Select Parent Plants
 
-Choose a male and female with complementary traits. The male contributes 50% of the genetic material (vigor, [[cannabis-disease-pest-resistance-breeding-clarke]], branching, terpenes). The female contributes the other 50% (bud structure, flowering time, [[cannabis-glandular-trichome-types-resin-production-clarke]]). The male should release pollen 2-3 weeks before the female is fully receptive.
+Choose a male and female with complementary traits. The male contributes 50% of the genetic material (vigor, pest resistance, branching, terpenes). The female contributes the other 50% (bud structure, flowering time, resin production). The male should release pollen 2-3 weeks before the female is fully receptive.
 
 ### Pollination and Seed Harvest
 
@@ -90,7 +90,7 @@ These numbers are calculated by averaging between the two parents: BX1 = (100% +
 The outcome of cubing depends critically on whether the trait being fixed is dominant or recessive in the P1 parent:
 
 **Heterozygous dominant trait (e.g., Pp where P = desired):**
-- Without selection: ~72% express the trait after cubing, only ~22% are [[cannabis-true-breeding-ibl-strains]]
+- Without selection: ~72% express the trait after cubing, only ~22% are true breeding
 - Even with infinite backcrossing, gene frequency maxes at 50% — you never fully eliminate the recessive
 - Selecting against homozygous recessive offspring before each backcross improves this to ~95% expressing and ~35% true breeding
 - **Key insight:** Cubing a heterozygous source will never produce a fully true-breeding strain
@@ -143,7 +143,8 @@ In F2 and subsequent generations, significant genetic variation appears:
 When you cannot directly observe a trait in males (e.g., flowering duration, potency), use progeny testing: breed each candidate male to several test females, grow out the offspring, and evaluate which male passed on the most desirable genes. This is essential for traits that can only be measured in female flowers.
 
 ### When the Desired Trait is Recessive
-## Related
 
-- [[cannabis-seed-germination]]
-- [[vic-high]]
+Recessive traits are actually easier to fix through generational inbreeding:
+
+- The individual showing the recessive trait must be homozygous (pp)
+- In the F2 generation, 25% of offspring will express the recessive trait

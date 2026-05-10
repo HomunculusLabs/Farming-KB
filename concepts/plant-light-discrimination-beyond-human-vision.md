@@ -137,12 +137,9 @@ perception on top of what humans can see. While plants do not form images or
 resolve fine spatial detail the way human eyes do, their ability to discriminate
 between wavelengths, intensities, directions, and durations of light constitutes
 a genuine and sophisticated form of visual perception that far exceeds the
-popular conception of plants as passive, insensitive organisms.
-## See Also
 
+## See Also
+- [[human-vs-plant-photoreceptor-systems-comparison]]
 - [[human-photoreception-rods-cones-and-visual-pigments]]
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
-
-## See Also
-
 - [[plant-vision-and-light-perception-mechanisms]]

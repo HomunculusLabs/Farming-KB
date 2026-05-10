@@ -15,7 +15,7 @@ sources:
   - Tam, S.W. et al. (2001). "Yohimbine: A clinical review." Pharmacology & Therapeutics, 91(3), 215–243.
   - Andrianne, R. et al. (1988). "Yohimbine and erectile dysfunction." British Journal of Urology, 62(4), 362–365.
   - Fontenot, M.B. et al. (2003). "Yohimbine effects on anxiety in humans." Psychopharmacology, 170(4), 418–425.
-  - Corazza, O. et al. (2014). "[[blesching-cannabis-safety-adverse-effects-evidence]] of yohimbine-containing products." Drug Testing and Analysis, 6(6), 578–582.
+  - Corazza, O. et al. (2014). "blesching-cannabis-safety-adverse-effects-evidence of yohimbine-containing products." Drug Testing and Analysis, 6(6), 578–582.
   - Fraser, G.L. (2011). "Revisiting yohimbine pharmacology." CNS Drug Reviews, 17(3), 190–197.created: 2026-05-07
 
 created: 2026-05-07

@@ -80,7 +80,7 @@ had already been dealt with by the more elite outdoor growers by using
 some Durban Poison brought to his mentors via pro surfers of the day and
 making Durban Poison hybrids. This tradition of using Durban Poison to
 compress flowering times in sativa crosses continues to this day. Notable
-Durban Poison descendants include various [[trainwreck|Trainwreck]] lines, Girl Scout
+Durban Poison descendants include various [[trainwreck-cannabis|Trainwreck]] lines, Girl Scout
 Cookies, and countless proprietary hybrids designed for outdoor cultivation
 in temperate climates where early finishing is essential for success.
 

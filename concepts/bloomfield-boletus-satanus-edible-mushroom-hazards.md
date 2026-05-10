@@ -131,6 +131,8 @@ their toxicity profiles.
 - [[bloomfield-coprine-disulfiram-alcohol-reaction-coprinus-atramentarius]]
 - bloomfields-orchard-mushroom-hunting-and-identification
 ## See Also
+
+- [[edible-agarics]]
 - [[nicholas-money]]
 - mushroom-identification
 - [[laetiporus-sulphureus]]

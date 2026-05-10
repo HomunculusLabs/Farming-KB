@@ -102,7 +102,6 @@ Fries. The compound microscope opened the world of microfungi, revealing
 fruiting bodies as small as fifty micrometers and spores barely two to
 three micrometers long. The discovery that many fungi possess distinct
 sexual (teleomorph) and asexual (anamorph) stages added complexity, and
-connecting these stages became a major research program spanning
 ## See Also
 
 - [[biodiversity-fungal-biodiversity-estimation-methods]]

@@ -120,10 +120,6 @@ Lactic acid bacteria thrive on the ammonia released during decomposition. By con
 - Carandang, G.A. (2003). [[beneficial-indigenous-microorganisms-bim]]: Grow Your Own. Herbana Farms.
 
 ## See Also
-
 - [[natural-farming-knf-overview]]
 - [[natural-farming-fpj-preparation]]
-
-## See Also
-
 - [[natural-farming-ohn-preparation]]

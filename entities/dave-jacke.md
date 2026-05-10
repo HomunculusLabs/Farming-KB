@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Jacke, D. & Toensmeier, E. (2005). \"Edible forest-gardens, Volume 1: Ecological Vision and Theory for permaculture-designers-manual-temperate-climate-design Permaculture.\" Chelsea Green Publishing."
-  - "Jacke, D. & Toensmeier, E. (2005). \forest-gardens Gardens, Volume 2: [[williams-pdc-ecological-design-principles]] and Practice for Temperate Climate Permaculture.\" Chelsea Green Publishing."
+  - "Jacke, D. & Toensmeier, E. (2005). \forest-gardens Gardens, Volume 2: williams-pdc-ecological-design-principles and Practice for Temperate Climate Permaculture.\" Chelsea Green Publishing."
   - "Holmgren, D. (2002). \"Permaculture: Principles and Pathways Beyond Sustainability.\" Holmgren Design Services."
   - "Jacke, D. (2010). \"Post-design and installation forest garden maintenance.\" Permaculture Activist, 72, 36-41."
 ---

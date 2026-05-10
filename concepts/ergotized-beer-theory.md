@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Terence McKenna (1992). "Food of the Gods: The Search for the Original Tree of Knowledge." Bantam Books.
-  - R. Gordon Wasson, Albert Hofmann, Carl A. P. Ruck (1978). "The [[the-road-to-eleusis-wasson-hofmann-ruck]]: Unveiling the Secret of the Mysteries." Harcourt Brace Jovanovich.
+  - R. Gordon Wasson, Albert Hofmann, Carl A. P. Ruck (1978). "The the-road-to-eleusis-wasson-hofmann-ruck: Unveiling the Secret of the Mysteries." Harcourt Brace Jovanovich.
 ---
 
 # Ergotized Beer Theory

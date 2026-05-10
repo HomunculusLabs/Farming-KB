@@ -45,7 +45,7 @@ C. cyanus is the national flower of Estonia and is featured on the German 2-euro
 
 **Seeds:** Achenes 3–5 mm, greyish-brown, with a short pappus of unequal scales.
 
-## Distribution and Habitat
+## Distribution, Habitat, and Ecology
 
 C. cyanus is native to temperate Europe, from the British Isles and Scandinavia eastward through central and southern Europe to the Caucasus and western Siberia.
 
@@ -55,7 +55,13 @@ The species is an archaeophyte of cereal fields, thriving as a weed in cultivate
 
 It prefers well-drained, moderately fertile soils in full sun. Optimal growth occurs in neutral to slightly alkaline conditions (pH 6.5–7.5). The species is drought-tolerant once established but performs best with moderate moisture.
 
-## Edibility and Culinary Use
+C. cyanus is an important nectar and pollen source for a wide range of pollinators.
+
+The flowers are actively visited by honeybees (*Apis mellifera*), bumblebees (*Bombus* spp.), solitary bees, hoverflies, and butterflies. The prolonged flowering period from late spring through early autumn provides consistent forage over multiple months.
+
+The species is a component of wildflower seed mixtures used in agri-environment schemes across Europe. These mixtures aim to restore pollinator habitat in agricultural landscapes and are a key conservation strategy for reversing pollinator declines.
+
+As a former arable weed, C. cyanus is an indicator species of low-intensity agricultural systems. Its decline in modern farmland reflects the impact of herbicides, seed cleaning, and increased crop density on arable plant diversity.
 
 The flower petals of C. cyanus are edible and have a long history of culinary use across Europe.
 
@@ -77,17 +83,7 @@ The European Medicines Agency (EMA) recognizes C. cyanus flower as a traditional
 
 In vitro studies have demonstrated antioxidant, anti-inflammatory, and antimicrobial activities for various extracts. However, clinical data from human trials remain limited, and most therapeutic claims are based on traditional use rather than controlled studies.
 
-## Ecological Role
-
-C. cyanus is an important nectar and pollen source for a wide range of pollinators.
-
-The flowers are actively visited by honeybees (*Apis mellifera*), bumblebees (*Bombus* spp.), solitary bees, hoverflies, and butterflies. The prolonged flowering period from late spring through early autumn provides consistent forage over multiple months.
-
-The species is a component of wildflower seed mixtures used in agri-environment schemes across Europe. These mixtures aim to restore pollinator habitat in agricultural landscapes and are a key conservation strategy for reversing pollinator declines.
-
-As a former arable weed, C. cyanus is an indicator species of low-intensity agricultural systems. Its decline in modern farmland reflects the impact of herbicides, seed cleaning, and increased crop density on arable plant diversity.
-
-## Cultivation
+## Cultivation and Culinary Use
 
 C. cyanus is easily cultivated from seed and is widely grown as an ornamental annual in gardens and commercial cut-flower production.
 
@@ -113,11 +109,11 @@ The species' decline in farmland has made it a flagship species for farmland [[f
 
 ## See Also
 
-- centaurea
-- asteraceae
-- anthocyanins
-- [[chamomile-growing-guide]]
-- [[permaculture-plants-dynamic-accumulators]]
-- [[medicinal-herb-growing]]
-- arable weeds
-- [[echinacea-purpurea]]
+- [[echinacea-purpurea]] — Purple coneflower, another medicinal Asteraceae
+- [[calendula-officinalis]] — Marigold, edible medicinal flower
+- [[matricaria-chamomilla]] — Chamomile, another traditional European medicinal herb
+- [[taraxacum-officinale]] — Dandelion, common Asteraceae with medicinal use
+- [[achillea-millefolium]] — Yarrow, widespread medicinal Asteraceae
+- [[centaurea-montana]] — Mountain cornflower, perennial relative
+- [[anthocyanins]] — Pigment class responsible for cornflower blue color
+- [[arnica-montana]] — Arnica, another European Asteraceae with traditional medicinal use

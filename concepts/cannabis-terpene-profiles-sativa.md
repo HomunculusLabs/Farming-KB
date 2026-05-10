@@ -122,10 +122,6 @@ seed banks, and careful documentation of terpene profiles all contribute
 to maintaining this botanical heritage for future generations.
 
 ## See Also
-
 - [[cannabis-sativa-landrace-strains]]
 - [[cannabis-sativa-indoor-challenges]]
-
-## See Also
-
 - [[cannabis-terpene-entourage-effect-profiles]]

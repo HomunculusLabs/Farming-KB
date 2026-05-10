@@ -9,8 +9,7 @@ tags:
   - permaculture
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 type: query
 ---
 

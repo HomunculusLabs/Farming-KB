@@ -4,7 +4,7 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [permaculture, education, design]
-sources: sources:
+sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # PDC Aquaculture Water Systems

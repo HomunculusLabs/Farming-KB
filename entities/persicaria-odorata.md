@@ -104,6 +104,10 @@ The genus *Persicaria* contains approximately 100 species distributed worldwide.
 
 ## See Also
 
+- [[porophyllum-ruderale]]
+
+- [[parrotia-persica]]
+
 - [[coriandrum-sativum]]
 - [[zingiber-officinale]]
 - [[curcuma-longa]]

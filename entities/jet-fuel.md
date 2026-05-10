@@ -136,7 +136,7 @@ strain's association with premium, high-powered effects.
 ## See Also
 
 - [[chemdog]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[beta-caryophyllene]]
 - [[super-lemon-haze]]
 - [[jack-herer]]

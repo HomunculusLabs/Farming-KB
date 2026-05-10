@@ -145,6 +145,5 @@ Varieties are grouped by their Russian, Japanese, or Kuril parentage. Cross-poll
 ## Pruning and Training
 
 ### Young Plants (Years 1–3)
-
 ## See Also
 - [[loquat-cultivation-and-variety-guide]]

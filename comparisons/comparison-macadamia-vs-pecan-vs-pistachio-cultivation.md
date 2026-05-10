@@ -5,11 +5,11 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "California Pistachio Commission. Pistachio Production Manual. 4th ed. 2007."
-  - "Cox, J. et al. Macadamia: Australia's Indigenous [[permplant-chestnuts-castanea-nut-crop-coppice]]. CSIRO Publishing, 2019."
-  - "Graetz, D.A. & Kessler, W. Pecan Culture in [[psilocybin-north-america-pacific-northwest]]. APS Press, 1997."
+  - "Cox, J. et al. Macadamia: Australia's Indigenous permplant-chestnuts-castanea-nut-crop-coppice. CSIRO Publishing, 2019."
+  - "Graetz, D.A. & Kessler, W. Pecan Culture in psilocybin-north-america-pacific-northwest. APS Press, 1997."
   - "FAO. FAOSTAT: Crops and Livestock Products. Food and Agriculture Organization, 2024."
   - "UC ANR. Pecan Production in California. UC Agriculture & Natural Resources Publication 3503, 2018."
-  - "University of Hawaii CTAHR. [[mollison-designers-macadamia-nut-in-tropical-polyculture]] Production in Hawaii. Extension Bulletin, 2020."
+  - "University of Hawaii CTAHR. mollison-designers-macadamia-nut-in-tropical-polyculture Production in Hawaii. Extension Bulletin, 2020."
   - "Ferguson, L. Pistachio Production. UC ANR Publication 3545, 2019."
   - "Topp, B.L. et al. Macadamia Domestication and Breeding. Acta Horticulturae 950, 2012."
 created: 2026-05-07

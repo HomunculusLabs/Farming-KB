@@ -142,7 +142,6 @@ practice to design science.
 
 Beyond water filtration, the antimicrobial data has implications for mycopesticide
 design — the development of fungal-based products for controlling plant pathogens
-and agricultural pests. Species demonstrating antifungal activity against plant
 ## See Also
   - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]
   - [[gaias-garden-microclimates]]

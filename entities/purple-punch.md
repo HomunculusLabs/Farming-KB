@@ -129,5 +129,5 @@ Purple Punch has become foundational breeding stock with numerous successful cro
 | Cross | Name | Notable Traits |
 |-------|------|---------------|
 | Purple Punch × [[granddaddy-purple]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[cannabis-indica]]

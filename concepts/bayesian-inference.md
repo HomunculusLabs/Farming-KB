@@ -3,7 +3,7 @@ title: bayesian inference
 created: 2026-04-28
 updated: 2026-05-06
 sources:
-  - "raw/papers/permaculture|permaculture-a-designers-manual-bill-mollison.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture|permaculture|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
 type: concept
 tags: [reference]
 ---
@@ -11,13 +11,13 @@ tags: [reference]
 # Bayesian Inference
 
 ## Overview
-Bayesian inference is a framework for updating beliefs in light of evidence.
-It represents uncertainty with probabilities.
+bayesian inference is a framework for updating beliefs in light of evidence. (see [[biosorption-isotherms]]).
+It represents uncertainty with probabilities. (see [[fungal-species-estimation-methods-total-diversity]]).
 A prior distribution describes what is believed before observing new data.
 A likelihood describes how probable the observed data are under different hypotheses or parameter values.
 Bayes' theorem combines the prior and likelihood to produce a posterior distribution.
 The posterior becomes the updated state of knowledge.
-Bayesian inference is not only a formula.
+bayesian inference is not only a formula.
 It is a way of reasoning about uncertainty, evidence, models, and decisions.
 Its central strength is that it keeps uncertainty visible instead of reducing it too early to a point estimate.
 
@@ -36,7 +36,7 @@ The posterior encodes what the model says after the data are taken into account.
 ## Priors
 A prior distribution can be informative, weakly informative, or intended to be diffuse.
 An informative prior uses substantial previous knowledge.
-A weakly informative prior rules out implausible values without [[dom|dom]]inating ordinary data.
+A weakly informative prior rules out implausible values without [[dom|dom]] inating ordinary data.
 A diffuse prior attempts to express little prior preference.
 No prior is completely assumption-free.
 Good Bayesian practice makes prior assumptions explicit.
@@ -56,7 +56,7 @@ Robust likelihoods can reduce sensitivity to outliers.
 Hierarchical likelihoods can represent grouped data and partial pooling.
 
 ## Posteriors
-The posterior distribution is the main output of Bayesian inference.
+The posterior distribution is the main output of bayesian inference.
 It can be summarized by means, medians, modes, intervals, probabilities, or predictions.
 A credible interval gives a range containing a specified posterior probability.
 This differs from a frequentist confidence interval, which has a long-run coverage interpretation.
@@ -93,7 +93,7 @@ Today Bayesian and frequentist methods coexist, compete, and often complement ea
 The historical debate continues, but practical modeling often matters more than philosophical labels.
 
 ## Applications in science
-Bayesian inference is used to estimate physical constants from experimental measurements.
+bayesian inference is used to estimate physical constants from experimental measurements.
 It is used in astronomy to infer cosmological parameters from telescope data.
 It helps combine evidence from multiple clinical trials in medical research.
 Ecologists use hierarchical Bayesian models for population estimates and species distributions.

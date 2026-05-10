@@ -135,16 +135,9 @@ susceptible to conventional antifungal agents.
 
 As Nicholas Money observed from his home in Ohio, starling flocks
 chattering in honeysuckle bushes and splattering snow with berry
-stains are a reminder that fungal spores pass into human lungs every
-## See Also
-
-- [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]] Pathogenesis](cryptococcus-neoformans-pathogenesis.md)
-- [Bloomfield Cryptococcus Opportunistic Mycoses](bloomfield-cryptococcus-neoformans-opportunistic-mycoses-aids.md)
-- [Dermatophyte Fungi and Human Disease](dermatophyte-fungi-human-disease.md)
-- [Pythium insidiosum and Pythiosis](pythium-insidiosum-oomycete-human-infection-pythiosis.md)
-- [Fungal Pathogen Cell Walls](alpha-1-3-glucan-fungal-pathogen-cell-walls.md)
 
 ## See Also
+- [[bloomfield-cryptococcus-neoformans-capsule-melanin-brain]]
 - [[pythium-insidiosum-oomycete-human-infection-pythiosis]]
 - [[dermatophyte-fungi-human-disease]]
 - [[fungal-pathogens-human-disease]]

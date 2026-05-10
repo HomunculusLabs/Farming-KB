@@ -73,7 +73,7 @@ psychedelics. The self-experimentation paradigm he established remains foundatio
 - gordon-wasson
 - [[arthur-christmas-tree-amanita-muscaria]]
 
-- [[mescaline-entity]] — the compound Heffter first isolated and identified
+- [[mescaline]] — the compound Heffter first isolated and identified
 ## Practical Considerations
 
 Successful implementation of Arthur Heffter requires attention to

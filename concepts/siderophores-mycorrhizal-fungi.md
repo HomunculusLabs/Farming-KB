@@ -72,6 +72,48 @@ Siderophore production contributes to biocontrol activity by:
 Mycorrhizal fungal siderophores may directly contribute to plant iron nutrition:
 
 - Ferric-siderophore complexes may be taken up by plant roots or reduced at the root surface
+## Iron Acquisition Mechanisms
+
+Mycorrhizal fungi employ a multi-step process for iron mobilization.
+Under iron-limited conditions, fungal hyphae upregulate siderophore
+biosynthesis genes and secrete chelating compounds into the soil
+matrix. The Fe(III)-siderophore complex is recognized by
+specific membrane receptors on the hyphal surface and transported
+into the cell via ABC transporter proteins. Inside the hypha, Fe(III)
+is reduced to Fe(II) by ferric reductase enzymes, releasing the
+siderophore for reuse or degradation. This mechanism is particularly
+effective in calcareous soils where iron availability is severely
+limited by high pH. The hyphal network extends the depletion zone
+far beyond the root surface, effectively mining iron from soil
+volumes that plant roots alone cannot access.
+
+## Siderophore Types and Affinity Comparison
+
+Different siderophore classes exhibit varying affinities for Fe(III).
+Hydroxamate siderophores (ferrichromes, coprogens, fusarinines)
+have stability constants (log K) of 28-32, making them among
+the strongest biological iron chelators known. Polycarboxylate
+but function effectively in neutral to alkaline soils where hydroxamates
+hydroxamates may be competitively inhibited by calcium and
+magnesium ions. Catecholate-type siderophores, common in bacteria
+but rare in fungi, occupy an intermediate position. This diversity
+of siderophore chemistry allows mycorrhizal communities to access
+iron across a wide range of soil pH and mineralogy conditions,
+reducing functional redundancy in the mycorrhizosphere.
+
+## Bioremediation Applications
+
+Siderophore-producing mycorrhizal fungi show promise for soil
+bioremediation beyond nutrient cycling. Their chelating activity
+can mobilize heavy metals such as uranium, aluminum, and cadmium
+from contaminated sites, either facilitating phytoextraction by
+host plants or immobilizing metals within stable fungal biomass.
+containing Pisolithus tinctorius to establish vegetation
+on iron-rich substrates. Siderophores also
+enhance degradation of organic pollutants by solubilizing iron
+needed for Fenton-type reactions that break down recalcitrant
+compounds including polycyclic aromatic hydrocarbons.
+
 - The mycorrhizal hyphal network extends the effective soil volume for iron exploration
 - In iron-deficient soils, [[ectomycorrhizal-ecology]]|ectomycorrhiza — Siderophore-producing mycorrhizal type
 - [[mycorrhization-helper-bacteria]] — Bacterial siderophores in the mycorrhizosphere

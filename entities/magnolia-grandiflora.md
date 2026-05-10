@@ -109,6 +109,8 @@ Bioactive compounds including magnolol and honokiol have been isolated from the 
 
 ## See Also
 
+- [[sesbania-grandiflora]]
+
 - [[magnolia-virginiana]]
 - [[liriodendron-tulipifera]]
 - [[liquidambar-styraciflua]]

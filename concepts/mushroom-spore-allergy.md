@@ -4,8 +4,7 @@ created: 2026-04-16
 updated: 2026-04-18
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources:
-  sources: []
+sources: []
 ---
 # Mushroom Spore Allergy and Sensitivity Mushroom cultivation and handling carry specific health risks related to spore exposure, allergic reactions, and biochemical sensitivities. The most significant occupational hazard in commercial mushroom farming is spore-related respiratory illness, while consumers face risks from specific biochemical compounds in certain species. Understanding these risks is essential for anyone engaged in [[pleurotus-ostreatus]] (the Oyster mushroom). This is primarily an occupational hazard affecting workers who pick mushrooms indoors in enclosed growing environments where spore concentrations build to extremely high levels.
 

@@ -140,7 +140,6 @@ Calendula is one of the most valuable companion plants in the garden, offering m
 
 ### Edible Landscape Integration
 
-Calendula's bright, cheerful flowers make it an excellent edible landscape plant. Use it in:
 ## See Also
 
 - comfrey-cultivation-and-uses — another powerhouse wound-healing herb for the permaculture garden

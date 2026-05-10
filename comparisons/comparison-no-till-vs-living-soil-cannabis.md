@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [cannabis, soil, no-till, living-soil, organic, comparison]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 

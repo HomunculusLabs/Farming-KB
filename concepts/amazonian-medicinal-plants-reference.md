@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-This index catalogs the Amazonian medicinal and psychoactive plants documented in Pablo Amaringo's "[[amaringo-ayahuasca-visions-shipibo-iconography]]" and the associated Shipibo ethnobotanical tradition. Plants are organized by their primary traditional use category.
+This index catalogs the Amazonian medicinal and psychoactive plants documented in Pablo Amaringo's "Ayahuasca Visions" and the associated Shipibo ethnobotanical tradition. Plants are organized by their primary traditional use category. (see [[ayahuasca-visions]]).
 
 ## Visionary / Psychoactive Plants
 
@@ -21,7 +21,7 @@ This index catalogs the Amazonian medicinal and psychoactive plants documented i
 | Ayahuasca | Banisteriopsis caapi | Primary visionary brew base | MAOI (harmine, harmaline, THH); vine teacher |
 | Chacruna | Psychotria viridis | DMT source for ayahuasca | Leaves harvested fasting; sun-side placed down |
 | Chaliponga | Diplopterys cabrerana | DMT + 5-MeO-DMT source | More intense than chacruna |
-| Toe | Brugmansia sp. | [[entheogen-ayahuasca-admixture-plants]] | Tropane alkaloids; 2 leaves added to brew; dangerous |
+| Toe | Brugmansia sp. | Ayahuasca admixture | Tropane alkaloids; 2 leaves added to brew; dangerous |
 | Shillinto | Mascagnia psilophylla | Ayahuasca admixture | Vine; combined with chicuro |
 
 ## Teacher Trees (Arboles Maestros)
@@ -73,7 +73,7 @@ This index catalogs the Amazonian medicinal and psychoactive plants documented i
 
 ## Traditional Preparation Notes
 
-From Amaringo's detailed account of [[harner-amazonian-ayahuasca-preparation-methods]]:
+From Amaringo's detailed account of ayahuasca preparation:
 
 - **Pot material**: Must be clay, not aluminum or other metals — essential for the purge to be effective
 - **Chacruna placement**: Sun-receiving side placed downward, "spurs" upward

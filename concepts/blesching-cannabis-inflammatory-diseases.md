@@ -10,14 +10,14 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - "~/wiki/raw/papers/uwe-blesching-the-cannabis-health-index.md"
+  - "~/wiki/raw/papers/uwe-blesching-cannabis-food-as-medicine-anti-inflammatory-spices|blesching-the-cannabis-health-index.md"
 type: concept
 ---
 
 # Cannabis and Inflammatory Diseases
 
 Inflammation is a fundamental [[medicinal-mushrooms-biological-response-modifiers]] with implications for
-virtually every chronic disease. According to [[cannabis-health-endo-cannabinoid-system]] and Inflammation
+virtually every chronic disease. According to [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] and Inflammation
 
 The endocannabinoid system plays a central role in modulating inflammatory
 responses throughout the body. CB2 receptors, concentrated in immune cells,
@@ -29,7 +29,7 @@ The ECS initiates protective responses to injuries and inflammations
 throughout life. It is involved in balancing and strengthening both the
 nervous and immune systems, initiating pain control, and calming inflammation.
 
-## Dietary Cannabinoid: (E)-Beta-Caryophyllene
+## Dietary Cannabinoid: (E)-[[beta-caryophyllene-dietary-cannabinoid-cb2-spices-blesching|Beta]]-Caryophyllene
 
 Caryophyllene ((E)-BCP) is an FDA-approved dietary plant-cannabinoid that
 activates CB2 receptor sites and initiates potent anti-inflammatory actions.

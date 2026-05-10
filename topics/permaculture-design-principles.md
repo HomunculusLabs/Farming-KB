@@ -87,7 +87,6 @@ becomes.
 
 The third principle, [[holmgren-obtain-a-yield-detailed]], reminds the designer that any sustainable 
 system must produce tangible outputs that meet human needs. This is a 
-corrective against designs that are ecologically sound but fail to provide the 
 ## See Also
 
 [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]

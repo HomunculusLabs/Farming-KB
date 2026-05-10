@@ -4,8 +4,7 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [permaculture, design]
-sources:
-  sources: []
+sources: []
 ---
 # [[permaculture-design]] system. They are kept primarily for milk and meat production.
 ## Role in the System

@@ -13,7 +13,7 @@ type: concept
 
 The modern era of psychopharmacology's interest in the aboriginal use of hallucinogenic plants dates to only a century before McKenna wrote, beginning
 with the work of German pharmacologist Lewis
-Lewin. His investigations into [[mescaline-entity]] launched an entire discipline and introduced Western science to
+Lewin. His investigations into [[mescaline]] launched an entire discipline and introduced Western science to
 the systematic study of visionary plant compounds.
 This chapter of scientific history represents one of the first bridges between indigenous shamanic knowledge and the Western laboratory.
 

@@ -43,7 +43,7 @@ reaction first-order. In the second step, the nucleophile attacks the carbocatio
 from either face of the planar intermediate, leading to racemization.
 
 Carbocation stability is the primary factor governing SN1 reactivity. Tertiary
-carbocations are the most stable due to hyperconjugation and inductive effects from
+carbocations are the most [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking|stable]] due to hyperconjugation and inductive effects from
 adjacent alkyl groups, followed by secondary and then primary. Methyl carbocations
 are essentially never observed under normal SN1 conditions. Resonance-stabilized
 carbocations, such as those adjacent to aromatic rings or carbonyl groups, are
@@ -56,7 +56,7 @@ group through solvation, lowering the activation energy for the rate-determining
 step.
 
 ## [[phase-ii-conjugation-reactions-drug-metabolism]] cations. Many phase conjugation reactions pathways involve SN2-type
-displacement reactions, where nucleophilic [[cytochrome-p450-enzymes-drug-metabolism]] system frequently mediates such transformations.
+displacement reactions, where nucleophilic [[cytochrome-p450-enzymes-drug-metabolism]] [[cervantes-hid-system-setup-step-by-step|system]] frequently mediates such transformations.
 
 Alkylating agents used in chemotherapy, such as cyclophosphamide and nitrogen
 mustards, exert their cytotoxic effects through nucleophilic substitution reactions

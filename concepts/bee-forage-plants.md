@@ -4,14 +4,13 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, plants, pollinators, plant-systems, forage, plant-catalog]
-sources:
-  sources: []
+sources: []
 ---
 
 # Bee Forage Plants
 
 Providing abundant, diverse forage is essential for honey bee health and
-[[mollison-designers-beekeeping-honey-production-permaculture]]. This guide covers the best nectar and pollen plants by
+honey production. This guide covers the best nectar and pollen plants by
 season, with regional considerations and planting strategies for the
 homestead.
 
@@ -43,7 +42,7 @@ brood production and nectar for energy.
 |---|---|---|---|
 | Maple (Acer spp.) | Feb-Apr | Pollen | Early tree pollen; critical for spring build-up |
 | Dandelion | Apr-May | Both | Excellent early pollen; often undervalued |
-| [[comparison-lupin-vs-crimson-clover-green-manure]] | Apr-Jun | Both | Annual; excellent cover crop |
+| Crimson clover | Apr-Jun | Both | Annual; excellent cover crop |
 | Fruit trees (apple, cherry, plum) | Mar-May | Both | High-value orchard forage |
 | Willow (Salix spp.) | Mar-Apr | Pollen | Very early pollen source |
 | Wild mustard | Apr-May | Both | Common weed; good early forage |
@@ -58,10 +57,10 @@ The main nectar flow period. Abundant nectar produces surplus honey.
 
 | Plant | Bloom Time | Resource | Notes |
 |---|---|---|---|
-| [[fukuoka-white-clover-ground-cover]] | May-Sep | Both | Primary summer honey source in many areas |
+| White clover | May-Sep | Both | Primary summer honey source in many areas |
 | Sweet clover (yellow/white) | Jun-Aug | Both | Biennial; one of the best honey plants |
 | Basswood / Linden | Jun-Jul | Nectar | Premium honey tree; short but intense flow |
-| Lavender | Jun-Aug | Both | Long bloom; [[permplant-carob-drought-tolerant-food-tree]] once established |
+| Lavender | Jun-Aug | Both | Long bloom; drought tolerant once established |
 | Sunflower | Jul-Sep | Both | Annual; excellent late pollen |
 | Bee balm (Monarda) | Jul-Aug | Both | Native perennial; highly attractive |
 | Thyme | Jun-Aug | Both | Drought tolerant; culinary herb |
@@ -112,7 +111,7 @@ provide continuous forage and habitat. See [[windbreak-and-shelterbelt-design]] 
 design guidance. Good species: crabapple, hawthorn, elderberry, serviceberry.
 
 ### Cover Crops
-Integrate bee forage into your [[fukuoka-clover-cover-cropping-soil-ecology]] program. Crimson clover,
+Integrate bee forage into your cover cropping program. Crimson clover,
 buckwheat, and phacelia serve as both soil builders and bee food. See
 [[cover-cropping-guide]] for rotation planning.
 
@@ -131,7 +130,7 @@ the nectar and pollen of acres of herbaceous plants. Key bee trees:
 
 - **Tupelo** (Nyssa ogeche) — premium honey, southeastern US
 - **Basswood** (Tilia americana) — excellent nectar, northern US
-- **[[comparison-black-locust-vs-honey-locust]]** (Robinia pseudoacacia) — prolific nectar, light honey
+- **Black locust** (Robinia pseudoacacia) — prolific nectar, light honey
 - **Sourwood** (Oxydendrum arboreum) — prized Appalachian honey
 - **Eucalyptus** — prolific in mild climates; medicinal honey
 - **Manuka** (Leptospermum scoparium) — New Zealand; see
@@ -148,3 +147,4 @@ aware of:
   death
 - Rhododendron/azalea — grayanotoxin in nectar ("mad honey")
 - Mountain laurel (Kalmia latifolia) — toxic nectar
+- Yellow jessamine (Gelsemium sempervirens) — toxic nectar and pollen

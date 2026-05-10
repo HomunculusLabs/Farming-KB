@@ -66,7 +66,7 @@ accompanies psilocybin intoxication.
 While generally mild, pronounced physical symptoms have been recorded in
 clinical case reports. These include severe stomach pain, persistent
 vomiting, and diarrhoea. The EMCDDA notes that such severe symptoms may
-indicate factors beyond [[emcdda-psilocybin-pharmacology-and-chemistry]] alone — mushroom
+indicate factors beyond [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] alone — mushroom
 specimens collected from the wild may contain additional toxic compounds
 from mixed fungal collections, or gastrointestinal distress may be
 exacerbated by the method of inges [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]] national comparison difficult.

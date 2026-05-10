@@ -108,6 +108,8 @@ Capsaicin also demonstrates antimicrobial properties against foodborne pathogens
 
 ## See Also
 
+- [[capsaicin]]
+
 - [[bupleurum-chinense]]
 
 - [[solanum-tuberosum]]

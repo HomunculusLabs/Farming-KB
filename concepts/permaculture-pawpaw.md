@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [permaculture, design, fruit-trees, native-plants]
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Pawpaw (Asimina triloba)
@@ -141,7 +140,6 @@ for seed-grown trees.
 
 Pawpaw fits naturally into several [[permaculture-design-principles-beginners]]
 contexts. As a native understory tree, it occupies a productive niche in
-[[permaculture-forest-garden-establishment]] between the canopy and
 ## See Also
 
 - [[comparison-fig-vs-mulberry-for-permaculture]]

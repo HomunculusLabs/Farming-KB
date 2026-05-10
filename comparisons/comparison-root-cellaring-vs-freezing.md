@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-[[root-cellaring-and-crop-storage]] freezing represent two fundamentally different approaches to
+[[solomon-root-cellaring-and-crop-storage]] freezing represent two fundamentally different approaches to
 food preservation. Root cellaring uses the earth's natural [[comparison-windbreak-vs-thermal-mass]] to keep
 harvests cool and humid without electricity, while freezing halts enzymatic
 activity and microbial growth through sub-zero temperatures. The choice between

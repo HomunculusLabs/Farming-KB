@@ -142,5 +142,7 @@ A spray bottle filled with clean water is the only equipment needed for humidity
 management. The spray bottle should produce a fine mist rather than a coarse stream to
 ## See Also
 
+- [[polyethylene-sheeting-fruiting-chamber-passive-humidity]]
+
 - [[casing-soil-preparation-mushroom-cultivation]]
 - [[exotic-cultivation-flush-management-and-casing-hygiene]]

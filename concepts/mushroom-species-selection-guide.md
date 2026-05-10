@@ -50,3 +50,43 @@ outdoors.
 An advanced species requiring sterilized substrate (typically rice-based)
 and very precise [[eclss-environmental-control-life-support]]. Grows at 18-22°C with high
 humidity. Light is required for proper [[grain-spawn-preparation]], fruiting-chamber-design, [[medicinal-mushroom-compounds]]
+
+## Substrate Selection by Species
+
+Different mushroom species have evolved to decompose different materials.
+Matching species to locally available substrate materials is key to
+low-cost, sustainable cultivation:
+
+- **Straw and agricultural waste**: Oysters (all types), Wine Cap,
+  Paddy Straw mushroom (Volvariella volvacea)
+- **Hardwood sawdust**: Shiitake, Lion's Mane, Maitake, Reishi,
+  Nameko (Pholiota nameko)
+- **Softwood sawdust**: Limited options; some oyster strains
+  tolerate conifer sawdust blended with hardwood
+- **Coffee grounds**: Oysters (excellent, pre-sterilized by brewing),
+  some Reishi strains
+- **Composted manure**: Button/Portobello (Agaricus bisporus),
+  Paddy Straw mushroom
+- **Grain substrates**: Cordyceps (rice), King Oyster (supplement)
+- **Wood chips (outdoor)**: Wine Cap, King Stropharia, Shiitake
+  on buried logs, Reishi on stumps
+
+## Contamination Risk and Species Difficulty
+
+Contamination is the primary challenge in mushroom cultivation. Species
+vary dramatically in their susceptibility:
+
+- **Low risk**: Oysters, Wine Cap -- aggressive colonizers that
+  outcompete most contaminants
+- **Moderate risk**: Shiitake, Lion's Mane -- require good sterile
+  technique but are forgiving once fully colonized
+- **High risk**: Maitake, Enoki, Nameko -- slow colonizers vulnerable
+  to Trichoderma and bacterial contamination
+- **Very high risk**: Cordyceps -- requires laboratory-grade sterile
+  technique throughout
+
+Beginners should start with oyster mushrooms on pasteurised straw or
+coffee grounds before attempting species that require pressure-cooked
+supplemented sawdust blocks. Building sterile technique gradually
+through increasing difficulty levels prevents frustration and wasted
+materials during the learning process.

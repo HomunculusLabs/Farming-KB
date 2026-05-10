@@ -13,7 +13,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
   - /Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
   - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
@@ -141,7 +140,6 @@ being distributed into the wider environment.
 
 Within the gills themselves, the spacing between adjacent gill faces is critically important. If gills
 are packed too tightly, the air between them becomes saturated with spores and additional discharge
-becomes physically obstructed. If they are too widely spaced, the total spore-producing surface area
 ## See Also
 
 - [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]

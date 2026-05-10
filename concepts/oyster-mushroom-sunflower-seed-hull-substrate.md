@@ -113,13 +113,6 @@ Sunflower seed hulls are typically burned or left in fields, practices that cont
 For regions with significant sunflower oil production, such as Argentina, Ukraine, Russia, and parts of Eastern Europe, SSH offers a locally abundant and inexpensive substrate that can support mushroom cultivation industries without competing with other agricultural uses.
 
 ## See Also
-
 - [[oyster-mushroom-by-products-permaculture]]
-
 - [[oyster-mushroom-shelf-fermentation-substrate-preparation]]
-
 - [[mushroom-cultivation-basics]]
-
-## See Also
-
-- oyster-mushroom-agricultural-waste-substrates-survey

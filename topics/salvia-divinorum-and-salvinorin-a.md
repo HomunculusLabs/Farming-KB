@@ -130,7 +130,6 @@ valuable knowledge and led to chemical discovery, yet publicity also
 transformed Indigenous communities into destinations for outsiders. Salvia's
 story therefore repeats a common pattern in ethnobotany, where revelation and
 extraction are intertwined.
-
 ## See Also
 
 - salvia divinorum and salvinorin a

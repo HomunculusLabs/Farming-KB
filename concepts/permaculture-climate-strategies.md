@@ -23,7 +23,7 @@ sources:
 
 # Permaculture Climate-Specific Design Strategies
 
-Climate-specific design from Mollison's Permaculture Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design-methods]] for the design toolkit and [[edge-effect-and-microclimate]] for [[mollison-designers-microclimate-creation-frost-protection]].
+Climate-specific design from Mollison's Permaculture Two and field implementations. The fundamental principle: "Design must be climate-specific. What works in humid cool temperate fails in arid lands." See [[permaculture-design-methods]] for the design toolkit and [[edge-effect-and-microclimate]] for microclimate creation.
 
 ## Arid Lands Strategies (Mollison, Ch. 5)
 
@@ -50,7 +50,7 @@ Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casu
 
 ### Erosion Control on Dry Slopes
 
-- **Net and pan pattern**: Small containment basins on contour with [[mollison-designers-diversion-drains-and-interceptor-banks]] above
+- **Net and pan pattern**: Small containment basins on contour with diversion drains above
 - **Cross-slope logs**: Staked on slight downhill grade so water zig-zags across erosion face
 - **Pioneer plantings**: Pampas, bamboo, and root-mat pioneers on very steep slopes
 - Avoid massive contour trenches — planned chiselling and planting achieves more permanent results
@@ -90,7 +90,7 @@ Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casu
 | Species | Use | Notes |
 |---------|-----|-------|
 | Date palm | Fruit, shade | Hardy, productive |
-| Jujube | Fruit, windbreak | Very [[permplant-carob-drought-tolerant-food-tree]] |
+| Jujube | Fruit, windbreak | Very drought tolerant |
 | Pistachio | Nuts | Long-term investment |
 | Carob | Pods (carob flour), shade | Drought hardy |
 | Mesquite | Pods, forage, shade | Fix N, deep roots |
@@ -111,9 +111,9 @@ Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casu
 
 - Design for maximum vertical stacking: canopy, understory, shrub, herb, ground cover, root, vine layers
 - Rapid biomass cycling — organic matter decomposes quickly
-- Tree crops are [[lichens-primary-production-soil-formation-dighton]] (not annual vegetables)
+- Tree crops are primary production (not annual vegetables)
 - Poultry under tree crops for pest control and manure
-- Bamboo as universal [[fungal-building-material-deterioration]], mulch source, and windbreak
+- Bamboo as universal building material, mulch source, and windbreak
 
 ### Tropical Soil Management
 
@@ -126,7 +126,7 @@ Useful shade and mulch trees: mulga (Acacia aneura), tamarisk, desert oaks, casu
 ### Sea Coasts (Section 5.3)
 
 - Salt-tolerant species for coastal zones: casuarina, coconut, pandanus, mangrove
-- Sand dune stabilization with spinifex, pigface, beach [[golden-guide-morning-glory-and-ololiuqui]]
+- Sand dune stabilization with spinifex, pigface, beach morning glory
 - Tidal stone traps for fish (traditional technique)
 - Seagrass beds (Zostera, Posidonia) protect coastline and provide mulch
 
@@ -142,8 +142,9 @@ From Mollison's detailed treatment:
 
 ### Sun Trap Design
 
-## Related
+- U-shaped plantings open to the sun (south in northern hemisphere)
+- Reflective pond in front increases light and heat
+- Dense windbreak on the exposed side
+- Deciduous trees admit winter sun, provide summer shade
+- Used for frost-sensitive species, early vegetables, and livestock shelters
 
-- [[coastal-gardening]]
-- [[tropical-gardening]]
-- [[desert-gardening]]

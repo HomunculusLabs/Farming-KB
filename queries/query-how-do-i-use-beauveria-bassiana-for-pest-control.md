@@ -4,7 +4,6 @@ tags: [query, biocontrol, entomopathogenic-fungi, ipm, organic-pest-control]
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
@@ -18,7 +17,7 @@ It works by landing on an insect's cuticle, germinating, and penetrating the bod
 
 Unlike chemical pesticides, it is safe for humans, pets, and most beneficial insects when applied correctly.
 
-It is available as a commercial biological insecticide and can be integrated into any [[integrated-pest-management-ipm|integrated pest management]] program.
+It is available as a commercial biological insecticide and can be integrated into any [[integrated-pest-management|integrated pest management]] program.
 
 ## What Is Beauveria Bassiana?
 
@@ -26,7 +25,7 @@ It is available as a commercial biological insecticide and can be integrated int
 
 [[beauveria-bassiana|B. bassiana]] is the most widely studied and commercially available species in this genus.
 
-It belongs to a broader category of [[entomopathogenic-fungi-and-biological-pest-control|entomopathogenic fungi]] that use insects as hosts for reproduction.
+It belongs to a broader category of entomopathogenic fungi that use insects as hosts for reproduction.
 
 When spores contact an insect, they attach to the exoskeleton using hydrophobic interactions and enzymes.
 
@@ -104,13 +103,13 @@ In greenhouse environments, the humidity and temperature control make Beauveria 
 
 ## Integration With Other Pest Control Methods
 
-Beauveria works best as part of a broader [[integrated-pest-management-ipm|IPM]] strategy rather than a standalone treatment.
+Beauveria works best as part of a broader [[integrated-pest-management|IPM]] strategy rather than a standalone treatment.
 
-It pairs well with [[beneficial-insects-and-biological-pest-control|beneficial insects]] because the fungus primarily targets pest species.
+It pairs well with [[hamilton-beneficial-insects-and-biological-pest-control|beneficial insects]] because the fungus primarily targets pest species.
 
 [[comparison-predatory-mites-vs-ladybugs-biocontrol|Predatory mites and ladybugs]] are generally not susceptible to Beauveria at recommended application rates.
 
-You can combine Beauveria sprays with [[botanical-pesticides-and-natural-pest-control|botanical pesticides]] like neem oil, but avoid tank-mixing without testing compatibility first.
+You can combine Beauveria sprays with [[jadam-pest-control-with-natural-pesticides-jhs|botanical pesticides]] like neem oil, but avoid tank-mixing without testing compatibility first.
 
 Some chemical fungicides will kill Beauveria spores, so separate fungicide and biocontrol applications by at least several days.
 
@@ -143,8 +142,7 @@ Store commercial products in a cool, dry place away from direct sunlight to main
 - Apply as a foliar spray or soil drench, ideally in the evening when humidity is high and UV is low.
 - It is effective against aphids, whiteflies, thrips, spider mites, fungus gnats, and many other pests.
 - The fungus requires temperatures of 20 to 30 degrees Celsius and humidity above 70 percent for best results.
-- Integrate Beauveria into a broader [[integrated-pest-management-ipm|integrated pest management]] program for maximum effectiveness.
+- Integrate Beauveria into a broader [[integrated-pest-management|integrated pest management]] program for maximum effectiveness.
 - Avoid applying fungicides at the same time, as they can kill the Beauveria spores.
 - Wear protective equipment during application, especially if you have allergies or immune sensitivity.
 ## Related Questions
-

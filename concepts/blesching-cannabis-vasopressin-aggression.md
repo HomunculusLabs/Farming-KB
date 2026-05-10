@@ -48,7 +48,7 @@ The social recognition function of vasopressin extends to pair-bonding behaviors
 
 ## Vasopressin and Oxytocin Interplay
 
-Both vasopressin and [[cannabis-health-endo-cannabinoid-system]] is directly involved in the production and release of vasopressin. The presence of CB1 receptors in both the hypothalamus and pituitary gland provides the anatomical basis for this modulation. This connection means that cannabinoids, whether endogenous (like [[tetrahydrocannabinol-thc]]), can influence vasopressin signaling.
+Both vasopressin and [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] is directly involved in the production and release of vasopressin. The presence of CB1 receptors in both the hypothalamus and pituitary gland provides the anatomical basis for this modulation. This connection means that cannabinoids, whether endogenous (like [[tetrahydrocannabinol-thc]]), can influence vasopressin signaling.
 
 The implication is that cannabis-based therapies could potentially help modulate aggression, improve social cognition, and support emotional intimacy through their effects on the endocannabinoid-vasopressin axis. This is particularly relevant for patients dealing with PTSD, anger management issues, or social isolation.
 
@@ -84,4 +84,4 @@ Blesching recommends several mindfulness-based approaches for modulating vasopre
 - Consider CB1-activating cannabinoids as a pharmacological adjunct to mind-body practices
 - Pair vasopressin-focused work with oxytocin-enhancing practices, since both hormones are produced and utilized to achieve similar social-bonding outcomes
 
-The relationship between vasopressin and the [[cannabis-health-endo-cannabinoid-system]] through CB1 receptors in the hypothalamus and pituitary opens therapeutic possibilities for conditions involving anger, PTSD-related intimacy difficulties, and social recognition deficits. The interplay between vasopressin and [[blesching-cannabis-oxytocin-endocannabinoid-system]] in regulating social and emotional behavior highlights the importance of balanced neurochemical signaling for mental health and interpersonal functioning.
+The relationship between vasopressin and the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] through CB1 receptors in the hypothalamus and pituitary opens therapeutic possibilities for conditions involving anger, PTSD-related intimacy difficulties, and social recognition deficits. The interplay between vasopressin and [[blesching-cannabis-oxytocin-endocannabinoid-system]] in regulating social and emotional behavior highlights the importance of balanced neurochemical signaling for mental health and interpersonal functioning.

@@ -142,7 +142,6 @@ Stamets frames supplementation strategy in terms of biological efficiency — a
 metric expressing the weight of fresh mushrooms harvested as a percentage of the
 dry substrate weight. Unsuolemented substrates may achieve biological
 efficiencies of 30–60%, while well-supplemented substrates can reach 100–200%
-or higher. This concept of substrate potential — the maximum biological
 ## See Also
   - [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
 

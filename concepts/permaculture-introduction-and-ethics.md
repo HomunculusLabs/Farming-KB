@@ -19,13 +19,13 @@ sources:
 
 Permaculture (permanent agriculture) is the conscious design and maintenance of agriculturally productive ecosystems which have the diversity, stability, and resilience of natural ecosystems. It is the harmonious integration of landscape and people providing their food, energy, shelter, and other material and non-material needs in a sustainable way. Without permanent agriculture there is no possibility of a stable social order.
 
-[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] is a system of assembling conceptual, material, and strategic components in a pattern which functions to benefit life in all its forms.
+Permaculture design is a system of assembling conceptual, material, and strategic components in a pattern which functions to benefit life in all its forms.
 
 ## Philosophy
 
 The philosophy behind permaculture is one of working with, rather than against, nature; of protracted and thoughtful observation rather than protracted and thoughtless action; of looking at systems in all their functions, rather than asking only one yield of them; and of allowing systems to demonstrate their own evolutions.
 
-The book is about designing sustainable human settlements and extending natural systems. It covers aspects of designing and maintaining a cultivated ecology in any climate: the principles of design; [[mollison-designers-design-methods-analysis]]; understanding [[mollison-spiral-patterns-in-nature-and-design]]; climatic factors; water; soils; earthworks; techniques and strategies in different climatic types; aquaculture; and the social, legal, and economic design of human settlement.
+The book is about designing sustainable human settlements and extending natural systems. It covers aspects of designing and maintaining a cultivated ecology in any climate: the principles of design; design methods; understanding patterns in nature; climatic factors; water; soils; earthworks; techniques and strategies in different climatic types; aquaculture; and the social, legal, and economic design of human settlement.
 
 It calls into question not only current methods of agriculture but the very need for formal food agriculture if wastelands and excessive lawn culture within towns and cities are devoted to food production and small livestock suited to local needs.
 
@@ -63,25 +63,7 @@ Permaculture seeks first to stabilise and care for land, then to serve household
 ## Related Concepts
 
 - [[permaculture-design]] -- Design methods and processes
-- [[permaculture-principles]] -- [[holmgren-permaculture-twelve-design-principles-framework]] derived from the ethics
-- [[permaculture-patterns-in-nature]] -- [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] as a design tool
-- [[zone-sector-analysis-guide]] -- Spatial organisation of design
+- [[permaculture-principles]] -- Design principles derived from the ethics
+- [[permaculture-patterns-in-nature]] -- Pattern understanding as a design tool
+- [[permaculture-zone-and-sector-analysis]] -- Spatial organisation of design
 - [[permaculture-currency-and-economics]]
-## Practical Considerations
-
-Successful implementation of Permaculture Introduction and Ethics requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

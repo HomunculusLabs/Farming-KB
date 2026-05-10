@@ -129,7 +129,6 @@ preventing premature top growth. Exact timing varies by zone: late
 September to early October in zones 3 to 4, mid-October to early November
 in zones 5 to 6, and November to December in zones 7 to 8.
 
-Break heads into individual cloves just before planting. Plant only the
 ## See Also
 
 - [[garlic-growing-guide]]

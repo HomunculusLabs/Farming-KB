@@ -26,7 +26,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Wang, H. et al. (2014). "Raphanus sativus L.: phytochemical and pharmacological profile." Journal of Ethnopharmacology, 153(2), 261–273.
-  - Björkman, T. et al. (2008). "Integrating winter annual cover crops into [[dry-gardening-unirrigated-vegetable-production-solomon]] systems." Renewable Agriculture and Food Systems, 23(4), 284–293.
+  - Björkman, T. et al. (2008). "Integrating winter annual cover crops into dry-gardening-unirrigated-vegetable-production-solomon systems." Renewable Agriculture and Food Systems, 23(4), 284–293.
   - Weil, R. & Kremen, A. (2007). "Thinking across and beyond the no-till and organic paradigms." Journal of Sustainable Agriculture, 30(1), 53–65.
   - Duke, J.A. (2011). "Handbook of Alternative Cash Crops." CRC Press.
 created: 2026-05-07

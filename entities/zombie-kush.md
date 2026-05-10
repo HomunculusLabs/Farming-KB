@@ -12,9 +12,9 @@ tags:
   - relaxation
 sources:
   - Barney's Farm Seed Bank (2020). "Zombie Kush Strain Profile." Official catalog.
-  - Leafly Staff (2022). "Zombie Kush [[blesching-cannabis-strain-selection-receptor-targeting]] Information." Leafly.com.
+  - Leafly Staff (2022). "Zombie Kush blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
   - AllBud (2023). "Zombie Kush Marijuana Strain." AllBud.com.
-  - Seedsman (2021). "Zombie Kush — Genetic Background and [[comparison-bean-growing-guide-vs-pepper-growing-guide]]."
+  - Seedsman (2021). "Zombie Kush — Genetic Background and comparison-bean-growing-guide-vs-pepper-growing-guide."
 ---
 
 ## Overview
@@ -138,7 +138,7 @@ Zombie Kush has several recognized medical applications:
 ## See Also
 
 - [[jack-herer]]
-- [[cannabis-northern-lights]]
-- [[acdc-cannabis-strain]]
+- [[northern-lights]]
+- [[acdc]]
 - [[granddaddy-purple]]
 - [[beta-caryophyllene]]

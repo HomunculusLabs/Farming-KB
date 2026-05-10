@@ -5,7 +5,6 @@ updated: 2026-04-13
 type: concept
 tags: [soil, agriculture]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Soil Food Web Management for Farmers

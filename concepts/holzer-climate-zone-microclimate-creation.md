@@ -3,7 +3,6 @@ title: Holzer Climate Zone Adaptation and mollison-designers-microclimate-creati
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: concept
 tags: [climate, holzer, microclimate, site-design]

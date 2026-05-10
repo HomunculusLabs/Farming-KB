@@ -119,15 +119,7 @@ opening, the casing soil should be used immediately to minimize
 contamination exposure.
 
 ## See Also
-
-- [Casing Soil Sterilization Debate](casing-soil-sterilization-versus-pasteurization-debate.md)
-- [Casing [[casing-soil-mushroom-cultivation]](casing-soil-mushroom-cultivation.md)
-- [Mushroom [[mushroom-casing-moisture-management]](mushroom-casing-moisture-management.md)
-- [Grass Seed Cultivation [[grass-seed-cultivation-of-psilocybe-mushrooms]](grass-seed-cultivation-of-psilocybe-mushrooms.md)
-
-## See Also
-
+- [[casing-soil-peat-vermiculite-marl-sterilized-recipe-preparation]]
 - [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-contamination-troubleshooting]]
-- mushroom substrates grain spawn bulk
 - [[mushroom-fruiting-body-morphogenesis]]

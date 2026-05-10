@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Ahti T. (2000). "Cladoniaceae." Flora Neotropica Monograph 78.
   - Purvis OW, Coppins BJ, Hawksworth DL, et al. (1992). The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. New Haven: Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). Lichens of psilocybin-north-america-pacific-northwest. New Haven: Yale University Press.
   - Nimis PL, Martellos S (2017). ITALIC – The Information System on Italian Lichens. University of Trieste.
 ---
 

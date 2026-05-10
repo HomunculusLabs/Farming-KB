@@ -1,22 +1,21 @@
 ---
-title: comparison-aquaculture-in-permaculture-vs-backyard-pond-building Building
+title: Backyard Pond Building
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [water, construction, wildlife, permaculture, homesteading, plant-systems, design, earthworks]
-sources:
-  sources: []
+sources: []
 ---
 
 # Backyard Pond Building
 
-A backyard pond serves multiple functions on a homestead: wildlife habitat, irrigation water storage, aesthetic enjoyment, aquaculture, and fire suppression. Building a successful pond requires careful planning around [[fukuoka-creating-natural-farm-site-selection-establishment]], design, liner installation, and ongoing maintenance.
+A backyard pond serves multiple functions on a homestead: wildlife habitat, irrigation water storage, aesthetic enjoyment, aquaculture, and fire suppression. Building a successful pond requires careful planning around site selection, design, liner installation, and ongoing maintenance. (see [[water-garden-and-ponds]]).
 
 ## Site Selection
 
 Choose the pond location based on these factors:
 
--  **Sunlight** — 6+ hours of direct sun supports submerged plants and discourages algae when balanced with shade. Partial afternoon shade is ideal.
+-  **Sunlight** — 6+ hours of direct sun supports submerged plants and discourages algae when balanced with shade. Partial afternoon shade is ideal. (see [[natural-pool-building]]).
 -  **View from home** — Place the pond where you can see and enjoy it daily, which also aids monitoring.
 -  **Existing trees** — Avoid locating directly under deciduous trees. Falling leaves decompose and create nutrient overload, causing algae blooms. Root systems can damage liners.
 -  **Slope** — A gentle slope is easiest to work with. Avoid low spots that receive concentrated runoff (nutrient and sediment loading).
@@ -100,7 +99,7 @@ Natural biological filtration is preferred for backyard ponds:
 
 ### Floating Plants
 
-- Water hyacinth (Eichhornia crassipes) — excellent [[plant-nutrient-uptake-mechanisms]] but invasive; contain in ponds that freeze overwinter
+- Water hyacinth (Eichhornia crassipes) — excellent nutrient uptake but invasive; contain in ponds that freeze overwinter
 - Water lettuce (Pistia stratiotes) — good shade plant, also invasive in warm climates
 - Duckweed (Lemna spp.) — tiny floating plant, excellent nutrient scrubber, provides fish food
 
@@ -109,7 +108,7 @@ Natural biological filtration is preferred for backyard ponds:
 - Blue flag iris (Iris versicolor)
 - Pickerelweed (Pontederia cordata)
 - Cattails (Typha spp.) — vigorous spreader, contain with root barriers
-- Sweet flag ([[sweet-flag-acorus-calamus-ethnobotany]])
+- Sweet flag (Acorus calamus)
 - Water mint (Mentha aquatica)
 
 ### Water Lilies
@@ -118,7 +117,7 @@ The crown jewel of most ponds. Hardy water lilies survive winter in zones 3-11. 
 
 ## Fish
 
-For a balanced [[jeavons-backyard-ecosystem-insect-life]]:
+For a balanced backyard ecosystem:
 
 -  **Goldfish** — Hardy, colorful, tolerate temperature swings. Start with 2-3 per square meter of surface area.
 -  **Koi** — Larger, more expensive, require deeper water (90+ cm) and better filtration. 1 per 2-3 square meters.
@@ -129,7 +128,7 @@ Do not overstock. Rule of thumb: 2.5 cm of fish length per 100 liters of water.
 
 ## Wildlife Attraction
 
-A well-designed pond attracts frogs, dragonflies, birds, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]:
+A well-designed pond attracts frogs, dragonflies, birds, and beneficial insects:
 
 - Include a shallow beach area (gradual slope to 2-3 cm depth) for amphibians and birds to access water safely
 - Add rocks and logs for basking and hiding spots
@@ -142,9 +141,10 @@ A well-designed pond attracts frogs, dragonflies, birds, and [[comparison-benefi
 In cold climates, ponds need winter preparation:
 
 -  **Keep a hole open** in ice for gas exchange. Use a floating de-icer or air pump bubbler. Never break ice by hitting it — the shock can harm fish.
-## See Also
-- [[comparison-aquaculture-in-permaculture-vs-backyard-pond-building]]
-- [[hemenway-insectary-plants-and-beneficial-insects]]
-- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
-- [[query-how-to-set-up-a-backyard-pond-for-wildlife]]
-- [[query-how-to-set-up-a-backyard-pond]]
+-  **Stop feeding fish** when water temperature drops below 10 C (50 F). Their metabolism slows and they cannot digest food.
+-  **Trim dead vegetation** in fall to prevent decomposition in the pond over winter.
+-  **Deep ponds** (90+ cm) in most temperate climates allow fish to overwinter without additional heating. The bottom stays at 4 C even when surface freezes.
+-  **Tropical plants** must be brought indoors or treated as annuals.
+
+## Integration with Homestead Systems
+

@@ -12,7 +12,7 @@ sources:
   - Mabberley, D.J. (1997). "A classification for edible Citrus (Rutaceae)." Telopea, 7(2), 167–172.
   - Mahmood, A.A. et al. (2009). "Antiulcerogenic activity of Citrus aurantifolia." Journal of Ethnopharmacology, 126(1), 46–50.
   - Bocco, A. et al. (1998). "Antioxidant activity and phenolic compounds of Citrus aurantifolia." Journal of Agricultural and Food Chemistry, 46(6), 2123–2129.
-  - Saunt, J. (2000). [[query-best-citrus-varieties-for-different-climates]] of the World. Sinclair International.
+  - Saunt, J. (2000). query-best-citrus-varieties-for-different-climates of the World. Sinclair International.
 ---
 
 ## Overview
@@ -106,6 +106,8 @@ Lime leaves, flowers, and zest are used in marmalades, pickles, chutneys, and be
 Key lime is preferred by chefs over Persian lime for its superior aromatic complexity. However, its shorter [[psilocybin-shelf-life-stability]] and thinner skin make it less suitable for long-distance commercial distribution.
 
 ## See Also
+
+- [[citrus-bergamia]]
 
 - [[citrus-limon]]
 - [[pimenta-dioica]]

@@ -20,8 +20,8 @@ sources:
   - "Sensi Seeds (1985). Northern Lights — strain history and breeding program. Amsterdam."
   - "Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press."
   - "ElSohly, M.A., et al. (2016). Changes in cannabis potency over the last two decades. Biological Psychiatry, 79(7), 613-619."
-  - "Mudge, E.M., et al. (2018). [[cannabis-sativa]] L. cultivar nomenclature. Journal of AOAC International, 101(5), 1436-1442."
-  - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug [[soil-testing-and-analysis]], 4(7-8), 660-667."
+  - "Mudge, E.M., et al. (2018). cannabis-sativa L. cultivar nomenclature. Journal of AOAC International, 101(5), 1436-1442."
+  - "Hazekamp, A. & Fischedick, J.T. (2012). Cannabis — from cultivar to chemovar. Drug soil-testing-and-analysis, 4(7-8), 660-667."
   - "Lewis, M.A., et al. (2018). Parsing cannabis's complex chemotaxonomy. American Journal of Botany, 105(9), 1-10."
   - "https://www.leafly.com/strains/northern-lights"
 ---
@@ -127,5 +127,5 @@ Northern Lights is arguably the **single most influential strain** in modern can
 ## See Also
 
 - [[jack-herer-cannabis-strain]] — Northern Lights #5 offspring, sativa-dominant legend
-- [[blue-dream-strain]] — Blueberry × NL cross, one of the most popular modern hybrids
+- [[blue-dream]] — Blueberry × NL cross, one of the most popular modern hybrids
 - [[granddaddy-purple]] — Purple indica for contrasting color and terpene profile

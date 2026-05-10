@@ -140,7 +140,6 @@ Black locust deserves special mention as one of the most useful nitrogen-fixing 
 ## Nitrogen Budgets: How Much Do Legumes Actually Fix?
 
 Quantifying the nitrogen contribution of legumes requires understanding the nitrogen budget of the plant-soil system. Not all nitrogen fixed by a legume ends up as a net gain for the soil. A portion is harvested and removed in grain or forage, a portion is retained in the root system and nodules, and a portion is returned to the soil in crop residues. The nitrogen harvest index — the proportion of total plant nitrogen contained in the harvested portion — varies enormously among legume species and management practices.
-
 ## See Also
 
 - [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests]]

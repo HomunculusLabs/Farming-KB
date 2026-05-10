@@ -5,7 +5,6 @@ updated: 2026-04-16
 type: concept
 tags: [cannabis, cultivation]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Cannabis for Stroke Recovery

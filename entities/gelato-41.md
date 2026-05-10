@@ -14,7 +14,7 @@ sources:
   - Leafly Staff (2024). "Gelato #41 Strain Information." Leafly.com.
   - AllBud (2024). "Gelato 41 Marijuana Strain." AllBud.com.
   - Cookies SF (2023). "Strain Library: Gelato Lineage." Cookies.com.
-  - Smart B, et al. (2022). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of popular Gelato phenotypes." Journal of Cannabis Research 4(1): 32.
+  - Smart B, et al. (2022). "Cannabinoid and cannabis-terpene-profiles-sativa of popular Gelato phenotypes." Journal of Cannabis Research 4(1): 32.
   - Clarke RC, Merlin MD (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
 ---
 
@@ -117,4 +117,4 @@ Some patients report appetite stimulation benefits, making Gelato 41 potentially
 - [[girl-scout-cookies]]
 - [[larry-og]]
 - [[ice-cream-cake-cannabis]]
-- [[jealousy]]
+- [[jealousy-cannabis-strain-entity]]

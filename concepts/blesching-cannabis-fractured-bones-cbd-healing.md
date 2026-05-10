@@ -126,7 +126,9 @@ Blesching connects fractures to accumulated psychological pressure — built-up 
 
 **Total CHI Value: 9**
 
-## Related Concepts
+## Related
+
+- [[cbd-faah-inhibition-anandamide-preservation-blesching]] Concepts
 
 - [[blesching-cannabis-osteoporosis]] — Cannabis for bone density maintenance
 - [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] — Receptor pharmacology

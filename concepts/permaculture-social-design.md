@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, design, community, economics, activism, law, ethics, principles]
-sources:
-  sources: []
+sources: []
 ---
 
 # Permaculture Social Design
 
-Permaculture social design extends [[williams-pdc-ecological-design-principles]] principles to human social structures — governance, economics, legal frameworks, and [[savory-community-organization-and-shared-grazing]]. The three ethics of earth care, people care, and fair share require not just ecological systems thinking but also social systems thinking. A permaculture farm with an exploitative labor practice, unjust land tenure, or extractive economic model fails the core ethics.
+Permaculture social design extends ecological design principles to human social structures — governance, economics, legal frameworks, and community organization. The three ethics of earth care, people care, and fair share require not just ecological systems thinking but also social systems thinking. A permaculture farm with an exploitative labor practice, unjust land tenure, or extractive economic model fails the core ethics.
 
 ## Legal Structures
 
@@ -40,7 +39,7 @@ Choosing the right legal structure affects land access, liability, decision-maki
 - Member-owned and democratically governed
 - Each member has one vote regardless of capital contribution
 - Profits distributed based on use or labor, not investment
-- Aligns closely with [[williams-pdc-permaculture-ethics-and-holmgrens-principles]] of fair share and people care
+- Aligns closely with permaculture ethics of fair share and people care
 - Types: producer co-ops, consumer co-ops, worker co-ops, housing co-ops
 
 **Nonprofit Organization**
@@ -88,7 +87,7 @@ Permaculture communities need governance systems that are participatory, adaptiv
 - Modified consensus models allow blocking only for principled objections
 
 ### Participatory Design
-- All stakeholders involved in the [[hemenway-garden-design-process-observation-and-visioning]] from the beginning
+- All stakeholders involved in the design process from the beginning
 - Shared visioning and co-creation of plans
 - Reduces resistance and increases buy-in
 - Particularly important for [[permaculture-community-resilience]] projects with diverse stakeholders
@@ -142,9 +141,10 @@ Cooperatives are enterprises owned and democratically controlled by their member
 3. Member economic participation
 4. Autonomy and independence
 5. Education, training, and information
-## See Also
+6. Cooperation among cooperatives
+7. Concern for community
 
-- [[permaculture-ethics-and-principles]] — the ethical foundation for social design
-- [[permaculture-community-resilience]] — building resilient communities
-- [[permaculture-seed-saving-networks]] — gift economy and cooperative seed systems
-- [[permaculture-urban-design]] — social structures for [[pdc-urban-permaculture-design-principles]]
+### Starting a Permaculture Cooperative
+1. Assemble a core group with shared values and vision
+2. Develop a clear purpose and business plan
+3. Choose a legal structure (cooperative corporation under state law)

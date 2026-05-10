@@ -31,7 +31,7 @@ A well-designed homestead integrates housing, animal systems, gardens, water, en
 ### 1. Water System
 - **Rainwater catchment**: Tanks or barrels at every downspout. See [[water-management]] for sizing
 - **Well or spring**: Backup water source for irrigation and animals
-- **Greywater system**: Route sink/shower/laundry water to garden irrigation or [[comparison-constructed-wetland-vs-backyard-pond]]
+- **Greywater system**: Route sink/shower/laundry water to garden irrigation or constructed wetland
 - **Pond**: Multi-purpose water storage, irrigation, microclimate moderation, aquaculture, wildlife habitat
 - **Irrigation**: Gravity-fed drip lines from tanks, or simple hose bibs near garden zones
 
@@ -46,7 +46,7 @@ A well-designed homestead integrates housing, animal systems, gardens, water, en
 
 **Goat housing**:
 - Three-sided shelter minimum; enclosed barn in cold climates
-- Fenced pasture with [[comparison-rotational-grazing-vs-continuous-grazing]] system (move every 1-4 weeks)
+- Fenced pasture with rotational grazing system (move every 1-4 weeks)
 - Hay feeder and mineral station
 - Milking stanchion if keeping dairy goats
 - Strong fencing (goats are escape artists) -- woven wire + electric offset
@@ -54,7 +54,7 @@ A well-designed homestead integrates housing, animal systems, gardens, water, en
 
 **Chicken housing**:
 - Coop with roosts, nesting boxes, ventilation
-- Secure run or [[comparison-chicken-tractor-vs-free-range]] for garden integration
+- Secure run or chicken tractor for garden integration
 - Automatic waterer and feeder
 - Predator protection (buried wire, hardware cloth, covered run)
 
@@ -62,7 +62,7 @@ A well-designed homestead integrates housing, animal systems, gardens, water, en
 - **Raised beds**: Sepp Holzer style -- 3-5 feet wide, steep sides (45-70 degrees), 3-5 feet tall. See [[sepp-holzer-methods]]
 - **Composting area**: Minimum 3-bin system (fresh, active, finished). Close to kitchen and garden
 - **Tool storage**: Near garden for convenience
-- **Greenhouse/cold frame**: [[cervantes-season-extension-cloches-row-covers]], seed starting
+- **Greenhouse/cold frame**: Season extension, seed starting
 - **Fencing**: Deer fence around main garden areas; smaller fences for animal exclusion
 - **Mulch storage**: Keep straw, leaves, woodchips on hand
 - **Potting area**: For seed starting and transplanting
@@ -77,14 +77,14 @@ A well-designed homestead integrates housing, animal systems, gardens, water, en
 
 ### 5. Food Processing and Storage
 - **Root cellar or cool storage**: For potatoes, carrots, onions, winter squash, apples
-- **Canning/preserving station**: Kitchen area with [[pf-tek-pressure-canner-sterilization]], water bath, dehydrator
+- **Canning/preserving station**: Kitchen area with pressure canner, water bath, dehydrator
 - **Fermentation area**: Cool space for sauerkraut, kimchi, kombucha
 - **Freezer**: For meat, frozen vegetables, fruit
 - **Drying racks**: For herbs, fruits, jerky
 - **Smokehouse**: Optional for meat and fish
 
 ### 6. Energy Systems
-- **[[comparison-passive-solar-vs-earth-sheltered]] design**: South-facing windows, thermal mass, deciduous trees for summer shade
+- **Passive solar design**: South-facing windows, thermal mass, deciduous trees for summer shade
 - **Wood heating**: If available, woodlot in Zone 4 for firewood
 - **Solar panels**: Even a small array reduces grid dependence
 - **Solar water heater**: Simple batch heater or thermosyphon system
@@ -140,10 +140,11 @@ Zone 5: Wildlife area, observation, reference ecosystem
 3. Animal housing and fencing
 4. Garden beds and [[no-till-gardening-method]] setup
 5. [[food-forest-design]] planting
+6. Food preservation infrastructure
+7. Energy systems (as budget allows)
+
 ## Related Pages
 - [[permaculture-design]]
 - [[water-management]]
 - [[sepp-holzer-methods]]
 - [[food-forest-design]]
-- [[cover-cropping-guide]]
-- [[homestead-energy-conservation]]

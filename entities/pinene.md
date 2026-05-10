@@ -46,7 +46,7 @@ Pinene demonstrates significant anti-inflammatory effects through COX-1 and COX-
 
 ### Antimicrobial Activity
 
-Pinene exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria including *Staphylococcus aureus* and *Streptococcus pneumoniae*, fungi including *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[cannabis-health-endo-cannabinoid-system]].
+Pinene exhibits broad-spectrum antimicrobial activity against Gram-positive bacteria including *Staphylococcus aureus* and *Streptococcus pneumoniae*, fungi including *[[bloomfield-candida-albicans-yeast-hyphal-dimorphism]]* and *[[endocannabinoid-neurogenesis-neuroplasticity-blesching]].
 
 ### Anticancer Properties
 

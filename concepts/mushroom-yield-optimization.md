@@ -1,5 +1,5 @@
 ---
-title: brassinosteroid-mushroom-yield-dry-mass Optimization
+title: Mushroom Yield Optimization
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Yield optimization in [[accessible-mushroom-cultivation-for-disabilities]] is the practice of maximizing the dry weight of harvested mushrooms per unit of substrate and effort. While individual grows vary, systematic attention to genetics, [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]], environmental conditions, and harvesting technique can consistently produce above-average results. This page covers the key factors that influence yield and practical strategies for improvement.
+Yield optimization in mushroom cultivation is the practice of maximizing the dry weight of harvested mushrooms per unit of substrate and effort. While individual grows vary, systematic attention to genetics, substrate preparation, environmental conditions, and harvesting technique can consistently produce above-average results. This page covers the key factors that influence yield and practical strategies for improvement.
 
 ## Understanding Biological Efficiency
 
@@ -17,7 +17,7 @@ Biological efficiency (BE) is the standard metric for mushroom cultivation yield
 
 BE = (dry weight of mushrooms / dry weight of substrate) x 100
 
-For [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]:
+For Psilocybe cubensis:
 - Average BE: 75-100%
 - Good BE: 100-150%
 - Excellent BE: 150-200%+
@@ -71,8 +71,8 @@ The only way to confirm yield potential is to fruit the isolate. Maintain a mast
 Adding 5-10% nitrogen-rich supplements can increase yield by 20-50%:
 
 - **Wheat bran**: Most popular supplement. Add 5-10% by volume. Requires proper pasteurization.
-- **[[oyster-mushroom-coffee-grounds-cultivation]]**: 5-10% by volume. Can be added to bucket tek.
-- **Soy hulls**: Excellent supplement, especially for [[query-how-to-grow-oyster-mushrooms-at-home]]. Less commonly used for cubensis.
+- **Coffee grounds**: 5-10% by volume. Can be added to bucket tek.
+- **Soy hulls**: Excellent supplement, especially for oyster mushrooms. Less commonly used for cubensis.
 - **Blood meal**: 2-5% by volume. Very high nitrogen.
 
 Critical: Supplemented substrates MUST be properly pasteurized (140-170F for 60-120 minutes). The bucket tek is insufficient for supplemented substrates because the added nutrition is highly susceptible to contamination.
@@ -141,9 +141,10 @@ Most monotub setups produce 2-3 productive flushes. After the third flush, yield
 
 ## Harvesting Technique
 
-## Related Topics
+- Harvest at the right time: just before or just after the veil tears.
+- Twist at the base rather than cutting. Cutting leaves a stump that can rot and attract contamination.
+- Harvest all mushrooms, including aborts (small mushrooms that stopped growing).
+- Dry immediately after harvest — see [[mushroom-harvesting-techniques]].
 
-- [[monotub-cultivation]] — the monotub setup for implementing yield strategies
-- [[bulk-substrate-preparation]] — substrate preparation for optimal yields
-- [[mushroom-harvesting-techniques]] — proper harvesting to maximize usable yield
-- [[mushroom-strain-selection]] — genetic factors in yield potential
+## Misting and Fanning Protocol
+

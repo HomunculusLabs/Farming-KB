@@ -135,12 +135,7 @@ accessibility for first-time cultivators while ensuring adequate
 sterility.
 
 ## See Also
-
 - [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]]
-
 - [[pf-tek-contaminant-source-identification]]
 - [[pf-tek-spore-printing-and-syringe-preparation]]
-
-## See Also
-
 - [[inoculation-technique-and-alcohol-flaming]]

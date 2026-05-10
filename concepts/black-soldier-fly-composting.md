@@ -1,5 +1,5 @@
 ---
-title: comparison-black-soldier-fly-composting-vs-bokashi Fly Composting
+title: Black Soldier Fly Composting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,16 +9,16 @@ sources: []
 
 # Black Soldier Fly Composting
 
-Black soldier fly (Hermetia illucens) composting is a bioconversion method that uses larvae to rapidly break down organic waste into protein-rich animal feed and frass fertilizer. Adult BSF do not bite, sting, or transmit disease, making them safe for homestead-scale operations.
+Black soldier fly (Hermetia illucens) composting is a bioconversion method that uses larvae to rapidly break down organic waste into protein-rich animal feed and frass fertilizer. Adult BSF do not bite, sting, or transmit disease, making them safe for homestead-scale operations. (see [[comparison-black-soldier-fly-vs-vermicomposting]]).
 
 ## Lifecycle Overview
 
 The BSF lifecycle has four stages:
 
-1.  **Egg** — Females lay 500-900 eggs near decaying [[hamilton-composting-and-organic-matter-management]]. Eggs hatch in 3-4 days.
-2.  **Larva** — The active feeding stage lasts 14-21 days. Larvae grow from 1 mm to 25 mm and pass through 6 instars. This is the composting workhorse stage.
+1.  **Egg** — Females lay 500-900 eggs near decaying organic matter. Eggs hatch in 3-4 days. (see [[vermicompost-production-systems-quality-standards]]).
+2.  **Larva** — The active feeding stage lasts 14-21 days. Larvae grow from 1 mm to 25 mm and pass through 6 instars. This is the composting workhorse stage. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
 3.  **Prepupa** — Larvae stop feeding, turn dark, and seek dry pupation sites. They migrate out of the compost on their own, enabling self-harvesting.
-4.  **Adult** — Adults live 5-8 days, do not feed, and focus solely on mating and egg-laying. They are drawn to composting bins by [[fungal-volatile-organic-compounds-communication]] compound cues.
+4.  **Adult** — Adults live 5-8 days, do not feed, and focus solely on mating and egg-laying. They are drawn to composting bins by volatile organic compound cues.
 
 ## Bin Design
 
@@ -37,10 +37,10 @@ Commercial options like the BioPod simplify this design but are not required. A 
 BSF larvae accept an extremely wide range of inputs:
 
 - Kitchen scraps (fruit, vegetable, bread, dairy, meat)
-- Brewery and [[fungal-distillery-waste-treatment]]
+- Brewery and distillery waste
 - Manure (poultry, swine, cattle — avoid if medicated)
 - Restaurant food waste
-- [[oyster-mushroom-coffee-grounds-cultivation]] and filters
+- Coffee grounds and filters
 
 Feed at a rate the colony can process. A mature colony can consume 1-2 kg of waste per day per square meter of bin surface area. Do not overfeed — excess food will sour and attract pests. Bury fresh food under a thin layer of existing compost to reduce odor and fruit fly attraction.
 
@@ -91,8 +91,4 @@ The residue left after larval digestion is called frass. It is a dark, odorless 
 
 BSF composting closes nutrient loops on the homestead. Food waste becomes protein for [[chickshaw-and-poultry-tractors|poultry]] and fish, and frass returns nutrients to garden beds. The system requires minimal labor once established and produces no foul odor when properly managed.
 
-The leachate can be applied to gardens as a [[jadam-liquid-fertilizer-nutritional-perspective]] (dilute 1:10 with water), though it should be used with caution on edible crops due to potential pathogen load from meat and dairy inputs.
-
-## See Also
-
-- [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
+The leachate can be applied to gardens as a liquid fertilizer (dilute 1:10 with water), though it should be used with caution on edible crops due to potential pathogen load from meat and dairy inputs.

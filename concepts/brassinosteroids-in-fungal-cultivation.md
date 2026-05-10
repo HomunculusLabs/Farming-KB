@@ -110,7 +110,7 @@ practical cultivation protocols.
 
 ## See Also
 
-- [[22S,23S-Homobrassinolide]]
+- [[22s-23s-homobrassinolide]]
 - [[psilocybe-cubensis-mycelial-growth-optimization]]
 
 ## References

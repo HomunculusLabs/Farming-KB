@@ -140,7 +140,5 @@ resulting in a rupture that is both destructive and revelatory.
 
 ## See Also
 - [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]
-## See Also
 - [[heraclitus-fragment-24-aeon-child-play-dmt-experience]]
 - [[query-what-is-cation-exchange-capacity-and-why-does-it-matter]]
-- mckenna-language-self-replicating-information-dna-parallels

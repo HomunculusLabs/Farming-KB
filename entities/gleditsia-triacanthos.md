@@ -81,6 +81,8 @@ of 50-60 t/ha/yr in mature groves rivals grain crops, making it a
 compelling candidate for tree-based fodder systems.
 
 ## See Also
+
+- [[gleditsia-aquatica]]
 - [[acacia]]
 - [[lepista-nuda-entity-the-mushroom-cultivator]]
 - [[pseudomonas-putida-entity-the-mushroom-cultivator]]

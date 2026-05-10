@@ -93,16 +93,9 @@ lime content of your soil is very simple and can be done at home using a
 pH test kit. Most vegetables thrive in a pH of about 6.5.
 
 ## See Also
-
 - [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-
-- [[mollison-designers-composting-toilets-and-humanure]] for improving soil organic matter
-- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]] for the philosophy behind soil care
+- [[mollison-designers-composting-toilets-and-humanure]]
+- [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]
 - [[composting]]
-
-## See Also
-
-- [[hamilton-geoffhamilton-nick-organic-gardening-greenhouse-gardening]]
-
 - [[hamilton-geoffhamilton-nick-organic-gardening-propagation-techniques]]
 - [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]]

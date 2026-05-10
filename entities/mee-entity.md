@@ -33,7 +33,7 @@ MEE is one of several dimethoxyethoxyamphetamines explored in PIHKAL.
 
 [[dom]]
 
-[[doc-entity]]
+[[doc]]
 
 [[2c-t-entity]]
 

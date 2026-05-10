@@ -136,13 +136,8 @@ Slugs and small mammals consume the fruiting bodies and may contribute
 to [[aquatic-fungi-spore-dispersal-ingold]].
 
 ## See Also
-
-- [[boletus-edulis-entity]] — Prized edible bolete for comparison of culinary quality
-- [[lactarius-deliciosus]] — Another ectomycorrhizal edible with latex
-
-## See Also
-
-- edible-wild-mushroom-guide
+- [[boletus-edulis-entity]]
+- [[lactarius-deliciosus]]
 - [[suillus-luteus]]
 - [[ectomycorrhiza]]
 - [[mycorrhizal-inoculation]]

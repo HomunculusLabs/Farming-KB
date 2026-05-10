@@ -136,13 +136,9 @@ The essential oil of *T. lucida* is complex and varies by chemotype and growing 
 6. **Living fence/hedge**: Can be planted as a low hedge that doubles as a pest barrier
 
 ### Soil Improvement
-## See Also
 
+## See Also
 - [[artemisia-dracunculus]]
 - [[food-forest]]
-
-## See Also
-
-- permaculture-companion-planting
 - [[root-exudates]]
 - [[tagetes-minuta]]

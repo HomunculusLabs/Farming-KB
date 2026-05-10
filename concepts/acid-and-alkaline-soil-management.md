@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Before deciding on a soil-feeding regime, you must discover whether your soil is acid or alkaline. This affects both cultivation technique and plant selection. Acidity/alkalinity is determined by lime content, measured using a pH test on a scale of 1-14 (neutral = 7; above = alkaline; below = acid).
+Before deciding on a soil-feeding regime, you must discover whether your soil is acid or alkaline. This affects both cultivation technique and plant selection. Acidity/alkalinity is determined by lime content, measured using a pH test on a scale of 1-14 (neutral = 7; above = alkaline; below = acid). (see [[hamilton-liming-and-ph-management]]).
 
 ## Testing Soil pH
 
@@ -23,13 +23,13 @@ Before deciding on a soil-feeding regime, you must discover whether your soil is
 
 ## Raising Soil pH (Making Acid Soil More Alkaline)
 
-This is done by adding lime. The effect is slow — do not expect dramatic changes overnight.
+This is done by adding lime. The effect is slow — do not expect dramatic changes overnight. (see [[cannabis-nutrient-management]]).
 
 ### Types of Lime
 
 1. **Slaked lime (calcium oxide):** Most readily available; sometimes sold as "garden lime." Lasts longer than builder's lime.
-2. **[[cervantes-hydrated-lime-quicklime-ph-adjustment]] (builder's lime):** Works perfectly well but must be replaced at least annually.
-3. **Ground limestone ([[cervantes-dolomite-lime-ph-buffering]]):** Best type to use. More expensive but lasts several years in the soil and contains magnesium.
+2. **Hydrated lime (builder's lime):** Works perfectly well but must be replaced at least annually.
+3. **Ground limestone (Dolomite lime):** Best type to use. More expensive but lasts several years in the soil and contains magnesium.
 4. **Calcified seaweed:** Contains several plant foods as well as lime; lasts 2-3 years; reasonably priced. (Note: harvesting natural coral is now illegal; replaced by a similar seaweed-based material.)
 
 ### How Much Lime to Apply
@@ -60,37 +60,19 @@ This is more difficult than raising pH. Few garden soils are so limy they will n
 ### For Vegetable Gardens
 - Liberal doses of compost and manure will usually lower pH sufficiently
 - For very chalky soil: use the deep-bed system (see [[garden-bed-preparation]]) to raise the growing area, preventing surrounding alkaline water from draining in
-- Treat beds with heavy annual applications of [[hamilton-composting-and-organic-matter-management]] (manure/compost dug in) and regular mulches
+- Treat beds with heavy annual applications of organic matter (manure/compost dug in) and regular mulches
 
 ### For Ornamental Gardens
 - Raise borders above lawn/path level using organic matter
 - Use acid materials: peat, grass cuttings, compost, manure as mulch to counteract alkalinity
 
 ### For Acid-Loving Plants on Chalky Soil
-The only option is growing them in pots or building a [[comparison-chinampas-vs-raised-bed-gardening]] (ideally of railroad ties):
+The only option is growing them in pots or building a raised bed (ideally of railroad ties):
 - Fill with half acid soil + half peat-substitute, OR three parts peat-substitute to one part sharp sand
-- Plant as for shrubs; spread chipped [[fukuoka-pine-bark-weevil-ecology]] around the bed
+- Plant as for shrubs; spread chipped pine bark around the bed
 
 ## Related
 
 - [[trace-elements-in-soil]] — how excessive lime locks up trace elements
 - [[clubroot-disease-management]] — lime helps control clubroot
 - [[soil-conditioners-guide]] — organic materials that help modify soil pH
-## Practical Considerations
-
-Successful implementation of Acid and Alkaline Soil Management requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

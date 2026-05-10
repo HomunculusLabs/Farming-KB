@@ -30,7 +30,7 @@ The acute psychological effects of hallucinogenic mushrooms containing psilocybi
 - **Previous experiences** - familiarity with psychedelic states affects interpretation
 - **[[emcdda-hallucinogenic-mushroom-health-risks]]
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]]
-- [[emcdda-psilocybin-pharmacology-and-chemistry]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 ## Practical Applications
 
 Hallucinogenic Mushroom Acute Psychological Effects and Bad Trips has a range of practical applications that make it relevant to

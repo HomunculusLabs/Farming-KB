@@ -135,13 +135,9 @@ not like, which closes the landscape off to cattle. Some of those
 plants are poisonous to cattle, creating a self-regulating system.
 
 ## The Role of Feral Animals
-## See Also
 
-- permaculture-animal-integration-design
+## See Also
 - [[mollison-designers-pattern-understanding-in-design]]
-
-## See Also
-
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
 - [[permaculture-design]]
 - [[mollison-designers-domestic-animal-integration-design]]

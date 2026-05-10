@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
-  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
+  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
   - Stein, J.D. et al. (2003). "Quercus rubra." In: Fire Effects Information System. USDA Forest Service.
   - Abrams, M.D. (1992). "Fire and the development of oak forests." BioScience, 42(5), 346-353.
 ---

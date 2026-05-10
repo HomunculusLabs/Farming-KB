@@ -16,7 +16,7 @@ updated: 2026-04-28
 sources:
   - Ang, H.H. & Cheang, H.S. (2001). "Effects of Eurycoma longifolia Jack on laevator ani muscle." Archives of Pharmacal Research, 24(5), 437-440.
   - Talbott, S.M. et al. (2013). "Effect of Tongkat Ali extract on stress hormones and psychological mood state in moderately stressed subjects." Journal of the International Society of Sports Nutrition, 10(Suppl 1), P37.
-  - Ismail, S.B. et al. (2012). "Randomized [[psilocybin-clinical-trial-landscape-2020-2025]] on the use of PHYSTA Freeze-dried water extraction of Eurycoma longifolia for the improvement of quality of life and sexual well-being in men." Evidence-Based Complementary and Alternative Medicine, 2012, 429268.
+  - Ismail, S.B. et al. (2012). "Randomized psilocybin-clinical-trial-landscape-2020-2025 on the use of PHYSTA Freeze-dried water extraction of Eurycoma longifolia for the improvement of quality of life and sexual well-being in men." Evidence-Based Complementary and Alternative Medicine, 2012, 429268.
 aliases:
   - tongkat ali
   - longjack

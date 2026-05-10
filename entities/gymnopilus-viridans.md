@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin, mushroom, gymnopilus, cortinariaceae, entheogen]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources: []
+sources: []
 ---
 
 # Gymnopilus viridans

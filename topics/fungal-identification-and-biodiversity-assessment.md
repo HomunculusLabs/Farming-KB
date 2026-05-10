@@ -113,7 +113,6 @@ having diverged from a common ancestor approximately one billion years ago.
 
 ## The Kingdom Fungi: Modern Classification
 
-Modern fungal classification recognizes eight or more phyla, each representing a
 ## See Also
 
 - [[fungal-taxonomy]]

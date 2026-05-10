@@ -113,7 +113,6 @@ substrate.
 Bacillus species, commonly called "wet spot," are the most frequently
 encountered bacterial contaminant in grain spawn. Infected grain appears
 wet and slimy, sometimes with a dull sheen on the surface. The
-characteristic diagnostic feature is the smell: Bacillus produces a sharp,
 ## See Also
 
 - troubleshooting-mushroom-contamination

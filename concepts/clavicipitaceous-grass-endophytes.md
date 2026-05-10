@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 
 # Clavicipitaceous Grass Endophytes — Epichloe, Neotyphodium, and Balansia

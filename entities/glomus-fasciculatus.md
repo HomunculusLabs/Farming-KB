@@ -73,6 +73,26 @@ integrated soil management strategies that harness the
 beneficial functions of [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi in
 sustainable agriculture.
 
+## Host Range
+
+Glomus fasciculatus has a broad host range, forming arbuscular
+mycorrhizal associations with a wide diversity of plant species
+across many families, including maize, wheat, soybean, tomato,
+and legumes. This generalist strategy makes G. fasciculatus one
+of the more cosmopolitan AM fungal species and a common component
+of commercial mycorrhizal inoculant formulations.
+
+## Similar Species
+
+- **[[glomus-intraradices]]** (now *Rhizophagus irregularis*) — The most
+  widely studied AM fungus and dominant component of commercial
+  inoculants. Distinguished by a two-layered spore wall with an
+  inner mucilaginous layer.
+- **Glomus mosseae** — Common agricultural AM fungus with large spores
+  (100-300 µm) in sporocarps and a distinctive bulbous spore base.
+- **Gigaspora margarita** — Much larger spores (200-500 µm) with
+  layered wall structure. Does not form vesicles within roots.
+
 ## See Also
 
 - [[glomus-intraradices]]

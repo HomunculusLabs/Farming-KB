@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil, fungi, mycorrhizae, carbon-sequestration, soil-health, ecology, remediation, environment, carbon]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-Biochar and fungi form a powerful synergistic partnership for soil health, [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]], and environmental remediation. Biochar provides an ideal habitat for mycorrhizal fungi and beneficial soil microorganisms, while fungal networks extend the benefits of biochar deeper into soil profiles. This combination draws from ancient Amazonian agricultural practices and modern scientific research.
+Biochar and fungi form a powerful synergistic partnership for soil health, carbon sequestration, and environmental remediation. Biochar provides an ideal habitat for mycorrhizal fungi and beneficial soil microorganisms, while fungal networks extend the benefits of biochar deeper into soil profiles. This combination draws from ancient Amazonian agricultural practices and modern scientific research.
 
 ## What is Biochar
 
@@ -54,7 +53,7 @@ Biochar's porous structure provides ideal fungal habitat:
 
 ### Disease Suppression
 - Biochar promotes beneficial microbial communities
-- [[arbuscular-mycorrhizal-colonization-patterns]] induced by biochar reduces soilborne pathogens
+- Mycorrhizal colonization induced by biochar reduces soilborne pathogens
 - Biochar sorption of allelochemicals and phytotoxins protects roots
 - Combined biochar-fungal disease suppression greater than either alone
 
@@ -65,14 +64,14 @@ Biochar's porous structure provides ideal fungal habitat:
 - Low-temperature biochar (300-500C) generally more favorable than high-temp char
 - Biochar with high volatile matter content stimulates AMF hyphal growth
 - AMF hyphae colonize biochar pores and access sorbed nutrients
-- Some studies show reduced colonization at very high biochar [[ingham-compost-tea-application-rates-and-timing]] (>50 tonnes/ha)
+- Some studies show reduced colonization at very high biochar application rates (>50 tonnes/ha)
 
 ### Ectomycorrhizal Fungi (EMF)
 - EMF response to biochar is more variable than AMF
 - Some EMF species colonize biochar surfaces and pores
 - Biochar can reduce EMF colonization in some conifer species
 - Wood-derived biochar generally more compatible with EMF than manure-derived
-- Response depends heavily on [[comparison-biochar-production-guide-vs-biochar-soil-amendment]] temperature and feedstock
+- Response depends heavily on biochar production temperature and feedstock
 
 ### Saprotrophic Fungi
 - Biochar stimulates saprotrophic decomposition of organic matter
@@ -115,7 +114,7 @@ Biochar's porous structure provides ideal fungal habitat:
 ### Application Methods
 - Broadcast and incorporate into top 15-20 cm of soil
 - Band application near root zones
-- Seed coat treatment with biochar + [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
+- Seed coat treatment with biochar + mycorrhizal inoculum
 - Compost tea extraction from biochar-amended compost
 - Combination with [[endophytic-fungi-in-agriculture]] seed treatments
 
@@ -128,7 +127,7 @@ Biochar's porous structure provides ideal fungal habitat:
 - See [[mycoremediation-of-heavy-metals]] for complementary approaches
 
 ### Water Filtration
-- Biochar + mycelium composite filters for stormwater and [[mollison-designers-wastewater-treatment-wetlands]]
+- Biochar + mycelium composite filters for stormwater and wastewater treatment
 - Biochar provides adsorption capacity; mycelium provides biological degradation
 - See [[mycofiltration-of-water]] for constructed system designs
 
@@ -143,8 +142,9 @@ Biochar's porous structure provides ideal fungal habitat:
 - Not all biochar is equal; quality varies enormously with production method
 - Excessive application can raise pH too high for acid-loving plants
 - Fresh biochar can temporarily bind nutrients, reducing availability
+- Economic viability depends on local feedstock availability and pyrolysis costs
+- Long-term field studies (>10 years) are still limited
+
 ## See Also
 
 - [[fungi-in-climate-change]] -- fungal roles in carbon sequestration
-- [[mycorrhizal-networks-and-forest-communication]] -- fungal networks enhanced by biochar
-- [[mycoremediation-of-heavy-metals]] -- combined biochar-fungal remediation approaches

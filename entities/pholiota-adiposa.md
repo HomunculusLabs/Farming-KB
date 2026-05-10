@@ -15,9 +15,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Singer, R. (1986). The Agaricales in Modern Taxonomy, 4th edition. Koeltz Scientific Books."
-  - "Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], 3rd edition. Ten Speed Press."
+  - "Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 3rd edition. Ten Speed Press."
   - "Waterhouse, J.N. & Steel, E.C. (2003). A taxonomic revision of Pholiota sect. Pholiota. Mycotaxon, 86, 197-210."
-  - "Oei, P. (2003). [[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications."
+  - "Oei, P. (2003). accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for Developing Countries. TOOL Publications."
   - "Wasser, S.P. & Weis, A.L. (1999). Medicinal properties of substances occurring in higher Basidiomycetes mushrooms: current perspectives. International Journal of Medicinal Mushrooms, 1(1), 31-62."
   - "Bao, D., et al. (2013). A taxonomic revision of Pholiota adiposa complex. Mycosystema, 32(3), 421-431."
   - "https://www.mycobank.org/Biolomics.aspx?Table=Mycobank&Rec=153211"

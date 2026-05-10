@@ -4,8 +4,7 @@ created: "2026-04-17"
 updated: "2026-04-17"
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 # Scythian Cannabis Steam Bath Ritual
 
@@ -62,6 +61,8 @@ The Scythian cannabis ritual is significant for several reasons beyond its histo
 The Scythian use of cannabis connects to broader questions about the origins and spread of cannabis cultivation. The steppe regions of Central Asia, where the Scythians and related peoples lived, are generally considered the center of origin for [[comparison-cannabis-sativa-vs-cannabis-indica]], and the Scythian ritual represents one of the earliest documented uses of the plant in its native range.
 
 ## See Also
+
+- [[mckenna-scythian-cannabis-ritual-smoke-bath-herodotus]]
 
 [[ancient-cannabis-use-near-east-and-egypt]] — ancient cannabis use in the Near East.
 

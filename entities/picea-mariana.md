@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 1. Conifers." USDA Forest Service Agriculture Handbook 654.
   - Farrar, J.L. (1995). "Trees of the Northern United States and Canada." Iowa State University Press.
-  - Heinselman, M.L. (1981). "Fire and Succession in the Conifer Forests of Northern North America." In: [[mollison-designers-food-forest-succession-design]]. Springer.
+  - Heinselman, M.L. (1981). "Fire and Succession in the Conifer Forests of Northern North America." In: mollison-designers-food-forest-succession-design. Springer.
   - Viereck, L.A. & Johnston, W.F. (1990). "Picea mariana (Mill.) B.S.P.: Black Spruce." In: Silvics of North America, Vol. 1. USDA Forest Service.
 ---
 

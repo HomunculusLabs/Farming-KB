@@ -123,4 +123,6 @@ generational experimentation and observation.
 
 ## See Also
 
+- [[maoi-tryptamine-pharmacodynamic-synergy-beta-carboline-potentiation]]
+
 - [[norharmane]]

@@ -11,9 +11,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Clarke RC, Merlin MD (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
-  - ElSohly MA et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
+  - ElSohly MA et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
   - Hazekamp A, Fischedick JT (2012). "Cannabis — from cultivar to chemovar." Drug Testing and Analysis, 4(7-8), 660-667.
-  - Mowatt L et al. (2020). "[[cannabis-terpene-profiles-sativa]] of cannabis cultivars." Journal of Cannabis Research, 2, 14.created: 2026-05-07
+  - Mowatt L et al. (2020). "cannabis-terpene-profiles-sativa of cannabis cultivars." Journal of Cannabis Research, 2, 14.created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -22,7 +22,7 @@ created: 2026-05-07
 
 Skunk is a foundational cannabis hybrid created in the United States during the late 1970s by Sam the Man (Samuel Skunkman). It is widely regarded as one of the most influential cannabis strains in breeding history, serving as a genetic cornerstone for hundreds of modern varieties.
 
-The strain resulted from crossing Afghani indica landrace genetics with Acapulco Gold and Colombian Gold sativa lines. Its balanced hybrid genetics (approximately 50/50 indica-sativa) established a template for high-yielding, potent, and resinous cultivars that dominated commercial cultivation through the 1990s and 2000s.
+The strain resulted from crossing Afghani indica landrace genetics with [[acapulco-gold]] ld]] and [[colombian-gold]] ld]] sativa lines. Its balanced hybrid genetics (approximately 50/50 indica-sativa) established a template for high-yielding, potent, and resinous cultivars that dominated commercial cultivation through the 1990s and 2000s.
 
 ## Lineage
 
@@ -85,25 +85,3 @@ The original Skunk was not a single genotype but rather a population of related 
 Super Skunk, bred by Sensi Seeds in the 1990s, crossed Skunk #1 with an Afghani male to enhance resin production and reduce flowering time to 6–7 weeks. It won the Cannabis Cup in 1990 and remains a commercial staple.
 
 Citrus Skunk phenotypes expressing elevated limonene content have been selected by multiple breeders. These variants emphasize the sweet citrus notes in the Skunk terpene profile while moderating the characteristic sulfurous pungency.
-
-The Skunk genetic platform continues to be used in contemporary breeding programs. Modern autoflowering versions have been created by crossing Skunk with [[cervantes-cannabis-ruderalis-autoflowering]], preserving the core Skunk terpene profile while adding non-photoperiod-dependent flowering.
-
-## See Also
-## Legal History
-
-The term "skunk" has entered common usage in the UK and parts of Europe as a generic descriptor for high-potency cannabis, particularly sinsemilla varieties. This broad usage has complicated regulatory discussions and public perception, as the media term "skunk" encompasses hundreds of genetically distinct strains.
-
-In the UK, the term gained prominence during the 2000s as imported hashish was largely replaced by domestically produced high-THC sinsemilla. Government reports citing "skunk" prevalence were criticized by researchers for conflating diverse cultivars under a single misleading label, potentially inflating perceptions of cannabis potency changes.
-
-The strain itself is classified as a controlled substance in most jurisdictions. Skunk genetics are widely available through licensed seed banks in jurisdictions with legal cannabis markets, where it remains a popular choice for both commercial and home cultivation.
-
-## See Also
-- [[afghan-kush]]
-- [[northern-lights]]
-- [[master-kush]]
-- [[white-widow-entity]]
-- [[purple-haze-cannabis]]
-- [[cannabis-blue-dream]]
-- [[wedding-cake]]
-- [[do-si-dos-entity]]
-- [[banana-kush]]

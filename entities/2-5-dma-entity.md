@@ -11,7 +11,7 @@ sources:
 
 2,5-DMA (2,5-Dimethoxyamphetamine; DMA) is an amphetamine derivative that serves as a critical precursor to several potent [[psychedelic-compounds-reference]].
 
-It is documented as entry #54 in PiHKAL by [[doc-entity]]|DOC, and don-entity|DON.
+It is documented as entry #54 in PiHKAL by [[doc]]|DOC, and don-entity|DON.
 
 Radio-halogenation of N-substituted homologues of 2,5-DMA with hypoiodite or hypofluorite has been used in the search for radio-labeled brain blood flow agents.
 

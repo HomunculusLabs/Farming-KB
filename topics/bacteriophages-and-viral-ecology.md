@@ -129,7 +129,6 @@ advantage shifts toward stable integration rather than killing the host.
 
 ## Phages in Soil Ecosystems
 
-### Abundance and Diversity
 ## See Also
 
 - [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] — Phages affect N-fixing populations

@@ -118,11 +118,8 @@ provides scientific context for Otzi carrying it as a travel medicine.
 The typical preparation involves shaving the inner context of a fresh
 fruiting body into thin strips and applying them directly to wounds.
 The porous, moisture-retaining structure of the fungal tissue creates a
-## See Also
 
+## See Also
 - [[archaeology-of-ecstasy-prehistoric-mushroom-use]]
 - [[fly-agaric-western-literature]]
-
-## See Also
-
 - [[cancer-medicinal-mushrooms-chaga-and-birch-polypore]]

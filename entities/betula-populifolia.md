@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Barnes, B.V. & Wagner, W.H. (2004). "Michigan Trees." University of Michigan Press.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of [[psilocybin-north-america-pacific-northwest]], Volume 2." USDA Forest Service.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest, Volume 2." USDA Forest Service.
   - DeGraaf, R.M. & Yamasaki, M. (2001). "New England Wildlife: Habitat, Natural History, and Distribution." University Press of New England.
   - Abramoff, R.Z. & Finzi, A.C. (2015). "Are above- and below-ground processes in temperate forests independent?" New Phytologist, 206(3), 1000–1012.
 ---

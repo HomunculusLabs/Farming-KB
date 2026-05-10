@@ -121,16 +121,7 @@ German Commission E requires minimum 4% echinacoside for root preparations. Alwa
 Excellent pollinator plant for butterflies and [[query-how-to-attract-native-bees-and-beneficial-insects]]; goldfinches consume seed heads through winter; deep roots improve soil structure; widely used in native gardens and prairie restorations; deer-resistant.
 
 ## See Also
-
 - [[echinacea-tennesseensis]]
-
 - [[permaculture-plant-catalog]]
-
-- echinacea purpurea — Narrow-leaved coneflower, traditionally preferred by herbalists
-- [[sambucus-nigra]] — Elderberry, antiviral herb for respiratory infections
-
-## See Also
-
-- [[echinacea-tennesseensis]]
-
+- [[sambucus-nigra]]
 - [[herbal-medicine-making-basics]]

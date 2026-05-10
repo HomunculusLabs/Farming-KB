@@ -119,6 +119,8 @@ cannot tolerate or do not desire psychoactive effects.
 
 ## Related
 
+- [[blesching-cannabis-forms-preparations-and-resin-products]]
+
 - [[blesching-cannabis-administration-methods]]
 - [[blesching-cannabinoid-pharmacology]]
 - [[blesching-cannabis-safety-profile]]

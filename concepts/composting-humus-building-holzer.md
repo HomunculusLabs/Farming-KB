@@ -5,7 +5,6 @@ updated: 2026-04-14
 type: concept
 tags: [composting, soil]
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Soil Fertility Philosophy

@@ -82,3 +82,7 @@ hardiness and wind resistance make it a valuable species for
 - [[juglans-regia]]
 
 See also: hazelnut-corylus-spp
+
+## See Also
+
+- [[araucaria-angustifolia]]

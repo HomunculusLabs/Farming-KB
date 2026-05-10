@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Guzmán, G. (1983). "The genus Psilocybe: A systematic revision of the known species including the history, distribution and chemistry of the hallucinogenic species." Beihefte zur Nova Hedwigia, 74: 1-439.
   - Guzmán, G., et al. (2004). "A new bluing species of Psilocybe section Stropharia from Oaxaca, Mexico." Mycotaxon, 90(1): 221-224.
-  - Stamets, P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
+  - Stamets, P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
   - MushroomExpert.com. "Psilocybe oaxacensis." https://www.mushroomexpert.com/
 created: 2026-04-28
 ---

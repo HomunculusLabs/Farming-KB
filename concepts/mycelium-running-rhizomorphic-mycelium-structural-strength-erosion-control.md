@@ -142,7 +142,6 @@ where both erosion control and water quality are management priorities.
 
 For hillside stabilization, Stamets proposes installing rhizomorphic fungal
 species — particularly *Stropharia rugoso-annulata* — on slopes vulnerable to
-landslide or surface erosion. The mycelial network anchors the surface soil layer,
 ## See Also
 
 - [[nutrient-movement-through-soil-to-plant-roots]]

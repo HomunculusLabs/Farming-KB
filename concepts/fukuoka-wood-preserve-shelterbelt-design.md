@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [natural-farming, agroforestry, shelterbelt, soil-fertility, bamboo, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources:
+sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---

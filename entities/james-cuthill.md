@@ -28,11 +28,11 @@ sources:
 
 ## Overview
 
-James Cuthill represents the Victorian-era tradition of practical gardening literature that made [[accessible-mushroom-cultivation-for-disabilities]] accessible to household gardeners and cottagers in Britain. His treatise provides remarkably detailed, hands-on guidance drawn from decades of personal experience [[falconer-growing-mushrooms-in-sheds]] in diverse settings — from private estates to market gardens.
+James Cuthill represents the Victorian-era tradition of practical gardening literature that made mushroom cultivation accessible to household gardeners and cottagers in Britain. His treatise provides remarkably detailed, hands-on guidance drawn from decades of personal experience growing mushrooms in diverse settings — from private estates to market gardens.
 
 ## Cultivation Methods Described
 
-Cuthill's treatise describes [[duggar-mushroom-growing-history-and-methods]] in a wide variety of settings available to Victorian gardeners:
+Cuthill's treatise describes mushroom growing in a wide variety of settings available to Victorian gardeners:
 
 - **Dedicated mushroom houses:** Dark structures built against the wall of a vinery or other south-facing building, with shelves placed two feet apart and side boards nine inches to a foot deep. He notes that Mr. Oldacre first introduced such houses to England after serving as gardener to the Emperor of Russia, and that the first such house Cuthill saw was at Sir Joseph Banks' estate.
 - **Vineries and span-roofed houses:** Cuthill grew mushrooms in converted greenhouse structures, using beds of dung and mould four feet wide and fourteen inches deep.
@@ -48,32 +48,13 @@ He advised cottagers to employ their children collecting horse-droppings along t
 
 ## Historical Context
 
-Cuthill's work is part of the historical tradition of mushroom cultivation literature that includes [[william-falconer]] (American, 1891) and later authors like [[benjamin-duggar]]. His detailed descriptions of spawn management, [[hugelkultur-bed-construction-detailed]], pest control, and seasonal timing provide a valuable record of pre-industrial mushroom growing techniques that remained largely unchanged for centuries. The methods he describes — based on horse manure beds in dark, cool environments — are the direct antecedents of the compost-based [[mushroom-cultivation-basics]] methods still used for [[genetic-improvement-agaricus-bisporus-molecular-approaches]] cultivation today.
+Cuthill's work is part of the historical tradition of mushroom cultivation literature that includes [[william-falconer]] (American, 1891) and later authors like [[benjamin-duggar]]. His detailed descriptions of spawn management, bed construction, pest control, and seasonal timing provide a valuable record of pre-industrial mushroom growing techniques that remained largely unchanged for centuries. The methods he describes — based on horse manure beds in dark, cool environments — are the direct antecedents of the compost-based [[mushroom-cultivation-basics]] methods still used for Agaricus bisporus cultivation today.
 
 ## See Also
 
 - [[william-falconer]] — American contemporary, author of "Mushrooms: How to Grow Them" (1891)
 - [[benjamin-duggar]] — Later cultivation researcher who cited Cuthill's methods
 - [[mushroom-cultivation-basics]] — Modern cultivation techniques
-- [[mushroom-composting-and-recycling]] — Compost-based [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
+- [[mushroom-composting-and-recycling]] — Compost-based substrate preparation
 - [[history-of-mycology-timeline]] — History of mycological science
 - [[victorian-mycology]] — Victorian-era mycological writing
-
-## Practical Considerations
-
-Successful implementation of James Cuthill requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

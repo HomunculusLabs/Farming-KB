@@ -107,7 +107,6 @@ oyster, produces vibrant pink fruiting bodies that fade to tan when cooked and
 requires tropical temperatures of 22 to 32 degrees. Other commercially
 relevant species include *P. cystidiosus* (abalone oyster), valued for thick
 flesh and excellent flavor; *P. cornucopiae*, producing clusters of multiple
-caps from a single base; and *P. tuber-regium*, the king tuber oyster, notable
 ## See Also
 
 - [[oyster-mushroom|oyster mushroom cultivation]] for the core cultivation overview and yield

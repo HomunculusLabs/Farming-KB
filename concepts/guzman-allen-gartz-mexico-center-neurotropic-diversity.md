@@ -50,6 +50,8 @@ indigenous knowledge systems associated with them represents an urgent priority.
 
 ## See Also
 
+- [[mexico-global-center-neurotropic-fungal-diversity-guzman-1998]]
+
 - [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]]
 
 - [[mazatec-mushroom-culture-and-velada]] Tradition

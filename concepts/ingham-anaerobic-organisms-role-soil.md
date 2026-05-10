@@ -58,13 +58,11 @@ anaerobic conditions and the associated problems. Maintaining
 remain dominant and that anaerobic metabolites are not produced.
 This is the fundamental distinction between actively [[actively-aerated-compost-tea-aact-brewing]]
 tea and passive methods that allow anaerobic conditions to develop.
-## See Also
 
+## See Also
 - [[ingham-microscope-identification-soil-biology]]
-
-## See Also
-
 - [[lowenfels-fungi-role-soil]]
+
 ## Practical Considerations
 
 Successful implementation of Anaerobic Organisms and Their Role in Soil Systems requires attention to

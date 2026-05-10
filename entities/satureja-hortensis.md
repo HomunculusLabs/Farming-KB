@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Sáez, L. & Stahl-Biskup, E. (2002). "Satureja." In: K. E. Kubitzki (ed.), "The Families and Genera of Vascular Plants," Vol. VII, Springer.
-  - Hazzit, M. et al. (2006). "[[permaculture-designers-manual-essential-oil-plants]] composition and antimicrobial activity of Satureja hortensis." Chemistry of Natural Compounds, 42(5), 605–608.
+  - Hazzit, M. et al. (2006). "permaculture-designers-manual-essential-oil-plants composition and antimicrobial activity of Satureja hortensis." Chemistry of Natural Compounds, 42(5), 605–608.
   - Gulluce, M. et al. (2003). "Antimicrobial and antioxidant properties of Satureja hortensis." Journal of Agricultural and Food Chemistry, 51(4), 1160–1165.
   - Hajhashemi, V. et al. (2000). "Antinociceptive and anti-inflammatory effects of Satureja hortensis." Journal of Ethnopharmacology, 69(3), 281–286.
 ---

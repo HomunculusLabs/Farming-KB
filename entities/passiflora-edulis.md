@@ -94,6 +94,10 @@ The fruit pulp exhibits antioxidant, anti-inflammatory, and antimicrobial activi
 
 ## See Also
 
+- [[strelitzia-reginae]]
+
+- [[passiflora-foetida]]
+
 - [[cordeauxia-edulis]]
 
 - [[mangifera-indica]]

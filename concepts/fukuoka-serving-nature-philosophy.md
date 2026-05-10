@@ -4,7 +4,7 @@ created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/masanobu-fukuoka-fukuoka.md
     title: The One-Straw Revolution - masanobu-fukuoka
-    author: [[masanobu-fukuoka]]
+    author: masanobu-fukuoka
 updated: 2026-05-08
 type: concept
 tags: [reference]

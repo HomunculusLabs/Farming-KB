@@ -134,16 +134,17 @@ Medicinal mushrooms work primarily through immunomodulation rather than direct c
 ### Clinically Validated Products (Phase I-III Trials)
 
 | Product | Source | Status | Primary Cancer Application |
-## See Also
+|---------|--------|--------|--------------------------|
+| **Lentinan** | Lentinula edodes (shiitake) fruiting body | Approved in Japan (1985) | Gastric, colorectal cancer adjuvant |
+| **Schizophyllan (SPG)** | Schizophyllum commune mycelial broth | Approved in Japan | Cervical, gastric cancer |
+| **PSK (Polysaccharide-K/Krestin)** | Trametes versicolor mycelial culture | Approved in Japan (1977), China | Gastric, colorectal, breast, lung cancer |
+| **PSP** | Trametes versicolor mycelial culture | Approved in China | Gastric, esophageal, lung cancer |
+| **Grifron-D (MD-fraction)** | Grifola frondosa (maitake) fruiting body | Phase I-III (Japan, US) | Breast, lung cancer |
 
-- [[medicinal-plant-guide]]
-
-- [[medicinal-mushroom-guide-meshima]]
-
-- [[andrew-weil]]
-
-- [[mushroom-species-guide]] -- Cultivation parameters, substrate, environmental needs
-- [[herbal-medicine]] -- Integration with plant-based remedies
-- [[fungal-ecology]] -- Ecological roles and decomposition mechanisms
-- [[mycoremediation-basics]] -- Fungal enzyme systems relevant to medicinal applications
-- [[soil-food-web-nutrient-cycling]] — Fungi in the soil trophic web
+### PSK (Turkey Tail) — Most Evidence Base
+- Extends survival in gastric cancer: 5-year survival +11% when combined with chemotherapy
+- Effective in colorectal cancer, breast cancer, and non-small cell lung cancer
+- Used as standard adjuvant in Japanese cancer treatment since 1977
+- Mechanism: Activates cytotoxic T-cells and NK cells; induces cytokine production; enhances dendritic cell maturation
+- Dose: 3 g/day standardized PSK (oral)
+- Also shows antiviral activity against HPV, HIV, and hepatitis

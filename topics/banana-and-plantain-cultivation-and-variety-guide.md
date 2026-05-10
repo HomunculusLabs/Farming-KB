@@ -144,7 +144,6 @@ Increasingly the standard for commercial and large-scale plantings:
 Less common but useful for rapid multiplication:
 
 - Large corms can be divided into sections, each with at least one viable bud
-- Dust cut surfaces with fungicide or wood ash to prevent rot
 ## See Also
 - [[citrus-cultivation-and-variety-guide]]
 - [[avocado-cultivation-and-variety-guide]]

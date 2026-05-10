@@ -1,5 +1,5 @@
 ---
-title: Elderberry comparison-bean-growing-guide-vs-pepper-growing-guide
+title: Elderberry Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,10 +13,10 @@ sources: []
 
 Elderberry is a fast-growing, deciduous shrub or small tree prized for both
 its medicinal berries and ornamental value. Native to Europe (Sambucus nigra,
-black elderberry) and [[psilocybin-north-america-pacific-northwest]] (Sambucus canadensis, American elderberry),
+black elderberry) and North America (Sambucus canadensis, American elderberry),
 elderberries have been used for centuries in traditional medicine for immune
 support, particularly during cold and flu season. Elderberry syrup is one of
-the most popular and well-studied herbal preparations in modern use.
+the most popular and well-studied herbal preparations in modern use. (see [[permaculture-plants-fruit-trees-temperate]]).
 
 ## Species Selection
 
@@ -33,7 +33,7 @@ the most popular and well-studied herbal preparations in modern use.
 For homesteads, S. canadensis is often preferred in North America due to
 greater cold hardiness and smaller size. Both species are medicinally
 equivalent. Planting at least two different varieties improves cross-
-pollination and yield significantly.
+pollination and yield significantly. (see [[valerian-growing-guide]]).
 
 Popular cultivated varieties:
 - 'Adams' (S. canadensis): Large berries, vigorous, productive
@@ -46,10 +46,10 @@ Popular cultivated varieties:
 
 Elderberries are rich in anthocyanins, flavonoids, and vitamin C. The primary
 active compounds demonstrate antiviral activity, particularly against
-influenza, by inhibiting viral replication and stimulating immune response.
+influenza, by inhibiting viral replication and stimulating immune response. (see [[chamomile-growing-guide]]).
 
 Key applications:
-- Cold and flu: Multiple [[mushroom-cancer-clinical-trials-overview]] show elderberry syrup reduces
+- Cold and flu: Multiple clinical trials show elderberry syrup reduces
   duration and severity of influenza by 2-4 days. Most effective within
   48 hours of symptom onset.
 - Immune support: Regular use during cold and flu season may prevent illness.
@@ -101,18 +101,18 @@ irrigation.
 - Dig a hole twice as wide as the root ball but no deeper
 - Space plants 6-10 feet apart (S. nigra can be spaced wider)
 - For hedgerows, space 4-6 feet apart
-- Water thoroughly after planting and mulch with 3-4 inches of [[hamilton-composting-and-organic-matter-management]]
+- Water thoroughly after planting and mulch with 3-4 inches of organic matter
 
 ### Irrigation
 Consistent moisture is important for good fruit production, especially during
 flowering and fruit development. Provide 1-2 inches of water per week during
 dry periods. Drip irrigation is ideal. Once well-established (after 2-3
-years), plants are moderately [[permplant-carob-drought-tolerant-food-tree]] but produce best with regular
+years), plants are moderately drought tolerant but produce best with regular
 water.
 
 ### Fertilization
 Elderberries are moderate feeders. Apply a balanced fertilizer or compost in
-early spring. Avoid excessive nitrogen, which promotes [[cannabis-vegetative-growth-stage]] at
+early spring. Avoid excessive nitrogen, which promotes vegetative growth at
 the expense of fruit. A side-dressing of compost or aged manure in spring is
 usually sufficient.
 
@@ -133,16 +133,18 @@ Proper pruning is essential for high yields and plant health:
 
 Elderberry fruit is produced on the previous year's growth (1-year-old canes)
 and on current year's growth. The most productive canes are 2-3 years old.
-## See Also
 
-- [[hawthorn-berry-guide]] -- another berry-producing medicinal shrub for
-  the homestead
-- [[echinacea-growing-guide]] -- combine with elderberry for comprehensive
-  immune support
+## Harvesting
 
-## See Also
+Berries:
+- Harvest when berry clusters are fully dark purple-black, usually August to
+  September depending on variety and location
+- Test a few berries for sweetness; ripe berries detach easily from the stem
+- Cut entire clusters with pruning shears
+- Harvest in dry weather; wet berries are more prone to mold
+- Process or freeze within 24 hours of harvest
 
-- mycorrhizal-hydroponic-growing-guide
-- [[sambucus-canadensis]]
-- [[berry-growing]]
-- [[sambucus-nigra]]
+Elderflowers:
+- Harvest in early to mid-summer when flower umbels are fully open
+- Pick on a dry morning after dew has dried
+- Use fresh for cordials, fritters, and tea, or dry for later use

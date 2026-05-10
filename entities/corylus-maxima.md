@@ -107,6 +107,8 @@ The species contributes to forest biodiversity by providing early-season pollen 
 
 ## See Also
 
+- [[corylus-americana]]
+
 - [[corylus-avellana]]
 - [[corylus-cornuta]]
 - [[betula-pendula]]

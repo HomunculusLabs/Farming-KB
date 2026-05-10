@@ -4,8 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources:
-  sources: []
+sources: []
 ---
 # Mycorrhizal Nutrient Transport The physical movement of water, minerals, and carbon between mycorrhizal fungi and their host plants is the engine of the symbiosis. Understanding how nutrients cross the fungal-plant interface explains why mycorrhizal plants outperform non-mycorrhizal ones by orders of magnitude in nutrient acquisition. See [[mycorrhizal-types]] for how different fungal types associate with roots.
 

@@ -85,6 +85,8 @@ and adapting methods to each site's unique conditions.
 
 ## See Also
 
+- [[mycelium-running-end-substrate-supplement-adaptation]]
+
 - [[multi-kingdom-bioremediation]]
 
 - [[mycelium-running-farm-mycofiltration-buffers]]

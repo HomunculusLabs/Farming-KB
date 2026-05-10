@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Feathered Serpent and Phoenix
+title: [[amanita-muscaria-herb-of-immortality-soma-hypothesis|Amanita]] Muscaria Feathered Serpent and Phoenix
 created: 2026-04-19
 updated: 2026-04-18
 type: concept
@@ -7,7 +7,7 @@ sources: amanita-muscaria-herb-of-immortality.md
 tags: [amanita-muscaria, mycology]
 ---
 
-# [[amanita-muscaria-drying-and-preparation]] is the biological reality behind two of the most widespread mythological symbols in human history: the Feathered Serpent (Quetzalcoatl/Kukulkan) of Mesoamerica and the Phoenix of Eurasian mythology. Both symbols encode the mushroom's most remarkable property: its ability to "die" and be "reborn" through the [[mycorrhiza]]l)
+# [[amanita-muscaria-drying-and-preparation]] is the biological reality behind two of the most widespread mythological symbols in human history: the Feathered Serpent (Quetzalcoatl/Kukulkan) of Mesoamerica and the Phoenix of Eurasian mythology. Both symbols encode the [[emcdda-hallucinogenic-mushroom-amanita-muscaria-emerging-alternative|mushroom]]'s most remarkable property: its ability to "die" and be "reborn" through the [[mycorrhiza]] l)
 - The nest is the place of transformation -- the [[amanita-muscaria-living-vessel-grail]] is the container of transformation
 - The aromatic branches may be the mushroom's substrate (wood debris, forest floor material)
 
@@ -24,7 +24,7 @@ The Phoenix myth appears in widely separated cultures:
 - **Arabia:** The Anka, a giant bird of creation
 - **Native America:** The Thunderbird, associated with power and transformation
 
-The author argues that this extraordinary cross-cultural distribution of a bird-that-dies-and-is-reborn myth can best be explained by a common origin: the actual biological behavior of Amanita muscaria, which was known to cultures across the Indo-European and related world.
+The author argues that this extraordinary cross-cultural distribution of a bird-that-dies-and-is-reborn myth can best be explained by a common origin: the actual biological behavior of [[amanita-muscaria]] ia]] ia]] ia]] ia]], which was known to cultures across the Indo-European and related world.
 
 ## The Universal Symbol
 

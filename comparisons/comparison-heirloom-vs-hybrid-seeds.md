@@ -4,7 +4,6 @@ tags: [comparison, seeds, plant-breeding, seed-saving, genetics]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Geodesic passive-solar-design
+title: Geodesic Greenhouse Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Geodesic Greenhouse Design
 
-A geodesic dome greenhouse is a spherical structure made from a network of interlocking triangles. Popularized by Buckminster Fuller in the mid-20th century, the geodesic dome is one of the most efficient structural forms known. As a greenhouse, it offers superior strength, light distribution, [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], and interior [[cotter-growing-space-design-fruiting-rooms]] compared to conventional rectangular greenhouses.
+A geodesic dome greenhouse is a spherical structure made from a network of interlocking triangles. Popularized by Buckminster Fuller in the mid-20th century, the geodesic dome is one of the most efficient structural forms known. As a greenhouse, it offers superior strength, light distribution, energy efficiency, and interior growing space compared to conventional rectangular greenhouses.
 
 ## Advantages of the Dome Shape
 
@@ -25,9 +25,9 @@ The triangulated framework distributes loads across the entire structure. Geodes
 ### Energy Efficiency
 
 - **30-40% less surface area** than a rectangular building of the same floor area, meaning less heat loss through the envelope
-- **Improved [[stamets-growing-room-air-circulation-co2-management]]:** No corners where hot or cold air stagnates. Warm air rises to the peak and circulates evenly.
+- **Improved air circulation:** No corners where hot or cold air stagnates. Warm air rises to the peak and circulates evenly.
 - **Superior light capture:** The curved surface receives sunlight from a wider range of angles throughout the day. Interior light levels are more even — no dark corners.
-- **[[comparison-passive-solar-vs-earth-sheltered]] advantage:** A south-facing portion of the dome absorbs and stores heat. The thermal mass of the soil and any water storage moderates temperature swings.
+- **Passive solar advantage:** A south-facing portion of the dome absorbs and stores heat. The thermal mass of the soil and any water storage moderates temperature swings.
 
 ### Space Efficiency
 
@@ -139,11 +139,12 @@ Enhance the dome's energy efficiency with passive solar design:
 
 ## Sizing
 
-- **Small (10-15 foot diameter):** 80-180 sq ft growing area. Good for a family garden, seed starting, and [[comparison-season-extension-techniques-vs-cold-frame-gardening]].
+- **Small (10-15 foot diameter):** 80-180 sq ft growing area. Good for a family garden, seed starting, and season extension.
 - **Medium (18-25 foot diameter):** 250-490 sq ft. Suitable for serious home food production.
 - **Large (30-50 foot diameter):** 700-1,960 sq ft. Community-scale or small commercial production.
+- **Height:** A 3V 5/8 sphere dome has a height of approximately 0.85 x diameter. A 20-foot dome is about 17 feet tall.
+
 ## Related Concepts
 
 - [[grow-tunnel-and-hoop-house]] for simpler, lower-cost season extension structures
 - [[underground-greenhouse-walipini]] for maximum passive solar heating in cold climates
-- [[cold-frame-gardening]] for the simplest season extension option

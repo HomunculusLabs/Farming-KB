@@ -33,10 +33,10 @@ Pineapple Express is a sativa-dominant hybrid cannabis strain renowned for its t
 
 Pineapple Express is the result of crossing two distinctly Hawaiian-influenced strains:
 
-- **Trainwreck:** A legendary sativa-dominant hybrid with Mexican and Thai landrace ancestry, known for its potent, fast-acting cerebral high and complex earthy, pine, and citrus aromas. Trainwreck is itself a cross of Mexican sativa, Thai sativa, and Afghani indica genetics, producing a balanced yet cerebral experience. See [[trainwreck]] — Parent strain with cerebral potency
+- **Trainwreck:** A legendary sativa-dominant hybrid with Mexican and Thai landrace ancestry, known for its potent, fast-acting cerebral high and complex earthy, pine, and citrus aromas. Trainwreck is itself a cross of Mexican sativa, Thai sativa, and Afghani indica genetics, producing a balanced yet cerebral experience. See [[trainwreck-cannabis]] — Parent strain with cerebral potency
 - [[cannabis-indoor-growing-basics]] — Pure sativa with energizing effects
-- [[cannabis-blue-dream]] — Balanced hybrid with similar broad appeal
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[blue-dream]] — Balanced hybrid with similar broad appeal
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 ## Practical Applications
 
 Pineapple Express has a range of practical applications that make it relevant to

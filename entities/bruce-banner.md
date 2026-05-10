@@ -21,7 +21,7 @@ sources:
   - "Strains: The Essential Guide to the World's Top Cannabis Varieties" (2022). Snoop Dogg (ed.). Chronicle Books.
   - Cannabis Cup & Emerald Cup historical results (2010–2023).
   - Smart, R. et al. (2017). "Cannabis: A complete guide." CRC Press.
-  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] over the last 2 decades." Biological Psychiatry, 79(7), 613–619.
+  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing over the last 2 decades." Biological Psychiatry, 79(7), 613–619.
 ---
 
 # Bruce Banner
@@ -68,7 +68,7 @@ Bruce Banner's terpene profile is complex and layered, reflecting its dual herit
 
 **Dominant terpenes:**
 - **[[limonene]]** (citrus, uplifting) — mood-enhancing, contributes to the cerebral onset
-- **[[og-kush]] — The legendary OG Kush parent
+- **[[og-kush-cannabis-entity]] — The legendary OG Kush parent
 - [[sour-diesel]] — NYC Diesel relative contributing to the lineage
 ## Practical Considerations
 

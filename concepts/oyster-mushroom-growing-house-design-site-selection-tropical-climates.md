@@ -142,7 +142,6 @@ comfortably during inoculation, monitoring, and harvesting operations.
 
 In tropical smallholder contexts, growing houses are often simple structures of
 50-100 square meters, sufficient to support a family's livelihood. As
-operations scale up, larger structures of 200-500 square meters or more become
 ## See Also
   - [[oyster-brown-blotch-disease]]
 

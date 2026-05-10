@@ -16,7 +16,7 @@ type: concept
 
 # Psilocybe baeocystis
 
-Psilocybe baeocystis is a moderately sized [[emcdda-psilocybin-mushroom-dose-and-effects]]
+Psilocybe baeocystis is a moderately sized [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 commonly known as the "potent psilocybe" or informally as "knobby
 tops." It is one of the more potent members of the Psilocybe genus
 and is notable for lending its name to the psychoactive compound

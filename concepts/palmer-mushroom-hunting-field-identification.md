@@ -60,6 +60,8 @@ For experienced foragers testing a new species, Palmer described a gradual appro
 
 ## See Also
 
+- [[bloomfield-mushroom-hunting-ecology-overharvesting-biodiversity]]
+
 - [[palmer-poisonous-mushrooms-deadly-species]] -- The Amanita family and fatal poisonings
 - mushroom-identification
 

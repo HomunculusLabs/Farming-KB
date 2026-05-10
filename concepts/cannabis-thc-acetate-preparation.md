@@ -83,14 +83,6 @@ For growers interested in the upstream cultivation side, [[cannabis-cancer-pain-
 See also [[cannabis-extraction-basics]], [[cannabis-indoor-growing-basics]].
 
 ## See Also
-
-[[cannabis-solvent-reflux-extraction-methods]]
 - [[cannabis-hash-making-from-extracted-oil]]
-
-## See Also
-
-- [[thc-acetate-and-isomerization]] — relationship between THC acetate formation and cannabinoid isomerization pathways
-- [[tetrahydrocannabinolic-acid-thca]] — the natural acidic precursor to THC, relevant to extraction starting material quality
-
-[[thc-acetate-and-isomerization]] | [[tetrahydrocannabinolic-acid-thca]]
-[[cannabis-indoor-growing-basics]] | [[cannabis-reflux-extraction-apparatus]] | [[green-cannabis-ph-management-cannabis-growing]]
+- [[thc-acetate-and-isomerization]]
+- [[tetrahydrocannabinolic-acid-thca]]

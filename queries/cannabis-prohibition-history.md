@@ -16,7 +16,7 @@ From ancient use to modern legalization: the political, legal, and cultural forc
 that criminalized and are now re-legalizing cannabis.
 See [[cannabis-health-therapeutics]] for medical context, [[robert-clarke]]
 for botanical and ethnobotanical history, and [[cannabis-genetics-and-breeding]]
-for how prohibition shaped [[vic-high-cannabis-genetics-mendelian-inheritance]].
+for how prohibition shaped cannabis genetics.
 
 ## Ancient and Pre-Modern Use
 
@@ -55,9 +55,9 @@ for how prohibition shaped [[vic-high-cannabis-genetics-mendelian-inheritance]].
 - **1600s-1700s — Colonial hemp cultivation:**
   Hemp (low-THC Cannabis sativa) grown widely in the American colonies
   for fiber, rope, and sailcloth.
-  [[tompkins-george-washington-carver-plant-alchemy]] and Thomas Jefferson grew hemp.
+  George Washington and Thomas Jefferson grew hemp.
 
-- **Early 1800s — Medical cannabis enters [[fukuoka-eastern-western-medicine-healing-world-crisis]]:**
+- **Early 1800s — Medical cannabis enters Western medicine:**
   William O'Shaughnessy, an Irish physician working in Bengal,
   introduces Indian cannabis preparations to Western medicine
   after observing their use for pain, spasms, and convulsions.
@@ -128,7 +128,7 @@ for how prohibition shaped [[vic-high-cannabis-genetics-mendelian-inheritance]].
   including cannabis.
   First time mandatory minimums applied to drug crimes at the federal level.
 
-- **1956 — [[japan-narcotics-control-law-psilocybin-fungi-2002]] Act:**
+- **1956 — Narcotics Control Act:**
   Dramatically increases penalties for cannabis possession and sale.
   Possession with intent to distribute: 5-10 years.
 
@@ -139,11 +139,12 @@ for how prohibition shaped [[vic-high-cannabis-genetics-mendelian-inheritance]].
 - **1969 — Leary v. United States:**
   Supreme Court strikes down the Marihuana Tax Act
   as unconstitutional under the Fifth Amendment.
+  Congress responds by passing new legislation the same year.
+
+## Modern Reform Era (1970–Present)
+
+The Controlled Substances Act, War on Drugs, medical marijuana movement, and modern legalization era — from state-level decriminalization through the 2018 Farm Bill, hemp revival, and federal rescheduling to Schedule III — are covered in detail on [[cannabis-modern-reform-era]]. See also [[cannabis-legalization-era]].
+
 ## Related Pages
 
-- [[cannabis-modern-reform-era]] — CSA, War on Drugs, [[cervantes-medical-marijuana-pharmacology]], and legalization (1970-present)
-- [[cannabis-health-therapeutics]] — medical applications by condition
-- [[cannabis-genetics-and-breeding]] — breeding methods shaped by prohibition-era underground work
-- [[robert-clarke]] — cannabis botany and ethnobotany authority
-- [[cannabis-spiritual-ritual-use]] — ceremonial use across traditions
-- [[cannabis-living-soil-guide]] — modern living soil [[synthetic-log-cultivation-methods-guide]]
+- [[cannabis-modern-reform-era]] — CSA, War on Drugs, medical marijuana, and legalization (1970-present)

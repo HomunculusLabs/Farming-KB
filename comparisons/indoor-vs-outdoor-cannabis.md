@@ -1,6 +1,6 @@
 ---
 
-title: Indoor vs Outdoor query-how-does-no-till-cannabis-cultivation-work
+title: Indoor vs Outdoor Cannabis Cultivation
 created: 2026-04-11
 updated: 2026-04-12
 type: comparison
@@ -24,7 +24,7 @@ sources:
 
 # Indoor vs Outdoor Cannabis Cultivation
 
-Indoor and outdoor cultivation represent fundamentally different approaches to growing cannabis. On a homestead with [[regenerative-agriculture-history]] principles, outdoor living soil beds integrate naturally with the broader system (compost, animals, cover crops). Indoor grows offer [[eclss-environmental-control-life-support]] at the cost of energy and equipment. This comparison synthesizes from [[cannabis-living-soil-guide]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-plant-nutrition]], and [[cannabis-pest-management]].
+Indoor and outdoor cultivation represent fundamentally different approaches to growing cannabis. On a homestead with [[regenerative-agriculture-history]] principles, outdoor living soil beds integrate naturally with the broader system (compost, animals, cover crops). Indoor grows offer environmental control at the cost of energy and equipment. This comparison synthesizes from [[cannabis-living-soil-guide]], [[cannabis-vegetative-stage]], [[cannabis-flowering-stage]], [[cannabis-plant-nutrition]], and [[cannabis-pest-management]].
 
 ## Head-to-Head Comparison
 
@@ -35,7 +35,7 @@ Indoor and outdoor cultivation represent fundamentally different approaches to g
 | **Electricity cost** | Significant (lights, fans, AC, dehumidifier) | Minimal (pumps, fans if any) |
 | **Watering** | Manual, controlled — dechlorinated water needed | Rain + irrigation; nature handles most |
 | **Soil system** | [[cannabis-living-soil-guide]] in beds/containers | Ground beds, amended native soil, or raised beds |
-| **Pest pressure** | Higher risk (enclosed space, no natural predators) | Lower risk ([[comparison-beneficial-insects-guide-vs-integrated-pest-management]], weather, airflow) |
+| **Pest pressure** | Higher risk (enclosed space, no natural predators) | Lower risk (beneficial insects, weather, airflow) |
 | **Disease risk** | Higher (bud rot in humid indoor spaces) | Lower (natural airflow, UV from sun) |
 | **Yield per plant** | Moderate (0.5-2 oz typical; 4+ oz with CO2/training) | Higher per plant (4-16+ oz, space-limited only) |
 | **Yield per sq ft** | Higher (continuous cycles, vertical potential) | Lower (one crop per season in most climates) |
@@ -61,7 +61,7 @@ Indoor and outdoor cultivation represent fundamentally different approaches to g
 | **UV exposure** | Optional (some LEDs have UV; most don't) | Natural UV-A and UV-B — stimulates trichome production |
 | **Impact on terpenes** | Good with living soil; limited UV means less trichome stress | Superior — UV stress drives resin/terpene production |
 
-**Key insight**: The sun provides a DLI and spectrum that no artificial light can fully replicate. Outdoor cannabis often produces more complex [[cannabis-terpene-profiles-sativa]]. However, indoor growers can produce year-round and control every variable.
+**Key insight**: The sun provides a DLI and spectrum that no artificial light can fully replicate. Outdoor cannabis often produces more complex terpene profiles. However, indoor growers can produce year-round and control every variable.
 
 ## Pest and Disease Management
 
@@ -69,7 +69,7 @@ Indoor and outdoor cultivation represent fundamentally different approaches to g
 |--------|--------|---------|
 | **Spider mites** | Major threat (enclosed, no predators) | Present but controlled by natural predators |
 | **Bud rot (botrytis)** | Major threat in late flower (high humidity) | Risk during rain/fog in fall; better airflow usually |
-| **[[cervantes-powdery-mildew-prevention-treatment]]** | Risk in poor airflow | Risk especially in humid climates |
+| **Powdery mildew** | Risk in poor airflow | Risk especially in humid climates |
 | **Fungus gnats** | Common (overwatering in containers) | Rare (soil dries naturally between rains) |
 | **Aphids/whiteflies** | Moderate risk | Lower (beneficial insects in ecosystem) |
 | **Animals (deer, rabbits)** | Not applicable | Significant risk — fencing required |
@@ -85,7 +85,7 @@ Indoor and outdoor cultivation represent fundamentally different approaches to g
 | **Compost integration** | Worm castings, compost tea ([[compost-tea-aact]]) | Full homestead compost ([[composting-systems]]) — duck/goat manure |
 | [[knf-preparations]] | Adjusted dilution rates (1:300-500 drenches) | Standard dilution (1:1000); broader application |
 | [[indigenous-microorganisms-imo]] | Used as soil inoculant | Used at scale (IMO-4 field application) |
-| **[[ph-and-nutrient-availability-garden-soils]]** | Controlled via amendments and tea schedule | Soil food web + natural mineralization + cover crops |
+| **Nutrient availability** | Controlled via amendments and tea schedule | Soil food web + natural mineralization + cover crops |
 | **pH management** | Minimal in living soil (biology buffers) | Managed via [[soil-fertility-management]] practices |
 | **Water management** | Manual, dechlorinated, pH-checked | Rain harvesting ([[water-management]]), drip irrigation |
 | **Top-dressing** | Between cycles (amendments + compost + mulch) | Seasonal — compost in spring, mulch year-round |

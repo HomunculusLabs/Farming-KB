@@ -115,6 +115,8 @@ The detection limit of approximately 0.01 μg for both psilocybin and psilocin m
 
 ## See Also
 
+- [[cap-stem-alkaloid-distribution-psilocybe-cubensis-strains-detailed]]
+
 - [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison]]
 - bigwood-beug-psilocybin-psilocin-variation-analysis
 - [[psilocybin-psilocin-variation-flushes-cubensis]]

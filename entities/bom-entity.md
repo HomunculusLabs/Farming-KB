@@ -37,7 +37,7 @@ In the BOX family, BOM represents the mescaline pattern (3,4,5-trimethoxy) with 
 
 ## Chemical Family and Historical Context
 
-BOM belongs to the BOX family of phenethylamines, a group characterized by the addition of an oxygen substituent at the beta-carbon position of the phenethylamine backbone. This structural modification is significant because it represents one of the few systematic explorations of aliphatic substitution in psychedelic phenethylamines, a research direction pioneered by Alexander and [[mescaline-entity]] -- the parent compound providing the 3,4,5-trimethoxy pattern
+BOM belongs to the BOX family of phenethylamines, a group characterized by the addition of an oxygen substituent at the beta-carbon position of the phenethylamine backbone. This structural modification is significant because it represents one of the few systematic explorations of aliphatic substitution in psychedelic phenethylamines, a research direction pioneered by Alexander and [[mescaline]] -- the parent compound providing the 3,4,5-trimethoxy pattern
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology
 

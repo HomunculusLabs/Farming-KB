@@ -95,10 +95,7 @@ antifungal and immunosuppressive activities.
 
 Host fungi are not passive targets of mycoparasitism.
 Many have evolved defense mechanisms that can limit or
-## See Also
 
 ## See Also
-
 - [[fungal-endemism-host-specificity]]
-- mycorrhizal-specificity-and-host-range
 - [[mycorrhiza]]

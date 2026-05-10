@@ -4,8 +4,7 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungal Binary and Ternary Biosorption Systems Real-world contaminated wastewaters rarely contain single metal ions. [[fungal-metal-biosorption-comparative]] show distinct selectivity patterns:
 

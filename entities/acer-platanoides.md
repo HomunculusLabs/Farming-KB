@@ -12,7 +12,7 @@ sources:
   - Nowak, D.J. & Rowntree, R.A. (1990). "History and Range of Norway Maple." Journal of Arboriculture 16(11): 291-296.
   - Webb, S.L. & Kaunzinger, C.K. (1993). "Relationship of Seed Rain and Ground-Layer Vegetation in an Eastern Deciduous Forest." Bulletin of the Torrey Botanical Club 120(2): 128-136.
   - Martin, P.H. (1999). "Norway Maple (Acer platanoides) Invasion of a Natural Forest Stand." Journal of the Torrey Botanical Society 126(4): 341-346.
-  - USDA Forest Service (2023). "Acer platanoides." Silvics of [[psilocybin-north-america-pacific-northwest]].
+  - USDA Forest Service (2023). "Acer platanoides." Silvics of psilocybin-north-america-pacific-northwest.
   - Rehder, A. (1940). Manual of Cultivated Trees and Shrubs. Macmillan, New York.
 ---
 

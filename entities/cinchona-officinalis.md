@@ -132,7 +132,6 @@ The Dutch established extensive Cinchona plantations on Java in the mid-19th cen
 
 Quinine was critical to European colonization of tropical Africa, enabling survival in malaria-endemic regions.
 
-Synthetic antimalarials (chloroquine, 1934; artemisinin, 1972) have largely replaced quinine in first-line therapy, though it remains important for severe malaria treatment.
 ## Related Species
 
 | Species | Quinine Content | Key Characteristic |
@@ -143,6 +142,8 @@ Synthetic antimalarials (chloroquine, 1934; artemisinin, 1972) have largely repl
 | *C. officinalis* | 2–8% | Type species, original source |
 
 ## See Also
+
+- [[cinchona-succirubra]]
 
 - `[[camellia-sinensis-entity]]` — Tea, a common understory companion in Cinchona agroforestry
 - `[[piper-nigrum-entity]]` — [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], another tropical spice tree in agroforestry systems

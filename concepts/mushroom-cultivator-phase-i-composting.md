@@ -1,10 +1,10 @@
 ---
-title: "Compost Phase I Preparation and Raw Materials"
+title: "[[cotter-compost-substrate-preparation-manure-mushroom-cultivation|Compost]] Phase I Preparation and Raw Materials"
 created: 2026-04-28
 tags: [mycology, composting, substrate-preparation, mushroom-cultivator, phase-i-composting]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources: []
+sources: []
 type: concept
 ---
 # Compost Phase I Preparation and Raw Materials The purpose of composting is to prepare a nutritious medium that promotes the growth of mushroom [[mushroom-cultivator-bulk-substrate]]; create a selective medium favoring mushrooms over
@@ -38,7 +38,7 @@ Synthetic compost uses no horse manure. Straw, sometimes mixed with
 hay, serves as the base ingredient. Because straw is low in potassium
 and phosphorus, chicken manure is the standard additive for synthetic
 composts. No composts are made exclusively of hay due to high cost
-and small fiber content.
+and small fiber [[solomon-manure-quality-variable-nutrient-content-horse-steer-chicken|content]].
 
 ## Supplement Groups
 

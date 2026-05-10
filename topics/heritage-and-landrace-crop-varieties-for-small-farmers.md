@@ -99,7 +99,6 @@ classic examples with well-documented provenance.
 Landraces differ from named heirloom varieties in that they are populations
 rather than uniform cultivars. A landrace of maize grown in a Mexican village
 will contain considerable genetic variation from plant to plant, with some
-individuals maturing earlier, others producing larger ears, and still others
 ## See Also
 
 - [[seed-saving-techniques]] for detailed processing methods

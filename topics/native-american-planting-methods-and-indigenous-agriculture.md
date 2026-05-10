@@ -7,7 +7,7 @@ sources:
   - "Hart, J. (2008). The New Farmer's Almanac. Chelsea Green Publishing."
   - "Mt. Pleasant, J. (2006). 'The science behind the Three Sisters mound system.' Journal of the Northeastern Agricultural and Resource Economics Association, 35(1), 27-39."
   - "Kimmerer, R.W. (2013). Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants. Milkweed Editions."
-  - "Doolittle, W.E. (2000). Cultivated Landscapes of Native [[psilocybin-north-america-pacific-northwest]]. Oxford University Press."
+  - "Doolittle, W.E. (2000). Cultivated Landscapes of Native psilocybin-north-america-pacific-northwest. Oxford University Press."
   - "Zhang, F. et al. (2019). 'Intercropping cereals with legume crops improves yield and soil nitrogen.' Field Crops Research, 241, 107597."
   - "Anderson, M.K. (2013). Tending the Wild: Native American Knowledge and the Management of California's Natural Resources. University of California Press."
   - "Boehm, D.A. (2018). 'Agroecology of the Three Sisters: polyculture practices of Indigenous North America.' Agroecology and Sustainable Food Systems, 42(5), 533-549."

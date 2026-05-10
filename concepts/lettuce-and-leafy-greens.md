@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Lettuce and leafy greens are among the most accessible and rewarding crops for home gardeners. They are cool-season vegetables that grow quickly, can be harvested multiple times, and fit into small spaces including containers and raised beds. This guide covers lettuce types, native american planting methods and indigenous agriculture, bolt prevention, and harvest strategies.
+Lettuce and leafy greens are among the most accessible and rewarding crops for home gardeners. They are cool-season vegetables that grow quickly, can be harvested multiple times, and fit into small spaces including containers and raised beds. This guide covers lettuce types, planting methods, bolt prevention, and harvest strategies.
 
 ## Lettuce Types
 
@@ -62,7 +62,7 @@ Lettuce and most leafy greens are best direct-sown rather than transplanted, tho
 - Seeds typically germinate in 7-14 days
 
 ### Soil Requirements
-- Well-draining soil rich in [[hamilton-composting-and-organic-matter-management]]
+- Well-draining soil rich in organic matter
 - pH 6.0-7.0 preferred
 - Work in 1-2 inches of finished [[composting-systems-design-comparison]] before planting
 - Consistent moisture is critical for tender leaves
@@ -70,7 +70,7 @@ Lettuce and most leafy greens are best direct-sown rather than transplanted, tho
 
 ## Succession Planting
 
-Succession planting ensures a continuous harvest throughout the [[savory-growing-season-and-non-growing-season-management]].
+Succession planting ensures a continuous harvest throughout the growing season.
 
 ### Schedule
 - Sow every 2-3 weeks from early spring through late summer
@@ -127,7 +127,7 @@ This method maximizes yield from each planting, especially for looseleaf types.
 
 ### Pests
 - **Aphids**: Wash off with strong water spray; encourage ladybugs
-- **[[query-how-to-get-rid-of-slugs-and-snails-organically]]**: Use beer traps, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] barriers, or copper tape
+- **Slugs and snails**: Use beer traps, diatomaceous earth barriers, or copper tape
 - **Flea beetles**: Use floating row covers on seedlings; worst on arugula and mustard
 
 ### Diseases
@@ -140,8 +140,9 @@ This method maximizes yield from each planting, especially for looseleaf types.
 - Leafy greens are heavy nitrogen feeders
 - Side-dress with compost tea or diluted fish emulsion every 2-3 weeks
 - Avoid excessive nitrogen which can cause nitrate accumulation
-- Foliar feed with diluted [[comparison-seaweed-extract-vs-fish-hydrolysate]] for trace minerals
+- Foliar feed with diluted seaweed extract for trace minerals
 - See [[seasonal-gardening-calendar]] for timing of fertilizer applications
+
 ## See Also
 
 - [[brassica-growing-guide]] for kale, cabbage, and related crops

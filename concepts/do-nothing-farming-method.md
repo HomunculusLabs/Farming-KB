@@ -130,10 +130,6 @@ Institute, a leading organic agriculture research center, was among the first
 American institutions to recognize the significance of Fukuoka's work.
 
 ## See Also
-
 - [[fukuoka-rice-barley-succession]]
 - [[natural-farming-vs-organic-farming]]
-
-## See Also
-
 - [[urban-farming-methods]]

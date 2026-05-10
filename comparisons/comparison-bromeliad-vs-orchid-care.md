@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources:
   - Benzing, D.H. (2000). Bromeliaceae: Profile of an Adaptive Radiation. Cambridge University Press.
   - Hessayon, D.G. (2014). The House Plant Expert. Expert Books.
-  - Royal Horticultural Society. "Orchid [[comparison-bean-growing-guide-vs-pepper-growing-guide]]." RHS Publications.
+  - Royal Horticultural Society. "Orchid comparison-bean-growing-guide-vs-pepper-growing-guide." RHS Publications.
   - Bechtel, H., Cribb, P. & Launert, E. (1992). The Manual of Cultivated Orchid Species. MIT Press.
   - Kress, W.J. (2019). "Bromeliads: Tropical and Subtropical Plants for the Garden and Home." Smithsonian Gardens.
 created: 2026-05-07
@@ -85,7 +85,7 @@ Temperature requirements are genus specific and critically important for floweri
 
   Warm growers (*Phalaenopsis*, *Vanda*, *Dendrobium phalaenopsis*): 65 85°F day, 60 70°F night.
   Intermediate growers (*Cattleya*, *Oncidium*, *Paphiopedilum*): 60 80°F day, 55 65°F night.
-  Cool growers (*Masdevallia*, *Dracula*, *Odontoglossum*): 55 75°F day, 50 60°F night. Difficult without a cool greenhouse.
+  Cool growers (*Masdevallia*, *Dracula*, *Odontoglossum*): 55 75°F day, 50 60°F night. Difficult without a [[coleman-cool-greenhouse]].
 
 Many orchids require a temperature drop of 10 15°F between day and night to initiate flowering spikes. *Phalaenopsis* benefits from 2 3 weeks of 55 60°F nights in autumn to trigger blooming.
 

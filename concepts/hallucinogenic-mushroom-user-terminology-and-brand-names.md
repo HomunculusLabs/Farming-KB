@@ -116,13 +116,8 @@ The choice of terminology has measurable effects on risk perception and behaviou
 These dynamics are particularly relevant for hallucinogenic mushrooms, where the tension between "psychedelic" (user preferred, positive connotations) and "hallucinogenic" (clinically adopted, more neutral to negative connotations) reflects fundamental disagreements about the nature and value of these experiences.
 
 ## See Also
-
 - [[emcdda-hallucinogenic-mushroom-smartshop-and-retail-outlets]]
-- [[emcdda-psilocybin-mushroom-species-and-identification]]
-
-## See Also
-
-- emcdda-hallucinogenic-mushroom-brand-names-and-user-terminology
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[psilocybe-mexicana]]
 - [[sida-cordifolia]]
 - [[psilocybe-semilanceata]]

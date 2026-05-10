@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [mycology, ecology, soil-science, decomposition]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi-biomass-carbon-soil-structure|biodiversity-of-fungi.md]
 type: concept
 ---
 # Soil Fungal Ecology Soil is the primary reservoir of fungal diversity on Earth. A single gram of soil can contain hundreds of fungal species representing all major fungal phyla, engaged in complex ecological interactions that underpin nutrient cycling, plant health, and ecosystem functioning. Despite their importance, soil fungi remain among the least characterized components of terrestrial biodiversity. ## Functional Guilds Soil fungi are classified into broad functional guilds based on their nutritional strategies: - **Saprotrophs (decomposers)**: The primary agents of organic matter decomposition in soil. They secrete extracellular enzymes (cellulases, ligninases, chitinases, proteases) to break down complex plant polymers. Saprotrophic basidiomycetes (e.g., litter-decomposing mushrooms) are especially important for lignin degradation. - **Mycorrhizal fungi**: Form mutualistic symbioses with plant roots, exchanging soil nutrients (phosphorus, nitrogen) for plant-derived carbon. [[wood-wide-web]]s") physically connect multiple trees,
@@ -34,7 +34,7 @@ certain fungal groups. Arid and semi-arid soils harbor distinct fungal
 communities adapted to water stress, including diverse dark-septate
 endophytes and desert truffles.
 
-## Soil Fungi and Carbon Cycling
+## [[soil-fungi-and-carbon-cycling]]
 
 Soil fungi play a central role in the global carbon cycle. As primary
 decomposers of plant litter and woody debris, they control the rate at
@@ -65,7 +65,19 @@ Soil fungal ecology employs a range of complementary methods:
 - **Metatranscriptomics**: Sequencing expressed fungal genes in soil
   to determine which metabolic pathways are active.
 
+## Soil Structure and Fungal Hyphae
+
+Fungal hyphae physically bind soil particles together, forming and
+stabilizing soil aggregates. Arbuscular mycorrhizal fungi produce a
+sticky protein called glomalin that contributes significantly to soil
+aggregate stability. This physical engineering role means that fungal
+hyphae influence not only nutrient availability but also water
+infiltration, erosion resistance, and overall soil structure. Soils
+with robust fungal networks typically have better tilth and higher
+water-holding capacity than fungal-depleted soils.
+
 ## See Also
 
 - [[mycorrhizal-network-diversity]]
 - [[fungal-secondary-metabolites-environment]]
+- [[decomposition]]

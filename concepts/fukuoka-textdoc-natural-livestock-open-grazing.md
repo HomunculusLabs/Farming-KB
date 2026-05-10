@@ -49,6 +49,8 @@ worker and the city dweller who consumes these food products lose their health a
 as they turn away from nature.
 ## See Also
 
+- [[fukuoka-textdoc-livestock-open-grazing-forest-pasture-method]]
+
 - [[fukuoka-textdoc-factory-livestock-abuses-natural-grazing-ideal]]
 
 - [[fukuoka-natural-livestock-farming]]

@@ -1,16 +1,148 @@
 ---
-title: "Insectary Plants and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]"
+title: [[mollison-designers-insectary-plants-and-beneficial-insect-habitat|Insectary]] Plants and Beneficial Insects
 created: 2026-04-28
-tags: permaculture, beneficial-insects, pollinators, pest-control, insectary-plants]
+tags: [permaculture, beneficial-insects, pollinators, pest-control, insectary-plants]
 date: 2026-04-25
 updated: 2026-04-25
 sources: ["~/wiki/raw/papers/gaias-garden-toby-hemenway.md"]
 type: concept
 ---
-# Insectary Plants and Beneficial Insects Attracting beneficial insects is one of the most powerful strategies for natural pest control and pollination in the ecological garden. By providing food, shelter, and the right conditions, gardeners can recruit an army of predators, parasitoids, and pollinators that keep pest populations in check without chemicals. ## The Insect Balance Ninety percent or more of all insects are beneficial or harmless. A diverse and balanced ensemble of insects in the landscape means good pollination, fruit set, and natural pest control. Without insects, our gardens would produce almost nothing except corn, grapes, and a handful of other wind-pollinated plants. Unfortunately, modern agriculture and conventional landscaping have devastated beneficial insect populations through two main mechanisms: the destruction of hedgerows and wild places that served as insect habitat, and widespread insecticide use that kills predators and parasitoids along with pests. ## Why Predators Die First The ecology of pests and their predators explains why insecticides backfire. Pest insects reproduce at staggering rates, quickly surging to astronomical numbers. But the insects that prey on these pests reproduce more slowly and are far fewer in number, because their food supply is less abundant and hunting takes more energy. Predators always occur in much smaller numbers than their prey, making them vulnerable to extinction when conditions are bad. There is also a critical time lag between pest breeding and predator breeding. When a pest outbreak occurs and the gardener sprays insecticide, it kills most of both the pests and the predators. The fast-breeding pests recover within weeks, but the slow-breeding predators remain at critically low numbers. After a few rounds of this cycle, the predators are all dead and the pests are predator-free, putting the gardener on an expensive and toxic treadmill. ## Four Types of Beneficial Insects ### 1. Predatory Insects Predators come from beetles, true bugs, flies, wasps, and other orders. They eat prey by chewing with fierce mandibles or piercing and sucking body fluids. Many are generalists that eat anything they encounter. Both adults and larvae of species like lady beetles are predators. Spiders, though arachnids rather than insects, are superb predators; researchers found thirty times more spiders in mulched gardens than in unmulched ones, with far less insect damage to plants. ### 2. Parasitic Insects (Parasitoids) Small wasps and flies that lay their eggs inside other insects or insect eggs. Most are specialists, preying on only one or a few pest species. Most adult parasitoids are not carnivorous and feed mainly on pollen and nectar, making flowers and wild vegetation near or in the garden critical for their survival. Many parasitic wasps are barely visible to the eye and most are stingless. ### 3. Pollinators Without insects to fertilize flowers with pollen, humans would starve. The European honeybee is the best-known pollinator, but recently they have fallen prey to parasitic mites and diseases that have killed up to 80 percent of colonies, making native and other pollinators more important than ever. Fortunately, native bees and wasps are abundant and effective pollinators. ### 4. Weed Feeders Some insects specifically eat unwanted plants. Certain beetles and weevils feed exclusively on invasive species like purple loosestrife and leafy spurge, offering targeted biological control. ## Creating Habitat for Beneficial Insects ### Food Sources Plant pollen- and nectar-producing flowers throughout the garden. Beneficial insects need nectar and pollen for energy and reproduction, and some also need pest insects as food. Having a few pests around is actually better than having none at all, because if you temporarily eliminate all pests, the good bugs will disappear too, leaving you defenseless when the faster-breeding pests return. ### Shelter Dense foliage, mulch, dead brush and leaves, rock piles, and walls provide the high humidity and refuge from temperature changes that beneficials prefer. Research shows that many beneficial insects overwinter or lay eggs in dead vegetation, so gardeners should delay postseason cleanup until spring. The fastidiously neat garden is poor habitat for beneficials. ### Water Many insects get moisture from nectar or foliage, but some species of bees and wasps drink from open water. Having a pond or other water feature is never a bad idea. ### Temporal Diversity Grow many species of flowers so that several types are always in bloom, giving beneficials a better chance at fattening up enough to breed throughout the season. Many-specied hedgerows, wild and weedy spots, mixed perennial borders, and flowers sprinkled in vegetable beds all provide continuous habitat. ## Key Insectary Plant Families - **Apiaceae (celery/carrot family):** Fennel, Queen Anne's lace, dill, coriander, angelica, caraway, parsley - **Asteraceae (sunflower/composite family):** Yarrow, golden marguerite, cosmos, feverfew, calendula, dandelion, Maximilian sunflower - **Lamiaceae (mint family):** Lavender, bee balm, lemon balm, pennyroyal, thyme, rosemary, sage - **Liliaceae (onion/lily family):** Alliums, including garlic, chives, and ornamental alliums - **Fabaceae (legume family):** Clover, alfalfa, vetch, lupine, cowpeas - **Buckwheat:** An excellent general-purpose insectary that blooms over a long period ## Specific Recommended Plants Yarrow, buckwheat, lavender, golden marguerite, bee balm, clovers, dill, fennel, coriander, calendula, borage, phacelia, alyssum, cosmos, feverfew, pennyroyal, angelica, and many others all serve as excellent insectary plants. Many of these are also edible, medicinal, or serve additional functions in the garden, embodying the hemenway-guild-design-roles-and-assembly for integrating insectary plants into guilds - [[hemenway-backyard-wildlife-habitat]] for attracting birds as additional
-  predators
-- [[hemenway-mulch-makers-and-plant-functional-roles]] for other multifunctional
-  plant categories
+# Insectary Plants and Beneficial Insects
 
-## See Also
-- [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]
+Attracting beneficial insects is one of the most powerful strategies
+for natural pest control and pollination in the ecological garden. By
+providing food, shelter, and the right conditions, gardeners can
+recruit an army of predators, parasitoids, and pollinators that keep
+pest populations in check without chemicals. This is a core principle of [[hamilton-beneficial-insects-and-biological-pest-control]] and connects closely to [[companion-planting]] strategies.
+
+## The Insect Balance
+
+Ninety percent or more of all insects are beneficial or harmless. A
+diverse and balanced ensemble of insects in the landscape means good
+pollination, fruit set, and natural pest control. Without insects, our
+gardens would produce almost nothing except corn, grapes, and a
+handful of other wind-pollinated plants. Unfortunately, modern
+agriculture and conventional landscaping have devastated beneficial
+insect populations through two main mechanisms: the destruction of
+hedgerows and wild places that served as insect habitat, and widespread
+insecticide use that kills predators and parasitoids along with pests.
+
+## Why Predators Die First
+
+The ecology of pests and their predators explains why insecticides
+backfire. Pest insects reproduce at staggering rates, quickly surging
+to astronomical numbers. But the insects that prey on these pests
+reproduce more slowly and are far fewer in number, because their food
+supply is less abundant and hunting takes more energy. Predators always
+occur in much smaller numbers than their prey, making them vulnerable
+to extinction when conditions are bad.
+
+There is also a critical time lag between pest breeding and predator
+breeding. When a pest outbreak occurs and the gardener sprays
+insecticide, it kills most of both the pests and the predators. The
+fast-breeding pests re[[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them|cover]] within weeks, but the slow-breeding
+predators remain at critically low numbers. After a few rounds of this
+cycle, the predators are all dead and the pests are predator-free,
+putting the gardener on an expensive and toxic treadmill.
+
+## Four Types of Beneficial Insects
+
+### 1. Predatory Insects
+
+Predators come from beetles, true bugs, flies, wasps, and other
+orders. They eat prey by chewing with fierce mandibles or piercing and
+sucking body fluids. Many are generalists that eat anything they
+encounter. Both adults and larvae of species like lady beetles are
+predators. Spiders, though arachnids rather than insects, are superb
+predators; researchers found thirty times more spiders in mulched
+gardens than in unmulched ones, with far less insect damage to plants.
+
+### 2. Parasitic Insects (Parasitoids)
+
+Small wasps and flies that lay their eggs inside other insects or
+insect eggs. Most are specialists, preying on only one or a few pest
+species. Most adult parasitoids are not carnivorous and feed mainly on
+pollen and nectar, making flowers and wild vegetation near or in the
+garden critical for their survival. Many parasitic wasps are barely
+visible to the eye and most are stingless.
+
+### 3. Pollinators
+
+Without insects to fertilize flowers with pollen, humans would starve.
+The European honeybee is the best-known pollinator, but declining populations — as explored in [[pollinator-conservation]] — mean that native pollinators are
+increasingly important. Recently they
+have fallen prey to parasitic mites and diseases that have killed up
+to 80 percent of colonies, making native and other pollinators more
+important than ever. Fortunately, native bees and wasps are abundant
+and effective pollinators.
+
+### 4. Weed Feeders
+
+Some insects specifically eat unwanted plants. Certain beetles and
+weevils feed exclusively on invasive species like purple loosestrife
+and leafy spurge, offering targeted biological control.
+
+## Creating Habitat for Beneficial Insects
+
+### Food Sources
+
+Plant pollen- and nectar-producing flowers throughout the garden.
+Beneficial insects need nectar and pollen for energy and reproduction,
+and some also need pest insects as food. Having a few pests around is
+actually better than having none at all, because if you temporarily
+eliminate all pests, the good bugs will disappear too, leaving you
+defenseless when the faster-breeding pests return.
+
+### Shelter
+
+Dense foliage, mulch, dead brush and leaves, rock piles, and walls
+provide the high humidity and refuge from temperature changes that
+beneficials prefer. Research shows that many beneficial insects
+overwinter or lay eggs in dead vegetation, so gardeners should delay
+postseason cleanup until spring. The fastidiously neat garden is poor
+habitat for beneficials.
+
+### Water
+
+Many insects get moisture from nectar or foliage, but some species of
+bees and wasps drink from open water. Having a pond or other water
+feature is never a bad idea.
+
+### Temporal Diversity
+
+Grow many species of flowers so that several types are always in bloom,
+giving beneficials a better chance at fattening up enough to breed
+throughout the season. Many-specied hedgerows, wild and weedy spots,
+mixed perennial borders, and flowers sprinkled in vegetable beds all
+provide continuous habitat.
+
+## Key Insectary Plant Families
+
+These plant families overlap significantly with those used in [[companion-planting-guilds]] and [[permaculture-plants-medicinal-herbs-healing]], reflecting the multifunctional nature of ecological garden design.
+
+These plant families overlap significantly with those used in [[permaculture-plants-medicinal-herbs-healing]] and [[companion-planting-guilds]], reflecting the multifunctional nature of ecological garden design.
+
+- **Apiaceae (celery/carrot family):** Fennel, Queen Anne's lace,
+  dill, coriander, angelica, caraway, parsley
+- **Asteraceae (sunflower/composite family):** Yarrow, golden
+  marguerite, cosmos, feverfew, calendula, dandelion, Maximilian
+  sunflower
+- **Lamiaceae (mint family):** Lavender, bee balm, lemon balm,
+  pennyroyal, thyme, rosemary, sage
+- **Liliaceae (onion/lily family):** Alliums, including garlic,
+  chives, and ornamental alliums
+- **Fabaceae (legume family):** Clover, alfalfa, vetch, lupine, cowpeas
+- **Buckwheat:** An excellent general-purpose insectary that blooms
+  over a long period
+
+## Specific Recommended Plants
+
+Yarrow, buckwheat, lavender, golden marguerite, bee balm, clovers,
+dill, fennel, coriander, calendula, borage, phacelia, alyssum, cosmos,
+feverfew, pennyroyal, angelica, and many others all serve as excellent
+insectary plants. Many of these are also edible, medicinal, or serve
+additional functions in the garden.
+
+## Designing Insectary Strips and Borders
+
+Integrating insectary plants into the garden requires strategic

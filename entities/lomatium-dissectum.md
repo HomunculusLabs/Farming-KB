@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
-  - Foster, S. & Hobbs, C. (2002). "A [[ghouled-field-guide-historical-context]] to Western Medicinal Plants and Herbs." Houghton Mifflin.
+  - Foster, S. & Hobbs, C. (2002). "A ghouled-field-guide-historical-context to Western Medicinal Plants and Herbs." Houghton Mifflin.
   - Tilford, G.L. (1997). "Edible and Medicinal Plants of the West." Mountain Press Publishing.
   - McIntyre, P. (2009). "Medicinal Plants of the Northwest." Wild Roots Botanicals.
   - Kindscher, K. (1992). "Medicinal Wild Plants of the Prairie." University Press of Kansas.

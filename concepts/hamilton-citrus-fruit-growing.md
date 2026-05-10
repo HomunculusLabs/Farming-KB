@@ -116,10 +116,6 @@ fruited shoots after harvesting.
   conditions to thrive outdoors
 
 ## See Also
-
 - [[hamilton-greenhouse-management-organic]]
 - [[hamilton-organic-fruit-growing]]
-
-## See Also
-
 - [[growing-tree-fruit-organically]]

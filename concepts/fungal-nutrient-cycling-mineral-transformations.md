@@ -22,7 +22,7 @@ Fungi are central agents in nutrient cycling, performing transformations that ba
 
 Fungi are the primary decomposers of recalcitrant organic matter in most terrestrial ecosystems:
 
-- **Lignin degradation**: Only white-rot basidiomycetes (e.g., [[staycare-phanerochaete-chrysosporium-in-bioremediation]]) can fully mineralize lignin, the second most abundant biopolymer on Earth. This is accomplished through lignin peroxidase (LiP), [[fungal-manganese-peroxidase-remediation]] (MnP), and laccase enzyme systems.
+- **Lignin degradation**: Only white-rot basidiomycetes (e.g., Phanerochaete chrysosporium) can fully mineralize lignin, the second most abundant biopolymer on Earth. This is accomplished through lignin peroxidase (LiP), manganese peroxidase (MnP), and laccase enzyme systems.
 - **Cellulose decomposition**: Performed by both fungi and bacteria, but fungi are dominant in acidic forest soils where bacterial activity is suppressed. Cellulases (endoglucanases, exoglucanases, beta-glucosidases) hydrolyze cellulose to glucose.
 - **Carbon use efficiency**: Fungi have higher carbon use efficiency than bacteria (~40-60% of assimilated carbon incorporated into biomass vs ~20-40% for bacteria), meaning more carbon is retained in fungal biomass per unit of substrate consumed.
 
@@ -87,8 +87,8 @@ Fungi can immobilize toxic metals through several mechanisms:
 
 - **Biosorption**: Metal ions bind to cell wall components (chitin, glucans, melanin). Fungal biomass can sequester significant quantities of Cu, Zn, Cd, Pb, and other metals.
 - **Intracellular sequestration**: Metals are compartmentalized in vacuoles or bound by metallothioneins and phytochelatins
-- **Precipitation**: Fungal [[arbuscule-isolation-metabolic-activity-assays]] can cause metal precipitation as oxalates, carbonates, or sulfides
-- **Oxalate crystal formation**: Many fungi precipitate metals as metal oxalates (e.g., [[fungal-calcium-oxalate-crystals]], copper oxalate), effectively immobilizing them
+- **Precipitation**: Fungal metabolic activity can cause metal precipitation as oxalates, carbonates, or sulfides
+- **Oxalate crystal formation**: Many fungi precipitate metals as metal oxalates (e.g., calcium oxalate, copper oxalate), effectively immobilizing them
 
 See [[mycoremediation-of-heavy-metals]] for applied aspects.
 
@@ -134,16 +134,17 @@ The combined mineral transformations performed by fungi have profound ecosystem-
 ## Key Species
 
 - *Phanerochaete chrysosporium* -- model white-rot fungus for lignin degradation
-- *[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]* -- effective lignin degrader, produces laccases
+- *Trametes versicolor* -- effective lignin degrader, produces laccases
 - *Glomus intraradices* (now *Rhizophagus irregularis*) -- model AM fungus
 - *Suillus luteus* -- ectomycorrhizal, heavy metal tolerance
 - *Aspergillus niger* -- prolific organic acid producer, P solubilization
+- *Fusarium oxysporum* -- fungal denitrification, pathogen
+
 ## Related Pages
 
 - [[fungal-ecology-decomposition-cycles]] -- decomposition succession and soil building
 - [[mycorrhizal-types]] -- types of mycorrhizal associations
 - [[mycorrhizal-networks]] -- common mycorrhizal networks
-- [[soil-food-web-nutrient-cycling]] -- [[dighton-fungal-trophic-interactions-soil-food-webs]] in soil
+- [[soil-food-web-nutrient-cycling]] -- trophic interactions in soil
 - [[mycoremediation-of-heavy-metals]] -- fungal metal bioremediation
 - [[geoffrey-gadd]] -- geomycology researcher
-- [[john-dighton]] -- fungal ecology researcher

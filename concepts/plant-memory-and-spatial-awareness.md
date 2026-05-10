@@ -118,7 +118,4 @@ that are exquisitely tuned to their environmental context.
 ## See Also
 - [[phytochrome-signaling-plant-light-perception]]
 - [[chelation-and-metal-binding-in-plants]]
-
-## See Also
-
 - [[plant-gravitropism-and-spatial-awareness]]

@@ -130,10 +130,6 @@ ritual to the universal spiritual truth of impermanence while affirming the
 eternal nature of spirit.
 
 ## See Also
-
-- [[cannabis-healing-ritual]] for another earth-centered cannabis ceremony
-- [[cannabis-fire-ritual]] for the complementary fire celebration ritual
-
-## See Also
-
+- [[cannabis-healing-ritual]]
+- [[cannabis-fire-ritual]]
 - [[cannabis-anointing-oil-blessing-rituals]]

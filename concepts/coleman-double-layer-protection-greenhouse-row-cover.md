@@ -11,7 +11,6 @@ approach moved the effective growing climate two USDA hardiness zones
 southward without any artificial heat, allowing year-round production of
 cold-hardy vegetables in the harsh Maine climate (Zone 5).
 
-## The Two-Zone Shift
 ## See Also
 
 - [[coleman-second-spring-august-planting-window]]

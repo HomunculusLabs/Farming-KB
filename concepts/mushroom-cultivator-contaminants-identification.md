@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [gardening]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Contaminants of Mushroom Culture in The Mushroom Cultivator

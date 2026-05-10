@@ -25,7 +25,7 @@ aliases:
 sources:
   - Small, E. & Jomphe, M. (1989). "A synopsis of the genus Medicago." Canadian Journal of Botany 67(11).
   - Barnes, D.K. et al. (1988). "Alfalfa and relatives." In: Fehr, W.R. (ed.) "Breeding Methods for Self-Pollinated Crops." Crop Sci. Soc. America.
-  - Bao, Y. et al. (2016). "Chemical composition and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of alfalfa." Journal of the Science of Food and Agriculture 96(15).
+  - Bao, Y. et al. (2016). "Chemical composition and query-what-are-the-main-bioactive-compounds-in-medicinal-plants of alfalfa." Journal of the Science of Food and Agriculture 96(15).
   - Putnam, D.H. et al. (2001). "Alfalfa." University of Wisconsin Extension.
   - Julian, M.R. et al. (2009). "Medicinal properties of Medicago sativa." Phytotherapy Research 23(2).
 created: 2026-04-28

@@ -1,6 +1,6 @@
 ---
 
-title: Bionutrients Guide — Philippine comparison-natural-farming-vs-permaculture Preparations
+title: Bionutrients Guide — Philippine Natural Farming Preparations
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -38,7 +38,7 @@ Fermentation is superior to simple extraction (boiling, tea infusion) because mi
 ## Fermented Plant Juice (FPJ) — Local Plant Selections
 
 ### Kangkong (Water Spinach) FPJ — Growth Promotant
-Kangkong grows extremely fast in freshwater, indicating high concentrations of natural growth hormones (gibberellins, auxins, cytokinins). Use axillary buds of kangkong, or substitute with fast-growing plants like kelp, mugwort, cucumber, squash, and watermelon tips. Spray/water plants to accelerate [[cannabis-vegetative-growth-stage]].
+Kangkong grows extremely fast in freshwater, indicating high concentrations of natural growth hormones (gibberellins, auxins, cytokinins). Use axillary buds of kangkong, or substitute with fast-growing plants like kelp, mugwort, cucumber, squash, and watermelon tips. Spray/water plants to accelerate vegetative growth.
 
 ### Banana-Squash-Papaya (BSP) FPJ — Flowering/Fruiting
 High in potassium (banana) and beta-carotene (papaya, squash). Used to induce flowering and fruiting in vegetables. In the Philippines, conventional mango growers use potassium nitrate; BSP is the natural alternative. Substitutes for temperate climates: comfrey + squash + carrot.
@@ -67,7 +67,7 @@ Fish scraps fermented as a high-nitrogen source. The higher the protein of sourc
 
 ## Calcium Phosphate (CA)
 
-Critical for the "changeover period" (vegetative to reproductive transition). Based on Yasushi Inoue's Nutrioperiodism theory (1930s): plants need specific nutrients at specific developmental stages. Calcium phosphate is the key input for the transition — the plant's "[[cho-morning-sickness-and-plant-cross-over-period]]" phase.
+Critical for the "changeover period" (vegetative to reproductive transition). Based on Yasushi Inoue's Nutrioperiodism theory (1930s): plants need specific nutrients at specific developmental stages. Calcium phosphate is the key input for the transition — the plant's "morning sickness" phase.
 
 **Method**:
 1. Roast eggshells until good ashes form
@@ -81,7 +81,7 @@ Critical for the "changeover period" (vegetative to reproductive transition). Ba
 
 The original Korean recipe uses ginger, garlic, and Chinese herbs (Angelica acutiloba, Glycyrrhiza uralensis, Cinnamomum loureirii) — all selected for digestive benefits. Carandang's simplified version uses equal parts ginger and garlic.
 
-**Key difference from standard FPJ**: OHN uses [[pf-tek-alcohol-extraction-method]] as the final step (like [[query-how-to-make-herbal-tinctures-salves-and-extracts-at-home]] in homeopathy):
+**Key difference from standard FPJ**: OHN uses alcohol extraction as the final step (like herbal tinctures in homeopathy):
 1. Soak chopped ginger + garlic in beer or wine overnight (12 hours)
 2. Add 1/3 crude sugar, ferment 5-7 days
 3. Add 40% proof alcohol to stabilize and arrest fermentation
@@ -91,7 +91,7 @@ The original Korean recipe uses ginger, garlic, and Chinese herbs (Angelica acut
 
 ## Lactic Acid Bacteria (LAB) Serum
 
-The "major workhorse" of the bionutrient system. LAB constitutes 50% of the total Beneficial [[knf-indigenous-microorganism-culture]] (BIM) blend.
+The "major workhorse" of the bionutrient system. LAB constitutes 50% of the total Beneficial Indigenous Microorganism (BIM) blend.
 
 **Collection**: Rice wash fermented 5-7 days at 20-25C in a container with 50-75% air gap. Lactic acid bacteria gather when rice bran separates and floats as a thin film with sour smell.
 
@@ -132,18 +132,19 @@ Carandang's enhanced bokashi formula (Philippine version):
 
 | Aspect | Carandang Bionutrients | Cho's KNF |
 |--------|----------------------|-----------|
-## See Also
+| FPJ plants | Kangkong, papaya, BSP (tropical) | Specific plants by growth stage |
+| FAA | Fish scraps + molasses + LAB | Fish scraps + brown sugar |
+| Calcium | Eggshells + vinegar (simple) | Eggshells + BRV (fermented) |
+| OHN | Ginger + garlic + alcohol | 5 herbs + 5-stage extraction |
+| LAB | Rice wash → milk → sugar | Rice wash → milk → brown sugar |
+| IMO source | Forest, bamboo, plant-specific | Forest (multi-environment) |
+| Sugar source | Crude sugar or molasses | Brown sugar (jaggery) |
+| Compost | Designer bokashi with BIM | FMC with IMO-4 |
+| Philosophy | Self-reliant, tropical-adapted | Systematic, stage-specific |
 
-- [[knf-preparations]] — Master Cho's complete KNF input system
-- [[indigenous-microorganisms-imo]] — IMO 4-stage collection (Cho's method)
-- [[lactic-acid-bacteria-lab]] — Detailed LAB collection and storage
-- [[jadam-methods]] — JADAM's alternative biological farming system
-- [[soil-food-web-nutrient-cycling]] — How bionutrients interact with soil biology
-- [[fermented-plant-extract-fpe]] — FPJ recipes and plant selection
-- [[fish-amino-acid-faa]] — KNF FAA detailed recipe
-- [[oriental-herbal-nutrient-ohn]] — 5-herb OHN preparation
-## Related
+## How Bionutrients Affect Soil Biology
 
-- [[knf-oha]]
-
-- [[herbal-tinctures-guide]]
+- FPJ feeds [[soil-food-web-nutrient-cycling]] bacteria and fungi with plant-available nutrients and growth hormones
+- FAA provides rapid nitrogen for bacterial bloom during early decomposition
+- LAB arrests foul odors, neutralizes ammonia, creates conditions favorable for beneficial microbes over pathogens
+- OHN's antibiotic properties selectively suppress harmful organisms while sparing beneficials

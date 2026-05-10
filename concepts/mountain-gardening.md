@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, climate, season-extension, plants, cultivation, earthworks, conservation]
-sources:
-  sources: []
+sources: []
 ---
 
 # Mountain Gardening
@@ -47,7 +46,7 @@ Lower atmospheric pressure at elevation affects:
 - Water boils at lower temperatures (200°F at 6,000 ft vs. 212°F at sea level)
 - Reduced CO2 availability can slightly slow plant growth
 - Transpiration rates increase due to lower humidity and wind
-- Soil dries faster despite cooler temperatures due to wind and [[pf-tek-low-humidity-symptoms-and-remediation]]
+- Soil dries faster despite cooler temperatures due to wind and low humidity
 
 ## Frost Protection
 
@@ -57,14 +56,14 @@ Methods that require no external energy:
 - **Stone walls**: Absorb heat during the day and radiate it at night; a south-facing stone wall can create a microclimate 5-10°F warmer than surrounding areas
 - **Water bodies**: Ponds, water barrels, and even large containers of water moderate temperature; water releases heat as it cools
 - **Thermal mass**: Rocks, brick, and concrete pathways absorb daytime heat and release it slowly at night
-- **Slope position**: [[hemenway-cold-air-drainage-and-frost-management]] drains downhill; avoid planting in low spots and frost pockets
+- **Slope position**: Cold air drains downhill; avoid planting in low spots and frost pockets
 - **Windbreaks**: Dense plantings or fences on the north and west sides reduce cold wind exposure
 - **Mulch**: A thick layer of mulch insulates soil and protects shallow roots from freezing
 
 ### Active Frost Protection
 Methods requiring energy or materials:
 
-- **[[solomon-row-covers-and-season-extension]]**: Floating row cover provides 2-6°F of frost protection
+- **Row covers**: Floating row cover provides 2-6°F of frost protection
 - **Low tunnels**: PVC or wire hoops covered with row cover or plastic; 4-10°F protection
 - **Wall o' water**: Water-filled plastic tubes around individual plants; 8-16°F protection
 - **Cloches**: Glass or plastic covers for individual plants
@@ -78,7 +77,7 @@ Methods requiring energy or materials:
 ## Rock Walls and Microclimates
 
 ### Stone Wall Construction
-Stone walls are the [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spiritual-wisdom]] garden's most valuable tool:
+Stone walls are the traditional mountain garden's most valuable tool:
 
 - **South-facing walls**: Absorb maximum solar radiation; create the warmest microclimates
 - **Terrace walls**: Convert slopes into level planting areas; retain soil and moisture
@@ -89,7 +88,7 @@ Stone walls are the [[fukuoka-textdoc-traditional-mountain-paddy-aesthetics-spir
 ### Other Microclimate Strategies
 - **Slope aspect**: South-facing slopes warm earliest in spring
 - **Terracing**: Level areas warm faster than slopes; reduce erosion
-- **[[cervantes-wind-protection-outdoor-cannabis]]**: Plantings on the leeward side of buildings or windbreak hedgerows
+- **Wind protection**: Plantings on the leeward side of buildings or windbreak hedgerows
 - **Heat sinks**: Dark-colored rocks or gravel beds placed near sensitive plants
 
 ## Cold-Hardy Varieties
@@ -136,15 +135,16 @@ Perennials that survive and produce at high elevations:
 ## Soil Building at Elevation
 
 ### Thin Mountain Soils
-Mountain soils are typically shallow, rocky, and low in [[hamilton-composting-and-organic-matter-management]]:
+Mountain soils are typically shallow, rocky, and low in organic matter:
 
 - Glacial, alluvial, or residual soils with limited topsoil depth
 - High rock content provides drainage but limits root growth
 - Low organic matter due to slow decomposition in cool temperatures
 - Often acidic due to conifer influence and high rainfall
-## See Also
-- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
-- [[ultra-low-green-manure-cover-crop-species]]
-- [[solomon-green-manure-cover-crop-techniques]]
-- [[mollison-humus-and-organic-matter-in-soils]]
-- [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]]
+
+### Building Soil
+- Import compost and organic matter; incorporate 4-6 inches into new beds
+- Use raised beds to increase rooting depth above rocky subsoil
+- Plant green manure cover crops during short off-seasons (hairy vetch, field peas, oats, winter rye)
+- Mulch heavily to retain moisture and build organic matter
+- Add biochar to improve nutrient retention in sandy mountain soils

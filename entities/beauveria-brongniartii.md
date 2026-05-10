@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - Rehner, S.A. et al. (2011). "Multilocus phylogenetic taxonomy of the Beauveria." Mycologia 103(5): 1069-1083.
   - Inglis, G.D. et al. (2001). "Use of hyphomycetous fungi for managing insect pests." In: Fungal Biocontrol Agents.
-  - Zimmermann, G. (2007). "A review of fifty years of [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with Beauveria." Biocontrol Science and Technology 17(6): 567-594.
+  - Zimmermann, G. (2007). "A review of fifty years of fukuoka-textdoc-biological-control-fallacy-pheromone-critique with Beauveria." Biocontrol Science and Technology 17(6): 567-594.
   - Feng, M.G. et al. (1994). "Biological control of insect pests in China." Biocontrol News and Information 15: 21N-30N.
 aliases:
   - B. brongniartii

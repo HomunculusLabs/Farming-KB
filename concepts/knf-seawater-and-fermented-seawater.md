@@ -1,6 +1,6 @@
 ---
 
-title: KNF cho-seawater-and-fermented-seawater Seawater
+title: KNF Seawater and Fermented Seawater
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # KNF Seawater and Fermented Seawater
 
-Seawater is KNF's full-spectrum mineral supplement. Surface seawater (top 3 cm) swarms with microbes and contains all essential trace minerals in balanced, bioavailable form. Fermented seawater combines seawater minerals with land-based microbes and [[hamilton-composting-and-organic-matter-management]], creating a potent biological-mineral input.
+Seawater is KNF's full-spectrum mineral supplement. Surface seawater (top 3 cm) swarms with microbes and contains all essential trace minerals in balanced, bioavailable form. Fermented seawater combines seawater minerals with land-based microbes and organic matter, creating a potent biological-mineral input.
 
 ## Why Seawater?
 
@@ -78,7 +78,7 @@ Combining land microbes (rice wash, FPJ) with ocean minerals and microbes create
 
 ## See Also
 
-- [[knf-preparations]] — all [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] overview
+- [[knf-preparations]] — all KNF inputs overview
 - [[water-soluble-calcium-wca]] — combine with seawater for pre-harvest sweetness
 - [[oriental-herbal-nutrient-ohn]] — OHN enhances fermented seawater
 - [[fermented-plant-extract-fpe]] — FPJ used in fermented seawater recipe

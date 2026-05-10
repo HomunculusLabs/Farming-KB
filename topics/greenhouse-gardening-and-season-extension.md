@@ -143,7 +143,6 @@
    143|sheds snow more effectively. Double-layer polyethylene inflated by a small
    144|squirrel-cage blower provides insulation value roughly equivalent to a single
    145|pane of glass while costing a fraction of the price. UV-stabilized 6-mil
-   146|greenhouse-grade poly should be replaced every 4 to 6 years. High tunnels
 ## Related
 - [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing|query how do i choose between indoor outdoor and greenhouse cannabis growing]]
 - [[organic-greenhouse-growing|organic greenhouse growing]]

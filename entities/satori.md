@@ -133,6 +133,6 @@ management.
 
 ## See Also
 
-[[cannabis-blue-dream]], [[cannabis-indoor-growing-basics]],
+[[blue-dream]], [[cannabis-indoor-growing-basics]],
 [[green-crack]], [[super-lemon-haze]]
 for comparison with other sativa-dominant and landrace-influenced strains.

@@ -4,14 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [composting, compost, homesteading, sustainability, off-grid, water-management, safety, microbes]
-sources:
-  sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
 ## Overview
 
-A sawdust toilet is a simple, waterless composting toilet system that collects human waste in a container, covering each deposit with a carbon-rich cover material like sawdust, peat moss, or shredded leaves. The contents are later transferred to an outdoor [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]] where thermophilic decomposition renders the material safe for agricultural use.
+A sawdust toilet is a simple, waterless composting toilet system that collects human waste in a container, covering each deposit with a carbon-rich cover material like sawdust, peat moss, or shredded leaves. The contents are later transferred to an outdoor compost bin where thermophilic decomposition renders the material safe for agricultural use.
 
 ## How It Works
 
@@ -28,7 +26,7 @@ A basic sawdust toilet consists of:
 
 1. **Container** — A 5-gallon bucket lined with a compostable bag or used bare. Two buckets are rotated: one in use, one curing.
 2. **Seat** — A wooden or plastic toilet seat mounted on a plywood box that fits over the bucket.
-3. **Cover material** — A supply of sawdust, [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]], peat moss, coconut coir, or dry leaves kept in a sealed container beside the toilet.
+3. **Cover material** — A supply of sawdust, wood chips, peat moss, coconut coir, or dry leaves kept in a sealed container beside the toilet.
 4. **Ventilation** — Optional but recommended: a small vent pipe through the box connected to the outside to carry any residual odor away.
 
 The box should be roughly 15-18 inches tall, wide enough to hold the bucket securely, and comfortable to sit on. A hinged lid keeps the cover material dry and prevents odors.
@@ -48,7 +46,7 @@ Avoid pressure-treated wood sawdust, glossy paper, or materials with chemical co
 
 ## The Compost Bin
 
-Once a bucket is full, its contents are deposited into a compost bin outdoors. Key [[holmgren-permaculture-twelve-design-principles-framework]]:
+Once a bucket is full, its contents are deposited into a compost bin outdoors. Key design principles:
 
 - **Size** — Minimum 4x4x4 feet for a single household. Two bins are ideal so one can cure while the other fills.
 - **Construction** — Wire mesh, wooden pallets, or cinder blocks with open bottoms for drainage and earthworm access.
@@ -73,7 +71,7 @@ The primary health concern is destroying human pathogens. Key facts:
 
 - **Temperature threshold** — Most pathogens are killed at 122F held for 24 hours. A margin of safety targets 131F for several days.
 - **Time factor** — Even without sustained high temperatures, compost that cures for 12-24 months is generally safe due to microbial competition and predation.
-- **[[comparison-primary-vs-secondary-succession]] treatment** — The toilet bucket is primary containment. The compost bin is secondary treatment. Neither stage alone is sufficient; the full process is what makes it safe.
+- **Primary vs secondary treatment** — The toilet bucket is primary containment. The compost bin is secondary treatment. Neither stage alone is sufficient; the full process is what makes it safe.
 - **Testing** — Home composters can send samples to labs for fecal coliform testing if desired, but proper management makes this unnecessary in practice.
 
 ## What Not to Compost
@@ -82,7 +80,7 @@ The primary health concern is destroying human pathogens. Key facts:
 - Disposable diapers, sanitary products
 - Chemical cleaners or solvents
 - Pharmaceutical residues
-- [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]] or industrial contaminants
+- Heavy metals or industrial contaminants
 
 ## Common Problems and Solutions
 

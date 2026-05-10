@@ -85,6 +85,8 @@ acceleration leads to the kind of consciousness singularity McKenna envisioned,
 the pattern itself is observable and significant.
 ## See Also
 
+- [[cultural-acceleration-temporal-compression-human-history-mckenna]]
+
 - [[mckenna-history-as-eschatological-shockwave]]
 
 - [[mckenna-translinguistic-matter-and-exteriorized-soul]]

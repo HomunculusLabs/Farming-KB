@@ -5,7 +5,6 @@ date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, permaculture, garden-design, tropical, water-management]
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 

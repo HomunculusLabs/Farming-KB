@@ -9,7 +9,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 synonyms:
   - medical cannabis
@@ -23,7 +22,7 @@ type: concept
 # Medical Marijuana - Pharmacology and Qualifying Conditions
 
 Dr. John McPartland's contribution to *Marijuana Horticulture* provides a
-comprehensive overview of [[cannabis-as-medicine-clinical-reference]], covering its history,
+comprehensive overview of cannabis as medicine clinical reference, covering its history,
 pharmacology, qualifying conditions, and the regulatory landscape.
 
 ## Historical Context

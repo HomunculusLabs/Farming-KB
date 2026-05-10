@@ -92,5 +92,7 @@ communities, and systematic experimentation to build expertise.
 
 ## See Also
 
+- [[poronia-punctata]]
+
 - [[coprophilous-fungi-taxonomic-groups-distribution]]
 - [[elaphomyces-cordyceps-ceremonial-complex-oaxaca-guzman-1998]]

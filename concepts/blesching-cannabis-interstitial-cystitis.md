@@ -6,7 +6,7 @@ tags:
   - interstitial-cystitis
   - bladder-health
   - chronic-pain
-  - [[cannabis-health-endo-cannabinoid-system]]
+  - [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 date: 2026-04-25
 updated: 2026-04-25
 sources:

@@ -139,7 +139,6 @@ Methanolic and aqueous extracts demonstrate significant DPPH and ABTS radical sc
 The most important feature is the **concentrically zoned cap** with multiple color bands and **white pore surface**:
 - **Trametes hirsuta** — similar but uniformly gray-brown, hairy cap without distinct zoning
 - **Stereum ostrea** (false turkey tail) — smooth pore-less underside (hymenium is smooth, not poroid)
-- **Lenzites betulina** — gill-like folds rather than true pores
 ## See Also
 
 - [[abortiporus-biennis]]

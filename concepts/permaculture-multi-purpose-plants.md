@@ -31,7 +31,7 @@ The most celebrated multi-purpose plant in permaculture:
 2. **Mineral accumulation**: Deep taproot mines potassium, calcium, and trace minerals from subsoil
 3. **Medicine**: Wound healing, bone repair, anti-inflammatory (allantoin compound)
 4. **Bee forage**: Flowers attract pollinators over a long season
-5. **[[jadam-liquid-fertilizer-nutritional-perspective]]**: Comfrey tea provides concentrated potassium and minerals for garden plants
+5. **Liquid fertilizer**: Comfrey tea provides concentrated potassium and minerals for garden plants
 6. **Weed suppression**: Dense growth shades out competitors (fortress plant)
 7. **Soil building**: Deep roots break compacted soil and add organic matter at depth
 8. **Pest confusion**: Complex aromatic profile may deter some pests
@@ -42,7 +42,7 @@ A remarkably versatile multi-purpose plant:
 
 1. **Construction material**: Poles for trellises, fences, scaffolding, and building; [[bamboo-as-building-material|bamboo construction]]
 2. **Food**: Edible shoots of many species; nutritious and productive
-3. **[[permplant-willows-salix-erosion-control-fodder]]**: Dense rhizome networks hold soil on steep slopes
+3. **Erosion control**: Dense rhizome networks hold soil on steep slopes
 4. **Windbreak**: Dense clumps provide effective shelter
 5. **Craft material**: Basketry, furniture, tools, musical instruments
 6. **Water filtration**: Bamboo charcoal absorbs impurities
@@ -65,7 +65,7 @@ Called the "miracle tree" or "horseradish tree" for its extraordinary range of u
 6. **Water purification**: Crushed seeds clarify turbid water (a traditional use now validated by research)
 7. **Medicine**: Leaves used traditionally for malnutrition, inflammation, and infection
 8. **Growth rate**: Fast-growing deciduous tree to 8m; produces within months of planting
-9. **[[dighton-fungal-drought-tolerance-plant-water-relations]]**: Native to India; adapted to dry conditions
+9. **Drought tolerance**: Native to India; adapted to dry conditions
 10. **Forage**: Leaves provide high-protein animal fodder
 
 Limitation: Frost tender; suitable only for frost-free climates or as a summer annual in cooler regions.
@@ -73,7 +73,7 @@ Limitation: Frost tender; suitable only for frost-free climates or as a summer a
 ## Other Notable Multi-Purpose Plants
 
 ### Tagasaste (Chamaecytisus palmensis)
-- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], stock feed (17-31% protein), bee forage, nurse crop, firewood, [[free-range-poultry-forage-design-mollison]], timber
+- Nitrogen fixation, stock feed (17-31% protein), bee forage, nurse crop, firewood, poultry forage, timber
 - See [[permaculture-nitrogen-fixing-trees]]
 
 ### Black Locust (Robinia pseudoacacia)
@@ -88,7 +88,7 @@ Limitation: Frost tender; suitable only for frost-free climates or as a summer a
 - Food (tubers), biomass/mulch production, fortress plant (weed suppression), windbreak, bee forage, livestock fodder
 
 ### Daikon Radish (Raphanus sativus)
-- Food (roots and leaves), soil breaking (deep taproot penetrates compacted soil), nutrient accumulation, cover crop, [[dighton-fungal-biomass-production-aquatic-ecosystems]]
+- Food (roots and leaves), soil breaking (deep taproot penetrates compacted soil), nutrient accumulation, cover crop, biomass production
 
 ### Chicory (Cichorium intybus)
 - Food (leaves, roots), mineral accumulation, stock feed, bee forage, drought tolerance, deep soil penetration

@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - Leafly. "Jungle Juice Strain Information." leafly.com.
   - AllBud. "Jungle Juice Weed Strain Information." allbud.com.
-  - Weedmaps. "Jungle Juice [[blesching-cannabis-strain-selection-receptor-targeting]]." weedmaps.com.
+  - Weedmaps. "Jungle Juice blesching-cannabis-strain-selection-receptor-targeting." weedmaps.com.
   - MJBizDaily. "2024 Cannabis Strain Market Trends."
-  - [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible. Green Candy Press, 5th Edition.created: 2026-05-07
+  - green-cannabis-grow-bible-breeding-genetics-and-true-breeding Bible. Green Candy Press, 5th Edition.created: 2026-05-07
 
 created: 2026-05-07
 ---
@@ -100,7 +100,7 @@ The strain is not recommended for daytime use or tasks requiring sustained atten
 
 ## See Also
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[granddaddy-purple]]
 - [[gelato]]
 - [[wedding-cake]]

@@ -117,7 +117,7 @@ The strain responds well to [[cannabis-training-techniques-comparison]] includin
 
 - [[chemdog]]
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[sfv-og]]
 - [[tahoe-og]]
 - [[starfighter]]

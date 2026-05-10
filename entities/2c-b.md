@@ -91,14 +91,7 @@ The compound gained significant popularity in the  community during [[hallucinog
 
 ## See Also
 
-- [[miproscaline]]
-
-- 
-- 
-- 
-
-## See Also
-
+- [[4-fma]]
 - [[miproscaline]]
 - [[i-thou-relationship-with-psychedelic-entities]]
 - [[mdma-qualitative-effects-phenomenology]]

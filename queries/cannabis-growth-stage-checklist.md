@@ -1,8 +1,42 @@
 ---
 
+title: Cannabis Growth Stage Checklist
+created: 2026-04-12
+updated: 2026-04-12
+type: query
+
+tags:
+- cannabis
+- vegetative
+- flowering
+- indoor
+- living-soil
+- timeline
+- troubleshooting
+- lighting
+- soil
+- water
+- processing
+- reference
+
+sources:
+- concepts/cannabis-vegetative-stage.md
+- concepts/cannabis-flowering-stage.md
+- concepts/cannabis-plant-nutrition.md
+- concepts/cannabis-harvest-techniques.md
+- concepts/cannabis-harvesting-and-curing.md
+- concepts/cannabis-seed-germination.md
+---
+
+# Cannabis Growth Stage Checklist
+
+Week-by-week checklist for an indoor photoperiod grow in [[cannabis-living-soil-guide]]. Assumes pre-amended living soil beds with balanced NPK. Timings are approximate -- indica-dominant strains finish faster; sativa-dominant may extend 2-4 weeks in flower. See [[cannabis-vegetative-stage]] and [[cannabis-flowering-stage]] for full details.
+
+---
+
 ## Week 1-2: Seedling
 
-**Feeding**: None -- the pre-amended soil has sufficient nutrients. Water with dechlorinated water only. Mist surface to keep moist. No comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide yet.
+**Feeding**: None -- the pre-amended soil has sufficient nutrients. Water with dechlorinated water only. Mist surface to keep moist. No compost tea yet.
 
 **Environment**:
 - Temp: 72-80F day / 65-70F night
@@ -12,7 +46,7 @@
 
 **What to watch for**:
 - Stretching (move light closer, remove dome earlier)
-- cervantes-damping-off-seedling-disease-prevention (reduce watering, improve airflow)
+- Damping off (reduce watering, improve airflow)
 - Seed shell stuck on cotyledons (mist to soften, remove with tweezers)
 - Yellow cotyledons after true leaves appear (normal senescence)
 
@@ -41,7 +75,7 @@
 
 ## Week 5-8: Late Vegetative / Transition
 
-**Feeding**: Top-dress with compost or worm castings at week 5 if growth stalled. Compost tea every 1-2 weeks. [[fermented-plant-extract-fpe]] or [[fish-amino-acid-faa]] at 1:500 dilution as foliar if desired. [[arbuscular-mycorrhizal-colonization-patterns]] should be well established by week 6+.
+**Feeding**: Top-dress with compost or worm castings at week 5 if growth stalled. Compost tea every 1-2 weeks. [[fermented-plant-extract-fpe]] or [[fish-amino-acid-faa]] at 1:500 dilution as foliar if desired. Mycorrhizal colonization should be well established by week 6+.
 
 **Environment**:
 - Temp: 70-82F day / 60-70F night
@@ -50,9 +84,9 @@
 - Airflow: Oscillating fans on all plants; stems should sway
 
 **What to watch for**:
-- Root-bound symptoms (rapid wilting, yellowing, [[cannabis-nutrient-lockout-and-ph]])
+- Root-bound symptoms (rapid wilting, yellowing, nutrient lockout)
 - Overwatering (droopy leaves, slow growth, algae on soil surface)
-- Pest activity ([[cervantes-spider-mites-identification-control]], gnats, thrips) -- see [[cannabis-pest-management]]
+- Pest activity (spider mites, gnats, thrips) -- see [[cannabis-pest-management]]
 - Plants outgrowing their space (flip to flower or train harder)
 
 **Tasks**: Final LST adjustments. ScrOG tucking if using screen. Evaluate plant height -- indica flip at 12-18 inches, sativa at 18-24 inches. Ensure 6-8+ main branch nodes before flipping. Clean grow room thoroughly before the flip.
@@ -91,7 +125,7 @@
 
 **What to watch for**:
 - Bud rot (botrytis) -- brown mushy spots inside dense buds, especially in humid conditions
-- [[knf-calcium-deficiency-symptoms]] (distorted new growth) -- add oyster shell or gypsum
+- Calcium deficiency (distorted new growth) -- add oyster shell or gypsum
 - Tip burn from nutrient excess -- flush with plain water
 - Strong aromas developing -- terpene production at peak
 - Trichomes becoming visible -- monitor with loupe at 60-100x
@@ -104,11 +138,13 @@
 
 **Feeding**: Reduce all inputs. In living soil, simply reduce watering slightly -- no formal flush needed. Stop compost tea. If using bottled nutrients, flush with plain water for 7-14 days.
 
-## See Also
+**Environment**:
+- Temp: 65-75F day / 58-65F night (cooler final weeks preserve terpenes)
+- Humidity: 40-45%
+- Light: PPFD can stay high or reduce slightly
+- VPD: 1.0-1.2 kPa
 
-- [[cannabis-vegetative-stage]] — detailed veg stage management
-- [[cannabis-flowering-stage]] — flower stage development and environment
-- [[cannabis-plant-nutrition]] — NPK, organic sources, amendment schedules
-- [[cannabis-harvest-and-curing]] — trichome assessment, drying, curing
-- [[cannabis-lighting-guide]] — PPFD and spectrum targets by stage
-- [[cannabis-pest-management]] — IPM for indoor grows
+**What to watch for**:
+- Trichome color: mostly cloudy = peak THC; 10-30% amber = preferred harvest window
+- Pistil color: 60-80% darkened and curled = entering harvest window
+- Fan leaves yellowing and dropping (natural senescence -- normal)

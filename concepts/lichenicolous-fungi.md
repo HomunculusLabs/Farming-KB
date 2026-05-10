@@ -141,7 +141,6 @@ both historical factors and current environmental conditions:
   relatively well-documented European lichenicolous mycota includes over
   500 described species, with new species continuing to be discovered
   even in well-studied areas such as the British Isles and Scandinavia.
-
 ## See Also
 - [[fungicolous-fungi-sporocarp-inhabiting-species]]
 - [[biodiversity-lichenized-fungi-symbiosis]]

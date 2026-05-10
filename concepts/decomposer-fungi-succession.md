@@ -81,4 +81,6 @@ This crossover means some species function as both destructive agents and critic
 - [[mycoforestry]] -- managing decomposition in forest ecosystems
 - fungal-enzyme-systems-and-nutrient-cycling -- enzymatic basis of decomposition
 ## See Also
+
+- [[stamets-saprophytic-mushroom-decomposer-succession]]
 - [[decomposition]]

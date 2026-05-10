@@ -13,7 +13,7 @@ sources:
   - Lin, L. et al. (2005). "Alisma orientale." In: Chinese Materia Medica, Vol. 6. Shanghai Scientific and Technical Publishers.
   - Zhang, J.D. et al. (2012). "Chemical constituents from Alisma orientalis and their antitumor activities." Journal of Asian Natural Products Research, 14(6), 530-535.
   - Lee, S.J. et al. (2010). "Diuretic activity of the aqueous extract of Alisma plantago-aquatica in rats." Journal of Ethnopharmacology, 128(2), 396-401.
-  - Yáñez, M. et al. (2013). "Alisma plantago-aquatica." In: Flora of [[psilocybin-north-america-pacific-northwest]] North of Mexico, Vol. 22. Oxford University Press.
+  - Yáñez, M. et al. (2013). "Alisma plantago-aquatica." In: Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 22. Oxford University Press.
 ---
 
 ## Overview

@@ -127,6 +127,8 @@ Vegetative propagation dominates population expansion. Autochory (self-fragmenta
 
 ## See Also
 
+- [[myriophyllum-verticillatum]]
+
 - [[ceratophyllum-demersum]]
 - [[lemna-minor]]
 - [[azolla-filiculoides]]

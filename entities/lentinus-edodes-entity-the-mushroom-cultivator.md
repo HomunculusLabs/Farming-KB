@@ -5,8 +5,7 @@ type: species
 tags: [shiitake, edible-mushroom, wood-decomposer, medicinal-mushroom, lignicolous]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 
 # Lentinus edodes

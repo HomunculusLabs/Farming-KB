@@ -118,7 +118,6 @@ baking or refrigerated for slower weekly maintenance.
 Hydration shapes ecology. A liquid starter favors faster diffusion of
 substrates and is easy to stir and observe. A stiff starter ferments more
 slowly and may encourage different acid balances. Feeding ratios also
-matter. A small inoculation of old starter into a larger quantity of fresh
 ## See Also
 
 [[sourdough-bread-guide]]

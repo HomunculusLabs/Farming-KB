@@ -140,10 +140,6 @@ Multiple factors modulate the mushroom experience:
   effects and increase risk of dangerous behavior
 
 ## See Also
-
-- [[psilocybin-chemistry-and-pharmacology]] - Chemical profile
-- [[pf-tek-psilocybin-dosage-reference]] - Stamets dosage guide
-
-## See Also
-
+- [[psilocybin-chemistry-and-pharmacology]]
+- [[pf-tek-psilocybin-dosage-reference]]
 - [[hallucinogenic-mushroom-dose-and-effects]]

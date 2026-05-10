@@ -21,7 +21,7 @@ sources:
   - Min BR, Hart SP, Miller D, Tomita G, Loetz E, Sahlu T (2005).
     "The effect of sericea lespedeza on fecal egg counts of goats."
     Journal of Animal Science, 83(12): 2777-2784.
-  - Bouton JH (2007). "Breeding lucerne, [[fukuoka-white-clover-cover-crop-system]], birdsfoot
+  - Bouton JH (2007). "Breeding lucerne, fukuoka-white-clover-cover-crop-system, birdsfoot
     trefoil and sericea for the tropics and subtropics." Tropical
     Grasslands, 41(1): 51-59.created: 2026-05-07
 

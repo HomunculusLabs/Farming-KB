@@ -10,7 +10,7 @@ sources: []
 # Solar Oven Cooking
 
 Solar ovens use concentrated sunlight to cook food without fuel, electricity,
-or flame. They are a practical off-grid cooking solution, especially in sunny
+or flame. They are a practical off-grid cooking [[solar-cooking-methods]] solution, especially in sunny
 climates, and can reach temperatures of 250-400F (121-204C) depending on
 design. This guide covers the three main types, construction, cooking
 techniques, and recipes.
@@ -35,7 +35,7 @@ A insulated box with a dark interior, a transparent lid, and reflective
 panels that fold out to direct light into the box.
 
 **Characteristics:**
-- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 200-300F (93-149C)
+- Temperature range: 200-300F (93-149C)
 - Cooking style: slow, similar to a crock pot
 - Advantages: stable temperature, easy to use, good for baking
 - Disadvantages: heavier, slower to heat up
@@ -141,10 +141,10 @@ normal cooking time.
 - Let stand 10 minutes before opening
 
 ## Water Pasteurization
-## See Also
-- [[conventional-surface-sterilization-methods-limitations-comparison]]
-- [[comparison-solar-cooking-vs-cob-oven]]
-- [[hamilton-mulching-materials-and-techniques]]
-- [[query-how-to-use-diatomaceous-earth-in-the-garden]]
-- [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]
-- [[solar-cooking-methods]]
+
+Solar ovens can pasteurize water when fuel is unavailable. Water does not
+need to boil to be safe — pasteurization occurs at 150F (65C) held for
+6 minutes. A WAPI (Water Pasteurization Indicator) — a small tube of wax
+that melts at 150F — indicates when water is safe.
+
+## Limitations and Considerations

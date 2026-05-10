@@ -132,6 +132,8 @@ other life cycles.
 
 ## See Also
 
+- [[mushroom-species-sequencing-cultivation]]
+
 - [[agricultural-waste-substrates]] for alternative starting substrates
 - [[mushroom-casing-layers]] for King Stropharia fruiting requirements
 - mushroom-harvesting-storage-methods for post-harvest handling

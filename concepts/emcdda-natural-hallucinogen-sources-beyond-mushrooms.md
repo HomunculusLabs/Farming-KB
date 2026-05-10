@@ -129,10 +129,6 @@ morning glory seeds alongside products labelled as "herbal highs" and
 early 2000s.
 
 ## See Also
-
 - [[purple-ohms-argyreia-nervosa-legal-mushroom-substitutes]]
 - [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]
-
-## See Also
-
 - [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]

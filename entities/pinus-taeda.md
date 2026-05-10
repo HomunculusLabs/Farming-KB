@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Schultz, R.P. (1997). "Loblolly Pine." USDA Forest Service Agriculture Handbook 713.
-  - Baker, J.B. & Langdon, O.G. (1990). "Pinus taeda L." Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 1. USDA FS.
+  - Baker, J.B. & Langdon, O.G. (1990). "Pinus taeda L." Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA FS.
   - Siry, J.P. et al. (2009). "Global Position of the U.S. Southern Pine Industry." Forest Products Journal 59(11/12).
   - Will, R.E. et al. (2015). "Loblolly Pine Growth and Yield." Genetics and Silviculture of Loblolly Pine. Springer.
 ---

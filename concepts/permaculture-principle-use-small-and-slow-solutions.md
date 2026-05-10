@@ -5,13 +5,12 @@ updated: 2026-04-12
 type: concept
 tags: [permaculture, principles, design, sustainability, methods]
 sources:
-  sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
 # Permaculture Principle 9 — Use Small and Slow Solutions
 
-The ninth of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles. Systems should be designed to perform functions at the smallest scale that is practical and energy-efficient. "Slow and steady wins the race" reflects a common truth in nature and society.
+The ninth of David Holmgren's twelve permaculture design principles. Systems should be designed to perform functions at the smallest scale that is practical and energy-efficient. "Slow and steady wins the race" reflects a common truth in nature and society.
 
 > "The bigger they are, the harder they fall: Make the least change for the greatest possible effect." — David Holmgren
 
@@ -27,7 +26,7 @@ Applied to design, this means:
 
 - Large systems require disproportionately more energy to maintain speed
 - Small systems can be nimble and responsive
-- As energy availability diminishes (during [[holmgren-energy-descent-permaculture-flower]]), systems must shrink, slow down, or both
+- As energy availability diminishes (during energy descent), systems must shrink, slow down, or both
 - The optimum balance is not equal amounts of large/small and fast/slow — we must overcorrect toward small and slow because of our cultural bias
 
 ## Cellular Design and Replication
@@ -60,22 +59,3 @@ Holmgren warns that deconstructing fast systems and rebuilding slow ones require
 ## Connections
 
 This principle relates to [[permaculture-principle-observe-and-interact]] (slowing down enables observation), [[permaculture-principle-apply-self-regulation]] (small systems give faster feedback), [[permaculture-principle-design-from-patterns-to-details]] (cellular design at appropriate scale), and [[permaculture-principle-use-and-value-renewable-resources]] (small systems are easier to power renewably). See also [[permaculture-principles]] and [[permaculture-zones-in-practice]].
-
-## Practical Considerations
-
-Successful implementation of Permaculture Principle 9 — Use Small and Slow Solutions requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

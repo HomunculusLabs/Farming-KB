@@ -75,3 +75,5 @@ to contamination during substrate inoculation.
   protocols critical during spawn production
 - [[oyster-mushroom-fruiting-environment]] explains the environmental conditions
   needed after substrate colonization is complete
+
+For further reading, see [[historical-mushroom-cultivation]].

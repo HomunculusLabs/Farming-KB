@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - DNA Genetics. "LA Confidential Strain Profile." DNAGenetics.com.
-  - Leafly Staff (2024). "LA Confidential [[blesching-cannabis-strain-selection-receptor-targeting]] Information."
+  - Leafly Staff (2024). "LA Confidential blesching-cannabis-strain-selection-receptor-targeting Information."
     Leafly.com.
   - AllBud. "LA Confidential Strain Review." AllBud.com.
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany."

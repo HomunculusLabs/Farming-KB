@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - Kester, D.E. et al. (1991). "Almonds (Prunus dulcis)." Acta Horticulturae, 290, 643-680.
   - FAO (2023). FAOSTAT: Crops and Livestock Products — Almonds, with shell. fao.org.
-  - Micke, W.C. (1996). Almond [[fukuoka-orchard-management-detailed]]. UC DANR Publication 3364.
-  - Dicenta, F. et al. (2005). "Heritability of fruit [[cannabis-resin-production-and-quality-traits-clarke]] in almond." Plant Breeding, 124(1), 82-87.
+  - Micke, W.C. (1996). Almond fukuoka-orchard-management-detailed. UC DANR Publication 3364.
+  - Dicenta, F. et al. (2005). "Heritability of fruit cannabis-resin-production-and-quality-traits-clarke in almond." Plant Breeding, 124(1), 82-87.
   - Socias i Company, R. & Fernández i Martí, A. (2012). "Almond." In Badenes, M.L. & Byrne, D.H. (eds.), Fruit Breeding, Springer.
 created: 2026-04-28
 ---

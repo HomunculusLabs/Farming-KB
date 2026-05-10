@@ -138,8 +138,9 @@ mixture. Do not pack the substrate down at this stage. Leave a 1/2 to 3/4 inch
 space at the top of the jar to accommodate the [[pf-tek-dry-vermiculite-contaminant-barrier]] barrier layer.
 
 ### Step 3: Light Tamping
-
 ## Related
+
+- [[asarum-maximum]]
 
 - [[stamets-fruiting-substrate-materials]]
 
@@ -147,4 +148,3 @@ space at the top of the jar to accommodate the [[pf-tek-dry-vermiculite-contamin
 
 - [[brown-rice-flour-substrate]] for brown rice flour properties and preparation
 - [[pf-tek-canning-jar-lid-configuration]] for lid preparation and hole punching
-- [[pf-tek-steam-sterilization-technique]] for the sterilization step

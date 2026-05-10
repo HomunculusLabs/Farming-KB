@@ -101,7 +101,6 @@ gardeners produced vegetables year-round using deep, heavily manured beds
 protected by cloches and glass frames, reportedly achieving four to six
 times conventional production on the same land area. British organic
 pioneers Lady Eve Balfour, F. H. King, and Albert Howard also shaped his
-thinking. Coleman purchased his farm in 1968 from Scott and Helen
 ## See Also
 
 - [[coleman-four-season-farm]] — Farm overview, philosophy, and economics

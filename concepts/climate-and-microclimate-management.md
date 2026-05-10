@@ -5,7 +5,6 @@ updated: 2026-04-13
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md"
   - "raw/papers/william-ozier-williams-pdc_-a-permaculture-design-cours.md"

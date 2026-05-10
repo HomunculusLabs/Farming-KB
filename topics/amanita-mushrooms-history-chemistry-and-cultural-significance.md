@@ -98,7 +98,6 @@ Fruitings typically occur in autumn, though they may appear in summer in cooler 
 
 The mushroom fruits singly, in scattered groups, or sometimes in large fairy rings on forest floors rich in organic matter.
 
-Its global distribution roughly follows the range of the boreal forest biome and temperate woodlands.
 ## See Also
 
 - [[amanita-genus-morphology]] — Detailed taxonomy and morphological features of the Amanita genus

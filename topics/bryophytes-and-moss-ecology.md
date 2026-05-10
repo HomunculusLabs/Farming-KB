@@ -22,7 +22,7 @@ sources:
   - Shaw AJ, Goffinet B. Bryophyte Biology. Cambridge University Press, 2000.
   - Vanderpoorten A, Goffinet B. Introduction to Bryophytes. Cambridge University Press, 2009.
   - Proctor MCF. "Physiological Ecology." In: Bryophyte Biology, 2nd ed. Cambridge, 2009.
-  - Turetsky MR. "The role of bryophytes in carbon and [[query-how-does-nitrogen-cycling-work-in-a-permaculture-system]]." Bryologist, 2003.
+  - Turetsky MR. "The role of bryophytes in carbon and query-how-does-nitrogen-cycling-work-in-a-permaculture-system." Bryologist, 2003.
   - Rydin H, Jeglum J. The Biology of Peatlands. Oxford University Press, 2nd ed., 2013.
   - Frego KA. "Bryophytes as indicators of forest age and disturbance." Bryologist, 1996.
 ---
@@ -139,7 +139,6 @@ On disturbed slopes, construction sites, and degraded land:
 | *Dicranum* | Broom moss | Acidic soils, coniferous forests | Often forms extensive carpets on forest floors and rotting logs |
 | *Leucobryum* | Pincushion moss | Acidic, shaded sites | Pale green cushions; retains water in specialized hyaline cells |
 | *Marchantia* | Liverwort | Moist, shaded soil and rocks | Thalloid; distinctive gemma cups for asexual reproduction; common in greenhouses |
-| *Funaria* | Cord moss | Recently burned soil, disturbed sites | Fire-adapted pioneer; one of the first species after forest fires |
 ## See Also
 
 - [[lichen-biology-and-ecological-significance]] — Lichens and mosses often co-occur and share similar ecological niches

@@ -1,0 +1,112 @@
+---
+title: "Elaeagnus angustifolia"
+type: species
+tags:
+  - elaeagnaceae
+  - permaculture
+  - nitrogen-fixing
+  - agroforestry
+  - medicinal
+  - drought-tolerant
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - Olson, D.L. & K.A. (2000). "Elaeagnus angustifolia." Fire Effects Information System, USDA Forest Service.
+  - Knapp, H.D. (2003). "Biological Flora of the British Isles: Elaeagnus angustifolia." Journal of Ecology 91(5): 851-866.
+  - Batten, A.R. (1978). "Elaeagnus in North America." Arnoldia 38(2): 100-113.
+  - Baum, B.R. (1978). "The Genus Elaeagnus: A Taxonomic Revision." Canadian Journal of Botany 56: 564-598.
+  - Khasanov, F.O. et al. (2018). "Flavonoids from Elaeagnus angustifolia fruits." Chemistry of Natural Compounds 54(6): 1154-1155.
+---
+
+Elaeagnus angustifolia, commonly known as Russian olive, silverberry, or oleaster, is a deciduous shrub or small tree in the family Elaeagnaceae. It is native to western and central Asia, ranging from southern Russia and Kazakhstan to Turkey and Iran. The species is widely naturalized across North America and Europe, where it was introduced as an ornamental and windbreak plant.
+
+Russian olive is recognized for its silvery-scaled foliage, fragrant yellow flowers, and edible fruit. It forms a symbiotic relationship with actinorhizal bacteria (Frankia spp.), enabling atmospheric nitrogen fixation. This trait makes it valuable in ecological restoration and permaculture systems.
+
+The plant has become invasive in riparian areas of the western United States, displacing native cottonwood and willow communities. Despite its invasive tendencies, it remains important in traditional medicine and dryland agroforestry.
+
+## Taxonomy and Morphology
+
+Elaeagnus angustifolia L. was described by Carl Linnaeus in 1753. The genus name derives from Greek "elaia" (olive) and "agnos" (chaste tree), referring to the olive-like fruit.
+
+The species is a fast-growing, multi-stemmed shrub reaching 3-7 meters in height, occasionally forming a small tree up to 10 meters. Bark on mature specimens is dark brown with fissures, while younger branches are covered in silvery-brown scales.
+
+Leaves are lanceolate to elliptic, 4-8 cm long and 1-3 cm wide, with a distinctive silvery-white scaly underside. The adaxial surface is initially silvery but becomes green as scales wear off with age.
+
+Flowers are highly fragrant, borne in clusters of 1-3 in leaf axils during late spring (May-June). Each flower is 1-1.5 cm long with four yellow petals and a tubular calyx covered in silvery scales.
+
+The fruit is a drupe-like achene, 8-14 mm long, silvery-yellow when mature, containing a single seed. The fleshy fruit is edible, with a mealy texture and sweet-tart flavor. Fruits persist on branches into winter, providing a late-season food source for birds and mammals.
+
+Root systems are extensive, with both deep taproots reaching 2-4 meters and lateral roots that spread well beyond the canopy drip line. Actinorhizal root nodules containing Frankia bacteria form on lateral roots, enabling nitrogen fixation rates of 10-60 kg per hectare per year.
+
+Wood is dense, hard, and fine-grained with a yellow-brown heartwood. It has been used locally for tool handles, fence posts, and turning. The wood burns hot with a pleasant fragrance, making it a valued fuelwood in arid regions.
+
+## Distribution and Habitat
+
+Elaeagnus angustifolia is native to dry regions of western and central Asia, including Iran, Turkey, Afghanistan, Kazakhstan, and western China. It naturally occurs along riverbanks, floodplains, and mountain slopes at elevations up to 2,000 meters.
+
+The species was introduced to North America in the late 1800s and widely planted for windbreaks, erosion control, and wildlife habitat across the Great Plains and Intermountain West. It is now naturalized across much of the United States and southern Canada.
+
+In Europe, Russian olive is cultivated as an ornamental and has naturalized locally in Mediterranean and central European countries. It is particularly common in the Danube basin and Balkan regions.
+
+The plant thrives in alkaline, saline, and sandy soils where few other woody species survive. It tolerates extreme drought, temperatures from -35 to 40 degrees Celsius, and pH levels from 6.0 to 9.0.
+
+## Cultivation and Permaculture Applications
+
+Russian olive is propagated from seed (requiring 60-90 days cold stratification), hardwood cuttings, or suckers. Seedlings establish rapidly and begin producing fruit within 3-5 years. Growth rates of 60-90 cm per year are common in favorable conditions.
+
+In permaculture design, Elaeagnus angustifolia serves multiple functions as a nitrogen-fixing support species. Its deep root system breaks compacted subsoil and brings up minerals. The canopy provides wind protection for understory crops.
+
+The species is widely used in windbreak and shelterbelt plantings across arid regions. A single row planted at 2-3 meter spacing creates an effective windbreak within 5 years. The dense root network stabilizes streambanks and dunes.
+
+Companion planting combinations include Russian olive as a nurse tree for fruit trees, intercropped with nitrogen-demanding species like apple or plum. The leaf litter enriches surrounding soil with nitrogen and organic matter.
+
+Pest and disease resistance is generally high, though coral spot (Nectria cinnabarina) and Verticillium wilt can affect stressed plants. No significant insect pests are recorded, making it a low-maintenance choice for ecological plantings.
+
+Yield of fruit ranges from 5-15 kg per mature tree annually. Oil pressed from seeds has commercial potential as a rich source of unsaturated fatty acids and bioactive compounds.
+
+## Edibility and Nutritional Value
+
+The fruit of Elaeagnus angustifolia is edible fresh or dried, with a flavor reminiscent of dried apple or fig. It contains significant amounts of vitamin C, vitamin E, and various flavonoids.
+
+Proximate analysis per 100 g fresh fruit shows approximately 40-60 kcal, with sugars (glucose, fructose), organic acids (malic, citric), and dietary fiber as primary constituents. Fat content is low at 1-2%.
+
+The fruit has been used traditionally in Central Asian cuisine for jams, compotes, and dried snacks. In Iranian herbal medicine, the fruit (called "Senjed") is consumed for digestive complaints and respiratory ailments.
+
+Seeds are rich in fatty acids, particularly oleic and linoleic acids, comprising approximately 30% of seed dry weight. The seed oil has potential applications in cosmetics and pharmaceuticals.
+
+## Traditional Medicine and Bioactive Compounds
+
+Elaeagnus angustifolia has a long history of use in traditional medicine across Central Asia and the Middle East. Preparations from fruit, leaves, and bark are used to treat diarrhea, cough, fever, and joint pain.
+
+Phytochemical studies have identified flavonoids (quercetin, kaempferol, isorhamnetin derivatives), phenolic acids (caffeic, ferulic), and carotenoids as major bioactive constituents. The fruit is particularly rich in lycopene and beta-carotene.
+
+Anti-inflammatory and antioxidant activities have been demonstrated in vitro. Methanolic fruit extracts show significant DPPH radical scavenging activity, attributed primarily to the flavonoid fraction.
+
+Antimicrobial activity against Staphylococcus aureus and Escherichia coli has been reported for leaf and fruit extracts. These findings support traditional use for wound healing and infection management.
+
+Analgesic and antinociceptive effects have been documented in animal models, with aqueous fruit extracts reducing pain responses comparable to reference analgesics. Gastroprotective activity against ethanol-induced ulcers has also been demonstrated.
+
+Flavonoid profiles vary significantly by geographic origin, with Central Asian populations showing higher quercetin and kaempferol glycoside concentrations than European samples. This variability may influence the medicinal potency of different accessions.
+
+## Ecological Impact and Invasiveness
+
+Elaeagnus angustifolia is classified as a noxious weed in several US states, including Colorado, New Mexico, and Wyoming. It spreads aggressively along waterways through bird-dispersed seeds and root suckering.
+
+In riparian ecosystems of the American West, Russian olive forms dense monocultures that shade out native Populus and Salix species. This alters stream morphology, reduces biodiversity, and simplifies habitat structure for wildlife.
+
+The species' nitrogen-fixing capability changes soil chemistry, favoring nitrophilic weeds over native understory plants. These combined effects make it one of the most problematic invasive woody plants in western North America.
+
+Control methods include mechanical removal (cutting and root excavation), herbicide application (glyphosate, triclopyr), and biological control research targeting seed-feeding insects. Integrated approaches combining mechanical and chemical methods show the highest efficacy.
+
+Despite its invasiveness, Russian olive provides nectar for pollinators, cover for birds, and erosion control on degraded sites. Its management requires balancing ecological harm with these beneficial functions.
+
+## See Also
+
+- [[elaeagnus-umbellata]]
+- [[morus-alba]]
+- [[robinia-pseudoacacia]]
+- [[caragana-arborescens]]
+- [[permaculture]]
+- [[agroforestry]]
+- [[food-forest]]
+- [[companion-planting]]

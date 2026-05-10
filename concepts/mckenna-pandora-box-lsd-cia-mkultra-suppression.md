@@ -28,7 +28,7 @@ oriental motifs and wonderful scenes altering very
 rapidly.
 
 A year later, in May 1957, Valentina and Gordon Wasson published their now-famous article in Life magazine announcing the discovery of the
-[[emcdda-psilocybin-mushroom-dose-and-effects]] complex. The tone of the Life article
+[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] complex. The tone of the Life article
 contrasts sharply with the hysteria and distortion that the American media would later fan; it was both fair and detailed, both open-minded and
 scientific. The chemical loose ends of the Wassons'
 discoveries were tidied up by Hofmann, who chemically isolated [[blesching-cannabis-alcoholism]] and concluded that 45

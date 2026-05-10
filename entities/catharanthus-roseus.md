@@ -80,6 +80,10 @@ diminish due to agricultural expansion and [[mollison-designers-charcoal-product
 All parts of the plant are toxic if ingested in quantity. Symptoms of poisoning include nausea, vomiting, diarrhea, hypotension, and neurological symptoms including tremor and seizures. The plant should not be used in herbal self-medication due to the narrow [[blesching-cannabis-therapeutic-window-dosing]] of its active alkaloids.
 
 ## See Also
+
+- [[hoodia-gordonii]]
+
+- [[adenium-obesum]]
 Related: [[mckenna-heroin-cocaine-and-synthetic-drugs]] — another pharmacologically important alkaloid from a tropical plant
 - [[plants-of-the-gods-atropa-belladonna-deadly-nightshade]] — another medicinal plant preparations with a long history of both therapeutic use and toxicity
 - catharanthus roseus — the genus containing this species

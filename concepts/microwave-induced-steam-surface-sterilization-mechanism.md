@@ -114,7 +114,7 @@ This microwave sterilization technology was developed under NASA's Technology Ut
 ## See Also
 
 - [[microwave-2-45-ghz-water-dipolar-coupling]] — Physical basis of microwave-water interaction
-- [[microwave-water-interaction-2.45-ghz]] — Water molecule rotational transitions
+- [[microwave-water-interaction-2-45-ghz]] — Water molecule rotational transitions
 - [[microwave-trace-water-surface-sterilisation-protocol]] — Trace water protocol details
 - [[msap-subsystem-architecture-microwave-sterilizable-access-port]] — MSAP system design
 - [[growing-gourmet-atmospheric-steam-sterilization]] — Atmospheric steam in mushroom cultivation

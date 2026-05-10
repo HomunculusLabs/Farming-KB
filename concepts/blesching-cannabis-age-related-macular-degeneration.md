@@ -77,3 +77,7 @@ cells opens several promising avenues for research:
 
 While the current evidence base is limited (CHI value of 1), the theoretical
 framework is strong and the [[cannabis-safety-profile-and-overdose-risk]] of cannabis makes further
+
+## See Also
+
+- [[guzman-allen-gartz-recreational-use-degeneration-underground-neurotropic-fungi-trade]]

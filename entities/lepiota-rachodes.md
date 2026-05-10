@@ -42,6 +42,8 @@ L. rachodes is edible for most people but is controversial due to several import
 
 ## See Also
 
+- [[macrolepiota-rachodes]]
+
 - [[agaricus-campestris]] — Meadow Mushroom for comparison of grassland species
 - [[marasmius-oreades]] — Fairy Ring Mushroom, another common lawn species
 ## Practical Considerations

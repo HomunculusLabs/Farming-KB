@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [off-grid, homesteading, greywater, water, sustainability, engineering]
-sources:
-  sources: []
+sources: []
 ---
 
 # Off-Grid Waste Management
 
-Managing human waste and wastewater without municipal sewer systems is a fundamental challenge of off-grid living. A well-designed waste management system protects groundwater, prevents disease, recycles nutrients, and converts waste into valuable resources for the homestead. This guide covers the main approaches to blackwater (toilet waste), greywater (sink/shower/laundry water), and integrated systems.
+Managing human waste and wastewater without municipal sewer systems is a fundamental challenge of off-grid living. A well-designed waste management [[appropriate-technology]] system protects groundwater, prevents disease, recycles nutrients, and converts waste into valuable resources for the homestead. This guide covers the main approaches to blackwater (toilet waste), greywater (sink/shower/laundry water), and integrated systems.
 
 ## Septic Systems
 
@@ -46,9 +45,9 @@ Managing human waste and wastewater without municipal sewer systems is a fundame
 ### Advanced Treatment Systems
 
 For sites that fail conventional percolation tests:
-- **Aerobic treatment units (ATU)**: Use oxygen and bacteria to [[query-can-fungi-break-down-plastic-pollution]] waste more completely
+- **Aerobic treatment units (ATU)**: Use oxygen and bacteria to break down waste more completely
 - **Mound systems**: Raised drain field when water table is high
-- **[[comparison-constructed-wetlands-vs-bioswales]]**: Natural treatment through wetland plants
+- **Constructed wetlands**: Natural treatment through wetland plants
 - **Sand filters**: Effluent passes through sand for additional filtration
 
 ## Composting Toilets
@@ -106,8 +105,8 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 
 1. Use a 5-gallon bucket with a toilet seat lid as the toilet
 2. After each use, add a handful of sawdust, peat moss, or other carbon material
-3. When the bucket is full, empty it into an outdoor [[query-how-do-i-start-a-worm-compost-bin-for-my-garden]]
-4. The compost bin is managed like any other [[mushroom-cultivator-compost-pile-management]], maintaining proper carbon-nitrogen balance
+3. When the bucket is full, empty it into an outdoor compost bin
+4. The compost bin is managed like any other compost pile, maintaining proper carbon-nitrogen balance
 5. After 1-2 years of composting, the material is safe to use on ornamental plants (not food crops)
 6. NEVER use fresh compost on food crops — complete thermophilic composting is essential for pathogen kill
 
@@ -125,7 +124,7 @@ The Humanure system, developed by Joseph Jenkins, is a DIY composting toilet app
 
 - Maintain thermophilic temperatures (120F+) for at least 3 days
 - Let finished compost age for 6-12 months before use
-- Use only on ornamental plants, [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]], or buried in food gardens
+- Use only on ornamental plants, fruit trees, or buried in food gardens
 - Hand washing is essential after handling
 - Local regulations vary — some prohibit humanure composting
 
@@ -139,12 +138,13 @@ Greywater (from sinks, showers, laundry) makes up 50-80% of household wastewater
 |--------|-------------------|---------------------|
 | Bathroom sink | Low | Easy |
 | Shower/bath | Low-Moderate | Easy |
-| [[cervantes-washing-machine-hash]] | Moderate | Moderate |
+| Washing machine | Moderate | Moderate |
 | Kitchen sink | High (grease, food) | Difficult |
 
 ### Simple Greywater Systems
-## See Also
 
-- [[homestead-water-purification]]
-- [[tiny-house-on-wheels]]
-- [[van-life-off-grid]]
+**Laundry-to-Landscape**
+- Washing machine discharge hose runs directly to mulch basins around plants
+- No permit required in many jurisdictions
+- Use biodegradable, phosphate-free detergent
+- Do not use with diapers or for washing soiled items

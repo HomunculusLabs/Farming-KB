@@ -12,8 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Gruen, M. (2014). "Jasmine: The genus Jasminum." In Medicinal and Aromatic Plants – Industrial Profiles, CRC Press.
-  - Shukla, A. et al. (2008). "[[permaculture-designers-manual-essential-oil-plants]] composition of Jasminum grandiflorum." Journal of Essential Oil Research, 20(4), 285–287.
-  - CBI Ministry of Foreign Affairs (2021). "CBI Trade Statistics: [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and Oleoresins." CBI, The Hague.
+  - Shukla, A. et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Jasminum grandiflorum." Journal of Essential Oil Research, 20(4), 285–287.
+  - CBI Ministry of Foreign Affairs (2021). "CBI Trade Statistics: comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap and Oleoresins." CBI, The Hague.
 ---
 
 ## Overview

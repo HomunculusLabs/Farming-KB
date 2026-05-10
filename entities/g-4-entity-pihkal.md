@@ -58,13 +58,10 @@ gold-colored crystals. The mp was 94-94.5 deg C. Anal. (C15H19NO4) C,H.
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
 - [[g-5-entity-pihkal]]
 - [[g-n-entity-pihkal]]
-
-## See Also
-
 - [[tma-5-entity-pihkal]]
+
 ## Practical Considerations
 
 Successful implementation of G-4 (2,5-DIMETHOXY-3,4-(TETRAMETHYLENE)AMPHETAMINE;) -- PIHKAL Entry #83 requires attention to

@@ -9,7 +9,7 @@ sources: [raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-c
 
 # Soil Microscope Analysis
 
-Direct [[fungal-microscopic-examination-mounting-media-techniques]] of soil and [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]] is the primary tool for assessing soil biology health. Elaine Ingham's Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management.
+Direct microscopic examination of soil and compost tea is the primary tool for assessing soil biology health. Elaine Ingham's Soil Food Web approach uses 400x magnification to identify and count bacteria, fungi, protozoa, and nematodes, providing actionable data for soil management. (see [[compost-tea-guide]]).
 
 ## Equipment Needed
 
@@ -62,7 +62,7 @@ Direct [[fungal-microscopic-examination-mounting-media-techniques]] of soil and 
 
 ### Interpretation
 - Protozoa graze on bacteria, releasing plant-available nitrogen
-- 10,000-100,000 protozoa per gram of soil = good [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- 10,000-100,000 protozoa per gram of soil = good nutrient cycling
 - Low protozoa = nutrients are locked up in bacterial biomass
 
 ## Nematode Assessment
@@ -82,7 +82,7 @@ Direct [[fungal-microscopic-examination-mounting-media-techniques]] of soil and 
 ## Compost Tea Assessment
 
 ### Method
-1. Take 1 mL of actively [[actively-aerated-compost-tea]] tea
+1. Take 1 mL of actively aerated compost tea
 2. Place on slide, cover, examine at 400x
 3. Look for: active bacterial movement, fungal hyphae length, protozoa types
 

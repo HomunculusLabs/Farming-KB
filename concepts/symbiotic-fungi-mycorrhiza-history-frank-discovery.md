@@ -72,3 +72,19 @@ another.
 Frank's vision of a world where plants and fungi are fundamentally
 interconnected has been vindicated by modern science, though the full
 implications of his hypothesis continue to unfold as research reveals
+
+## Molecular Confirmation and Modern Research
+
+The advent of molecular biology in the late twentieth century provided
+decisive confirmation of Frank's theories. DNA sequencing established
+that arbuscular mycorrhizal fungi belong to the distinct phylum
+Glomeromycota, separate from all other fungal groups. Molecular probes
+and [[pcr-methods-fungal-identification-monitoring]] allow researchers to identify
+mycorrhizal associations directly from root and soil samples without
+cultivation. These tools revealed that mycorrhizal networks connect
+individual plants of different species, facilitating nutrient and
+carbon transfer through [[common-mycorrhizal-networks]]. Stable isotope
+tracing quantified the substantial carbon flux from plants to
+mycorrhizal fungi -- estimated at 5-20% of total net primary
+production. Frank's concept of mycorrhizae as essential symbiotic
+organs is now universally accepted. See [[mycorrhizal-fungi-diversity-ecology-mutualism]] and [[mycorrhizal-carbon-allocation]].

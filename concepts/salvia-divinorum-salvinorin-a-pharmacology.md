@@ -139,7 +139,6 @@ restrictions. The plant has [[fukuoka-low-toxicity-pesticide-deception]] with no
 are behavioral: accidental injury from dissociation, driving danger, and
 psychological distress. The dysphoric nature of KOR agonism means there is
 virtually no addiction potential.
-
 ## See Also
 
 - [[psilocybin]] — Classical [[mckenna-tryptamine-hallucinogen-classification-four-groups-plants]] found in mushrooms

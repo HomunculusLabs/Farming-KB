@@ -108,6 +108,8 @@ Cedar waxwings are among the most voracious consumers of smooth sumac fruit, wit
 
 ## See Also
 
+- [[smilax-glabra]]
+
 - [[rhus-typhina]]
 - [[toxicodendron-radicans]]
 - [[gleditsia-triacanthos]]

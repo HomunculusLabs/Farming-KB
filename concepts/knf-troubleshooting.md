@@ -43,7 +43,7 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 
 | Symptom | Cause | Fix |
 |---------|-------|-----|
-| Putrid/rotten smell | [[jadam-anaerobic-fermentation-principles]], wrong plant | Discard. Ensure breathable cover first 1-2 days. Avoid cucumber, melon, strawberry (too much sugar) |
+| Putrid/rotten smell | Anaerobic fermentation, wrong plant | Discard. Ensure breathable cover first 1-2 days. Avoid cucumber, melon, strawberry (too much sugar) |
 | Alcohol smell | Too warm, yeast overgrowth | Move to cooler location (under 25C) |
 | Weak/no smell | Not enough fermentation time | Wait longer or move to warmer spot (20-25C) |
 | Too much liquid | Plant too watery | Use less sugar ratio next time (1:0.8) |
@@ -96,12 +96,12 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Symptom | Likely Cause | KNF Response |
 |---------|-------------|--------------|
 | Yellowing lower leaves (veg) | N deficiency or natural senescence | FAA 1:1000 foliar; check if old growth (normal) |
-| Yellowing upper/new leaves | Fe, S, or general [[cannabis-nutrient-lockout-and-ph]] | Seawater 1:30 (trace minerals); check pH |
+| Yellowing upper/new leaves | Fe, S, or general nutrient lockout | Seawater 1:30 (trace minerals); check pH |
 | Leaf curl (upward) | Ca deficiency, heat stress | WS-Ca 1:500 foliar; improve airflow |
 | Leaf curl (downward) | Overwatering, P toxicity | Reduce water; check drainage |
 | Interveinal chlorosis | Mg or Fe deficiency | Seawater 1:30; Epsom salt soil drench |
 | Purple stems/leaves | P deficiency (cold) | WS-CaPo 1:500; WS-PA 1:30; raise temps |
-| Brown spots on leaves | [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]], Ca deficiency | OHN 1:500 + WS-Ca 1:500; improve airflow |
+| Brown spots on leaves | Fungal disease, Ca deficiency | OHN 1:500 + WS-Ca 1:500; improve airflow |
 | Soft, sappy growth | Excess N, insufficient Ca | Stop FAA; apply WS-Ca 1:500 |
 | Stunted growth | Ca applied during veg, root issues | Stop WS-Ca; apply FPJ 1:500; check soil drainage |
 | Blossom end rot | Ca deficiency during fruiting | WS-Ca 1:500 foliar; apply preventively early flower |
@@ -115,18 +115,18 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 | Cold (<10C) | Purple leaves, slow growth | Move indoors; WS-PA 1:30; reduce watering |
 | Drought | Wilting, leaf drop | Deep water; mulch; crack prevention formula (OHN+BRV+FPJ+LAB+Seawater) |
 | Overwatering | Drooping, yellowing, root rot | Improve drainage; LAB 1:500 soil drench; dry out between waterings |
-| [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] | Wilting after moving | OHN 1:500 root dip or drench; shade for 2-3 days; FPJ 1:500 |
+| Transplant shock | Wilting after moving | OHN 1:500 root dip or drench; shade for 2-3 days; FPJ 1:500 |
 
 ## Pest/Disease Solutions by Symptom
 
 | Symptom | Likely Pest/Disease | KNF Treatment |
 |---------|-------------------|---------------|
-| Fine webbing, yellow stippling | Spider mites | Mackerel FAA 1:500 + OHN 1:500; increase humidity; [[comparison-predatory-mites-vs-ladybugs-biocontrol]] |
+| Fine webbing, yellow stippling | Spider mites | Mackerel FAA 1:500 + OHN 1:500; increase humidity; predatory mites |
 | Tiny black flies at soil | Fungus gnats | Let soil dry; LAB 1:500 soil drench; BTi |
 | Silver streaks, black dots | Thrips | OHN 1:500 + neem FPJ; blue sticky traps |
 | Clusters on new growth | Aphids | OHN 1:500; ladybugs; neem FPJ |
 | White flying insects | Whiteflies | OHN 1:500; yellow sticky traps |
-| White powder on leaves | [[cervantes-powdery-mildew-prevention-treatment]] | OHN 1:500 (cinnamon antifungal); milk spray 1:9; improve airflow |
+| White powder on leaves | Powdery mildew | OHN 1:500 (cinnamon antifungal); milk spray 1:9; improve airflow |
 | Brown mushy buds | Bud rot (Botrytis) | Remove affected buds; reduce humidity <50%; OHN 1:500 preventive |
 | Wilting, brown roots | Root rot | Improve drainage; LAB 1:500 soil drench; H2O2 1:4 |
 
@@ -134,16 +134,21 @@ Synthesized from all KNF input pages. Covers preparation failures, plant symptom
 
 For weakened, stressed, or recovering crops (Cho's formula):
 
-## Related
+| Input | Amount per 1000ml water |
+|-------|------------------------|
+| FPJ | 2 ml |
+| BRV | 2 ml |
+| OHN | 1 ml |
+| FAA | 1 ml (if N-deficient) |
+| WS-Ca | 1 ml (if over-luxurious/soft) |
 
-- [[knf-preparations]] — complete input guide with recipes
-- [[indigenous-microorganisms-imo]] — IMO collection and cultivation
-- [[nutritive-cycle-theory]] — growth stage framework for timing inputs
-- [[fermented-plant-extract-fpe]] — FPJ/FFJ detailed troubleshooting
-- [[fish-amino-acid-faa]] — FAA troubleshooting and pairing
-- [[oriental-herbal-nutrient-ohn]] — OHN pest control applications
-- [[water-soluble-calcium-wca]] — WCA troubleshooting
-- [[brown-rice-vinegar-brv]] — BRV as extraction solvent
-- [[lactic-acid-bacteria-lab]] — LAB production troubleshooting
-- [[cannabis-pest-management]] — cannabis-specific IPM
-- [[soil-food-web-nutrient-cycling]] — biological foundation for all KNF inputs
+Apply every 3-5 days until recovery visible. Works for transplant shock, pest damage recovery, nutrient burn recovery.
+
+## Seawater Use
+
+Seawater provides full-spectrum minerals (Na, Mg, K, Ca, plus 70+ trace elements). Use surface seawater diluted 1:30.
+
+
+
+## See Also
+- [[pond-maintenance-and-troubleshooting]]

@@ -9,7 +9,7 @@ sources:
 ---
 # MAL (Methallylescaline; 3,5-Dimethoxy-4-methallyloxyphenethylamine)
 
-MAL is an allyl-substituted phenethylamine derived from [[mescaline-entity]] by replacing the 4-methoxy group with a 4-methallyloxy group.
+MAL is an allyl-substituted phenethylamine derived from [[mescaline]] by replacing the 4-methoxy group with a 4-methallyloxy group.
 
 The methallyl group contains a double bond (olefin), which is structurally notable.
 

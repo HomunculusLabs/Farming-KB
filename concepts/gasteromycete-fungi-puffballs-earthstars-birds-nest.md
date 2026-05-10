@@ -138,4 +138,6 @@ by some Indians for religious or magical purposes. This kind of
 misidentification is a recurring theme in the study of sacred fungi worldwide.
 
 ## See Also
+
+- [[mixtec-sacred-puffballs-gasteromycete-narcotic-fungi-traditions]]
 - [[bloomfield-birds-nest-fungi-peridiole-splash-herbivore-dispersal]]

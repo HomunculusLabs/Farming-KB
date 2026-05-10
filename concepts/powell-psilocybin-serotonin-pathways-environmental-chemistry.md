@@ -124,10 +124,6 @@ material remains philosophically significant for understanding the
 relationship between consciousness and the natural world.
 
 ## See Also
-
 - [[powell-psilocybin-consciousness]]
 - [[powell-mutability-of-consciousness-chemical-lens]]
-
-## See Also
-
 - [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]

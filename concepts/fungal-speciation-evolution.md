@@ -4,8 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungal Speciation and Evolution ## Overview Fungi have evolved over approximately 400 million years since their origin, with molecular evidence from arbuscular mycorrhizal fossils dating fungal-plant symbioses to the Ordovician. Fungal speciation operates through mechanisms both familiar to and distinct from those in plants and animals, including sexual recombination, clonal divergence, host shifts, and adaptation to extreme environments. Understanding fungal speciation is central to [[fungal-biodiversity]].
 

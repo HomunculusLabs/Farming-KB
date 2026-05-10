@@ -103,17 +103,7 @@ further extension of language," potentially enabling "a human language in
 which the intent of meaning is actually beheld in three-dimensional space."
 
 ## See Also
-
 - [[language-self-replicating-information-noosphere-mckenna]]
-
 - [[mckenna-perceiving-self-as-primary-datum-consciousness]]
-
 - [[tryptamine-hallucinogens]]
-
-## See Also
-
-- [[language-self-replicating-information-noosphere-mckenna]]
-
-- [[mckenna-perceiving-self-as-primary-datum-consciousness]]
-
 - [[tryptamine-hallucinogens-and-consciousness]]

@@ -4,7 +4,7 @@ created: 2026-05-08
 updated: 2026-05-08
 type: concept
 tags: [permaculture, holmgren, design-framework, sustainability, conceptual-model, ethics, whole-systems]
-sources: sources:
+sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # The Permaculture Flower - Holmgren's Conceptual Framework

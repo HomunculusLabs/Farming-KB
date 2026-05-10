@@ -140,10 +140,10 @@ The casing recipe (10 parts peat, 5 parts vermiculite, 2 parts limestone) is spe
 
 ## See Also
 
+- [[simple-mushroom-fruiting-chambers]]
+
 - [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
 
 - [[passive-humidity-fruiting-chamber-stackable-plastic-bin-design]]
 - [[polyethylene-sheeting-fruiting-chamber-simple-stackable-design]]
 - [[fruiting-conditions-mushroom-cultivation]]
-
-## See Also

@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Corner, E.J.H. (1950). "A Monograph of Clavaria and Allied Genera." Annals of Botany Memoirs, 1, 1-740.
-  - Petersen, R.H. (1974). "The Genus Clavariadelphus in [[psilocybin-north-america-pacific-northwest]]." Nova Hedwigia, 25, 1-111.
+  - Petersen, R.H. (1974). "The Genus Clavariadelphus in psilocybin-north-america-pacific-northwest." Nova Hedwigia, 25, 1-111.
   - Marr, C.D., Stuntz, D.E. (1973). "Clavariadelphus in the Pacific Northwest." Madroño, 22, 239-248.
   - Dima, B. (2011). "Clavariadelphus Species in the Carpathian Basin." Mycotaxon, 116, 147-157.
   - Buyck, B., et al. (2014). "Testing the Utility of ITS and RPB2 for Clavariadelphus Phylogeny." Cryptogamie Mycologie, 35(3), 261-278.

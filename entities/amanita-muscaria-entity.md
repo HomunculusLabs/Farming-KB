@@ -17,7 +17,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Rubel, A. & Camarda, L. (2022). "Amanita muscaria: A comprehensive review of its phytochemistry, pharmacology, toxicology, and ethnobotany." Journal of Ethnopharmacology.
-  - Stamets, P. (2005). [[woodlovers-mycelium-running-pathway-technique]]. Ten Speed Press.
+  - Stamets, P. (2005). woodlovers-mycelium-running-pathway-technique. Ten Speed Press.
   - https://www.mycobank.org/ (taxonomic classification)
   - Benjamin, D.R. (1995). Mushrooms: Poisons and Panaceas. W.H. Freeman.
   - Ott, J. (1976). "Pharmacognosy of Amanita muscaria." Journal of Psychoactive Drugs.
@@ -120,16 +120,7 @@ In permaculture and forest garden design, *A. muscaria* serves as a visible indi
 *Amanita muscaria* is notoriously difficult to cultivate artificially because it requires a living host tree for mycorrhizal association. No reliable indoor cultivation method exists. Inoculation involves placing sporocarp tissue or spore slurry near the root zone of compatible tree species.
 
 ## See Also
-
 - [[oudenansiella-mucida]]
-
-- [[muscimol-entity]] — primary psychoactive compound of *Amanita muscaria*
-- [[ectomycorrhiza]] — symbiotic root-fungus associations
-- GABA-Receptors — target of muscimol and related depressant compounds
-- amanita muscaria entity
-
-## See Also
-
-- [[oudenansiella-mucida]]
-
+- [[muscimol-entity]]
+- [[ectomycorrhiza]]
 - [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]]

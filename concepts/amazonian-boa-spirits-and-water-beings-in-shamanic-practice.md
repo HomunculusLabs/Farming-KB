@@ -136,14 +136,7 @@ the pharmacological power of [[ayahuasca]] trance
   and serve as allies, teachers, and adversaries for the vegetalista.
 
 ---
-## See Also
-
-- [[pablo-amaringo]] — Overview of Amaringo's work
-- vegetalismo tradition — The healer tradition of the Peruvian Amazon
-- sachamama — Detailed page on the forest serpent mother
-- yakumama — Detailed page on the water serpent mother
-- chullachaki — Detailed page on the forest trickster spirit
 
 ## See Also
-
+- [[pablo-amaringo]]
 - [[amazonian-medicinal-plants-in-amaringos-visions]]

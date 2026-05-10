@@ -141,9 +141,6 @@ A comprehensive soil conditioner applied per acre:
 - BRV: 500 ml
 - LAB: 300 ml
 - WCaP: 300 ml
-## See Also
-- green cannabis grow bible [[cannabis-seed-germination-methods]] methods
 
 ## See Also
-
 - [[natural-farming-guide-composting-methods-and-techniques]]

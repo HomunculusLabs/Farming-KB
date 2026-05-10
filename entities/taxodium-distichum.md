@@ -91,6 +91,8 @@ Propagation is primarily from seed, requiring 30–90 days of cold stratificatio
 
 ## See Also
 
+- [[taxodium-mucronatum]]
+
 - [[juniperus-communis]]
 - [[sequoia-sempervirens]]
 - [[thuja-occidentalis]]

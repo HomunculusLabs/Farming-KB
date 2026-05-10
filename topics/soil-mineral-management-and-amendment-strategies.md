@@ -118,7 +118,6 @@ and organic matter percentage. Micronutrient analysis can be added if
 unexplained plant symptoms persist or if you are managing high-pH or
 sandy soils where trace element deficiencies are common.
 
-When interpreting soil test results, the most important principle is that
 ## See Also
 
 [[cation-exchange-capacity]] -- How soils hold and exchange nutrients

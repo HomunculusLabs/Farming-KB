@@ -139,12 +139,7 @@ The two greatest enemies of spawn were too much heat (dung near the
 surface should never exceed blood heat) and too much water (beds shut
 out from sun and air could not evaporate moisture). On economics,
 Cuthill noted that a bushel of spawn costing 5 shillings could be worth
-10 pounds in private service, while natural spawn saved from old beds
-## See Also
-
-- mushroom-grain-spawn-preparation
 
 ## See Also
-
 - [[mushroom-spawn-preparation]]
 - [[grain-spawn-preparation]]

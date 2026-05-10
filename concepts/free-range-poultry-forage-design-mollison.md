@@ -93,11 +93,8 @@ Stored food from two sources: hard seed pods and seed heads from strawyards; gat
 
 - Mollison, B. Permaculture Two: Practical Design for Town & Country in Permanent Agriculture. Tagari Books, 1979. Chapter 8.
 - Smith, R. Tree Crops: a Permanent Agriculture. Devine-Adair, 1977.
-## See Also
 
 ## See Also
-
-- mollison-free-range-poultry-forage-design
 - [[mollison-designers-free-range-forage-design-principles]]
 - [[mollison-designers-poultry-forage-design-pastured-systems]]
 - [[ceratonia-siliqua]]

@@ -120,6 +120,8 @@ The Sudd in South Sudan, one of the largest remaining papyrus wetlands, covers a
 
 ## See Also
 
+- [[cyperus-alternifolius]]
+
 - [[cyperus-esculentus]]
 - [[schoenoplectus-lacustris]]
 - [[typha-latifolia]]

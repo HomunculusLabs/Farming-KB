@@ -54,7 +54,7 @@ Comprehensive guide to irrigation methods for a regenerative homestead. Covers d
 | Drip emitter (button) | 1-4 GPH | Large containers, trees | 2-4 per tree |
 | Drip tape | 0.5-1.0 GPM/100 ft | Row crops, garden beds | 6-18" spacing built-in |
 | Dripperline (1/2") | 0.5-1.0 GPH/18" spacing | Permanent perennial beds | Every 12-18" |
-| Micro-sprinkler | 5-20 GPH | [[fukuoka-citrus-orchard-ground-cover-cultivation]] areas, orchards | 4-8 ft radius |
+| Micro-sprinkler | 5-20 GPH | Ground cover areas, orchards | 4-8 ft radius |
 | Bubbler | 5-20 GPH | Large trees, basins | 1 per tree |
 
 ### Layout Design
@@ -76,7 +76,7 @@ Comprehensive guide to irrigation methods for a regenerative homestead. Covers d
 | Type | Coverage | Efficiency | Best Use |
 |------|----------|-----------|----------|
 | Impact sprinkler | 20-80 ft radius | 50-70% | Pasture, large lawn areas, [[pasture-management]] |
-| Oscillating sprinkler | 10-30 ft x 15-45 ft | 60-75% | Garden beds, [[cannabis-seed-germination-methods]] |
+| Oscillating sprinkler | 10-30 ft x 15-45 ft | 60-75% | Garden beds, seed germination |
 | Rotary nozzle | 15-30 ft radius | 70-80% | Lawn, ground cover |
 | Micro-sprinkler | 4-8 ft radius | 80-90% | Food forest understory, berry bushes |
 
@@ -85,7 +85,7 @@ Sprinklers waste 30-50% to evaporation and wind compared to drip. Reserve for pa
 ## Flood/Furrow Irrigation
 - **Basin irrigation**: Build soil berms around fruit trees, flood basins weekly. Simplest method. Excellent for establishing young trees.
 - **Furrow irrigation**: Channels between crop rows. Works with gravity flow from rainwater tanks. Good for [[grain-and-staple-crops]] and [[cover-cropping-guide]].
-- **[[comparison-swale-design-vs-contour-swale-irrigation-design]]**: Contour swales ([[water-management]]) fill during rain, slowly release to downslope plantings. Zero energy input.
+- **Swale irrigation**: Contour swales ([[water-management]]) fill during rain, slowly release to downslope plantings. Zero energy input.
 
 ## Olla Pots
 - **How they work**: Unglazed clay pots buried in soil, filled with water. Water seeps through clay walls by capillary action directly to root zone.
@@ -94,7 +94,7 @@ Sprinklers waste 30-50% to evaporation and wind compared to drip. Reserve for pa
 - **Sizes**: 1-5 gallon. 2-gallon standard for raised beds.
 - **Refill**: Every 2-5 days depending on weather and plant demand.
 - **Cost**: $15-30 each (DIY with terracotta pots + silicone: $5-8).
-- **Best for**: Raised beds, containers, [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] zones ([[greenhouse-design]]).
+- **Best for**: Raised beds, containers, intensive garden zones ([[greenhouse-design]]).
 
 ## Wicking Beds
 - **How they work**: Water reservoir (gravel/pipe) below soil, separated by geotextile. Soil wicks water upward by capillary action.
@@ -140,10 +140,11 @@ Recommendation: Automate Zone 1-2 (daily/weekly visits). Manual is fine for Zone
 | Uneven flow / dry spots | Clogged emitters | Flush lines, remove and clean emitters in vinegar soak |
 | Low pressure throughout | Filter clogged, line too long, insufficient source GPM | Clean/replace filter, shorten zone runs, check source flow rate |
 | Leaks at fittings | Loose connections, UV degradation, rodent damage | Push fittings fully, replace damaged sections, use mouse guards |
-## Related Pages
-- [[homestead-water-systems]] — Water sourcing, pumps, filtration, treatment
-- [[water-management]] — Swales, keyline, [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]], greywater
-- [[seasonal-planning]] — Monthly task calendar including irrigation schedule
-- [[greenhouse-design]] — Greenhouse irrigation and climate control
-- [[food-forest-design]] — Water needs for food forest establishment
-- [[pasture-management]] — Irrigation for [[comparison-rotational-grazing-vs-continuous-grazing]] systems
+| Blown emitters | Pressure too high | Verify pressure regulator (20-30 PSI), install if missing |
+| Green slime in lines | Algae growth (light exposure) | Bury lines, use opaque tubing, flush with hydrogen peroxide |
+| Mineral buildup | Hard water | Vinegar soak emitters monthly, consider acid injection system |
+| Roots in emitters | Emitters too deep, aggressive roots | Install emitters at soil surface, use root barrier discs |
+
+## Water Pressure Requirements
+
+| System | Min PSI | Ideal PSI | Max PSI |

@@ -2,7 +2,7 @@
 title: Holzer Rebel Farmer Philosophy
 created: 2026-04-26
 tags:
-  - farming-philosophy
+  - [[natural-farming-food-philosophy|farming]]-philosophy
   - ecological-activism
   - agricultural-policy
   - education
@@ -19,7 +19,7 @@ type: concept
 Farming is the best profession on Earth, as long as the farmer communicates
 and co-operates with nature. Holzer's philosophy challenges the entire
 trajectory of modern industrial agriculture and calls for a return to
-natural, independent farming.
+[[fukuoka-natural-farming-philosophy-road-back-to-nature|natural]], independent farming.
 
 ## The Farmstead of the Future
 

@@ -9,17 +9,17 @@ sources: []
 
 # Homestead Canning Recipes
 
-Canning preserves homestead harvests for year-round use. Two methods exist: water-bath canning (high-acid foods, pH below 4.6) and [[comparison-pressure-canning-vs-water-bath-canning]] (low-acid foods). Botulism risk makes strict adherence to tested recipes non-negotiable.
+Canning preserves homestead harvests for year-round use. Two methods exist: water-bath canning (high-acid foods, pH below 4.6) and pressure canning (low-acid foods). Botulism risk makes strict adherence to tested recipes non-negotiable. (see [[mason-jar-preserving-guide]]).
 
 ## Equipment
 
-- [[pf-tek-pressure-canner-sterilization]] (not a pressure cooker -- must have a dial gauge or weighted gauge)
+- Pressure canner (not a pressure cooker -- must have a dial gauge or weighted gauge)
 - Water-bath canner with rack
 - Mason jars (regular or wide-mouth) and two-piece lids
 - Jar lifter, headspace tool, bubble remover, funnel
 - Clean towels and cutting boards
 
-Always inspect jars for chips and cracks. Use new lids each time; rings are reusable.
+Always inspect jars for chips and cracks. Use new lids each time; rings are reusable. (see [[canning-and-preserving]]).
 
 ## Pressure Canning: Green Beans
 
@@ -38,7 +38,7 @@ Always inspect jars for chips and cracks. Use new lids each time; rings are reus
 4. Do not add liquid -- corn creates its own
 5. Process pints at 11 psi for 55 minutes; quarts for 85 minutes
 
-Whole-kernel corn is one of the longest-processing vegetables due to its density.
+Whole-kernel corn is one of the longest-processing vegetables due to its density. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ## Pressure Canning: Tomatoes (Water-Bath or Pressure)
 
@@ -119,5 +119,3 @@ Canning transforms seasonal abundance into shelf-stable food, making it a corner
 - USDA Complete Guide to Home Canning (2015 revision)
 - National Center for Home Food Preservation (nchfp.uga.edu)
 - Ball Blue Book Guide to Preserving
-
-See also: [[mason-jar-preserving-guide]]

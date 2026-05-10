@@ -1,5 +1,5 @@
 ---
-title: JADAM jadam-sea-salt-and-mineral-solutions Use
+title: JADAM Sea Salt Use
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -10,15 +10,15 @@ sources:
 
 # JADAM Sea Salt Use
 
-Sea water and sea salt are fundamental mineral supplements in the JADAM system. Sea water contains 83 different minerals including S, Mg, Ca, K, B, P, I, Mn, Mo, Co, Se, and Ge -- nearly all essential elements for [[coleman-sunlight-and-winter-crop-growth-rates]].
+Sea water and sea salt are fundamental mineral supplements in the JADAM system. Sea water contains 83 different minerals including S, Mg, Ca, K, B, P, I, Mn, Mo, Co, Se, and Ge -- nearly all essential elements for crop growth. (see [[jadam-methods]]).
 
 ## Why Sea Water
 
-Sea water contains approximately 100 million marine microorganisms per mL. When combined with JADAM [[jadam-microorganism-solution-culturing]] (JMS) cultured from leaf mold, you essentially combine all the diversity Earth has to offer: microorganisms from land and from sea. [[ultra-low-cost-foliar-application-methods]] of JMS mixed with sea water eliminates [[cervantes-powdery-mildew-prevention-treatment]].
+Sea water contains approximately 100 million marine microorganisms per mL. When combined with JADAM microorganism solution (JMS) cultured from leaf mold, you essentially combine all the diversity Earth has to offer: microorganisms from land and from sea. Foliar application of JMS mixed with sea water eliminates powdery mildew. (see [[jadam-microorganism-solution-jms]]).
 
 ## Mineral Replenishment
 
-Modern farming causes continuous [[jadam-natural-mineral-leaching-and-replenishment]] from soil. JADAM's approach is not to try to identify which specific mineral is deficient, but to recover the diversity and balance of minerals holistically -- similar to eating a wholesome diet rather than taking individual vitamin pills. Sea water with its 83 minerals, combined with phyllite rock powder, ensures soil never lacks mineral diversity.
+Modern farming causes continuous mineral leaching from soil. JADAM's approach is not to try to identify which specific mineral is deficient, but to recover the diversity and balance of minerals holistically -- similar to eating a wholesome diet rather than taking individual vitamin pills. Sea water with its 83 minerals, combined with phyllite rock powder, ensures soil never lacks mineral diversity.
 
 ## Dilution Rate
 
@@ -61,21 +61,3 @@ JADAM uses sea water together with phyllite solution (fine-powdered phyllite roc
 - [[jadam-fermented-plant-juice]]
 - [[knf-indigenous-microorganism-culture]]
 - [[knf-water-soluble-calcium]]
-## Practical Considerations
-
-Successful implementation of JADAM Sea Salt Use requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

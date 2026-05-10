@@ -140,10 +140,6 @@ Its influence extends beyond McKenna to the Doors of Perception as a founding te
 The theory continues to inspire researchers in the modern psychedelic renaissance, who have returned to Huxley's ideas as a framework for understanding the therapeutic potential of psychedelics — particularly the observation that psychedelics can temporarily dissolve rigid patterns of thought and behavior, the "reducing valve" of pathological psychology.
 
 ## See Also
-
 - [[mckenna-psilocybin-three-levels-of-evolution]]
 - [[mckenna-transcendent-other-and-exopheromones]]
-
-## See Also
-
 - [[mckenna-dmt-experience-and-overmind]]

@@ -1,5 +1,5 @@
 ---
-title: golden-guide-salvia-divinorum-and-diviner-sage — Diviner's Sage
+title: Salvia divinorum — Diviner's Sage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -74,7 +74,7 @@ See [[maria-sabina-mazatec-mushroom-ceremony]] for context on broader Mazatec en
 - **Smoking/vaporization**: dried leaf enhanced with salvinorin A extract (5x, 10x, 20x, 40x "strengths")
 - **Tinctures**: ethanol-based sublingual preparations, standardized to salvinorin A content
 - **Pure salvinorin A extraction**: typically using acetone or ethanol solvent extraction followed by chromatographic purification
-- **Changa-style blends**: salvinorin A combined with [[turner-harmala-alkaloids-preparation-and-dosage]] to extend duration (experimental)
+- **Changa-style blends**: salvinorin A combined with harmala alkaloids to extend duration (experimental)
 
 ### Extraction Protocol (Laboratory)
 
@@ -88,7 +88,7 @@ See [[maria-sabina-mazatec-mushroom-ceremony]] for context on broader Mazatec en
 
 Salvinorin A and S. divinorum have been scheduled in an increasing number of jurisdictions:
 
-- **[[dmt-containing-plants-united-states-halpern]]**: Not federally scheduled (as of 2026), but regulated in many states (California, Illinois, Louisiana, and others have enacted restrictions)
+- **United States**: Not federally scheduled (as of 2026), but regulated in many states (California, Illinois, Louisiana, and others have enacted restrictions)
 - **Australia**: Schedule 9 (prohibited substance) since 2002 — one of the earliest countries to ban it
 - **Canada**: Not scheduled under the CDSA, though sale may be restricted under food and drug regulations
 - **United Kingdom**: Class B controlled drug since 2016
@@ -112,8 +112,8 @@ The rapid spread of online videos showing recreational use contributed significa
 
 ## Related Pages
 
-- [[psychedelic-compounds-reference]] for [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]] with other psychoactive plants
+- [[psychedelic-compounds-reference]] for pharmacological comparison with other psychoactive plants
 - [[maria-sabina-mazatec-mushroom-ceremony]] for context on Mazatec entheogenic traditions
 - [[entheogen-culture]] for broader indigenous plant-use knowledge
-- [[harm-reduction-guide]] for general [[shulgin-safety-principles-self-experimentation]]
+- [[harm-reduction-guide]] for general safety principles
 - [[salvinorin-reference]]

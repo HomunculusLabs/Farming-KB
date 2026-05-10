@@ -18,7 +18,7 @@ sources:
   - "Permaculture: Principles and Pathways Beyond Sustainability (David Holmgren)"
   - "The One-Straw Revolution (Masanobu Fukuoka)"
   - "JADAM system materials"
-  - "[[duggar-mushroom-growing-history-and-methods]] (William Falconer, 1891)"
+  - "duggar-mushroom-growing-history-and-methods (William Falconer, 1891)"
   - "The Principles of Mushroom Growing (B.M. Duggar, 1915)"
 related_concepts:
   - coleman-direct-marketing-and-csa-models
@@ -107,7 +107,6 @@ Member retention is a critical metric for CSA sustainability. Industry-wide
 retention rates average 50 to 60 percent annually, meaning farms must recruit
 roughly half their membership each year. However, top-performing farms achieve
 retention rates exceeding 80 percent through consistent quality, strong
-communication, member engagement events, and responsive customer service.
 ## See Also
 
 * [[community-supported-agriculture-csa]]

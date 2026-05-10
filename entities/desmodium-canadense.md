@@ -100,6 +100,9 @@ In tropical agriculture, *Desmodium* species are used as cover crops and in push
 
 ## See Also
 
+- [[desmodium-illinoense]]
+- [[desmodium-rotundifolium]]
+
 - [[robinia-pseudoacacia]]
 - [[chamaecrista-fasciculata]]
 - [[trifolium-pratense]]

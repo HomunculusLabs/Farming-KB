@@ -61,6 +61,11 @@ McKenna noted that Amazonian shamans independently arrived at a critical pharmac
 For McKenna, Amazonian shamanism was not merely an ethnographic curiosity but living proof of his central thesis: that human beings have a deep, ancient, and necessary relationship with visionary plants, and that the suppression of this relationship has produced the alienation and destructiveness of modern civilization. The Amazonian tradition demonstrated that the [[leary-psychedelic-experience-bardo-mapping]], properly contextualized within a shamanic framework, is not escapism but a technology for healing, knowledge, and cultural cohesion.
 
 ## See Also
+- [[mckenna-food-gods-tassili-cave-paintings]]
+- [[banisteriopsis-caapi]]
+- [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
+- [[urban-ayahuasca-iquitos-healing]]
+
 ## The Nature of Shamanic Ecstasy
 
 Shamanism is the practice of the Upper Paleolithic tradition of healing, divination, and theatrical performance based on natural magic developed ten to fifty thousand years ago. Mircea Eliade, author of *Shamanism: Archaic Techniques of Ecstasy* and the foremost authority on shamanism in the context of comparative religion, has shown that in all times and places shamanism maintains a surprising internal coherency of practice and belief.

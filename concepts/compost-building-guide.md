@@ -23,7 +23,7 @@ Every decomposable material has a carbon-nitrogen ratio that predicts how it wil
 
 - Soil humus has a C/N of around 12:1 in every climate
 - If the amendment C/N is higher than 12:1, soil microbes "burn" carbon for fuel while preserving nitrogen. Result: increased humus, healthier soil, but temporary nutrient lockup
-- If the amendment C/N is lower than 12:1, surplus nitrogen converts to ammonia gas, then to nitrates. Result: plants grow fast temporarily, but humus is consumed and soil [[hamilton-composting-and-organic-matter-management]] decreases
+- If the amendment C/N is lower than 12:1, surplus nitrogen converts to ammonia gas, then to nitrates. Result: plants grow fast temporarily, but humus is consumed and soil organic matter decreases
 
 ### C/N Reference Table
 
@@ -44,7 +44,7 @@ Every decomposable material has a carbon-nitrogen ratio that predicts how it wil
 
 ## Temperature and Decomposition
 
-The speed of organic decomposition doubles for every 10F (5C) increase in temperature (geometric increase). However, organic enzymes are destroyed at around 120F (50C). A few thermophilic enzymes in a [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] heap can handle temperatures as high as 150-160F (65-71C), but if material heats beyond 150F (65C), it loses the bulk of its nutrients as methane, ammonia, and other gases off-gas.
+The speed of organic decomposition doubles for every 10F (5C) increase in temperature (geometric increase). However, organic enzymes are destroyed at around 120F (50C). A few thermophilic enzymes in a hot compost heap can handle temperatures as high as 150-160F (65-71C), but if material heats beyond 150F (65C), it loses the bulk of its nutrients as methane, ammonia, and other gases off-gas.
 
 Practical implications:
 - Mulched soil at 75F (24C) — decomposition is slow; a 6-inch layer of hay might take a year
@@ -78,7 +78,7 @@ Note: In cool/maritime climates, use larger quantities of more potent compost. I
 Spreading a layer of nutrient-rich organic matter atop the soil and shallowly digging it in. Decomposition happens faster than surface mulching because material is mixed into well-oxygenated soil.
 
 ### Critical timing
-- Takes about 6 weeks for decomposition to complete in [[stamets-cultivator-agaricus-bitorquis-warm-weather-cultivation]] (if C/N no higher than 30:1 and layer is under 1 inch thick)
+- Takes about 6 weeks for decomposition to complete in warm weather (if C/N no higher than 30:1 and layer is under 1 inch thick)
 - In cold-winter climates: avoid autumnal sheet composting on beds intended for spring crops — decomposition halts in winter
 - Best done in spring/summer if you can afford land out of production
 
@@ -108,7 +108,7 @@ For gardens under 3,000-4,000 sq ft without livestock:
 - Compost is an intentional, controlled microbial ferment — like making wine, precision matters
 - The average C/N of your starting material determines the outcome
 - Composting is safer and more certain than sheet composting — decompose first, then apply
-- Most homemade compost is not potent enough alone for high-demand vegetables — supplement with [[soil-testing]]-based amendments or [[hamilton-concentrated-organic-fertilizer-products]] fertilizer (COF)
+- Most homemade compost is not potent enough alone for high-demand vegetables — supplement with [[soil-testing]]-based amendments or concentrated organic fertilizer (COF)
 
 ## Related
 

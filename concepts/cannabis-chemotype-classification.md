@@ -114,10 +114,8 @@ The same genotype can produce markedly different cannabinoid and terpene
 profiles under varying growing conditions. This environmental plasticity
 complicates the development of consistent, repeatable chemotype-based
 classification standards.
+
 ## See Also
 - [[cannabinoid-biosynthesis-pathway]]
 - [[trichome-development-and-morphology]]
-
-## See Also
-
 - [[cannabis-chemotype-classification-cannabinoid-breeding]]

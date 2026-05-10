@@ -1,16 +1,15 @@
 ---
-title: bloomfield-chytrid-fungi-early-fungal-evolution Guide
+title: Chytrid Fungi Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, taxonomy, ecology, biology, pathogens, conservation]
-sources:
-  - "raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment.md"
+sources: []
 ---
 
 # Chytrid Fungi Guide
 
-Chytridiomycota is the most basal and primitive phylum of fungi, believed to be the earliest-diverging fungal lineage. Chytrids are unique among fungi in possessing flagellated spores (zoospores) that swim through water using a single posterior flagellum. Though often overlooked, chytrids play critical ecological roles in aquatic ecosystems and include one of the most devastating wildlife pathogens ever described.
+Chytridiomycota is the most basal and primitive phylum of fungi, believed to be the earliest-diverging fungal lineage. Chytrids are unique among fungi in possessing flagellated spores (zoospores) that swim through water using a single posterior flagellum. Though often overlooked, chytrids play critical ecological roles in aquatic ecosystems and include one of the most devastating wildlife pathogens ever described. (see [[fungal-interactions-organisms]]).
 
 ## Defining Characteristics
 
@@ -26,14 +25,14 @@ Chytridiomycota is the most basal and primitive phylum of fungi, believed to be 
 Modern taxonomy divides the traditional Chytridiomycota into several phyla:
 - Chytridiomycota (true chytrids)
 - Blastocladiomycota (blastoclads)
-- Neocallimastigomycota (anaerobic [[anaerobic-rumen-fungi-biology-herbivore-digestion]])
+- Neocallimastigomycota (anaerobic rumen fungi)
 - Olpidiomycota (olpidium)
 
 ## Key Groups and Species
 
 ### Batrachochytrium dendrobatidis (Bd)
 
-The most infamous chytrid, Bd is the causative agent of chytridiomycosis in amphibians. Discovered in 1998, it has been responsible for the decline or extinction of over 500 amphibian species worldwide, making it the most destructive pathogen affecting vertebrate biodiversity. Bd infects keratinized skin cells of adult amphibians, disrupting osmoregulation and leading to death by cardiac arrest.
+The most infamous chytrid, Bd is the causative agent of chytridiomycosis in amphibians. Discovered in 1998, it has been responsible for the decline or extinction of over 500 amphibian species worldwide, making it the most destructive pathogen affecting vertebrate biodiversity. Bd infects keratinized skin cells of adult amphibians, disrupting osmoregulation and leading to death by cardiac arrest. (see [[biodiversity-of-fungi-chytrid-zoosporic-fungi-ecology]]).
 
 Key facts about Bd:
 - Optimal growth temperature: 17-25 C
@@ -45,7 +44,7 @@ Key facts about Bd:
 
 ### Batrachochytrium salamandrivorans (Bsal)
 
-A related chytrid discovered in 2013 that primarily affects salamanders and newts. First identified after mass die-offs of fire salamanders in Europe. Bsal is considered a major emerging threat, particularly to the diverse salamander fauna of [[psilocybin-north-america-pacific-northwest]]. Biosecurity measures have been implemented to prevent its spread.
+A related chytrid discovered in 2013 that primarily affects salamanders and newts. First identified after mass die-offs of fire salamanders in Europe. Bsal is considered a major emerging threat, particularly to the diverse salamander fauna of North America. Biosecurity measures have been implemented to prevent its spread.
 
 ### Rumen Chytrids (Neocallimastigomycota)
 
@@ -53,7 +52,7 @@ Anaerobic fungi that live in the digestive tracts of herbivores (ruminants, hors
 
 ### Allomyces
 
-A genus of water molds (Blastocladiomycota) found in soil and water. Allomyces species have been important model organisms for studying [[steroidal-regulation-fungal-development-growth]] and reproduction. They exhibit alternation of generations, with both haploid and diploid phases.
+A genus of water molds (Blastocladiomycota) found in soil and water. Allomyces species have been important model organisms for studying fungal development and reproduction. They exhibit alternation of generations, with both haploid and diploid phases.
 
 ### Olpidium
 
@@ -77,7 +76,7 @@ Chytrids are major decomposers in aquatic ecosystems. They are particularly impo
 Recent research has revealed that chytrids play a crucial role in aquatic food webs through the "mycoloop." When chytrids parasitize diatoms and other algae, the zoospores they produce are rich in lipids and are readily consumed by zooplankton. This transfers energy from inedible or poorly digestible algae (like diatoms with siliceous frustules) to higher trophic levels. This pathway is increasingly recognized as ecologically significant in freshwater and marine systems.
 
 ### Seasonal Dynamics
-Chytrid populations typically peak in spring and fall when water temperatures are moderate and [[hamilton-composting-and-organic-matter-management]] input is high. Winter ice cover and summer heat generally suppress chytrid activity, though some cold-adapted species remain active under ice.
+Chytrid populations typically peak in spring and fall when water temperatures are moderate and organic matter input is high. Winter ice cover and summer heat generally suppress chytrid activity, though some cold-adapted species remain active under ice.
 
 ## Identification and Study
 
@@ -100,7 +99,7 @@ The Bd pandemic highlights the interconnectedness of global wildlife trade and e
 - Captive breeding programs for at-risk amphibian species
 - Biosecurity protocols to prevent Bsal spread to North America
 - Research into probiotic treatments using anti-Bd bacteria
-- [[fungal-dark-taxa-environmental-dna-sequencing]] (eDNA) monitoring for early detection
+- Environmental DNA (eDNA) monitoring for early detection
 - Habitat management to reduce chytrid transmission (increasing water temperature, reducing pathogen load)
 
 ## Related

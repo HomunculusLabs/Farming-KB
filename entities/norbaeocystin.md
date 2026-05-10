@@ -15,7 +15,7 @@ naturally occurring **tryptamine alkaloid** found in psilocybin-
 [[psilocybin-containing-mushrooms-in-us]]. It is the **demethylated precursor** to both
 baeocystin and psilocybin in the fungal biosynthetic pathway, and
 represents the simplest phosphorylated tryptamine alkaloid in the
-series. First identified as a minor constituent of [[emcdda-psilocybin-mushroom-dose-and-effects]]
+series. First identified as a minor constituent of [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 extracts, norbaeocystin plays a key role in understanding the
 biochemistry of psilocybin biosynthesis and the evolutionary origins of
 psychedelic compound production in fungi.

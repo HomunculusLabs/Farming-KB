@@ -1,11 +1,10 @@
 ---
-title: Permaculture mollison-animal-integration-permaculture-design
+title: Permaculture Animal Integration
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [permaculture, animal-husbandry, ducks, goats, livestock, ecology, forage, multi-function]
-sources:
-  sources: []
+sources: []
 ---
 
 # Permaculture Animal Integration
@@ -28,7 +27,7 @@ Every animal in a permaculture system should serve at least three functions. A c
 Chickens are the most versatile and widely kept permaculture animal. They are relatively easy to manage, productive, and integrate well with both garden and landscape systems.
 
 ### Integration Strategies
-- **[[mollison-designers-chicken-tractors-egg-production]]** — mobile coops for pasture [[solomon-crop-rotation-and-garden-planning]] bed preparation (see [[permaculture-chicken-tractors]])
+- **Chicken tractors** — mobile coops for pasture rotation and garden bed preparation (see [[permaculture-chicken-tractors]])
 - **Orchard grazing** — free-range chickens under fruit trees for pest control and fertilization
 - **Compost turning** — chickens in compost pens scratch and turn piles, accelerating decomposition
 - **Waste processing** — kitchen scraps and garden waste converted to eggs and manure (see [[permaculture-food-waste-cycling]])
@@ -45,7 +44,7 @@ Chickens are the most versatile and widely kept permaculture animal. They are re
 Ducks offer many of the same benefits as chickens with some distinct advantages, particularly for properties with water features or wet areas.
 
 ### Advantages Over Chickens
-- Superior [[hamilton-slug-and-snail-control]] control
+- Superior slug and snail control
 - Manure is more immediately useful (less concentrated nitrogen burn risk in water)
 - Do not scratch up gardens or mulch
 - More cold-hardy and disease-resistant in many climates
@@ -54,8 +53,8 @@ Ducks offer many of the same benefits as chickens with some distinct advantages,
 ### Integration Strategies
 - **Duck ponds** — integrated pond systems with water filtration plants (see [[permaculture-duck-pond-systems]])
 - **Rice paddies** — ducks fertilize rice, eat pests and weeds, and aerate the paddy
-- **[[fukuoka-orchard-management-detailed]]** — ducks patrol orchard floors for pests without damaging root zones
-- **Wetland management** — ducks in [[comparison-constructed-wetlands-vs-bioswales]] help manage vegetation and pests
+- **Orchard management** — ducks patrol orchard floors for pests without damaging root zones
+- **Wetland management** — ducks in constructed wetlands help manage vegetation and pests
 
 ### Considerations
 - Need access to open water for health and happiness

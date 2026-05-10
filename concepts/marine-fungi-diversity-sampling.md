@@ -76,7 +76,7 @@ understanding of fungal diversity in the oceans.
 
 Marine fungal diversity follows distinct biogeographic patterns that reflect
 both historical and contemporary environmental processes. Tropical and subtropical
-regions, particularly [[mangrove-ecosystems-and-coastal-restoration]], harbor the highest known species
+regions, particularly mangrove ecosystems and coastal restoration, harbor the highest known species
 richness of marine fungi. The Indo-Pacific region is recognized as a biodiversity
 hotspot, with many marine fungal species showing restricted geographic ranges.
 

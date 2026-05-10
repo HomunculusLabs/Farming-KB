@@ -1,5 +1,5 @@
 ---
-title: fungal biodiversity data analysis
+title: [[fungal-biodiversity-power-analysis-statistical-design-zak-willig|fungal]] biodiversity data analysis
 created: 2026-04-16
 updated: 2026-04-16
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 ## Types of Biodiversity Data
 
-### Species Composition
+### [[fungal-species-estimation-methods-total-diversity|Species]] Composition
 
 The most fundamental data from fungal surveys: lists of species present at each site, with associated metadata on abundance, substratum, habitat, and collection method.
 

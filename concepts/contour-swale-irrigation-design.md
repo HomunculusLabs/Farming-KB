@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [swales, contour, irrigation, water-harvesting, permaculture]
 date: 2026-04-27
 updated: 2026-04-27
-sources: sources:
+sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---

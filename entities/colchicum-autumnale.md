@@ -108,6 +108,8 @@ In some Alpine and Slavic traditions, the flowers were placed at windowsills to 
 
 ## See Also
 
+- [[helenium-autumnale]]
+
 - [[atropa-belladonna]]
 - [[colchicine]]
 - [[convallaria-majalis]]

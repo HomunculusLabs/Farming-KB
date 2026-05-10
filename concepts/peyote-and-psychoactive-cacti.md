@@ -1,5 +1,5 @@
 ---
-title: Peyote and gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch
+title: Peyote and Psychoactive Cacti
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,11 +9,11 @@ sources:
   - raw/papers/a-golden-guide-to-hallucinogenic-plants.md
 ---
 
-# Peyote and Psychoactive Cacti
+[[peyote-and-mescaline]] n [[psychoactive-cacti-guide]] ti
 
 ## Overview
 
-Peyote is the most famous of the hallucinogenic cacti, with a known history dating back to pre-Columbian times, possibly as early as 300 BC. Along with [[mescaline-peyote-and-san-pedro-guide]] and related [[chiric-caspi-brunfelsia-south-american-hallucinogen]] species, it represents one of the major families of psychoactive plants used ceremonially for millennia.
+Peyote is the most fam [[chicken-of-the-woods]] the hallucinogenic cacti, with a known history dat [[fukuoka-road-back-to-nature-overview]] k to pre-Columbian times, possibly as early as 300 BC. Along wit [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]] nd relate [[psilocybe-subyungensis-south-american-mesophytic-distribution]] an species, it represents one of the major families of psychoactive plants used ceremonially for millennia.
 
 ## Peyote (Lophophora williamsii)
 
@@ -35,7 +35,7 @@ Additional alkaloids include hordenine, N-methylmescaline, N-acetylmescaline, pe
 
 ### The Native American Church
 
-During the past two centuries, the religious use of peyote spread northward among many Plains Indian Tribes (Navajo, Comanche, Sioux, Kiowa), eventually replacing the hallucinogenic but dangerous red mescal bean ([[mescal-bean-sophora-secundiflora-vision-dance]]) as a ceremonial sacrament. The ceremony was standardised during the 1800s, and by 1920 most tribes had identical ceremonial practices. Members of the Native American Church are permitted ritual use of peyote under US law.
+During the past two centuries, the religious use of peyote spread northward among many Plains Indian Tribes (Navajo, Comanche, Sioux, Kiowa), eventually replacing the hallucinogenic but dangerous red mescal bean (Sophora secundiflora) as a ceremonial sacrament. The ceremony was standardised during the 1800s, and by 1920 most tribes had identical ceremonial practices. Members of the Native American Church are permitted ritual use of peyote under US law.
 
 ### Harvesting
 
@@ -61,39 +61,4 @@ About half an hour after ingestion, the first effects are felt: strange intoxica
 ## Related Concepts
 
 - [[hallucinogenic-plants-of-the-world]] -- broader survey of psychoactive flora
-- [[amanita-muscaria-preparation-methods]] -- preparation of another entheogen
-## Practical Considerations
-
-Successful implementation of Peyote and Psychoactive Cacti requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-- [[turner-mescaline-peyote-san-pedro-experience]]
-
-## See Also
-  - [[microdosing-theory-and-practice]]
-  - [[powell-shamanic-wisdom-and-ritual-practice]]
-  - [[permaculture-zones-in-practice]]
-
-- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch]]
-- [[trichocereus-mescaline-cacti-san-pedro-peruvian-torch-halpern]]
-
-## See Also
-
-- [[metzner-peyote-ceremonies-native-american-church-and-huichol-traditions]]
-- [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]
-- [[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]]
-- [[halpern-sacramental-peyote-and-native-american-church]]
-- [[golden-guide-peyote-and-mescaline-cacti]]
+- [[amanita-preparation-methods]] -- preparation of another entheogen

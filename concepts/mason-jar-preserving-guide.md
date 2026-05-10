@@ -1,5 +1,5 @@
 ---
-title: Mason mason jar preserving guide Guide
+title: Mason Jar Preserving Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Mason jar preserving — canning — is the process of heat-processing food in glass jars to create a vacuum seal that prevents microbial spoilage. Two primary methods exist: water [[water-bath-canning-guide]] (for high-acid foods) and [[comparison-pressure-canning-vs-water-bath-canning]] (for low-acid foods). This guide covers both methods with practical details for homestead-scale food preservation.
+Mason jar preserving — canning — is the process of heat-processing food in glass jars to create a vacuum seal that prevents microbial spoilage. Two primary methods exist: water bath canning (for high-acid foods) and pressure canning (for low-acid foods). This guide covers both methods with practical details for homestead-scale food preservation.
 
 ## Water Bath Canning
 
@@ -46,7 +46,7 @@ See [[pressure-canning-safety]] for detailed botulism prevention and equipment t
 
 ### Equipment
 
-- [[pf-tek-pressure-canner-sterilization]] (not a pressure cooker — must be large enough for jars, have a pressure gauge or weighted gauge, and meet USDA standards)
+- Pressure canner (not a pressure cooker — must be large enough for jars, have a pressure gauge or weighted gauge, and meet USDA standards)
 - Dial-gauge or weighted-gauge models available
 - Same jar-handling equipment as water bath canning
 
@@ -95,7 +95,7 @@ Water boils at lower temperatures as altitude increases, which affects both meth
 
 ## Jar Sizing Guide
 
-| [[pf-tek-jar-size-importance-half-pint-reliability]] | Volume | Best For |
+| Jar Size | Volume | Best For |
 |----------|--------|----------|
 | 4 oz (jelly jar) | 1/2 cup | Jellies, jams, gift items |
 | Half-pint (8 oz) | 1 cup | Jams, jellies, relishes, sauces |
@@ -144,6 +144,7 @@ Common homestead recipes include:
 
 ## Storage and Shelf Life
 
-## Related Topics
-
-For the critical safety aspects of pressure canning, see [[pressure-canning-safety]]. For other preservation methods, see [[smoking-meat-and-fish]] and [[root-vegetable-storage-guide]]. Fresh produce for canning connects to [[perennial-vegetables]] and broader homestead food production.
+- Store jars in a cool (50-70F), dark, dry location
+- Do not store above 95F or below freezing
+- Remove rings before storage to detect seal failure
+- Shelf life: 12-18 months for best quality; safe indefinitely if properly sealed and stored, though quality declines over time

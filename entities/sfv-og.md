@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Greenhouse Seed Co. (2010). "The Green House Seed Co. Strain Guide." Green House Seeds.
-  - Leafly Staff (2023). "SFV OG [[blesching-cannabis-strain-selection-receptor-targeting]] Information." Leafly.com.
+  - Leafly Staff (2023). "SFV OG blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
   - AllBud (2023). "SFV OG Kush Strain Review." AllBud.com.
   - Soft Secrets (2019). "OG Kush Family Tree: Untangling the Lineage." Soft Secrets Magazine.
 ---
@@ -139,11 +139,8 @@ the dense bud structure and the plant's sensitivity to environmental stress.
 nitrogen. It responds well to low-stress training (LST) and scrog methods.
 Temperature should be maintained below 27°C (80°F) during flowering to
 prevent terpene degradation. Plants develop strong, skunky odor during late
-## See Also
-
-- [[chemdawg]] — Ancestor contributing to the OG Kush genetic background
-- [[larry-og]] — Related Southern California OG Kush phenotype
 
 ## See Also
-
+- [[chemdawg]]
+- [[larry-og]]
 - [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

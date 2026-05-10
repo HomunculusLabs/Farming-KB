@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Faust, M. et al. (2011). "Apricot (Prunus armeniaca L.): A review of breeding and genetics." In: Janick, J. & Paull, R.E. (eds.), The Encyclopedia of Fruit & Nuts, CABI.
   - Ruiz, D. & Egea, J. (2008). "Phenotypic diversity and relationships among apricot (Prunus armeniaca L.) germplasm." Euphytica, 163, 335-346.
-  - Bortolini, C. et al. (2018). "Health benefits of apricots and their [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]." Foods, 7(11), 181.
+  - Bortolini, C. et al. (2018). "Health benefits of apricots and their query-what-are-the-main-bioactive-compounds-in-medicinal-plants." Foods, 7(11), 181.
   - USDA-ARS GRIN Taxonomy. "Prunus armeniaca L." Taxon ID 26290.
 ---
 
@@ -96,6 +96,8 @@ Despite this hazard, apricot kernels have been used traditionally in Chinese med
 Laetrile (amygdalin purified for medical use) was promoted as an alternative cancer treatment in the 1970s but has been discredited by [[mushroom-cancer-clinical-trials-overview]] showing no efficacy and significant toxicity risk.
 
 ## See Also
+
+- [[prunus-cerasus]]
 
 - [[prunus-domestica]]
 

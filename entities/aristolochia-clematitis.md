@@ -128,6 +128,8 @@ The vine's aggressive growth habit allows it to smother native vegetation in are
 
 ## See Also
 
+- [[aristolochia-tomentosa]]
+
 - [[aristolochia-macrophylla]]
 
 - [[asarum-europaeum]]

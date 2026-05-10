@@ -144,7 +144,6 @@ Avoid high-nitrogen synthetic fertilizers — they promote soft, susceptible gro
 ### Pruning and Harvesting
 
 Pruning and harvesting are the same operation in nopal production:
-
 ## Related
 - [[coleman-claytonia-winter-harvest-cultivation|coleman claytonia winter harvest cultivation]]
 - [[false-peyotes-mexican-cactus-ethnobotany|false peyotes mexican cactus ethnobotany]]

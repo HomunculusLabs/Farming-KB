@@ -142,8 +142,4 @@ safe.
 
 ## See Also
 
-- [[comparison-arnica-vs-calendula]]
-- [[comparison-nettle-vs-comfrey]]
-- [[comparison-stinging-nettle-vs-yarrow]]
-- [[comparison-stinging-nettle-vs-horsetail]]
-- [[comparison-calendula-vs-chamomile]]
+- [[comparison-stinging-nettle-vs-dandelion]]

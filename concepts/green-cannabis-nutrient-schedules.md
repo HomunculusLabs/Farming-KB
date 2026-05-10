@@ -70,12 +70,11 @@ when no real deficiency exists. Solution: get new genetics.
 |-------|-------------|-----------|-----------|
 | Seedling | Water only | None | As needed |
 | Early veg | High N, balanced P/K | -- | Every 2 weeks |
+
 ## See Also
 - [[green-cannabis-grow-bible-vegetative-phase-management]]
-
-## See Also
-
 - [[green-cannabis-soil-flushing-nutrient-leaching]]
+
 ## Practical Considerations
 
 Successful implementation of Cannabis Nutrient Schedules - Greg Green's [[cannabis-grow-harvesting-drying-curing]] Bible requires attention to

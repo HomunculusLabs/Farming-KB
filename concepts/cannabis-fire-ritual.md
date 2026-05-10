@@ -129,12 +129,7 @@ fire and ensure the ritual space is free of flammable debris. A large, open
 area away from structures is essential.
 
 ## See Also
-
-- holmgren-ethical-philosophical-framework
-- [[cannabis-healing-ritual]] for another directional ceremony
-
-## See Also
-
+- [[cannabis-healing-ritual]]
 - [[marijuana-magick-ancient-ritual-use-cannabis]]
 - [[cannabis-spiritual-ritual-use]]
 - [[practitioner-cannabis-ritual-use-and-sacrament]]

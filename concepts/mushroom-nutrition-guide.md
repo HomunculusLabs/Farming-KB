@@ -1,5 +1,5 @@
 ---
-title: cotter-mushroom-nutrition-medicinal-compounds Guide
+title: Mushroom Nutrition Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common [[palmer-edible-mushrooms-north-america]] and compares their nutritional value.
+Mushrooms are nutritionally dense foods that occupy a unique position between vegetables and animal products. They provide protein, fiber, B vitamins, minerals, and bioactive compounds found in few other foods. As the only non-animal source of vitamin D (when UV-exposed) and a significant source of ergothioneine, selenium, and beta-glucans, mushrooms deserve a central place in a health-conscious diet. This page covers the macronutrient and micronutrient profile of common edible mushrooms and compares their nutritional value. (see [[mushroom-nutritional-composition]]).
 
 ## Macronutrient Profile
 
@@ -75,7 +75,7 @@ Mushrooms are excellent sources of several B vitamins:
 | Folate (B9) | DNA synthesis, cell division | 15-25 ug (5-8% DV) |
 | B12 (cobalamin) | Nerve function, blood formation | Trace amounts (variable, debated) |
 
-Note: B12 content in mushrooms is controversial. Some studies detect B12, but it may be from bacterial contamination of mushroom surfaces rather than intrinsic fungal production. Mushrooms should not be relied upon as a primary B12 source for vegans.
+Note: B12 content in mushrooms is controversial. Some studies detect B12, but it may be from bacterial contamination of mushroom surfaces rather than intrinsic fungal production. Mushrooms should not be relied upon as a primary B12 source for vegans. (see [[medicinal-mushroom-guide-oyster]]).
 
 ### Antioxidant Vitamins
 
@@ -91,7 +91,7 @@ Note: B12 content in mushrooms is controversial. Some studies detect B12, but it
 | Copper | Iron metabolism, antioxidant enzymes | 0.3-0.5 mg/100 g (15-25% DV) |
 | Potassium | Fluid balance, nerve function | 300-500 mg/100 g (8-14% DV) |
 | Phosphorus | Bone health, energy metabolism | 80-120 mg/100 g (8-12% DV) |
-| Iron | [[hemoglobin-oxygen-transport-biochemistry]], energy | 0.5-1.5 mg/100 g (3-8% DV) |
+| Iron | Oxygen transport, energy | 0.5-1.5 mg/100 g (3-8% DV) |
 | Zinc | Immune function, wound healing | 0.5-1.0 mg/100 g (5-9% DV) |
 | Manganese | Bone formation, metabolism | 0.05-0.5 mg/100 g |
 
@@ -120,7 +120,7 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 
 ### Lovastatin
 
-- Found naturally in [[query-how-to-grow-oyster-mushrooms-at-home]] and shiitake
+- Found naturally in oyster mushrooms and shiitake
 - Cholesterol-lowering compound (same as pharmaceutical statins)
 - Content varies by species and growing conditions
 
@@ -134,13 +134,17 @@ Mushrooms are particularly notable as a source of selenium, providing amounts co
 | Cremini/Brown | 23 | 2.5 | 0.8 | 0.3 | 4.3 | 9.3 | 0.4 | 3.8 | 0-440 |
 | Portobello | 22 | 2.5 | 1.2 | 0.3 | 3.9 | 9.3 | 0.3 | 3.6 | 0-440 |
 | Shiitake | 34 | 2.2 | 2.5 | 0.5 | 6.8 | 5.7 | 0.2 | 3.9 | 0-100 |
-## See Also
+| Oyster | 33 | 3.3 | 2.3 | 0.3 | 6.1 | 2.6 | 0.3 | 3.8 | 0-40 |
+| Maitake | 31 | 1.9 | 2.4 | 0.2 | 6.8 | 2.2 | 0.2 | 3.6 | 0-80 |
+| Enoki | 37 | 2.7 | 2.7 | 0.2 | 7.8 | 1.2 | 0.1 | 3.6 | 0-20 |
+| Porcini (fresh) | 26 | 3.7 | 1.5 | 0.5 | 3.3 | 12.0 | 0.3 | 3.6 | 100-2000 |
+| Chanterelle | 38 | 1.5 | 3.8 | 0.5 | 7.0 | 2.2 | 0.4 | 4.1 | 100-800 |
+| Morel | 31 | 3.1 | 2.8 | 0.6 | 5.1 | 5.5 | 0.2 | 3.4 | 100-500 |
 
-- [[medicinal-mushroom-guide]] — bioactive compounds beyond basic nutrition
-- [[functional-mushroom-products]] — concentrated [[cotter-mushroom-products-and-value-added-applications]] for therapeutic use
-- mushroom nutrition guide — this page
+*Vitamin D content varies enormously based on UV exposure. Commercially grown mushrooms without UV exposure contain negligible vitamin D. Wild-harvested mushrooms contain variable but significant amounts.
 
-## See Also
+### Culinary Species Comparison (Dried, per 100 g)
 
-- edible-wild-mushroom-guide
-- [[oyster-mushroom]]
+| Species | Calories | Protein (g) | Fiber (g) | Fat (g) | Beta-Glucans (g) |
+|---------|----------|-------------|-----------|---------|-------------------|
+| Shiitake (dried) | 296 | 9.6 | 11.0 | 0.9 | 5-8 |

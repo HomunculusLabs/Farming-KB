@@ -1,16 +1,15 @@
 ---
-title: query-what-are-permaculture-earthworks-and-how-do-i-plan-them
+title: Permaculture Earthworks
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, earthworks, water-management, swales, design, ecological-design, erosion, soil-building]
-sources:
-  - "raw/papers/pa-yeomans-water-for-every-farm.md"
+sources: []
 ---
 
 # Permaculture Earthworks
 
-Earthworks are the physical reshaping of land to manage water, control erosion, create growing space, and passively irrigate landscapes. In [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], earthworks are typically the first major physical intervention on a site because they establish the water infrastructure that everything else depends on. Well-designed earthworks can transform degraded land into productive, resilient systems.
+Earthworks are the physical reshaping of land to manage water, control erosion, create growing space, and passively irrigate landscapes. In permaculture design, earthworks are typically the first major physical intervention on a site because they establish the water infrastructure that everything else depends on. Well-designed earthworks can transform degraded land into productive, resilient systems.
 
 ## Swales
 
@@ -57,7 +56,7 @@ Ponds serve as multi-functional water storage: irrigation reservoir, wildlife ha
 - Excavated ponds: dug into the ground, lined with clay or geomembrane if needed
 - Embankment ponds: dam across a valley or drainage
 - Duck ponds: shallow edges for waterfowl, integrated with [[duck-keeping]] systems
-- Chinampas-style: interconnected canal and island systems for [[mollison-designers-market-garden-intensive-production-design]]
+- Chinampas-style: interconnected canal and island systems for intensive production
 
 ### Design Features
 
@@ -68,7 +67,7 @@ Ponds serve as multi-functional water storage: irrigation reservoir, wildlife ha
 
 ## Keyline Plowing
 
-[[query-how-does-keyline-design-work-in-permaculture]], developed by P.A. Yeomans in Australia, is a system of land management that uses the "keyline" — a contour line that intersects the convex/concave transition of a slope — to optimally distribute water across the landscape.
+Keyline design, developed by P.A. Yeomans in Australia, is a system of land management that uses the "keyline" — a contour line that intersects the convex/concave transition of a slope — to optimally distribute water across the landscape.
 
 ### The Keyline Concept
 
@@ -90,7 +89,7 @@ Ponds serve as multi-functional water storage: irrigation reservoir, wildlife ha
 - Dramatically increases water infiltration and soil moisture retention
 - Breaks hardpan and plow layers without destroying soil structure
 - Moves soil moisture from saturated valleys to dry ridges
-- Increases deep soil [[holmgren-soil-humus-carbon-storage-rebuilding]]
+- Increases deep soil carbon storage
 - Can be done with minimal machinery — even animal-drawn implements
 
 See [[keyline-design]] for a full treatment of this system.
@@ -118,7 +117,7 @@ Terraces convert steep slopes into a series of level steps, making land agricult
 
 - Hillside orchards and vineyards
 - Rice paddy terraces
-- [[dry-gardening-unirrigated-vegetable-production-solomon]] on sloped land
+- Vegetable production on sloped land
 - Pathways and access roads on steep terrain
 
 ## Chinampas
@@ -142,9 +141,14 @@ Chinampas are an ancient Mesoamerican agricultural technique sometimes called "f
 - The system is essentially self-fertilizing through sediment cycling
 
 ### Modern Adaptations
-## See Also
 
-- [[permaculture-zones-and-sectors]] for placing earthworks in the broader design
-- [[keyline-design]] for detailed keyline theory and practice
-- [[swale-design-construction]] for focused swale construction guidance
-- [[drip-irrigation-guide]] for supplemental irrigation after earthworks
+- Small-scale chinampas can be built in ponds or marshy areas
+- The principle applies to any integrated land-water production system
+- Aquaponics draws heavily on chinampa concepts of coupling fish and plant production
+
+## General Principles for All Earthworks
+
+
+
+## See Also
+- [[query-what-are-permaculture-earthworks-and-how-do-i-plan-them]]

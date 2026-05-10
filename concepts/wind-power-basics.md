@@ -1,16 +1,15 @@
 ---
-title: holmgren-wind-power-and-renewable-energy-debate Basics
+title: Wind Power Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [energy, off-grid, homesteading, sustainability, engineering]
-sources:
-  sources: []
+sources: []
 ---
 
 # Wind Power Basics
 
-Small-scale wind turbines convert kinetic energy from wind into electricity for homestead power systems. Wind complements [[holmgren-trees-solar-power-plants-detailed]] effectively because wind often blows when the sun is not shining (night, winter storms, overcast days). A properly sited and maintained small wind turbine can generate 200-10,000+ kWh per year for an off-grid or grid-tied homestead.
+Small-scale wind turbines convert kinetic energy from wind into electricity for homestead power systems. Wind complements solar power effectively because wind often blows when the sun is not shining (night, winter storms, overcast days). A properly sited and maintained small wind turbine can generate 200-10,000+ kWh per year for an off-grid or grid-tied homestead.
 
 ## Is Wind Right for Your Site?
 
@@ -142,9 +141,10 @@ When batteries are full and the wind is blowing, excess energy must be diverted 
 
 ### Grid-Tied
 
-## See Also
+- Sell excess power to the utility (net metering)
+- No battery bank required (grid acts as backup)
+- Simpler system, lower cost
+- Requires utility approval and interconnection agreement
+- Utility may not allow wind turbines in some areas
 
-- [[micro-hydro-power]]
-- [[homestead-internet-options]]
-- [[off-grid-waste-management]]
-- [[homestead-winter-preparations]]
+### Off-Grid

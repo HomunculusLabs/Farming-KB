@@ -36,7 +36,6 @@ Shiitake (Lentinula edodes) is the second most cultivated mushroom worldwide and
 ## Inoculation
 
 ### Spawn Types
-- **Plug spawn**: wooden dowels colonized with shiitake mycelium; inserted into drilled holes and sealed with wax
 ## Related
 
 - mushroom-substrates

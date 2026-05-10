@@ -112,7 +112,7 @@ Side effects may include dry mouth, dry eyes, anxiety in sensitive individuals, 
 
 - [[cannabis-sour-diesel]]
 - [[chemdawg]]
-- [[purple-haze]]
+- [[purple-haze-cannabis]]
 - [[jack-herer]]
 - [[gelato]]
 - [[runtz-entity]]

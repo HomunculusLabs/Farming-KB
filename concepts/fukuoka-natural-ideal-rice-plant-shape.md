@@ -5,7 +5,6 @@ tags: [fukuoka, natural-farming, rice, plant-morphology, high-yield]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---

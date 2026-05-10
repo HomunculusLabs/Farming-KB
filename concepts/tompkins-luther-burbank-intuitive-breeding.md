@@ -124,10 +124,6 @@ intuitively practiced. The possibility that human intention could
 influence gene expression in plants remains a frontier of research.
 
 ## See Also
-
-- [[tompkins-george-washington-carver-plant-alchemy]] for Carver's methods
-- [[tompkins-plants-response-to-human-intent]] for human-plant bonds
-
-## See Also
-
+- [[tompkins-george-washington-carver-plant-alchemy]]
+- [[tompkins-plants-response-to-human-intent]]
 - [[luther-burbank-plant-breeding-methods]]

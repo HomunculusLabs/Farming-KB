@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Indoor [[query-how-does-no-till-cannabis-cultivation-work]] provides complete [[eclss-environmental-control-life-support]], allowing growers to optimize every variable for maximum yield, potency, and quality. Unlike [[cannabis-outdoor-growing|outdoor growing]], indoor systems eliminate dependence on weather and seasonal constraints. This guide covers the fundamentals of setting up and managing an indoor cannabis grow room or tent.
+Indoor cannabis cultivation provides complete environmental control, allowing growers to optimize every variable for maximum yield, potency, and quality. Unlike [[cannabis-outdoor-growing|outdoor growing]], indoor systems eliminate dependence on weather and seasonal constraints. This guide covers the fundamentals of setting up and managing an indoor cannabis grow room or tent.
 
 ## Grow Tent vs. Dedicated Room
 
@@ -47,16 +47,16 @@ Converted rooms offer more space and customization but require more work:
 
 ### Light Types
 
-**LED:** Most popular modern choice. Energy efficient, full-spectrum, long lifespan (50,000+ hours). Higher upfront cost but lower operating cost. Quantum board LEDs with Samsung LM301B/H diodes recommended.
+**LED:** Most popular modern choice. Energy efficient, full-spectrum, long lifespan (50,000+ hours). Higher upfront cost but lower operating cost. Quantum board LEDs with Samsung LM301B/H diodes recommended. (see [[hydroponic-growing-basics]]).
 
-**HPS:** Traditional flowering light with excellent bud spectrum. High heat output, lower initial cost but higher operating cost. Needs MH for [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]. Still used by many commercial growers.
+**HPS:** Traditional flowering light with excellent bud spectrum. High heat output, lower initial cost but higher operating cost. Needs MH for vegetative stage. Still used by many commercial growers. (see [[aeroponics-guide]]).
 
 **CMH/LEC:** Full-spectrum with good UV output, moderate heat, superior color rendering. Good all-in-one solution.
 
 ### Light Scheduling
 
 - **Vegetative stage:** 18 hours on / 6 hours off (standard)
-- **[[cannabis-flowering-stage-management]]:** 12 hours on / 12 hours off (triggers flowering)
+- **Flowering stage:** 12 hours on / 12 hours off (triggers flowering)
 - Use a timer for consistency — light leaks during dark periods cause stress and hermaphroditism
 
 ### Light Intensity
@@ -103,7 +103,7 @@ Made from coconut husk fibers. Excellent water retention and drainage, pH neutra
 
 ### Hydroponics
 
-Water-based growing systems with faster growth, precise nutrient control, and higher yields in experienced hands. More complex setup; requires pH, EC/TDS, water temperature, and [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] monitoring. Systems include DWC, ebb and flow, drip, and NFT.
+Water-based growing systems with faster growth, precise nutrient control, and higher yields in experienced hands. More complex setup; requires pH, EC/TDS, water temperature, and dissolved oxygen monitoring. Systems include DWC, ebb and flow, drip, and NFT.
 
 ## Environmental Monitoring
 
@@ -139,11 +139,12 @@ Training methods and spacing: Natural growth 1 plant per 2-3 sq ft, LST 1 per 2 
 ### Pre-Harvest (Final 1-2 Weeks)
 
 - Monitor trichomes with a jeweler's loupe (60-100x)
-- Reduce watering, prepare [[comparison-cannabis-drying-and-curing-vs-flushing-before-harvest]] space
+- Reduce watering, prepare drying and curing space
 
 ## Common Beginner Mistakes
 
 - Overwatering (most common — let soil dry between waterings)
-## Related
+- Overfeeding (nutrient burn), inadequate ventilation, light leaks
+- Harvesting too early, not monitoring pH in coco/hydro systems
 
-- [[cannabis-seed-germination]]
+## Related

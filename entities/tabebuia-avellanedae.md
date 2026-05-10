@@ -142,7 +142,7 @@ of dried bark extract are also available commercially.
 - **Restoration:** Used in reforestation and riparian buffer projects.
 
 - **See Also:** lapachol [[uncaria-tomentosa]]
-  [[food-forest-permaculture]] [[black-locust-entity]]
+  [[food-forest]] [[black-locust-entity]]
 ## See Also
 
 - [[tabebuia-impetiginosa]]

@@ -130,10 +130,6 @@ This discussion reveals Fukuoka's holistic worldview at its deepest. Death and d
 The compost experiment failure is particularly telling: a trained agricultural scientist, working at a government research station, with access to pure cultures of dozens of microbial species, could not improve upon the simple act of scattering soil and chicken manure on straw. This is Fukuoka's ultimate argument against the scientific method in agriculture — and by extension, against all attempts to improve upon natural processes through human knowledge.
 
 ## See Also
-
 - [[fukuoka-natural-vs-scientific-farming]]
 - [[fukuoka-straw-decomposition-microbial-succession]]
-
-## See Also
-
 - [[fukuoka-textdoc-natural-order-food-chain-unity]]

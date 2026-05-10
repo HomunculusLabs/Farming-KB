@@ -1,16 +1,15 @@
 ---
-title: comparison-biochar-production-guide-vs-biochar-soil-amendment Guide
+title: Biochar Production Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil-building, carbon-sequestration, compost, microbes, soil, fertility, sustainability]
-sources:
-  sources: []
+sources: []
 ---
 
 # Biochar Production Guide
 
-Biochar is a carbon-rich porous material produced through the pyrolysis (thermal decomposition in limited oxygen) of biomass. When incorporated into soil, biochar improves water retention, nutrient holding capacity, microbial habitat, and long-term [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]. Properly produced and "charged" biochar can transform soil fertility for decades or centuries.
+Biochar is a carbon-rich porous material produced through the pyrolysis (thermal decomposition in limited oxygen) of biomass. When incorporated into soil, biochar improves water retention, nutrient holding capacity, microbial habitat, and long-term carbon sequestration. Properly produced and "charged" biochar can transform soil fertility for decades or centuries.
 
 ## What Biochar Is and Is Not
 
@@ -71,7 +70,7 @@ Avoid:
 
 ## Activation and Charging (Critical Step)
 
-Raw biochar straight from production is essentially sterile and has a high [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity but holds nothing useful yet. Charging biochar before soil application is essential — uncharged biochar can actually tie up nutrients initially.
+Raw biochar straight from production is essentially sterile and has a high cation exchange capacity but holds nothing useful yet. Charging biochar before soil application is essential — uncharged biochar can actually tie up nutrients initially.
 
 ### Compost Charging Method (Recommended)
 
@@ -82,7 +81,7 @@ Raw biochar straight from production is essentially sterile and has a high [[mol
 
 ### Liquid Charging Method (Faster)
 
-1. Soak biochar in compost tea or [[knf-preparations]] ([[bionutrients-lab-fermented-plant-juice-fpj]]) for 24-48 hours
+1. Soak biochar in compost tea or [[knf-preparations]] (fermented plant juice) for 24-48 hours
 2. Add a nitrogen source like fish emulsion or diluted urine
 3. Drain and apply immediately to soil or compost
 
@@ -97,7 +96,7 @@ Raw biochar straight from production is essentially sterile and has a high [[mol
 
 - New beds: 5-10% by volume (roughly 1/2 to 1 inch mixed into top 6-8 inches)
 - Established beds: 1-2 quarts per square foot, worked in gently
-- Potted plants: 5-10% of total [[solomon-potting-mix-and-seedling-soil-recipe]] volume
+- Potted plants: 5-10% of total potting mix volume
 - Compost piles: 10-15% by volume
 - Trees: 1-2 cups per inch of trunk diameter, mixed into backfill
 
@@ -108,7 +107,7 @@ Application frequency: Biochar is essentially permanent in soil. One application
 - Increases water holding capacity by 20-40% in sandy soils
 - Improves drainage in heavy clay soils
 - Raises cation exchange capacity (CEC), holding more nutrients
-- Provides [[query-how-do-i-design-habitat-for-beneficial-insects]] microbes, mycorrhizae, and soil organisms
+- Provides habitat for beneficial microbes, mycorrhizae, and soil organisms
 - Sequesters carbon for hundreds to thousands of years
 - Reduces nutrient leaching and runoff
 - Moderates soil pH (alkaline biochar can raise pH of acidic soils)

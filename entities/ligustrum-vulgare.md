@@ -13,7 +13,7 @@ sources:
   - Christensen, K.I. (1992). "Ligustrum L." In: Flora Europaea, Vol. 1, 2nd ed., Cambridge University Press.
   - Reichard, S.H. & White, P. (2001). "Horticulture as a pathway of invasive plant introductions in the United States." Bioscience, 51(2), 103-113.
   - Environmental Protection Agency (2023). "Invasive Plant Atlas of the United States: Ligustrum vulgare."
-  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed., CRC Press.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed., CRC Press.
 ---
 
 ## Overview

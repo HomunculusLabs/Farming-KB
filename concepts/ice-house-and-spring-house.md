@@ -1,11 +1,10 @@
 ---
-title: Ice ice house and spring house House
+title: Ice House and Spring House
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: [homesteading], off-grid, storage, preservation, construction, water, history]
-sources:
-  sources: []
+tags: [homesteading, off-grid, storage, preservation, construction, water, history]
+sources: []
 ---
 
 # Ice House and Spring House
@@ -92,14 +91,14 @@ With good construction and packing, expect 50-75% ice retention:
 
 ### Using the Ice House
 - Lower food items into the ice house in insulated containers
-- Keep food separated from ice (cold [[stamets-growing-room-air-circulation-co2-management]], not direct contact,
+- Keep food separated from ice (cold air circulation, not direct contact,
   provides cooling)
 - A well-managed ice house maintains 33-40F (1-4C) inside
 
 ### Modern Adaptations
 - Use rigid foam insulation (R-30+ walls and ceiling) instead of sawdust
-- Install a small solar-powered [[cervantes-ventilation-fan-carbon-filter-setup]]
-- Combine with a [[root-cellaring-guide]] for a complete
+- Install a small solar-powered ventilation fan
+- Combine with a [[root-cellaring-guide|root cellar]] for a complete
   off-grid food preservation system
 - Use food-grade glycol or brine loops to distribute cooling to other areas
 
@@ -142,9 +141,10 @@ chill food stored in the structure.
   directly in the flowing water (in sealed containers)
 - Maintain 45-55F — sufficient for dairy, eggs, and short-term meat storage
 - Not cold enough for freezing — use in combination with ice from an
-  [[root-cellaring-guide]] or [[comparison-root-cellar-vs-ice-house]] for complete
+  [[root-cellaring-guide|ice house]] or root cellar for complete
   preservation
-## See Also
-- [[root-cellaring-guide]]
-- [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]
-- mollison-cool-climate-settlement-and-house-design
+
+**Other uses:**
+- Cool storage for beverages
+- Milk cooling before processing
+- Fermentation temperature control

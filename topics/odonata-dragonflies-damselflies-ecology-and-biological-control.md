@@ -20,13 +20,13 @@ sources:
   - "Corbet, P.S. (1999). Dragonflies: Behavior and Ecology of Odonata. Cornell University Press."
   - "Silsby, J. (2001). Dragonflies of the World. Smithsonian Institution Press."
   - "Brooks, S.J. (2016). Field Guide to the Dragonflies and Damselflies of Great Britain and Ireland, 5th ed. British Wildlife Publishing."
-  - "Needham, J.G., Westfall, M.J. Jr., & May, M.L. (2014). Dragonflies of [[guzman-psilocybin-mushrooms-north-america]], 3rd ed. Scientific Publishers."
+  - "Needham, J.G., Westfall, M.J. Jr., & May, M.L. (2014). Dragonflies of guzman-psilocybin-mushrooms-north-america, 3rd ed. Scientific Publishers."
   - "Dijkstra, K.-D.B. & Lewington, R. (2006). Field Guide to the Dragonflies of Britain and Europe. British Wildlife Publishing."
   - "Paulson, D.R. (2011). Dragonflies and Damselflies of the West. Princeton University Press."
-  - "Wildlife Trusts (2022). 'Dragonflies and Damselflies — [[amphibian-habitat-creation]] and Management Guide.'"
+  - "Wildlife Trusts (2022). 'Dragonflies and Damselflies — amphibian-habitat-creation and Management Guide.'"
   - "Marten, G.G. et al. (2006). 'Mosquito control by dragonfly larvae in rice fields.' Journal of Vector Ecology, 31(1), 138–143."
-  - "Xue, R.-D. et al. (2010). '[[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] of mosquitoes by odonates.' Journal of the American Mosquito Control Association, 26(S1), 116–121."
-  - "Purdue University Extension. 'Pond Management: Attracting [[beneficial-insects-cannabis]].'"
+  - "Xue, R.-D. et al. (2010). 'fukuoka-textdoc-arrowhead-scale-ladybug-biological-control of mosquitoes by odonates.' Journal of the American Mosquito Control Association, 26(S1), 116–121."
+  - "Purdue University Extension. 'Pond Management: Attracting beneficial-insects-cannabis.'"
 ---
 
 # Dragonflies and Damselflies (Odonata): Ecology, Biology, and Biological Pest Control
@@ -145,6 +145,5 @@ This is the **primary predatory stage** and the most relevant for mosquito contr
 - **Feeding rate:** adults consume 10–15% of their body weight daily in prey
 - A single large dragonfly may eat **hundreds of mosquitoes per day** during peak activity
 
-## Key Families and Identification
 ## See Also
 - [[hamilton-beneficial-insects-and-biological-pest-control]]

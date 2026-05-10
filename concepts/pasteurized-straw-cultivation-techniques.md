@@ -4,7 +4,7 @@ created: 2026-04-26
 tags: [mycology, mushroom-cultivation, straw-substrate, pasteurization, stamets]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources:
+sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---

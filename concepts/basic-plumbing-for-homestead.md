@@ -3,19 +3,19 @@ title: Basic Plumbing for Homestead
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
-tags: homesteading, water, water-management, equipment, engineering]
+tags: [homesteading, water, water-management, equipment, engineering]
 sources: []
 ---
 
 # Basic Plumbing for Homestead
 
-Homestead plumbing ranges from simple gravity-fed water systems to full residential plumbing with multiple fixtures. Understanding the basics of piping materials, fixture installation, and troubleshooting saves thousands in contractor costs and prevents catastrophic water damage. This page covers PEX, copper, and PVC systems, common installations, and diagnostic approaches.
+Homestead plumbing [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]] ranges from simple gravity-fed water systems to full residential plumbing with multiple fixtures. Understanding the basics of piping materials, fixture installation, and troubleshooting saves thousands in contractor costs and prevents catastrophic water damage. This page covers PEX, copper, and PVC systems, common installations, and diagnostic approaches.
 
 ## Piping Materials
 
 ### PEX (Cross-Linked Polyethylene)
 
-PEX has become the standard for residential and homestead plumbing due to its flexibility, ease of installation, and freeze resistance.
+PEX has become the standard for residential and homestead [[comparison-grape-vs-hardy-kiwi-for-homestead-trellising]] plumbing due to its flexibility, ease of installation, and freeze resistance.
 
 **Advantages:**
 - Flexible — bends around corners without fittings, reducing leak points
@@ -138,12 +138,13 @@ Rigid plastic piping for drainage and (CPVC only) hot water supply.
 
 ### Frozen Pipes
 
-## Related Concepts
+- Open faucets downstream of the frozen section
+- Apply gentle heat with a heat gun, hair dryer, or heat tape — never an open flame
+- Start from the faucet end and work toward the frozen section
+- Once thawed, inspect for cracks or splits that may have occurred
 
-- [[water-management]] — Water sourcing, filtration, and management systems
-- [[water-management]] — Irrigation and drainage planning for the homestead
-- [[greywater-systems-detailed]] — Greywater recycling and treatment systems
+### Dripping Faucets
 
-## See Also
-
-- [[basic-electrical-for-homestead]]
+- Compression faucets: Replace the rubber seat and washer
+- Cartridge faucets: Replace the entire cartridge
+- Ceramic disk faucets: Replace the ceramic cartridge

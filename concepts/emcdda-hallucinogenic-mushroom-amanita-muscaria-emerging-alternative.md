@@ -132,5 +132,5 @@ and prevention responses.
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
-- [[emcdda-psilocybin-pharmacology-and-chemistry]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]]

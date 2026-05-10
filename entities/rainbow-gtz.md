@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly. "Rainbow GTZ Strain Information." www.leafly.com/strains/rainbow-gtz.
-  - AllBud. "Rainbow GTZ [[blesching-cannabis-strain-selection-receptor-targeting]]." www.allbud.com/marijuana-strains/hybrid/rainbow-gtz.
+  - AllBud. "Rainbow GTZ blesching-cannabis-strain-selection-receptor-targeting." www.allbud.com/marijuana-strains/hybrid/rainbow-gtz.
   - Wikileaf. "Rainbow GTZ Strain Review." www.wikileaf.com/strain/rainbow-gtz.
   - GrowDiaries. "Rainbow GTZ Grow Reports." www.growdiaries.com.
   - SeedsHereNow. "Archive Seed Bank — Rainbow GTZ." www.seedsherenow.com.

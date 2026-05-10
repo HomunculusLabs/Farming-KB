@@ -5,7 +5,6 @@ tags: [query, microclimate, permaculture, garden-design, season-extension]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---

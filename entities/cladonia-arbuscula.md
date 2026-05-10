@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Ahti, T. (1984). "The status of Cladonia arbuscula and C. mitis." Annales Botanici Fennici, 21, 207–219.
   - Purvis, O.W. et al. (1992). "The Lichen Flora of Great Britain and Ireland." London: Natural History Museum.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Hammer, S. (2001). "Cladonia." In: Nash III, T.H. et al., "Lichen Flora of the Greater Sonoran Desert Region," Vol. 1, pp. 141–159.
 ---
 

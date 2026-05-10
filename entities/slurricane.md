@@ -15,7 +15,7 @@ sources:
   - "Leafly Staff. (2024). \"Slurricane cannabis-strain-chupacabra Information.\" Leafly.com."
   - "AllBud. (2024). \"Slurricane Strain Review.\" AllBud.com."
   - "Wikileaf. (2024). \"Slurricane Marijuana Strain.\" Wikileaf.com."
-  - "[[query-sog-vs-scrog-cannabis-training-methods]] University. (2023). \"Top Indica Strains for Sleep.\" CTU."
+  - "query-sog-vs-scrog-cannabis-training-methods University. (2023). \"Top Indica Strains for Sleep.\" CTU."
   - "Dyer, A. (2023). \"In the Grow: Do-Si-Dos and Purple Punch cross.\" High Times."
 ---
 

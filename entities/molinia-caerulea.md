@@ -112,7 +112,7 @@ Its ability to thrive in waterlogged soils makes it valuable for [[comparison-co
 
 - [[deschampsia-caespitosa]]
 - [[festuca-glauca]]
-- [[pennisetum-alpecuroides]]
+- [[pennisetum-alopecuroides]]
 - [[panicum-virgatum]]
 - [[muhlenbergia-capillaris]]
 - [[calamagrostis-x-acutiflora]]

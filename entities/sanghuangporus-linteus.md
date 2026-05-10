@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Dai, Y.C. et al. (2017). "Sanghuangporus gen. nov. (Polyporales) for the medicinal species previously known as Sanghuang." Mycoscience, 58(3), 153-162.
-  - Wu, S.H. et al. (2012). "Sanghuang: the [[gourmet-medicinal-mushroom-casing-layer-techniques]] Phellinus and allied genera." Fungal Science, 27(1), 1-16.
+  - Wu, S.H. et al. (2012). "Sanghuang: the gourmet-medicinal-mushroom-casing-layer-techniques Phellinus and allied genera." Fungal Science, 27(1), 1-16.
   - Wang, X.M. & Zhang, M. (2018). "Antitumor polysaccharides from mushrooms: a review on their extraction, structure, and functional properties." Journal of Functional Foods, 52, 458-471.
   - Cui, B.K. et al. (2019). "Species diversity and phylogeny of Sanghuangporus (Hymenochaetaceae, Basidiomycota)." MycoKeys, 54, 1-25.
   - Index Fungorum. "Sanghuangporus linteus (Berk.) T. Wagner & M. Fisch." www.indexfungorum.org.

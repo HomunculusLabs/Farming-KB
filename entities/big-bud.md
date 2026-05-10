@@ -100,7 +100,7 @@ Difficulty is rated as moderate. The strain is resilient and forgiving of minor 
 
 - [[white-widow-entity]]
 - [[afghan-kush]]
-- [[cannabis-blue-dream]]
+- [[blue-dream]]
 - [[jack-herer]]
 - THC
 - CBD

@@ -1,5 +1,5 @@
 ---
-title: nopal cactus cultivation and uses from Seed and Cutting
+title: Cactus Cultivation from Seed and Cutting
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -15,7 +15,7 @@ Practical cultivation techniques for psychoactive and ornamental cacti, based on
 
 | Method | Pros | Cons | Timeline |
 |---|---|---|---|
-| Seed | Strong healthy stock, long-term supply | Very slow, years to usable size | [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]]: ~0.5 inch year 1, ~1 inch year 2 |
+| Seed | Strong healthy stock, long-term supply | Very slow, years to usable size | San Pedro: ~0.5 inch year 1, ~1 inch year 2 |
 | Cutting | Fast growth, immediate results | May carry disease, less genetic diversity | San Pedro: 4-6 inches + branching in 6 months |
 
 ## Soil Mix
@@ -23,7 +23,7 @@ Practical cultivation techniques for psychoactive and ornamental cacti, based on
 ### Basic Formula
 - 3 parts coarse sand
 - 1 part loam
-- 1 part [[comparison-leaf-mold-composting-vs-hot-composting-method]]
+- 1 part leaf mold
 
 Bake the mixture at 400F for 1 hour to kill fungus, bacteria, weed seeds, and insect eggs. Cool before use.
 
@@ -105,4 +105,4 @@ If dopamine unavailable, use tyramine + dopa mixture 6 weeks before harvest.
 - [[peyote-cultivation]] — Detailed peyote-specific cultivation from seed
 - [[psychoactive-cacti-species-reference]] — Species identification and alkaloid profiles
 - [[mescaline-reference]] — Mescaline pharmacology and dosage (Turner)
-- [[hallucinogenic-plants-new-world]] — New [[old-world-hallucinogenic-plants-overview]] species survey
+- [[hallucinogenic-plants-new-world]] — New World hallucinogenic species survey

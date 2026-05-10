@@ -120,10 +120,7 @@ These modifications increase binding site density, improve mechanical
 stability, and enable repeated use in column or batch reactors.
 Immobilization of fungal biomass on porous carriers combines binding
 properties with the physical characteristics of the support material.
-## See Also
 
+## See Also
 - [[mycoremediation]]
-
-## See Also
-
 - [[singh-fungal-biosorption-isotherms-equilibrium-models]]

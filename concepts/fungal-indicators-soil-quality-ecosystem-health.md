@@ -42,7 +42,7 @@ well-defined ecological criteria rather than convenience:
 - Species should have known sensitivity to specific
   environmental stressors such as nitrogen deposition, heavy
   metals, or habitat fragmentation.
-- Taxonomic groups with well-documented distributions and
+- [[coprophilous-fungi-taxonomic-groups-distribution]] with well-documented distributions and
   historical records allow meaningful comparison over time.
 - Red-listed or conservation-status fungi serve as sentinel
   species whose decline signals broader ecosystem degradation.
@@ -63,15 +63,15 @@ testing:
 - **Chemical contamination** — specific fungal taxa are
   suppressed or enriched in the presence of heavy metals,
   pesticides, or hydrocarbon pollution.
-- **Nutrient availability** — mycorrhizal colonization rates
-  reflect phosphorus availability and plant-microbe feedback
+- **[[ph-and-nutrient-availability-garden-soils]]** — [[arbuscular-mycorrhizal-colonization-patterns]] rates
+  reflect [[phosphorus-availability]] and plant-microbe feedback
   loops that sustain long-term soil fertility.
 
 ## Applications in Land Management
 
 Fungal indicators are increasingly incorporated into
 monitoring programs across different land management contexts:
-- **Organic certification schemes** in Europe now include
+- **[[fukuoka-critique-organic-certification]] schemes** in Europe now include
   fungal diversity metrics as part of soil quality assessment
   protocols required for compliance and labeling.
 - **Forest management plans** use ectomycorrhizal surveys to
@@ -81,7 +81,7 @@ monitoring programs across different land management contexts:
   recovery as an early indicator that degraded landscapes are
   regaining functional ecosystem properties over time.
 - **Agricultural extension** programs promote fungal-friendly
-  practices such as reduced tillage and cover cropping based
+  practices such as [[comparison-no-till-vs-reduced-tillage]] and cover cropping based
   on evidence linking fungal diversity to crop resilience.
 
 ## Limitations and Challenges

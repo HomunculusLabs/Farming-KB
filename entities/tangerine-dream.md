@@ -23,9 +23,9 @@ updated: 2026-04-28
 sources:
   - "Barney's Farm query-how-do-i-create-a-seed-bank-and-start-seed-saving. Tangerine Dream strain profile."
   - "Soft Secrets Magazine. \"Strain Review: Tangerine Dream.\" (2010)."
-  - "Leafly. Tangerine Dream [[blesching-cannabis-strain-selection-receptor-targeting]] information."
+  - "Leafly. Tangerine Dream blesching-cannabis-strain-selection-receptor-targeting information."
   - "Cannabis Cup Archives, High Times (2010, 2012)."
-  - "Mudge, E. et al. (2018). \"[[cannabis-terpene-profiles-sativa]] of cannabis cultivars.\" Frontiers in Plant Science 9: 1664."
+  - "Mudge, E. et al. (2018). \"cannabis-terpene-profiles-sativa of cannabis cultivars.\" Frontiers in Plant Science 9: 1664."
 ---
 
 ## Overview

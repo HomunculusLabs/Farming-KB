@@ -1,17 +1,15 @@
 ---
-title: comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives Alternatives
+title: Landscape Fabric Alternatives
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, permaculture, no-till, soil, compost, regenerative, plants]
-sources:
-  sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
 # Landscape Fabric Alternatives
 
-Landscape fabric (weed barrier cloth) is widely sold for weed suppression, but it has significant drawbacks in regenerative systems. It blocks water infiltration over time, degrades into plastic fragments that contaminate soil, prevents [[hamilton-composting-and-organic-matter-management]] from reaching the soil surface, and creates anaerobic conditions that harm soil biology. Natural alternatives work with soil ecology rather than against it.
+Landscape fabric (weed barrier cloth) is widely sold for weed suppression, but it has significant drawbacks in regenerative systems. It blocks water infiltration over time, degrades into plastic fragments that contaminate soil, prevents organic matter from reaching the soil surface, and creates anaerobic conditions that harm soil biology. Natural alternatives work with soil ecology rather than against it.
 
 ## Problems with Landscape Fabric
 
@@ -19,7 +17,7 @@ Landscape fabric (weed barrier cloth) is widely sold for weed suppression, but i
 - **Water barrier**: Becomes impermeable as clogged with fine particles, causing runoff
 - **Soil biology harm**: Creates anaerobic zone beneath the barrier, killing beneficial organisms
 - **Root entanglement**: Plant roots grow through fabric and are damaged during removal
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] disruption**: Prevents leaf litter and organic matter from reaching soil
+- **Nutrient cycling disruption**: Prevents leaf litter and organic matter from reaching soil
 - **Disposal**: Cannot be composted or recycled; goes to landfill
 - **Cost**: Expensive for large areas compared to natural alternatives
 - **Weed seeds**: Weed seeds germinate in debris that accumulates on top of the fabric
@@ -76,7 +74,7 @@ Arborist wood chips (from tree trimming services) are one of the best all-around
 Advantages:
 - Often free from tree services
 - Breaks down into rich humus over 2-4 years
-- Provides [[query-how-do-i-design-habitat-for-beneficial-insects]] fungi and insects
+- Provides habitat for beneficial fungi and insects
 - Suppresses weeds effectively at 4-6 inch depth
 - Moderates soil temperature and moisture
 - Contains a mix of wood, bark, and leaves for diverse nutrient release
@@ -109,7 +107,7 @@ How to use:
 
 Advantages:
 - Readily available in farming areas
-- Good for [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] mulch
+- Good for vegetable garden mulch
 - Straw is mostly seed-free; hay contains seeds
 
 How to use:
@@ -136,15 +134,17 @@ How to use:
 
 ## Comparison Table
 
-| Method | Cost | Duration | [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] | Soil Benefits | Best Use |
+| Method | Cost | Duration | Weed Control | Soil Benefits | Best Use |
 |--------|------|----------|-------------|---------------|----------|
 | Cardboard | Free | 6-12 months | Excellent | Good | New beds |
 | Newspaper | Free | 3-6 months | Good | Good | Fine weeds |
 | Wood chips | Free | 2-4 years | Excellent | Excellent | Paths, perennials |
 | Living mulch | Seed cost | Permanent | Moderate | Excellent | Between rows |
 | Straw | Low | 1 season | Good | Good | Vegetable beds |
+| Leaf mold | Free | 1 season | Moderate | Excellent | Amendment + mulch |
+| Landscape fabric | High | 3-5 years | Good (initial) | Poor | Not recommended |
+
 ## See Also
 
 - [[no-till-gardening-method]]
 - [[sheet-mulching]]
-- [[cover-crop-guide-detailed]]

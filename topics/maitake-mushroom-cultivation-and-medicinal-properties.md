@@ -108,7 +108,6 @@ produce abnormal fruiting bodies.
 The first stage is [[growing-gourmet-primordia-formation-pinning]], in which dark gray amorphous
 masses develop on the mycelial surface. These primordia are globular
 and often dotted with light yellow exudates. The second stage is the
-so-called "brain stage," named for the convoluted folds that appear on
 ## See Also
 
 [[grifola-frondosa-maitake]] [[maitake-cultivation-guide]]

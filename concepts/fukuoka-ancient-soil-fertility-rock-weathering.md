@@ -143,7 +143,6 @@ a foundational principle that establishes a profound truth: fertility is not som
 that must be manufactured, purchased, and applied from outside. Fertility is an
 inherent property of healthy, living soil systems that emerges spontaneously when
 natural processes are permitted to function without interference.
-
 ## See Also
 - [[fukuoka-textdoc-no-fertilizer-principle-natural-soil-fertility]]
 - [[fukuoka-no-fertilizer-principle-natural-soil-fertility]]

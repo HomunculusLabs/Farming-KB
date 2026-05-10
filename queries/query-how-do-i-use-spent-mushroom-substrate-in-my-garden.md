@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [mycology, composting, soil-health, permaculture, cannabis]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 type: query
 ---
 ## What is spent mushroom substrate? [[mushroom-compost-bed-systems-duggar]] (SMC) or used mushroom blocks — is the leftover growing medium after a mushroom crop has finished fruiting. It typically consists of a base material (straw, sawdust, wood chips, or composted manure) that has been partially decomposed by fungal mycelium. Commercial growers produce tons of SMS after every flush cycle, and home cultivators generate it from monotubs, grow bags, and fruiting blocks.

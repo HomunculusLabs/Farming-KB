@@ -1,5 +1,5 @@
 ---
-title: Nineteenth-Century accessible-mushroom-cultivation-for-disabilities
+title: Nineteenth-Century Mushroom Cultivation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,19 +9,19 @@ sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md]
 
 # Nineteenth-Century Mushroom Cultivation
 
-Julius Auboineau Palmer's practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894).
+Julius Auboineau Palmer's practical methods from "About Mushrooms" (1894), supplemented by period cultivation practices documented in his journalism (1877-1894). (see [[edible-agarics]]).
 
 ## Historical Context
 
-Palmer was a Boston-based amateur mycologist who studied mushrooms for over seven years. He noted that the common mushroom (Agaricus campestris / A. arvensis) was the only cultivated species: "To this day it is the only species of fungus which is ever propagated artificially. Further, so far as known, it is the only species susceptible of cultivation." This limitation defined the entire 19th-century mushroom industry.
+Palmer was a Boston-based amateur mycologist who studied mushrooms for over seven years. He noted that the common mushroom (Agaricus campestris / A. arvensis) was the only cultivated species: "To this day it is the only species of fungus which is ever propagated artificially. Further, so far as known, it is the only species susceptible of cultivation." This limitation defined the entire 19th-century mushroom industry. (see [[mushroom-cultivation]]).
 
-[[fungi-cultivated-mushrooms-pathogens-competitors]] commanded $1-2 per pound (astronomical for the era), reflecting the difficulty and uncertainty of production.
+Cultivated mushrooms commanded $1-2 per pound (astronomical for the era), reflecting the difficulty and uncertainty of production.
 
 ## Spawn and Propagation
 
 The core of Palmer's cultivation system:
 
-1. **Spawn identification**: "White cellular vine" or [[woodlovers-mycelium-running-pathway-technique]] through manure, dividing "like the veins on the back of the hand." Found at the edge of old mushroom beds. Much commercial spawn was fraudulent — "much that is sold as such containing not a trace of the fungus."
+1. **Spawn identification**: "White cellular vine" or mycelium running through manure, dividing "like the veins on the back of the hand." Found at the edge of old mushroom beds. Much commercial spawn was fraudulent — "much that is sold as such containing not a trace of the fungus."
 
 2. **Spawn collection**: Rather than buying spawn, Palmer recommended finding it at the base of old mushroom beds. Once started, "you never need want for the means of propagation."
 
@@ -30,7 +30,7 @@ The core of Palmer's cultivation system:
 ## Bed Preparation
 
 Palmer's substrate recipe:
-- **Two-thirds [[falconer-horse-manure-varieties]]**, one-third manure from other grazing animals or rich loam
+- **Two-thirds horse manure**, one-third manure from other grazing animals or rich loam
 - Break and turn the manure until thermometer reads 60-80 degrees Fahrenheit
 - Insert spawn blocks in sections (staggered like "Pullman cars" so one end bears while the other prepares)
 - Three weeks for mycelium to spread through the bed
@@ -63,7 +63,7 @@ Palmer noted the horse-mushroom's unique relationship with horses: "It follows t
 Mushrooms were not thought to spring up overnight despite popular belief. Palmer observed:
 - Common mushroom takes approximately 10 days from pin-head button to 3-4 inch disk
 - Heavy dew or evening showers straighten the stem and expand the cap overnight
-- "So, popular error has made [[pf-tek-mushroom-growth-timeline]] proverbial for a superficiality which by the fungi, at least, is undeserved"
+- "So, popular error has made mushroom growth proverbial for a superficiality which by the fungi, at least, is undeserved"
 - Varieties succeed each other in rotation, like spring bloodroot → summer roses → fall gentians
 
 ## Cooking and Preservation
@@ -75,21 +75,3 @@ Palmer recommended two methods:
 He also dried mushrooms for winter: "No better substitute for meat than fungus can be found. Neither its odor when cooking, nor the gravy it makes, resembles any form of vegetable food. This is but natural, since the plant absorbs oxygen from the air, after the manner of animals."
 
 See also: [[mushroom-cultivation-basics]] | [[mushroom-compost-substrates]] | [[julius-palmer]] | [[nineteenth-century-mushroom-identification]]
-## Practical Considerations
-
-Successful implementation of Nineteenth-Century Mushroom Cultivation requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

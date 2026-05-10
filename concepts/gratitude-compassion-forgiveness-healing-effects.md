@@ -134,6 +134,8 @@ foundation from which genuine forgiveness becomes possible.
 
 ## See Also
 
+- [[gratitude-compassion-forgiveness-healing-habits-endocannabinoid-system]]
+
 - [[mind-body-medicine-and-endocannabinoid-system]]
 - [[guilt-martyrdom-harbored-anger-as-health-hazards]]
 - [[bias-prejudice-judgment-and-health]]

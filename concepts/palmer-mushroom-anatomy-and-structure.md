@@ -113,13 +113,6 @@ do not mat down like those of the horse-mushroom or elm-tree mushroom,
 but break into small pieces while the whole fungus snaps suddenly on
 being bent. This contrasts with the pliable, flexible gills of the
 common mushroom, whose flesh can be bent without breaking.
-## See Also
-
-- palmer mushroom spoilage and freshness testing
-
-- palmer-about-mushrooms-poisonous-species-to-avoid
-- palmer-about-mushrooms-poisonous-species-to-avoid
 
 ## See Also
-
 - [[palmer-mushroom-cooking-culinary-uses]]

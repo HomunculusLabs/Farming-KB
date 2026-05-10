@@ -1,5 +1,5 @@
 ---
-title: allegro-amanita-muscaria-properties-and-pharmacology Ethnobotany
+title: Amanita Muscaria Ethnobotany
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -19,15 +19,15 @@ sources:
 
 # Amanita Muscaria Ethnobotany
 
-The ethnobotanical history of the fly-agaric mushroom (*Amanita muscaria*), from Siberian shamanism to its role in psychedelic theories about ancient religion.
+The ethnobotanical history of the fly-agaric mushroom (*Amanita muscaria*), from Siberian shamanism to its role in psychedelic theories about ancient religion. (see [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]).
 
 ## The Mushroom
 
-*Amanita muscaria* (fly-agaric) is one of the most recognizable organisms on Earth -- a large, bright red mushroom with white spots. It is mycorrhizal, growing in symbiotic association with the roots of trees, primarily birch, pine, and fir. It is found throughout the temperate and boreal regions of the Northern Hemisphere.
+*Amanita muscaria* (fly-agaric) is one of the most recognizable organisms on Earth -- a large, bright red mushroom with white spots. It is mycorrhizal, growing in symbiotic association with the roots of trees, primarily birch, pine, and fir. It is found throughout the temperate and boreal regions of the Northern Hemisphere. (see [[amanita-muscaria-muscimol-ibotenic-acid]]).
 
-Unlike the [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], *A. muscaria* does not contain tryptamine alkaloids. Its primary active compounds are:
+Unlike the psilocybin mushrooms, *A. muscaria* does not contain tryptamine alkaloids. Its primary active compounds are:
 
-- **[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]]**: A glutamate receptor agonist that is present in the fresh mushroom. It is responsible for many of the less desirable effects (nausea, confusion, agitation).
+- **Ibotenic acid**: A glutamate receptor agonist that is present in the fresh mushroom. It is responsible for many of the less desirable effects (nausea, confusion, agitation).
 - **Muscimol**: The primary psychoactive compound, formed by the decarboxylation of ibotenic acid. Muscimol is a GABA-A receptor agonist, producing sedative, dissociative, and hallucinogenic effects qualitatively different from psilocybin or LSD.
 - **Muscarine**: Present in very small amounts and not responsible for the mushroom's psychoactive effects (contrary to historical assumptions).
 
@@ -71,7 +71,7 @@ A distinctive feature of Siberian *A. muscaria* use is the practice of drinking 
 Gordon Wasson proposed in *Soma: Divine Mushroom of Immortality* (1968) that the Vedic Soma was *Amanita muscaria*. This hypothesis, while influential in popular culture, has been challenged:
 
 - The Rig Veda descriptions are too poetically distorted to be botanically definitive.
-- Alternative candidates ([[golden-guide-syrian-rue-and-maoi-plants]], ephedra, various mushrooms) have been proposed by other scholars.
+- Alternative candidates (Syrian rue, ephedra, various mushrooms) have been proposed by other scholars.
 - The lack of any indigenous *Amanita muscaria* tradition in India itself is problematic.
 - Wasson's argument that the Soma cult spread from India to Siberia (or vice versa) is circular.
 
@@ -79,7 +79,7 @@ Despite scholarly weaknesses, Wasson's theory was enormously influential in the 
 
 ## The Fly-Agaric in Modern Culture
 
-*Amanita muscaria* occupies a unique position as perhaps the most visually recognizable mushroom in the world, yet one of the least commonly consumed [[cattle-dispersal-psychoactive-fungi-australia]]:
+*Amanita muscaria* occupies a unique position as perhaps the most visually recognizable mushroom in the world, yet one of the least commonly consumed psychoactive fungi:
 
 - Its distinctive appearance has made it an icon in children's literature, video games (the Mario Bros. mushroom), and popular culture.
 - Despite its ubiquity in imagery, its psychoactive effects are poorly understood by the general public, and it is frequently confused with psilocybin mushrooms.
@@ -95,6 +95,6 @@ Despite scholarly weaknesses, Wasson's theory was enormously influential in the 
 
 ## Related Topics
 
-- [[psychedelic-plants-in-ancient-cultures]] for the Soma and [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
+- [[psychedelic-plants-in-ancient-cultures]] for the Soma and Eleusinian mysteries
 - [[sacred-mushroom-hypothesis]] for Allegro's theory about Christianity
 - [[shamanic-use-of-psychedelics]] for cross-cultural shamanic use

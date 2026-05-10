@@ -138,3 +138,7 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
+
+## See Also
+
+- [[permaculture-goat-raising]]

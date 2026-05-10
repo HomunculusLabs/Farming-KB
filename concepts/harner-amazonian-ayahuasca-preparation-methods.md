@@ -44,7 +44,7 @@ identity of this additive varies by region and tribe:
   were added: Altenanthera and an unidentified species.
 
 - **Eastern Ecuador (Cofan Indians):** [[ayahuasca-preparation-methods]]
-- [[amanita-muscaria-preparation-methods]]
+- [[amanita-preparation-methods]]
 ## Practical Considerations
 
 When working with Amazonian Ayahuasca Preparation Methods, several practical factors should be

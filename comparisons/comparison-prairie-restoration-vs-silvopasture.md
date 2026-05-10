@@ -6,7 +6,7 @@ updated: 2026-04-28
 sources:
   - "Jose, S. (2009). Agroforestry for biodiversity-of-fungi-ecosystem-services-agriculture and environmental benefits: an overview. *Agroforestry Systems*, 76(1), 1-10."
   - "Kucharik, C.J. et al. (2006). Integrated management of a complex agroecosystem: Biophysical and socioeconomic components. *Renewable Agriculture and Food Systems*, 21(1), 12-25."
-  - "Howe, H.F. (1994). Managing species diversity in tallgrass prairie: Assumptions and implications. *[[mycelium-running-conservation-biology-and-fungi]]*, 8(3), 691-704."
+  - "Howe, H.F. (1994). Managing species diversity in tallgrass prairie: Assumptions and implications. *mycelium-running-conservation-biology-and-fungi*, 8(3), 691-704."
   - "Gold, M.A. & Garrett, H.E. (2009). Agroforestry nomenclature, concepts, and practices. *New Vistas in Agroforestry*, 29-47."
   - "Fischer, J. et al. (2008). Should agricultural policies encourage land sparing or wildlife-friendly farming? *Frontiers in Ecology and the Environment*, 6(7), 380-385."
 type: comparison

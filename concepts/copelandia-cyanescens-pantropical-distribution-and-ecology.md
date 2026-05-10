@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J (1998) A worldwide geographical distribution
-    of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]], an analysis and discussion. Ann Mus civ Rovereto
+    of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification, an analysis and discussion. Ann Mus civ Rovereto
     14: 189-280
 type: concept
 ---
@@ -142,7 +142,7 @@ a naturalized or introduced species:
 - [[copelandia-genus-species-guide]]
 
 - [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]] Species Guide](copelandia-genus-species-guide.md)
-- [Copelandia Panaeoloideae Neurotropic Fungi](psilocybe-cubensis-distribution-and-ecology(psilocybe-cubensis-distribution-and-ecology.md)
-- [Neurotropic Fungi Biogeographic Patterns](neurotropic-fungi-biogeographic-patterns.md)
+- Copelandia Panaeoloideae Neurotropic Fungi
+- Neurotropic Fungi Biogeographic Patterns
 - [[copelandia-cyanescens]]
 - [[neurotropic-fungi]]

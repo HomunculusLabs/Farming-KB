@@ -99,7 +99,6 @@ and eliminates the need for concrete fill at bearing points.
 tropics, found throughout Africa, Asia, and the Americas. While not typically
 considered a premier structural timber, it is extraordinarily versatile and
 is used for fencing, trellising, water pipes, crafts, and erosion control.
-
 ## See Also
 
 permaculture design principles

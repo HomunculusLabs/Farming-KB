@@ -16,14 +16,14 @@ sources:
 
 # Permaculture Pond and Water Garden
 
-Ponds and water features are among the most productive and ecologically valuable elements in a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Toby Hemenway dedicates significant attention to backyard ponds in Gaia's Garden, describing them as multi-functional systems that provide food, habitat, water storage, and aesthetic value.
+Ponds and water features are among the most productive and ecologically valuable elements in a permaculture design. Toby Hemenway dedicates significant attention to backyard ponds in Gaia's Garden, describing them as multi-functional systems that provide food, habitat, water storage, and aesthetic value.
 
 ## Why Include a Pond?
 
 A well-designed pond serves many functions simultaneously:
 
 - **Water storage**: Captures and stores rainwater and runoff for irrigation
-- **Habitat**: Provides breeding grounds for frogs, dragonflies, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- **Habitat**: Provides breeding grounds for frogs, dragonflies, and beneficial insects
 - **Food production**: Can support fish, aquatic plants, and edible species
 - **Microclimate moderation**: Water bodies moderate temperature extremes in their vicinity
 - **Wildlife attraction**: Birds, amphibians, and beneficial insects are drawn to water
@@ -103,7 +103,7 @@ Even a small pond (1.5 to 3 meters across) provides significant ecological benef
 - Pickerel weed (Pontederia cordata)
 - Arrowhead (Sagittaria spp.)
 - Water mint (Mentha aquatica)
-- Sweet flag ([[sweet-flag-acorus-calamus-ethnobotany]])
+- Sweet flag (Acorus calamus)
 
 ### Floating Plants
 - Water hyacinth (Eichhornia crassipes) -- excellent biofilter but invasive in warm climates
@@ -137,13 +137,14 @@ To support wildlife:
 ## Fish
 
 - **Goldfish**: Hardy, attractive, control mosquito larvae; do not require feeding in a well-planted pond
-## Related Concepts
+- **Koi**: Beautiful but larger; require deeper water and more filtration
+- **Native fish**: Species appropriate to your region; check local regulations
+- **Tilapia**: In warm climates, edible and productive but require warm water
 
-- [[permaculture-pond-construction]]
-- [[water-garden-and-ponds]]
-- [[permaculture-aquaculture-guide]]
-- [[permaculture-water-harvesting]]
-- [[pond-and-aquaculture]]
-- [[pond-maintenance-and-troubleshooting]]
-- [[backyard-pond-building]]
-- [[rain-garden-design]]
+Stock approximately 1 inch of fish per square foot of surface area in an unfiltered pond; less in a new pond until the ecosystem stabilizes.
+
+## Maintenance
+
+- Remove excess algae by hand or with barley straw
+- Thin plants as needed to prevent the pond from becoming choked
+- Top up water during dry periods

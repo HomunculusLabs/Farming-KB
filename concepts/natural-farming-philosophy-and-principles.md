@@ -4,7 +4,6 @@ created: 2026-04-24
 tags: [agriculture, natural-farming, philosophy, sustainability]
 type: concept
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 updated: 2026-04-26
 ---

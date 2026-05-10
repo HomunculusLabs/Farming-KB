@@ -66,6 +66,8 @@ infrastructure investment.
 
 ## See Also
 
+- [[solomon-potato-foundation-calorie-crop-self-sufficiency]]
+
 - [[solomon-humanure-recycling-and-composting]] and composting
 - [[winter-gardening-season-extension]]-and-season-planning
 - soil [[hamilton-composting-and-organic-matter-management]] and tilth

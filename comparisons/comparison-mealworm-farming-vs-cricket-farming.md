@@ -8,7 +8,7 @@ sources:
   - "van Huis, A. (2013). Potential of insects as food and feed in assuring food security. Annual Review of Entomology, 58, 563-583."
   - "Oonincx, D.G.A.B., et al. (2015). An exploration on greenhouse gas and ammonia production by insect species suitable for animal or human consumption. PLoS ONE, 10(3), e0118458."
   - "EFSA Panel on Nutrition (2021). Safety of dried Tenebrio molitor larva (mealworm) as a novel food. EFSA Journal, 19(7), e06679."
-  - "Mali, P.K., et al. (2023). [[dighton-fungal-nutritional-composition-animal-diets]] and functional properties of edible insects: a review. Foods, 12(19), 3653."
+  - "Mali, P.K., et al. (2023). dighton-fungal-nutritional-composition-animal-diets and functional properties of edible insects: a review. Foods, 12(19), 3653."
   - "Smetana, S., et al. (2019). Edible insects for sustainable food systems. Journal of Insects as Food and Feed, 5(4), 243-256."
   - "FAO (2013). Edible Insects: Future Prospects for Food and Feed Security. FAO Forestry Paper 171."
   - "Rumpold, B.A. & Schlüter, O.K. (2013). Nutritional composition and safety aspects of edible insects. Molecular Nutrition & Food Research, 57(5), 802-823."

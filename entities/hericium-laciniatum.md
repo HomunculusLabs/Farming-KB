@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Corner, E.J.H. (1966). "A Monograph of Cantharellus and Allied Genera." Annals of Botany Memoirs, No. 2. Oxford University Press.
-  - Harrison, K.A. (1973). "The Genus Hericium in [[psilocybin-north-america-pacific-northwest]]." Michigan Botanist 12: 165-179.
+  - Harrison, K.A. (1973). "The Genus Hericium in psilocybin-north-america-pacific-northwest." Michigan Botanist 12: 165-179.
   - Petersen, R.H. (1984). "Type Studies in the Hericiaceae." Mycotaxon 20: 379-388.
   - Kuo, M. (2023). "Hericium Species of North America." MushroomExpert.com.
   - Index Fungorum. "Hericium laciniatum (Leers) Pers." www.indexfungorum.org.created: 2026-05-07

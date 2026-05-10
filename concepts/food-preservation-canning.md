@@ -9,7 +9,7 @@ sources: []
 
 # Food Preservation and Canning
 
-Food preservation is the practice of treating and storing food so it remains safe and nutritious long after harvest. For homesteaders and gardeners, preservation transforms seasonal abundance into year-round food security. Methods include water [[water-bath-canning-guide]], [[comparison-pressure-canning-vs-water-bath-canning]], fermentation, drying, freezing, and root cellaring. Each method is suited to different types of food and has specific safety requirements.
+Food preservation is the practice of treating and storing food so it remains safe and nutritious long after harvest. For homesteaders and gardeners, preservation transforms seasonal abundance into year-round food security. Methods include water bath canning, pressure canning, fermentation, drying, freezing, and root cellaring. Each method is suited to different types of food and has specific safety requirements.
 
 ## Water Bath Canning
 
@@ -49,7 +49,7 @@ Properly sealed water bath canned goods are safe for at least 1 year. Store at 5
 
 ## Pressure Canning
 
-Pressure canning is the ONLY safe method for canning low-acid foods (pH above 4.6). Low-acid foods include vegetables, meats, poultry, seafood, soups, stews, and beans. The high temperatures (240-250°F / 116-121°C) achieved in a [[pf-tek-pressure-canner-sterilization]] are necessary to destroy C. botulinum spores that can survive boiling water temperatures.
+Pressure canning is the ONLY safe method for canning low-acid foods (pH above 4.6). Low-acid foods include vegetables, meats, poultry, seafood, soups, stews, and beans. The high temperatures (240-250°F / 116-121°C) achieved in a pressure canner are necessary to destroy C. botulinum spores that can survive boiling water temperatures.
 
 ### Equipment
 
@@ -81,7 +81,7 @@ Pressure canning is the ONLY safe method for canning low-acid foods (pH above 4.
 Fermentation preserves food through the action of beneficial bacteria and yeasts. It is one of the oldest preservation methods and produces probiotic-rich foods with enhanced nutritional value.
 
 ### Lacto-Fermentation
-Uses lactic [[lactic-acid-bacteria-knf]] (LAB) to produce acid, which preserves the food.
+Uses lactic acid bacteria (LAB) to produce acid, which preserves the food.
 
 **Common fermented foods**: Sauerkraut, kimchi, pickles, kombucha, kefir, yogurt.
 
@@ -132,18 +132,25 @@ Root cellaring uses natural cool temperatures and high humidity to store certain
 
 ### Ideal Conditions
 - Temperature: 32-40°F (0-4°C)
-- Humidity: 85-95% for [[growing-root-vegetables-guide]]; 60-70% for onions, garlic, squash
+- Humidity: 85-95% for root vegetables; 60-70% for onions, garlic, squash
 - Darkness: Light causes potatoes to green and onions to sprout
-- Ventilation: Some airflow to [[query-how-do-i-prevent-mold-and-mildew-in-my-cannabis-grow]] and gas buildup
+- Ventilation: Some airflow to prevent mold and gas buildup
+
+### Suitable Crops
+- **Root vegetables**: Carrots, beets, parsnips, turnips, rutabagas — store in damp sand, sawdust, or leaves
+- **Potatoes and sweet potatoes**: Dark, cool (not as cold as roots — 45-50°F for sweet potatoes)
+- **Onions and garlic**: Cool, dry conditions (lower humidity than root vegetables)
+- **Winter squash and pumpkins**: Cool, dry conditions (50-55°F)
+- **Apples and pears**: Cool, slightly humid conditions. Store away from root vegetables (apples emit ethylene gas that causes sprouting)
+- **Cabbage**: Can be stored in root cellars, often hung by the root
+
+## Quick Reference: Method Selection
+
+| Food | Best Method(s) |
+|------|---------------|
+
+
 ## See Also
-
-- [[homestead-canning-recipes]]
-
-- [[homesteading]] — Preservation as a core homesteading skill
-- [[seasonal-planning]] — Planning preservation activities into your seasonal calendar
-- [[vermicomposting]] — Processing food scraps from preservation activities
-- [[composting-systems]] — Managing preservation waste through composting
-
-## Related
-
-- [[homesteading-food-preservation]]
+- [[pressure-canning-food-preservation]]
+- [[ultra-low-cost-food-preservation]]
+- [[solomon-root-cellaring-food-preservation]]

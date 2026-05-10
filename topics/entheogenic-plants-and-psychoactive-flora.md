@@ -116,7 +116,6 @@ effects.
 ## The Major Tryptamine-Containing Plants
 
 ### Ayahuasca and the Banisteriopsis Complex
-
 ## See Also
 
 - [[plants-of-the-gods-overview-hallucinogenic-plant-use]]

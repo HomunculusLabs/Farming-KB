@@ -61,6 +61,20 @@ conditions. Integration with other system elements enhances
 overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
+## Mechanisms of Bacterial Biocontrol in the Mycorrhizosphere
+
+Bacteria associated with mycorrhizal networks contribute significantly to
+plant disease suppression through multiple mechanisms. Pseudomonas and
+Bacillus species produce antibiotics such as 2,4-diacetylphloroglucinol
+and iturin that inhibit soil-borne pathogens. siderophore-producing bacteria
+sequester iron, making it unavailable to pathogenic fungi. Additionally,
+bacterial volatile organic compounds can trigger induced systemic resistance
+in host plants, priming their immune defenses. These biocontrol functions
+are enhanced within the mycorrhizosphere because the fungal hyphal network
+provides a transport pathway for bacterial colonization along root systems.
+The [[rhizosphere-microbiome-selection-model]] describes how plant
+signals shape these beneficial microbial assemblages.
+
 ## Future Directions
 
 Continued development in this area promises new insights and

@@ -138,11 +138,8 @@ Outdoor cultivation of P. cyanescens is relatively straightforward, while indoor
 
 - **Physi psilocybin mushrooms ocybin mushrooms have very low physiological toxicity; the estimated lethal dose (LD50) in rats is 280 mg/kg for psilocybin — far exceeding any reasonable human dose
 - **Psychological risks:** Include anxiety, paranoia, confusion ("bad trips"), and in rare cases, prolonged psychotic reactions in predisposed individuals
-## See Also
-
-- [[psilocybe-azurescens]] — The most potent known psilocybian species
-- [[psilocin]] — Active metabolite of psilocybin
 
 ## See Also
-
+- [[psilocybe-azurescens]]
+- [[psilocin]]
 - [[psychedelic-terminology-hallucinogenic-entheogenic]]

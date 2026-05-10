@@ -132,6 +132,8 @@ the diversity of available [[vic-high-cannabis-genetics-mendelian-inheritance]].
 
 ## See Also
 
+- [[oner-chunky-cherry-malawi-african-sativa-indica-hybrid]]
+
 - [[oner-hawaiian-and-tropical-sativa-strains]] — Tropical landrace profiles
 - [[oner-colombian-landrace-sativa-strains]] — [[oner-colombian-landrace-sativa-strains]] strains
 - [[oner-european-bred-sativa-strains]] — European breeding innovations

@@ -4,8 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungal Succession on Decomposing Wood ## Overview The [[soil-food-web]], see the [[enzymatic-degradation-in-mycoremediation]]
 - **Hemicellulose** (20-30%): Branched polymers of various sugars; more easily degraded than cellulose

@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources:
-  sources: []
+sources: []
 ---
 Updated: 2026-04-18 Buckwheat (Fagopyrum esculentum) is a fast-growing, gluten-free grain that doubles as an excellent [[coleman-cover-crop-rotation-and-soil-health]] and [[mollison-designers-bee-forage-tree-planting]]. Despite being eaten as a grain, it is not a grass or cereal — it is a member of the Polygonaceae (knotweed) family. It is a valuable [[compost-building-guide]] ingredient
 

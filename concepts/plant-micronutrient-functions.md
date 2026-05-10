@@ -24,7 +24,7 @@ Micronutrients are mineral elements required by plants in trace amounts, yet the
 
 - **Electron carrier:** Iron atoms serve as carriers of electrons that can be easily passed between them, making iron essential for respiration and oxidation-reduction reactions
 - **Chlorophyll function:** Although not part of the chlorophyll molecule itself, iron is required to make chlorophyll and helps it function properly
-- **[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]:** Critical to nitrogen fixation; conversion of atmospheric nitrogen and nitrate relies on iron-dependent enzymes
+- **Nitrogen fixation:** Critical to nitrogen fixation; conversion of atmospheric nitrogen and nitrate relies on iron-dependent enzymes
 - **Enzyme component:** A component of important enzymes and proteins
 
 Plants are so dependent on iron that they have developed a system to release ions into the soil to lower pH, preventing iron from becoming unavailable.
@@ -82,7 +82,7 @@ Zinc availability decreases at high pH and in soils with high phosphorus levels 
 ### Functions
 
 - **Enzyme component:** Key component in enzymes used in oxidation reactions, photosynthesis, and respiration
-- **[[cho-fish-amino-acid-preparation]] metabolism:** Involved in enzymes that build amino acids into proteins
+- **Amino acid metabolism:** Involved in enzymes that build amino acids into proteins
 - **Lignin synthesis:** Plays a key role in the synthesis of lignin, the structural polymer that gives rigidity to plant cell walls
 
 ### Deficiency Symptoms
@@ -100,7 +100,7 @@ Copper toxicity can occur in soils with high copper content (often from agricult
 
 ### Functions
 
-- **Cell wall structure:** Connects carbohydrate chains in cell walls, providing [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]
+- **Cell wall structure:** Connects carbohydrate chains in cell walls, providing structural strength
 - **Pollen tube formation:** Necessary for formation of pollen tubes; without boron, pollen does not form properly
 - **Sugar/starch balance:** Involved in balancing the amounts of sugar versus starch in the plant
 - **Sugar translocation:** Involved in the movement of sugars and starches throughout the plant
@@ -141,9 +141,10 @@ More commonly a concern than deficiency. Excess chlorine causes yellowing of lea
 ### Functions
 
 - **Phosphorus utilization:** Necessary for the synthesis of organic phosphorus compounds once phosphorus enters the plant
-## See Also
+- **Nitrogen fixation:** Essential for Rhizobia and Frankia bacteria to fix atmospheric nitrogen in root nodules of legumes
 
-- [[plant-macronutrient-functions|macronutrient functions]]
-- [[plant-nutrient-mobility-in-soil|nutrient mobility]]
-- [[micronutrient-deficiency-symptoms|micronutrient deficiency symptoms]]
-- [[trace-elements-in-soil|trace elements in soil]]
+### Deficiency Symptoms
+
+- Chlorosis in older leaves (molybdenum is mobile)
+- "Whiptail" -- leaf curling caused by nitrate buildup when molybdenum is insufficient for nitrogen processing
+

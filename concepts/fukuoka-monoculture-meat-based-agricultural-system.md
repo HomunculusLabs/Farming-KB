@@ -5,7 +5,6 @@ updated: 2026-04-28
 type: concept
 tags: [fukuoka, monoculture, livestock, natural-farming, agriculture-critique, soil-fertility]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 

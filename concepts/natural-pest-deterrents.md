@@ -4,14 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-control, pesticide, gardening, agriculture, troubleshooting, recipes, vegetables, pest-management]
-sources:
-  sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 # Natural Pest Deterrents
 
-Natural pest deterrents are non-synthetic substances and homemade preparations used to repel, disable, or kill insect pests, [[bloomfield-fungal-pathogens-and-parasites]], and other garden problems. They are essential tools in [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] management (IPM). While generally safer than synthetic pesticides, natural deterrents should still be used judiciously to avoid harming [[coleman-beneficial-insects-and-ecological-pest-control]].
+Natural pest deterrents are non-synthetic substances and homemade preparations used to repel, disable, or kill insect pests, fungal pathogens, and other garden problems. They are essential tools in organic gardening and integrated pest management (IPM). While generally safer than synthetic pesticides, natural deterrents should still be used judiciously to avoid harming beneficial insects.
 
 ## Neem Oil
 
@@ -20,7 +18,7 @@ Neem oil is extracted from the seeds of the neem tree (Azadirachta indica). The 
 ### Uses
 
 - Controls: aphids, whiteflies, thrips, spider mites, scale insects, Japanese beetles, squash bugs, cucumber beetles, leafminers
-- Fungal suppression: [[cervantes-powdery-mildew-prevention-treatment]], black spot, rust (when used as a foliar spray)
+- Fungal suppression: powdery mildew, black spot, rust (when used as a foliar spray)
 - Repels: mosquitoes, flea beetles, cabbage worms
 
 ### Application
@@ -142,9 +140,11 @@ Sprayed as a particle film that coats plant foliage, creating a physical barrier
 ### Bt (Bacillus thuringiensis)
 
 A soil bacterium that produces proteins toxic to specific insect groups when ingested.
-## Related Topics
 
-- [[trap-cropping]] for attracting pests away from crops
-- [[beneficial-insects-guide]] for [[cervantes-biological-pest-control-predators]] control
-- [[insectary-plantings]] for supporting beneficial insect populations
-- [[nematode-management|nematode]]-management for soil pest management
+- **Bt kurstaki (Btk)**: Toxic to caterpillars (cabbage worms, hornworms, loopers, codling moth). Apply to foliage; caterpillars must eat treated leaves.
+- **Bt israelensis (Bti)**: Toxic to mosquito and fungus gnat larvae. Apply to standing water or soil.
+- **Application**: Follow label directions. Spray in the evening (UV degrades Bt). Apply when caterpillars are small for best results.
+- **Safety**: Extremely specific — harms only the target insect group. Safe for humans, beneficial insects, and pollinators.
+
+### Spinosad
+

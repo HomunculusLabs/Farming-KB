@@ -104,7 +104,6 @@ understanding lichen physiology, ecology, and evolution.
 Lichen thalli are classified into several growth forms that reflect
 different ecological strategies and trade-offs between productivity, stress
 tolerance, and dispersal ability. Most lichens fall into one of six
-principal categories, though intermediates and transitions are common.
 ## See Also
 
 - [[lichen-biology-guide]]

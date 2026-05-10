@@ -14,7 +14,7 @@ sources:
   - Leafly Staff (2024). "Kush Mints Cannabis Strain Information."
     Leafly.com.
   - AllBud (2024). "Kush Mints Weed Strain." AllBud.com.
-  - [[query-sog-vs-scrog-cannabis-training-methods]] University (2023). "Top Mint Cannabis Strains."
+  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Top Mint Cannabis Strains."
     CannabisTrainingUniversity.com.
   - DGC Magazine (2023). "Kush Mints Strain Review." DGCmag.com.
 ---
@@ -137,6 +137,6 @@ pinnacle of Seed Junky Genetics' [[cervantes-breeding-program-design-goal-settin
 
 ## See Also
 
-- [[cannabis-blue-dream]]
+- [[blue-dream]]
 - [[linalool]]
 - [[myrcene]]

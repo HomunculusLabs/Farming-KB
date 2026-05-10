@@ -96,8 +96,10 @@ of AMF taxa present. Long-term monitoring plots allow practitioners
 to track whether communities are converging toward reference forest
 conditions or remain degraded.
 ## See Also
+
+- [[solomon-ley-farming-grass-clover-rotation-soil-restoration]]
 - [[common-mycorrhizal-networks]]
 - [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - [[arbuscular-mycorrhizal-fungal-diversity]]
 - [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[biodiversity-of-fungi-soil-fungal-communities]]
+- [[biodiversity-fungi-soil-fungal-communities]]

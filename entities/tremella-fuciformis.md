@@ -15,7 +15,7 @@ sources:
     activities." Journal of Ethnopharmacology.
   - Wang, Y. et al. (2019). "Polysaccharides from Tremella fuciformis: structure
     and bioactivity." Carbohydrate Polymers.
-  - Wasser, S.P. (2014). "[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in human health." Journal of
+  - Wasser, S.P. (2014). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive in human health." Journal of
     Pharmacy and Pharmacology.
   - Kuo, Y.C. et al. (2020). "Immunomodulatory properties of Tremella
     fuciformis polysaccharides." International Journal of Biological Macromolecules.
@@ -135,7 +135,6 @@ Fujian, Zhejiang, and Sichuan provinces. Annual production exceeds 100,000
 metric tons of fresh equivalent weight.
 of tremella polysaccharides from mycelial biomass, bypassing the need for
 fruiting body cultivation when the target product is extracted bioactives.
-
 ## See Also
 
 - [[tremella-mesenterica]]

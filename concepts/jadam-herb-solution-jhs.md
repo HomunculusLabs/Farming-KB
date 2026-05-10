@@ -1,6 +1,6 @@
 ---
 
-title: JADAM jadam herb solution jhs (JHS) — Boiled Herb Extract Recipes
+title: JADAM Herb Solution (JHS) — Boiled Herb Extract Recipes
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ sources:
 
 # JADAM Herb Solution (JHS)
 
-JHS is a boiled herb extract that provides insecticidal and germicidal power to [[jadam-methods]] pesticides. Different herbs target different pests. The basic herb is [[comparison-jerusalem-artichoke-vs-potato]] (controls aphids, mites, moths). Stronger options include gingko (adds leafhopper/planthopper control) and Korean pasque flower root (strongest -- controls stinkbugs, thrips, and almost everything else). Always combined with [[jadam-wetting-agent-jwa]].
+JHS is a boiled herb extract that provides insecticidal and germicidal power to [[jadam-methods]] pesticides. Different herbs target different pests. The basic herb is Jerusalem artichoke (controls aphids, mites, moths). Stronger options include gingko (adds leafhopper/planthopper control) and Korean pasque flower root (strongest -- controls stinkbugs, thrips, and almost everything else). Always combined with [[jadam-wetting-agent-jwa]].
 
 ## Herb Selection Guide
 
@@ -79,7 +79,7 @@ Must use soft water (test with JWA).
 
 **Water steeping** (no boiling): Tobacco 15 days; hot pepper, gingko fruits 1 month; garlic 1 month. Leave plant material in water, strain when ready.
 
-**Oil infusion** (for H-JWA): Deep-fry strong-scented herbs (peppermint, cinnamon bark, star anise, rosemary, hot pepper, mustard) in [[jadam-canola-oil-surfactant-method]]. Use this herbal oil instead of plain canola oil when making JWA.
+**Oil infusion** (for H-JWA): Deep-fry strong-scented herbs (peppermint, cinnamon bark, star anise, rosemary, hot pepper, mustard) in canola oil. Use this herbal oil instead of plain canola oil when making JWA.
 
 ## Usage Rates (per 500L / 132 gal spray tank)
 
@@ -118,6 +118,6 @@ Must use soft water (test with JWA).
 ## See Also
 
 - [[jadam-wetting-agent-jwa]] — always combine JHS with JWA
-- [[jadam-sulfur-js]] — add JS to JHS formulations for disease + [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
-- [[jadam-natural-pesticide-jnp]] — complete [[jadam-combined-pesticide-programs-jwa-js-jhs]]
+- [[jadam-sulfur-js]] — add JS to JHS formulations for disease + pest control
+- [[jadam-natural-pesticide-jnp]] — complete pesticide programs
 - [[jadam-methods]] — JADAM system overview

@@ -115,7 +115,6 @@ to propose *C. paspali* as a candidate for [[powell-ancient-entheogenic-cults-an
 fusiformis* parasitizes pearl millet across Africa and India, while *C. gigas*
 infects rice and other grasses in East Asia. Each species has evolved a distinct
 alkaloid profile adapted to its ecological niche, but all share the fundamental
-ergoline ring system that makes this genus pharmacologically unique.
 ## See Also
 
 - [[ergot-and-lysergic-acid-history]]

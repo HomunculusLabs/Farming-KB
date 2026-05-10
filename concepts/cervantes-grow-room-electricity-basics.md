@@ -5,7 +5,6 @@ tags: [cannabis, electricity, safety, wiring, indoor-growing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---

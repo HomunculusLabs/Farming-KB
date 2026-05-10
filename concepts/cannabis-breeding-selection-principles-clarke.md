@@ -139,11 +139,8 @@ first, and later selections focus on the most desirable characteristics
 exhibited by juvenile or adult plants. Many important traits to be
 selected for in Cannabis floral clusters cannot be judged until long
 after the parents are gone, so many crosses are made early and
-## See Also
 
+## See Also
 - [[clarke-marijuana-botany-genetics-breeding]]
 - [[cannabis-hybrid-vigor-and-phenotypes-clarke]]
-
-## See Also
-
 - [[cannabis-breeding-traits-selection-criteria-clarke]]

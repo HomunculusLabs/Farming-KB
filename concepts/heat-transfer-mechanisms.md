@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [physics, thermodynamics, engineering, heat-transfer]
 date: 2026-05-02
 updated: 2026-05-02
-sources:
-  sources: []
+sources: []
 type: concept
 ---
 

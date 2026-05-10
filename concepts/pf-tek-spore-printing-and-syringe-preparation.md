@@ -105,6 +105,8 @@ Spore printing and syringe preparation close the [[pf-tek]] substrate jars
 This approach, using mass [[mushroom-spore-inoculation-techniques]] directly to the [[pf-tek-maximum-fruiting-substrate-formula]] rather than cloning mushroom tissue, was a key innovation of the PF TEK. It preserves the complete genotype, prevents senescence, and ensures a never-ending succession of fungus with full reproductive capacity.
 ## Related
 
+- [[pf-tek-spore-viability-degradation]]
+
 - [[mushroom-spore-printing-syringe-preparation-pf-tek]]
 
 - [[pf-tek-inoculation-technique-and-syringe-management]] Topics

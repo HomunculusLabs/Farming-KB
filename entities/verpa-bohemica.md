@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Kuo, M. (2023). Verpa bohemica. MushroomExpert.com. https://www.mushroomexpert.com/verpa_bohemica.html"
   - "Arora, D. (1986). Mushrooms Demystified. Ten Speed Press."
-  - "Weber, N.S. & Smith, A.H. (1985). A [[ghouled-field-guide-historical-context]] to Southern Mushrooms. University of Michigan Press."
+  - "Weber, N.S. & Smith, A.H. (1985). A ghouled-field-guide-historical-context to Southern Mushrooms. University of Michigan Press."
   - "Abell-Davis, S.E. & Largent, D.L. (2008). \"A preliminary study of Verpa bohemica in the Klamath Mountains.\" McIlvainea, 18(1), 25–33."
   - "Moser, M. (1983). Keys to Agarics and Boleti. Royal Botanic Gardens, Kew."
 ---
@@ -93,12 +93,5 @@ The distinction between *V. bohemica* and *V. conica* (smooth thimble-cap) is im
 Both *Verpa* species differ from true morels (*Morchella*) in having the cap attached only at the apex, not at the base.
 
 ## See Also
-
 - [[verpa-conica]]
-
-## See Also
-- palmer-about-mushrooms-edible-species-identification
-- palmer about mushrooms edible species identification
-- palmer about mushrooms edible species identification
-- palmer-about-mushrooms-poisonous-species-to-avoid
 - [[spore]]

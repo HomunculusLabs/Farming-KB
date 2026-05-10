@@ -133,17 +133,12 @@ preserves the leaf's structural integrity. The distinction between food and
 medicine, so sharp in Western thought, may be a cultural artifact rather than a 
 natural boundary.
 
-- [Indole Hallucinogens and Human 
-Evolution](indole-hallucinogens-and-human-evolution.md)
-- [McKenna Food of the Gods](mckenna-food-of-the-gods.md)
+- [[indole-hallucinogens-and-human-evolution|Indole Hallucinogens and HumanEvolution]]
+- McKenna Food of the Gods
 - [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in Prehistoric 
 Africa](psilocybin-mushrooms-in-prehistoric-africa.md)
-## See Also
 
+## See Also
 - [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]
-- mckenna-legalization-debate-and-archaic-revival
 - [[mckenna-drugs-governments-and-intelligence-agencies]]
-
-## See Also
-
 - [[mckenna-food-gods-chimpanzee-aspilia-self-med]]

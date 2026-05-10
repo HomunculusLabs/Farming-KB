@@ -101,6 +101,8 @@ Traditional Scottish Highlanders used Sphagnum to insulate **stone cottages** an
 
 ## See Also
 
+- [[sphagnum-rubellum]]
+
 - [[pteridium-aquilinum]]
 - [[lycopodium-clavatum]]
 - arctostaphylos-uva-ursi

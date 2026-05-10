@@ -1,0 +1,150 @@
+---
+title: Cannabis Endorhiza Sampling Timing — Post-Harvest vs Pre-Harvest Effects
+created: 2026-05-10
+updated: 2026-05-10
+type: concept
+tags:
+  - cannabis
+  - microbes
+  - microbiome
+  - endorhiza
+  - sampling-methodology
+  - root-decay
+  - experimental-design
+sources:
+  - raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+---
+
+# Cannabis Endorhiza Sampling Timing — Post-Harvest vs Pre-Harvest Effects
+
+Winston et al. (2014) collected samples in two experiments with a critical
+difference in timing: Experiment 1 sampled eight weeks post-harvest, while
+Experiment 2 sampled two weeks pre-harvest. This difference produced
+substantial and instructive divergences in alpha diversity, taxonomic
+composition, and the detectability of rhizosphere cultivar effects. The
+comparison provides valuable lessons for experimental design in plant
+microbiome studies.
+
+## Experiment 1: Post-Harvest Sampling (November 2011)
+
+Experiment 1 sampled endorhiza, rhizosphere, and bulk soil from nine
+organically-grown Cannabis plants of three strains — Burmese, BooKoo Kush,
+and Sour Diesel — in Vista, California. Plants had been harvested eight
+weeks prior; only root balls remained in the ground. Triplicate DNA extracts
+were acquired for each sample type from each strain (27 total samples).
+Plants were grown in locally composted soil with minimal edaphic variation.
+The post-harvest timing was not originally intended as an experimental
+variable — the high abundance of Cellvibrio in endorhiza samples prompted
+the researchers to investigate root decay as a confounding factor.
+
+## Experiment 2: Pre-Harvest Sampling (August 2012)
+
+Experiment 2 sampled from six organically-grown plants of two strains
+(White Widow and Maui Wowie) from two locations (Vista and Orange County)
+two weeks prior to harvest, while plants were actively growing. Triplicate
+samples from each plant's endorhiza (18), rhizosphere (18), and each bulk
+soil (6), totaling 42 samples. Two soil types with significant edaphic
+variation were used: Mo-Bio soil (salinity 5.12, nitrogen 0.26%, TOC 3.02%)
+and Orange County soil (salinity 1.73, nitrogen 0.53%, TOC 20.0%). Four
+plants per strain in Mo-Bio soil; two White Widow in Orange County soil.
+Cannabinoid data was collected from buds of four plants.
+
+## The Cellvibrio Signal: Evidence of Root Decay
+
+The most striking difference was Cellvibrio abundance in the endorhiza.
+In Experiment 1 (post-harvest), Cellvibrio averaged **16.9%** of taxonomy-
+assigned reads (s = 13.0%, N = 9). In Experiment 2 (pre-harvest), it
+averaged only **0.095%** (s = 2.7%, N = 18) — a 178-fold difference.
+
+Cellvibrio is a known aerobic cellulytic bacterium (Berg et al., 1972)
+that degrades cellulose, the primary structural component of plant cell
+walls. Its high post-harvest abundance strongly indicates early-stage root
+tissue decomposition. The large standard deviation (13.0%) suggests highly
+variable decay rates among root balls. Cellvibrio was part of the "core
+endorhiza community" in both experiments (alongside Pseudomonas,
+Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and
+Sphingobacteriales). However, its core membership in Experiment 1 likely
+reflects the decay artifact rather than genuine endophytic association, as
+its near-absence in Experiment 2 confirms.
+
+## Alpha Diversity: Drastic Reduction Post-Harvest
+
+Alpha diversity showed a dramatic difference consistent with root decay
+selectively eliminating microbial taxa.
+
+In Experiment 2 (pre-harvest), the chao1 index showed a clear gradient:
+bulk soil (mean = 4947), rhizosphere (mean = 4525), endorhiza (mean =
+3321–3325). The bulk-to-endorhiza reduction was approximately 33%.
+
+In Experiment 1 (post-harvest), the same gradient existed but at a
+dramatically reduced scale: bulk soil (chao1: 2011), rhizosphere (1837),
+endorhiza (**916**). The endorhiza chao1 in Experiment 1 was only 28% of
+the Experiment 2 value — a 3.6-fold reduction. When pooled and rarified
+to the lower depth, the reduction persisted (Experiment 1 endorhiza chao1:
+916 vs Experiment 2 MB soil: 1413 and OC soil: 1374), confirming it was
+not a sequencing depth artifact.
+
+## Rhizosphere Cultivar Signal: Masked by Post-Harvest Decay
+
+The most consequential difference was in rhizosphere cultivar detectability.
+In Experiment 2 (pre-harvest), the rhizosphere showed significant strain
+effects in weighted UniFrac (ADONIS: R² = 0.13, p = 0.001), indicating
+actively growing plants exert cultivar-specific selection on rhizosphere
+microbiota.
+
+In Experiment 1 (post-harvest), no significant strain effects were detected
+(weighted: R² = 0.09, p = 0.10; unweighted: R² = 0.07, p = 0.07). Root
+decay had apparently overwhelmed the cultivar-specific rhizosphere signal.
+
+The authors attribute this to the well-established importance of plant
+growth stage on microbiota (van Overbeek and van Elsas, 2008; Duineveld
+et al., 1998). Without active rhizodeposition, the cultivar-specific
+rhizosphere signal disappears rapidly as opportunistic saprotrophs colonize
+decomposing root tissue.
+
+## Endorhiza Cultivar Signal: Surprisingly Persistent
+
+Despite degradation, cultivar-specificity was still detectable in
+Experiment 1 endorhiza. Endorhiza-only analysis showed significant strain
+effects for both weighted (ADONIS: R² = 0.59, p = 0.004) and unweighted
+(R² = 0.39, p = 0.003) analyses. The authors note this is "surprising" —
+cultivar-specificity persisted without cultivar-specific metabolite input
+from the living plant for eight weeks.
+
+One key difference was Methylophilus: 13% of BooKoo Kush endorhiza,
+0.13% in Burmese, absent in Sour Diesel (FDR: p = 0.012). The persistence
+of this signal suggests some endophytes become deeply entrenched in root
+tissues and remain stable even after host senescence.
+
+## Growth Stage, Microbiota Dynamics, and Design Implications
+
+van Overbeek and van Elsas (2008) demonstrated that bacterial communities
+associated with potato vary significantly with genotype and growth stage,
+with active growth showing the strongest cultivar-specific signals.
+Duineveld et al. (1998) showed rhizosphere communities fluctuate over the
+growth cycle, with senescence introducing saprotrophs that overwhelm
+resident communities.
+
+The comparison yields clear recommendations for experimental design:
+
+1. **Always sample pre-harvest for functional microbiome studies.** Post-
+   harvest sampling captures decay communities, not functional plant-microbe
+   associations. The 178-fold Cellvibrio difference makes this unequivocal.
+
+2. **Alpha diversity can flag sampling artifacts.** A chao1 of 916 vs
+   3321 in endorhiza should raise immediate concerns about sample integrity.
+
+3. **Rhizosphere signals are more fragile than endorhiza signals.** The
+   rhizosphere cultivar effect was completely eliminated post-harvest, while
+   endorhiza effects persisted, suggesting endophytes are more stable once
+   established.
+
+4. **Document harvest timing rigorously.** Weeks between harvest and sampling
+   should be reported as a critical parameter in all plant microbiome studies.
+
+## Related Concepts
+- [[cannabis-microbiome-cultivar-specificity]] — Cultivar-specific effects in Cannabis root microbiome
+- [[cannabis-endorhiza-microbiome]] — Overview of the Cannabis endorhiza microbiome
+- [[alpha-beta-diversity-cannabis-root-microbiomes]] — Alpha and beta diversity across root compartments
+- [[cannabis-microbiome-two-tier-selection]] — The two-tier selection model for plant microbiomes
+- [[cultivar-specificity-persistence-post-harvest-cannabis-endorhiza]] — Persistence of cultivar signals post-harvest

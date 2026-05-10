@@ -108,13 +108,16 @@ NASA's Clean Air Study (1989) included Chamaedorea elegans among plants demonstr
 
 ## See Also
 
+- [[hyophorbe-lagenicaulis]]
+
 - [[cocos-nucifera]]
 - [[areca-catechu]]
 - [[trachycarpus-fortunei]]
 - [[roystonea-regia]]
 - [[phoenix-dactylifera]]
-- [[chamaedorea-tepejilote]]
-- [[biodiversity]]
+- chamaedorea tepejilote
+- [[fungal-biodiversity]]
 - [[agroforestry]]
-- [[sustainable-agriculture]]
-- [[indigenous-knowledge]]
+- sustainable agriculture
+- indigenous knowledge
+- [[zinnia-elegans]]

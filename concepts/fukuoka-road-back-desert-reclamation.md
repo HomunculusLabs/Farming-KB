@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [regenerative, farming, desertification, regenerative]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Desert Reclamation: Stopping the Advance of Deserts

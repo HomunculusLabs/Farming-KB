@@ -32,7 +32,7 @@ Operational guidance for farm ponds — water quality management, feeding strate
 ### Key Parameters
 | Parameter | Ideal Range | Danger Level |
 |-----------|------------|--------------|
-| **[[aact-dissolved-oxygen-fine-bubble-aeration-ingham]]** | >5 mg/L | <3 mg/L (fish die) |
+| **Dissolved Oxygen** | >5 mg/L | <3 mg/L (fish die) |
 | **pH** | 6.5-8.5 | <5 or >10 |
 | **Ammonia (NH₃)** | <0.02 mg/L | >0.1 mg/L (toxic) |
 | **Nitrite (NO₂⁻)** | <0.1 mg/L | >0.5 mg/L |
@@ -46,9 +46,9 @@ Operational guidance for farm ponds — water quality management, feeding strate
 - **No aeration needed** if: stocking density low (<200 fish/acre), pond <8 ft deep, moderate duck load, and good plant coverage.
 
 ### Biofiltration
-- [[comparison-constructed-wetland-vs-backyard-pond]] filter (gravel bed with plants) treats overflow water before returning to pond
+- Constructed wetland filter (gravel bed with plants) treats overflow water before returning to pond
 - Beneficial bacteria (see [[effective-microorganisms-em]]) process ammonia → nitrite → nitrate
-- Barley straw bales (1 bale per 1000 sq ft) reduce algae via slow-release [[cervantes-hydrogen-peroxide-sterilization]]
+- Barley straw bales (1 bale per 1000 sq ft) reduce algae via slow-release hydrogen peroxide
 
 ## Feeding
 
@@ -131,19 +131,20 @@ Operational guidance for farm ponds — water quality management, feeding strate
 ### Mosquito Control
 - Stock **mosquitofish (Gambusia)** — consume 100+ larvae/day
 - Maintain [[duck-keeping]] presence — ducks are voracious mosquito predators
-- Use **[[cervantes-bacillus-thuringiensis-bt-control]] israelensis (Bti)** dunks — biological, safe for fish/plants
+- Use **Bacillus thuringiensis israelensis (Bti)** dunks — biological, safe for fish/plants
 - Ensure flowing water or aeration — mosquitoes breed in still, stagnant water
 
 ## Regenerative Integration
 
 A pond is the connective tissue of a regenerative homestead:
 
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Fish/duck waste → phytoplankton → fish food → harvest → scraps → [[composting-systems]] → garden → crop waste → duck/chicken feed → manure → pond
-- **Wildlife habitat**: Amphibians (frogs, salamanders), reptiles (turtles, snakes), birds (herons, kingfishers, ducks), [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
-## See Also
+- **Nutrient cycling**: Fish/duck waste → phytoplankton → fish food → harvest → scraps → [[composting-systems]] → garden → crop waste → duck/chicken feed → manure → pond
+- **Wildlife habitat**: Amphibians (frogs, salamanders), reptiles (turtles, snakes), birds (herons, kingfishers, ducks), beneficial insects
+- **Fire protection**: Pond provides emergency water source for firefighting. Position near structures and garden.
+- **Microclimate**: Water moderates temperature — cooler in summer, warmer in winter within 50-100 ft radius. Extends growing season for nearby [[food-forest-design]] plantings.
+- **Duck forage**: Pond supports ducks year-round with aquatic plants, insects, and snails. See [[duck-keeping]].
+- **Irrigation relay**: Pond overflow → swales → [[cover-cropping-guide]] fields → [[water-management]] storage. No water leaves the property.
+- **Goat/duck watering**: Gravity-fed troughs from pond reduce well dependence. See [[goat-keeping]].
+- **Pest management**: Frog populations from pond provide natural pest control in gardens. Reference [[cannabis-pest-management]].
 
-- [[well-drilling-and-maintenance]]
-
-- [[pond-and-aquaculture]] — Pond design, fish species, duck integration, aquatic plants
-- [[duck-keeping]] — Duck care and management
-- [[water-management]] — Water systems for the homestead
+## Getting Started Checklist

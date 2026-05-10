@@ -1,5 +1,5 @@
 ---
-title: bloomfield-bioluminescent-fungi-overview
+title: Bioluminescent Fungi
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,13 +11,13 @@ sources: []
 
 ## Overview
 
-Bioluminescent fungi produce light through a chemical reaction within their mycelium and fruiting bodies. Of the roughly 150,000 described fungal species, only about 120 are known to be bioluminescent. These species are distributed across several genera and are found on every continent except Antarctica. The ecological function of fungal bioluminescence is still debated, but evidence points to [[aquatic-fungi-spore-dispersal-ingold]] by attracting insects.
+Bioluminescent fungi produce light through a chemical reaction within their mycelium and fruiting bodies. Of the roughly 150,000 described fungal species, only about 120 are known to be bioluminescent. These species are distributed across several genera and are found on every continent except Antarctica. The ecological function of fungal bioluminescence is still debated, but evidence points to spore dispersal by attracting insects.
 
 ## Key Species
 
 ### Omphalotus olearius (Jack-o'-Lantern)
 
-Found in Europe and [[psilocybin-north-america-pacific-northwest]] on hardwood stumps and roots. Produces a bright greenish glow in the gills. Often mistaken for chanterelles, which it somewhat resembles. O. olearius is poisonous — it contains the compound illudin S, which causes severe gastrointestinal distress. The luminescence is visible to the dark-adapted eye and can be quite striking. Related species O. nidiformis (ghost fungus) occurs in Australia.
+Found in Europe and North America on hardwood stumps and roots. Produces a bright greenish glow in the gills. Often mistaken for chanterelles, which it somewhat resembles. O. olearius is poisonous — it contains the compound illudin S, which causes severe gastrointestinal distress. The luminescence is visible to the dark-adapted eye and can be quite striking. Related species O. nidiformis (ghost fungus) occurs in Australia.
 
 ### Omphalotus nidiformis (Ghost Fungus)
 
@@ -25,11 +25,11 @@ Native to Australia and also found in parts of Asia. Grows on dead wood of eucal
 
 ### Mycena chlorophos
 
-One of the most famous bioluminescent mushrooms, found in subtropical and tropical regions of Asia, Oceania, and the Americas. The entire [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] glows pale green, and the glow is brightest in young, fresh specimens. M. chlorophos fruits on forest floor debris and decaying wood. The glow fades as the mushroom matures and dries. It is not known to be toxic, but is too small and insubstantial to be of culinary interest.
+One of the most famous bioluminescent mushrooms, found in subtropical and tropical regions of Asia, Oceania, and the Americas. The entire fruiting body glows pale green, and the glow is brightest in young, fresh specimens. M. chlorophos fruits on forest floor debris and decaying wood. The glow fades as the mushroom matures and dries. It is not known to be toxic, but is too small and insubstantial to be of culinary interest.
 
 ### Armillaria mellea (Honey Mushroom)
 
-Armillaria mellea is primarily known as a pathogenic fungus that causes root rot in trees, but its [[singh-mycelial-mats-and-biological-soil-crusts]] can also exhibit weak bioluminescence. The glow is typically only visible in dark conditions and is much fainter than that of Omphalotus or Mycena species. Some other Armillaria species show similar weak luminescence.
+Armillaria mellea is primarily known as a pathogenic fungus that causes root rot in trees, but its mycelial mats can also exhibit weak bioluminescence. The glow is typically only visible in dark conditions and is much fainter than that of Omphalotus or Mycena species. Some other Armillaria species show similar weak luminescence.
 
 ### Neonothopanus nambi
 
@@ -89,7 +89,7 @@ Bioluminescent mushrooms have captured human imagination for centuries. Referenc
 ## See Also
 
 - [[fungal-symbiosis-types]] — Symbiotic relationships of fungi with other organisms
-- [[fungal-dna-barcoding]] — [[biodiversity-fungal-molecular-identification-dna-barcoding]] of fungal species
+- [[fungal-dna-barcoding]] — Molecular identification of fungal species
 - [[mushroom-taxonomy-history]] — Classification and evolutionary relationships of fungi
 - [[fungal-ecology]]
 - [[fungal-biology-fundamentals]]

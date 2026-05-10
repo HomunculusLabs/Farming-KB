@@ -5,7 +5,6 @@ tags: [fukuoka, natural-farming, grains, crop-rotation, food-diversity]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---

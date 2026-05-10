@@ -20,7 +20,7 @@ sources:
   - "Andrews, J. (1993). Peppers: The Domesticated Capsicums. 2nd ed. University of Texas Press."
   - "Naves, M.M.V. et al. (2019). Capsicum: a review on its phytochemistry, pharmacology, and toxicology. Journal of Pharmacy and Pharmacology, 71(11), 1625-1647."
   - "Sanatombi, K. & Sharma, G.J. (2008). Capsicum: a review on its ethnobotany, pharmacological and phytochemical aspects. Journal of Phytology, 1(1), 28-38."
-  - "Cichewicz, R.H. & Thorpe, P.A. (1996). The [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of chile peppers (Capsicum species) and their uses in Mayan medicine. Journal of Ethnopharmacology, 52(2), 61-70."
+  - "Cichewicz, R.H. & Thorpe, P.A. (1996). The mycelium-running-mushroom-antimicrobial-properties-species-chart of chile peppers (Capsicum species) and their uses in Mayan medicine. Journal of Ethnopharmacology, 52(2), 61-70."
 ---
 
 # Capsicum annuum (Chili Pepper)

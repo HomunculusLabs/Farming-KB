@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Skocibusic, M. & Bezić, N. (2004). "permaculture-designers-manual-essential-oil-plants composition of Calamintha grandiflora." Journal of Essential Oil Research, 16(2), 109–112.
   - Senatore, F. et al. (2006). "Antibacterial activity of Calamintha grandiflora essential oil." Journal of Essential Oil Research, 18(3), 321–325.
-  - Tuttolomondo, T. et al. (2014). "[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] and antioxidant activity of Calamintha grandiflora from Sicily." Natural Product Research, 28(11), 834–841.
+  - Tuttolomondo, T. et al. (2014). "query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms and antioxidant activity of Calamintha grandiflora from Sicily." Natural Product Research, 28(11), 834–841.
   - Karray-Bouraoui, N. et al. (2010). "Essential oil composition of Calamintha grandiflora from Tunisia." Chemistry of Biodiversity, 7(5), 1087–1095.
 ---
 

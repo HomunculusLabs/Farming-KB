@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - "Mayell, M. (2001). \"Maitake extracts and their therapeutic effects.\" Alternative Medicine Review, 6(1), 48-60."
   - "Kodama, N. et al. (2002). \"Maitake D-Fraction: healing and preventive potential for cancer.\" Journal of Orthomolecular Medicine, 17(1), 41-48."
-  - "Matsuzaki, S. et al. (2020). \"A systematic review of the [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of Grifola frondosa.\" Frontiers in Nutrition, 7, 82."
-  - "Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press."
+  - "Matsuzaki, S. et al. (2020). \"A systematic review of the query-what-are-the-main-bioactive-compounds-in-medicinal-plants of Grifola frondosa.\" Frontiers in Nutrition, 7, 82."
+  - "Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press."
   - "Wasser, S.P. (2014). \"Medicinal mushrooms in human clinical studies.\" International Journal of Medicinal Mushrooms, 16(1), 1-16."
 ---
 

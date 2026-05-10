@@ -139,10 +139,6 @@ These preventative features include neuroprotection and anti-inflammatory
 and antioxidant properties.
 
 ## See Also
-
 - [[blesching-cannabinoid-pharmacology]]
 - [[cannabis-chronic-pain-management]]
-
-## See Also
-
 - [[blesching-cannabis-inflammatory-diseases]]

@@ -138,7 +138,6 @@ Dragon fruit is a climbing cactus that requires support. Common systems:
 
 The climbing portion reaches the top of the support in 1–2 years. Once the growing tip reaches the top and is trained to hang over, it produces lateral (pendant) branches that bear flowers and fruit. Pendant branches should hang freely to 1–1.5 m below the support top.
 
-## Propagation
 ## See Also
 
 - [[forest-gardening-and-food-forests]] — integrating dragon fruit into food forest systems

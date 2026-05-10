@@ -5,7 +5,6 @@ tags: [comparison, water-systems, aquaculture, permaculture, pond-management]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---
@@ -106,11 +105,8 @@ duckweed or crawfish as you gain confidence.
 Adding a small duck flock introduces manure-driven fertility that boosts plankton and
 supports fish. The key is to start simple and add complexity as your understanding of
 aquatic ecosystems deepens.
-## See Also
 
+## See Also
 - [[backyard-pond-building]]
 - [[holzer-aquaculture-pond-construction]]
-
-## See Also
-
 - [[comparison-constructed-wetland-vs-backyard-pond]]

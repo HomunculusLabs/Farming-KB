@@ -107,9 +107,7 @@ frequency of the desired trait.
 The second backcross (using the same cloned parent) is called
 "squaring." If all offspring become MM, the trait is true-breeding.
 ### Cubing
+
 ## See Also
 - [[green-cannabis-grow-bible-strain-selection-genetics]]
-
-## See Also
-
 - [[cannabis-genetics-and-breeding]]

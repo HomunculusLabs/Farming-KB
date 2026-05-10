@@ -21,16 +21,13 @@ type: concept
 - Enhanced plant vigor supports greater contaminant uptake, degradation,
   or stabilization
 - Reduced need for intensive site management during remediation
-## See Also
-
-- [[singh-mycorrhizal-exudates-root-exudate-interactions]] -- exudate chemistry
-  underlying stress responses
-- [[mycoremediation-pahs]] -- broader context for [[cotter-pet-livestock-waste-fungal-remediation-systems]]
-- [[dighton-fungal-biosorption-heavy-metal-remediation]] contamination -- metals co-occurring with abiotic
 
 ## See Also
-
+- [[singh-mycorrhizal-exudates-root-exudate-interactions]]
+- [[mycoremediation-pahs]]
+- [[dighton-fungal-biosorption-heavy-metal-remediation]]
 - [[singh-mycorrhizal-network-carbon-transfer-plants]]
+
 ## Practical Applications
 
 Mycorrhizae and Plant Stress Amelioration has a range of practical applications that make it relevant to

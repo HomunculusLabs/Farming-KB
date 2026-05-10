@@ -1,7 +1,7 @@
 ---
 title: salt salt-tolerant-fodder-plants species
 created: 2026-04-28
-tags: [saline-land, fodder, land-rehabilitation, permaculture,
+tags: [saline-land, fodder, land-rehabilitation, [permaculture],
   pasture, erosion-control, livestock]
 date: 2026-04-28
 updated: 2026-04-28
@@ -36,7 +36,7 @@ increased transpiration.
 ### Puccinellia ciliata / P. capillaris (Puccinellia)
 
 A perennial, summer-dormant grass forming tussocks 10-70 cm high.
-Nutritionally equivalent to annual rye grass. Suited to areas with 350
+Nutritionally equivalent to annual [[grass-seed-substrate-preparation-rye-grass-mycology]]. Suited to areas with 350
 mm or more rainfall and tolerant of winter waterlogging.
 
 ### Paspalum distichum (Salt Water Couch)
@@ -100,6 +100,6 @@ and A. salicina. See mycofiltration-silt-erosion-control and
 ## See Also
 
 - permaculture-plants-salt-tolerant-fodder-systems
-- [[mycofiltration]]
+- [[unknown-mycelium-mycofiltration]]
 - [[permaculture-salt-tolerant-fodder-plants]]
 - [[salt-tolerant-fodder-plants]]

@@ -4,9 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, lab-technique, workflow, troubleshooting, safety]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
-  - "raw/papers/laminar-flow-hood-construction-1.md"
+sources: []
 ---
 
 ## Overview
@@ -130,9 +128,7 @@ For growers working at scale or with a flow hood, additional clean room practice
 - Skipping the alcohol wipe on jar surfaces before opening.
 - Not shaking spore syringes before use (spores settle to the bottom).
 
-## Related
-
-- [[casing-surface-roughness-technique-mushroom-fruiting]] Topics
+## Related Topics
 
 - [[mushroom-laminarar-flow-hood]] — building and using a laminar flow hood
 - [[agar-work-guide]] — sterile agar technique

@@ -103,6 +103,8 @@ Compact cultivars have expanded flowering quince's utility in smaller gardens an
 
 ## See Also
 
+- [[catalpa-speciosa]]
+
 - [[physocarpus-opulifolius]]
 - [[potentilla-fruticosa]]
 - [[spiraea-japonica]]

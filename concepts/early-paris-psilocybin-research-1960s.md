@@ -119,11 +119,6 @@ disintegrating, a precursor to the difficult psychedelic experiences
 that would later be documented in clinical settings.
 
 ## See Also
-
 - [[roger-heim-scientific-study-psilocybin]]
-- gordon-wasson
 - [[psilocybin-pharmacology-detail]]
-
-## See Also
-
 - [[psilocybin-clinical-research-history]]

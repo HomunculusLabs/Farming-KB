@@ -13,7 +13,7 @@ sources:
   - "Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications."
   - "Nash, T.H. III et al. (2002). Lichen Flora of the Greater Sonoran Desert Region, Vol. 1. Arizona State University."
   - "Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer."
-  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press."
+  - "Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press."
 ---
 
 # Pertusaria amara (Bitter Wart Lichen)
@@ -114,6 +114,8 @@ Several *Pertusaria* species resemble *P. amara* in overall morphology. The comb
 - ***Pertusaria albescens*** — White, conspicuously farinose thallus. Contains protocetraric acid (K+ yellow → red). Associated with eutrophicated bark surfaces.
 
 ## See Also
+
+- [[quassia-amara]]
 
 - [[pertusaria-coccodes]]
 

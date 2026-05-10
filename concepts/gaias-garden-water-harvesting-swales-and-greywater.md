@@ -19,10 +19,10 @@ Hemenway introduces five complemensoil-lifeniques that, used together, make ampl
 1. High organic matter content in soil -- holds moisture, adds fertility, stores nutrients, boosts soil life, fluffs soil
 2. Deep mulching -- slows evaporation, cools soil, adds fertility, boosts soil life, smothers weeds
 3. Water-conserving plants -- need less water, survive drought
-4. [[ficus-carica]]ean-climate plants are adapted to shifts between dry and wet seasons. They reduce water needs in nearly ehippophae-rhamnoidesunpredictable dry spells. Examples include:
+4. [[ficus-carica]] ean-climate plants are adapted to shifts between dry and wet seasons. They reduce water needs in nearly ehippophae-rhamnoidesunpredictable dry spells. Examples include:
 
-- Almond (Prunus dulcis), fig (Ficus carica), olive (Olea europaea), grape (Vitis vinifera)
-- Pomegranate, quince (Cydonia oblonga), sea buckthorn (Hippophae rhamnoides)
+- Almond ([[prunus-dulcis]]), fig (Ficus carica), olive ([[olea-europaea]]), grape ([[vitis-vinifera]])
+- Pomegranate, quince ([[cydonia-oblonga]]), sea buckthorn ([[hippophae-rhamnoides]])
 - Lavender (Lavandula angustifolia), rosemary (Rosmarinus officinalis), sage (Salvia spp.), oregangleditsia-triacanthos thyme, rue (Ruta graveolens)
 - Fennel (Foeniculum vulgare), borage (Borago officinalis), cardoon (Cynara cardunculus)
 - Hawthorn (Crataegus spp.), barberry (Berberis vulgaris), honey locust (Gleditsia triacanthos)

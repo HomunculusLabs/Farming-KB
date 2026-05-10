@@ -58,7 +58,7 @@ The genus name derives from Greek *pikros* (bitter) and *rhiza* (root), referrin
 
 ### Reproductive Structures
 
-- **Flowers:** Small, 8–12 mm long, arranged in a terminal raceme or spike, 5–15 cm long. Calyx 5-lobed, persistent. Corolla bilabiate, pale blue to violet-blue, 8–10 mm long, with a hairy tube and two-lipped limb — upper lip 2-lobed, lower lip 3-lobed. Four stamens, didynamous (2 long, 2 short). Ovary superior, 2-carpellary.
+- **Flowers:** Small, 8–12 mm long, arranged in a terminal raceme or spike, 5–15 cm long. Calyx 5-lobed, persistent. Corolla bilabiate, pale blue to violet-blue, 8–10 mm long, with a hairy tube and two-lipped limb — upper lip 2-lobed, lower lip 3-lobed. Four stamens, didynamous (2 long, 2 [[short-day-and-long-day-plant-classification|short]]). Ovary superior, 2-carpellary.
 - **Fruit:** Capsule, ovoid to ellipsoidal, 8–12 mm long, brown at maturity, dehiscing loculicidally. Contains numerous small seeds.
 - **Seeds:** Small, oblong, brown, 0.5–1 mm, with reticulate surface ornamentation.
 - **Flowering:** June–August at high elevation depending on snowmelt timing.
@@ -88,4 +88,4 @@ improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+communities, and systematic experimentation to [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions|build]] expertise.

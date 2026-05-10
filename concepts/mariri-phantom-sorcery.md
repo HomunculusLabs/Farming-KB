@@ -75,7 +75,7 @@ home of those belonging to the dynasty of the great wise masters.
 
 ## The Mariri in Sorcery
 
-Sorcerers store harmful agents in their mariris. The Cocama sorcerer
+Sorcerers store harmful agents in [[plant-micronutrients-and-their-essential-functions|their]] mariris. The Cocama sorcerer
 keeps animals -- insects, snakes, scorpions, bats, rays, toads --
 in his mann and sends them to cause harm. The sorcerer who uses the
 huani (a steel bow with crystal arrow) keeps a living piranha inside
@@ -86,7 +86,7 @@ beings are also associated with the mariri of sorcerers.
 ## The Papalluses: Guardians of the Mariri
 
 The papalluses are lilac spirits with red eyes who serve as guardians
-of the mann and the huani. Under their arms they carry the magic
+of the mann and the huani. Under their arms they carry the [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens|magic]]
 steel bow and crystal arrow. They can be evil when seeking revenge but
 may also be kind. They are essential protectors of the shaman's power
 reservoir.

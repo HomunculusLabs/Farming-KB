@@ -125,6 +125,8 @@ Community-based [[mollison-pdc-forest-management-products]] and certified sustai
 
 ## See Also
 
+- [[hydrangea-macrophylla]]
+
 - [[enterolobium-cyclocarpum]]
 
 - [[swietenia-mahagoni]]

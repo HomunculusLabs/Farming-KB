@@ -5,7 +5,6 @@ tags: [agriculture, crop-rotation, soil-health, organic-gardening, permaculture,
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md
   - /Users/t3rpz/wiki/raw/papers/jeavons-john-how-to-grow-more-vegetables.md
@@ -109,7 +108,6 @@ Crops within the same family share not only similar nutrient requirements but
 also similar pest and disease vulnerabilities. A rotation that separates same-
 family crops by three to four years significantly reduces the buildup of
 family-
-specific pathogens and provides more balanced nutrient cycling across the
 ## See Also
 
 [[crop-rotation-principles]] covers the botanical family groupings, disease

@@ -1,131 +1,129 @@
 ---
 title: Phototropism
-tags: [plant-biology, phototropism, tropism, light, darwin, plant-movement]
-source: grahamholmes-what-a-plant-knowsindd.md
+source: What a Plant Knows ([[daniel-chamovitz]], 2012)
+type: concept
+tags: [botany, plant-physiology, phototropism, darwin, plant-senses, auxin, phototropin]
 created: 2026-05-09
 ---
 
 # Phototropism
 
-## Overview
+Phototropism is the directional growth response of a plant in which it bends
+or turns toward a source of light. It is one of the most fundamental and
+universally observed behaviors in the plant kingdom. The phenomenon was first
+systematically studied by Charles Darwin and his son Francis in the late 19th
+century, and their landmark experiments laid the groundwork for our modern
+understanding of how plants perceive and respond to light.
 
-Phototropism is the growth movement of a plant in response to light direction. Almost
-all plants bend towards lateral light — a behavior observed in houseplants that bow
-and bend towards rays of sunshine coming through a window. The phenomenon was first
-systematically studied by Charles Darwin and his son Francis in their 1880 book *The
-[[darwin-power-of-movement-in-plants]] in Plants*, where they demonstrated that the "eyes" of the plant
-are located at the shoot tip, while the bending response occurs in the stem below.
-Darwin wrote: "There are extremely few [plants], of which some part... does not bend
-towards lateral light."
+## Historical Background
 
-## Darwin's Classic Experiments
+The observation that plants grow toward light has been noted since antiquity.
+The key question that intrigued early botanists was whether phototropism was a
+direct consequence of photosynthesis or whether it represented a separate,
+dedicated light-sensing system. This distinction was crucial for understanding
+whether plants had true sensory capabilities beyond mere energy harvesting.
 
-Darwin and his son conducted a series of elegantly simple experiments that established
-the fundamental mechanism of phototropism. They grew canary grass (*Phalaris
-canariensis*) seedlings in total darkness for several days, then exposed them to a
-gas lamp placed twelve feet (3.5 meters) away, dim enough that the experimenters
-"could not see the seedlings themselves, nor see a pencil line on paper." Yet after
-only three hours, the plants had curved towards the dim light.
+## Darwin's Pioneering Experiments
 
-The bending always occurred at the same part of the young plant — about an inch (two
-centimeters) below the tip. This led Darwin to ask which part of the plant "sees" the
-light. They tested five conditions:
+For the twenty years following his publication of *On the Origin of Species*,
+Charles Darwin conducted experiments on plant movement that still influence
+botanical research today. In his final book, *The [[darwin-power-of-movement-in-plants]] in Plants*
+(1880), Darwin wrote: "There are extremely few [plants], of which some part...
+does not bend towards lateral light."
 
-1. **Untreated seedling** — bent towards the light (positive control confirming
-   conditions were conducive to phototropism).
-2. **Tip removed** — did not bend towards the light.
-3. **Tip covered with an opaque (lightproof) cap** — did not bend (went "blind").
-4. **Tip covered with a transparent glass cap** — bent towards the light normally.
-5. **Middle section covered with an opaque tube** — bent towards the light normally.
+Darwin and his son Francis grew [[canary-grass-phototropism-model-organism]] (*Phalaris canariensis*) seedlings
+in complete darkness for several days, then placed a very small gas lamp
+approximately 3.5 meters away, kept so dim that they "could not see the
+seedlings themselves, nor see a pencil line on paper." Yet after only three
+hours, the plants had visibly curved toward the dim light source. The bending
+consistently occurred about 2 centimeters below the tip.
 
-These results proved that phototropism depends on light hitting the shoot tip. When
-the tip was removed or blocked from light, the plant could not perceive the light
-direction. But when only the middle was blocked, the tip could still "see" the light
-and signal the stem to bend. The transparent cap in condition 4 allowed light to
-reach the tip, confirming that it was [[darwin-phototropism-discovery-plant-light-perception]] — not some other property of
-the cap — that mattered.
+## Identifying the Plant's "Eye"
 
-## Mechanism: From Light to Bending
+The Darwins hypothesized that the "eyes" of the plant were at the seedling
+tip, not at the bending region. They tested this with five experimental
+conditions:
 
-Darwin's experiments established that the shoot tip perceives light and sends a
-signal downward to the stem, which responds by differential growth. The modern
-understanding of this process involves several steps:
+1. **Untreated seedling**: Bent normally toward light (positive control)
+2. **Tip pruned off**: No bending — the plant went "blind"
+3. **Tip covered with an opaque cap**: No bending — light was blocked
+4. **Tip covered with a clear glass cap**: Normal bending — light passed through
+5. **Middle section covered with a lightproof tube**: Normal bending — tip still saw light
 
-1. **Light perception:** Photoreceptors in the shoot tip (primarily phototropins,
-  which are sensitive to blue light) absorb photons and trigger a signaling cascade.
+These results proved that phototropism occurs when light strikes the tip of
+the shoot. The tip perceives light and transmits this information downward,
+instructing the midsection to bend toward the light source. This was the first
+scientific demonstration of rudimentary sight in plants.
 
-2. **Auxin redistribution:** The signal from the tip causes the plant hormone auxin
-  (indole-3-acetic acid, IAA) to be redistributed asymmetrically — auxin
-  concentrations become higher on the shaded side of the stem than on the lit side.
+## The Role of Blue Light
 
-3. **Differential cell elongation:** Higher auxin concentration on the shaded side
-  promotes cell elongation in that tissue. The cells on the dark side grow longer
-  than those on the illuminated side, causing the stem to bend towards the light.
+In 1864, [[chamovitz-julius-von-sachs-blue-light-phototropism]] Sachs discovered that blue light is the primary color that
+induces phototropism. Plants are generally insensitive to other colors for
+directional bending. This specificity pointed to specialized photoreceptor
+proteins that respond selectively to particular wavelengths, analogous to the
+cone cells in the human retina.
 
-This mechanism explains why the bending occurs below the tip — the tip perceives
-the light direction, but the actual growth response happens in the elongation zone
-of the stem.
+Blue light (400-500 nm) drives phototropism, while red and far-red light serve
+other functions such as photoperiodism and [[shade-avoidance-syndrome]]. Plants thus possess
+multiple distinct light-sensing systems, each tuned to different wavelengths
+and serving different biological functions.
 
-## Blue Light Sensitivity
+## The Cholodny-Went Hypothesis and Auxin
 
-In 1864, Julius von Sachs — a contemporary of Darwin — discovered that blue light is
-the primary color that induces phototropism in plants. Plants are generally
-insensitive to other colors when it comes to directional bending. This is distinct
-from phytochrome-mediated responses (flowering, germination), which are triggered
-by red and far-red light. The phototropism photoreceptors are called **phototropins**
-and are specifically tuned to blue and UV-A wavelengths (approximately 320-500 nm).
+Following Darwin's discovery, researchers identified auxin as the hormone
+mediating the phototropic response. When light strikes one side of the plant
+tip, auxin is redistributed to the shaded side, causing those cells to
+elongate more rapidly and producing the characteristic bend. The mechanism:
 
-The existence of separate photoreceptor systems for different [[phototropism-and-plant-light-responses]] means
-that plants simultaneously use blue light to determine which direction to grow and
-red/far-red light to measure the length of the night. These parallel systems allow
-plants to process multiple aspects of their light environment simultaneously.
+- Photoreceptors in the shoot tip detect directional blue light
+- A signaling cascade asymmetrically redistributes PIN auxin transporters
+- Auxin accumulates on the shaded side at higher concentrations
+- Shaded cells elongate via acid growth — auxin activates proton pumps that
+  loosen the [[chitin-chitosan-fungal-cell-wall]], enabling turgor-driven expansion
 
-## Types of Phototropism
+The Cholodny-Went hypothesis (1927-1928) formalized this model of lateral
+auxin redistribution and remains the foundational explanation, though modern
+molecular biology has added considerable refinement.
 
-- **Positive phototropism:** Growth towards a light source, typical of shoots and
-  stems. This maximizes light interception for photosynthesis.
-- **Negative phototropism:** Growth away from a light source, typical of roots.
-  Roots generally grow away from light and into the soil, optimizing water and
-  nutrient uptake.
+## Phototropins: The Molecular Light Sensors
 
-The differential response between shoots and roots reflects their different
-ecological needs — shoots need light for photosynthesis, while roots need darkness,
-moisture, and soil minerals.
+In the 1990s, researchers identified the specific blue-light receptors as
+**phototropins** (phot1 and phot2), belonging to the LOV (Light-Oxygen-Voltage)
+domain family of flavoproteins. They use a flavin mononucleotide (FMN)
+chromophore to capture blue light photons, triggering autophosphorylation and
+downstream signaling that leads to asymmetric auxin redistribution.
 
-## Significance for Plant Survival
+Phot1 operates under low to moderate light intensities; phot2 functions at
+higher intensities and also mediates chloroplast relocation and stomatal
+opening. The discovery confirmed Darwin's insight — plants possess specialized
+light-sensing organs functionally analogous to eyes, concentrated in the shoot
+tip exactly where Darwin demonstrated light-sensing capability.
 
-Phototropism is ecologically critical because it enables plants to optimize their
-position relative to light sources. In competitive environments, phototropism allows
-seedlings emerging from soil to quickly orient towards available light. In forest
-understories, plants can track light gaps created by fallen trees. The sensitivity
-of the response — Darwin's seedlings responded to a lamp so dim humans could barely
-detect it — demonstrates the evolutionary importance of efficient light capture.
+## Negative Phototropism in Roots
 
-Understanding phototropism has practical [[chamovitz-photoperiodism-agricultural-applications]]. In greenhouse
-cultivation, light direction and intensity can be manipulated to control plant
-architecture. In indoor growing operations, supplemental lighting positioned to
-optimize phototropic responses can improve canopy [[cervantes-reflective-hoods-light-distribution]] and overall
-yield.
+While shoots exhibit positive phototropism (bending toward light), roots often
+show negative phototropism, growing away from light deeper into soil. This is
+also mediated by phototropins but produces the opposite growth response. Root
+phototropism interacts with gravitropism to ensure proper orientation, with
+gravitropism typically dominating but phototropism modifying the response when
+roots encounter obstacles or grow near the soil surface.
 
-## Darwin the Botanist
+## Ecological and Agricultural Significance
 
-It is not widely known that for the twenty years following his publication of *On the
-Origin of Species*, Charles Darwin conducted a series of experiments on plant
-movement that still influence plant biology research today. His collaboration with
-his son Francis on phototropism represents some of the most elegant experimental
-design in the history of biology. The simplicity of their approach — removing,
-covering, or exposing different parts of a seedling to light — yielded profound
-insights about plant [[plant-sensory-biology-and-intelligence]] that took decades to fully explain at the
-molecular level.
+Phototropism allows plants to optimize light capture for photosynthesis.
+Seedlings use it to orient toward light sources quickly. In forests, it helps
+plants compete for limited canopy light. Phototropism also interacts with shade
+avoidance — when a plant detects shading by neighbors (via low red-to-far-red
+ratio through phytochromes), it accelerates stem elongation.
 
-Darwin's plant research extended well beyond phototropism to include gravitropism
-(response to gravity), thigmotropism (response to touch), and other tropic
-movements. His systematic approach to studying plant behavior laid the groundwork
-for the entire field of plant sensory biology and challenged the prevailing notion
-that plants were passive organisms without sensory capabilities.
+Agriculturally, understanding phototropism helps greenhouse growers manipulate
+light direction and intensity for optimal growth. It also informs indoor
+farming and vertical agriculture lighting design, where directional light
+influences crop morphology and yield.
 
 ## See Also
 
-- [[phytochrome]]
+- [[phytochromes-and-plant-light-perception]]
 - [[photoperiodism]]
-- plant photoreceptors
+- [[plant-memory]]
+- Auxin

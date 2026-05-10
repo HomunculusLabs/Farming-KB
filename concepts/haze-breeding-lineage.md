@@ -99,7 +99,4 @@ careful selection of desirable phenotypes over many generations of breeding.
 ## See Also
 - [[durban-poison]]
 - [[cannabis-strain-breeding-techniques]]
-
-## See Also
-
 - [[sativa-haze-lineage-breeding-history]]

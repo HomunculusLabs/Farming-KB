@@ -63,6 +63,21 @@ composting strategies available to the [[biochar-production-guide|biochar]]
 produced as a byproduct can further enrich compost and build
 long-term soil carbon.
 
+## Composting Methods
+
+Several composting approaches suit different scales and contexts:
+
+- **Hot composting** (Berkeley method): Fast decomposition in 2–4 weeks
+  using a balanced mix of greens and browns, with regular turning to
+  maintain aerobic conditions and temperatures above 55°C.
+
+- **Cold composting**: Slow, passive accumulation of organic materials
+  over months. Takes 6–12 months for finished compost. Suitable for
+  small gardens. See [[vermicomposting]] for faster worm-based methods.
+
+- **Bokashi**: Anaerobic fermentation using effective microorganisms.
+  Handles dairy and meat scraps that other methods cannot.
+
 ## See Also
 
 - [[teaming-with-microbes-compost-biology]] for the science of compost decomposition

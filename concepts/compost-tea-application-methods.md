@@ -141,7 +141,6 @@ Ingham's field guide includes application rate sheets for specific industries:
 - **Tree fruit:** 30–50 gallons/acre, focus on foliar disease prevention
 - **Row crops:** 15–25 gallons/acre as soil drench at planting and sidedress
 - **Turf:** 20–30 gallons/acre, soil drench, 4–6 applications per season
-- **Greenhouse:** 5–10 gallons/1,000 sq ft, foliar and drench, every 2–3 weeks
 ## See Also
 - [[ingham-compost-tea-application-rates-and-timing]]
 - [[cho-fermented-mixed-compost-methods]]

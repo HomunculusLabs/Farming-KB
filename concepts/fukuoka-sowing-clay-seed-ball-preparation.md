@@ -130,11 +130,6 @@ germination in most places. This simplified approach has been adopted by
 guerrilla gardeners to seed dry, compacted urban sites.
 
 ## See Also
-
-- [[fukuoka-sowing-desert-greening-worldwide-results]] — Results achieved using
-these techniques - [[fukuoka-clay-pellet-desert-greening]] — Earlier description of clay pellet
-technique
-
-## See Also
-
+- [[fukuoka-sowing-desert-greening-worldwide-results]]
+- [[fukuoka-clay-pellet-desert-greening]]
 - [[fukuoka-clay-seed-ball-technique]]

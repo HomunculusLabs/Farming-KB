@@ -10,7 +10,7 @@ type: concept
 
 # Field Guide to Psilocybin Dosage, Extraction, and Cultivation
 
-This page covers the practical aspects of [[emcdda-psilocybin-mushroom-dose-and-effects]]
+This page covers the practical aspects of [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 consumption, chemical extraction, and [[mushroom-home-cultivation-history]] as described
 in F.C. Ghouled's 1972 field guide. The information reflects early
 1970s underground mycological practice and should be understood in

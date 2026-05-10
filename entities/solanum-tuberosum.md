@@ -64,16 +64,17 @@ Global average yield is approximately 20 tonnes/ha, though yields of 40–60 ton
 Raw potato tubers contain approximately 17% carbohydrates, primarily in the form of starch, and 2% protein. They are a significant source of vitamin C, potassium, and vitamin B6 in human diets.
 
 ## See Also
-
 - [[solanum-lycopersicum]]
-
-- solanum tuberosum
 - [[capsicum-annuum]]
 - [[datura-stramonium]]
 - [[manihot-esculenta]]
 - [[xanthosoma-sagittifolium]]
 - [[oxalis-tuberosa]]
 - [[tropaeolum-tuberosum]]
+- [[cucumis-sativus]]
+- [[cucurbita-pepo]]
+- [[allium-cepa]]
+- [[zingiber-officinale]]
 
 ## Merged: "Solanum lycopersicum"
 

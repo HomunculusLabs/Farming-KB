@@ -1,6 +1,6 @@
 ---
 
-title: JADAM jadam pesticide for aphids and mites and Mites
+title: JADAM Pesticide for Aphids and Mites
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -21,20 +21,20 @@ sources:
 
 # JADAM Pesticide for Aphids and Mites
 
-Aphids and mites are the most common and earliest pests in [[coleman-deep-organic-farming-philosophy]]. JADAM's approach uses [[jadam-wetting-agent-jwa]] as the delivery mechanism combined with [[jadam-herb-solution-jhs]] for the active insecticidal compound. Developed by Jeongho Choi and Youngsang Cho.
+Aphids and mites are the most common and earliest pests in organic farming. JADAM's approach uses [[jadam-wetting-agent-jwa]] as the delivery mechanism combined with [[jadam-herb-solution-jhs]] for the active insecticidal compound. Developed by Jeongho Choi and Youngsang Cho.
 
 ## Formulation (per 500L / 132 gal spray tank)
 
 **Standard recipe**:
 - JWA: 5L (1.3 gal)
-- [[comparison-jerusalem-artichoke-vs-potato]] JHS: 5L (1.3 gal)
+- Jerusalem artichoke JHS: 5L (1.3 gal)
 - Water: to 500L (132 gal) total volume
 
 **Strong recipe** (heavy infestation):
 - JWA: 10L (2.6 gal)
 - Jerusalem artichoke JHS: 10L (2.6 gal)
 
-**With [[hamilton-pest-and-disease-control-organic]]** (aphids + [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] present):
+**With disease control** (aphids + fungal disease present):
 - JWA: 5L + JS 1-2L + Jerusalem artichoke JHS 5L
 
 ## Preparation Steps
@@ -78,7 +78,7 @@ Aphids and mites are the most common and earliest pests in [[coleman-deep-organi
 ## Effectiveness Notes
 
 - JS is also directly effective on mites -- add 1-2L for dual pest+disease control
-- Adding 0.5kg fine [[jadam-red-clay-powder-method]] powder increases pesticidal effect
+- Adding 0.5kg fine red clay powder increases pesticidal effect
 - Jerusalem artichoke JHS can be replaced with pokeweed, gingko, or Korean pasque flower root
 - Controls: cotton aphid, turnip aphid, mealy plum aphid, spider mite, earth mite, silverleaf whitefly, broad mite, and many others
 

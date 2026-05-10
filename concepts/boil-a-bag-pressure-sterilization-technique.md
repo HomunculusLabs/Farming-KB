@@ -15,7 +15,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Jarrold S. "Indoor Mushroom Growing Technique: Boil a Bag." Mushroom cultivation guide.
-  - Stamets P (1993). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press, Berkeley, CA.
+  - Stamets P (1993). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press, Berkeley, CA.
   - Flegg PB (1978). "Pasteurization of mushroom compost." Journal of the Science of Food and Agriculture 29(7): 625-632.
   - San Antonio JP (1971). "A simple method for preparing grain spawn." Mushroom Science 8: 305-311.
 ---

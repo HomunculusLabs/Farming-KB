@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mollison, B. (1988). "Permaculture: A Designers' Manual." Tagari Publications.
-  - Holzer, S. (2010). "[[comparison-sepp-holzer-vs-biodynamic]]'s Permaculture." Chelsea Green Publishing.
+  - Holzer, S. (2010). "comparison-sepp-holzer-vs-biodynamic's Permaculture." Chelsea Green Publishing.
   - Harvey, M. (2011). "The Small-Scale Poultry Flock." Chelsea Green Publishing.
   - Hemenway, T. (2009). "Gaia's Garden." Chelsea Green Publishing, 2nd edition.
 aliases:

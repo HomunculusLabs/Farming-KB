@@ -21,7 +21,7 @@ The synthesis begins with 2,4,6-trimethoxybenzaldehyde (phloroglucinaldehyde).
 
 The duration of effects is 12 to 16 hours.
 
-The compound is described as being fully as potent as [[mescaline-entity]].
+The compound is described as being fully as potent as [[mescaline]].
 
 The long duration is a notable feature, exceeding that of many related compounds.
 
@@ -47,7 +47,7 @@ The compound was described as a simple and easily made material that might justi
 
 ## Comparison with TMA-2
 
-[[mescaline-entity]] but its activity in humans remains unknown.
+[[mescaline]] but its activity in humans remains unknown.
 
 ## Dosage and Duration
 
@@ -57,7 +57,7 @@ Duration: 12 - 16 h.
 
 ## See Also
 
-[[mescaline-entity]]
+[[mescaline]]
 
 [[4-tme-entity]]
 

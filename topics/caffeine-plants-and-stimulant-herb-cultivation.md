@@ -140,7 +140,6 @@ Modern commercial processing may use drum dryers or belt dryers instead of open 
 | Issue | Symptoms | Management |
 |-------|----------|------------|
 | *Phytophthora* root rot | Wilting, blackened roots, plant death | Well-draining soil, biochar amendment, *Trichoderma* inoculants |
-| Red spider mite (*Tetranychus*) | Bronzing of leaves, fine webbing | Neem oil, [[comparison-predatory-mites-vs-ladybugs-biocontrol]] (*Phytoseiulus*) |
 ## See Also
 
 - [[fermented-foods-and-beverages]]

@@ -81,7 +81,7 @@ or intercept versus [I].
 ## Catalytic Efficiency and the Diffusion Limit
 
 The turnover number kcat = Vmax/[E]total is molecules converted per active site
-per second, ranging from ~0.5 s^-1 (slow regulatory enzymes) to ~10^6 s^-1
+per second, ranging from ~0.5 s^-1 (slow regulatory [[singh-white-rot-fungi-lignin-modifying-enzymes|enzymes]]) to ~10^6 s^-1
 (carbonic anhydrase). Catalase achieves kcat ~ 4 x 10^7 s^-1, among the highest
 of all enzymes.
 

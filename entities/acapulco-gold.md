@@ -14,8 +14,8 @@ sources:
   - https://www.leafly.com/strains/acapulco-gold
   - https://www.wikileaf.com/strain/acapulco-gold/
   - Clarke, R.C. (1998). Hashish! Red Eye Press.
-  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
-  - Emboden, W. (1972). "Ritual Use of [[comparison-cannabis-sativa-vs-cannabis-indica]] L." Economic Botany, 26(3), 264-274.
+  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613-619.
+  - Emboden, W. (1972). "Ritual Use of comparison-cannabis-sativa-vs-cannabis-indica L." Economic Botany, 26(3), 264-274.
 created: 2026-05-07
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-07
 
 Acapulco Gold is a legendary heirloom sativa-dominant [[neurotropic-fungi-of-mexico]], near the Pacific coast city of Acapulco. Once one of the most famous cannabis varieties in the world, it was a primary staple of the [[growing-gourmet-north-american-reishi-species]] illicit cannabis market from the 1960s through the early 1980s. The strain is named for its golden-brown appearance when properly cured, reminiscent of a gold nugget.
 
-## Lineage [[myrcene]], [[acapulco-gold-cannabis]]
+## Lineage [[myrcene]], acapulco gold
 
 - [[panama-red]] — Another legendary Central American [[african-landrace-sativa-modern-hybrids]]
 - [[colombian-gold]] — Colombian landrace with similar [[ethnomycology-cultural-significance-sacred-fungi]]
@@ -106,3 +106,7 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
+
+## See Also
+
+- [[acapulco-gold-heirloom-mexican-sativa]]

@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - H. S. Stevens (2015). "Rhododendron maximum and related species of the southern Appalachians." Journal of the American Rhododendron Society 69(2): 45–62.
   - J. C. Raulston & F. T. McIntyre (1993). "Rhododendrons in the Landscape." Timber Press.
-  - USDA Forest Service (2024). "Silvics of [[psilocybin-north-america-pacific-northwest]]: Rhododendron maximum." fs.usda.gov.
+  - USDA Forest Service (2024). "Silvics of psilocybin-north-america-pacific-northwest: Rhododendron maximum." fs.usda.gov.
   - A. H. Lichter (1998). "Ecology of shrub-dominated riparian zones in the southern Appalachians." PhD Thesis, University of Georgia.
   - D. J. Mabberley (2017). "Mabberley's Plant-Book." Cambridge University Press.
 ---

@@ -12,7 +12,7 @@ sources:
   - Grose, S.O. & Olmstead, R.G. (2007). "Taxonomic revisions in the polyphyletic genus Tabebuia s.l." Systematic Botany, 32(3), 660–670.
   - Odonne, G. et al. (2017). "Medicinal plants from the Guiana high plateau: ethnobotanical survey." Journal of Ethnopharmacology, 195, 60–71.
   - Udenigwe, C.C. et al. (2004). "Antimicrobial activity of lapachol." Phytotherapy Research, 18(7), 565–568.
-  - Lock, O. (2011). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] from Plants of the Tabebuia Genus." Studies in Natural Products Chemistry, 36, 197–225.
+  - Lock, O. (2011). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants from Plants of the Tabebuia Genus." Studies in Natural Products Chemistry, 36, 197–225.
   - Marson, J.D. et al. (2013). "Heartwood anatomy and density of Handroanthus impetiginosa." IAWA Journal, 34(4), 407–418.
 ---
 

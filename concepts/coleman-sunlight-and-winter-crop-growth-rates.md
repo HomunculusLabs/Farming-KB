@@ -3,7 +3,7 @@ title: Sunlight and coleman sunlight and winter crop growth rates Growth Rates
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - Eliot Coleman
+    title: The coleman-claytonia-winter-harvest-cultivation Handbook - Eliot Coleman
     author: Eliot Coleman
 updated: 2026-05-08
 type: concept

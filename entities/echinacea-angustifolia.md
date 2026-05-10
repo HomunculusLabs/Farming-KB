@@ -38,7 +38,7 @@ By the 1890s, *Echinacea* preparations were among the most prescribed medicines 
 
 Modern research has identified **alkylamides** (specifically dodeca-2E,4E,8Z,10E/Z-tetraenoic acid isobutylamides) as the primary [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for immunomodulatory activity. *E. angustifolia* root typically contains higher alkylamide concentrations than *E. purpurea*, supporting its reputation for greater potency.
 
-## Taxonomy
+## Taxonomy and Morphology
 
 - **Kingdom:** Plantae
 - **Division:** Magnoliophyta
@@ -54,8 +54,6 @@ The species epithet *angustifolia* (Latin: "narrow-leaved") distinguishes it fro
 
 The genus *Echinacea* comprises 10 species, all endemic to North America east of the Rocky Mountains.
 *E. angustifolia* is the most western species in the genus, adapted to the drier conditions of the Great Plains compared to the more eastern *E. purpurea* and *E. pallida*.
-
-## Morphology
 
 *E. angustifolia* is a drought-tolerant perennial, 30–60 cm tall at maturity. The stems are erect, unbranched, and covered with coarse hairs (hirsute). The taproot is thick, fleshy, and aromatic, reaching depths of 60–120 cm — this is the primary medicinal plant part.
 
@@ -114,5 +112,8 @@ Wild harvesting has been a significant conservation concern. Commercial demand p
 - [[astragalus-membranaceus]] — Another deep-rooted immunomodulatory herb used in traditional medicine
 - [[spilanthes-acmella]] — Spilanthes, an immunostimulatory herb with a different mechanism
 - [[taraxacum-officinale]] — Dandelion, another deep-rooted Asteraceae with traditional medicinal use
-- goldenseal — Hydrastis canadensis, another overharvested [[halpern-sacramental-peyote-and-native-american-church]] medicinal plant
+- [[hydrastis-canadensis]] — Goldenseal, another overharvested North American medicinal plant
 - [[verbascum-thapsus]] — Mullein, a co-administered herb for respiratory conditions in traditional practice
+- [[echinacea-purpurea]] — Purple coneflower, the most commonly cultivated Echinacea species
+- [[inula-helenium]] — Elecampane, another Asteraceae with immunomodulatory properties
+- [[sambucus-nigra]] — Elderberry, widely used alongside Echinacea for cold and flu support

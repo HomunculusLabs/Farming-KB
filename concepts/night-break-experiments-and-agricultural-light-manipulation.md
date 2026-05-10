@@ -1,4 +1,3 @@
-
 # Night-Break Experiments and Agricultural Light Manipulation
 
 ## Overview
@@ -49,6 +48,41 @@ activation, minimising energy waste. Research continues into
 optimising the timing, duration, and spectral composition of
 night-break treatments for maximum efficiency across different
 crop species.
+
+## Photoperiodism Mechanisms and Phytochrome
+
+Plants detect day length through the phytochrome pigment system,
+which exists in two interconvertible forms. Pr (phytochrome red)
+absorbs red light (~660 nm) and converts to Pfr (phytochrome
+far-red), the biologically active form. Pfr absorbs far-red
+light (~730 nm) and reverts to Pr. During daylight, Pfr
+accumulates; during the dark period, Pfr slowly reverts to Pr.
+The plant effectively measures the duration of darkness by
+tracking how much Pfr remains. A brief night-break of red light
+replenishes Pfr, resetting the plant's internal clock and
+tricking it into perceiving a short night. This molecular
+mechanism underpins all photoperiodic responses including
+flowering, tuberisation, and dormancy induction in temperate
+species. See [[cannabis-photoperiodism-and-light-cycles]] for
+a detailed exploration of these pathways in crop contexts.
+
+## Greenhouse Applications and Crop Responses
+
+Commercial greenhouse operations use night-break lighting to
+control flowering across dozens of crop species. Chrysanthemums,
+classic short-day plants, are prevented from flowering by
+four-hour night breaks using incandescent or LED fixtures,
+allowing growers to bulk up vegetative growth before triggering
+bud set. Poinsettias require similar treatment through autumn
+to delay flowering for the holiday market. Long-day crops like
+spinach and lettuce benefit from low-intensity lighting that
+extends the effective daylength, preventing premature bolting
+in spring. Modern systems use programmable LED arrays that
+target the 660 nm red wavelength exclusively, cutting energy
+costs by up to 80% compared to broad-spectrum lighting. The
+principles from [[cotter-growing-space-design-fruiting-rooms]]
+apply equally to greenhouse lighting layout, ensuring uniform
+light distribution across the canopy for consistent responses.
 
 ## See Also
 

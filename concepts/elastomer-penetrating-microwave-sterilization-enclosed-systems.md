@@ -141,7 +141,6 @@ The elastomer-penetration approach has constraints:
   arcing problems
 - Sterilization effectiveness must be validated for each specific configuration
 - The trace water requirement for spore kill still applies within enclosed systems
-
 ## See Also
 
 - [[microwave-sterilizable-access-port-nasa-space-biology]] — Full MSAP system

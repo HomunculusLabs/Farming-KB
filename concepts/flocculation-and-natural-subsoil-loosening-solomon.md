@@ -33,7 +33,7 @@ additional benefit in exchange for a heap of effort. His reasoning rests
 partly on the flocculation principle: over time, the second foot will become
 looser without any extra effort on the gardeners part through two natural
 mechanisms working in concert with proper [[jadam-soil-surface-management-no-till]]. This position
-puts Solomon at odds with John Jeavons and the [[biointensive-gardening-and-minifarming]]
+puts Solomon at odds with John Jeavons and the biointensive gardening and minifarming
 movement, which recommends double-digging as essential practice. Solomon
 acknowledges that double-dug beds can produce excellent results but questions
 whether the return on labor justifies the investment, particularly for

@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [seeds, gardening]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 

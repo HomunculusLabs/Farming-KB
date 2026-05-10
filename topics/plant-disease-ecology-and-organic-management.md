@@ -128,7 +128,6 @@ alter entire industries.
 Wheat rusts, rice diseases, fruit tree blights, and vegetable mildews
 have repeatedly changed breeding priorities. The history of agriculture
 is partly a history of pathogens adapting to uniform host populations.
-
 ## See Also
 
 - [[bacterial-plant-diseases]]

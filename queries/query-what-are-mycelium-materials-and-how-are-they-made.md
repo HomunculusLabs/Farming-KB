@@ -114,15 +114,6 @@ Yes, the basic process is accessible with minimal equipment:
 Packaging is already mainstream — IKEA and Dell have shipped products in mycelium packaging at scale. Fashion is in the premium phase — mycelium leather goods sell at luxury price points. Building materials are in the regulatory and certification phase, with mycelium insulation panels expected to achieve broad building code approval by 2028–2030. Cost parity with conventional materials is expected for some product categories (packaging, insulation) within the next 3–5 years.
 
 ## See Also
-
 - [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]
 - [[comparison-mycelium-materials-vs-bioplastics-pla-pha]]
-
-- [Mycelium Materials and Fungal Biomanufacturing](../topics/mycelium-materials-and-fungal-biomanufacturing.md) — full technical deep-dive
-- [Mycelium Materials vs Synthetic Bioplastics](../comparisons/comparison-mycelium-materials-vs-bioplastics-pla-pha.md) — comparison with PLA and PHA
-- [Mycelium Networks and Fungal Ecology](../topics/mycelium-networks-and-fungal-ecology.md) — the biology behind the materials
-- [Oyster [[mushroom-cultivation]] and Species Guide](../topics/oyster-mushroom-cultivation-and-species-guide.md) — growing the fungi used in materials
-
-## See Also
-
 - [[query-what-are-endophytic-fungi-and-why-do-they-matter]]

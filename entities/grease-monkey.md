@@ -19,7 +19,7 @@ sources:
   - AllBud Staff (2024). "Grease Monkey Strain Review." AllBud.com.
   - Clarke, R.C. & Merlin, M.D. (2013). Cannabis: Evolution and Ethnobotany. University of California Press.
   - Small, E. (2017). Cannabis: A Complete Guide. CRC Press.
-  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
+  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
 ---
 
 # Grease Monkey
@@ -119,5 +119,5 @@ Cross-breeding derivatives include **Grease Monkey OG** (Grease Monkey × OG Kus
 ## See Also
 
 - `[[chemdawg]]` — Grandparent strain in the Gorilla Glue lineage
-- `[[og-kush]]` — Foundational genetic contributor to the Cookies family
+- `[[og-kush-cannabis-entity]]` — Foundational genetic contributor to the Cookies family
 - `[[sour-diesel]]` — Diesel terpene ancestor in the Gorilla Glue pedigree

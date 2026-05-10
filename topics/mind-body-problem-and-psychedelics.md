@@ -145,6 +145,5 @@ A vision can feel certain while still being psychologically symbolic rather than
 The existence of neural correlates also does not prove that consciousness is fully explained by neuroscience.
 The strongest interpretations avoid both naive reductionism and naive supernaturalism.
 They treat psychedelic states as disciplined evidence requiring context, comparison, and critical interpretation.
-
 ## See Also
 - [[blesching-cannabis-mind-body-medicine]] problem and psychedelics

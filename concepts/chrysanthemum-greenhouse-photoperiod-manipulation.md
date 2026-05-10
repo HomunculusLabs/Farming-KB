@@ -120,3 +120,7 @@ greenhouse infrastructure, matching the response group to the desired
 production schedule. This cultivar diversity allows staggered planting and
 harvesting programs that maximize greenhouse utilization across the calendar
 year.
+
+## See Also
+
+- [[commercial-photoperiod-manipulation-agriculture]]

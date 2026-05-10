@@ -98,6 +98,8 @@ The species' genome has been partially characterized through transcriptomic sequ
 
 ## See Also
 
+- [[tortula-ruralis]]
+
 - [[syntrichia-ruralis]]
 - [[ceratodon-purpureus]]
 - [[grimmia-pulvinata]]

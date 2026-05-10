@@ -11,14 +11,14 @@ sources: []
 
 ## Overview
 
-Lysergic acid diethylamide (LSD) is one of the most potent psychoactive substances known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist Albert Hofmann in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance.
+Lysergic acid diethylamide (LSD) is one of the most potent psychoactive substances known — active at doses as low as 25 micrograms. Discovered accidentally by Swiss chemist Albert Hofmann in 1943, LSD became a defining substance of the 20th century, shaping neuroscience, psychiatry, counterculture, and drug policy. Its history spans from legitimate pharmaceutical research through CIA mind-control programs to underground chemistry and modern clinical renaissance. (see [[lsd-reference]]).
 
-This page covers the history of LSD — its discovery, development, cultural impact, and synthesis. Detailed synthesis procedures are not provided, as LSD is a Schedule I controlled substance and its synthesis requires advanced organic chemistry expertise and controlled precursor chemicals.
+This page covers the history of LSD — its discovery, development, cultural impact, and synthesis. Detailed synthesis procedures are not provided, as LSD is a Schedule I controlled substance and its synthesis requires advanced organic chemistry expertise and controlled precursor chemicals. (see [[dm-reference]]).
 
 ## Discovery by Albert Hofmann
 
 ### The Context
-In the 1930s, Swiss pharmaceutical company Sandoz was researching ergot alkaloids — compounds derived from the ergot fungus ([[bloomfield-ergot-claviceps-purpurea-ergotism]]) that grows on rye. Arthur Stoll, head of Sandoz's pharmaceutical-chemical department, had isolated ergotamine in 1918. His protégé, Albert Hofmann, was tasked with synthesizing derivatives of lysergic acid.
+In the 1930s, Swiss pharmaceutical company Sandoz was researching ergot alkaloids — compounds derived from the ergot fungus (Claviceps purpurea) that grows on rye. Arthur Stoll, head of Sandoz's pharmaceutical-chemical department, had isolated ergotamine in 1918. His protégé, Albert Hofmann, was tasked with synthesizing derivatives of lysergic acid. (see [[roland-griffiths]]).
 
 ### LSD-25
 On November 16, 1938, Hofmann synthesized the 25th compound in his lysergic acid amide series: lysergic acid diethylamide, or LSD-25. Initial pharmacological testing showed mild effects on uterine contractions in animals, and the compound was shelved as not particularly interesting.
@@ -47,7 +47,7 @@ Between 1950 and 1966, over 1,000 clinical papers on LSD were published. Researc
 ### Key Researchers
 - **Humphry Osmond**: Coined the term "psychedelic" (mind-manifesting), researched LSD for alcoholism in Canada
 - **Stanislav Grof**: Developed LSD psychotherapy methods in Czechoslovakia, later became a leading transpersonal psychologist
-- **Aldous Huxley**: Wrote "The Doors of Perception" (1954) about his mescaline experiences; advocated for [[mckenna-suppression-psychedelic-research-lsd-therapy]]
+- **Aldous Huxley**: Wrote "The Doors of Perception" (1954) about his mescaline experiences; advocated for psychedelic research
 - **Myron Stolaroff**: Researched LSD's potential for creativity enhancement
 - **Timothy Leary**: Harvard professor who began researching psilocybin and LSD, later became the most prominent advocate of psychedelic use
 
@@ -76,7 +76,7 @@ Timothy Leary and Richard Alpert were fired from Harvard in 1963 for distributin
 Ken Kesey (author of "One Flew Over the Cuckoo's Nest") and the Merry Pranksters conducted cross-country "Acid Tests" — large, chaotic parties where LSD was distributed freely, accompanied by light shows and music. These events were foundational to the emerging counterculture.
 
 ### The Summer of Love (1967)
-LSD became central to the 1967 Summer of Love in [[shipibo-san-francisco-ceremonial-center-ucayali]]'s Haight-Ashbury district. The Grateful Dead, Jefferson Airplane, and other bands provided soundtracks for mass psychedelic experiences.
+LSD became central to the 1967 Summer of Love in San Francisco's Haight-Ashbury district. The Grateful Dead, Jefferson Airplane, and other bands provided soundtracks for mass psychedelic experiences.
 
 ### Backlash
 Public concern about LSD increased dramatically:
@@ -86,7 +86,7 @@ Public concern about LSD increased dramatically:
 
 ## Criminalization
 
-In 1966, California became the first state to ban LSD. The US federal government followed in 1968, classifying LSD as a Schedule I controlled substance under the Controlled [[controlled-substances-act-and-psychedelic-research]] of 1970. Sandoz ceased production in 1966.
+In 1966, California became the first state to ban LSD. The US federal government followed in 1968, classifying LSD as a Schedule I controlled substance under the Controlled Substances Act of 1970. Sandoz ceased production in 1966.
 
 ## Underground Chemistry
 
@@ -102,8 +102,8 @@ After criminalization, LSD production moved entirely underground:
 ### Clinical Renaissance
 Since the 2000s, there has been renewed interest in LSD for therapeutic use:
 
-- MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies) has supported research
-- Modern [[mushroom-cancer-clinical-trials-overview]] are investigating LSD for anxiety, depression, cluster headaches, and end-of-life distress
+- MAPS (Multidisciplinary Association for Psychedelic Studies) has supported research
+- Modern clinical trials are investigating LSD for anxiety, depression, cluster headaches, and end-of-life distress
 - Switzerland has permitted limited therapeutic use of LSD under compassionate use protocols
 
 ### Cultural Presence
@@ -113,5 +113,3 @@ LSD remains culturally significant in art, music, literature, and technology cul
 
 - [[psychedelic-plants-legal-status]] — current legal status of LSD and other psychedelics
 - [[psilocybin-extraction-guide]] — extraction methods for psilocybin, another classic psychedelic
-
-See also: [[lsd-history]]

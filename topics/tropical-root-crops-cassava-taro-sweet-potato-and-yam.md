@@ -132,7 +132,6 @@ Taro produces a large underground corm that is rich in starch, along with edible
 1. **Wetland preparation**: Paddies are prepared similarly to rice paddies. Soil is puddled, leveled, and flooded to 5–15 cm depth. [[cervantes-organic-amendments-chart]] (compost, manure) are incorporated before planting.
 2. **Planting material**: The "huli" — the top 1–2 cm of the corm with the attached petiole base — is the standard planting material. Cormels of 50–150 g also work.
 3. **Water management**: Water depth is critical. Young plants need shallow water (5 cm), deepening to 15–30 cm as plants grow. Drain paddies 3–4 weeks before harvest to encourage corm maturation and facilitate harvest.
-4. **Fertilization**: Taro is a heavy feeder. Organic systems apply 10–20 t/ha of [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]. NPK requirements approximate 120-60-120 kg/ha.
 ## See Also
 
 - [[nut-tree-cultivation-for-permaculture-food-forests]]

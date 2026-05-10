@@ -139,7 +139,6 @@ For home cultivators, a simplified medium using readily available ingredients:
 - **Washing soda** (sodium carbonate): 4 g/L (or make by heating baking soda at 200°C for 1 hour)
 - **[[jadam-sea-salt-and-mineral-solutions]]**: 1 g/L (provides trace minerals)
 - **Potassium nitrate** (saltpeter): 2 g/L
-- **Potassium phosphate**: 0.5 g/L
 ## See Also
 
 - duckweed-and-azolla-as-livestock-feed-and-biofertilizer — other micro-aquatic protein sources

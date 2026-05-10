@@ -111,3 +111,7 @@ Current areas of active research in sclerotia biology include:
 - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
 - Willetts, H.J. (1978). "Sclerotium formation." In: The Filamentous Fungi, Vol. 3, pp. 103–129. Edward Arnold.
 - Coley-Smith, J.R., Cooke, R.C. (1971). "Survival and germination of fungal sclerotia." Annual Review of Phytopathology, 9, 65–92.
+
+## See Also
+
+- [[mushroom-sclerotia-formation]]

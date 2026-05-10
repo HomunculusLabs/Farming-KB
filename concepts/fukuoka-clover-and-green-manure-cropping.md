@@ -3,7 +3,7 @@ title: Fukuoka Clover and Green Manure Cropping
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  sources: []
+  - "raw/papers/marijuana-horticulture-cervantes.md"
   - masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 type: concept
 tags: [fukuoka]

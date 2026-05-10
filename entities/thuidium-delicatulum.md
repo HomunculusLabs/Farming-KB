@@ -98,6 +98,8 @@ The genus name Thuidium is derived from the Greek name for a kind of moss, possi
 
 ## See Also
 
+- [[thuidium-tamariscinum]]
+
 - [[hypnum-cupressiforme]]
 - [[dicranum-scoparium]]
 - [[bryum-argenteum]]

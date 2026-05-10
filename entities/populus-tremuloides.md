@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Mitton, J.B. & Grant, M.C. (1996). "Genetic variation and the natural history of quaking aspen." BioScience, 46(1), 25-31.
-  - DeByle, N.V. & Winokur, R.P. (1985). "Aspen: Ecology and Management in the Western [[dmt-containing-plants-united-states-halpern]]." USDA Forest Service General Technical Report RM-119.
+  - DeByle, N.V. & Winokur, R.P. (1985). "Aspen: Ecology and Management in the Western dmt-containing-plants-united-states-halpern." USDA Forest Service General Technical Report RM-119.
   - Kemperman, J.A. & Barnes, B.V. (1976). "Clone size in American aspens." Canadian Journal of Botany, 54(22), 2605-2609.
 ---
 

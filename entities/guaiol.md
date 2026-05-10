@@ -22,7 +22,7 @@ updated: 2026-04-28
 sources:
   - Cascon, S.C. & Gilbert, B. (2000). "Characterization of the chemical composition of oleoresins of Copaifera langsdorffii." Journal of permaculture-designers-manual-essential-oil-plants Research 12(5): 595-598.
   - Legault, J. & Pichette, A. (2007). "Potentiating effect of β-caryophyllene on anticancer activity of α-humulene, isocaryophyllene and paclitaxel." Journal of Pharmacy and Pharmacology 59(12): 1643-1647.
-  - Zheng, G. et al. (2018). "The aroma components of cannabis." In: [[comparison-cannabis-sativa-vs-cannabis-indica]] L. — Phytochemistry, Pharmacology, Omics and Applications. Springer.
+  - Zheng, G. et al. (2018). "The aroma components of cannabis." In: comparison-cannabis-sativa-vs-cannabis-indica L. — Phytochemistry, Pharmacology, Omics and Applications. Springer.
   - Gertsch, J. et al. (2008). "Cannabimimetic effects of β-caryophyllene in the brain." Proceedings of the National Academy of Sciences 105(26): 9099-9104.
   - Fine, A.B. (2015). "Guaiol derivatives and their potential as pharmaceutical agents." Natural Product Communications 10(10): 1705-1710.
 ---

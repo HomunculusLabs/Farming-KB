@@ -5,18 +5,18 @@ updated: 2026-04-20
 type: concept
 tags: [reference]
 sources:
-  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual-soil-and-humus-management|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
 ---
 
 # Organic Lawn Care
 
 updated: 2026-04-18
 
-Sowing seed is the cheapest way to lay a new lawn and allows you to control the different types of grasses making up the lawn. The only disadvantage is that a seed lawn takes three months to establish if sown in spring; if sown in fall, it should not be used until the following spring. A turf lawn is an "instant lawn" — it looks good right away and is ready for use about six weeks after laying if put down in spring.
+Sowing seed is the cheapest way to lay a new lawn and allows you to control the different types of grasses making up the lawn. The only disadvantage is that a seed lawn takes three months to establish if sown in spring; if sown in fall, it should not be used until the following spring. A turf lawn is an "instant lawn" — it looks good right away and is ready for use about six weeks after laying if put down in spring. (see [[teaming-with-microbes-tilling-damage-to-fungal-networks]]).
 
 ## Sowing a Seed Lawn
 
-Grass seed should be sown in early spring or early fall, when some wet weather can be expected. Avoid the driest months.
+Grass seed should be sown in early spring or early fall, when some wet weather can be expected. Avoid the driest months. (see [[spent-mushroom-substrate-applications]]).
 
 **Step 1 — Prepare a stale seedbed.** Rake the area roughly with the back of a fork to take out any local undulations before consolidating the soil.
 

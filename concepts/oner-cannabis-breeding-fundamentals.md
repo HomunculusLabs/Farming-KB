@@ -1,11 +1,11 @@
 ---
-title: Cannabis Breeding Fundamentals - Selecting Parent Plants
+title: [[cannabis-breeding-fundamentals]] - Selecting Parent Plants
 created: 2026-04-24
 updated: 2026-04-24
 type: concept
 tags: [cannabis, breeding, genetics, cultivation]
 sources:
-  - "S.T. Oner - Cannabis Sativa Volume 3: The Essential Guide"
+  - "S.T. Oner - Cannabis cannabis-sativa-dominant-growing-challenges|Sativa Volume 3: The Essential Guide"
 ---
 
 # [[cannabis-backcrossing]]

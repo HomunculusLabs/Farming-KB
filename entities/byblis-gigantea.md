@@ -98,6 +98,8 @@ Population surveys indicate that remaining B. gigantea populations are highly fr
 
 ## See Also
 
+- [[stapelia-gigantea]]
+
 - [[byblis-liniflora]]
 - [[drosera-rotundifolia]]
 - [[drosera-capensis]]

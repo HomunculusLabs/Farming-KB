@@ -16,7 +16,7 @@ sources:
 
 # Psilocybe tibeticensis
 
-**Psilocybe tibeticensis** is a [[spore]]s
+**psilocybe tibeticensis** is a [[spore]] s
 - [[psilocin]] as the primary psychoactive alkaloids. The blue bruising reaction is typically strong and readily observable, suggesting substantial alkaloid content. No quantitative analytical data has been published for this species.
 
 ## Ecology and Adaptation
@@ -31,12 +31,15 @@ In its alpine habitat, P. tibeticensis could potentially be confused with P. sem
 
 P. tibeticensis represents an important biogeographical record for the genus, demonstrating that psilocybin-containing fungi have colonized extreme high-altitude environments. The species is poorly known in Western mycological circles and would benefit from comprehensive molecular phylogenetic study to determine its relationships within the genus and assess whether alpine Psilocybe populations represent distinct evolutionary lineages.
 
+See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
+See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
+
 ## See Also
 
 - psilocybin-mushroom-potency-comparison-by-species
 ## Practical Applications
 
-Psilocybe tibeticensis has a range of practical applications that make it relevant to
+psilocybe tibeticensis has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -76,7 +79,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Psilocybe tibeticensis. These include both technical difficulties and broader systemic
+psilocybe tibeticensis. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.

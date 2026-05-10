@@ -4,8 +4,7 @@ created: 2026-04-17
 updated: 2026-04-20
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 
 # Straw Pasteurization Methods

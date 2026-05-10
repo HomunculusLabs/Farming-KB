@@ -99,7 +99,7 @@ and the aerodynamics of spore liberation.
 - [[ingold-cecil-t]]
 - [[terence-ingold-mycologist]]
 
-- [Terence Ingold (Mycologist)](terence-ingold-mycologistfungal-spore-biology Biology](fungal-spore-biofungal-chemical-signalingal Signaling](fungal-chemical-smycelium-networkMycelium Network](mycelium-network.md)
+- Terence Ingold (Mycologist)
 
 ## References
 

@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [comparison, cannabis, genetics, flowering]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 
@@ -118,10 +117,7 @@ Some breeders have developed "autoflowering photoperiod" strains that combine au
 genetics with some photoperiod sensitivity, though these remain experimental. More commonly,
 growers use a "12/12 from seed" technique with photoperiod strains to force very small, fast
 plants that mimic the autoflowering timeline while retaining photoperiod genetics.
-## See Also
 
+## See Also
 - [[autoflowering-cannabis]]
-
-## See Also
-
 - [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]]

@@ -126,6 +126,8 @@ entire ecological communities.
 
 ## See Also
 
+- [[mycoremediation-fungal-bioremediation]]
+
 - [[cotter-mycoremediation-overview]]
 - [[fungal-bioremediation-mechanisms]]
 - fungal-carbon-substrate-utilization-efficiency

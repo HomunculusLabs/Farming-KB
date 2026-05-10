@@ -134,11 +134,6 @@ experiment would test whether animals can truly return to a natural
 state and what form such a return would take.
 
 ## See Also
-
-- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]] for Fukuoka's critique of inductive methodology
-- [[fukuoka-textdoc-semi-wild-vegetable-cultivation]] for the
-parallel approach to plant cultivation
-
-## See Also
-
+- [[fukuoka-textdoc-intuitive-reasoning-vs-inductive-experimentation]]
+- [[fukuoka-textdoc-semi-wild-vegetable-cultivation]]
 - [[fukuoka-textdoc-natural-livestock-open-grazing]]

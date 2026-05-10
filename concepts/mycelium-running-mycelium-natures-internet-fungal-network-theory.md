@@ -137,14 +137,3 @@ self-repairing, and progressively improving ecosystem function over time. Stamet
 envisions deploying mycelial networks as planetary infrastructure for ecological
 recovery, climate mitigation, and sustainable agriculture — living systems that
 continue restoring function for centuries after initial intervention.
-
-## See Also
-
-- [[mycelium-running-mycelium-sentient-network-bioneering]]
-
-- [[mycelium-running-fungal-evolution-geologic-timescale]]
-- [[mycelium-running-stamets-fungal-ecology-networks]]
-- [[mycelium-as-natures-internet]]
-- [[mycelium-running-insect-fungal-mutualism]]
-- [[fungal-hyphae-and-mycelium]]
-- [[mycelium-running-multi-kingdom-bioremediation]]

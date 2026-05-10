@@ -10,11 +10,11 @@ sources: [/Users/t3rpz/wiki/raw/papers/cotter-organic-mushroom-farming-mycoremed
 
 # Hypsizygus tessulatus
 
-**Hypsizygus tessulatus**, commonly known as the elm oyster, buna-shimeji, or hon-shimeji, is a highly prized edible mushroom in the family Lyophyllaceae. Native to temperate hardwood forests ooyster-mushroomsAmerica, and East Asia, it has become a commercially important cultivated mushroom, particularly in Japan where it ranks among the top cultivated species by market value. Despite the common name "elm oyster," it is not closely related to true oyster mushrooms (*Pleurotus* spp.) and belongs to a different family and order.
+**Hypsizygus tessulatus**, commonly known as the elm oyster, buna-shimeji, or hon-shimeji, is a highly prized edible mushroom in the family Lyophyllaceae. Native to temperate hardwood forests ooyster-mushroomsAmerica, and East Asia, it has become a commercially important cultivated mushroom, particularly in Japan where it ranks among the top cultivated species by market value. Despite the common name "elm oyster," it is not closely related to true [[oyster-mushrooms]] ms]] ms]] (*Pleurotus* spp.) and belongs to a different family and order.
 
 ## Taxonomy and Clarification
 
-* **Division:*[[biological-efficiency]]rmal cap development and pigmentation. Air velocity should be low to prevent drying of small pins.
+* **Division:*[[biological-efficiency]] rmal cap development and pigmentation. Air velocity should be low to prevent drying of small pins.
 * **Harvest:** 14–21 days after pin initiation. Entire clusters are harvested by cutting at the base. Commercial yields range from 80–150% biological efficiency.
 
 ### Key Cultivation Challenges
@@ -42,7 +42,7 @@ Buna-shimeji is nutritionally comparable to other premium cultivated mushrooms:
 * **β-glucans:** *Hypsizygus* polysaccharides (designated HT-F2, HT-F3 fractions) demonstrate immunomodulatory activity, enhancing macrophage function and NK cell activity. Oral administration in mice enhanced tumor rejection in sarcoma-180 models.
 * **Hypsiziprenol A₉:** A polyisoprenoid compound isolated from *H. marmoreus* with reported anti-inflammatory activity through suppression of COX-2 and iNOS expression in macrophages.
 * **Ergothibacillus-subtiliscant content of this antioxidant amino acid (1–3 mg/100g fresh), comparable to oyster mushrooms.
-* **Antimicrobial peptides:** Low-molecular-weight proteins with activity against Gram-positive bacteria, including *Staphylococcus aureus* and *Bacillus subtilis*.
+* **Antimicrobial peptides:** Low-molecular-weight proteins with activity against Gram-positive bacteria, including *[[staphylococcus-aureus]]* and *[[bacillus-subtilis]]*.
 * **Anti-obesity effects:** Animal studies suggest *H. marmoreus* extracts reduce visceral fat accumulation, improve lipid metabolism, and enhance insulin sensitivity, possibly through activation of AMPK pathway and modulation of adipokine secretion.
 
 ## Culinary Uses

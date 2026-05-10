@@ -104,7 +104,6 @@ vegetables, meats, poultry, seafood, and soups. These foods must be
 processed at temperatures of 240-250°F to destroy *C. botulinum* spores,
 which can survive boiling temperatures. Pressure canners achieve these
 temperatures by trapping steam, typically operating at 10-15 PSI above
-atmospheric pressure. Altitude adjustments are critical for both methods:
 ## See Also
 
 - [[canning-and-preserving]]

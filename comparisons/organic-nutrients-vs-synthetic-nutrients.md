@@ -1,6 +1,6 @@
 ---
 
-title: Organic organic nutrients vs synthetic nutrients Nutrients
+title: Organic Nutrients vs Synthetic Nutrients
 created: 2026-04-11
 updated: 2026-04-12
 type: comparison
@@ -30,7 +30,7 @@ sources:
 
 # Organic Nutrients vs Synthetic Nutrients
 
-The organic vs synthetic nutrient debate shapes every growing decision on a homestead. This comparison focuses on practical outcomes for soil health, plant quality, cost, and long-term sustainability in the context of regenerative homesteading and [[query-how-does-no-till-cannabis-cultivation-work]].
+The organic vs synthetic nutrient debate shapes every growing decision on a homestead. This comparison focuses on practical outcomes for soil health, plant quality, cost, and long-term sustainability in the context of regenerative homesteading and cannabis cultivation.
 
 ## At a Glance
 
@@ -40,13 +40,13 @@ The organic vs synthetic nutrient debate shapes every growing decision on a home
 | **Availability to plants** | Slow — must be broken down by soil biology | Immediate — water-soluble, plant-ready |
 | **Speed of response** | Days to weeks | Hours to days |
 | **Soil biology impact** | Feeds and builds [[soil-food-web-nutrient-cycling]] | Damages soil biology at high concentrations |
-| **Soil structure** | Improves (adds [[hamilton-composting-and-organic-matter-management]]) | Degrades over time (salt buildup, compaction) |
+| **Soil structure** | Improves (adds organic matter) | Degrades over time (salt buildup, compaction) |
 | **Nutrient completeness** | Broad spectrum + trace minerals + growth hormones | NPK-focused; trace minerals need separate products |
 | **pH sensitivity** | Buffered by organic matter; more forgiving | Exact pH required for uptake; lockout common |
 | **Leaching risk** | Low (slow release, held by CEC) | High (water-soluble, washes through) |
 | **Burn risk** | Very low | High (easy to over-fertilize) |
 | **Cost per grow** | Moderate upfront, decreases over time | Higher ongoing (bottled nutrients every cycle) |
-| **Taste/aroma (cannabis)** | Superior [[cannabis-terpene-profiles-sativa]], complex flavors | Adequate but less complex |
+| **Taste/aroma (cannabis)** | Superior terpene profiles, complex flavors | Adequate but less complex |
 | **Environmental impact** | Builds soil carbon, closed-loop | Fossil fuel inputs, runoff pollution, soil degradation |
 | **Ease of use** | Requires understanding of biology and timing | Simple label instructions, ppm/EC metering |
 | **Best for** | Living soil, regenerative, homesteading, long-term | Hydroponics, rapid grows, beginners wanting simplicity |
@@ -55,7 +55,7 @@ The organic vs synthetic nutrient debate shapes every growing decision on a home
 
 ### How Each Works
 
-**Organic nutrients** feed the [[soil-food-web-nutrient-cycling]], not the plant directly. Bacteria and fungi decompose organic matter (compost, meals, manures) into plant-available forms. [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] transport nutrients directly to roots. This process is biological, self-regulating, and produces complex nutrient profiles. See [[cannabis-living-soil-guide]] for the living soil approach.
+**Organic nutrients** feed the [[soil-food-web-nutrient-cycling]], not the plant directly. Bacteria and fungi decompose organic matter (compost, meals, manures) into plant-available forms. Mycorrhizal fungi transport nutrients directly to roots. This process is biological, self-regulating, and produces complex nutrient profiles. See [[cannabis-living-soil-guide]] for the living soil approach.
 
 **Synthetic nutrients** are water-soluble mineral salts that plants absorb directly through roots. No microbial mediation is needed. The grower controls exactly what the plant receives via ppm/EC targets. This is the standard approach in hydroponics and many commercial grows.
 
@@ -115,7 +115,7 @@ For a regenerative homestead, organic nutrients are the clear choice. They build
 - [[cannabis-plant-nutrition]] — Organic nutrient sources for all elements
 - [[cannabis-living-soil-guide]] — Complete living soil setup and management
 - [[soil-food-web-nutrient-cycling]] — The biology that makes organic nutrition work
-- [[soil-fertility-management]] — Solomon's COF recipe and [[knf-soil-and-mineral-management]]
+- [[soil-fertility-management]] — Solomon's COF recipe and mineral management
 - [[knf-preparations]] — On-farm biological inputs that replace purchased nutrients
 - [[dynamic-accumulators]] — Plants that mine and cycle minerals
 - [[composting-systems]] — Producing fertility from waste streams

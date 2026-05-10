@@ -141,7 +141,6 @@ careful protocol optimization:
   increase sensitivity. However, nested approaches increase the risk of
   contamination and may introduce PCR artifacts.
 
-- **PCR inhibitor management**: Humic acids, phenolics, and polysaccharides
 ## See Also
 - [[fungal-dna-extraction-methods]]
 - [[fungal-metagenomics]]

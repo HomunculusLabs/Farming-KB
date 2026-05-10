@@ -119,9 +119,9 @@ McKenna, the "dynamic linkage at the formative level between quantum
 mechanically described matter and mind."
 
 ## See Also
-
 - [[mckenna-dmt-onset-phenomenology-ripping-cellophane]]
 - [[mckenna-tryptamine-glossolalia-and-primal-language]]
+- [[heraclitus-fragment-24-aeon-child-play-dmt-experience]]
 
 ## References
 

@@ -13,11 +13,11 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - J. Russell Smith, "Tree Crops: A Permanent Agriculture" (1953)
-  - Martin Crawford, "Creating a [[mollison-designers-forest-garden-layer-canopy-understory]]" (2010)
+  - Martin Crawford, "Creating a mollison-designers-forest-garden-layer-canopy-understory" (2010)
   - Mark Shepard, "Restoration Agriculture" (2013)
   - Eric Toensmeier, "The Carbon Farming Solution" (2016)
   - USDA Plant Hardiness Zone Map and NRCS Plant Guides
-  - [[growing-gourmet-north-american-reishi-species]] Nut Growers Association (NNGA) cultivar recommendations
+  - growing-gourmet-north-american-reishi-species Nut Growers Association (NNGA) cultivar recommendations
 type: query
 ---
 
@@ -144,3 +144,6 @@ Choosing the right nut trees for your climate zone is one of the most important 
 - [[query-how-to-design-a-food-forest-for-a-tropical-climate]]
 - [[mollison-designers-climate-zone-2-orchard-food-forest]]
 - [[comparison-nut-trees-vs-grain-farming-for-caloric-staple-production]]
+- [[latania-loddigesii]]
+- [[pseudophoenix-sargentii]]
+- [[podocarpus-totara]]

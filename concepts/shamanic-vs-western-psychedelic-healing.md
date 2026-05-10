@@ -122,5 +122,5 @@ The military was "not prepared to have soldiers or espionage agents turn into my
 ## See Also
 
 - [[psycholytic-vs-psychedelic-therapy-models|Psycholytic vs Psychedelic Therapy Models]] — the two Western clinical models
-- [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening|MDMA-Assisted Psychotherapy] — the empathogen approach that extended the therapeutic model]]
-- [[ayahuasca-pharmacology-and-drug-interactions|Ayahuasca] — a plant medicine used across shamanic and syncretic traditions]]
+- [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening|MDMA-Assisted Psychotherapy]]] — the empathogen approach that extended the therapeutic model
+- [[ayahuasca-pharmacology-and-drug-interactions|Ayahuasca]]] — a plant medicine used across shamanic and syncretic traditions

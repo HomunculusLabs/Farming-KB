@@ -4,8 +4,7 @@ title: vermicomposting
 tags: [composting, soil, waste-management, insects]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 ---
 # [[black-soldier-fly-composting]] vs Vermicomposting
 

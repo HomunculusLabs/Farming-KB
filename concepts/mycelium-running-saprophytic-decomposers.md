@@ -51,6 +51,48 @@ and alder trees. Reishi ([[composting-systems]] that exploit [[fukuoka-microbes-
 - Bioremediation of contaminated sites using wood-decomposing fungi
 - Storm debris cleanup through fungal inoculation of fallen trees
 
+## Decomposition Stages and Substrate Progression
+
+Decomposition proceeds through recognisable stages that determine
+which fungal species can thrive at each point. Fresh organic
+matter (lignin and cellulose intact) is colonised by primary
+decomposers first. As cellulose is broken down and nitrogen is
+released, secondary species move in. The later stages feature
+more humified material where tertiary decomposers dominate.
+Understanding these stages is essential for [[composting-systems]]
+design, since each stage generates different temperatures and
+chemical conditions. Cultivators time their inoculation to match
+the substrate stage, ensuring the target species outcompetes
+less desirable fungi and bacteria for available resources.
+
+## Enzyme Diversity Across Saprophytic Species
+
+Each saprophytic species produces a unique cocktail of enzymes
+tailored to its ecological niche. White-rot fungi like oyster
+mushrooms secrete lignin peroxidases and manganese peroxidases
+that break down lignin, the tough polymer giving wood its
+rigidity. Brown-rot fungi, including many bracket fungi, produce
+cellulases that selectively digest cellulose while leaving
+lignin largely intact as a brown residue. This enzyme
+specialisation explains why some species thrive on hardwood
+logs, others on softwood chips, and still others on grass or
+straw. The [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]
+relies on this diversity to process mixed debris efficiently.
+
+## Ecological Roles in Nutrient Cycling
+
+Saprophytic fungi are the primary drivers of nutrient cycling
+in terrestrial ecosystems. By decomposing dead plant material,
+they release nitrogen, phosphorus, and potassium back into the
+soil in forms that living plants can absorb. Mycelial networks
+physically transport these nutrients through the soil profile,
+moving them from zones of decomposition to root zones where they
+are most needed. In forest ecosystems, up to 80% of plant
+nitrogen uptake passes through fungal decomposer pathways.
+This nutrient mobilisation function makes saprophytic fungi
+indispensable to [[mycelium-running-mycelium-soil-building]]
+and the long-term fertility of any landscape.
+
 ## See Also
 
 - [[mycelium-running-mycorestoration-habitat-survey]]

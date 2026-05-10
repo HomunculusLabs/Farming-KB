@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [soil, agriculture]
-sources:
-  sources: []
+sources: []
 ---
 
 # Soil Fungal Diversity — Wisconsin Survey and Global Patterns

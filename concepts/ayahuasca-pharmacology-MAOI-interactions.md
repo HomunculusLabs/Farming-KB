@@ -117,4 +117,4 @@ The actual psychoactive dose depends on:
 
 ## See Also
 
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]

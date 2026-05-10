@@ -93,4 +93,6 @@ The [[wicking-bed-construction]] project creates a self-watering garden that red
 
 ## See Also
 
+- [[query-how-do-i-build-with-earthbags]]
+
 - [[query-how-do-i-build-a-wicking-bed-for-my-garden]]

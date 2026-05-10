@@ -128,6 +128,8 @@ implications:
 - **The early absence of psilocin is notable**: Mushrooms from the first flush
 ## See Also
 
+- [[flush-dependent-alkaloid-variation-psilocybe]]
+
 - [[flush-count-variation-brassinosteroid-treated-cultures]]
 - [[sam-stein-psilocybe-cubensis-bad-trip-1961]]
 

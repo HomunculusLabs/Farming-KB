@@ -96,4 +96,4 @@ perceive the same meaning.
 
 ## See Also
 
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]

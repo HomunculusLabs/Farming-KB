@@ -15,7 +15,7 @@ sources:
   - Winston, D. & Maimes, S. (2007). Adaptogens: Herbs for Strength, Stamina, and Stress Relief. Healing Arts Press.
   - Panossian, A. & Wikman, G. (2010). "Effects of Adaptogens on the Central Nervous System." Current Clinical Pharmacology 5(2).
   - Bone, K. & Mills, S. (2013). The Principles and Practice of Phytotherapy. Churchill Livingstone.
-  - Duke, J. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. CRC Press.
+  - Duke, J. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. CRC Press.
   - Mao, J.J. et al. (2015). "Schisandra chinensis: a review of chemistry, pharmacology, and clinical applications." Chinese Journal of Natural Medicines 13(5).created: 2026-05-07
 type: comparison
 
@@ -126,12 +126,8 @@ Schisandra (*Schisandra chinensis*), ashwagandha (*Withania somnifera*), and rho
 **Grow Rhodiola if:** You live in a cold climate (Zones 1–7) with cool summers and excellent drainage. Best suited for alpine gardens, rock walls, and high-elevation sites. Conservation value is high — cultivated supply reduces pressure on wild populations. Premium pricing but challenging cultivation.
 
 ## See Also
-
-- [[comparison-ashwagandha-vs-tulsi|Ashwagandha vs. Tulsi]]
-- [[comparison-stinging-nettle-vs-horsetail]] Cultivation
-
-## See Also
-
+- [[comparison-ashwagandha-vs-tulsi]]
+- [[comparison-stinging-nettle-vs-horsetail]]
 - [[comparison-ashwagandha-vs-rhodiola-cultivation]]
 - [[schisandra-chinensis]]
 - [[stinging-nettle]]

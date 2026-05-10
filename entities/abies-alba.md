@@ -103,6 +103,8 @@ The species has also been widely planted outside its native range, including in 
 
 ## See Also
 
+- [[abies-numidica]]
+
 - [[picea-abies]]
 - [[cedrus-libani]]
 - [[pseudotsuga-menziesii]]

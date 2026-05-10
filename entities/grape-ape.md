@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Leafly Strain Database"
-  - "AllBud [[blesching-cannabis-strain-selection-receptor-targeting]] Reviews"
+  - "AllBud blesching-cannabis-strain-selection-receptor-targeting Reviews"
   - "Wikileaf Strain Information"
 ---
 
@@ -140,6 +140,6 @@ grape aroma and purple aesthetics have become synonymous with premium indica
 quality.
 
 ## See Also
-- [[purple-haze]] — Purple-hued sativa-dominant counterpart with cerebral effects
-- [[og-kush]] — Foundational West Coast strain with overlapping Afghani genetics
+- [[purple-haze-cannabis]] — Purple-hued sativa-dominant counterpart with cerebral effects
+- [[og-kush-cannabis-entity]] — Foundational West Coast strain with overlapping Afghani genetics
 - [[hindu-kush]] — Landrace indica ancestor contributing to Grape Ape's lineage

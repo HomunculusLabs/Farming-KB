@@ -134,6 +134,8 @@ for cellulosic ethanol production.
 
 ## See Also
 
+- [[spartina-pectinata]]
+
 - typha-latifolia-entity
 - [[arundo-donax]]
 - [[portulaca-oleracea]]

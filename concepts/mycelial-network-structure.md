@@ -141,7 +141,6 @@ The largest known fungal genet; a specimen of *Armillaria ostoyae*
 in Oregon's Malheur National Forest; spans approximately 9.6 square
 kilometres, making it one of the largest organisms ever documented.
 
-## Mycelial Networks as Information Processors
 ## See Also
 - [[mycelial-network-nutrient-transport-imaging-gadd]]
 - [[mycelial-network-graph-theory-analysis]]

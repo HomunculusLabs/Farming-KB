@@ -66,6 +66,9 @@ The [[banco-sumiruna-muraya]] -- The muraya who enters the underwater
   world
 - [[curandero-healing-ayahuasca]] -- Curing water-related illness
 
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
+
 ## See Also
 
 - [[yakuruna-water-spirits-of-the-amazon]]

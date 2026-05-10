@@ -16,19 +16,19 @@ sources:
 
 ## Overview
 
-Lion's Mane (Hericium erinaceus) is a prized edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]] in the Hericiaceae family, easily recognized by its cascading white spines that resemble a flowing mane. It is one of the most popular [[gourmet-mushroom-species-guide|gourmet mushrooms]] for both home and commercial cultivation due to its distinctive appearance, excellent culinary qualities, and well-documented [[lions-mane-guide|medicinal properties]].
+Lion's Mane (Hericium erinaceus) is a prized edible and medicinal mushroom in the Hericiaceae family, easily recognized by its cascading white spines that resemble a flowing mane. It is one of the most popular [[gourmet-mushroom-species-guide|gourmet mushrooms]] for both home and commercial cultivation due to its distinctive appearance, excellent culinary qualities, and well-documented [[lions-mane-guide|medicinal properties]].
 
 ## Species Description
 
 Hericium erinaceus produces large, irregular fruiting bodies composed of multiple branches from which long, soft spines (1-5 cm) hang downward. Fresh specimens are white to cream-colored, turning yellowish-brown with age. The flesh is firm and white, with a flavor and texture often compared to lobster or crab meat.
 
-Natural habitat: saprophytic on hardwoods, particularly oak, walnut, beech, and maple. Found on dead or dying trees and fallen logs in temperate forests of [[psilocybin-north-america-pacific-northwest]], Europe, and Asia.
+Natural habitat: saprophytic on hardwoods, particularly oak, walnut, beech, and maple. Found on dead or dying trees and fallen logs in temperate forests of North America, Europe, and Asia.
 
 ## Substrate Preparation
 
 ### Primary Substrates
 
-Lion's Mane grows well on a variety of [[oyster-mushroom-supplemented-sawdust-blocks]] substrates:
+Lion's Mane grows well on a variety of supplemented sawdust substrates:
 
 - **Hardwood sawdust:** Oak, maple, or beech sawdust (avoid conifers)
 - **Supplementation:** Wheat bran at 10-20% by dry weight significantly boosts yields; rice bran is a common alternative
@@ -45,7 +45,7 @@ Lion's Mane can also fruit on:
 - Straw (less productive but accessible)
 - [[log-cultivation-methods|hardwood log inoculation]] (oak, beech)
 - Paper/cardboard waste (low-yield experimental substrate)
-- [[oyster-mushroom-coffee-grounds-cultivation]] mixed with sawdust
+- Coffee grounds mixed with sawdust
 
 ## Spawn Running (Colonization)
 
@@ -67,7 +67,7 @@ Lion's Mane can also fruit on:
 
 ### Initiation
 
-Once fully colonized, Lion's Mane benefits from a cold shock (moving blocks to 50-55°F / 10-13°C for 24-48 hours) to stimulate [[growing-gourmet-primordia-formation-pinning]], though this is not strictly required. Reducing CO2 levels and increasing humidity are the primary triggers for fruiting.
+Once fully colonized, Lion's Mane benefits from a cold shock (moving blocks to 50-55°F / 10-13°C for 24-48 hours) to stimulate primordia formation, though this is not strictly required. Reducing CO2 levels and increasing humidity are the primary triggers for fruiting.
 
 ### Fruiting Chamber
 
@@ -89,7 +89,7 @@ Refrigerate fresh at 34-38°F (1-3°C) in paper bags for up to 2 weeks. For long
 
 ## Yield Expectations
 
-- **[[stamets-biological-efficiency-yield]]:** 75-120% on supplemented sawdust (ounces of fresh mushrooms per pound of dry substrate)
+- **Biological efficiency:** 75-120% on supplemented sawdust (ounces of fresh mushrooms per pound of dry substrate)
 - **First flush:** Typically 60-70% of total yield
 - **Total flushes:** 2-3 significant flushes per block
 

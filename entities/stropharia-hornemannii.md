@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Noordeloos, M.E. (2011). Strophariaceae s. lato. Fungi Europaei, Vol. 13. Candusso Alba.
-  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
+  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Gartz, J. (1994). "Distribution and habitat of psychoactive fungi in Europe." Zeitschrift für Mykologie, 60(1), 15-26.
   - Allen, J.W., et al. (1992). "A re-evaluation of the distribution of psychoactive fungi." Mycotaxon, 44, 297-318.
   - Breitenbach, J. & Kränzlin, F. (2000). Fungi of Switzerland, Vol. 4. Verlag Mykologia.

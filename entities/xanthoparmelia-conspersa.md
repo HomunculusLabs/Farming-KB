@@ -12,7 +12,7 @@ sources:
   - Elix, J.A. (2009). "Xanthoparmelia in Australia." Flora of Australia Supplementary Series.
   - Hale, M.E. (1990). "A Monograph of Xanthoparmelia in South America." Bibliotheca Lichenologica, 54.
   - Nash, T.H. III et al. (2002). Lichen Flora of the Greater Sonoran Desert Region, Vol. 1. Arizona State University.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
 ---
 
 ## Overview

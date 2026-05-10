@@ -135,6 +135,8 @@ end in vain.
 ## The Vicious Cycle
 ## See Also
 
+- [[fukuoka-textdoc-hothouse-to-food-synthesis-trajectory]]
+
 - [[fukuoka-textdoc-hothouse-hydroponic-agriculture-decline]]
 - [[fukuoka-food-synthesis-trajectory]]
 

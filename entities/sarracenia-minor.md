@@ -11,8 +11,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Schnell, D.E. (2002). "Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada." 2nd ed. Timber Press.
-  - McPherson, S. (2011). "Sarraceniaceae of [[psilocybin-north-america-pacific-northwest]]." Redfern Natural History Productions.
-  - Mellichamp, T.L. (2015). "Sarracenia: A [[ghouled-field-guide-historical-context]]." WildAdventures Press.
+  - McPherson, S. (2011). "Sarraceniaceae of psilocybin-north-america-pacific-northwest." Redfern Natural History Productions.
+  - Mellichamp, T.L. (2015). "Sarracenia: A ghouled-field-guide-historical-context." WildAdventures Press.
   - Ellison, A.M. & Gotelli, N.J. (2009). "Ecological and Evolutionary Dynamics of Sarracenia." Ann. Bot. 103: 739–744.
 ---
 

@@ -58,7 +58,7 @@ arrows and a cumaceba (Swartzia sp.) bow.
 ## Diagnostic Signs of Sorcery
 
 A curandero distinguishes sorcery types by the lights surrounding
-the patient during an [[ayahuasca-vision-art-and-shipibo-tradition]]:
+the patient during an [[ayahuasca-vision-art-and-Shipibo-tradition]]:
 
 - **Zigzagging lights**: The patient has been hit by a chontero
   (chonta/virote sorcery)

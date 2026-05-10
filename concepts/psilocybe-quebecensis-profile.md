@@ -5,7 +5,6 @@ tags: [psilocybe, quebec, mycology, mushroom-profile, northern]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -14,7 +13,7 @@ type: concept
 ## Taxonomy and Discovery
 
 Psilocybe quebecensis Ola'h and Heim is a moderately active
-[[emcdda-psilocybin-mushroom-dose-and-effects]] first described by Ola'h and Heim in 1967.
+[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] first described by Ola'h and Heim in 1967.
 The species was named for the Canadian province of Quebec, where it
 was originally discovered in the Jacques Cartier river valley. It
 belongs to the genus [[stamets-psi-psilocybe-baeocystis-knobby-tops]] for related

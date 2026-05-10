@@ -141,5 +141,5 @@ it remains far less common than LSD, 1P-LSD, ALD-52, or ETH-LAD.
 
 - [[1p-lsd]]
 - [[eth-lad-entity-tihkal]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[ergotamine]]

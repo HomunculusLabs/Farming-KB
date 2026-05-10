@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Buchanan, P.K. (1999). "Hericium species in New Zealand." New Zealand Journal of Botany, 37(2), 283-292.
-  - Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press.
+  - Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press.
   - Li, Y. et al. (2014). "Hericium erinaceus improves mood and sleep." Biomedical Research, 35(1), 81-86.
   -https://www.nzfungi.org.nz/
 ---

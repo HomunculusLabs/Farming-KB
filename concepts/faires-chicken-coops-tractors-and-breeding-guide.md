@@ -141,7 +141,6 @@ Chicken forage plants include: alfalfa, amaranth, autumn
 olive, barley, buckwheat, chickweed, chicory, clover,
 comfrey, corn, cucumber, currant, dandelion, elderberry,
 fava beans, fennel, fruit trees, honey locust, oak, oats,
-quinoa, Russian olive, rye, Siberian pea shrub, stinging
 ## See Also
 - [[small-scale-dairy-guide]]
 - [[cash-crop-guide]]

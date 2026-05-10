@@ -2,11 +2,7 @@
 title: Whiteflies - query-how-to-use-neem-oil-for-cannabis-pest-control Guide
 created: 2026-04-26
 updated: 2026-04-23
-sources:
-  sources: []
-  - "Cervantes - Marijuana Horticulture"
-type: concept
-tags: [cannabis]
+sources: []
 ---
 
 # Whiteflies on Cannabis
@@ -27,7 +23,7 @@ The honeydew-sooty mold complex is particularly damaging because it creates a ca
 
 - **Yellow [[cervantes-sticky-traps-pest-monitoring]]**: Adults are strongly attracted to the color yellow. Cover a bright yellow object with a sticky substance like Tanglefoot and place among plants. Traps work very well — when full, toss them out and replace. Place traps on the tops of pots among the plants for maximum effectiveness
 - **Manual removal**: Difficult because whiteflies fly away when disturbed; vacuuming adults in early morning when they are sluggish can help
-- **Cleanliness**: Sanitation is the foundation of [[spider-mites-cannabis]] — most common [[cannabis-pest-disease-troubleshooting]] with similar damage
+- **Cleanliness**: Sanitation is the foundation of [[spider-mites-cannabis]] — most common [[cannabis-disease-pest-resistance-breeding-clarke]] with similar damage
 - aphids-cannabis|Aphids — another sap-sucking pest that produces honeydew
 - thrips-cannabis|Thrips — small flying pest with similar behavior
 - gaias-garden-host-plants-beneficial-insects — Encarsia formosa and other biocontrols

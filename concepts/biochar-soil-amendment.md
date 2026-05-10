@@ -11,7 +11,7 @@ sources: []
 
 > Note: This page is compiled from general knowledge, not sourced from a specific file in the wiki's raw/ directory. See also [[biochar]] for the existing wiki page on biochar fundamentals.
 
-Biochar as a soil amendment is the practice of incorporating pyrolyzed biomass into agricultural soils to improve fertility, water retention, [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], and long-term carbon storage. The concept is inspired by terra preta (Amazonian dark earth), anthropogenic soils created by indigenous peoples in the Amazon basin that remain fertile thousands of years after their creation.
+Biochar as a soil amendment is the practice of incorporating pyrolyzed biomass into agricultural soils to improve fertility, water retention, nutrient cycling, and long-term carbon storage. The concept is inspired by terra preta (Amazonian dark earth), anthropogenic soils created by indigenous peoples in the Amazon basin that remain fertile thousands of years after their creation.
 
 ## Terra Preta
 
@@ -19,7 +19,7 @@ Terra preta do indio (Indian black earth) is found across the Amazon basin. Thes
 - 3-5x more organic carbon than surrounding soils
 - High concentrations of biochar, pottery shards, bone, and compost residues
 - Stable fertility maintained for 500-2,500+ years
-- Significantly higher microbial activity and [[ph-and-nutrient-availability-garden-soils]]
+- Significantly higher microbial activity and nutrient availability
 
 The original inhabitants created these soils by incorporating charcoal from cooking fires, food waste, manure, and bone into the naturally poor tropical soils. The biochar acts as a persistent carbon skeleton that supports soil biology for millennia.
 
@@ -52,7 +52,7 @@ The porous structure of biochar provides refugia for beneficial soil microorgani
 - Protection from predation by protozoa and nematodes
 - Moisture retention supports microbial survival during dry periods
 - Mycorrhizal hyphae associate with biochar surfaces
-- Enhanced [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and phosphorus solubilization
+- Enhanced nitrogen fixation and phosphorus solubilization
 
 ### pH Buffering
 
@@ -83,14 +83,14 @@ Biochar is resistant to decomposition, with half-lives ranging from hundreds to 
 - Do NOT exceed 10% by volume in any soil mix — this can cause water repellency and nutrient issues
 - Best results come from annual moderate applications rather than one massive dose
 - Always combine with organic matter (compost, manure) for best results
-- Fresh biochar should be "charged" before use — soak in compost tea, liquid manure, or [[cannabis-nutrient-solution-preparation]] for 2-4 weeks
+- Fresh biochar should be "charged" before use — soak in compost tea, liquid manure, or nutrient solution for 2-4 weeks
 
 ## Pre-Charging Biochar
 
 Raw biochar should be inoculated before soil application:
 
 1. **Compost charging**: Mix biochar 50/50 with finished compost and let sit for 2-4 weeks
-2. **Compost tea charging**: Soak biochar in [[actively-aerated-compost-tea]] tea for 24-48 hours, drain, and apply
+2. **Compost tea charging**: Soak biochar in aerated compost tea for 24-48 hours, drain, and apply
 3. **Manure charging**: Mix with composted manure for 2-4 weeks
 4. **Urine charging**: Dilute fresh urine 10:1 and soak biochar — high nitrogen charge
 5. **In-pile charging**: Add biochar directly to an active compost pile — it absorbs nutrients and microbes during the composting process
@@ -118,7 +118,7 @@ Raw biochar should be inoculated before soil application:
 
 ## Related
 
-- [[biochar]] — fundamentals of [[comparison-biochar-production-guide-vs-biochar-soil-amendment]] and properties
+- [[biochar]] — fundamentals of biochar production and properties
 - [[compost-building-guide]] — making compost to charge biochar
 - [[vermicompost-tea]] — liquid inoculant for charging biochar
 - [[hot-composting-method]] — thermophilic composting for biochar charging

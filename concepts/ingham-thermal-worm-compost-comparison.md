@@ -53,6 +53,8 @@ Both must meet chemistry and pathogen testing standards at city,
 county, state, and federal levels.
 ## Related
 
+- [[ingham-thermal-compost-process-standards]]
+
 - [[ingham-thermal-compost-versus-worm-compost]]
 
 - [[aact-compost-quality-standards-ingham]] for testing requirements and [[aact-compost-quality-standards-ingham]]

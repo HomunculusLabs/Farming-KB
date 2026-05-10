@@ -10,7 +10,6 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -137,14 +136,7 @@ Check the following every week to ensure a successful crop:
 
 ## Key Principles
 
-- Much of gardening is simply watching and paying attention
 ## See Also
-
 - [[seasonal-garden-tasks-calendar]]
-
 - [[cervantes-flowering-phase]]
 - [[cervantes-harvest-timing-trichome-ripeness]]
-
-## See Also
-
-- gaias-garden-forest-garden-installation-phased-design

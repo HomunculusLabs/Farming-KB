@@ -12,7 +12,7 @@ sources:
   - "Stark Bro's Nurseries — Mulberry Growing Guide (starkbros.com)"
   - "Permaculture Research Institute — Mulberry in Food Forests (permaculturenews.org)"
   - "North Carolina State Extension — Morus spp. (ncsu.edu)"
-  - "Kew Royal Botanic Gardens — [[morus-alba]], M. nigra, M. rubra (kew.org)"
+  - "Kew Royal Botanic Gardens — morus-alba, M. nigra, M. rubra (kew.org)"
 type: query
 ---
 

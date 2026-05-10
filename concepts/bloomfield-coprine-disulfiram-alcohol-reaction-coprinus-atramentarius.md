@@ -136,12 +136,7 @@ and [[allegro-amanita-muscaria-properties-and-pharmacology]]. Each operates thro
 mechanism, but none appears specifically evolved for harming humans.
 
 ## See Also
-
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]
-- bloomfield-morel-morchella-ascocarp-cup-fungi-truffle-evolution
-
-## See Also
-
 - [[bloomfield-coprinus-ink-caps-deliquescence-coprine]]
 - [[amanita-muscaria]]
 - [[spore-dispersal]]

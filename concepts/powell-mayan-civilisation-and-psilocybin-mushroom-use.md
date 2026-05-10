@@ -129,7 +129,7 @@ for communicating with the spiritual domain. Powell regards Wasson as
 having recovered the power of the psilocybin mushroom from more than 400
 years of subjugation and presenting it to the modern world.
 
-See also: [[powell-universal-symbology-in-entheogenic-visions]], [[emcdda-psilocybin-mushroom-dose-and-effects]]
+See also: [[powell-universal-symbology-in-entheogenic-visions]], [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[psilocybin-mushroom-drying-and-storage-methods]]
 
 ## See Also

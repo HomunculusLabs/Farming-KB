@@ -1,16 +1,15 @@
 ---
-title: Homestead mollison-designers-home-energy-conservation-and-solar-heating
+title: Homestead Energy Conservation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, sustainability, engineering, construction, beginner]
-sources:
-  sources: []
+sources: []
 ---
 
 # Homestead Energy Conservation
 
-Energy conservation is the practice of reducing energy consumption through design, efficiency improvements, and behavioral changes. For off-grid or grid-tied homesteaders, conservation is the first and most cost-effective strategy — every watt saved is a watt that doesn't need to be generated, stored, or purchased. The cheapest energy is the energy you never use.
+Energy conservation [[mollison-designers-home-energy-conservation-and-solar-heating]] is the practice of reducing energy consumption through design, efficiency improvements, and behavioral changes. For off-grid or grid-tied homesteaders, conservation is the first and most cost-effective strategy — every watt saved is a watt that doesn't need to be generated, stored, or purchased. The cheapest energy is the energy you never use.
 
 ## The Conservation Hierarchy
 
@@ -36,7 +35,7 @@ Materials that absorb, store, and slowly release heat:
 - Concrete floors and walls
 - Stone and brick
 - Tile
-- [[pdc-earthen-construction-techniques]] (cob, adobe, rammed earth)
+- Earthen construction (cob, adobe, rammed earth)
 
 **How it works**: Sun heats thermal mass during the day; mass releases heat slowly at night, moderating indoor temperature swings.
 
@@ -88,7 +87,7 @@ Refrigerators are the largest single energy consumer on many homesteads:
 - Locate away from heat sources (stove, direct sun)
 - Ensure adequate ventilation behind and above the unit
 - Keep coils clean
-- Consider [[comparison-root-cellar-vs-ice-house]] alternatives for foods that don't require refrigeration
+- Consider root cellar alternatives for foods that don't require refrigeration
 - Convert chest freezer to refrigerator using external thermostat (uses 1/4 the energy)
 
 ## Water Heating
@@ -143,8 +142,9 @@ Water heating accounts for 15-25% of home energy use:
 Saving water saves energy (pumping, heating, treating):
 
 - Low-flow showerheads: 1.5 GPM vs standard 2.5 GPM
-## See Also
+- Dual-flush toilets or composting toilets
+- Fix all leaks immediately (a dripping faucet wastes 3000+ gallons/year)
+- Greywater recycling for irrigation (see [[graywater-systems]])
+- Rainwater harvesting reduces well pump energy (see [[rainwater-harvesting-systems]])
+- Mulch gardens heavily to reduce irrigation needs
 
-- [[off-grid-electricity-basics]] — System sizing and component selection
-- homestead energy conservation — [[holmgren-wind-power-and-renewable-energy-debate]] generation
-- [[mollison-designers-home-energy-conservation-and-solar-heating]]

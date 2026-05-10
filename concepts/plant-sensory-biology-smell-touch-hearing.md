@@ -119,10 +119,6 @@ leveraging plants' innate sensory capabilities.
 ## See Also
 - [[phytochrome-signaling-plant-light-perception]]
 - [[plant-olfaction-volatile-organic-compound-signaling]]
-
-## See Also
-
-- plant sensory biology smell touch hearing
 - [[mimosa-pudica]]
 - [[daniel-chamovitz]]
 - [[dionaea-muscipula]]

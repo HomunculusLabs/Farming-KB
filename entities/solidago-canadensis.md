@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Semple JC, Ringius GS, Zhang J (1999). "The goldenrods of Ontario: Solidago L. and Euthamia Nutt." University of Waterloo Biology Series 39.
-  - Bauer N, Schmid B, Matthies D et al. (2010). "Invasive Solidago canadensis affects litter decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]." Biological Invasions 12(11): 3689-3700.
+  - Bauer N, Schmid B, Matthies D et al. (2010). "Invasive Solidago canadensis affects litter decomposition and comparison-nutrient-cycling-vs-nutrient-dense-gardening." Biological Invasions 12(11): 3689-3700.
   - European Medicines Agency (2014). "Assessment report on Solidago virgaurea." EMA/HMPC/139530/2010.
   - Werner PA, Bradbury IK, Gross RS (1980). "The biology of Canadian weeds: Solidago canadensis." Canadian Journal of Plant Science 60(4): 1393-1409.
 ---
@@ -131,6 +131,8 @@ Solidago gigantea (giant goldenrod) is distinguished by its glabrous stems and e
 Solidago virgaurea (European goldenrod) is smaller, with a less branched inflorescence and wider leaves.
 
 ## See Also
+
+- [[solidago-virgaurea]]
 
 - [[solidago-speciosa]]
 

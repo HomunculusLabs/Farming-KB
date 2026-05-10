@@ -140,7 +140,6 @@ rush to modernize. Reviving this soul requires not just changing farming
 methods but changing the entire orientation of human consciousness toward
 nature. It requires recognizing that the health of the land and the health of
 the human spirit are inseparable, and that returning to natural farming is
-ultimately an act of spiritual recovery as much as ecological restoration.
 ## See Also
   - [[fukuoka-sericulture-nature-vs-science]]
 

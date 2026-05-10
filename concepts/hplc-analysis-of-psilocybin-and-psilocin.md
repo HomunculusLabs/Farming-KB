@@ -132,7 +132,6 @@ recreational contexts.
 
 Since the Bigwood and Beug study, analytical methods have advanced
 significantly. Modern techniques include LC-MS (liquid
-chromatography-mass spectrometry) for simultaneous identification
 ## See Also
 
 - [[hplc-analysis-psilocybin-psilocin]]

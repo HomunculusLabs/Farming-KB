@@ -13,7 +13,7 @@ type: concept
 
 # Natural Farming vs Scientific Agriculture
 
-The contrast between [[korean-natural-farming-and-jadam]] scientific agriculture is the central philosophical and practical theme of [[clay-pellet-seed-broadcasting]]
+The contrast between [[query-jadam-vs-korean-natural-farming]] scientific agriculture is the central philosophical and practical theme of [[clay-pellet-seed-broadcasting]]
 - [[decomposition]]
 
 - [[masanobu-fukuoka]]

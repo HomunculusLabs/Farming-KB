@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing Over the Last Two Decades.\" Clinical Pharmacology & Therapeutics, 99(6), 613-617."
-  - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpene [[beta-caryophyllene-entourage-effects-cannabis]].\" British Journal of Pharmacology, 163(7), 1344-1364."
+  - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpene beta-caryophyllene-entourage-effects-cannabis.\" British Journal of Pharmacology, 163(7), 1344-1364."
   - "Ligresti, A. et al. (2006). \"Cannabinoid concentrations and profile in Cannabis sativa L. plants.\" Journal of Natural Products, 69(2), 254-257."
   - "Hazekamp, A. et al. (2016). \"The Cannabis Industry: A Guide for Investors.\" Cannafoundation Report."
   - "Mudge, E.M. et al. (2018). \"Cannabinoid Content and Variation in Legal Cannabis Products.\" Journal of AOAC International, 101(6), 1800-1811."

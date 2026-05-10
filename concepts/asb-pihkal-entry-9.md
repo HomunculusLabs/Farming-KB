@@ -1,7 +1,7 @@
 ---
 title: ASB (Asymbescaline) - 2c-b-pihkal-entry-20 #9
 created: 2026-04-28
-tags: [pihkal, phenethylamine, mescaline-analogue, ethoxy-compound, psychedelic]
+tags: [pihkal, phenethylamine, [[mescaline]]-analogue, ethoxy-compound, psychedelic]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
@@ -27,7 +27,7 @@ type: concept
 - **Dosage:** 200-280 mg
 - **Duration:** 10-15 hours
 
-## Qualitative Effects
+## Qualitative [[adverse-effects-and-harm-reduction-psilocybin|Effects]]
 
 ### At 240 mg
 A pleasant and easy flow of day-dreaming thoughts, described as

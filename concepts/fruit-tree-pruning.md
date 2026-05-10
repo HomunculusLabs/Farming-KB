@@ -1,23 +1,21 @@
 ---
-title: Fruit fruit-tree-pruning-training-hamilton
+title: Fruit Tree Pruning
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [gardening, homesteading, methods, plant-growth, design]
-sources:
-  sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 # Fruit Tree Pruning
 
-Pruning is the selective removal of branches, shoots, and roots to shape fruit trees, improve fruit quality, maintain tree health, and manage size. Proper pruning is one of the most important skills for homestead orchardists and backyard fruit growers. A well-pruned tree produces higher-quality fruit, is easier to manage and harvest, and has a longer productive lifespan.
+Pruning is the selective removal of branches, shoots, and roots to shape fruit trees, improve fruit quality, maintain tree health, and manage size. Proper pruning [[zone-1-intensive-garden]] is one of the most important skills for homestead orchardists and backyard fruit growers. A well-pruned tree produces higher-quality fruit, is easier to manage and harvest, and has a longer productive lifespan.
 
 ## Why Prune Fruit Trees
 
 - **Improve fruit quality**: More light and air reach the fruiting wood, producing larger, sweeter, better-colored fruit.
-- **Increase yield**: Proper pruning balances [[cannabis-vegetative-growth-stage]] with fruit production.
-- **[[cervantes-pest-disease-prevention-overview]]**: Open canopy improves airflow, reducing fungal diseases (apple scab, brown rot, [[cervantes-powdery-mildew-prevention-treatment]]).
+- **Increase yield**: Proper pruning balances vegetative growth with fruit production.
+- **Disease prevention**: Open canopy improves airflow, reducing fungal diseases (apple scab, brown rot, powdery mildew).
 - **Manage tree size**: Keep trees accessible for pruning, spraying, thinning, and harvesting.
 - **Remove dead/diseased wood**: Prevent the spread of pathogens and structural weakness.
 - **Renew bearing wood**: Fruit trees produce best on young wood. Pruning stimulates new growth.
@@ -108,7 +106,7 @@ Performed when the tree is leafless and dormant — typically February-March in 
 
 ### Summer Pruning (June - August)
 
-Performed during the active [[savory-growing-season-and-non-growing-season-management]] when trees are in full leaf.
+Performed during the active growing season when trees are in full leaf.
 
 **Best for**:
 - Removing watersprouts (vigorous, upright shoots from the trunk or scaffolds)
@@ -143,8 +141,10 @@ Performed during the active [[savory-growing-season-and-non-growing-season-manag
 - Open center training is standard for peaches and nectarines.
 - Remove 40-50% of last year's growth on peaches annually.
 - Sweet cherries are prone to bacterial canker — prune during dry summer conditions when possible.
-## See Also
 
-- [[food-forest-design]] — Integrating fruit trees into perennial polycultures
-- [[season-extension-techniques]] — Protecting blossoms from late frost
-- [[companion-planting-reference]] — Beneficial understory plantings beneath fruit trees
+### Fig Trees
+- Produce fruit on current season's growth and on 1-year-old wood.
+- Tolerate heavy pruning well. Often grown as open center or multi-stemmed bushes.
+- In cold climates, may be grown as "knockout" figs — grown in containers and stored in a garage or shed over winter.
+
+## Disease Prevention Through Pruning

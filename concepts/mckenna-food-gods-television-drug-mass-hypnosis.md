@@ -118,11 +118,6 @@ pharmacology has become the demonic handmaiden of an unchecked descent into
 regimentation and erosion of civil liberties.
 
 ## See Also
-
 - [[mckenna-consciousness-expansion-and-drug-war]]
 - [[mckenna-dominator-culture-and-suppression-of-ecstasy]]
-- mckenna   a [[mckenna-modest-proposal-drug-policy-reform]] drug policy reform
-
-## See Also
-
 - [[mckenna-food-gods-television-dominator-drug]]

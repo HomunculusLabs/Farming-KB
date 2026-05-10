@@ -54,7 +54,7 @@ inedible, or poisonous species.
 
 ## Related
 
-- [[emcdda-psilocybin-pharmacology-and-chemistry]] for the chemical
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for the chemical
   composition and pharmacological mechanisms
 - [[emcdda-hallucinogenic-mushroom-markets]] for how species
   availability connects to retail markets

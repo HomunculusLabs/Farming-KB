@@ -114,6 +114,8 @@ The genetic diversity of Butia capitata is of particular interest for breeding p
 
 ## See Also
 
+- [[butia-yatay]]
+
 - [[cocos-nucifera]]
 - [[elaeis-guineensis]]
 - [[phoenix-dactylifera]]

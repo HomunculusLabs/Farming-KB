@@ -35,7 +35,7 @@ Synthesized from commercially available 2,3,4-trimethoxybenzaldehyde via nitrost
 
 ## Extensions and Commentary
 
-Fifty years before PIHKAL, this material was given the name "reciprocal mescaline" based on the belief that it exacerbated clinical symptoms in schizophrenic patients. The original report stated: "We have discovered an extremely remarkable dependency of the intoxicating action upon the position of the three methoxy groups." [[mescaline-entity]] -- the 3,4,5-isomer (active psychedelic)
+Fifty years before PIHKAL, this material was given the name "reciprocal mescaline" based on the belief that it exacerbated clinical symptoms in schizophrenic patients. The original report stated: "We have discovered an extremely remarkable dependency of the intoxicating action upon the position of the three methoxy groups." [[mescaline]] -- the 3,4,5-isomer (active psychedelic)
 
 - [[proscaline]] -- 3,5-dimethoxy-4-propoxyphenethylamine (active)
 

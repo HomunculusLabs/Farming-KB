@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Solar cookers and [[rocket-stoves-and-efficient-wood-burning-design]] represent two fundamentally different approaches
+Solar cookers and rocket stoves and efficient wood burning design represent two fundamentally different approaches
 to off-grid cooking. Solar cooking harnesses sunlight directly, producing zero
 emissions and requiring no fuel at all. Rocket stoves burn small-diameter wood
 with exceptional efficiency through an insulated combustion chamber, achieving

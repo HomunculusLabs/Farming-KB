@@ -10,7 +10,7 @@ sources:
 
 # Fungal Biodiversity and Biogeography
 
-Species diversity, [[guzman-global-distribution-patterns-neurotropic-fungi]], endemism, and the challenges of documenting fungal biodiversity. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-extreme-environments]], [[fungal-ecology-decomposition-cycles]], and [[fungal-nutrient-cycling-mineral-transformations]].
+Species diversity, distribution patterns, endemism, and the challenges of documenting fungal biodiversity. Based on Gadd, Watkinson & Dyer, *Fungi in the Environment* (2006). See also [[fungal-ecology-extreme-environments]], [[fungal-ecology-decomposition-cycles]], and [[fungal-nutrient-cycling-mineral-transformations]].
 
 ## Overview
 
@@ -82,7 +82,7 @@ DNA-based methods are transforming our understanding of fungal biogeography:
 
 - **Estimated diversity**: ~250 described species; molecular studies suggest higher diversity
 - **Key groups**: Glomeraceae, Gigasporaceae, Acaulosporaceae, Archaeosporaceae
-- **Ecological role**: Exclusively [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] -- the most widespread plant-fungal symbiosis
+- **Ecological role**: Exclusively arbuscular mycorrhizal -- the most widespread plant-fungal symbiosis
 - **Ecological significance**: Form symbioses with ~70% of terrestrial plant species; critical for plant nutrition and soil carbon storage
 
 ### Zygomycota (sensu lato)
@@ -114,9 +114,9 @@ Soil harbors the greatest fungal diversity of any habitat:
 
 Dead wood supports highly diverse fungal communities that change with decomposition stage:
 
-1. **Fresh wood**: Primary colonizers (Ascomycetes, some Basidiomycetes) that tolerate high C:N ratios and [[antifungal-secondary-metabolites-coprophilous-fungi]]
+1. **Fresh wood**: Primary colonizers (Ascomycetes, some Basidiomycetes) that tolerate high C:N ratios and secondary metabolites
 2. **Partially decomposed**: Brown-rot and white-rot fungi become dominant, breaking down cellulose and lignin
-3. **Advanced decay**: Specialized fungi utilizing remaining nutrients; succession toward [[lowenfels-humus-formation-benefits]]
+3. **Advanced decay**: Specialized fungi utilizing remaining nutrients; succession toward humus formation
 4. **Very decayed**: Transition to soil fungal community as wood becomes incorporated into humus
 
 ### Aquatic Fungi
@@ -125,25 +125,26 @@ Freshwater and marine environments contain diverse but understudied fungal commu
 
 - **Freshwater**: *Ingoldian* fungi (hyphomycetes that produce conidia adapted for underwater dispersal), chytrids parasitizing algae, yeasts in surface films
 - **Marine**: Over 500 species described from wood and mangrove substrates; deep-sea fungi associated with organic falls; sea ice fungi
-- **Leaf decomposition in streams**: [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] are the primary decomposers of autumn-shed leaves in forest streams, a process critical for stream food webs
+- **Leaf decomposition in streams**: Aquatic hyphomycetes are the primary decomposers of autumn-shed leaves in forest streams, a process critical for stream food webs
 
 ## Conservation of Fungal Biodiversity
 
 ### Threats to Fungal Diversity
 
+- **Habitat loss**: Deforestation, wetland drainage, and urbanization destroy fungal habitats. Old-growth forests with their complex woody debris support the highest fungal diversity.
+- **Air pollution**: Nitrogen deposition alters fungal communities, favoring nitrophilous species and reducing diversity of sensitive species. This is a major threat to ectomycorrhizal fungi in Europe.
+- **Climate change**: Altered temperature and precipitation patterns shift fungal distributions, potentially eliminating locally adapted populations.
+- **Over-collection**: Some prized edible fungi (matsutake, chanterelles, truffles) are threatened by commercial harvesting.
+- **Invasive species**: Introduction of non-native fungi (e.g., *Amanita phalloides* in North America) can alter native fungal communities.
+
+### Fungal Conservation
+
+- **Red List assessments**: The IUCN has assessed relatively few fungal species for threatened status. Many species are "Data Deficient" due to lack of distribution and population data.
+- **Habitat protection**: The most effective fungal conservation strategy is protecting the habitats (forests, grasslands, wetlands) that support diverse fungal communities.
+- **Fungal reserves**: Some countries have established specific fungal reserves (e.g., in Switzerland and Italy) where collection is restricted.
+- **Monitoring**: Long-term monitoring of fungal fruiting patterns (e.g., the UK's National Fungus Day surveys) provides data on distribution changes and population trends.
+
 ## Related Pages
 
 - [[fungal-ecology-extreme-environments]] -- fungi in extreme habitats
 - [[fungal-nutrient-cycling-mineral-transformations]] -- mineral cycling roles
-- [[fungal-ecology-decomposition-cycles]] -- [[fungal-decomposition-succession-resource-quality]]
-- [[endophytic-fungi]] -- fungi inside plant tissues
-- [[lichens]] -- fungal-algal symbioses
-- [[fungal-biodiversity]] -- species diversity overview
-
-## Key References
-
-- Hawksworth, D.L. (2001) "The magnitude of fungal diversity: the 1.5 million species estimate revisited." Mycological Research 105: 1422-32.
-- Finlay, B.J. (2002) "Global dispersal of free-living microbial eukaryote species." Science 296: 1061-3.
-- Peay, K.G., Garbelotto, M. & Bruns, T.D. (2010) "Evidence of dispersal limitation in soil microorganisms: isolation reduces species richness on mycorrhizal tree islands." Ecology 91: 3631-40.
-- [[chytrid-fungi-guide]]
-- fungal biodiversity biogeography

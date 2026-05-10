@@ -131,4 +131,4 @@ Viral diseases, including hydrangea ringspot virus, can cause mottling and leaf 
 - [[rhododendron-maximum]]
 - [[kalmia-latifolia]]
 - [[rhododendron-ponticum]]
-- [[vaccinium-corymbosum]]
+- [[vaccinium-corymbosum-entity]]

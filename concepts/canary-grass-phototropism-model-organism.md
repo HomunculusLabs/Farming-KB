@@ -141,9 +141,10 @@ While contemporary plant science has largely adopted *Arabidopsis thaliana* as
 its primary genetic model organism, the coleoptile-based phototropism assay
 ## See Also
 
+- [[darwin-five-condition-phototropism-experimental-design]]
+
 - [[chamovitz-darwin-phototropism-experiment-canary-grass]]
 
 - [[julius-von-sachs-blue-light-phototropism-discovery]]
 - [[plant-vision-and-phototropism]]
 - [[plant-photoreception-and-phototropism]]
-- phototropism and phytochrome

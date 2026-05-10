@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Moshkin, V.A. (1986). "Castor." Amerind Publishing, New Delhi.
-  - Ogunniyi, D.S. (2006). "[[permaculture-castor-oil-plant]]: a vital industrial raw material." Bioresource Technology, 97(9), 1086-1091.
+  - Ogunniyi, D.S. (2006). "permaculture-castor-oil-plant: a vital industrial raw material." Bioresource Technology, 97(9), 1086-1091.
   - Challoner, K.A. & McCarron, M.M. (1990). "Ricin poisoning." Journal of Toxicology: Clinical Toxicology, 28(4), 429-440.
   - Akhtar, N. et al. (2016). "Ricinus communis L.: A review of traditional uses, phytochemistry, and pharmacology." Asian Pacific Journal of Tropical Disease, 6(3), 249-255.
 ---

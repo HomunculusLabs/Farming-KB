@@ -112,11 +112,6 @@ toxin is heat-stable — cooking does not destroy it.
 hypotension, ventricular arrhythmias, and death within 2–6 hours.
 
 ## See Also
-
-- [[taxus-baccata]] — English yew, parallel extreme toxicity with medicinal
-  compound overlap
-- [[atropa-belladonna]] — Deadly nightshade, tropane alkaloid toxic plant
-
-## See Also
-
+- [[taxus-baccata]]
+- [[atropa-belladonna]]
 - [[amazonian-medicinal-plants-in-amaringos-visions]]

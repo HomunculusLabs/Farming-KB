@@ -129,3 +129,7 @@ Growth rates are directly tied to day length. During the Persephone months (appr
 ## Key Principle
 
 Coleman's spinach system demonstrates a core principle of the winter harvest: establish crops outdoors during favorable fall conditions, then provide protection only when needed. The mobile greenhouse allows summer crops to extend their season by two months while simultaneously giving winter spinach a head start in the field. This temporal efficiency—getting fourteen months of greenhouse use from every twelve-month period—is the economic foundation of four-season farming.
+
+## See Also
+
+- [[coleman-cool-house-vs-cold-house-economics-winter-production]]

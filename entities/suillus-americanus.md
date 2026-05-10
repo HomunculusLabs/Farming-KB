@@ -20,7 +20,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Suillus americanus." MushroomExpert.com.
-  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "[[growing-gourmet-north-american-reishi-species]] Boletes."
+  - Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). "growing-gourmet-north-american-reishi-species Boletes."
     Syracuse University Press.
   - Smith, A.H. & Thiers, H.D. (1971). "The Boletes of Michigan."
     University of Michigan Press.

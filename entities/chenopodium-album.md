@@ -137,6 +137,8 @@ Not commercially cultivated at scale but easily grown: direct seed in spring (ge
 
 ## See Also
 
+- [[chenopodium-ambrosioides]]
+
 - [[viscum-album]]
 
 - [[taraxacum-officinale]] — Dandelion, another dynamic accumulator and edible weed

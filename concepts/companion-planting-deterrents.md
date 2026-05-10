@@ -1,5 +1,5 @@
 ---
-title: comparison-companion-planting-reference-vs-jadam-monoculture-critique as Pest Deterrent
+title: Companion Planting as Pest Deterrent
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 ## Overview
 
-Companion planting is a technique based on the theory that plants have specific likes and dislikes concerning their close companions in the garden and will do better if planted in proximity to the correct plant. By planting particular species together, you can reduce weeds, attract pest predators, or deter specific pests.
+Companion planting is a technique based on the theory that plants have specific likes and dislikes concerning their close companions in the garden and will do better if planted in proximity to the correct plant. By planting particular species together, you can reduce weeds, attract pest predators, or deter specific pests. (see [[hamilton-companion-planting-techniques]]).
 
 ## Evidence Base
 
@@ -19,7 +19,7 @@ Many companion planting recommendations are based on folklore, but some have bee
 
 ### Supported by Evidence
 
-**French Marigolds (Tagetes) and Cabbage White Butterfly:** The cabbage white butterfly is attracted to its host plant by smell and can be fooled by planting highly aromatic French marigolds between rows of cabbages. Scientifically controlled trials confirm a reduction in attack.
+**French Marigolds (Tagetes) and Cabbage White Butterfly:** The cabbage white butterfly is attracted to its host plant by smell and can be fooled by planting highly aromatic French marigolds between rows of cabbages. Scientifically controlled trials confirm a reduction in attack. (see [[hamilton-useful-weeds-and-weed-identification]]).
 
 **French Marigolds and Eelworm/Nematode Control:** French marigolds secrete a substance from their roots that reduces eelworm (soil pest) attack on potatoes. Scientific research has confirmed this root secretion mechanism. Many gardeners also report similar results.
 
@@ -37,7 +37,7 @@ Many companion planting recommendations are based on folklore, but some have bee
 
 Hoverflies are the most valuable pest predators in the garden. They exist in different species worldwide.
 
-**[[bloomfield-fungal-life-cycle-spiral-versus-circle]] connection to companion planting:**
+**Life cycle connection to companion planting:**
 - Before laying eggs, the female hoverfly needs protein from pollen
 - She feeds from open-structured flowers where pollen is easily accessible (short feeding tube)
 - She then lays individual eggs on colonies of aphids
@@ -57,28 +57,10 @@ Hoverflies are the most valuable pest predators in the garden. They exist in dif
 
 ## French Marigolds for Weed Suppression
 
-Beyond [[foliar-pest-deterrence-aact-mechanisms]], French marigolds are reported to help suppress certain weeds, particularly couch grass. The mechanism may be related to root secretions, similar to their effect on eelworms.
+Beyond pest deterrence, French marigolds are reported to help suppress certain weeds, particularly couch grass. The mechanism may be related to root secretions, similar to their effect on eelworms.
 
 ## Related
 
-- [[green-manure-crops-detailed]] — Phacelia as a [[comparison-green-manure-guide-vs-mulch-types-and-effects]] that also attracts hoverflies
-- [[clubroot-disease-management]] — [[plant-disease-management-solomon]] for brassicas
-- [[leatherjacket-pest-control]] — direct [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] methods for soil pests
-## Practical Considerations
-
-Successful implementation of Companion Planting as Pest Deterrent requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+- [[green-manure-crops-detailed]] — Phacelia as a green manure that also attracts hoverflies
+- [[clubroot-disease-management]] — disease management for brassicas
+- [[leatherjacket-pest-control]] — direct pest control methods for soil pests

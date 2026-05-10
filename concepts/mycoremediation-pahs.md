@@ -1,5 +1,5 @@
 ---
-title: Mycoremediation of singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons Hydrocarbons
+title: Mycoremediation of Polycyclic Aromatic Hydrocarbons
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -43,7 +43,7 @@ Fungi degrade PAHs through two main metabolic routes:
 White-rot fungi secrete nonspecific oxidative enzymes that attack PAHs:
 
 - **Lignin peroxidase (LiP)** — one-electron oxidation of aromatic rings, producing aryl cation radicals that react with water to form hydroxylated products
-- **[[fungal-manganese-peroxidase-remediation]] (MnP)** — generates Mn(III)-organic acid chelates that act as diffusible oxidants; degrades PAHs to quinones and ring-fission products
+- **Manganese peroxidase (MnP)** — generates Mn(III)-organic acid chelates that act as diffusible oxidants; degrades PAHs to quinones and ring-fission products
 - **Laccase** — oxidizes phenolic PAH metabolites; can be enhanced with mediators (ABTS, HBT) to attack non-phenolic PAHs
 - **Key advantage**: These enzymes are extracellular and nonspecific — they do not require the PAH to enter the cell
 
@@ -55,7 +55,7 @@ Many non-ligninolytic fungi metabolize PAHs via cytochrome P450:
 - Epoxide hydrolase converts epoxides to trans-dihydrodiols
 - Further oxidation to phenols, quinones, and conjugated metabolites
 - Similar to mammalian liver metabolism (which is why PAHs are carcinogenic)
-- Key species: [[staycare-cunninghamella-elegans-in-bioremediation]], Penicillium spp., Fusarium spp., Aspergillus spp.
+- Key species: Cunninghamella elegans, Penicillium spp., Fusarium spp., Aspergillus spp.
 
 ## Key Species and Their PAH Capabilities
 
@@ -74,8 +74,8 @@ Many non-ligninolytic fungi metabolize PAHs via cytochrome P450:
 - Among 41 micromycete isolates tested, Penicillium strains from the subgenus Furcatum were most common in highly contaminated soils
 
 ### White-Rot Basidiomycetes
-- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]**: Model organism; mineralizes PAHs under nitrogen-limited conditions
-- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]**: Degrades phenanthrene, anthracene, pyrene; high laccase production
+- **Phanerochaete chrysosporium**: Model organism; mineralizes PAHs under nitrogen-limited conditions
+- **Trametes versicolor**: Degrades phenanthrene, anthracene, pyrene; high laccase production
 - **Pleurotus ostreatus**: Oyster mushroom; used in oil spill remediation; degrades 3-4 ring PAHs
 - **Bjerkandera adusta**: Produces manganese peroxidase; effective against fluoranthene
 - **Irpex lacteus**: Removed nearly 40% pyrene after 2 weeks; produces lignin and manganese peroxidases
@@ -118,7 +118,7 @@ Many non-ligninolytic fungi metabolize PAHs via cytochrome P450:
 - Potent human carcinogen (IARC Group 1)
 - C. elegans metabolizes via P450 to 7,8-dihydrodiol-9,10-epoxide (the ultimate carcinogenic metabolite)
 - Also produces 3-hydroxybenzo[a]pyrene, 1,6-quinone, 3,6-quinone, and 6,12-quinone metabolites
-- White-rot fungi degrade it via [[singh-ligninolytic-enzymes-fungal-bioremediation]] rather than P450
+- White-rot fungi degrade it via ligninolytic enzymes rather than P450
 - Degradation rate decreases with increasing molecular weight
 
 ### Fluoranthene (4-ring)
@@ -139,11 +139,12 @@ Synergistic degradation occurs when fungi and bacteria work together:
 - Fungi break down high-molecular-weight PAHs via extracellular enzymes, producing more soluble metabolites
 - Bacteria then mineralize these fungal metabolites to CO2
 - Co-cultures of P. chrysosporium with Pseudomonas showed enhanced mineralization rates
-## See Also
+- Fungal mycelium also provides surface area for bacterial biofilm formation
 
-- [[mycoremediation-basics]] — General mycoremediation framework and enzyme systems
-- [[mycoremediation-of-oil-spills]] — Related petroleum contamination cleanup
-- [[mycoremediation-of-heavy-metals]] — Heavy metal biosorption
-- [[mycoremediation-pcbs-and-dioxins]] — PCB and dioxin degradation
-- [[mycorestoration-overview]] — Broader ecological restoration framework
-- [[harbhajan-singh]] — Comprehensive mycoremediation reference
+## Factors Affecting PAH Degradation
+
+- **Molecular weight**: Lower MW PAHs (2-3 rings) degrade faster than higher MW (4-5 rings)
+- **Bioavailability**: PAHs adsorb to soil organic matter; bioavailability decreases with aging
+- **Nutrient limitation**: White-rot fungi produce ligninolytic enzymes under nitrogen limitation (C:N ratio > 40)
+- **Oxygen**: Aerobic conditions required; ligninolytic enzymes need H2O2
+- **Surfactants**: Addition of surfactants (Tween 80) can increase PAH bioavailability

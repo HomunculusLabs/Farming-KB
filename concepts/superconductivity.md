@@ -42,7 +42,7 @@ Delta(0) = 1.764 kB Tc. The coherence length xi_0 = hbar v_F / (pi Delta) sets t
 Cooper pair size (typically 10-1000 nm). The BCS prediction for critical temperature:
 kB Tc = 1.14 hbar omega_D exp(-1/N(0)V), where omega_D is the Debye frequency, N(0) the
 density of states, and V the pairing interaction. The isotope effect Tc proportional
-to M^(-0.5) confirmed the phonon mechanism experimentally in mercury.
+to M^(-0.5) confirmed the phonon [[trace-water-flash-steam-mechanism-microwave-surface-sterilization-physics|mechanism]] experimentally in mercury.
 
 ## Meissner Effect and Flux Quantization
 
@@ -82,7 +82,7 @@ critical current density Jc in Type II superconductors.
 
 Cuprates feature general formulas Ln2-xMxCuO4 (electron-doped) or LnM2Cu2O7-delta
 (hole-doped). YBCO achieves Tc=93 K with in-field Jc > 10^6 A/cm^2 at 77 K. Bi-2223
-reaches Tc=110 K; Hg-1223 holds the ambient pressure record at Tc=133 K (1993). Their
+reaches Tc=110 K; Hg-1223 holds the ambient [[pressure-cooker-sterilization-time-temperature-jar-size-mushroom-substrate|pressure]] record at Tc=133 K (1993). Their
 pairing mechanism is non-BCS with confirmed d-wave symmetry and strong electron
 correlations. Iron-based superconductors (LaFeAsO, Ba1-xKxFe2As2, SmFeAsO-F at 55 K)
 have multi-band Fe 3d structure with proposed s+/- pairing symmetry, less anisotropy

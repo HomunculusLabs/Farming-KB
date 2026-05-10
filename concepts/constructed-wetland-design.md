@@ -4,8 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 
 # Constructed Wetland Design for Contaminant Treatment

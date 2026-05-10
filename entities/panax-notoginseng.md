@@ -105,10 +105,10 @@ sources:
 
 - [[cylindrocarpon-destructans]]
 - [[endophytic-fungi]]
-- [Panax ginseng](panax-ginseng.md) — Asian ginseng; related adaptogen with overlapping ginsenoside profile
+- [[panax-ginseng|Panax ginseng]] — Asian ginseng; related adaptogen with overlapping ginsenoside profile
 - [[panax-quinquefolius]]](panax-quinquefolius.md) — American ginseng
-- [Salvia miltiorrhiza](salvia-miltiorrhiza.md) — Danshen; frequently combined with San Qi in cardiovascular formulas
-- [Araliaceae](araliaceae.md) — Ginseng family overview
-- [Ginsenosides](ginsenosides.md) — Triterpenoid saponin compounds shared across *Panax* species
-- [Yunnan Baiyao](yunnan-baiyao.md) — Famous proprietary formula with San Qi as primary ingredient
-- [Adaptogens](adaptogens.md) — Substances supporting stress resistance and homeostasis
+- [[salvia-miltiorrhiza|Salvia miltiorrhiza]] — Danshen; frequently combined with San Qi in cardiovascular formulas
+- Araliaceae — Ginseng family overview
+- Ginsenosides — Triterpenoid saponin compounds shared across *Panax* species
+- Yunnan Baiyao — Famous proprietary formula with San Qi as primary ingredient
+- Adaptogens — Substances supporting stress resistance and homeostasis

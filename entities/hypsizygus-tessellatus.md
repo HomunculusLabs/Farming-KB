@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Sagara, N. (1992). "The taxonomic position of the shimeji mushroom." Mycoscience 33(1): 1-8.
-  - Royse, D.J. (2014). "Specialty mushrooms: cultivation and the [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]] industry." In: Mushrooms: Types, Cultivation and Nutrition, Nova Science Publishers.
+  - Royse, D.J. (2014). "Specialty mushrooms: cultivation and the gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe industry." In: Mushrooms: Types, Cultivation and Nutrition, Nova Science Publishers.
   - Wasser, S.P. (2014). "Mushrooms as a source of dietary fiber and prebiotics." Journal of Nutrition & Food Sciences 4(3): 1-7.
   - Kim, M.Y. et al. (2009). "Chemical composition and antioxidant activity of Hypsizygus marmoreus." Journal of Agricultural and Food Chemistry 57(5): 1812-1816.
 created: 2026-04-28

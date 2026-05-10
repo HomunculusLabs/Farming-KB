@@ -105,6 +105,8 @@ In traditional medicine, [[halpern-sacramental-peyote-and-native-american-church
 
 ## See Also
 
+- [[weigela-florida]]
+
 - [[cornus-mas]]
 - [[nyssa-sylvatica]]
 - [[oxydendrum-arboreum]]

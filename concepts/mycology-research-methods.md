@@ -4,24 +4,22 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, biology, lab-technique, field-methods, methods, taxonomy, genomics, microscopy]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
-  - "raw/papers/laminar-flow-hood-construction-1.md"
+sources: []
 ---
 
 # Mycology Research Methods
 
 ## Overview
 
-Mycology — the study of fungi — employs a diverse toolkit of field, laboratory, and computational methods. The discipline spans from traditional [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] and identification to cutting-edge genomic sequencing and metabolomics. This guide covers the core methods used in [[telluride-mushroom-festival-modern-mycological-culture]] research.
+Mycology — the st [[biodiversity-of-fungi-endophytic-fungi]] ungi — employs a diverse toolkit of field, laboratory, and computational methods. The discipline spans from traditiona [[mushroom-foraging-safety]] n [[psychedelic-mushrooms-species-and-identification]] on to cutting-edge genomic sequencing and metabolomics. This guide covers the core methods used [[telluride-mushroom-festival-modern-mycological-culture]] cal research. (see [[myxomycete-sampling-collection-moist-chamber-culturing]]).
 
 ## Field Methods
 
 ### Survey and Collection
 
-Systematic fungal surveys require careful planning and documentation:
+Systematic fungal surveys require [[homestead-planning-and-zoning]] ning and documentation:
 
-- **Site selection**: Based on habitat type, substrate availability, season, and research questions. Transect-based sampling, plot-based surveys, and opportunistic collection each serve different purposes
+- **Site selection**: Based on habitat type, substrate availability,[[psychedelic-therapy-and-research]] research questions. Transect-based sampling, plot-based surveys, and opportunistic collection each serve different purposes
 - **Seasonal timing**: Most temperate fungi fruit in autumn (September-November in the Northern Hemisphere), but many species fruit in spring or other seasons. Multi-season surveys are necessary for comprehensive inventories
 - **Collection protocol**:
   - Photograph specimens in situ before collection (cap, gills/pores, stipe, habitat, substrate)
@@ -35,8 +33,8 @@ Systematic fungal surveys require careful planning and documentation:
 
 Non-invasive methods to detect fungal presence from environmental samples:
 
-- **Soil cores**: Collect soil samples (5-10 cm depth) and extract total DNA. Metabarcoding reveals the complete [[air-pollution-fungal-community-responses]] (mycobiome) present, including non-fruiting species
-- **Air sampling**: Spore traps (Burkard volumetric sampler, Rotorod, passive settling plates) capture airborne spores for both allergen monitoring and [[fungal-biodiversity-assessment-methods]]
+- **Soil cores**: Collect soil samples (5-10 cm depth) and extract total DNA. Metabarcoding reveals the complete fungal community (mycobiome) present, including non-fruiting species
+- **Air sampling**: Spore traps (Burkard volumetric sampler, Rotorod, passive settling plates) capture airborne spores for both allergen monitoring and biodiversity assessment
 - **Water sampling**: For aquatic fungi; filter known volumes of water through sterile filters and extract DNA
 - **Substrate sampling**: Collect small pieces of wood, leaf litter, or dung for eDNA extraction
 
@@ -61,21 +59,21 @@ All fungal culture work requires strict aseptic (sterile) technique to prevent c
 
 ### Media Preparation
 
-Common [[fungal-culture-media]]:
+Common fungal culture media:
 
 - **Potato Dextrose Agar (PDA)**: General-purpose medium; supports growth of most fungi. 200g potato, 20g dextrose, 15g agar per liter. Autoclave at 121°C for 15 minutes
-- **[[malt-extract-agar]] (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
+- **Malt Extract Agar (MEA)**: Similar to PDA; good for mushroom-forming fungi. 30g malt extract, 15g agar per liter
 - **Sabouraud Dextrose Agar (SDA)**: Standard clinical mycology medium; acidic pH (5.6) inhibits bacterial growth. 40g dextrose, 10g peptone, 15g agar per liter
 - **Cornmeal Agar (CMA)**: Promotes sporulation in many fungi; useful for microscopic identification
 - **Minimal media**: Defined synthetic media for studying nutritional requirements and metabolic capabilities
-- **Selective media**: Media with antibiotics (chloramphenicol, gentamicin) to suppress bacterial contamination; cycloheximide to inhibit [[saprotrophic-fungi]] when isolating pathogens
+- **Selective media**: Media with antibiotics (chloramphenicol, gentamicin) to suppress bacterial contamination; cycloheximide to inhibit saprotrophic fungi when isolating pathogens
 
 ### Isolation Methods
 
-- **[[spore-print]] isolation**: Collect spores on sterile paper or glass, then streak onto agar using a sterile loop. Individual spores germinate into pure cultures
+- **Spore print isolation**: Collect spores on sterile paper or glass, then streak onto agar using a sterile loop. Individual spores germinate into pure cultures
 - **Tissue culture**: Cut small pieces (2-3 mm) from the interior of a fresh fruiting body using a flame-sterilized scalpel. Place on agar surface. The interior tissue is typically sterile
-- **Single [[single-spore-isolation-and-monokaryon-culture]]**: Dilute spore suspension to achieve ~1 spore per plate, or use micromanipulation under a dissecting microscope to transfer individual spores
-- **Soil [[particle-filtration-dilution-plating-microfungal-isolation]]**: Serial dilution of soil samples plated on selective media for quantitative assessment of soil fungal populations
+- **Single spore isolation**: Dilute spore suspension to achieve ~1 spore per plate, or use micromanipulation under a dissecting microscope to transfer individual spores
+- **Soil dilution plating**: Serial dilution of soil samples plated on selective media for quantitative assessment of soil fungal populations
 - **Baiting**: Place sterile substrates (hair, snake skin, insect exoskeleton, cellulose) in soil or water samples to bait specific fungi. Transfer growing hyphae to agar
 
 ### Culture Maintenance
@@ -143,8 +141,10 @@ Provides high-resolution surface detail:
 - **DNA Sequencing**:
   - **Sanger sequencing**: Standard for single-locus identification. PCR product purified and sequenced bidirectionally. Cost-effective for routine identification
   - **Next-generation sequencing (NGS)**: Illumina MiSeq for metabarcoding; sequences hundreds of samples simultaneously using barcode-tagged primers
-## See Also
-- fungi-in-the-environment-soil-fungal-community-structure
-- [[fungi-in-the-environment-fungi-in-beetle-guts]]
-- [[query-role-of-fungi-in-soil-aggregation-and-erosion-prevention]]
-- fungi-in-the-environment-hyphal-tip-growth-and-spitzenkorper
+  - **Oxford Nanopore / PacBio**: Long-read sequencing for genome assemblies and resolving repetitive regions
+
+### Bioinformatics
+
+- **Sequence quality control**: Trimmomatic, FastQC for NGS data
+- **OTU/ASV clustering**: DADA2, UNOISE for denoising and clustering amplicon sequences into exact sequence variants
+- **Taxonomic assignment**: BLAST against UNITE database (fungal ITS), GenBank. QIIME2 pipeline for community analysis

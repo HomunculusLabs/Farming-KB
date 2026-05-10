@@ -23,7 +23,7 @@ sources:
 
 # African Psilocybin Mushroom Guide
 
-Distribution, ecology, and [[ethnomycology-cultural-significance-sacred-fungi]] of psilocybin-containing mushrooms across Africa. Africa holds special significance as the likely site of the oldest known mushroom use in human history (Tassili rock art, 7000-5000 BCE). Based on [[jochen-gartz]], [[gaston-guzman]], and [[john-w-allen]].
+Distribution, ecology, and cultural significance of psilocybin-containing mushrooms across Africa. Africa holds special significance as the likely site of the oldest known mushroom use in human history (Tassili rock art, 7000-5000 BCE). Based on [[jochen-gartz]], [[gaston-guzman]], and [[john-w-allen]].
 
 ## The Tassili Mushroom Cult (7000-5000 BCE)
 
@@ -31,7 +31,7 @@ The oldest known depictions of psychoactive mushroom use come from the Sahara De
 
 - **Locations:** Tassili-n-Ajjer (southern Algeria), Acacus Mountains (Libya), Ennedi Plateau (Chad)
 - **Depictions:** Anthropomorphic figures with mushroom-shaped heads engaged in ecstatic dancing. Dashed lines connecting mushrooms to figures' heads may represent the "flow of energy" or consciousness alteration.
-- **Mushroom shapes:** Two distinct forms — one resembling [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] (with acute umbo) and larger mushrooms with Amanita or Stropharia-like habitus
+- **Mushroom shapes:** Two distinct forms — one resembling Psilocybe semilanceata (with acute umbo) and larger mushrooms with Amanita or Stropharia-like habitus
 - **Colors:** White, ochre shades, and rare blue (possibly representing the bluing reaction characteristic of psilocybin mushrooms)
 - **Significance:** This represents the oldest known mushroom cult in human history, predating Mesoamerican mushroom stones by 5000+ years. See [[mushroom-folklore-and-culture]] for full discussion.
 
@@ -40,8 +40,8 @@ The oldest known depictions of psychoactive mushroom use come from the Sahara De
 ### West Africa
 
 - **Psilocybe cubensis:** Widely distributed in tropical lowlands from Senegal to Nigeria. Found on bovine dung in pastures and savanna woodland during rainy season.
-- **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]:** Common on cattle dung in West African savanna and forest-savanna mosaic zones. Particularly abundant in areas with traditional cattle herding.
-- **[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]:** Documented from West African pastures; less common than P. cyanescens.
+- **Panaeolus cyanescens:** Common on cattle dung in West African savanna and forest-savanna mosaic zones. Particularly abundant in areas with traditional cattle herding.
+- **Panaeolus subbalteatus:** Documented from West African pastures; less common than P. cyanescens.
 - **Seasonality:** Closely tied to the West African monsoon (May-October); peak fruiting during the height of the rainy season (July-September).
 
 ### Central Africa
@@ -71,7 +71,7 @@ The oldest known depictions of psychoactive mushroom use come from the Sahara De
 - **Panaeolus cyanescens:** Found in coastal and subtropical areas, particularly in cattle pastures.
 - **Psilocybe mairei:** Reported from South Africa; montane forest species.
 - **Conocybe species:** Some Conocybe species in southern Africa may contain psilocybin; documentation is limited.
-- **Seasonality:** [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] summer (November-March) for tropical/subtropical species.
+- **Seasonality:** Southern Hemisphere summer (November-March) for tropical/subtropical species.
 
 ### Madagascar
 
@@ -83,7 +83,7 @@ The oldest known depictions of psychoactive mushroom use come from the Sahara De
 
 - **Psilocybe mairei:** The best-documented psychoactive species from North Africa. Found in Morocco, Algeria, and Tunisia. Grows on decaying wood and forest litter in montane oak and cedar forests (Atlas Mountains).
 - **Inocybe species:** Some Inocybe species in North Africa may contain psilocybin, but documentation is limited.
-- **[[allegro-amanita-muscaria-properties-and-pharmacology]]:** Found in the Atlas Mountains cedar forests; culturally significant in some Berber communities.
+- **Amanita muscaria:** Found in the Atlas Mountains cedar forests; culturally significant in some Berber communities.
 - **Climate constraint:** The arid to semi-arid climate of most of North Africa limits mushroom diversity. Psilocybin species are primarily confined to montane forest zones with adequate rainfall.
 
 ## Traditional and Cultural Use
@@ -124,10 +124,9 @@ Major gaps in African psychoactive mycology:
 
 ## See Also
 
-- [[stamets-african-psilocybin-mushroom-distribution]]
-
 - [[psilocybin-mushroom-chemistry]] — Worldwide distribution overview
 - [[mushroom-folklore-and-culture]] — Tassili rock art and cultural significance
+- [[psilocybin-mushroom-chemistry]] — Chemical analysis methods
 - [[jochen-gartz]] — Discoverer of P. natalensis, Tassili researcher
 - [[gaston-guzman]] — Global distribution co-author
 - [[psychedelic-mushroom-history]] — Historical timeline

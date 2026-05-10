@@ -15,7 +15,7 @@ sources:
   - "Small, E. (2017). Cannabis: A Complete Guide. CRC Press."
   - "Mills, S. et al. (2020). \"Genetic structure of Cannabis sativa L. with a focus on chemotype and geographic origin.\" Genes, 11(11), 1321."
   - "Lewis, M.A. et al. (2018). \"Cannabis sativa L. botany and emerging horticultural applications.\" Horticultural Research, 5, 59."
-  - "ElSohly, M.A. et al. (2016). \"Changes in [[green-cannabis-potency-maximizing]] over the last two decades.\" Biological Psychiatry, 79(7), 613-619."
+  - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing over the last two decades.\" Biological Psychiatry, 79(7), 613-619."
 ---
 
 # Afghan Kush
@@ -115,6 +115,6 @@ genetics. Its influence permeates the vast majority of contemporary strains.
 
 ## See Also
 
-- [[og-kush]] — Descendant lineage carrying Afghan Kush genetics
+- [[og-kush-cannabis-entity]] — Descendant lineage carrying Afghan Kush genetics
 - [[sour-diesel]] — Hybrid strain with indirect Afghan Kush lineage via OG Kush
 - [[skunk-1]] — Foundational hybrid incorporating Afghani genetics

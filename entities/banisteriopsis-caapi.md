@@ -15,9 +15,9 @@ tags:
   - dmt-adjunct
 sources:
   - Schultes, R.E. & Hofmann, A. (1980). The Botany and Chemistry of Hallucinogens. 2nd ed. Charles C. Thomas.
-  - Rivier, L. & Lindgren, J.E. (1972). "'Ayahuasca,' the [[chiric-caspi-brunfelsia-south-american-hallucinogen]] hallucinogenic drink: An ethnobotanical and chemical investigation." Economic Botany, 26(2), 101-129.
+  - Rivier, L. & Lindgren, J.E. (1972). "'Ayahuasca,' the chiric-caspi-brunfelsia-south-american-hallucinogen hallucinogenic drink: An ethnobotanical and chemical investigation." Economic Botany, 26(2), 101-129.
   - Riba, J. et al. (2006). "Single dose of ayahuasca, a tropical hallucinogenic botanical beverage, enhances moods and cognitive performance." Journal of Psychoactive Drugs, 38(2), 175-182.
-  - Hamill, J.F. et al. (2019). "Ayahuasca: Pharmacology, clinical use, and toxicology." In: Handbook of [[permaculture-plants-medicinal-herbs-healing]], 2nd ed. CRC Press.
+  - Hamill, J.F. et al. (2019). "Ayahuasca: Pharmacology, clinical use, and toxicology." In: Handbook of permaculture-plants-medicinal-herbs-healing, 2nd ed. CRC Press.
   - McKenna, D.J. (2004). "Clinical investigations of the therapeutic potential of ayahuasca." MAPS Bulletin, 14(1), 6-11.
 ---
 
@@ -120,14 +120,7 @@ While *B. caapi* provides the MAO inhibition, the visionary component of ayahuas
 Less common admixtures include *Justicia pectoralis*, *Ilex guayusa* (for caffeine stimulation), and *Nicotiana rustica* (mapacho, for ceremonial purging).
 
 ## See Also
-
 - [[croton-lechleri]]
-
-- [[amanita-muscaria-entity]] — another culturally significant psychoactive fungus with different pharmacology
-- [[4-acetoxy-dmt]] — synthetic prodrug of DMT with clinical research applications
-
-## See Also
-
-- [[croton-lechleri]]
-
+- [[amanita-muscaria-entity]]
+- [[4-acetoxy-dmt]]
 - [[ayahuasca-and-banisteriopsis-caapi]]

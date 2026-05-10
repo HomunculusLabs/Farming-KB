@@ -16,7 +16,7 @@ type: concept
 
 # Deep-Organic History and Philosophy
 
-The story of [[natural-farming-vs-organic-vs-conventional]]ally in 1965, the forces arrayed
+The story of [[natural-farming-vs-organic-vs-conventional]] ally in 1965, the forces arrayed
 against organic methods were formidable: the U.S. Department of
 Agriculture with its scientists and enormous budget, all land-grant
 universities and agricultural schools, the extension service, every
@@ -67,6 +67,9 @@ Agriculture: A New Approach (1954), Leonard Wickenden's Make Friends
 with Your Land (1949), and Selman Waksman's The Soil and the Microbe
 (1931). K. D. White's Roman Farming documents that compost, green
 manures, mixed farming, and [[coleman-deep-organic-farming]],
+
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+See [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] for more on Query What Are The Best Ancient And Heritage Grains For Small Scale Farming.
 
 ## See Also
 

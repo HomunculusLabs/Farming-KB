@@ -14,7 +14,7 @@ sources:
   - Duke, J.A. & Ayensu, E.S. (1985). "Medicinal Plants of China." Reference Publications.
   - Li, J.X. et al. (2013). "A Review of the Phytochemistry and Pharmacology of Albizia Species." Journal of Ethnopharmacology 149(3): 815–828.
   - Zheng, Q. et al. (2013). "Albizia julibrissin: Phytochemistry, Pharmacology, and Traditional Uses." Evidence-Based Complementary and Alternative Medicine 2013: 1–10.
-  - USDA Forest Service. "Silvics of [[psilocybin-north-america-pacific-northwest]]: Albizia julibrissin." (1990).
+  - USDA Forest Service. "Silvics of psilocybin-north-america-pacific-northwest: Albizia julibrissin." (1990).
 ---
 
 ## Overview

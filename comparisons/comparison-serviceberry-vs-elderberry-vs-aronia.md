@@ -10,7 +10,7 @@ sources:
   - "Cornell University Cooperative Extension. Elderberry Production Guide, 2020."
   - "Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing."
   - "USDA NRCS PLANTS Database. Amelanchier, Sambucus, Aronia fact sheets."
-  - "Toensmeier, E. (2016). [[perennial-vegetables]]. Chelsea Green Publishing."
+  - "Toensmeier, E. (2016). perennial-vegetables. Chelsea Green Publishing."
 ---
 
 # Serviceberry vs. Elderberry vs. Aronia (Chokeberry)

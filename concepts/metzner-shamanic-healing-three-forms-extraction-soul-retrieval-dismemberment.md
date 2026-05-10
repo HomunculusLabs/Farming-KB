@@ -139,12 +139,8 @@ fundamentally different frameworks for understanding the nature of illness and
 the meaning of healing.
 
 ### The Role of Dramatic Experience
-Western psychotherapy typically proceeds through verbal interaction, insight,
-## See Also
 
+## See Also
 - [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]
-
 - [[metzner-three-forms-shamanic-healing-entheogenic-toxin-soul-dismemberment]]
-
 - [[shamanic-healing-modalities-extraction-soul-retrieval-dismemberment]]
-## See Also

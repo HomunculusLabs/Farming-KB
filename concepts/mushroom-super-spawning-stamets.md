@@ -143,7 +143,6 @@ primary substrate is multiplied through each generation. Strain degeneration
 from repeated subculturing can lead to loss of vigor, similar to excessive
 grain-to-grain transfers. Not all species are suitable; those requiring sterile
 substrates or specific nutritional profiles may not perform well.
-
 ## See Also
 - [[mycelium]]
 - [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]]

@@ -10,7 +10,7 @@ sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-
 
 # Psilocybe subbrunneascens
 
-**Psilocybe subbrunneascens** is a [[emcdda-psilocybin-mushroom-dose-and-effects]] in the family Hymenogastraceae, described from the highlands of Guatemala and subsequently reported from southern Mexico and Colombia. It was first formally described by gastón-guzmán in the 1980s during his extensive fieldwork on neurotropic fungi of Mesoamerica. The species is placed in [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Mexicanae, a group noted for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and preference for subtropical grassland habitats.
+**Psilocybe subbrunneascens** is a [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] in the family Hymenogastraceae, described from the highlands of Guatemala and subsequently reported from southern Mexico and Colombia. It was first formally described by gastón-guzmán in the 1980s during his extensive fieldwork on neurotropic fungi of Mesoamerica. The species is placed in [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Mexicanae, a group noted for [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] and preference for subtropical grassland habitats.
 
 ## Taxonomy
 

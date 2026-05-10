@@ -46,7 +46,7 @@ The PDC emphasizes that economic structures are not fixed -- they are designed c
 
 ## Legal and Governance Structures
 
-[[mollison-permaculture-community-legal-structure]] addresses the legal frameworks that govern land use, ownership, and community organization. These are among the most powerful invisible structures because they can either enable or prevent permaculture design implementation:
+[[mollison-pdc-community-legal-structure]] addresses the legal frameworks that govern land use, ownership, and community organization. These are among the most powerful invisible structures because they can either enable or prevent permaculture design implementation:
 
 - **Zoning laws**: Determine what activities can occur on a given piece of land. Restrictive zoning can prevent the integration of agriculture, residential, and commercial uses that permaculture design often requires.
 

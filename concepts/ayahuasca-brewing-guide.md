@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Ayahuasca is a psychoactive brew originating from the Amazon basin, used for millennia by indigenous peoples across Peru, Brazil, Colombia, Ecuador, and Bolivia. The brew combines two essential components: a DMT-containing leaf (typically Psychotria viridis, called chacruna) and a Banisteriopsis caapi vine that provides beta-carboline alkaloids functioning as monoamine oxidase inhibitors (MAOIs). Without the MAOI, orally ingested DMT is rapidly broken down by monoamine oxidase enzymes in the gut and liver, producing no psychoactive effect. The combination allows DMT to reach the bloodstream and cross the blood-brain barrier.
+Ayahuasca is a psychoactive brew originating from the Amazon basin, used for millennia by indigenous peoples across Peru, Brazil, Colombia, Ecuador, and Bolivia. The brew combines two essential components: a DMT-containing leaf (typically Psychotria viridis, called chacruna) and a Banisteriopsis caapi vine that provides beta-carboline alkaloids functioning as monoamine oxidase inhibitors (MAOIs). Without the MAOI, orally ingested DMT is rapidly broken down by monoamine oxidase enzymes in the gut and liver, producing no psychoactive effect. The combination allows DMT to reach the bloodstream and cross the blood-brain barrier. (see [[psychotria-viridis]]).
 
 The word "ayahuasca" comes from the Quechua language: "aya" (soul, spirit, dead) and "wasca" (vine, rope) — "vine of the soul" or "vine of the dead."
 
@@ -30,7 +30,7 @@ The word "ayahuasca" comes from the Quechua language: "aya" (soul, spirit, dead)
 
 ### Alternative DMT Sources
 - Diplopterys cabrerana (chaliponga) — stronger than chacruna, 15–30 g dried
-- [[entheogen-jurema-mimosa-hostilis-ethnobotany]] [[iboga-root-bark-preparation]] — used in Brazilian-style preparations
+- Mimosa hostilis root bark — used in Brazilian-style preparations
 - Psychotria carthaginensis — less common substitute
 
 ## Proportions and Ratios
@@ -41,7 +41,7 @@ A standard beginner brew uses approximately:
 - P. viridis leaf: 30–50 g dried
 - Water: 2–3 liters per reduction cycle
 
-The ratio can be adjusted: more vine produces a heavier, more bodily experience (the "mareación"), while more leaf produces more visual and cognitive effects. Traditional Shipibo curanderos often use very high proportions of vine.
+The ratio can be adjusted: more vine produces a heavier, more bodily experience (the "mareación"), while more leaf produces more visual and cognitive effects. Traditional Shipibo curanderos often use very high proportions of vine. (see [[dm-reference]]).
 
 ## Brewing Method
 
@@ -69,7 +69,7 @@ The ratio can be adjusted: more vine produces a heavier, more bodily experience 
 1. Combine all extracted liquid
 2. Return to low heat and reduce to a drinkable volume (100–200 ml per dose)
 3. The final brew should be dark, thick, and bitter — like a syrupy tea
-4. Store in glass bottles in a cool dark place; refrigeration extends [[psilocybin-shelf-life-stability]] to several weeks
+4. Store in glass bottles in a cool dark place; refrigeration extends shelf life to several weeks
 
 ## The Dieta
 
@@ -94,7 +94,7 @@ The dieta is considered essential for purification and sensitivity to the medici
 
 ## Ceremony Structure
 
-Traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] follow a general structure that varies between indigenous groups:
+Traditional ayahuasca ceremonies follow a general structure that varies between indigenous groups:
 
 1. **Opening**: The curandero (healer) calls upon the spirits, smokes mapacho (jungle tobacco), and sets the ceremonial space (the "maloca" or ceremonial hut)
 2. **Invocation**: Icaros (sacred songs) are sung to call the medicine and protect participants
@@ -112,7 +112,7 @@ Traditional [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]
 - Always have a sober sitter or experienced facilitator present
 - Pregnant and nursing women should not consume ayahuasca
 - See [[harmala-alkaloids]] for detailed information on beta-carboline pharmacology
-- See [[psychedelic-plants-legal-status]] for [[ayahuasca-tourism-legal-status-by-country]] by jurisdiction
+- See [[psychedelic-plants-legal-status]] for legal status by jurisdiction
 
 ## Related Topics
 

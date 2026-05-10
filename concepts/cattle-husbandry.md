@@ -1,18 +1,17 @@
 ---
-title: comparison-cattle-husbandry-vs-goat-husbandry
+title: Cattle Husbandry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, homesteading, livestock, forage, byproducts, livestock-health]
-sources:
-  sources: []
+sources: []
 ---
 
 # Cattle Husbandry
 
 Cattle are the largest and most land-intensive homestead livestock, but they
 offer unmatched production of meat, milk, and draft power. On a homestead
-scale, cattle are best managed through [[comparison-rotational-grazing-vs-continuous-grazing]] on improved pasture,
+scale, cattle are best managed through rotational grazing on improved pasture,
 minimizing purchased inputs and maximizing the conversion of forage to food.
 
 ## Beef Breeds
@@ -97,14 +96,14 @@ handler safety.
   newly weaned calves. Prevention: minimize weaning stress, vaccinate,
   good ventilation.
 - Pinkeye — contagious, seasonal (summer/fall). Treat with antibiotics,
-  [[jadam-fly-control-livestock]].
+  fly control.
 - Foot rot — caused by bacteria in wet/muddy conditions. Zinc sulfate foot
   baths, improve drainage.
-- Grass tetany — [[query-how-to-fix-magnesium-deficiency-in-cannabis]] in lactating cows on lush spring grass.
+- Grass tetany — magnesium deficiency in lactating cows on lush spring grass.
   Provide magnesium mineral supplement.
 - Bloat — frothy bloat on legume-rich pasture. Poloxalene blocks, manage
   legume intake.
-- Milk fever — [[knf-calcium-deficiency-symptoms]] at calving. Provide calcium pre-calving.
+- Milk fever — calcium deficiency at calving. Provide calcium pre-calving.
 
 ### Breeding Health
 - Bull breeding soundness exam (BSE) annually.
@@ -128,7 +127,7 @@ handler safety.
 - Cattle finished entirely on pasture and stored forage.
 - Longer finishing period: 24-30 months total (vs 18-20 for grain-finished).
 - Higher omega-3 fatty acids, CLA, vitamin E. Leaner meat.
-- Requires quality [[grassland-pasture-management-mollison]] and winter feed storage. See
+- Requires quality pasture management and winter feed storage. See
   [[hay-and-forage-management]].
 - Premium market prices available. Requires consistent marbling genetics.
 - Finish on high-quality pasture or stockpiled fescue for best results.
@@ -145,6 +144,7 @@ handler safety.
 - Grass-based with grain supplementation last 60-90 days. Good compromise
   for homesteads.
 
-## Related
+## Calf Management
 
-- [[cattle-health-and-production]]
+- Calving difficulty (dystocia) is higher in first-calf heifers. Monitor
+  closely. Assist only if necessary — know when to call a vet.

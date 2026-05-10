@@ -108,6 +108,8 @@ The spongy leaf parenchyma has been used as a packing material and wound dressin
 
 ## See Also
 
+- [[stratiotes-aloides]]
+
 - lemnaceae
 - eichhornia crassipes
 - [[lemna-minor]]

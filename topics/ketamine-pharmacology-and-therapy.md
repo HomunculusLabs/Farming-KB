@@ -117,7 +117,6 @@ fewer dissociative side effects.
 Ketamine hydrochloride appears as a white crystalline powder that is highly
 soluble in water, making it suitable for injection. It is stable at room
 temperature and has a long [[psilocybin-shelf-life-stability]] when stored properly. The chemical
-formula C13H16ClNO places it in the arylcyclohexylamine class, which also
 ## See Also
 
 [[ketamine-compound-profile]] | [[ketamine-dissociative-pharmacology]] |

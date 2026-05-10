@@ -135,7 +135,6 @@ These three features address a common set of challenges arising in expanded stat
 consciousness. The rapid rhythmic singing provides a stable auditory anchor that prevents
 the voyager from being overwhelmed by the intensity of the experience. The combination of
 darkness, minimal talking, and continuous singing works synergistically to prevent the
-common problem of becoming "stuck" in a particular vision, emotion, or thought loop. The
 ## See Also
 
 - [[hybrid-shamanic-therapeutic-rituals-metzner]]

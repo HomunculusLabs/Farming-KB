@@ -1,110 +1,122 @@
 ---
-title: Plant Photoreception — How Plants See Light
-source: grahamholmes-what-a-plant-knowsindd.md
-mined: 2026-05-08
-tags: [plant-biology, photoreception, phytochrome, phototropism, light-sensing,
-  chamovitz]
-aliases: [plant vision, how plants see, plant photoreceptors]
+title: Plant Photoreception
+created: 2026-05-09
+source: raw/papers/grahamholmes-what-a-plant-knowsindd.md
+tags: [plant-biology, photoreception, photoreceptors, light-sensing, botany]
+aliases: [plant vision, plant light perception, phytochrome, cryptochrome]
 ---
 
-# Plant Photoreception — How Plants See Light
+# Plant Photoreception
 
 ## Overview
 
-Plants monitor their visible environment continuously. They detect whether you
-approach them, whether you're wearing blue or red, whether you've moved their
-pot, and whether another plant has grown over them. While plants don't form
-images, their ability to perceive light in multiple wavelengths, intensities,
-and directions constitutes a genuine form of vision. [[phototropism]]
-- **Visible light** (400–700 nm): The primary photosynthetically active
-  radiation range
-- **Far-red light** (700–800 nm): Beyond human vision; plants use it for
-  [[phytochrome-red-far-red-ratio-shade-detection-plants]] and neighbor sensing
-- **Infrared**: Primarily sensed as thermal radiation affecting metabolism
+**Plant photoreception** is the ability of plants to detect and respond to
+light across a broad range of wavelengths. While plants do not form images,
+they possess sophisticated light-sensing systems perceiving color, direction,
+intensity, duration, and spectral quality. [[daniel-chamovitz]], in *What a Plant
+Knows* (2012), argues plant light sensing constitutes a legitimate form of
+"vision" — not pictorial, but functionally rich and ecologically critical.
 
-## Human Photoreceptors vs. Plant Photoreceptors
+## The Electromagnetic Spectrum and Plants
 
-### Human Vision
+Plants detect light across a wider spectral range than humans:
 
-The human retina contains approximately 125 million rods and 6 million cones
-— equivalent to a 130-megapixel digital camera in an area the size of a
-passport photo. Rods provide low-light, monochrome vision. Cones come in
-three types (red, green, blue), each containing specific photopsin proteins
-that absorb different wavelengths.
+- **Ultraviolet (UV, <400 nm)**: Triggers protective flavonoid production and
+  DNA repair mechanisms.
+- **Visible light (400-700 nm)**: Used for photosynthesis and photomorphogenesis,
+  from violet/blue (short wavelength) to red (long wavelength).
+- **Far-red light (700-750 nm)**: [[plant-light-discrimination-beyond-human-vision]]; serves as a shade signal
+  indicating competition from neighboring vegetation.
+- **Infrared (>750 nm)**: Sensed as thermal radiation affecting temperature and
+  transpiration rates.
 
-### Plant Photoreceptors
+In spectral range, plants have a **broader perceptual range** than humans.
 
-Plants use multiple families of photoreceptor proteins, each sensitive to
-different wavelengths:
+## Plant Photoreceptor Families
 
-- **Phytochromes**: Detect red (660 nm) and far-red (730 nm) light.
-  Exist in two interconvertible forms: Pr (absorbs red) and Pfr (absorbs
-  far-red). Critical for [[cannabis-seed-germination-methods]], shade avoidance, and flowering
-  time regulation.
-- **Cryptochromes**: Blue-light receptors involved in circadian rhythm
-  regulation, de-etiolation, and phototropism.
-- **Phototropins**: Blue-light receptors that mediate phototropic bending,
-  chloroplast movement, and stomatal opening.
-- **UVR8**: UV-B receptor that triggers protective responses including
-  flavonoid production.
+### Phytochromes
 
-## What Plants Perceive
+The most extensively studied plant photoreceptors, existing in two
+interconvertible forms:
 
-### Light Direction
+- **Pr (P660)**: Absorbs red light (~660 nm), converts to Pfr
+- **Pfr (P730)**: Absorbs far-red light (~730 nm), converts to Pr
 
-Plants detect the direction of light through phototropins. When light comes
-from one side, auxin (a plant hormone) redistributes to the shaded side of
-the stem, causing cells on that side to elongate more and the plant to bend
-toward the light. Charles Darwin and his son Francis first demonstrated
-this in 1880, showing that the light-sensitive region is at the tip of the
-shoot.
+This red/far-red system detects R:FR ratios. In sunlight, R:FR ≈ 1.2. Under
+a canopy, chlorophyll absorbs red while transmitting far-red, lowering R:FR
+to 0.1 or below — an unambiguous **[[phytochrome-red-far-red-ratio-shade-detection-plants]] signal**.
 
-### Light Intensity
+Phytochrome responses include seed germination, [[shade-avoidance-syndrome]] (stem
+elongation, reduced branching, accelerated flowering), and photoperiodism.
 
-Plants measure total light quantity (irradiance) and adjust their physiology
-accordingly:
+### Cryptochromes
 
-- [[darkness-low-light-facilitation-entheogenic-ceremonies]] (shade): Increase [[bloomfield-rust-germ-tube-tactile-sensing-leaf-surface-navigation]] area, reduce root:shoot ratio,
-  stretch stems to reach light
-- High light (sun): Develop thicker leaves, increase protective pigments,
-  adjust photosynthetic machinery
-- Very low light (darkness): Etiolation — pale, elongated growth seeking
-  light
+Blue-light receptors related to DNA photolyase enzymes, mediating:
 
-### Light Duration (Photoperiod)
+- De-etiolation: inhibiting stem elongation upon emergence into light
+- Circadian clock entrainment: synchronizing rhythms with light/dark cycles
+- Phototropism: directional growth toward blue light (shared with phototropins)
 
-Plants measure [[coleman-winter-day-length-and-persephone-months]] to coordinate seasonal activities:
+### Phototropins
 
-- **Long-day plants** flower when days exceed a critical length
-- **Short-day plants** flower when days fall below a critical length
-- **Day-neutral plants** flower regardless of photoperiod
-- This measurement is made by phytochromes tracking the red:far-red ratio
+Blue-light receptors regulating:
 
-### Light Color
+- **Phototropism**: directional growth toward light (see
+  [[phototropism-light-sensing]])
+- **Chloroplast relocation**: moving to maximize absorption in low light or
+  avoid photodamage in intense light
+- **Stomatal opening**: blue-light triggered ion channel activation
 
-Plants distinguish between wavelengths to assess their environment:
+### UV-B Receptors (UVR8)
 
-- High red:far-red ratio indicates open sky (no competing vegetation)
-- Low red:far-red ratio indicates shade from other plants (chlorophyll
-  absorbs red but transmits/reflects far-red)
-- [[chamovitz-julius-von-sachs-blue-light-phototropism]] indicates unshaded conditions; absence of blue triggers
-  shade avoidance responses
+Detect UV-B radiation (280-315 nm), triggering flavonoid production, DNA
+repair activation, and stress-responsive gene expression.
 
-## Photomorphogenesis
+## Functional Equivalence to Vision
 
-Light triggers profound developmental changes in plants beyond simple
-directional growth:
+Chamovitz argues plant light sensing deserves to be called "vision." A person
+born blind who gained the ability to distinguish light/dark, perceive color,
+detect direction, measure intensity, and respond behaviorally would be
+described as having sight. Plants possess all five capabilities through their
+photoreceptor systems — the difference is mechanism, not capability.
 
-- **Seed germination**: Many seeds require light (photoblastic seeds)
-- **De-etiolation**: Transition from dark-grown to light-grown form —
-  chlorophyll synthesis, leaf expansion, inhibition of stem elongation
-- **Chloroplast development**: Light is required for chloroplast
-  maturation and photosynthetic competence
-- **Pigment production**: Anthocyanins, flavonoids, and other protective
-  compounds are induced by specific light wavelengths
+## Information Plants Extract
+
+Through their photoreceptor suite, plants continuously monitor:
+
+- **Spectral quality**: What wavelengths are present (open field vs. canopy)
+- **Light direction**: Where light comes from, enabling oriented growth
+- **Light intensity**: Regulating photosynthetic rate and protective responses
+- **Photoperiod**: Day length for seasonal timing of flowering and dormancy
+- **Light fluctuations**: Clouds, sunflecks, sudden canopy gaps
+
+## Comparison with Animal Vision
+
+| Feature | Human Vision | Plant Photoreception |
+|---|---|---|
+| Image formation | Yes (lens + retina) | No |
+| Spectral range | ~400-700 nm | ~280-750 nm |
+| Directional sensing | Yes | Yes (phototropism) |
+| Color discrimination | Yes (3 cone types) | Yes (multiple receptors) |
+| UV perception | No | Yes |
+| Far-red perception | No | Yes |
+
+## Other Photoreceptors
+
+- **Zeitlupe (ZTL)**: Blue-light receptor regulating circadian clock protein
+  degradation and period length.
+- **NEPH**: Light-sensitive ion channels in algae, enabling direct light-to-
+  electrical [[fungal-environmental-sensing-signal-transduction]].
+
+## Agricultural Relevance
+
+- **Greenhouse lighting**: LED spectra tuned to phytochrome, cryptochrome, and
+  phototropin absorption peaks for optimal growth
+- **Canopy management**: Spacing and pruning to maintain optimal R:FR ratios
+- **[[chrysanthemum-greenhouse-photoperiod-manipulation]]**: Controlling flowering in Cannabis and other
+  crops by managing dark period duration
 
 ## See Also
 
-- phytochrome-and-shade-avoidance
-- [[plant-memory]]
-- [[plant-photoreception-and-phototropism]]
+- [[phototropism-light-sensing]]
+- [[plant-sensory-biology]]

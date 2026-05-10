@@ -108,6 +108,8 @@ Phenological monitoring has documented earlier frond emergence in recent decades
 
 ## See Also
 
+- [[deparia-acrostichoides]]
+
 - [[cystopteris-fragilis]]
 - [[woodsia-obtusa]]
 - [[equisetum-arvense]]

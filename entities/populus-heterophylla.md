@@ -13,7 +13,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Eckenwalder, J.E. (1996). "Systematics and evolution of Populus." In: Stettler, R.F. et al. (eds.), Biology of Populus and Its Implications for Management and Conservation. NRC Research Press.
   - Dickmann, D.I. & Kezler, K.J. (2001). "Poplar culture in North America." In: Dickmann, D.I. et al. (eds.), Poplar Culture in North America. NRC Research Press.
-  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
+  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees (Native and Naturalized)." USDA Forest Service Agriculture Handbook 541.
 ---
 
 ## Overview

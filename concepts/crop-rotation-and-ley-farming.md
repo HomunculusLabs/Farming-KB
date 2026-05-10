@@ -139,11 +139,8 @@ is applied.
 Solomon's approach treats the garden as an integrated system where
 periods of production are balanced with periods of restoration. This
 is not merely a gardening technique — it is a philosophy of
-## See Also
 
+## See Also
 - [[dryland-vegetable-gardening]]
 - [[seed-saving-and-variety-selection]]
-
-## See Also
-
 - [[fukuoka-crop-rotation-natural-farming]]

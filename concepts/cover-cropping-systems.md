@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [agriculture, soil-health, cover-crops, permaculture, sustainability]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
   - ~/wiki/raw/papers/a-selection-permaculture-plants.md
 type: concept
 ---

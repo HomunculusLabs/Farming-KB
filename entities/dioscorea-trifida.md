@@ -18,7 +18,7 @@ sources:
   - Mignouna, H.D. et al. (2009). "Yams (Dioscorea spp.): conservation
     genetics." In: Biotechnology and Plant Genetic Resources. CABI.
   - Arnolin, R. et al. (2017). "The domestication of yam." Economic Botany.
-  - Lebot, V. (2009). Tropical Root and [[comparison-permaculture-tuber-crops-vs-bean-growing-guide]]: Cassava, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]],
+  - Lebot, V. (2009). Tropical Root and comparison-permaculture-tuber-crops-vs-bean-growing-guide: Cassava, comparison-cassava-vs-taro-vs-sweet-potato-vs-yam,
     Yams and Aroids. CABI.
 ---
 

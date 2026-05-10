@@ -12,9 +12,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service.
-  - Sternberg, G. (2004). "Native Trees for [[growing-gourmet-north-american-reishi-species]] Landscapes." Timber Press.
+  - Sternberg, G. (2004). "Native Trees for growing-gourmet-north-american-reishi-species Landscapes." Timber Press.
   - Kormanik, P.P. (1990). "Liquidambar styraciflua L." In: Silvics of North America, Vol. 2. USDA.
-  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees." USDA Forest Service Agricultural Handbook 541.
+  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees." USDA Forest Service Agricultural Handbook 541.
 ---
 
 ## Overview

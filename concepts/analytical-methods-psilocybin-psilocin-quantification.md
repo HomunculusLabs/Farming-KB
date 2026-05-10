@@ -115,6 +115,9 @@ Electrochemical biosensors using screen-printed carbon electrodes modified with 
 
 ## See Also
 
+- [[reversed-phase-hplc-tlc-confirmation-psilocybin-psilocin-quantification-bigwood-beug]]
+- [[reversed-phase-hplc-tryptamine-alkaloid-quantification-methodology]]
+
 - [[bigwood-beug-miniculture-rye-grain-flush-variation-method]]
 - [[street-sample-potency-variability-in-psilocybe-cubensis]]
 - [[tihkal-psilocin-psilocybin-chemistry]]

@@ -120,10 +120,6 @@ sativa cultivation looks increasingly promising as breeding and
 growing techniques continue to improve and evolve.
 
 ## See Also
-
 - [[haze-breeding-lineage]]
 - [[low-stress-training]]
-
-## See Also
-
 - [[cannabis-sativa-indoor-challenges-and-solutions]]

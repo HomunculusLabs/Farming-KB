@@ -31,7 +31,7 @@ Fungal hyphae extend exclusively at the tip through a process called apical grow
 
 Branching increases the surface area for resource capture:
 
-- **Lateral branching**: New branches emerge from subapical regions of existing hyphae. Branching is stimulated by [[ph-and-nutrient-availability-garden-soils]] and inhibited by local nutrient depletion.
+- **Lateral branching**: New branches emerge from subapical regions of existing hyphae. Branching is stimulated by nutrient availability and inhibited by local nutrient depletion.
 - **Apical branching**: The hyphal tip bifurcates, producing two new growing tips. Common when the hypha encounters favorable conditions.
 - **Branch density regulation**: Fungi adjust branching density in response to resource distribution. Nutrient-rich patches stimulate dense branching; nutrient-poor areas result in widely spaced, rapidly extending hyphae.
 
@@ -53,7 +53,7 @@ Different fungal species employ distinct mycelial growth patterns to explore and
 - **Phalangeal (dense) strategy**: Slow extension with high branching density, creating a dense front that thoroughly exploits local resources. Typical of many litter-decomposing fungi.
 - **Linear (cord-forming) strategy**: Rapid extension of individual hyphae with minimal branching, forming distinct cords or rhizomorphs. These structures efficiently translocate resources from nutrient-rich to nutrient-poor areas. Typical of many wood-inhabiting basidiomycetes (e.g., *Phanerochaete velutina*, *Hypholoma fasciculare*).
 - **Domain strategy**: Intermediate between phalangeal and linear; moderate extension rate with intermittent branching, creating distinct "domains" or "territories." Typical of many ectomycorrhizal fungi.
-- **Diffuse strategy**: Widely dispersed, fine hyphae with extensive branching. Typical of many [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi.
+- **Diffuse strategy**: Widely dispersed, fine hyphae with extensive branching. Typical of many arbuscular mycorrhizal fungi.
 
 ### Rhizomorphs and Cords
 
@@ -68,13 +68,13 @@ Some fungi produce specialized, differentiated structures for long-distance reso
 Fungal hyphae of the same individual (or compatible individuals) can fuse:
 
 - **Genetic compatibility**: Anastomosis typically occurs only between hyphae of the same species and compatible mating type. Incompatible fusions trigger defense reactions (septal plugging, programmed cell death).
-- **Network formation**: Anastomosis creates a fully interconnected mycelial network, allowing cytoplasmic streaming and [[mycelial-network-resource-sharing-plants]] across the entire colony.
+- **Network formation**: Anastomosis creates a fully interconnected mycelial network, allowing cytoplasmic streaming and resource sharing across the entire colony.
 - **Colony integration**: A mycelial network can behave as a coordinated whole, with resources flowing from rich to poor regions. This integration allows fungi to grow across nutrient-poor areas by subsidizing growth from distant nutrient-rich patches.
 - **Size**: Some fungal individuals (genets) are enormous. *Armillaria ostoyae* in Oregon's Blue Mountains covers approximately 2,385 acres (965 hectares) and is estimated to be 2,400-8,650 years old, making it one of the largest and oldest living organisms.
 
 ## Resource Translocation
 
-Fungi move resources through their [[fungal-mycelial-networks-nutrient-translocation]] via cytoplasmic streaming:
+Fungi move resources through their mycelial networks via cytoplasmic streaming:
 
 - **Carbon translocation**: Photosynthate from mycorrhizal hosts, or carbon captured from decomposing organic matter, can be moved to growing tips, fruiting body initials, or storage structures
 - **Phosphorus translocation**: AM fungi transport phosphorus from soil uptake sites (external hyphae) to the plant interface (arbuscules) as polyphosphate granules
@@ -125,7 +125,7 @@ Fungi respond to temporal changes in resource availability:
 
 ### In Aquatic Environments
 
-- [[freshwater-fungi-aquatic-hyphomycetes-ascomycetes]] produce conidia adapted for underwater dispersal (tetraradiate or sigmoid shapes that improve trapping on substrates)
+- Aquatic hyphomycetes produce conidia adapted for underwater dispersal (tetraradiate or sigmoid shapes that improve trapping on substrates)
 - Growth rates in aquatic environments are typically slower than in terrestrial systems due to lower temperatures and lower oxygen availability
 - Fungi in streams decompose autumn-shed leaves, a process critical for stream food webs
 
@@ -137,13 +137,14 @@ Fungi respond to temporal changes in resource availability:
 - **Ergosterol**: Biochemical marker specific to living fungal membranes
 - **PLFA**: Phospholipid fatty acid analysis; 18:2omega6,9 is the primary fungal biomarker
 - **DNA-based**: Quantitative PCR of fungal ribosomal DNA
-## Related Pages
 
-- [[fungal-ecology]] -- fungal ecology overview
-- [[fungal-enzymatic-capabilities]] -- enzyme systems
-- [[fungal-nutrient-cycling-mineral-transformations]] -- nutrient cycling
-- [[fungi-soil-food-webs]] -- soil food web roles
-- [[fungal-ecology-decomposition-cycles]] -- [[fungal-decomposition-succession-resource-quality]]
-- [[mycorrhizal-types]] -- mycorrhizal growth forms
-- [[no-till-gardening-method]] -- preserving fungal networks
-- [[soil-health-indicators]] -- assessing soil biology
+### Fungal Productivity
+
+- **Turnover rates**: Fungal biomass turns over relatively slowly compared to bacteria -- weeks to months in soil vs hours to days for bacteria
+- **Carbon allocation**: In ECM systems, 15-30% of net primary production is allocated to fungal biomass
+- **Fruiting body production**: The visible "mushroom" represents only a small fraction of total fungal biomass. Fruit body production is highly seasonal and responsive to environmental triggers (temperature, moisture, substrate availability)
+
+## Implications for Management
+
+Understanding fungal growth dynamics informs several practical applications:
+

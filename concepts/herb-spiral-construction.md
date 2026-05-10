@@ -4,17 +4,16 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, permaculture, design, plants, homesteading]
-sources:
-  sources: []
+sources: []
 ---
 
 # Herb Spiral Construction
 
-An herb spiral is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moisture-loving plants at the bottom to drought-tolerant [[query-best-mediterranean-herbs-for-beginner-herb-garden]] at the top — all within a 5-6 foot diameter circle.
+An herb spiral is a three-dimensional, spiral-shaped garden bed that creates multiple microclimates in a compact footprint. Rising from ground level to approximately 3-6 feet at the center, a single herb spiral can support a wide variety of herbs — from moisture-loving plants at the bottom to drought-tolerant Mediterranean herbs at the top — all within a 5-6 foot diameter circle. (see [[herb-spiral]]).
 
 ## The Concept
 
-The herb spiral is a classic [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] pattern that maximizes edge and microclimate diversity. By building upward in a spiral, you create:
+The herb spiral is a classic permaculture design pattern that maximizes edge and microclimate diversity. By building upward in a spiral, you create:
 
 - **Moisture gradient:** The bottom of the spiral collects runoff and stays damp; the top drains quickly and stays dry
 - **Sun exposure gradient:** The top receives full sun from all angles; lower portions may be shaded by the upper sections depending on orientation
@@ -29,7 +28,7 @@ The herb spiral is a classic [[bill-mollison-permaculture-a-designers-manual-per
 - **Diameter:** 5-6 feet (1.5-1.8 meters) at the base
 - **Height:** 3-6 feet (0.9-1.8 meters) at the center/top
 - **Path width:** The spiral path between the outer wall and the inner mound should be 12-18 inches wide for comfortable planting and harvesting
-- **Footprint:** Approximately 25-30 square feet — replaces a 50+ [[comparison-biointensive-vs-square-foot-gardening]] linear herb garden
+- **Footprint:** Approximately 25-30 square feet — replaces a 50+ square foot linear herb garden
 
 ### Location
 
@@ -52,7 +51,7 @@ Natural stone is the traditional and best material for herb spiral walls:
 
 ### Alternative Materials
 
-- **Concrete blocks:** Quick to build, durable. Fill cores with soil for planting.
+- **Concrete blocks:** Quick to build, durable. Fill cores with soil for planting. (see [[cold-frame-gardening]]).
 - **Bricks:** Good thermal mass, neat appearance. Can be dry-stacked or mortared.
 - **Timber:** Treated or naturally rot-resistant timber (cedar, redwood). Less thermal mass than stone.
 - **Earth bags:** Polypropylene bags filled with earth and stacked. Very low cost, excellent for earth-building enthusiasts.
@@ -98,7 +97,7 @@ Natural stone is the traditional and best material for herb spiral walls:
 
 ### 5. Install a Water Feature (Optional)
 
-- Place a small pond or bowl at the base of the spiral for aesthetics and to attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and frogs
+- Place a small pond or bowl at the base of the spiral for aesthetics and to attract beneficial insects and frogs
 - The moisture from the pond helps create the humid microclimate for moisture-loving herbs at the bottom
 
 ## Planting by Zone
@@ -143,8 +142,9 @@ Moisture-loving herbs that thrive in cooler, wetter conditions:
 
 - Watercress (Nasturtium officinale) — near the optional water feature
 - Mints (Mentha spp.) — contain in the moist bottom zone
-## Related Concepts
+- Vietnamese coriander (Persicaria odorata)
+- Lemon balm (Melissa officinalis)
+- Sweet woodruff (Galium odoratum)
 
-- [[keyhole-garden-design]] for another compact, intensive circular [[comparison-mandala-garden-design-vs-keyhole-garden-design]]
-- [[garden-bed-designs]] for larger-scale circular [[hamilton-garden-layout-beds-borders-paths]] patterns
-- [[solar-food-dehydrator-diy]] for preserving your herb harvest
+### North Side vs. South Side
+

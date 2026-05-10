@@ -53,9 +53,13 @@ McKenna situated the hypothesis within the environmental context of the African 
 The Stoned Ape hypothesis remains highly speculative and is not accepted within mainstream evolutionary biology or anthropology. Critics point to the absence of archaeological evidence, the difficulty of testing the hypothesis, and the availability of more conventional explanations for human cognitive evolution (social brain hypothesis, tool use, fire, cooking). However, McKenna's central insight — that the biochemical relationship between humans and psychoactive plants has been a neglected factor in understanding human cultural and cognitive development — continues to stimulate interdisciplinary discussion at the intersection of ethnobotany, evolutionary psychology, and consciousness studies.
 
 ## See Also
-
 - [[mckenna-food-gods-twilight-state-thinking]]
 - [[mckenna-stoned-ape-hypothesis-human-evolution]]
+- [[mckenna-food-gods-tassili-cave-paintings]]
+- [[mckenna-diet-symbiosis-human-evolution]]
+- [[psychedelic-mushroom-art-and-iconography]]
+- [[mckenna-food-of-the-gods-dominance-culture-and-ego]]
+
 ## Hominid Evolution and the Grasslands
 
 The first encounters between hominids and psilocybin-containing mushrooms may have predated the domestication of cattle in Africa by a million years or more. During this million-year period, the mushrooms were not only gathered and eaten but probably also achieved the status of a cult. Domestication of wild cattle, by bringing humans into greater proximity to cattle, also entailed increased contact with the mushrooms, because these mushrooms grow only in the dung of cattle. As a result, the human-mushroom interspecies codependency was enhanced and deepened.

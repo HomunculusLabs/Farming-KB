@@ -31,19 +31,28 @@ knowledge, time, and ongoing attention. Realistic assessment of what
 can be sustainably maintained helps prevent overextension and ensures
 that implementations remain viable and productive over the long term.
 
-## Common Challenges and Solutions
+## Temperature Ranges for Common Species
 
-Several recurring challenges tend to arise in work related to this
-topic. These include variability in environmental conditions, the
-complexity of multi-variable interactions, and the difficulty of
-predicting outcomes with certainty in dynamic systems. Anticipating
-these challenges enables more proactive and effective management.
+Different fungal species have distinct optimal colonization temperatures.
+Most gourmet and medicinal mushrooms colonize best between 70-78°F (21-26°C).
+Oyster mushrooms (*Pleurotus* spp.) tolerate a broader range, colonizing
+well from 65-85°F (18-29°C). Shiitake (*Lentinula edodes*) prefers slightly
+cooler conditions around 72-76°F (22-24°C). Temperatures above 85°F (29°C)
+stress most species and increase susceptibility to bacterial contamination.
+Temperatures below 60°F (16°C) slow colonization dramatically, extending
+the window during which contamination can take hold.
 
-Building resilience into implementations through diversity, redundancy,
-and adaptive capacity helps buffer against unpredictable events and
-conditions. This approach recognizes that some degree of uncertainty is
-inherent in working with natural systems and plans accordingly rather
-than assuming perfect predictability or control over outcomes.
+## Monitoring Colonization Progress
+
+Colonization speed varies by species, substrate, and inoculation method.
+Grain-to-grain transfer is typically fastest, colonizing quart jars in
+7-14 days. Liquid culture inoculation is similarly rapid. Spore syringe
+inoculation is slowest, often requiring 3-4 weeks due to the additional
+time needed for germination. Regardless of method, jars should be stored
+in darkness during colonization, as light exposure during this phase can
+trigger premature pinning and divert energy from vegetative growth.
+
+## Documentation and Record-Keeping
 
 Documentation and record-keeping support continuous improvement by
 creating a reference base of observations, interventions, and results.
@@ -58,11 +67,6 @@ understanding and improve available approaches. New techniques, tools,
 and analytical methods offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
-
 For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
@@ -71,3 +75,6 @@ foundation for developing deep expertise and contributing to the field.
 
 ## See Also
 - [[mycelium]]
+- [[hyphal-growth-dynamics]]
+- [[grain-spawn-preparation]]
+- [[contamination-identification-prevention]]

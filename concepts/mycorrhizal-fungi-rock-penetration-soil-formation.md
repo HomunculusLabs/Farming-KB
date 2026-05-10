@@ -139,7 +139,6 @@ Understanding rock-penetrating fungi has practical implications:
 - **Soil remediation** — fungi extract and concentrate heavy metals from
   contaminated substrates
 - **Sustainable agriculture** — promoting mycorrhizae reduces fertilizer
-  dependence
 ## Related Topics
 
 - [[hyphal-turgor-pressure-fungal-growth]] — the physical mechanism of

@@ -4,7 +4,7 @@ created: 2026-04-26
 tags: [mycology, mushroom-cultivation, harvesting, flushing, stamets]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources: []
+sources: []
 type: concept
 ---
 # Sustaining the Mushroom Crop — Flushing, Watering, Harvesting Chapter X of The Mushroom Cultivator covers the critical environmental factors that determine success once [[mushroom-cultivator-contaminants-identification]] and Bacterial Blotch.

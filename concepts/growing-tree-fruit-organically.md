@@ -4,8 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 # Growing Tree Fruit [[pruning-fruit-trees-and-bushes]] Organically
 

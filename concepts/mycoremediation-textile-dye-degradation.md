@@ -10,7 +10,7 @@ sources:
 
 ## Overview
 
-Fungal [[fungal-degradation-of-textile-dyes]] dyes is a major application of [[mycoremediation-techniques]]. The textile dye industry produces over 700,000 tons of synthetic dyes annually, with 10-15% lost directly to wastewater. These dyes — including azo, anthraquinone, phthalocyanine, triphenylmethane, and heterocyclic classes — are environmentally persistent, potentially carcinogenic, and resistant to conventional [[mollison-designers-wastewater-treatment-wetlands]].
+Fungal degradation of textile dyes is a major application of [[mycoremediation-techniques]]. The textile dye industry produces over 700,000 tons of synthetic dyes annually, with 10-15% lost directly to wastewater. These dyes — including azo, anthraquinone, phthalocyanine, triphenylmethane, and heterocyclic classes — are environmentally persistent, potentially carcinogenic, and resistant to conventional wastewater treatment.
 
 ## The Problem
 
@@ -37,8 +37,8 @@ Fungi decolorize and degrade dyes through several mechanisms (Table 10.4, Singh 
 
 About 50% of dye decolorization research involves white-rot fungi:
 
-- **[[staycare-phanerochaete-chrysosporium-in-bioremediation]]** — First established for polymeric dye degradation (Glenn and Gold, 1983); achieves 100% removal of Orange II, Azure B, Congo Red via [[singh-ligninolytic-enzymes-fungal-bioremediation]]
-- **[[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]]** — Superior to P. chrysosporium in many cases; 96% removal of Remazol Blue/Red; produces laccase, MnP, and LiP
+- **Phanerochaete chrysosporium** — First established for polymeric dye degradation (Glenn and Gold, 1983); achieves 100% removal of Orange II, Azure B, Congo Red via ligninolytic enzymes
+- **Trametes versicolor** — Superior to P. chrysosporium in many cases; 96% removal of Remazol Blue/Red; produces laccase, MnP, and LiP
 - **Bjerkandera adusta** — Reduces toxicity (EC50) of Reactive Blue 38 from 37 to 8-9 against Vibrio fischeri
 - **Pleurotus ostreatus** — 49% decolorization of olive mill wastewater; effective on multiple dye classes
 - **Irpex lacteus** — 90-100% removal of Reactive Black 5, RBBR, Cu-phthalocyanine, and Bromophenol Blue
@@ -46,7 +46,7 @@ About 50% of dye decolorization research involves white-rot fungi:
 ### Non-White-Rot Fungi
 
 - **Aspergillus foetidus** — >98% removal of Remazol dyes via adsorption
-- **[[staycare-cunninghamella-elegans-in-bioremediation]]** — Transforms Malachite Green via cytochrome P450-mediated N-demethylation
+- **Cunninghamella elegans** — Transforms Malachite Green via cytochrome P450-mediated N-demethylation
 - **Geotrichum sp.** — >99% removal of Reactive Black 5, Red 158, Yellow 27 via MnP and laccase
 
 ### Yeasts
@@ -72,7 +72,7 @@ The primary enzymes involved are [[mycoremediation-enzymology|laccases, lignin p
 
 ## Regulatory Context
 
-Color discharge limits exist worldwide: <200 ADMI units (US), absorbance-based standards (Germany), "water-white" discharges (UK), forbidden azo colorants (Denmark). See [[cotter-mycoremediation-overview]] for details.
+Color discharge limits exist worldwide: <200 ADMI units (US), absorbance-based standards (Germany), "water-white" discharges (UK), forbidden azo colorants (Denmark). See [[mycoremediation-overview]] for details.
 
 ## Related Concepts
 

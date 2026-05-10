@@ -2,8 +2,7 @@
 title: cervantes-powdery-mildew-prevention-treatment - Cannabis Disease Guide
 created: 2026-04-26
 updated: 2026-04-23
-sources:
-  sources: []
+sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [cannabis]

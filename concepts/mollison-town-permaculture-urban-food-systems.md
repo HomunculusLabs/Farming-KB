@@ -128,12 +128,12 @@ technologies as a form of government on ourselves and our appetites.
 - mollison-urban-permaculture
 - mollison-aquatic-polyculture-systems
 
-- [urban-permaculture](urban-permaculture.md)
-- [urban-agriculture](urban-agriculture.md)
-- [community-garden](community-garden.md)
-- [roof-water-harvesting](roof-water-harvesting.md)
-- [greywater-systems](greywater-systems.md)
-- [mollison-permaculture-two-introduction-design-principles](mollison-permaculture-two-introduction-design-principles.md)
+- urban-permaculture
+- urban-agriculture
+- community-garden
+- roof-water-harvesting
+- greywater-systems
+- [[mollison-permaculture-two-introduction-design-principles|mollison-permaculture-two-introduction-design-principles]]
 - [[zone-and-sector-analysis|Zone and Sector Analysis]]
 - [[bill-mollison]]
 - [[permaculture-principles]]

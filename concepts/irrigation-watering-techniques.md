@@ -1,5 +1,5 @@
 ---
-title: Irrigation and cannabis-watering-techniques-and-frequency
+title: Irrigation and Watering Techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,13 +9,13 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Irrigation and Watering Techniques
 
-Sprinkler irrigation and fertigation methods from Steve Solomon's *Gardening When It Counts*. Solomon provides a scientific framework for efficient garden irrigation.
+Sprinkler irrigation and fertigation methods from Steve Solomon's *Gardening When It Counts*. Solomon provides a scientific framework for efficient garden irrigation. (see [[solomon-drip-irrigation-limitations-home-garden]]).
 
 ## The Science of Soil Moisture
 
 ### Field Capacity
 
-When soil has absorbed all the water it can hold against the force of gravity, it is at field capacity. Like a sponge retaining all it can. After saturation, if more moisture is added, some starts dripping out the bottom.
+When soil has absorbed all the water it can hold against the force of gravity, it is at field capacity. Like a sponge retaining all it can. After saturation, if more moisture is added, some starts dripping out the bottom. (see [[wide-spacing-dry-gardening-low-irrigation-solomon]]).
 
 ### The Leaching Problem
 
@@ -81,9 +81,9 @@ It is important that the water sinks right in, making a surface wet spot no larg
 
 ### Fertigation Solutions
 
-**Manure or [[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]**: Fill a barrel (garbage can) with water, dump in a bucketful of fresh manure or compost, stir daily, allow to brew for about a week. Dip out concentrated tea and dilute as needed. When the barrel gets full of solids, spread them on the garden.
+**Manure or compost tea**: Fill a barrel (garbage can) with water, dump in a bucketful of fresh manure or compost, stir daily, allow to brew for about a week. Dip out concentrated tea and dilute as needed. When the barrel gets full of solids, spread them on the garden.
 
-**[[comparison-comfrey-tea-vs-compost-tea]] variation**: Put armloads of comfrey leaves in the brew instead of manure.
+**Comfrey tea variation**: Put armloads of comfrey leaves in the brew instead of manure.
 
 **Other amendments for the brew**:
 - Alfalfa (lucerne)
@@ -93,7 +93,7 @@ It is important that the water sinks right in, making a surface wet spot no larg
 
 ### Fertigation Benefits
 
-Fertigation is wise even when plants are getting enough water from rain or other irrigation. William Albrecht explained that much of what appears to be drought damage is actually [[cannabis-grow-nutrient-deficiency-problem-solving]] induced by dry surface soil when plant nutrients are located in the plowed surface layer.
+Fertigation is wise even when plants are getting enough water from rain or other irrigation. William Albrecht explained that much of what appears to be drought damage is actually nutrient deficiency induced by dry surface soil when plant nutrients are located in the plowed surface layer.
 
 Crop scientists noticed it took twice as much water to make a given weight of dry plant material on infertile soil as on highly fertile soil. Fertigation addresses both moisture and nutrition simultaneously.
 
@@ -104,7 +104,7 @@ If facing a serious drought without adequate irrigation:
 1. Thin crops immediately — harvest every second plant in every row. This instantly reduces moisture consumption while providing food, and doubles capillary moisture available to remaining plants.
 2. Hoe thoroughly at least weekly to keep surface soil loose, preventing crusting and evaporation.
 3. Start fertigation if at all possible.
-4. If water is extremely scarce, switch to [[comparison-foliar-feeding-vs-vermicompost-tea]] with kelp tea and fish emulsion.
+4. If water is extremely scarce, switch to foliar feeding with kelp tea and fish emulsion.
 5. Apply a dust mulch or loose organic mulch to the surface.
 
 ## Related

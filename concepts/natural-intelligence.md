@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -71,7 +70,7 @@ Anyone can suggest that some sort of wilful intelligence infuses reality. Many m
 
 Entheogens like psilocybin act as a living interface between the Other (Natural Intelligence) and the human mind. Through the mushroom experience, an individual can access transcendental information loaded with cultural and personal significance.
 
-Nature thus emerges as being incredibly smart as well as deadly. The [[emcdda-psilocybin-mushroom-dose-and-effects]] represents one of the means by which Natural Intelligence has ensured that conscious minds can come to understand their true situation within the reality process.
+Nature thus emerges as being incredibly smart as well as deadly. The [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] represents one of the means by which Natural Intelligence has ensured that conscious minds can come to understand their true situation within the reality process.
 
 Nature is smarter than we. The realization that entheogenic plants and fungi are part of the ecosystem inevitably affects the significance and import of the entheogenic experience. The concept of naturalness acts as an important context for the experience when it derives from a natural plant or fungus, connecting the individual to the living homeostatic systems of the Earth.
 

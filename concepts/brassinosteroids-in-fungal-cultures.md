@@ -115,10 +115,5 @@ brassinosteroid formulations (such as epibrassinolide and 24-epibrassinolide)
 used in agriculture could potentially be substituted.
 
 ## See Also
-
-- [[psilocybe-cubensis]] — species profile and cultivation overview
-
-## See Also
-
-- aseptic-inoculation-technique-fungal-cultures
+- [[psilocybe-cubensis]]
 - [[epibrassinolide]]

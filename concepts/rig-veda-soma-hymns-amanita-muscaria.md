@@ -142,7 +142,6 @@ Monitoring these conditions and adapting practices accordingly is
 a hallmark of experienced and effective practice in this area.
 
 Resource considerations include not only material inputs but also
-
 ## See Also
 - [[duggar-mushroom-environmental-factors-temperature-moisture-light]]
 - [[amanita-muscaria-living-vessel-grail]]

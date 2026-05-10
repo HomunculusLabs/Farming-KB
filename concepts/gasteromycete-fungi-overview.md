@@ -4,8 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Gasteromycete Fungi Overview Gasteromycetes (from Greek: gaster = stomach, mycetes = fungi, "stomach fungi") are stinkhorn-fungi-biology - **Cage fungi** (Clathrus, Anthurus, Laternea) - Elaborate cage or star-shaped receptacles [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
 - **Earth-stars** (Geastrum) - Puffballs surrounded by star-shaped outer layers that open upon

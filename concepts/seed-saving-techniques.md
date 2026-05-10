@@ -9,7 +9,7 @@ sources: []
 
 # Seed Saving Techniques
 
-Seed saving is the practice of harvesting, processing, and storing seeds from your garden for future planting. It is a foundational skill for self-sufficiency, genetic preservation, and the development of locally adapted [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]. Open-pollinated and heirloom varieties produce true-to-type seeds, while hybrids do not reliably do so.
+Seed saving is the practice of harvesting, processing, and storing seeds from your garden for future planting. It is a foundational skill for self-sufficiency, genetic preservation, and the development of locally adapted crop varieties. Open-pollinated and heirloom varieties produce true-to-type seeds, while hybrids do not reliably do so.
 
 ## Why Save Seeds
 
@@ -24,7 +24,7 @@ Seed saving is the practice of harvesting, processing, and storing seeds from yo
 
 - **Open-pollinated (OP)**: Varieties that breed true from seed. When you save seed from an OP variety and replant it, the offspring will closely resemble the parent. All heirloom varieties are open-pollinated.
 - **Hybrid (F1)**: First-generation crosses of two distinct parent lines. Hybrids are bred for specific traits (vigor, disease resistance, uniformity) but do not breed true — their offspring will segregate into a range of unpredictable types.
-- **Rule**: Only [[query-how-do-i-save-seeds-from-biennial-vegetables]] open-pollinated or heirloom varieties unless you are actively breeding.
+- **Rule**: Only save seeds from open-pollinated or heirloom varieties unless you are actively breeding.
 
 ## Isolation Distances
 
@@ -53,7 +53,7 @@ For seeds embedded in fleshy fruits: tomatoes, peppers, cucumbers, squash, melon
 
 Fermentation removes the gelatinous coating around seeds that inhibits germination and can harbor disease.
 
-1. **Extract**: Scoop seeds and surrounding gel into a [[sterile-spore-print-collection-glass-jar-technique]]. Add a small amount of water.
+1. **Extract**: Scoop seeds and surrounding gel into a glass jar. Add a small amount of water.
 2. **Ferment**: Leave the jar at room temperature (not in direct sun) for 2-4 days. A white mold layer will form on top. This fermentation breaks down the germination-inhibiting gel.
 3. **Rinse**: Add water, stir, and pour off the floating debris and mold. Viable seeds sink to the bottom. Repeat rinsing 3-4 times until water runs clear.
 4. **Dry**: Spread clean seeds on a non-stick surface (glass plate, wax paper, coffee filter). Label immediately. Dry in a warm, well-ventilated area out of direct sunlight for 1-2 weeks.
@@ -105,10 +105,10 @@ Proper storage maximizes seed longevity:
 - **Dry**: Seeds must be thoroughly dry before storage. Aim for 5-8% moisture content. A simple test: hit seeds with a hammer — if they shatter, they're dry enough. If they mash, they need more drying.
 - **Cool**: Store at 35-50°F (refrigerator is ideal). Freezing extends viability further but seeds must be completely dry to avoid ice crystal damage.
 - **Dark**: Light accelerates degradation. Use opaque containers.
-- **Airtight**: Use glass jars with tight lids. Include a desiccant packet ([[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]]) in humid climates.
+- **Airtight**: Use glass jars with tight lids. Include a desiccant packet (silica gel) in humid climates.
 - **Labeled**: Always label with variety, year, and any relevant notes.
 
-**Expected seed viability** (under proper [[vegetable-storage-conditions-by-temperature-and-humidity]]):
+**Expected seed viability** (under proper storage conditions):
 
 | Species | Viability (years) |
 |---------|------------------|
@@ -134,7 +134,7 @@ Saving seeds from heirloom varieties preserves this genetic heritage. Seed libra
 
 - [[seed-starting-reference]] — Germinating and growing your saved seeds
 - [[seasonal-planning]] — Planning your seed saving calendar
-- [[companion-planting-reference]] — [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] to support seed crops
+- [[companion-planting-reference]] — Companion planting to support seed crops
 - [[homesteading]] — Seed saving as a core homesteading skill
 
 ## Related

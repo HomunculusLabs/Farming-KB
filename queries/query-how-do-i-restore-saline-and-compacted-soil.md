@@ -6,7 +6,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - FAO. "Soil Salinity Management." Irrigation and Drainage Paper 71. Food and Agriculture Organization of the United Nations, Rome, 2020.
-  - USDA NRCS. "Soil Quality Indicators: Salinity and Sodicity." [[dmt-containing-plants-united-states-halpern]] Department of Agriculture, Natural Resources Conservation Service, 2021.
+  - USDA NRCS. "Soil Quality Indicators: Salinity and Sodicity." dmt-containing-plants-united-states-halpern Department of Agriculture, Natural Resources Conservation Service, 2021.
   - Qadir, M., et al. "Economics of salt-induced land degradation and restoration." Natural Resources Forum, vol. 38, no. 4, 2014, pp. 282-295.
   - Brady, N.C., and R.R. Weil. The Nature and Properties of Soils. 15th ed., Pearson, 2016.
   - Shainberg, I., and M.E. Sumner. "Effects of gypsum on soil physical and chemical properties." Advances in Soil Science, vol. 12, 1989, pp. 1-41.

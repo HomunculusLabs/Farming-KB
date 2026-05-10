@@ -15,9 +15,9 @@ updated: 2026-04-28
 sources:
   - Ravindran, P.N., et al. (2004). "Chemistry and technology of Pimenta." In: Spices. CRC Press, pp. 427–452.
   - Leung, A.Y., Foster, S. (1996). Encyclopedia of Common Natural Ingredients Used in Food, Drugs, and Cosmetics. 2nd ed. Wiley.
-  - Marquez, L., et al. (2008). "[[permaculture-designers-manual-essential-oil-plants]] composition of Pimenta dioica from Jamaica." Journal of Essential Oil Research, 20(1), 31–34.
+  - Marquez, L., et al. (2008). "permaculture-designers-manual-essential-oil-plants composition of Pimenta dioica from Jamaica." Journal of Essential Oil Research, 20(1), 31–34.
   - Morton, J.F. (1981). "Atlas of Medicinal Plants of Middle America." Springer.
-  - Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. CRC Press.
+  - Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. 2nd ed. CRC Press.
 ---
 
 ## Overview
@@ -136,6 +136,8 @@ screen in permaculture designs. Its [[dighton-fungal-drought-tolerance-plant-wat
 resistance, and longevity make it a low-maintenance, high-reward inclusion
 in food forest systems.
 ## See Also
+
+- [[carex-dioica]]
 
 - [[cinnamomum-verum]]
 - [[piper-nigrum-entity]]

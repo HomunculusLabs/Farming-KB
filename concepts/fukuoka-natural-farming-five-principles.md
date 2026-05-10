@@ -115,6 +115,8 @@ His work deeply influenced the [[permaculture]] movement, no-till agriculture, a
 
 ## See Also
 
+- [[fukuoka-five-principles-natural-farming-no-tillage-no-fertilizer]]
+
 - [[fukuoka-clay-pellet-revegetation]] — Desert greening technique
 - [[natural-farming-soil-management]] — Soil biology in natural farming
 - [[psychedelic-shamanism-as-death-practice]] — Indigenous plant knowledge traditions

@@ -10,7 +10,7 @@ tags: [natural-farming]
 
 # Integrated Pest Management
 
-In permaculture and natural farming, [[fungal-pest-control]]s, companion planting, strategic animal integration, and forest garden diversity keeps pests in balance.
+In permaculture and [[natural-farming]] ng]] ng]], [[fungal-pest-control]] s, [[companion-planting]], strategic animal integration, and forest garden diversity keeps pests in balance.
 
 ## Plant-Based Pest Control Strategies
 

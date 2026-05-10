@@ -144,7 +144,6 @@ Olives fruit primarily on one-year-old wood. Without pruning, trees become dense
 **Central Leader:** Single trunk with tiered lateral branches. Allows taller, narrower trees. Better suited to mechanical harvesting. Common in newer plantings in Australia and California.
 
 **Spindle/Bush:** Modified central leader with minimal pruning in early years. Good for medium-density plantings (400–600 trees/ha).
-
 ## Related
 - [[coleman-claytonia-winter-harvest-cultivation]]
 - [[clay-seed-pellet-production-method-concrete-mixer]]

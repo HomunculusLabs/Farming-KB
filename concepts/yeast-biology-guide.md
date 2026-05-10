@@ -22,7 +22,7 @@ Yeasts are defined by their growth form rather than strict taxonomy:
 
 ## Saccharomyces cerevisiae (Baker's/Brewer's Yeast)
 
-The most studied and commercially important yeast species.
+The most studied and commercially important yeast species. (see [[yeast-biology]]).
 
 ### Biology
 - Ellipsoidal cells, 5-10 um in diameter
@@ -49,7 +49,7 @@ Yeasts convert sugars to ethanol and CO2 through glycolysis followed by fermenta
 2. Pyruvate is decarboxylated to acetaldehyde (releasing CO2)
 3. Acetaldehyde is reduced to ethanol (regenerating NAD+)
 
-This pathway allows yeast to generate ATP anaerobically, which is why fermentation occurs in sealed containers without oxygen.
+This pathway allows yeast to generate ATP anaerobically, which is why fermentation occurs in sealed containers without oxygen. (see [[fungal-chlamydospore-formation-and-survival]]).
 
 ### Crabtree Effect
 S. cerevisiae exhibits the Crabtree effect: it preferentially ferments sugars to ethanol even in the presence of oxygen, when sugar concentration is high. This is unusual because most microorganisms respire when oxygen is available. The Crabtree effect is exploited in brewing and winemaking.
@@ -85,13 +85,13 @@ Relies on wild yeasts present on fruit, in the winery/brewery, or in the environ
 - Traditional cider making
 
 ### Sourdough Yeasts
-Sourdough is a symbiotic culture of wild yeasts and lactic [[lactic-acid-bacteria-knf]] (LAB). The dominant yeast is typically Kazachstania exigua (formerly Saccharomyces exiguus) or Candida milleri, which coexists with Lactobacillus sanfranciscensis. These yeasts are acid-tolerant, allowing them to thrive in the sourdough environment alongside LAB.
+Sourdough is a symbiotic culture of wild yeasts and lactic acid bacteria (LAB). The dominant yeast is typically Kazachstania exigua (formerly Saccharomyces exiguus) or Candida milleri, which coexists with Lactobacillus sanfranciscensis. These yeasts are acid-tolerant, allowing them to thrive in the sourdough environment alongside LAB.
 
 ## Brewing Applications
 
 ### Ale Fermentation (Saccharomyces cerevisiae)
 - Top-fermenting: yeast rises to the surface during active fermentation
-- [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]: 15-24 C
+- Temperature range: 15-24 C
 - Produces esters (fruity) and phenols (spicy, clove-like)
 - Styles: pale ale, IPA, stout, porter, Belgian ales, wheat beer
 
@@ -116,8 +116,8 @@ Yeast in baking produces CO2 which leavens dough, creating the light, airy textu
 - Bioethanol production: engineered yeast strains convert corn, sugarcane, or cellulosic biomass to fuel ethanol
 - Recombinant protein production: yeast is a preferred expression system for pharmaceuticals (insulin, hepatitis B vaccine, human serum albumin)
 - Nutritional supplements: inactive dry yeast (nutritional yeast) is rich in B vitamins and protein
-- [[marmite-yeast-extract-straw-substrate]]: used as flavor enhancer (Marmite, Vegemite) and growth medium supplement
-- Bioremediation: certain yeast species can biodegrade pollutants or accumulate [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
+- Yeast extract: used as flavor enhancer (Marmite, Vegemite) and growth medium supplement
+- Bioremediation: certain yeast species can biodegrade pollutants or accumulate heavy metals
 
 ## Related
 

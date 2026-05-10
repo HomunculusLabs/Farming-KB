@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [season-extension, gardening, permaculture, homesteading, construction]
-sources:
-  sources: []
+sources: []
 ---
 
 # Cold Frame Gardening
 
-A cold frame is a simple, bottomless box with a transparent lid that captures solar energy to create a warm, protected microclimate for plants. It is the most basic and affordable [[cervantes-season-extension-cloches-row-covers]] structure, providing 10-20°F of [[holzer-frost-protection-techniques]] and extending the [[savory-growing-season-and-non-growing-season-management]] by 4-8 weeks in both spring and fall. Cold frames are also indispensable for hardening off seedlings started indoors.
+A cold frame is a simple, bottomless box with a transparent lid that captures solar energy to create a warm, protected microclimate for plants. It is the most basic and affordable season extension structure, providing 10-20°F of frost protection and extending the growing season by 4-8 weeks in both spring and fall. Cold frames are also indispensable for hardening off seedlings started indoors. (see [[season-extension-techniques]]).
 
 ## How Cold Frames Work
 
@@ -33,7 +32,7 @@ Cold frames operate on the greenhouse effect:
 ### Standard Size
 
 - **Width:** 3-4 feet — allows you to reach all plants from the outside without stepping inside
-- **Length:** 4-8 feet — matches standard window sash dimensions and provides adequate [[cotter-growing-space-design-fruiting-rooms]]
+- **Length:** 4-8 feet — matches standard window sash dimensions and provides adequate growing space
 - **Front height (south side):** 8-12 inches
 - **Back height (north side):** 12-18 inches
 - **Slope:** Angled toward the south to maximize solar capture
@@ -56,7 +55,7 @@ The lid slopes from the higher back (north) to the lower front (south) to:
 
 ### Frame (Box)
 
-- **Plywood or OSB:** Cheap and easy to cut. Exterior-grade plywood lasts 5-10 years. Paint or seal for durability.
+- **Plywood or OSB:** Cheap and easy to cut. Exterior-grade plywood lasts 5-10 years. Paint or seal for durability. (see [[herb-spiral-construction]]).
 - **2x6 or 2x8 lumber:** More durable than plywood. Cedar, redwood, or treated lumber for longest life.
 - **Concrete blocks or bricks:** Very durable, good thermal mass. Heavy and not portable. Stack without mortar for a simple build.
 - **Straw bales:** Arrange bales in a rectangle and place an old window or glass door on top. Very low cost, excellent insulation, but temporary and attracts rodents.
@@ -128,7 +127,7 @@ Ventilation is the most important cold frame management task:
 ### Fall and Winter Uses
 
 - **Fall harvest extension:** Plant fall crops (lettuce, spinach, radishes, arugula, mache, claytonia) in September-October. Harvest through December or later depending on climate.
-- **Overwintering:** Sow hardy crops (spinach, garlic, onion sets, mache) in late fall for very [[coleman-overwintered-onions-and-early-spring-crops]] harvest
+- **Overwintering:** Sow hardy crops (spinach, garlic, onion sets, mache) in late fall for very early spring harvest
 - **Winter greens:** In mild climates (zone 7+), cold frames can produce greens year-round. In colder climates, add row cover inside for double protection.
 
 ### Planting Schedule (Zone 6 Example)
@@ -142,9 +141,10 @@ Ventilation is the most important cold frame management task:
 | September | Sow fall greens (lettuce, spinach, arugula, radishes) |
 | October | Sow overwintering crops (spinach, mache, garlic) |
 | November-December | Harvest fall crops; close lid at night |
-## Related Concepts
 
-- [[grow-tunnel-and-hoop-house]] for larger-scale season extension structures
-- [[solar-food-dehydrator-diy]] for another [[comparison-passive-solar-vs-earth-sheltered]] structure
-- [[geodesic-greenhouse-design]] for a permanent, year-round growing structure
-- [[cold-frame-construction]]
+## Maintenance
+
+- **Clean the lid:** Dirty glazing reduces light transmission by 20-40%. Wash periodically with mild soap and water.
+- **Check seals:** Replace weatherstripping around the lid if you notice gaps where heat escapes
+- **Replace the covering:** Poly film lasts 1-2 seasons; polycarbonate lasts 10+ years; old windows may need re-puttying
+- **Refresh the soil:** Add 1-2 inches of compost each spring before replanting

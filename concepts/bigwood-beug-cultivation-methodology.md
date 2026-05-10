@@ -117,6 +117,8 @@ psychoactive mushroom alkaloid content.
 
 ## See Also
 
+- [[bigwood-beug-amazon-strain-origin-pucalpa-peru]]
+
 - [[psilocybin-psilocin-variation-across-flushes]]
 - [[psilocybe-cubensis-cap-versus-stem-alkaloid-distribution]]
 - [[agaricus-bisporus]]

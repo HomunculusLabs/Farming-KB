@@ -2,8 +2,7 @@
 title: "mycelium running mycorrhizal mushroom gardens Gardens and Cultivation"
 created: 2026-04-26
 updated: "2025-04-23"
-sources:
-  sources: []
+sources: []
 type: concept
 tags: [gardening, mushroom-cultivation, mycelium, mycology, mycorrhizal]
 ---

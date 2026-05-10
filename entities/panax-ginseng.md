@@ -11,7 +11,7 @@ sources:
   - "Tachikawa, E. et al. (2019). Pharmacokinetics of ginsenosides after oral administration. Phytomedicine, 55, 175-182."
   - "World Health Organization (2021). WHO Monographs on Medicinal Plants, Volume 5. Geneva: WHO."
   - "Geng, J. et al. (2023). Clinical evidence for Panax ginseng in cognitive function: A systematic review and meta-analysis. Frontiers in Pharmacology, 14, 1123456."
-  - "Cho, W.C. et al. (2021). Ginseng and [[cancer-immune-modulation-mechanisms]]: Preclinical and clinical perspectives. Journal of Ethnopharmacology, 275, 114190."
+  - "Cho, W.C. et al. (2021). Ginseng and cancer-immune-modulation-mechanisms: Preclinical and clinical perspectives. Journal of Ethnopharmacology, 275, 114190."
   - "Choi, K.T. (2020). Environmental sustainability of wild-simulated ginseng cultivation in Korea. Sustainability, 12(7), 2815."
 created: 2026-05-07
 ---
@@ -117,6 +117,10 @@ Ginseng has occupied a central position in East Asian cultural and economic life
 In the 18th century, Korean ginseng was introduced to Europe by Jesuit missionaries and became one of the first East Asian medicinal plants to gain widespread attention in Western pharmacopoeias. The species was formally described by the Russian botanist Carl Anton von Meyer in 1842 based on specimens collected in the Ussuri River basin of the Russian Far East.
 
 ## See Also
+
+- [[saussurea-costus]]
+
+- [[comparison-panax-ginseng-vs-siberian-ginseng]]
 
 - [[platycodon-grandiflorus]]
 - [[psoralea-corylifolia]]

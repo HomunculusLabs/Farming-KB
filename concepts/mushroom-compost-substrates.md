@@ -1,6 +1,6 @@
 ---
 
-title: staycare-spent-mushroom-compost-bioremediation Substrates (Agaricus)
+title: Mushroom Compost Substrates (Agaricus)
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -15,13 +15,12 @@ tags:
 - composting
 
 sources:
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+- raw/papers/the-mushroom-cultivator-stamets.md
 ---
 
 # Mushroom Compost Substrates (Agaricus)
 
-[[cultivator-compost-preparation-phase-methods]] for Agaricus ([[growing-gourmet-button-mushroom-agaricus-cultivation]]) cultivation from Stamets' Mushroom Cultivator. For [[comparison-grain-spawn-vs-grain-to-grain-transfer]], wood-based substrates, supplements, and pasteurization, see [[mushroom-substrates]].
+Compost preparation for Agaricus (button mushroom) cultivation from Stamets' Mushroom Cultivator. For grain spawn, wood-based substrates, supplements, and pasteurization, see [[mushroom-substrates]].
 
 ## Purpose of Composting
 
@@ -29,7 +28,7 @@ The composting process prepares a nutritious medium that promotes mushroom mycel
 
 ## Compost Formulas (Stamets)
 
-**Formula I — [[falconer-horse-manure-varieties]] Compost** (~2,800 lbs at 70% moisture):
+**Formula I — Horse Manure Compost** (~2,800 lbs at 70% moisture):
 
 | Ingredient | Wet Wt (lbs) | % H2O | Dry Wt (lbs) | % N |
 |---|---|---|---|---|
@@ -51,7 +50,7 @@ Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed d
 
 ## Supplement Groups (Stamets)
 
-- **Group I** (high N, no [[hamilton-composting-and-organic-matter-management]]): Ammonium sulfate (21% N), ammonium nitrate (26% N), urea (46% N) — max 25 lbs/dry ton. Not for horse manure composts.
+- **Group I** (high N, no organic matter): Ammonium sulfate (21% N), ammonium nitrate (26% N), urea (46% N) — max 25 lbs/dry ton. Not for horse manure composts.
 - **Group III** (3-7% N, most widely used): Cottonseed meal (6.5% N), chicken manure (3-6% N), brewers' grains (3-5% N), peanut meal (6.5% N)
 - **Group IV** (low N, high carb — temperature boosters): Grape pomace, sugar beet pulp, cottonseed hulls — add at 250 lbs/dry ton
 - **Gypsum**: Essential at 50-100 lbs/dry ton. Aggregates colloidal particles (better aeration), increases water holding capacity, counteracts harmful K/Mg/P/Na concentrations, supplies calcium for mushroom metabolism.
@@ -75,21 +74,3 @@ Target initial nitrogen: 1.5-1.7%. Approximately 40% of dry matter is consumed d
 - [[mushroom-cultivation-basics]] — Stamets' 10-step cultivation process
 - [[mushroom-species-guide]] — Species-specific substrate requirements
 - [[mushroom-contamination-identification]] — Contamination prevention and recovery
-## Practical Considerations
-
-Successful implementation of Mushroom Compost Substrates (Agaricus) requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

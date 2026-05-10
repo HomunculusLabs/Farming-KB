@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Pollinators—bees, butterflies, moths, flies, beetles, wasps, and hummingbirds—are essential for ecosystem function and food production. Approximately 75% of flowering plants and 35% of global food crops depend on animal pollination. Pollinator populations are declining worldwide due to habitat loss, pesticide exposure, disease, and climate change. Creating and maintaining [[pollinator-habitat]] is one of the most impactful conservation actions a homesteader can take. This connects to [[native-plant-gardening|gardening]], conservation, and [[invasive-species-management]] practices.
+Pollinators—bees, butterflies, moths, flies, beetles, wasps, and hummingbirds—are essential for ecosystem function and food production. Approximately 75% of flowering plants and 35% of global food crops depend on animal pollination. Pollinator populations are declining worldwide due to habitat loss, pesticide exposure, disease, and climate change. Creating and maintaining pollinator habitat is one of the most impactful conservation actions a homesteader can take. This connects to [[native-plant-gardening|gardening]], conservation, and [[invasive-species-management]] practices.
 
 ## Native Bee Decline
 
@@ -77,7 +77,7 @@ Provide continuous bloom from early spring through late fall:
 - Serviceberry (Amelanchier spp.): White flowers; bee favorite
 - Creeping phlox (Phlox subulata): Ground cover; early nectar source
 - Wild geranium (Geranium maculatum): Woodland native; excellent for shade gardens
-- Bloodroot ([[sanguinaria-canadensis]]): Early spring ephemeral; native bee resource
+- Bloodroot (Sanguinaria canadensis): Early spring ephemeral; native bee resource
 - Pussy willow (Salix discolor): Gray catkins provide early pollen
 
 #### Summer Bloomers (June-August)
@@ -85,7 +85,7 @@ Provide continuous bloom from early spring through late fall:
 - Purple coneflower (Echinacea purpurea): Long bloom period; attracts diverse pollinators
 - Wild bergamot (Monarda fistulosa): Long bloom; bee and hummingbird plant
 - Black-eyed Susan (Rudbeckia hirta): Easy to grow; self-seeds readily
-- Anise hyssop ([[agastache-foeniculum]]): Anise-scented; extremely attractive to bees
+- Anise hyssop (Agastache foeniculum): Anise-scented; extremely attractive to bees
 - Joe-pye weed (Eutrochium purpureum): Tall, showy; butterfly and bee magnet
 - Buttonbush (Cephalanthus occidentalis): Wetland shrub; pollinator favorite
 
@@ -94,8 +94,8 @@ Provide continuous bloom from early spring through late fall:
 - Goldenrod (Solidago spp.): Major fall pollen and nectar source; not allergenic
 - Blue mistflower (Conoclinium coelestinum): Late-fall bloomer; butterfly and bee plant
 - Aromatic aster (Symphyotrichum oblongifolium): Very late bloomer; drought-tolerant
-- Plains coreopsis ([[coreopsis-tinctoria]]): Extended bloom through fall
-- Boneset ([[eupatorium-perfoliatum]]): Late summer-fall; white flowers; medicinal
+- Plains coreopsis (Coreopsis tinctoria): Extended bloom through fall
+- Boneset (Eupatorium perfoliatum): Late summer-fall; white flowers; medicinal
 
 ### Nesting Habitat
 
@@ -136,7 +136,7 @@ See [[integrated-pest-management|pest management]] for detailed IPM strategies. 
 ### Organic Alternatives
 - **Insecticidal soap**: Effective against soft-bodied insects; minimal residual toxicity
 - **Neem oil**: Broad-spectrum but degrades quickly; avoid spraying on flowers
-- **[[bacillus-thuringiensis]] (Bt)**: Targeted to specific insect groups; relatively safe for bees
+- **Bacillus thuringiensis (Bt)**: Targeted to specific insect groups; relatively safe for bees
 - **Kaolin clay**: Particle film that deters pests without toxicity
 - **Horticultural oil**: Smothering agent; apply when bees are not active
 - **Biological controls**: Predatory insects, nematodes, and fungal pathogens for specific pests

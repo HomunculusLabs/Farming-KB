@@ -12,13 +12,13 @@ updated: 2026-04-28
 sources:
   - SARE Cover Crop Decision Tool, USDA NRCS PLANTS Database.
   - Clark, A. (2007). Managing Cover Crops Profitably, 3rd ed. SARE.
-  - Cazzato, E. et al. (2012). "Forage and [[dighton-fungal-biomass-production-aquatic-ecosystems]] of annual
+  - Cazzato, E. et al. (2012). "Forage and dighton-fungal-biomass-production-aquatic-ecosystems of annual
     lupins." Crop & Pasture Science, 63(2), 154–162.
   - NRCS Cover Crop Species Guide, USDA Natural Resources Conservation
     Service.
   - Willekens, K. et al. (2020). "Crimson clover as a winter cover crop."
     Agronomy, 10(8), 1187.
-  - Unkovich, M. et al. (2010). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by legumes in
+  - Unkovich, M. et al. (2010). "comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer by legumes in
     Mediterranean agriculture." Advances in Agronomy, 107, 37–76.
 created: 2026-04-28
 type: comparison

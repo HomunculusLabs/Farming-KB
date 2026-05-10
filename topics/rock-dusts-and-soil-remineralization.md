@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Hamaker, J. & Weaver, D. (1982). The Survival of Civilization. Hamaker-Weaver Publications.
-  - Beerling, D. et al. (2020). "Potential for large-scale CO2 removal via enhanced [[dighton-fungal-rock-weathering-mineral-dissolution]] with croplands." Nature, 573, 514–517.
+  - Beerling, D. et al. (2020). "Potential for large-scale CO2 removal via enhanced dighton-fungal-rock-weathering-mineral-dissolution with croplands." Nature, 573, 514–517.
   - Hinsinger, P. et al. (2001). "Plant root-induced weathering of minerals." Advances in Agronomy, 69, 51–89.
   - Manning, D.A.C. (2010). "Mineral sources of potassium for plant nutrition." Advances in Agronomy, 108, 229–250.
   - Van Straaten, P. (2006). "Farming with rocks and minerals: challenges and opportunities." Anales de Edafología y Agrobiología, 65(1), 11–26.

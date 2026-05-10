@@ -96,7 +96,7 @@ in soils and sediments. Acid-producing fungi can reduce Fe(III) to
 more soluble Fe(II), while some species catalyze the reverse
 oxidation. Manganese oxidation by fungi contributes to the formation
 of manganese oxide coatings on soil particles, which in turn affect
-the sorption of other metals and [[fungal-volatile-organic-compounds]].
+the sorption of other metals and [[fungal-volatile-organic-compounds-communication]].
 
 ### Selenium and Uranium Transformations
 

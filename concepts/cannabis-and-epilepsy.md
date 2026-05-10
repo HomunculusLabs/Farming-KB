@@ -1,84 +1,141 @@
 ---
-title: Cannabis and Epilepsy
-created: 2026-04-19
-updated: 2026-04-19
-type: concept
-tags: [cannabis, cultivation]
-sources:
-  - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
+title: [[cannabis-and-epilepsy-research]]
+source: uwe-blesching-the-cannabis-health-index
+source_author: Uwe Blesching
+tags: [cannabis, epilepsy, seizures, cannabinoid, THC, CBD, neurology, CHI]
 ---
 
-**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching) | **CHI:** 13 | **Studies:** 5 | **Updated:** 2026-04-18
+# Cannabis and Epilepsy
 
 ## Overview
 
-Epilepsy affects approximately 50 million people worldwide. One-third of patients are refractory to conventional antiepileptic drugs. Cannabis, particularly CBD-rich preparations, has emerged as a promising adjunctive therapy, especially for treatment-resistant seizure disorders. See also [[cannabis-for-parkinsons-disease]], and cannabinoid-receptors.
+Epilepsy is one of the most common neurological disorders worldwide, affecting approximately 50 million people across all ages. It is characterized by recurrent, unprovoked seizures resulting from abnormal excessive neuronal activity in the brain. The condition encompasses a broad spectrum of seizure types and syndromes, ranging from brief lapses of attention or staring spells to severe, prolonged convulsions that can be life-threatening.
 
-## Clinical Evidence
+The International League Against Epilepsy (ILAE) classifies seizures into several categories:
 
-### CHI Score: 13 (Moderate Evidence)
+- **Focal onset seizures:** Originate in one hemisphere; may or may not impair consciousness.
+- **Generalized onset seizures:** Involve both hemispheres from the onset, including absence, myoclonic, tonic, clonic, and tonic-clonic types.
+- **Unknown onset seizures:** Cannot be classified due to insufficient information.
 
-Five studies support the use of cannabis in epilepsy management.
+Traditional pharmaceutical treatments include antiepileptic drugs (AEDs) such as phenytoin, valproate, carbamazepine, ethosuximide, and newer agents like levetiracetam, lacosamide, and perampanel. Despite the availability of over two dozen antiepileptic medications, approximately one-third of epilepsy patients remain refractory to conventional pharmacotherapy. This treatment gap has driven significant interest in cannabinoid-based therapies.
 
-### Key Findings
+## Pathophysiology of Epilepsy
 
-**CBD Oil Safety and Efficacy in Pediatrics**
-- CBD oil demonstrated safety and tolerability in pediatric patients with treatment-resistant epilepsy
-- Patients showed ≥25% improvement in seizure frequency
-- No significant [[blesching-cannabis-safety-adverse-effects-evidence]] at therapeutic doses
-- Some patients achieved >50% seizure reduction
+Seizures arise from an imbalance between neuronal excitation and inhibition in the brain. Under normal conditions, glutamate-mediated excitatory neurotransmission is balanced by GABA-mediated inhibitory signaling. In epilepsy, this equilibrium is disrupted, leading to hyper-synchronous neuronal firing.
 
-**Endocannabinoid System and Seizures**
-- The endocannabinoid system plays a crucial role in regulating neuronal excitability
-- CB1 receptor activation reduces glutamate release (excitatory) and increases GABA release (inhibitory)
-- This dual mechanism makes cannabinoids theoretically ideal anticonvulsants
-- Anandamide (endogenous cannabinoid) is rapidly broken down after seizures — suggesting the body's natural anti-seizure system
+Multiple mechanisms contribute to this imbalance:
 
-**Indica Strains**
-- Indica-dominant strains are preferred for epilepsy as they tend to favor CB2 receptor activity
-- Higher CBD:THC ratios reduce seizure risk (THC at high doses may be proconvulsant)
-- [[blesching-cannabis-strain-selection-receptor-targeting]] should prioritize CBD content and [[cannabis-terpene-profiles-sativa]] (myrcene, linalool)
+- **Ion channel mutations (channelopathies):** Genetic defects in voltage-gated sodium, potassium, or chloride channels.
+- **Aberrant synaptic connectivity:** Abnormal formation or pruning of synapses during development.
+- **Gliosis:** Reactive astrocyte proliferation that disrupts glutamate homeostasis.
+- **Neuroinflammation:** Chronic activation of microglia and release of pro-inflammatory cytokines.
+- **Impaired energy metabolism:** Mitochondrial dysfunction reducing neuronal energy availability.
 
-## Therapeutic Considerations
+Key brain regions involved in seizure generation include the hippocampus, amygdala, cerebral cortex, and thalamus. Status epilepticus, defined as continuous seizure activity exceeding five minutes, represents a neurological emergency with significant morbidity and mortality.
 
-### Strain Selection
-- High-CBD, low-THC strains preferred
-- Indica-dominant genetics
-- Whole-plant extracts preferred over isolated CBD for [[beta-caryophyllene-entourage-effects-cannabis]]
-- Notable strains: Charlotte's Web, ACDC, Harlequin (balanced)
+## The Endocannabinoid System and Neuronal Excitability
 
-### Administration
-- Sublingual CBD oil for rapid onset
-- Consistent dosing schedule critical — multiple daily doses
-- Start low (2-5mg CBD/kg body weight) and titrate slowly
-- May take 2-4 weeks to observe full therapeutic effect
+The endocannabinoid system plays a fundamental role in regulating neuronal excitability throughout the central nervous system. CB1 [[cannabinoid-receptors-cb1-cb2-tissue-distribution-blesching]] are among the most abundant G-protein-coupled receptors in the brain, heavily concentrated in the hippocampus, cerebellum, basal ganglia, amygdala, and cerebral cortex.
 
-### Drug Interactions
-- CBD inhibits cytochrome P450 enzymes, potentially increasing blood levels of other antiepileptic drugs
-- Monitor drug levels of clobazam, valproate, and other AEDs when combining
-- Dose adjustments of conventional medications may be necessary
+When activated, CB1 receptors produce several effects:
 
-## Landmark Cases
+1. **Inhibit adenylyl cyclase:** Reducing intracellular cAMP levels.
+2. **Reduce calcium influx:** Through modulation of voltage-gated calcium channels.
+3. **Activate potassium channels:** Promoting neuronal hyperpolarization.
+4. **Suppress neurotransmitter release:** Dampening both excitatory and inhibitory signaling.
 
-The case of Charlotte Figi (Dravet syndrome) brought widespread attention to CBD for epilepsy. Charlotte experienced ~300 seizures per week before CBD treatment; after treatment with a high-CBD strain (later named "Charlotte's Web"), seizures reduced to 2-3 per month.
+The endogenous cannabinoids anandamide (AEA) and 2-arachidonoylglycerol (2-AG) are synthesized on demand in postsynaptic neurons and act as retrograde signaling molecules, traveling backward across the synaptic cleft to activate presynaptic CB1 receptors.
 
-## Safety Profile
+During seizures, endogenous cannabinoid levels increase as a compensatory neuroprotective response. This built-in braking system suggests that enhancing [[2-ag-endocannabinoid-signaling-blesching]] may represent a rational therapeutic strategy. Fatty acid amide hydrolase (FAAH) and monoacylglycerol lipase (MAGL), the enzymes responsible for degrading anandamide and 2-AG respectively, represent additional therapeutic targets.
 
-- CBD is well-tolerated with mild side effects (drowsiness, diarrhea, changes in appetite)
-- THC should be used cautiously — high doses may lower seizure threshold
-- Pediatric dosing requires medical supervision
-- Liver enzyme monitoring recommended during treatment
+## Cannabidiol (CBD) as an Anticonvulsant
 
-## Limitations and Research Needs
+Cannabidiol has emerged as the most extensively studied cannabinoid for epilepsy treatment. It is the primary active ingredient in the FDA-approved medication Epidiolex. Unlike THC, CBD does not produce psychoactive effects at therapeutic doses and demonstrates a favorable safety profile.
 
-- Large-scale randomized controlled trials still limited
-- Optimal CBD:THC ratios not definitively established
-- Long-term effects of chronic CBD use in children unknown
-- Different epilepsy syndromes may respond differently
+CBD's anticonvulsant mechanisms are multimodal:
 
-## Related Topics
+- **5-HT1A receptor agonism:** CBD enhances signaling at serotonin 5-HT1A receptors, which exert anticonvulsant effects in multiple seizure models and may also contribute anxiolytic benefits.
+- **GABAergic modulation:** CBD positively modulates GABA-A receptor function, enhancing the brain's primary inhibitory neurotransmitter system.
+- **Glutamate regulation:** CBD may reduce excessive glutamate release, addressing the excitatory component of seizure pathophysiology.
+- **Anti-inflammatory actions:** CBD activates PPAR-gamma and inhibits NF-kappa-B signaling, reducing neuroinflammation that contributes to epileptogenesis.
+- **T-type calcium channel blockade:** CBD inhibits T-type calcium channels involved in thalamocortical circuits of absence seizures, mirroring the mechanism of ethosuximide.
 
-- [[cannabis-for-parkinsons-disease]]
-- [[cannabis-and-insomnia]]
-- [[cannabis-safety-profile-and-overdose-risk]]
-- [[fungal-monitoring-long-term-studies]]
+## Clinical Evidence: Dravet Syndrome
+
+The landmark clinical evidence for cannabinoid epilepsy treatment emerged from studies of Dravet syndrome, a severe childhood-onset epileptic encephalopathy caused by loss-of-function mutations in the SCN1A gene encoding the Nav1.1 sodium channel.
+
+Dravet syndrome features include:
+
+- Prolonged, treatment-resistant seizures beginning in the first year of life.
+- Multiple seizure types (hemiclonic, generalized tonic-clonic, absence).
+- Developmental delay and cognitive impairment.
+- High mortality rates (up to 15-20% by adulthood).
+- Resistance to most conventional antiepileptic medications.
+
+A randomized, double-blind, placebo-controlled Phase 3 trial (GWPCARE1) enrolled 120 children and young adults with Dravet syndrome. Patients receiving oral CBD at 20 mg/kg/day experienced a median reduction in monthly convulsive seizure frequency from 12.4 to 5.9, compared to 14.9 to 14.1 in the placebo group (p < 0.01). Five percent of patients in the CBD group became seizure-free during the trial period, compared to zero in the placebo group.
+
+Common adverse events included somnolence, diarrhea, decreased appetite, and elevated liver enzymes. Most adverse effects were manageable with dose adjustment.
+
+## Clinical Evidence: Lennox-Gastaut Syndrome
+
+Lennox-Gastaut syndrome (LGS) is another severe childhood-onset epilepsy characterized by multiple seizure types including tonic, atonic (drop attacks), atypical absence, and myoclonic seizures. Most patients are intellectually disabled and refractory to conventional medications.
+
+Two randomized controlled trials (GWPCARE3 and GWPCARE4) demonstrated CBD efficacy:
+
+- Patients receiving 20 mg/kg/day CBD experienced a 41.9% reduction in monthly drop seizure frequency.
+- The placebo group experienced only a 17.2% reduction.
+- Differences were statistically significant across both trials.
+
+These results led to FDA approval of CBD in 2018 for both Dravet syndrome and LGS, making Epidiolex the first cannabis-derived medication approved by the FDA.
+
+## THC and Seizure Modulation
+
+THC's role in epilepsy is more complex and dose-dependent than CBD's. At low doses, THC exhibits anticonvulsant properties through CB1 receptor activation, reducing glutamate release and suppressing neuronal hyperexcitability. Preclinical studies in various animal seizure models have demonstrated that THC and synthetic cannabinoid agonists can raise seizure thresholds.
+
+However, at higher doses, THC may be proconvulsant in certain contexts due to CB1 receptor desensitization, downregulation, or interactions with other neurotransmitter systems. This biphasic dose-response relationship highlights the importance of careful dosing and explains why CBD-dominant preparations are preferred for most epilepsy patients.
+
+## Strain-Specific Considerations
+
+For epilepsy patients considering cannabis-based treatments, strain and product selection is critical:
+
+- **High-CBD strains preferred:** Charlotte's Web, ACDC, Harlequin, Cannatonic, [[sour-tsunami]].
+- **CBD:THC ratios:** 20:1 or higher recommended, especially for pediatric patients.
+- **Whole-plant preparations:** Preserving [[cannabis-terpenes-and-the-entourage-effect]] of terpenes (myrcene, linalool, pinene) [[query-what-is-the-difference-between-thc-cbd-and-minor-cannabinoids]] (CBN, CBG, CBC) may offer synergistic benefits.
+- **Terpene considerations:** Linalool has demonstrated anticonvulsant properties in preclinical models.
+
+## Safety Profile and Drug Interactions
+
+CBD interacts with the hepatic cytochrome P450 enzyme system, particularly CYP3A4 and CYP2C19. This can alter plasma concentrations of concurrent AEDs:
+
+- CBD increases levels of clobazam and its active metabolite norclobazam.
+- CBD may increase topiramate and rufinamide levels.
+- CBD may decrease stiripentol levels.
+- Liver enzyme elevations are more common with concomitant valproate use.
+
+Therapeutic drug monitoring and dose adjustments are essential when initiating CBD therapy. Most adverse effects are dose-dependent and reversible.
+
+## Integrative Approaches
+
+Epilepsy carries significant psychosocial burden beyond seizures: anxiety, depression, social isolation, and reduced quality of life. The stress-seizure cycle, in which psychological stress triggers seizures that amplify stress, can be particularly debilitating.
+
+Complementary approaches include:
+
+- Mindfulness-based stress reduction (MBSR).
+- Adequate sleep hygiene and consistent sleep schedules.
+- Ketogenic and modified Atkins diets.
+- Regular physical exercise adapted to seizure risk.
+- Nutritional optimization addressing potential deficiencies.
+
+These may synergize with cannabinoid therapy by addressing the multifactorial nature of epilepsy management.
+
+## See Also
+
+- [[cannabis-and-neurological-conditions]] disorders
+- [[endocannabinoid-system-overview]]
+- cannabidiol therapeutics
+
+## Sources
+
+- Blesching, U. (2014). The Cannabis Health Index. North Atlantic Books.
+- Devinsky, O. et al. (2017). NEJM 376:2011-2020.
+- Thiele, E. et al. (2018). NEJM 378:1888-1897.

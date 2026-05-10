@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Zone 0 House Design
 
-Zone 0 is the house or village itself -- the origin from which all [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] radiates outward. The available energy in Zone 0 is human, animal, piped-in, or created on site. To conserve energy, work, and time, components are placed in concentric zones of decreasing management intensity.
+Zone 0 is the house or village itself -- the origin from which all permaculture design radiates outward. The available energy in Zone 0 is human, animal, piped-in, or created on site. To conserve energy, work, and time, components are placed in concentric zones of decreasing management intensity.
 
 ## What Belongs in Zone 0
 
@@ -24,7 +24,7 @@ In some climates, many structures are formed of the natural environment and will
 
 ## Zone 0 as Energy Centre
 
-The principle governing Zone 0 is [[mollison-designers-home-energy-conservation-and-solar-heating]]. The house is where human and animal energy is concentrated; everything needed frequently (herbs, seedlings, eggs, water) should be within a few steps. Components needing continual observation, frequent visits, and work input are placed within 6 m (20 feet) or so of the home.
+The principle governing Zone 0 is energy conservation. The house is where human and animal energy is concentrated; everything needed frequently (herbs, seedlings, eggs, water) should be within a few steps. Components needing continual observation, frequent visits, and work input are placed within 6 m (20 feet) or so of the home.
 
 Within this small radius, householders can produce most of the food necessary to existence. Techniques include:
 - Complete mulching
@@ -36,7 +36,7 @@ Within this small radius, householders can produce most of the food necessary to
 ## The House as a Living System
 
 ### Energy Flows
-To design for greatest [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], we need to understand energy flows through the house:
+To design for greatest energy efficiency, we need to understand energy flows through the house:
 - **Input**: Solar radiation, water, food, human labour
 - **Output**: Heat, greywater, sewage, food waste
 - **Cycling**: Every output should be an input to another system
@@ -53,7 +53,7 @@ To design for greatest [[fukuoka-textdoc-energy-efficiency-agricultural-labor]],
 - All organic waste returned to soil
 
 ### Food Production
-- [[holzer-medicinal-and-culinary-herbs-compendium]] just outside the kitchen door
+- Culinary herbs just outside the kitchen door
 - Seedling trays and mother plants for cuttings
 - Small domestic and quiet animals (fish, rabbits, pigeons, guinea pigs)
 - Trellis crop on walls and fences for temperature moderation and food
@@ -71,7 +71,7 @@ The greatest cost in house maintenance is space and water heating (up to 80% of 
 ### Desert Climates
 - Internal courtyards with shade
 - Earth tunnels (1 m deep, 20 m long) for cool air
-- [[mollison-designers-solar-chimneys-and-passive-cooling-in-desert-housing]] for induced cross-ventilation
+- Solar chimneys for induced cross-ventilation
 - Attached shadehouse as the summer living area
 - Winter kitchen opens onto shadehouse (summer kitchen)
 
@@ -101,14 +101,10 @@ For existing houses, Mollison emphasises that retrofits are cost-effective:
 - Solar chimneys, earth tunnels, and vine trellis can be added to most structures
 - Water tanks can be added to any roof
 
-## Related
-
-- reactive-house-design-permaculture
-- permaculture-house-placement-design
-- [[permaculture-zone-design-comparison]] Concepts
+## Related Concepts
 
 - [[permaculture-building-design]] -- detailed construction and passive design
 - [[permaculture-settlement-design]] -- community-scale placement and planning
 - [[permaculture-fire-management]] -- fire-resistant house design
 - [[permaculture-temperate-design-strategies]] -- climate-specific approaches
-- [[permaculture-waste-management]] -- [[mollison-designers-banana-circle-waste-recycling-system]] within Zone 0
+- [[permaculture-waste-management]] -- waste recycling within Zone 0

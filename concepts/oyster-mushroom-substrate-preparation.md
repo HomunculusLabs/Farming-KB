@@ -1,5 +1,5 @@
 ---
-title: Oyster Mushroom cotter-compost-substrate-preparation-manure-mushroom-cultivation
+title: Oyster Mushroom Substrate Preparation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 
 # Oyster Mushroom Substrate Preparation
 
-Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate because they grow on a wide variety of [[fungi-in-composting-and-agricultural-waste-conversion]] materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success.
+Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate because they grow on a wide variety of agricultural waste materials. Proper substrate preparation — cleaning and partially sterilizing the growing medium — is the most critical step for success. (see [[straw-pasteurization-methods]]).
 
 ## Suitable Substrates
 
@@ -24,8 +24,8 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate b
 - Hardwood sawdust (oak, beech, maple — avoid cedar and redwood)
 - Hardwood chips (supplemented with bran)
 - Paper/cardboard (shredded, soaked)
-- Cotton waste (from [[staycare-fungal-treatment-of-textile-industry-wastewater]])
-- [[oyster-mushroom-coffee-grounds-cultivation]] (can be used fresh without pasteurization at up to 25% of substrate)
+- Cotton waste (from textile industry)
+- Coffee grounds (can be used fresh without pasteurization at up to 25% of substrate)
 
 ### Other Substrates
 - Sugarcane bagasse
@@ -76,7 +76,7 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate b
 
 ### Flow-Through Steam
 - Steam at 212°F (100°C) for 8-12 hours
-- Works for [[oyster-mushroom-supplemented-sawdust-blocks]] blocks
+- Works for supplemented sawdust blocks
 
 ## Moisture Content
 - Target: 60-70% by weight
@@ -97,7 +97,7 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate b
 - Remove tape at fruiting
 
 ### Straw Logs
-- Pack [[oyster-mushroom-pasteurized-straw-cultivation]] into mesh tubing
+- Pack pasteurized straw into mesh tubing
 - Inoculate layer by layer
 - Hang vertically for fruiting
 
@@ -115,7 +115,7 @@ Oyster mushrooms (Pleurotus spp.) are among the easiest mushrooms to cultivate b
 - Substrate too compacted (lack of air exchange)
 
 ## Related
-- [[cotter-oyster-mushroom-cultivation]] — for the complete cultivation cycle
+- [[oyster-mushroom-cultivation]] — for the complete cultivation cycle
 - [[oyster-mushroom-spawn-production]] — for making spawn
 - [[mushroom-cultivation-bulk-substrates]] — for broader substrate knowledge
 - [[mushroom-cultivation-sterile-technique]] — for cleanliness practices

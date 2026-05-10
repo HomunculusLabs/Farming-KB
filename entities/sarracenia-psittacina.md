@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Schnell, D.E. (2002). "Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada." Timber Press.
   - McPherson, S.R. (2007). "Pitcher Plants of the Americas." Redfern Natural History Productions.
-  - Mellichamp, T.L. & Case, F.W. (2009). "Sarracenia." In: Flora of [[psilocybin-north-america-pacific-northwest]].
+  - Mellichamp, T.L. & Case, F.W. (2009). "Sarracenia." In: Flora of psilocybin-north-america-pacific-northwest.
   - D'Amato, P. (2013). "The Savage Garden." Timber Press.
   - Slack, A. (1979). "Carnivorous Plants." MIT Press.
 ---

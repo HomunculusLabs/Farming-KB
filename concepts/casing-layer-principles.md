@@ -5,8 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/the-mushroom-cultivator-flush-management-watering|mushroom-cultivator-stamets.md"
 ---
 # Casing Layer Principles and Techniques
 
@@ -61,7 +60,7 @@ The casing must be kept moist throughout the cropping cycle:
 - Once mushrooms reach button size, build moisture back up with daily light-to-moderate waterings
 - Water 2-4 times per day rather than once, allowing slow absorption
 - Stop watering once caps reach adolescence (wet caps breed Bacterial Blotch)
-- After first flush, keep casing moist with light mistings until next flush reaches button stage
+- After first [[post-flush-watering-regime-mushroom-casing-moisture-management|flush]], keep casing moist with light mistings until next flush reaches button stage
 - Never allow the casing to dry out completely — a dry surface is difficult to recondition
 
 ## Species-Specific Casing Requirements

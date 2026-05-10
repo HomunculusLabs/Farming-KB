@@ -122,6 +122,8 @@ or twice and then moved on to other substances that better matched their
 recreational preferences.
 
 ## See Also
+
+- [[european-prevalence-and-patterns-of-magic-mushroom-use]]
 - [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]]
 - [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
 - [[hallucinogenic-mushroom-european-prevalence-polydrug-clustering-barriers-emcdda-2006]]

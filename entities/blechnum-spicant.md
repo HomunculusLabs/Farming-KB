@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Jermy, A.C. & Camus, J.M. (1991). "Blechnaceae." In: The Plant-Book. Cambridge University Press.
   - Hoshizaki, B.J. & Moran, R.C. (2001). Fern Grower's Manual. Timber Press.
-  - Kermode, L.J. (1972). "A taxonomic revision of the genus Blechnum in [[psilocybin-north-america-pacific-northwest]]." Canadian Journal of Botany 50: 267–298.
+  - Kermode, L.J. (1972). "A taxonomic revision of the genus Blechnum in psilocybin-north-america-pacific-northwest." Canadian Journal of Botany 50: 267–298.
   - Page, C.N. (1997). "The ferns of Britain and Ireland." 2nd edition. Cambridge University Press.
 ---
 
@@ -100,6 +100,8 @@ The fronds were gathered as **bedding material** and **thatching** for animal sh
 Coastal Indigenous peoples of the Pacific Northwest used hard fern fronds for **food storage** and **cooking**. Salal berries and other perishable foods were wrapped in hard fern fronds for storage and transport. The fronds were also used as a **wipe** for cleaning fish and game during processing.
 
 ## See Also
+
+- [[blechnum-gibbum]]
 
 - [[dryopteris-filix-mas]]
 - [[polystichum-acrostichoides]]

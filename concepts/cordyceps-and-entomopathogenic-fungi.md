@@ -1,16 +1,15 @@
 ---
-title: Cordyceps and singh-entomopathogenic-fungi-biocontrol-agents
+title: Cordyceps and Entomopathogenic Fungi
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mycology, biology, ecology, entomopathogenic, pesticide, agriculture]
-sources:
-  sources: []
+sources: []
 ---
 
 # Cordyceps and Entomopathogenic Fungi
 
-Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in [[cervantes-biological-pest-control-predators]] control.
+Entomopathogenic fungi are fungi that infect and kill insects and other arthropods. Among these, the genus Cordyceps and its relatives (Ophiocordyceps) are the most famous, known for their dramatic manipulation of host behavior. These fungi are important natural regulators of insect populations, sources of medicinal compounds, and emerging tools in biological pest control. (see [[fungal-parasites-and-predators]]).
 
 ## Cordyceps and Ophiocordyceps
 
@@ -22,13 +21,13 @@ The traditional genus Cordyceps was split in 2007 based on molecular phylogeny:
 Both belong to the family Ophiocordycipitaceae within the order Hypocreales ([[ascomycete-phylum-guide|Ascomycota]]).
 
 ### Ophiocordyceps unilateralis (Zombie-Ant Fungus)
-The most famous entomopathogenic fungus, documented infecting carpenter ants (Camponotus spp.) in tropical forests.
+The most famous entomopathogenic fungus, documented infecting carpenter ants (Camponotus spp.) in tropical forests. (see [[metarhizium]]).
 
 #### Infection Process
 1. Spores land on ant and attach to the exoskeleton
 2. Spores germinate and penetrate the cuticle using enzymes and mechanical pressure
 3. Fungal cells spread through the ant's body, eventually reaching the brain
-4. The fungus does not invade brain tissue but may manipulate the ant through [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] or by disrupting the nervous system
+4. The fungus does not invade brain tissue but may manipulate the ant through chemical signals or by disrupting the nervous system
 5. Infected ants exhibit behavioral changes: leave the colony, climb vegetation, and bite onto leaves or twigs ("death grip")
 6. The ant dies, and the fungus kills the ant's cells to fill the body cavity
 7. A fruiting body (stroma) erupts from the ant's head
@@ -41,7 +40,7 @@ The most famous entomopathogenic fungus, documented infecting carpenter ants (Ca
 - Some ants recognize infected individuals and carry them away from the colony
 
 ### Cordyceps militaris
-A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]. Easier to cultivate than the famous C. sinensis.
+A bright orange-red species that parasitizes pupae of Lepidoptera (butterflies and moths). Commercially cultivated and increasingly used as a source of cordycepin and other bioactive compounds. Easier to cultivate than the famous C. sinensis. (see [[insect-arthropod-associated-fungi]]).
 
 ### Ophiocordyceps sinensis (Cordyceps sinensis / Yartsa Gunbu)
 The most prized medicinal fungus in Traditional Chinese Medicine.
@@ -58,7 +57,7 @@ The most prized medicinal fungus in Traditional Chinese Medicine.
 ## Beauveria
 
 ### Beauveria bassiana
-One of the most widely used entomopathogenic fungi in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]].
+One of the most widely used entomopathogenic fungi in biological control.
 
 #### Host Range
 Extremely broad: over 700 insect host species documented, including:
@@ -85,7 +84,7 @@ Extremely broad: over 700 insect host species documented, including:
 #### Advantages
 - Broad host range provides flexibility
 - Can be applied as conventional spray or as attract-and-infect stations
-- Minimal non-target effects (though some concern for [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] like honeybees)
+- Minimal non-target effects (though some concern for beneficial insects like honeybees)
 - Registered as organic-compatible in most jurisdictions
 - Insects do not develop resistance easily (unlike chemical insecticides)
 
@@ -141,10 +140,11 @@ Formerly considered part of M. anisopliae, now recognized as a separate species.
 ### Conidial Sprays
 - Most common method: spray conidial suspensions onto crops or directly onto pests
 - Application timing critical: target susceptible life stages
-## Related
+- Formulation with UV-protectants and humectants improves field persistence
+- Standard application rates: 10^12-10^13 conidia per hectare
 
-- [[fungal-biology-fundamentals]]
-
-## See Also
-
-- [[query-what-are-entomopathogenic-fungi-and-how-do-they-control-pests]]
+### Attract-and-Infect (Auto-dissemination)
+- Stations containing fungal spores are placed in the environment
+- Insects are attracted to the station, pick up conidia, and spread them to nestmates
+- Used successfully for termites and cockroaches
+- Reduces total amount of inoculum needed

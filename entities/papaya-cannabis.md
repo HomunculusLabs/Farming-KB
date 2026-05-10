@@ -124,6 +124,6 @@ Seeds available from several established [[cannabis-seed-banks-and-genetics]] in
 - [[cannabis-cloning-rooting-cuttings-method-clarke]]
 - [[cannabis-hashish-guide]]
 - [[myrcene]] — Dominant terpene associated with sedative effects
-- [[og-kush]] — Classic indica-dominant with different terpene profile
+- [[og-kush-cannabis-entity]] — Classic indica-dominant with different terpene profile
 - [[limonene]] — Terpene contributing citrus aroma notes
 - Caryophyllene — Terpene adding peppery, spicy character

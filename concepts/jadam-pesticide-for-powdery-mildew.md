@@ -1,6 +1,6 @@
 ---
 
-title: JADAM jadam pesticide for powdery mildew Mildew
+title: JADAM Pesticide for Powdery Mildew
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ sources:
 
 # JADAM Pesticide for Powdery Mildew
 
-Powdery mildew and [[cervantes-downy-mildew-fungal-blight]] are among the most common and destructive fungal diseases. JADAM controls them with [[jadam-sulfur-js]] combined with [[jadam-wetting-agent-jwa]]. Early intervention is critical -- JS is a germicide, not a cure for advanced infection.
+Powdery mildew and downy mildew are among the most common and destructive fungal diseases. JADAM controls them with [[jadam-sulfur-js]] combined with [[jadam-wetting-agent-jwa]]. Early intervention is critical -- JS is a germicide, not a cure for advanced infection.
 
 ## Formulation (per 500L / 132 gal spray tank)
 
@@ -30,10 +30,10 @@ Powdery mildew and [[cervantes-downy-mildew-fungal-blight]] are among the most c
 - JS: 1.2L (0.3 gal)
 - Water: to 500L (132 gal)
 
-**With [[mushroom-pests-insect-control-stamets]]** (mildew + pests present):
+**With insect control** (mildew + pests present):
 - JWA: 5L (1.3 gal)
 - JS: 1.2L (0.3 gal)
-- [[comparison-jerusalem-artichoke-vs-potato]] JHS: 5L (1.3 gal)
+- Jerusalem artichoke JHS: 5L (1.3 gal)
 
 **Severe outbreak**:
 - JWA: 5L + JS 1.5L (stronger, but watch for concentration damage)
@@ -79,11 +79,11 @@ Powdery mildew and [[cervantes-downy-mildew-fungal-blight]] are among the most c
 
 ## Diseases Controlled
 
-Powdery mildew (melon, strawberry, rose, sesame, pepper), downy mildew, grey mold (botrytis on strawberry), [[growing-gourmet-trichoderma-green-mold-management]], black spot, leaf fungus
+Powdery mildew (melon, strawberry, rose, sesame, pepper), downy mildew, grey mold (botrytis on strawberry), green mold, black spot, leaf fungus
 
 ## See Also
 
 - [[jadam-sulfur-js]] -- how to make JS, the germicide component
 - [[jadam-natural-pesticide-jnp]] -- master formulation guide
 - [[jadam-pesticide-for-fungal-diseases]] -- stronger formulations for canker, anthracnose, rust
-- [[jadam-microorganism-solution-jms]] -- preventive [[plant-disease-management-solomon]] through microbial diversity
+- [[jadam-microorganism-solution-jms]] -- preventive disease management through microbial diversity

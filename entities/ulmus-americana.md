@@ -13,7 +13,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2, Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Sinclair, W.A. & Campana, R.J. (1978). "Dutch Elm Disease: Perspectives after 60 Years." Search Agriculture, Cornell University Agricultural Experiment Station, 8(5).
   - Smalley, E.B. & Guries, R.P. (1993). "Breeding elms for disease resistance." Annual Review of Phytopathology, 31, 325-352.
-  - Dunn, C.P. (2000). "The elms: breeding, conservation, and [[plant-disease-management-solomon]]." Kluwer Academic Publishers.
+  - Dunn, C.P. (2000). "The elms: breeding, conservation, and plant-disease-management-solomon." Kluwer Academic Publishers.
 ---
 
 ## Overview
@@ -105,6 +105,8 @@ Elm wood bends well when steamed and has been used traditionally for cooperage, 
 The wood works easily with hand and machine tools but can be challenging to glue due to its interlocked grain pattern.
 
 ## See Also
+
+- [[ulmus-procera]]
 
 - [[quercus-alba]]
 - [[fagus-grandifolia]]

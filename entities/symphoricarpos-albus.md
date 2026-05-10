@@ -142,7 +142,7 @@ Cultivars are uncommon, though var. laevigatus is sometimes offered in the nurse
 - [[sambucus-nigra]]
 - [[rubus-idaeus]]
 - [[rubus-occidentalis]]
-- [[vaccinium-corymbosum]]
+- [[vaccinium-corymbosum-entity]]
 - [[vaccinium-angustifolium]]
 - [[betula-papyrifera]]
 - [[lonicera-japonica]]

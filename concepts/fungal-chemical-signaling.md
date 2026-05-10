@@ -125,9 +125,9 @@ corroborated his findings.
 - [[plant-fungal-signaling-mycorrhiza]]
 - fungal-pheromones-and-sexual-signaling
 
-- [Insect-Fungi Interactions]([[insect-fungi-interactions]].md)
-- [Fungal Life Cycles]([[fungal-life-cycles]].md)
-- [Mycelium Network](mycelium-network.md)
+- [[insect-fungi-interactions|Insect-Fungi Interactions]]
+- [[fungal-life-cycles|Fungal Life Cycles]]
+- Mycelium Network
 - [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]] with Plants]([[fungal-symbiosis-with-plants]].md)
 
 ## References

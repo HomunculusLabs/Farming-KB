@@ -4,16 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [animal-husbandry, homesteading, livestock, equipment, construction]
-sources:
-  sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+sources: []
 ---
 
 # Livestock Fencing Guide
 
 Fencing is one of the most important investments on a homestead. Good fencing
 keeps animals where they belong, protects them from predators, and enables
-[[comparison-rotational-grazing-vs-continuous-grazing]] systems that improve pasture health. The right fence depends
+rotational grazing systems that improve pasture health. The right fence depends
 on the species, terrain, budget, and management style. This guide covers the
 major fencing types used in homestead livestock systems.
 
@@ -21,7 +19,7 @@ major fencing types used in homestead livestock systems.
 
 ### Overview
 Electric fencing is the most versatile and cost-effective option for
-[[comparison-rotational-grazing-vs-set-stocking]] and temporary paddocks. It works by delivering a brief,
+rotational grazing and temporary paddocks. It works by delivering a brief,
 high-voltage pulse that trains animals to respect the barrier. The psychological
 barrier is as important as the physical one.
 
@@ -144,7 +142,9 @@ longest-lasting fencing option, with a lifespan of 40+ years.
 - Calculate paddock size based on stocking density and rest period needs.
   See [[pasture-management]].
 - Design lanes (permanent alleys) for animal movement between paddocks.
-## See Also
-- [[pasture-management]]
-- mollison-designers-electric-fencing-in-permaculture-systems
-- [[mollison-designers-woven-fence-hedge-live-barrier]]
+- Water access in every paddock, or lane access to a central water point.
+- Use permanent fencing for the perimeter and division lanes; portable
+  fencing for internal paddock divisions.
+- Plan gate placement to allow easy movement between paddocks.
+
+### Species-Specific Notes

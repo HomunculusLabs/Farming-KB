@@ -141,7 +141,6 @@ many epiphytic and [[comparison-endophytic-fungi-vs-mycorrhizal-fungi]] likely u
 
 Marine fungi represent another vast gap; the oceans cover 71% of
 Earth's surface but marine fungal diversity is poorly documented.
-
 ## See Also
 - evolution and ecology of plant fungal mutualisms
 - [[piriformospora-indica-in-plant-fungal-co-culture]]

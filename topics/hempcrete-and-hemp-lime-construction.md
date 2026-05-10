@@ -118,7 +118,6 @@ providing architects and engineers with the technical basis for specifying
 hempcrete in regulated construction. Building codes in the US and other
 countries are gradually incorporating hempcrete, often through alternative
 materials provisions or specific code amendments.
-
 ## See Also
 
 - [[natural-building-techniques]]

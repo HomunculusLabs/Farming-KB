@@ -120,6 +120,8 @@ against the effects of increasing aridity.
 
 ## See Also
 
+- [[gadd-lichens-water-relations-symbiosis]]
+
 - [[dighton-salinity-effects-fungal-communities]]
 - [[dighton-fungi-desert-arid-ecosystems]]
 - [[endophytic-fungi-plant-defense-dighton]]

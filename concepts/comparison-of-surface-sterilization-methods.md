@@ -53,6 +53,10 @@ Choose the method based on the primary constraint:
 - **Heat-sensitive**: Microwave, UV, or H₂O₂ vapor
 ## See Also
 
+- [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
+
+- [[sterilization-methods-comparison]]
+
 - microwave-microorganism-interaction-mechanisms — How microwaves
   kill microorganisms
 - [[pressure-cooker-sterilization-of-grain-jars]] — Autoclaving in

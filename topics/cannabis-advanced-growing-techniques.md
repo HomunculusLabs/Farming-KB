@@ -83,7 +83,6 @@ the light. This maximizes photosynthetic efficiency and ensures the plant's ener
 is distributed across many colas rather than concentrated in one. A flat canopy
 also reduces wasted light energy and allows growers to position lights closer
 without burning the tallest tips.
-
 ## See Also
 
 - [[cannabis-topping-training]] for detailed [[query-what-is-the-difference-between-topping-and-fimming-cannabis]] procedures

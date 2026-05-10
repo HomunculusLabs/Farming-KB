@@ -17,7 +17,7 @@ updated: 2026-04-28
 sources:
   - Stamets, Paul. Growing Gourmet and Medicinal Mushrooms. 3rd ed., Ten Speed
     Press, 2000.
-  - Stamets, Paul. [[woodlovers-mycelium-running-pathway-technique]]: How Mushrooms Can Help Save the World.
+  - Stamets, Paul. woodlovers-mycelium-running-pathway-technique: How Mushrooms Can Help Save the World.
     Ten Speed Press, 2005.
   - "Log-Grown Specialty Mushrooms." ATTRA — National Center for Appropriate
     Technology, NCAT, 2011.
@@ -140,7 +140,6 @@ Several oyster species perform well on logs:
 ### Lion's Mane (*Hericium erinaceus*)
 
 A prized culinary and nootropic mushroom that produces cascading white
-tooth-like spines. Lion's mane is a white-rot fungus that prefers dense
 ## See Also
 
 - [[shiitake-mushroom-cultivation-and-medicinal-properties|Shiitake Mushroom Cultivation and Medicinal Properties]]

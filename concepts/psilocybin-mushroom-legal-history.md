@@ -1,5 +1,5 @@
 ---
-title: emcdda-psilocybin-mushroom-dose-and-effects psychedelic-research-legal-history-united-states
+title: Psilocybin Mushroom Legal History
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -16,11 +16,11 @@ sources:
 
 # Psilocybin Mushroom Legal History
 
-The [[ayahuasca-tourism-legal-status-by-country]] of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization.
+The legal status of psilocybin mushrooms has shifted dramatically from unrestricted traditional indigenous use to global prohibition, and now to early movements toward decriminalization and medical legalization. (see [[psilocybin-mushrooms-overview]]).
 
 ## Pre-Prohibition Era (Pre-1960s)
 
-Before the 1960s, psilocybin mushrooms were not controlled substances anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure.
+Before the 1960s, psilocybin mushrooms were not controlled substances anywhere. Sandoz Laboratories distributed synthetic psilocybin (brand name Indocybin) and LSD (brand name Delysid) free of charge to qualified researchers worldwide for over a decade. The political climate of the late 1950s was permissive enough that scientists openly self-experimented with psychedelics and published their findings in peer-reviewed journals without fear of censure. (see [[roland-griffiths]]).
 
 Indigenous mushroom use in Oaxaca, Mexico was unregulated and had been continuous for centuries.
 
@@ -39,8 +39,8 @@ The transformation of LSD and psilocybin from research tools to "inebriating dru
 
 ## United States (1970-Present)
 
-- **1970**: The Controlled [[controlled-substances-act-and-psychedelic-research]] placed psilocybin and psilocin in **Schedule I**, defined as having "no currently accepted medical use" and "a high potential for abuse." This made possession, cultivation, and distribution of the mushrooms or their active compounds federal crimes.
-- The scheduling effectively ended clinical [[mckenna-suppression-psychedelic-research-lsd-therapy]] in the United States for decades. What research continued shifted to mycology (describing new species), ethnobotany (studying indigenous use in distant cultures), and pharmacology -- disciplines that could proceed without censure.
+- **1970**: The Controlled Substances Act placed psilocybin and psilocin in **Schedule I**, defined as having "no currently accepted medical use" and "a high potential for abuse." This made possession, cultivation, and distribution of the mushrooms or their active compounds federal crimes.
+- The scheduling effectively ended clinical psychedelic research in the United States for decades. What research continued shifted to mycology (describing new species), ethnobotany (studying indigenous use in distant cultures), and pharmacology -- disciplines that could proceed without censure.
 
 ## International Scheduling (1971)
 
@@ -70,28 +70,8 @@ A growing movement seeks to reverse prohibition:
 - **2023**: Colorado passed Proposition 122, legalizing supervised psilocybin use and decriminalizing personal possession and cultivation.
 - **2023**: Australia's Therapeutic Goods Administration approved psilocybin for prescribed use in treatment-resistant depression, making it the first country to legally prescribe the drug.
 
-## Related
-
-- psilocybin-mushroom-cultivation-photo-history Topics
+## Related Topics
 
 - [[magic-mushroom-history-timeline]] for the full chronological context
 - [[psilocybin-in-the-counter-culture]] for the cultural forces that drove prohibition
 - [[psychedelic-harm-reduction]] for practical guidance under current legal frameworks
-## Practical Considerations
-
-Successful implementation of Psilocybin Mushroom Legal History requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

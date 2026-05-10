@@ -28,7 +28,7 @@ sources:
 
 # Mushroom Toxicity and Identification Warnings
 
-Dangerous lookalike reference for wild mushroom foragers. Covers the most commonly confused edible-toxic pairs, distinguishing features, toxicity levels, and emergency procedures. Compiled from mushroom-identification, [[mushroom-species-guide]], and [[psilocybin-mushroom-chemistry]].
+Dangerous lookalike reference for wild mushroom foragers. Covers the most commonly confused edible-toxic pairs, distinguishing features, toxicity levels, and emergency procedures. Compiled from [[mushroom-identification]], [[mushroom-species-guide]], and [[psilocybin-mushroom-chemistry]].
 
 ## Edible vs. Toxic Lookalike Pairs
 
@@ -42,10 +42,10 @@ Dangerous lookalike reference for wild mushroom foragers. Covers the most common
 | **King Bolete** (Boletus edulis) | **Devil's Bolete** (Rubroboletus satanas) | King bolete: white pores, firm. Devil's: red-orange pore surface, yellow stem with red net, blue bruising, foul odor | Europe, oak-beech forests | HIGH — severe GI distress | Bolesatine |
 | **Psilocybe cubensis** | **Galerina marginata** | Psilocybe: bruises blue, dark brown spore print, on dung/enriched soil. Galerina: does NOT bruise blue, persistent ring, brown rusty gills, brown spore print, on decaying WOOD | Both on decaying wood debris | DEADLY — amatoxins; liver/kidney failure 6-24hr | Amatoxins (alpha-amanitin) |
 | **Psilocybe** spp. | **Inocybe** spp. | Psilocybe: blue bruising, dark purple-brown spore print. Inocybe: brown spore print, fibrous cap, some contain muscarine; no blue bruising | Forest floors, grass, wood chips | Moderate-HIGH — muscarine in some species | Muscarine (some species) |
-| **[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]** | **[[guzman-panaeolina-foenisecii-psilocybin-controversy-conflicting-chemical-analyses]]** | P. cyanescens: bruises blue, jet-black spore print, on dung. P. foenisecii: does NOT bruise blue, dark brown spore print, in lawns | Both in grass; P. cyanescens on dung (tropical) | Low — P. foenisecii is inactive, not toxic | None (inactive) |
-| **Paddy Straw** ([[paddy-straw-mushroom-volvariella-volvacea-cultivation]]) | **Death Cap** (Amanita phalloides) | Paddy straw: pink spore print, no ring. Death Cap: WHITE spore print, volva at base, white gills, greenish cap | Tropical/subtropical vs. under oaks | DEADLY — 6-24hr delayed onset, 50-90% mortality | Amatoxins |
+| **Panaeolus cyanescens** | **Panaeolina foenisecii** | P. cyanescens: bruises blue, jet-black spore print, on dung. P. foenisecii: does NOT bruise blue, dark brown spore print, in lawns | Both in grass; P. cyanescens on dung (tropical) | Low — P. foenisecii is inactive, not toxic | None (inactive) |
+| **Paddy Straw** (Volvariella volvacea) | **Death Cap** (Amanita phalloides) | Paddy straw: pink spore print, no ring. Death Cap: WHITE spore print, volva at base, white gills, greenish cap | Tropical/subtropical vs. under oaks | DEADLY — 6-24hr delayed onset, 50-90% mortality | Amatoxins |
 | **Agaricus campestris** | **Death Cap** (Amanita phalloides) | Field mushroom: brown-pink spore print, no volva. Death Cap: white spore print, white gills, volva at base | Pastures, forest edges near oaks | DEADLY — see above | Amatoxins |
-| **[[allegro-amanita-muscaria-properties-and-pharmacology]]** (edible parboiled) | **Amanita phalloides** (Death Cap) | Fly agaric: bright red cap with white warts, white gills. Death Cap: olive-green cap, white gills, white spore print, volva | Forests, birch (muscaria); oaks (phalloides) | Muscaria: manageable; Phalloides: DEADLY | Muscaria = ibotenic acid/muscimol; Phalloides = amatoxins |
+| **Amanita muscaria** (edible parboiled) | **Amanita phalloides** (Death Cap) | Fly agaric: bright red cap with white warts, white gills. Death Cap: olive-green cap, white gills, white spore print, volva | Forests, birch (muscaria); oaks (phalloides) | Muscaria: manageable; Phalloides: DEADLY | Muscaria = ibotenic acid/muscimol; Phalloides = amatoxins |
 
 ## Major Poisonous Genera
 
@@ -103,10 +103,10 @@ Essential for identification — place cap gills-down on half white/half black p
 
 ## See Also
 
-- mushroom-identification — systematic [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] and features
+- [[mushroom-identification]] — systematic identification methods and features
 - [[mushroom-species-guide]] — cultivated species profiles and parameters
-- [[psilocybin-mushroom-chemistry]] — global [[global-distribution-of-neurotropic-fungi]] species
-- mushroom-identification — field guides and microscopy references
+- [[psilocybin-mushroom-chemistry]] — global distribution of neurotropic species
+- [[mushroom-identification-resources]] — field guides and microscopy references
 
 ## Related
 

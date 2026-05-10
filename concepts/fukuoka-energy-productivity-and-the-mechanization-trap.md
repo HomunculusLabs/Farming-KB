@@ -116,6 +116,8 @@ Whether this system can be widely adopted remains contested. Critics point to la
 
 ## See Also
 
+- [[coleman-intensive-cropping-double-cropping-greenhouse-productivity]]
+
 - [[fukuoka-mechanization-trap-and-farmer-alienation]]
 
 - [[four-principles-of-natural-farming]]

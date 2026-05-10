@@ -74,7 +74,6 @@ organisms.
 
 Hyphal penetration allows fungi to physically access contaminants that are
 trapped within soil aggregates, wood, or other solid matrices. Bacterial
-bioremediation is often limited by the inability of bacterial cells to reach
 ## See Also
 
 [[brown-rot-and-white-rot-fungi-in-mycoremediation]] - Brown and white rot fungi

@@ -12,7 +12,7 @@ sources:
   - Stout, A.B. (1923). "Flowering Behavior of the Hackberry." Journal of the New York Botanical Garden 24: 10-15.
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. 6th ed. Stipes Publishing.
   - Little, E.L. (1979). Checklist of United States Trees. USDA Forest Service Agriculture Handbook 541.
-  - Johnson, P.S. (1990). "Celtis occidentalis L., Common Hackberry." In: Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 2. USDA Forest Service.
+  - Johnson, P.S. (1990). "Celtis occidentalis L., Common Hackberry." In: Silvics of psilocybin-north-america-pacific-northwest, Vol. 2. USDA Forest Service.
   - U.S. Forest Service (2023). "Silvics Manual: Celtis occidentalis."
 ---
 

@@ -121,10 +121,6 @@ Suillus grevillei is a valuable species in permaculture and forest garden contex
 Suillus grevillei exemplifies the intimate ecological partnerships between fungi and trees that underpin forest health. Its obligate association with larch makes it both a valuable bioindicator and a practical tool in ecological forestry and permaculture. As a widely consumed edible mushroom with documented bioactive compounds, it bridges the gap between mycological science, culinary tradition, and sustainable food systems. Its resilience in managed forest landscapes and ability to improve tree nutrition position it as a key species for temperate agroforestry and reforestation efforts.
 
 ## See Also
-
 - [[agroforestry]]
 - [[ectomycorrhiza]]
-
-## See Also
-
 - [[ectomycorrhizal-mushroom-fruiting-ecology]]

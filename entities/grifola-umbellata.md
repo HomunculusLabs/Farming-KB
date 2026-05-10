@@ -72,11 +72,29 @@ radiating from a common base, resembling an umbrella cluster.
 | polyporus umbellatus | Often treated as synonym; European records | Diuretic, antitumor |
 | poria cocos (Fu Ling) | Sclerotium on pine roots; different genus | Tranquilizer, diuretic |
 
+## Similar Species
+
+*Grifola umbellata* is frequently confused with several lookalikes.
+[[grifola-frondosa]] (Maitake) forms larger gray-brown fronds
+with overlapping shelves and lacks underground sclerotia.
+*Polyporus umbellatus* (often a synonym) differs in spore size
+and distribution, being more common in European mycoflora. *Meripilus giganteus*
+(Giant polypore) grows at the base of hardwoods but turns black
+when bruised, a reliable field ID feature. *Polyporus tuberaster*
+also forms sclerotia but produces smaller, thinner-fleshed
+fruiting bodies with different pore structure and spore print.
+
+## Cultivation
+
+Commercial cultivation of *G. umbellata* remains challenging due to its
+China, cultivation uses buried logs inoculated with sclerotial spawn
+in shaded, humid forest environments. Sclerotia require 12-18 months
+at 60-70% field capacity. Pine or oak sawdust supplemented
+with wheat bran provides adequate nutrition for colonization. Fruiting is triggered by temperature
+drops and increased humidity in late summer. Cultivated yields
+are typically lower than wild-harvested material, motivating
+ongoing research into improved techniques.
+
 ## See Also
-
-- poria cocos — Frequently combined in TCM diuretic formulas
-- [[maitake-grifola-frondosa-comprehensive-profile]] — Close relative with overlapping immunomodulatory effects
-
-## See Also
-
+- [[maitake-grifola-frondosa-comprehensive-profile]]
 - [[comparison-reishi-vs-chaga-medicinal-mushrooms]]

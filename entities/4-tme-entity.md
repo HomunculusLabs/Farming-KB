@@ -77,7 +77,7 @@ me
 
 metaescaline
 
-[[mescaline-entity]]
+[[mescaline]]
 
 [[3-te-entity]]
 

@@ -145,6 +145,5 @@ An existing manure lagoon covered with an impermeable membrane to capture biogas
 
 Mesophilic operation is standard for small-scale systems due to stability and lower heating requirements.
 
-### pH and Alkalinity
 ## Related
 - [[gaias-garden-living-plant-systems-insectary|gaias garden living plant systems insectary]]

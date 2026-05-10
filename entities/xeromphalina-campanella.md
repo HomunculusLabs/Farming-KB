@@ -19,7 +19,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Xeromphalina campanella." MushroomExpert.com.
-  - Miller, O.K. & Miller, H.H. (2006). "[[growing-gourmet-north-american-reishi-species]] Mushrooms: A Field Guide to Edible and Inedible Fungi." Timber Press.
+  - Miller, O.K. & Miller, H.H. (2006). "growing-gourmet-north-american-reishi-species Mushrooms: A Field Guide to Edible and Inedible Fungi." Timber Press.
   - Corner, E.J.H. (1970). "Supplement to 'A Monograph of Clavaria and Allied Genera.'" Nova Hedwigia.
   - Redhead, S.A. (1984). "Xeromphalina: a reevaluation with observations on X. campanella and X. kauffmanii." Sydowia.
 created: 2026-05-07

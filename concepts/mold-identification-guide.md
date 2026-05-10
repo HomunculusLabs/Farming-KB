@@ -9,14 +9,14 @@ sources: []
 
 # Mold Identification Guide
 
-Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota.
+Molds are rapidly growing, filamentous fungi that reproduce primarily by producing airborne spores (conidia). They are among the most common organisms encountered in indoor environments and are significant concerns for human health, food safety, and building maintenance. Most indoor molds belong to the phyla Ascomycota and Zygomycota. (see [[fungal-allergies]]).
 
 ## Understanding Mold Growth
 
 ### Conditions for Growth
 Mold requires four things to grow:
 1. Moisture: the most critical factor; most molds need water activity (aw) above 0.65
-2. Food source: cellulose (wood, paper, drywall), [[hamilton-composting-and-organic-matter-management]], dust
+2. Food source: cellulose (wood, paper, drywall), organic matter, dust
 3. Temperature: most molds grow between 4-38 C, with optimal range 20-30 C
 4. Oxygen: virtually all molds are aerobic
 
@@ -52,11 +52,11 @@ One of the most important genera in indoor environments and the [[ascomycete-phy
 
 ### Penicillium
 
-Closely related to Aspergillus, found in soil, decaying vegetation, and indoor environments.
+Closely related to Aspergillus, found in soil, decaying vegetation, and indoor environments. (see [[fungal-biodiversity-built-environments-indoor-mycobiome]]).
 
 #### Common Indoor Species
 - P. chrysogenum: the original penicillin producer, very common indoors
-- P. brevicompactum: frequently found on damp [[natural-building-materials-guide]]
+- P. brevicompactum: frequently found on damp building materials
 - P. expansum: causes blue mold of fruits, produces patulin
 - P. citrinum: produces citrinin (nephrotoxic)
 
@@ -69,7 +69,7 @@ Closely related to Aspergillus, found in soil, decaying vegetation, and indoor e
 
 ### Stachybotrys chartarum (Black Mold)
 
-The most notorious indoor mold, often called "toxic black mold" in media.
+The most notorious indoor mold, often called "toxic black mold" in media. (see [[cladosporium-herbarum]]).
 
 #### Key Facts
 - Requires sustained high moisture (water activity above 0.93) to grow
@@ -119,7 +119,7 @@ Indicator mold for chronic water damage.
 
 ### Trichoderma
 
-Fast-growing [[growing-gourmet-trichoderma-green-mold-management]], often found on water-damaged building materials.
+Fast-growing green mold, often found on water-damaged building materials.
 
 - Bright green, rapidly spreading colonies
 - Some species are aggressive colonizers of other fungi
@@ -138,11 +138,13 @@ Zygomycete molds (see [[zygomycete-phylum-guide]]).
 - Common on bread, fruit, and other food items
 
 ## Health Effects
-## Related
 
-## See Also
+### Allergic Reactions
+Most common health effect of indoor mold exposure. Symptoms include:
+- Sneezing, runny nose, nasal congestion
+- Red, itchy, or watery eyes
+- Coughing, wheezing, throat irritation
+- Skin rash in sensitive individuals
 
-- psilocybin-mushroom-identification-field-guide
-- [[stachybotrys-chartarum]]
-- [[psilocybin-mushroom-identification-guide]]
-- [[trichoderma-forest-green-mold-guide]]
+### Asthma Exacerbation
+Mold spores and fragments can trigger asthma attacks. Sensitization to specific mold species (Alternaria, Cladosporium, Aspergillus) is a risk factor for severe asthma.

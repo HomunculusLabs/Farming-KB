@@ -121,3 +121,5 @@ rarity:
   [[ectomycorrhizal-fungi]]
 - DNA barcoding can help identify species that are morphologically
 ## See Also
+
+- [[fungal-inventory-challenges-pitfalls]]

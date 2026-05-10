@@ -12,9 +12,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Guiry MD, Guiry GM (2025). "Ulva lactuca L." AlgaeBase.
-  - McDermid KJ, Stuercke B (2003). "[[dighton-fungal-nutritional-composition-animal-diets]] of edible Hawaiian seaweeds." Journal of Applied Phycology 15: 513–524.
+  - McDermid KJ, Stuercke B (2003). "dighton-fungal-nutritional-composition-animal-diets of edible Hawaiian seaweeds." Journal of Applied Phycology 15: 513–524.
   - Fletcher RL (1996). "The occurrence of 'green tides' — a review." Marine Benthic Vegetation. Springer.
-  - Holdt SL, Kraan S (2011). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in seaweed." Journal of Applied Phycology 23: 543–597.
+  - Holdt SL, Kraan S (2011). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants in seaweed." Journal of Applied Phycology 23: 543–597.
 ---
 
 ## Overview
@@ -137,6 +137,8 @@ receiving agricultural and municipal runoff. Management strategies include
 nutrient source reduction and biomass harvesting for commercial use.
 
 ## See Also
+
+- [[lactuca-sativa]]
 
 - [[hypnea-musciformis]]
 - [[pyropia]]

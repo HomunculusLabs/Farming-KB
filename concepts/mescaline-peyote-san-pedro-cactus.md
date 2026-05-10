@@ -76,7 +76,7 @@ Wild peyote populations in Texas and northern Mexico have declined significantly
 
 ## Related
 
-- [[mescaline-entity]] Topics
+- [[mescaline]] Topics
 
 - [[lsd-molecule-of-perfection]]
 - [[5-meo-dmt-compound-profile]]

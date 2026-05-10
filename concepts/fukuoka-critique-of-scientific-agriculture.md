@@ -91,13 +91,6 @@ bad, are alien to nature — they are distinctions invented by man. Nature
 maintained a great harmony without such notions.
 
 ## See Also
-
 - [[fukuoka-relative-merits-natural-scientific-agriculture]]
-
 - [[partnership-vs-dominator-culture-mckenna]]
-
-## See Also
-
-- [[fukuoka-relative-merits-natural-scientific-agriculture]]
-
 - [[fukuoka-critique-scientific-agriculture-civilization]]

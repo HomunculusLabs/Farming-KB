@@ -122,10 +122,6 @@ approved of this democratic accessibility, as his philosophy emphasized
 that farming and ecological care should be within everyone's reach.
 
 ## See Also
-
 - [[natural-farming-philosophy]]
 - [[query-how-do-i-create-a-seed-bank-and-start-seed-saving]]
-
-## See Also
-
 - [[clay-seed-pellets-direct-seeding]]

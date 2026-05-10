@@ -9,12 +9,12 @@ sources: []
 
 # Soil Amendment Reference
 
-This reference covers common organic soil amendments, their nutrient profiles, [[ingham-compost-tea-application-rates-and-timing]], and best use cases. Always base amendments on soil test results rather than routine application.
+This reference covers common organic soil amendments, their nutrient profiles, application rates, and best use cases. Always base amendments on soil test results rather than routine application. (see [[rock-dust-minerals]]).
 
 ## pH Adjusters
 
 ### Agricultural Lime (Calcium Carbonate)
-- **Raises soil pH** (sweetens acidic soil).
+- **Raises soil pH** (sweetens acidic soil). (see [[animal-byproducts]]).
 - Primary nutrient: calcium (30-40% Ca), magnesium (if dolomitic lime).
 - Application rate: 5-10 lbs per 100 sq ft (follow soil test).
 - Apply in fall; takes 3-6 months to fully react.
@@ -26,7 +26,7 @@ This reference covers common organic soil amendments, their nutrient profiles, [
 - Also provides sulfur (15-18% S), which lowers pH very slightly.
 - Application rate: 1-2 lbs per 100 sq ft.
 - Improves soil structure in clay soils by flocculating particles.
-- Good for treating blossom end rot in tomatoes and peppers ([[knf-calcium-deficiency-symptoms]]).
+- Good for treating blossom end rot in tomatoes and peppers (calcium deficiency).
 - Can help displace excess sodium in sodic soils.
 
 ## Phosphorus Sources
@@ -40,7 +40,7 @@ This reference covers common organic soil amendments, their nutrient profiles, [
 - Not effective in alkaline soils (pH above 7.0).
 
 ### Bone Meal
-- Higher [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] than rock phosphate (3-15-0).
+- Higher phosphorus availability than rock phosphate (3-15-0).
 - Also provides calcium (12-16%).
 - Application rate: 1-2 lbs per 100 sq ft.
 - Effective for bulbs, root crops, and flowering plants.
@@ -106,7 +106,7 @@ This reference covers common organic soil amendments, their nutrient profiles, [
 - **Fall**: Lime, rock phosphate, greensand (slow-release amendments need time).
 - **Early spring**: Gypsum, bone meal, general mineral mixes.
 - **Planting time**: Bone meal in planting holes for transplants and bulbs.
-- **[[savory-growing-season-and-non-growing-season-management]]**: Blood meal as side-dress for heavy feeders; [[query-how-to-use-kelp-meal-as-fertilizer]] foliar or top-dress.
+- **Growing season**: Blood meal as side-dress for heavy feeders; kelp meal as foliar or top-dress.
 - **Compost pile**: Rock phosphate, kelp meal, azomite to enrich finished compost.
 
 ## Safety Notes
@@ -116,11 +116,9 @@ This reference covers common organic soil amendments, their nutrient profiles, [
 - Keep blood meal away from pets and wildlife.
 - Store all amendments in a dry, rodent-proof container.
 
-## Related
+## Related Concepts
 
-- [[azomite-mineral-amendment]] Concepts
-
-- [[composting-methods-comparison]] for building [[hamilton-composting-and-organic-matter-management]] alongside mineral amendments
+- [[composting-methods-comparison]] for building organic matter alongside mineral amendments
 - [[compost-tea-brewing]] for delivering soluble nutrients biologically
 - [[soil-food-web-nutrient-cycling]] for understanding soil composition and testing
 - [[raised-bed-gardening]] for amendment rates in contained beds

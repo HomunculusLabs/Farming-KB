@@ -28,10 +28,10 @@ Comprehensive plant palette tables, case studies, and practical tips for food fo
 
 ## Case Study: Jerome Osentowski's Central Rocky Mountain Permaculture Institute
 
-At 7,200 feet elevation in Basalt, Colorado, Jerome Osentowski created one of North America's most impressive food forests in a harsh [[mollison-valley-and-mountain-climate-effects]]. Key design elements:
+At 7,200 feet elevation in Basalt, Colorado, Jerome Osentowski created one of North America's most impressive food forests in a harsh mountain climate. Key design elements:
 
 - **Terraced hillside**: Stone walls create level growing surfaces and store heat
-- **[[mollison-designers-microclimate-creation-frost-protection]]**: Ponds and south-facing stone walls reflect light and moderate temperature
+- **Microclimate creation**: Ponds and south-facing stone walls reflect light and moderate temperature
 - **Peach tree amid ponds**: Stored heat from water plus reflected light speeds growth in a frost-prone site
 - **Nitrogen-fixing nurse plants**: Siberian pea shrub and other N-fixers planted first to shelter fruit trees
 - **Canopy layered with diversity**: Over 100 fruit tree varieties, numerous berry species, and extensive herbaceous plantings
@@ -92,7 +92,7 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 ### Herbaceous Layer (selections)
 | Plant | Botanical Name | Notes |
 |---|---|---|
-| Comfrey | Symphytum spp. | [[nutrient-dynamic-accumulator-reference]], mulch producer |
+| Comfrey | Symphytum spp. | Dynamic accumulator, mulch producer |
 | Artichoke | Cynara scolymus | Edible, large mulch plant |
 | Asparagus | Asparagus officinalis | Long-lived perennial vegetable |
 | Rhubarb | Rheum rhabarbarum | Edible stems, large leaves for mulch |
@@ -127,11 +127,11 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 ### Root Layer
 | Plant | Botanical Name | Notes |
 |---|---|---|
-| [[comparison-jerusalem-artichoke-vs-potato]] | Helianthus tuberosus | Edible tubers, tall, 6+ ft |
+| Jerusalem artichoke | Helianthus tuberosus | Edible tubers, tall, 6+ ft |
 | Horseradish | Armoracia rusticana | Edible root, aggressive spreader |
 | Groundnut | Apios americana | N-fixing edible tuber, native |
 | Garlic | Allium sativum | Edible, pest repellent |
-| Oca | [[oxalis-tuberosa]] | Edible tubers, mild climates |
+| Oca | Oxalis tuberosa | Edible tubers, mild climates |
 | Mashua | Tropaeolum tuberosum | Edible tubers, Andean |
 | Camas | Camassia quamash | Edible bulb, native NW |
 
@@ -139,11 +139,12 @@ Douglas Bullock's forest garden is a mature 15-year-old food forest:
 
 - Start with a "mini food forest" -- even 20x20 feet with 2-3 fruit trees, berry bushes, and ground covers
 - Use dwarf and semi-dwarf fruit trees to fit more variety in less space
-- [[query-how-do-i-integrate-ducks-into-my-permaculture-system]] and chickens -- they control pests and fertilize (keep them out when fruit is ripe)
+- Integrate ducks and chickens -- they control pests and fertilize (keep them out when fruit is ripe)
+- Plant comfrey around every fruit tree as a nutrient accumulator and mulch source
+- Always keep soil covered -- clover between trees, straw mulch, or living ground covers
+- Harvest rainwater from any nearby structures to irrigate during establishment
+- Use [[permaculture-useful-plants-reference]] to select species suited to your climate
+
 ## Related Pages
 
 - [[food-forest-design]] — Design process and overview
-- [[gaia-garden-plant-guilds]] — Guild design
-- [[permaculture-plant-catalog]] — Plants by function
-- [[dynamic-accumulators]] — Nutrient accumulator list
-- [[bamboo-growing-guide]]

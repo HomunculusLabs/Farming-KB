@@ -16,10 +16,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Waser, P.G. (1967). "The pharmacology of allegro-amanita-muscaria-properties-and-pharmacology." In: Ethnopharmacologic Search for Psychoactive Drugs. Public Health Service Publication.
-  - Chilton, W.S. et al. (1979). "[[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol: chemistry, pharmacology, biology, and clinical significance." Research Communications in Psychology, Psychiatry and Behavior.
+  - Chilton, W.S. et al. (1979). "amanita-muscaria-muscimol-ibotenic-acid-pharmacology and muscimol: chemistry, pharmacology, biology, and clinical significance." Research Communications in Psychology, Psychiatry and Behavior.
   - https://pubchem.ncbi.nlm.nih.gov/compound/4265 (muscimol CID 4265)
   - Bowden, K. & Drysdale, A.C. (1965). "The structure of muscimol." Tetrahedron Letters.
-  - Deltas, D. et al. (2023). "Muscimol: pharmacology, toxicology, and emerging [[metzner-ayahuasca-therapeutic-potential]]." Frontiers in Pharmacology.
+  - Deltas, D. et al. (2023). "Muscimol: pharmacology, toxicology, and emerging metzner-ayahuasca-therapeutic-potential." Frontiers in Pharmacology.
 ---
 
 # Muscimol

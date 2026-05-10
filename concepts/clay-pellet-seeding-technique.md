@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Fukuoka, Masanobu. *The Natural Way of Farming: The Theory and
-    Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]*. 1985.
+    Practice of fukuoka-sowing-green-philosophy-one-grain-revolution*. 1985.
   - Fukuoka, Masanobu. *The One-Straw Revolution*. Rodale Press, 1978.
 related_concepts:
   - natural-farming-principles
@@ -121,10 +121,6 @@ question of whether revegetation can restore rainfall patterns remains
 scientifically debated.
 
 ## See Also
-
 - [[fukuoka-natural-farming-philosophy]]
 - [[hamilton-green-manure-crops-and-cover-cropping]]
-
-## See Also
-
 - [[fukuoka-desert-revegetation-natural-farming]]

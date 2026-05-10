@@ -15,7 +15,7 @@ updated: 2026-05-08
 sources:
   - Jarrold S. "Indoor Mushroom Growing Technique: Boil a Bag." Mushroom cultivation guide.
   - Stamets P (1993). Growing Gourmet and Medicinal Mushrooms. Ten Speed Press, Berkeley, CA.
-  - Wood DA, Smith JF (1987). "The [[companion-cultivation-of-mushrooms-with-garden-vegetables]] on enriched straw substrates." Mushroom Journal 164: 366-371.
+  - Wood DA, Smith JF (1987). "The companion-cultivation-of-mushrooms-with-garden-vegetables on enriched straw substrates." Mushroom Journal 164: 366-371.
   - Rinker DL (1991). "Use of supplements in mushroom cultivation." In: van Griensven LJLD (ed.), Genetics and Breeding of Agaricus. Pudoc, Wageningen.
 ---
 
@@ -102,6 +102,8 @@ Once opened, yeast extract products should be kept sealed to prevent moisture ab
 Prepared yeast extract solutions for substrate hydration should be used immediately rather than stored, as the nutrient-rich liquid is an excellent growth medium for bacteria and wild fungi. Solutions prepared more than a few hours in advance should be refrigerated or re-pasteurized before use.
 
 ## See Also
+
+- [[straw-substrate-yeast-extract-enrichment-jarrold]]
 
 - straw substrate preparation
 - [[boil-a-bag-mushroom-cultivation-technique]]

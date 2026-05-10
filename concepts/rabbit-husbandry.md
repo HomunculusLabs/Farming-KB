@@ -1,5 +1,5 @@
 ---
-title: [[comparison-rabbit-husbandry-vs-chicken-keeping]]
+title: Rabbit Husbandry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ Rabbits are the most space-efficient meat animal for the homestead. A single
 breeding trio (1 buck, 2 does) can produce 80-100+ lbs of meat per year in
 a footprint smaller than a garden shed. They are quiet, reproduce rapidly,
 and produce lean, mild-tasting meat. Their manure is an outstanding garden
-fertilizer that can be applied directly without [[composting]].
+fertilizer that can be applied directly without composting.
 
 ## Breed Selection
 
@@ -94,7 +94,7 @@ fertilizer that can be applied directly without [[composting]].
   and calcium). Too rich for adult maintenance.
 
 ### Fresh Feed
-- 10-20% of diet can be fresh greens: [[dandelion]], plantain, comfrey,
+- 10-20% of diet can be fresh greens: dandelion, plantain, comfrey,
   raspberry leaves, clover, parsley.
 - Avoid iceberg lettuce (causes diarrhea), cabbage family in excess,
   potatoes, rhubarb.
@@ -143,7 +143,8 @@ fertilizer that can be applied directly without [[composting]].
 - Gutting: small incision below the sternum, remove entrails carefully.
   Save liver, heart, kidneys.
 - Chill carcass for at least 4 hours before cutting or freezing.
-## Related
+- Yield: approximately 60% dress-out (live to hanging weight).
+- See [[animal-harvest-and-processing]] for detailed processing procedures.
 
-- [[animal-butcher-and-processing]]
-- [[faires-meat-processing-curing-and-smoking]]
+## Tanning Hides
+

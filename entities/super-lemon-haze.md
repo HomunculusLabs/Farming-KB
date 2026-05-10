@@ -117,6 +117,6 @@ numerous subsequent cultivars:
 
 - [[lemon-haze]]
 - [[sour-diesel]]
-- [[cannabis-blue-dream]]
+- [[blue-dream]]
 - [[myrcene]]
 - [[cannabis-sativa]]

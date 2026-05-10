@@ -115,6 +115,8 @@ complete theory of consciousness account for the extraordinary sensitivity of
 
 ## See Also
 
+- [[quantum-mechanical-correlates-hallucinogenesis-smythies-shulgin]]
+
 - [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
 - [[dmt-entity-encounters-and-the-logos]]
 - [[mckenna-endogenous-tryptamines-quantum-consciousness]]

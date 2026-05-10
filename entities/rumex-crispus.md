@@ -17,7 +17,7 @@ sources:
   - Tilford, G.L. (1997). Edible and Medicinal Plants of the West. Mountain Press Publishing.
   - Kershaw, L. (2000). Edible and Medicinal Plants of the Rockies. Lone Pine Publishing.
   - CABI Invasive Species Compendium. "Rumex crispus (curly dock)." CAB International, 2024.
-  - Couplan, F. (1998). The Encyclopedia of Edible Plants of [[psilocybin-north-america-pacific-northwest]]. Gibbs Smith.
+  - Couplan, F. (1998). The Encyclopedia of Edible Plants of psilocybin-north-america-pacific-northwest. Gibbs Smith.
 ---
 
 ## Overview

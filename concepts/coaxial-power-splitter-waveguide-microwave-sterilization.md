@@ -138,6 +138,10 @@ the operating frequency range for reliable operation.
 
 ## See Also
 
+- [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
+
+- [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
+
 - [[microwave-exposure-system-architecture-surface-sterilization]]
 - [[microwave-surface-sterilization-2-45ghz-nasa]]
 - [[microwave-penetration-elastomeric-materials]]

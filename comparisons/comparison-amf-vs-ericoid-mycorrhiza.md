@@ -9,8 +9,7 @@ tags:
   - comparative-review
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 ---
 
 # Arbuscular Mycorrhizal Fungi vs Ericoid [[mycorrhizal-fungi]] (AMF) and ericoid mycorrhiza are two distinct types of endomycorrhizal associations that colonize plant roots intracellularly. Despite sharing the broad category of endomycorrhizae, they differ profoundly in fungal taxonomy, host range, ecological niche, and functional role.

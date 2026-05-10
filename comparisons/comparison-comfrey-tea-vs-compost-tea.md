@@ -15,7 +15,7 @@ sources:
   - "Rodale, J.I. (1974). *The Complete Book of Composting*. Rodale Press."
   - "Brinton, W.F. (2008). 'Compost Teas: Active or Passive?' *Biocycle*, 49(12), 46-49."
   - "Couplan, F. (1998). *The Encyclopedia of Edible Plants of North America*. Contemporary Books."
-  - "Sarrantonio, M. (1994). *Northeast [[cover-crop]] Handbook*. Rodale Institute."
+  - "Sarrantonio, M. (1994). *Northeast cover-crop Handbook*. Rodale Institute."
 type: comparison
 ---
 

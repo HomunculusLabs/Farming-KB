@@ -120,13 +120,8 @@ constant harvest. "Having had it both ways, using zones is the only way I'll
 garden."
 
 ## See Also
-
 - [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]]
 - [[ozier-pdc-ecological-design]]
-
-## See Also
-
-- faires-garden-design-zone-1-layout
 - [[zone-and-sector-analysis]]
 - [[perennial-vegetables]]
 - [[toby-hemenway]]

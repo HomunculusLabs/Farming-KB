@@ -12,7 +12,7 @@ sources: []
 Queen rearing is the practice of raising new honey bee queens from existing
 colony stock. It enables beekeepers to replace failing queens, increase
 colony numbers, and selectively breed for desirable traits. This guide
-covers the most accessible methods for small-scale and hobbyist beekeepers.
+covers the most accessible methods for small-scale and hobbyist beekeepers. (see [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]).
 
 ## Why Raise Your Own Queens
 
@@ -39,7 +39,7 @@ of royal jelly during the larval stage. Key facts:
 
 ## Method 1: Walk-Away Split
 
-The simplest queen-rearing method — no special equipment needed.
+The simplest queen-rearing method — no special equipment needed. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
 
 ### Procedure
 1. Select a strong, healthy colony with at least 8 frames of brood
@@ -52,7 +52,7 @@ The simplest queen-rearing method — no special equipment needed.
 
 ### Success Rate
 Approximately 70-80% if the parent colony was strong. Drawbacks: emergency
-queens may be lower quality because they are raised from older larvae.
+queens may be lower quality because they are raised from older larvae. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ## Method 2: Grafting
 
@@ -141,10 +141,10 @@ or kill a queen they do not accept.
 - Ensure the colony has adequate food during the introduction period
 
 ## Selecting Breeder Stock
-## See Also
-- [[permaculture-beginners-guide-food-forests-introduction]]
-- [[permaculture-beginners-guide-soil-building-basics]]
-- [[disposable-tray-casing-method-grass-seed-substrate]]
-- [[query-what-is-the-best-cannabis-grow-medium-for-beginners]]
-- [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]]
-- [[query-what-is-a-gley-pond-and-how-does-it-work]]
+
+The quality of your queens depends on the genetics of the breeder colony.
+Select for:
+- Gentle temperament
+- High honey production
+- Good winter survival
+- Low Varroa mite loads (VSH or hygiene traits)

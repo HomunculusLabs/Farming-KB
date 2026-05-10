@@ -1,8 +1,37 @@
 ---
 
+title: Seasonal Homesteading — Fall and Winter
+created: 2026-04-12
+updated: 2026-04-12
+type: query
+
+tags:
+- homesteading
+- timeline
+- regenerative
+- gardening
+- permaculture
+- animal-husbandry
+- compost
+- cover-crop
+- season-extension
+- preservation
+- annual-calendar
+- drying
+- reference
+
+sources:
+- concepts/seasonal-planning.md
+- concepts/homesteading.md
+- concepts/duck-keeping.md
+- concepts/goat-keeping.md
+- concepts/food-preservation.md
+- concepts/composting-systems.md
+---
+
 # Seasonal Homesteading — Fall and Winter
 
-July through December task list for temperate climate zones 5-7. See seasonal-homesteading-calendar for the spring and summer months (January–June) and seasonal-planning for the cannabis-integrated version.
+July through December task list for temperate climate zones 5-7. See [[seasonal-homesteading-calendar]] for the spring and summer months (January–June) and [[seasonal-planning]] for the cannabis-integrated version.
 
 ---
 
@@ -22,7 +51,7 @@ July through December task list for temperate climate zones 5-7. See seasonal-ho
 
 ## August
 
-**Garden tasks**: Transplant fall brassicas. Direct sow spinach, radishes, turnips, kale. [[cover-cropping-guide]] — sow buckwheat on empty beds (quick summer cover). Sow oats + [[comparison-lupin-vs-crimson-clover-green-manure]] for winter cover. Cannabis mid-flower — monitor trichomes, flush if near harvest.
+**Garden tasks**: Transplant fall brassicas. Direct sow spinach, radishes, turnips, kale. [[cover-cropping-guide]] — sow buckwheat on empty beds (quick summer cover). Sow oats + crimson clover for winter cover. Cannabis mid-flower — monitor trichomes, flush if near harvest.
 
 **Livestock**: Evaluate culling/replacement before winter feed costs. Order winter hay now (prices rise in fall). Continue pasture rotation.
 
@@ -36,7 +65,7 @@ July through December task list for temperate climate zones 5-7. See seasonal-ho
 
 ## September
 
-**Garden tasks**: Peak harvest of summer crops. Winter squash cure (80F, 75% humidity, 10-14 days). Transplant fall greens (lettuce, spinach, Asian greens) into beds and tunnels. [[query-how-to-run-perpetual-cannabis-harvest-cycle]] window — check trichomes daily, dry and cure. Divide and transplant perennials.
+**Garden tasks**: Peak harvest of summer crops. Winter squash cure (80F, 75% humidity, 10-14 days). Transplant fall greens (lettuce, spinach, Asian greens) into beds and tunnels. Cannabis harvest window — check trichomes daily, dry and cure. Divide and transplant perennials.
 
 **Livestock**: Final pasture rotation before dormancy. Winterize housing — check for drafts, repair roofs. Prepare bedding. Goats — breeding season begins.
 
@@ -50,7 +79,7 @@ July through December task list for temperate climate zones 5-7. See seasonal-ho
 
 ## October
 
-**Garden tasks**: Plant garlic cloves, shallots, flower bulbs. Transplant final fall greens. Final window for winter [[cover-cropping-guide]] — winter rye, hairy vetch, crimson clover. [[green-cannabis-curing-drying-buds]] in progress. Clean and sanitize grow space. Spread finished compost and leaves on beds.
+**Garden tasks**: Plant garlic cloves, shallots, flower bulbs. Transplant final fall greens. Final window for winter [[cover-cropping-guide]] — winter rye, hairy vetch, crimson clover. Cannabis curing in progress. Clean and sanitize grow space. Spread finished compost and leaves on beds.
 
 **Livestock**: Full winter prep — draft-free housing, heated waterers, hay storage. Goats — breeding season. Increase feed rations as pasture declines. Body condition scoring.
 
@@ -70,7 +99,7 @@ July through December task list for temperate climate zones 5-7. See seasonal-ho
 
 **Food preservation**: Harvest final roots (echinacea, valerian, ashwagandha). Dry and process for [[herbal-medicine]]. Check stored food monthly — use anything showing spoilage.
 
-**Infrastructure**: Clean and store all tools. Oil metal surfaces. Drain and store hoses. Prepare snow removal equipment. Check [[permaculture-designers-manual-animal-housing-detailed]] insulation.
+**Infrastructure**: Clean and store all tools. Oil metal surfaces. Drain and store hoses. Prepare snow removal equipment. Check animal housing insulation.
 
 **Planning**: Evaluate what worked and didn't. Update garden journal. Start seed and supply wishlists.
 
@@ -95,9 +124,9 @@ July through December task list for temperate climate zones 5-7. See seasonal-ho
 | Season | Energy | Focus |
 |---|---|---|
 | Spring (Feb-Apr) | Building | Soil prep, planting, animal transitions, infrastructure |
-| Summer (May-Aug) | Peak | Maximum production, preservation, [[cannabis-pest-management-guide]], daily harvest |
+| Summer (May-Aug) | Peak | Maximum production, preservation, pest management, daily harvest |
 | Fall (Sep-Nov) | Transition | Harvest, storage, cover crops, winterizing, reflection |
-| Winter (Dec-Feb) | Rest | Planning, learning, [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]], equipment maintenance |
+| Winter (Dec-Feb) | Rest | Planning, learning, indoor growing, equipment maintenance |
 
 ## See Also
 

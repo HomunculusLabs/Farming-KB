@@ -72,6 +72,27 @@ Its relative abundance in Europe compared to P. aeruginosa makes
 it an important subject for future [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] that could
 confirm or deny its place among [[cattle-dispersal-psychoactive-fungi-australia]].
 
+## Seasonality
+
+Psilocybe caerulea fruits from late summer through autumn (August to
+November in the Northern Hemisphere), with peak fruiting during cool,
+moist conditions in September and October. In northwestern North
+America, the season may begin as early as July in coastal Pacific
+Northwest climates. The species requires sustained moisture and
+moderate temperatures (10-18°C), and is most commonly found after
+periods of heavy rain followed by cooler weather.
+
+## Legal Status
+
+Psilocybe caerulea is not specifically named in drug scheduling in
+most jurisdictions. However, as a member of the genus Psilocybe, it
+falls under broader legal frameworks controlling psilocybin-containing
+fungi. In the United Kingdom, the Misuse of Drugs Act 1971 covers any
+material containing psilocybin or psilocin. In the United States,
+psilocybin and psilocin are Schedule I substances, and all Psilocybe
+species are presumed to contain controlled substances. The Netherlands
+banned the sale of all psilocybin-containing mushrooms since 2008.
+
 ## See Also
 - [[psilocybe-southeast-asia-pacific]]
 - [[psilocybe-stuntzii]]

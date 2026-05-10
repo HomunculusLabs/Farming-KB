@@ -1,115 +1,141 @@
----
-title: fungi-in-the-environment-fungal-species-recognition-phylogenetics and Population Genetics
-source: Fungi in the Environment - Gadd, Watkinson, Dyer
-source_author: Geoffrey Gadd, Sarah C. Watkinson, Paul S. Dyer
-tags: [fungal-species, MLST, MLMT, population-genetics, phylogenetics, fungal-ecology, molecular-typing]
-created: 2026-05-08
----
+# Fungal Species Recognition and Population Genetics
 
-# fungal-population-genetics cs genetics is essential for addressing ecological
-questions about dispersal, gene flow, adaptation, and the spatial structure of
-[[biodiversity-of-fungi-soil-fungal-communities-agriculture]]. These insights have practical implications for plant pathology,
-[[mycelium-running-conservation-biology-and-fungi]], and the management of fungal bioresources.
+## Overview
+Understanding fungal species delimitation and population structure is essential for
+addressing ecological questions about dispersal, gene flow, adaptation, and the spatial
+organization of [[biodiversity-of-fungi-soil-fungal-communities-agriculture|soil fungalcommunities]]. These insights have practical implications for plant pathology,
+[[fungal-conservation-biology]], and the management of fungal bioresources. The challenge of
+recognizing fungal species is complicated by the fact that only approximately 11% of
+described fungal species have been cultivated, and roughly 20% of those do not
+reproduce sexually in laboratory conditions, precluding straightforward mating tests.
 
 ## The Species Concept Problem in Fungi
 
-The biological species concept, defining species as groups of interbreeding
-individuals reproductively isolated from other such groups, has been widely applied
-to fungi. However, many fungi reproduce exclusively asexually, making reproductive
-isolation impossible to assess directly for the majority of described species.
+### Morphological Species Recognition (MSR)
+Historically, all fungal species were recognized by morphology. Where morphological
+species were broad and the need to distinguish species was great, mycologists employed
+additional phenotypes such as substrate utilization patterns and growth rates on
+different media at various temperatures. However, multiple genetically isolated species
+frequently share identical morphologies (cryptic species), while single genetic species
+may display remarkable phenotypic plasticity across [[fungal-adaptations-environmental-gradients]]. The
+morphological approach therefore severely underestimates true fungal diversity.
 
-The morphological species concept, based on observable phenotypic characters, suffers
-from convergent evolution and phenotypic plasticity. Many genetically distinct
-lineages share identical morphologies, while single genetic species may display
-remarkable morphological [[psilocybin-psilocin-variation-across-flushes]] environmental gradients.
+### Biological Species Recognition (BSR)
+The biological species concept defines species as groups of interbreeding individuals
+reproductively isolated from other such groups. This approach has been applied
+productively to fungi that can be mated in laboratory conditions, particularly among
+Agaricales. However, BSR is not broadly applicable given the prevalence of asexual
+reproduction and the difficulty of cultivating many fungi. Additionally, many
+genetically and geographically distinct species are not reproductively isolated,
+meaning BSR and genetic approaches can yield conflicting results.
 
-The phylogenetic species concept, which defines species as monophyletic groups
-identified by shared derived characters, has gained broad acceptance in mycology.
-Molecular phylogenetic analyses have revealed extensive cryptic diversity, with
-morphologically identical fungi often comprising multiple distinct evolutionary
-lineages with different ecological adaptations.
+### Phylogenetic Species Recognition (PSR)
+Phylogenetic species recognition has emerged as the most widely applicable solution.
+PSR uses the concordance of gene genealogies across multiple loci to identify
+genetically isolated lineages. The approach relies on a fundamental transition: within
+a species, recombination maintains concordance among gene trees, while between species,
+lineage-specific loss of ancestral variation following genetic isolation produces
+congruent phylogenetic patterns across independent loci. PSR has had a dramatic impact
+on fungal taxonomy, particularly for medically and agriculturally important species.
 
 ## Multilocus Sequence Typing (MLST)
 
 MLST characterizes fungal isolates by sequencing fragments of multiple housekeeping
-genes, typically 5 to 7 loci. Allelic profiles at these loci define sequence types
-that can be compared across studies and laboratories, providing a standardized
-framework for species delimitation and epidemiological tracking.
+genes, typically five to seven loci. Each unique allelic profile at these loci defines
+a sequence type (ST) that can be compared across studies and laboratories. A critical
+advantage of MLST over fingerprinting approaches like RAPD is that DNA sequences are
+"portable" — sequences determined in different laboratories can be combined into unified
+databases, avoiding the ascertainment bias that plagues approaches where polymorphic
+loci discovered for one population may prove fixed and uninformative in another.
 
-The strength of MLST lies in its ability to resolve both deep phylogenetic
-relationships and recent population-level divergence. By analyzing multiple
-independent loci, MLST avoids the biases inherent in single-gene approaches and
-provides a robust estimate of genetic relatedness among isolates.
-
-MLST has been particularly valuable for clinically important f psilocybe-species-identification dentification
-and strain typing inform treatment decisions and infection [[jadam-weed-control-strategies-natural]].
-Publicly accessible MLST databases facilitate global surveillance and population
-genetic analyses of pathogenic and environmental fungi.
+Web-based MLST schemes have been established for several socially important fungi,
+including Coccidioides species. The first application of genealogical concordance in
+mycology was with [[coccidioides-immitis]], where comparison of five genes sequenced from
+17 individuals revealed two phylogenetic species within what had been considered a
+single morphological species. It seems likely that each medically important fungus will
+eventually have its own MLST scheme, enabling truly global studies of fungal species
+diversity.
 
 ## Multilocus Microsatellite Typing (MLMT)
 
-MLMT exploits the high variability of microsatellite loci—short tandem repeat
-sequences that mutate rapidly through replication slippage—for high-resolution
-fungal genotyping. MLMT provides finer-scale discrimination than MLST, making it
-ideal for studying recent transmission events, local population structure, and
-epidemiological outbreaks.
+MLMT exploits the high variability of microsatellite loci — short tandem repeat
+sequences that mutate rapidly through replication slippage — for high-resolution
+fungal genotyping. Microsatellites are portable like DNA sequences and can be used to
+discover population structure through either phylogenetic analysis or Bayesian
+assignment methods.
 
-The high mutation rate of microsatellites limits their utility for deep phylogenetic
-inference but makes them exceptionally powerful for detecting fine-scale population
-processes. MLMT can distinguish among isolates from the same MLST sequence type,
-revealing population substructure invisible to sequence-based approaches.
+MLMT provides finer-scale discrimination than MLST, making it ideal for studying
+recent transmission events, local population structure, and epidemiological outbreaks.
+In Coccidioides, nine microsatellite loci applied to nearly 170 individuals confirmed
+the two species proposed by MLST and further revealed at least two populations within
+Coccidioides immitis and three within Coccidioides posadasii.
 
-MLMT has been applied to diverse fungal taxa, including plant pathogens, human
-pathogens, and environmental fungi. In population genetic studies, microsatellite
-data enable estimation of gene flow, effective population size, and reproductive
-mode—parameters critical for understanding the evolutionary dynamics of fungal
-populations in natural and managed ecosystems.
+### The Homoplasy Problem
+An important finding from comparative studies is that single microsatellites can be
+misleading owing to hypervariability and attendant homoplasy — identical allele sizes
+may arise independently through convergent mutations rather than shared ancestry. This
+conclusion was reached independently in studies of both Coccidioides and Neurospora.
+The practical implication is that many microsatellite loci should be used
+simultaneously; for example, Fisher and colleagues used 20 microsatellites in their
+study of [[gadd-penicillium-marneffei-population-genetics]] to accomplish species recognition and population
+characterization in a single analysis.
 
-## Phylogenetic Species Recognition
+## Histoplasma: A Case Study in Cryptic Diversity
 
-Phylogenetic species recognition (PSR) uses genealogical concordance across multiple
-loci to delimit species boundaries. Under the genealogical concordance phylogenetic
-species recognition (GCPSR) framework, a species is recognized when multiple
-independent gene trees show congruent patterns of exclusive coalescence.
+The fungus [[histoplasma-capsulatum]] provides a compelling illustration of how
+phylogenetic methods reveal hidden diversity. This species was known to be
+phenotypically complex and was divided into three varieties based on host, geographic
+range, and disease symptoms. When sequences from four loci were obtained from more
+than 130 individuals assigned to the three varieties, they formed at least seven
+genetically isolated clades showing strong correlation with geography but not with host
+or symptoms: North America 1 and 2, Latin America A (including a Eurasian subclade)
+and Latin America B, Africa, Australia, and Indonesia. The morphological varieties
+proved to be neither monophyletic nor phylogenetically meaningful.
 
-GCPSR is particularly well-suited to fungi because it accommodates the complexities
-of fungal reproductive biology, including the potential for recombination between
-named species and the existence of asexual lineages that may represent recently
-derived or independently evolving units.
+## Species Divergence and Geologic Time
 
-The increasing availability of whole-genome sequencing data has enabled genome-wide
-approaches to species delimitation, including average nucleotide identity (ANI)
-calculations and population genomic analyses based on single nucleotide polymorphisms.
-These approaches provide unprecedented resolution for detecting cryptic species and
-understanding the genomic architecture of reproductive isolation in fungi.
+Molecular clock analyses have revealed that morphological species typically harbour
+two or more cryptic species with divergences on the order of 3–10 million years ago,
+while the nearest morphologically distinct species have diverged approximately 30–100
+million years ago. This disparity suggests that it is far easier to form a new species
+than to maintain one — most genetically isolated clades do not persist long enough to
+accumulate morphological differences.
 
-## Environmental Population Genetics
+In Coccidioides, the two recognized species diverged between 10 and 12 million years
+ago. For Histoplasma, the radiation of seven clades was estimated at 3.2 to 13 million
+years ago, with tropical clades showing much greater genotypic diversity than
+temperate ones — likely because temperate populations endured genetic bottlenecks
+during ice age glaciation cycles while tropical populations escaped these
+contractions.
 
-Studying fungal population genetics directly in environmental samples—rather than
-from cultured isolates—has become feasible  ification enables researchers to
-link functional traits, such as carbon and nitrogen source utilization, to
-population genetic patterns. This integration of ecological function with
-evolutionary history provides a more complete picture of how fungal populations
-respond to environmental gradients and anthropogenic disturbance.
+## Reproductive Mode and Geographic Range
 
-## Reproductive Mode and Population Structure
+Reproductive mode profoundly influences population structure and biogeography. A
+strictly clonal species would need periodic global sweeps of a single genotype to
+avoid fragmentation into endemic clades, while a recombining species requires
+long-distance dispersal of individuals capable of mating. Many socially important
+fungi that are morphologically mitosporic, including [[aspergillus-fumigatus]], show
+genetic evidence of recombination in their population structures.
 
-Fungal populations vary widely in their reproductive mode, from strictly clonal to
-predominantly sexual, and this variation profoundly influences population genetic
-structure. Clonal populations exhibit linkage disequilibrium across loci and limited
-genotypic diversity, while sexually recombining populations show signatures of
-recombination and higher genotypic richness.
+A. fumigatus presents a striking contrast to most other studied fungi: it maintains
+a truly global geographic range with no hint of endemism, unlike the geographically
+structured species seen in Coccidioides, Histoplasma, and Fusarium. The presence of
+both mating types in equal proportion at single locations, combined with high local
+genotypic diversity, suggests that almost any individual of A. fumigatus is capable
+of very long-distance dispersal.
 
-Many supposedly asexual fungi retain evidence of historical or cryptic recombination
-in their genomes, suggesting that sexual processes may occur rarely or under
-unrecognized conditions. The balance between sexual and asexual reproduction affects
-the rate of adaptation, the accumulation of deleterious mutations, and the
-evolutionary potential of fungal populations facing environmental change.
+## Sources
+- Taylor, J.W., Turner, E., Pringle, A., Dettman, J. & Johannesson, H. (2006).
+  "Fungal species: thoughts on their recognition, maintenance and selection." In Gadd,
+  G.M., Watkinson, S.C. & Dyer, P.S. (Eds.), *Fungi in the Environment*, pp. 313–339.
+  Cambridge University Press.
+- Koufopanou, V. et al. (1997). "Evidence for parasexual recombination in
+  Coccidioides immitis." *PNAS* 94: 5478–5482.
+- Kasuga, T. et al. (2003). "Extensive polymorphism in Coccidioides." *Fungal Genet.
+  Biol.* 39: 224–235.
 
-Understanding reproductive mode is also critical for [[gadd-fungal-mlst-population-genetics]]
 ## See Also
-- [[geoffrey-gadd]]
-- [[cryptic-species]]
-- [[gadd-fungal-mlst-population-genetics]]
+
 - [[gadd-fungal-species-recognition]]
-- [[fungi-in-the-environment-fungal-species-recognition-phylogenetics]]
+- [[gadd-fungal-mlst-population-genetics]]
+- [[fungal-genetics]]

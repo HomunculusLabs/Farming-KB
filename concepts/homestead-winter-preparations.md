@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, off-grid, sustainability, livestock, water, energy, preparation]
-sources:
-  sources: []
+sources: []
 ---
 
 # Homestead Winter Preparations
@@ -88,7 +87,7 @@ Winter preparation is a critical annual cycle for any homestead. In cold climate
 
 ### General Principles
 
-- Most livestock tolerate cold better than heat — focus on [[cervantes-wind-protection-outdoor-cannabis]] and dry bedding
+- Most livestock tolerate cold better than heat — focus on wind protection and dry bedding
 - Access to clean, unfrozen water is the most critical winter livestock challenge
 - Increase feed rations 10-20% in cold weather (animals burn more calories to stay warm)
 - Provide shelter from wind and precipitation (not necessarily heated space)
@@ -139,7 +138,7 @@ Winter preparation is a critical annual cycle for any homestead. In cold climate
 - Heat tape on exposed pipes from well to house
 - Ensure pump house or well house is insulated and has a heat source
 - Know how to prime the pump if it loses prime
-- Have a backup [[mollison-designers-hand-pump-and-water-lifting-devices]] if possible
+- Have a backup hand pump if possible
 
 ### Outdoor Plumbing
 
@@ -148,3 +147,4 @@ Winter preparation is a critical annual cycle for any homestead. In cold climate
 - Drain sprinkler systems
 - Insulate any exposed pipes with foam insulation or heat tape
 - Open cabinet doors under sinks on exterior walls during extreme cold
+

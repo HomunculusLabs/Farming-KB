@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources:
-  sources: []
+sources: []
 ---
 Updated: 2026-04-18 Daylilies (Hemerocallis spp.) are [[perennial-vegetables]] plants whose flowers, buds, and roots are all edible. They require little care and work well in outer zones of a [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. They serve as both ornamental and functional plants in [[mulch-producing-plants]] from spent foliage
 
@@ -50,6 +49,42 @@ An established clump of daylilies can produce hundreds of flower buds per season
 ## Important Caution
 
 Only cultivated varieties of daylily are edible. Other types are toxic. Always verify you have the correct edible variety before consuming. Hemerocallis fulva (the common orange daylily) is the most widely confirmed edible species. Some people may experience mild gastric upset from eating large quantities.
+
+## Culinary Uses
+
+Daylily flowers have a mild, slightly sweet flavor with a crisp
+texture similar to lettuce or zucchini blossoms. In Chinese cuisine,
+dried buds (golden needles) are rehydrated and added to hot-and-sour
+soup and moo shu dishes. Fresh flowers can be stuffed with cream
+cheese or herbed ricotta and served as appetizers. Daylily buds
+can be quick-pickled in vinegar brine for a tangy garnish, and the
+tubers can be sliced thin and pan-fried with garlic as a potato
+substitute. Petals add color to salads and can be crystallized
+with egg white and sugar for dessert decoration.
+
+## Companion Planting
+
+Daylilies pair well with [[alliums-growing-guide|alliums]] such as garlic and chives, whose
+strong scent deters aphids and thrips from the daylily blooms. They
+also combine effectively with [[comfrey-multifunctional-guild-plant|comfrey]] and [[yarrow]] in guild
+plantings where the daylily's fibrous roots help break compacted
+subsoil. Avoid planting daylilies near walnut trees (Juglans spp.)
+as juglone toxicity can stunt growth. In food forests, daylilies
+work as a mid-layer ground cover beneath fruit trees, where their
+dense foliage suppresses weeds and retains soil moisture without
+competing heavily for nutrients with deeper-rooted companions.
+
+## Medicinal Properties
+
+Traditional Chinese medicine uses daylily roots as a diuretic and
+mild laxative. The flowers contain modest levels of carotenoids
+including lutein and zeaxanthin, which support eye health. Some
+studies suggest anti-inflammatory properties in the flavonoid
+compounds found in petals. However, medicinal use should be
+approached cautiously — only confirmed edible cultivars like
+Hemerocallis fulva should be used, and individuals with pollen
+allergies may react to raw flowers. Always cook daylily parts
+before consuming in any quantity.
 
 ## Landscape Design
 

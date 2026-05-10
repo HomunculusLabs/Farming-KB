@@ -1,6 +1,6 @@
 ---
 
-title: Cannabis cannabis therapeutic condition guide Guide
+title: Cannabis Therapeutic Condition Guide
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,13 +22,13 @@ sources:
 
 # Cannabis Therapeutic Condition Guide
 
-Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendations for specific conditions. Based on Blesching's [[blesching-cannabis-health-index-autoimmune-conditions]]. For ECS overview, cannabinoid/[[cannabis-terpene-profiles-sativa]], delivery method comparison, and dosing principles, see [[cannabis-health-therapeutics]].
+Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendations for specific conditions. Based on Blesching's Cannabis Health Index. For ECS overview, cannabinoid/terpene profiles, delivery method comparison, and dosing principles, see [[cannabis-health-therapeutics]].
 
 ## Chronic Pain
 
 - **Best cannabinoids**: THC (analgesic, reduces nociception), CBD (anti-inflammatory, modulates THC psychoactivity), THCA (anti-inflammatory), CBG (analgesic)
 - **Best terpenes**: Myrcene (muscle relaxant, analgesic), caryophyllene (anti-inflammatory, CB2 agonist), pinene (analgesic)
-- **[[cannabis-delivery-methods-comparison]]**: Vaporized flower (fast onset, dose control), sublingual tinctures (sustained), transdermal patches (localized, steady-state), edibles (long-duration, 4-8 hr)
+- **Delivery methods**: Vaporized flower (fast onset, dose control), sublingual tinctures (sustained), transdermal patches (localized, steady-state), edibles (long-duration, 4-8 hr)
 - **Evidence**: Strong. Multiple systematic reviews support cannabis for chronic neuropathic pain. Moderate evidence for musculoskeletal pain. Weak for acute pain.
 - **Dosing**: Start low, go slow. 2.5-5 mg THC initial dose. Titrate up by 2.5 mg every 2-3 days. CBD:THC ratio of 1:1 to 2:1 often effective for pain with minimal intoxication. Chronic users may require 20-40 mg THC/day divided doses.
 - **Notes**: Opioid-sparing effect well documented. Cannabis may reduce opioid requirements by 30-50% in chronic pain patients.
@@ -40,7 +40,7 @@ Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendat
 - **Delivery methods**: Sublingual CBD oil, topical preparations for localized inflammation, raw juiced cannabis (THCA/CBDA rich), oral capsules for systemic inflammation
 - **Evidence**: Moderate to strong for inflammatory conditions. CBD inhibits NF-kB and COX-2 pathways. Caryophyllene acts as selective CB2 agonist.
 - **Dosing**: CBD: 15-50 mg/day for systemic inflammation. Higher doses (up to 1500 mg/day) studied in clinical trials. THCA: 10-30 mg/day via juice or raw preparation.
-- **Conditions**: Rheumatoid arthritis, Crohn's disease/IBD, multiple sclerosis, neuropathic inflammation, [[cannabis-autoimmune-conditions-detailed]]
+- **Conditions**: Rheumatoid arthritis, Crohn's disease/IBD, multiple sclerosis, neuropathic inflammation, autoimmune conditions
 
 ## PTSD and Anxiety
 
@@ -66,7 +66,7 @@ Detailed cannabinoid, terpene, delivery method, evidence, and dosing recommendat
 - **Best terpenes**: Linalool (anticonvulsant), caryophyllene, pinene
 - **Delivery methods**: Pharmaceutical CBD (Epidiolex): 100 mg/mL oral solution. Full-spectrum CBD oil sublingual. High-CBD strain extracts (Charlotte's Web type).
 - **Evidence**: Strong for specific syndromes. Epidiolex FDA-approved 2018. 25-50% reduction in seizure frequency in Dravet syndrome.
-- **Dosing**: Epidiolex: 5-20 mg/kg/day divided BID, titrated over 2 weeks. Full-spectrum CBD oil: start 5-10 mg/kg/day. [[cannabis-subjective-therapeutic-window-dosing]] is narrow -- requires medical supervision.
+- **Dosing**: Epidiolex: 5-20 mg/kg/day divided BID, titrated over 2 weeks. Full-spectrum CBD oil: start 5-10 mg/kg/day. Therapeutic window is narrow -- requires medical supervision.
 - **Critical notes**: Drug interactions significant -- CBD inhibits CYP3A4 and CYP2C19. Liver enzyme monitoring required. High-CBD, low-THC preparations essential for pediatric use.
 
 ## Cancer (Supportive Care)

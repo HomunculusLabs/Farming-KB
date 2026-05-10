@@ -44,7 +44,7 @@ Mediterranean herbs (rosemary, lavender, oregano, sage), succulents, and plants 
 
 ### Large-Spreading Perennials
 
-[[perennial-vegetables-and-edible-perennial-crops]] herbs with extensive rhizomatous root systems (such as horseradish, [[comparison-jerusalem-artichoke-vs-potato]], or mint without barriers) can overwhelm the confined space of a wicking bed, compete aggressively for water and nutrients, and damage the bed liner or reservoir. Restrict these plants to in-ground beds or large containers with dedicated irrigation.
+perennial vegetables and edible perennial crops herbs with extensive rhizomatous root systems (such as horseradish, [[comparison-jerusalem-artichoke-vs-potato]], or mint without barriers) can overwhelm the confined space of a wicking bed, compete aggressively for water and nutrients, and damage the bed liner or reservoir. Restrict these plants to in-ground beds or large containers with dedicated irrigation.
 
 ## Seasonal Management Calendar
 
@@ -117,4 +117,4 @@ Beginners often overfill the reservoir, submerging the geotextile and growing me
 - Container gardening for small spaces
 - Urban [[water-harvesting-techniques-comparison]]
 - Therapeutic horticulture garden design
-- Soil pH [[soil-mineral-management-and-amendment-strategies]] guide
+- Soil pH [[knf-soil-and-mineral-management]] guide

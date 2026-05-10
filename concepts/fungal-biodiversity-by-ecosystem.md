@@ -4,8 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungal Biodiversity by Ecosystem ## Overview Fungi occupy virtually every ecosystem on Earth, from tropical rain forests to polar ice, from deep ocean sediments to the upper atmosphere. Their biodiversity varies dramatically across ecosystem types, driven by plant community composition, climate, substrate availability, moisture, and disturbance regimes. Understanding patterns of [[ectomycorrhizal-ecology]] communities. The relationship between forest age and fungal diversity is well-established: old-growth forests harbor significantly more fungal species than younger stands, particularly among wood-inhabiting and mycorrhizal taxa.
 

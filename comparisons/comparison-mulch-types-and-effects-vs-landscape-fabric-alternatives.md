@@ -3,8 +3,7 @@ title: "Mulch Types and Effects vs comparison mulch types and effects vs landsca
 tags: [comparison, mulch, soil, weed-suppression, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
-sources:
-  sources: []
+sources: []
 ---
 
 # Mulch Types and Effects vs Landscape Fabric Alternatives

@@ -110,6 +110,8 @@ Yes — these systems are complementary. A hugel mound can serve as the foundati
 
 ## See Also
 
+- [[comparison-hugelkultur-vs-chinampas]]
+
 - [[syntropic-agriculture]]
 
 - [[agroforestry]]

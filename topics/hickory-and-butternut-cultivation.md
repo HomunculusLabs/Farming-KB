@@ -13,7 +13,7 @@ sources:
   - https://www.sfa.org/
   - https://www.nfs.org/
   - USDA Forest Service Silvics Manual
-  - [[growing-gourmet-north-american-reishi-species]] Nut Growers Association
+  - growing-gourmet-north-american-reishi-species Nut Growers Association
   - Cornell University Horticulture Department
 ---
 

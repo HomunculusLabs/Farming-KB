@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Smoking is one of the oldest food preservation methods, using wood smoke to dry, flavor, and preserve meat and fish. Smoke deposits antimicrobial compounds on the food surface, while the drying process reduces moisture to levels that inhibit bacterial growth. Two primary methods exist: cold smoking (preservation focus, 68-86F) and hot smoking (cooking focus, 140-180F). Both can be done with simple equipment on a homestead.
+Smoking is one of the oldest food preservation methods, using wood smoke to dry, flavor, and preserve meat and fish. Smoke deposits antimicrobial compounds on the food surface, while the drying process reduces moisture to levels that inhibit bacterial growth. Two primary methods exist: cold smoking (preservation focus, 68-86F) and hot smoking (cooking focus, 140-180F). Both can be done with simple equipment on a homestead. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ## Cold Smoking vs Hot Smoking
 
@@ -92,7 +92,7 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 - Pine, fir, spruce, cedar — Resinous, produce harsh bitter smoke and can cause illness
 - Treated or painted wood — Toxic chemicals
 - Plywood, particle board — Glues and adhesives are toxic when burned
-- Locust, [[bloomfield-ghosts-of-evolution-osage-orange-anachronism]] — Extremely dense and harsh
+- Locust, osage orange — Extremely dense and harsh
 - Moldy wood — Can produce off-flavors and mycotoxins
 
 ### Wood Preparation
@@ -106,11 +106,11 @@ Cold smoking temperatures (68-86F) are in the bacterial danger zone (40-140F). W
 
 ### Smoker Types
 
-**Offset smoker:** Classic design with separate firebox. Excellent for long sessions. Good for hot and cold smoking.
+**Offset smoker:** Classic design with separate firebox. Excellent for long sessions. Good for hot and cold smoking. (see [[homestead-dairy-equipment]]).
 
 **Vertical bullet smoker:** Cylindrical, fire at bottom, water pan in middle. Efficient, beginner-friendly, good for hot smoking.
 
-**Cabinet smoker:** Insulated box with electric/gas heat and [[comparison-ramial-wood-chip-mulch-vs-composted-wood-chips]] tray. Precise temperature control, easy to use.
+**Cabinet smoker:** Insulated box with electric/gas heat and wood chip tray. Precise temperature control, easy to use.
 
 **DIY options:** 55-gallon drum ($100), cinder block stack (permanent), or small smokehouse with separate fire pit and underground pipe (ideal for cold smoking).
 
@@ -144,6 +144,7 @@ Cold smoking is riskier because food spends extended time in the danger zone:
 - Always cure with salt and nitrites before cold smoking
 - Monitor temperature; if it exceeds 90F, move product to cooler location
 - After smoking, products should lose 20-25% of original weight through moisture loss
-## Related Topics
+- Cold-smoked fish: 2-3 weeks refrigerated, 3-6 months frozen
+- Cold-smoked meats: 1-2 weeks refrigerated, 4-6 months frozen
 
-Smoking complements other preservation methods. See [[mason-jar-preserving-guide]] and [[pressure-canning-safety]] for jar-based preservation. For storing the fresh meat before smoking, see [[root-vegetable-storage-guide]] for general cold storage principles and [[food-preservation-canning]] for a comprehensive overview.
+### Hot Smoking Safety

@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [regenerative]
-sources: sources:
+sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -132,6 +132,8 @@ students, and runaways. Everyone came as they wished, stayed as long as
 they cared, and left when ready.
 
 ## See Also
+
+- [[fukuoka-do-nothing-farming-mu-philosophy]]
 
 - [[fukuoka-four-principles-natural-farming]]
 - [[fukuoka-philosophy-of-mu-and-nature]]

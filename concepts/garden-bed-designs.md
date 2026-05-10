@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, design, construction, permaculture, soil-building]
-sources:
-  sources: []
+sources: []
 ---
 
 # Garden Bed Designs
 
-Garden beds concentrate soil, nutrients, and water in defined growing areas, improving yields and reducing maintenance compared to row cropping. Different bed designs suit different climates, spaces, and growing goals, from [[edible-landscaping]] to intensive [[dry-gardening-unirrigated-vegetable-production-solomon]].
+Garden beds concentrate soil, nutrients, and water in defined growing areas, improving yields and reducing maintenance compared to row cropping. Different bed designs suit different climates, spaces, and growing goals, from [[edible-landscaping]] to intensive vegetable production.
 
 ## Raised Beds
 
@@ -18,7 +17,7 @@ The most popular backyard garden bed type. A framed box filled with soil mix, ra
 
 ### Advantages
 - Improved drainage in heavy or compacted soils
-- Soil warms faster in spring, extending the [[savory-growing-season-and-non-growing-season-management]]
+- Soil warms faster in spring, extending the growing season
 - Reduced bending and kneeling for the gardener
 - Clean separation between garden and lawn
 - Easy to add amendments and manage soil biology
@@ -82,7 +81,7 @@ Self-watering garden beds that draw moisture up from a reservoir below the soil 
 - Add 8-12 inches of soil mix (lighter than standard — more compost, less sand)
 
 ### Limitations
-- [[cervantes-salt-buildup-leaching-management]] over time — flush periodically with heavy watering
+- Salt buildup over time — flush periodically with heavy watering
 - Not suitable for root vegetables in shallow reservoir designs
 - Initial cost is higher than simple raised beds
 
@@ -91,13 +90,13 @@ Self-watering garden beds that draw moisture up from a reservoir below the soil 
 Hugel beds (mound culture) bury wood and organic debris under a soil mound, creating a long-term, self-fertilizing garden bed. Central to [[permaculture-design|permaculture]] and [[regenerative-agriculture-history|regenerative]] growing.
 
 ### Design
-- Mound of rotting wood, branches, leaves, and [[hamilton-composting-and-organic-matter-management]]
+- Mound of rotting wood, branches, leaves, and organic matter
 - Covered with inverted sod, compost, and topsoil
 - Can be freestanding mounds or built in trenches
 
 ### How It Works
 - Decomposing wood acts as a sponge, absorbing and slowly releasing water
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]] provides a steady nutrient supply
+- Fungal decomposition provides a steady nutrient supply
 - Heat from decomposition extends the growing season
 - Improves soil structure over 5-10+ years as wood breaks down
 
@@ -118,7 +117,7 @@ Hugel beds (mound culture) bury wood and organic debris under a soil mound, crea
 
 ## Straw Bale Gardens
 
-[[container-growing-vegetables-herbs]] directly in conditioned straw bales, no soil required.
+Growing vegetables directly in conditioned straw bales, no soil required.
 
 ### Conditioning Process (10-14 days)
 - Days 1-3: Water bales thoroughly, add high-nitrogen fertilizer (fish emulsion, blood meal)
@@ -142,9 +141,10 @@ Hugel beds (mound culture) bury wood and organic debris under a soil mound, crea
 ### Limitations
 - Single-season use (bales decompose significantly)
 - Requires purchased straw (not hay — hay contains seeds)
+- Conditioning requires daily attention
+- May need staking for tall plants
+
 ## See Also
 
 - [[edible-landscaping]]
 - [[container-gardening-guide]]
-- [[rain-garden-design]]
-- [[xeriscaping-guide]]

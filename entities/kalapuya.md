@@ -105,7 +105,7 @@ Seed availability is limited compared to mainstream commercial strains. Clones a
 - [[tahoe-og]]
 - [[sfv-og]]
 - [[runtz-entity]]
-- [[jealousy]]
+- [[jealousy-cannabis-strain-entity]]
 - [[slurricane]]
 - jungle-cake
 - [[georgia-pie]]

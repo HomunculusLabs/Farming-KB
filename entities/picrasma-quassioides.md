@@ -36,7 +36,7 @@ sources:
 
 ## Overview
 
-Picrasma quassioides is a deciduous tree in the family Simaroubaceae,
+picrasma quassioides es]] es]] is a deciduous tree in the family Simaroubaceae,
 native to East Asia. It is one of the principal sources of quassinoids,
 a class of highly bitter triterpenoid lactones with diverse
 pharmacological activities including anti-inflammatory, antimalarial,
@@ -50,7 +50,7 @@ bittering agent.
 
 ## Taxonomy and Morphology
 
-Picrasma quassioides was first described by David Don in 1832 as Aeschrion
+picrasma quassioides was first described by David Don in 1832 as Aeschrion
 quassioides, later transferred to the genus Picrasma by Bentham in 1861.
 The genus Picrasma contains approximately 6–9 species distributed across
 tropical and temperate Asia.
@@ -126,12 +126,16 @@ Clinical trials remain limited to in vitro and animal studies.
 P. quassioides has several applications in designed ecosystems. The wood
 and bark can be processed into natural insecticides and antifeedants for
 crop protection, offering an alternative to synthetic pesticides. The
-bitter extracts [[det|det]]er herbivorous insects without harming beneficial
+bitter extracts [[det]] er herbivorous insects without harming beneficial
 pollinators.
 
 As a nitrogen-fixing associate and soil-stabilizing tree, it contributes
 to slope stabilization and riparian buffer zones. The dense canopy
 provides shade for understory crops, and the autumn leaf fall contributes
+
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] for more on Query How Do I Use Knf Inputs Through The Plant Growth Cycle.
+
 ## See Also
 
 - mollison-native-seed-forage-systems-and-arid-species-lists

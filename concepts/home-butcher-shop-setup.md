@@ -1,5 +1,5 @@
 ---
-title: Home home butcher shop setup Setup
+title: Home Butcher Shop Setup
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

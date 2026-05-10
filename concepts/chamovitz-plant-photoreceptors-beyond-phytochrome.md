@@ -119,6 +119,8 @@ Recent work has also shown that photoreceptor signaling interacts with other sen
 
 The study of plant photoreceptors continues to reveal new layers of complexity in how plants perceive and respond to their light environment — a sensory capability that, while fundamentally different from animal vision, is remarkably sophisticated in its own right.
 ## See Also
+
+- [[phytochrome-plant-photoreceptor]]
 - [[arabidopsis-thaliana]]
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
 - [[chamovitz-gravitropism-plant-knows-where-it-is]]

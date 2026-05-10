@@ -143,7 +143,6 @@ Learn one preparation method at a time, starting with a simple calendula salve b
 - [[chamomile-growing-guide|Chamomile]] soothes digestive upset and skin inflammation.
 - [[comparison-herbal-tinctures-vs-herbal-salves|Salves work best for topical first aid applications]].
 - [[calendula-salve-making|Making a calendula salve]] is the best first project for a beginner herbalist.
-
 ## Related Questions
 
 - [[query-how-to-grow-medicinal-herbs-at-home]]

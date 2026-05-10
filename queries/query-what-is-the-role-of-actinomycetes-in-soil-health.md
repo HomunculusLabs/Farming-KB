@@ -4,8 +4,7 @@ created: 2026-05-02
 updated: 2026-05-02
 type: query
 tags: [microbiology, soil-science]
-sources:
-  sources: []
+sources: []
 ---
 ---
 title: "What Is the Role of Actinomycetes in Soil Health"

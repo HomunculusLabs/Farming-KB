@@ -8,7 +8,7 @@ sources:
   - "raw/papers/uwe-blesching-the-cannabis-health-index.md"
 ---
 
-**Source:** The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching) | **CHI:** 7 | **Studies:** 3 | **Updated:** 2026-04-18
+**Source:** The blesching-cannabis-health-index-autoimmune-conditions (Uwe Blesching) | **CHI:** 7 | **Studies:** 3 | **Updated:** 2026-04-18
 
 ## Overview
 

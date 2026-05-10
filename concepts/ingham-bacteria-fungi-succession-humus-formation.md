@@ -14,7 +14,7 @@ topics:
 
 ## Overview
 
-Dr. Elaine Ingham describes a fundamental [[ecological-succession]] pattern in soil decomposition: bacteria initiate the process by consuming simple, readily-available compounds, while fungi dominate later stages, producing the complex organic molecules that constitute true humus. Understanding this succession is key to managing compost, compost tea, and soil health effectively.
+Dr. Elaine Ingham describes a fundamental [[holmgren-ecological-succession-design]] pattern in soil decomposition: bacteria initiate the process by consuming simple, readily-available compounds, while fungi dominate later stages, producing the complex organic molecules that constitute true humus. Understanding this succession is key to managing compost, compost tea, and soil health effectively.
 
 ## The Bacterial Stage
 

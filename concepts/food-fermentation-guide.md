@@ -9,7 +9,7 @@ sources: []
 
 # Food Fermentation Guide
 
-Lacto-fermentation is the process of preserving food through the action of lactic [[lactic-acid-bacteria-knf]] (LAB), primarily Lactobacillus species. These bacteria convert sugars into lactic acid, lowering pH below 4.6, which inhibits pathogenic organisms and preserves the food. Fermentation is one of the oldest food preservation methods and is central to homestead food security and nutrition.
+Lacto-fermentation is the process of preserving food through the action of lactic acid bacteria (LAB), primarily Lactobacillus species. These bacteria convert sugars into lactic acid, lowering pH below 4.6, which inhibits pathogenic organisms and preserves the food. Fermentation is one of the oldest food preservation methods and is central to homestead food security and nutrition.
 
 ## The Science of Lacto-Fermentation
 
@@ -28,7 +28,7 @@ Salt concentration is the most critical variable in vegetable fermentation:
 - 3.5% brine (35g salt per liter): Better preservation, firmer texture. Good for cucumbers and peppers.
 - 5% brine (50g salt per liter): Strong preservation. Used for long-term storage and very hot climates.
 
-Use non-iodized salt -- [[jadam-sea-salt-and-mineral-solutions]], kosher salt, or pickling salt. Iodine can inhibit fermentation. Avoid salts with anti-caking additives.
+Use non-iodized salt -- sea salt, kosher salt, or pickling salt. Iodine can inhibit fermentation. Avoid salts with anti-caking additives.
 
 To make brine: Dissolve salt in non-chlorinated water. If using tap water, let it sit uncovered for 24 hours or boil and cool to dissipate chlorine. Spring water or well water is ideal.
 
@@ -60,7 +60,7 @@ Process:
 7. Add weight to keep everything submerged.
 8. Seal with airlock lid or cover with cloth.
 9. Ferment at 65-72 F for 3-4 weeks.
-10. Transfer to cold storage (refrigerator or [[comparison-root-cellar-vs-ice-house]]). Flavor improves with age.
+10. Transfer to cold storage (refrigerator or root cellar). Flavor improves with age.
 
 ## Kimchi
 
@@ -89,7 +89,7 @@ Process:
 ## Other Fermentable Foods
 
 - Pickles: Whole or sliced cucumbers in 3.5% brine with dill, garlic, and peppercorns
-- [[fermented-hot-sauce-guide]]: Fermented [[query-how-to-grow-chili-peppers-from-seed-to-harvest]] blended with vinegar
+- Hot sauce: Fermented chili peppers blended with vinegar
 - Fermented garlic: Whole cloves in 2% brine
 - Fermented beets: Cubed beets in 2% brine
 - Cortido: Latin American fermented cabbage with oregano and onions
@@ -106,7 +106,7 @@ Lacto-fermentation is inherently safe when basic principles are followed:
 - Discard if you see fuzzy mold (not kahm yeast, which is a white film and harmless)
 - Off-putting smells (rotten, putrid) indicate spoilage -- discard
 - The finished product should smell tangy and sour, not rotten
-- [[comparison-fermented-vegetables-vs-canning]] that have gone soft and slimy should be discarded
+- Fermented vegetables that have gone soft and slimy should be discarded
 
 ## Troubleshooting
 
@@ -125,9 +125,3 @@ Lacto-fermentation is inherently safe when basic principles are followed:
 - [[root-cellaring-guide]] for storing finished ferments at cool temperatures
 - [[canning-and-preserving]] for complementary preservation methods
 - [[sourdough-bread-guide]] for grain-based fermentation
-
-## See Also
-
-- [[water-bath-canning-guide]]
-
-- [[pressure-canning-food-preservation]]

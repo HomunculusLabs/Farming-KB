@@ -125,10 +125,6 @@ system biology rather than as a drug candidate.
   retained antibacterial properties
 
 ## See Also
-
-- [[schizophyllum-commune]] — Another basidiomycete producer of bioactive sesquiterpenes
-- [[fomes-fomentarius]] — Tinder fungus with distinct bioactive compound profile
-
-## See Also
-
+- [[schizophyllum-commune]]
+- [[fomes-fomentarius]]
 - [[biodiversity-fungal-secondary-metabolites]]

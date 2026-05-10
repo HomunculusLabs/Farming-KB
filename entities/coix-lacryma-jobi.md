@@ -13,7 +13,7 @@ sources:
   - Arora, R.K. (1977). "Job's Tears — Coix lacryma-jobi — A Crop of Under-Utilized Potential." Economic Botany, 31, 86–92.
   - Velásquez, M.T. et al. (2006). "Nutritional and health aspects of Job's tears." In Pawlowska, K. (ed.), Wild Growing Plant Species Used as Vegetables. Springer.
   - Hung, W.C. et al. (2017). "Coix seed extract induces apoptosis in cancer cells." Journal of Agricultural and Food Chemistry, 65, 4169–4177.
-  - Purseglove, J.W. (1972). "[[mollison-specialist-tropical-crops-forest-products]]: Monocotyledons." Longman.
+  - Purseglove, J.W. (1972). "mollison-specialist-tropical-crops-forest-products: Monocotyledons." Longman.
 ---
 
 # Coix lacryma-jobi

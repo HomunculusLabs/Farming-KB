@@ -109,8 +109,8 @@ Among collectors, Bacio is considered the most aromatic and visually striking of
 
 ## See Also
 
-- [[og-kush]] — grandparent lineage
-- [[cannabis-blue-dream]] — classic West Coast balanced hybrid
+- [[og-kush-cannabis-entity]] — grandparent lineage
+- [[blue-dream]] — classic West Coast balanced hybrid
 - [[mac-1]] — modern high-potency hybrid
 - [[myrcene]] — sedative monoterpene in the profile
 - [[cannabis-terpene-profiles]] — peppery anti-inflammatory sesquiterpene

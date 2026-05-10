@@ -80,8 +80,8 @@ sources: ["Shulgin - PIHKAL"]
 
 ## Extensions and Commentary
 
-Although the ethyl group (of the ethylthio
-on the 4-position) is just one carbon atom longer than the methyl
+Although the [[ethyl-j-entity-pihkal|ethyl]] group (of the ethylthio
+on the 4-position) is just one carbon atom longer than the [[methyl-j-entity-pihkal|methyl]]
 group (of TM) that small change already produces hints and indicators
 of some physical toxicity. The propyl compound (see TP) is still of
 similar potency, but appears to be yet more difficult, physically.[[2-4-dma-entity-pihkal]]

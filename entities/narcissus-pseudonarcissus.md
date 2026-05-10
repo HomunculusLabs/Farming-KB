@@ -108,6 +108,10 @@ Contact with daffodil sap can cause irritant dermatitis ("daffodil itch") in sen
 
 ## See Also
 
+- [[hemerocallis-fulva]]
+
+- [[narcissus-poeticus]]
+
 - [[galanthus-nivalis]]
 - [[galantamine]]
 - [[crocus-sativus]]

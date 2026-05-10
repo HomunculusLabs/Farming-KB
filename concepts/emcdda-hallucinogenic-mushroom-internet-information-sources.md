@@ -137,4 +137,4 @@ cultivation as an alternative source of supply.
 
 - [[emcdda-hallucinogenic-mushroom-online-retail-shops]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
-- [[emcdda-psilocybin-mushroom-species-and-identification]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]

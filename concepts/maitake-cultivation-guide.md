@@ -9,12 +9,12 @@ sources: [raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
 
 # Maitake Cultivation Guide
 
-[[maitake-grifola-frondosa-comprehensive-profile]] (maitake / hen of the woods) is a prized edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]] of temperate climates. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
+Grifola frondosa (maitake / hen of the woods) is a prized edible and medicinal mushroom of temperate climates. It is highly aerobic, forms enormous fruiting clusters, and requires more attention to detail than oyster or shiitake. This guide is based on Alice W. Chen's 1999 practical guide for synthetic-log cultivation.
 
 ## Key Characteristics
 
 - Temperate climate species, fruits in autumn
-- Highly aerobic -- requires more oxygen than most [[fungi-cultivated-mushrooms-pathogens-competitors]]
+- Highly aerobic -- requires more oxygen than most cultivated mushrooms
 - Short, chunky, highly branched stems with numerous overlapping caps
 - Fruit body can be very large in nature
 - Narrow fruiting temperature range
@@ -24,7 +24,7 @@ sources: [raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md]
 
 Strain selection is crucial. Unlike oyster or reishi, a high percentage of G. frondosa strains do not fruit well, if at all. There are considerable differences among strains in growth rate, yield, temperature requirements, and fruiting body features (cap color and shape). Always test a new strain before full production.
 
-- Fast-growing strains: spawn run of 30 days before [[chen-maitake-primordia-initiation-fruiting]]
+- Fast-growing strains: spawn run of 30 days before primordia initiation
 - Many strains require 60-90+ days of mycelial growth and maturation
 - ~90% of strains from culture collections and wild isolates do not fruit well
 - Always verify the strain has been tested as a good fruiting strain
@@ -69,7 +69,7 @@ Wheat bran provides thiamine (vitamin B1), essential for fruiting body formation
 
 ## Types of Spawn
 
-1. Liquid spawn -- labor-saving with special inoculator; industrial scale via [[cancer-medicinal-mushrooms-submerged-fermentation-production]]
+1. Liquid spawn -- labor-saving with special inoculator; industrial scale via submerged fermentation
 2. Grain spawn -- millet, rye, wheat, sorghum, milo
 3. Sawdust spawn -- supplemented sawdust-bran substrates
 4. Wooden stick (skewer) spawn -- easy to manipulate
@@ -114,7 +114,7 @@ Production ~3.5 months.
 ### Spawn Run (Growth + Maturation)
 1. Day 9: Undifferentiated white mycelia colonize substrate
 2. Day 17: White young mycelia penetrate to substrate surface
-3. Day 30: Orange-brown exudates appear ([[arbuscule-isolation-metabolic-activity-assays]]), discoloration of white mycelia
+3. Day 30: Orange-brown exudates appear (metabolic activity), discoloration of white mycelia
 4. Surface mycelial coat forms -- tighter growth on substrate surface
 5. Topography becomes uneven with grayish amorphous mass
 6. Day ~42: Grayish primordia (2.5-5 cm diameter) form in closed bag
@@ -138,12 +138,13 @@ Harvest when the cluster flower stage is reached:
 - Color has lightened from dark gray-brown
 - Caps no longer have whitish margins of new growth
 - Minute pores appear at the back/underside of petals (not at margin or base)
-## Related
+- Pleasant mushroom aroma detectable
+- Harvest BEFORE petals droop or curve downward
+- Harvest BEFORE white basidiospores are released
+- Stop misting 1 day before harvest to prevent bacterial intrusion
 
-- [[mushroom-species-guide]] — Overview of cultivated mushroom species
-- [[medicinal-mushroom-guide]] — Maitake's medicinal compounds (D-fraction, beta-glucans)
-- [[mushroom-substrates]] — Substrate science and alternatives
-- [[mushroom-sterile-technique-detailed]] — Sterile inoculation procedures
-- [[mushroom-spawn-making-detailed]] — Grain and sawdust spawn production
-- [[mushroom-pasteurization]] — Pasteurization methods for substrate bags
-- [[mushroom-cultivation-methods]] — Comparison of cultivation approaches
+To harvest: hold base, support cluster weight, cut thick base with small sharp knife. Rotate gently and pull upward if soil casing is used. Trim debris. Wrap in rice paper, store at 12C -- expected shelf life 2 weeks.
+
+## Problem-Solving
+
+### Shortening Spawn Run

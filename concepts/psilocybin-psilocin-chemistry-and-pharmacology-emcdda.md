@@ -107,6 +107,8 @@ expertise and contributing to the ongoing evolution of this field.
 
 ## See Also
 
+- [[emcdda-psilocybin-pharmacology-and-chemistry]]
+
 - [[hplc-analysis-psychedelic-mushroom-alkaloids]]
 
 - [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]

@@ -47,7 +47,7 @@ The free serine hydroxyl is regenerated, which is why the enzyme can turn over m
 ## Cysteine and Threonine Variants
 Cysteine proteases use a similar logic but with sulfur as the attacking atom.
 
-Because sulfur is larger and more polarizable than oxygen, cysteine enzymes often form highly reactive thiolate-imidazolium ion pairs.
+Because sulfur is larger and more polarizable than oxygen, cysteine [[cytochrome-p450-enzymes-structure-function-pharmacology|enzymes]] often form highly reactive thiolate-imidazolium ion pairs.
 
 Papain-like proteases, caspases, and viral proteases show how the same acid-base-nucleophile idea can be embedded in unrelated protein folds.
 
@@ -95,7 +95,7 @@ Organophosphate nerve agents and pesticides phosphorylate active-site serines in
 
 The resulting adduct can age into a form that is difficult for oxime antidotes to reactivate.
 
-Beta-lactam antibiotics exploit serine transpeptidases by mimicking the D-Ala-D-Ala substrate and trapping the enzyme as an acyl complex.
+Beta-lactam [[ingham-manure-antibiotics-chemical-residues-composting|antibiotics]] exploit serine transpeptidases by mimicking the D-Ala-D-Ala substrate and trapping the enzyme as an acyl complex.
 
 Beta-lactamases evolved to reverse that strategy, so inhibitors often target their catalytic serine or metal-dependent alternatives.
 

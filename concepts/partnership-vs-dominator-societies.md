@@ -128,7 +128,4 @@ stewardship over exploitation.
 ## See Also
 - [[mckenna-dominator-vs-partnership-society-model]]
 - [[mckenna-food-gods-partnership-dominator]]
-
-## See Also
-
 - [[partnership-vs-dominator-culture-mckenna]]

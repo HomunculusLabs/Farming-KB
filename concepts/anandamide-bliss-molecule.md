@@ -120,4 +120,4 @@ to medical cannabis therapy.
 
 - [[endocannabinoid-system-overview]]
 - [[cannabis-health-index-scoring-methodology]]
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]

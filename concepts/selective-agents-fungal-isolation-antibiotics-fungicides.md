@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Selective Agents for Fungal Isolation — Antibiotics and Fungicides
 [[selective-isolation-saprobic-basidiomycetes-soil]] agents are chemicals added to [[agar-culture-media]] to suppress specific groups of microorganisms while allowing target fungi to grow. They are essential tools for isolating specific fungal groups from mixed natural samples such as soil, plant tissue, leaf litter, and water.

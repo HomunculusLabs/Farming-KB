@@ -10,7 +10,7 @@ sources:
   - USDA NRCS. Sambucus nigra ssp. canadensis plant guide. USDA Natural Resources Conservation Service.
   - Rawson NE, et al. 2022. A review of North American elderberry cultivars and their uses. HortScience, 57(2): 131–140.
   - Byers PL, Thomas JE. 2018. Growing elderberries in Missouri. University of Missouri Extension, IPM1028.
-  - Osmani Z, et al. 2020. Elderberry: A review of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]], health benefits, and safety. Journal of Berry Research, 10(1): 107–131.
+  - Osmani Z, et al. 2020. Elderberry: A review of query-what-are-the-main-bioactive-compounds-in-medicinal-plants, health benefits, and safety. Journal of Berry Research, 10(1): 107–131.
   - Moyer RA, et al. 2002. Anthocyanin composition of black elderberry (Sambucus nigra L.) juice. Journal of Agricultural and Food Chemistry, 50(19): 5459–5465.
 ---
 
@@ -137,7 +137,6 @@ Full sun (6–8+ hours direct sun) produces maximum flower and fruit yield. Part
 
 ### Soil
 
-Elderberry thrives in rich, moist, well-drained soils but tolerates a wide range:
 ## See Also
 
 - [[comparison-elderberry-vs-echinacea]]

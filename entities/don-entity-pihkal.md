@@ -88,13 +88,6 @@ nations explicitly control DOx compounds including DON. It is listed in
   research chemical market
 
 ## See Also
-
 - [[don-entity]]
 - [[2c-g-4-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related compounds in the DOx family
-
-## See Also
-
 - [[tma-5-entity-pihkal]]

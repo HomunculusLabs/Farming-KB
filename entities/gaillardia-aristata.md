@@ -14,7 +14,7 @@ sources:
   - Wold J.L., Shafii B., Price W.J. (2004). "Selection for seedling vigor in Gaillardia aristata." HortScience 39(6): 1288–1291.
   - USDA NRCS. "Gaillardia aristata." PLANTS Database.
   - Cullina W. (2000). "The New England Wild Flower Society Guide to Growing and Propagating Wildflowers." Houghton Mifflin.
-  - Moerman D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
+  - Moerman D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
 ---
 
 # Gaillardia aristata

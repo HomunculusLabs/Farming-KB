@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - R. M. Tryon (1968). "A monograph of the genus Pteridium." Contributions from the Gray Herbarium.
   - Fenwick, G. R. (1988). "Bracken (Pteridium aquilinum) — toxic effects and edible potential." Toxicon, 26(8), 799–810.
-  - Taylor, J. A. (2006). "[[dynamic-accumulator-bracken-fern-potash]]: distribution, ecology and control." Invasive Plant Science and Management.
+  - Taylor, J. A. (2006). "dynamic-accumulator-bracken-fern-potash: distribution, ecology and control." Invasive Plant Science and Management.
   - Gil, L. & Adan, M. P. (2014). "Pteridium aquilinum: a review of its traditional uses, phytochemistry, and pharmacology." Journal of Ethnopharmacology, 152(2), 317–331.
   - Pakeman, R. J. et al. (2000). "Bracken (Pteridium aquilinum) control and vegetation restoration." Applied Vegetation Science, 3(2), 195–204.
 ---

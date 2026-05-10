@@ -66,12 +66,8 @@ Regardless of the specific model chosen, proper maintenance — regular gasket i
 Sterilisation sits between [[inoculation-methods]] in the cultivation workflow. Jars should ideally be inoculated within 24 hours of sterilisation. The longer the interval, the greater the contamination risk through microscopic foil gaps. Planning inoculation immediately after cooling minimises this risk. A well-organised cultivator times the sterilisation cycle to complete in the evening, allowing overnight cooling with inoculation first thing the next morning.
 
 ## See Also
-
-- fungal-carbon-storage-mycorrhizal-pathways-substrate-utilization-efficiency
-
-## See Also
-
 - [[pressure-cooker-sterilization-of-grain-jars]]
+
 ## Practical Considerations
 
 Successful implementation of Pressure Cooker pressure cooker sterilisation fungal substrate Substrate requires attention to

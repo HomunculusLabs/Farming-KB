@@ -123,7 +123,7 @@ testifies to centuries of careful experimentation and observation.
 
 ## See Also
 
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]
 
 - [[ayahuasca-preparation-and-ceremony]]
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]]

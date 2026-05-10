@@ -94,22 +94,11 @@ Harm reduction organizations emphasize the dangers of co-formulated products con
 Pharmaceutical companies have responded to abuse concerns with formulation changes including bittering agents, tamper-evident packaging, and reduced tablet counts. Extended-release polistirex formulations are sometimes preferred in the recreational context for their smoother onset and longer duration.
 
 ## See Also
-
-- **Dextrorphan (DXO)** — Primary active metabolite, more potent NMDA antagonist
-- **Levomethorphan** — Enantiomer, opioid agonist, Schedule II in the U.S.
-- **Methoxetamine (MXE)** — Designer dissociative, structurally related arylcyclohexylamine
-- **Ketamine** — Related NMDA antagonist with established clinical applications
-- **Memantine** — Low-affinity NMDA antagonist used in Alzheimer's disease
-
-## See Also
-
 - [[harmine]]
 - [[bufotenin]]
 - [[noribogaine-entity]]
 - [[muscimol-entity]]
-- codeine
-- morphine
 - [[ketamine-compound-profile]]
 - [[ergotamine]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[mxe]]

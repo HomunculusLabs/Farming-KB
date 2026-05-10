@@ -31,7 +31,7 @@ woman sees that the fruit is "good to eat, and that it was pleasing to the eye
 and pleasing to contemplate." She eats it and shares it with her husband. "Then
 the eyes of both of them were opened and they discovered that they were naked."
 McKenna reads this as a description of the attainment of self-reflective
-consciousness, catalyzed by the [[emcdda-psilocybin-mushroom-dose-and-effects]]. The phrase "the eyes of
+consciousness, catalyzed by the [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]. The phrase "the eyes of
 both of them were opened" suggests an experience of enhanced perception and
 self-awareness entirely consistent with psychedelic intoxication.
 

@@ -66,7 +66,7 @@ how these proteins interact with cell membranes and trigger immune
 responses.
 
 ### Cultivation and Habitat
-in nature, Ganoderma tsugae grows primarily on dead or dying hemlock
+In nature, Ganoderma tsugae grows primarily on dead or dying hemlock
 trees (Tsuga canadensis, Tsuga heterophylla, and related species) in
 temperate forests. The species can be cultivated using methods similar
 to those developed for Ganoderma lucidum, including [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] and
@@ -74,6 +74,27 @@ sterile bag culture on [[oyster-mushroom-supplemented-sawdust-blocks]] substrate
 fermentation can also be employed for mycelial [[dighton-fungal-biomass-production-aquatic-ecosystems]].
 
 ### Traditional Use
-Ganoderma tsugae is used similarly to [[tsuga-mertensiana]]
+Ganoderma tsugae has been used in traditional Chinese medicine,
+particularly in hemlock forest regions. Prepared as a decoction or tea
+from dried fruiting bodies, similar to methods used for G. lucidum.
+Regarded as a general tonic for vitality and immune support.
+
+### Seasonality
+Ganoderma tsugae fruits from late spring through early autumn (May to
+September in the Northern Hemisphere), with peak fruiting during warm,
+humid mid-summer conditions. In the Pacific Northwest, the main flush
+appears in June and July on standing dead hemlocks and fallen logs.
+G. tsugae is primarily annual, though fruiting bodies can persist on
+wood for several months after spore production ceases.
+### Similar Species
+- **[[stamets-reishi-ganoderma-lucidum-cultivation]]** — Harder, more woody context, preference for
+  hardwood hosts, deeper lacquered surface.
+- **Ganoderma oregonense** — Large annual of the Pacific Northwest on
+  conifers; distinguished by much larger size (up to 50 cm across).
+- **Ganoderma applanatum** — Perennial with brown upper surface and
+  white pore surface that bruises brown, on hardwood hosts.
+
+## See Also
+- [[tsuga-mertensiana]]
 - [[trametes-versicolor-entity]]
 - [[phellinus-linteus]]

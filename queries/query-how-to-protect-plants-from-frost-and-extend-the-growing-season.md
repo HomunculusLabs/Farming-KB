@@ -5,7 +5,6 @@ tags: [query, frost-protection, season-extension, greenhouse, cold-climate, perm
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---

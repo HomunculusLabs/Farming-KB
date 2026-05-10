@@ -100,4 +100,6 @@ expertise and contributing to the ongoing evolution of this field.
 
 ## See Also
 
+- [[blesching-cannabis-caryophyllene-dietary-cannabinoids]]
+
 - four-prime-cannabinoids

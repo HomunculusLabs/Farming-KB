@@ -9,7 +9,7 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 
 # Holzer Indicator Plants
 
-[[comparison-sepp-holzer-vs-biodynamic]] uses indicator plants to assess soil conditions without laboratory testing. Each plant species signals specific soil properties including nitrogen content, moisture levels, compaction, and pH.
+Sepp Holzer uses indicator plants to assess soil conditions without laboratory testing. Each plant species signals specific [[alpine-plant-cultivation-guide]] soil properties including nitrogen content, moisture levels, compaction, and pH.
 
 ## Soil Condition Indicators
 
@@ -48,33 +48,14 @@ sources: [raw/papers/sepp-holzer-practical-guide-to-small-scale-integrative.md]
 - **Stinging nettles** (Urtica dioica)
 - **Orache** (Atriplex patula)
 
-These nitrogen indicators signal overfertilisation or overly intensive [[grassland-pasture-management-mollison]].
+These nitrogen indicators signal overfertilisation or overly intensive pasture management.
 
 ## Using Indicator Plants
 
-Holzer surveys land by digging test trenches in different areas. Soil can vary greatly within as little as 10-20 metres. The indicator plants present reveal what the soil needs — whether to add [[comparison-green-manure-guide-vs-mulch-types-and-effects]], improve drainage, address compaction, or balance pH. The appearance of certain plants is treated as useful information rather than a problem to be eradicated. Understanding why a particular plant thrives in a location guides the corrective action needed.
+Holzer surveys land by digging test trenches in different areas. Soil can vary greatly within as little as 10-20 metres. The indicator plants [[alpine-plant-cultivation-guide]] present reveal what the soil needs — whether to add green manure, improve drainage, address compaction, or balance pH. The appearance of certain plants is treated as useful information rather than a problem to be eradicated. Understanding why a particular plant thrives in a location guides the corrective action needed.
 
 ## Related
 
 - [[sepp-holzer-method]]
 - [[holzer-raised-bed-design]]
 - [[vermicomposting]]
-
-## Practical Considerations
-
-Successful implementation of Holzer Indicator Plants requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

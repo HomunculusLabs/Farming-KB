@@ -9,7 +9,7 @@ sources: []
 
 # Ketamine Reference
 
-Ketamine is a dissociative anesthetic with a unique pharmacological profile that has made it one of the most important drugs in modern psychiatry. Originally developed as a surgical anesthetic in the 1960s, ketamine has emerged as a breakthrough treatment for treatment-resistant depression, with the FDA approving esketamine (S-enantiomer) nasal spray (Spravato) in 2019. It operates through a fundamentally different mechanism than classical psychedelics, acting primarily as an NMDA receptor antagonist.
+Ketamine is a dissociative anesthetic with a unique pharmacological profile that has made it one of the most important drugs in modern psychiatry. Originally developed as a surgical anesthetic in the 1960s, ketamine has emerged as a breakthrough treatment for treatment-resistant depression, with the FDA approving esketamine (S-enantiomer) nasal spray (Spravato) in 2019. It operates through a fundamentally different mechanism than classical psychedelics, acting primarily as an NMDA receptor antagonist. (see [[ketamine-compound-profile]]).
 
 ## Chemistry
 
@@ -22,7 +22,7 @@ Ketamine is a dissociative anesthetic with a unique pharmacological profile that
 - Physical form: white crystalline powder or clear liquid (in pharmaceutical preparations)
 - Routes of administration: intravenous (IV), intramuscular (IM), intranasal, oral, sublingual
 
-Ketamine is soluble in water and commonly formulated as a hydrochloride salt. It is stable at room temperature and has a long [[psilocybin-shelf-life-stability]]. The compound is typically synthesized from cyclopentanone or via reductive amination of 1-bromocyclopentyl-(o-chlorophenyl)-ketone.
+Ketamine is soluble in water and commonly formulated as a hydrochloride salt. It is stable at room temperature and has a long shelf life. The compound is typically synthesized from cyclopentanone or via reductive amination of 1-bromocyclopentyl-(o-chlorophenyl)-ketone. (see [[dm-reference]]).
 
 ## History
 
@@ -50,7 +50,7 @@ Ketamine's primary mechanism is NMDA (N-methyl-D-aspartate) receptor antagonism:
   - Rapid growth of new dendritic spines and synapses in the prefrontal cortex
   - Restoration of synaptic connectivity lost during chronic stress and depression
 
-This mechanism is fundamentally different from classical psychedelics (5-HT2A agonism) and traditional antidepressants (monoamine reuptake inhibition). Ketamine's antidepressant effects arise from its ability to promote rapid structural and functional neural plasticity.
+This mechanism is fundamentally different from classical psychedelics (5-HT2A agonism) and traditional antidepressants (monoamine reuptake inhibition). Ketamine's antidepressant effects arise from its ability to promote rapid structural and functional neural plasticity. (see [[hofmann-lsd-pharmacokinetics-dosage-tolerance]]).
 
 ### Additional Receptor Effects
 
@@ -128,7 +128,7 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 - Altered body image (feeling larger/smaller, floating)
 - Dreamlike or trance-like state
 - Enhanced introspection and emotional processing
-- Some users describe [[psilocybin-ego-dissolution-mechanisms]] at higher doses
+- Some users describe ego dissolution at higher doses
 
 ### Psychological Aftereffects
 
@@ -141,9 +141,10 @@ This mechanism is fundamentally different from classical psychedelics (5-HT2A ag
 
 - Transient blood pressure and heart rate increase (monitored during clinical use)
 - Nausea, vomiting, dizziness, visual disturbances
-## See Also
+- Confusion and disorientation during the experience
+- Bladder toxicity with chronic recreational use (ketamine bladder syndrome)
+- Cognitive impairment and psychological dependence risk with chronic heavy use
 
-- [[lsd-reference]] for comparison with a classical psychedelic
-- [[mdma-reference]] for another drug with emerging psychiatric applications
+## Safety and Contraindications
 
-See also: [[set-and-setting-model-psychedelic-therapy]]
+### Contraindications

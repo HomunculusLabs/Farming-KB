@@ -123,12 +123,6 @@ benefiting the documentation of all fungal groups, not just the
 neurotropic species.
 
 ## See Also
-
 - [[neurotropic-fungi]]
 - [[psychedelic-mushroom-set-and-setting]]
-- the history of psychedelic science
-- ethnomycology
-
-## See Also
-
 - [[mexico-neurotropic-fungi-diversity-center]]

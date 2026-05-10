@@ -2,8 +2,7 @@
 title: "query-how-do-photonic-crystals-create-structural-color"
 created: 2026-04-28
 updated: 2026-05-06
-sources:
-  sources: []
+sources: []
 type: concept
 tags: [reference]
 ---

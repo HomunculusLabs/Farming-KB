@@ -13,7 +13,7 @@ sources:
   - Thysell, D.R. & Gower, S.T. (2003). "Camas." In: The Encyclopedia of Ecological Restoration, Island Press.
   - Peacock, S.L. & Turner, N.J. (2000). "Just like a garden." Ethnobiology of Camas. Journal of Ethnobiology 20(1): 107–129.
   - Gunther, E. (1973). Ethnobotany of Western Washington. University of Washington Press.
-  - Turner, N.J. & Kuhnlein, H.V. (1983). "Camas and the Northern [[fukuoka-western-root-vegetable-deficiency]] Complex." Journal of Ethnobiology 3(2): 133–137.
+  - Turner, N.J. & Kuhnlein, H.V. (1983). "Camas and the Northern fukuoka-western-root-vegetable-deficiency Complex." Journal of Ethnobiology 3(2): 133–137.
 ---
 
 ## Overview

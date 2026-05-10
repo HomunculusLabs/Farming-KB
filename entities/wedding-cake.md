@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2024). "Wedding Cake Strain Information." Leafly.com.
   - AllBud (2024). "Wedding Cake Cannabis Strain." AllBud.com.
-  - Smart, R. et al. (2023). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of Commercial Cannabis Varieties." Cannabis and Cannabinoid Research, 8(2), 189-201.
+  - Smart, R. et al. (2023). "Cannabinoid and cannabis-terpene-profiles-sativa of Commercial Cannabis Varieties." Cannabis and Cannabinoid Research, 8(2), 189-201.
   - Mudge, E.M. et al. (2022). "Chemotaxonomic Classification of Cannabis Cultivars." Journal of Cannabis Research, 4(1), 12.
   - Pacific Seed Bank (2024). "Wedding Cake Grow Guide." PacificSeedBank.com.
 ---
@@ -114,7 +114,7 @@ The strain responds well to low-stress training (LST) and scrog methods to maxim
 ## See Also
 
 - [[girl-scout-cookies]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[sour-diesel]]
 - [[granddaddy-purple]]
 - [[jack-herer]]
@@ -122,4 +122,4 @@ The strain responds well to low-stress training (LST) and scrog methods to maxim
 - [[animal-cookies]]
 - [[kush-mints]]
 - [[runtz-entity]]
-- [[jealousy]]
+- [[jealousy-cannabis-strain-entity]]

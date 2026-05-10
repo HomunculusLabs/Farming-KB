@@ -75,7 +75,7 @@ Adaptogens enhance mitochondrial function — the cellular "power plants" that g
 |------|---------|-----------------|----------|
 | **Ashwagandha** | *Withania somnifera* | Broad-spectrum; cortisol reduction | Anxiety, sleep, hormonal balance, stress |
 | **Rhodiola** | *Rhodiola rosea* | Mental fatigue; cognitive performance | Focus, burnout, altitude, exercise |
-| **Eleuthero** | *Eleutherococcus senticosus* | Physical endurance; immune support | Athletic performance, immune resilience |
+| **Eleuthero** | *[[eleutherococcus-senticosus]]* | Physical endurance; immune support | Athletic performance, immune resilience |
 | **Schisandra** | *Schisandra chinensis* | Liver protection; mental clarity | Liver health, concentration, skin |
 | **Holy Basil** | *Ocimum tenuiflorum* | Calming; anti-inflammatory | Anxiety, blood sugar, everyday stress |
 | **Asian Ginseng** | *Panax ginseng* | Vitality; immune function | Fatigue, immune weakness, cognitive decline |
@@ -84,13 +84,13 @@ Adaptogens enhance mitochondrial function — the cellular "power plants" that g
 
 | Herb | Species | Notes |
 |------|---------|-------|
-| **Maca** | *Lepidium meyenii* | High-altitude Andean root; more of a tonic/nutritive than classic adaptogen; best for hormonal balance and energy |
-| **Astragalus** | *Astragalus membranaceus* | Deep immune tonic in Traditional Chinese Medicine; adaptogenic immune modulation |
+| **Maca** | *[[lepidium-meyenii-entity]]* | High-altitude Andean root; more of a tonic/nutritive than classic adaptogen; best for hormonal balance and energy |
+| **Astragalus** | *[[astragalus-membranaceus]]* | Deep immune tonic in Traditional Chinese Medicine; adaptogenic immune modulation |
 | **Reishi mushroom** | *Ganoderma lucidum* | Immunomodulatory mushroom with adaptogenic-like stress-buffering properties |
 | **Shatavari** | *Asparagus racemosus* | Ayurvedic adaptogen for female reproductive health and stress |
 | **Cordyceps** | *Ophiocordyceps sinensis* | Fungal adaptogen for energy, VO2 max, and respiratory function |
-| **Jiaogulan** | *Gynostemma pentaphyllum* | "Southern ginseng"; antioxidant, adaptogenic, contains gypenosides similar to ginsenosides |
-| **He Shou Wu** | *Polygonum multiflorum* | Traditional Chinese adaptogen for longevity and hair health |
+| **Jiaogulan** | *[[gynostemma-pentaphyllum]]* | "Southern ginseng"; antioxidant, adaptogenic, contains gypenosides similar to ginsenosides |
+| **He Shou Wu** | *[[polygonum-multiflorum]]* | Traditional Chinese adaptogen for longevity and hair health |
 | **Suma** | *Pfaffia paniculata* | "Brazilian ginseng"; used for fatigue and hormonal balance |
 
 ## How to Choose the Right Adaptogen
@@ -145,25 +145,6 @@ Adaptogens are generally safe for long-term use, but there are important caveats
 
 **Consult a healthcare provider before using adaptogens if you**:
 - Are pregnant or breastfeeding (most adaptogens lack safety data for pregnancy)
-- Take prescription medications (especially thyroid medications, immunosuppressants, blood thinners, or psychiatric drugs)
+- Take [[ayahuasca-interactions-with-prescription-medications]] (especially thyroid medications, immunosuppressants, blood thinners, or psychiatric drugs)
 - Have an autoimmune condition (some adaptogens stimulate immune function)
 - Have bipolar disorder (stimulating adaptogens may trigger manic episodes)
-- Have hormone-sensitive conditions (some adaptogens have hormonal effects)
-
-**Potential interactions**:
-- Ashwagandha may enhance the effects of thyroid medications, sedatives, and immunosuppressants
-- Rhodiola may interact with MAO inhibitors, SSRIs, and stimulant medications
-- Ginseng may interact with blood thinners, diabetes medications, and stimulants
-- Holy basil may have mild anticoagulant effects
-
-## Common Misconceptions
-
-**"Adaptogens are stimulants like caffeine."** No — adaptogens support the body's own energy production rather than forcing output. They don't produce the crash, jitters, or dependency associated with caffeine.
-
-**"More is better."** No — adaptogens work through subtle modulation of physiological set points. Excessive doses can paradoxically reduce effectiveness or cause side effects. Follow established dosing guidelines.
-
-**"All adaptogens do the same thing."** No — while they share a common mechanism (stress adaptation), each has unique affinities. Ashwagandha is more calming; rhodiola is more stimulating; schisandra is hepatoprotective; holy basil is anti-inflammatory. Matching the herb to the person and condition matters.
-
-**"Adaptogens replace sleep, good diet, and exercise."** No — adaptogens are adjunctive tools that support the body's resilience. They work best as part of a foundation of adequate sleep, nutrition, movement, and stress management practices.
-
-**"You need to take them forever to benefit."** No — many people benefit from short-term use during stressful periods (exams, travel, deadlines, recovery from illness). Long-term use is safe for most people but not required to experience benefits.

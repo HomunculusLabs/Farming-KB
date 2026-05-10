@@ -9,7 +9,7 @@ sources: []
 
 # Hurricane Preparedness Guide
 
-Hurricanes are among the most powerful and destructive natural events, bringing sustained winds of 74+ mph, storm surge, torrential rainfall, tornadoes, and prolonged power outages. Homesteads in coastal regions from Texas to Maine face direct hurricane risk, while inland areas can receive devastating rainfall and flooding from hurricane remnants. This guide covers storm preparation, protection, evacuation, and recovery.
+Hurricanes are among the most powerful and destructive natural events, bringing sustained winds of 74+ mph, storm surge, torrential rainfall, tornadoes, and prolonged power outages. Homesteads in coastal regions from Texas to Maine face direct hurricane risk, while inland areas can receive devastating rainfall and flooding from hurricane remnants. This guide [[wildfire-preparedness-guide]] covers storm preparation, protection, evacuation, and recovery.
 
 ## Understanding Hurricane Categories
 
@@ -141,9 +141,10 @@ Windows are the most vulnerable point on a building during a hurricane. Once a w
 
 - Evacuate livestock early — trailers cannot be safely towed in hurricane winds
 - Move animals to the most sturdy, well-built shelter available
-## Related Concepts
+- Ensure access to feed and water for 7+ days (water bowls may blow away — secure them)
+- Do not leave animals in pastures that may flood from storm surge or rainfall
+- Tag or mark all animals with identification
+- Have veterinary first aid supplies ready (see [[homestead-first-aid-guide]])
+- After the storm, check animals for injuries and provide clean water immediately
 
-- [[mushroom-foraging-safety-guide]] — General [[shulgin-safety-principles-self-experimentation]] and emergency preparedness
-- [[flood-preparedness-guide]] — Flooding is often the most destructive component of hurricanes
-- [[homestead-first-aid-guide]] — Comprehensive first aid supplies
-- [[homestead-communication]] — Communication during extended power outages
+## Recovery After Hurricane

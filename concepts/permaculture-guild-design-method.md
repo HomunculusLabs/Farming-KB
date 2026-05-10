@@ -19,7 +19,7 @@ Guild design is the art and science of creating plant communities where species 
 
 ## What Is a Guild?
 
-A guild is a carefully designed group of plants (and sometimes animals) that work together like a [[fukuoka-natural-ecosystem-food-chain-interconnection]]. Each member performs multiple functions, and the connections between members create a resilient, self-regulating community. Guilds are human-made assemblages that mimic natural plant communities.
+A guild is a carefully designed group of plants (and sometimes animals) that work together like a natural ecosystem. Each member performs multiple functions, and the connections between members create a resilient, self-regulating community. Guilds are human-made assemblages that mimic natural plant communities.
 
 ## The Roles Within a Guild
 
@@ -60,7 +60,7 @@ Plants that exude substances repelling harmful insects:
 
 ### 7. Weed Suppressors / Grass Barriers
 Dense-rooted plants that prevent invasive species from invading the guild:
-- Comfrey, [[comparison-jerusalem-artichoke-vs-potato]], lemongrass, [[hemenway-maximilian-sunflower-multipurpose-hedge]]
+- Comfrey, Jerusalem artichoke, lemongrass, Maximilian sunflower
 - These create a wall of thick growth above and below ground
 
 ### 8. Habitat Creators
@@ -85,10 +85,10 @@ This method produces guilds that are deeply adapted to local conditions.
 For those without time for extended field observation:
 
 1. **Choose the central element**: Your primary food-producing tree or shrub
-2. **List the functions needed**: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest control, pollination, mulch, etc.
+2. **List the functions needed**: Nitrogen fixation, pest control, pollination, mulch, etc.
 3. **Research candidate plants** for each function that are compatible with your climate and the central plant
 4. **Check compatibility**: Ensure plants don't compete excessively for light, water, or nutrients
-5. **Cross-reference**: Check [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] references and pest/predator relationships
+5. **Cross-reference**: Check companion planting references and pest/predator relationships
 6. **Design the spatial arrangement**: Place tall plants to the north (in Northern Hemisphere), shade-tolerant plants under the canopy, and spread roots to avoid direct competition
 
 ## Design Principles for Guilds
@@ -108,7 +108,7 @@ The larger the plant, the fewer needed:
 
 ### Spatial Arrangement
 
-- Place the tallest elements on the north side ([[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]]: south side) to avoid shading other plants
+- Place the tallest elements on the north side (Southern Hemisphere: south side) to avoid shading other plants
 - Underplant trees with shade-tolerant species
 - Create vertical layers to use all available space
 - Leave access paths for harvest and maintenance

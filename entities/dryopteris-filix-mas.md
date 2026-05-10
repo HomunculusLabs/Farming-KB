@@ -102,6 +102,10 @@ The species can form extensive colonies through slow rhizome spread, particularl
 
 ## See Also
 
+- [[dryopteris-erythrosora]]
+
+- [[dryopteris-carthusiana]]
+
 - [[matteuccia-struthiopteris]]
 - [[polystichum-acrostichoides]]
 - [[equisetum-arvense]]

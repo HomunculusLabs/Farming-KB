@@ -11,8 +11,7 @@ tags: [physics, statistical-mechanics, thermodynamics, entropy, boltzmann,
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources:
-  sources: []
+sources: []
 ---
 
 Statistical mechanics is the branch of physics that bridges microscopic

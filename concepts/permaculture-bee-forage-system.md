@@ -6,7 +6,7 @@ type: concept
 tags: [permaculture, design]
 sources: [raw/papers/a-selection-permaculture-plants.md]
 ---
-Updated: 2026-04-18 Source: Permaculture Plants: A Selection (Nugent & Boniface, 2nd ed 2004) — Utility Lists ## Overview Commercial apiarists transport hives up to 1000km to follow honey flow — enormous expense and poor [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] efficiency. A year-round honey flow can be established for permanent hive sites. Bees effectively travel 2 miles from the hive. The bee forage system should be integrated within a whole property design, preferring nectar (N) and pollen (P) producing plants over utility plants with no bee benefit. ## Hedgerow Bee Forage Combined bee forage, medicinal (livestock), and fire-retardant properties: | Plant | Nectar | Pollen | Season/Notes | |-------|--------|--------|-------------| | Alder | N | P | | | Ash | N | | | | Basswood (linden) | | | Early summer | | Citrus | N | P | High honey producers | | Elm | N | P | | | Grevillea robusta | | | Spring-summer | | Hakea salicifolia | | | Spring | | Hawthorn | N | | Spring; pleach for fences | | Maple | N | P | Including box elder | | Poplars | N | P | Depending on sex | | permaculture-tagasaste|Tagasaste | N | P | Most of winter through spring; staggered cutting increases flowering duration | ## Understorey Hedgerow Balm, borage (long season), capeweed (N, P, [[coleman-overwintered-onions-and-early-spring-crops]]), chicory (N, P), daisy, dandelion (N, P, long season), fennel (long season), lavender (all year with different varieties), marjoram, mint (N), raspberry (N, P, spring-summer), rosemary, sage (N, P), thistles (N, P), thyme (N, P), violets ## [[permaculture-designers-manual-animal-forage-systems]] System (Bee Forage) | Plant | Nectar | Pollen | Notes | |-------|--------|--------|-------| | Acacia spp | | P | | | [[comparison-black-locust-vs-honey-locust]] | N | P | 1600 kg/ha N yield (Romania); spring-summer | | carob|Carob | N | P | Pods fed to bees to help them winter | | [[permaculture-honey-locust-pod-fodder-system]] | N | P | Spring | | Oak | | P | | | Poplars | N | P | Depends on sex | | Tagasaste | N | P | Most of winter through spring; progressive feeding to stock in rotation maximises flowering | | [[permaculture-tagasaste]]
+Updated: 2026-04-18 Source: Permaculture Plants: A Selection (Nugent & Boniface, 2nd ed 2004) — Utility Lists ## Overview Commercial apiarists transport hives up to 1000km to follow honey flow — enormous expense and poor [[holmgren-fossil-fuel-pulse-and-energy-descent-cycle]] efficiency. A year-round honey flow can be established for permanent hive sites. Bees effectively travel 2 miles from the hive. The bee forage system should be integrated within a whole property design, preferring nectar (N) and pollen (P) producing plants over utility plants with no bee benefit. ## Hedgerow Bee Forage Combined bee forage, medicinal (livestock), and fire-retardant properties: | Plant | Nectar | Pollen | Season/Notes | |-------|--------|--------|-------------| | Alder | N | P | | | Ash | N | | | | Basswood (linden) | | | Early summer | | Citrus | N | P | High honey producers | | Elm | N | P | | | Grevillea robusta | | | Spring-summer | | Hakea salicifolia | | | Spring | | Hawthorn | N | | Spring; pleach for fences | | Maple | N | P | Including box elder | | Poplars | N | P | Depending on sex | | permaculture-tagasaste|Tagasaste | N | P | Most of winter through spring; staggered cutting increases flowering duration | ## Understorey Hedgerow Balm, borage (long season), capeweed (N, P, [[coleman-overwintered-onions-and-early-spring-crops]]), chicory (N, P), daisy, dandelion (N, P, long season), fennel (long season), lavender (all year with different varieties), marjoram, mint (N), raspberry (N, P, spring-summer), rosemary, sage (N, P), thistles (N, P), thyme (N, P), violets ## [[permaculture-designers-manual-animal-forage-systems]] System (Bee Forage) | Plant | Nectar | Pollen | Notes | |-------|--------|--------|-------| | Acacia spp | | P | | | [[comparison-black-locust-vs-honey-locust]] | N | P | 1600 kg/ha N yield (Romania); spring-summer | | carob|Carob | N | P | Pods fed to bees to help them winter | | [[permaculture-honey-locust-pod-fodder-system]] | N | P | Spring | | Oak |... [truncated]
 - willows-salix-spp
 - permaculture-tree-lupin
 - [[permaculture-livestock-forage-systems]]
@@ -52,6 +52,18 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Integrating with [[pollinator-habitat]] Design
+
+Beyond honeybees, a well-designed bee forage system also supports native
+pollinators including solitary bees, bumblebees, and other beneficial
+insects. Native pollinators often have different foraging preferences
+and flight ranges than managed honeybees. Planting a diversity of
+flowering species with successive bloom periods from early spring through
+late autumn ensures continuous food availability. Avoiding pesticide use
+within the forage radius and providing nesting habitat such as bare
+ground, hollow stems, or dedicated bee hotels further supports a healthy
+and diverse pollinator community.
 
 ## Future Directions
 

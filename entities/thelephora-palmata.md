@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Persoon CH (1801). Synopsis Methodica Fungorum. Gottingen.
   - Corner EJH (1968). "A Monograph of Thelephora (Basidiomycetes)." Beihefte zur Nova Hedwigia 27: 1-110.
-  - Tedersoo L, May TW, Smith ME (2010). "Ectomycorrhizal lifestyle in fungi: global diversity and [[guzman-global-distribution-patterns-neurotropic-fungi]]." Plant and Soil 334(1-2): 167-182.
+  - Tedersoo L, May TW, Smith ME (2010). "Ectomycorrhizal lifestyle in fungi: global diversity and guzman-global-distribution-patterns-neurotropic-fungi." Plant and Soil 334(1-2): 167-182.
   - Stalpers JA (1993). "The aphyllophoraceous fungi I: keys to the species of the Thelephorales." Studies in Mycology 35: 1-39.
 created: 2026-04-28
 ---

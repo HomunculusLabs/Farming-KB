@@ -68,6 +68,8 @@ Survey data must be managed and disseminated effectively:
 Comprehensive fungal surveys benefit from integrating multiple methods:
 
 ## See Also
+
+- [[operational-groups-fungal-survey-design]]
 ## Practical Considerations
 
 Successful implementation of Fungal fungal survey design role of volunteers Of Volunteers requires attention to

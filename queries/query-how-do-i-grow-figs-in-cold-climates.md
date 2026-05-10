@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [query, figs, cold-climate, fruit-trees, permaculture]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 type: query
 ---
 

@@ -108,6 +108,8 @@ No significant toxicity has been reported at typical herbal doses, though the fe
 
 ## See Also
 
+- [[adiantum-aleuticum]]
+
 - [[adiantum-pedatum]]
 - [[pteridium-aquilinum]]
 - [[pteris-vittata]]

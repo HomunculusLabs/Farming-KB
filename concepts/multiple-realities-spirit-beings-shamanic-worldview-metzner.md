@@ -135,7 +135,6 @@ incorporating the shamanic recognition of multiple worlds and spirit beings.
 This position does not require abandoning scientific methodology but does
 require expanding its boundaries to include systematic first-person reports of
 altered-state experiences as valid empirical data.
-
 ## See Also
 
 - [[hallucinogens-and-shamanism-harner-anthology]]

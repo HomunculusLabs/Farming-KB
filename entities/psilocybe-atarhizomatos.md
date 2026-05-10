@@ -11,8 +11,8 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán, G. (2005). The Genus Psilocybe: A Systematic Revision of the Known Species. Verlag von Cramer."
-  - "Guzmán, G., Allen, J.W. & Gartz, J. (2000). A Worldwide Geographical Distribution of the [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]]. Bibliotheca Mycologica, 193."
-  - "Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press."
+  - "Guzmán, G., Allen, J.W. & Gartz, J. (2000). A Worldwide Geographical Distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification. Bibliotheca Mycologica, 193."
+  - "Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press."
   - "Guzmán, G. & Tapia, F. (1973). \"The genus Psilocybe in Mexico.\" Beih. Nova Hedwigia, 74, 273–289."
 ---
 

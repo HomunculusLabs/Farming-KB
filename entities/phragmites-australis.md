@@ -29,7 +29,7 @@ sources:
   - Chambers, R.M. et al. (1999). "Expansion of Phragmites australis into tidal wetlands of North America." Aquatic Botany 64(3-4): 261-273.
   - Saltonstall, K. (2002). "Cryptic invasion by a non-native genotype of the common reed." PNAS 99(4): 2445-2449.
   - "Phragmites australis." Royal Botanic Gardens Kew. https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:428713-1
-  - Vymazal, J. (2011). "[[comparison-constructed-wetlands-vs-bioswales]] for [[mollison-designers-wastewater-treatment-wetlands]]." Ecological Engineering 37(1): 61-69.
+  - Vymazal, J. (2011). "comparison-constructed-wetlands-vs-bioswales for mollison-designers-wastewater-treatment-wetlands." Ecological Engineering 37(1): 61-69.
 created: 2026-05-07
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Psilocybe cordispora
+title: [[psilocybe-cubensis-cap-stem-alkaloid-distribution-strain-comparison|Psilocybe]] cordispora
 created: 2026-04-28
 type: species
 tags:
@@ -16,7 +16,7 @@ sources:
 
 # Psilocybe cordispora
 
-**Psilocybe cordispora** is a rare [[spore]]s, which are unusual within the genus. It was described from Asian tropical collections and represents one of the more morphologically distinctive members of the genus.
+**psilocybe cordispora** is a rare [[spore]] s, which are unusual within the genus. It was described from Asian tropical collections and represents one of the more morphologically distinctive members of the genus.
 
 ## Taxonomy
 
@@ -46,7 +46,7 @@ sources:
 - Context bruises bluish, particularly at the base
 
 ### Spores
-- [[psilocin]], as evidenced by blue bruising reactions and the dark spore print. Alkaloid concentrations have not been quantitatively analyzed in published studies, but the bluing reaction suggests moderate to significant psychoactive compound levels.
+- [[psilocin]], as evidenced by blue bruising reactions and the d [[spore-print]] rint. Alkaloid concentrations have not been quantitatively analyzed in published studies, but the bluing reaction suggests moderate to significant psychoactive compound levels.
 
 ## Similar Species
 
@@ -62,7 +62,7 @@ P. cordispora is a notable species for mycologists due to its unusual spore shap
 
 ## Practical Considerations
 
-Successful implementation of Psilocybe cordispora requires attention to
+Successful implementation of psilocybe cordispora requires attention to
 several practical factors including environmental conditions,
 resource availability, and timing. Careful monitoring and
 adaptive management help optimize outcomes across varying

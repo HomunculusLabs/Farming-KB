@@ -129,6 +129,8 @@ biodiesel feedstock and edible oil source.
 
 ## See Also
 
+- [[hibiscus-syriacus]]
+
 - crotalaria-juncea
 - [[vicia-villosa]]
 - [[mycoremediation]]

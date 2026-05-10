@@ -4,17 +4,16 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, off-grid, chemistry, processing, sustainability, energy, safety]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-Biodiesel is a renewable diesel fuel substitute made through transesterification of vegetable oil or animal fat. On a homestead scale, biodiesel can be produced from waste vegetable oil (WVO) collected from restaurants, providing fuel for diesel engines, generators, tractors, and heating equipment at a fraction of petroleum diesel cost.
+Biodiesel is a renewable diesel fuel substitute made through transesterification of vegetable oil or animal fat. On a homestead scale, biodiesel can be produced from waste vegetable oil (WVO) collected from restaurants, providing fuel for diesel engines, generators, tractors, and heating equipment at a fraction of petroleum diesel cost. (see [[homestead-dairy-equipment]]).
 
 ## The Chemistry of Transesterification
 
-Biodiesel production converts triglycerides (the main component of vegetable oils) into fatty acid methyl esters (FAME) — biodiesel — and glycerin as a byproduct.
+Biodiesel production converts triglycerides (the main component of vegetable oils) into fatty acid methyl esters (FAME) — biodiesel — and glycerin as a byproduct. (see [[homestead-dairy-guide]]).
 
 The reaction:
 - Vegetable oil (triglyceride) + Methanol + Catalyst (sodium hydroxide or potassium hydroxide) = Biodiesel (FAME) + Glycerin
@@ -141,10 +140,11 @@ After washing, biodiesel contains suspended water droplets:
 ### Other Tests
 
 - **pH test** — Biodiesel should be neutral (pH 7). High pH indicates residual catalyst
-- **Cloud point** — The temperature at which biodiesel begins to gel. Important for [[permaculture-designers-manual-cold-climate-design]] use
+- **Cloud point** — The temperature at which biodiesel begins to gel. Important for cold climate use
 - **Water content** — Professional testing kits available; should be below 500ppm
 
 ## Glycerin Byproduct
-## Related Topics
 
-Biodiesel production complements other off-grid energy systems. See [[biogas-digester-basics]] for another renewable fuel approach. The glycerin byproduct connects to soap making in [[soap-making-guide]]. Energy system [[holmgren-permaculture-twelve-design-principles-framework]] overlap with broader [[fungi-and-sustainability]] goals on the homestead.
+Glycerin makes up about 20% of the reaction volume and has several uses:
+
+- **Soap making** — Glycerin-rich soap from biodiesel production is excellent quality. See [[soap-making-guide]]

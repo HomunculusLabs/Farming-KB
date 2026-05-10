@@ -45,7 +45,7 @@ Blueberry has served as a parent or grandparent to hundreds of descendant strain
 - **Blueberry Kush:** Blueberry × OG Kush — amplified indica sedation
 - **[[berry-white]]:** Blueberry × White Widow variant
 - **Aurora Indica:** Blueberry × Northern Lights — heavy indica for pain and sleep
-- **[[blue-dream-strain]] — Most famous Blueberry descendant (Blueberry × Haze)
+- **[[blue-dream]] — Most famous Blueberry descendant (Blueberry × Haze)
 - [[granddaddy-purple]] — Purple indica with overlapping genetic territory
 - [[northern-lights]] — Foundational indica frequently crossed with Blueberry
 ## Practical Considerations

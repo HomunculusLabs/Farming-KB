@@ -18,7 +18,7 @@ sources:
   - Moraes, M.D., et al. (2020). "Podophyllotoxin: current perspectives on its anticancer and antiviral activities." Phytotherapy Research, 34(8), 1832-1846.
   - Canel, C., et al. (2000). "Podophyllotoxin." Phytochemistry, 54(2), 115-120.
   - Imbert, C. (1998). "Discovering podophyllotoxins." Biochimie, 80(3), 207-222.
-  - Moerman, D.E. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press.
+  - Moerman, D.E. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press.
   - Lloyd, J.U. (1924). "Podophyllum peltatum." Bulletin of the lloyd-library|Lloyd Library, 10.
 ---
 

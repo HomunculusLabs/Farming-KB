@@ -116,9 +116,7 @@ Rabbits provide the following yields in permaculture systems:
 - High-quality protein (meat)
 - Manure for garden fertility
 - Soil preparation and aeration through burrowing
-## See Also
 
 ## See Also
-
 - [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]

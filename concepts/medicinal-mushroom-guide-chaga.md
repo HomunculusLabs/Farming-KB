@@ -1,5 +1,5 @@
 ---
-title: Chaga (chaga-inonotus-obliquus-medicinal-profile) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: Chaga (Inonotus obliquus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-Chaga is a sterile conk (sclerotium) that forms on living birch trees (Betula species) in cold climates across the Northern Hemisphere — Siberia, Canada, Scandinavia, northern United States, and parts of Asia. It is not a typical [[ectomycorrhizal-mushroom-fruiting-ecology]] body but rather a dense mass of mycelium that slowly parasitizes the birch tree over 10-15+ years.
+Chaga is a sterile conk (sclerotium) that forms on living birch trees (Betula species) in cold climates across the Northern Hemisphere — Siberia, Canada, Scandinavia, northern United States, and parts of Asia. It is not a typical mushroom fruiting [[lentinan-clinical-research]] body but rather a dense mass of mycelium that slowly parasitizes the birch tree over 10-15+ years.
 
-Chaga has been used for centuries in Siberian, Russian, and Scandinavian folk medicine as a general health tonic, digestive aid, and cancer remedy. It is one of the most antioxidant-rich substances found in nature.
+Chaga has been used for centuries in Siberian, Russian, and Scandinavian folk medicine as a general health tonic, digestive aid, and cancer [[lentinan-clinical-research]] remedy. It is one of the most antioxidant-rich substances found in nature.
 
 ## Key Compounds
 
@@ -44,7 +44,7 @@ Chaga is renowned for its exceptional antioxidant profile:
 - Betulinic acid induces apoptosis (programmed cell death) in cancer cells.
 - Inotodiol shows anti-tumor activity in multiple cancer cell lines.
 - Inhibits tumor angiogenesis (formation of blood vessels feeding tumors).
-- Primarily preclinical research — human [[mushroom-cancer-clinical-trials-overview]] are limited.
+- Primarily preclinical research — human clinical trials are limited.
 
 ### Blood Sugar Regulation
 - Reduces blood glucose levels in diabetic animal models.
@@ -104,7 +104,7 @@ Dried and ground chaga can be added to smoothies, coffee alternatives, and baked
 ### Identification
 - Exterior: Dark black, cracked, deeply fissured surface resembling burned charcoal.
 - Interior: Rusty orange to golden brown, corky texture.
-- Shape: Irregular, rounded mass (sclerotium), not a shelf or [[wine-cap-mushroom-cultivation]].
+- Shape: Irregular, rounded mass (sclerotium), not a shelf or cap mushroom.
 - Size: Can grow to 30+ cm diameter over many years.
 - No gills, pores, or typical mushroom structures.
 
@@ -130,7 +130,7 @@ Wild chaga is increasingly overharvested due to rising popularity:
 - Generally safe with long history of traditional use.
 - High oxalate content — may increase kidney stone risk in susceptible individuals at high doses.
 - May interact with blood-thinning medications and diabetes drugs.
-- Contains compounds that can stimulate immune function — caution with [[cannabis-autoimmune-conditions-detailed]].
+- Contains compounds that can stimulate immune function — caution with autoimmune conditions.
 - Avoid during pregnancy and breastfeeding.
 - Not recommended for people with bleeding disorders or upcoming surgeries.
 

@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Pérez, M.J. et al. (2020). "dighton-fungal-nutritional-composition-animal-diets of edible seaweeds." Journal of Applied Phycology, 32(1), 1-15.
   - Guiry, M.D. & Guiry, G.M. (2025). "Himanthalia elongata." AlgaeBase. National University of Ireland.
-  - Fleurence, J. (2016). "Seaweeds as food." In: Seaweed in Health and [[cervantes-pest-disease-prevention-overview]]. Academic Press, pp. 149-167.
+  - Fleurence, J. (2016). "Seaweeds as food." In: Seaweed in Health and cervantes-pest-disease-prevention-overview. Academic Press, pp. 149-167.
   - Jiménez-Escrig, A. et al. (2012). "Dietary fiber and physicochemical properties of edible seaweeds." Food Chemistry, 133(3), 762-768.
 ---
 

@@ -5,7 +5,7 @@ updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  sources: []
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 
 # Green Belt Projects

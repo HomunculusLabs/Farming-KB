@@ -90,6 +90,6 @@ why TMA-5 does not correspond to a known [[permaculture-designers-manual-essenti
 
 - [[tma-4-entity]] -- 2,3,5-trimethoxyamphetamine
 
-- [[mescaline-entity]] -- 3,4,5-trimethoxyphenethylamine
+- [[mescaline]] -- 3,4,5-trimethoxyphenethylamine
 
 - [[phenethylamine-pharmacology]] -- general phenethylamine pharmacology

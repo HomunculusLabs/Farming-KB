@@ -106,10 +106,10 @@ Container-grown specimens should be repotted every 2 to 3 years to refresh the g
 - [[opuntia-stricta]]
 - [[opuntia-ficus-indica]]
 - [[echinopsis-pachanoi]]
-- [[cereus-peruvianus]]
+- cereus peruvianus
 - [[lophophora-williamsii]]
 - [[agave-americana]]
 - [[yucca-filamentosa]]
 - [[larrea-tridentata]]
 - [[prosopis-juliflora]]
-- [[mescaline]]
+- [[pihkal-mescaline]]

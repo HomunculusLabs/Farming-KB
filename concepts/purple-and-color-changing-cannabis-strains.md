@@ -51,7 +51,7 @@ like they have been covered in Velcro and rolled in a field of heather, with vei
 running through valleys of green — so gorgeous that growers barely dare to touch them.
 This incredibly rare strain is suitable only for outdoor cultivation and can withstand both high
 humidity and extreme temperature drops with impressive mold resistance. It requires minimal
-nutrients and responds very well to [[purple-haze]] Thai
+nutrients and responds very well to [[purple-haze-cannabis]] Thai
 
 ACE Seeds created this 100% sativa variety by crossing Purple Haze with Meo Thai F3 genetics.
 This stabilized hybrid of sativas dating to the 1970s offers the Purple Haze characteristics

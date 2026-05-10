@@ -21,7 +21,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly. "Cherry Pie Strain Information." leafly.com
-  - AllBud. "Cherry Pie [[blesching-cannabis-strain-selection-receptor-targeting]]." allbud.com
+  - AllBud. "Cherry Pie blesching-cannabis-strain-selection-receptor-targeting." allbud.com
   - Cannabis Now. "Cherry Pie: A Legendary Cross." cannabisnow.com
   - Erowid. "Cherry Pie Experience Reports." erowid.org
   - Wikileaf. "Cherry Pie Strain Review." wikileaf.com

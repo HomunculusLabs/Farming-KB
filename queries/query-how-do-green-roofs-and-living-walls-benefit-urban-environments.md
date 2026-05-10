@@ -74,3 +74,7 @@ food supply. These systems connect to [[permaculture-design-principles-beginners
 ## Related
 
 - query-how-do-i-design-a-succulent-green-roof Questions
+
+## Related Topics
+
+- [[query-how-to-start-a-small-scale-snail-farm]]

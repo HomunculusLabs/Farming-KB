@@ -15,7 +15,7 @@ with plant-protective properties.
 Piriformospora indica (Hymenomycetes, Basidiomycota, family Sebacinaceae) is the only
 cultivable endophyte that colonizes roots and can grow on artificial medium. Unlike
 [[neem]] (Singh et al. 2002, 2003)
-- Withania somnifera (Rai et al. 2001)
+- [[withania-somnifera]] (Rai et al. 2001)
 - Spilanthes calva (Rai et al. 2001)
 - Adhatoda vasica (Rai and Varma 2005)
 - Chlorophytum borivilianum (Mathur et al. 2008)
@@ -69,21 +69,21 @@ requires host cell death for proliferation in differentiated barley roots.
 Key molecular findings:
 
 - A leucine-rich repeat protein is required for growth promotion and enhanced seed
-  production in Arabidopsis thaliana
+  production in [[arabidopsis-thaliana]]
 - Deactivating DMI-1 (required for mycorrhiza formation in legumes) does not affect
   the P. indica interaction
 - Suggests a distinct signaling pathway from canonical AM symbiosis
 - May explain P. indica's broader host range and ability to colonize non-mycorrhizal plants
 - Closest relatives are members of the Rhizoctina group (Ceratobasidales), also known
-  as [[orchid-mycorrhiza]]l partners
+  as [[orchid-mycorrhiza]] l partners
 
 ## Mycorrhiza Helper Bacteria
 
 Beyond P. indica, the broader endophyte context includes mycorrhiza helper bacteria (MHB)
 that directly promote mycorrhiza formation:
 
-- Include intrahyphal bacteria in ectomycorrhizal fungi
-- Include intra-spore bacteria in arbuscular mycorrhizal fungi
+- Include intrahyphal bacteria in [[ectomycorrhizal-fungi]]
+- Include intra-spore [[arbuscular-mycorrhizal-fungi]] rhizal fungi
 - Include bacteria colonizing hyphal surfaces and mycorrhizal roots
 - Both Gram-negative (Pseudomonas) and Gram-positive (Streptomyces) species
 

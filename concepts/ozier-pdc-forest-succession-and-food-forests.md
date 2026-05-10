@@ -42,7 +42,7 @@ stages that food forest designers can accelerate or mimic:
 ## Plant Guild Design
 
 Guilds are functional plant communities where species
-support each other through complementary ecological roles:
+support each other through complementary [[ecological-roles-fungi-ecosystems]]:
 - **Central element** — typically a productive fruit or nut
   tree that anchors the guild and provides the primary food
   yield around which supporting species are arranged.
@@ -50,7 +50,7 @@ support each other through complementary ecological roles:
   seaberry that convert atmospheric nitrogen into forms
   available to neighboring plants, reducing or eliminating
   the need for imported nitrogen fertilizers.
-- **Dynamic accumulators** — deep-rooted species such as
+- **[[comparison-dynamic-accumulators-vs-cover-crops]]** — deep-rooted species such as
   comfrey, yarrow, or dandelion that mine minerals from
   subsoil layers and bring them to the surface where they
   become available through leaf decomposition.
@@ -59,9 +59,9 @@ support each other through complementary ecological roles:
   management services that reduce crop damage without
   chemical intervention in the food forest system.
 - **Ground cover and mulch producers** — species that
-  protect soil from erosion, suppress weeds, and maintain
+  protect soil from erosion, [[query-how-do-cover-crops-suppress-weeds]], and maintain
   soil moisture through living ground coverage that reduces
-  the need for imported mulch materials over time.
+  the need for imported [[mollison-mulch-materials-sources-and-tropical-application]] over time.
 
 ## Integration with Permaculture Zones
 
@@ -69,14 +69,14 @@ Food forests are positioned within permaculture zone
 planning based on visit frequency and management intensity:
 - **Zone 2 food forests** are placed near the home for
   intensive management. These include demanding fruits,
-  culinary herbs, salad greens, and frequently harvested
+  [[holzer-medicinal-and-culinary-herbs-compendium]], salad greens, and frequently harvested
   berries that benefit from regular attention and care.
 - **Zone 3 food forests** are larger, less intensively
   managed systems with staple tree crops, grazing
   integration, and nut-producing canopy trees that require
   seasonal rather than daily management attention.
 - **Zone 4 food forests** are extensive plantings of
-  timber, chestnuts, and livestock forage with minimal
+  timber, chestnuts, and [[permaculture-livestock-forage-systems]] with minimal
   intervention, designed to develop toward semi-wild
   productive ecosystems that yield with minimal ongoing
   maintenance inputs from the land manager.

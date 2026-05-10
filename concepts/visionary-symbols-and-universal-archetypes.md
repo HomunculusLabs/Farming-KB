@@ -80,7 +80,7 @@ Jung proposed that beneath the personal unconscious of each individual lies a de
 
 These inherited structures, which Jung called archetypes, manifest in dreams, myths, fairy tales, and religious visions as recurring patterns and images.
 
-Jung himself was keenly interested in the relationship between archetypal imagery and [[psilocybin]]ybin molecule acts as the freezing temperature does for water: it creates the conditions under which the information embodied in neuronal activity naturally crystallizes into structured symbolic forms.
+Jung himself was keenly interested in the relationship between archetypal imagery and [[psilocybin]] ybin molecule acts as the freezing temperature does for water: it creates the conditions under which the information embodied in neuronal activity naturally crystallizes into structured symbolic forms.
 
 ## Implications for Understanding Religion
 
@@ -91,3 +91,6 @@ The fact that essentially the same symbolic images appear in the visionary exper
 This does not necessarily reduce religion to brain chemistry, but it does suggest that the psychedelic state provides a privileged window into the psychological foundations of religious experience and the [[information-paradigm-of-consciousness]]
 
 - [[psychedelic-spirituality-and-religion]]
+
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]] for more on Query What Are C3 C4 And Cam Photosynthesis And Why Does It Matter For Growers.

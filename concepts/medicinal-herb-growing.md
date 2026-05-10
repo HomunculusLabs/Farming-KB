@@ -1,5 +1,5 @@
 ---
-title: query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions Growing
+title: Medicinal Herb Growing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Medicinal Herb Growing
 
-Growing your own [[permaculture-plants-medicinal-herbs-healing]] ensures quality, potency, and a ready supply of remedies. Many medicinal herbs are easy to grow, perennial, and thrive in a variety of conditions. This guide covers 15 essential medicinal herbs for the homestead garden.
+Growing your own medicinal [[maitake-d-fraction-research]] herbs ensures quality, potency, and a ready supply of remedies. Many medicinal herbs are easy to grow, perennial, and thrive in a variety of conditions. This guide covers 15 essential medicinal herbs for the homestead garden.
 
 ## Garden Planning
 
@@ -18,7 +18,7 @@ Most medicinal herbs prefer well-drained soil and full sun (6+ hours). Group pla
 ## The Top 15 Medicinal Herbs
 
 ### 1. Chamomile (Matricaria chamomilla)
-Uses: calmative, digestive aid, anti-inflammatory, sleep support, skin soother. German chamomile is annual; Roman chamomile is perennial. Direct sow in spring. Harvest flowers at peak bloom. Dry on screens in a well-ventilated area out of direct sun. Makes tea, tinctures, and [[query-how-to-make-herbal-infused-oils-at-home]] for salves.
+Uses: calmative, digestive aid, anti-inflammatory, sleep support, skin soother. German chamomile is annual; Roman chamomile is perennial. Direct sow in spring. Harvest flowers at peak bloom. Dry on screens in a well-ventilated area out of direct sun. Makes tea, tinctures, and infused oils for salves.
 
 ### 2. Peppermint (Mentha x piperita)
 Uses: digestive aid, headache relief, decongestant, cooling. Very aggressive spreader -- contain in pots or dedicated beds with root barriers. Propagate from cuttings or division (sterile hybrid, seeds are unreliable). Harvest leaves before flowering for highest oil content. Dry or use fresh for tea.
@@ -42,7 +42,7 @@ Uses: adaptogen, stress relief, immune support, anti-inflammatory. Annual in mos
 Uses: wound healing (stops bleeding), fever reducer, digestive bitter, anti-inflammatory. Hardy perennial native to many regions. Sow seeds in fall or spring; divide established clumps in spring or fall. Harvest aerial parts (leaves and flowers) when in full bloom. Dries well for tea and tinctures.
 
 ### 9. Sage (Salvia officinalis)
-Uses: sore throat, oral health, digestive aid, cognitive support, antimicrobial. Perennial shrub. Prefers well-drained, sandy soil. Harvest leaves throughout the [[savory-growing-season-and-non-growing-season-management]]; heavier harvest before flowering. Dry for tea, smudge sticks, or use fresh. One of the oldest medicinal plants in recorded history.
+Uses: sore throat, oral health, digestive aid, cognitive support, antimicrobial. Perennial shrub. Prefers well-drained, sandy soil. Harvest leaves throughout the growing season; heavier harvest before flowering. Dry for tea, smudge sticks, or use fresh. One of the oldest medicinal plants in recorded history.
 
 ### 10. Thyme (Thymus vulgaris)
 Uses: respiratory support, antimicrobial, cough remedy, digestive aid. Low-growing perennial. Excellent for rock gardens and pathways. Propagate from cuttings, division, or seed. Harvest stems before or during flowering. Strip leaves from woody stems. Dries well.
@@ -65,14 +65,14 @@ Uses: immune support, antiviral, anti-inflammatory, fever reduction. Deciduous s
 ## Propagation Methods
 
 - Seed: many herbs grow readily from seed. Stratify per species requirements. Start indoors 6-8 weeks before last frost.
-- Cuttings: softwood cuttings in spring for mint, rosemary, lavender, thyme. Root in water or damp [[solomon-potting-mix-and-seedling-soil-recipe]] with humidity dome.
+- Cuttings: softwood cuttings in spring for mint, rosemary, lavender, thyme. Root in water or damp potting mix with humidity dome.
 - Division: divide perennials in early spring or fall. Chamomile, echinacea, yarrow, valerian, marshmallow all divide well.
 - Layering: bend a low stem to the ground, pin it, and cover with soil. Roots form at the node in 4-8 weeks.
 
 ## Harvesting and Drying
 
 ### Harvest Timing
-- Leaves: harvest before flowering for highest [[permaculture-designers-manual-essential-oil-plants]] content
+- Leaves: harvest before flowering for highest essential oil content
 - Flowers: harvest at peak bloom, in the morning after dew dries
 - Roots: harvest in fall after the plant has stored energy (usually second year or later)
 - Seeds: harvest when fully dry on the plant

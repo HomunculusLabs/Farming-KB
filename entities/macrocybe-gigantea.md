@@ -22,8 +22,8 @@ updated: 2026-04-28
 sources:
   - Pegler, D.N. & Lodge, D.J. (1992). "Three new species of Macrocybe from the Caribbean." Mycotaxon 45: 445-455.
   - Hedger, J.N. et al. (1993). "Tropical agarics: resource and diversity." Mycological Research 97(6): 637-644.
-  - De Kesel, A. et al. (2002). "The genus Macrocybe." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 10: 33-60.
-  - Oei, P. (2003). "[[accessible-mushroom-cultivation-for-disabilities]] with Special Emphasis on Appropriate Techniques for Developing Countries." TOOL Publications.
+  - De Kesel, A. et al. (2002). "The genus Macrocybe." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 10: 33-60.
+  - Oei, P. (2003). "accessible-mushroom-cultivation-for-disabilities with Special Emphasis on Appropriate Techniques for Developing Countries." TOOL Publications.
   - Bandara, A.R. et al. (2017). "Antioxidant and anti-inflammatory activities of Macrocybe gigantea." BMC Complementary and Alternative Medicine 17: 463.
 ---
 

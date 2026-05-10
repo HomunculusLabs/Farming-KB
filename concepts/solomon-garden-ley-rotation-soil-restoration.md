@@ -55,14 +55,10 @@ The ley system has deep roots in [[fukuoka-european-agriculture-observations]]. 
 Modern organic agriculture has largely replaced long-term leys with shorter cover crop rotations, driven by economic pressures to maximize cultivated area. Solomon's advocacy for the traditional multi-year ley reflects his broader philosophy of prioritizing long-term soil health over short-term yield maximization — a theme that runs throughout "Gardening When It Counts."
 
 ## See Also
-
-- Soil Organic Matter Management
-- [[crop-rotation-principles|Crop Rotation Principles]]
-- Soil Microbiome Restoration
-
-## See Also
-
+- [[ley-farming-soil-rebuilding-solomon]]
+- [[crop-rotation-principles]]
 - [[solomon-soil-freezing-requirements-sustainable-gardening]]
+
 ## Practical Considerations
 
 Successful implementation of Garden Ley Rotation for Soil Restoration requires attention to

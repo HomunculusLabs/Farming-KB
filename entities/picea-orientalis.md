@@ -73,6 +73,8 @@ The genus *Picea* contains approximately 35 species distributed across the north
 
 ## See Also
 
+- [[platanus-orientalis]]
+
 - [[picea-abies]]
 - [[picea-sitchensis]]
 - [[picea-omorika]]

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - title: "Plants For A Future — Dynamic Accumulators"
     url: "https://pfaf.org/user/Plant.aspx?LatinName=Symphytum+officinale"
-  - title: "Toensmeier, Eric. [[comparison-perennial-vegetables-vs-cover-crops]]. Chelsea Green, 2007."
+  - title: "Toensmeier, Eric. comparison-perennial-vegetables-vs-cover-crops. Chelsea Green, 2007."
     url: "https://www.chelseagreen.com/product/perennial-vegetables"
   - title: "Jacke, Dave. Edible Forest Gardens, Vol. 1 & 2. Chelsea Green, 2005."
     url: "https://www.chelseagreen.com/product/edible-forest-gardens-vol-1"

@@ -18,7 +18,7 @@ A guild is a designed plant community where each member:
 - Receives at least one function from other members
 - Fills a unique niche (root zone, canopy, ground cover, etc.)
 
-Guilds differ from simple [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] by being complete, self-supporting systems with specific functional roles.
+Guilds differ from simple companion planting by being complete, self-supporting systems with specific functional roles.
 
 ## The Apple Guild — Hemenway's Master Example
 
@@ -28,19 +28,19 @@ The classic apple-centered guild from Gaia's Garden:
 - **Apple tree** (semi-dwarf for home scale) — the central element, food producer
 
 ### Supporters — Suppress weeds, attract pollinators
-- **Comfrey** (Symphytum officinale) — [[nutrient-dynamic-accumulator-reference]], mulch producer, bee attractor
+- **Comfrey** (Symphytum officinale) — dynamic accumulator, mulch producer, bee attractor
 - **Dill, fennel, cilantro** — attract parasitic wasps that control codling moth
 - **Clover** (white or crimson) — living mulch, nitrogen fixer, bee forage
 
 ### Protectors — Repel pests, trap crops
 - **Garlic, chives, alliums** — repel apple borers and codling moth
 - **Nasturtium** — trap crop for aphids, repels woolly apple aphid
-- **Tansy** — repels codling moth, attracts [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- **Tansy** — repels codling moth, attracts beneficial insects
 
 ### Nutrient Accumulators
 - **Comfrey** — deep taproot mines calcium, potassium, phosphorus from subsoil
 - **Yarrow** — accumulates phosphorus, potassium, copper
-- **Chicory** — deep-rooted accumulator, [[permplant-carob-drought-tolerant-food-tree]]
+- **Chicory** — deep-rooted accumulator, drought tolerant
 
 ### Mulchers — Provide biomass for soil
 - **Comfrey** — chop 4-5 times per season, leaves decompose rapidly into nutrient-rich mulch
@@ -60,7 +60,7 @@ Follow this process for any fruit tree or garden center:
 2. **Identify the needs**: pest control, pollination, fertility, mulch, weed suppression
 3. **Assign functional roles**:
    - Nitrogen fixers (legumes)
-   - [[comparison-dynamic-accumulators-vs-cover-crops]] (deep-rooted herbs)
+   - Dynamic accumulators (deep-rooted herbs)
    - Insectary plants (flowers attracting beneficials)
    - Mulch producers (fast-growing biomass plants)
    - Ground covers (weed suppression, moisture retention)
@@ -91,7 +91,7 @@ See [[dynamic-accumulators]] for a comprehensive list.
 
 ## Habitat Guilds
 
-Creating [[query-how-do-i-design-habitat-for-beneficial-insects]] wildlife:
+Creating habitat for beneficial wildlife:
 - **Beneficial insect hotels**: Bundles of hollow stems, drilled wood blocks
 - **Bee nests**: Bare soil for ground-nesting bees, pithy stems for cavity nesters
 - **Rock piles**: Habitat for snakes, lizards, ground beetles

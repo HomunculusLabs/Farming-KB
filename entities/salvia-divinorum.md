@@ -12,7 +12,7 @@ tags:
   - medicinal
 sources:
   - Valdés LJ, Díaz JL, Paul AG. (1982). "Ethnopharmacology of Ska María Pastora." Journal of Ethnopharmacology 5(3): 287–312.
-  - Siebert DJ. (1994). "Salvia [[salvia-divinorum-and-salvinorin-a]] A." Journal of Psychoactive Drugs 26(3): 279–281.
+  - Siebert DJ. (1994). "Salvia salvia-divinorum-and-salvinorin-a A." Journal of Psychoactive Drugs 26(3): 279–281.
   - Roth BL, et al. (2002). "Salvinorin A: a potent naturally occurring nonnitrogenous κ-opioid receptor agonist." PNAS 99(18): 11934–11939.
   - González D, et al. (2006). "Ethnobotany of Salvia divinorum." Economic Botany 60(3): 253–262.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:580352-1

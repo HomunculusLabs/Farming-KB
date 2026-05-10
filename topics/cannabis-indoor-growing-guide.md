@@ -109,7 +109,6 @@ yields. However, HPS lights generate a tremendous amount of heat, have a
 relatively narrow spectrum, and are significantly less energy-efficient than
 modern LED systems. A typical 1000-watt HPS system produces only about 30 to
 40 percent of its energy consumption as photosynthetically active radiation,
-with the rest lost as heat.
 ## See Also
 
 [[cannabis-indoor-ventilation-setup]] - Ventilation system design

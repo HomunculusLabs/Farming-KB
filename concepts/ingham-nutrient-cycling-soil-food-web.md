@@ -69,6 +69,8 @@ When nutrients appear high in soil but low in plant tissue, the biology needed f
 
 ## See Also
 
+- [[ingham-protozoa-soil-food-web-nutrient-cycling]]
+
 - [[soil-food-web-nutrient-cycling]]
 - [[fungal-decomposition-nutrient-cycling]]
 - [[bacterial-vs-fungal-compost-teas]]

@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J (1998). "A worldwide geographical distribution of the neurotropic fungi." Bibliotheca Mycologica, 173.
   - Gerhardt J (1996). "Taxonomische Revision von Psilocybe s. lato." Dissertation, ETH Zürich.
-  - Allen JW, Merlin MD, Jansen RK (1992). "An ethnomycological review of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] in Australia and New Zealand." Journal of Psychoactive Drugs, 24(1), 73-80.
+  - Allen JW, Merlin MD, Jansen RK (1992). "An ethnomycological review of emcdda-hallucinogenic-mushrooms-emerging-trend-europe in Australia and New Zealand." Journal of Psychoactive Drugs, 24(1), 73-80.
   - Stijve T, Kuyper TW (1988). "Absorption of psilocybin from Psilocybe mushrooms." Planta Medica, 54(3), 271-274.
   - Gartz J (1994). "Extracting psilocybin from hallucinogenic mushrooms." Journal of Psychoactive Drugs, 26(1), 73-74.
 created: 2026-04-28

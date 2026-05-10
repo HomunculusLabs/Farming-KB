@@ -120,7 +120,6 @@ each organism group. Activity stains — typically vital dyes that penetrate
 only living cells — are what distinguish active biomass from total biomass.
 This active-versus-total distinction is the cornerstone of the SFI approach
 and something plate counts fundamentally cannot provide.
-
 ## See Also
 
 - [[microscope-identification-soil-organisms]]

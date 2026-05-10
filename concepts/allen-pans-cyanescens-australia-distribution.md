@@ -120,5 +120,7 @@ typically late summer through autumn. The species requires sustained warmth
 combined with high humidity to fruit prolifically.
 ## See Also
 
+- [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]
+
 - [[allen-gymnopilus-and-other-psychoactive-genera]]
 - [[allen-subtropical-australia-hunting-techniques]]

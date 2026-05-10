@@ -1,5 +1,5 @@
 ---
-title: comparison-companion-planting-reference-vs-jadam-monoculture-critique Reference
+title: Companion Planting Reference
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Companion Planting Reference
 
-Companion planting leverages synergistic relationships between plants to improve growth, repel pests, attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]], and maximize space. This reference covers classic combinations, pest-repelling partnerships, and incompatible pairings.
+Companion planting leverages synergistic relationships [[jeavons-companion-planting-health-nutrition]] between plants to improve growth, repel pests, attract beneficial insects, and maximize space. This reference covers classic combinations, pest-repelling partnerships, and incompatible pairings.
 
 ## Classic Combinations
 
@@ -47,7 +47,7 @@ Companion planting leverages synergistic relationships between plants to improve
 | Rosemary | Cabbage moths, bean beetles, carrot flies | Beans, cabbage, carrots |
 | Sage | Cabbage moths, carrot rust flies | Cabbage, carrots, tomatoes |
 | Thyme | Cabbage worms, whiteflies | Brassicas, tomatoes |
-| Yarrow | Aphids, attracts predatory wasps | Near any [[hamilton-vegetable-bed-preparation]] |
+| Yarrow | Aphids, attracts predatory wasps | Near any vegetable bed |
 
 ## Trap Cropping
 
@@ -75,7 +75,7 @@ Trap crops attract pests away from your main crop:
 | Cabbage | Tomatoes | Growth inhibition |
 | Peppers | Beans | Peppers can stunt bean growth |
 | Carrots | Dill (when young) | Dill can cross-pollinate and stunt carrots |
-| Onions | Beans, peas | Alliums inhibit [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] |
+| Onions | Beans, peas | Alliums inhibit nitrogen fixation |
 | Sunflowers | Potatoes | Sunflowers inhibit potato growth |
 | Cucumbers | Sage | Sage stunts cucumber growth |
 | Lettuce | Celery | Celery can inhibit lettuce growth |
@@ -101,7 +101,7 @@ These plants attract pollinators and predatory insects that control pest populat
 - Tomatoes (deep) with lettuce (shallow) — lettuce shades tomato roots.
 
 ### Nitrogen Fixer + Heavy Feeder
-- Beans/peas ([[query-how-to-fix-nitrogen-toxicity-in-cannabis]]) with corn, squash, or brassicas (heavy feeders).
+- Beans/peas (fix nitrogen) with corn, squash, or brassicas (heavy feeders).
 - Clover as living mulch under fruiting vegetables.
 
 ## Related Concepts
@@ -109,4 +109,4 @@ These plants attract pollinators and predatory insects that control pest populat
 - [[hugelkultur-guide]] for mound-based polyculture planting
 - [[composting-methods-comparison]] for building soil fertility to support companion systems
 - [[square-foot-gardening]] for spacing guidance in intensive layouts
-- [[raised-bed-gardening]] for [[hugelkultur-bed-construction-detailed]] suited to companion planting
+- [[raised-bed-gardening]] for bed construction suited to companion planting

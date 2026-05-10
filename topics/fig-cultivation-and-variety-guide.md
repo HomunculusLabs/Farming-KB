@@ -15,7 +15,7 @@ sources:
   - Texas A&M AgriLife Extension, "Growing Figs in Texas" (E-401)
   - Penelope O'Sullivan, "The Home Orchard Handbook" (Cool Springs Press, 2011)
   - Lee Reich, "Grow Fruit Naturally" (Taunton Press, 2012)
-  - Martin Page, "Growing Figs in [[greenhouse-cool-climates-mollison]]" (Crowood Press, 2019)
+  - Martin Page, "Growing Figs in greenhouse-cool-climates-mollison" (Crowood Press, 2019)
   - Stella Otto, "The Backyard Orchardist" (Ottographics, 1995)
 ---
 

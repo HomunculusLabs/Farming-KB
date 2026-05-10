@@ -38,15 +38,15 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 - Roots: roast and grind as coffee substitute; also medicinal (liver tonic, diuretic)
 - Flower buds: capers substitute when pickled
 
-**Ecological role**: Deep taproot (6-15 feet) mines calcium, potassium, and trace minerals — a key [[dynamic-accumulators]]. [[coleman-overwintered-onions-and-early-spring-crops]] nectar source for bees and pollinators.
+**Ecological role**: Deep taproot (6-15 feet) mines calcium, potassium, and trace minerals — a key [[dynamic-accumulators]]. Early spring nectar source for bees and pollinators.
 
-**Management**: Don't fight it — harvest regularly. Use as accumulator mulch. Remove from [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]] beds if desired; allow in lawns and pathways.
+**Management**: Don't fight it — harvest regularly. Use as accumulator mulch. Remove from intensive garden beds if desired; allow in lawns and pathways.
 
 ### Purslane (*Portulaca oleracea*)
 
 **Identification**: Prostrate succulent with reddish stems; fleshy paddle-shaped leaves; tiny yellow flowers; forms dense mat. Thrives in warm, moist garden soil.
 
-**Culinary**: Excellent raw in salads or sautéed — mild, slightly tangy, crunchy texture. High in omega-3 [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]] (alpha-linolenic acid), vitamin A, vitamin C, iron, calcium, potassium. Used in Mediterranean, Mexican, and Middle Eastern cuisines.
+**Culinary**: Excellent raw in salads or sautéed — mild, slightly tangy, crunchy texture. High in omega-3 fatty acids (alpha-linolenic acid), vitamin A, vitamin C, iron, calcium, potassium. Used in Mediterranean, Mexican, and Middle Eastern cuisines.
 
 **Ecological role**: Ground cover that retains soil moisture and protects soil surface. Seeds persist in soil for decades.
 
@@ -70,7 +70,7 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 
 **Medicinal**: "Nature's bandage" — crush fresh leaves and apply to insect bites, stings, cuts, splinters (drawing action). Leaf tea for coughs and digestive issues. Traditional poultice herb worldwide.
 
-**Ecological role**: [[nutrient-dynamic-accumulator-reference]] of calcium, magnesium, sulfur, potassium. Tolerates foot traffic — good pathway plant.
+**Ecological role**: Dynamic accumulator of calcium, magnesium, sulfur, potassium. Tolerates foot traffic — good pathway plant.
 
 **Management**: Allow in pathways and lawns. Remove from garden beds. Harvest for medicine and mulch.
 
@@ -116,7 +116,7 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 
 **Why it's a problem**: Wraps and strangles crop plants. Regrows from any root fragment. Extremely difficult to eradicate.
 
-**Management**: Smother with 6+ inches of mulch or [[comparison-mulch-types-and-effects-vs-landscape-fabric-alternatives]] for a full [[savory-growing-season-and-non-growing-season-management]]. Repeated pulling depletes root reserves (takes 3-5 years). Never till (spreads root fragments). Solarization can help in hot climates. Accept that control, not eradication, is realistic.
+**Management**: Smother with 6+ inches of mulch or landscape fabric for a full growing season. Repeated pulling depletes root reserves (takes 3-5 years). Never till (spreads root fragments). Solarization can help in hot climates. Accept that control, not eradication, is realistic.
 
 ### Quackgrass (*Elymus repens*)
 
@@ -138,12 +138,13 @@ Detailed profiles of the most common weeds found on a regenerative homestead. Co
 
 **Identification**: Biennial — flat rosette first year, tall flowering stalk (2-6 feet) second year with large purple flower heads and sharp spines.
 
-## See Also
+**Management**: Easier than Canada thistle — biennial lifecycle means cutting before seed set in year two eliminates that generation. Dig out rosettes in year one.
 
-- [[weed-management-strategies]] — prevention, control methods, organic herbicides, seasonal calendar
-- [[dynamic-accumulators]] — detailed accumulator plant profiles
-- [[herbal-medicine]] — medicinal uses for common weeds
-- [[no-till-gardening-method]] — soil management approach that reduces weed pressure
-- [[cover-cropping-guide]] — using cover crops for weed suppression
-- [[soil-fertility-management]] — interpreting weed soil indicators and amending
-- [[companion-planting-reference]] — plant communities that compete with weeds
+### Japanese Knotweed (*Fallopia japonica*)
+
+**Identification**: Tall (4-10 feet) bamboo-like stems with red/purple speckles. Large heart-shaped leaves. Small white flower clusters in late summer.
+
+**Why it's a problem**: Extremely invasive — can damage foundations. Spreads by rhizome (any fragment regrows). Listed as noxious weed in many states.
+
+**Management**: Cut repeatedly to starve roots (takes 5+ years of consistent effort). Consult local extension for approved treatments. Never compost or move soil from knotweed areas. Report infestations to local authorities.
+

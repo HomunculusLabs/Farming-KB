@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, hymenogastraceae, south-america, annulate]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources: []
+sources: []
 ---
 
 # Psilocybe caeruleoannulata

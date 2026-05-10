@@ -108,6 +108,8 @@ Water temperature increases in streams and rivers may also affect riparian S. pe
 
 ## See Also
 
+- [[ceiba-pentandra]]
+
 - [[salix-alba]]
 - [[salix-babylonica]]
 - [[salix-nigra]]

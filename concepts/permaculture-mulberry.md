@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [permaculture, design]
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Mulberry (Morus spp)

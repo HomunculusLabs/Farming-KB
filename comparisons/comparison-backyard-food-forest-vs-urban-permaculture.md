@@ -7,8 +7,7 @@ tags: permaculture"
 tags: [comparison, permaculture, food-forest, urban-gardening, design]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 ---
 
 # Backyard Food Forest vs Urban Permaculture

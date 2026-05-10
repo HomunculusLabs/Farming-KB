@@ -1,5 +1,5 @@
 ---
-title: solomon-winter-gardening-and-season-planning Techniques
+title: Winter Gardening Techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 # Winter Gardening Techniques
 
-Winter gardening extends the [[savory-growing-season-and-non-growing-season-management]] into the cold months using protective structures, crop selection, and strategic planting. With proper techniques, gardeners in most climates can harvest fresh greens and root vegetables year-round, even through snow and freezing temperatures. Winter gardening overlaps with [[season-extension-techniques]] but focuses specifically on cold-season strategies.
+Winter gardening extends the growing season into the cold months using protective structures, crop selection, and strategic planting. With proper techniques, gardeners in most climates can harvest fresh greens and root vegetables year-round, even through snow and freezing temperatures. Winter gardening overlaps with [[season-extension-techniques]] but focuses specifically on cold-season strategies.
 
 ## Cold Frames
 
-[[query-how-do-i-choose-between-a-cold-frame-row-cover-and-low-tunnel]] is a bottomless box with a transparent lid (glass, polycarbonate, or plastic) that sits directly on the soil. It captures solar energy and creates a microclimate 10-20°F warmer than the outside temperature.
+A cold frame is a bottomless box with a transparent lid (glass, polycarbonate, or plastic) that sits directly on the soil. It captures solar energy and creates a microclimate 10-20°F warmer than the outside temperature.
 
 ### Design and Construction
 
@@ -38,7 +38,7 @@ Winter gardening extends the [[savory-growing-season-and-non-growing-season-mana
 
 ## Row Covers
 
-Row covers are lightweight, spun-bonded polyester or polypropylene fabrics draped directly over plants or supported by hoops. They provide 2-8°F of [[holzer-frost-protection-techniques]] depending on weight.
+Row covers are lightweight, spun-bonded polyester or polypropylene fabrics draped directly over plants or supported by hoops. They provide 2-8°F of frost protection depending on weight.
 
 ### Row Cover Weights
 
@@ -83,7 +83,7 @@ Low tunnels are small hoop houses — metal or PVC hoops covered with polyethyle
 - **Snow loads**: Steep hoop angles (semi-circular) shed snow better than Gothic arches
 - **Wind**: Anchor securely with ground stakes, sandbags, or wire Earth anchors. Low tunnels are vulnerable to wind damage.
 - **Temperature monitoring**: On sunny winter days, low tunnels can exceed 80°F. Ventilation is essential.
-- **Inner row cover**: For extreme cold (below 15°F), add a second layer of row cover directly over plants inside the low tunnel. This double protection can [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] zone by 2-3 hardiness zones.
+- **Inner row cover**: For extreme cold (below 15°F), add a second layer of row cover directly over plants inside the low tunnel. This double protection can extend the growing zone by 2-3 hardiness zones.
 
 ## Overwintering Crops
 
@@ -92,7 +92,7 @@ Some crops survive winter in the ground with minimal protection and are harveste
 ### Root Crops
 
 - **Carrots**: Plant in late August. Mulch heavily (6-12 inches of straw or leaves) after hard frost. Harvest through winter by pulling back mulch. Carrots sweeten significantly after frost.
-- **Parsnips**: Plant in spring for fall/[[coleman-claytonia-winter-harvest-cultivation]]. Frost converts starches to sugars. Can be left in ground all winter and harvested in early spring.
+- **Parsnips**: Plant in spring for fall/winter harvest. Frost converts starches to sugars. Can be left in ground all winter and harvested in early spring.
 - **Turnips and rutabagas**: Plant in late summer for fall/winter harvest. Mulch heavily.
 - **Beets**: Plant in late summer. Harvest small beets in fall; mulch remaining for winter harvest.
 
@@ -141,9 +141,10 @@ Mulch is the simplest winter protection. A deep layer of organic mulch insulates
 | July-August | Direct seed fall/winter crops (carrots, beets, kale, spinach) |
 | August-September | Start transplants for fall planting (broccoli, cabbage, cauliflower) |
 | September | Build or repair cold frames, low tunnels |
-## Related Topics
+| October | Plant garlic and shallots; install row covers |
+| November | Apply winter mulch; close cold frames at night |
+| December-February | Harvest hardy crops; manage protection structures |
+| March | Begin removing protection; direct seed spring crops |
 
-- [[season-extension-techniques]] for hoop houses, high tunnels, and greenhouses
-- [[succession-planting]] for timing fall plantings
-- [[seed-starting-reference]] for starting winter crop transplants
-- [[cover-cropping-guide]] for protecting soil through winter
+### Zone-Specific Strategies
+

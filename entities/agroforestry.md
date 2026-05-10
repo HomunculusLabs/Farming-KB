@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Nair PKR. "An Introduction to Agroforestry." Kluwer Academic Publishers, 1993.
-  - Jose S. "Agroforestry for [[biodiversity-of-fungi-ecosystem-services-agriculture]] and Environmental Benefits." Taylor & Francis, 2017.
+  - Jose S. "Agroforestry for biodiversity-of-fungi-ecosystem-services-agriculture and Environmental Benefits." Taylor & Francis, 2017.
   - FAO. "Agroforestry: A Decade of Development." Food and Agriculture Organization, 2019.
   - World Agroforestry Centre (ICRAF). "Trees for Food Security." Annual Report, 2023.
   - Garrett HE, Buck LE. "Agroforestry Practices." University of Missouri Center for Agroforestry, 2022.

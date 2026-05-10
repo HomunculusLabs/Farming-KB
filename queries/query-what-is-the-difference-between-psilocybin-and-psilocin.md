@@ -6,7 +6,7 @@ type: query
 tags: [mycology, psychedelics]
 sources: - "raw/papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md" - "raw/papers/leary-t-the-psychedelic-experience.md" - "raw/papers/variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md"
 ---
---- title: "What Is the Difference Between Psilocybin and Psilocin" tags: [query, mycology, chemistry, psilocybin, pharmacology] date: 2026-04-25 updated: 2026-04-25 sources: [papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md] --- # What Is the Difference Between Psilocybin and Psilocin? ## Short Answer Psilocybin and psilocin are two closely related psychedelic compounds found in [[guzman-magic-mushrooms-african-species]]. Psilocybin is a stable prodrug that the body converts into psilocin, which is the active compound responsible for the psychedelic effects. ## Detailed Explanation [[psilocin]] are both indole alkaloids belonging to the
+--- title: "What Is the Difference Between Psilocybin and Psilocin" tags: [query, mycology, chemistry, psilocybin, pharmacology] date: 2026-04-25 updated: 2026-04-25 sources: [papers/bigwood-beug-variation-of-psilocybin-and-psilocin-levels.md] --- # What Is the Difference Between Psilocybin and Psilocin? ## Short Answer Psilocybin and psilocin are two closely related psychedelic compounds found in guzman-magic-mushrooms-african-species. Psilocybin is a stable prodrug that the body converts into psilocin, which is the active compound responsible for the psychedelic effects. ## Detailed Explanation psilocin are both indole alkaloids belonging to the
 tryptamine class of compounds, and they are the primary psychoactive
 constituents found in psilocybin-containing mushrooms. While they are
 chemically similar, they differ in their molecular structure, stability, and
@@ -70,6 +70,16 @@ different chemical profiles and moisture content.
 - Psilocybin is more stable for storage; psilocin degrades quickly with heat
   and light
 - Both compounds are biosynthesized from [[psilocybin-biosynthesis-pathway]]
+
+## Storage and Potency Considerations
+
+Because psilocin degrades readily upon exposure to heat, light, and oxygen,
+dried mushrooms should be stored in airtight containers in a cool, dark
+location. Desiccant packets help reduce moisture content below 10%, which
+significantly slows enzymatic degradation. Properly dried and stored specimens
+can retain potency for 1–2 years, though gradual degradation of both psilocybin
+and psilocin occurs over time. Fresh mushrooms, which contain higher initial
+psilocin levels, are best consumed or processed within a few days of harvest.
 
 ## Related Questions
 - [[query-how-to-identify-psilocybe-cubensis-mushrooms]]

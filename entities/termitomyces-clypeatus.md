@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Heim, R. (1977). "Termites et champignons: les Termitomyces du Sud-Est Asiatique." Revue de Mycologie, 41, 141–247.
-  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of [[psilocybe-southeast-asia-pacific]]." Kew Bulletin, 49(4), 717–736.
+  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of psilocybe-southeast-asia-pacific." Kew Bulletin, 49(4), 717–736.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." PNAS, 99(23), 14887–14892.
   - Mueller, U.G. et al. (2005). "The evolution of agriculture in insects." Annual Review of Ecology, Evolution, and Systematics, 36, 563–595.
 created: 2026-04-28

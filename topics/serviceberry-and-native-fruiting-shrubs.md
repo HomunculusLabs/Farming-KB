@@ -1,7 +1,7 @@
 ---
 title: Serviceberry and Native Fruiting Shrubs
 tags:
-  - permaculture
+  - [[permaculture-plants-food-forest-ground-covers-bamboos|permaculture]]
   - fruit
   - native-plants
   - shrubs
@@ -50,7 +50,7 @@ The name "serviceberry" comes from early colonial observations that the plant's 
 
 Serviceberries are among the earliest spring bloomers, producing showy white five-petaled flowers in pendulous clusters before or concurrent with leaf-out. This early bloom makes them critical nectar sources for emerging native bees, especially mining bees (*Andrena* spp.) and mason bees (*Osmia* spp.). Fruits ripen from June through August depending on species and latitude, progressing from green to red to dark purple-black when fully ripe.
 
-The plants are adaptable to a wide range of soil conditions, from sandy loams to clay, and tolerate pH from 5.0 to 7.5. They are moderately [[drought-tolerant-planting-design]] once established but perform best with consistent moisture. Most species are understory-adapted and tolerate partial shade, though fruit production is heaviest in full sun.
+The plants are adaptable to a wide range of soil conditions, from sandy loams to clay, and tolerate pH from 5.0 to 7.5. They are moderately [[drought-tolerant-planting-design]] once established but perform [[query-best-native-nitrogen-fixing-plants-for-permaculture-food-forests|best]] with consistent moisture. Most species are understory-adapted and tolerate partial shade, though fruit production is heaviest in full sun.
 
 Root systems are fibrous and relatively shallow, making them compatible with interplanting. *A. stolonifera* spreads by stolons and can form thickets, useful for erosion control on banks and slopes.
 

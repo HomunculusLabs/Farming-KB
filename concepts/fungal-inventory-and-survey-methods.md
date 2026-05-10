@@ -112,12 +112,8 @@ any single method alone. This complementarity argues strongly for multi-method
 approaches in any serious biodiversity inventory.
 
 ## See Also
-
 - [[fungal-survey-inventory-methodology]]
 - [[am-fungal-survey-methods]]
 - [[fungal-taxonomy-and-kingdom-fungi]]
 - [[environmental-dna-metabarcoding-fungi]]
-
-## See Also
-
 - [[soil-fungal-community-isolation-survey-methods]]

@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, reishi, medicinal-mushrooms]
-sources: sources:
+sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Reishi (Ganoderma lucidum) Indoor Cultivation Parameters #mycoremediation #mushroom-cultivation #medicinal-mushrooms #polypore-cultivation Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 21 Growth Parameters ## Overview Ganoderma lucidum is known as Reishi (Japanese), Ling Chi or Ling Zhi (Chinese, "Mushroom of Immortality"), and Mannentake (Japanese, "10,000 Year Mushroom"). It is the most renowned medicinal mushroom in Asian pharmacopeia, with over two millennia of documented use. The earliest mention dates to Emperor Shih-huang of the Ch'in Dynasty (221-207 BC). Claimed to address cancer, heart disease, diabetes, arthritis, high altitude sickness, and chronic fatigue syndrome. See also [[reishi-cultivation-guide]], parasitic-mushrooms-armillaria-ganoderma.

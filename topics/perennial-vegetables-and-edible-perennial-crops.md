@@ -129,7 +129,6 @@ enough spears are allowed to become ferny foliage, the plant rebuilds reserves
 for the next year.
 
 Site preparation is decisive. Asparagus wants full sun, deep fertile soil,
-good drainage, and a near neutral pH. Crowns are commonly planted in trenches,
 ## See Also
 
 - [[perennial-vegetables]]

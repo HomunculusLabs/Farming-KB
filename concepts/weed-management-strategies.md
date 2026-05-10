@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-control, gardening, agriculture, no-till, living-soil, regenerative, troubleshooting]
-sources:
-  sources: []
+sources: []
 ---
 
 # Weed Management Strategies
 
-Weed management in regenerative and organic systems focuses on prevention, competition, and targeted removal rather than total eradication. A completely weed-free garden is neither realistic nor desirable — some weeds provide habitat for [[beneficial-insects-guide]], cycle nutrients, and protect soil. The goal is to manage weeds to a level where they do not significantly reduce crop yields.
+Weed management in regenerative and organic systems focuses on prevention, competition, and targeted removal rather than total eradication. A completely weed-free garden is neither realistic nor desirable — some weeds provide habitat for beneficial insects, cycle nutrients, and protect soil. The goal is to manage weeds to a level where they do not significantly reduce crop yields.
 
 ## Understanding Weeds
 
@@ -80,7 +79,7 @@ A propane torch is used to briefly flame weeds, killing them by rupturing plant 
 
 ### Tilling
 
-Mechanical [[fukuoka-why-tillage-destroys-soil]] weeds by cutting, burying, and uprooting. However, tilling also brings buried weed seeds to the surface, creating a long-term weed management problem.
+Mechanical tillage destroys weeds by cutting, burying, and uprooting. However, tilling also brings buried weed seeds to the surface, creating a long-term weed management problem.
 
 - **Short-term**: Tilling effectively eliminates existing weeds
 - **Long-term**: Tilling increases the weed seed bank by triggering germination of buried seeds. Each tilling event germinates a new wave of weeds.
@@ -91,8 +90,8 @@ Mechanical [[fukuoka-why-tillage-destroys-soil]] weeds by cutting, burying, and 
 
 Regular mowing prevents annual weeds from setting seed and gradually weakens perennial weeds by depleting their root reserves.
 
-- **Best for**: Pathways, [[cover-crop]] termination, field margins, and large areas
-- **Frequency**: Mow before weeds flower. For perennial weeds, repeated mowing every 2-3 weeks through the [[extending-growing-season]] depletes root reserves over 2-3 years.
+- **Best for**: Pathways, cover crop termination, field margins, and large areas
+- **Frequency**: Mow before weeds flower. For perennial weeds, repeated mowing every 2-3 weeks through the growing season depletes root reserves over 2-3 years.
 - **Mulching mower**: Returns clippings to the soil surface as organic matter
 
 ## Solarization
@@ -121,11 +120,11 @@ Solarization uses the sun's heat to kill weed seeds, soil-borne pathogens, and n
 - Excellent for: annual weeds, soil-borne fungi (Verticillium, Fusarium), nematodes
 - Poor for: perennial weeds with deep roots (bindweed, quackgrass, nutsedge) — solarization only reaches the top 6 inches
 - Best results: in hot, sunny climates with long summer days
-- Side benefit: soil [[ph-and-nutrient-availability-garden-soils]] may increase after solarization (ammonification of organic nitrogen)
+- Side benefit: soil nutrient availability may increase after solarization (ammonification of organic nitrogen)
 
 ## Sheet Mulching (Lasagna Gardening)
 
-[[sheet-mulching]] smothers existing vegetation and weed seeds under multiple layers of organic material. It is the primary weed-control method in [[no-till-gardening-method]] systems.
+Sheet mulching smothers existing vegetation and weed seeds under multiple layers of organic material. It is the primary weed-control method in [[no-till-gardening-method]] systems.
 
 ### Layer-by-Layer Process
 
@@ -146,5 +145,6 @@ Solarization uses the sun's heat to kill weed seeds, soil-borne pathogens, and n
 
 - Some persistent perennial weeds (bindweed, nutsedge) may push through the cardboard
 - Takes several months for full effectiveness — not an instant solution
-## Related Topics
-- [[jadam-soil-management-no-till-and-weed-control]]
+- Heavy cardboard may impede water infiltration initially
+- See [[no-till-gardening-method]] for integrating sheet mulching into no-till systems
+

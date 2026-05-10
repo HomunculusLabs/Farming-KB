@@ -136,10 +136,6 @@ potential of shared visionary experience in a society built on
 individual shamanic authority and pervasive suspicion.
 
 ## See Also
-
 - [[harner-amazonian-ayahuasca-shamanism]]
 - [[hallucinogens-and-shamanism-harner-anthology]]
-
-## See Also
-
 - [[harner-mescalero-peyote-shamanism]]

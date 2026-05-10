@@ -1,25 +1,24 @@
 ---
-title: Garden duggar-mushroom-growing-history-and-methods — comparison-companion-planting-reference-vs-jadam-monoculture-critique with Fungi
+title: Garden Mushroom Growing — Companion Planting with Fungi
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [mycology, gardening, companion-planting, cultivation, food, permaculture]
 sources:
-  sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - raw/papers/mycelium-running-stamets.md
 ---
 
 # Garden Mushroom Growing
 
-Incorporating gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] into vegetable gardens using companion planting strategies. From Chapter 12 of *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]].
+Incorporating gourmet and medicinal mushrooms into vegetable gardens using companion planting strategies. From Chapter 12 of *Mycelium Running* by [[paul-stamets]].
 
 ## Why Grow Mushrooms in Gardens?
 
 - **Soil building** — mycelium decomposes organic matter, creating humus
-- **Water retention** — [[fungal-mycelial-networks-nutrient-translocation]] act as sponges, reducing irrigation needs
+- **Water retention** — mycelial networks act as sponges, reducing irrigation needs
 - **Pest control** — some species kill nematodes and attract/trap pest insects (see [[fungal-pest-control]])
 - **Nutrient cycling** — fungi break down complex molecules into plant-available forms
-- **Food production** — harvest gourmet [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]] vegetables
+- **Food production** — harvest gourmet mushrooms alongside vegetables
 - **Disease resistance** — plants with mycorrhizal partners resist disease better
 - **Erosion prevention** — mycelium binds soil particles together
 

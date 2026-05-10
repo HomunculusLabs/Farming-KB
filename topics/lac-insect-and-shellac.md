@@ -141,7 +141,6 @@ Two main methods convert seed lac to refined shellac:
 
 ### Grades of Shellac
 
-Shellac is graded primarily by color, from darkest to lightest:
 ## See Also
 
 - [[natural-dye-plants-and-textile-fiber-crops]] — for other natural colorants

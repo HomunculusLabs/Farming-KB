@@ -1,5 +1,5 @@
 ---
-title: Cover cover crop selection guide Guide
+title: Cover Crop Selection Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -12,13 +12,13 @@ sources:
 
 ## Why Cover Crops
 
-[[query-which-cover-crops-are-best-for-breaking-hardpan-and-compacted-soil]] planted specifically to build and hold soil and to smother weeds. Their leaves shield soil from hammering rains and carpet the earth with humus-building litter. Their roots drive deep into soil, loosening earth, drawing up nutrients, and placing [[hamilton-composting-and-organic-matter-management]] farther down than even the deepest plowing. Many send roots 10 to 15 feet deep.
+Cover crops are planted specifically to build and hold soil and to smother weeds. Their leaves shield soil from hammering rains and carpet the earth with humus-building litter. Their roots drive deep into soil, loosening earth, drawing up nutrients, and placing organic matter farther down than even the deepest plowing. Many send roots 10 to 15 feet deep. (see [[urban-permaculture-nitrogen-fixing-green-manures]]).
 
 ## Selection Principles
 
 ### Diversity Is Key
 
-As in so much of ecological gardening, diversity provides the key. Seed a mélange of varieties and record which thrive. Each plant type secretes its own array of sugars and compounds from its roots, attracting a different community of soil organisms. The more species of cover crop planted, the more varied the soil life's diversity, which subdues disease and boosts plant growth.
+As in so much of ecological gardening, diversity provides the key. Seed a mélange of varieties and record which thrive. Each plant type secretes its own array of sugars and compounds from its roots, attracting a different community of soil organisms. The more species of cover crop planted, the more varied the soil life's diversity, which subdues disease and boosts plant growth. (see [[nitrogen-fixing-trees-and-shrubs]]).
 
 ### Annual vs Perennial
 
@@ -27,7 +27,7 @@ As in so much of ecological gardening, diversity provides the key. Seed a mélan
 
 ### Nitrogen Fixers vs Non-Fixers
 
-Most legumes host symbiotic microorganisms in root nodules that [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] gas from the air. William King found in the *Journal of Agronomy* that 80% of the nitrogen in interplanted ryegrass came from companion clover -- the clover was actively feeding the ryegrass through root sloughing.
+Most legumes host symbiotic microorganisms in root nodules that fix nitrogen gas from the air. William King found in the *Journal of Agronomy* that 80% of the nitrogen in interplanted ryegrass came from companion clover -- the clover was actively feeding the ryegrass through root sloughing.
 
 **Important:** Balance nitrogen with carbon. Soil organisms consume 10 to 50 times more carbon than nitrogen. Farmers blend a grass or other nonlegume into cover crops. Commercial mixes contain 10 to 40% oats, annual ryegrass, or other nonlegume. A too-rich nitrogen fuel can actually deplete more organic matter than the cover crop adds.
 
@@ -42,7 +42,7 @@ Planted late summer or fall; mowed or tilled in spring while flowering and befor
 | Crop | N-fixer | Height | Notes |
 |------|---------|--------|-------|
 | Austrian winter pea | Yes | 2 ft | Hardy to 0°F |
-| [[comparison-lupin-vs-crimson-clover-green-manure]] | Yes | 18 in | Hardy to 10°F |
+| Crimson clover | Yes | 18 in | Hardy to 10°F |
 | Hairy vetch | Yes | 3-6 ft | Hardy to -10°F |
 | Common vetch | Yes | 3-6 ft | Hardy to 0°F |
 | Fava/bell bean | Yes | 3-6 ft | Mix with legumes |
@@ -87,9 +87,6 @@ Excellent for no-till gardens; mowed to generate mulch and compost. Shorter vari
 
 ## Related
 
-- [[coleman-crop-selection]]
-- [[solomon-buckwheat-summer-cover-crop-guide]]
-
-- [[chop-and-drop-mulching]] -- slashing [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]] place
+- [[chop-and-drop-mulching]] -- slashing cover crops in place
 - [[white-clover-ground-cover]] -- Fukuoka's use of clover as permanent living mulch
 - [[sheet-mulching]] -- another approach to soil building

@@ -19,7 +19,7 @@ sources:
   - Pyke, B., Rice, M., Sabine, K. & Zalucki, M.P. (1987). The push-pull strategy—behavioural control of Heliothis. Australian Cotton Grower, 8, 7-9.
   - Hassanali, A., Herren, H., Khan, Z.R., Pickett, J.A. & Woodcock, C.M. (2008). Integrated pest management: the push-pull approach for controlling insect pests and weeds of cereal crops. Philosophical Transactions of the Royal Society B, 363, 361-367.
   - Dickens, J.C. (2000). Orientation of Colorado potato beetle to natural and synthetic blends of volatiles. Journal of Chemical Ecology, 26, 1265-1278.
-  - Turlings, T.C.J. & Tumlinson, J.H. (1992). Systemic release of [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] by herbivore-injured corn. Proceedings of the National Academy of Sciences, 89, 8399-8402.
+  - Turlings, T.C.J. & Tumlinson, J.H. (1992). Systemic release of query-how-do-plants-use-chemical-signals-to-defend-against-insects by herbivore-injured corn. Proceedings of the National Academy of Sciences, 89, 8399-8402.
 ---
 
 # [[trap-cropping]] and Push-Pull Pest Management

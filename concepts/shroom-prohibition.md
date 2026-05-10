@@ -45,7 +45,7 @@ fresh mushrooms.
 Psilocybin and psilocin had been classified as controlled substances
 under Federal Law in 1970. The Comprehensive Drug Abuse Prevention and
 Control Act (Public Law 91-513) made the unauthorised possession, sale
-or use of a [[emcdda-psilocybin-mushroom-dose-and-effects]] a crime punishable by fine or
+or use of a [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] a crime punishable by fine or
 imprisonment. Possession of LSD was made a federal crime in 1966, and
 overnight many hundreds of research projects across the States were
 shut down. Thereafter, research into the effects of psychedelics became

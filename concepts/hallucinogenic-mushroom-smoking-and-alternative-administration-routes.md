@@ -116,6 +116,6 @@ There is no evidence of psychological or physical dependency associated with hal
 ## See Also
 
 - [[emcdda-hallucinogenic-mushroom-route-administration-and-effects]]
-- [[emcdda-psilocybin-mushroom-dose-and-effects]]
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]]
 - [[emcdda-psilocybin-non-addictive-profile-tolerance]]

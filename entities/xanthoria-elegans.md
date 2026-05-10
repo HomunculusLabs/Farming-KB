@@ -98,6 +98,8 @@ The species has been used to date glacial moraines in the Arctic, Alpine, and Hi
 
 ## See Also
 
+- [[xanthoria-candelaria]]
+
 - [[cladonia-rangiferina]]
 - [[lecanora-muralis]]
 - [[evernia-prunastri]]

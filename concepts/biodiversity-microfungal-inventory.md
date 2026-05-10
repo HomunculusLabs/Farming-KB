@@ -2,7 +2,7 @@
 title: Microfungal [[biodiversity-macrofungi-inventory-methods]]
 created: 2026-04-28
 tags:
-  - [[mycology]]
+  - [mycology]]
   - microfungi
   - fungal-survey
   - plant-debris

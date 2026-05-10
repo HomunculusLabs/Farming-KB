@@ -75,6 +75,8 @@ The most important identification challenge with *C. atramentarius* is distingui
 
 ## See Also
 
+- [[parasola-plicatilis]]
+
 - [[amanita-phalloides]]
 - [[psilocybe-cubensis]]
 - [[volvariella-volvacea]]

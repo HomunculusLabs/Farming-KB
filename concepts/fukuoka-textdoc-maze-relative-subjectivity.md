@@ -5,7 +5,7 @@ tags: [epistemology, subjectivity, knowledge, perception, philosophy-of-nature]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
+  - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc-okuninushi-sack-parable-nature-unknowable|fukuoka-textdoc.md
 type: concept
 ---
 
@@ -78,7 +78,7 @@ age. Whether one views the modern world as insane or not may even be a
 criterion of one's own sanity. Man is unable to see the truth because his
 eyes are veiled by subjectivity. He has looked at the green of trees without
 knowing true green, and has "known" the color crimson without seeing crimson
-itself. That has been the source of all his errors.
+itself. That has been the source of all his [[fukuoka-textdoc-errors-of-human-intellect|errors]].
 
 ## Connection to Non-Discriminating Knowledge
 

@@ -113,7 +113,6 @@ beans interplanted with corn feed the corn nitrogen is largely a myth in
 temperate climates. The reliable approach is rotational: legume cover crops
 followed by nitrogen-demanding crops in subsequent seasons. For maximum
 nitrogen contribution, legume cover crops should be terminated at early
-flowering. Inoculating seed with the appropriate Rhizobium strain before
 ## See Also
 
 - [[cover-crops]] — foundational concept page on cover crops

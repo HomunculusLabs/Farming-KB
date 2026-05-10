@@ -8,7 +8,7 @@ sources:
   - raw/papers/cho-han-kyu-korean-natural-farming-handbook.md
 ---
 
-[[comparison-natural-farming-vs-permaculture]] is completely chemical-free and environment-friendly.
+comparison-natural-farming-vs-permaculture is completely chemical-free and environment-friendly.
 Rather than using pesticides to kill pests, NF uses methods that
 distract, attract, and manage pest populations while maintaining
 [[fukuoka-ecological-balance-principles]]. The philosophy emphasizes co-existence and co-

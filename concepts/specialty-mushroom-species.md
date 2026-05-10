@@ -17,8 +17,7 @@ tags:
 - cultivation
 
 sources:
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+- raw/papers/the-mushroom-cultivator-stamets.md
 - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 - raw/papers/unknown-mycelium-running.md
 - raw/papers/mycelium-running-stamets.md
@@ -39,7 +38,7 @@ Related: [[mushroom-species-guide]], [[medicinal-mushroom-guide]], [[mushroom-cu
 | **Fruiting temp** | Cool temperate |
 | **Cultivation** | Outdoor logs/stumps, very slow |
 
-Ancient [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]] known since Hippocrates (460-377 B.C.). Near-extinct in Europe due to overharvesting and old-growth forest loss. Protein only 3% (lowest of cultivated species) but extraordinarily high in medicinal compounds. Strong antibacterial and antiviral properties. Among the strongest aromatase and 5-alpha-reductase inhibitors tested. See [[medicinal-mushroom-guide]].
+Ancient medicinal polypore known since Hippocrates (460-377 B.C.). Near-extinct in Europe due to overharvesting and old-growth forest loss. Protein only 3% (lowest of cultivated species) but extraordinarily high in medicinal compounds. Strong antibacterial and antiviral properties. Among the strongest aromatase and 5-alpha-reductase inhibitors tested. See [[medicinal-mushroom-guide]].
 
 ## Enokitake / Winter Mushroom — Flammulina velutipes
 
@@ -62,7 +61,7 @@ Wild form: short, fuzzy-footed, brown cap. Cultivated form: long stems, tiny cap
 | **Fruiting temp** | 60-70F (primarily fall) |
 | **Flavor** | Nutty, crunchy texture |
 
-Excellent stump recycler. Can be cultivated via log rafts — scarify logs with chainsaw and pack [[growing-gourmet-sawdust-spawn-production-use]] between adjoining logs. Reported to produce tumor regressions in mice via carboxymethylated glucans. Also has hypoglycemic activity and free radical scavenging properties. One of Stamets' employees' favorite edibles.
+Excellent stump recycler. Can be cultivated via log rafts — scarify logs with chainsaw and pack sawdust spawn between adjoining logs. Reported to produce tumor regressions in mice via carboxymethylated glucans. Also has hypoglycemic activity and free radical scavenging properties. One of Stamets' employees' favorite edibles.
 
 ## Shaggy Mane — Coprinus comatus
 
@@ -71,9 +70,9 @@ Excellent stump recycler. Can be cultivated via log rafts — scarify logs with 
 | **Difficulty** | Easy (outdoor) |
 | **Substrate** | Manure-enriched soils, hardwood sawdust beds, newly fertilized lawns |
 | **Fruiting temp** | 40-60F (spring and fall) |
-| **[[psilocybin-shelf-life-stability]]** | 2 days maximum (deliquesces) |
+| **Shelf life** | 2 days maximum (deliquesces) |
 
-A "first responder" mushroom that proliferates after habitat disturbance — construction sites, highways, scraped ground. Contains natural antibiotic coprinine. Bioaccumulates arsenic and mercury. Shows antimicrobial activity against E. coli, S. aureus, [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]], Pseudomonas aeruginosa, and Aspergillus niger. Historically used both as food and as ink for medieval manuscripts. Must be consumed within 2 days of picking before gills deliquesce.
+A "first responder" mushroom that proliferates after habitat disturbance — construction sites, highways, scraped ground. Contains natural antibiotic coprinine. Bioaccumulates arsenic and mercury. Shows antimicrobial activity against E. coli, S. aureus, Candida albicans, Pseudomonas aeruginosa, and Aspergillus niger. Historically used both as food and as ink for medieval manuscripts. Must be consumed within 2 days of picking before gills deliquesce.
 
 ## Tinder Conk / Amadou — Fomes fomentarius
 
@@ -106,7 +105,7 @@ Third-largest mushroom in the world. Perennial conk with white pore surface that
 | **Fruiting temp** | 70-95F (summer mushroom) |
 | **Flavor** | Strong almond (fresh); terrible when dried |
 
-One of the most protein-rich [[fungi-cultivated-mushrooms-pathogens-competitors]] (33-48% dry weight). Bruises bright yellow when cut. Beta-glucans up to 14%, total polysaccharides ~27%. Promotes natural killer cells and is selectively cytotoxic to tumor cells. Absorbs cadmium, copper, lead, and mercury. Good mycofiltration candidate around dairies and feedlots. Controversial in commercial markets due to competition between growers in China, Japan, and Brazil. Samples from China found with significantly more cadmium than US-grown.
+One of the most protein-rich cultivated mushrooms (33-48% dry weight). Bruises bright yellow when cut. Beta-glucans up to 14%, total polysaccharides ~27%. Promotes natural killer cells and is selectively cytotoxic to tumor cells. Absorbs cadmium, copper, lead, and mercury. Good mycofiltration candidate around dairies and feedlots. Controversial in commercial markets due to competition between growers in China, Japan, and Brazil. Samples from China found with significantly more cadmium than US-grown.
 
 ## Hypholoma capnoides (Clustered Woodlover)
 
@@ -117,7 +116,7 @@ One of the most protein-rich [[fungi-cultivated-mushrooms-pathogens-competitors]
 | **Fruiting temp** | 50-60F (fall) |
 | **Warning** | Easily confused with poisonous H. fasciculare (olive-green gills) and deadly Galerina |
 
-Aggressive conifer stump decomposer and Armillaria blight fighter. Stumps inoculated with this species resist Armillaria root rot. Chapman et al. (2004) found close relative H. fasciculare reduced Armillaria by up to 67% in BC field trials. Produces long, forking rhizomorphs that penetrate deeply into wood. One of the few [[palmer-edible-mushrooms-north-america]] found on aged redwoods and cedars. Nutty flavor when cooked until crispy. See [[mycelium-running-techniques]].
+Aggressive conifer stump decomposer and Armillaria blight fighter. Stumps inoculated with this species resist Armillaria root rot. Chapman et al. (2004) found close relative H. fasciculare reduced Armillaria by up to 67% in BC field trials. Produces long, forking rhizomorphs that penetrate deeply into wood. One of the few edible mushrooms found on aged redwoods and cedars. Nutty flavor when cooked until crispy. See [[mycelium-running-techniques]].
 
 ## Hypsizygus ulmarius (Elm Oyster)
 

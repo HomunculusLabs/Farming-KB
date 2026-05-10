@@ -135,5 +135,5 @@ Pest and mold resistance is average; dense buds require good airflow to prevent 
 ## See Also
 
 - `[[girl-scout-cookies]]` — Girl Scout Cookies, the grandparent strain via OGKB
-- `[[cannabis-northern-lights]]` — Classic indica with similar relaxing and sedative effects
+- `[[northern-lights]]` — Classic indica with similar relaxing and sedative effects
 - `[[sfv-og]]` — Related OG Kush descendant from Southern California

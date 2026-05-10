@@ -4,8 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [herbalism, herbs, medicine]
-sources:
-  sources: []
+sources: []
 ---
 ---
 title: Herbal Baths and Hydrotherapy

@@ -15,7 +15,7 @@ sources:
   - Stamets, Paul. Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed., Ten Speed
     Press, 2000.
   - "Shiitake Mushroom Production on Logs." Field & Forest Products, 2022.
-  - "Growing [[query-how-to-grow-shiitake-mushrooms-on-logs]] in a Forest Farming System." USDA National
+  - "Growing query-how-to-grow-shiitake-mushrooms-on-logs in a Forest Farming System." USDA National
     Agroforestry Center, 2018.
   - "Log-Grown Specialty Mushrooms." ATTRA — National Center for Appropriate
     Technology, 2011.
@@ -139,11 +139,8 @@ again. Logs can typically produce 2–4 flushes per year.
 ## Best Mushroom Species for Beginners
 
 | Species | Difficulty | Time to First Crop | Log Life | Best Wood |
-## See Also
-
-- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs|Shiitake Mushroom Cultivation]]
-- [[query-what-is-the-soil-food-web-and-why-does-it-matter|The Soil Food Web]]
 
 ## See Also
-
+- [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]]
+- [[query-what-is-the-soil-food-web-and-why-does-it-matter]]
 - [[query-how-to-grow-shiitake-mushrooms-on-logs]]

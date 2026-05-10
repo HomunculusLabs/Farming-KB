@@ -9,7 +9,7 @@ sources: []
 
 # Basidiomycete Phylum Guide
 
-Basidiomycota is the second-largest phylum of fungi and contains most of the familiar mushroom-forming species. Members produce spores on specialized cells called basidia, typically externally on sterigmata (four spores per basidium). The phylum includes over 30,000 described species, ranging from [[palmer-edible-mushrooms-north-america]] to deadly toxins to plant pathogens.
+Basidiomycota is the second-largest phylum of fungi and contains most of the familiar mushroom-forming species. Members produce spores on specialized cells called basidia, typically externally on sterigmata (four spores per basidium). The phylum includes over 30,000 described species, ranging from edible mushrooms to deadly toxins to plant pathogens.
 
 ## Defining Characteristics
 
@@ -22,7 +22,7 @@ Basidiomycota is the second-largest phylum of fungi and contains most of the fam
 ## Major Orders
 
 ### Agaricales
-The gilled mushrooms, the most familiar order. Contains Agaricus (button mushrooms), Amanita (death cap, fly agaric), Pleurotus ([[query-how-to-grow-oyster-mushrooms-at-home]]), Psilocybe (psychoactive species), and Lactarius (milk caps). This is the largest and most economically significant order of mushroom-forming fungi. See [[oyster-mushroom-pleurotus-ostreatus|oyster mushroom species]] and porcini and boletes.
+The gilled mushrooms, the most familiar order. Contains Agaricus (button mushrooms), Amanita (death cap, fly agaric), Pleurotus (oyster mushrooms), Psilocybe (psychoactive species), and Lactarius (milk caps). This is the largest and most economically significant order of mushroom-forming fungi. See [[oyster-mushroom-pleurotus-ostreatus|oyster mushroom species]] and porcini and boletes.
 
 ### Boletales
 The pored mushrooms. Spores are produced in tubes rather than on gills. Key genera include Boletus (porcini), Suillus, and Tylopilus. Many are edible and highly prized, though some (like Boletus satanas) are toxic. See porcini and boletes.
@@ -40,7 +40,7 @@ Contains Cantharellus (chanterelles) and Craterellus (trumpet mushrooms). These 
 The jelly fungi. Includes Auricularia (wood ear), Tremella (witch's butter). Gelatinous fruiting bodies, often growing on dead wood. Important in Asian cuisine and traditional medicine.
 
 ### Phallales
-The stinkhorns and cage fungi. Produce foul-smelling spore masses (gleba) that attract flies for [[aquatic-fungi-spore-dispersal-ingold]]. Includes [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (common stinkhorn) and Clathrus (cage fungi).
+The stinkhorns and cage fungi. Produce foul-smelling spore masses (gleba) that attract flies for spore dispersal. Includes Phallus impudicus (common stinkhorn) and Clathrus (cage fungi).
 
 ### Tremellales
 Jelly fungi that are often parasitic on other fungi. Tremella fuciformis (snow fungus) is commercially cultivated in Asia for culinary and medicinal use.
@@ -54,7 +54,7 @@ Jelly fungi that are often parasitic on other fungi. Tremella fuciformis (snow f
 | Psilocybe | Saprotroph, dung-inhabiting | Psychoactive species, therapeutic research |
 | Amanita | Ectomycorrhizal | Deadly toxins (A. phalloides), fly agaric |
 | Boletus | Ectomycorrhizal | Porcini, prized edible |
-| Ganoderma | Wood decomposer (white rot) | Reishi, [[gourmet-medicinal-mushroom-casing-layer-techniques]] |
+| Ganoderma | Wood decomposer (white rot) | Reishi, medicinal mushroom |
 | Hericium | Wood decomposer (white rot) | Lion's mane, brain health research |
 | Coprinus | Saprotroph | Inky caps, coprophilous species |
 | Lentinula | Wood decomposer | Shiitake mushroom |
@@ -63,7 +63,7 @@ Jelly fungi that are often parasitic on other fungi. Tremella fuciformis (snow f
 ## Ecological Roles
 
 ### Wood Decay
-Basidiomycetes are the primary decomposers of woody material. White rot fungi (e.g., Phanerochaete, Trametes) break down both cellulose and lignin. Brown rot fungi (e.g., Serpula, Gloeophyllum) selectively degrade cellulose, leaving lignin behind as a brown, crumbly residue. This decomposition is essential for forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
+Basidiomycetes are the primary decomposers of woody material. White rot fungi (e.g., Phanerochaete, Trametes) break down both cellulose and lignin. Brown rot fungi (e.g., Serpula, Gloeophyllum) selectively degrade cellulose, leaving lignin behind as a brown, crumbly residue. This decomposition is essential for forest nutrient cycling.
 
 ### Mycorrhizal Symbiosis
 Many basidiomycetes form ectomycorrhizal associations with forest trees. Amanita, Boletus, Russula, Lactarius, Cantharellus, and Tricholoma are all predominantly ectomycorrhizal. These relationships are essential for forest health and tree nutrition.

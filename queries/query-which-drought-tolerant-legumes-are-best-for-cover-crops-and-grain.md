@@ -130,17 +130,8 @@ These trees handle extreme heat, alkaline soils, and prolonged dry seasons:
 ### Cornelian Cherry (*Cornus mas*)
 
 - **Minimum rainfall**: 500 mm
-## See Also
-
-- [[query-best-grain-legumes-for-a-small-homestead]]
-
-- 
-- 
-- 
 
 ## See Also
-
 - [[query-best-grain-legumes-for-a-small-homestead]]
-- food-forest-understory-plants
 - [[permplant-persimmon-diospyros-kaki-fruit-tree]]
 - [[query-how-to-design-a-food-forest-guild-for-fruit-trees]]

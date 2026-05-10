@@ -101,4 +101,4 @@ sanango (Brunfelsia grandiflora) may be added for cleansing.
 Camalote (Monstera species) is sometimes included. Each
 vegetalista develops their own recipe, drawing from the
 pharmacopoeia of hundreds of medicinal plants known in the
-Amazonian tradition. See [[ayahuasca-visions]] and [[ayahuasca-vision-art-and-shipibo-tradition]]
+Amazonian tradition. See [[ayahuasca-visions]] and [[ayahuasca-vision-art-and-Shipibo-tradition]]

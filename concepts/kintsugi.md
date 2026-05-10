@@ -125,7 +125,5 @@ Kintsugi matters because it makes continuity visible.
 The golden seam is evidence that fragility and beauty can coexist.
 
 ## See Also
-
-## See Also
 - [[broadscale-restoration-watershed-repair]]
 - [[building-with-natural-materials]]

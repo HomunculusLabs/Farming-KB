@@ -104,7 +104,6 @@ introduced psilocybin to Western audiences and ignited public fascination.
 The 1950s and early 1960s became the golden age of psychedelic research. Over
 1,000 clinical papers were published, and approximately 40,000 patients
 received psychedelic therapy. Osmond and Hoffer used LSD to treat alcoholism,
-reporting lasting sobriety from a single high-dose session. Stanislav Grof
 ## See Also
 
 - [[psychedelic-therapy-foundations]] — The Harvard Psilocybin Project and

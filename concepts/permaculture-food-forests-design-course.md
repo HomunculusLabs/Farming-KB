@@ -1,10 +1,10 @@
 ---
-title: [[nut-tree-cultivation-for-permaculture-food-forests]] (mollison-permaculture-design-course-curriculum)
+title: [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]] (mollison-permaculture-design-course-curriculum)
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources: sources:
+sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 # Permaculture Food Forests (Design Course)

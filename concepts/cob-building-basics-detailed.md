@@ -1,5 +1,5 @@
 ---
-title: Cob cob building basics detailed Detailed
+title: Cob Building Basics Detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 # Cob Building Basics Detailed
 
-Cob is a natural [[fungal-building-material-deterioration]] made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates.
+Cob is a natural building material made from subsoil, sand, straw, and water. Mixed by foot on a tarp and applied in thick layers by hand, cob creates monolithic walls that are sculptural, incredibly durable, and made from materials found on most homestead sites. Cob buildings have survived for hundreds of years in England, Yemen, and other regions with wet climates. (see [[building-with-natural-materials]]).
 
 ## What Is Cob
 
-Cob (from Old English "cumb" meaning lump or mass) is an ancient building technique where a wet mixture of earth, sand, and straw is sculpted into walls. Unlike adobe (formed into bricks and dried) or rammed earth (compacted in forms), cob is built up in layers while wet, creating a continuous monolithic structure with no mortar joints.
+Cob (from Old English "cumb" meaning lump or mass) is an ancient building technique where a wet mixture of earth, sand, and straw is sculpted into walls. Unlike adobe (formed into bricks and dried) or rammed earth (compacted in forms), cob is built up in layers while wet, creating a continuous monolithic structure with no mortar joints. (see [[straw-bale-construction]]).
 
 ## Cob Mix Ratio
 
@@ -141,9 +141,10 @@ Cob is vulnerable to water damage. Protect your walls:
 
 - Minimum 2-foot overhang on all sides (3 feet in wet climates)
 - Wider overhangs protect walls from driving rain
-## See Also
 
-- [[cordwood-construction]]
-- [[earthbag-building]]
-- [[bamboo-as-building-material]]
-- [[passive-solar-design]]
+### Base Protection
+
+- Keep cob walls at least 18 inches above grade
+- Splashback from roof drips is a major problem — use gravel, pavers, or a concrete apron
+
+### Wall Finish

@@ -5,7 +5,6 @@ updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Water Power on the Krameterhof

@@ -13,8 +13,8 @@ sources:
   - Bernicchia, A. & Gorjón, S.P. (2013). Fungi Europaei, Vol. 12: Hymenochaetales. Candusso Edizioni.
   - Ryvarden, L. & Gilbertson, R.L. (1993). European Polypores, Part 2. Oslo: Fungiflora.
   - Fischer, M.S. & Binder, M. (2013). "Species recognition, geographic distribution and host specificity of Inonotus and related genera in Europe." Mycologia, 105(4), 969-980.
-  - Schwarze, F.W.M.R., Engels, J. & Mattheck, C. (2000). Fungal Strategies of [[bloomfield-wood-decay-fungi-spalted-timber]] in Trees. Berlin: Springer.
-  - Tabata, M. et al. (2014). "[[chaga-inonotus-obliquus-medicinal-profile]] sensu lato: Phylogenetic position and a new species, I. dryadeus." Mycoscience, 55, 124-135.
+  - Schwarze, F.W.M.R., Engels, J. & Mattheck, C. (2000). Fungal Strategies of bloomfield-wood-decay-fungi-spalted-timber in Trees. Berlin: Springer.
+  - Tabata, M. et al. (2014). "chaga-inonotus-obliquus-medicinal-profile sensu lato: Phylogenetic position and a new species, I. dryadeus." Mycoscience, 55, 124-135.
 created: 2026-04-28
 ---
 

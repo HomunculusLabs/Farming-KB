@@ -11,18 +11,18 @@ sources:
 
 # Greg Green
 
-Greg Green is the author of *The Cannabis Grow Bible* (4th edition, 2001), one of the most widely read comprehensive guides to [[query-how-does-no-till-cannabis-cultivation-work]]. The book covers all aspects of growing from seed selection and breeding through vegetative growth, flowering, harvesting, and processing. See [[cannabis-lighting-guide]] and [[cannabis-growth-stage-checklist]] for practical techniques covered extensively in his work.
+Greg Green is the author of *The Cannabis Grow Bible* (4th edition, 2001), one of the most widely read comprehensive guides to cannabis cultivation. The book covers all aspects of growing from seed selection and breeding through vegetative growth, flowering, harvesting, and processing. See [[cannabis-lighting-guide]] and [[cannabis-growth-stage-checklist]] for practical techniques covered extensively in his work.
 
 ## The Cannabis Grow Bible
 
 The Grow Bible is structured as a 17-chapter reference covering the complete cannabis cultivation cycle:
 
 1. **History and basics** — cannabis species, THC, resin, the high
-2. **Seeds** — sourcing, seed banks, [[cannabis-breeding-traits-selection-criteria-clarke]], lifecycle, sinsemilla production
-3. **Propagation** — germination methods, transplanting, indoor vs outdoor, [[cannabis-guerrilla-growing-guide]]
+2. **Seeds** — sourcing, seed banks, selection criteria, lifecycle, sinsemilla production
+3. **Propagation** — germination methods, transplanting, indoor vs outdoor, guerrilla growing
 4. **Security** — indoor and outdoor security considerations
 5. **Indoor growing** — lights (HID, fluorescent), soil types, pH, nutrients, pots, vegetative growth, watering
-6. **[[eclss-environmental-control-life-support]]** — pH management, soil flushing, nutrient control, feeding, air, humidity, temperature, fans
+6. **Environmental control** — pH management, soil flushing, nutrient control, feeding, air, humidity, temperature, fans
 7. **Pre-flowering and flowering** — sexing, the 12/12 photoperiod, hermaphrodites, flowering process
 8. **Advanced methods** — SOG, ScrOG, cabinet growing, advanced set-ups, perpetual grow cycles
 9. **Hydroponics** — growing mediums, nutrients, the bubbler system
@@ -30,7 +30,7 @@ The Grow Bible is structured as a 17-chapter reference covering the complete can
 11. **Plant care** — thinning, light bending, pruning, training, yield increase (see [[cannabis-topping-training]])
 12. **Predators and pests** — identification and management (see [[cannabis-pest-management]])
 13. **Problem solver** — troubleshooting common issues
-14. **[[cannabis-harvesting-and-curing-techniques]]** — indica vs sativa harvest timing, curing (see [[cannabis-harvest-and-curing]])
+14. **Harvesting and curing** — indica vs sativa harvest timing, curing (see [[cannabis-harvest-and-curing]])
 15. **Breeding** — making seeds, pollen, simple breeding, genetics (dominant/recessive, Hardy-Weinberg), true breeding (cubing/backcrossing, selfing)
 16. **Strain index** — reference of known varieties
 17. **Hash making** — trichome collection, screening methods (see [[cannabis-hashish-guide]])
@@ -53,28 +53,9 @@ Green's Grow Bible became a foundational reference for cannabis cultivators worl
 - [[vic-high]] — cannabis breeder whose techniques are featured in the Grow Bible
 - [[robert-clarke]] — complementary work on cannabis botany and breeding
 - [[cannabis-lighting-guide]] — lighting systems covered extensively
-- [[cannabis-topping-training]] — plant [[cannabis-training-techniques-comparison]]
+- [[cannabis-topping-training]] — plant training techniques
 - [[cannabis-harvest-and-curing]] — harvest timing and curing methods
 - [[cannabis-pest-management]] — pest identification and management
 - [[cannabis-growth-stage-checklist]] — week-by-week grow checklist
 - [[cannabis-genetics-and-breeding]] — breeding chapter content
 - [[cannabis-hashish-guide]] — hash production from trichome screening
-
-## Practical Considerations
-
-Successful implementation of Greg Green requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

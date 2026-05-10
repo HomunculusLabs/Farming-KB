@@ -127,6 +127,8 @@ favored for its hummock-forming ability and moderate [[dighton-fungal-drought-to
 
 ## See Also
 
+- [[sphagnum-squarrosum]]
+
 - [[sphagnum-palustre]]
 - [[sphagnum-cuspidatum]]
 - [[sphagnum-magellanicum]]

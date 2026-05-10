@@ -51,7 +51,7 @@ PIHKAL entry #132. 3-METHOXY-4,5-METHYLENEDIOXYAMPHETAMINE.
 > drug to the drugs of this class, to become familiar with the drug
 > state in as gentle a fashion as possible. This substance seems to
 > have a much gentler action than others of this class; perhaps more
-> like cannabis or [[mescaline-entity]]. The effect
+> like cannabis or [[mescaline]]. The effect
 > definitely reaches a climax with a pleasant afterglow following.
 > Apparently there are no profound motor coordination problems. MMDA
 > yields that 'Sunday afternoon' feeling of desiring to lie down and

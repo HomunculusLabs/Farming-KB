@@ -138,6 +138,8 @@ countless imitators and establishing the "purple strain" market category.
 Its name became synonymous with premium indica cannabis.
 ## See Also
 
+- [[cannabis-strain-bay-11-medical-sativa-granddaddy-purp]]
+
 - [[zkittlez]]
 
 - [[purple-urkle]]

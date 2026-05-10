@@ -39,14 +39,14 @@ Different fungal species produce mycelium with distinct material properties:
 
 | Species | Common Name | Material Properties | Primary Applications |
 |---------|-------------|-------------------|---------------------|
-| *Ganoderma lucidum* | Reishi | Dense, hard, woody texture | Structural panels, furniture |
+| *[[ganoderma-lucidum]]* | Reishi | Dense, hard, woody texture | Structural panels, furniture |
 | *Pleurotus ostreatus* | Oyster mushroom | Fast-growing, moderate density | Packaging, insulation |
 | *Trametes versicolor* | Turkey tail | Fine-textured, strong mat | Leather alternatives, composites |
 | *Fomes fomentarius* | Tinder conk | Extremely dense, tough | Tool handles, structural elements |
-| *Schizophyllum commune* | Split gill | Flexible, rubbery texture | Flexible materials, foams |
+| *[[schizophyllum-commune]]* | Split gill | Flexible, rubbery texture | Flexible materials, foams |
 | *Lentinula edodes* | Shiitake | Dense, aromatic | Food-grade packaging, functional materials |
 | *Ganoderma tsugae* | Hemlock varnish shelf | Very hard, water-resistant | Outdoor applications, tiles |
-| *Pycnoporus cinnabarinus* | Cinnabar polypore | Produces natural pigments | Dyed materials, colored products |
+| *[[pycnoporus-cinnabarinus]]* | Cinnabar polypore | Produces natural pigments | Dyed materials, colored products |
 
 ### Substrate Engineering
 
@@ -125,7 +125,7 @@ Properties achieved:
 
 **3D printing with mycelium**: Researchers have developed bio-printing approaches where mycelium-laden bio-ink is extruded through nozzles to create three-dimensional structures. The living material continues to grow and strengthen after printing, self-healing small cracks and gaps.
 
-**Electrospinning**: Mycelium-derived chitin and chitosan can be electrospun into nanofibers for advanced filtration, medical, and composite applications.
+**Electrospinning**: Mycelium-derived [[chitin-and-chitosan-in-agriculture]] can be electrospun into nanofibers for advanced filtration, medical, and composite applications.
 
 **Composite layup**: Mycelium sheets can be layered with natural fibers (hemp, flax, bamboo) in resin-free composite layups, creating laminated materials with enhanced strength and stiffness.
 
@@ -140,11 +140,10 @@ Properties achieved:
 | Density | 50–250 kg/m³ | 400–900 kg/m³ | 80–400 kg/m³ |
 | Compressive strength | 0.05–0.5 MPa | N/A | 0.3–2.5 MPa |
 | Tensile strength | 0.02–0.15 MPa | 5–25 MPa | 0.05–0.3 MPa |
-| Flexural strength | 0.1–0.8 MPa | N/A | 0.1–0.5 MPa |
 ## See Also
 
 - [Biochar in Regenerative Agriculture]([[biochar-in-regenerative-agriculture]].md)
 - [Bioremediation Using Fungi](bioremediation-using-fungi.md)
 - [Mycelium Networks and Fungal Ecology]([[mycelium-networks-and-fungal-ecology]].md)
-- [Oyster Mushroom Cultivation and Species Guide](oyster-mushroom-cultivation-methodson-and-species-guidesteurization-methods-and-species-guide.md)
-- [[shiitake-mushroom-cultivation-and-medicinal-properties]] Cultivation and Medicinal Properties](shiitake-mushroom-cultivation-and-medicinal-properties.md)
+- [Oyster [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]] Species Guide](oyster-mushroom-cultivation-methodson-and-species-guidesteurization-methods-and-species-guide.md)
+- [[shiitake-mushroom-cultivation-and-medicinal-properties]] [[calendula-cultivation-and-medicinal-uses]] Properties](shiitake-mushroom-cultivation-and-medicinal-properties.md)

@@ -81,3 +81,7 @@ If the needle plugs du [[pf-tek-vermiculite-coarse-vs-fine-comparison]]
 - [[dual-chambered-terrarium-fruiting]]
 - [[emcdda-hallucinogenic-mushroom-spore-distribution-home-cultivation]] [[spore-printing-and-syringe-preparation]] preparation
 - [[pf-tek-perlite-humidification-evaporation-dynamics]] mushroom cultivation
+
+## See Also
+
+- [[pf-tek-brown-rice-vermiculite-method]]

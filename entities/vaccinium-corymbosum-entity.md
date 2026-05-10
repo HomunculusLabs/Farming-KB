@@ -136,7 +136,6 @@ Per 100 g raw highbush blueberries:
 
 ## Notable Cultivars
 
-- **Early:** 'Duke' (hardy, productive), 'Patriot' (cold-hardy), 'Spartan'
 ## See Also
 
 - [[morella-inodora]]
@@ -147,4 +146,4 @@ Per 100 g raw highbush blueberries:
 
 - [[ribes-nigrum]]
 - [[symphytum-officinale]]
-- [[food-forest-permaculture]]
+- [[food-forest]]

@@ -129,14 +129,7 @@ water-containing surfaces in enclosed systems.
   elastomeric barriers.
 
 ## See Also
-
-- [[microwave-water-interaction-2.45-ghz]]
-
+- [[microwave-water-interaction-2-45-ghz]]
 - [[challenge-microorganisms-microwave-surface-sterilization]]
 - [[microwave-penetration-through-elastomeric-materials-sterilization]]
-
-## See Also
-
-- [[microwave-water-interaction-2.45-ghz]]
-
 - [[trace-water-enhanced-microwave-surface-sterilization]]

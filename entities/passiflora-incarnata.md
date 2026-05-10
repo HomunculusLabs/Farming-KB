@@ -18,7 +18,7 @@ sources:
   - Movafegh, A. et al. (2008). "Preoperative oral Passiflora incarnata reduces anxiety in ambulatory surgery patients." Anesthesia & Analgesia, 106(6), 1728-1732.
   - Elsas, S.M. et al. (2014). "Passionflower in the treatment of opiate withdrawal: A case report." Journal of Alternative and Complementary Medicine, 20(2), 153-155.
   - Grundmann, O. et al. (2008). "Anxiolytic effects of a passion flower extract in the elevated plus maze." Phytomedicine, 15(9), 676-682.
-  - Appel, K. et al. (2011). "Comparative study of Passiflora incarnata and [[plants-of-the-gods-piper-methysticum-kava]] (kava-kava)." Phytotherapy Research, 25(2), 257-262.
+  - Appel, K. et al. (2011). "Comparative study of Passiflora incarnata and plants-of-the-gods-piper-methysticum-kava (kava-kava)." Phytotherapy Research, 25(2), 257-262.
 ---
 
 ## Overview
@@ -114,14 +114,7 @@ The plant is cold-hardy to approximately -15°C (USDA Zone 5b) and prefers well-
 - **Standardized extract:** 250–500 mg per day of extract standardized to ≥ 3% vitexin
 
 ## See Also
-
 - [[petiveria-alliacea]]
-
-- [[stinging-nettle]] — another North American native plant with both medicinal and ecological permaculture applications
-- [[comfrey-symphytum-officinale]] — another vigorous perennial with permaculture and medicinal applications
-
-## See Also
-
-- [[petiveria-alliacea]]
-
+- [[stinging-nettle]]
+- [[comfrey-symphytum-officinale]]
 - [[mckenna-richard-schultes-harvard-ethnobotany-psychoactive-plants]]

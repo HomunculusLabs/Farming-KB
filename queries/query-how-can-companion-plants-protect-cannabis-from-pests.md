@@ -5,7 +5,6 @@ tags: [query, companion-planting, cannabis, IPM, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---

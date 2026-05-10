@@ -103,3 +103,5 @@ sowing seeds of all plant types simultaneously rather than selecting a few
 "useful" species. For more on the philosophy behind this approach, see [[fukuoka-sowing-natural-farming-philosophy]].
 
 ## See Also
+
+- [[pf-tek-history-high-times-to-worldwide-internet-adoption]]

@@ -99,6 +99,8 @@ The leaves have been used for thatching and temporary roofing in rural areas. Ho
 
 ## See Also
 
+- [[caryota-mitis]]
+
 - [[caryota-urens]]
 - [[cocos-nucifera]]
 - [[roystonea-regia]]

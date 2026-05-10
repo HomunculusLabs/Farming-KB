@@ -97,3 +97,9 @@ where its evening fragrance can be appreciated.
 *Datura candida* is extremely toxic and every part of the plant is
 poisonous. Ingestion of even small quantities of leaves, flowers, or
 especially seeds can cause severe anticholinergic poisoning. The onset of
+
+## See Also
+
+- [[zephyranthes-candida]]
+
+- [[brugmansia-candida]]

@@ -1,6 +1,6 @@
 ---
 
-title: gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe
+title: Gymnopilus purpuratus
 created: 2026-04-12
 updated: 2026-04-12
 type: entity
@@ -22,7 +22,7 @@ sources:
 
 # Gymnopilus purpuratus
 
-A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its striking appearance and wide [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] distribution. Contains psilocybin, psilocin, and bis-noryangonin. Documented extensively by [[jochen-gartz]].
+A large, oran [[gartz-conocybe-cyanopus-rare-psychoactive-mushroom]] o [[chicken-of-the-woods]] the genus Gymnopilus, notable for its striking appearance and wi [[psilocybe-southern-hemisphere-origin-hypothesis]] ere distribution. Contains psilocybin, psilocin, and bis-noryangonin. Documented extensively by [[jochen-gartz]].
 
 ## Taxonomy
 
@@ -31,7 +31,7 @@ A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its s
 - **Order:** Agaricales
 - **Family:** Cortinariaceae (or Hymenogastraceae in some classifications)
 - **Genus:** Gymnopilus (Kühner) Singer
-- **Etymology:** "gymno" (naked) + "pilus" (cap) refers to the bare/scaly cap surface; "purpuratus" refers to the purplish-brown spore color
+- **Etymology:** "gymno" (naked) + "pilus" (cap) r [[primary-metabolic-precursors-to-the-shikimate-pathway]] to the bare/scaly cap surface; "purpuratus" refers to the purplish-brown spore color
 - **Common names:** "Orange gymnopilus," "Magic gymnopilus"
 
 ## Description
@@ -47,11 +47,10 @@ A large, orange psychoactive mushroom of the genus Gymnopilus, notable for its s
 
 ## Distribution
 
-Gymnopilus purpuratus has a primarily Southern Hemisphere distribution:
+Gymnopilus purpuratus has a primarily Southern He [[guzman-psilocybin-mushrooms-south-america]] ribution:
 
 ### South America
-- **Chile:** Widespread, documented from central and southern Chile (Valparaiso to Chiloe). Gartz documented extensive collections.
-- **Argentina:** Found in the central and southern regions, particularly in forested areas.
+- **Chile:** Widespread, documented from central and southern Chile (Valparaiso to Chiloe). Gartz documented extensive collecti [[psilocybin-in-the-counter-culture]] **Argentina:** Found in the central and southern regions, particularly in forested areas.
 - **Brazil:** Reported from southern Brazil.
 - **Uruguay:** Documented from riverbank and forest habitats.
 
@@ -104,7 +103,7 @@ Gartz documented that G. purpuratus was used recreationally in Chile, particular
 
 ### Australian Use
 
-In Australia, G. purpuratus is occasionally used but is less well-known than [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] ("gold tops") or [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] ("blue meanies"). Its wood-inhabiting habit and seasonal autumn fruiting make it less accessible than the dung-inhabiting species that fruit year-round in tropical areas.
+In Australia, G. purpuratus is occasionally used but is less well-known than Psilocybe cubensis ("gold tops") or Panaeolus cyanescens ("blue meanies"). Its wood-inhabiting habit and seasonal autumn fruiting make it less accessible than the dung-inhabiting species that fruit year-round in tropical areas.
 
 ## Similar Species (Critical for Safety)
 
@@ -125,14 +124,13 @@ Several Gymnopilus species resemble G. purpuratus but may differ in psychoactive
 Gymnopilus represents a distinct lineage of psychoactive mushrooms separate from the better-known genera:
 - Unlike Psilocybe and Panaeolus (dark-spored, typically dung-inhabiting), Gymnopilus has rusty-brown spores and is primarily wood-inhabiting
 - The presence of bis-noryangonin (a beta-carboline MAOI) alongside psilocybin is unique to this genus
-- The [[field-guide-psilocybin-bluing-reaction-identification]] characteristic of Psilocybe is replaced by purplish-brown color changes in Gymnopilus
+- The bluing reaction characteristic of Psilocybe is replaced by purplish-brown color changes in Gymnopilus
 - This represents an independent evolutionary origin of psilocybin biosynthesis, suggesting convergent evolution toward psychoactive tryptamine production
 
 ## See Also
 
-- [[psilocybin-mushroom-chemistry]] — [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] and alkaloid profiles
+- [[psilocybin-mushroom-chemistry]] — Chemical analysis and alkaloid profiles
+- [[psilocybin-mushroom-chemistry]] — Worldwide distribution
+- [[psilocybin-mushroom-chemistry]] — Effects and pharmacology
 - [[jochen-gartz]] — Primary source researcher
-- mushroom-identification — Identification safety
-
-## See Also
-- [[gartz-gymnopilus-purpuratus-south-american-mushroom-in-europe]]
+- [[mushroom-identification-resources]] — Identification safety

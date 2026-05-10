@@ -142,8 +142,6 @@ Chickpeas fix 30–60 lb N/acre and break subsoil compaction with a 3–4 foot t
 | **Harvest** | 90–110 days for dry; 60–70 days for green |
 | **Yield** | 1–3 lb dry chickpeas per 10-foot row |
 | **Rotation** | 4+ years between chickpea plantings |
-## See Also
 
 ## See Also
-
 - [[query-how-to-grow-dragon-fruit-pitaya-at-home]]

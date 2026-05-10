@@ -13,7 +13,7 @@ sources:
   - Dirr, M.A. (2009). Manual of Woody Landscape Plants. Stipes Publishing.
   - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.
   - USDA NRCS (2024). "Physocarpus opulifolius." PLANTS Database.
-  - Sternberg, G. & Wilson, J. (2004). Native Trees for [[growing-gourmet-north-american-reishi-species]] Landscapes. Timber Press.
+  - Sternberg, G. & Wilson, J. (2004). Native Trees for growing-gourmet-north-american-reishi-species Landscapes. Timber Press.
 ---
 
 ## Overview

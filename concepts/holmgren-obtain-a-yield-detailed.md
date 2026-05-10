@@ -15,6 +15,14 @@ sources: ["papers/david-holmgren-permaculture-principles-pathways-beyon.md"]
 [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] is best understood as a thinking tool rather than a fixed set of techniques.
 These principles have been applied to urban planning, economics, education, and community governance.
 
+## The Yield Cascade
+
+Holmgren describes a "yield cascade" in which the output of one system element becomes the input for another, multiplying the effective yield of the whole system. For example, a chicken flock provides eggs (primary yield), manure for garden fertility (secondary yield), pest control through foraging (tertiary yield), and soil aeration through scratching (quaternary yield). When elements are properly integrated, the total system yield far exceeds the sum of yields from isolated elements. This concept connects directly to [[permaculture-energy-cycling-and-resource-efficiency]] and the broader principle that every element should perform multiple functions.
+
+## Yields Beyond the Material
+
+Holmgren extends the concept of yield beyond material harvests to include social, psychological, and spiritual yields. A well-designed garden provides not only food but also exercise, mental health benefits, community connection, aesthetic pleasure, educational opportunities for children, and habitat for wildlife. In permaculture design, these non-material yields are often the most important for sustaining human engagement and motivation over the long term. This holistic framing distinguishes permaculture from purely production-oriented approaches to land management.
+
 ## Practical Considerations
 
 When working with Holmgren Obtain a Yield - Detailed, several practical factors should be

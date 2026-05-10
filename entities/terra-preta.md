@@ -12,9 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Glaser, B. & Woods, W.I. (2004). "Amazonian Dark Earths: Explorations in Space and Time." Springer.
-  - Lehmann, J. et al. (2003). "[[ph-and-nutrient-availability-garden-soils]] and leaching in an archaeological Anthrosol and a Ferralsol of the Central Amazon basin." Plant and Soil 249(2): 343-357.
+  - Lehmann, J. et al. (2003). "ph-and-nutrient-availability-garden-soils and leaching in an archaeological Anthrosol and a Ferralsol of the Central Amazon basin." Plant and Soil 249(2): 343-357.
   - Steiner, C. et al. (2007). "Long term effects of manure, charcoal and mineral fertilization on crop production and fertility on a highly weathered Central Amazonian upland soil." Plant and Soil 291(1-2): 275-290.
-  - Wiedner, K. & Glaser, B. (2015). "Traditional [[mollison-designers-charcoal-production-biochar-soil-amendment]]—An opportunity for sustainable [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]." Biochar in Soil 3: 59-73.
+  - Wiedner, K. & Glaser, B. (2015). "Traditional mollison-designers-charcoal-production-biochar-soil-amendment—An opportunity for sustainable comparison-biochar-production-guide-vs-biochar-soil-amendment." Biochar in Soil 3: 59-73.
 created: 2026-04-28
 ---
 

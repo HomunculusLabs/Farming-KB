@@ -6,6 +6,8 @@
 
 2,4-DIMETHOXY-5-ETHOXYAMPHETAMINE
 
+A [[phenethylamine-receptor-pharmacology|phenethylamine]] derivative with ethoxy substitution at the 5-position.
+
 ## Dosage and Duration
 
 | Property | Value |

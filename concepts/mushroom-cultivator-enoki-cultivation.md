@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [gardening]
-sources:
-  sources: []
+sources: []
 ---
 # Enoki Cultivation in The Mushroom Cultivator
 

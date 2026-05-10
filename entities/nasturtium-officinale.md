@@ -131,10 +131,8 @@ sources:
 ## Relevance
 
 *Nasturtium officinale* holds a unique position at the intersection of [[duggar-mushroom-nutrition-science-fermentation-biological-requirement]], traditional medicine, and permaculture design. Its exceptional nutrient density (particularly vitamin K and PEITC), ease of [[hamilton-vegetative-propagation]], and multiple ecological functions make it one of the most valuable aquatic plants for integrated food production systems. In permaculture, watercress exemplifies the principle of "[[gaias-garden-stacking-functions]]" — providing food, water filtration, erosion control, and habitat from a single species.
+
 ## See Also
 - [[jasminum-officinale]]
 - [[taraxacum-officinale]]
-
-## See Also
-
 - [[permaculture-plants-aquatic-and-wetland-species]]

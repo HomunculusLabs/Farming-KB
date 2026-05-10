@@ -94,6 +94,8 @@ per sample, far exceeding diversity recovered by traditional baiting.
 and water quality of streams, rivers, ponds, and wetlands upon
 which their complex life cycles depend.
 ## See Also
+
+- [[freshwater-fungi-sampling]]
 - [[aquatic-hyphomycetes-and-ingoldian-spores]]
 - [[aquatic-fungi-and-ingoldian-spores]]
 - [[aquatic-fungi-spore-dispersal-ingold]]

@@ -4,7 +4,6 @@ tags: [query, permaculture, site-design, property-planning, observation]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 created: 2026-04-28
 type: query

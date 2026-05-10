@@ -3,8 +3,7 @@ title: "What Is the query what is the difference between thc cbd and minor canna
 tags: [query, cannabis, cannabinoids, thc, cbd]
 date: 2026-05-08
 updated: 2026-05-08
-sources:
-  sources: []
+sources: []
 ---
 
 # What Is the Difference Between THC, CBD, and Minor Cannabinoids?
@@ -79,3 +78,7 @@ Genetics, growing conditions, and [[cannabis-harvest-timing-visual-cues]] all in
 
 - [[query-what-is-the-difference-between-indica-sativa-and-hybrid-cannabis]]
 - [[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]
+
+## See Also
+
+- [[query-what-is-the-difference-between-a-high-tunnel-and-a-hoop-house]]

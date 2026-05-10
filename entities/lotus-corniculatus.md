@@ -17,7 +17,7 @@ sources:
     Science Publishers, Enfield, NH.
   - Acuña, C.A., et al. (2009). "Lotus species: taxonomy, genetics,
     and breeding." Crop Science, 49(2), 418–429.
-  - Wink, M. (2013). "Evolution of [[antifungal-secondary-metabolites-coprophilous-fungi]] in legumes."
+  - Wink, M. (2013). "Evolution of antifungal-secondary-metabolites-coprophilous-fungi in legumes."
     Journal of Plant Physiology, 170(12), 1038–1047.
   - Sprent, J.I. (2009). *Legume Nodulation: A Global Perspective*.
     Wiley-Blackwell, Oxford.

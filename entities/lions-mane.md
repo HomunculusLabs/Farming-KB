@@ -1,28 +1,28 @@
 ---
 title: Lion's Mane
-created: 2026-04-28
 type: species
 tags:
   - fungi
   - medicinal-mushroom
   - nootropic
+  - hericium
   - neuroprotective
   - mycology
-  - erinacines
-  - hericenones
-  - nerve-growth-factor
+  - adaptogen
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6325465/
-  - https://examine.com/supplements/hericium-erinaceus/
-  - Mori et al., "Improving effects of the mushroom Yamabushitake on mild cognitive impairment" (2009)
-  - Wong et al., "[[hericium-erinaceus]]: An edible mushroom with medicinal values" (2021)
+  - https://en.wikipedia.org/wiki/Hericium_erinaceus
+  - "Mori, K. et al. (2009). Improving Effects of the Mushroom Yamabushitake on Cognitive Function. Phytotherapy Research, 23(3), 367-372."
+  - "Wong, K.H. et al. (2011). Lion's Mane Mushroom (cancer-medicinal-mushrooms-hericium-erinaceus): A Comprehensive Review of Its Nutritional and Medicinal Properties. Journal of Functional Foods, 3(4), 329-337."
+  - "Friedman, M. (2015). Chemistry, Nutrition, and Health-Promoting Properties of Hericium erinaceus. Journal of Agricultural and Food Chemistry, 63(32), 7108-7123."
 ---
 
 # Lion's Mane
 
-**Lion's Mane** (*Hericium erinaceus*), also known as monkey's head mushroom, bearded tooth fungus, satyr's beard, and by its Japanese name *yamabushitake* (山伏茸), is a culinary and medicinal mushroom that has garnered significant scientific attention for its neuroprotective and cognitive-enhancing properties. It is one of the few natural substances shown to stimulate nerve growth factor (NGF) synthesis, making it unique among both culinary mushrooms and nootropic compounds.
+**Lion's Mane** (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group (order Russulales, family Hericiaceae). It is recognized by its distinctive cascading white spines that resemble a lion's mane as they mature, giving rise to its common name. Native to North America, Europe, and Asia, it grows on hardwood trees — particularly oaks, walnuts, beeches, maples, and sycamores — as a saprotrophic and parasitic decomposer of dead or dying wood.
+
+Lion's Mane has attracted significant scientific and commercial interest for its **neuroprotective, cognitive-enhancing, and nerve-regenerative properties**, making it one of the most researched medicinal mushrooms alongside *[[ganoderma-lucidum]]* (reishi) and *Lentinula edodes* (shiitake).
 
 ## Taxonomy and Classification
 
@@ -31,117 +31,119 @@ sources:
 - **Class:** Agaricomycetes
 - **Order:** Russulales
 - **Family:** Hericiaceae
-- **Genus:** Hericium
-- **Species:** H. erinaceus
+- **Genus:** *Hericium*
+- **Species:** *H. erinaceus*
 
-The genus name *Hericium* derives from Latin *hericium* (hedgehog), referencing the spiny, cascading fruiting body. The common name "lion's mane" refers to the mushroom's resemblance to a cascading white mane.
+The genus *Hericium* contains several species with overlapping morphologies, including *H. coralloides* (coral hedgehog), *H. americanum* (bear's head tooth), and *H. abietis* (conifer coral). These species are sometimes conflated in commercial products marketed as "lion's mane." True *H. erinaceus* is distinguished by its single, unbranched fruiting body with long (1–5 cm), pendant spines growing from a single, solid base, as opposed to the branched, coral-like structures of its congeners.
 
-### Related Species
-- **[[hericium-coralloides]]** (coral hedgehog) — similar appearance, overlapping medicinal uses
-- **[[hericium-americanum]]** (bear's head tooth) — North American species
-- **Hericium erinaceus** is the most studied and commercially significant species in the genus
+## Morphology
 
-## Description
+The fruiting body is striking and unmistakable — a large (5–25 cm), irregular, spherical-to-cascading mass of soft, pendant white spines. Spines are cylindrical, 1–5 cm long and 1–3 mm in diameter, and constitute the hymenophore (spore-bearing surface). The base is solid and fleshy with a short stalk. Color is pure white when young, aging to yellowish-brown with brownish tips; flesh bruises brownish-pink. Spore print is white to cream; spores are spherical, 5–7 µm, smooth, and amyloid.
 
-Lion's Mane produces one of the most distinctive fruiting bodies in the fungal kingdom:
+## Distribution and Ecology
 
-- **Fruiting body:** Large, irregular, spherical-to-cascading mass of soft, hanging spines (teeth)
-- **Size:** 5–40 cm diameter (wild specimens can exceed 25 kg)
-- **Color:** White when young, becoming cream to yellowish with age. Spines may brown at tips in maturity.
-- **Spines:** 1–5 cm long, decurrent (running down the stem-like base), soft and fleshy when fresh, brittle when dried
-- **Taste and texture:** Often compared to lobster, crab, or sweet corn when cooked. Texture is tender, slightly chewy, and meaty.
-- **[[spore-print]]:** White
-- **Odor:** Mild, pleasant, slightly fruity or seafood-like when fresh
+*Hericium erinaceus* has a broad distribution across the temperate Northern Hemisphere:
 
-### Ecological Role
-*Hericium erinaceus* is a **white-rot saprotrophic fungus** that decomposes dead and dying hardwood trees, particularly oaks, walnuts, beeches, and maples. It can also act as a weak parasite on stressed living trees. It is found in temperate deciduous and mixed forests across North America, Europe, and Asia.
+- **North America:** Widely distributed across the United States and southern Canada, most common in the eastern deciduous forests
+- **Europe:** Found across most of the continent, from the British Isles to eastern Europe and Scandinavia
+- **Asia:** Common in China, Japan, and Korea, where it has been used in traditional medicine for centuries
 
-- **Season:** Late summer through autumn (most common September–November in temperate regions)
-- **Habitat:** On wounds, cavities, and dead sections of hardwood trees, occasionally on fallen logs
-- **Frequency:** Uncommon to rare in the wild; increasingly rare due to habitat loss and over-foraging
+It fruits in late summer through autumn (August–November in the Northern Hemisphere), typically on **hardwood logs and stumps** of oak, walnut, beech, maple, and sycamore. It can function as both a **saprotroph** (decomposing dead wood) and a **parasite** (causing a white heart rot in living trees). The species is increasingly rare in the wild due to habitat loss and overharvesting, and is classified as a species of conservation concern in several European countries. Optimal fruiting requires sustained high humidity (85–95% RH) and temperatures between 18–24°C.
 
 ## Phytochemistry and Bioactive Compounds
 
-Lion's Mane contains two classes of unique bioactive compounds that are primarily responsible for its neurological effects:
+The neuroactive and medicinal properties of Lion's Mane are attributed to two primary classes of compounds:
 
-### Hericenones (Found in Fruiting Body)
-Hericenones are aromatic compounds (phenols and benzene derivatives) isolated from the fruiting body:
+### Hericenones and Erinacines
 
-- **Hericenone C:** Potent stimulator of NGF synthesis in vitro
-- **Hericenone E:** Anti-inflammatory, antioxidant
-- **Hericenone D, F, H, I, J:** Various degrees of NGF-stimulating activity
-- **Mechanism:** Hericenones are believed to cross the blood-brain barrier and stimulate NGF synthesis in astrocytes within the brain
+These are the most pharmacologically significant constituents, and they are distinguished by their biosynthetic origin:
 
-### Erinacines (Found in Mycelium)
-Erinacines are cyathane-type diterpenoids found primarily in the mycelium:
+**Hericenones** (C through H):
+- Isolated from the **fruiting body** of the mushroom
+- Cyathane-type sesquiterpenoids with an ergosterol-based carbon skeleton
+- Hericenones C, D, E, F, G, and H have been characterized
+- Stimulate **nerve growth factor (NGF)** synthesis in the brain
 
-- **Erinacine A:** The most potent NGF stimulant identified in *H. erinaceus*. Significantly increases NGF mRNA expression in astrocytes.
-- **Erinacine S:** Similar NGF-stimulating activity
-- **Erinacine B, C, D, F, G, H, P:** Various biological activities including anti-inflammatory and antimicrobial properties
-- **Mechanism:** Erinacines activate the JAK/STAT and MAPK signaling pathways, leading to upregulated NGF gene expression
+**Erinacines** (A through I, and S):
+- Isolated from the **mycelium** of the mushroom
+- Erinacines are produced exclusively by the fungal mycelium, not the fruiting body — an important distinction for supplement sourcing
+- More potent NGF stimulators than hericenones in most assays
+- Erinacine A is the most extensively studied; has demonstrated ability to cross the blood-brain barrier and stimulate NGF synthesis in astrocytes and hippocampal neurons
 
-### Other Bioactive Constituents
-- **β-Glucans (1,3/1,6):** Immunomodulatory polysaccharides that activate macrophages, NK cells, and dendritic cells. Content ranges from 10–30% of dry weight depending on extraction method.
-- **Polypeptides:** Antimicrobial and antioxidant proteins
-- **Sterols:** Ergosterol (provitamin D₂), ergosterol peroxide
-- **Phenolic compounds:** Antioxidant activity (DPPH and ABTS radical scavenging)
-- **Various minerals:** Selenium, zinc, iron, germanium
+### β-Glucans
+- **(1→3)-β-D-glucan** and **(1→6)-β-D-glucan** polysaccharides
+- Potent **immunomodulators** — activate macrophages, NK cells, and dendritic cells
+- Anti-inflammatory properties through modulation of NF-κB and MAPK signaling
+- Contribute to anti-tumor activity observed in preclinical studies
+
+### Other Constituents
+- **Polysaccharides** — immunomodulatory and antioxidant
+- **Sterols** — including ergosterol (provitamin D₂)
+- **[[ingham-tannins-terpenes-phenolic-compounds]]** — antioxidant activity (including hericenol)
+- **Amino acids** — contains all essential amino acids; notable for glutamic acid content
+- **Dietary fiber** — high chitin content contributes to prebiotic effects
 
 ## Neuroprotective and Cognitive Effects
 
 ### Nerve Growth Factor (NGF) Stimulation
-Lion's Mane's most significant mechanism is its ability to stimulate the synthesis of NGF, a protein essential for the growth, maintenance, and survival of neurons:
+The hallmark mechanism of Lion's Mane is its ability to **stimulate the synthesis of nerve growth factor (NGF)** in the brain. NGF is a neurotrophin essential for the growth, maintenance, proliferation, and survival of neurons — particularly cholinergic neurons in the basal forebrain, which are the neurons preferentially lost in Alzheimer's disease.
 
-- **In vitro:** Hericenones and erinacines increase NGF production in cultured astrocytes by 200–500%
-- **Animal models:** Oral administration of Lion's Mane extract improved memory, enhanced spatial learning, and promoted hippocampal neurogenesis in rodents
-- **Mechanism:** NGF promotes neurite outgrowth, synaptogenesis, and myelination of peripheral nerves. Reduced NGF signaling is implicated in Alzheimer's disease, peripheral neuropathy, and age-related cognitive decline
+Both hericenones and erinacines have been shown to:
+- Upregulate NGF mRNA expression in astrocytes
+- Promote neurite outgrowth (the extension of axons and dendrites from neurons)
+- Enhance myelination of peripheral nerves
+- Protect neurons from oxidative stress and apoptosis
 
-### Mild Cognitive Impairment (MCI)
-The most significant human clinical trial to date:
+### Clinical Evidence for Cognitive Improvement
 
-- **Mori et al. (2009, *Phytotherapy Research*):** Double-blind, placebo-controlled trial in 50–80 year old Japanese adults with MCI. Participants received 1 g of dried Lion's Mane powder three times daily (3 g/day) for 16 weeks.
-  - Significant improvements in cognitive function scores (MMSE and a functional assessment tool) at weeks 8, 12, and 16
-  - Scores declined when supplementation was discontinued, suggesting ongoing use is needed
-  - No adverse effects reported
-- **Limitations:** Small sample size (30 active, 30 placebo). Larger, more rigorous trials are needed.
+A landmark double-blind, placebo-controlled clinical trial by Mori et al. (2009) in Japan studied 50–80 year-old Japanese men and women diagnosed with mild cognitive impairment (MCI). Participants receiving 1,000 mg of dried Lion's Mane powder three times daily for 16 weeks showed **significant improvements in cognitive function** compared to placebo, as measured by the revised Hasegawa Dementia Scale (HDS-R). Importantly, cognitive scores declined when supplementation was discontinued, suggesting that ongoing intake is required to maintain benefits.
 
-### Peripheral Nerve Regeneration
-- Animal studies show accelerated regeneration of crushed peripheral nerves (sciatic nerve model) with Lion's Mane supplementation
-- Potential application in recovery from nerve injuries, surgical nerve damage, and diabetic neuropathy (early research)
+### Nerve Regeneration
+Animal studies have demonstrated that Lion's Mane extract promotes **peripheral nerve regeneration** following injury. In rat models of peripheral nerve crush injury, oral administration accelerated functional recovery and remyelination comparable to mechanical repair, suggesting potential applications in peripheral neuropathy and nerve damage treatment.
 
-### Anxiety and Depression
-- **Nagano et al. (2010):** Four-week open-label study showed significant reductions in anxiety and depression scores in menopausal women. Mechanism may involve modulation of inflammatory cytokines and oxidative stress rather than direct NGF effects.
+## Immunomodulatory Effects
 
-### Neurodegenerative Disease Research
-Preclinical studies suggest potential applications in:
-- **Alzheimer's disease:** Reduces amyloid-β plaque formation in animal models. May protect cholinergic neurons.
-- **Parkinson's disease:** Protects dopaminergic neurons from oxidative damage in vitro
-- **[[blesching-cannabis-multiple-sclerosis]]:** Anti-inflammatory effects on microglial cells
+The β-glucan-rich polysaccharide fraction of Lion's Mane demonstrates significant immunomodulatory activity:
 
-## Immune System Effects
+- **Macrophage activation** — enhanced phagocytic activity and increased production of nitric oxide, TNF-α, and IL-6
+- **Anti-inflammatory** — reduces pro-inflammatory cytokine production in models of colitis, arthritis, and neuroinflammation
+- **Anti-tumor** — inhibits tumor growth and metastasis in preclinical models; proposed mechanisms include direct cytotoxicity, immune activation, and angiogenesis inhibition
+- **Gut health** — prebiotic effects from chitin and β-glucans support beneficial gut microbiota composition
 
-- **Immunomodulation:** β-glucans activate innate immune responses through Dectin-1 receptor on macrophages and dendritic cells
-- **Anti-inflammatory:** Reduces pro-inflammatory cytokines (TNF-α, IL-6, NF-κB) in vitro and in animal models
-- **Gut health:** Preclinical evidence of beneficial effects on gut microbiota composition (increased *Bifidobacterium* and *Lactobacillus* spp.)
-- **Anti-tumor activity:** Preliminary in vitro and animal studies show inhibition of tumor cell proliferation and angiogenesis, though human clinical evidence is lacking
+## Culinary Applications
 
-## Culinary Uses
-
-Lion's Mane is considered one of the finest edible wild mushrooms:
-
-- **Preparation:** Tear into pieces, sauté in butter or oil until golden. Can be breaded and fried like tempura, added to soups, risottos, and pasta dishes.
-- **Flavor profile:** Sweet, mild, seafood-like (often compared to crab or lobster). Absorbs flavors well.
-- **Texture:** Meaty and slightly chewy when properly cooked. Avoid overcooking, which makes it rubbery.
-- **Nutrition:** High in protein (~20% dry weight), low in fat, rich in potassium, zinc, and selenium. Contains all essential amino acids.
-- **Preservation:** Dehydrates well. Dried Lion's Mane can be powdered for supplements, teas, or soups.
+Lion's Mane is considered a **choice edible mushroom** with a flavor and texture often compared to lobster, crab, or sweet shellfish. Young specimens are tender, mild, and slightly sweet with a meaty, succulent texture. Best sautéed in butter or oil until golden; excellent in cream sauces, risottos, and as a seafood substitute in vegetarian/vegan cuisine. Increasingly available fresh at specialty markets and farmer's markets, and widely available dried and as supplements.
 
 ## Cultivation
 
 Lion's Mane is commercially cultivated on hardwood substrates:
 
-- **Substrate:** Hardwood sawdust (oak, beech, maple) supplemented with wheat bran (10–20%). Soy hull supplementation improves yield significantly.
+- **Substrate:** Hardwood sawdust (oak, maple, beech) supplemented with wheat bran or rice bran (5-20% supplementation rate)
+- **Fruiting temperature:** 18–24°C (64–75°F)
+- **Humidity:** 85–95% relative humidity required for proper spine development
+- **Fresh air exchange:** High CO₂ tolerance but adequate fresh air exchange needed for normal morphology; low fresh air leads to compact, coral-like formations
+- **Fruiting time:** 14–21 days from pin initiation to harvest
+- **Yield:** 25–35% [[biological-efficiency]] typical on [[oyster-mushroom-supplemented-sawdust-blocks]]
+- **Harvest:** Harvest when spines begin to elongate and before they turn brown
+
+## Safety and Contraindications
+
+Lion's Mane is generally recognized as safe (GRAS) for oral consumption:
+
+- **Side effects:** Rare; may include mild gastrointestinal discomfort in sensitive individuals
+- **Allergy:** Individuals with mushroom allergies should exercise caution
+- **Bleeding risk:** Theoretical interaction with anticoagulant/antiplatelet medications due to mild platelet aggregation inhibition
+- **Diabetes:** May lower blood glucose; monitor when combined with antidiabetic medications
+- **[[blesching-cannabis-health-index-autoimmune-conditions]]:** Immune-stimulatory effects may theoretically exacerbate autoimmune conditions, though clinical evidence is lacking
+
 ## See Also
 
-- [[cordyceps-militaris]] — Medicinal mushroom for energy and respiratory health
-- [[fatigue-crack-growth]] — Detailed overview of NGF biology
-- [[beta-glucans]] — Immunomodulatory polysaccharides found in [[medicinal-mushrooms]]
+- [[amanita-muscaria]] — psychoactive mushroom species with distinct GABAergic pharmacology
+- [[ashwagandha]] — herbal adaptogen with neuroprotective and anxiolytic properties
+
+## References
+
+1. Mori, K. et al. (2009). Improving Effects of the Mushroom Yamabushitake on Cognitive Function. *Phytherapy Research*, 23(3), 367-372.
+2. Wong, K.H. et al. (2011). Lion's Mane Mushroom: A Comprehensive Review. *Journal of Functional Foods*, 3(4), 329-337.
+3. Friedman, M. (2015). Chemistry, Nutrition, and Health-Promoting Properties of Hericium erinaceus. *Journal of Agricultural and Food Chemistry*, 63(32), 7108-7123.
+4. Kawagishi, H. et al. (2004). Hericenones and Erinacines: Stimulators of Nerve Growth Factor Synthesis. *International Journal of Medicinal Mushrooms*, 6(4), 335-345.

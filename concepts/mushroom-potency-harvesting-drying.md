@@ -1,5 +1,5 @@
 ---
-title: Mushroom Potency Harvesting and Drying
+title: Mushroom Potency [[gottlieb-psilocybin-cultivation-harvesting-and-drying]]
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [potency, harvesting, drying, desiccation, cultivation, dosage]
 ---
@@ -12,9 +12,9 @@ The psychoactive potency of cultivated mushrooms is determined by genetics, grow
 
 ### Species and Strain Genetics
 
-Different species contain markedly different concentrations of psilocybin and psilocin:
+Different species contain markedly different concentrations of [[hplc-analysis-of-psilocybin-and-psilocin]]:
 - **Psilocybe azurescens** — among the most potent known species, with reported psilocybin/psilocin content exceeding 1% by dry weight.
-- **Psilocybe semilanceata** — averages approximately 1% dry weight; widely considered one of the most potent naturally occurring species.
+- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** — averages approximately 1% dry weight; widely considered one of the most potent naturally occurring species.
 - **Psilocybe bohemica / P. serbica** — high potency, comparable to P. semilanceata.
 - **Psilocybe cyanescens** — high potency, known for the distinctive blue bruising reaction.
 - **Psilocybe cubensis** — moderate potency, typically 0.3-0.6% dry weight. The most commonly cultivated species due to ease of growth rather than maximum potency.
@@ -23,9 +23,9 @@ Within P. cubensis, different strains show moderate variation in potency, but th
 
 ### Growing Conditions
 
-Several environmental factors influence the concentration of active alkaloids:
+Several [[duggar-mushroom-environmental-factors-temperature-moisture-light]] influence the concentration of active alkaloids:
 
-- **Substrate composition:** More nutritious substrates do not necessarily produce more potent mushrooms. In fact, substrates that are too nutrient-rich may produce larger but less potent fruiting bodies. The relatively low-nutrient BRF/vermiculite substrate of the PF TEK tends to produce mushrooms with moderate but consistent potency.
+- **Substrate composition:** More nutritious substrates do not necessarily produce more potent mushrooms. In fact, substrates that are too nutrient-rich may produce larger but less potent fruiting bodies. The relatively low-nutrient BRF/[[pf-tek-brown-rice-vermiculite-substrate]] of the PF TEK tends to produce mushrooms with moderate but consistent potency.
 - **Temperature during colonization and fruiting:** Extreme temperatures (above 85°F/29°C or below 65°F/18°C) during fruiting may reduce potency. The optimal range for both colonization and fruiting is 75-81°F (24-27°C).
 - **Light exposure:** Adequate light during fruiting is important for normal development but does not appear to significantly affect alkaloid content.
 - **Fresh air exchange (FAE):** Proper gas exchange during fruiting supports healthy development. Stagnant, high-CO2 environments can produce abnormal growth and may affect potency.
@@ -102,7 +102,7 @@ Harvest mushrooms when:
 
 - Handle mushrooms gently to minimize bruising (which, while harmless, is aesthetically undesirable).
 - Place harvested mushrooms on a clean, dry surface (paper towel, screen, or drying rack).
-- Begin the drying process as soon as possible after harvest. Delayed drying allows enzymatic degradation of alkaloids.
+- Begin the drying process as soon as possible after harvest. Delayed drying allows [[enzymatic-degradation-in-mycoremediation]] of alkaloids.
 
 ## Drying and Preservation
 
@@ -148,40 +148,3 @@ Rapid, thorough drying arrests these degradation processes and preserves potency
 ### Verifying Dryness
 
 Mushrooms are properly dried ("cracker dry") when:
-- They snap cleanly and crisply when bent — they should not flex or bend.
-- The stems are hollow and brittle.
-- No soft or spongy areas remain.
-- They rattle when shaken together.
-
-If mushrooms are even slightly flexible, they contain residual moisture and should be dried further.
-
-### Storage
-
-Properly dried mushrooms should be stored:
-- In an airtight container (glass jar with tight lid, vacuum-sealed bag).
-- With a desiccant packet inside the container for ongoing moisture absorption.
-- In a cool, dark place (refrigerator is acceptable; freezer is best for long-term).
-- Away from light (UV light degrades alkaloids).
-- Labeled with species, strain, harvest date, and approximate dose.
-
-Under optimal storage conditions, dried mushrooms retain significant potency for 1-2 years, though gradual degradation occurs. Herbarium studies have documented dramatically reduced alkaloid content in specimens stored for decades.
-
-## Spore Collection and Viability
-
-### Spore Print Collection
-
-Spore prints can be taken by placing a mature mushroom cap (gills down) on a clean sheet of paper or foil:
-- Cover with a glass or bowl to prevent air disturbance.
-- Leave for 6-24 hours until a visible deposit of spores accumulates.
-- P. cubensis spore prints are dark purplish-brown to nearly black.
-
-### Spore Syringe Preparation
-
-Spores can be suspended in sterile water to create spore syringes:
-- Scrape spores from the print into a sterile jar of distilled water.
-- Draw the suspension into a sterile syringe.
-- Spore syringes are the standard inoculation format for the PF TEK.
-
-### Spore Degradation
-
-P. cubensis spores begin degrading within months of collection. Germination rates decline significantly after approximately 1.5 years of storage. For best results, spore syringes should be used within 6-12 months and stored in a cool, dark place (refrigerator storage extends viability). This degradation is an important practical consideration for cultivators maintaining spore collections.

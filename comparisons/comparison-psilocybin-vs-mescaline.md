@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [psychedelics, comparison, psilocybin, mescaline, tryptamine-vs-phenethylamine]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 # Psilocybin vs Mescaline
@@ -104,3 +103,7 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+
+## See Also
+
+- [[mescaline]]

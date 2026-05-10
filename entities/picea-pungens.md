@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Alexander, R.R. (1987). "Picea pungens — Blue Spruce." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
-  - Debreczy, Z. & Rácz, I. (2011). "Conifers [[fungi-around-the-world-species-distribution]]." DendroPress.
+  - Debreczy, Z. & Rácz, I. (2011). "Conifers fungi-around-the-world-species-distribution." DendroPress.
   - USDA NRCS (2023). "Picea pungens — Plant Guide." plants.usda.gov.
   - IUCN Red List (2023). "Picea pungens."
 ---

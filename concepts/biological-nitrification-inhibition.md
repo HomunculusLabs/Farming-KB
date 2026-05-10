@@ -12,7 +12,7 @@ tags: [soil, nitrogen, nitrification, agriculture, crop-science, microbiology, n
 
 Biological nitrification inhibition (BNI) is a natural plant-mediated mechanism where certain plant species release chemical compounds from their roots that suppress the activity of soil nitrifying microorganisms — primarily ammonia-oxidizing bacteria (AOB) such as *Nitrosomonas* and *Nitrosospira*, and ammonia-oxidizing archaea (AOA). By inhibiting the microbial oxidation of ammonium (NH₄⁺) to nitrate (NO₃⁻), BNI allows plants to maintain nitrogen in the ammonium form longer in the rhizosphere, which reduces nitrogen losses through leaching, denitrification (N₂O emissions), and volatilization. BNI represents one of the most promising natural strategies for improving nitrogen use efficiency (NUE) in agriculture.
 
-T[[ozier-pdc-composting-and-soil-building|nitrogen cycle]] management.
+T [[ozier-pdc-composting-and-soil-building|nitrogen cycle]] management.
 
 ## The Nitrification Process and Why Its Inhibition Matters
 
@@ -28,13 +28,13 @@ Despite these challenges, modeling studies suggest that even a modest 20–30% i
 
 ## BNI in Farming Systems
 
-BNI has practical implications for several farming system designs. In tropical pastures, *Brachiaria* species provide natural BNI that reduces nitrogen losses from urine patches (a major source of nitrate leaching and N₂O in grazing systems). The integration of *Brachiaria* into crop-livestock systems and as cover crops in rotations can extend BNI benefits beyond pasture. In cereal-legume intercropping systems, selecting cereals with strong BNI while maintaining legume nitrogen fixation represents a promising approach for sustainable intensification.
+BNI has practical implications for several farming system designs. In tropical pastures, *Brachiaria* species provide natural BNI that reduces nitrogen losses from urine patches (a major source of nitrate leaching and N₂O in grazing systems). The integration of *Brachiaria* into crop-livestock systems and as [[cover-crops]] in rotations can extend BNI benefits beyond pasture. In cereal-legume intercropping systems, selecting cereals with strong BNI while maintaining legume nitrogen fixation represents a promising approach for sustainable intensification.
 
 BNI complements rather than replaces other nitrogen management strategies. It works synergistically with precision nitrogen application (right source, right rate, right time, right place — the 4R framework), slow-release fertilizers, and nitrification inhibitor chemicals (such as DCD, DMPP, and nitrapyrin). The advantage of biological nitrification inhibition over synthetic chemical inhibitors is that it is produced in-situ by the plant itself, targeted to the rhizosphere, and self-regulating — the plant increases BNI release when nitrogen is available and ammonium is accumulating, and reduces it when nitrogen is scarce.
 
 ## Measurement Methods
 
-BNI activity is typically measured using bioassays that track the transformation of ammonium to nitrite/nitrate in soil or solution inoculated with nitrifying bacteria, with and without root exudates or root-zone soil from BNI plants. The standard method developed by Subbarao's group involves growing plants hydroponically, collecting root exudates, and testing their effect on a pure culture of *Nitrosomonas europaea* in a shake-flask assay. Results are expressed as BNI units — the percentage inhibition of nitrification relative to controls.
+BNI activity is typically measured using bioassays that track the transformation of ammonium to nitrite/nitrate in soil or solution inoculated with nitrifying bacteria, with and without [[root-exudates]] or root-zone soil from BNI plants. The standard method developed by Subbarao's group involves growing plants hydroponically, collecting root exudates, and testing their effect on a pure culture of *Nitrosomonas europaea* in a shake-flask assay. Results are expressed as BNI units — the percentage inhibition of nitrification relative to controls.
 
 More recent approaches include molecular methods using quantitative PCR to measure abundance of amoA genes (the gene encoding AMO) in rhizosphere soil, and metagenomic/transcriptomic approaches to characterize shifts in nitrifying community composition and gene expression in response to BNI. These molecular tools are enabling researchers to understand not just the magnitude of BNI but its mechanism of action and ecological consequences at the microbial community level.
 

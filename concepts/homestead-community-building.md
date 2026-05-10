@@ -1,20 +1,19 @@
 ---
-title: Homestead urban-permaculture-community-building-social-design
+title: Homestead Community Building
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, community, sustainability, economics, permaculture]
-sources:
-  sources: []
+sources: []
 ---
 
 # Homestead Community Building
 
-Homesteading can be isolating, but it does not have to be. Building a network of like-minded neighbors creates resilience, shared resources, skill exchange, and social support that no amount of individual preparation can match. A strong community multiplies the capacity of every member.
+Homesteading can be isolating, but it does not have to be. Building a network of like-minded neighbors creates resilience, shared resources, skill exchange, and social support that no amount of individual preparation can match. A strong community multiplies the capacity of every member. (see [[permaculture-community-resilience]]).
 
 ## Barter Networks
 
-Barter is the oldest form of exchange and remains highly practical among homesteaders. The key is identifying what you produce in surplus and what others need.
+Barter is the oldest form of exchange and remains highly practical among homesteaders. The key is identifying what you produce in surplus and what others need. (see [[homestead-record-keeping]]).
 
 ### What to Barter
 - Produce and preserved foods (eggs, vegetables, fruit, honey, canned goods, cured meats)
@@ -33,7 +32,7 @@ Barter is the oldest form of exchange and remains highly practical among homeste
 
 ## Tool Libraries
 
-Tool libraries reduce duplication, save money, and build community. A shared tool collection means access to expensive or rarely-used equipment without individual ownership costs.
+Tool libraries reduce duplication, save money, and build community. A shared tool collection means access to expensive or rarely-used equipment without individual ownership costs. (see [[comparison-root-cellaring-vs-food-dehydration]]).
 
 ### How to Start a Tool Library
 - Assess what tools the community already owns and is willing to share
@@ -44,7 +43,7 @@ Tool libraries reduce duplication, save money, and build community. A shared too
 - Expand based on demand and donations
 
 ### Ideal Tools for a Community Library
-- [[pf-tek-pressure-canner-sterilization]] and water bath canner
+- Pressure canner and water bath canner
 - Tiller, chipper/shredder
 - Chainsaw (with safety gear)
 - Log splitter
@@ -69,7 +68,7 @@ Seed swaps preserve genetic diversity, reduce costs, and build local adaptation.
 
 ### Seed Saving Basics
 - Open-pollinated (OP) and heirloom varieties breed true from saved seed
-- [[cervantes-hybrid-varieties-types]] do not breed true — do not save seed from hybrids unless you are experimenting
+- Hybrid varieties do not breed true — do not save seed from hybrids unless you are experimenting
 - Some crops cross-pollinate readily (squash, corn, brassicas) — isolate or hand-pollinate for pure seed
 - Store seeds cool, dark, and dry — in paper envelopes inside a sealed container in the refrigerator
 - Label everything: variety, year, source, any notes on isolation distance used
@@ -89,13 +88,13 @@ Every homesteader has skills others need. Formal and informal skill sharing buil
 - Food preservation (canning, fermentation, dehydration)
 - Animal husbandry and processing
 - Carpentry and building
-- [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] and  principles
+- Permaculture design and [[permaculture-principles]] principles
 - Herbal medicine and plant identification
 - Beekeeping
 - Welding and metalwork
 - Fruit tree pruning and grafting
 - Seed saving
-- [[query-how-do-i-choose-a-natural-building-method-for-my-climate]] methods ([[mud-oven]], timber frame)
+- Natural building methods ([[mud-oven]], timber frame)
 
 ## Buying Clubs
 
@@ -121,7 +120,7 @@ Group purchasing power reduces costs on bulk items. Buying clubs pool orders to 
 
 Beyond direct barter, broader local food networks strengthen community food security:
 
-- **Community [[community-supported-agriculture-csa]] (CSA)** — subscribe to local farms for weekly produce boxes
+- **Community Supported Agriculture (CSA)** — subscribe to local farms for weekly produce boxes
 - **Farmers markets** — sell surplus and connect with other producers
 - **Food cooperatives** — member-owned grocery stores that prioritize local products
 - **Community gardens** — shared growing space for those without land
@@ -141,9 +140,11 @@ Community living inevitably produces disagreements. Address conflicts early and 
 ## Building Community from Scratch
 
 If you are new to an area:
-## See Also
+- Attend local farmers markets and agricultural events
+- Join your county extension service mailing list
+- Introduce yourself to neighbors with a small gift (eggs, produce, baked goods)
+- Volunteer for community projects
+- Offer to help during busy seasons (harvest, haying, butchering)
+- Host a potluck — food brings people together
+- Be reliable — your reputation is built on follow-through
 
-- permaculture-community-building
-- [[natural-building]]
-- [[permaculture-design]]
-- [[fruit-tree-pruning]]

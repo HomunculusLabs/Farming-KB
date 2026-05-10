@@ -43,13 +43,13 @@ The foundational cycle. Animals eat plants, produce manure and bedding, which be
 - **Goats** ([[goat-keeping]]) browse brush, weeds, tree leaves from [[pasture-management]] and [[food-forest-design]] edges. Manure (NPK ~0.7-1.0-0.6) is safe to apply relatively fresh.
 - **Bees** ([[beekeeping-basics]]) pollinate [[food-forest-design]], [[orchard-management]], [[cover-cropping-guide]], and gardens — directly increasing yields.
 - **Compost** from [[composting-systems]], [[vermicomposting]], or [[bokashi]] feeds [[soil-food-web-nutrient-cycling]], which feeds [[cannabis-living-soil-guide]] and garden beds.
-- **Cover crops** ([[cover-cropping-guide]]) fix nitrogen, build [[hamilton-composting-and-organic-matter-management]], and provide grazing before termination.
+- **Cover crops** ([[cover-cropping-guide]]) fix nitrogen, build organic matter, and provide grazing before termination.
 
 ### Loop 2: Mushrooms → Decomposition → Soil → Plants → Substrate
 
 Fungi turn woody waste, crop residues, and animal bedding into available nutrients.
 
-- **Spent [[gourmet-medicinal-mushroom-substrate-preparation]] (SMS)** ([[mushroom-composting-and-recycling]]) is nitrogen-rich, partially decomposed — excellent [[composting-systems]] input.
+- **Spent mushroom substrate (SMS)** ([[mushroom-composting-and-recycling]]) is nitrogen-rich, partially decomposed — excellent [[composting-systems]] input.
 - **Substrates** ([[mushroom-substrates]]) use on-farm straw ([[grain-and-staple-crops]]), sawdust ([[orchard-management]] prunings), and grain.
 - **[[mycorrhizal-fungi]]** extend plant root networks, increasing nutrient and water access 10-1000x.
 - **[[fungal-decomposition]]** breaks down lignin and cellulose that bacteria cannot.
@@ -95,14 +95,14 @@ The kitchen is the processing hub where raw products become preserved food, medi
 Energy flows from sun through photosynthesis into biomass, then into soil carbon.
 
 - **[[homestead-energy-conservation]]** powers the homestead with minimal grid dependence.
-- **[[greenhouse-design]]** captures solar energy via [[comparison-passive-solar-vs-earth-sheltered]] design and thermal mass.
+- **[[greenhouse-design]]** captures solar energy via passive solar design and thermal mass.
 - **[[no-till-gardening-method]]** and [[regenerative-agriculture-history]] sequester carbon — 1% OM increase stores ~20,000 gal water/acre.
 - **[[cover-cropping-guide]]** and [[food-forest-design]] maintain living roots year-round.
 - **[[composting-systems]]** stabilizes carbon that would otherwise off-gas.
 
 ## The Zone Integration Map
 
-How systems distribute across [[query-what-are-permaculture-zones-and-how-do-i-use-them]] (see [[permaculture-design]]):
+How systems distribute across permaculture zones (see [[permaculture-design]]):
 
 ### Zone 0 — House & Indoor Spaces
 - [[cannabis-living-soil-guide]] grow room with [[cannabis-lighting-guide]] and [[think-grow-model-h-plus]]
@@ -125,7 +125,7 @@ How systems distribute across [[query-what-are-permaculture-zones-and-how-do-i-u
 - [[cover-cropping-guide]], [[grain-and-staple-crops]], [[mushroom-log-cultivation]]
 
 ### Zone 4 — Woodlot & Forage (Monthly-Seasonal)
-- Firewood/timber, [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]] ([[edible-wild-mushrooms-by-region]])
+- Firewood/timber, wild foraging ([[edible-wild-mushrooms-by-region]])
 - [[pond-and-aquaculture]], [[mycoremediation-basics]]
 
 ### Zone 5 — Wildland (Minimal Intervention)
@@ -140,7 +140,7 @@ How systems distribute across [[query-what-are-permaculture-zones-and-how-do-i-u
 | [[goat-keeping]] | [[food-forest-design]] | Browse understory, control brush, fertilize |
 | [[beekeeping-basics]] | [[orchard-management]] | Pollination increases yield 20-50% |
 | [[mushroom-cultivation-basics]] | [[orchard-management]] | Pruning waste → mushroom substrate |
-| [[vermicomposting]] | [[cannabis-living-soil-guide]] | Castings are #1 [[cannabis-living-soil-amendment-schedule]] |
+| [[vermicomposting]] | [[cannabis-living-soil-guide]] | Castings are #1 living soil amendment |
 | [[bokashi]] | [[composting-systems]] | Pre-digests all kitchen waste |
 | [[pond-and-aquaculture]] | [[duck-keeping]] | Ducks control mosquitoes, fertilize pond |
 | [[knf-preparations]] | [[goat-keeping]] | Milk→LAB, bones→WS-CaPo, manure→FMC |

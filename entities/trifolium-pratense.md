@@ -125,4 +125,4 @@ white clover.
 
 ## See Also
 
-- lupinus-albus · [[alfalfa-medicago-sativa]] · [[dynamic-accumulators]] · [[food-forest-permaculture]] · three-sisters
+- lupinus-albus · [[alfalfa-medicago-sativa]] · [[dynamic-accumulators]] · [[food-forest]] · three-sisters

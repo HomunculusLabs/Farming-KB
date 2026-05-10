@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-# Mushroom Fruiting Environment The fruiting environment is the set of conditions under which mushroom mycelium shifts from vegetative growth to reproductive mode, producing fruiting bodies. This transition is triggered by specific environmental cues that vary somewhat by species but share common elements. Understanding and controlling these parameters is essential for consistent, high-quality yields. ## Key Fruiting Parameters ### Fresh Air Exchange (FAE) Carbon dioxide concentration is the primary trigger for fruiting initiation. During colonization, high CO2 levels (above 5,000 ppm) encourage mycelial growth. When CO2 drops below approximately 1,000 ppm, many species interpret this as a signal that they have reached the surface of their substrate and begin forming primordia (baby mushrooms). Adequate fresh air exchange also prevents CO2 buildup, which can cause deformed or elongated stems and reduced cap development. Active air exchange systems, passive vents, and manual fanning are all used to manage CO2 levels. ### Humidity Relative humidity during fruiting should be maintained at 85 to 95 percent. Lower humidity causes primordia to dry out and abort, while consistently high humidity with poor air exchange promotes bacterial blotch and other diseases. A humidifier connected to a humidistat is the standard approach. Ultrasonic humidifiers are preferred because they produce a cool mist without raising the ambient temperature. Evaporative cool mist humidifiers are also effective. The goal is high humidity at the substrate surface, not condensation dripping from walls and ceilings. ### Temperature Each species has an optimal fruiting temperature range, typically 5 to 10 degrees cooler than its colonization temperature. A temperature drop acts as a fruiting trigger for many species, mimicking the natural onset of autumn or rainy season. Common ranges: - **Oyster (Pleurotus ostreatus)**: 15 to 22°C - **Shiitake (Lentinula edodes)**: 10 to 18°C - **Lion's mane (Hericium erinaceus)**: 15 to 20°C - **Reishi (Ganoderma lucidum)**: 22 to 28°C - **King oyster (Pleurotus eryngii)**: 12 to 18°C - **Button ([[bulk-substrate-preparation]]
+# Mushroom Fruiting Environment The fruiting environment is the set of conditions under which mushroom mycelium shifts from vegetative growth to reproductive mode, producing fruiting bodies. This transition is triggered by specific environmental cues that vary somewhat by species but share common elements. Understanding and controlling these parameters is essential for consistent, high-quality yields. ## Key Fruiting Parameters ### Fresh Air Exchange (FAE) Carbon dioxide concentration is the primary trigger for fruiting initiation. During colonization, high CO2 levels (above 5,000 ppm) encourage mycelial growth. When CO2 drops below approximately 1,000 ppm, many species interpret this as a signal that they have reached the surface of their substrate and begin forming primordia (baby mushrooms). Adequate fresh air exchange also prevents CO2 buildup, which can cause deformed or elongated stems and reduced cap development. Active air exchange systems, passive vents, and manual fanning are all used to manage CO2 levels. ### Humidity Relative humidity during fruiting should be maintained at 85 to 95 percent. Lower humidity causes primordia to dry out and abort, while consistently high humidity with poor air exchange promotes bacterial blotch and other diseases. A humidifier connected to a humidistat is the standard approach. Ultrasonic humidifiers are preferred because they produce a cool mist without raising the ambient temperature. Evaporative cool mist humidifiers are also effective. The goal is high humidity at the substrate surface, not condensation dripping from walls and ceilings. ### Temperature Each species has an optimal fruiting temperature range, typically 5 to 10 degrees cooler than its colonization temperature. A temperature drop acts as a fruiting trigger for many species, mimicking the natural onset of autumn or rainy season. Common ranges: - **Oyster (Pleurotus ostreatus)**: 15 to 22°C - **Shiitake (Lentinula edodes)**: 10 to 18°C - **Lion's mane (Herici... [truncated]
 - stamets-mushroom-growing-room-design
 - [[greg-green-temperature-and-humidity-control]]
 
@@ -51,6 +51,21 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Light Requirements
+
+While mushrooms do not photosynthesize, light is a critical fruiting
+trigger and directional cue for most cultivated species. Primordia
+formation generally requires some ambient light, and fruiting bodies
+will grow toward the light source, a response called phototropism.
+Oyster mushrooms (*Pleurotus* spp.) need more light (500-1000 lux) for
+proper cap development and short stems, while shiitake requires less
+(100-500 lux). Insufficient light causes etiolation -- long stems,
+small or absent caps, and pale coloration. Excessive direct sunlight
+dries substrates and damages developing fruiting bodies. Indirect
+natural light or cool-spectrum LED lighting on a 12-hour on/off cycle
+works well for most species. See [[mushroom-fruiting-chamber-designs]]
+and [[fruiting-environment-parameters]] for detailed specifications.
 
 ## Future Directions
 

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Rosales M, Galindo J, Gonzalez J, et al. (2001). "Trichanthera gigantea as a source of protein for livestock." Livestock Research for Rural Development, 13(5).
   - Murgueitio E, Calle Z, Uribe F, et al. (2011). "Native trees and shrubs for the rehabilitation of tropical lands." Agroforestry Systems, 83(1), 39-57.
-  - Lascano CE. (1994). "[[coleman-winter-greens-nutritional-quality-cold-sweetening]] and digestibility of Trichanthera gigantea foliage." Tropical Grasslands, 28(2), 88-92.
+  - Lascano CE. (1994). "coleman-winter-greens-nutritional-quality-cold-sweetening and digestibility of Trichanthera gigantea foliage." Tropical Grasslands, 28(2), 88-92.
   - Maass BL, Rosales M, Galindo J. (2006). "Forage quality of Trichanthera gigantea and its potential role in mixed farming systems." Animal Feed Science and Technology, 128(3-4), 252-263.
 created: 2026-04-28
 ---

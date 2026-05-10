@@ -1,6 +1,6 @@
 ---
 
-title: Siberian Shamanism and allegro-amanita-muscaria-properties-and-pharmacology
+title: Siberian Shamanism and Amanita Muscaria
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -25,11 +25,11 @@ sources:
 
 # Siberian Shamanism and Amanita Muscaria
 
-The relationship between Amanita muscaria (fly-agaric) and Siberian indigenous cultures is the most extensively documented case of mushroom use in indigenous shamanism. However, as Andy Letcher argues in "Shroom" (2006), Western understanding of this relationship has been heavily distorted by myth-making and oversimplification.
+The relationship between Amanita muscaria (fly-agaric) and Siberian indigenous cultures is the most extensively documented case of mushroom use in indigenous shamanism. However, as Andy Letcher argues in "Shroom" (2006), Western understanding of this relationship has been heavily distorted by myth-making and oversimplification. (see [[koryaks]]).
 
 ## Historical Sources
 
-The earliest accounts come from European travelers to Siberia beginning in the 16th century. Richard Johnson, an English explorer, provided a vivid description in the mid-1500s of a shaman drumming, wearing a mail mask decorated with fish teeth and wild beast parts, entering convulsions, and lying as if dead while the spirit revealed instructions.
+The earliest accounts come from European travelers to Siberia beginning in the 16th century. Richard Johnson, an English explorer, provided a vivid description in the mid-1500s of a shaman drumming, wearing a mail mask decorated with fish teeth and wild beast parts, entering convulsions, and lying as if dead while the spirit revealed instructions. (see [[hallucinogenic-plants-history-ethnobotany]]).
 
 The most comprehensive ethnographic accounts were compiled in the late 19th and early 20th centuries by Waldemar Jochelson (1900-1901 among the Koryak) and others. These documented Amanita use among the Koryak, Chukchi, Yukagir, Yakut, Ostyak, Samoyed, and Kamchadal tribes.
 
@@ -39,7 +39,7 @@ Per Harner's anthology "Hallucinogens and Shamanism" (1973), which quotes Jochel
 
 ## The Urine Recycling Practice
 
-The Koryak practiced drinking the urine of persons intoxicated with Amanita to prolong hallucinations, a practice documented across multiple Siberian tribes. This works because muscimol (the primary psychoactive compound) passes through the body largely unchanged, while [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] is metabolized. "The drunkard himself drinks it to prolong his hallucinations, or he offers it to others as a treat" (Jochelson, via Harner).
+The Koryak practiced drinking the urine of persons intoxicated with Amanita to prolong hallucinations, a practice documented across multiple Siberian tribes. This works because muscimol (the primary psychoactive compound) passes through the body largely unchanged, while ibotenic acid is metabolized. "The drunkard himself drinks it to prolong his hallucinations, or he offers it to others as a treat" (Jochelson, via Harner).
 
 ## Letcher's Critical Analysis
 
@@ -68,24 +68,6 @@ Michael Harner, in his introduction to "Hallucinogens and Shamanism" (1973), emp
 ## See Also
 
 - [[amanita-muscaria-guide]] — Identification, chemistry, and preparation of Amanita muscaria
-- [[psychedelic-mushroom-history]] — Broader timeline of [[archaeology-of-psychedelic-mushroom-use]] use
-- [[mushroom-folklore-and-culture]] — Folklore and [[ethnomycology-cultural-significance-sacred-fungi]] of mushrooms
-- [[r-gordon-wasson]] — Wasson's role in popularizing Siberian [[sacred-mushroom-traditions-in-mexico]]
-## Practical Considerations
-
-Successful implementation of Siberian Shamanism and Amanita Muscaria requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+- [[psychedelic-mushroom-history]] — Broader timeline of psychedelic mushroom use
+- [[mushroom-folklore-and-culture]] — Folklore and cultural significance of mushrooms
+- [[r-gordon-wasson]] — Wasson's role in popularizing Siberian mushroom traditions

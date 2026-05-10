@@ -17,7 +17,7 @@ The basic phenethylamine skeleton supports five major regions of modification:
 
 1. **Ring substitution** (positions 2, 3, 4, 5, 6): The most pharmacologically impactful region. The 2,5-dimethoxy pattern is consistently the most active for psychedelic effects. The 3,4,5-trimethoxy pattern (as in mescaline) is active but less potent. The 3,4-methylenedioxy pattern produces entactogenic effects (as in MDMA).
 
-2. **Alpha carbon** (adjacent to the amine): Addition of a methyl group converts a phenethylamine to an amphetamine, generally increasing potency and duration. See [[mescaline-entity]].
+2. **Alpha carbon** (adjacent to the amine): Addition of a methyl group converts a phenethylamine to an amphetamine, generally increasing potency and duration. See [[mescaline]].
 
 3. **Nitrogen substitution**: N-methylation ([[mdea]]), and N,N-dimethylation each produce distinct pharmacological profiles. The nitrogen substituent profoundly affects whether the compound is psychedelic, entactogenic, or stimulant.
 

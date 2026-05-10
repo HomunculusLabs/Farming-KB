@@ -5,7 +5,6 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 # Biostimulation Techniques

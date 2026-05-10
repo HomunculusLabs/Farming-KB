@@ -67,6 +67,20 @@ Wildlife corridors and scenic views are also mapped as sectors. Hedgerows
 connect habitat patches, and decks or windows are oriented to capture views
 while maintaining privacy. These considerations connect to [[permaculture-design]] of efficiency and multifunctionality.
 
+## Integrating Zones and Sectors
+
+The power of zone and sector analysis lies in their integration. A well-designed
+permaculture site overlays the zone-based attention gradient onto the sector-
+based energy flow map, placing elements where they receive optimal attention
+and exposure. For example, a greenhouse might be positioned in Zone 1 (high
+attention) within the solar sector (maximum sun exposure) while being sheltered
+from the cold wind sector by a windbreak. Similarly, animal housing is placed
+in Zone 2 for convenient daily care, located to capture winter sun and deflect
+cold winds. Mollison emphasized that zones are not concentric circles but
+rather irregular shapes modulated by topography, access paths, and sector
+influences. See [[permaculture-zone-and-sector-planning]] and
+[[williams-pdc-zone-analysis]] for extended treatment.
+
 ## See Also
 
 - [[williams-pdc-zone-analysis]]

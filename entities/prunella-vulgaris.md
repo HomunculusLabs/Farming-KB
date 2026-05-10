@@ -128,12 +128,6 @@ P. vulgaris offers multiple functions in [[bill-mollison-permaculture-a-designer
   disturbed sites.
 
 ## See Also
-
 - [[rosmarinus-officinalis-entity]]
 - [[ursolic-acid]]
-- lamium album
-- stachys officinalis
-
-## See Also
-
 - [[permaculture-plants-food-forest-ground-covers-bamboos]]

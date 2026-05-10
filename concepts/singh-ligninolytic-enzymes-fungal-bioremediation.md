@@ -142,7 +142,6 @@ Ganoderma lucidum produces MnP in poplar wood media but NOT in pine wood media (
 
 ## Soil Fungi as Lignin Degraders
 
-- Penicillium chrysogenum: mineralized 27.4% of 14C-labeled lignin from milled wheat straw in 4 weeks
 ## See Also
 
 - [[fungal-extracellular-enzymes]]

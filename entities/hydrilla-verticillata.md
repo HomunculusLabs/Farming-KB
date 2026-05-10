@@ -103,6 +103,8 @@ Ecological impacts include displacement of native submersed macrophyte communiti
 
 ## See Also
 
+- [[ilex-verticillata]]
+
 - [[myriophyllum-spicatum]]
 - [[ceratophyllum-demersum]]
 - [[lemna-minor]]

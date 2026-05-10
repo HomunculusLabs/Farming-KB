@@ -5,7 +5,6 @@ tags: [cannabis, hydroponics, drain-to-waste, recirculating, irrigation]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---

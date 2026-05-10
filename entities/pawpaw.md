@@ -89,17 +89,7 @@ gardening. The potential undiscovered mycorrhizal associate suggests there is
 still much to learn about optimising its cultivation.
 
 ## See Also
-
 - [[monarda-fistulosa]]
-- Persimmon
-- American Chestnut
-- Mulberry
-- Understory Fruit Trees
-- [[halpern-sacramental-peyote-and-native-american-church]] Food Plants
-
-## See Also
-
-- [[monarda-fistulosa]]
+- [[halpern-sacramental-peyote-and-native-american-church]]
 - [[permaculture-plants-fruit-trees-temperate]]
-- mollison-forest-water-climate
 - [[fungal-single-cell-protein-production]]

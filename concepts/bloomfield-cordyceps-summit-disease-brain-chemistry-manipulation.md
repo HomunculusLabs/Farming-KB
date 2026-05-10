@@ -10,7 +10,7 @@ tags: [mycology, fungi, cordyceps, entomopathogenic-fungi, insect-behavior, para
 
 ## Summary
 
-Cordyceps is a genus of entomopathogenic fungi that infects insects, manipulates their behavior to climb vegetation before killing them (summit disease), and then erupts from their bodies to broadcast spores.
+Cordyceps is a genus of [[comparison-trichoderma-vs-entomopathogenic-fungi]] that infects insects, manipulates their behavior to climb vegetation before killing them (summit disease), and then erupts from their bodies to broadcast spores.
 
 The fungus has been used in Chinese medicine for centuries as "dong chong xia cao" (winter insect, summer grass), and researchers like Nigel Hywel-Jones have uncovered remarkable new species in tropical rainforests.
 
@@ -102,7 +102,7 @@ According to commercial claims, Cordyceps assists body building, overcomes fatig
 
 There is also interest in its efficacy as a performance-enhancing drug for marathon runners.
 
-Money ordered Cordyceps tea from Fungi Perfecti, a Washington State company founded by Paul Stamets, an expert on hallucinogenic mushrooms who markets dietary supplements and medicines prepared from fungi.
+Money ordered Cordyceps tea from Fungi Perfecti, a Washington State company founded by Paul Stamets, an expert on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] who markets [[medicinal-mushroom-dietary-supplements]] and medicines prepared from fungi.
 
 Money notes he could not stick with the brew for the three weeks recommended for optimum manliness — "although I have downed more frightful beverages, this one is no Earl Grey."
 
@@ -134,12 +134,12 @@ Cordyceps is an ascomycete, the largest grouping of fungi encompassing more than
 
 Water diffuses into the ascus by osmosis until pressurized, and when the tip opens — often explosively — the spores are shot into the air like a cannon.
 
-This discharge mechanism bears no relationship to the surface tension catapult utilized by basidiomycete fungi.
+This [[basidiospore-discharge-mechanism]] bears no relationship to the [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] catapult utilized by [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]].
 
 ## See Also
 
-- [[bloomfield-ascomycete-ascospore-discharge-mechanisms]]
-- [[bloomfield-ergot-fungus-claviceps-purpurea-lsd-salem-witch-trials]]
-- [[bloomfield-fungal-arms-race-insect-pathogen-coevolution]]
-- [[bloomfield-basidiomycete-ballistospore-discharge-bullers-drop]]
+- bloomfield ascomycete ascospore discharge mechanisms
+- bloomfield ergot fungus claviceps purpurea lsd salem witch trials
+- bloomfield fungal arms race insect pathogen coevolution
+- bloomfield basidiomycete ballistospore discharge bullers drop
 - [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]

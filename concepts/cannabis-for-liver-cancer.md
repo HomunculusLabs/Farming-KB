@@ -14,7 +14,7 @@ Cannabinoids demonstrate anti-tumor activity against [[blesching-cannabis-liver-
 - [[cannabis-thc-therapeutic-profile]]
 - cannabis for liver cancer
 - [[cannabis-mind-body-medicine-integration]]
-- [[cannabis-for-chemotherapy-nausea]]
+- [[blesching-cannabis-nausea-chemotherapy-vomiting-dronabinol]]
 ## Background and Context
 
 Cannabis for Liver Cancer is an important subject that has garnered significant attention

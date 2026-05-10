@@ -86,7 +86,4 @@ The comparison remains relevant because many modern cultivators still use grain 
 ## See Also
 - [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]]
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
-
-## See Also
-
 - [[brassinosteroid-psilocybe-cubensis-growth-promotion-gartz-1990]]

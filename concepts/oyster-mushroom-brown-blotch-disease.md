@@ -9,13 +9,13 @@ sources: - "raw/papers/unknown-oyster-mushroom-cultivation.md"
 
 # Oyster Mushroom Brown Blotch Disease
 
-Brown blotch disease causes significant crop loss in oyster mushroom cultivation and is very common in mushroom houses worldwide. The disease manifests in two distinct forms — **bacterial brown blotch** and **fungal brown blotch** — each with different pathogens, symptoms, and control measures. Yellowing of fruiting bodies can also be caused by environmental factors, particularly rapid humidity changes from excessive ventilation. Understanding the distinction between these conditions is essential for effective management.
+Brown blotch disease causes significant crop loss in [[cotter-oyster-mushroom-cultivation]] and is very common in mushroom houses worldwide. The disease manifests in two distinct forms — **bacterial brown blotch** and **fungal brown blotch** — each with different pathogens, symptoms, and control measures. Yellowing of fruiting bodies can also be caused by environmental factors, particularly rapid humidity changes from excessive ventilation. Understanding the distinction between these conditions is essential for effective management.
 
 ## Bacterial Brown Blotch
 
 ### Pathogen
 
-- **Primary pathogen:** *Pseudomonas tolaasii*
+- **Primary pathogen:** *[[pseudomonas-tolaasii-entity-the-mushroom-cultivator]]*
 - **Secondary reported agent:** *Pseudomonas agarici* (importance as a pathogen of brown blotch disease is questionable)
 - *P. tolaasii* has been isolated from all observed symptomatic mushrooms, though mixed infections may contribute to the variety of symptoms seen
 
@@ -23,7 +23,7 @@ The bacterium is a Gram-negative rod that produces a characteristic lipopeptide 
 
 ### Symptoms
 
-Bacterial brown blotch presents with various symptoms on oyster mushroom fruiting bodies:
+Bacterial brown blotch presents with various symptoms on [[oyster-mushroom-fruiting-chamber-environment]] bodies:
 
 **Typical brown spot symptoms:**
 
@@ -54,14 +54,14 @@ Bacterial brown blotch presents with various symptoms on oyster mushroom fruitin
 
 ### Pathogen and Symptoms
 
-Fungal brown blotch is caused by *Mycogone perniciosa* (syn. *Sepedonium perniciosum*), a pathogenic fungus that produces distinct symptoms:
+Fungal brown blotch is caused by *[[mycogone-perniciosa-entity-the-mushroom-cultivator]]* (syn. *Sepedonium perniciosum*), a pathogenic fungus that produces distinct symptoms:
 
 - Small, brownish spots on the cap surface that may develop white, powdery spore masses
 - Distorted, malformed fruiting bodies — particularly "balloon-shaped" caps with thick, shortened stipes
 - Internal tissue becomes spongy and brown
 - A characteristic musty or earthy odor (distinct from the fishy smell of bacterial blotch)
 
-Fungal brown blotch is less common than bacterial brown blotch in modern oyster mushroom cultivation but can cause significant damage when it occurs. It is more frequently associated with button mushroom (*Agaricus bisporus*) cultivation, where it is known as "wet bubble disease."
+Fungal brown blotch is less common than bacterial brown blotch in modern oyster mushroom cultivation but can cause significant damage when it occurs. It is more frequently associated with button mushroom (*[[agaricus-bisporus]]*) cultivation, where it is known as "wet bubble disease."
 
 ## Control Measures
 
@@ -87,10 +87,10 @@ Sanitation is the foundational control measure — follow strict disease and pes
 For organic and conventional operations alike, chemical options for bacterial blotch are extremely limited:
 
 - **Chlorine-based sanitizers:** Sodium hypochlorite solutions (100-200 ppm available chlorine) can be used for surface disinfection but are not approved for direct application to mushrooms in most jurisdictions.
-- **Hydrogen peroxide:** Dilute H₂O₂ solutions (0.5-1%) can reduce bacterial loads on surfaces and equipment.
+- **[[cervantes-hydrogen-peroxide-sterilization]]:** Dilute H₂O₂ solutions (0.5-1%) can reduce bacterial loads on surfaces and equipment.
 - **Copper-based products:** Some copper formulations have demonstrated efficacy against *P. tolaasii* but may leave residues and are generally not approved for mushroom crops.
 - **Biological control:** Certain *Bacillus* species produce antibiotics that inhibit *P. tolaasii*. Research into biocontrol agents for mushroom diseases is ongoing but commercial products are not yet widely available.
 
 The relationship between environmental conditions and brown blotch incidence makes this disease a useful indicator of overall [[mushroom-cultivation-problems]] related to humidity management. Growers who consistently experience brown blotch should review their watering practices, air exchange rates, and ventilation patterns as the first step in developing an effective prevention strategy.
 
-For other common diseases affecting oyster mushrooms, see [[oyster-mushroom-species-variety]] for species-specific disease susceptibility profiles, and [[mushroom-contaminant-identification]] for comprehensive identification guidance covering all major oyster mushroom pathogens.
+For other common diseases affecting oyster mushrooms, see [[oyster-mushroom-species-variety]] for species-specific disease susceptibility profiles, and [[mushroom-contamination-identification]] for comprehensive identification guidance covering all major oyster mushroom pathogens.

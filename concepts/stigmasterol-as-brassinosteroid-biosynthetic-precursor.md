@@ -125,6 +125,8 @@ biological activities:
 
 ## See Also
 
+- [[stigmasterol-brassinosteroid-biosynthetic-precursor-fungal-systems]]
+
 - [[brassinosteroids]]
 - [[phytohormone-cross-kingdom-fungal-effects]]
 - [[kh2po4-phosphate-supplementation-mushroom-substrates]]

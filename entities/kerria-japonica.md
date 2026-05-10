@@ -103,6 +103,8 @@ The species is occasionally affected by leaf spot diseases caused by *Cercospora
 
 ## See Also
 
+- [[zoysia-japonica]]
+
 - [[spiraea-japonica]]
 - [[physocarpus-opulifolius]]
 - [[potentilla-fruticosa]]

@@ -89,7 +89,6 @@ principles. In natural ecosystems, pest insects rarely reach damaging
 levels because they are held in check by predators, parasites, and
 disease. This natural biological balance operates through trophic
 cascades: spiders eat leafhoppers, ladybugs eat aphids, parasitic wasps
-lay eggs inside caterpillars, and at every level, the removal of one
 ## See Also
 
 [[beneficial-insects-guide]] provides a comprehensive reference for

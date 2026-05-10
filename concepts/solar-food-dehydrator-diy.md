@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [food, preservation, drying, construction, homesteading, sustainability]
-sources:
-  sources: []
+sources: []
 ---
 
 # Solar Food Dehydrator DIY
 
-A solar food dehydrator uses the greenhouse effect and natural convection to preserve fruits, vegetables, herbs, and meats without electricity. Solar dehydrators can reach temperatures of 110-160°F — ideal for food drying — using only sunlight and passive airflow. Building your own is straightforward and costs far less than commercial electric dehydrators.
+A solar food dehydrator uses the greenhouse effect and natural convection to preserve fruits, vegetables, herbs, and meats without electricity. Solar dehydrators can reach temperatures of 110-160°F — ideal for food drying — using only sunlight and passive airflow. Building your own is straightforward and costs far less than commercial electric dehydrators. (see [[cold-frame-gardening]]).
 
 ## Principles of Operation
 
@@ -18,9 +17,9 @@ A solar dehydrator works on three principles:
 
 1. **Solar collection:** A dark-colored absorber plate (often painted metal or dark-painted wood) absorbs solar radiation and converts it to heat
 2. **Greenhouse effect:** A transparent cover (glass, polycarbonate, or UV-stabilized plastic film) allows sunlight in but traps the resulting heat, raising the internal temperature
-3. **Natural convection:** As air is heated, it rises. A well-designed dehydrator has a low intake vent and a high exhaust vent. Cool air enters the bottom, is heated as it passes over the absorber, picks up moisture from the food, and exits through the top vent carrying the moisture away.
+3. **Natural convection:** As air is heated, it rises. A well-designed dehydrator has a low intake vent and a high exhaust vent. Cool air enters the bottom, is heated as it passes over the absorber, picks up moisture from the food, and exits through the top vent carrying the moisture away. (see [[season-extension-techniques]]).
 
-This creates a continuous flow of warm, dry air across the food trays without any fan or electricity.
+This creates a continuous flow of warm, dry air across the food trays without any fan or electricity. (see [[solar-oven-cooking]]).
 
 ## Types of Solar Dehydrators
 
@@ -53,7 +52,7 @@ A hybrid design that uses both direct solar gain on the top and indirect heated 
 
 - **Plywood or OSB:** For the box/frame. Exterior-grade plywood preferred.
 - **2x2 or 2x4 lumber:** For framing
-- **Insulation:** Rigid foam board (EPS or XPS), recycled denim batting, or natural [[mollison-designers-wool-insulation-and-natural-textiles]]. R-5 to R-10 is sufficient.
+- **Insulation:** Rigid foam board (EPS or XPS), recycled denim batting, or natural wool insulation. R-5 to R-10 is sufficient.
 - **Absorber plate:** Sheet metal (aluminum or steel) painted flat black. Corrugated metal increases surface area.
 - **Black paint:** High-temperature flat black paint for the absorber plate
 
@@ -73,7 +72,7 @@ A hybrid design that uses both direct solar gain on the top and indirect heated 
 
 - **Intake vent:** Low on the collector side (cool air in). Adjustable — use a sliding cover to control airflow.
 - **Exhaust vent:** High on the opposite end (warm moist air out). Also adjustable.
-- **Vent sizing:** Approximately 1 square inch of vent area per [[comparison-biointensive-vs-square-foot-gardening]] of collector, per vent. Adjustable vents allow fine-tuning.
+- **Vent sizing:** Approximately 1 square inch of vent area per square foot of collector, per vent. Adjustable vents allow fine-tuning.
 
 ## Sizing Your Dehydrator
 
@@ -105,7 +104,7 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 - **Vent adjustment:** Open vents to lower temperature, close vents to raise temperature
 - **Collector angle:** Adjust the tilt of the collector panel toward or away from the sun
 - **Shade cloth:** Drape shade cloth over part of the collector on very hot days
-- **Baffle or reflector:** Adjustable internal baffles can redirect or block [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
+- **Baffle or reflector:** Adjustable internal baffles can redirect or block solar energy
 
 ### Monitoring
 
@@ -140,11 +139,12 @@ Allow 3-4 inches between trays for adequate airflow. More space means better dry
 2. Staple food-safe screen to the frames
 3. Add small wooden blocks as tray guides on the interior walls
 4. Trays should slide in and out easily
-## Related Concepts
 
-- [[herb-spiral-construction]] for growing herbs that can be dried in the solar dehydrator
-- [[cold-climate-gardening]] for another [[comparison-passive-solar-vs-earth-sheltered]] structure for the homestead
+### Vents
 
-## See Also
+1. Cut intake vents at the bottom of the collector (low point)
+2. Cut exhaust vents at the top of the drying chamber (high point, opposite end from collector)
+3. Build adjustable vent covers from wood with a sliding mechanism
+4. Cover vents with screen to keep insects out
 
-- [[query-how-to-build-and-use-a-solar-food-dehydrator]]
+## Drying Tips

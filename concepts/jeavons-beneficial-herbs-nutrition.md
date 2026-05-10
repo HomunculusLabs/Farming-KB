@@ -115,10 +115,4 @@ bodies have enriched the topsoil, heavier-feeding grasses return -- part of
 nature's recycling program for raising new nutrients to the surface.
 
 ## See Also
-
-[[jeavons-natural-pest-control]]
-[[jeavons-soil-fertility]]
-
-## See Also
-
 - [[jeavons-companion-planting-health-nutrition]]

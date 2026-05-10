@@ -140,7 +140,6 @@ Seeded varieties (breadnut, *A. camansi*) can be grown from seed, but seeds lose
 
 Breadfruit is strictly tropical and subtropical:
 
-- **Temperature:** Optimal range 21–32°C (70–90°F). Growth stops below 15°C (59°F), and temperatures below 5°C (40°F) cause severe damage or death.
 ## See Also
 
 - [[tropical-root-crops-cassava-taro-sweet-potato-and-yam]] — Other tropical [[growing-staple-crops-grains-beans-and-tubers]] for comparison

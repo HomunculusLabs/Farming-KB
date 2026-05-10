@@ -16,7 +16,7 @@ sources:
   - Borovička, J. et al. (2012). "Photosymbiontic diversity in
     Psilocybe." Mycological Progress, 14(2), 1–16.
   - Noordeloos, M.E. et al. (1999). "Monograph of Psilocybe."
-    [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] Press.
+    arbuscular-mycorrhizal-fungal-diversity-patterns-distribution Press.
 ---
 
 # Psilocybe serbica

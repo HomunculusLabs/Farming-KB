@@ -136,7 +136,6 @@ refrigeration. Freezing is possible for culinary use but damages texture. Drying
 at 30-40 degrees C preserves flavor and extends shelf life to several months.
 
 ## Flush Management
-
 ## See Also
 
 - [[partial-veil-tropism-protection-before-spore-release]]

@@ -126,11 +126,10 @@ The two species are compatible when planted together: vetiver does not compete w
 
 Vetiver and bamboo are complementary rather than competing. In large-scale watershed projects, vetiver hedges planted on contour lines anchor the mid-slope while bamboo clumps established at the toe of slope and along waterways provide structural reinforcement and shade. This stacked approach combines vetiver's subsurface anchoring with bamboo's above-ground biomass, delivering [[soil-erosion-control]] across the full soil profile.
 
-## See Also
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
 
+## See Also
 - [[agroforestry]]
 - [[phytoremediation]]
-
-## See Also
-
 - [[mollison-designers-vetiver-grass-for-erosion-control]]

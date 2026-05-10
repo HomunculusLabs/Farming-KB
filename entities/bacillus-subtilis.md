@@ -138,7 +138,5 @@ independent domestications of *B. subtilis* across diverse cultures.
   and vitamin K2.
 
 ## See Also
-
-## See Also
 - [[teaming-with-microbes-humus-formation-and-glomalin]]
 - [[teaming-with-microbes-soil-food-web-trophic-structure-and-succession]]

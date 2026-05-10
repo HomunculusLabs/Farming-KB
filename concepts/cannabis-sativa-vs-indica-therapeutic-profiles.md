@@ -133,11 +133,11 @@ Several factors complicate [[blesching-cannabis-strain-selection-receptor-target
 
 - **[[cannabis-terpene-profiles-sativa]]**: Aromatic compounds (terpenoids) contribute
   significantly to therapeutic effects and may vary independently of
-## See Also
 
-- [[blesching-cannabis-therapeutic-window-dosing]] — Establishing optimal
-  dosage
-- [[cannabidiol-cbd]] — Detailed CBD profile
+## See Also
+- [[blesching-cannabis-therapeutic-window-dosing]]
+- [[cannabidiol-cbd]]
+- [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]
 
 ## Sources
 

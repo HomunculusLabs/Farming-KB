@@ -31,7 +31,7 @@ another.
 
 The pitiful sight of fowl, pigs, and cattle confined to cages and unable
 even to move bears witness to the loss of nature in these animals and
-points also to humanity's [[mu|alienation from nature]]. Both the farm
+points also to humanity's alienation from nature. Both the farm
 worker directly engaged in raising livestock and the city dweller who
 consumes these food products lose their health and humanity as they turn
 away from nature. The energy economics are equally damning: the ratio of
@@ -121,7 +121,7 @@ Ticks and mites do present a challenge, but infestation varies
 considerably with conditions — generally limited in cool, breezy areas and
 closely related to humidity and temperature. The problem can be prevented
 by providing the right environment and raising hardier cattle, while
-giving some consideration to the protection of [[beneficial-insects-and-biological-pest-control]] that
+giving some consideration to the protection of [[hamilton-beneficial-insects-and-biological-pest-control]] that
 help control tick populations.
 
 The very notion of "raising" livestock should not even exist in natural

@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Laundon, J.R. (1984). "The typification of Lecanora chlorotera." Lichenologist, 16: 65–67.
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Wirth, V., Hauck, M., Schulz, M. (2013). Die Flechten Deutschlands. Eugen Ulmer KG.
 ---
 
@@ -104,6 +104,8 @@ Long-term monitoring data from the UK and Netherlands show significant increases
 Molecular phylogenetic studies have placed L. chlorotera within a well-supported clade that includes several other sorediate Lecanora species. These relationships have implications for understanding the evolution of soredia as a dispersal mechanism within the genus.
 
 ## See Also
+
+- [[lecanora-chlarotera]]
 
 - [[parmelia-sulcata]]
 - [[physcia-aipolia]]

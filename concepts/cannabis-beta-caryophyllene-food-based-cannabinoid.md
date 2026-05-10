@@ -142,5 +142,5 @@ All the spices listed have FDA approval and long histories of culinary use. Unli
 - [[cannabis-endocannabinoid-system]]
 - [[cannabis-health-cbd-cannabidiol]]
 - [[cannabis-health-thc-tetrahydrocannabinol]]
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 - [[anandamide-bliss-molecule]]

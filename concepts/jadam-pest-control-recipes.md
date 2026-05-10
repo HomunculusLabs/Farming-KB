@@ -1,5 +1,5 @@
 ---
-title: JADAM comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol Recipes
+title: JADAM Pest Control Recipes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/jadam-organic-farming-ultra-low-cost-agriculture.md]
 
 # JADAM Pest Control Recipes
 
-JADAM pest control relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]] (JWA), combined with plant extracts and biological agents.
+JADAM pest control [[jadam-natural-pesticide-recipes]] relies on simple, on-farm preparations that are inexpensive, non-toxic, and effective. The foundation is the JADAM Wetting Agent (JWA), combined with plant extracts and biological agents.
 
 ## JADAM Wetting Agent (JWA) — The Foundation
 
@@ -19,7 +19,7 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 - Water: 20 parts
 
 ### Method
-1. Dissolve KOH in water (use non-metal container)
+1. Dissolve KOH in water [[jadam-natural-pesticide-recipes]] (use non-metal container)
 2. Add oil slowly while stirring
 3. Stir until the mixture becomes translucent (saponification)
 4. Dilute 1:500 to 1:1000 with water for use as spray
@@ -66,9 +66,9 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 4. Spray on affected plants
 
 ### Effective Against
-- [[cervantes-powdery-mildew-prevention-treatment]]
+- Powdery mildew
 - Rust
-- [[cervantes-downy-mildew-fungal-blight]]
+- Downy mildew
 - Mites
 
 ## JADAM Sea Water (JSW) — Micronutrient Supplement
@@ -87,5 +87,5 @@ JADAM pest control relies on simple, on-farm preparations that are inexpensive, 
 
 ## Related
 - [[jadam-natural-farming-philosophy]] — for JADAM philosophy
-- [[natural-farming-pest-management]] — for broader natural [[cannabis-pest-management-guide]]
+- [[natural-farming-pest-management]] — for broader natural pest management
 - [[companion-planting-deterrents]] — for prevention-based pest control

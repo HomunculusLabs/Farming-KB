@@ -136,5 +136,5 @@ Fertilizer requirements are modest, and the species performs well on low-nitroge
 - [[fagus-grandifolia]]
 - [[juglans-regia]]
 - [[castanea-dentata]]
-- [[vaccinium-corymbosum]]
+- [[vaccinium-corymbosum-entity]]
 - [[rubus-idaeus]]

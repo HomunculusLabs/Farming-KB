@@ -56,6 +56,8 @@ the essence of ultra-low-cost agriculture.
 
 ## See Also
 
+- [[ultra-low-customized-crop-residue-fertilizers]]
+
 - [[jadam-ultra-low-cost-agriculture]] green manure cover crop species - Using wild plants as cover
 - [[ultra-low-jadam-liquid-fertilizer-making]] - Processing cover crop residues
 - [[ultra-low-soil-compaction-and-plow-pan-solutions]] - Biological soil improvement

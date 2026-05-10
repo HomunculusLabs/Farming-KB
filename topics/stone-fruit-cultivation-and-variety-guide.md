@@ -136,7 +136,6 @@ Standard spacing depends on the rootstock and training system:
 See [[fruit-tree-care-and-orchard-management]] for detailed orchard layout and design.
 
 ## Pruning and Training Systems
-
 ## See Also
 
 - [[fruit-tree-care-and-orchard-management]] — comprehensive [[fukuoka-orchard-management-detailed]]

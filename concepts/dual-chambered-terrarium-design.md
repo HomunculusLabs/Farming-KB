@@ -138,8 +138,9 @@ A complementary technique uses a layer of wetted perlite on the terrarium
 floor. Perlite absorbs water and gradually evaporates it through its porous
 structure, providing sustained humidification. Unlike vermiculite, perlite
 does not absorb and hold water but instead wicks it upward for gradual
-evaporation over weeks. Cakes can be placed directly on the perlite, where
 ## See Also
+
+- [[pf-tek-dual-chambered-terrarium-design-humidity-management]]
 - [[community-garden-design]]
 - pf-tek-overview-and-history
 - [[fruiting-conditions-and-harvesting]]

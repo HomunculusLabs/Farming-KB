@@ -7,10 +7,10 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-mycelium-running.md]
 type: concept
 ---
-# Fungal Intelligence Fungal intelligence refers to the capacity of fungi — particularly their mycelial networks — to process information, make decisions, learn, and solve problems in ways that resemble cognitive behavior, despite lacking a nervous system, brain, or any conventional center of computation. This concept challenges traditional definitions of intelligence and cognition, raising fundamental questions about what it means to process information and adapt behavior in biological systems. The field sits at the intersection of mycology, neurobiology, computer science, and philosophy of mind. ## Problem-Solving and Optimization The most compelling evidence for fungal intelligence comes from studies of foraging behavior. When mycelial networks encounter spatially distributed resources, they do not grow randomly. Instead, they demonstrate an ability to [[unconventional-computing]]logy and Technology
+# Fungal Intelligence Fungal intelligence refers to the capacity of fungi — particularly their mycelial networks — to process information, make decisions, learn, and solve problems in ways that resemble cognitive behavior, despite lacking a nervous system, brain, or any conventional center of computation. This concept challenges traditional definitions of intelligence and cognition, raising fundamental questions about what it means to process information and adapt behavior in biological systems. The field sits at the intersection of mycology, neurobiology, computer science, and philosophy of mind. ## Problem-Solving and Optimization The most compelling evidence for fungal intelligence comes from studies of foraging behavior. When mycelial networks encounter spatially distributed resources, they do not grow randomly. Instead, they demonstrate an ability to [[unconventional-computing]] logy and Technology
 
 The study of fungal intelligence has practical implications beyond theoretical
-biology. Mycelial networks have inspired new approaches to computing, including
+biology. [[mycelial-networks]] have inspired new approaches to computing, including
 unconventional computing paradigms that use living fungal networks as
 biological processors. Researchers have demonstrated fungal computers capable
 of solving logical operations, maze problems, and even simple graph-theoretic
@@ -41,7 +41,7 @@ mechanisms involved.
 ## Decision-Making Mechanisms
 
 Fungal decision-making operates through distributed biochemical signaling
-rather than centralized neural processing. Mycelial networks use cytoplasmic
+rather than centralized neural processing. [[mycelial-networks]] use cytoplasmic
 streaming to transport nutrients, signaling molecules, and organelles across
 the network. When a mycelium encounters multiple food sources simultaneously,
 it must allocate resources between them, a process that demonstrates genuine
@@ -76,7 +76,7 @@ experience to their descendants without any nervous system whatsoever.
 
 ## Common Mycorrhizal Networks
 
-The concept of the "Wood Wide Web" describes how mycorrhizal fungal
+The concept [[wood-wide-web]] Wide Web" describes how mycorrhizal fungal
 networks connect individual plants into integrated communication and
 resource-sharing systems. Through these networks, plants can transfer
 carbon, nitrogen, phosphorus, water, and chemical alarm signals. Mother
@@ -88,7 +88,7 @@ communities.
 
 ## Philosophical Implications
 
-Fungal intelligence challenges the neurocentric definition of cognition
+fungal intelligence challenges the neurocentric definition of cognition
 that has dominated Western science. If intelligence is defined by adaptive
 behavior in complex environments rather than by the presence of specific
 biological structures (neurons, brains), then fungi clearly qualify. This

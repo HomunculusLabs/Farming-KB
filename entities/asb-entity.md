@@ -93,7 +93,7 @@ The experience lacked the depth or richness seen with other psychedelic compound
 
 ## The Thio-Substitution Pattern
 
-3-TASB represents the thio-analogue of asb entity, which itself is a positional isomer of [[mescaline-entity]]
+3-TASB represents the thio-analogue of asb entity, which itself is a positional isomer of [[mescaline]]
 
 [[5-tasb-entity]]
 

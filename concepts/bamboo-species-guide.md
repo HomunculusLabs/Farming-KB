@@ -9,12 +9,12 @@ sources: [raw/papers/a-selection-permaculture-plants.md]
 
 # Bamboo Species Guide
 
-Bamboos (Family: Bambusaceae) are among the most useful multi-purpose plants in [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. They provide timber, edible shoots, windbreaks, hedges, [[permplant-willows-salix-erosion-control-fodder]], and fodder. They divide into two main types: **clumping** (non-invasive) and **running** (potentially invasive).
+Bamboos (Family: Bambusaceae) are among the most useful multi-purpose plants in permaculture design. They provide timber, edible shoots, windbreaks, hedges, erosion control, and fodder. They divide into two main types: **clumping** (non-invasive) and **running** (potentially invasive). (see [[permaculture-plants-bamboo-varieties-uses]]).
 
 ## Clumping Bamboos (Bambusa spp.)
 
 ### Bambusa balcoa (Balku)
-Dense clumping bamboo from India. Up to 22 m high, culm diameters of 15 cm. Considered the best bamboo for building purposes in north and eastern India.
+Dense clumping bamboo from India. Up to 22 m high, culm diameters of 15 cm. Considered the best bamboo for building purposes in north and eastern India. (see [[permaculture-plants-fruit-trees-temperate]]).
 
 ### Bambusa longispiculata (Mahal Bamboo)
 Vigorous Indian bamboo forming open clumps up to 18 m high, culm diameters 10 cm. Noted for straight culms and long intervals between nodes (up to 60 cm). White stripes on green culms make it attractive as an ornamental. Suitable as a hedge.
@@ -59,22 +59,3 @@ Native of Japan, small (2-4 m) runner bamboo with leaves up to 35 cm long and 9 
 - [[permaculture-plant-selection-guide]]
 - [[salt-tolerant-plant-guide]]
 - [[difficult-site-planting]]
-
-## Practical Considerations
-
-Successful implementation of Bamboo Species Guide requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

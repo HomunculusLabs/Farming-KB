@@ -31,7 +31,7 @@ IP is described as "a completely fascinating phenethylamine" with complex effect
 
 ## Synthesis
 
-Synthesized from homosyringonitrile (see [[mescaline-entity]] -- the parent compound (3,4,5-trimethoxyphenethylamine)
+Synthesized from homosyringonitrile (see [[mescaline]] -- the parent compound (3,4,5-trimethoxyphenethylamine)
 
 - [[proscaline]] -- 3,5-dimethoxy-4-propoxyphenethylamine (linear propyl)
 

@@ -108,7 +108,6 @@ than by mechanical cooling.
 This ecological approach differs from the logic of the modern refrigerator. A
 refrigerator imposes one controlled climate in a sealed box, usually with low
 humidity and forced cooling. A root cellar uses ambient cold, mass, humidity,
-and ventilation, so it changes with weather and season. It is not a machine
 ## See Also
 
 - [[root-cellar-design-and-construction]]

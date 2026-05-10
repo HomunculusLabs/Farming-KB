@@ -10,7 +10,6 @@ tags:
   - sustainability
   - systems-thinking
 sources:
-  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Permaculture Design Principles Overview
@@ -133,11 +132,6 @@ social systems, and economic organisation — reflecting permaculture's
 evolution from permanent agriculture to permanent culture.
 
 ## See Also
-
 - [[permaculture-energy-cycling-and-resource-efficiency]]
-- permaculture pattern literacy and design from patterns
 - [[permaculture-ethics-and-principles]]
-
-## See Also
-
 - [[permaculture-design-principles-and-sustainability]]

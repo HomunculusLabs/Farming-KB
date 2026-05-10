@@ -5,7 +5,6 @@ tags: [query, soil, ph, amendments]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---

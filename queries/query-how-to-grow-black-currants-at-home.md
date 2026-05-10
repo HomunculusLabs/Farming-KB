@@ -9,8 +9,7 @@ tags:
   - homesteading
 created: 2026-05-06
 updated: 2026-05-06
-sources:
-  sources: []
+sources: []
 ---
 
 # How to Grow Black Currants at Home

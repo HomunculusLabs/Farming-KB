@@ -107,6 +107,6 @@ from specimens collected in Cuba, hence the specific epithet cubensis.
 
 ## Related Topics
 
-- [[oss-oeric-spore-syringe-preparation]] for spore handling
+- [[spore-syringe-preparation]] for spore handling
 - [[oss-oeric-contamination-troubleshooting]]
 - [[psilocybe-cubensis-strain-varieties-and-characteristics]]

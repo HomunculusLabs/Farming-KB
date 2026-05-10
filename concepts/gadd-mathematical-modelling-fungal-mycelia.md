@@ -140,8 +140,11 @@ function is the long-term goal. Future work must incorporate additional
 nutrient types, multi-species interactions, and complex environmental
 heterogeneity.
 
-## Related concepts
+## Related
+
+- [[gadd-mathematical-modelling-rhizoctonia-solani-mycelial-growth]]
+
+- [[gadd-mathematical-modelling-fungal-mycelia-form-function]] concepts
 
 - [[gadd-colony-morphogenesis-hyphal-growth]]
 - [[gadd-fungal-ecology-saprotrophs]]
-- [[gadd-fungal-carbon-sequestration]]

@@ -109,20 +109,6 @@ Aphidius colemani and Aphidius ervi are aphid parasitoids used extensively in fi
 ## Common Misconceptions
 
 ## See Also
-
 - [[comparison-parasitoid-wasps-vs-chemical-pesticides]]
-
-- 
-- 
-- 
-- insectary plants
-- Trichogramma wasps
-- Encarsia formosa
-- Aphidius colemani
-- insect ecology
-
-- 
-
-## See Also
 - [[microfungal-diversity-host-plant-relationship]]
 - [[fungal-virulence-factors-host-immune-evasion]]

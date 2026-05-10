@@ -37,7 +37,7 @@ reallocation.
 Many filamentous fungi produce [[antifungal-secondary-metabolites-coprophilous-fungi]] that deter or poison
 fungal grazers. These chemical defenses include toxic compounds, repellents,
 and growth inhibitors that affect specific groups of grazers. Some fungi
-produce [[fungal-volatile-organic-compounds]] that repel collembola and nematodes from
+produce [[fungal-volatile-organic-compounds-communication]] that repel collembola and nematodes from
 colonized substrates. Others produce non-volatile toxins that are incorporated
 into the hyphal cell wall or released into the surrounding substrate. The
 diversity of [[bloomfield-fungal-secondary-metabolites]] reflects in part the evolutionary
@@ -107,6 +107,8 @@ and reducing soil disturbance, can enhance the overall function of the soil
 ecosystem by promoting healthy fungal-grazer dynamics.
 
 ## See Also
+
+- [[gadd-soil-invertebrate-grazing-mycelial-responses]]
 
 - gadd-fungal-secondary-metabolites.md
 - gadd-hyphal-tip-growth-and-polarization.md

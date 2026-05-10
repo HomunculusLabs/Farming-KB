@@ -16,7 +16,7 @@ Duration of action is one of the most pharmacologically and practically importan
 ## Duration Categories
 
 ### Short-Acting (2-4 hours)
-A minority of phenethylamines fall into this category. These tend to be compounds with small substituents or those that are rapidly metabolized. The [[savory-short-duration-grazing-and-cell-systems]] makes them more manageable but also limits the depth of experience achievable.
+A minority of phenethylamines fall into this category. These tend to be compounds with small substituents or those that are rapidly metabolized. The short duration makes them more manageable but also limits the depth of experience achievable.
 
 ### Moderate-Acting (4-8 hours)
 The most common duration range, typical of the 2C family without alpha-methylation:

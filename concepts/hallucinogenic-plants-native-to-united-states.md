@@ -42,7 +42,7 @@ approximations, with recipes and user reports available online.
 
 ## Psilocybe Mushrooms
 
-[[mescaline-entity]] as the principal hallucinogen at approximately 1.5%
+[[mescaline]] as the principal hallucinogen at approximately 1.5%
 by dry weight. It grows along the Texas-Mexico border. Potent
 intoxication requires approximately 3.75 mg/kg, peaking at 2-4 hours.
 
@@ -78,7 +78,7 @@ toxic in most species, with seeds being particularly dangerous.
 
 [[psychoactive-plants-united-states]]
 
-- [[mescaline-entity]]
+- [[mescaline]]
 - salvinorin-A
 
 ## See Also

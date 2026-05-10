@@ -139,10 +139,6 @@ Every ritual includes explicit instructions for closing the sacred space and ret
 The act of closing carries explicit philosophical significance in the text. The guide notes that wiping the pentagram helps practitioners remember "that the earth, like all things, is fleeting and in time will no longer exist though the memories of it and its spirit will continue to live on forever." The closing is thus not merely a procedural step but a meditation on impermanence that completes the ritual's spiritual arc.
 
 ## See Also
-
 - [[marijuana-magick-cannabis-incense-and-preparation]]
 - [[marijuana-magick-historical-witches-and-cannabis]]
-
-## See Also
-
 - [[marijuana-magick-ancient-ritual-use-cannabis]]

@@ -1,5 +1,5 @@
 ---
-title: KNF bionutrients-lab-oriental-herbal-nutrients-ohn Adjust (OHA)
+title: KNF Oriental Herbal Adjust (OHA)
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # KNF Oriental Herbal Adjust (OHA)
 
-The Oriental Herbal Adjust (OHA), more commonly referred to as Oriental [[oriental-herbal-nutrient-ohn]] (OHN), is a very important input in [[comparison-natural-farming-vs-permaculture]]. It is made from herbs which are full of energy and function to increase plant robustness, to sterilize and keep plants warm. OHN revitalizes crops and activates their growth.
+The Oriental Herbal Adjust (OHA), more commonly referred to as Oriental Herbal Nutrient (OHN), is a very important input in Natural Farming. It is made from herbs which are full of energy and function to increase plant robustness, to sterilize and keep plants warm. OHN revitalizes crops and activates their growth.
 
 ## Overview
 
@@ -28,7 +28,7 @@ OHN is made from popular oriental herbs such as Angelica, Acutiloba, Licorice an
 ### Cinnamon
 
 - Warms and stimulates plant growth
-- [[mycelium-running-mushroom-antimicrobial-properties-species-chart]]
+- Antimicrobial properties
 - Made by soaking cinnamon bark in rice wine/beer at 1:3 ratio (bark to liquid)
 - Add jaggery equivalent to weight of ingredients
 - Ferment 3-5 days, stir daily with stick each morning for two weeks
@@ -67,7 +67,7 @@ OHN is made from popular oriental herbs such as Angelica, Acutiloba, Licorice an
 
 - The three kinds of OHNs (ginger, garlic, cinnamon) are mixed just before using
 - Mix ratio: 1:1:1:1000 (equal parts of each OHN in 1000 parts water)
-- Can be used throughout the entire [[cho-nutritive-cycle-theory]]
+- Can be used throughout the entire Nutritive Cycle
 - Basic dilution ratio: 1:500 to 1:1000
 
 ## When Crops Are Weakened
@@ -84,7 +84,7 @@ For plants with soft rot or anthracnose, add WCA at 1:1000 to the mixture.
 OHN is used in making:
 - [[knf-indigenous-microorganism-culture|IMO-3 and IMO-4]]
 - Soil treatment solutions
-- [[jadam-seed-treatment-and-nursery-management]] solutions
+- Seed treatment solutions
 
 ## Storage
 

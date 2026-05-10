@@ -108,6 +108,8 @@ Under garden conditions, Dutchman's breeches naturalizes readily and can form ex
 
 ## See Also
 
+- [[dicentra-spectabilis]]
+
 - [[eschscholzia-californica]]
 - [[sanguinaria-canadensis]]
 - [[datura-stramonium]]

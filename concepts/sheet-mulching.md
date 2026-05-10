@@ -1,5 +1,5 @@
 ---
-title: comparison-sheet-mulching-vs-chop-and-drop-mulching
+title: Sheet Mulching
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -14,8 +14,8 @@ Sheet mulching (also called lasagna gardening or composting in place) is a no-ti
 ## Why Sheet Mulch Instead of Tilling
 
 - Preserves soil structure and the [[soil-food-web-nutrient-cycling]] intact — tilling destroys fungal networks and kills beneficial organisms
-- Encourages multiple generations of soil life ([[holmgren-ecological-succession-and-pulsing]] in the soil)
-- Fills the garden bed with rich excretions of decomposer organisms instead of wasting them beneath a [[mushroom-cultivator-compost-pile-management]]
+- Encourages multiple generations of soil life (ecological succession in the soil)
+- Fills the garden bed with rich excretions of decomposer organisms instead of wasting them beneath a compost pile
 - Less work than building a compost pile and then carting finished compost to beds
 - Builds 1-2 inches of topsoil per year
 - Can be planted into immediately (using soil pockets)
@@ -42,7 +42,7 @@ Sheet mulching (also called lasagna gardening or composting in place) is a no-ti
 
 - Cardboard: appliance boxes, bike shops, furniture stores (remove tape and staples)
 - Mulch: tree trimming services, municipal green waste, fall leaves, straw
-- Nitrogen layer: compost, well-rotted manure, [[oyster-mushroom-coffee-grounds-cultivation]], grass clippings
+- Nitrogen layer: compost, well-rotted manure, coffee grounds, grass clippings
 - One pickup load of mulch covers approximately 50 square feet
 
 ## Variations
@@ -51,7 +51,7 @@ Sheet mulching (also called lasagna gardening or composting in place) is a no-ti
 For large areas or orchards, simply lay cardboard and thick mulch without the compost layers. This suppresses weeds and builds soil under fruit trees with minimal effort.
 
 ### Sheet Mulching Over Lawn
-Mow the lawn as low as possible first. The cardboard kills the grass by blocking light. In 2-3 months, the grass decomposes and becomes soil [[hamilton-composting-and-organic-matter-management]].
+Mow the lawn as low as possible first. The cardboard kills the grass by blocking light. In 2-3 months, the grass decomposes and becomes soil organic matter.
 
 ### For Food Forest Establishment
 Sheet mulch is the preferred method for establishing [[food-forest-design]]. Mulch the entire area, then plant through the cardboard into existing soil. This is especially important because once perennial plants are established, the soil is much harder to amend.
@@ -72,7 +72,7 @@ Sheet mulching accelerates ecological succession in the soil. The layered organi
 
 - [[gaias-garden-methods]] — Sheet mulching in the context of home-scale permaculture
 - [[no-till-gardening-method]] — Why tilling destroys soil biology
-- [[composting-systems]] — Comparison of [[natural-farming-guide-composting-methods-and-techniques]]
+- [[composting-systems]] — Comparison of composting methods
 - [[mulching-guide]] — Mulch types, depth, and seasonal strategy
 - [[food-forest-design]] — Using sheet mulch to establish food forests
 - [[soil-food-web-nutrient-cycling]] — The biology that sheet mulching supports

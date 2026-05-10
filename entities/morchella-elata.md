@@ -15,7 +15,7 @@ sources:
   - "Kuo, M. (2024). MushroomExpert.com — Morchella elata Complex."
   - "Clowez, P. (2012). \"Les Morels d'Europe." Documents Mycologiques."
   - "Richard, F. et al. (2015). \"Morchella galilaea sp. nov. — A New Species from Israel." Mycologia."
-  - "Du, X.H. et al. (2012). \"Multigene Phylogeny of Morchella.\" [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]."
+  - "Du, X.H. et al. (2012). \"Multigene Phylogeny of Morchella.\" arbuscular-mycorrhizal-fungal-diversity-patterns-distribution."
   - "Buscot, F. (1989). \"Field and Laboratory Synthesis of Morchella mycorrhizae." Mycologia."
 ---
 
@@ -92,3 +92,7 @@ The cap of *M. elata* is conical to broadly conical, 3–10 cm tall and 2–5 cm
 
 Cut morels at the base rather than pulling; leave smaller specimens to ensure [[morchella-angusticeps]]
 - [[morchella-esculenta]]
+
+## See Also
+
+- [[gastrodia-elata]]

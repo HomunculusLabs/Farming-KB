@@ -115,12 +115,12 @@ therapeutics in the years since its publication.
 The synthesis demonstrates how regulatory imperatives can catalyze chemical innovation, producing robust and
 practical methodologies that serve both the immediate forensic needs that motivated them and the longer-term
 scientific research programs that benefit from reliable access to well-characterized reference compounds.
-## See Also
 
+## See Also
 - [[psilocybian-fungi-law-australia-nz]]
-- 
-- 
-- 
+- [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]
+- [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]
+
 ## References
 - Shirota, O., Hakamata, W., and Goda, Y. (2003). Concise Large-Scale Synthesis of Psilocin and Psilocybin. Journal of Natural Products, 66(8), 1120-1123.
 - Adlaf, E.M., et al. (2001). Mushroom use and associated factors. Canadian Journal of Public Health, 92(4), 277-281.

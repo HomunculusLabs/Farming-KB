@@ -13,9 +13,9 @@ date: 2026-05-03
 updated: 2026-05-03
 sources:
   - Peterson, R. W. "Pawpaw: In Search of America's Forgotten Fruit." Timber Press, 2015.
-  - Moore, J. "Pawpaw: The Largest Native Fruit." [[growing-gourmet-north-american-reishi-species]] Pawpaw Growers Association, 2020.
+  - Moore, J. "Pawpaw: The Largest Native Fruit." growing-gourmet-north-american-reishi-species Pawpaw Growers Association, 2020.
   - Pomper, K. W. et al. "Pawpaw (Asimina triloba) Cultivation." Kentucky State University, 2019.
-  - Layne, D. R. "Pawpaw [[comparison-biochar-production-guide-vs-biochar-soil-amendment]]." ASHS Press, 1996.
+  - Layne, D. R. "Pawpaw comparison-biochar-production-guide-vs-biochar-soil-amendment." ASHS Press, 1996.
   - NFLS Pawpaw Trial Reports, 2010–2023.
 ---
 
@@ -139,7 +139,6 @@ Pawpaws pair well with:
 ### Watering
 
 Established pawpaws are relatively drought-tolerant due to their deep taproot, but consistent moisture is critical during:
-- The first 2 growing seasons after planting
 ## Related Topics
 
 - [[persimmon-cultivation-and-variety-guide|Persimmon Cultivation]]

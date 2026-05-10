@@ -13,10 +13,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kershaw L. (2000). "Edible & Medicinal Plants of the Rockies." Lone Pine Publishing.
-  - Moerman D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
+  - Moerman D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Richardson J.L. (2008). "Plants of the Rocky Mountains." Lone Pine Publishing.
   - Willard T. (1992). "Edible and Medicinal Plants of the West." Hearst Books.
-  - Kartesz J.T. (2015). "The Biota of [[psilocybin-north-america-pacific-northwest]] Program (BONAP)."
+  - Kartesz J.T. (2015). "The Biota of psilocybin-north-america-pacific-northwest Program (BONAP)."
 ---
 
 # Shepherdia canadensis

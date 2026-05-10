@@ -131,7 +131,7 @@ If treated seed has already been prepared as substrate, options are limited:
 
 ## See Also
 
-- [[grass-seed-substrate-preparation]] — Substrate [[amanita-muscaria-preparation-methods]]
+- [[grass-seed-substrate-preparation]] — Substrate [[amanita-preparation-methods]]
 - grass seed water absorption variability — Water calibration
 - [[grass-seed-substrate-species-compatibility]] — Species compatibility
 - sterilizing surfaces by irradiation with microwaves — Alternative sterilization

@@ -141,6 +141,6 @@ Emerald Cup and High Times Cannabis Cup, and remains a staple in
 dispensaries across legal markets.
 ## See Also
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[wedding-cake]]
 - [[gmo-garlic-cookies]]

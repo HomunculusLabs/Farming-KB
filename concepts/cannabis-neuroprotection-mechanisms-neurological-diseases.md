@@ -122,6 +122,6 @@ THC-to-CBD ratios should be tailored to specific conditions.
 
 ## See Also
 
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 - [[cannabidiol-cbd]]
 - [[cannabis-health-index-chi-scoring]]

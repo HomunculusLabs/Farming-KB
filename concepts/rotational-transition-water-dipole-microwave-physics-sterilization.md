@@ -143,6 +143,6 @@ This means:
 ## See Also
 
 - [[trace-water-flash-steam-microwave-sterilization]] — Water-enhanced killing
-- [[microwave-sterilization-power-density-calibration-3.6-w-cm2]] — Power density
+- [[microwave-sterilization-power-density-calibration-3-6-w-cm2]] — Power density
 - [[spore-vs-vegetative-cell-resistance-microwave-sterilization]] — [[dry-microwave-irradiation-spore-resistance]]
 - [[microwave-sterilization-dose-response-microbial-kill-kinetics-nasa-testing]] — Kill curves

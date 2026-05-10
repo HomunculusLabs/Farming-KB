@@ -126,6 +126,6 @@ Cookie-family [[cannabis-terpene-profiles-sativa]] (sweet, earthy, bakery-like w
 
 - [[cannabis-cloning-rooting-cuttings-method-clarke]]
 - [[cannabis-hashish-guide]]
-- [[og-kush]] — legendary parent strain
+- [[og-kush-cannabis-entity]] — legendary parent strain
 - [[gelato]] — popular GSC descendant
-- [[cannabis-blue-dream]] — another benchmark hybrid strain
+- [[blue-dream]] — another benchmark hybrid strain

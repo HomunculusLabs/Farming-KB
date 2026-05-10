@@ -123,7 +123,6 @@ require careful handling, as the capsaicinoid concentration is sufficient
 to cause skin irritation, eye damage, and respiratory distress.
 
 Capsaicinoid chemistry is more complex than simple heat measurement
-suggests. At least seven capsaicinoids contribute to the pepper
 ## See Also
 
 - [[pepper-growing-guide]]

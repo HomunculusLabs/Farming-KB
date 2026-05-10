@@ -1,20 +1,19 @@
 ---
-title: Grape comparison-bean-growing-guide-vs-pepper-growing-guide
+title: Grape Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cultivation, pruning, fruit-tree, orchard, pest-control, harvesting]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-Grapes are long-lived perennial vines that can produce fruit for 50+ years with proper care. They are versatile — grown for fresh eating (table grapes), winemaking, juice, raisins, and ornamental landscaping. This guide covers vine training systems, pruning methods, variety selection, [[plant-disease-management-solomon]], and harvest.
+Grapes are long-lived perennial vines that can produce fruit for 50+ years with proper care. They are versatile — grown for fresh eating (table grapes), winemaking, juice, raisins, and ornamental landscaping. This guide covers vine training systems, pruning methods, variety selection, disease management, and harvest. (see [[permaculture-passionfruit]]).
 
 ## Vine Training Systems
 
-Training establishes the permanent structure of the grapevine — the framework on which fruit-producing canes or spurs grow each year.
+Training establishes the permanent structure of the grapevine — the framework on which fruit-producing canes or spurs grow each year. (see [[strawberry-growing-guide]]).
 
 ### Kniffen Systems (4-Arm Kniffen)
 - Most common home garden training system
@@ -22,7 +21,7 @@ Training establishes the permanent structure of the grapevine — the framework 
 - Lower wire at 3 feet, upper wire at 5-6 feet
 - Four fruiting canes are retained each year, one per arm
 - Simple to understand and maintain
-- Works well for American and [[cervantes-hybrid-varieties-types]]
+- Works well for American and hybrid varieties
 - Posts set 8-10 feet apart with wires stretched between them
 
 ### High Cordon (Bilateral Cordon)
@@ -44,7 +43,7 @@ Training establishes the permanent structure of the grapevine — the framework 
 - Trunk with permanent cordon on a wire at 3-4 feet
 - Shoots are trained upward through movable catch wires
 - Creates a vertical curtain of foliage
-- Excellent light exposure and [[stamets-growing-room-air-circulation-co2-management]]
+- Excellent light exposure and air circulation
 - Requires more maintenance but produces premium fruit quality
 - Best for Vitis vinifera and quality wine production
 
@@ -100,7 +99,7 @@ Proper pruning is the single most important factor in grape quality and producti
 - **Pinot Noir**: Thin-skinned red; needs cool climate, disease-prone
 - **Chardonnay**: White; widely adaptable
 - **Riesling**: White; needs cool climate for best quality
-- **Norton (Cynthiana)**: [[halpern-sacramental-peyote-and-native-american-church]] red wine grape; disease-resistant, excellent wine
+- **Norton (Cynthiana)**: Native American red wine grape; disease-resistant, excellent wine
 - **Marquette**: Cold-hardy hybrid (zone 3); excellent wine quality
 - **Frontenac**: Cold-hardy hybrid (zone 3); robust red wine
 
@@ -132,7 +131,7 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 
 ### Black Rot
 - Small reddish-brown spots on berries that expand and shrivel into black mummies
-- Very common in [[polypore-fungi-eastern-north-america]] America
+- Very common in eastern North America
 - Sanitation critical: remove mummified berries from the vine and ground
 - Organic controls: copper sprays, sulfur, lime-sulfur
 - Resistant varieties available
@@ -143,8 +142,9 @@ Grapes are susceptible to several fungal diseases, especially in humid climates.
 - Improve air circulation, thin clusters, remove leaves around fruit
 - Can be beneficial in dry conditions (noble rot in wine grapes)
 
-## See Also
-
-- [[apple-tree-care]] for companion orchard fruit management
-- [[backyard-orchard-design]] for orchard layout and integration
-- [[stone-fruit-tree-care]] for companion fruit tree care
+### Pierce's Disease
+- Bacterial disease fatal to European (vinifera) grapes
+- Spread by sharpshooter insects
+- Primarily a problem in the southeastern US and California
+- No cure; plant resistant varieties in affected areas
+- American and Muscadine grapes are resistant

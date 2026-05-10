@@ -132,7 +132,6 @@ Macadamias have specific nutritional requirements that differ from many other tr
 Leaf analysis is the standard method for assessing nutritional status. Samples should be collected in mid-summer from the most recent mature flush of leaves.
 
 Composted organic matter, comfrey mulch, and cover crops within [[comparison-alley-cropping-vs-silvopasture]] systems contribute to soil fertility and reduce synthetic fertilizer dependence.
-
 ## See Also
 
 - [[agroforestry]]

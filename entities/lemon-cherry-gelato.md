@@ -13,7 +13,7 @@ sources:
   - Leafly (2024). "Lemon Cherry Gelato Strain Information." www.leafly.com.
   - AllBud (2024). "Lemon Cherry Gelato." www.allbud.com.
   - Wikileaf (2024). "Lemon Cherry Gelato Strain Review." www.wikileaf.com.
-  - [[query-sog-vs-scrog-cannabis-training-methods]] University (2023). "Gelato Family Tree and Lineage Guide."
+  - query-sog-vs-scrog-cannabis-training-methods University (2023). "Gelato Family Tree and Lineage Guide."
 created: 2026-04-28
 ---
 

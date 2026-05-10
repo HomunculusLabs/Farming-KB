@@ -101,12 +101,6 @@ and stirring were maintained for an additional 7 h, then the reaction
 This compound is a research chemical with limited human data. Shulgin's dosage ranges are based on limited self-experimentation and should not be taken as established safe doses. Many PIHKAL compounds are potent psychoactive substances that may carry unknown risks. [[ayahuasca-tourism-legal-status-by-country]] varies by jurisdiction.
 
 ## See Also
-
 - [[aleph-2-entity-pihkal]]
 - [[aleph-6-entity-pihkal]]
-
-- PIHKAL (the source book)
-
-## See Also
-
 - [[aleph-4-entity-pihkal]]

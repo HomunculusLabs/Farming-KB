@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pest-management, agriculture, gardening, pest-control, troubleshooting, cover-crop, soil, biology]
-sources:
-  sources: []
+sources: []
 ---
 
 # Nematode Management
@@ -18,7 +17,7 @@ Plant-parasitic nematodes are microscopic roundworms that attack plant roots, ca
 
 **Root-Knot Nematodes (Meloidogyne spp.)**
 - The most destructive group in home gardens and farms
-- Cause characteristic galls (knots) on roots that interfere with water and [[plant-nutrient-uptake-mechanisms]]
+- Cause characteristic galls (knots) on roots that interfere with water and nutrient uptake
 - Affected plants show stunting, wilting in hot weather (despite adequate moisture), yellowing, and reduced yields
 - Species include M. incognita (southern root-knot), M. hapla (northern root-knot), M. javanica, and M. arenaria
 - Most active in warm soils (70-85°F); populations decline in cold winters
@@ -45,7 +44,7 @@ Not all nematodes are plant pests. Beneficial (entomopathogenic) nematodes are p
 
 - **Steinernema spp.**: Seek and kill various soil insects. Apply as a soil drench.
 - **Heterorhabditis spp.**: More aggressive hunters, effective against grubs and beetle larvae.
-- These are allies in [[cannabis-pest-management-guide]] and should be encouraged or purchased for soil pest problems.
+- These are allies in pest management and should be encouraged or purchased for soil pest problems.
 
 ## Identifying Nematode Problems
 
@@ -56,7 +55,7 @@ Not all nematodes are plant pests. Beneficial (entomopathogenic) nematodes are p
 - Yellowing (chlorosis) starting from older leaves
 - General decline and reduced yield
 - Patchy distribution in the field or garden (nematode populations are not uniform)
-- Symptoms often resemble [[cannabis-grow-nutrient-deficiency-problem-solving]] or drought stress
+- Symptoms often resemble nutrient deficiency or drought stress
 
 ### Below-Ground Symptoms (Root Examination)
 
@@ -84,7 +83,7 @@ Rotation is the most important long-term strategy. The key is to rotate between 
 
 Certain cover crops suppress nematode populations through natural chemical compounds or by acting as poor hosts that stimulate nematode eggs to hatch without providing food.
 
-- **French marigolds (Tagetes patula)**: Release alpha-terthienyl from their roots, which is toxic to root-knot nematodes. Plant densely as a cover crop for one full [[savory-growing-season-and-non-growing-season-management]]. Varieties with the highest nematicidal effect: 'Nemagone', 'Petite Harmony', 'Tangerine'. See details below.
+- **French marigolds (Tagetes patula)**: Release alpha-terthienyl from their roots, which is toxic to root-knot nematodes. Plant densely as a cover crop for one full growing season. Varieties with the highest nematicidal effect: 'Nemagone', 'Petite Harmony', 'Tangerine'. See details below.
 - **Cereal rye**: Poor host for root-knot nematodes. The rye residues contain allelopathic compounds that suppress nematode populations after incorporation.
 - **Sorghum-sudangrass**: Roots release a natural nematicide (sorgoleone). Incorporate the green manure at peak growth for maximum effect.
 - **Mustard**: Biofumigant glucosinolates suppress nematodes. See [[green-manure-crops]] for biofumigation protocol.
@@ -112,12 +111,12 @@ Marigolds are the most well-known and effective biological nematicide for garden
 
 - Marigolds suppress nematode populations but do not eliminate them completely
 - Effectiveness varies with soil type, temperature, and nematode species
-- In heavy infestations, 1-2 years of marigold [[fukuoka-clover-cover-cropping-soil-ecology]] may be needed before replanting susceptible crops
+- In heavy infestations, 1-2 years of marigold cover cropping may be needed before replanting susceptible crops
 - Not a substitute for rotation — use marigolds as part of a broader nematode management strategy
 
 ## Resistant Varieties
 
-Many [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] have been bred for nematode resistance. The letter "N" in seed catalog descriptions indicates root-knot nematode resistance.
+Many vegetable varieties have been bred for nematode resistance. The letter "N" in seed catalog descriptions indicates root-knot nematode resistance.
 
 ### Nematode-Resistant Tomato Varieties
 
@@ -136,15 +135,16 @@ Many [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] have 
 
 ### Beneficial Nematodes (Entomopathogenic)
 
-## Related Topics
+While entomopathogenic nematodes (Steinernema, Heterorhabditis) primarily target insect pests, some research suggests they may also suppress plant-parasitic nematodes through competition and antibiotic production. Apply as a soil drench in spring.
 
-- [[cover-cropping-guide]] for cover crop selection in nematode management
-- [[crop-rotation-principles]] for rotation planning
-- [[green-manure-crops]] for biofumigant cover crops
-- [[beneficial-insects-guide]] for beneficial nematode use against insect pests
-- [[natural-pest-deterrents]] for organic sprays that may suppress nematodes
+### Mycorrhizal Fungi
 
-## Related
+Mycorrhizal colonization of roots can reduce nematode damage by:
+- Improving plant tolerance (better nutrient and water uptake compensates for root damage)
+- Physical barrier (fungal hyphal mantle around roots impedes nematode penetration)
+- Chemical defense (mycorrhizal plants activate stronger defense responses)
 
-- [[companion-planting-reference]]
-- [[trap-cropping]]
+### Pasteuria penetrans
+
+A bacterial parasite of root-knot nematodes. Spores attach to nematode juveniles, penetrate the body, and reproduce inside, killing the nematode. Available as a commercial biological nematicide in some regions.
+

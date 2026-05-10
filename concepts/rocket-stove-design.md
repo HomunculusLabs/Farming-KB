@@ -1,5 +1,5 @@
 ---
-title: comparison-rocket-stove-vs-masonry-heater Design
+title: Rocket Stove Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,11 +9,11 @@ sources: []
 
 # Rocket Stove Design
 
-A rocket stove is an efficient, clean-burning cookstove that uses small-diameter wood fuel and an insulated combustion chamber to achieve near-complete combustion. They produce very little smoke, use a fraction of the fuel of open fires, and can be built from inexpensive or salvaged materials. On a homestead, rocket stoves serve as primary or backup cooking, water heating, and space heating systems.
+A rocket stove is an efficient, clean-burning cookstove that uses small-diameter wood fuel and an insulated combustion chamber to achieve near-complete combustion. They produce very little smoke, use a fraction of the fuel of open fires, and can be built from inexpensive or salvaged materials. On a homestead, rocket stoves serve as primary or backup cooking, water heating, and space heating systems. (see [[rocket-stove]]).
 
 ## How Rocket Stoves Work
 
-Rocket stoves operate on the principle of **insulated combustion [[fruiting-chamber-design-and-environmental-control]]**:
+Rocket stoves operate on the principle of **insulated combustion chamber design**:
 
 1. **Fuel is fed vertically** into a narrow (J-shaped or L-shaped) combustion chamber
 2. The chamber is heavily insulated, which keeps the combustion zone extremely hot (1000F+)
@@ -30,7 +30,7 @@ Key design ratios:
 ## J-Tube vs. L-Tube
 
 ### J-Tube (Most Common)
-The fuel feed is vertical, feeding down into a horizontal burn tunnel, which connects to a vertical chimney. The shape resembles the letter J.
+The fuel feed is vertical, feeding down into a horizontal burn tunnel, which connects to a vertical chimney. The shape resembles the letter J. (see [[rocket-mass-heater-design]]).
 
 - Cleaner burn due to the vertical fuel feed and preheating of incoming air
 - Fuel feeds itself by gravity — you can load sticks and they slide down as they burn
@@ -104,8 +104,8 @@ A well-built rocket stove achieves:
 
 - **Daily cooking** — efficient stovetop cooking for soups, stews, boiling, and frying
 - **Water heating** — heat water for bathing, cleaning, or [[wood-fired-hot-tub]]
-- **Canning** — supports a large pot for water [[water-bath-canning-guide]] during power outages
-- **Space heating** — [[query-what-is-a-rocket-mass-heater-and-how-does-it-work]] heaters use the same combustion principle with a thermal mass bench for radiant heating (significant project, not covered here)
+- **Canning** — supports a large pot for water bath canning during power outages
+- **Space heating** — rocket mass heaters use the same combustion principle with a thermal mass bench for radiant heating (significant project, not covered here)
 - **Outdoor cooking** — portable rocket stoves are excellent for outdoor kitchens, camping, and emergency cooking
 - **Burning brush** — dispose of small brush and branches efficiently while producing useful heat
 

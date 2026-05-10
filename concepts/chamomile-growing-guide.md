@@ -4,20 +4,19 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, companion-planting, pollinators]
-sources:
-  sources: []
+sources: []
 ---
 
 # Chamomile Growing Guide
 
 ## Overview
 
-Chamomile is one of the most ancient and widely used [[permaculture-plants-medicinal-herbs-healing]], prized
+Chamomile is one of the most ancient and widely used medicinal herbs, prized
 for its calming, anti-inflammatory, and digestive properties. Two species are
-primarily cultivated: German chamomile (Matricaria chamomilla, syn. M.
+primarily cultivated: German chamomile (Matricaria chamomilla, syn. M. (see [[valerian-growing-guide]]).
 recutita) and Roman chamomile (Chamaemelum nobile). While they share many
 medicinal qualities, they differ significantly in growth habit, cultivation
-requirements, and ideal uses.
+requirements, and ideal uses. (see [[echinacea-growing-guide]]).
 
 ## German vs Roman Chamomile Comparison
 
@@ -51,7 +50,7 @@ Primary applications:
 - Teething and colic: Mild chamomile tea is traditionally used for infants
   with colic (consult a pediatrician first).
 - Menstrual discomfort: Anti-spasmodic action eases menstrual cramps.
-- Immune support: Mild [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] support respiratory health.
+- Immune support: Mild antimicrobial properties support respiratory health.
 
 Safety: Chamomile is generally very safe. Individuals with allergies to
 ragweed, chrysanthemums, or other Asteraceae family members should use
@@ -95,16 +94,16 @@ lush foliage with fewer flowers. pH 5.6-7.5.
 - Dense planting helps support the tall, sometimes floppy stems
 
 ### Care
-- Water seedlings regularly; established plants are moderately [[permplant-carob-drought-tolerant-food-tree]]
+- Water seedlings regularly; established plants are moderately drought tolerant
 - Pinch back young plants to encourage bushier growth
 - No fertilizer needed; excess nitrogen reduces flower production
-- Generally [[hamilton-pest-and-disease-control-organic]] free
+- Generally pest and disease free
 
 ## Cultivation of Roman Chamomile
 
 ### Site Selection
 Full sun to partial shade. Prefers well-drained, slightly acidic to neutral
-soil. Good [[dighton-fungal-drought-tolerance-plant-water-relations]] once established. Works well as a ground cover,
+soil. Good drought tolerance once established. Works well as a ground cover,
 between stepping stones, or as a lawn alternative.
 
 ### Propagation
@@ -121,7 +120,7 @@ between stepping stones, or as a lawn alternative.
 
 ### Care
 - Water regularly until established
-- Mow or shear after flowering to maintain [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
+- Mow or shear after flowering to maintain compact growth
 - Tolerates light foot traffic (single-flowered varieties)
 - Divide every 2-3 years to maintain vigor
 
@@ -140,11 +139,12 @@ For both species:
   media and avoid overwatering.
 - Aphids: Occasionally appear on flower buds; spray with water or insecticidal
   soap.
-## See Also
+- Powdery mildew: Improve air circulation around plants.
+- Leggy growth: Indicates too much shade or excessive nitrogen.
 
-- [[yarrow-plant-guide]] -- combine with chamomile in calming tea blends
-- [[holy-basil-tulsi-guide]] -- another adaptogenic tea herb for daily use
+## Companion Planting
 
-## Related
-
-- [[st-johns-wort-guide]]
+Chamomile is an excellent companion plant:
+- Said to improve the flavor and growth of nearby herbs and vegetables
+- Attracts beneficial insects including hoverflies and wasps
+- Its anti-fungal properties may help prevent damping off in nearby seedlings

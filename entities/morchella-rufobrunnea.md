@@ -15,7 +15,7 @@ sources:
   - "Richard, F., Gardes, M., & Moreau, P.A. (2015). \"Morchella rufobrunnea.\" Fungal Biology, 119(12), 1248-1257."
   - "O'Donnell, K. et al. (2011). \"Multilocus phylogenetic analysis of Morchella.\" Mycologia, 103(4), 770-780."
   - "Pilz, D. et al. (2007). Ecology and management of morels. USDA PNW-GTR-710."
-  - "Cao, Y. et al. (2023). \"[[fukuoka-matsutake-artificial-cultivation-attempt]] of Morchella species.\" Frontiers in Microbiology, 14, 1156321."
+  - "Cao, Y. et al. (2023). \"fukuoka-matsutake-artificial-cultivation-attempt of Morchella species.\" Frontiers in Microbiology, 14, 1156321."
 ---
 
 # Morchella rufobrunnea

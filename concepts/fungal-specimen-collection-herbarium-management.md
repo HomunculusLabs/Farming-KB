@@ -97,4 +97,6 @@ Destructive sampling for [[fungal-electronic-specimen-catalogues]]
 
 ## See Also
 
+- [[fungal-herbarium-record-keeping-specimen-transactions]]
+
 - fungal-specimen-preparation-herbarium-management

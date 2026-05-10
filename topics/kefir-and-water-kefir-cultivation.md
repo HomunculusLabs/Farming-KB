@@ -141,7 +141,6 @@ Kefir fermentation is a sequential, multi-species process that unfolds over 12â€
 ### Equipment
 
 - Glass jar (quart/liter with wide mouth)
-- Plastic or nylon mesh strainer (metal can damage grains)
 ## See Also
 
 - [[fermented-foods-and-beverages]] â€” Overview of global fermented food traditions

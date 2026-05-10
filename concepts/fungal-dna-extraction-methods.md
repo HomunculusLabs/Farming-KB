@@ -141,10 +141,10 @@ costly downstream analyses such as sequencing or cloning:
   dyes provides more accurate concentration estimates than spectrophotometry,
   especially for samples containing RNA or free nucleotides.
 
-## Metagenomic DNA Extraction Considerations
 ## See Also
+
+- [[fungal-destructive-sampling-herbarium-dna-extraction]]
 - [[fungal-rdna-primers-molecular-identification]]
 - [[environmental-dna-metabarcoding]]
 - [[fungal-metagenomics]]
 - [[fungal-metatranscriptomics]]
-- [[biodiversity-of-fungi-biomass-carbon-soil-structure]]

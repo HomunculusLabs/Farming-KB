@@ -115,7 +115,7 @@ The strain is generally not recommended for conditions requiring sedation, such 
 
 ## See Also
 
-- [[trainwreck]] — sativa-dominant hybrid with energetic profile
-- [[cannabis-blue-dream]] — balanced hybrid with cerebral qualities
+- [[trainwreck-cannabis]] — sativa-dominant hybrid with energetic profile
+- [[blue-dream]] — balanced hybrid with cerebral qualities
 - [[cannabis-indoor-growing-basics]] — pure landrace sativa from Africa
 - [[super-lemon-haze]] — citrusy sativa-dominant hybrid

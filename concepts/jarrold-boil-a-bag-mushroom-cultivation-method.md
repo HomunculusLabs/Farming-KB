@@ -140,6 +140,8 @@ Designed for cold climates. A container with water, lid, and input fan; multiple
 - **Self-contained**: Each bag is an independent growing unit, reducing cross-contamination risk
 ## See Also
 
+- [[mushroom-cultivation-equipment-sourcing-jarrold]]
+
 - [[pf-tek-mushroom-cultivation-method]]
 
 - straw-substrate-boil-a-bag-cultivation-method

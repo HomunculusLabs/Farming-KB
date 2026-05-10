@@ -135,7 +135,6 @@ Central Europe, P. portoricensis from Puerto Rico, and the
 Panaeolina species described by Hongo from Japan and by Natarajan
 and Raman from India. The prevalence of endemism in Mexico, which
 leads the world with 44 taxa of neurotropic Psilocybe, reflects
-both genuine evolutionary diversification and the intensity of
 ## See also
 
 [[guzman-allen-gartz-global-psilocybe-biogeography]]

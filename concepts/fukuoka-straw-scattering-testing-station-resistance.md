@@ -5,7 +5,6 @@ updated: 2026-04-18
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -93,7 +92,7 @@ It took five years for other plant pathologists to come to the same conclusion F
 
 Fukuoka described his complete method in detail:
 
-- In early October, take no more than a pint of [[cannabis-flushing-before-harvest]]ing the rice, take four to ten quarts of barley seed, place it in a basket, and scatter it over the field
+- In early October, take no more than a pint of [[cannabis-flushing-before-harvest]] ing the rice, take four to ten quarts of barley seed, place it in a basket, and scatter it over the field
 
 - This also takes about an hour
 
@@ -128,3 +127,6 @@ Fukuoka noted that the method getting the highest yields at the Ehime Prefectura
 - It took researchers in Ehime and Aichi Prefecture a while, but a few finally gave it a try
 
 ## Testing Stations Still Resist [[fukuoka-straw-scattering-controversy-plant-pathology]]
+
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.

@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - McPherson, S. (2011). "Pitcher Plants of the Americas." Redfern Natural History Productions.
-  - Schnell, D.E. (2002). "Carnivorous Plants of the [[dmt-containing-plants-united-states-halpern]] and Canada." Timber Press.
+  - Schnell, D.E. (2002). "Carnivorous Plants of the dmt-containing-plants-united-states-halpern and Canada." Timber Press.
   - Ellison, A.M. & Gotelli, N.J. (2001). "Evolutionary ecology of carnivorous plants." Trends in Ecology & Evolution, 16(11), 623-629.
   - USDA NRCS (2024). "Sarracenia alata" Plant Profile. plants.usda.gov.
 ---

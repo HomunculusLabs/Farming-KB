@@ -141,7 +141,6 @@ required.
 Commercial mushroom strains are valuable intellectual property, protected through
 restricted master culture access, genetic fingerprinting to detect unauthorized
 use, and licensing agreements with spawn producers.
-
 ## See Also
 
 - [[mushroom-mating-systems-bipolar-tetrapolar-genetics]]

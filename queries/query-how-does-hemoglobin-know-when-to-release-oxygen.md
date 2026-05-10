@@ -1,5 +1,5 @@
 ---
-title: "How does query how does hemoglobin know when to release oxygen when to release oxygen?"
+title: "How does [[query-how-does-phosphorus-availability-change-across-soil-ph-levels|query]] how does [[hemoglobin-and-oxygen-transport|hemoglobin]] know when to release oxygen when to release oxygen?"
 type: query
 question: "How does hemoglobin know when to release oxygen?"
 tags: [biochemistry, physiology, hemoglobin, oxygen-transport, bohr-effect]

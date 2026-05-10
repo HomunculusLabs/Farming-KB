@@ -142,7 +142,6 @@ weeks after discontinuation. St. John's Wort also carries a risk of
 photosensitivity dermatitis, especially in fair-skinned individuals
 at higher doses. Neither herb should be used during pregnancy without
 professional guidance.
-
 ## See Also
 
 - [[comparison-arnica-vs-calendula]]

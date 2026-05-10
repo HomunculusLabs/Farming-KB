@@ -4,8 +4,7 @@ created: 2026-04-14
 updated: 2026-04-14
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources:
-  sources: []
+sources: []
 ---
 ## Overview Mycorrhizal fungi form symbiotic associations with plant roots and are ubiquitous in natural environments. Their role in [[mycorrhizal-fungi]] partner with host plants to create a dual organ of absorption that enhances both pollutant bioavailability and degradation capacity in the rhizosphere zone.
 

@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Guzmán, G. (1983). The Genus Psilocybe. J. Cramer, Vaduz
   - Guzmán, G. et al. (2004). "A new bluing Psilocybe from Mexico." Mycotaxon 89: 269-274
-  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press
+  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press
   - Metzner, R. (1999). Teonanácatl: The Sacred Mushroom of Visions. Four Trees Press
   - Wasson, R.G. (1963). "The Mushroom Seeker." Life Magazine, June 14
 ---

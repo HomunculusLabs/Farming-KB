@@ -12,7 +12,7 @@ tags:
 sources:
   - Gartz, J. (1996). "Distribution and psilocybin content of Pluteus salicinus." Mycological Research, 100(7), 803-804.
   - Allen, J.W. & Gartz, J. (2001). "New observations on the psychoactive mushroom Pluteus salicinus." Eleusis, 6, 25-31.
-  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
+  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Guzmán, G. (2005). "Species diversity of the genus Psilocybe (Fr.) P. Kumm. in the world mycobiota." International Journal of Medicinal Mushrooms, 7(3), 305-312.
 ---
 

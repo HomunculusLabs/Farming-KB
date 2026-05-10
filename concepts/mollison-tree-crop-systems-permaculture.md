@@ -141,7 +141,7 @@ disturbance are the factors that preserve the diversity-stability
 - mollison-aquatic-polyculture-systems
 - [[mollison-animal-integration-permaculture-design]]
 
-- [tree-crops](tree-crops.md)
-- [agroforestry](agroforestry.md)
+- tree-crops
+- [[agroforestry|agroforestry]]
 - [[jerusalem-artichoke]]
 - [[bill-mollison]]

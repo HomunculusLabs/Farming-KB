@@ -1,6 +1,6 @@
 ---
 
-title: What comparison-natural-farming-vs-permaculture Method Should I Use
+title: What Natural Farming Method Should I Use
 created: 2026-04-11
 updated: 2026-04-12
 type: query
@@ -35,10 +35,10 @@ A decision guide for choosing between natural farming approaches based on your g
 
 **Maximum food production on limited space**
 → [[permaculture-design]] for layout + [[nutrient-dense-gardening]] for soil minerals
-→ [[row-gardening-vs-intensive-methods-solomon]] justified; invest in soil quality
+→ Intensive methods justified; invest in soil quality
 
 **Lowest possible input cost**
-→ [[jadam-methods]] — ultra-cheap [[jadam-microbial-solution-jms-preparation-and-use]] + minimal inputs
+→ [[jadam-methods]] — ultra-cheap microbial solution + minimal inputs
 → See [[gardening-in-hard-times]] for Solomon's low-input approach
 
 **Growing cannabis or high-value crops**
@@ -50,12 +50,12 @@ A decision guide for choosing between natural farming approaches based on your g
 → Combine [[no-till-gardening-method]] + [[cover-cropping-guide]] + [[food-forest-design]]
 
 **Philosophical/spiritual approach**
-→ [[natural-farming-fukuoka]] — do-nothing [[fukuoka-do-nothing-farming-philosophy-and-practice]]
+→ [[natural-farming-fukuoka]] — do-nothing farming philosophy
 → [[fukuoka-philosophy-in-practice]] for practical application
 
-**[[coleman-winter-greens-nutritional-quality-cold-sweetening]] of food**
+**Nutritional quality of food**
 → [[nutrient-dense-gardening]] — Solomon's complete mineralization
-→ Brix testing, complete [[complete-organic-fertilizer-cof-recipe-solomon]]
+→ Brix testing, complete organic fertilizer
 
 ## By Experience Level
 

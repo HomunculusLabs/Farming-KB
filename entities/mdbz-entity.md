@@ -35,7 +35,7 @@ This two-carbon chain is what makes phenethylamines what they are: phenyl (aroma
 
 If one carbon is removed, the result is a benzylamine, which usually has an entirely different pharmacology or is most often simply not active.
 
-A vivid example is the narcotic drug fentanyl, where replacement of the phenethyl group on the nitrogen with a benzyl group virtually eliminates analgesic potency.
+A vivid example is the narcotic drug [[fentanyl]], where replacement of the phenethyl group on the nitrogen with a benzyl group virtually eliminates analgesic potency.
 
 The N-benzyl analogue of MDA similarly shows little if any central activity.
 

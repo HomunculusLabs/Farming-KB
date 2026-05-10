@@ -132,11 +132,6 @@ out of reach of children and pets. Remove all crop residue to reduce
 overwintering sites for [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]].
 
 ## See Also
-
-- [[vegetable-watering-and-thinning]] — Watering and plant spacing
-- [[vegetable-garden-guide]] — Comprehensive [[home-vegetable-garden-planning]]
-  reference
-
-## See Also
-
+- [[vegetable-watering-and-thinning]]
+- [[vegetable-garden-guide]]
 - [[fukuoka-vegetable-disease-insect-resistance]]

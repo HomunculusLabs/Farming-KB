@@ -126,6 +126,10 @@ further enriching the soil.
 
 ## Related
 
+- [[solomon-compost-tumbler-critique-and-turning-frequency]]
+
+- [[flocculation-and-natural-subsoil-loosening-solomon]]
+
 - solomon capillarity and soil moisture movement Concepts
 
 - [[solomon-carbon-nitrogen-ratios]]

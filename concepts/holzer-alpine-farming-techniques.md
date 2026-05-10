@@ -5,7 +5,6 @@ updated: 2026-04-14
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 ## Farming at 1,100-1,500m Altitude

@@ -4,8 +4,7 @@ subtitle: "A guide to lesser-known fruiting plants that diversify food forests, 
 tags: [permaculture, fruit-trees, food-forest, homesteading, specialty-crops]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 related_concepts:
   - berry-and-small-fruit-growing
   - fruit-tree-care-and-orchard-management
@@ -130,7 +129,6 @@ along property boundaries.
 
 Honeyberries, also known as haskap, are edible honeysuckle berries that ripen
 extremely early in the season, often two to three weeks before strawberries.
-Native to cold regions of Siberia, northern Japan, and Canada, honeyberries
 ## See Also
 
 - [[berry-and-small-fruit-growing]]

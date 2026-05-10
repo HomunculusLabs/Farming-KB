@@ -128,6 +128,8 @@ effect, but the straw mats provided critical extra protection
 on the coldest nights.
 
 ## See Also
+
+- [[coleman-french-maraicher-horse-manure-hotbed-system]]
 - [[coleman-british-adoption-of-french-intensive-gardening]] — Cross-Channel transfer
 - coleman four season harvest — Modern winter harvest techniques
 - french [[solomon-wide-spacing-versus-intensive-gardening-debate]] — Comprehensive system overview

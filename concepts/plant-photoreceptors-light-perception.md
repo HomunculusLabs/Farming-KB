@@ -139,7 +139,6 @@ the kinase domain, which phosphorylates downstream targets including auxin
 transporters. This asymmetric auxin redistribution causes differential cell
 elongation on shaded versus illuminated sides of the stem, producing the
 bending response characteristic of [[phototropism]].
-
 ## See Also
 
 - [[phototropism]] — Directional growth toward light, discovered by Darwin

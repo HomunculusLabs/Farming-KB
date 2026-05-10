@@ -32,14 +32,12 @@ recommends that foragers avoid the genera Conocybe and Inocybe until
 they become sufficiently skilled at identification. The danger of
 misidentification with these genera is significant enough to warrant
 extreme caution. Many species in these genera contain amatoxins or
-## See Also
 
-- stamets-psilocybin-habitats-ecology
-- stamets-mushrooms-world-chemistry-potency
-- stamets-mushrooms-world-cubensis
-- psilocybin-containing-genera-beyond-psilocybe
-- psilocybin-mushrooms
-- copelandia-cyanescens
+## See Also
+- [[hypholoma-pluteus-inocybe-conocybe-genera]]
+- [[allen-gymnopilus-and-other-psychoactive-genera]]
+- [[stamets-psylo-good-tips-great-trips]]
+- [[guzman-allen-gartz-gymnopilus-pluteus-neurotropic-genera]]
 
 ## Merged: Minor Psilocybin Genera - Conocybe and Gymnopilus
 

@@ -7,7 +7,7 @@ sources:
   - "Denzer, Kiko. Build Your Own Earth Oven: A Low-Cost, Wood-Fired mud-oven. 3rd ed., Hand Print Press, 2007."
   - "Weisman, Max. Cob Cottage Company. cobcottage.com — workshops and building guides."
   - "Evans, Ianto, Linda Smiley, and Michael G. Smith. The Hand-Sculpted House: A Practical and Philosophical Guide to Building a Cob Cottage. Chelsea Green, 2002."
-  - "Oikos [[mollison-designers-avocado-mango-and-subtropical-tree-crops]]. 'Building a Wood-Fired Earth Oven.' oikostreecrops.com."
+  - "Oikos mollison-designers-avocado-mango-and-subtropical-tree-crops. 'Building a Wood-Fired Earth Oven.' oikostreecrops.com."
   - "Bee, Becky. The Cob Builder's Handbook. Groundworks, 1997."
 ---
 
@@ -145,6 +145,5 @@ Before the outer layer fully hardens, cut a rectangular or arched opening:
 ### Step 6: Scoop Out the Sand
 
 Once the oven has dried for 2–3 days (longer in humid climates), reach through the door and scoop out the sand form. The newspaper layer signals you when you've reached the inner wall — stop scraping when you see paper.
-
 ## Related
 - [[query-when-should-i-use-slip-form-stone-construction|query when should i use slip form stone construction]]

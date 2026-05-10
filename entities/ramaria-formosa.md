@@ -127,7 +127,4 @@ acidification, declining in areas with intensive agricultural runoff or
 air pollution.
 
 ## See Also
-
-## See Also
-
 - [[coprophilous-fungi-ecology-diversity]]

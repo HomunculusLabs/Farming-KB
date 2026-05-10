@@ -110,10 +110,7 @@ The plant features in the art and literature of the Impressionist period. Claude
 - **Nuphar variegata** — North American yellow water lily, sometimes treated as conspecific
 
 ## See Also
-
+- [[cladrastis-lutea]]
 - [[lemna-minor]]
 - [[colocasia-esculenta]]
-
-## See Also
-
 - [[permaculture-plants-aquatic-and-wetland-species]]

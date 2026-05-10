@@ -135,5 +135,9 @@ drives composition while cultivar drives abundance patterns.
 
 ## See Also
 
+- [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
+- [[edaphic-factor-ranking-nitrogen-salinity-carbon-cannabis-microbiome]]
+- [[soil-type-otu-abundance-vs-strain-structure-cannabis-microbiome]]
+
 - [[microbial-alpha-diversity-soil-plant-gradient]] for diversity findings
 - [[cannabis-microbiome-research]] for the complete study overview

@@ -13,7 +13,7 @@ sources:
   - Gugel, R.K. & Falk, K.C. (2006). " Agronomic and solomon-seed-quality-and-germination-testing Evaluation of Canola." Canadian Journal of Plant Science, 86(4), 1061-1070.
   - Snowdon, R. et al. (2007). "Oilseed Rape." in Genome Mapping and Molecular Breeding in Plants, Vol. 2, Oilseeds, 55-114.
   - Chalhoub, B. et al. (2014). "Plant Genetics: Early Allopolyploid Evolution in the Post-Neolithic Brassica napus Oilseed Genome." Science, 345(6199), 950-953.
-  - FAOSTAT (2024). "Rapeseed [[psilocybe-cubensis-miniculture-production-data-and-flush-longevity]]." fao.org/faostat.
+  - FAOSTAT (2024). "Rapeseed psilocybe-cubensis-miniculture-production-data-and-flush-longevity." fao.org/faostat.
 ---
 
 ## Overview

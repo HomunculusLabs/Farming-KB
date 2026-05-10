@@ -54,7 +54,6 @@ relationship with the natural world.
 Fukuoka was born in 1913 in Iyo, Ehime Prefecture, on the island of Shikoku
 in southern Japan. He grew up in a farming family and trained as a plant
 pathologist and microbiologist at Gifu Prefectural Agricultural College. After
-graduation, he worked as a research scientist at the Yokohama Customs Office,
 ## See Also
 
 [[four-principles-of-natural-farming]] - The four principles in detail

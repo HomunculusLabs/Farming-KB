@@ -66,7 +66,7 @@ CBD has emerged as the most potent individual anti-breast cancer cannabinoid. CB
 
 Breast cancer patients are often on multiple treatments including chemotherapy, radiation, and hormonal therapies. Cannabis may interact with these treatments. See [[cannabis-for-cancer-patients]] for broader cancer applications
 
-- [[cannabis-for-chemotherapy-nausea]] for treatment side effects
+- [[blesching-cannabis-nausea-chemotherapy-vomiting-dronabinol]] for treatment side effects
 
 - [[cannabis-anti-inflammatory-applications]] for anti-inflammatory mechanisms
 

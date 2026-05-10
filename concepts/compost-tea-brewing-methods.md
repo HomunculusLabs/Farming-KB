@@ -1,110 +1,127 @@
 ---
-title: Compost Tea Brewing Methods (AACT)
-created: 2026-04-14
-updated: 2026-04-14
-type: concept
-tags: [composting, soil]
-sources:
-  - "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
+title: Compost Tea Brewing Methods
+source: elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md
+tags: [compost-tea, brewing, aact, organic-farming, soil-amendment]
+created: 2026-05-10
 ---
-# Compost Tea Brewing Methods (AACT)
 
-Actively [[actively-aerated-compost-tea]] Tea (AACT) is a water extract of [[lowenfels-earthworms-soil-food-web]] needs restoration.
+# Compost Tea Brewing Methods
 
-## AACT Definition
+Compost tea is a liquid extract of compost [[ingham-aact-worm-leachate-extract-comparison-brewing-methods]] that contains a concentrated population of
+beneficial microorganisms and soluble nutrients. The primary distinction in compost [[ingham-aact-worm-leachate-extract-comparison-brewing-methods]] tea
+production is between Actively Aerated Compost Tea (AACT) and Fermentative Compost Tea
+(FCT, also known as anaerobic compost tea or compost extract). The method chosen has
+profound implications for the biology of the finished product and its effectiveness as
+a soil or foliar amendment.
 
-AACT is specifically distinguished from other brewing methods:
+## Actively Aerated Compost Tea (AACT)
 
-- **AACT (Actively Aerated Compost Tea)**: Compost is extracted into water, food resources are added, and the brew is actively aerated throughout the brewing process. Oxygen levels must stay above 5.5-6 ppm. This is the method that preserves all beneficial organism groups: bacteria, fungi, protozoa, and nematodes.
-- **FCT ([[aerobic-vs-fermentative-compost-tea]] Tea)**: Selects for facultative [[ingham-anaerobic-organisms-role-soil]]; produces antibiotic/inhibitory compounds
-- **LBCT (Long-Brewing Compost Tea)**: Starts aerobic, moves through anaerobic phase, returns aerobic
-- **NACT (Not-Aerobic Compost Tea)**: Anaerobic bacteria dominate; produces toxic materials
+AACT is the method advocated by Dr. Elaine Ingham and is the standard for biological
+agriculture. The defining characteristic of AACT is continuous aeration throughout the
+brewing period, which maintains dissolved oxygen levels above 6 parts per million (ppm).
+This aerobic environment selectively promotes the growth of beneficial aerobic organisms
+— bacteria, fungi, protozoa, and nematodes — while suppressing anaerobic pathogens and
+putrefactive organisms.
 
-Per Ingham: "If the tea has gone anaerobic and the beneficial fungi are gone, it is not compost tea." Anaerobic liquids should be called "putrefying [[hamilton-composting-and-organic-matter-management]] tea."
+### Equipment
 
-## Essential Equipment
+The basic AACT brewer consists of a container (typically 5 to 100 gallons for small-scale
+operations, up to 500+ gallons for commercial applications), an aeration device, and
+compost containment. Aeration devices include air pumps with diffusers (air stones or
+bubble wands), venturi injectors (which use water flow through a constriction to draw in
+air), and motorized stirring mechanisms. The key requirement is that dissolved oxygen
+must remain above 6 ppm at all times during the brew — if oxygen drops below this
+threshold, anaerobic conditions begin to develop and beneficial organisms start to die.
 
-- **Brewer**: Commercial AACT brewers (Growing Solutions, EPM, Alaska Giant, Earthworks, etc.) or DIY 5-gallon bucket with aquarium bubbler
-- **Air pump**: Must maintain [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] above 5.5-6 ppm throughout the brew
-- **Compost**: Must be aerobic, [[ingham-thermal-compost-versus-worm-compost]] or worm castings meeting SFI biological standards (see [[aact-compost-quality-standards-ingham]]
-- [[compost-tea-application-rates]]
-- [[2c-d-pihkal-entry-23]]
-- [[compost-tea-aact]]
-- [[teaming-with-microbes-compost-tea-brewing-guide]]
-## Practical Applications
+Air pump systems with diffusers are the most common and reliable for small to mid-scale
+brewing. A general rule is to size the air pump to provide approximately 0.05 to 0.08
+cubic feet of air per minute per gallon of tea. For a 50-gallon brewer, this means a
+pump rated at roughly 2.5 to 4 CFM. The air stones or diffusers should produce fine
+bubbles to maximize oxygen transfer efficiency.
 
-Compost Tea Brewing Methods (AACT) has a range of practical applications that make it relevant to
-both researchers and practitioners. Understanding these applications
-requires familiarity with the underlying principles and their
-manifestation in real-world contexts. The breadth of applications
-reflects the fundamental importance of this topic across disciplines.
+Compost is typically placed in a mesh bag or basket suspended in the water. The mesh
+size determines which organisms are extracted — a finer mesh (around 400 microns) will
+retain most compost particles while allowing microorganisms to pass through. Some
+brewers use a two-container system where water is pumped from a reservoir through a
+compost-filled vessel and back, creating continuous extraction and aeration.
 
-Implementation varies based on scale, available resources, and
-specific objectives. Small-scale applications may be relatively
-straightforward, while larger implementations require more careful
-planning and coordination. Adaptation to local conditions is always
-essential for achieving optimal results regardless of scale.
+### The Brewing Process
 
-Documented case studies provide valuable reference points, though
-each situation presents unique combinations of opportunities and
-constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
-creative adaptation to local conditions and emerging challenges.
+A standard AACT brew follows this sequence. Water is added to the brewer and the
+aeration system is activated. If using municipal water containing chlorine or
+chloramine, the water must be dechlorinated first — either by aerating for 1-2 hours
+before adding compost (which allows chlorine to off-gas), by using a chlorine filter,
+or by adding a small amount of ascorbic acid or humic acid (which neutralizes
+chloramine). Well water or rainwater is preferred as it typically contains no chlorine.
 
-## Key Considerations
+Compost is added once the water is prepared. The compost must be high quality, mature,
+and biologically diverse. The ratio is typically 1-2 pounds of compost per 5 gallons
+of water (approximately 1:20 to 1:40 compost-to-water ratio by weight). Food sources
+for the microorganisms are then added — these include molasses (a bacterial food), kelp
+meal (a micronutrient source and bacterial/fungal food), fish hydrolysate (a nitrogen
+source and bacterial food), and humic acids (a fungal food and microorganism
+stimulant).
 
-Several important considerations should guide approach and decision-
-making when working with this topic. These include environmental
-factors, resource availability, timing, and the specific goals of the
-implementation. Careful attention to these factors improves outcomes
-and reduces the likelihood of common problems and setbacks.
+Brewing time is typically 24 to 36 hours. During this period, the microbial populations
+multiply dramatically — bacterial populations can increase 100 to 1,000-fold from their
+starting numbers in the compost. The tea should be used within 4 to 6 hours of
+stopping aeration. Once the air is turned off, the organisms begin to consume available
+oxygen, and the tea can go anaerobic within hours, especially in warm weather.
 
-Environmental conditions play a particularly significant role in
-determining outcomes. Factors such as temperature, moisture, light
-exposure, and seasonal timing can substantially affect results.
-Monitoring these conditions and adapting practices accordingly is
-a hallmark of experienced and effective practice in this area.
+### Monitoring During the Brew
 
-Resource considerations include not only material inputs but also
-knowledge, skills, time, and ongoing management capacity. Realistic
-assessment of available resources helps prevent overcommitment and
-enables more sustainable and successful long-term implementations.
+Dissolved oxygen should be checked regularly, ideally every few hours. A starting DO
+of 7-8 ppm is ideal. If DO drops below 6 ppm, it may indicate too much food has been
+added (causing a bacterial bloom that consumes oxygen faster than the aerator can
+replenish it), insufficient aeration, or contaminated water or compost. Temperature
+should be maintained between 65-75°F (18-24°C) for optimal microbial growth. The pH of
+the finished tea should be near neutral (6.0-7.5).
 
-## Common Challenges
+Foam on the surface of the tea is generally a positive sign, indicating the presence
+of proteins and microbial activity. However, excessive foam or foam with an unpleasant
+odor may indicate problems. The tea should smell earthy and pleasant — a sour, putrid,
+or sulfur smell indicates anaerobic conditions and the tea should be discarded.
 
-Practitioners commonly encounter several challenges when working with
-Compost Tea Brewing Methods (AACT). These include both technical difficulties and broader systemic
-issues that require adaptive management and creative problem-solving.
-Awareness of these common challenges enables more proactive planning
-and faster resolution when issues do arise during implementation.
+## Fermentative Compost Tea (FCT)
 
-Technical challenges often relate to the complexity of interactions
-between multiple variables and the difficulty of predicting outcomes
-with certainty. Building in redundancy, monitoring key indicators, and
-maintaining flexibility in approach all help manage this inherent
-uncertainty and improve the resilience of implementations over time.
+FCT is produced without aeration — compost is simply steeped in water for an extended
+period (typically 1-4 weeks). During this time, the organisms in the compost consume
+available oxygen and the system becomes anaerobic. FCT produces a very different
+biological profile than AACT. Anaerobic organisms dominate, including many species that
+produce organic acids, alcohols, and other metabolites. While some of these metabolites
+can have beneficial effects (certain organic acids can act as mild herbicides or soil
+conditioners), FCT can also contain organisms and compounds that are phytotoxic or
+pathogenic.
 
-Learning from both successes and failures is essential for continuous
-improvement. Maintaining records of observations, interventions, and
-outcomes creates a valuable knowledge base that supports progressively
-better results with each iteration of practice and experimentation.
+FCT has a long history in traditional agriculture — many cultures have produced compost
+steeps or manure teas by simply soaking organic materials in water. However, the
+inconsistency and potential for harmful organisms in FCT make it less suitable for
+modern biological agriculture than AACT. When anaerobic metabolites are desired (for
+example, the antifungal compounds produced by some anaerobic bacteria), they can be
+produced more controllably through specific fermentation methods.
 
-## Integration and Future Development
+## Compost Extract (Non-Brewed)
 
-The greatest value from this topic often comes through integration
-with other systems and approaches. Rather than treating it in isolation,
-considering how it connects with and enhances other elements creates
-more robust and productive overall systems. This integrative approach
-is increasingly recognized as essential for sustainable outcomes.
+A simpler approach is the compost extract, where compost is mixed with water and
+immediately applied without a brewing period. This extracts the organisms present in
+the compost but does not allow them to multiply. The advantage is simplicity and
+reduced risk of brewing problems. The disadvantage is lower organism concentrations —
+a good AACT brew may contain 10 to 100 times more organisms than a simple extract made
+from the same compost. Extracts are useful for quick applications where a large volume
+of tea is needed and brewing capacity is limited.
 
-Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
-growing urgency of environmental and social challenges. Staying
-current with developments and maintaining openness to new approaches
-helps practitioners continue to improve their effectiveness over time.
+## Common Brewing Problems
 
-Recommended resources for continued learning include established
-reference works, practitioner communities, research publications, and
-hands-on experimentation. The combination of theoretical study and
-practical experience provides the strongest foundation for developing
-expertise and contributing to the ongoing evolution of this field.
+Anaerobic conditions are the most common problem, usually caused by insufficient
+aeration, excessive food additions, or contaminated water. Symptoms include foul odors
+(especially rotten egg or sewage smells), low dissolved oxygen readings, and the
+presence of a thick scum on the surface. E. coli contamination is a concern with
+compost tea — it can only come from contaminated compost (typically containing manure
+from animals treated with antibiotics or fed poor-quality feed) or from unsanitary
+brewing equipment. Properly made AACT from verified compost should not contain E. coli.
+
+## See Also
+
+- [[soil-foodweb-microbiology]]
+- [[compost-tea-ingredients-and-recipes]]
+- [[compost-tea-disease-suppression]]

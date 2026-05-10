@@ -96,7 +96,7 @@ Topical cannabis preparations are particularly valuable for musculoskeletal cond
 Cannabis may support musculoskeletal health in active individuals:
 - **Post-exercise inflammation**: Anti-inflammatory properties may reduce delayed-onset muscle soreness
 - **Recovery**: May improve sleep quality for better recovery
-- **[[cannabis-pain-management-protocols]]**: Alternative to NSAIDs, which carry gastrointestinal and [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] with chronic use
+- **[[cannabis-pain-management-protocols]]**: Alternative to NSAIDs, which carry gastrointestinal and [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] with chronic use
 
 ## Dosing Considerations
 

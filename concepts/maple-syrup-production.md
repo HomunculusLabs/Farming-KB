@@ -139,11 +139,17 @@ Above plus: sap collection bags/tubing, storage tank, wider evaporator pan, pre-
 
 | Grade | Color | Flavor | When Produced |
 |-------|-------|--------|---------------|
-| Golden (Fancy) | Light amber | Delicate, mild | [[solomon-sprouting-seeds-and-early-season-nutrition]] |
-## Related Pages
+| Golden (Fancy) | Light amber | Delicate, mild | Early season |
+| Amber | Medium amber | Rich, full | Mid-season |
+| Dark | Dark amber | Robust, caramel | Late season |
+| Very Dark | Very dark | Strong, molasses-like | End of season |
 
-- [[homesteading]] -- broader homestead activities
-- [[food-preservation-canning]] -- storing syrup and other foods
-- [[permaculture-plant-catalog]] -- maple tree profiles
-- [[candle-making]] -- other homestead production
-- [[food-fermentation-guide]] -- value-added food processing
+All grades are the same quality -- the grade depends on when in the season the sap was collected. Early season sap makes lighter syrup; late season makes darker.
+
+## Maple Sugar
+
+
+
+## See Also
+- [[vic-high-selfing-and-regular-seed-production]]
+- [[vermicompost-production-systems-quality-standards]]

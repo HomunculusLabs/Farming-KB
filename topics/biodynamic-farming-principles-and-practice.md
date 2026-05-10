@@ -125,7 +125,6 @@ underground through summer, during which Steiner described the sun's
 forces as being concentrated through the silica.
 
 BD 501 is applied as a foliar spray in early morning, typically at a rate
-of just 3 to 5 grams per hectare stirred in 15 liters of water. It is
 ## See Also
 
 - [[biodynamic-agriculture-and-steiner]]

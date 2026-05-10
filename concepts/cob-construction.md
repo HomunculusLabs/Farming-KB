@@ -59,15 +59,10 @@ The thermal lag of a typical cob wall is 8-12 hours, meaning peak indoor tempera
 Despite myths to the contrary, cob buildings are durable in wet climates when properly detailed. The key protection strategies include a good foundation that raises walls above ground moisture, a roof with generous overhangs of at least 60 cm on all sides, and a breathable lime or earth render on exterior surfaces.
 
 The foundation should be stone or concrete, extending at least 30-45 cm above ground level. This prevents rising damp from wicking up into the cob walls. The roof overhang protects walls from direct rain exposure, which is the primary cause of erosion.
+
 ## See Also
-
-[[rammed-earth]]
-
-[[permaculture-building-design]]
-
-[[permaculture-zone-0-house-design]]
-
-[[soil-erosion-control]]
+- [[comparison-ferrocement-vs-cob-construction]]
+- [[comparison-cob-construction-vs-straw-bale-construction]]
 
 ## Merged: "Earthship vs Cob Construction"
 

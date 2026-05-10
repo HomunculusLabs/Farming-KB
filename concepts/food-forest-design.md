@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [food-forest, permaculture, design, plant-systems, cultivation, guild, companion-planting]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
@@ -56,7 +55,7 @@ A food forest (forest garden) is a designed agricultural system that mimics the 
 
 ### Layer 4: Herbaceous Layer
 - Non-woody plants (ground level to 6 feet)
-- Herbs, [[comparison-perennial-vegetables-vs-cover-crops]], flowers, medicinal plants
+- Herbs, perennial vegetables, flowers, medicinal plants
 - Species: comfrey, artichoke, asparagus, rhubarb, hosta (edible), sorrel, Good King Henry, lovage
 - See [[herb-growing-guide]] for culinary herb details
 - Comfrey is a classic food forest plant — deep taproot mines minerals, leaves provide mulch
@@ -69,7 +68,7 @@ A food forest (forest garden) is a designed agricultural system that mimics the 
 
 ### Layer 6: Root Layer
 - Edible root crops
-- Species: potato, sweet potato, [[comparison-jerusalem-artichoke-vs-potato]], garlic, onions, radish, turnip, daikon
+- Species: potato, sweet potato, Jerusalem artichoke, garlic, onions, radish, turnip, daikon
 - Radishes and daikon are useful for breaking compacted soil (bio-drilling)
 - Jerusalem artichoke is productive but aggressive — contain with root barriers
 
@@ -86,17 +85,17 @@ A guild is a group of plants that work together synergistically, each providing 
 ### Classic Apple Tree Guild
 - **Central element**: Apple tree (see [[apple-tree-care]])
 - **Nitrogen fixers**: Comfrey, clover, lupine beneath the canopy
-- **[[comparison-dynamic-accumulators-vs-cover-crops]]**: Comfrey, yarrow, dandelion — deep roots mine minerals
+- **Dynamic accumulators**: Comfrey, yarrow, dandelion — deep roots mine minerals
 - **Pest deterrents**: Garlic, chives, nasturtium, alliums repel codling moth
 - **Pollinator attractors**: Clover, dill, fennel, yarrow, bee balm
 - **Mulch producers**: Comfrey, clover, nasturtium — chop and drop to mulch the tree
 - **Ground cover**: Creeping thyme, clover suppress weeds under the tree
 
 ### Key Guild Functions
-- [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]: Leguminous plants add nitrogen to the soil
+- Nitrogen fixation: Leguminous plants add nitrogen to the soil
 - Dynamic accumulation: Deep-rooted plants mine subsoil minerals
 - Pest confusion: Aromatic plants mask target crop scent from pests
-- Pollinator support: Flowering plants attract bees and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- Pollinator support: Flowering plants attract bees and beneficial insects
 - Mulch production: Chop-and-drop plants feed the soil surface
 
 ## Canopy Species Selection
@@ -113,7 +112,7 @@ A guild is a group of plants that work together synergistically, each providing 
 - **Honey locust**: Light canopy, edible pods for livestock, nitrogen fixer
 - **Chestnut**: Excellent nut production, light shade, beautiful fall color
 - **Persimmon**: Delicious fruit, late-ripening, ornamental
-- **Mulberry**: Fast-growing, prolific fruit, excellent [[free-range-poultry-forage-design-mollison]]
+- **Mulberry**: Fast-growing, prolific fruit, excellent poultry forage
 - **Oak**: Long-lived, acorns (leached for food), supports massive biodiversity
 
 ### Understory Crops
@@ -137,14 +136,15 @@ Food forests evolve over time through natural succession.
 - Adjust understory for changing light; perennials and berries reach full production
 - Soil biology is well-established; organic matter cycling increases
 
-## See Also
+### Climax Stage (Years 10+)
+- Full canopy with productive understory; self-maintaining system
+- Maximum diversity and productivity; periodic management needed (pruning, thinning)
 
-- [[backyard-orchard-design]] for more focused orchard planning
-- [[urban-farming-methods]] for adapting food forest principles to small spaces
-- [[permaculture-principles]] for broader design principles
+## Maintenance
 
-## Related
+### Water Management
+- Design swales and berms to capture rainwater on contour
+- Mulch heavily (6-12 inches initially) to retain moisture
+- Drip irrigation for establishment; reduce over time
 
-- [[deer-fencing-and-deterrents]]
-- [[wildfire-preparedness-guide]]
-- [[backyard-food-forest-design]]
+### Pruning and Thinning

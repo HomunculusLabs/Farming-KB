@@ -58,7 +58,7 @@ found in Idaho. The cylindrical stem has a bulbous base with a conspicuous
 cream-white ring covered in encircling scales.
 
 See also: organized religion,
-[[amanita-muscaria-preparation-methods]],
+[[amanita-preparation-methods]],
 [[fly-agaric-siberian-shamanic-practice]],
 [[wasson-brough-soma-debate]], richard [[richard-evans-schultes-updated]] updated,
 albert hofmann

@@ -134,16 +134,10 @@ with significant metabolite buildup often produce lower yields and compromised v
 ## Key Takeaways
 
 - Always keep jar lids loose — never screw tight during sterilization or colonization.
+
 ## See Also
-
 - [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]]
-
-- grain-jar-lid-management-pressure-equalization
 - [[nameko-mushroom-cultivation]]
 - [[mushroom-cultivation-phases]]
-- jar-lid-loose-fit-preventing-vacuum-mushroom-cultivation
 - [[filter-can-construction-mushroom-cultivation]]
-- mushroom-cultivation-inoculation-methods
 - [[mushroom-cultivation-photographic-guide]]
-
-## See Also

@@ -142,7 +142,6 @@ solutions, and it operated without energy input or chemical additives once
 established. The multi-functional nature of the system, simultaneously filtering
 water, producing mushrooms, and supporting aquatic food webs, makes it an
 attractive model for integrated watershed management.
-
 ## See Also
 - [[mycelium-running-farm-mycofiltration-buffers]]
 - [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]]

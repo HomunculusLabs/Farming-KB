@@ -4,8 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [water-management, conservation, restoration, ecology, freshwater, pollution, erosion]
-sources:
-  sources: []
+sources: []
 ---
 
 # Watershed Management
@@ -50,18 +49,18 @@ Evaluate the physical characteristics of the watershed:
 - **Drainage network**: Stream density, channel condition, and connectivity affect flood response
 
 ### Biological Assessment
-[[savory-living-organisms-as-tools]] serve as indicators of watershed health:
+Living organisms serve as indicators of watershed health:
 
 - **Macroinvertebrate sampling**: Aquatic insect communities are sensitive to pollution and habitat degradation; the EPA uses macroinvertebrate indices as standard bioassessment tools
 - **Fish surveys**: Fish species diversity and abundance indicate water quality and habitat condition
 - **Riparian vegetation surveys**: Assess the composition, width, and condition of riparian buffers
 - **Bird and wildlife surveys**: Indicate overall habitat quality and connectivity
-- [[fungal-biodiversity-assessment-methods]] methods provide systematic frameworks for biological monitoring
+- biodiversity assessment methods provide systematic frameworks for biological monitoring
 
 ### Chemical Assessment
 Water quality parameters to monitor:
 
-- **Temperature**: Affects [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], metabolic rates, and species survival
+- **Temperature**: Affects dissolved oxygen, metabolic rates, and species survival
 - **Dissolved oxygen**: Critical for aquatic life; below 5 mg/L causes stress, below 2 mg/L is lethal for most fish
 - **pH**: Influences chemical reactions and species tolerance; natural range 6.5-8.5
 - **Nutrients**: Nitrogen and phosphorus from agriculture and wastewater cause eutrophication
@@ -75,10 +74,10 @@ Water quality parameters to monitor:
 Practices that reduce agricultural impacts on watershed health:
 
 - **Cover crops**: Maintain living root systems and soil cover year-round; reduce erosion by 50-90% and nutrient runoff by 40-60%
-- **[[green-cannabis-grow-bible-nutrient-management-ppm]]**: Apply fertilizer based on soil tests and crop needs; timing applications to avoid runoff periods
+- **Nutrient management**: Apply fertilizer based on soil tests and crop needs; timing applications to avoid runoff periods
 - **Integrated pest management**: Minimize pesticide use through biological controls, crop rotation, and targeted applications
 - **Buffer strips**: Vegetated strips between cropland and waterways filter runoff; see [[riparian-zone-restoration]]
-- **Grazing management**: [[comparison-rotational-grazing-vs-continuous-grazing]], riparian exclusion, and proper stocking rates protect streams and pastures
+- **Grazing management**: Rotational grazing, riparian exclusion, and proper stocking rates protect streams and pastures
 - **No-till farming**: Eliminates tillage erosion, increases infiltration, builds soil organic matter; see [[no-till-gardening-method|no till]]
 
 ### Forestry BMPs
@@ -115,7 +114,7 @@ Practices that reduce agricultural impacts on watershed health:
 ### Upland Restoration
 - **Reforestation**: Plant trees on degraded land to reduce runoff, stabilize soil, and restore habitat
 - **Wetland restoration**: Restore drained wetlands to recover water storage, filtration, and habitat functions; see [[wetland-ecology]]
-- **[[comparison-prairie-restoration-vs-silvopasture]]**: Establish native grasslands on marginal cropland; see [[prairie-ecology]]
+- **Prairie restoration**: Establish native grasslands on marginal cropland; see [[prairie-ecology]]
 - **Invasive species removal**: Remove and replace invasive plants that degrade habitat and water quality; see [[invasive-species-management]]
 
 ### Watershed-Scale Planning
@@ -147,3 +146,5 @@ Effective monitoring programs include:
 ## Community Watershed Management
 
 Watershed health depends on collective action:
+
+- **Watershed groups**: Local organizations that coordinate conservation efforts across property boundaries

@@ -137,7 +137,6 @@ In a well-stocked home apothecary, tinctures and salves serve complementary
 roles. Building proficiency in both preparation methods gives the home
 herbalist the flexibility to address a wide range of health concerns with
 appropriate, targeted herbal medicine.
-
 ## See Also
 
 - [[herbal-poultices-and-compresses]] -- Direct plant application for

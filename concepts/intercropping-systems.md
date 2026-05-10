@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [plant-systems, agriculture, regenerative, companion-planting, permaculture, vegetables, cover-crop]
-sources:
-  sources: []
+sources: []
 ---
 
 # Intercropping Systems
 
-Intercropping is the practice of growing two or more crop species simultaneously in the same field or garden bed. Unlike monoculture, intercropping leverages [[king-stropharia-ecological-interactions-permaculture]] between species to increase total yield per unit area, reduce pest pressure, improve soil health, and manage risk through diversification.
+Intercropping is the practice of growing two or more crop species simultaneously in the same field or garden bed. Unlike monoculture, intercropping leverages ecological interactions between species to increase total yield per unit area, reduce pest pressure, improve soil health, and manage risk through diversification.
 
 ## Types of Intercropping
 
@@ -30,7 +29,7 @@ Two or more crops are grown in alternating strips wide enough to be managed with
 - Can be adjusted each season without permanent infrastructure
 
 **Examples:**
-- Corn + soybeans: 12-row corn strips alternating with 12-row soybean strips. Corn yields increase from [[cervantes-wind-protection-outdoor-cannabis]]; soybeans benefit from reduced pest pressure.
+- Corn + soybeans: 12-row corn strips alternating with 12-row soybean strips. Corn yields increase from wind protection; soybeans benefit from reduced pest pressure.
 - Wheat + clover: Wheat strips with clover understory that takes over after wheat harvest as a living mulch and nitrogen source.
 - Tomatoes + basil: 4-row tomato strips with 2-row basil strips. Basil repels tomato pests.
 
@@ -45,7 +44,7 @@ A second crop is planted into an existing standing crop before the first crop is
 - There is a period where both crops occupy the field simultaneously
 
 **Advantages:**
-- Maximizes use of the [[savory-growing-season-and-non-growing-season-management]]
+- Maximizes use of the growing season
 - The first crop provides some protection for the emerging second crop
 - No fallow period between crops
 - See [[succession-planting]] for sequential timing
@@ -85,11 +84,11 @@ Multiple crop species are planted together without distinct row arrangement. See
 
 ### Guild Planting
 
-A type of polyculture where plants are selected to fill specific functional roles: [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], nutrient accumulation, pest deterrence, pollinator attraction, ground cover, and canopy.
+A type of polyculture where plants are selected to fill specific functional roles: nitrogen fixation, nutrient accumulation, pest deterrence, pollinator attraction, ground cover, and canopy.
 
 **Example: Apple Tree Guild**
 - **Canopy**: Apple tree
-- **Understory**: Comfrey ([[nutrient-dynamic-accumulator-reference]]), currants (fruit)
+- **Understory**: Comfrey (dynamic accumulator), currants (fruit)
 - **Nitrogen fixers**: Clovers, lupines beneath the tree
 - **Pest deterrents**: Garlic, chives, nasturtiums
 - **Pollinator plants**: Dill, yarrow, clover flowers
@@ -125,7 +124,7 @@ Intercropping reduces pest pressure through several mechanisms:
 - **Trap cropping**: One crop attracts pests away from the main crop (see [[trap-cropping]])
 - **Push-pull strategy**: One plant repels a pest while another attracts it away
 - **Disrupting host finding**: Pests have difficulty locating their preferred host when surrounded by non-host plants
-- **Increased predator habitat**: Diverse plantings support more [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (see [[beneficial-insects-guide]])
+- **Increased predator habitat**: Diverse plantings support more beneficial insects (see [[beneficial-insects-guide]])
 
 ## Land Equivalent Ratio (LER)
 
@@ -141,10 +140,11 @@ An LER > 1.0 means intercropping produces more total yield than growing the same
 ### Matching Growth Habits
 
 - Combine upright crops with sprawling crops (corn + squash)
-## Related Topics
+- Combine fast-maturing with slow-maturing crops (radishes + carrots)
+- Combine light-demanding with shade-tolerant crops (tomatoes + lettuce)
 
-- [[companion-planting-reference]] for specific plant pairings
-- [[crop-rotation-principles]] for temporal crop diversification
-- [[succession-planting]] for timing strategies
-- [[cover-cropping-guide]] for intercropping with non-cash crops
-- [[trap-cropping]] for pest management within intercrops
+### Managing Competition
+
+- Reduce planting density of each component crop by 25-50% compared to monoculture
+- Ensure adequate spacing between rows to reduce direct competition
+- Choose crops with complementary nutrient requirements

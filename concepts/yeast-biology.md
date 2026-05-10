@@ -9,7 +9,7 @@ sources: []
 
 # Yeast Biology
 
-Yeasts are single-celled fungi that reproduce primarily by budding (or fission). Though they represent only a small fraction of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], yeasts have an outsized impact on human civilization through fermentation, food production, biotechnology, and medicine.
+Yeasts are single-celled fungi that reproduce primarily by budding (or fission). Though they represent only a small fraction of fungal diversity, yeasts have an outsized impact on human civilization through fermentation, food production, biotechnology, and medicine.
 
 ## What Is Yeast
 
@@ -37,7 +37,7 @@ S. cerevisiae (baker's yeast / brewer's yeast) is the most studied and most impo
 
 ### Life Cycle
 
-1. **Haploid [[cannabis-vegetative-growth-stage]]**: Single set of chromosomes (n=16). Can be either mating type a or alpha
+1. **Haploid vegetative growth**: Single set of chromosomes (n=16). Can be either mating type a or alpha
 2. **Mating**: Cells of opposite mating type (a x alpha) fuse to form a diploid (2n)
 3. **Diploid vegetative growth**: Diploid cells grow and divide by budding
 4. **Sporulation**: Under nutrient starvation, diploids undergo meiosis to produce four haploid ascospores inside an ascus
@@ -109,7 +109,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 
 - **Lambic beer**: Fermented by wild yeasts and bacteria (Brettanomyces, Pediococcus) in the Senne Valley, Belgium. No added yeast — relies on airborne microflora
 - **Natural wine**: Fermented by indigenous grape yeasts (Hanseniaspora, Candida, then Saccharomyces)
-- **[[query-how-to-make-sourdough-bread-at-home]]**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and Lactobacillus bacteria in a starter culture
+- **Sourdough bread**: Maintained by wild yeast (often Kazachstania exigua, Pichia kudriavzevii) and Lactobacillus bacteria in a starter culture
 - **Wild fermentation**: Sandor Katz's philosophy — "wild fermentation" as a broader cultural practice
 
 ## Industrial Uses of Yeast
@@ -126,7 +126,7 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 ### Biotechnology
 
 - **Recombinant protein production**: Pichia pastoris (Komagataella phaffii) produces human insulin, hepatitis B vaccine, and many other pharmaceuticals
-- **Bioethanol**: S. cerevisiae engineered for higher ethanol tolerance and [[brown-rot-fungi-cellulose-degradation-wood-decay]] for second-generation biofuels
+- **Bioethanol**: S. cerevisiae engineered for higher ethanol tolerance and cellulose degradation for second-generation biofuels
 - **Single-cell protein**: Yeast biomass as a protein source for animal feed and human nutrition
 - **Bioremediation**: Some yeasts can accumulate heavy metals (Candida, Rhodotorula)
 
@@ -140,10 +140,11 @@ Traditional fermentation methods rely on wild yeasts rather than commercial cult
 - **Glutamic acid**: Naturally contains MSG-like umami flavor
 - **Not the same as brewer's yeast** (which has a bitter taste from hops residue)
 
-## See Also
+## Yeast Pathogens
 
-- [[fungal-biology-fundamentals]] for yeast [[plant-cell-structure-and-organelles]] in the broader fungal context
-- [[fungal-genetics]] for yeast as a genetic model organism
-- [[fungal-evolution]] for the evolutionary origin of yeast forms
-- [[food-fermentation-guide]] for yeast in broader fermentation contexts
-- [[knf-yeast-preparation-detailed]] for wild yeast capture and use in Korean [[comparison-natural-farming-vs-permaculture]]
+### Candida albicans
+
+- Part of the normal human microbiome (mouth, gut, vagina) but causes opportunistic infections (candidiasis)
+- **Thrush**: Oral infection — white patches on tongue and mouth
+- **Vaginal yeast infection**: Common, affects ~75% of women at least once
+- **Systemic candidiasis**: Life-threatening in immunocompromised patients. Mortality rate 30-50%

@@ -140,7 +140,6 @@ McKenna, "a perfect proof of the dynamic linkage at the formative level between
 quantum mechanically described matter and mind." He argued that hallucinatory
 states, along with dreams, represent "the major quantum mechanical phenomena that
 we all experience."
-
 ## See Also
 
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]

@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Phosri, C., et al. (2013). "Astraeus is more widely distributed than previously thought." Mycological Progress 12(1): 45–57.
-  - Fangfuk, W., et al. (2010). "Molecular systematic of Astraeus." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]] 42: 117–129.
+  - Fangfuk, W., et al. (2010). "Molecular systematic of Astraeus." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution 42: 117–129.
   - Singer, R. (1986). "The Agaricales in Modern Taxonomy." 4th ed. Koeltz Scientific Books.
   - Kuo, M. (2024). "Astraeus hygrometricus." MushroomExpert.com.created: 2026-05-07
 

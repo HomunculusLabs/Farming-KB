@@ -93,3 +93,6 @@ FLEA provides additional evidence for Shulgin's working hypothesis that N-hydrox
 
 The pattern has been observed across multiple compound pairs: [[mdoh-entity-pihkal]]|MDOH: the N-hydroxy analogue of MDA
 - [[flea-entity-pihkal]]
+
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.

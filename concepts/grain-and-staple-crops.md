@@ -1,6 +1,6 @@
 ---
 
-title: Grain and grain-and-staple-crops for the Homestead
+title: Grain and Staple Crops for the Homestead
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -27,14 +27,14 @@ sources:
 
 # Grain and Staple Crops for the Homestead
 
-Growing grains on a homestead scale provides food security, animal feed, soil building, and [[cover-cropping-guide]] benefits. While commercial [[fukuoka-no-till-grain-production-method]] requires specialized equipment, home-scale growing is practical within [[regenerative-agriculture-history]] systems — many grains double as [[gaias-garden-cover-crops-soil-building]], and processing can be done with hand tools.
+Growing grains on a homestead scale provides food security, animal feed, soil building, and [[cover-cropping-guide]] benefits. While commercial grain production requires specialized equipment, home-scale growing is practical within [[regenerative-agriculture-history]] systems — many grains double as cover crops, and processing can be done with hand tools.
 
 ## Why Grow Grains
 
 - **Food sovereignty**: Whole grains store for years when properly dried — cornerstone of self-reliance
 - **Animal feed**: [[duck-keeping]] and [[goat-keeping]] benefit from homegrown grain as supplemental feed
 - **Soil building**: Massive root biomass and carbon contribution; straw is [[composting-systems]] material
-- **[[comparison-crop-rotation-vs-cover-cropping]]**: Breaks disease cycles; fits rotations with vegetables and legumes
+- **Crop rotation**: Breaks disease cycles; fits rotations with vegetables and legumes
 - **Carbon farming**: Extensive root systems sequester carbon — aligns with [[no-till-gardening-method]] principles
 
 ## Grain Selection for Zone 7-8
@@ -52,7 +52,7 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 #### Winter Rye (Secale cereale)
 - **Plant**: Sep 1–Oct 15; most cold-hardy fall grain
 - **Yield**: 30-50 bu/acre; 1 bu = 56 lbs
-- **Uses**: Rye bread, pumpernickel, whiskey, [[cover-cropping-guide]], [[permplant-willows-salix-erosion-control-fodder]]
+- **Uses**: Rye bread, pumpernickel, whiskey, [[cover-cropping-guide]], erosion control
 - **Advantages**: Most cold-tolerant; grows in poor soils; allelopathic (weed suppression); earliest spring growth
 
 #### Oats (Avena sativa)
@@ -108,7 +108,7 @@ Growing grains on a homestead scale provides food security, animal feed, soil bu
 
 #### Cowpeas / Black-eyed Peas (Vigna unguiculata)
 - **Plant**: Soil 65°F+ (mid-May–Jul); drought-tolerant; fixes 100-150 lbs N/acre
-- **Uses**: Dry storage peas, [[solomon-buckwheat-summer-cover-crop-guide]] crop, [[dynamic-accumulators]]
+- **Uses**: Dry storage peas, summer cover crop, [[dynamic-accumulators]]
 
 ## Processing at Home Scale
 

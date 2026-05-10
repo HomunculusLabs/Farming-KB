@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [mushroom-cultivation, ventilation, co2-management, growing-room-design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources: []
+sources:
+  - "raw/papers/psilocybin-mushrooms-of-the-world-stamets.md"
 type: concept
 ---
 # Growing Room Air Circulation and CO2 Management The environmental control system of a mushroom growing room is designed to maintain a selected [[hot-water-and-hydrated-lime-substrate-treatment]] piping along the walls, and humidity from live steam piping. Warm air rising along the walls combined with

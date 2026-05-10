@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis-terpene-profiles-sativa
+title: Cannabis Terpene Profiles
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Terpenes are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant's trichomes alongside cannabinoids like THC and CBD, terpenes contribute to the "[[cannabis-terpene-entourage-effect-profiles]]" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
+Terpenes are the aromatic compounds responsible for the distinctive scents and flavors of cannabis. Produced in the plant's trichomes alongside cannabinoids like THC and CBD, terpenes contribute to the "entourage effect" -- the synergistic interaction between multiple cannabis compounds that modulates the overall experience. The terpene profile of a strain is a major determinant of its character, and experienced cultivators and consumers identify strains largely by their scent signatures.
 
 ## Major Cannabis Terpenes
 
@@ -34,7 +34,7 @@ A floral terpene with a lavender-like aroma, also found in lavender, birch bark,
 
 ### Beta-Caryophyllene
 
-A spicy, peppery terpene found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cloves, cinnamon, and cannabis. Unique among terpenes for its ability to directly activate the CB2 [[cannabis-cannabinoid-receptor-pharmacology]], giving it potential anti-inflammatory properties. Strains with "peppery," "spicy," or "diesel" notes typically contain caryophyllene.
+A spicy, peppery terpene found in black pepper, cloves, cinnamon, and cannabis. Unique among terpenes for its ability to directly activate the CB2 cannabinoid receptor, giving it potential anti-inflammatory properties. Strains with "peppery," "spicy," or "diesel" notes typically contain caryophyllene.
 
 ### Humulene
 
@@ -42,7 +42,7 @@ An earthy, woody terpene also prominent in hops (Humulus lupulus, its namesake).
 
 ## Terpene Profiles in Practice
 
-In S.T. Oner's [[comparison-cannabis-sativa-vs-cannabis-indica]] Vol. 3, terpene profiles are described through aromatic characterisations of individual strains:
+In S.T. Oner's Cannabis Sativa Vol. 3, terpene profiles are described through aromatic characterisations of individual strains:
 - **Piney, fuel smells** -- suggesting high pinene and caryophyllene
 - **Citrus, fresh smells** -- suggesting limonene
 - **Earthy, spice aromas** -- suggesting humulene and caryophyllene
@@ -50,31 +50,15 @@ In S.T. Oner's [[comparison-cannabis-sativa-vs-cannabis-indica]] Vol. 3, terpene
 - **Dank, incense, hash aromas** -- complex terpene blends
 - **Berry, cherry, grape notes** -- often myrcene-dominant
 
-The interaction between a strain's terpene profile and its cannabinoid content (THC:[[cannabis-thc-cbd-ratio-guide-for-conditions]]) determines the character of the experience more than either component alone.
+The interaction between a strain's terpene profile and its cannabinoid content (THC:CBD ratio) determines the character of the experience more than either component alone.
 
 ## Related Concepts
 
-- [[cannabis-concentrates-and-extracts]] -- terpenes in concentrated form
-
-## See Also
-
-- [[cannabis-terpene-entourage-effect-profiles]]
-- [[cannabis-terpene-profiles-sativa]]
-## Practical Considerations
-
-Successful implementation of Cannabis Terpene Profiles requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+- [[cannabis-terpene-pharmacology-and-entourage-effect]] — Terpene pharmacology
+- [[cannabinoid-terpene-entourage-effect]] — Detailed entourage effect
+- [[blesching-cannabis-cannabinoid-terpene-entourage-effect]] — Blesching on entourage effect
+- [[beta-caryophyllene-dietary-cannabinoid]] — Beta-caryophyllene as a dietary cannabinoid
+- [[cannabidiol-cbd]] — CBD overview
+- [[cannabis-health-thc-tetrahydrocannabinol]] — THC overview
+- [[clarke-marijuana-botany-trichome-biology]] — Trichome biology
+- [[green-cannabis-grow-bible-hash-making-and-trichome-extraction]] — Trichome extraction techniques

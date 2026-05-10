@@ -134,7 +134,7 @@ Biscotti is highly valued by extract artists due to exceptional resin production
 
 ## See Also
 
-- [[biscotti-cannabis]]
+- biscotti cannabis strain
 
 - [[girl-scout-cookies]] — foundational Cookies family strain
 - [[wedding-cake]] — another popular Cookies-lineage dessert strain

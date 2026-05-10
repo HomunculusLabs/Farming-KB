@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Besnard G, Rubio de Casas R, Vargas P (2007). "Placing Olea europaea L. in its context." Annals of Botany, 100(4), 683–685.
-  - Boskou D (2015). [[staycare-fungal-treatment-of-olive-oil-mill-wastewater]]: Chemistry and Technology. AOCS Press.
+  - Boskou D (2015). staycare-fungal-treatment-of-olive-oil-mill-wastewater: Chemistry and Technology. AOCS Press.
   - Lourens ACU et al. (2004). "Oleuropein — a lead compound for the treatment of hypertension." Phytomedicine, 11, 38–39.
   - FAO (2023). "FAOSTAT: Olives — area harvested, production quantity." Food and Agriculture Organization.
   - Conceição M et al. (2021). "Olive oil authentication: A review." Food Control, 123, 107844.

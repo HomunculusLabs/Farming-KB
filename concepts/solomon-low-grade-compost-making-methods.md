@@ -140,7 +140,6 @@ The key insight: compost's primary value is the humus it adds, improving soil st
 2. **Pile too small**: Cannot generate or retain sufficient heat
 3. **Impatience**: Using compost before fully decomposed introduces pathogens and locks up nitrogen
 4. **Believing all methods work equally**: Many books present all approaches as equally effective, which Solomon considers misleading
-
 ## See Also
 
 - [[building-soil-fertility-long-term]]

@@ -13,7 +13,7 @@ created: 2026-04-28
 
 ## Overview
 
-Anandamide (N-arachidonoylethanolamide, abbreviated AEA) is an endogenous cannabinoid neurotransmitter, often called the "bliss molecule." Discovered in the 1990s, anandamide was the first endocannabinoid identified and remains the most studied. It functions as a key molecule in the body's [[cannabis-health-endo-cannabinoid-system]] can be therapeutically targeted:
+Anandamide (N-arachidonoylethanolamide, abbreviated AEA) is an endogenous cannabinoid neurotransmitter, often called the "bliss molecule." Discovered in the 1990s, anandamide was the first endocannabinoid identified and remains the most studied. It functions as a key molecule in the body's [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] can be therapeutically targeted:
 
 - **Schizophrenia**: Elevated anandamide levels in cerebrospinal fluid have been observed in acute schizophrenia, and anandamide may mitigate psychotic episodes through CB1-mediated modulation of dopaminergic circuits. The inverse correlation between anandamide levels and symptom severity suggests a compensatory neuroprotective role.
 - **Anxiety and depression**: Enhancing anandamide signaling through FAAH inhibition has shown anxiolytic and antidepressant effects in preclinical models. Clinical observations suggest that the endocannabinoid system plays a natural role in mood homeostasis, and that deficiencies in endocannabinoid tone may contribute to mood disorders.

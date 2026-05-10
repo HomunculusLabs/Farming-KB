@@ -1,5 +1,5 @@
 ---
-title: "hemenway backyard [[wildlife-habitat-creation]] [[insectary-plants-and-beneficial-insect-habitat-design]]"
+title: "hemenway backyard [[wildlife-habitat-creation]] [[mollison-designers-insectary-plants-and-beneficial-insect-habitat]]"
 created: 2026-04-28
 tags: [permaculture, wildlife, birds, habitat-design, biodiversity]
 date: 2026-04-25

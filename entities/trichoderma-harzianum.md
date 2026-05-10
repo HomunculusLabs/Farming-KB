@@ -19,7 +19,7 @@ sources:
   - Lorito, M. et al. (2010). "Genomic analysis of mycoparasitic fungi reveals novel mechanisms of interactions with plants and other fungi." In: Mycota, Volume 10, Springer.
   - Woo, S.L. et al. (2014). "Trichoderma: A multi-purpose biocontrol agent." In: Biocontrol and Biofertilization, Springer, 265-284.
   - Druzhinina, I.S. et al. (2011). "Trichoderma: The genomics of opportunistic success." Nature Reviews Microbiology, 9(10), 749-759.
-  - Mukherjee, P.K. et al. (2013). "Use of Trichoderma as a biocontrol agent." In: [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of Plant Pathogens, APS Press.
+  - Mukherjee, P.K. et al. (2013). "Use of Trichoderma as a biocontrol agent." In: fukuoka-textdoc-biological-control-fallacy-pheromone-critique of Plant Pathogens, APS Press.
 ---
 
 ## Overview

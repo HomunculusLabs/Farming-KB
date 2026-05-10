@@ -126,7 +126,7 @@ minerals.
 Finely ground phosphate rock provides slow-release phosphorus over 3-5
 years. Its availability depends on soil pH and microbial activity -- it works
 best in acidic soils (pH below 6.5) where acids dissolve the phosphate
-minerals. [[mycorrhiza]]l fungi dramatically
+minerals. [[mycorrhiza]] l fungi dramatically
 improve phosphorus extraction from rock phosphate. Placement is key: it works
 best where roots will intercept the particles. Some gardeners claim it
 actually works better the second and third years.
@@ -145,4 +145,5 @@ alkaline and will increase pH, so they should not be used in soils already at
 proper pH. Do not use ash from treated charcoals or woods. Care must be taken
 not to over-apply.
 
-## See Also
+See [[teaming-with-microbes-the-organic-gardeners-guide-to-the-soil-food-web]] for more on Teaming With Microbes The Organic Gardeners Guide To The Soil Food Web.
+See [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]] for more on Query What Are C3 C4 And Cam Photosynthesis And Why Does It Matter For Growers.

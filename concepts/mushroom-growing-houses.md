@@ -84,9 +84,4 @@ economical choice for households with limited space and
 resources.
 
 ## See Also
-
 - [[mushroom-growing-substrates]]
-
-## See Also
-
-- falconer-growing-mushrooms-in-greenhouses

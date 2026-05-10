@@ -4,8 +4,7 @@ created: 2026-04-18
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Rock-Inhabiting and Microcolonial Fungi Rock-inhabiting fungi (RIF) are a specialized ecological group of ascomycetes and some basidiomycetes that colonize rock surfaces and subaerial stone substrata in extreme environments. They are characterized by slow growth, melanized cell walls, and the formation of microcolonial structures adapted to oligotrophic and xeric conditions. ## Distribution and Habitat Rock-inhabiting fungi are among the most stress-tolerant organisms on Earth, colonizing bare rock surfaces in deserts, polar regions, alpine zones, and coastal environments. They are typically the primary colonizers of lithic substrata, preparing surfaces for subsequent lichen and microbial community establishment. These fungi occur on diverse rock types including granite, limestone, sandstone, marble, and volcanic substrata. The concept of [[fungal-biodiversity-in-extreme-environments]]:
 

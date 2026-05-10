@@ -17,7 +17,7 @@ sources:
   - "Leafly Staff (2023). \"White Runtz Cannabis Strain Information.\" Leafly.com."
   - "AllBud (2023). \"White Runtz Strain Review.\" AllBud.com."
   - "Hodge, B. (2021). \"The Runtz Family Tree: A Genetic Breakdown.\" Cannabis Now Magazine."
-  - "[[query-sog-vs-scrog-cannabis-training-methods]] University (2023). \"Growing White Runtz: Complete Guide.\" CTU.edu."
+  - "query-sog-vs-scrog-cannabis-training-methods University (2023). \"Growing White Runtz: Complete Guide.\" CTU.edu."
   - "WikiLeaf (2023). \"White Runtz Strain Information.\" WikiLeaf.com."
 ---
 
@@ -139,11 +139,3 @@ that gives mature buds a nearly white, snow-dusted appearance.
   of the 2020s
 - The strain's premium pricing (often $60–80+ per eighth in legal markets)
   reflects its reputation, limited availability, and high demand
-## See Also
-
-- [[zkittlez]]
-- [[purple-punch]]
-
-## See Also
-
-- [[cannabis-health-strains-sativa-indica]]

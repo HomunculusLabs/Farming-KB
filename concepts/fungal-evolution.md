@@ -35,7 +35,7 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 
 1. **Chytridiomycota** (chytrids) — basal lineage, flagellated spores
 2. **Zygomycota** (zygomycetes) — pin molds, bread molds
-3. **Glomeromycota** ([[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi)
+3. **Glomeromycota** (arbuscular mycorrhizal fungi)
 4. **Ascomycota** (sac fungi) — largest phylum
 5. **Basidiomycota** (club fungi) — mushrooms, rusts, smuts
 6. **Several newly described phyla**: Cryptomycota (Rozellomycota), Blastocladiomycota, Kickxellomycota, Zoopagomycota, Mucoromycota
@@ -51,7 +51,7 @@ The fungal kingdom is divided into several major phyla, representing deep evolut
 
 ### Zygomycota / Mucoromycota
 
-- **Key feature**: [[fungal-life-cycles-sexual-reproduction-metamorphosis]] via zygospores — large, thick-walled resting spores formed by fusion of gametangia
+- **Key feature**: Sexual reproduction via zygospores — large, thick-walled resting spores formed by fusion of gametangia
 - Includes familiar bread molds (Rhizopus stolonifer, Mucor)
 - Mostly fast-growing, opportunistic saprotrophs
 - Some species cause human infections (mucormycosis, especially in immunocompromised patients)
@@ -111,7 +111,7 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 - Arbuscular mycorrhizae (Glomeromycota) are the ancestral condition — present in the earliest vascular plants
 - Ectomycorrhizae evolved later (~150-200 Ma) in multiple basidiomycete and ascomycete lineages
 - Ericoid mycorrhizae evolved with Ericaceae (heaths, heathers) in nutrient-poor acidic soils
-- [[comparison-orchid-mycorrhizae-vs-ericoid-mycorrhizae]] represent a specialized co-evolution — orchid seeds require fungal symbionts for germination
+- Orchid mycorrhizae represent a specialized co-evolution — orchid seeds require fungal symbionts for germination
 
 ### Pathogenic Evolution
 
@@ -126,7 +126,7 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 
 - Evolved once in a common ancestor of white-rot fungi, approximately 300 Ma (Late Carboniferous)
 - Coincides with the end of the Carboniferous coal deposits — as fungi evolved to break down lignin, less plant material was preserved as coal
-- White-rot fungi produce [[fungal-lignin-peroxidase-veratryl-alcohol]], [[fungal-manganese-peroxidase-remediation]], and [[singh-fungal-laccase-enzymes-bioremediation]]
+- White-rot fungi produce lignin peroxidase, manganese peroxidase, and laccase enzymes
 - This innovation fundamentally altered the global carbon cycle
 
 ### Fruiting Bodies
@@ -135,15 +135,16 @@ The transition from aquatic to terrestrial life was a pivotal event in fungal ev
 - Fruiting bodies (sporocarps) elevate spores for better wind dispersal
 - Diverse forms evolved: gilled mushrooms, boletes, polypores, puffballs, corals, stinkhorns — each adapted to different spore dispersal strategies
 
-## See Also
+### Yeast Forms
 
-- [[fungal-biology-fundamentals]] for how evolutionary innovations manifest in the life cycle
-- [[fungal-ecology]] for the ecological context of fungal evolution
-- [[fungal-biodiversity]] for the diversity produced by evolutionary processes
-- [[fungal-symbiosis-types]] for co-evolution with plants in detail
-- [[mycorrhizal-fungi]] for the most ancient and widespread plant-fungal symbiosis
+- Yeast growth (single-celled, budding) evolved independently multiple times from filamentous ancestors
+- Convergent evolution: Saccharomyces (ascomycete) and Cryptococcus (basidiomycete) both evolved yeast forms independently
+- Yeast forms are advantageous in liquid/sugar-rich environments (fruit surfaces, tree exudates)
 
-## Related
+## Evolutionary Timeline Summary
 
-- [[yeast-biology]]
-- [[chytrid-fungi-guide]]
+| Time (Ma) | Event |
+|-----------|-------|
+| ~1,500 | Opisthokont ancestor splits from other eukaryotes |
+| ~1,000-1,500 | Fungi diverge from Animalia |
+| ~800-1,000 | Chytrid lineages diversify |

@@ -127,10 +127,6 @@ A remarkable feature of *F. septica* is its documented capacity to harbor live *
 The species is widely used in biology education to demonstrate plasmodial movement, chemotaxis, and the unique life cycle of myxomycetes.
 
 ## See Also
-
-- [[myxomycetes-slime-molds]] — The class of plasmodial slime molds
-- [[decomposition]] — The ecological process of organic matter breakdown
-
-## See Also
-
+- [[myxomycetes-slime-molds]]
+- [[decomposition]]
 - [[myxomycete-mycetozoan-slime-mold-diversity-ecology]]

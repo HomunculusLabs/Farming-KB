@@ -17,7 +17,7 @@ sources:
   - Cui CH, Chisti Y. Polysaccharopeptides of Coriolus versicolor: physiological activity, uses, and production. Biotechnology Advances. 2003;21(2):109-122.
   - Kidd PM. The use of mushroom glucans and proteoglycans in cancer treatment. Alternative Medicine Review. 2000;5(1):4-27.
   - Oba K, et al. Efficacy of adjuvant immunochemotherapy with polysaccharide K for patients with curatively resected colorectal cancer: a meta-analysis. Cancer Science. 2007;98(3):343-350.
-  - Zhang L, et al. Fractionation, characterization and immunomodulatory activities of polysaccharides from [[staycare-trametes-versicolor-bioremediation-applications]]. Carbohydrate Polymers. 2018;198:241-251.
+  - Zhang L, et al. Fractionation, characterization and immunomodulatory activities of polysaccharides from staycare-trametes-versicolor-bioremediation-applications. Carbohydrate Polymers. 2018;198:241-251.
   - Wong KH, et al. Trametes versicolor: a culinary-medicinal mushroom with outstanding biological activities. In: Bioactive Foods in Promoting Health. Academic Press; 2010:373-395.
   - de Silva DD, et al. Medicinal mushrooms in prevention and treatment of diabetes mellitus. Fungal Diversity. 2012;56(1):1-29.
   - Bauer R, et al. Trametes versicolor (Turkey Tail): comprehensive review of phytochemistry, pharmacology, and clinical efficacy. Journal of Ethnopharmacology. 2021;276:114245.
@@ -135,7 +135,6 @@ The most extensively studied application of Turkey Tail is as an adjuvant (compl
 
 **Breast Cancer:**
 - PSP has shown immunomodulatory benefits in breast cancer patients undergoing chemotherapy, improving quality of life and immune markers.
-- In vitro studies demonstrate PSK induces apoptosis in breast cancer cell lines.
 ## Related Topics
 
 - [[oyster-mushroom-cultivation-and-species-guide]] — for comparison of cultivation techniques

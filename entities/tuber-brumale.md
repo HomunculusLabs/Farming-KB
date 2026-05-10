@@ -18,7 +18,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Ceruti, A., Fontana, A., & Nosenzo, C. (2003). "Le specie epigee in Piemonte." Centro Studi Fungarli.
-  - Chevalier, G. (2012). "[[comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation]] in Europe." In Fungi: Biology and Applications (2nd ed.). Wiley-Blackwell.
+  - Chevalier, G. (2012). "comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation in Europe." In Fungi: Biology and Applications (2nd ed.). Wiley-Blackwell.
   - Bonito, G. et al. (2010). "Tuber melanosporum and Tuber brumale: a comparative analysis." Mycorrhiza, 20(7), 481–489.
   - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=170458
 aliases:

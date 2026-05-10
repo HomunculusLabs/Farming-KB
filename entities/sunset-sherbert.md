@@ -20,7 +20,7 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2024). "Sunset Sherbert blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.
   - AllBud (2024). "Sunset Sherbert Strain Review." AllBud.com.
-  - Cannabis Cup Results (2016). High Times Cannabis Cup, [[shipibo-san-francisco-ceremonial-center-ucayali]].
+  - Cannabis Cup Results (2016). High Times Cannabis Cup, shipibo-san-francisco-ceremonial-center-ucayali.
   - Wikipedia contributors (2024). "List of cannabis strains." Wikipedia.
 created: 2026-05-07
 ---
@@ -116,6 +116,6 @@ are medium height with good lateral branching.
 ## See Also
 
 - [[gelato]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[thin-mint-cookies]]
 - [[runtz-entity]]

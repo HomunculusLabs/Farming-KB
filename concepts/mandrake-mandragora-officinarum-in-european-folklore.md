@@ -5,7 +5,6 @@ updated: "2026-04-17"
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Mandrake (Mandragora officinarum) in European Folklore and Medicine

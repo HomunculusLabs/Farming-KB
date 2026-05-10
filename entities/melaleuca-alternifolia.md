@@ -117,6 +117,8 @@ Tea tree plantations require careful water management to prevent nutrient runoff
 
 ## See Also
 
+- [[copaifera-langsdorffii]]
+
 - [[verbesina-alternifolia]]
 
 - [[eucalyptus-globulus]]

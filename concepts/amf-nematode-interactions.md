@@ -104,4 +104,7 @@ cultivars inoculated with AMF and challenged by [[mycorrhizal-biocontrol-phytoph
 
 ## See Also
 
+- [[gadd-nematode-trapping-fungi-dna-microarray-interaction]]
+- [[microwave-water-interaction-2-45-ghz]]
+
 - [[symbiotic-fungi-endophytic-biocontrol-stress-tolerance]]

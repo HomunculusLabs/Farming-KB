@@ -1,5 +1,5 @@
 ---
-title: cannabis cbd therapeutic profile Profile
+title: CBD Therapeutic Profile
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # CBD Therapeutic Profile
 
-Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has emerged as a therapeutic agent distinct from THC. Unlike THC, CBD is non-psychoactive, non-addictive, and has an excellent [[cannabis-safety-profile-and-overdose-risk]].
+Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has emerged as a therapeutic agent distinct from THC. Unlike THC, CBD is non-psychoactive, non-addictive, and has an excellent safety profile. (see [[blesching-cannabis-modes-administration-pharmacokinetics]]).
 
 ## Key Properties
 
@@ -50,7 +50,7 @@ Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has em
 - **Microdose**: 2.5-5mg (subtle effects, anxiety, focus)
 - **Low**: 5-15mg (mild anxiety, sleep aid)
 - **Moderate**: 15-50mg (pain, inflammation, epilepsy)
-- **High**: 50-600mg (seizure disorders, [[psilocybin-clinical-trial-landscape-2020-2025]] doses)
+- **High**: 50-600mg (seizure disorders, clinical trial doses)
 
 ### Safety
 - No known lethal dose (LD50 not established — extremely safe)
@@ -63,21 +63,3 @@ Cannabidiol (CBD) is the second most abundant cannabinoid in cannabis and has em
 - [[cannabis-thc-therapeutic-profile]] — for THC comparison
 - [[cannabis-for-anxiety-disorders]] — for anxiety applications
 - [[cannabis-for-neurological-conditions]] — for epilepsy applications
-## Practical Considerations
-
-Successful implementation of CBD Therapeutic Profile requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

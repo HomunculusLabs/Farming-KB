@@ -115,6 +115,8 @@ The concept of "set and setting" — first articulated by Timothy Leary, Ralph M
 - Integration circles: group processing of experiences
 ## Related
 
+- [[metzner-set-and-setting-psychedelic-therapy]]
+
 - [[psychedelic-experience-stages]] — for the experiential stages
 - [[lsd-therapeutic-history]] — for clinical history
 - [[psychedelic-therapy-mechanisms]]

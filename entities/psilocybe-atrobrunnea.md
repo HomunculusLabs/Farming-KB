@@ -15,7 +15,7 @@ type: entity
 **Also known as:** dark brown Psilocybe
 
 ## Overview
-Psilocybe atrobrunnea is a woodland [[emcdda-psilocybin-mushroom-dose-and-effects]] that grows in
+Psilocybe atrobrunnea is a woodland [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] that grows in
 or near sphagnum bogs across coniferous and deciduous forests of North
 America and Europe. Described by Lasch and classified by Gillet, it is
 a habitat specialist whose association with sphagnum bogs makes it

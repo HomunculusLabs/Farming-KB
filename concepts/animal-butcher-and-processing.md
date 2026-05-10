@@ -141,9 +141,16 @@ sheep, goats, pigs, and cattle).
 ### Basic Cuts (Beef/Lamb/Goat/Pork)
 - **Primal cuts:** Chuck, rib, loin, round, flank, brisket, plate (beef).
   Shoulder, rack, loin, leg, shank (lamb/goat). Shoulder, loin, belly,
+  leg, ham (pork).
+- **Sub-primal cuts:** Break primals into roasts, steaks, chops, stew meat,
+  and ground meat.
+- **Cutting order:** Remove legs first, then separate chuck/shoulder from
+  rib/loin, then break individual cuts.
+- **Ground meat:** Trim and grind trimmings. Mix with fat (pork fat or
+  beef fat) for proper consistency. 80/20 or 75/25 lean-to-fat ratio.
+
+
 ## See Also
-- [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]]
-- [[query-how-do-i-grow-cacao-and-process-it-into-chocolate]]
 - [[animal-harvest-and-processing]]
-- [[integrated-poultry-forage-systems-zone-two]]
-- [[small-scale-grain-growing]]
+- [[tea-cultivation-and-camellia-sinensis-processing]]
+- [[savory-animal-impact-and-herd-effect]]

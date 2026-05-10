@@ -1,5 +1,5 @@
 ---
-title: Amanita Muscaria Drying And Preparation
+title: [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens|Amanita]] Muscaria Drying And Preparation
 amanita-muscariauscaria drying and preparation Guide
 created: 2026-04-19
 updated: 2026-04-18
@@ -10,7 +10,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria Drying and Preparation Guide
 
-The preparation of [[amanita-muscaria-chemistry-and-pharmacology]] contains mainly ibotenic acid, with only a trace of agarin): alpha-amino-3-hydroxy-5-isoxazoloacetic acid, C5H6N2O4, MW 158.11, water-soluble, mp 150-152 C with [[muscimol-and-amanita-muscaria]] can apparently be reconverted into ibotenic acid in the presence of carbonated water. This reverses the effects of drying where ibotenic acid loses CO2 and becomes muscimol. The resulting effect is similar to fresh Amanita muscaria ingestion: nausea, vomiting, stomach cramps, stupor, coma-like sleep, excess salivation, and no hallucinogenic effect.
+The preparation of [[amanita-muscaria-chemistry-and-pharmacology]] contains mainly [[ibotenic-acid]] id]] id]], with only a trace of agarin): alpha-amino-3-hydroxy-5-isoxazoloacetic acid, C5H6N2O4, MW 158.11, water-soluble, mp 150-152 C with [[muscimol-and-amanita-muscaria]] can apparently be reconverted into ibotenic acid in the presence of carbonated water. This reverses the effects of drying where ibotenic acid loses CO2 and becomes muscimol. The resulting effect is similar to fresh Amanita muscaria ingestion: nausea, vomiting, stomach cramps, stupor, coma-like sleep, excess salivation, and no hallucinogenic effect.
 
 ## Dosage Guidelines
 
@@ -46,7 +46,7 @@ Based on the detailed testimonial of Donald E. Teeter, the progression at increa
 - 1.5 to 8 inches diameter (sometimes much larger, up to 12 inches)
 - Color ranges from straw yellow through yellow-orange, orange, orange-red to bright blood red
 - Surface smooth with white or off-white warts
-- Margin may have striated surface [[spore-print]]lls below, especially in older specimens
+- Margin may have striated surface [[spore-print]] lls below, especially in older specimens
 
 ### Gills
 - Crowded, white, broad, free from stem with extremely fine hairy edges

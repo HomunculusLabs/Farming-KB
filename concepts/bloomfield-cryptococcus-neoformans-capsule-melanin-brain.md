@@ -126,6 +126,8 @@ The relationship between fungal decomposers and potential human infection raises
 
 ## See Also
 
+- [[bloomfield-cordyceps-summit-disease-brain-chemistry-manipulation]]
+
 - bloomfield-mushroom-poisons-and-toxidromes for broader discussion of fungal poisons
 - [[bloomfield-fungal-secondary-metabolites]] for melanin and other [[query-how-to-extract-and-use-fungal-pigments-for-natural-dyeing]]
 - [[bloomfield-yeast-saccharomyces-fungal-pathogens]] for yeast biology and dimorphism

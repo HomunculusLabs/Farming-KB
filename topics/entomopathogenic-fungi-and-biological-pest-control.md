@@ -6,8 +6,7 @@ tags: [entomopathogenic-fungi, biocontrol, mycopesticides, cordyceps,
   beauveria, metarhizium, integrated-pest-management]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
   - raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
   - raw/papers/unknown-biodiversity-of-fungi.md
   - raw/papers/unknown-mr-bloomfields-orchard-mysterious-world-of-mushrooms.md
@@ -115,7 +114,6 @@ becomes a biological weapon capable of infecting dozens or hundreds of new
 victims.
 
 Alternative portals of entry exist as well. Some entomopathogenic fungi can
-infect through the respiratory tract when spores are inhaled, through the mouth
 ## See Also
 
 - [[cordyceps-and-entomopathogenic-fungi]]

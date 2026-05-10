@@ -117,4 +117,4 @@ expertise and contributing to the ongoing evolution of this field.
 
 ## See Also
 
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]

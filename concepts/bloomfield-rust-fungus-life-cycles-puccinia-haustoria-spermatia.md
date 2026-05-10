@@ -137,13 +137,9 @@ wheat, it germinates, penetrates through a stoma, feeds with haustoria,
 and after a few days, uredial pustules burst through the leaf. The cycle
 is complete: two hosts, four spore types, insect-mediated sex, and three
 acts of plant penetration.
-## See Also
 
+## See Also
 - [[bloomfield-puccinia-monoica-pseudoflowers-rust-mimicry]]
-
-- [[bloomfield-buller-experimental-mycology]] for Buller's contributions
-- [[bloomfield-fungal-spore-discharge-and-dispersal]] for Buller's drop
-
-## See Also
-
+- [[bloomfield-buller-experimental-mycology]]
+- [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]

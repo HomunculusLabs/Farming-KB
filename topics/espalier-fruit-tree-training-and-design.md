@@ -108,7 +108,6 @@ most natural and successful espalier form for stone fruits, as it
 accommodates their more upright, vase-like growth habit better than
 horizontal cordons do.
 
-Fig trees are exceptional candidates for espalier, particularly
 ## See Also
 
 [[fruit-tree-pruning-and-training-systems]]

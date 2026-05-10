@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fruit-tree, pruning, orchard, pest-control, cultivation, beginner]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-Apples are among the most rewarding fruit trees for home orchards. With proper planting, pruning, and pest management, a single tree can produce fruit for 50-100+ years. This guide covers planting, [[comparison-central-leader-vs-open-center-fruit-tree-training]] pruning, fruit thinning, pest management, and variety selection.
+Apples are among the most rewarding fruit trees for home orchards. With proper planting, pruning, and pest management, a single tree can produce fruit for 50-100+ years. This guide covers planting, central leader pruning, fruit thinning, pest management, and variety selection. (see [[strawberry-growing-guide]]).
 
 ## Planting
 
@@ -21,8 +20,8 @@ Apples are among the most rewarding fruit trees for home orchards. With proper p
 - Avoid planting during the heat of midsummer
 
 ### Site Selection
-- Full sun (6-8+ hours direct) for [[query-how-do-i-prune-brambles-for-maximum-fruit-production]] production
-- Good [[stamets-growing-room-air-circulation-co2-management]] — avoid low frost pockets and wind-sheltered corners
+- Full sun (6-8+ hours direct) for maximum fruit production
+- Good air circulation — avoid low frost pockets and wind-sheltered corners
 - Well-draining soil — standing water kills roots quickly
 - Soil pH 6.0-7.0
 - Space standard trees 20-25 feet apart, semi-dwarf 12-15 feet, dwarf 8-10 feet
@@ -48,12 +47,12 @@ Apples are among the most rewarding fruit trees for home orchards. With proper p
 
 ## Pruning: Central Leader System
 
-The central leader system is the standard training method for apple trees, creating a strong, conical shape.
+The central leader system is the standard training method for apple trees, creating a strong, conical shape. (see [[hawthorn-berry-guide]]).
 
 ### First Year (Whip/Unbranched Tree)
 - Cut the leader back to 24-30 inches above the ground at planting
 - This forces lateral (scaffold) branches to develop
-- Select 3-4 well-spaced scaffold branches during the first [[savory-growing-season-and-non-growing-season-management]]
+- Select 3-4 well-spaced scaffold branches during the first growing season
 - Remove any branches below 18-24 inches
 
 ### Second Year
@@ -115,13 +114,13 @@ Thinning excess fruit is essential for quality apples and tree health.
 - Larvae tunnel into fruit, leaving frass (excrement) at the entry hole
 - Management:
   - Pheromone traps to monitor flight and disrupt mating
-  - Apply spinosad (Entrust) or Bt ([[cervantes-bacillus-thuringiensis-bt-control]]) at petal fall and repeat every 10-14 days for 3-4 applications
+  - Apply spinosad (Entrust) or Bt (Bacillus thuringiensis) at petal fall and repeat every 10-14 days for 3-4 applications
   - Remove dropped fruit regularly (breeding ground for larvae)
   - Bag individual fruit clusters with nylon footies or paper bags (very effective on small trees)
   - Trunk banding with corrugated cardboard to trap overwintering larvae
 
 ### Cedar Apple Rust
-- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] requiring two hosts: cedar/juniper trees and apple trees
+- Fungal disease requiring two hosts: cedar/juniper trees and apple trees
 - Causes orange spots on apple leaves and fruit; deforms fruit
 - Galls on cedar trees release spores that travel to apples in spring
 - Management:
@@ -143,8 +142,9 @@ Thinning excess fruit is essential for quality apples and tree health.
 ### Other Pests
 - **Apple maggot**: Flies lay eggs under fruit skin; larvae tunnel through flesh. Red sticky traps, kaolin clay sprays, clean up fallen fruit
 - **Plum curculio**: Small weevil that scars fruit and causes premature drop. Surround WP (kaolin clay) spray, pyrethrin at petal fall
-## See Also
+- **Aphids**: Curl leaves and produce honeydew; encourage ladybugs, use insecticidal soap
+- **Mites**: Cause bronzing of leaves; dormant oil spray, encourage predatory mites
 
-- [[stone-fruit-tree-care]] for companion fruit tree management
-- [[backyard-orchard-design]] for orchard layout and planning
-- [[food-forest-design]] for integrating apples into perennial systems
+### Organic Spray Schedule
+- **Dormant season**: Horticultural oil (smother overwintering pests and eggs)
+- **Green tip**: Sulfur (scab prevention)

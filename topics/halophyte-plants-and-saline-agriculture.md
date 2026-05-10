@@ -139,7 +139,6 @@ Salt stress generates reactive oxygen species (ROS) including superoxide (O₂�
 
 - **Description:** Perennial C₄ grass of coastal tropical and subtropical regions
 - **Salt tolerance:** Very high (EC 20–50 dS/m)
-- **Forage value:** Moderate palatability, 6–10% crude protein
 ## See Also
 
 - [[mangrove-ecosystems-and-coastal-restoration|Mangrove Ecosystems and Coastal Restoration]]

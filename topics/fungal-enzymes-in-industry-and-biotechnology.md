@@ -91,7 +91,6 @@ but also enzyme-derived [[antifungal-secondary-metabolites-coprophilous-fungi]] 
 the 1940s, fungal cellulases were being investigated for biomass conversion.
 Today, fungal enzymes account for a substantial majority of all industrial
 enzyme sales worldwide.
-
 ## See Also
 
 - [[fungal-enzyme-systems]]

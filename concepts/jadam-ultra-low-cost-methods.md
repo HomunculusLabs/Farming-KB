@@ -10,11 +10,11 @@ sources:
 
 # JADAM Ultra-Low-Cost Methods
 
-JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean [[coleman-deep-organic-farming-philosophy]] system developed by Youngsang Cho. Its ultimate objective is to bring farming back to farmers by making organic agriculture simple, effective, and ultra-low-cost -- as low as $100 per acre per year.
+JADAM (Jayonul Damun Saramdul, meaning "people who are like nature") is a Korean organic farming system developed by Youngsang Cho. Its ultimate objective is to bring farming back to farmers by making organic agriculture simple, effective, and ultra-low-cost -- as low as $100 per acre per year.
 
 ## Core Philosophy
 
-JADAM's guiding principle is **SESE**: Simple, Easy, Scientific, Effective. The system rejects the idea that farming knowledge should be proprietary or expensive. Youngsang Cho chose not to patent JADAM's key inventions (JADAM [[jadam-nutrient-management-wetting-agent-and-calcium]], JADAM sulfur) and instead opened them publicly.
+JADAM's guiding principle is **SESE**: Simple, Easy, Scientific, Effective. The system rejects the idea that farming knowledge should be proprietary or expensive. Youngsang Cho chose not to patent JADAM's key inventions (JADAM wetting agent, JADAM sulfur) and instead opened them publicly.
 
 Key philosophical tenets:
 - Farming should become easier and simpler with age and experience, not harder
@@ -31,7 +31,7 @@ Conventional and even organic farming have become dependent on purchased inputs 
 
 The JADAM system includes:
 
-1. **JADAM [[jadam-microorganism-solution-culturing]] (JMS)** -- [[beneficial-indigenous-microorganisms-bim]] cultured from local leaf mold using potatoes and sea salt as medium. No sugar/molasses needed. Produces 1 billion microbes per ml at peak.
+1. **JADAM Microorganism Solution (JMS)** -- Indigenous microorganisms cultured from local leaf mold using potatoes and sea salt as medium. No sugar/molasses needed. Produces 1 billion microbes per ml at peak.
 
 2. **JADAM Liquid Fertilizer (JLF)** -- Made from crop residues, wild grass, and leaf mold in water. No sugar or molasses. Can be used at any fermentation stage. Dilution x100 standard.
 
@@ -39,7 +39,7 @@ The JADAM system includes:
 
 4. **JADAM Sulfur (JS)** -- Powerful germicide made without heating from sulfur, caustic soda, phyllite, red clay, and sea salt. Cost: ~$0.50 per liter.
 
-5. **JADAM Herb Solution (JHS)** -- Boiled herb extracts for pest control using common plants like [[comparison-jerusalem-artichoke-vs-potato]], gingko, and Korean pasque flower.
+5. **JADAM Herb Solution (JHS)** -- Boiled herb extracts for pest control using common plants like Jerusalem artichoke, gingko, and Korean pasque flower.
 
 6. **Sea water/sea salt** -- 83 different minerals to replenish soil. Diluted 30:1 or more.
 
@@ -51,7 +51,7 @@ The single most important JADAM practice: "Apply JMS, sea water, and phyllite so
 
 ## Cost Achievements
 
-Bongha village, Korea (320 acres) successfully farmed rice for 5 years using JADAM method. They applied JADAM [[jadam-natural-pesticide-institute-and-research]] 4 times at a cost of $9 per acre. JADAM pesticide costs approximately 1/50 of commercial chemical pesticides.
+Bongha village, Korea (320 acres) successfully farmed rice for 5 years using JADAM method. They applied JADAM natural pesticide 4 times at a cost of $9 per acre. JADAM pesticide costs approximately 1/50 of commercial chemical pesticides.
 
 ## Microbial Diversity Over Disinfection
 
@@ -68,21 +68,3 @@ JADAM method can be applied in all types of agriculture: conventional, hydroponi
 - [[jadam-fermented-plant-juice]]
 - [[jadam-herbal-pest-control]]
 - [[knf-indigenous-microorganism-culture]]
-## Practical Considerations
-
-Successful implementation of JADAM Ultra-Low-Cost Methods requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

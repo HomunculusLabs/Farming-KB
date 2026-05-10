@@ -5,7 +5,6 @@ updated: 2026-04-24
 type: concept
 tags: [diet, health, food, nutrition, farming, fukuoka, macrobiotic]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka on [[natural-diet]] and Health

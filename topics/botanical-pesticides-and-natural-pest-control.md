@@ -95,7 +95,6 @@ integrated pest management, or IPM.
 
 ## Definition and scope
 
-A botanical pesticide is commonly defined by origin rather than by toxicity. The
 ## See Also
 
 - [[cho-natural-pest-control-methods]]

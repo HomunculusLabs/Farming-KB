@@ -101,4 +101,6 @@ pore, while *Panaeolus* spores possess one.
 | *Panaeolina* | *P. foenisecii* | No | Very common in lawns |
 ## See Also
 
+- [[gymnopilus-luteofolius]]
+
 - [[allen-australian-psilocybe-species-comprehensive-guide]]

@@ -125,7 +125,6 @@ field planting preserves momentum.
 
 Soil blocks offer one response to root architecture. Because the block is not
 confined by plastic walls, roots air-prune at the surface and resume growth
-quickly after transplanting. Blocks demand a suitable mix and careful
 ## See Also
 
 - [[faires-seed-starting-transplanting-guide]]

@@ -1,20 +1,17 @@
 ---
-title: mckenna-suppression-psychedelic-research-lsd-therapy Timeline
+title: Psychedelic Research Timeline
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [history, timeline, psychedelics, academia, psychopharmacology, entheogen-research, consciousness, counterculture]
-sources:
-  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
+sources: []
 ---
 
 # Psychedelic Research Timeline
 
-## Overview
+## Overvi [[ergot-fungi-lysergic-acid-and-the-history-of-ergotism]] y of psychedelic [[psychedelic-research-legal-history-united-states]] research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppressi [[disenchantment-and-modern-craving-for-fungal-enchantment]] dern renaissance. This timeline traces the key milestones that have shaped our understanding o [[psychedelic-substances-comparison]] e [[fungi-and-their-allies-classification]] i [[metzner-ayahuasca-therapeutic-potential]] al.
 
-The history of psychedelic research spans nearly a century, from early serendipitous discoveries through periods of intense scientific inquiry, political suppression, and modern renaissance. This timeline traces the key milestones that have shaped our understanding of psychedelic substances and their therapeutic potential.
-
-## 1930s-1940s: Discovery and Early Exploration
+## 1930s-194[[lsd-discovery-and-history]] and Early Exploration
 
 ### 1938 — LSD Synthesis
 
@@ -22,15 +19,15 @@ Albert Hofmann, a chemist at Sandoz Laboratories in Basel, Switzerland, first sy
 
 ### 1943 — LSD's Psychoactive Effects Discovered
 
-On April 16, Hofmann accidentally absorbs a small amount of LSD through his skin and experiences its extraordinary effects. On April 19, he deliberately ingests 250 micrograms (later recognized as a very high dose) and bicycles home in what becomes the most famous bicycle ride in pharmacological history. April 19 is now celebrated as "Bicycle Day" in psychedelic communities.
+On April 16, Hofmann accidentally absorbs a small amount of LSD through his skin and experiences its extraordinary effects. On April 19, he deliberately ingests 250 micrograms (later recognized as a very high dose) and bicycles home in what becomes the most famous bicycle ride in pharmacological history. April 19 is now celebrated as "Bicycle Day" in psychedelic [[psychedelic-research-legal-history-united-states]] communities.
 
 ### 1947 — LSD Introduced to Researchers
 
-Sandoz begins distributing LSD under the trade name Delysid to researchers and clinicians worldwide. Early research focuses on its use as a model psychosis and as an adjunct to psychoanalysis.
+Sandoz begins distributing LSD under the trade name Delysid to researchers and clinicians worldwide. Early research [[psychedelic-research-legal-history-united-states]] focuses on its use as a model psychosis and as an adjunct to psychoanalysis.
 
 ### 1949 — Mescaline Research Expands
 
-Early [[hofmann-lsd-clinical-research-early-studies]] with mescaline (the active compound in peyote) continues, building on work by German pharmacologist Louis Lewin in the 1890s. Mescaline becomes a tool for studying consciousness and schizophrenia.
+Early clinical research with mescaline (the active compound in peyote) continues, building on work by German pharmacologist Louis Lewin in the 1890s. Mescaline becomes a tool for studying consciousness and schizophrenia.
 
 ## 1950s-1960s: The Golden Age of Psychedelic Research
 
@@ -44,7 +41,7 @@ British psychiatrist Humphry Osmond suggests the term "psychedelic" (Greek: psyc
 
 ### 1956 — Psilocybin Isolated
 
-Albert Hofmann isolates psilocybin and psilocin from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to Western audiences.
+Albert Hofmann isolates psilocybin and psilocin from Psilocybe mexicana mushrooms, specimens collected by R. Gordon Wasson in Mexico. Wasson's 1957 Life magazine article "Seeking the Magic Mushroom" introduces psilocybin mushrooms to Western audiences.
 
 ### 1950s-1960s — Clinical Psychedelic Therapy Peaks
 
@@ -75,7 +72,7 @@ President Nixon signs the Controlled Substances Act. LSD, psilocybin, mescaline,
 
 ### 1970-1985 — Research Continues Underground
 
-A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]] as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
+A small number of committed researchers continue working outside legal frameworks. Stanislav Grof develops holotropic breathwork as a non-drug method for accessing non-ordinary states based on his psychedelic therapy experience.
 
 ### 1971 — UN Convention on Psychotropic Substances
 
@@ -83,7 +80,7 @@ International scheduling restricts psychedelic research globally. Most countries
 
 ### 1985 — MDMA Scheduled
 
-Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
+Despite showing promise as an adjunct to psychotherapy, MDMA is placed in Schedule I in the US. Rick Doblin founds MAPS (Multidisciplinary Association for Psychedelic Studies) the same year, beginning the decades-long effort to reschedule MDMA for medical use.
 
 ## 1990s-2000s: The Psychedelic Renaissance Begins
 
@@ -135,15 +132,17 @@ COMPASS Pathways reports positive Phase 2b results for psilocybin therapy in tre
 
 Oregon implements Measure 109 (psilocybin therapy) and Measure 110 (drug decriminalization). Colorado passes Proposition 122 (natural medicine access). Dozens of municipalities decriminalize psychedelics.
 
-## See Also
+### 2024 — MDMA Therapy FDA Review
 
-- [[psychedelic-therapy-current-research]] — current state of clinical research
-- [[harm-reduction-guide]] — modern harm reduction rooted in decades of research
+MAPS completes Phase 3 trials for MDMA-assisted therapy for PTSD. FDA advisory committee review and potential approval decision represents the culmination of nearly 40 years of advocacy.
 
-## Related
+### 2025-2026 — Expanding Indications
 
-- psychedelic research timeline
+Clinical trials expand to include psilocybin for depression (COMPASS, Usona), DMT for depression (Small Pharma), ibogaine for addiction (Ambio Life Sciences), and ketamine for various indications. Psychedelic-assisted therapy training programs multiply.
 
-## See Also
+## Key Figures in Psychedelic Research
 
-- [[psychedelic-therapy-set-and-setting]]
+| Researcher | Contribution | Era |
+|-----------|-------------|-----|
+| Albert Hofmann | LSD and psilocybin discovery | 1940s-2000s |
+| Humphry Osmond | Alcoholism treatment, coined "psychedelic" | 1950s |

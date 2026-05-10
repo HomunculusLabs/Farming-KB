@@ -1,19 +1,19 @@
 ---
-title: Psilocybin accessible-mushroom-cultivation-for-disabilities Basics
+title: Psilocybin Mushroom Cultivation Basics
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [psilocybin, mushroom-cultivation, fungi, mycology, pf-tek, monotub, grain-to-bulk, species-identification]
-sources: sources: []
+sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
 # Psilocybin Mushroom Cultivation Basics
 
-This page covers the academic and taxonomic aspects of psilocybin mushroom [[synthetic-log-cultivation-methods-guide]] as described in the mycological literature. Psilocybin and psilocin are controlled substances in many jurisdictions; cultivators must be aware of and comply with all applicable laws.
+This page covers the academic and taxonomic aspects of psilocybin mushroom cultivation methods as described in the mycological literature. Psilocybin and psilocin are controlled substances in many jurisdictions; cultivators must be aware of and comply with all applicable laws.
 
 ## Taxonomy
 
-Psilocybin-containing mushrooms are found primarily in the genera Psilocybe, Panaeolus, Copelandia, Gymnopilus, and Inocybe. The genus Psilocybe is the largest, with over 180 described species. Key species include [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] (the most commonly cultivated), P. cyanescens, P. semilanceata, P. azurescens, P. baeocystis, and P. pelliculosa.
+Psilocybin-containing mushrooms are found primarily in the genera Psilocybe, Panaeolus, Copelandia, Gymnopilus, and Inocybe. The genus Psilocybe is the largest, with over 180 described species. Key species include Psilocybe cubensis (the most commonly cultivated), P. cyanescens, P. semilanceata, P. azurescens, P. baeocystis, and P. pelliculosa.
 
 ## Spore Characteristics
 
@@ -28,13 +28,13 @@ Psilocybe cubensis can progress from spore germination to fruitbody initials in 
 ## Cultivation Methods
 
 ### PF Tek (Psilocybe Fanaticus Technique)
-The simplest beginner method. Brown rice flour is mixed with vermiculite and water in half-pint wide-mouth mason jars, sterilized at 15 psi for 60 minutes, inoculated with spore syringe, and incubated at 75-80 F. After full colonization, the cake is removed from the jar and placed in a simple [[mushroom-humidity-chamber-design-operation]] for fruiting.
+The simplest beginner method. Brown rice flour is mixed with vermiculite and water in half-pint wide-mouth mason jars, sterilized at 15 psi for 60 minutes, inoculated with spore syringe, and incubated at 75-80 F. After full colonization, the cake is removed from the jar and placed in a simple humidity chamber for fruiting.
 
 ### Grain-to-Bulk
 A more advanced method producing substantially higher yields. The Mushroom Cultivator describes this approach: grain spawn is prepared in quart jars, then used to inoculate bulk substrates (straw, compost, or manure-based substrates). The bulk substrate is cased with a moist peat-based mixture to initiate pinning.
 
 ### Monotub
-A self-contained fruiting chamber. A large plastic storage bin is modified with holes for fresh air exchange, filled with pasteurized or [[oyster-mushroom-non-sterilized-substrate-cultivation]] inoculated with grain spawn, and allowed to colonize and fruit within the same container.
+A self-contained fruiting chamber. A large plastic storage bin is modified with holes for fresh air exchange, filled with pasteurized or sterilized substrate inoculated with grain spawn, and allowed to colonize and fruit within the same container.
 
 ## Agar Media Preferences
 
@@ -46,7 +46,7 @@ From The Mushroom Cultivator, the cultural parameters include:
 - Initiation: Lowering temperature, increasing humidity to 95%, increasing air circulation, decreasing CO2, and introducing light
 - Cropping: Maintaining temperature, lowering humidity to 85-92%, maintaining air circulation and CO2 levels
 - Air exchanges per hour for P. cubensis: 2-3 maximum
-- Lighting: Blue spectra (440-495 nm) important for [[growing-gourmet-primordia-formation-pinning]]; P. cubensis is phototropic
+- Lighting: Blue spectra (440-495 nm) important for primordia formation; P. cubensis is phototropic
 
 ## Strain Development
 
@@ -58,28 +58,8 @@ Psilocybin and psilocin are Schedule I controlled substances in the United State
 
 ## See Also
 
-- [[psilocybin-mushroom-cultivation-compost-basics]]
-
 - [[mushroom-cultivation-grain-spawn]]
 - [[mushroom-cultivation-sterile-technique]]
 - [[mushroom-cultivation-bulk-substrates]]
 - [[mushroom-cultivation-fruiting-chambers]]
 - [[mushroom-cultivation-cloning-isolation]]
-## Practical Considerations
-
-Successful implementation of Psilocybin Mushroom Cultivation Basics requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

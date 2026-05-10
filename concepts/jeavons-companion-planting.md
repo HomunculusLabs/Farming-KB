@@ -100,10 +100,6 @@ Different plant types can be grown in the same bed simultaneously. Example: corn
 - Herb plants should be reasonably mature when transplanted for optimum effect as companions.
 
 ## See Also
-
 - [[fukuoka-white-clover-ground-cover]]
 - [[jeavons-natural-pest-control]]
-
-## See Also
-
 - [[jeavons-companion-planting-health-nutrition]]

@@ -4,13 +4,13 @@ created: 2026-04-28
 tags: mycology, taxonomy, dark-taxa, undiscovered-species]
 date: 2026-04-28
 updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-of-fungi.md]
+sources: [/Users/t3rpz/wiki/raw/papers/unknown-biodiversity-fungi-soil-fungal-communities|biodiversity-of-fungi.md]
 type: concept
 ---
 
 # Dark Taxa (Fungi)
 
-Dark taxa are fungal lineages known only from DNA sequences recovered from
+Dark taxa are [[fungal-dark-taxa-environmental-dna-sequencing|fungal]] lineages known only from DNA sequences recovered from
 environmental samples, with no formally described species, no physical specimen
 (voucher), and no cultured representative. They represent the largest reservoir
 of undocumented biodiversity in the fungal kingdom.
@@ -33,11 +33,11 @@ surveys.
 Dark taxa are discovered through environmental sequencing of diverse substrates:
 
 - **Soil cores** — the most sampled matrix, revealing staggering OTU richness
-- **Plant endosphere** — roots, stems, and leaves harbor endophytic fungi
+- **Plant endosphere** — roots, stems, and leaves harbor [[endophytic-fungi]]
   that are rarely collected independently
 - **Aquatic sediments** — marine and freshwater substrates contain poorly
   studied fungal communities
-- **Air samples** — aerobiology captures [[mycorrhiza]]l dark taxa could influence plant community composition. Understanding
+- **Air samples** — aerobiology captures [[mycorrhiza]] l dark taxa could influence plant community composition. Understanding
 ecosystem processes requires understanding all participants, not just the
 named ones.
 

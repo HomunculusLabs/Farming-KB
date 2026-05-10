@@ -4,9 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, plants, ecology, permaculture, companion-planting, soil-building]
-sources:
-  sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources: []
 ---
 
 # Ground Cover Plants
@@ -19,8 +17,8 @@ Ground cover plants form living carpets over soil, suppressing weeds, retaining 
 - **Moisture retention**: Shade soil surface, reduce evaporation by 25-50%
 - **Soil protection**: Prevent erosion from rain impact and wind
 - **Temperature moderation**: Keep soil cooler in summer, warmer in winter
-- **Soil building**: Add [[hamilton-composting-and-organic-matter-management]] as leaves decompose; some fix nitrogen
-- **Biodiversity**: Provide habitat for ground beetles, spiders, and other [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- **Soil building**: Add organic matter as leaves decompose; some fix nitrogen
+- **Biodiversity**: Provide habitat for ground beetles, spiders, and other beneficial insects
 - **Aesthetic**: Fill gaps between larger plants, soften hardscape edges
 - **Living mulch**: Replace wood chip mulch with plants that perform the same function while adding beauty and ecological value
 
@@ -54,7 +52,7 @@ Nitrogen-fixing ground covers that improve soil fertility while providing nectar
 - **Height**: 12-24 inches (taller than white clover)
 - **Sun**: Full sun to part shade
 - **Features**: Pink/purple flower heads, deeper root system than white clover, fixes more nitrogen
-- **Use**: Better for meadow plantings, orchard understory, and [[fukuoka-clover-cover-cropping-soil-ecology]] than as a lawn alternative
+- **Use**: Better for meadow plantings, orchard understory, and cover cropping than as a lawn alternative
 - **Biennial**: Lives 2 years, reseeds readily
 
 ## Vinca (Vinca minor — Periwinkle)
@@ -82,7 +80,7 @@ A shade-tolerant, variegated ground cover with silver-marked leaves and long-blo
 - **Varieties**: 'Beacon Silver' (pink flowers, silver leaves), 'White Nancy' (white flowers), 'Golden Anniversary' (gold-edged leaves)
 - **Planting**: Space 12 inches apart; propagate by division in spring or fall
 - **Maintenance**: Shear back if foliage gets raggy in midsummer; new growth flushes quickly
-- **Note**: Despite the name, it is not related to [[comparison-stinging-nettle-vs-horsetail]] and is completely harmless
+- **Note**: Despite the name, it is not related to stinging nettle and is completely harmless
 
 ## Additional Ground Cover Plants
 
@@ -104,7 +102,7 @@ A shade-tolerant, variegated ground cover with silver-marked leaves and long-blo
 ### Nitrogen-Fixing Ground Covers
 - **White clover**: Best all-purpose nitrogen fixer
 - **Vetch (Vicia spp.)**: Vigorous climber, excellent for slopes and banks
-- **Crown vetch (Coronilla varia)**: Aggressive spreader for [[permplant-willows-salix-erosion-control-fodder]] (can be invasive — use with caution)
+- **Crown vetch (Coronilla varia)**: Aggressive spreader for erosion control (can be invasive — use with caution)
 - **Bird's-foot trefoil (Lotus corniculatus)**: Drought-tolerant, yellow flowers, good for poor soils
 
 ## Weed Suppression Strategies
@@ -125,7 +123,7 @@ Ground covers suppress weeds most effectively when planted densely and managed p
 - **Slope stabilization**: Deep-rooted covers like crown vetch, creeping juniper, or native grasses
 - **Lawn replacement**: Clover, creeping thyme, or native sedges for low-maintenance alternatives
 - **Pathways**: Creeping thyme between stepping stones releases fragrance when walked on
-- **[[fukuoka-orchard-floor-management]]**: Clover or vetch between tree rows reduces mowing and builds soil
+- **Orchard floor**: Clover or vetch between tree rows reduces mowing and builds soil
 
 ## See Also
 

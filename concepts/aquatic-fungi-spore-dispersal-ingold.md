@@ -126,11 +126,7 @@ substrates. This foam-mediated dispersal is particularly important for fungi
 colonizing newly available leaf material.
 
 ## See Also
-
 - [[fungal-life-cycles-sexual-reproduction-metamorphosis]]
 - [[fungal-hyphae-invasive-growth-mechanisms]]
 - [[fairy-rings-mycelium-ecology-soil]]
-
-## See Also
-
 - [[terence-ingold-mycologist]]

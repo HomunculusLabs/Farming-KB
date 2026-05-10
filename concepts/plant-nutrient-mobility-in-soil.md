@@ -26,7 +26,7 @@ Multiple factors influence how nutrients move (or fail to move) through soil:
 - **pH:** Soil acidity or alkalinity dramatically affects nutrient solubility and availability
 - **Moisture:** Nutrients move with water; dry conditions limit mobility
 - **Clay content:** Negatively charged clay particles adsorb and hold cation nutrients
-- **[[hamilton-composting-and-organic-matter-management]]:** Provides [[mollison-designers-tropical-soils-and-cation-exchange-management]] sites and chelating compounds that affect mobility
+- **Organic matter:** Provides cation exchange sites and chelating compounds that affect mobility
 - **Nutrient interactions:** The presence of one nutrient can enhance or inhibit the mobility of another
 
 ### Highly Mobile Nutrients in Soil
@@ -94,7 +94,7 @@ Once incorporated into plant tissues, these nutrients cannot be relocated. Defic
 
 ### Foliar Feeding Limitations
 
-Nutrient mobility inside plants explains why [[foliar-feeding|foliar feeding]] is not always effective. Only mobile nutrients (N, P, K, Mg) can be translocated from leaf surfaces to where they are needed in the plant. For immobile nutrients (Ca, B, Fe), [[ultra-low-cost-foliar-application-methods]] only benefits the tissues directly sprayed.
+Nutrient mobility inside plants explains why [[foliar-feeding|foliar feeding]] is not always effective. Only mobile nutrients (N, P, K, Mg) can be translocated from leaf surfaces to where they are needed in the plant. For immobile nutrients (Ca, B, Fe), foliar application only benefits the tissues directly sprayed.
 
 ### Fertilizer Placement
 

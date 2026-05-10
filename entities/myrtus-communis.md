@@ -13,7 +13,7 @@ sources:
   - Wren, R.C. (1988). "Potter's New Cyclopaedia of Botanical Drugs and Preparations." C.W. Daniel Co.
   - Rivera, D. et al. (2006). "Myrtus communis in the Mediterranean: ethnobotany and traditional uses." Economic Botany, 60(3), 237-253.
   - Barros, L. et al. (2014). "Myrtus communis L.: a review on phytochemical and pharmacological aspects." Planta Medica, 80(6), 443-455.
-  - Senatore, F. et al. (2006). "[[permaculture-designers-manual-essential-oil-plants]] composition of Myrtus communis." Flavour and Fragrance Journal, 21(2), 257-261.
+  - Senatore, F. et al. (2006). "permaculture-designers-manual-essential-oil-plants composition of Myrtus communis." Flavour and Fragrance Journal, 21(2), 257-261.
   - Hayder, N. et al. (2005). "Anti-inflammatory and antioxidant activities of Myrtus communis extracts." Journal of Ethnopharmacology, 97(1), 67-72.
 ---
 

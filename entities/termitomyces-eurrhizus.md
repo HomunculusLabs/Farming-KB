@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Heim, R. (1977). "Termites et champignons." Les Termites de l'Afrique, Masson, Paris.
-  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of [[psilocybe-southeast-asia-pacific]]." Kew Bulletin 49(4): 717-737.
+  - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of psilocybe-southeast-asia-pacific." Kew Bulletin 49(4): 717-737.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences 99(23): 14887-14892.
   - Katoh, H. et al. (2002). "Genetic diversity of *Termitomyces* symbionts in fungus-growing termites." Mycoscience 43(3): 193-198.
 created: 2026-04-28

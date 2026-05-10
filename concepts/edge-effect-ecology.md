@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [permaculture, ecology, biodiversity, design-principles]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources:
+sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -75,3 +75,5 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+For further reading, see [[turner-ketamine-lsd-dmt-interactions-recovery-effects]].

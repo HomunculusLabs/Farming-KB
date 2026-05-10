@@ -108,6 +108,8 @@ The species is increasingly recognized for its role in climate-resilient agricul
 
 ## See Also
 
+- [[caryota-gigas]]
+
 - [[borassus-flabellifer]]
 - [[cocos-nucifera]]
 - [[areca-catechu]]

@@ -126,6 +126,8 @@ or windbreak, providing food, habitat, and ornamental value simultaneously.
 
 ## See Also
 
+- [[lycium-chinense]]
+
 - [[schisandra-chinensis]]
 - hippophae-rhamnoides
 - [[moringa-oleifera]]

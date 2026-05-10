@@ -1,5 +1,5 @@
 ---
-title: Hamilton Organic Fertilizers
+title: [[hamilton-geoffhamilton-nick-organic-gardening-organic-fertilizers|Hamilton]] Organic Fertilizers
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

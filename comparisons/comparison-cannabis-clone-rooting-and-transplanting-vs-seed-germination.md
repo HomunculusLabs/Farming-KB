@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [comparison, cloning, germination, propagation, genetics]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 # Cannabis Clone Rooting vs Seed Germination
@@ -104,14 +103,8 @@ and introduce uncertainty about final plant characteristics that clones eliminat
 Clone rooting is the optimal choice when you have already identified a superior phenotype and want
 to reproduce it consistently. Commercial growers, medical cultivators, and anyone needing reliable,
 predictable results from grow [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]], and then reverse
-## See Also
 
+## See Also
 - [[comparison-seed-balls-vs-transplanting]]
-
-- 
-
-- 
-
-## See Also
 - [[cannabis-seed-germination-methods]]
 - [[query-what-is-seed-starting-and-when-should-i-start-seeds-indoors]]

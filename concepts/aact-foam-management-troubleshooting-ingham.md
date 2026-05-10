@@ -141,9 +141,7 @@ pH provides additional diagnostic information alongside foam observation:
 
 ## See Also
 
+- [[pf-tek-contamination-prevention-and-troubleshooting]]
 - [[aact-troubleshooting-ingham]]
 - [[aact-ph-water-quality-ingham]]
-
-## See Also
-
 - [[ingham-pest-management-aact]]

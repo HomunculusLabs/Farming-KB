@@ -140,7 +140,6 @@ Actinomycetes are among the most thermotolerant bacteria, with many species grow
 Geosmin (trans-1,10-dimethyl-trans-9-decalol) is synthesized by the enzyme geosmin synthase, encoded by a single gene in *Streptomyces* genomes. This volatile sesquiterpene:
 
 - Is produced during the transition from vegetative growth to sporulation
-- Is detectable by humans at concentrations as low as 5 parts per trillion
 ## See Also
 
 - [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]

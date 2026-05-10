@@ -1,11 +1,10 @@
 ---
-title: Von fukuoka-critique-of-liebig-law-of-minimum of the Minimum and Fertilizer History
+title: Von Liebig Law of the Minimum and Fertilizer History
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 
 # Von Liebig Law of the Minimum and Fertilizer History

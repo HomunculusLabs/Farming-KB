@@ -95,7 +95,6 @@ intentional use of healing plants long before the emergence of Homo sapiens.
 The earliest written records come from Sumerian clay tablets roughly 5,000
 years old, while the Egyptian Ebers Papyrus (circa 1550 BCE) documents over
 700 herbal remedies, many with confirmed pharmacological activity.
-
 ## See Also
 
 - [[herbal-medicine-making-basics]] — Foundational harvesting, drying, and

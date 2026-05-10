@@ -14,7 +14,7 @@ updated: 2026-05-09
 sources:
   - Brodie, E.D. III & Brodie, E.D. Jr. (1999). "Predator-prey arms races." BioScience, 49(7), 557–568.
   - Hanifin, C.T. et al. (2008). "Tetrodotoxin levels in rough-skinned newts are correlated with garter snake resistance." Journal of Chemical Ecology, 34(6), 768–775.
-  - Petranka, J.W. (1998). "Salamanders of the [[dmt-containing-plants-united-states-halpern]] and Canada." Smithsonian Institution Press.
+  - Petranka, J.W. (1998). "Salamanders of the dmt-containing-plants-united-states-halpern and Canada." Smithsonian Institution Press.
   - IUCN Red List (2024). "Taricha granulosa." https://www.iucnredlist.org/species/59404/18007266
 ---
 

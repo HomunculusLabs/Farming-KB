@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, pest-management, pest-control, organic, troubleshooting, indoor]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-Cannabis pest management uses Integrated Pest Management (IPM) principles to prevent, identify, and eliminate insect pests in the grow space. IPM prioritizes prevention and least-toxic interventions before resorting to chemical controls. Early detection is critical — small pest populations are manageable; large infestations can destroy entire crops.
+Cannabis pest management [[green-cannabis-ph-management-cannabis-growing]] uses Integrated Pest Management (IPM) principles to prevent, identify, and eliminate insect pests in the grow space. IPM prioritizes prevention and least-toxic interventions before resorting to chemical controls. Early detection is critical — small pest populations are manageable; large infestations can destroy entire crops.
 
 ## Integrated Pest Management (IPM) Framework
 
@@ -18,9 +17,9 @@ Cannabis pest management uses Integrated Pest Management (IPM) principles to pre
 
 - **Quarantine**: Isolate new plants, clones, or soil for 7-14 days before introducing to the grow space
 - **Cleanliness**: Remove dead plant material, sanitize surfaces between grows, wash hands before handling plants
-- **[[eclss-environmental-control-life-support]]**: Proper [[greg-green-temperature-and-humidity-control]] make the environment less hospitable to pests. See [[cannabis-environment-control]].
+- **Environmental control**: Proper temperature and humidity make the environment less hospitable to pests. See [[cannabis-environment-control]].
 - **Physical barriers**: HEPA intake filters, sticky traps, and sealed grow spaces prevent pest entry
-- **[[coleman-beneficial-insects-and-ecological-pest-control]]**: Introduce predatory insects preventively in living soil or greenhouse grows
+- **Beneficial insects**: Introduce predatory insects preventively in living soil or greenhouse grows
 - **Regular inspection**: Check undersides of leaves, soil surface, and bud sites with a loupe or magnifier at least twice weekly
 
 ### Monitoring
@@ -41,7 +40,7 @@ Cannabis pest management uses Integrated Pest Management (IPM) principles to pre
 
 ### Spider Mites (Tetranychus urticae)
 
-The most damaging and common cannabis pest. Tiny arachnids that feed on plant sap from the undersides of leaves.
+The most damaging and common cannabis [[green-cannabis-ph-management-cannabis-growing]] pest. Tiny arachnids that feed on plant sap from the undersides of leaves.
 
 **Identification**:
 - Tiny dots on leaf undersides (adults are ~0.5mm)
@@ -56,7 +55,7 @@ The most damaging and common cannabis pest. Tiny arachnids that feed on plant sa
 - Spray with water to physically dislodge (daily for heavy infestations)
 - Neem oil or azadirachtin sprays every 3-5 days for 2-3 weeks (must hit all life stages)
 - Spinosad (Captain Jack's Dead Bug Brew) — effective against adults
-- [[comparison-predatory-mites-vs-ladybugs-biocontrol]] (Phytoseiulus persimilis, Amblyseius californicus) for biological control
+- Predatory mites (Phytoseiulus persimilis, Amblyseius californicus) for biological control
 - For severe infestations: Essentria IC3 or other commercial organic miticides
 
 ### Fungus Gnats (Bradysia spp.)
@@ -73,9 +72,9 @@ Small dark flies that hover around the soil surface. Larvae feed on organic matt
 **Management**:
 - Allow soil surface to dry between waterings (larvae need moisture)
 - Yellow sticky traps to catch adults and monitor population
-- Mosquito Bits ([[cervantes-bacillus-thuringiensis-bt-control]] israelensis — Bti) as a soil drench
+- Mosquito Bits (Bacillus thuringiensis israelensis — Bti) as a soil drench
 - Diatomaceous earth (DE) sprinkled on soil surface (desiccates larvae)
-- [[ingham-beneficial-nematodes-soil-food-web]] (Steinernema feltiae) applied to soil
+- Beneficial nematodes (Steinernema feltiae) applied to soil
 - Cinnamon powder on soil surface as a deterrent
 
 ### Thrips (Order Thysanoptera)
@@ -143,8 +142,9 @@ Soft-bodied insects that cluster on new growth and undersides of leaves, sucking
 - Inspect all new plants before bringing them into the grow space
 - Maintain proper environment per [[cannabis-environment-control]]
 - Use yellow/blue sticky traps at all times
-## Related
+- Keep grow space clean and free of debris
+- Avoid overwatering (prevents fungus gnats)
+- Introduce beneficial insects preventively in soil-based grows
+- Quarantine any plant showing pest symptoms immediately
 
-- cannabis pest management
-- [[query-how-to-use-beneficial-nematodes-for-soil-pest-control]]
-- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+Pest-damaged plants are more susceptible to [[cannabis-disease-guide]] pathogens. Weak, stressed plants attract more pests — maintaining plant health through proper [[cannabis-nutrient-recipes]] is foundational to pest resistance.

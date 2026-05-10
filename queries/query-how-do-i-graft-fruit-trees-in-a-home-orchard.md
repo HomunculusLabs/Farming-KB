@@ -5,7 +5,6 @@ tags: [query, grafting, fruit-trees, propagation]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: query
 ---

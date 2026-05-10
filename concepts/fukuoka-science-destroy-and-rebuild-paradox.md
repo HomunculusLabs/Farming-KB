@@ -136,9 +136,9 @@ ancient, it is also forever new."
 - [[fukuoka-culture-of-clothing-and-meat]]
 
 - [[fukuoka-illusions-of-scientific-farming]] Farming](fukuoka-illusions-scientific-farming.md)
-- [Fukuoka One Straw Revolution](fukuoka-one-straw-revolution.md)
-- [Natural Farming Principles](natural-farming-principles.md)
-- [Discriminating vs Non-Discriminating 
-Knowledge](discriminating-vs-non-discriminating-knowledge.md)
-- [Mu and the Philosophy of 
-Nothingness](mu-and-the-philosophy-of-nothingness.md)
+- Fukuoka One Straw Revolution
+- [[natural-farming-principles|Natural Farming Principles]]
+- Discriminating vs Non-Discriminating 
+Knowledge
+- Mu and the Philosophy of 
+Nothingness

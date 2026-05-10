@@ -6,8 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Hazekamp A, Tejkalová K, Syrovátková H. Cannabis Reporting. Cannabinoids and Terpenes. CannabiScope, 2016."
-  - "ElSohly MA, Slade D. [[guzman-magic-mushrooms-chemical-constituents]] of marijuana: the complex mixture of natural cannabinoids. Life Sciences, 2005."
-  - "Peace MR, Butler KE, Wolf CE, Poklis JL, Poklis A. An evaluation of [[acdc-cannabis-strain]] reliability. Scientific Reports, 2016."created: 2026-05-07
+  - "ElSohly MA, Slade D. guzman-magic-mushrooms-chemical-constituents of marijuana: the complex mixture of natural cannabinoids. Life Sciences, 2005."
+  - "Peace MR, Butler KE, Wolf CE, Poklis JL, Poklis A. An evaluation of acdc-cannabis-strain reliability. Scientific Reports, 2016."created: 2026-05-07
 
 created: 2026-05-07
 ---

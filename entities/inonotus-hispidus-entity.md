@@ -8,7 +8,7 @@ updated: 2026-04-28
 sources:
   - "https://en.wikipedia.org/wiki/Inonotus_hispidus"
   - "https://www.firstnature.com/fungi/inonotus-hispidus.php"
-  - "Cancer Treatments and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] (wiki raw source)"
+  - "Cancer Treatments and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive (wiki raw source)"
 ---
 
 # Inonotus hispidus

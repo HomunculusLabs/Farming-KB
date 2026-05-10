@@ -146,3 +146,5 @@ approximately 20 cased trays. For larger operations, considerations include:
 - [[hamilton-greenhouse-heating-and-temperature-control]] with heaters or air conditioning
 - Martha greenhouse tents for larger-scale tray cultivation
 - shelving systems to maximize vertical space utilization
+
+## See Also

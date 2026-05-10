@@ -6,7 +6,7 @@ type: concept
 tags: [reference]
 sources: []
 ---
-# Stable Carbon Isotope Labelling and Fatty Acid Signatures in [[fungal-hyphae]]up is rapidly released through enzymatic action upon cell death. Neutral lipid fatty acids (NLFAs) are storage compounds that may also degrade relatively quickly when fungal hyphae senesce. The ratio of NLFA 16:1omega5 to PLFA 16:1omega5 provides information about the carbon allocation status of AM fungi: higher NLFA/PLFA ratios indicate greater carbon allocation to storage, while lower ratios indicate active growth with less storage.
+# Stable Carbon Isotope Labelling and Fatty Acid Signatures in [[fungal-hyphae]] up is rapidly released through enzymatic action upon cell death. Neutral lipid fatty acids (NLFAs) are storage compounds that may also degrade relatively quickly when fungal hyphae senesce. The ratio of NLFA 16:1omega5 to PLFA 16:1omega5 provides information about the carbon allocation status of AM fungi: higher NLFA/PLFA ratios indicate greater carbon allocation to storage, while lower ratios indicate active growth with less storage.
 
 Neutral lipid fatty acids (NLFAs) are storage compounds that may also degrade relatively quickly when fungal hyphae senesce.
 
@@ -144,3 +144,6 @@ practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
+
+See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
+See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.

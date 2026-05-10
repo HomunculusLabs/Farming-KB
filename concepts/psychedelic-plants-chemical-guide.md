@@ -13,11 +13,11 @@ sources: []
 
 Psychedelic (classical hallucinogen) compounds are substances that primarily act as serotonin 5-HT2A receptor agonists, producing profound alterations in perception, cognition, and consciousness. Found across plant and fungal kingdoms, these compounds have been used in spiritual, healing, and divinatory contexts for millennia.
 
-This guide compares six major psychedelic compounds: DMT, 5-MeO-DMT, mescaline, psilocybin, salvinorin A, and ibogaine — covering their chemistry, pharmacology, effects, sources, and safety profiles.
+This guide compares six major psychedelic [[lsd-psychedelic-experience-guide]] compounds: DMT, 5-MeO-DMT, mescaline, psilocybin, salvinorin A, and ibogaine — covering their chemistry, pharmacology, effects, sources, and safety profiles.
 
 ## Structural Classification
 
-Psychedelic compounds fall into distinct chemical classes:
+Psychedelic compounds fall into distinct chemical [[lsd-psychedelic-experience-guide]] classes:
 
 - **Tryptamines:** DMT, 5-MeO-DMT, psilocybin (indole ring structure, related to serotonin)
 - **Phenethylamines:** Mescaline (phenyl ring with ethylamine chain)
@@ -61,7 +61,7 @@ Intense visual hallucinations, ego dissolution at higher doses, mystical/spiritu
 - Half-life: ~10-15min
 
 #### Effects
-More "formless" than DMT, intense [[psilocybin-ego-dissolution-mechanisms]], "white light"/void experiences, profound mystical states, less visual content, higher rate of challenging experiences.
+More "formless" than DMT, intense ego dissolution, "white light"/void experiences, profound mystical states, less visual content, higher rate of challenging experiences.
 
 ---
 
@@ -89,7 +89,7 @@ Vivid color enhancement, emotional openness, moderate empathogenic qualities, lo
 - Formula: C12H17N2O4P | MW: 284.25 | Prodrug — dephosphorylated to psilocin (4-HO-DMT) in vivo
 
 #### Natural Sources
-- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
+- **Psilocybe cubensis**, **P. semilanceata**, **P. azurescens**, **P. cyanescens**, **P. mexicana**, **P. natalensis** — 200+ species worldwide
 
 #### Pharmacology
 - **Receptors:** 5-HT2A (primary), 5-HT1A, 5-HT2C, 5-HT2B, 5-HT7
@@ -108,7 +108,7 @@ Flowing visual patterns, altered thought patterns, emotional expansion, mystical
 - Insoluble in water; soluble in acetone, ethanol, DMSO
 
 #### Natural Source
-- **[[golden-guide-salvia-divinorum-and-diviner-sage]]** — ONLY known natural source. Endemic to Sierra Mazateca, Oaxaca, Mexico.
+- **Salvia divinorum** — ONLY known natural source. Endemic to Sierra Mazateca, Oaxaca, Mexico.
 
 #### Pharmacology
 - **Receptors:** Kappa-opioid receptor (KOR) agonist — UNIQUE among psychedelics. NOT active at 5-HT2A.
@@ -117,17 +117,17 @@ Flowing visual patterns, altered thought patterns, emotional expansion, mystical
 - Oral generally inactive. Half-life: ~1-3h.
 
 #### Effects
-Intense dissociative states, loss of physical awareness, immersive visions, [[savory-short-duration-grazing-and-cell-systems]] for such intensity, high rate of dysphoric/frightening experiences, KOR agonism produces non-euphoric effects.
+Intense dissociative states, loss of physical awareness, immersive visions, short duration for such intensity, high rate of dysphoric/frightening experiences, KOR agonism produces non-euphoric effects.
 
 ---
 
 ### 6. Ibogaine
 
 #### Chemistry
-- Formula: C20H26N2O | MW: 310.43 | Complex [[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]] (iboga class)
+- Formula: C20H26N2O | MW: 310.43 | Complex indole alkaloid (iboga class)
 
 #### Natural Source
-- **[[plants-of-the-gods-tabernanthe-iboga-chemistry]]** — Gabon, Congo, Cameroon. Root bark: 0.5-6% total alkaloids (up to 2% ibogaine). Used in Bwiti spiritual tradition.
+- **Tabernanthe iboga** — Gabon, Congo, Cameroon. Root bark: 0.5-6% total alkaloids (up to 2% ibogaine). Used in Bwiti spiritual tradition.
 
 #### Pharmacology
 - **Receptors:** NMDA antagonist, 5-HT2A agonist, KOR agonist, mu/delta opioid modulator, sodium channel blocker (cardiac risk), sigma-2 agonist
@@ -142,8 +142,9 @@ Phase 1 (1-6h): dreamlike visions, life review. Phase 2 (6-12h): introspection. 
 | Property | DMT | 5-MeO-DMT | Mescaline | Psilocybin | Salvinorin A | Ibogaine |
 |----------|-----|-----------|-----------|------------|--------------|----------|
 | Chemical class | Tryptamine | Tryptamine | Phenethylamine | Tryptamine | Diterpene | Indole alkaloid |
-## Related Topics
-
-- [[nootropic-herbs-guide]] for non-psychedelic cognitive enhancers
-- [[adaptogenic-herbs-guide]] for stress-modulating herbs
-- [[medicinal-mushroom-guide-reishi]] for medicinal (non-psychedelic) mushroom context
+| Primary receptor | 5-HT2A | 5-HT1A | 5-HT2A | 5-HT2A | KOR | NMDA/5-HT2A/KOR |
+| Duration (oral) | 4-6h | 2-4h | 8-12h | 4-6h | Inactive | 12-36h |
+| Duration (smoked) | 15-30min | 10-30min | N/A | N/A | 15-60min | N/A |
+| Potency (mg) | 20-60 | 5-20 | 200-500 | 10-30 | 0.2-1mg | 1000-2000+ |
+| MAO substrate | Yes | Yes | No | No (psilocin is) | No | No |
+| Traditional use | Ayahuasca | Bufo/Anadenanthera | Peyote/San Pedro | Mazatec mushrooms | Mazatec Salvia | Bwiti (Gabon) |

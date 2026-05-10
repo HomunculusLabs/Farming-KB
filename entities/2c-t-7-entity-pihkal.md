@@ -107,4 +107,4 @@ scheduled 2C-T-7 specifically or as part of broader phenethylamine controls.
 2C-T-7 is part of the 2C-T series of thio-substituted phenethylamines:
 - 2C-T-2 — the ethylthio analogue, also highly regarded by Shulgin
 - 2C-T-4 — the isopropylthio analogue with different duration profile
-- [[mescaline-entity]] — the natural protoype for all synthetic 2C compounds
+- [[mescaline]] — the natural protoype for all synthetic 2C compounds

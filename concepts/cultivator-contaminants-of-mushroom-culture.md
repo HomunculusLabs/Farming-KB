@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [mushroom-cultivation, contaminants, mold-identification, disease-control, mycology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources: []
+sources: []
 type: concept
 ---
 # Contaminants of [[thermophilic-fungi]] and the conditions in which it flourishes, a cultivator can identify

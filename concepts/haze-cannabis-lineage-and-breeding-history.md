@@ -102,3 +102,7 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
+
+## See Also
+
+- [[spanish-cannabis-breeding-scene-history]]

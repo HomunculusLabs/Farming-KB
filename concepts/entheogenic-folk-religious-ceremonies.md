@@ -138,10 +138,6 @@ entheogenic religious practice might be accommodated within modern legal
 frameworks.
 
 ## See Also
-
 - [[shamanism-and-hallucinogenic-plants]]
 - [[set-and-setting-model-psychedelic-therapy]]
-
-## See Also
-
 - [[metzner-syncretic-entheogenic-folk-ceremonies]]

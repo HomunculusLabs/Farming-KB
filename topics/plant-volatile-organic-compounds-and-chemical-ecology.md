@@ -140,7 +140,6 @@ VOCs play a central role in plant reproduction by attracting pollinators:
 ### Abiotic Stress Signaling
 
 VOCs mediate plant responses to environmental stressors beyond biotic attack:
-
 ## See Also
 
 - [[plant-defense-chemistry-and-secondary-metabolites]] — broader coverage of plant defensive chemistry

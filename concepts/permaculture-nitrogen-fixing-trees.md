@@ -21,11 +21,11 @@ Nitrogen-fixing trees are among the most valuable elements in permaculture desig
 
 ## Why Nitrogen-Fixing Trees Matter
 
-Nitrogen is the most commonly limiting nutrient in terrestrial ecosystems. Rather than importing nitrogen through synthetic fertilizers, permaculture design relies on [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] fixation -- a free, perpetual, and ecologically integrated source of fertility. Nitrogen-fixing trees are particularly valuable because they:
+Nitrogen is the most commonly limiting nutrient in terrestrial ecosystems. Rather than importing nitrogen through synthetic fertilizers, permaculture design relies on biological nitrogen fixation -- a free, perpetual, and ecologically integrated source of fertility. Nitrogen-fixing trees are particularly valuable because they:
 
 - Provide permanent, long-term nitrogen contribution (unlike annual legumes)
 - Produce mulch, timber, fodder, and other yields simultaneously
-- Create shelter and [[query-how-do-i-design-habitat-for-beneficial-insects]] organisms
+- Create shelter and habitat for beneficial organisms
 - Can serve as nurse crops for establishing other trees
 - Improve soil structure through root penetration and organic matter addition
 
@@ -43,7 +43,7 @@ One of the most useful pioneer species in permaculture. A fast-growing nitrogen-
 - **Poultry forage**: Seeds are valuable free-range chicken forage (25% crude protein).
 - **Nurse crop**: In New Zealand trials, fruit and nut trees growing within 1m of tagasaste consistently outgrew controls.
 - **Timber and fuel**: Good firewood; potential for tool handles and craft work.
-- **Management**: Trim early to encourage bushy form; arrange in lock-up fodder systems for [[comparison-rotational-grazing-vs-continuous-grazing]].
+- **Management**: Trim early to encourage bushy form; arrange in lock-up fodder systems for rotational grazing.
 
 ### Alders (Alnus spp.)
 
@@ -66,8 +66,8 @@ A fast-growing nitrogen-fixing legume to 25m, living up to 200 years. Native to 
 - **Timber**: Hard, heavy, durable, strong, very rot resistant. Used for mine timbers, fence posts, poles, railway sleepers.
 - **Stock feed**: Foliage readily eaten by livestock; seed suitable as poultry feed.
 - **Honey**: Source of nectar producing honey regarded as one of the finest in the world.
-- **Firewood**: Burns like coal, slow to ignite, excellent for [[mollison-designers-charcoal-production-biochar-soil-amendment]].
-- **Conservation**: Commonly planted for [[permplant-willows-salix-erosion-control-fodder]], shelter belts, and wildlife habitat.
+- **Firewood**: Burns like coal, slow to ignite, excellent for charcoal production.
+- **Conservation**: Commonly planted for erosion control, shelter belts, and wildlife habitat.
 - **Caveat**: Can be invasive due to suckering habit and thorns. Plan for confinement by livestock or use non-suckering cultivars.
 
 ### Carob (Ceratonia siliqua)
@@ -77,7 +77,7 @@ A fast-growing nitrogen-fixing legume to 25m, living up to 200 years. Native to 
 The largest leguminous tree in Europe (to 15m), native to the Mediterranean. Life span of 500+ years.
 
 - **Food**: Pods are fleshy, flavorful, and nutritious (37-57% total sugars, 2-21% crude protein). Commercially sold as chocolate substitute. Potential for alcohol fuel production.
-- **[[dighton-fungal-drought-tolerance-plant-water-relations]]**: Grows in minimum rainfall of 250mm. Taproots traced to 20m depth.
+- **Drought tolerance**: Grows in minimum rainfall of 250mm. Taproots traced to 20m depth.
 - **Frost tolerance**: Sensitive below -4C when young; mature trees survive to -8C.
 - **Yields**: Up to 1 tonne of pods from a single tree in good season; approximately 8 tonnes/ha commercially.
 - **Fire resistance**: Does not burn easily; generally recovers when scorched.

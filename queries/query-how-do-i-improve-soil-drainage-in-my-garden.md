@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [query, soil-science, garden-management, water-management]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: query
 ---
 
@@ -67,6 +66,8 @@ Ongoing [[soil-testing]] to understand your soil texture, structure,
   and biological networks that keep drainage functioning well long-term
 
 ## Related
+
+- [[query-how-do-i-improve-heavy-clay-soil-in-my-garden]]
 
 - [[query-how-do-i-fix-soil-compaction-in-my-garden]] Questions
 - [[query-how-do-i-start-a-no-till-garden-bed]]

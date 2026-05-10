@@ -139,11 +139,8 @@ religious accomplishments of the species."
 He acknowledged all compounds are potentially dangerous, the library should be
 the first stop before exploring any new compound, and that the [[mckenna-absence-of-dmt-motifs-in-art-history]]
 motifs in any known artistic or religious tradition remains unexplained.
-## See Also
 
+## See Also
 - [[shamanism-and-hallucinogenic-plants]]
 - [[psilocin-and-psilocybin-chemistry]]
-
-## See Also
-
 - [[worldwide-distribution-psilocybin-mushrooms]]

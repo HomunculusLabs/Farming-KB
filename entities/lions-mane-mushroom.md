@@ -1,114 +1,148 @@
 ---
-title: "Lion's Mane Mushroom (Hericium erinaceus)"
+title: Lion's Mane Mushroom
 type: species
-tags: [fungi, comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, nootropics, mycology, neurogenesis]
+tags:
+  - fungi
+  - medicinal-mushroom
+  - nootropic
+  - neurogenesis
+  - hericiaceae
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - "Mori K, Inatomi S, Ouchi K, Azumi Y, Tuchida T. Improving effects of the mushroom Hericium erinaceus on mild cognitive impairment. Phytotherapy Research, 2009."
-  - "Kawagishi H, Zhuang C. Compounds for dementia from Hericium erinaceus. Drugs of the Future, 2008."
-  - "Wong KH, Naidu M, David RP, et al. Neuroprotective effects of Lion's mane mushroom. BMC Complementary and Alternative Medicine, 2019."created: 2026-05-07
-
-created: 2026-05-07
+  - https://pubmed.ncbi.nlm.nih.gov/ (general reference)
+  - Stamets, P. (2006). [[mycelium-running-conservation-biology-and-fungi]]. Ten Speed Press.
+  - Wong, K.H. et al. (2019). "[[cancer-medicinal-mushrooms-hericium-erinaceus]]: A valuable edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]]." Journal of Fungi.
 ---
 
-# Lion's Mane Mushroom (Hericium erinaceus)
+# Lion's Mane Mushroom (*Hericium erinaceus*)
 
 ## Overview
 
-Lion's Mane (*Hericium erinaceus*) is an edible and medicinal mushroom belonging to the tooth fungus group, family Hericiaceae. It is native to [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, where it grows on hardwood trees — particularly oaks, walnuts, and beeches — in late summer and autumn. The mushroom is instantly recognizable by its cascading white spines that resemble a lion's mane, hence its common name.
+Lion's Mane is a large, white, shaggy mushroom that resembles a lion's mane as it grows. It belongs to the tooth fungus group (Hericiaceae) and has been used for centuries in traditional Chinese medicine. Native to North America, Europe, and Asia, it grows on hardwood trees, particularly oaks, walnuts, and beeches.
 
-Lion's Mane has been used for centuries in Traditional Chinese Medicine (TCM) and Japanese herbalism, primarily as a tonic for the digestive system and as a cognitive enhancer. In recent decades, it has attracted significant scientific attention for its neuroprotective and neuroregenerative properties, making it one of the most studied [[spore-print]]**: White to cream-colored
-- **Odor**: Mild, pleasant, slightly mushroomy
-- **Taste**: Often compared to lobster or crab meat when cooked
+## Taxonomy
+
+- **Kingdom:** Fungi
+- **Division:** Basidiomycota
+- **Class:** Agaricomycetes
+- **Order:** Russulales
+- **Family:** Hericiaceae
+- **Genus:** *Hericium*
+- **Species:** *H. erinaceus*
+
+## Identification
+
+- **Cap:** 5–25 cm diameter, white to cream, composed of cascading spines
+- **Spines:** 1–6 cm long, white, hanging downward in clusters, soft when young
+- **Flesh:** White, firm when young, becoming tough and fibrous with age
+- **Odor:** Pleasant, mildly fragrant when fresh
+- **Taste:** Sweet, seafood-like (often compared to crab or lobster)
+- **Spore print:** White
+- **Habitat:** Saprotrophic on dead or dying hardwoods; also parasitic on living trees
+- **Season:** Late summer through autumn
 
 ## Active Compounds
 
-Lion's Mane contains two primary classes of [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] responsible for its neurological effects:
+### Hericenones (Erinacines)
 
-### Hericenones
+Hericenones are fatty acid derivatives found primarily in the fruiting body, while erinacines are cyathane-type sesquiterpenes isolated from the mycelium. Both classes stimulate Nerve Growth Factor (NGF) synthesis:
 
-Hericenones are aromatic compounds found primarily in the fruiting body of the mushroom. These cyathane-type sesquiterpenes are lipophilic and include hericenones C through H. They are believed to be the main compounds capable of crossing the blood-brain barrier.
+- **Hericenone C** — Potent stimulator of NGF synthesis in vitro
+- **Hericenone E** — Neuroprotective effects against neuronal cell death
+- **Hericenone H** — Anti-inflammatory activity
+- **Erinacine A** — Most potent NGF enhancer; found in mycelium
+- **Erinacine S** — Strong NGF stimulatory activity
 
-### Erinacines
+### Beta-Glucans (Polysaccharides)
 
-Erinacines are cyathane-type sesquiterpenes found predominantly in the mycelium of Lion's Mane. Erinacine A is the most extensively studied compound in this group and has demonstrated potent stimulatory effects on Nerve Growth Factor (NGF) synthesis.
+- **(1→3)-β-D-glucan** — Primary immunomodulatory compound
+- **(1→6)-β-D-glucan** — Supports immune cell activation
+- Enhances macrophage activity, natural killer cell function, and cytokine production
 
 ### Other Compounds
 
-- **β-Glucan polysaccharides**: Immune-modulating compounds that activate macrophages and NK cells
-- **Polypeptides**: Antioxidant and anti-inflammatory properties
-- **Hericerin**: A compound isolated from fruiting bodies with cytotoxic activity against certain cancer cell lines
-- **Ergosterol**: A fungal sterol with vitamin D2 precursor activity
+- **Hericerin** — Antioxidant properties
+- **Hericium polysaccharides** — Anti-tumor activity in animal studies
+- **Various amino acids** — Including all essential amino acids
 
-## Neuroprotective Mechanisms
+## Traditional Uses
 
-The neuroprotective properties of Lion's Mane are primarily mediated through stimulation of **Nerve Growth Factor (NGF)** and **Brain-Derived Neurotrophic Factor (BDNF)** synthesis. These neurotrophins play critical roles in:
+- **Traditional Chinese Medicine (TCM):** Used to strengthen the spleen, nourish the stomach, and promote digestive health. Considered a tonic for the five internal organs.
+- **Japanese Kampo:** Prescribed for gastric and duodenal ulcers, chronic gastritis
+- **Traditional Korean Medicine:** Used for stomach ailments and fatigue
+- **Historical note:** Reserved for royalty in ancient China due to its rarity and perceived value
 
-- **Neurogenesis**: Growth and differentiation of new neurons
-- **Neurite outgrowth**: Extension of axons and dendrites from neurons
-- **Synaptic plasticity**: Strengthening of neural connections involved in learning and memory
-- **Myelination**: Maintenance of the myelin sheath protecting nerve fibers
+## Modern Research
 
-Studies in animal models have demonstrated that Lion's Mane extracts can improve memory and cognitive function, reduce symptoms of anxiety and depression, and protect against neuronal damage caused by beta-amyloid plaques — a hallmark of Alzheimer's disease.
+### Neuroprotective Effects
 
-## Traditional and Modern Uses
+Research has demonstrated several mechanisms by which Lion's Mane supports neurological health:
 
-### Traditional Medicine
+1. **NGF Stimulation:** Hericenones and erinacines cross the blood-brain barrier and stimulate NGF synthesis in the brain, supporting neuronal survival, maintenance, and regeneration
+2. **Myelination:** In vitro studies show enhanced myelination of neurons, potentially relevant for demyelinating conditions
+3. **Cognitive Improvement:** Double-blind, placebo-controlled clinical trials in Japan showed significant improvement in cognitive function in adults with mild cognitive impairment (Mori et al., 2009)
+4. **Anti-Amyloid Activity:** Reduces beta-amyloid plaque accumulation in animal models of Alzheimer's disease
+5. **[[cannabis-for-stroke-recovery]]:** Animal studies show improved functional recovery and reduced infarct volume when administered after ischemic stroke
 
-In Traditional Chinese Medicine, Lion's Mane has been used for:
-- Strengthening the spleen and nourishing the stomach
-- Improving digestion and treating gastrointestinal disorders
-- Supporting general vitality and longevity
-- Treating nerve-related conditions and weakness
+### Nervous System Repair
 
-### Modern Applications
+- Promotes peripheral nerve regeneration in animal models
+- Shows promise for recovery from nerve injuries
+- May help with conditions involving nerve damage
 
-Contemporary use of Lion's Mane spans several therapeutic areas:
+### Immune System Modulation
 
-- **Cognitive enhancement**: Widely used as a nootropic supplement for memory, focus, and mental clarity
-- **Neurodegenerative support**: Investigated as a complementary approach for Alzheimer's, Parkinson's, and dementia
-- **Nerve regeneration**: Studied for potential in peripheral nerve injury recovery
-- **Mood support**: Some evidence for anxiolytic and antidepressant effects
-- **Digestive health**: Supports gastric mucosa and gut microbiome health
-- **[[cancer-immune-modulation-mechanisms]]**: β-glucans provide immunomodulatory benefits
+- Activates macrophages and increases phagocytic activity
+- Enhances natural killer (NK) cell cytotoxicity
+- Modulates cytokine production (increases IL-1β, TNF-α)
+- Demonstrates anti-tumor activity through immune enhancement in animal models
+
+### Digestive Health
+
+- Protects gastric mucosa against ethanol-induced ulcers
+- Reduces *Helicobacter pylori* colonization in animal models
+- Anti-inflammatory effects on intestinal mucosa
+- Traditionally used for gastritis and peptic ulcers
+
+### Mood and Anxiety
+
+- Small clinical studies suggest anxiolytic and antidepressant effects
+- Animal models show reduced depressive-like and anxiety-like behaviors
+- Mechanisms may involve modulation of the hypothalamic-pituitary-adrenal (HPA) axis and anti-inflammatory pathways
 
 ## Cultivation
 
-Lion's Mane can be cultivated both commercially and at home using several methods:
+### Substrate
 
-### Substrate Requirements
+- Hardwood sawdust (oak, beech, maple) supplemented with bran
+- Common formula: 75% hardwood sawdust, 24% wheat bran, 1% gypsum
+- Moisture content: 60–65%
 
-- **Hardwood sawdust**: Oak, beech, or maple sawdust is preferred
-- **Supplementation**: Wheat bran (10–20%) or rice bran to boost yields
-- **Moisture content**: 60–65% of substrate weight
-- **pH**: 5.0–6.5 (slightly acidic)
+### Environmental Parameters
 
-### Growing Methods
-
-1. **[[cannabis-sativa-indoor-cultivation-techniques]] on [[oyster-mushroom-supplemented-sawdust-blocks]] blocks**: The most common commercial method. Inoculated blocks are incubated at 20–24°C for 2–3 weeks, then moved to a [[fruiting-conditions]]
-
-| Parameter | Optimal Range |
-|-----------|--------------|
-| Temperature | 16–22°C (60–72°F) |
+| Parameter | Range |
+|-----------|-------|
+| Temperature (colonization) | 20–25°C (68–77°F) |
+| Temperature (fruiting) | 15–22°C (59–72°F) |
 | Humidity | 85–95% |
-| Fresh Air Exchange | High |
-| Light | Indirect ambient (50–100 lux) |
-| CO₂ level | Below 800 ppm |
+| Fresh air exchange | High (moderate CO₂) |
+| Light | Indirect ambient |
+| pH | 5.0–6.0 |
 
-Harvest occurs when spines are fully elongated but before they turn brown. Fresh Lion's Mane should be consumed or preserved within a few days of harvest.
+### Fruiting
+
+Colonization takes 2–4 weeks. After full colonization, initiate fruiting by introducing fresh air exchange, lowering temperature slightly, and maintaining high humidity. Primordia form as small white bumps that elongate into cascading spines. Harvest when spines begin to discolor or [[partial-veil-tropism-protection-before-spore-release]] (typically 7–14 days after [[growing-gourmet-primordia-formation-pinning]]).
 
 ## Culinary Uses
 
-Lion's Mane is considered a gourmet edible mushroom with a firm, meaty texture and a flavor profile often described as sweet, savory, and reminiscent of seafood — particularly crab or lobster. Popular culinary preparations include:
+- Excellent substitute for seafood due to its texture and flavor
+- Common preparations: sautéed, in soups, breaded and fried, as a pulled "pork" substitute
+- Best harvested young when spines are tender and white
+- Pairs well with butter, garlic, cream sauces, and white wine
+- Can be dehydrated and powdered for supplements or teas
+## See Also
 
-- Pan-frying in butter with garlic and herbs
-- Tempura battering and deep-frying
-- Adding to risottos, pastas, and cream sauces
-- Drying and powdering for use in teas, soups, and smoothies
-- Using as a meat substitute in vegetarian and vegan dishes
-## Related
-
-- [[mushroom-cultivation-basics]] Species
-
-- **cotter-mushroom-life-cycle-mycelium-biology
+- [[tryptophan-large-neutral-amino-acid-competition-blood-brain-barrier]]
+- [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]]
+- [[mushroom-immune-cell-activation-mechanisms]]

@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 updated: 2026-04-18 Fungal laccases are among the most versatile enzymes in [[fungal-laccase-mediator-systems]] to degrade synthetic dyes represents one of the most commercially advanced applications of [[staycare-composting-as-a-fungal-bioremediation-strategy]].
 

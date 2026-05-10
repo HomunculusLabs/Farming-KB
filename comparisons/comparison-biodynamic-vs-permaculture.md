@@ -5,7 +5,6 @@ tags: [comparison, farming-philosophy, biodynamic, permaculture]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 type: comparison
 ---

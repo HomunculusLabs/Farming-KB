@@ -100,7 +100,7 @@ possible S-oxidation of the ethylthio group as an additional pathway.
 ## Safety and Harm Reduction
 
 Primary concerns are consistent with other 2C compounds: accurate dosing,
-[[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]], and challenging psychological experiences at higher
+[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]], and challenging psychological experiences at higher
 doses. Moderate body load can be uncomfortable during onset. Individuals
 with cardiovascular conditions should exercise caution. The compound should
 not be combined with other serotonergic substances or MAOIs. Harm reduction

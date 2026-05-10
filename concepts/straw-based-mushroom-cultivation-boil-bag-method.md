@@ -116,9 +116,6 @@ Limitations of the method include:
 - **Species suitability**: Straw-based substrates are ideal for species like [[psilocybe-cubensis]] and [[oyster-mushrooms]] (Pleurotus spp.) but may not be optimal for wood-loving species that prefer [[oyster-mushroom-supplemented-sawdust-blocks]] or log-based substrates.
 
 ## See Also
-
-- [[mushroom-spore-syringe-preparation]] — detailed guide to preparing sterile spore syringes for inoculation
-- [[mushroom-fruiting-chamber-design-parameters]] — humidity [[fruiting-chambers-and-environmental-control]] control for the fruiting phase
-
-## See Also
+- [[mushroom-spore-syringe-preparation]]
+- [[mushroom-fruiting-chamber-design-parameters]]
 - [[straw-substrate-yeast-extract-mushroom-cultivation-preparation]]

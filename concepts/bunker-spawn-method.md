@@ -17,12 +17,12 @@ tags:
 - plant-systems
 
 sources:
-sources: []
+- raw/papers/mycelium-running-stamets.md
 ---
 
 # Bunker Spawn
 
-From Chapters 9 and 11 of *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]]. Bunker spawn is one of the most scalable and versatile methods for producing large quantities of mycelium for [[mycorestoration-overview]], [[mycoremediation-basics]], and [[accessible-mushroom-cultivation-for-disabilities]].
+From Chapters 9 and 11 of *Mycelium Running* by [[paul-stamets]]. Bunker spawn is one of the most scalable and versatile methods for producing large quantities of mycelium for [[mycorestoration-overview]], [[mycoremediation-basics]], and mushroom cultivation.
 
 ## What Is Bunker Spawn?
 
@@ -84,7 +84,7 @@ Each colonized bunker spawn bag can generate 10-100 more bags. From stem butt do
 - Especially effective downslope of chicken, pig, and cow operations
 
 ### Spent Substrate Recycling
-- Spent substrate from [[growing-gourmet-mushroom-dehydration-methods-equipment]] farms makes excellent bunker spawn base
+- Spent substrate from gourmet mushroom farms makes excellent bunker spawn base
 - Extra crops of shiitake, turkey tail, or reishi can be harvested
 - The primary value may be pollution-destroying enzymes at toxic waste sites
 
@@ -98,15 +98,15 @@ Each colonized bunker spawn bag can generate 10-100 more bags. From stem butt do
 | Species | Use | Notes |
 |---------|-----|-------|
 | Stropharia rugoso-annulata | Garden giant | Edible, aggressive, excellent for pathways |
-| [[growing-gourmet-hypholoma-capnoides-cultivation]] | Clustered woodlover | Edible, outcompetes Armillaria |
-| [[staycare-trametes-versicolor-bioremediation-applications]] | Turkey tail | Medicinal, mycoremediation, fast-growing |
+| Hypholoma capnoides | Clustered woodlover | Edible, outcompetes Armillaria |
+| Trametes versicolor | Turkey tail | Medicinal, mycoremediation, fast-growing |
 | Sparassis crispa | Cauliflower | Edible, fights forest blights |
 | Agaricus species | Woodland mushrooms | Various, site-dependent |
 | Lentinula edodes | Shiitake | Dual purpose: food + spent substrate recycling |
 
 ## Combination Method for Maximum Success
 
-If single [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]] fail, combine all three:
+If single inoculation methods fail, combine all three:
 1. **Spore printing** onto the wood chips
 2. **Stem butt inoculation** into the chips
 3. **Mycelium transplantation** from a wild patch

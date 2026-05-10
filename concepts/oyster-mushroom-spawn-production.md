@@ -9,7 +9,7 @@ sources: [raw/papers/unknown-oyster-mushroom-cultivation.md]
 
 # Oyster Mushroom Spawn Production
 
-Spawn is the mycelium-rich material used to inoculate bulk substrates for [[accessible-mushroom-cultivation-for-disabilities]]. Producing high-quality spawn is the foundation of successful [[duggar-mushroom-growing-history-and-methods]]. Poor spawn = poor or no mushrooms, regardless of substrate quality.
+Spawn is the mycelium-rich material used to inoculate bulk substrates for mushroom cultivation. Producing high-quality spawn is the foundation of successful mushroom growing. Poor spawn = poor or no mushrooms, regardless of substrate quality. (see [[grain-spawn-preparation]]).
 
 ## Types of Spawn
 
@@ -30,7 +30,7 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for [[acce
 - Mycelium grown in nutrient broth
 - Inoculated by syringe into grain bags or substrate
 - Fastest expansion rate
-- Requires more [[cultivator-sterile-technique-and-agar-culture]] than other methods
+- Requires more sterile technique than other methods
 
 ## Grain Spawn Production
 
@@ -51,7 +51,7 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for [[acce
 - For bags: fill 2-3 lbs per bag, add filter patch
 
 ### Step 4: Sterilization
-- [[pf-tek-pressure-canner-sterilization]]: 15 PSI (121°C) for 90 minutes
+- Pressure canner: 15 PSI (121°C) for 90 minutes
 - Critical: full sterilization is essential — any surviving spores will contaminate
 - Allow to cool completely (overnight) before inoculation
 
@@ -77,7 +77,7 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for [[acce
 
 ### Common Cultivated Species
 - **Pleurotus ostreatus** (Pearl oyster): Most common, versatile, 55-75°F
-- **Pleurotus pulmonarius** ([[growing-gourmet-phoenix-oyster-pulmonarius-cultivation]]): Similar but warmer, 65-85°F
+- **Pleurotus pulmonarius** (Phoenix oyster): Similar but warmer, 65-85°F
 - **Pleurotus eryngii** (King oyster): Large, thick stems, 55-65°F
 - **Pleurotus citrinopileatus** (Golden oyster): Yellow, tropical, 70-85°F
 - **Pleurotus djamor** (Pink oyster): Tropical, 70-90°F, very fast
@@ -94,9 +94,7 @@ Spawn is the mycelium-rich material used to inoculate bulk substrates for [[acce
 - Don't freeze spawn (kills mycelium)
 
 ## Related
-
-- [[mushworld-oyster-spawn-production-guide]]
-- [[cotter-oyster-mushroom-cultivation]] — for the full cultivation cycle
-- [[oyster-mushroom-substrate-preparation]] — for [[cotter-compost-substrate-preparation-manure-mushroom-cultivation]]
+- [[oyster-mushroom-cultivation]] — for the full cultivation cycle
+- [[oyster-mushroom-substrate-preparation]] — for substrate preparation
 - [[mushroom-cultivation-grain-spawn]] — for detailed grain spawn protocols
 - [[mushroom-cultivation-sterile-technique]] — for cleanliness requirements

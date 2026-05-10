@@ -144,7 +144,6 @@ Before planting:
 1. **Timing:** Plant in spring after the last frost date, or in early fall in frost-free climates.
 2. **Hole preparation:** Dig a hole twice as wide as the root ball but no deeper. Loosen the sides of the hole to encourage root penetration.
 3. **Root handling:** Handle roots carefully — avocado roots are fragile. Do not disturb the root ball excessively. For container trees, gently score the root ball if circling roots are present.
-4. **Planting depth:** Set the tree at the same level it grew in the nursery. The graft union (if grafted) must remain above the soil line.
 ## See Also
 - [[loquat-cultivation-and-variety-guide]]
 - [[coffee-cultivation-and-variety-guide]]

@@ -114,9 +114,6 @@ minimum values; if resources are available, increasing the number of
 plots per site and/or sampling intensity is strongly recommended. Pilot
 studies are useful for determining the intensity of sampling required and
 the taxonomic difficulty of the project.
-## See Also
 
 ## See Also
-
-- fungal-biodiversity-sampling-design
 - [[fungal-biodiversity]]

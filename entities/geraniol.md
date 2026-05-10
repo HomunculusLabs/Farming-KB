@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - "Buchbauer, G. et al. (1993). \"Fragrance compounds as permaculture-designers-manual-essential-oil-plants components.\" Journal of the Society of Cosmetic Chemists, 44, 237–248."
   - "Jirovetz, L. et al. (1992). \"Analysis of essential oil constituents.\" Wiener Medizinische Wochenschrift, 142(17), 395–400."
-  - "Chen, W. & Viljoen, A.M. (2010). \"Geraniol — a review of a commercially important fragrance material.\" [[kanna-sceletium-south-african-narcotic]] Journal of Botany, 76(4), 643–651."
+  - "Chen, W. & Viljoen, A.M. (2010). \"Geraniol — a review of a commercially important fragrance material.\" kanna-sceletium-south-african-narcotic Journal of Botany, 76(4), 643–651."
   - "Elson, C.E. et al. (1999). \"Isoprenoid-mediated inhibition of mevalonate synthesis.\" Advances in Experimental Medicine and Biology, 469, 157–170."
 ---
 

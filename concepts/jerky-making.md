@@ -9,9 +9,9 @@ sources: []
 
 ## What Is Jerky
 
-Jerky is lean meat that has been trimmed of fat, cut into strips, marinated or seasoned, and dried to prevent spoilage. The word "jerky" derives from the Quechua word "ch'arki," meaning dried, salted meat. Jerky has been a critical preservation method for millennia — it removes moisture (the medium bacteria need to grow) and uses salt and other ingredients to inhibit microbial growth.
+Jerky is lean meat that has been trimmed of fat, cut into strips, marinated or seasoned, and dried to prevent spoilage. The word "jerky" derives from the Quechua word "ch'arki," meaning dried, salted meat. Jerky has been a critical preservation method for millennia — it removes moisture (the medium bacteria need to grow) and uses salt and other ingredients to inhibit microbial growth. (see [[food-dehydration-guide]]).
 
-Homemade jerky allows full control over ingredients, flavor, and quality, avoiding the preservatives, excess sugar, and high sodium found in many commercial brands.
+Homemade jerky allows full control over ingredients, flavor, and quality, avoiding the preservatives, excess sugar, and high sodium found in many commercial brands. (see [[faires-salt-curing-and-clarified-fats]]).
 
 ## Meat Selection
 
@@ -66,7 +66,7 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 - Sweetener: brown sugar, honey, maple syrup, molasses — balances salt and heat
 - Umami: soy sauce, Worcestershire, fish sauce, MSG
 - Liquid smoke: hickory, mesquite, applewood — for smoky flavor without a smoker
-- Spices: [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], garlic powder, onion powder, chili powder, cayenne, cumin, smoked paprika
+- Spices: black pepper, garlic powder, onion powder, chili powder, cayenne, cumin, smoked paprika
 
 ### Marinade Recipes
 
@@ -120,14 +120,14 @@ Marinades add flavor and contribute to preservation through salt, acid, and some
 
 - Use hardwood: hickory, mesquite, apple, cherry, or oak
 - Smoke at 160-180F (71-82C) for 4-6 hours
-- Adding [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]] throughout provides continuous smoke flavor
+- Adding wood chips throughout provides continuous smoke flavor
 - Finish in a dehydrator or low oven if not fully dried after smoking
 
 ### Oven
 
 - Set oven to the lowest setting (usually 170F / 77C)
 - Prop the door open slightly with a wooden spoon to allow moisture to escape
-- Place wire racks over sheet pans to allow [[stamets-growing-room-air-circulation-co2-management]]
+- Place wire racks over sheet pans to allow air circulation
 - Flip jerky every 2 hours
 - Total time: 4-8 hours
 
@@ -142,8 +142,13 @@ Methods to achieve this:
 - Dehydrate at 160F — most dehydrators reach this; check with a thermometer
 - Post-dry in an oven at 275F (135C) for 10 minutes after dehydrating
 
-## See Also
+### Moisture and Spoilage
 
-- [[dried-herb-storage]] — principles of drying and storing dried foods
-- [[pickle-making]] — another food preservation method
-- [[jam-and-jelly-making]] — water [[water-bath-canning-guide]] and preservation
+- Jerky should be dry but not brittle
+- Properly dried jerky should bend and crack, not snap
+- Any moisture remaining promotes mold growth
+- Test: take a piece, bend it — if it cracks but does not break, it is done
+
+
+## See Also
+- [[wine-making-from-grapes]]

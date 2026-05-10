@@ -55,7 +55,7 @@ Shulgin's systematic approach drew heavily from natural essential oils as starti
 - [[pihkal-introduction-and-methodology]]
 - [[phenethylamine-chemistry-basics]]
 - [[mescaline-reference]]
-- [[mescaline-entity]]
+- [[mescaline]]
 ## Practical Considerations
 
 When working with Mescaline Derivatives and Homologues in PiHKAL, several practical factors should be

@@ -129,11 +129,6 @@ the adenine nucleotide pool across the IMM.
 | Total PMF | ~200–220 mV |
 
 ## See Also
-
-- fungal-competition-respiration-decomposition
 - [[fungal-respiration-carbon-flux]]
-
-## See Also
-
 - [[electron-transport-chain-mitochondrial-respiration]]
 - [[decomposition]]

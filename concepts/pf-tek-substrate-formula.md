@@ -1,5 +1,5 @@
 ---
-title: PF Tek [[pf-substrate-formula]]
+title: PF Tek Substrate Formula
 created: 2026-05-09
 tags: [mycology, cultivation, substrate, psilocybe, vermiculite]
 date: 2026-05-09

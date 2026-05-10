@@ -105,6 +105,8 @@ The ripe berries are used in some Caribbean communities to make preserves and be
 
 ## See Also
 
+- [[solanum-carolinense]]
+
 - [[solanum-nigrum]]
 - [[solanum-lycopersicum]]
 - [[solanum-tuberosum]]

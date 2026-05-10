@@ -1,19 +1,17 @@
 ---
-title: oner-cannabis-hashish-production Guide
+title: Cannabis Hashish Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, preparation, ethnobotany, history, chemistry, psychopharmacology]
-sources:
-  sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 # Cannabis Hashish Guide
 
 ## Overview
 
-Hashish (hash) is a concentrated cannabis product made by separating and collecting the resinous trichomes from the cannabis plant. With a history spanning thousands of years, hashish represents one of the oldest forms of cannabis consumption. The resin glands (trichomes) contain the highest concentrations of cannabinoids and terpenes, making hash a potent and flavorful concentrate. This guide covers traditional and modern hashish production methods.
+Hashish (hash) is a concentrated cannabis product made by separating and collecting the resinous trichomes from the cannabis plant. With a history spanning thousands of years, hashish represents one of the oldest forms of cannabis consumption. The resin glands (trichomes) contain the highest concentrations of cannabinoids and terpenes, making hash a potent and flavorful concentrate. This guide covers traditional [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] and modern hashish production methods.
 
 ## What Is Hashish?
 
@@ -21,7 +19,7 @@ Hashish is essentially compressed cannabis resin. The trichomes — tiny, crysta
 
 ### Trichome Types and Quality
 
-Three types of trichomes exist on cannabis plants:
+Three types of trichomes exist on cannabis [[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] plants:
 
 1. **Bulbous trichomes:** Smallest, appear on the entire plant surface. Lowest cannabinoid content.
 2. **Capitate sessile trichomes:** Medium-sized, slightly more abundant on flowers. Moderate cannabinoid content.
@@ -112,7 +110,7 @@ Ice water extraction (also called bubble hash or ice wax) uses cold water and ag
 ### Equipment
 
 - Bubble bag sets ($30-$300 depending on quality)
-- Buckets or dedicated [[cervantes-washing-machine-hash]] (mini washer)
+- Buckets or dedicated washing machine (mini washer)
 - Ice (10+ lbs per wash)
 - Freeze dryer (optional, $1,000-$5,000 — preserves terpenes best)
 - Parchment paper for collection and drying
@@ -121,7 +119,7 @@ Ice water extraction (also called bubble hash or ice wax) uses cold water and ag
 
 ### Charas (Hand-Rubbed)
 
-Traditional hand-rubbed hashish of India and the Himalayan region. Growers rub flowering tops with their hands; accumulated resin is scraped off and rolled into balls. Thousands of years of [[shroom-cultural-history-hippie-revolution-and-counterculture]] — used by Sadhus for meditation, associated with Shiva worship. Malana Cream from the Parvati Valley is among the most famous. Properly made charas is among the highest quality hashish.
+Traditional hand-rubbed hashish of India and the Himalayan region. Growers rub flowering tops with their hands; accumulated resin is scraped off and rolled into balls. Thousands of years of cultural history — used by Sadhus for meditation, associated with Shiva worship. Malana Cream from the Parvati Valley is among the most famous. Properly made charas is among the highest quality hashish.
 
 ### Moroccan Hashish
 
@@ -129,7 +127,7 @@ One of the world's largest hash producers for centuries. Traditional sieving (dr
 
 ### Afghan Hashish
 
-Long tradition from indica [[sativa-landrace-strains-and-geographic-origins]]. Methods include [[cervantes-finger-hash-manicuring]] (resin from workers' hands during harvest), hand rubbing, water extraction, and traditional pressing. Known for dark color, spicy aroma, and potent body effects.
+Long tradition from indica landrace strains. Methods include finger hash (resin from workers' hands during harvest), hand rubbing, water extraction, and traditional pressing. Known for dark color, spicy aroma, and potent body effects.
 
 ## Modern Hashish Products
 
@@ -145,6 +143,8 @@ Rosin presses use heated plates (180-220F) with 3-20 tons of pressure for 30 sec
 ### Live Hash / Live Bubble Hash
 
 Made from fresh frozen cannabis (harvested and immediately frozen rather than dried):
-## See Also
-- [[marijuana-strain-guide-sativa]]
-- [[marijuana-strain-guide-indica]]
+- Preserves the plant's full terpene profile
+- Higher quality and more complex flavor than hash from dried material
+- Considered the premium tier of solventless concentrates
+
+## Storage and Consumption

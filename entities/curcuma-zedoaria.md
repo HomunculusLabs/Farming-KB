@@ -13,7 +13,7 @@ sources:
   - "Ravindran, P.N. et al. (2007). Curcuma: The Genus Curcuma. CRC Press."
   - "Joshi, R.K. et al. (2014). \"Chemical composition and antimicrobial activity of the rhizome essential oil of Curcuma zedoaria.\" Journal of Ethnopharmacology, 151(1), 299-306."
   - "Aggarwal, B.B. et al. (2013). Molecular Targets and Therapeutic Uses of Curcumin in Health and Disease. Springer."
-  - "Li, R.W. et al. (2012). \"Curcuma species: a comprehensive review on phytochemistry, pharmacology and [[mushroom-cancer-clinical-trials-overview]].\" Chinese Medicine, 7, 15."
+  - "Li, R.W. et al. (2012). \"Curcuma species: a comprehensive review on phytochemistry, pharmacology and mushroom-cancer-clinical-trials-overview.\" Chinese Medicine, 7, 15."
 ---
 
 # Curcuma zedoaria (Zedoary)

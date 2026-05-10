@@ -9,17 +9,17 @@ sources: []
 
 # Agaricus Species Guide
 
-The genus Agaricus contains some of the most commercially important and widely consumed mushrooms in the world, including the common [[growing-gourmet-button-mushroom-agaricus-cultivation]] and its mature forms (cremini and portobello). The genus also includes excellent wild-foraged species and a few toxic members that foragers must learn to distinguish.
+The genus Agaricus contains some of the most commercially important and widely consumed mushrooms in the world, including the common button mushroom and its mature forms (cremini and portobello). The genus also includes excellent wild-foraged species and a few toxic members that foragers must learn to distinguish. (see [[agaricus-sylvicola]]).
 
 ## Overview
 
-Agaricus is a large genus of mushroom-forming fungi with a worldwide distribution. Most species are saprotrophic, decomposing organic matter in grasslands, forests, and compost. The genus includes the single most cultivated mushroom species on Earth (A. bisporus) and several prized wild edibles. Identification within the genus relies heavily on spore print color, bruising reactions, and habitat.
+Agaricus is a large genus of mushroom-forming fungi with a worldwide distribution. Most species are saprotrophic, decomposing organic matter in grasslands, forests, and compost. The genus includes the single most cultivated mushroom species on Earth (A. bisporus) and several prized wild edibles. Identification within the genus relies heavily on spore print color, bruising reactions, and habitat. (see [[inocybe-geophylla]]).
 
 ## Agaricus bisporus (Button, Cremini, Portobello)
 
 ### Overview
 
-The most cultivated mushroom species globally, accounting for the majority of worldwide mushroom production. Native to Europe and [[psilocybin-north-america-pacific-northwest]], it was first cultivated in France in the 1700s and has since become a staple food worldwide.
+The most cultivated mushroom species globally, accounting for the majority of worldwide mushroom production. Native to Europe and North America, it was first cultivated in France in the 1700s and has since become a staple food worldwide.
 
 ### The Three Forms
 
@@ -31,7 +31,7 @@ What appears to be three different mushrooms are actually the same species at di
 
 ### Cultivation
 
-A. [[agaricus-bisporus-cultivation-biology]] is the most industrialized mushroom production system in the world:
+A. bisporus cultivation is the most industrialized mushroom production system in the world:
 
 - Substrate: composted straw, horse manure, and/or chicken manure with gypsum
 - Two-phase composting: Phase 1 (outdoor, thermophilic composting for 7-14 days) and Phase 2 (pasteurization and conditioning at 140 F for 7-10 days)
@@ -91,7 +91,7 @@ The wild ancestor of the cultivated button mushroom, A. campestris is a common f
 
 ### Overview
 
-A large, robust wild Agaricus species found in pastures and grasslands. One of the finest wild [[palmer-edible-mushrooms-north-america]] in Europe, prized for its size and almond-like aroma.
+A large, robust wild Agaricus species found in pastures and grasslands. One of the finest wild edible mushrooms in Europe, prized for its size and almond-like aroma.
 
 ### Identification
 
@@ -141,9 +141,10 @@ A woodland-dwelling Agaricus species found in forests and wooded areas across Eu
 ### Key Difference from A. arvensis
 
 - A. silvicola grows in forests, not open grasslands
-## Related Topics
+- Generally smaller and more slender
+- Less robust and meaty
 
-- [[oyster-mushroom-species-guide]] for other commonly cultivated species
-- [[chanterelle-guide]] for wild [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] safety and techniques
-- [[shiitake-cultivation-guide]] for indoor [[accessible-mushroom-cultivation-for-disabilities]] methods
-- [[composting-methods-comparison]]
+### Culinary Use
+
+- Good edible, though less meaty than A. arvensis
+- Almond aroma is pleasant

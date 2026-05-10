@@ -1,20 +1,19 @@
 ---
-title: Shiitake (Lentinula edodes) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: Shiitake (Lentinula edodes) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profiles, pharmacology, cooking]
-sources:
-  sources: []
+sources: []
 ---
 
 # Shiitake (Lentinula edodes)
 
 ## Overview
 
-Shiitake is the second most cultivated mushroom worldwide (after button mushroom) and one of the most thoroughly researched [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Native to East Asia, it has been cultivated for over 1,000 years, with written records of shiitake cultivation dating to the Song Dynasty in China (10th-13th century).
+Shiitake is the second most cultivated mushroom worldwide (after button mushroom) and one of the most thoroughly researched medicinal mushrooms. Native to East Asia, it has been cultivated for over 1,000 years, with written records of shiitake cultivation dating to the Song Dynasty in China (10th-13th century). (see [[lentinula-edodes]]).
 
-The name derives from the Japanese "shii" (the shii tree, Castanopsis cuspidata, on which it commonly grows) and "take" (mushroom). Shiitake uniquely bridges culinary and medicinal traditions — it is both a staple ingredient in East Asian cuisine and a source of important pharmaceutical compounds.
+The name derives from the Japanese "shii" (the shii tree, Castanopsis cuspidata, on which it commonly grows) and "take" (mushroom). Shiitake uniquely bridges culinary and medicinal traditions — it is both a staple ingredient in East Asian cuisine and a source of important pharmaceutical compounds. (see [[medicinal-mushroom-guide-chaga]]).
 
 ## Key Compounds
 
@@ -85,7 +84,7 @@ Shiitake is nutritionally dense:
 - Rich in dietary fiber (beta-glucans, chitin).
 - Contains all essential amino acids.
 - Excellent source of selenium, zinc, copper, and manganese.
-- Dried shiitake has more concentrated nutrients and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] than fresh.
+- Dried shiitake has more concentrated nutrients and bioactive compounds than fresh.
 - Umami flavor comes from high glutamate content and guanylic acid.
 
 ### Culinary Preparation
@@ -102,7 +101,7 @@ Shiitake is nutritionally dense:
 
 ### Dual Extraction Tincture
 1. Hot water extraction for lentinan and polysaccharides.
-2. [[pf-tek-alcohol-extraction-method]] for terpenoid compounds.
+2. Alcohol extraction for terpenoid compounds.
 3. Combine for comprehensive extract.
 
 ### Dried Powder
@@ -133,18 +132,19 @@ Shiitake is one of the easiest mushrooms to cultivate at home:
 - Sterilize, inoculate, incubate 60-90 days at 72-78°F.
 - Cold shock (55-60°F) for 2-3 days to initiate fruiting.
 - Harvest in 7-14 days after primordia appear.
-- [[stamets-biological-efficiency-yield]]: 80-120% (high-yielding).
+- Biological efficiency: 80-120% (high-yielding).
 
 ## Safety Considerations
 
 - Generally very safe with extensive culinary history.
 - **Shiitake dermatitis:** Rare skin reaction (flagellate erythema) caused by lentinan ingestion. More common in raw or undercooked shiitake. Always cook thoroughly.
 - May increase bleeding risk — caution with anticoagulant medications.
-- Immune-stimulating effects — caution with [[cannabis-autoimmune-conditions-detailed]].
+- Immune-stimulating effects — caution with autoimmune conditions.
 - Avoid large medicinal doses during pregnancy (culinary amounts are fine).
 - Gout risk: shiitake contains purines that may trigger gout in susceptible individuals.
+- Possible interaction with immunosuppressant drugs.
+
 ## Related Topics
 
 - [[medicinal-mushroom-guide-maitake]] for complementary beta-glucan rich mushroom
 - [[medicinal-mushroom-guide-reishi]] for a non-culinary medicinal mushroom comparison
-- [[medicinal-mushroom-guide-oyster]] for another cultivated medicinal edible

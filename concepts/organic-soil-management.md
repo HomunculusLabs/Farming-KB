@@ -23,7 +23,7 @@ sources:
 
 # Organic Soil Management
 
-Comprehensive approach to building and maintaining healthy soil without synthetic chemicals. Based on Geoff Hamilton's [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] methods. See [[geoff-hamilton-organic-techniques]] for the full organic system and [[no-till-gardening-method]] for minimum-disturbance approaches.
+Comprehensive approach to building and maintaining healthy soil without synthetic chemicals. Based on Geoff Hamilton's organic gardening methods. See [[geoff-hamilton-organic-techniques]] for the full organic system and [[no-till-gardening-method]] for minimum-disturbance approaches.
 
 ## Understanding Soil
 
@@ -60,7 +60,7 @@ Sources of organic matter ranked by availability and value:
 3. **Leaf mould** -- decomposed autumn leaves, excellent soil conditioner. Takes 1-2 years. Oak and beech leaves are slower; smaller leaves decompose faster
 4. **Green manures** -- living plants grown specifically to be dug in. See [[cover-cropping-guide]]
 5. **Worm-worked compost and vermicompost** -- exceptionally rich in plant-available nutrients and beneficial microorganisms. Worm populations indicate soil health (50+ per sq ft in healthy beds)
-6. **[[staycare-spent-mushroom-compost-bioremediation]]** -- [[oyster-mushroom-spent-substrate-recycling]] from [[accessible-mushroom-cultivation-for-disabilities]]. Good soil conditioner but can be alkaline
+6. **Mushroom compost** -- spent substrate from mushroom cultivation. Good soil conditioner but can be alkaline
 7. **Seaweed** -- rich in trace minerals. Rinse salt from beach-harvested seaweed before use
 
 ### Phase 3: Mulching
@@ -96,8 +96,8 @@ Sources of organic matter ranked by availability and value:
 ## Links
 
 - [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
-- [[composting-systems]] -- [[natural-farming-guide-composting-methods-and-techniques]] and recipes
+- [[composting-systems]] -- Composting methods and recipes
 - [[cover-cropping-guide]] -- Green manures and cover crops
 - [[no-till-gardening-method]] -- Minimum disturbance soil management
 - [[cannabis-living-soil-guide]] -- Soil biology and food web
-- [[soil-fertility-management]] -- Organic [[green-cannabis-grow-bible-nutrient-management-ppm]]
+- [[soil-fertility-management]] -- Organic nutrient management

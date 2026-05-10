@@ -25,12 +25,12 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
 
 ## Precursors and Influences (pre-1978)
 
-- **1940s-1960s — Masanobu Fukuoka's [[comparison-natural-farming-vs-permaculture]]:**
+- **1940s-1960s — Masanobu Fukuoka's natural farming:**
   [[masanobu-fukuoka]] (1913-2008) develops "do-nothing farming"
   on his farm in Ehime Prefecture, Shikoku, Japan.
   Four principles: no cultivation, no chemical fertilizer,
   no weeding, no pesticides.
-  Practices include [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] into living mulch,
+  Practices include direct seeding into living mulch,
   duck-rice-fish integration, and seed ball broadcasting.
   His work directly influences Mollison and Holmgren.
   See [[natural-farming-fukuoka]] and [[one-straw-revolution-guide]].
@@ -60,7 +60,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   Directly influences permaculture design methodology.
 
 - **1973 — E.F. Schumacher's Small is Beautiful:**
-  Argues for [[mollison-designers-appropriate-technology-small-scale-tools]] and human-scale economics,
+  Argues for appropriate technology and human-scale economics,
   providing philosophical grounding for permaculture's emphasis
   on small-scale, local, decentralized solutions.
 
@@ -96,7 +96,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   Covers ethics, principles, design methodology,
   soil, water, plants, animals, climate, and social permaculture.
 
-- **1981 — [[pdc-right-livelihood-and-permaculture-economics]] Award:**
+- **1981 — Right Livelihood Award:**
   Mollison receives the Right Livelihood Award
   ("Alternative Nobel Prize") for developing and promoting permaculture.
 
@@ -113,7 +113,7 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
 - **1988 — Permaculture: A Designer's Manual published:**
   Mollison publishes the definitive reference text
   (often called "the Big Black Book"),
-  covering [[mollison-climate-zones-permaculture-strategies]], water management, soils, aquaculture,
+  covering climate zones, water management, soils, aquaculture,
   earthworks, design methodology, and hundreds of techniques.
   Over 500 pages. Remains the "bible" of permaculture design.
   See [[bill-mollison]] and [[permaculture-design]].
@@ -121,12 +121,12 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
 ## Key Developers and Regional Adaptations (1980s-2000s)
 
 - **1970s-2000s — Sepp Holzer's practical permaculture:**
-  [[sepp-holzer-entity]] (born 1942) develops his methods independently
+  [[sepp-holzer]] (born 1942) develops his methods independently
   on his 45-hectare farm Krameterhof in Lungau, Salzburg, Austria,
   at 1,100-1,500m elevation.
   Grows citrus, kiwis, peaches, and subtropical plants
   considered impossible at that altitude
-  through [[mollison-designers-microclimate-creation-frost-protection]] (ponds, rock terraces, windbreaks),
+  through microclimate creation (ponds, rock terraces, windbreaks),
   hugelkultur beds, terracing, and water retention landscapes.
   Publishes Sepp Holzer's Permaculture (2004)
   and Desert or Paradise (2012).
@@ -136,14 +136,15 @@ Complements [[permaculture-design]] and [[permaculture-principles]] with histori
   Teaches over 200 PDCs worldwide, adapting content
   for tropical, arid, temperate, and urban contexts.
 
-## Related Pages
+- **1990s — Geoff Lawton's earthworks and demonstration:**
+  Australian permaculture teacher who studied under Mollison.
+  Established PRI at Tagari Farm and later Zaytuna Farm.
+  Known for large-scale earthworks, food forests,
+  and the "Greening the Desert" project in Jordan.
 
-- [[permaculture-principles]] — the 12 design principles detailed
-- [[permaculture-design]] — complete design methodology
-- [[permaculture-design-methods]] — Mollison's design toolkit and process
-- [[food-forest-design]] — food forest systems and implementation
-- [[permaculture-zones-in-practice]] — zone planning with examples
-- [[permaculture-plant-catalog]] — plant reference for design
-- [[urban-permaculture-design]] — small-space and urban permaculture
-- [[regenerative-agriculture-history]] — broader regenerative context
-- [[keyline-design]] — water management precursor and integration
+- **1990s — Robyn Francis:**
+  Australian permaculture teacher who established
+  Djanbung Gardens in Nimbin, NSW, as a demonstration site.
+  Known for accessible teaching and women's leadership.
+
+- **1990s-2000s — Rosemary Morrow:**

@@ -142,7 +142,6 @@ For those seeking to deepen their knowledge, recommended resources
 include primary research literature, established reference works,
 practitioner communities, and hands-on experimentation under guided
 conditions. The combination of theoretical study and practical experience
-provides the most robust foundation for developing expertise in this
 ## See Also
 
 - [[ayahuasca-tourism-cost-analysis-peru-vs-homebrew]]

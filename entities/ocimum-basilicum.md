@@ -141,6 +141,8 @@ claims remains limited:
   self-seeds in warm climates
 ## See Also
 
+- [[ocimum-sanctum]]
+
 - [[food-forest]]
 - [[mentha-piperita]]
 - [[rosmarinus-officinalis-entity]]

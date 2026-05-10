@@ -4,8 +4,7 @@ created: 2026-04-14
 updated: 2026-04-27
 type: concept
 tags: [cannabis, cultivation]
-sources:
-  sources: []
+sources: []
 ---
 # Cannabis Reefers and Tincture Preparation
 

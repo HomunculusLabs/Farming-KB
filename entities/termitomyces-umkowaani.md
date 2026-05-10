@@ -15,7 +15,7 @@ sources:
   - Heim, R. (1977). Termites et Champignons. Boubée, Paris.
   - Aanen, D.K. et al. (2002). "The evolution of fungus-growing termites and their mutualistic fungal symbionts." Proceedings of the National Academy of Sciences, 99(23), 14887-14892.
   - De Fine Licht, H.H. et al. (2005). "The termite genus Macrotermes as a model for the co-evolution of fungus-growing termites and Termitomyces." Insectes Sociaux, 52(3), 268-275.
-  - Oei, P. (2005). [[accessible-mushroom-cultivation-for-disabilities]] in the Tropics: A Practical Guide. TOOL Publications, Amsterdam.
+  - Oei, P. (2005). accessible-mushroom-cultivation-for-disabilities in the Tropics: A Practical Guide. TOOL Publications, Amsterdam.
 ---
 
 ## Overview

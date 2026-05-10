@@ -136,12 +136,7 @@ mechanism represents an entirely different dissociative
 pathway.
 
 ## See Also
-
 - [[psilocybin-mushrooms-species-and-pharmacology]]
 - [[mescaline-peyote-san-pedro-cactus]]
-
 - [[salvia-divinorum-salvinorin-a-pharmacology]]
-
-## See Also
-
 - [[salvia-divinorum-and-salvinorin-a]]

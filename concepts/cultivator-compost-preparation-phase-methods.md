@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [mushroom-cultivation, composting, substrate, phase-composting, soil-science]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources: []
+sources: []
 type: concept
 ---
 # [[mycelium]] growth to the practical exclusion of competitor organisms. Specifically:

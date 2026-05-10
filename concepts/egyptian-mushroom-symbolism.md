@@ -23,7 +23,7 @@ sources:
 
 # Egyptian Mushroom Symbolism
 
-The theory that ancient Egyptian (Khemitian) religion encodes [[allegro-amanita-muscaria-properties-and-pharmacology]] as the central sacramental substance — the "celestial food," "divine flesh," and "tree of life" referenced throughout the Egyptian Book of the Dead. [[james-arthur]] argues that Egyptian mystery school initiations in the Great Pyramid at Gizeh centered on Amanita-induced death-and-rebirth experiences.
+The theory that ancient Egyptian (Khemitian) religion encodes Amanita muscaria as the central sacramental substance — the "celestial food," "divine flesh," and "tree of life" referenced throughout the Egyptian Book of the Dead. [[james-arthur]] argues that Egyptian mystery school initiations in the Great Pyramid at Gizeh centered on Amanita-induced death-and-rebirth experiences.
 
 ## Core Arguments
 
@@ -68,7 +68,7 @@ The Egyptian Book of the Dead contains numerous references to a sacred "celestia
 
 ### The Great Pyramid Initiation Rite
 
-Arthur describes a three-day [[eleusinian-initiation-ritual-sequence-and-comparative-mysteries]] in the King's Chamber:
+Arthur describes a three-day initiation ritual in the King's Chamber:
 1. The initiate was placed in the sarcophagus (literally "flesh-eating") and consumed the "sacred flesh" and "waters of life"
 2. Amanita muscaria induced a death-like trance — the initiate descended into Hades/Amenta (linguistically linked to "Amanita")
 3. Salt deposits on the chamber walls suggest a tub for buoyant salt water — a sensory deprivation tank for the death-and-rebirth experience
@@ -76,7 +76,7 @@ Arthur describes a three-day [[eleusinian-initiation-ritual-sequence-and-compara
 5. The initiate "entered as men and came forth as Gods" (Manley P. Hall, also Peter Tompkins)
 
 ### Secrecy and the Mystery Schools
-The Egyptian Book of the Dead contains explicit instructions to keep the [[entheogenic-knowledge-secret-societies]]:
+The Egyptian Book of the Dead contains explicit instructions to keep the knowledge secret:
 - "Let not the multitude know of it except thyself and the beloved friend of thy heart"
 - "Thou shalt not perform this ceremony before any human being except thine own self, or thy father, or thy son, because it is an exceedingly great mystery"
 - Arthur argues this secrecy is the source of the concealment practiced by later secret societies (Rosicrucians, Freemasons, Templars)
@@ -99,7 +99,7 @@ Arthur draws on oral traditions from indigenous Khemitian descendants:
 
 ## Critical Assessment
 
-Arthur's Egyptian interpretations are highly speculative. While the mushroom-shaped pillars and some hieroglyphic depictions are visually suggestive, mainstream Egyptology does not accept Amanita muscaria as the basis of Egyptian religion. Andrija Puharich's "The [[allegro-the-sacred-mushroom-amanita-identification]]" also explored Egyptian-Amanita links but through psychic trance rather than conventional scholarship. The comparative mythology (3-day death, Dec 25 birth, sacramental meal) is well-documented independently of mushroom theories.
+Arthur's Egyptian interpretations are highly speculative. While the mushroom-shaped pillars and some hieroglyphic depictions are visually suggestive, mainstream Egyptology does not accept Amanita muscaria as the basis of Egyptian religion. Andrija Puharich's "The Sacred Mushroom" also explored Egyptian-Amanita links but through psychic trance rather than conventional scholarship. The comparative mythology (3-day death, Dec 25 birth, sacramental meal) is well-documented independently of mushroom theories.
 
 ## See Also
 

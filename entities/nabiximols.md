@@ -11,7 +11,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - GW Pharmaceuticals. "Sativex Prescribing Information." Revised 2023.
-  - Pertwee R.G. (2012). "Targeting the endocannabinoid system with [[cannabis-cannabinoid-receptor-pharmacology]] agonists." British Journal of Pharmacology, 166(5), 1447-1463.
+  - Pertwee R.G. (2012). "Targeting the endocannabinoid system with cannabis-cannabinoid-receptor-pharmacology agonists." British Journal of Pharmacology, 166(5), 1447-1463.
   - Barnes M.P. (2006). "Sativex: clinical efficacy and tolerability in the treatment of symptoms of multiple sclerosis." Expert Opinion on Pharmacotherapy, 7(5), 607-615.
   - Wikipedia contributors. "Nabiximols." Wikipedia, The Free Encyclopedia.
 ---

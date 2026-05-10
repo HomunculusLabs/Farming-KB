@@ -1,5 +1,5 @@
 ---
-title: Terence McKenna's Stoned stoned-ape-hypothesis-mckenna-psychedelic-evolution
+title: Terence McKenna's Stoned Ape Hypothesis
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -17,11 +17,11 @@ sources:
 
 # Terence McKenna's Stoned Ape Hypothesis
 
-Terence McKenna's speculative theory that [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] played a catalytic role in the rapid evolution of human consciousness, language, and culture.
+Terence McKenna's speculative theory that psilocybin mushrooms played a catalytic role in the rapid evolution of human consciousness, language, and culture. (see [[mckenna-catalyzing-consciousness-language-formation]]).
 
 ## Overview
 
-McKenna proposed that the sudden and still-unexplained tripling of the human brain size over approximately three million years of hominid evolution was catalyzed by the inclusion of psychoactive mushrooms -- particularly psilocybin-containing species of the genus *Psilocybe* -- in the protohuman diet. He articulated this hypothesis most fully in *Food of the Gods* (1992).
+McKenna proposed that the sudden and still-unexplained tripling of the human brain size over approximately three million years of hominid evolution was catalyzed by the inclusion of psychoactive mushrooms -- particularly psilocybin-containing species of the genus *Psilocybe* -- in the protohuman diet. He articulated this hypothesis most fully in *Food of the Gods* (1992). (see [[terence-mckenna]]).
 
 ## The Evolutionary Puzzle
 
@@ -33,7 +33,7 @@ McKenna argued that psilocybin is unique in its dose-dependent effects, each of 
 
 ### Level 1: Increased Visual Acuity (Low Doses)
 
-At low doses, psilocybin improves visual acuity, particularly edge detection. McKenna cited research by [[mckenna-roland-fischer-psilocybin-visual-acuity]] in the late 1960s in which small amounts of psilocybin given to graduate students measurably improved their ability to detect when previously parallel lines became skewed. For hunter-gatherers, this "chemical binoculars" effect would directly improve hunting success, conferring survival and reproductive advantages.
+At low doses, psilocybin improves visual acuity, particularly edge detection. McKenna cited research by Roland Fischer in the late 1960s in which small amounts of psilocybin given to graduate students measurably improved their ability to detect when previously parallel lines became skewed. For hunter-gatherers, this "chemical binoculars" effect would directly improve hunting success, conferring survival and reproductive advantages.
 
 ### Level 2: Sexual Arousal and Social Bonding (Moderate Doses)
 
@@ -73,21 +73,3 @@ McKenna acknowledged the speculative nature of the theory but maintained that th
 - [[mckenna-food-of-the-gods-thesis]] for McKenna's broader argument about psychedelics and civilization
 - [[psychedelic-plants-in-ancient-cultures]] for evidence of ancient psychedelic use
 - [[psilocybin-psychological-mechanisms]] for modern neuroscience of psilocybin
-## Practical Considerations
-
-Successful implementation of Terence McKenna's Stoned Ape Hypothesis requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

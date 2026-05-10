@@ -1,5 +1,5 @@
 ---
-title: harner sharanahua visions and cures and Cures
+title: [[harner-ayahuasca-shamanism-amazon|harner]] sharanahua visions and cures and Cures
 created: 2026-04-28
 tags:
   - anthropology
@@ -24,7 +24,7 @@ outcomes.
 
 ## Communal Ayahuasca Practice
 
-The Sharanahua, like the Cashinahua, tend to participate together in the
+The Sharanahua, like the [[harner-cashinahua-banisteriopsis-usage|Cashinahua]], tend to participate together in the
 hallucinogenic experience [[harner-jivaro-shamanism-yage]] alone. The communal
 approach of the Sharanahua and Cashinahua produces more harmonious
 sessions, with participants sharing those aspects of the revelatory

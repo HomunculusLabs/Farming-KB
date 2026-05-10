@@ -117,3 +117,7 @@ Cultures can be stored short-term at room temperature (sealed plates last
 lasting 6-12 months). For indefinite storage, cultures can be preserved on
 sterilized wooden dowels (slant cultures) or in glycerol solution at -20°C
 or in liquid nitrogen.
+
+## See Also
+
+- [[coleman-flame-weeding-preemergence-technique]]

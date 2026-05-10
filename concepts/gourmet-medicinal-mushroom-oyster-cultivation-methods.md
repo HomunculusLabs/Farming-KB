@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: "2026-04-24"
 sources:
   - "Growing Gourmet and Medicinal Mushrooms (Paul Stamets, 1993)"
-  - "Oyster [[accessible-mushroom-cultivation-for-disabilities]] (MushWorld, 2004)"
+  - "Oyster accessible-mushroom-cultivation-for-disabilities (MushWorld, 2004)"
 type: concept
 tags: [cultivation, medicine, mushroom-cultivation, oyster-mushroom]
 ---

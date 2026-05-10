@@ -120,11 +120,6 @@ The challenge for the field is to develop a more nuanced understanding of when e
 Metzner's analysis provides a valuable historical framework for this ongoing work, reminding contemporary researchers that the therapeutic use of hallucinogens has a rich and complex history that extends well beyond the current focus on mystical experience.
 
 ## See Also
-
 - [[set-and-setting-psychedelic-therapy-framework]]
-
 - [[psychedelic-integration-practices]]
-
-## See Also
-
 - [[metzner-psycholytic-psychedelic-therapy-models]]

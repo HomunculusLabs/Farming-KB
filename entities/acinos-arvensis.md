@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Conforti, F. et al. (2006). "Chemical composition and biological activities of Acinos arvensis." Journal of Food Biochemistry, 30(1), 1–12.
   - Formisano, C. et al. (2007). "Volatile constituents of Acinos arvensis from Italy." Journal of Chromatography A, 1170(1–2), 241–245.
-  - Rosselli, S. et al. (2007). "Antibacterial and antifungal activity of Acinos arvensis [[permaculture-designers-manual-essential-oil-plants]]." Flavour and Fragrance Journal, 22(5), 398–401.
+  - Rosselli, S. et al. (2007). "Antibacterial and antifungal activity of Acinos arvensis permaculture-designers-manual-essential-oil-plants." Flavour and Fragrance Journal, 22(5), 398–401.
   - Tuttolomondo, T. et al. (2013). "Essential oil composition of Acinos arvensis from Sicily." Natural Product Communications, 8(12), 1729–1732.
 ---
 
@@ -110,6 +110,9 @@ In Spanish folk medicine, the plant is known as *ajedrea de campo* and has been 
 The species is not widely used in modern herbalism or commercial products. Its small size and variable chemistry limit its economic potential compared to related Lamiaceae species.
 
 ## See Also
+
+- [[anagallis-arvensis]]
+- [[sinapis-arvensis]]
 
 - [[origanum-vulgare-entity]]
 - [[calamintha-nepeta]]

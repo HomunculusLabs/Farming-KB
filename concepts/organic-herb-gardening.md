@@ -22,7 +22,7 @@ sources:
 
 # Organic Herb Gardening
 
-Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] strategies.
+Growing herbs using organic methods. Herbs are among the most rewarding plants to grow organically -- most are naturally pest-resistant, require minimal feeding, and many attract beneficial insects. See [[geoff-hamilton-organic-techniques]] for the broader organic system and [[companion-planting-reference]] for herb-based companion planting strategies.
 
 ## Herb Classification by Growth Habit
 
@@ -73,11 +73,11 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 - **Division** -- mint, chives, lemon balm, oregano: lift in spring, divide into sections, replant
 - **Cuttings** -- rosemary, sage, thyme, lavender: take softwood cuttings in summer, hardwood in autumn. Root in free-draining compost (50/50 compost/perlite). Use rooting hormone for woody cuttings
 - **Layering** -- rosemary, thyme, sage: bend a low stem to ground, peg down, cover with soil. Separate when rooted
-- **Seed** -- see [[seed-starting-reference]] for detailed [[vegetative-propagation-methods-mollison]]
+- **Seed** -- see [[seed-starting-reference]] for detailed propagation methods
 
 ## Harvesting
 
-- **Leaf herbs** (basil, parsley, mint): harvest regularly from the top to promote bushy growth. Pick in the morning after dew dries but before the heat of the day when [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] are highest
+- **Leaf herbs** (basil, parsley, mint): harvest regularly from the top to promote bushy growth. Pick in the morning after dew dries but before the heat of the day when essential oils are highest
 - **Flower herbs** (chamomile, borage, lavender): harvest flowers at full bloom on a dry day
 - **Whole stem herbs** (rosemary, thyme, bay): harvest throughout the year as needed
 - **Seed herbs** (coriander, dill, fennel): harvest seed heads when dry and brown but before they shatter
@@ -91,7 +91,7 @@ Growing herbs using organic methods. Herbs are among the most rewarding plants t
 
 ## Herbs as Companion Plants
 
-Herbs are central to organic [[cannabis-pest-management-guide]]. See [[companion-planting-reference]] for full details:
+Herbs are central to organic pest management. See [[companion-planting-reference]] for full details:
 - **Basil** with tomatoes -- repels whitefly, improves flavour
 - **Rosemary, sage, thyme** with brassicas -- deter cabbage white butterfly
 - **Mint** near cabbage family -- deters flea beetles and cabbage moths
@@ -102,7 +102,7 @@ Herbs are central to organic [[cannabis-pest-management-guide]]. See [[companion
 
 ## Links
 
-- [[geoff-hamilton-organic-techniques]] -- Full [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] system
+- [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
 - [[companion-planting-reference]] -- Herb-based pest deterrence and companion combinations
 - [[seed-starting-reference]] -- Propagation methods
 - [[seasonal-planning]] -- Monthly task calendar

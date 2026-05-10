@@ -126,7 +126,6 @@ and the Canary Islands. Other plant-based reds include brazilwood
 inermis, producing orange-reds on protein fibers).
 
 ### Yellow: Weld, Marigold, and Coreopsis
-
 ## See Also
 
 - fiber-plants-permaculture

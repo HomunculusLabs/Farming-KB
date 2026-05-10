@@ -1,6 +1,6 @@
 ---
 
-title: Fungal fungal research compound reference Reference
+title: Fungal Research Compound Reference
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -94,7 +94,7 @@ Key findings: Psilocin absent in first 1-2 flushes, peaks at flush 4. Psilocybin
 
 ## P. azurescens Alkaloid Profile (Gartz 1995)
 
-Highest known alkaloid concentrations of any [[emcdda-psilocybin-mushroom-dose-and-effects]]:
+Highest known alkaloid concentrations of any psilocybin mushroom:
 
 | Sample | Psilocybin (%) | Psilocin (%) | Baeocystin (%) |
 |--------|---------------|-------------|----------------|
@@ -111,23 +111,23 @@ Total alkaloids: up to ~2.5% dry weight (25 mg/g).
 
 | Parameter | Control | With Brassinosteroid |
 |-----------|---------|---------------------|
-| [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] rate | Baseline | 2-3x faster |
+| Mycelial growth rate | Baseline | 2-3x faster |
 | Time to first flush | 4-5 weeks | 3-3.5 weeks |
 | First flush mushroom count | 1-3 | 4-7 |
 | Dry mass per 10g substrate | 2.3-2.9g | 3.4-3.9g |
-| [[abort-suppression-brassinosteroid-incomplete-fruit-body-reduction]] bodies | Common | Almost completely suppressed |
+| Incomplete fruit bodies | Common | Almost completely suppressed |
 
 Morphological change: treated fruit bodies lacked the typical membranous annulus on stems. First study demonstrating brassinosteroid effects on fungi.
 
 ## Light Effects on Fruiting (Badham 1980)
 
-[[light-basidiocarp-initiation-psilocybe-cubensis-research]] in P. cubensis requires light:
+Basidiocarp initiation in P. cubensis requires light:
 
 - **Minimum duration**: 0.0025 sec xenon-arc flash sufficient
 - **Saturation dose**: 0.345 x 10^4 ergs/cm2 at 460nm
 - **Effective wavelengths**: UV and blue (370, 440, 460nm most effective)
 - **Ineffective**: Green and red wavelengths >510nm
-- **Mechanism**: Phototropic response; blue spectrum (370-420nm) most effective for [[growing-gourmet-primordia-formation-pinning]]
+- **Mechanism**: Phototropic response; blue spectrum (370-420nm) most effective for primordia formation
 
 ## Spawn Grain x Medium Interaction (Nwanze et al. 2005)
 
@@ -142,8 +142,9 @@ Lentinus squarrosulus on 6 media x 3 spawn grains — significant interaction ef
 Key finding: corn spawn x animal bedding/rice medium produced heaviest carpophores and widest caps. Millet spawn x same medium gave widest stipes. Spawn grain choice interacts significantly with substrate medium.
 
 ## Large-Scale Synthesis (Shirota, Hakamata & Goda 2003)
-## Related Pages
-- [[mushroom-growing-reference]] — Cultivation parameters and species tips
-- [[psychedelic-compounds-reference]] — Compound pharmacology and dosing
-- [[mushroom-substrates]] — Grain spawn and substrate details
-- [[fungal-biology-fundamentals]] — Fungal lifecycle and fruiting triggers
+
+Gram-scale synthesis of psilocin and psilocybin without chromatographic purification. Published in J. Nat. Prod. 2003, 66, 885-887. National Institute of Health Sciences, Tokyo, Japan.
+
+### Psilocin Synthesis (3 steps from 4-hydroxyindole)
+
+| Step | Transformation | Conditions | Yield |

@@ -108,7 +108,6 @@ soil food web. Bacterial-feeding nematodes consume bacteria and release
 nutrients in a manner similar to protozoa. Fungal-feeding nematodes graze on
 fungal hyphae, regulating fungal populations and cycling nutrients from
 fungal biomass. Predatory nematodes feed on other nematodes and small
-microarthropods, contributing to pest suppression. Plant-parasitic nematodes
 ## See Also
 
 [[bacterial-vs-fungal-soil]] - [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] soil dynamics

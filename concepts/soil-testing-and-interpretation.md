@@ -59,7 +59,6 @@ Discuss with your laboratory when appropriate follow-up tests should be taken. Y
 The real test, of course, is how the plants are doing. But it makes sense to test soils while things are working well, to ensure that no essential nutrient is close to becoming that Von Liebig limiter.
 
 ## See Also
-
 - [[nutrient-cycling-in-soil]]
 - [[soil-testing-and-analysis]]
 - [[glomalin-and-soil-carbon]]

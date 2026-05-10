@@ -22,7 +22,7 @@ sources:
 
 # Mycorrhizal Types
 
-[[arbuscular-mycorrhizal-fungi-biology-symbiosis]] are divided into several categories based on how they associate with plant roots. Understanding these types is essential for choosing the right management practices. See [[mycorrhizal-fungi]] for the practical overview and [[mycorrhizal-networks]] for how networks function.
+Mycorrhizal fungi are divided into several categories based on how they associate with plant roots. Understanding these types is essential for choosing the right management practices. See [[mycorrhizal-fungi]] for the practical overview and [[mycorrhizal-networks]] for how networks function.
 
 ## Endomycorrhizae (Penetrate Root Cells)
 
@@ -30,7 +30,7 @@ sources:
 The most common and agriculturally important type. Associated with ~70% of all terrestrial plants.
 
 - **Phylum:** Glomeromycota (~230 species, but colonize 400,000+ plant species)
-- **Hosts:** Most vegetables, annuals, grasses, legumes, shrubs, many [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
+- **Hosts:** Most vegetables, annuals, grasses, legumes, shrubs, many fruit trees
 - **Mechanism:** Hyphae penetrate root cell walls (not the plasma membrane), forming arbuscules (tree-like exchange structures) inside root cells
 - **Also form:** Vesicles (storage organs inside roots) and extraradical hyphae extending into soil
 - **Reproduction:** Large spores (50-1000 micrometers), do not produce mushrooms
@@ -48,7 +48,7 @@ The most common and agriculturally important type. Associated with ~70% of all t
 - **Hosts:** Ericaceae family — rhododendrons, azaleas, blueberries, cranberries (~5% of terrestrial plants)
 - **Fungal partners:** Ascomycetes
 - **Mechanism:** Hyphae penetrate cortical cells forming dense coils (pelotons)
-- **Specialty:** Obtain nitrogen from [[hamilton-composting-and-organic-matter-management]] in acidic, peat-rich soils; produce strong acids that break down organic matter
+- **Specialty:** Obtain nitrogen from organic matter in acidic, peat-rich soils; produce strong acids that break down organic matter
 - **Note:** Acidify soil, helping plants survive in low-pH conditions
 - **Commercial inoculation:** Difficult — use unsterilized peat from colonized plant root zones
 
@@ -90,7 +90,7 @@ The most common and agriculturally important type. Associated with ~70% of all t
 ### Sebacinoid Mycorrhizae
 - **Fungal partners:** Basidiomycetes in order Sebacinales
 - **Note:** Very diverse — can form endo-, ecto-, ericoid, or orchid mycorrhizae depending on host
-- **Research interest:** [[linum-album-piriformospora-indica-co-culture-system]] (discovered in Indian desert soils) colonizes many crops and confers disease resistance
+- **Research interest:** Piriformospora indica (discovered in Indian desert soils) colonizes many crops and confers disease resistance
 
 ## Multi-Mycorrhizae
 
@@ -108,10 +108,10 @@ These families do not form mycorrhizae and have alternative strategies:
 ## See Also
 
 - [[mycorrhizal-fungi]] — Practical guide for gardeners
-- [[mycorrhizal-networks]] — How [[fungal-mycelial-networks-nutrient-translocation]] function
+- [[mycorrhizal-networks]] — How mycelial networks function
 - [[glomalin-and-soil-carbon]] — AMF soil carbon compound
 - [[soil-food-web-nutrient-cycling]] — Where mycorrhizae fit in the ecosystem
-- [[no-till-gardening-method]] — Protecting [[dighton-mycorrhizal-networks-carbon-transfer]]
+- [[no-till-gardening-method]] — Protecting mycorrhizal networks
 - teaming-with-fungi-lowenfels — Source reference
 
 ## Related

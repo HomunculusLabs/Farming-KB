@@ -113,7 +113,6 @@ container can support a remarkably complete food web when properly constructed.
 Bacteria are the foundation. A single gram of healthy soil contains hundreds of
 millions of bacterial cells that decompose simple organic compounds, fix nitrogen,
 solubilize phosphorus, produce growth-promoting phytohormones, and form protective
-biofilms around root surfaces. Bacterial-dominated soils are particularly important
 ## See Also
 
 - [[cannabis-living-soil-guide]]

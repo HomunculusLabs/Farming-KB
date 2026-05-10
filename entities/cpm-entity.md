@@ -54,7 +54,7 @@ was tired.
 
 ## Synthesis
 
-To a solution of 2.8 g homosyringonitrile (see under [[mescaline-entity]]
+To a solution of 2.8 g homosyringonitrile (see under [[mescaline]]
 itself, with a methyl group removed from an oxygen atom and a cyclopropylmethyl
 group put on instead. Might CPM be not only inactive, but actually block the
 action of mescaline? Interesting concept. But it turned out to be entirely

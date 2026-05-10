@@ -1,5 +1,5 @@
 ---
-title: [[coleman-greenhouse-summer-crops]] Interior [[silvopasture-systems-design-and-management]]
+title: [[coleman-greenhouse-summer-crops]] Interior silvopasture systems design and management
 source: raw/papers/eliot-coleman-winter-harvest-handbook.md
 tags: [winter-harvest, greenhouse-design, eliot-coleman, protected-cultivation, interior-layout]
 created: 2026-05-09

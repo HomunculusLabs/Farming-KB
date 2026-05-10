@@ -13,9 +13,9 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Sunset Sherbet blesching-cannabis-strain-selection-receptor-targeting Information." Leafly.com.
   - AllBud (2023). "Sunset Sherbet Strain Review." AllBud.com.
-  - ElSohly, M.A., et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613–619.
+  - ElSohly, M.A., et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613–619.
   - Gushwa, K. (2022). "The Cookie Family Lineage and Its Impact on Modern Cannabis." Cannabis Science Journal, 4(2).
-  - Mudge, E.M., et al. (2018). "Cannabis Chemotaxonomy: Chemotypes and [[cannabis-terpene-profiles-sativa]]." Phytochemistry, 150, 39–47.
+  - Mudge, E.M., et al. (2018). "Cannabis Chemotaxonomy: Chemotypes and cannabis-terpene-profiles-sativa." Phytochemistry, 150, 39–47.
 ---
 
 ## Overview

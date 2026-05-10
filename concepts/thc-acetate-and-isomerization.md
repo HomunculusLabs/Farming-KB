@@ -1,6 +1,6 @@
 ---
 
-title: cannabis-thc-acetate-preparation and Isomerization
+title: THC Acetate and Isomerization
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # THC Acetate and Isomerization
 
-Chemical modification techniques for cannabis extracts, documented in Ben Lemon's "[[lemon-cannabis-alchemy-advanced-refinement-techniques]]" (1979). These processes convert non-psychoactive cannabidiol (CBD) to psychoactive THC (isomerization) and further modify THC to produce THC acetate -- a compound approximately twice as potent with distinct psychoactive properties.
+Chemical modification techniques for cannabis extracts, documented in Ben Lemon's "Cannabis Alchemy" (1979). These processes convert non-psychoactive cannabidiol (CBD) to psychoactive THC (isomerization) and further modify THC to produce THC acetate -- a compound approximately twice as potent with distinct psychoactive properties.
 
 Related: [[cannabis-extraction-basics]], [[cannabis-hashish-guide]]
 
@@ -30,7 +30,7 @@ Related: [[cannabis-extraction-basics]], [[cannabis-hashish-guide]]
 
 ### Cannabidiol to THC (Isomerization)
 
-Cannabidiol (CBD) is a non-psychoactive cannabinoid that typically occurs in quantities at least equal to THC in most cannabis strains. Through acid-catalyzed cyclization, CBD can be converted to THC, potentially doubling or more the potency of [[cervantes-hash-cannabis-oil-production]].
+Cannabidiol (CBD) is a non-psychoactive cannabinoid that typically occurs in quantities at least equal to THC in most cannabis strains. Through acid-catalyzed cyclization, CBD can be converted to THC, potentially doubling or more the potency of cannabis oil.
 
 **Mechanism**: CBD contains an open ring structure. Under acidic conditions, a third ring closes, converting it to THC. Simultaneously, the THC can be converted from its lower-rotating to higher-rotating isomeric form, which produces a more psychedelic and spiritual effect.
 

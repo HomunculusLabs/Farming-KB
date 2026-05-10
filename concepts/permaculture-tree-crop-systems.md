@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Tree Crop Systems
 
-Tree crops form the backbone of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]], providing long-term yields of food, fodder, fuel, and habitat while building soil and modifying microclimate. Mollison treats tree crop systems as the successor to annual agriculture -- the stable, productive endpoint of [[holmgren-ecological-succession-and-pulsing]] guided by design.
+Tree crops form the backbone of permaculture design, providing long-term yields of food, fodder, fuel, and habitat while building soil and modifying microclimate. Mollison treats tree crop systems as the successor to annual agriculture -- the stable, productive endpoint of ecological succession guided by design.
 
 ## Principles of Tree Crop Systems
 
@@ -25,7 +25,7 @@ In permaculture, tree crops replace grain-based forage systems and field crops a
 
 Tree crop establishment follows a planned succession from pioneer species to mature productive systems:
 
-1. **Pioneer phase**: Fast-growing leguminous trees (Leucaena, Albizia, Acacia, Inga) establish canopy, [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], and begin soil building
+1. **Pioneer phase**: Fast-growing leguminous trees (Leucaena, Albizia, Acacia, Inga) establish canopy, fix nitrogen, and begin soil building
 2. **Transition phase**: Productive fruit and nut trees interplanted among pioneers; pioneers may be thinned or coppiced
 3. **Mature phase**: Multi-strata system with canopy trees, understory fruit, shrub layer, herbaceous groundcovers, and root crops
 
@@ -35,7 +35,7 @@ Nucleated planting -- establishing productive tree crop "nuclei" in degraded lan
 
 Tree crops and animals form integrated systems:
 
-- **Forage trees** (tagasaste, carob, [[permaculture-honey-locust-pod-fodder-system]], Leucaena) provide leaf protein for livestock
+- **Forage trees** (tagasaste, carob, honey locust, Leucaena) provide leaf protein for livestock
 - **Tree fodders** can be direct-grazed or cut-and-carried, extending the grazing season
 - **Silvopastoral systems** run cattle, sheep, or goats under widely-spaced canopy trees
 - **Poultry** range under orchard trees, controlling pests and recycling nutrients
@@ -47,7 +47,7 @@ In any tropical tree crop monoculture, Mollison warns, soil fungi and specific p
 - **Staple carbohydrate trees**: breadfruit, chestnut, oak (acorns), banana, plantain, sago palm
 - **Protein trees**: mesquite (pods), carob, honey locust, Leucaena
 - **Oil trees**: olive, avocado, macadamia, coconut, oil palm
-- **[[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]**: citrus, stone fruits, pome fruits, tropical fruits
+- **Fruit trees**: citrus, stone fruits, pome fruits, tropical fruits
 - **Nut trees**: walnut, pecan, almond, hazelnut, chestnut
 - **Fuel and timber**: coppice systems of fast-growing species
 
@@ -57,7 +57,7 @@ Tree crops serve as shelterbelts that modify microclimate for adjacent crops and
 
 ## Climate-Specific Strategies
 
-- **Humid tropics**: Maximize tree crop with herbaceous perennials (banana, papaya, [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]]) as understory; use multi-strata home gardens
+- **Humid tropics**: Maximize tree crop with herbaceous perennials (banana, papaya, sweet potato) as understory; use multi-strata home gardens
 - **Drylands**: Concentrate tree crops near water sources; use drought-adapted species; rely on deep-rooted perennials
 - **Temperate**: Combine deciduous fruit and nut trees with berry fruits, brambles, and pasture understory
 - **Cold climates**: Limited tree crop potential; focus on hardy fruit and nut species
@@ -66,30 +66,10 @@ Tree crops serve as shelterbelts that modify microclimate for adjacent crops and
 
 A more assured income from tree crops, coupled with wider market for relatively exotic vine crops, fruits, and nuts, has driven the transition from annual cropping to perennial systems. Tree crop associations and permaculture groups provide the plant materials and knowledge needed for establishment.
 
-## Related
-
-- [[permaculture-japanese-raisin-tree-hovenia-dulcis]] Concepts
+## Related Concepts
 
 - [[food-forest-design]] -- food forest as the highest expression of tree crop systems
 - [[permaculture-grazing-and-pasture]] -- integration of livestock under tree crops
 - [[permaculture-livestock-forage-systems]] -- tree fodder as a forage strategy
 - [[permaculture-woody-mulch-systems]] -- tree prunings as mulch resource
 - [[permaculture-settlement-design]] -- tree crops in village and community landscapes
-## Practical Considerations
-
-Successful implementation of Permaculture Tree Crop Systems requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

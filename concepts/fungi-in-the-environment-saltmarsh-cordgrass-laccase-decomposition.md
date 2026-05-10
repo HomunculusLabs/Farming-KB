@@ -115,13 +115,7 @@ Several important questions remain about this system:
 5. What is the relative contribution of laccase versus other enzymatic systems to total lignocellulose degradation in situ?
 
 ## See Also
-
-- [[fungal-pah-degradation-and-soil-bioremediation]] for fungal enzymatic capabilities
-- fungi-in-the-environment-soil-fungal-community-structure for fungal [[core-endorhiza-bacterial-community-composition-cannabis]]
-
-## See Also
-
-- saltmarsh-ascomycete-laccase-genes-in-lignocellulose-decomposition
+- [[fungal-pah-degradation-and-soil-bioremediation]]
 - [[decomposition]]
 - [[lignin-degradation]]
 - [[fungal-enzymatic-capabilities]]

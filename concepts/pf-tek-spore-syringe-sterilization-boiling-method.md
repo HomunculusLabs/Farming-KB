@@ -141,7 +141,6 @@ increasingly accessible.
 
 ## References
 
-- Psilocybe Fanaticus. PF TEK Simple Mushroom Cultivation.
 ## See Also
 - [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
 - [[mushroom-spore-syringe-preparation-inoculation]]

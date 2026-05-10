@@ -105,6 +105,10 @@ The rhizomes can be harvested sustainably as a **starch source** — they contai
 
 ## See Also
 
+- [[nymphaea-lotus]]
+
+- [[nymphaea-tetragona]]
+
 - [[nuciferine]]
 - [[entada-rheedii]]
 - [[silene-capensis]]

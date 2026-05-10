@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Rock-Inhabiting and Oligotrophic Fungi
 Rocks exposed to high solar radiation, extreme temperatures,

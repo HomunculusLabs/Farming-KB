@@ -2,8 +2,7 @@
 title: "mycelium running remediating toxic waste Waste with Fungi"
 created: 2026-04-26
 updated: "2025-04-23"
-sources:
-  sources: []
+sources: []
 type: concept
 tags: [mycelium, pollution, toxic]
 ---

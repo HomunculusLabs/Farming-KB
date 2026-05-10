@@ -17,7 +17,7 @@ marginal farmland have been planted to tagasaste, with an estimated 1.5
 million hectares that could benefit. It is a fast-growing, highly
 productive stock feed with exceptional drought tolerance.
 
-## Key [[det|Det]]ails
+## Key [[det]] ails
 
 ### Botany
 - **Family:** Fabaceae (Papilionaceae)
@@ -30,7 +30,7 @@ productive stock feed with exceptional drought tolerance.
 - [[leucaena-entity]]
 ## Practical Applications
 
-Chamaecytisus palmensis has a range of practical applications that make it relevant to
+chamaecytisus palmensis has a range of practical applications that make it relevant to
 both researchers and practitioners. Understanding these applications
 requires familiarity with the underlying principles and their
 manifestation in real-world contexts. The breadth of applications
@@ -70,7 +70,7 @@ enables more sustainable and successful long-term implementations.
 ## Common Challenges
 
 Practitioners commonly encounter several challenges when working with
-Chamaecytisus palmensis. These include both technical difficulties and broader systemic
+chamaecytisus palmensis. These include both technical difficulties and broader systemic
 issues that require adaptive management and creative problem-solving.
 Awareness of these common challenges enables more proactive planning
 and faster resolution when issues do arise during implementation.
@@ -105,3 +105,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
+
+See [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]] for more on Query How Does Cover Cropping Benefit Soil And When Should I Plant Them.
+See [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] for more on Query Can Bamboo Be Used As A Building Material And How Do I Get Started.

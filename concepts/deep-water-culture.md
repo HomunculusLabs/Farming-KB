@@ -2,8 +2,7 @@
 title: cannabis-deep-water-culture-guide (DWC) for Cannabis
 created: 2026-04-26
 updated: 2026-04-23
-sources:
-  sources: []
+sources: []
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [culture, water]

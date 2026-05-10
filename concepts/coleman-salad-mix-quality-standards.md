@@ -109,11 +109,6 @@ The salad mix program is never considered finished. Ongoing activities include:
 This commitment to continuous improvement reflects the broader philosophy that the winter harvest has endless potential and that growers are barely scratching the surface of what year-round protected cultivation can supply.
 
 ## See Also
-
 - [[coleman-baby-leaf-salad-mix-quality-standards]]
-
 - [[coleman-winter-greens-variety-selection]]
-
-## See Also
-
 - [[coleman-deep-organic-farming]]

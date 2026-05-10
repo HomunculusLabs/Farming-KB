@@ -31,9 +31,8 @@ requirements can inhibit or stop the process.
 ## Stage I: Preparation
 
 ## See Also
-
-- stamets-casing-layer-design
-- stamets-crop-watering-flushing-management
+- [[agaricus-bitorquis]]
+- [[pinhead-initiation-techniques]]
 
 ## Merged: Pinhead Initiation and Fruiting Triggers
 

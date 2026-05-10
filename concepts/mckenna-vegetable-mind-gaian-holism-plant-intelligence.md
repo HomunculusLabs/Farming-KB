@@ -135,11 +135,11 @@ anticipates the Gaian perspective by nearly two centuries.
 
 ## See Also
 
-- [Mckenna Archaic Revival](mckenna-archaic-revival.md)
-- [Mckenna Shamanic Meme](mckenna-shamanic-meme.md)
+- [[mckenna-archaic-revival|Mckenna Archaic Revival]]
+- [[mckenna-shamanic-meme|Mckenna Shamanic Meme]]
 - [Dominator [[dominator-culture-and-partnership-society]] Society](dominator-culture-and-partnership-society.md)
-- [Mckenna DMT Experience and Hyperspace](mckenna-dmt-experience-and-hyperspace.md)
-- [Mckenna Dissolution of the Dominator Culture](mckenna-dissolution-of-the-dominator-culture.md)
+- [[mckenna-dmt-experience-and-hyperspace|Mckenna DMT Experience and Hyperspace]]
+- [[mckenna-dissolution-of-the-dominator-culture|Mckenna Dissolution of the Dominator Culture]]
 - [[mckenna-vegetable-mind-and-gaian-holism]]
 - [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
 - [[psychedelic-plants-language-emergence-mckenna-synesthesia-hypothesis]]

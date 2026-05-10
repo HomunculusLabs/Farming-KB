@@ -61,7 +61,7 @@ The sect of the Phoenix consists of those individuals throughout history who hav
 this openness, who have been willing to undergo the experience and transmit knowledge of it
 despite persecution and ridicule. The persistence of mushroom and plant ceremonies across
 widely separated cultures, from the Amazon to Siberia to Mesoamerica, suggests a very ancient
-common origin for these practices. Until recently, [[emcdda-psilocybin-mushroom-dose-and-effects]] use was confined to the
+common origin for these practices. Until recently, [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] use was confined to the
 central isthmus of Mexico. [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]] is not known to be in archaic shamanic use
 anywhere in the world. DMT is used in the Amazon by cultures McKenna describes as "quite
 primitive, usually nomadic hunter-gatherers." The full potential of [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] as a

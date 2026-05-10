@@ -4,30 +4,29 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mycopesticides, biocontrol, entomopathogenic, fungi, mycology, ecology, pest-control, environment, biology, insects]
-sources: sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+sources: [raw/papers/mycelium-running-stamets.md]
 ---
 
 # Mycopesticides and Fungal Biocontrol
 
-Mycopesticides are fungi used as [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] agents against insect pests. [[singh-entomopathogenic-fungi-biocontrol-agents]] -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms.
+Mycopesticides are fungi used as biological control agents against insect pests. Entomopathogenic fungi -- fungi that attack and kill insects -- offer an ecologically rational alternative to chemical pesticides, causing negligible collateral damage to non-target organisms. (see [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]).
 
 ## The Problem with Chemical Pesticides
 
-Many chemical pesticides, especially organophosphates, harm non-targeted organisms, pollute water, and impair human health. Chemical pesticides permeate the food chain; most people on the planet accumulate these compounds and their derivatives in fatty tissues and bloodstream. The pesticide industry in the [[dmt-containing-plants-united-states-halpern]] is valued at $9 billion, with biopesticides accounting for about 5% ($450 million) but growing at 15% per year.
+Many chemical pesticides, especially organophosphates, harm non-targeted organisms, pollute water, and impair human health. Chemical pesticides permeate the food chain; most people on the planet accumulate these compounds and their derivatives in fatty tissues and bloodstream. The pesticide industry in the United States is valued at $9 billion, with biopesticides accounting for about 5% ($450 million) but growing at 15% per year. (see [[invasive-species-management]]).
 
 ## Key Entomopathogenic Fungi
 
 Thousands of species of fungi attack thousands of insect species. The most studied genera include:
 
 ### Metarhizium (especially M. anisopliae)
-A [[growing-gourmet-trichoderma-green-mold-management]] fungus highly prevalent in soils. Pathogenic to ants, termites, locusts, mosquitoes, and mites. Does not harm mammals, does not cause human allergies, and is limited in colony size. Some species of Cordyceps can sprout from insect carcasses killed by Metarhizium, demonstrating fungal dimorphism.
+A green mold fungus highly prevalent in soils. Pathogenic to ants, termites, locusts, mosquitoes, and mites. Does not harm mammals, does not cause human allergies, and is limited in colony size. Some species of Cordyceps can sprout from insect carcasses killed by Metarhizium, demonstrating fungal dimorphism.
 
 ### Beauveria (especially B. bassiana)
 A white mold fungus first observed in 1834 by Agustino Bassi causing muscardine disease in silkworms. This discovery preceded Pasteur's germ theory by decades. Widely used against agricultural and structural pests.
 
 ### Paecilomyces
-Hosting many white [[snow-mold-fungi-cold-temperature-plant-pathogens]] with broad insecticidal activity.
+Hosting many white mold fungi with broad insecticidal activity.
 
 ### Cordyceps
 A genus of fungi that includes species capable of behavioral manipulation of insects. Cordyceps lloydii, for example, infects carpenter ants and compels them to climb to the jungle canopy, where they lock their mandibles into a leaf and die. A mushroom then erupts from the carcass, releasing spores that disperse widely on wind currents.
@@ -64,24 +63,6 @@ This discovery led to U.S. Patent 6,660,290. The presporulating mycelium can be 
 
 ## See Also
 
-- [[cotter-mycoremediation-overview]]
+- [[mycoremediation-overview]]
 - [[paul-stamets]]
 - [[stamets-patents]]
-## Practical Considerations
-
-Successful implementation of Mycopesticides and Fungal Biocontrol requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

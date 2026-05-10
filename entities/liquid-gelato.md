@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Leafly Staff. (2023). "Liquid Gelato Strain Information." Leafly.com.
   - AllBud. (2024). "Liquid Gelato Cannabis Strain Review." AllBud.com.
-  - [[vic-high-cannabis-genetics-mendelian-inheritance]] Database. (2024). "Gelato Lineage and Descendants." Strainbank.com.
+  - vic-high-cannabis-genetics-mendelian-inheritance Database. (2024). "Gelato Lineage and Descendants." Strainbank.com.
   - Wikileaf. (2024). "Liquid Gelato Strain Report." Wikileaf.com.
 created: 2026-04-28
 ---
@@ -110,7 +110,7 @@ The sedating body effects make it a candidate for insomnia management, with pati
 ## See Also
 
 - [[girl-scout-cookies]]
-- [[biscotti-cannabis]]
+- [[biscotti-cannabis-strain]]
 - [[wedding-cake]]
 - [[gary-payton-cannabis]]
 - [[georgia-pie]]

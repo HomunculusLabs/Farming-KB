@@ -106,7 +106,7 @@ Wild parsnip is increasingly recognized as a model organism for studying plant-i
 ## See Also
 
 - [[daucus-carota]]
-- [[foeniculum-vulgare]]
+- [[foeniculum-vulgare-entity]]
 - [[petroselinum-crispum]]
 - [[anethum-graveolens]]
 - [[levisticum-officinale]]

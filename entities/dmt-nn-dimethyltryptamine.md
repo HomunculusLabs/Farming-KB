@@ -42,7 +42,7 @@ DMT is a structural analog of serotonin (5-hydroxytryptamine, 5-HT) and melatoni
 ## Pharmacology
 
 ### Mechanism of Action
-DMT acts primarily as a partial agonist at the serotonin 5-HT2A receptor, the same receptor subtype primarily responsible for the psychedelic effects of LSD, [[mescaline-entity|mescaline]]. However, DMT also shows significant binding affinity at several other receptor sites:
+DMT acts primarily as a partial agonist at the serotonin 5-HT2A receptor, the same receptor subtype primarily responsible for the psychedelic effects of LSD, [[mescaline|mescaline]]. However, DMT also shows significant binding affinity at several other receptor sites:
 
 - **5-HT2A:** Primary site of psychedelic action (Ki ≈ 0.084 µM)
 - **5-HT2C:** Modulates anxiety, appetite, and mood

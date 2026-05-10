@@ -13,12 +13,12 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kral, R. (1960). "A Revision of Asimina and Deeringothamnus (Annonaceae)."
-    Contributions from the [[dmt-containing-plants-united-states-halpern]] National Herbarium 34(1).
+    Contributions from the dmt-containing-plants-united-states-halpern National Herbarium 34(1).
   - Pomper, K.W. et al. (2009). "Pawpaw (Asimina triloba) Research and
     Development at Kentucky State University." HortScience 44(7): 1883–1887.
   - Moore, H.E. (2001). "Pawpaw: In Search of America's Forgotten Fruit."
     Chelsea Green Publishing.
-  - Peterson, L.A. (1977). "A [[ghouled-field-guide-historical-context]] to Edible Wild Plants." Houghton Mifflin.
+  - Peterson, L.A. (1977). "A ghouled-field-guide-historical-context to Edible Wild Plants." Houghton Mifflin.
 ---
 
 ## Overview

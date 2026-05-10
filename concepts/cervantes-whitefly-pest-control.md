@@ -5,7 +5,7 @@ tags: [cannabis, pest-control, whiteflies, integrated-pest-management, insects]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources: []
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
 

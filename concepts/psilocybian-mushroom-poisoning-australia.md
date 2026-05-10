@@ -87,11 +87,6 @@ hallucinogenic variety, but rather in picking and eating a toxic species which
 might resemble a hallucinogenic one.
 
 ## See Also
-
-- [[european-mushroom-poisoning-history]] -- comparative poisoning history
-- [[psychedelic-mushroom-set-and-setting]] -- factors influencing experiences
-
-## See Also
-
-- psilocybin-mushrooms-asia-australia-distribution
+- [[european-mushroom-poisoning-history]]
+- [[psychedelic-mushroom-set-and-setting]]
 - [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]

@@ -109,7 +109,6 @@ had been transformed into a major religious complex centered on the Telesterion,
 an immense pillared hall capable of holding thousands of initiates. The
 transition from a local agricultural cult to a pan-Hellenic institution was
 greatly accelerated when the Athenian tyrant Peisistratos incorporated the
-Mysteries into the civic and religious calendar of Athens in the sixth century
 ## See Also
 
 - [[eleusinian-mysteries-history-and-structure]]

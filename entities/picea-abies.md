@@ -134,8 +134,11 @@ significant diameter growth release.
 
 The bark beetle *Ips typographus* is the major pest, capable of killing
 extensive stands during outbreaks triggered by drought or storm damage.
-
 ## See Also
+
+- [[picea-engelmannii]]
+
+- [[picea-breweriana]]
 
 - [[picea-jezoensis]]
 

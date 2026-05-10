@@ -134,12 +134,6 @@ intelligence research, suggesting that [[savory-living-organisms-as-tools]] emit
 radiations that correlate with their vitality and life force.
 
 ## See Also
-
-- [[tompkins-kirlian-photography-plant-auras]] - [[tompkins-kirlian-photography-plant-auras]]
-  as another method of visualizing plant energy fields
-- [[plant-intelligence-and-communication]] - Broader context of plant
-  sensitivity research
-
-## See Also
-
+- [[tompkins-kirlian-photography-plant-auras]]
+- [[plant-intelligence-and-communication]]
 - [[tompkins-soil-health-humus-connection]]

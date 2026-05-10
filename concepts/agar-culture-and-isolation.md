@@ -9,7 +9,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-gromedicinal-mushroomsdicinal-mushrooms-s.md]
 ---
-# Agar Culture and Isolation Techniques Agar culture is the foundamushroom-cultivationhroom cultivation. Workimyceliummycelium on nutrient agar plates allows cultivators to isolate clean cultures, select for desirable traits, store genetics long-term, and expand inoculum without the genetic variability inherent to spore-based methods. Mastery of agar technique is the single most impactful skill upgrade for any mushroom cultivator. ## What Is Agar? Agar is a gelatinous substance derived from red algae. It serves as a solid growth medium when combined with nutrients and water. Agar melts at 185°F (85°C) and solidifies at approximately 100-110°F (38-43°C), allowing it to be sterilized as a liquid and poured into plates where it sets into a firm surface for [[malt-extract-agar]]Malt Extract Agar (MEA)
+# Agar Culture and Isolation Techniques Agar culture is the foundamushroom-cultivationhroom cultivation. Workimyceliummycelium on nutrient agar plates allows cultivators to isolate clean cultures, select for desirable traits, store genetics long-term, and expand inoculum without the genetic variability inherent to spore-based methods. Mastery of agar technique is the single most impactful skill upgrade for any mushroom cultivator. ## What Is Agar? Agar is a gelatinous substance derived from red algae. It serves as a solid growth medium when combined with nutrients and water. Agar melts at 185°F (85°C) and solidifies at approximately 100-110°F (38-43°C), allowing it to be sterilized as a liquid and poured into plates where it sets into a firm surface for [[malt-extract-agar]] Malt Extract Agar (MEA)
 
 The standard, most widely used recipe:
 - 10g light malt extract (DME)
@@ -53,7 +53,7 @@ for demanding species like *Ganoderma*.
 7. Seal and store at room temperature; use within 2-4 weeks or refrigerate
    (sealed in bags) for up to 2 months. Dehydrated plates should be discarded.
 
-[[contamination-identification]]on Identification and Elimination
+[[contamination-identification]] on Identification and Elimination
 
 Common agar contaminants and their appearance:
 
@@ -88,3 +88,6 @@ on species and grain type.
 
 - **Petri dishes**: 90mm disposable plastic or reusable glass. Pre-sterilized
   disposable plates eliminate a preparation step.
+
+See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
+See [[query-what-is-the-difference-between-grain-spawn-and-liquid-culture-for-mushrooms]] for more on Query What Is The Difference Between Grain Spawn And Liquid Culture For Mushrooms.

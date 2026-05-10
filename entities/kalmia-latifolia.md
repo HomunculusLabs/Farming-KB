@@ -13,7 +13,7 @@ sources:
   - Jaynes, R.A. (1988). "Kalmia: The Laurel Book." Timber Press.
   - USDA NRCS (2024). "Kalmia latifolia L. — Mountain Laurel." PLANTS Database.
   - Leach, W.J. (1962). "A Revision of the Genus Kalmia." Virginia Agricultural Experiment Station Bulletin 154.
-  - U.S. Forest Service (2024). "Silvics of [[psilocybin-north-america-pacific-northwest]]: Kalmia latifolia."
+  - U.S. Forest Service (2024). "Silvics of psilocybin-north-america-pacific-northwest: Kalmia latifolia."
 ---
 
 ## Overview
@@ -127,6 +127,8 @@ The species is relatively pest-free in cultivation, though lace bugs and leaf sp
 Its combination of evergreen foliage, attractive bark, and spectacular floral display makes it a versatile landscape plant.
 
 ## See Also
+
+- [[zornia-latifolia]]
 
 - gaultheria-procumbens
 - arctostaphylos-uva-ursi

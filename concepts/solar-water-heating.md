@@ -1,25 +1,23 @@
 ---
-title: mollison-designers-solar-water-heating-systems
+title: Solar Water Heating
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, energy, off-grid, engineering, water, sustainability]
-sources:
-  sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+sources: []
 ---
 
 # Solar Water Heating
 
-Solar water heating uses the sun's energy to heat water for domestic use,
+Solar water heating [[mollison-designers-solar-water-heating-systems]] uses the sun's energy to heat water for domestic use,
 reducing or eliminating the need for gas or electric water heating. A
-properly sized system can provide 50-80% of a household's hot water needs.
-This guide covers system types, [[holmgren-permaculture-twelve-design-principles-framework]], DIY construction, and
+properly sized system can provide 50-80% of a household's hot water [[mollison-designers-solar-water-heating-systems]] needs.
+This guide covers system types, design principles, DIY construction, and
 sizing for the homestead.
 
 ## Why Solar Water Heating
 
-- **Energy savings** — water heating accounts for 15-25% of [[mollison-designers-home-energy-conservation-and-solar-heating]] use
+- **Energy savings** — water heating accounts for 15-25% of home energy use
 - **Off-grid viability** — reduces generator run time or battery demand
 - **Simple technology** — fewer moving parts than PV systems; long lifespan
 - **Low maintenance** — annual inspection is typically sufficient
@@ -42,7 +40,7 @@ The simplest and cheapest solar water heater.
 - Simple to build — essentially a water tank in a box
 - No pumps, controllers, or moving parts
 - Passive operation — no electricity required
-- [[jadam-ultra-low-cost-agriculture]] ($200-500 DIY)
+- Low cost ($200-500 DIY)
 
 **Disadvantages:**
 - Heat loss overnight — water cools when sun is not shining
@@ -121,7 +119,7 @@ Estimate 15-20 gallons per person per day for a typical household.
 | 5-6 people | 60-80 |
 
 ### Collector Sizing
-Rule of thumb: 1 [[comparison-biointensive-vs-square-foot-gardening]] of collector area per gallon of daily hot
+Rule of thumb: 1 square foot of collector area per gallon of daily hot
 water demand in sunny climates; 1.5-2 square feet in moderate climates.
 
 For a family of 4 (60 gallons/day):
@@ -143,8 +141,10 @@ cloudy days. For 60 gallons/day demand, use an 80-120 gallon storage tank.
 In climates with freezing temperatures, freeze protection is essential:
 
 - **Drainback system** — water drains out of the collector when the pump
-## See Also
-- [[query-how-to-build-and-use-a-solar-food-dehydrator]]
-- [[mollison-designers-solar-water-heating-systems]]
-- [[query-how-to-build-a-passive-solar-greenhouse]]
-- [[query-how-do-i-save-water-in-a-vegetable-garden]]
+  stops; collector is empty when not producing heat
+- **Glycol loop** — antifreeze solution circulates through collector;
+  requires a double-walled heat exchanger for potable water safety
+- **Recirculation** — pump runs briefly to circulate warm tank water
+  through the collector during freezing conditions (wastes some heat)
+
+## Maintenance

@@ -18,7 +18,7 @@ Soil is the most speciose habitat for fungi on Earth, harboring an estimated div
 Fungal communities in soil are stratified by depth, corresponding to soil horizons:
 
 - **Organic horizons (O and A)**: The greatest density and diversity of fungi occurs in the organic layers where carbon inputs are highest. Saprotrophic fungi decomposing fresh litter dominate the O horizon, while more heavily decomposed material in the A horizon supports different assemblages.
-- **Mineral soil (B horizon)**: Fungal biomass decreases sharply with depth, but distinct communities persist. [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] fungi (AMF) and dark-septate endophytes are relatively more important in mineral horizons.
+- **Mineral soil (B horizon)**: Fungal biomass decreases sharply with depth, but distinct communities persist. Arbuscular mycorrhizal fungi (AMF) and dark-septate endophytes are relatively more important in mineral horizons.
 - **Deep soil and subsoil**: Even deep soil profiles harbor fungal communities, though biomass is low. Some species are specifically adapted to deep-soil conditions.
 
 ## Seasonal Variation
@@ -33,7 +33,7 @@ Molecular surveys using soil cores taken across seasons reveal that many species
 
 ## Sampling and Detection Challenges
 
-Soil fungi pose exceptional challenges for [[fungal-biodiversity-assessment-methods]]:
+Soil fungi pose exceptional challenges for biodiversity assessment:
 
 - Culture-based methods are strongly selective: fast-growing opportunists (e.g., Trichoderma, Penicillium, Aspergillus) dominate plates, while slow-growing or unculturable species are missed entirely
 - Many soil fungi exist as resting spores or sclerotia rather than active mycelium, complicating interpretation of "diversity" vs. "activity"
@@ -47,12 +47,12 @@ Soil fungi pose exceptional challenges for [[fungal-biodiversity-assessment-meth
 - **Mycorrhizal fungi**: Ectomycorrhizal and arbuscular mycorrhizal fungi forming symbioses with plant roots (see , [[mycorrhizal-fungi]])
 - **Endophytes**: Fungi inhabiting living root tissue asymptomatically
 - **Necrotrophic pathogens**: Fungi killing plant tissue and then decomposing it
-- **Fungal parasites and hyperparasites**: Fungi that attack other fungi, including mycoparasites used in [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]]
+- **Fungal parasites and hyperparasites**: Fungi that attack other fungi, including mycoparasites used in biological control
 - **Zoosporic fungi**: Chytrids and oomycetes (though the latter are not true fungi) that are aquatic or soil-dwelling spore producers
 
 ## Ecosystem Functions
 
-Soil fungi drive critical [[fungal-ecosystem-processes-overview]] including organic matter decomposition (see [[fungal-nutrient-cycling-mineral-transformations]]), nutrient mineralization (see [[fungal-nutrient-cycling-mineral-transformations]]), soil [[soil-aggregate-formation-fungal-contributions]] through hyphal binding, [[mycorrhizal-mineral-weathering-nutrient-acquisition]] (see [[fungal-nutrient-cycling-mineral-transformations]]), and plant-microbe interactions (see [[fungal-bacterial-interactions]]). The functional diversity of soil fungi is at least as important as their species diversity for ecosystem functioning.
+Soil fungi drive critical ecosystem processes including organic matter decomposition (see [[fungal-nutrient-cycling-mineral-transformations]]), nutrient mineralization (see [[fungal-nutrient-cycling-mineral-transformations]]), soil aggregate formation through hyphal binding, mineral weathering (see [[fungal-nutrient-cycling-mineral-transformations]]), and plant-microbe interactions (see [[fungal-bacterial-interactions]]). The functional diversity of soil fungi is at least as important as their species diversity for ecosystem functioning.
 
 ## Related Pages
 
@@ -63,21 +63,3 @@ Soil fungi drive critical [[fungal-ecosystem-processes-overview]] including orga
 - [[soil-fungi-biodiversity]]
 - [[fungi-soil-food-webs]]
 - [[fungal-biodiversity-tropical-ecosystems]]
-## Practical Considerations
-
-Successful implementation of Fungal Biodiversity in Soil Habitats requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

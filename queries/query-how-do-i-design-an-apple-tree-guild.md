@@ -5,7 +5,6 @@ tags: [query, permaculture, apple, guilds]
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: query
 ---

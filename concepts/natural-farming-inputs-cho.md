@@ -80,6 +80,6 @@ combinations and rates based on local conditions.
 
 ## See Also
 
-- [Nutritive Cycle Theory]([[cho-nutritive-cycle-theory]].md)
+- [[cho-nutritive-cycle-theory|Nutritive Cycle Theory]]
 - [[beneficial-indigenous-microorganisms-bim]] (IMO)](indigenous-microorganisms-imo.md)
 - [Cho's Natural [[fukuoka-do-nothing-farming-philosophy-and-practice]](cho-natural-farming-philosophy.md)

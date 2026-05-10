@@ -135,6 +135,8 @@ Calendula is a highly valued companion plant in permaculture and [[hamilton-geof
 
 ## See Also
 
+- [[galeopsis-tetrahit]]
+
 - [[achyranthes-aspera]]
 
 - [[valeriana-officinalis]]

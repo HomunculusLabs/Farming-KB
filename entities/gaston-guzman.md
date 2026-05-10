@@ -23,7 +23,7 @@ sources:
 
 # Gaston Guzman
 
-Mexican mycologist, world authority on the genus Psilocybe, and author of the definitive monograph on [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]].
+Mexican mycologist, world authority on the genus Psilocybe, and author of the definitive monograph on hallucinogenic mushrooms.
 
 ## Overview
 
@@ -32,7 +32,7 @@ Gaston Guzman is a Mexican mycologist widely regarded as the world's foremost au
 ## Key Contributions
 
 - **Psilocybe monograph:** Author of "The Genus Psilocybe: A Systematic Revision of the Known Species" (1983, revised), the definitive taxonomic treatment of the genus.
-- **Mexican neurotropic species:** Mexico has the highest number of [[mexico-center-neurotropic-fungal-biodiversity]] species (76 species, 44 Psilocybe = 39% of world total), largely documented through Guzman's decades of fieldwork in Oaxaca and other states.
+- **Mexican neurotropic species:** Mexico has the highest number of neurotropic fungal species (76 species, 44 Psilocybe = 39% of world total), largely documented through Guzman's decades of fieldwork in Oaxaca and other states.
 - **Sacred mushroom documentation:** Catalogued more than 200 common names for hallucinogenic fungi in Mexican Indian languages, including Nahuatl names like "teonanacatl" (divine mushroom), "apipiltzin" (little boy), and "teotlaquilnanacatl" (divine fungus).
 - **Voluntary intoxication experience:** In 1958, while sleeping in a room filled with freshly collected neurotropic Psilocybe specimens in Oaxaca, he experienced colored hallucinations from airborne psilocybin exposure — a remarkable account of passive intoxication.
 - **Co-authored worldwide distribution study:** With [[john-w-allen]] and [[jochen-gartz]], published the comprehensive 1998 study covering 216 neurotropic species.
@@ -54,7 +54,7 @@ Guzman has described numerous Psilocybe species including:
 
 ## Taxonomic Philosophy
 
-Guzman emphasized that wherever researchers study neurotropic species, they find new species — reflecting both the richness of tropical mycobiota and the incomplete state of fungal taxonomy. He maintained that Mexico's extraordinary diversity of [[challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification]] (76 species, 44 Psilocybe = 39% of world total) is primarily due to its varied [[mollison-climate-zones-permaculture-strategies]] and the depth of ethnographic documentation of indigenous mushroom use.
+Guzman emphasized that wherever researchers study neurotropic species, they find new species — reflecting both the richness of tropical mycobiota and the incomplete state of fungal taxonomy. He maintained that Mexico's extraordinary diversity of neurotropic fungi (76 species, 44 Psilocybe = 39% of world total) is primarily due to its varied climate zones and the depth of ethnographic documentation of indigenous mushroom use.
 
 ## Institutional Affiliations
 
@@ -67,32 +67,10 @@ Guzman was based at the Instituto de Ecología in Xalapa, Veracruz, Mexico. His 
 
 ## See Also
 
-- [[guzman-chlorophyllum-molybdites-toxic-edible-paradox-yoruba-divinatory-use]]
-
-- [[psilocybin-mushroom-chemistry]] — [[guzman-global-distribution-patterns-neurotropic-fungi]] data
+- [[psilocybin-mushroom-chemistry]] — Global distribution data
 - [[jochen-gartz]] — Co-researcher on distribution studies
 - [[john-w-allen]] — Co-researcher, Australia/New Zealand fieldwork
 - [[psychedelic-mushroom-history]] — Historical use of sacred mushrooms
-- [[r-gordon-wasson]] — Rediscovered [[gartz-wasson-mexican-mushroom-cult-rediscovery]] cults
+- [[r-gordon-wasson]] — Rediscovered Mexican mushroom cults
 
 See also: [[john-halpern]] — harvard psychiatrist researching hallucinogen pharmacology.
-- [[guzman-ganoderma-lobatum-church-cult-chignahuapan-puebla]]
-
-## Practical Considerations
-
-Successful implementation of Gaston Guzman requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

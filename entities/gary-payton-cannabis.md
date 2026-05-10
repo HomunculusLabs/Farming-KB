@@ -129,5 +129,5 @@ Common side effects are typical of high-THC hybrid strains but may be more prono
 
 - [[gelato]] — closely related Cookies-family hybrid with similar terpene complexity
 - [[ice-cream-cake-cannabis]] — indica-heavy Cookies descendant with dessert terpenes
-- [[jealousy]] — Cookies-family cross with gassy terpene profile
+- [[jealousy-cannabis-strain-entity]] — Cookies-family cross with gassy terpene profile
 - [[tree-of-knowledge-and-forbidden-fruit-theory]] — gassy, fruity hybrid sharing terpinolene dominance

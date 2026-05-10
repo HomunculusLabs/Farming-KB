@@ -117,6 +117,12 @@ Lady's mantle is essentially maintenance-free once established. Cutting back spe
 
 ## Related
 
+- [[barbarea-vulgaris]]
+- [[carlina-vulgaris]]
+- [[encalypta-vulgaris]]
+- [[loligo-vulgaris]]
+- [[octopus-vulgaris]]
+
 - [[prunella-vulgaris]]
 - [[pulsatilla-vulgaris]]
 - [[artemisia-vulgaris-entity]] Species and Allies

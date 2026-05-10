@@ -142,7 +142,6 @@ Conversely, in tropical lowland climates where temperatures never drop below
 insufficient winter chilling stimulus.
 
 ## Soil Requirements and Site Selection
-
 ## See Also
 
 - [[banana-and-plantain-cultivation-and-variety-guide]]

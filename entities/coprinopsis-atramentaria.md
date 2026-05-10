@@ -14,8 +14,8 @@ sources:
   - Ulrich, B. (2014). "Morphological and molecular phylogenetic data support the recognition of Coprinopsis atramentaria." Mycotaxon 129(2): 341-354.
   - Kühner, R. (1936). "Le genre Coprinus." Encyclopédie Mycologique 7: 1-280.
   - Redhead, S.A., Vilgalys, R., Moncalvo, J.M., Johnson, J., Hopple, J.S. (2001). "Coprinus Pers. and the disposition of Coprinus species sensu lato." Taxon 50(1): 203-241.
-  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms." Knopf.
-  - Bresinsky, A., Besl, H. (1990). "A Colour Atlas of [[ramsbottom-poisonous-fungi-identification-guide]]." Wolfe Publishing.
+  - Lincoff, G.H. (1981). "National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms." Knopf.
+  - Bresinsky, A., Besl, H. (1990). "A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide." Wolfe Publishing.
 created: 2026-04-28
 ---
 

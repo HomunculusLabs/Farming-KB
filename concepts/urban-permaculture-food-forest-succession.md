@@ -119,6 +119,6 @@ Urban food forests follow the same principles at smaller scale:
 The goal is a landscape that feeds you through every season, with preservation strategies filling the gaps between fresh harvests. Diversity ensures that no single crop failure causes food insecurity.
 
 ## See Also
-- [[root-vegetable-growing-guide-carrots-beets-turnips-parsnips-radishes]]
+- root vegetable growing guide carrots beets turnips parsnips radishes
 - [[comparison-sheet-mulching-vs-chop-and-drop]]
 - [[gaias-garden-cover-crops-soil-building]]

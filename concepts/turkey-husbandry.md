@@ -22,7 +22,7 @@ faster but cannot breed naturally.
 - The standard commercial turkey. Reaches 20-40 lbs in 16-20 weeks.
 - Cannot breed naturally (too heavy to mate). Requires AI for reproduction.
 - Feed conversion: 2.5-3.0 lbs feed per lb of gain (very efficient).
-- Prone to leg problems, heart attacks, and [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] at large sizes.
+- Prone to leg problems, heart attacks, and heat stress at large sizes.
 - White feathers — clean-looking carcass.
 - Best for: one-time harvest, maximum efficiency, lowest feed cost per pound.
 
@@ -110,7 +110,7 @@ faster but cannot breed naturally.
 - Heritage turkeys are excellent foragers and can meet 20-40% of their
   needs on good pasture.
 - They eat grass, clover, insects, seeds, and small rodents.
-- Turkeys in orchards provide [[knf-pest-control-and-soap-water]] fertilization.
+- Turkeys in orchards provide pest control and fertilization.
 - Broad-breasted turkeys forage less and rely more on grain.
 
 ### Supplements
@@ -143,8 +143,8 @@ faster but cannot breed naturally.
 
 ## Breeding
 
-## See Also
-- [[mollison-geese-grass-control-and-integrated-poultry]]
-- [[animal-harvest-and-processing]]
-- [[query-do-beans-and-peas-feed-nearby-plants-with-nitrogen]]
-- [[query-how-do-i-use-black-soldier-flies-for-composting-and-animal-feed]]
+- Heritage turkeys breed naturally. Broad-breasted require AI.
+- Turkey breeding season: March-June, triggered by increasing daylength.
+- Toms display (strut, fan tail, gobble) to attract hens.
+- Mating ratio: 1 tom per 8-10 hens.
+- Hens lay 10-15 eggs per clutch, may lay 40-100 per season.

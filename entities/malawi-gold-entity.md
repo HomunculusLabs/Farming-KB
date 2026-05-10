@@ -144,5 +144,5 @@ Malawi Gold has been used extensively as breeding stock:
 
 - [[cannabis-sativa]] — Species-level overview of sativa cannabis
 - thai-stick-entity — Southeast Asian landrace with similar flowering traits
-- [[purple-haze]] — Landrace hybrid central to modern sativa genetics
+- [[purple-haze-cannabis]] — Landrace hybrid central to modern sativa genetics
 - [[4-ho-dpt-entity-tihkal]]

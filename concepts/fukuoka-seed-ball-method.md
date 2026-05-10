@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [fukuoka, seed-balls, no-till, natural-farming, propagation]
 date: 2026-04-27
 updated: 2026-04-27
-sources: sources:
+sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -131,3 +131,7 @@ saves enormous labor while achieving results that often surpass conventional
 methods. The technique has been adopted by permaculture-grain-crops designers, and [[clay-seed-balls-tsuchi-dango]]
 - [[fukuoka-straw-mulch-system]]
 - [[no-till-grain-strategy]]
+
+## See Also
+
+- [[fukuoka-desert-greening-seed-ball-method]]

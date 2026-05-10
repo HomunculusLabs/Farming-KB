@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/field-guide-to-the-psilocybin-mushroom.md
 
 # Panaeolus subbalteatus
 
-**Panaeolus subbalteatus** (syn. **Panaeolina subbalteata**, also known as **Panaeolus cinctulus** following modern taxonomic revision) is a widely distributed psilocybin-containing mushroom. It is one of the most commonly encountered psychoactive species in temperate regions, often found in lawns, compost piles, and pastures. It was one of three species featured in F.C. Ghouled's 1972 *[[ghouled-field-guide-historical-context]] to the [[emcdda-psilocybin-mushroom-dose-and-effects]]* alongside *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and *Psilocybe caerulescens*.
+**Panaeolus subbalteatus** (syn. **Panaeolina subbalteata**, also known as **Panaeolus cinctulus** following modern taxonomic revision) is a widely distributed psilocybin-containing mushroom. It is one of the most commonly encountered psychoactive species in temperate regions, often found in lawns, compost piles, and pastures. It was one of three species featured in F.C. Ghouled's 1972 *[[ghouled-field-guide-historical-context]] to the [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]* alongside *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* and *Psilocybe caerulescens*.
 
 ## Taxonomy and Classification
 

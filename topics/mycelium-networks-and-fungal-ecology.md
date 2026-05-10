@@ -140,7 +140,6 @@ Prototaxites remained a taxonomic mystery for nearly 150 years until Kevin
 Boyce and colleagues demonstrated in 2007 that it was, in fact, a giant
 fungus.
 
-## The Four Ecological Roles of Fungi
 ## See Also
 
 - [[query-how-does-mycorrhizal-network-communication-work-between-plants]]

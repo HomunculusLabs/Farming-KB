@@ -15,7 +15,7 @@ sources:
   - Mori, S.A. & Prance, G.T. (1990). "Taxonomy, ecology, and economic botany of the Brazil nut tree (Bertholletia excelsa)." Advances in Economic Botany, 8, 130-150.
   - Kainer, K.A. et al. (2007). "Liana loads and their association with Bertholletia excelsa fruit and nut production in a central Amazonian forest." Journal of Tropical Ecology, 23(1), 69-79.
   - Myers, G.P. et al. (2004). "Brazil nuts and associated health benefits." Journal of Agricultural and Food Chemistry, 52(21), 6564-6570.
-  - Peres, C.A. et al. (2003). "Demographic threats to the sustainable extraction of Brazil nuts." [[mycelium-running-conservation-biology-and-fungi]], 17(5), 1222-1232.
+  - Peres, C.A. et al. (2003). "Demographic threats to the sustainable extraction of Brazil nuts." mycelium-running-conservation-biology-and-fungi, 17(5), 1222-1232.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:639788-1
 created: 2026-04-28
 ---

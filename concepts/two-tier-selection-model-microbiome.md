@@ -1,150 +1,134 @@
 ---
-title: Two-Tier Selection Model for Root [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
-source: understanding-cultivar-specificity-cannabis-microbiome.md
-tags: [microbiome, cannabis, rhizosphere, soil-science]
+title: Two-Tier Selection Model (Microbiome)
+aliases:
+  - two-tier selection [[cannabis-microbiome-agricultural-implications-and-future-directions]]
+  - sequential filtering root microbiome
+  - soil-plant selection model microbiome
+tags:
+  - microbiome
+  - ecological-theory
+  - plant-microbe-interactions
+  - cannabis
+  - rhizosphere
+  - endorhiza
 created: 2026-05-09
+source: Winston ME et al. (2014) PLoS ONE 9(6): e99641
 ---
 
-# Two-Tier Selection Model for Root Microbiome Assembly
+## Overview
 
-The two-tier selection model is a [[holmgren-permaculture-flower-conceptual-framework]] for understanding how
-root-associated [[edaphic-factors-microbial-communities]] are assembled in plants. Originally proposed
-by Bulgarelli et al. (2013) and informed by earlier work from Garbeva et al.
-(2004) and Berg & Smalla (2009), the model describes a two-step filtering
-process that determines which bacteria colonize the plant root interior, known
-as the endorhiza. The model has become a foundational concept in plant
-microbiome ecology, and the Winston et al. (2014) study on Cannabis provided
-one of the early empirical tests of its key predictions in a commercially and
-medicinally important crop species.
+The two-tier selection model describes how root-associated [[cannabis-endorhiza-bacterial-communities]] are
+assembled through two sequential filtering processes: first by soil environmental
+conditions (edaphic filtering), and second by host plant genotype (plant filtering).
+This model was articulated based on findings from the first comprehensive survey of the
+cannabis (Cannabis sativa L.) microbiome by Winston et al. (2014), which examined
+endophytic (endorhiza), rhizosphere, and bulk soil bacterial communities across five
+cultivars and multiple soil types.
 
-## Tier 1: Edaphic (Soil) Factors Set the Available Microbial Pool
+The model provides a framework for understanding why root microbiomes vary across
+environments and genotypes, with implications for microbiome engineering
+and precision agriculture. It predicts that management of soil conditions determines the
+pool of candidate root-colonizing bacteria, while host genetics determines the final
+composition of the root interior community.
 
-The first tier of selection is driven by [[edaphic-factors-microbial-community-structure]] — the physicochemical
-properties of soil that shape microbial [[core-endorhiza-bacterial-community-composition-cannabis]]. These factors
-include pH, nitrogen content, salinity, organic carbon concentration, water
-content, and soil texture. Together, these variables determine the composition
-and diversity of the local soil microbiota. In essence, the soil environment
-acts as a coarse filter: only microbes capable of surviving and persisting under
-the prevailing soil conditions will be present in the community. This means
-that the bulk soil microbiome serves as the foundational pool from which
-rhizosphere and [[cannabis-rhizosphere-endorhiza-communities]] are ultimately drawn.
+## The Two Tiers
 
-The importance of edaphic factors as the primary filter was strongly supported
-by the Winston et al. study. When principal coordinate analysis (PCoA) was
-performed on [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances from the second experiment, soil type
-was the main determinant of PC1, accounting for 32.06% of the variance. This
-result demonstrates that soil properties exert the strongest control over which
-microbial taxa are present across all sample types, including bulk soil,
-rhizosphere, and endorhiza. The soil sets the boundaries of microbial
-possibility, establishing the composition of the pool of candidate organisms
-available for subsequent colonization of plant root surfaces and interior
-tissues.
+### Tier 1: Soil Determination (Edaphic Filtering)
 
-## Tier 2: Host Genotype Selects the Endorhiza Community
+The first tier of selection is governed by soil physicochemical properties. Soil type
+was the dominant factor explaining [[core-endorhiza-bacterial-community-composition-cannabis]] composition across all sample
+compartments in the Winston et al. study. PERMANOVA analysis revealed that soil type
+accounted for 690 significant OTUs by weighted UniFrac and 657 by [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
+— far exceeding the effects of sample type (51/11) or cultivar (71/0).
 
-The second tier of selection occurs when microbes transition from the
-rhizosphere into the root interior, the endorhiza. At this stage, host genotype
-becomes the dominant factor shaping [[edaphic-determinants-cannabis-microbiome-community-structure]]. The plant exerts
-selective pressure through the production of root exudates, secondary
-metabolites, antimicrobial compounds, and host-specific receptor-ligand
-interactions. Only those microbes from the rhizosphere pool that can tolerate
-or exploit the endorhiza environment will successfully colonize root tissues.
+This first tier operates broadly and non-specifically. It determines the overall taxonomic
+composition of the available microbial pool from which rhizosphere and endorhiza
+communities are drawn. Key edaphic drivers include:
 
-In the Cannabis study, this second tier was clearly demonstrated in the
-weighted UniFrac analysis of the second experiment, where Cannabis strain was
-the main determinant of PC1, accounting for 34.51% of the variance. This shows
-that while soil determines which microbes are available, the plant's genotype
-determines their relative abundances within the root interior. The second tier
-acts as a fine-tuning mechanism that produces cultivar-specific endorhiza
-communities from a shared soil-derived microbial pool. This distinction between
-composition and abundance is critical to understanding the model.
+- **Nitrogen:** The strongest individual edaphic correlate of [[edaphic-determinants-cannabis-microbiome-community-structure]]
+  (r-stat: 0.465, weighted UniFrac). Both total nitrogen content and nitrogen form
+  (ammonium vs. nitrate) influence which taxa can persist.
+- **Soil pH:** A well-established master variable in soil microbiology that affects
+  [[ph-and-nutrient-availability-garden-soils]] and directly constrains microbial physiology.
+- **Organic matter:** Drives overall microbial biomass and provides substrate diversity
+  that supports heterogeneous communities.
+- **Mineral composition and texture:** Affects water [[pf-tek-vermiculite-type-comparison-water-holding-capacity]], aeration, and
+  root-soil contact, indirectly shaping microbial habitat structure. Bulk soil,
+rhizosphere, and [[cannabis-rhizosphere-endorhiza-communities]] are all influenced by the same edaphic conditions,
+meaning that soil type creates a shared microbial foundation upon which subsequent
+selection processes operate.
 
-## Predicted Decrease in Acidobacteria
+### Tier 2: Host Cultivar Selection (Plant Filtering)
 
-The two-tier selection model makes specific predictions about how phylum-level
-taxonomic abundances should change as [[soil-edaphic-factors-microbial-communities]] transition from bulk
-soil through the rhizosphere and into the endorhiza. One of the clearest
-predictions is a dramatic reduction in Acidobacteria abundance within the
-endorhiza compared to bulk soil and rhizosphere. Acidobacteria are typically
-oligotrophic organisms adapted to nutrient-poor soil environments. The root
-interior, by contrast, is a comparatively nutrient-rich environment shaped by
-plant-derived carbon compounds and exudates. The metabolic strategies that make
-Acidobacteria successful in bulk soil may be maladaptive in the copiotrophic
-conditions of the endorhiza.
+The second tier of selection is driven by host plant genotype. Within the endorhiza
+(root interior), cultivar-specific effects became significant: 71 OTUs differed between
+strains by weighted UniFrac analysis. While this effect was smaller than soil type, it
+was nonetheless statistically significant and biologically meaningful.
 
-The Cannabis study confirmed this prediction directly. Acidobacteria from the
-order iii1-15 showed the most significant decrease in endorhiza samples, with a
-Bonferroni-corrected ANOVA p-value of 1.12e-7. This was the single most
-significant OTU abundance difference between sample types in the entire study,
-providing strong support for this key prediction of the two-tier model.
+Importantly, the second tier operates primarily through abundance modulation rather than
+presence/absence filtering. Zero OTUs differed between strains by unweighted UniFrac,
+meaning all cultivars shared the same set of endorhiza taxa but differed in the relative
+abundance of those taxa. This distinction has important implications: it means that
+cultivar-specificity is a matter of degree rather than kind, with plant immune responses,
+root exudate profiles, and tissue architecture collectively shifting the competitive
+balance among soil-derived taxa.
 
-## Predicted Increase in Proteobacteria and Actinobacteria
+The second tier is most pronounced in the endorhiza, where host control is strongest.
+In the rhizosphere, plant effects are detectable but weaker. In bulk soil, plant
+effects are minimal or absent.
 
-Conversely, the model predicts an increase in Proteobacteria and Actinobacteria
-within the endorhiza. These groups include many copiotrophic and facultative
-endophytic species that are well-adapted to the carbon-rich environment of root
-tissues. Many Proteobacteria are known to form intimate associations with plant
-roots, including nitrogen-fixing Rhizobiales and plant growth-promoting
-Pseudomonadales. Actinobacteria similarly include many common endophytic genera
-known to produce antibiotics and growth-promoting compounds.
+## Evidence from Cannabis
 
-The Winston et al. study confirmed this prediction as well, showing increased
-relative abundances of both Proteobacteria and Actinobacteria in endorhiza
-samples relative to bulk soil and rhizosphere samples. Of the 51 OTUs that
-significantly differentiated sample types, the 17 that increased in abundance
-within the [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] were predominantly Proteobacteria, including
-several from the Rhizobiales order. This pattern aligns with observations from
-other plant systems, including poplar and Arabidopsis.
+The two-tier model is supported by several lines of evidence from the Winston et al.
+study:
 
-## Evidence from OTU-Level Analyses
+### Experiment 1: Uniform Soil, Multiple Cultivars
+Burmese, Bookoo Kush, and Sour Diesel were grown in a single soil type. This design
+isolated the second tier ([[cannabis-cultivar-effects-soil-microbiome]]) by holding the first tier constant. The
+study found significant cultivar-specific differences in endorhiza communities despite
+identical soil conditions, demonstrating that host genotype can reshape community
+structure even when the source microbial pool is uniform.
 
-The number of significant OTUs by category provided further evidence supporting
-the two-tier model. Soil type produced 657 significant unweighted
-(presence/absence) OTU differences and 690 weighted (abundance) differences.
-Strain, by contrast, produced zero significant unweighted OTU differences but
-71 significant weighted differences. This means that [[cannabis-cultivar-effects-soil-microbiome]] does not
-determine which microbes are present in the endorhiza — those are set by soil —
-but it does significantly influence how abundant each microbe becomes once
-inside the root. This is precisely what the two-tier model predicts: edaphic
-factors control the pool of available organisms, while host genotype controls
-their relative success within the endorhiza niche.
+### Experiment 2: Two Cultivars, Two Soils
+White Widow and Maui Wowie were each grown in two different soil types. This design
+tested both tiers simultaneously. Results confirmed that soil type was the primary
+determinant of overall community composition (first tier), but that within each soil,
+cultivar-specific patterns were detectable in the endorhiza (second tier).
 
-## Endorhiza Communities Share More OTUs with Their Own Soil
+### Weighted vs. Unweighted UniFrac Patterns
+The contrasting patterns between weighted and unweighted UniFrac analyses provided
+mechanistic insight into how the two tiers operate. Soil type produced significant
+differences in both metrics (690 weighted, 657 unweighted), indicating that soil
+changes both which taxa are present and their relative abundances. Cultivar effects,
+by contrast, were significant only in the weighted metric (71 OTUs, 0 unweighted),
+indicating that plants primarily modulate abundances of already-present taxa.
 
-A key testable prediction of the two-tier model is that endorhiza communities
-should share more OTUs with the soil in which the plant is grown than with a
-different soil. This prediction follows logically from the model: if bulk soil
-is the source pool for endorhiza colonists, then plants grown in different
-soils should recruit different subsets of available microbes, even when the
-plant genotype is held constant.
+### OTU Sharing Analysis
+Endorhiza communities shared significantly more OTUs with their own native soil than
+with foreign soil (t = -10.05, p = 1.2e-15), confirming that the local soil microbial
+pool (established by Tier 1) serves as the recruitment source for root-colonizing
+bacteria, which are then differentially filtered by the host (Tier 2).
 
-This was tested in the second experiment using White Widow plants grown in two
-different soil types (MB and OC). The results strongly supported the model.
-Endorhiza communities shared significantly more OTUs with their own soil (mean =
-2934 shared OTUs) than with the other soil in which the same cultivar was grown
-(mean = 2162 shared OTUs). This difference was highly significant (t = -10.05,
-p = 1.209e-15). This finding confirms that the bulk soil is indeed the
-putative source of endophytic microbes, and that each soil type provides a
-distinct microbial inoculum for the plant.
+## Comparison with Other Models
 
-## Limitations and Unresolved Questions
+The two-tier selection model is consistent with and complementary to other frameworks
+in plant microbiome ecology:
 
-While the study supported many predictions of the two-tier model, not all
-aspects were fully validated. The model predicts that rhizosphere communities
-should be intermediate between bulk soil and endorhiza, representing the first
-differentiation step driven by rhizodeposition. However, beta-diversity
-distances between rhizosphere and endorhiza were not significantly different
-from distances between bulk soil and endorhiza in some analyses. The authors
-suggested that post-harvest sampling in the first experiment may have obscured
-this signal, since plant tissues were undergoing senescence and decay.
+- **The rhizosphere effect** describes the general enrichment and selection that occurs
+  in the root zone; the two-tier model explains the hierarchical structure of this
+  effect across compartments.
+- **Core microbiome concepts** identify taxa that are consistently associated with a
+  host species across environments; the two-tier model explains how a core community
+  can persist despite strong soil-driven variation.
+- **Host genetic control models** emphasize the role of plant genes in microbiome
+  assembly; the two-tier model adds the important caveat that genetic effects are
+  secondary to and constrained by soil conditions.
 
-## Key References
+## Implications for Cultivation
 
-- Bulgarelli D, Schlaeppi K, Spaepen S, et al. (2013) Structure and Functions
-  of the Bacterial Microbiota of Plants. Annu Rev Plant Biol.
-- Garbeva P, van Veen JA, van Elsas JD (2004) Microbial diversity in soil.
-  Ann Rev Phytopathol.
-- Berg G, Smalla K (2009) Plant species and soil type cooperatively shape
-  microbial communities. FEMS Microbiol Ecol.
-- Winston ME, et al. (2014) Understanding Cultivar-Specificity and Soil
-  Determinants of the [[cannabis-microbiome-cultivar-specificity]]. PLoS ONE 9(6): e99641.
+The two-tier model suggests a hierarchical approach to microbiome management in cannabis
+cultivation. First, soil conditions should be optimized to establish a diverse and
+beneficial microbial foundation. Second, cultivar selection can be used to fine-tune
+the [[proteobacteria-dominance-cannabis-endorhiza-community]]. Attempting to manage the endorhiza community without attention
+to soil conditions will have limited success, as the first tier constrains the range of
+possible outcomes at the second tier.

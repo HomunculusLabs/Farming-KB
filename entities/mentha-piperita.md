@@ -8,16 +8,16 @@ tags:
   - medicinal-herb
   - culinary-herb
   - essential-oil
-  - menthol
-  - permaculture
+  - [[menthol]]
+  - [[permaculture]]
   - companion-planting
 date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Grieve, M. (1931). A Modern Herbal. Jonathan Cape."
   - "McClintock, E. (1970). A Monograph of the Genus Mentha."
-  - "Salem, M. (2015). Mentha piperita. In: [[childrens-herbal-medicine]]. Springer."
-  - "Mimica-Dukic, N. & Bozin, B. (2008). [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]. In: Medicinal and Aromatic Plants."
+  - "Salem, M. (2015). Mentha piperita. In: childrens-herbal-medicine. Springer."
+  - "Mimica-Dukic, N. & Bozin, B. (2008). comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap. In: Medicinal and Aromatic Plants."
 ---
 
 # Mentha piperita
@@ -27,7 +27,7 @@ sources:
 Mentha piperita (peppermint) is a sterile natural hybrid of
 watermint (*M. aquatica*) and spearmint (*M. spicata*), among
 the most widely cultivated aromatic herbs. Valued for high
-menthol content, [[ginseng-cultivation-and-medicinal-properties]], and culinary
+menthol content, ginseng calendula cultivation and medicinal uses properties, and culinary
 versatility. The global [[permaculture-designers-manual-essential-oil-plants]] industry exceeds several
 thousand tonnes annually, with major production in the US,
 India, and Eastern Europe. A sterile allotetraploid (2n = 72),

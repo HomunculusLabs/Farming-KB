@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Jennings, D.L. (1988). "Raspberries and Blackberries: Their Breeding, Diseases and Growth." Academic Press.
   - Hall, H.K. et al. (2009). "Blackberries." In: "The Encyclopedia of Fruit and Nuts." CABI.
-  - dos Santos, P.H. et al. (2021). "Chemical composition and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of blackberries (Rubus spp.)." Food Research International, 140, 109917.
+  - dos Santos, P.H. et al. (2021). "Chemical composition and query-what-are-the-main-bioactive-compounds-in-medicinal-plants of blackberries (Rubus spp.)." Food Research International, 140, 109917.
   - Sarma, A.D. & Sharma, R. (1999). "Anthocyanin-DNA Copigmentation Complexes." Journal of Biosciences, 24(1), 37-41.
 ---
 
@@ -105,6 +105,8 @@ Birds are the primary dispersal agents for blackberry seeds, with thrushes, blac
 The dense, thorny canopy structure of mature bramble thickets offers nesting sites and protective cover for small mammals, songbirds, and invertebrates. In agricultural landscapes, blackberry hedgerows serve as biological corridors connecting fragmented habitats.
 
 ## See Also
+
+- [[rubus-chamaemorus]]
 
 - [[vaccinium-myrtillus]]
 - rosa-canina

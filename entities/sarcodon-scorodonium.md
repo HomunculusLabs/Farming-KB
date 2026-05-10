@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Maas Geesteranus, R.A. (1971). \"Hydnaceae of Europe.\" Persoonia, 6, 387-441."
   - "Binder, M. & Hibbett, D.S. (2006). \"Molecular systematics of the Boletales.\" Mycologia, 98(6), 969-980."
-  - "Stamets, P. (2005). [[woodlovers-mycelium-running-pathway-technique]]: How Mushrooms Can Help Save the World. Ten Speed Press."
+  - "Stamets, P. (2005). woodlovers-mycelium-running-pathway-technique: How Mushrooms Can Help Save the World. Ten Speed Press."
   - "Nauta, M.M. (2004). \"Sarcodon in the Netherlands.\" Coolia, 47(2), 45-67."
 ---
 

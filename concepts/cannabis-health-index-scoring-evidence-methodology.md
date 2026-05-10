@@ -21,7 +21,7 @@ type: concept
 
 The Cannabis Health Index (CHI) is an evidence-based scoring framework developed by [[endocannabinoid-system-overview]] - Endocannabinoid system science
 - [[cannabis-endocannabinoid-system]] - Comprehensive ECS overview
-- [[cannabis-health-endo-cannabinoid-system]] - Endocannabinoid system details
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] - Endocannabinoid system details
 ## Practical Applications
 
 Cannabis Health Index [[blesching-cannabis-chi-scoring-evidence-based-medicine]] Methodology has a range of practical applications that make it relevant to
@@ -99,3 +99,7 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
+
+## See Also
+
+- [[cannabis-health-index-methodology]]

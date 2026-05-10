@@ -113,6 +113,11 @@ The catalytic hydrogenolysis step using palladium on carbon is also well-establi
 
 ## See Also
 
+- [[pf-tek-stamets-dosage-reference-psilocybin-potency-guidelines]]
+- [[psilocybin-mushroom-prevalence-europe]]
+- [[psilocybin-potency-factors-cultivated-wild-mushrooms-gartz]]
+- [[psilocybin-psilocin-ratio-dynamics-flushes-bigwood-beug]]
+
 - [[psilocybin-synthesis]]
 
 - [[shirota-psilocin-psilocybin-large-scale-synthesis-pathway]]

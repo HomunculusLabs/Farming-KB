@@ -1,5 +1,5 @@
 ---
-title: "Casing Soil sterilization|Sterilization Versus Pasteurization Debate"
+title: "[[casing-soil-peat-vermiculite-marl-sterilized-recipe-preparation|Casing]] Soil sterilization|Sterilization Versus Pasteurization Debate"
 tags:
   - casing-soil
   - sterilization
@@ -114,7 +114,7 @@ Once sterilized and cooled:
 - **Layer depth**: 1.5–2.0 cm of casing soil on colonized substrate.
 - **Surface texture**: Rough and even — do not compact or smooth. An uneven
   surface provides more micro-climate variation for pin formation.
-- **Tray size**: 1 L disposable plastic trays.
+- **Tray size**: 1 L [[disposable-tray-casing-method-grass-seed-substrate|disposable]] plastic trays.
 
 ## Why This Debate Matters
 
@@ -131,5 +131,7 @@ explicitly advising against pasteurization. The recipe is 10 parts peat, 5
 parts vermiculite, 2 parts limestone (Marl), with moisture calibrated to the
 maximum achievable without turning to mud.
 ## See Also
+
+- [[maitake-soil-casing-technique]]
 - [[casing-soil-sterilization-versus-pasteurization-debate-mushroom-cultivation]]
 - [[sterilization]]

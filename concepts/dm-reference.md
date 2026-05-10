@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous [[chiric-caspi-brunfelsia-south-american-hallucinogen]] [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] and has become the subject of intensive [[hofmann-lsd-clinical-research-early-studies]] for its potential therapeutic applications. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety.
+N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found in many plants, animals, and fungi. It is a potent serotonergic psychedelic and one of the most widely distributed psychoactive compounds in nature. DMT has been used for centuries in indigenous South American ayahuasca ceremonies and has become the subject of intensive clinical research for its potential therapeutic applications. This page covers chemistry, natural sources, pharmacology, effects, dosage, and safety. (see [[dimethyltryptamine]]).
 
 ## Chemistry
 
@@ -46,7 +46,7 @@ N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found 
 - **Diplopterys cabrerana** (chaliponga): Up to 1% DMT
 - **Mimosa tenuiflora** (M. hostilis / jurema): Root bark contains 0.57-1.0% DMT
 - **Acacia species**: A. confusa, A. obtusifolia, A. maidenii — bark contains DMT
-- **[[yopo-anadenanthera-peregrina-snuff]]** (yopo) and A. colubrina (vilca): Seeds contain DMT, 5-MeO-DMT, bufotenin
+- **Anadenanthera peregrina** (yopo) and A. colubrina (vilca): Seeds contain DMT, 5-MeO-DMT, bufotenin
 - **Virola species**: V. theiodora, V. sebifera — bark resin used as snuff
 
 ### Animals
@@ -63,7 +63,7 @@ N,N-Dimethyltryptamine (DMT) is a naturally occurring tryptamine compound found 
 
 ## Extraction Methods
 
-Note: This information is provided for educational and harm reduction purposes. DMT is a Schedule I controlled substance in many jurisdictions. Extraction of controlled substances may be illegal.
+Note: This information is provided for educational and harm reduction purposes. DMT is a Schedule I controlled substance in many jurisdictions. Extraction of controlled substances may be illegal. (see [[dmt-extraction-guide]]).
 
 ### Plant Material Extraction (General Overview)
 
@@ -121,7 +121,7 @@ DMT is primarily a serotonin (5-HT) receptor agonist:
 
 - Intense visual hallucinations (geometric patterns, colors, entities, landscapes)
 - Altered sense of time and space
-- [[psilocybin-ego-dissolution-mechanisms]] or "ego death" at high doses
+- Ego dissolution or "ego death" at high doses
 - Mystical or spiritual experiences
 - Emotional catharsis
 - Synesthesia
@@ -142,8 +142,9 @@ DMT is primarily a serotonin (5-HT) receptor agonist:
 **Smoked/Vaporized (Freebase)**: Threshold 2-5 mg, Light 10-20 mg, Moderate 20-40 mg, Strong 40-60 mg, Breakthrough 60-100+ mg.
 
 **Oral (Ayahuasca)**: Typical ceremonial dose 50-100 mg DMT with 50-150 mg harmine/harmaline. Effects depend heavily on MAOI dose and individual MAO activity.
-## See Also
 
-- [[bioluminescent-fungi]] — Fungal chemistry and ecology
-- [[fungal-symbiosis-types]] — Natural compounds in fungal relationships
-- [[mushroom-taxonomy-history]] — Classification of [[cattle-dispersal-psychoactive-fungi-australia]]
+## Safety
+
+### Physical Safety
+
+- DMT has very low toxicity; no known lethal dose in humans

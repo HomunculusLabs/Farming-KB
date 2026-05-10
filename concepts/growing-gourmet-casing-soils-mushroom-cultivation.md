@@ -137,7 +137,6 @@ and internal temperatures naturally decline to nearly equal with air
 temperature. This is the ideal time to apply casing and synchronize the
 other factors favorable to mushroom formation. The casing layer provides
 the microclimate necessary for this critical transition.
-
 ## Related
 
 - [[cotter-casing-soils-microbial-triggers]]

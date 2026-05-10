@@ -13,7 +13,7 @@ sources:
   - Huo, M. et al. (2017). "Phytochemical Characteristics and Hypoglycemic Activity of Zanthoxylum bungeanum Maxim." Journal of Ethnopharmacology, 199, 3–9.
   - Yang, X. (2008). "Aroma Constituents and Alkylamides of Red and Green Huajiao (Zanthoxylum bungeanum and Zanthoxylum schinifolium)." Journal of Agricultural and Food Chemistry, 56(5), 1689–1696.
   - Zhang, M. et al. (2017). "The Genus Zanthoxylum: A Comprehensive Review on Traditional Uses, Phytochemistry, and Pharmacological Activities." American Journal of Chinese Medicine, 45(7), 1363–1405.
-  - Chen, Q. et al. (2013). "[[permaculture-designers-manual-essential-oil-plants]] Composition of Zanthoxylum bungeanum from China." Chemistry of Natural Compounds, 49(2), 328–331.
+  - Chen, Q. et al. (2013). "permaculture-designers-manual-essential-oil-plants Composition of Zanthoxylum bungeanum from China." Chemistry of Natural Compounds, 49(2), 328–331.
 ---
 
 # Zanthoxylum bungeanum

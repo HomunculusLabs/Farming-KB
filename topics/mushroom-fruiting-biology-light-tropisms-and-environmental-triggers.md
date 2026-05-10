@@ -138,7 +138,6 @@ The connection between this negative geotropism and spore production is reinforc
 Some light is necessary for this negative geotropism, but possibly only because light is necessary for spore production. When mushrooms are rotated horizontally to equalize the effect of gravity under constant illumination, growth and pileus expansion are both horizontal, indicating that gravity is the primary orienting stimulus at this stage and that light serves a permissive rather than a directive role.
 
 ### Phototropism and Its Interaction with Other Tropisms
-
 ## See Also
 
 - [[mushroom-cultivation-fundamentals]] for practical cultivation techniques

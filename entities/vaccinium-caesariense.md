@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada.
-  - Camp, W.H. (1945). "The [[growing-gourmet-north-american-reishi-species]] Blueberries with Notes on Other Groups of Vacciniaceae." Brittonia, 5(3), 203–275.
+  - Camp, W.H. (1945). "The growing-gourmet-north-american-reishi-species Blueberries with Notes on Other Groups of Vacciniaceae." Brittonia, 5(3), 203–275.
   - Bell, D.J. et al. (2009). "Ecological and Genetic Insights into Vaccinium caesariense." Journal of the Torrey Botanical Society, 136(4), 483–492.
   - USDA NRCS (2024). "Vaccinium caesariense Mackenzie — New Jersey Blueberry." PLANTS Database.
 ---

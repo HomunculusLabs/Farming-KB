@@ -98,10 +98,6 @@ The ultimate goal is a mini-farm that:
 "We need to grow enough organic matter for our own needs. If we farm in a way that does not sustain soil fertility, the soil that is currently used to grow crops will soon be able to grow only fodder for sheep, later only scraggly weeds for goats, and then nothing at all."
 
 ## See Also
-
 - [[green-manure-crops]]
 - [[jeavons-soil-fertility]]
-
-## See Also
-
 - [[jeavons-calorie-farming]]

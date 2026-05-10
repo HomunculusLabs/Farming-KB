@@ -97,6 +97,8 @@ It is a valuable component of native pollinator gardens in the Southwest, attrac
 
 ## See Also
 
+- [[danthonia-californica]]
+
 - [[eucalyptus-globulus]]
 - [[verbascum-thapsus]]
 - [[baccharis-trimera]]

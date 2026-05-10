@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/ — anthocyanin pharmacology and neuroprotective studies
-  - https://powo.science.kew.org/ — [[bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson]] and distribution
+  - https://powo.science.kew.org/ — bloomfield-taxonomic-authority-debate-lloyd-underwood-atkinson and distribution
   - Mukherjee, P.K. et al. "Clitoria ternatea: A Review on Its Phytochemical and Pharmacological Profile." Phytomedicine, 2008.
   - Goh, B.H. et al. "Clitoria ternatea (Butterfly Pea): A Review of Its Ethnobotany, Pharmacology, and Clinical Applications." Frontiers in Pharmacology, 2022.
 ---
@@ -119,13 +119,6 @@ sources:
 - **Processing:** Flowers dried at 40–50°C to preserve anthocyanin content; extract standardization typically targets 5–10% total anthocyanins
 
 ## See Also
-
-- clitoria ternatea
-
-- [[bacopa-monnieri]] — complementary Ayurvedic nootropic used alongside Clitoria in traditional brain-tonic formulations
-- ocimum-sanctum — complementary adaptogenic herb in Ayurvedic practice
-
-## See Also
-
+- [[bacopa-monnieri]]
 - [[permaculture-plants-medicinal-herbs-healing]]
 - [[companion-planting]]

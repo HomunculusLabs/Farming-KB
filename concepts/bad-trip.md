@@ -27,7 +27,7 @@ A bad trip is an acute adverse psychological reaction to the ingestion of [[psil
 
 ## Flashbacks
 
-Flashbacks can occur following [[emcdda-psilocybin-mushroom-dose-and-effects]] use, though they are reported less frequently than with LSD. These episodes generally involve perceptual alterations or pseudo-hallucinations rather than true hallucinations (defined as sensory perceptions in the complete absence of external stimuli). The frequency, duration, and severity of flashbacks following mushroom use are not well characterized in the clinical literature, and the phenomenon remains poorly understood.
+Flashbacks can occur following [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] use, though they are reported less frequently than with LSD. These episodes generally involve perceptual alterations or pseudo-hallucinations rather than true hallucinations (defined as sensory perceptions in the complete absence of external stimuli). The frequency, duration, and severity of flashbacks following mushroom use are not well characterized in the clinical literature, and the phenomenon remains poorly understood.
 
 ## Fatal Outcomes
 

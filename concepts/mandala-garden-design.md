@@ -1,5 +1,5 @@
 ---
-title: comparison-mandala-garden-design-vs-keyhole-garden-design Design
+title: Mandala Garden Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -19,7 +19,7 @@ Key principles:
 
 - **Maximize edge:** The curved and undulating bed shapes create more edge (boundary between bed and path) per unit area than straight beds. More edge means more microclimates and more planting diversity.
 - **Minimize path area:** Keyhole paths access beds from the center, eliminating the need for paths between every row. This can increase productive growing area by 30-50% compared to traditional rectangular row gardens.
-- **[[query-how-do-i-create-microclimates-in-my-garden]]:** Circular and curved beds create variations in sun exposure, wind protection, and moisture within a small area.
+- **Create microclimates:** Circular and curved beds create variations in sun exposure, wind protection, and moisture within a small area.
 - **Aesthetic beauty:** Mandala gardens are visually striking, making them ideal for front yards, community gardens, and demonstration sites.
 
 ## Basic Layout Patterns
@@ -105,7 +105,7 @@ For faster results and better drainage, build the mandala beds as raised beds:
 
 ## Intensive Planting
 
-The mandala garden's design lends itself to intensive native american planting methods and indigenous agriculture:
+The mandala garden's design lends itself to intensive planting methods:
 
 ### Succession Planting
 
@@ -116,8 +116,8 @@ The mandala garden's design lends itself to intensive native american planting m
 ### Companion Planting
 
 - Group plants that benefit each other in the same bed or adjacent beds
-- Rotate plant families around the mandala each season to break [[hamilton-pest-and-disease-control-organic]] cycles
-- Include flowers and herbs throughout to attract pollinators and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- Rotate plant families around the mandala each season to break pest and disease cycles
+- Include flowers and herbs throughout to attract pollinators and beneficial insects
 
 ### Vertical Gardening
 
@@ -142,8 +142,9 @@ The mandala's clearly defined beds make rotation straightforward:
 - **Year 3:** Move again — each bed sees each family only once every 4+ years
 - Keep a simple map or journal to track what was planted where
 
-## Related Concepts
+## Planting by Sector
 
-- [[keyhole-garden-design]] for the keyhole path concept used within mandala gardens
-- [[herb-spiral-construction]] for a center feature option in mandala design
-- [[grow-tunnel-and-hoop-house]] for [[comparison-season-extension-techniques-vs-cold-frame-gardening]] within mandala garden beds
+Divide the mandala into functional zones:
+
+- **Leafy greens:** Plant on the east side (morning sun, afternoon shade)
+- **Fruiting crops (tomatoes, peppers, eggplant):** Plant on the south side (full sun)

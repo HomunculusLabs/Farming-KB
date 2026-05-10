@@ -132,9 +132,9 @@ consumption may affect the onset, duration, and character of the
 [[leary-psychedelic-experience-bardo-mapping]].
 
 ## See Also
-
-- [[psilocybin]] — [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
-- [[psilocybe-cubensis]] — Species overview
+- [[psilocybin]]
+- [[psilocybe-cubensis]]
+- [[cap-vs-stem-alkaloid-distribution-psilocybe-cubensis-strains-bigwood-beug]]
 
 ## Sources
 

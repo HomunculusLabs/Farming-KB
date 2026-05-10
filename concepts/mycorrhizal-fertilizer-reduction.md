@@ -143,7 +143,6 @@ cost-effective way to minimize nutrient runoff:
 - Mycorrhizal plants absorb nutrients more efficiently
 - Less excess nutrient is available to wash into waterways
 - This protects downstream ecosystems from eutrophication
-
 ## See Also
 - [[mycorrhizal-inoculum-reduction-techniques-comparative]]
 - [[stable-carbon-isotope-labelling-mycorrhizal-fatty-acids]]

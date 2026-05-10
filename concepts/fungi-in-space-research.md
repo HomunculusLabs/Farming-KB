@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, ecology, environment, biology, research, academia, mushrooms, cultivation]
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview
 
-Fungi are increasingly studied for space applications including radiation protection, food production, waste decomposition, and psychological benefits for astronauts. Research aboard the International Space Station (ISS) and ground-based analogs has demonstrated that fungi can grow and function in microgravity, opening possibilities for incorporating them into long-duration space missions and extraterrestrial habitats.
+Fungi are increasingly studied for space applications including radiation protection, food production, waste decomposition, and psychological benefits for astronauts. Research aboard the International Space Station (ISS) and ground-based analogs has demonstrated that fungi can grow and function in microgravity, opening possibilities for incorporating them into long-duration space missions and extraterrestrial habitats. (see [[rhizosphere-bacterial-community-dynamics]]).
 
 ## Fungi on the International Space Station
 
@@ -63,20 +62,20 @@ Mushrooms offer unique advantages for space agriculture:
 ### Species Studied for Space Food
 - **Pleurotus ostreatus**: Primary candidate; grows on diverse substrates, good nutrition
 - **Lentinula edodes** (shiitake): Studied for flavor and nutritional value
-- **[[genetic-improvement-agaricus-bisporus-molecular-approaches]]** (button mushroom): Well-understood cultivation; common food item
-- **[[paddy-straw-mushroom-volvariella-volvacea-cultivation]]** ([[paddy-straw-mushroom|paddy straw mushroom]]): Fast growth; tropical species
-- **[[stamets-reishi-ganoderma-lucidum-cultivation]]** (reishi): Studied for medicinal and immune-support properties
+- **Agaricus bisporus** (button mushroom): Well-understood cultivation; common food item
+- **Volvariella volvacea** ([[paddy-straw-mushroom|paddy straw mushroom]]): Fast growth; tropical species
+- **Ganoderma lucidum** (reishi): Studied for medicinal and immune-support properties
 
 ### Closed-Loop Life Support Integration
 - Mycelium can decompose astronaut waste (food scraps, paper, human waste products)
-- Spent [[gourmet-medicinal-mushroom-substrate-preparation]] can be composted for plant growing media
+- Spent mushroom substrate can be composted for plant growing media
 - CO2 produced during fruiting can supplement plant photosynthesis
 - Creates a biological recycling loop within spacecraft life support systems
 
 ## Bioremediation in Space
 
 ### Air and Water Filtration
-- Fungal mycelium can filter [[fungal-volatile-organic-compounds-communication]] compounds (VOCs) from spacecraft air
+- Fungal mycelium can filter volatile organic compounds (VOCs) from spacecraft air
 - Mycofiltration systems for recycling wastewater in closed habitats
 - Biological air filters reduce dependence on chemical scrubbers
 
@@ -96,7 +95,7 @@ Mushrooms offer unique advantages for space agriculture:
 ### Analog Research
 - Mars Desert Research Station (MDRS) has tested small-scale mushroom cultivation
 - HI-SEAS (Hawaii Space Exploration Analog and Simulation) included fungal growing experiments
-- Antarctic research stations have [[fungi-cultivated-mushrooms-pathogens-competitors]] as fresh food supplement
+- Antarctic research stations have cultivated mushrooms as fresh food supplement
 
 ## Challenges and Limitations
 

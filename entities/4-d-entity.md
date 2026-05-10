@@ -54,7 +54,7 @@ Similar deuterium substitution patterns are feasible with TMA and related 3,4,5-
 
 The compound 3,5-D (3,5-bis-trideuteromethoxy-4-methoxyphenethylamine) might reveal quantitative response differences relevant to this theory.
 
-However, these are extremely minor metabolites, and Shulgin suspected that more extensive studies would establish that 4-D, 3,5-D, and [[mescaline-entity]] - the unsubstituted parent compound with identical pharmacological profile
+However, these are extremely minor metabolites, and Shulgin suspected that more extensive studies would establish that 4-D, 3,5-D, and [[mescaline]] - the unsubstituted parent compound with identical pharmacological profile
 
 [[escaline-entity]] - 4-ethoxy substitution pattern
 

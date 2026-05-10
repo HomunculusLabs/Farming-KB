@@ -4,7 +4,8 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [diet, culture, cooking, japan]
-sources: sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Fukuoka Japanese Cooking Culture Disappearing

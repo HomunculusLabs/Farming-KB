@@ -53,6 +53,8 @@ Sandoz's role in the discovery of LSD represents one of the most consequential a
 
 ## See Also
 
+- [[cannabis-safety-vs-pharmaceuticals-blesching]]
+
 - [[sandoz-delysid-research-program]]
 - [[hofmann-sandoz-crisis-lsd-withdrawal]]
 

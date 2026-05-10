@@ -54,6 +54,8 @@ Allegro's interpretation of [[allegro-death-and-resurrection-in-the-mushroom-cul
 
 ## See Also
 
+- [[peter-oei]]
+
 - [[allegro-philological-methodology]]
 - [[allegro-fungal-iconography-in-ancient-art]]
 - controversy-sacred-mushroom-theory

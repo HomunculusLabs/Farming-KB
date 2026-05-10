@@ -10,13 +10,12 @@ tags:
   - hallucinogenic
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 
 # Psilocybe weilii
 
-**Psilocybe weilii** (nom. prov.) is a moderately potent [[emcdda-psilocybin-mushroom-dose-and-effects]] first reported from northern Georgia in the southeastern United States. It is a bluing species in the family Hymenogastraceae found fruiting in association with loblolly pine and sweetgum in red-clay soils. The species remains provisionally named and has not been formally validly published under the rules of fungal nomenclature.
+**Psilocybe weilii** (nom. prov.) is a moderately potent [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] first reported from northern Georgia in the southeastern United States. It is a bluing species in the family Hymenogastraceae found fruiting in association with loblolly pine and sweetgum in red-clay soils. The species remains provisionally named and has not been formally validly published under the rules of fungal nomenclature.
 
 The species is of interest to mycologists both for its psychoactive properties and for its ecological role in the piedmont forest ecosystem, where it contributes to the decomposition of organic matter and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] within the pine-sweetgum association. Its restricted known range and specific habitat requirements make it one of the more geographically limited [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] documented in North America. Its distinctive combination of habitat preference, microscopic characters, and geographic range set it apart from other members of the genus.
 

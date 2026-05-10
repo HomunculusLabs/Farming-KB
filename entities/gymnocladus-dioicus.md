@@ -21,7 +21,7 @@ updated: 2026-04-28
 sources:
   - Isely D (1990). "Vascular Flora of the Southeastern United States, Vol. 3, Part 2: Leguminosae." University of North Carolina Press.
   - Baskauf CJ, McCauley DE (1992). "Allozyme Variation in Kentucky Coffeetree." American Journal of Botany 79(12): 1292–1297.
-  - Burns RM, Honkala BH (1990). "Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 2: Hardwoods." USDA Forest Service Agriculture Handbook 654.
+  - Burns RM, Honkala BH (1990). "Silvics of psilocybin-north-america-pacific-northwest, Vol. 2: Hardwoods." USDA Forest Service Agriculture Handbook 654.
   - Dirr MA (2009). "Manual of Woody Landscape Plants." 6th ed. Stipes Publishing.
   - Farrar JL (1995). "Trees in Canada." Fitzhenry & Whiteside / Canadian Forest Service.
 ---

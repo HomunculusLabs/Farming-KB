@@ -16,50 +16,103 @@ type: concept
 
 # Outdoor Cannabis Growing
 
-Many experienced smokers consider outdoor-grown cannabis to be the finest available. This speaks to the power of natural sunlight and the outdoor environment. If you live in a climate warm enough for tomatoes to grow outdoors, you have the climate to grow good cannabis. Outdoor growing takes two forms: backyard grows on your own property, and [[green-cannabis-grow-bible-vegetative-phase-management|guerrilla farming]] in remote woods or fields.
+Many experienced smokers consider outdoor-grown cannabis the finest
+available, speaking to the power of natural sunlight. If you live in a
+climate warm enough for tomatoes, you can grow good cannabis. Outdoor
+growing takes two forms: backyard grows and
+[[green-cannabis-grow-bible-vegetative-phase-management|guerrilla farming]]
+in remote woods or fields.
 
 ## Site Selection and Plot Preparation
 
-Seeds planted in untreated ground will have a low germination rate. Timing matters — March and April are ideal for starting plants, so they mature and begin flowering around August to September when daylight hours start to decrease.
+Seeds in untreated ground have low germination rates. Timing matters:
+March and April are ideal for starting plants, so they mature and begin
+flowering around August to September when daylight hours decrease.
 
 When preparing your grow plot:
-
-- Remove as many [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil|weeds]] as possible during preparation
-- Do not leave heaps of earth around that could attract attention — carry excess soil away in bags
-- Consider adding store-bought soil with an NPK value where nitrogen is higher than phosphorus and potassium
-- Sow seeds 1/2" to 1" deep — not too deep
-- Sprinkle water over newly sown seeds; no need to adjust pH or feed yet
+- Remove as many
+  [[comparison-soil-food-web-vs-bacterial-vs-fungal-soil|weeds]] as
+  possible during preparation
+- Do not leave heaps of earth that could attract attention
+- Consider adding store-bought soil with NPK where nitrogen exceeds
+  phosphorus and potassium
+- Sow seeds 1/2" to 1" deep; sprinkle water over newly sown seeds
 
 ## Germination Strategies
 
-Some outdoor growers use clever transplant techniques: germinate seedlings indoors in small pots, cut away the pot base, hold it with cardboard and tape, then place the pot into a prepared hole outdoors. Removing the cardboard allows roots to grow down through the pot bottom into surrounding soil. The most advanced version of this technique involves [[green-cannabis-grow-bible-cloning-and-seed-propagation|cloning]] only females and growing them in pots before transplanting — guaranteeing all-female outdoor plants.
+Some outdoor growers use transplant techniques: germinate seedlings
+indoors in small pots, cut away the pot base, hold with cardboard and
+tape, then place into a prepared hole outdoors. The most advanced
+technique involves [[green-cannabis-grow-bible-cloning-and-seed-propagation|cloning]]
+only females and transplanting, guaranteeing all-female outdoor plants.
 
 ## Caring for Outdoor Plants
 
 ### Weeding
-
-Hand-weeding is the safest approach. Avoid chemical weed killers unless you have tested their compatibility with cannabis on a sacrificial clone first. Expect to weed weekly for the first 2–3 weeks, then monthly until the cannabis canopy outcompetes surrounding growth. Dense weed areas may benefit from a [[green-cannabis-grow-bible-soil-and-medium-preparation|ground cover]] — plastic sheeting or paper with holes cut for the plants — though this reduces stealth.
+Hand-weeding is safest. Avoid chemical weed killers unless tested first.
+Expect weekly weeding for the first 2-3 weeks, then monthly until the
+canopy outcompetes surrounding growth. Dense weed areas may benefit
+from [[green-cannabis-grow-bible-soil-and-medium-preparation|ground cover]] though this reduces stealth.
 
 ### Watering
-
-Natural rainfall handles most watering needs. During droughts or extended warm spells, carry water to the site. Larger plants may require a minimum of a gallon per day. Natural loam soil retains moisture for 4–6 weeks. The best indicator of water stress is plant appearance — wilting leaves signal the need for water. To check subsurface moisture, dig a small hole about a foot deep to the side of the plant and feel the soil: cool and moist means adequate water is stored below.
+Natural rainfall handles most needs. During droughts, larger plants
+may require a minimum of a gallon per day. Natural loam retains
+moisture for 4-6 weeks. Wilting leaves signal water stress. Check
+subsurface moisture by digging a small hole about a foot deep.
 
 ### Nutrients and Feeding
-
-Outdoor [[green-cannabis-grow-bible-nutrient-management-ppm|nutrient management]] follows the same principles as indoor growing, switching to a phosphorus-heavy feed during flowering weeks. See [[greg-green-npk-and-nutrient-deficiency]] for detailed deficiency and feeding guidance.
+Outdoor [[green-cannabis-grow-bible-nutrient-management-ppm|nutrient management]] follows indoor principles, switching to phosphorus-heavy
+feed during flowering. See [[greg-green-npk-and-nutrient-deficiency]].
 
 ### Pest Protection
+Outdoor plants are vulnerable to
+[[greg-green-spider-mites-and-common-pests|pests and predators]]
+including deer, rodents, and insects. Spray with pesticide around the
+second week of vegetative growth. See
+[[green-cannabis-grow-bible-pest-disease-prevention]].
 
-Outdoor plants are vulnerable to [[greg-green-spider-mites-and-common-pests|pests and predators]] including deer, rodents, and insects. Spraying the area with pesticide around the second week of vegetative growth is advisable. See [[green-cannabis-grow-bible-pest-disease-prevention]] for comprehensive pest management.
+## Climate Zone Considerations
+
+In Mediterranean and warm-temperate climates (USDA zones 7-10), start
+seeds in March or April, with natural flowering triggered as days
+shorten below 12 hours in late August. In cooler northern climates
+(zones 5-6), start seeds indoors in April and transplant after last
+frost (mid-May); early finishing indica-dominant varieties are
+essential. In tropical regions, autoflowering varieties with ruderalis
+genetics are most reliable since photoperiod variations are minimal.
+See [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]].
+
+## Companion Planting and Pest Management
+
+Strategic [[cervantes-companion-planting-pest-deterrent]] practices
+reduce pest pressure. Marigolds, basil, and alliums around the plot
+perimeter deter aphids, spider mites, and browsers. Maintaining
+diverse plantings encourages ladybugs, lacewings, and predatory mites
+that provide natural suppression. Avoid broad-spectrum insecticides;
+garlic sprays and neem oil offer lower-impact alternatives. Physical
+barriers including chicken wire and deer fencing protect against
+herbivores.
+
+## Security and Stealth Techniques
+
+Visual stealth involves selecting sites with natural canopy screening.
+Low-stress training (LST) keeps plants below the surrounding canopy.
+Interplanting with sunflowers or tomatoes disguises the silhouette.
+See [[cannabis-guerrilla-growing-guide]] and
+[[cervantes-guerrilla-growing-tactics]] for detailed guidance. Scent
+management is critical during flowering when terpene production peaks.
+Aromatic herbs planted upwind help mask odor; carbon filter exhaust
+systems on enclosed areas eliminate scent dispersal entirely.
 
 ## Harvest
 
-With good sunlight and adequate water, plants will progress through the full [[cannabis-photoperiod-flowering-cycle|flowering cycle]] and be ready for [[green-cannabis-grow-bible-flowering-phase-and-harvest|harvest]] at the end of the flowering season.
+With good sunlight and adequate water, plants progress through the
+full [[cannabis-photoperiod-flowering-cycle|flowering cycle]] and are
+ready for [[green-cannabis-grow-bible-flowering-phase-and-harvest|harvest]]
+at the end of the flowering season.
 
 ## See Also
-
 - [[query-how-do-i-choose-between-indoor-outdoor-and-greenhouse-cannabis-growing]]
-- [[green-cannabis-grow-bible-indoor-grow-room-setup]] — indoor counterpart
-- [[green-cannabis-grow-bible-vegetative-phase-management]] — guerrilla growing details
-- [[green-cannabis-grow-bible-pest-disease-prevention]] — pest and disease management
-- [[green-cannabis-grow-bible-nutrient-management-ppm]] — nutrient feeding schedules
+- [[green-cannabis-grow-bible-indoor-grow-room-setup]]
+- [[green-cannabis-grow-bible-vegetative-phase-management]]
+- [[green-cannabis-grow-bible-nutrient-management-ppm]]

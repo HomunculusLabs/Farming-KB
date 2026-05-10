@@ -4,7 +4,7 @@ created: 2026-04-18
 updated: 2026-04-18
 type: concept
 tags: [reference]
-sources: sources: []
+sources: []
 ---
 
 ## What Are Actinomycetes
@@ -76,5 +76,7 @@ Actinomycetes interact with many other soil organisms:
 - They cooperate with [[singh-mycorrhizal-helper-bacteria-tripartite-interactions]] are part of
 
 ## Related
+
+- [[ingham-actinomycetes-soil-biology-and-compost-tea]]
 
 - [[humus-formation-and-soil-organic-matter]]

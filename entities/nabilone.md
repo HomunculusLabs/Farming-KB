@@ -49,7 +49,7 @@ chemotherapy.
 - **Hepatitis C treatment (referenced in [[dronabinol]]
 - [[cannabidiol-cbd]]
 - rimonabant
-- [[cannabis-health-endo-cannabinoid-system]] (ECS)
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] (ECS)
 ## Practical Considerations
 
 When working with Nabilone, several practical factors should be

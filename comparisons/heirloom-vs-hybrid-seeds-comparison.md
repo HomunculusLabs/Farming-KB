@@ -7,8 +7,8 @@ updated: 2026-04-28
 sources:
   - "Seed Savers Exchange. Heirloom Seed Definition and Standards. seedsavers.org"
   - "University of Georgia Extension. Heirloom vs. Hybrid Vegetable Seeds. extension.uga.edu"
-  - "Cornell University College of Agriculture. [[cannabis-hybrid-vigor-and-phenotypes-clarke]] (Heterosis) in Crop Plants. ars.usda.gov"
-  - "[[hamilton-organic-seed-saving-propagation]] Alliance. State of Organic Seed Report 2022. seedalliance.org"
+  - "Cornell University College of Agriculture. cannabis-hybrid-vigor-and-phenotypes-clarke (Heterosis) in Crop Plants. ars.usda.gov"
+  - "hamilton-organic-seed-saving-propagation Alliance. State of Organic Seed Report 2022. seedalliance.org"
   - "Iowa State University Extension. Selecting Vegetable Seeds. store.extension.iastate.edu"
   - "Kloppenburg, J.R. First the Seed: The Political Economy of Plant Biotechnology. UW Press, 2004."
 type: comparison

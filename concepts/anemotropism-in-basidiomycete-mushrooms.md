@@ -1,0 +1,124 @@
+---
+title: Anemotropism in Basidiomycete Mushrooms
+category: mycology
+tags: [anemotropism, wind-response, tropism, mushroom-biology, psilocybe-cubensis]
+created: 2026-05-09
+source: tropisms-in-the-mushroom-psilocybe-cubensis.md
+related: [negative-geotropism-in-mushroom-fruiting, mushroom-stipe-development-stages, evaporative-demand-hypothesis-mushroom-growth]
+---
+
+# Anemotropism in Basidiomycete Mushrooms
+
+Anemotropism is the growth response of an organism to wind or air currents.
+In mushrooms, anemotropism causes the stipe (stem) to bend and grow toward
+or away from the direction of airflow. This phenomenon was systematically
+studied by Edmond R. Badham in *[[brassinosteroid-growth-promotion-psilocybe-cubensis]]* using a controlled wind
+tunnel apparatus (Mycologia, 1982).
+
+## Observations in Psilocybe Cubensis
+
+### Directional Growth Into Wind
+When mushroom primordia between developmental Stage 1 (slight pileus
+swelling) and Stage 2 (nearly spherical pileus) are placed in a wind tunnel
+with horizontal airflow at 9 ± 3 cm/sec, the stipe grows **into the
+direction of the airflow**. This anemotropic response is the dominant
+tropic behavior during early stipe elongation.
+
+### Independence from Light
+The anemotropic response occurs in both a 12-hour photoperiod and in
+complete darkness. It also occurs regardless of whether light is incident
+from above or below the cultures. This indicates that anemotropism is
+mediated by a mechanism independent of photoreception.
+
+### Independence from Fertility
+Anemotropism occurs equally in both fertile (spore-producing) and sterile
+([[sporeless-mutant-geotropism-link-psilocybe-cubensis]]) basidiocarps during Stage 1–2 development. This
+demonstrates that the response does not require the presence of spores or
+gill tissue, distinguishing it from the later-acting negative geotropic
+response which is linked to spore production.
+
+### Reversibility
+When cultures are rotated perpendicular to the wind (3 rpm), growth
+reverts to upward (vertical) direction. This demonstrates that the
+anemotropic response is continuously responsive to the direction of airflow
+rather than being a fixed developmental program established early in growth.
+
+### Stipe Direction Independence
+The anemotropic response is strong enough that even mushrooms placed in
+the chamber with their stipes initially directed away from the wind will
+eventually bend to grow into the airflow. This indicates a robust
+reorientation capacity.
+
+### Timing Limitation
+Anemotropism is the dominant tropism only during early development (Stages
+1–2). If upright fertile cultures are placed in the wind tunnel at Stage 2
+or later, bending is not as pronounced because the second tropism (negative
+geotropism) begins to mask the anemotropic response.
+
+## Experimental Wind Tunnel Design
+
+Badham's study used a closed-circuit wind tunnel with the following
+specifications:
+
+- **Working area**: 43 × 30 × 20 cm
+- **Wind velocity**: 9 ± 3 cm/sec (measured with TSI hot wire anemometer)
+- **Humidity**: 94 ± 3% RH (wet and dry copper constantan thermocouples)
+- **Temperature**: 24.5 ± 1.5°C
+- **Light**: "Cool white" fluorescent at 2685 lux, 0.002 cal/cm²/min
+- **Photoperiod**: 12 hours light / 12 hours dark
+
+The tunnel included a blower, polyester fiber filter for wind speed
+reduction, a spin-type humidifier with heater, an air baffle, heat cable,
+and [[cervantes-humidity-control-dehumidification]] via thermocouple feedback. This design allowed precise
+independent control of all four environmental variables known to affect
+mushroom growth: wind, humidity, light, and temperature.
+
+## Proposed Mechanism: Boundary Layer Redistribution
+
+Badham proposed that anemotropism results from a redistribution of the
+boundary layer around the stipe. In airflow:
+
+- The boundary layer is **thicker on the leeward side** (downstream) than
+  on the windward side (upstream)
+- This asymmetric boundary layer creates differential water vapor
+  concentrations around the stipe
+- The **windward side** experiences greater [[evaporative-demand-hypothesis-mushroom-growth]] (more
+  drying)
+- This differential in evaporative demand causes cells on opposite sides
+  of the stipe to grow at different rates, resulting in curvature toward
+  the wind
+
+This mechanism is analogous to the anemotropic response described in
+*Phycomyces* (Cohen et al., 1975), where wind and water vapor are both
+necessary for the response.
+
+## Alternative Mechanism: Mechanical Force
+
+An alternative explanation is that the mushroom is responding to the
+physical force of the wind itself. Studies on *Phycomyces blakesleeanus*
+(Dennison, 1961) demonstrated that sporangiophore growth responds to both
+gravitational and centrifugal forces, suggesting that mechanical stimuli can
+direct fungal growth. However, Badham favored the evaporative demand
+hypothesis because the response is more consistent with a physiological
+gradient than with simple mechanical bending.
+
+## Adaptive Significance
+
+Anemotropism may serve two adaptive functions:
+
+1. **Optimal spore dispersal position**: By growing into the airflow,
+   mushrooms position their caps where wind can most effectively carry
+   away released spores
+2. **Spacing of [[cespitose-fruiting-body-spacing-and-tropism]] bodies**: Directed growth toward
+   evaporative demand could increase spacing between the stipes of
+   clustered (cespitose) mushrooms, reducing competition for resources
+   and improving spore dispersal efficiency
+
+## Role of Ethylene
+
+Russo et al. (1975) suggested that ethylene may be involved in the
+avoidance response in *Phycomyces blakesleeanus*. By analogy, ethylene
+or other [[mycovolatiles-fungal-volatile-compounds]] redistributed by wind flow could contribute to
+the anemotropic response in mushrooms. Wind could redistribute gases other
+than water vapor around the stipe, creating chemical gradients that
+influence differential cell elongation.

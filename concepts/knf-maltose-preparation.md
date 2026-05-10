@@ -22,7 +22,7 @@ sources:
 
 # KNF Maltose Preparation
 
-Maltose is a sugar produced from sprouted barley grains. In , maltose serves as an enzyme-rich sugar source for fermentation and as a treatment for soil and plant problems. The sprouting process activates amylase enzymes that convert grain starches into maltose sugar, which is then used to feed microbes and plants.
+Maltose is a sugar produced from sprouted barley grains. In [[knf-preparations]], maltose serves as an enzyme-rich sugar source for fermentation and as a treatment for soil and plant problems. The sprouting process activates amylase enzymes that convert grain starches into maltose sugar, which is then used to feed microbes and plants.
 
 ## What Maltose Does
 
@@ -36,7 +36,7 @@ Maltose is a sugar produced from sprouted barley grains. In , maltose serves as 
 
 ## Cultural Context
 
-Traditionally, Korean people have made maltose by using barley. The maltose is used for producing 'Shikhye' (a traditional sweet Korean rice dessert drink made of malt and rice, also called dansul or gamju) or [[fukuoka-tokugawa-glutinous-rice-revival]] jelly. The same techniques were adapted by Master Cho for agricultural use. The maltose made from hulled barley is tastiest for food purposes, but for farming it is unnecessary to use hulled barley — [[comparison-cassava-vs-taro-vs-sweet-potato-vs-yam]], potato, or taro can all produce maltose through the same enzymatic conversion process.
+Traditionally, Korean people have made maltose by using barley. The maltose is used for producing 'Shikhye' (a traditional sweet Korean rice dessert drink made of malt and rice, also called dansul or gamju) or glutinous rice jelly. The same techniques were adapted by Master Cho for agricultural use. The maltose made from hulled barley is tastiest for food purposes, but for farming it is unnecessary to use hulled barley — sweet potato, potato, or taro can all produce maltose through the same enzymatic conversion process.
 
 ## Recipe
 
@@ -77,7 +77,7 @@ For farming purposes, hulled barley is traditional but not required. Sweet potat
 | Use Case | Dilution | Notes |
 |----------|----------|-------|
 | General use | 1:500 | With other [[knf-preparations]] materials |
-| Rice [[fukuoka-straw-decomposition-microbial-succession]] | Per above | Enzyme action breaks down straw rapidly |
+| Rice straw decomposition | Per above | Enzyme action breaks down straw rapidly |
 | Soil foundation | Per above | Builds soil structure in paddy fields |
 | Seedling treatment | Per above | Damping-off, root rot, soft rot |
 | Environmental stress | Per above | Temperature damage recovery in early growth |
@@ -85,11 +85,11 @@ For farming purposes, hulled barley is traditional but not required. Sweet potat
 
 ## Role in KNF System
 
-Maltose fits into the [[nutritive-cycle-theory]] as an enzyme activator and sugar source. While [[fermented-plant-extract-fpe]] provides plant-specific nutrients and sugars, maltose provides a broader enzymatic action that accelerates decomposition of [[hamilton-composting-and-organic-matter-management]]. In combination with [[brown-rice-vinegar-brv]], maltose helps solubilize minerals and make nutrients more available to plants. The enzyme-rich nature of maltose also supports the [[soil-food-web-nutrient-cycling]] by feeding beneficial bacteria and accelerating [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]].
+Maltose fits into the [[nutritive-cycle-theory]] as an enzyme activator and sugar source. While [[fermented-plant-extract-fpe]] provides plant-specific nutrients and sugars, maltose provides a broader enzymatic action that accelerates decomposition of organic matter. In combination with [[brown-rice-vinegar-brv]], maltose helps solubilize minerals and make nutrients more available to plants. The enzyme-rich nature of maltose also supports the [[soil-food-web-nutrient-cycling]] by feeding beneficial bacteria and accelerating nutrient cycling.
 
 ## See Also
 
-- [[knf-preparations]] — all [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] overview
+- [[knf-preparations]] — all KNF inputs overview
 - [[knf-yeast-preparation-detailed]] — yeast pairs with maltose in fermentations
 - [[brown-rice-vinegar-brv]] — BRV production uses similar fermentation principles
 - [[fermented-plant-extract-fpe]] — FPJ uses brown sugar as alternative sugar source

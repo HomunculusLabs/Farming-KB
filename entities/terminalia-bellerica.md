@@ -17,7 +17,7 @@ sources:
   - Kirtikar, K.R., Basu, B.D. (1918). "Indian Medicinal Plants." 2nd Edition. Periodical Expert Books, Delhi.
   - Chopra, R.N., Nayar, S.L., Chopra, I.C. (1956). "Glossary of Indian Medicinal Plants." CSIR, New Delhi.
   - Williamson, E.M. (2002). "Major Herbs of Ayurveda." Churchill Livingstone.
-  - Sabu, K.K., Rout, J. (2002). "[[cannabis-seed-germination-methods]] studies in Terminalia bellerica Roxb." Indian Journal of Forestry 25(1): 76-78.
+  - Sabu, K.K., Rout, J. (2002). "cannabis-seed-germination-methods studies in Terminalia bellerica Roxb." Indian Journal of Forestry 25(1): 76-78.
 created: 2026-04-28
 ---
 

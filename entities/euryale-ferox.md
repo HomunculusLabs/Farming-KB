@@ -5,14 +5,14 @@ updated: 2026-04-28
 type: species
 tags:
   - aquatic-plant
-  - permaculture
+  - [[permaculture]]
   - food-crop
   - traditional-medicine
   - nymphaeaceae
 sources:
   - "Sharma, S. & Singh, S. (2019). \"Euryale ferox: A review on nutritional and pharmacological aspects.\" J Food Sci Technol, 56(1), 1-12."
   - "Mahajan, R.T. & Badgujar, C.D. (2010). \"Biological activities of Euryale ferox Salisb.\" Pharmacognosy Reviews, 4(8), 147-152."
-  - "Xiao, J.B. et al. (2020). \"[[dighton-fungal-nutritional-composition-animal-diets]] and health benefits of fox nuts.\" Food Chemistry, 320, 126671."
+  - "Xiao, J.B. et al. (2020). \"dighton-fungal-nutritional-composition-animal-diets and health benefits of fox nuts.\" Food Chemistry, 320, 126671."
   - "Singh, D. et al. (2017). \"Phytochemistry and pharmacology of Euryale ferox.\" Pharmacognosy Reviews, 11(22), 108-113."
 ---
 
@@ -78,7 +78,7 @@ Dried fox nuts are valued for their exceptional nutritional profile:
 
 Seeds contain alkaloids (euryalin, isololiolide), flavonoids (nelumbo-nucifera — Sacred lotus, related aquatic food and medicine
 - [[azolla-filiculoides]] — Aquatic fern biofertilizer for rice paddies
-- spirulina arthrospira — Aquatic microorganism for protein production
+- spirulina arthrospira — Aquatic microorganism for [[fungal-single-cell-protein-production]]
 ## See Also
 - [[azolla-filiculoides]]
 - nelumbo-nucifera

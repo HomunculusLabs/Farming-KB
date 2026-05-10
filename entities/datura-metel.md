@@ -127,6 +127,10 @@ demonstrates its long-standing importance in traditional medicine.
 
 ## See Also
 
+- [[datura-innoxia]]
+
+- [[datura-ceratocaula]]
+
 - [[atropa-belladonna]] — European nightshade with tropane alkaloids
 - [[anadenanthera-colubrina]] — [[chiric-caspi-brunfelsia-south-american-hallucinogen]] tryptamine-containing tree
 - [[tabernanthe-iboga]] — African shrub with ibogaine

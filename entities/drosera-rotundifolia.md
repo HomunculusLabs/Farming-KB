@@ -120,6 +120,8 @@ Propagation is typically from seed (which requires cold stratification) or by le
 
 ## See Also
 
+- [[pellaea-rotundifolia]]
+
 - [[arctium-lappa-entity]]
 - [[glycyrrhiza-glabra]]
 - [[hypericum-perforatum]]

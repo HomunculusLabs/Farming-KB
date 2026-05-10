@@ -5,8 +5,7 @@ tags: [engineering, numerical-methods, mechanics, simulation, materials]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview

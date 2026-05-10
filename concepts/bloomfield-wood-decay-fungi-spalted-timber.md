@@ -128,12 +128,7 @@ recognize self from non-self and respond accordingly, either fusing
 compatible mycelia or rejecting incompatible ones with defensive barriers.
 
 ## See Also
-
 - [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]
-- bloomfield-ascobolus-ascomycete-fruiting-body-evolution
-
-## See Also
-
 - [[singh-wood-rot-fungi-structural-timber-decay]]
 - [[wood-decay-fungi]]
 - [[bioluminescent-fungi]]

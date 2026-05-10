@@ -6,8 +6,7 @@ aliases: [phase transitions, critical phenomena, critical exponents, universalit
 tags: [physics, thermodynamics, statistical-mechanics, condensed-matter, materials-science]
 related: [laws-of-thermodynamics, heat-transfer-mechanisms, navier-stokes-equations]
 type: concept
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview

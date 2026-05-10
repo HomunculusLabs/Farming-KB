@@ -133,16 +133,9 @@ ESI-MS provides molecular weight confirmation:
 - **Psilocybin**: m/z 285.1 [M+H]⁺
 
 ## See Also
-
 - [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
 - [[4-hydroxyindole-tryptamine-synthesis-building-block]]
-- psilocybe mushroom species and identification
-- [[emcdda-psilocybin-pharmacology-and-chemistry]] and receptor interactions
-- drug regulation japan narcotics control law
-
-## See Also
-
-- psilocybin-mushroom-image-guide-identification-methods
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[psilocybin-mushrooms]]
 - [[amanita-phalloides]]
 - [[psilocybin-pharmacology]]

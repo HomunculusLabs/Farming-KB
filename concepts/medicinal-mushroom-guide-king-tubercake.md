@@ -1,5 +1,5 @@
 ---
-title: King Tubercake (Pleurotus tuber-regium) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: King Tubercake (Pleurotus tuber-regium) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-King tubercake, also known as the king tuber mushroom, is a unique tropical mushroom that produces large underground sclerotia (tubers) in addition to above-ground fruiting bodies. Native to tropical Africa and parts of Southeast Asia, it belongs to the Pleurotus (oyster mushroom) genus but is distinguished by its ability to form substantial edible tubers weighing up to several kilograms.
+King tubercake, also known as the king tuber mushroom, is a unique tropical mushroom that produces large underground sclerotia (tubers) in addition to above-ground fruiting bodies. Native to tropical Africa and parts of Southeast Asia, it belongs to the Pleurotus (oyster mushroom) genus but is distinguished by its ability to form substantial edible tubers weighing up to several kilograms. (see [[medicinal-mushroom-guide-chaga]]).
 
-The species name "tuber-regium" means "royal tuber," reflecting the high esteem in which this mushroom is held in African traditional medicine and cuisine. It has been used for centuries across West and Central Africa for treating a wide range of ailments, and it is increasingly studied for its medicinal properties.
+The species name "tuber-regium" means "royal tuber," reflecting the high esteem in which this mushroom is held in African traditional medicine and cuisine. It has been used for centuries across West and Central Africa for treating a wide range of ailments, and it is increasingly studied for its medicinal properties. (see [[tricholoma-lobayense]]).
 
 ## Distribution and Ecology
 
@@ -70,7 +70,7 @@ P. tuber-regium is one of the most immunologically active African mushrooms:
 - Beta-glucans enhance immune-mediated tumor destruction.
 - Anti-angiogenic effects documented.
 - Synergistic effects with chemotherapy drugs reported in vitro.
-- Most research is preclinical — human [[mushroom-cancer-clinical-trials-overview]] are needed.
+- Most research is preclinical — human clinical trials are needed.
 
 ## Metabolic Health
 
@@ -94,7 +94,7 @@ P. tuber-regium is one of the most immunologically active African mushrooms:
 ## Anti-Inflammatory and Antioxidant
 
 - Significant free radical scavenging activity (DPPH, ABTS assays).
-- Reduces lipid peroxidation and [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers.
+- Reduces lipid peroxidation and oxidative stress markers.
 - Inhibits COX-2 and iNOS expression, reducing inflammatory mediator production.
 - NF-kB pathway inhibition.
 - Demonstrated anti-arthritic activity in animal models.
@@ -115,7 +115,7 @@ The sclerotium is the primary part used medicinally in Africa:
 
 - **Decoction:** Boil sliced or pounded sclerotium in water for 30-60 minutes. Strain and drink as tea.
 - **Powder:** Dried sclerotium ground into powder. Added to food, drinks, or taken in capsules.
-- **Porridge:** Sclerotium powder cooked with water or milk into a thick porridge — [[kava-traditional-preparation-ceremonial-context]] for children and convalescents.
+- **Porridge:** Sclerotium powder cooked with water or milk into a thick porridge — traditional preparation for children and convalescents.
 - **Topical:** Fresh sclerotium pounded into a paste for wound application.
 
 ### Fruiting Body Preparation
@@ -141,9 +141,10 @@ The sclerotium is the primary part used medicinally in Africa:
 
 P. tuber-regium is cultivated in parts of Africa and Asia, though less widely than P. ostreatus:
 
-- **Sclerotium production:** Can be induced on various substrates (sawdust, [[fungi-in-composting-and-agricultural-waste-conversion]]). Sclerotia form underground after 2-4 months of mycelial growth.
-## Related Topics
-
-- [[medicinal-mushroom-guide-oyster]] for comparison with another Pleurotus species
-- [[medicinal-mushroom-guide-maitake]] for another sclerotium-forming medicinal mushroom
-- [[medicinal-mushroom-guide-turkey-tail]] for [[cancer-immune-modulation-mechanisms]] comparison
+- **Sclerotium production:** Can be induced on various substrates (sawdust, agricultural waste). Sclerotia form underground after 2-4 months of mycelial growth.
+- **Substrate:** Hardwood sawdust, rice straw, oil palm waste, cotton waste.
+- **Temperature:** 25-30°C (77-86°F) for both colonization and sclerotium formation.
+- **Humidity:** 80-90%.
+- **Fruiting:** Fruiting bodies form from sclerotia when conditions are favorable (warm, humid, with light).
+- **Sclerotium yield:** Can produce 100-400g sclerotia per kg of substrate.
+- The ability to produce both sclerotia and fruiting bodies from the same culture is unique among cultivated Pleurotus species.

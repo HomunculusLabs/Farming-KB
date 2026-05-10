@@ -122,9 +122,5 @@ may interact with immunosuppressive medications. Reishi can have mild
 anticoagulant effects.
 
 ## See Also
-
 - [[query-what-are-the-most-powerful-medicinal-mushrooms-and-what-do-they-treat]]
-
-## See Also
-
 - [[medicinal-mushroom-compounds-and-health-benefits]]

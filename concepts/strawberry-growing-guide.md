@@ -1,5 +1,5 @@
 ---
-title: Strawberry comparison-bean-growing-guide-vs-pepper-growing-guide
+title: Strawberry Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide covers the three main types, runner management, bed renovation, and variety selection.
+Strawberries are one of the most rewarding fruits for home gardeners — they produce fruit quickly (within the first year for some types), take up relatively little space, and the flavor of homegrown berries far exceeds anything from the store. This guide [[growing-beans-peas-legume-guide]] covers the three main types, runner management, bed renovation, and variety selection.
 
 ## Strawberry Types
 
@@ -27,13 +27,13 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 - Produce two to three crops per season: spring, summer, and early fall
 - Crops are smaller than June-bearing harvests
 - Berries are typically smaller than June-bearing
-- Less sensitive to [[coleman-winter-day-length-and-persephone-months]] than June-bearing
+- Less sensitive to day length than June-bearing
 - Varieties: Ozark Beauty, Quinault, Fort Laramie, Ogallala, Seascape (actually day-neutral but often grouped here)
 - Fewer runners than June-bearing
 - Good choice for steady fresh eating throughout the season
 
 ### Day-Neutral
-- Produce fruit continuously throughout the [[savory-growing-season-and-non-growing-season-management]] regardless of day length
+- Produce fruit continuously throughout the growing season regardless of day length
 - Start bearing about 3 months after planting
 - Smallest berries of the three types but most consistent production
 - Most productive in the first year
@@ -58,7 +58,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 
 ### Soil
 - Well-draining, slightly acidic soil, pH 5.5-6.8
-- Rich in [[hamilton-composting-and-organic-matter-management]] — work in 2-3 inches of compost before planting
+- Rich in organic matter — work in 2-3 inches of compost before planting
 - Sandy loam is ideal; avoid heavy clay
 - Raised beds are excellent for strawberries (improves drainage, reduces crown rot)
 - Strawberries are shallow-rooted (top 6 inches) — keep the root zone consistently moist
@@ -66,7 +66,7 @@ Strawberries are one of the most rewarding fruits for home gardeners — they pr
 ## Planting
 
 ### Timing
-- Plant bare-root crowns in [[coleman-overwintered-onions-and-early-spring-crops]] as soon as soil is workable
+- Plant bare-root crowns in early spring as soon as soil is workable
 - In mild climates, fall planting (October-November) allows roots to establish for early spring harvest
 - Container-grown plants can be planted any time during the growing season
 
@@ -142,8 +142,9 @@ Strawberry beds decline in productivity after 3-4 years. Renovation extends thei
 - **Northwest**: Hood, Tillamook, Puget Crimson — excellent conditions
 - **General-purpose**: Chandler (adaptable), Seascape (day-neutral), Albion (excellent flavor)
 
-## See Also
+## Fertilizing
 
-- [[blueberry-growing-guide]] for companion small [[holzer-fruit-growing-marginal-climates]]
-- [[backyard-orchard-design]] for integrating strawberries into orchard layouts
-- [[seasonal-gardening-calendar]] for planting and maintenance timing
+- Apply balanced fertilizer at planting and after renovation
+- Side-dress with compost or balanced organic fertilizer in early spring as growth resumes
+- Avoid excess nitrogen — promotes vegetative growth at the expense of fruit
+- A light application of phosphorus at planting promotes root development

@@ -12,8 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Catling, P.M. & Dobson, J. (1985). "The biology of Canadian weeds: Potamogeton crispus L." Canadian Journal of Plant Science, 65(3), 655-667.
-  - Ceska, A. & Ceska, O. (1986). "Potamogeton × cooperi (P. crispus × P. perfoliatus) in [[psilocybin-north-america-pacific-northwest]]." Rhodora, 88(854), 167-172.
-  - Haynes, R.R. (1974). "A revision of [[growing-gourmet-north-american-reishi-species]] Potamogeton subsection Pectinati." University of Alabama Studies in Natural History, 14, 1-89.
+  - Ceska, A. & Ceska, O. (1986). "Potamogeton × cooperi (P. crispus × P. perfoliatus) in psilocybin-north-america-pacific-northwest." Rhodora, 88(854), 167-172.
+  - Haynes, R.R. (1974). "A revision of growing-gourmet-north-american-reishi-species Potamogeton subsection Pectinati." University of Alabama Studies in Natural History, 14, 1-89.
   - Lansdown, R.V. (2006). "Potamogeton crispus L." In: IUCN Red List of Threatened Species. IUCN.
   - Nichols, S.A. & Shaw, B.H. (1986). "Ecological life histories of the three aquatic nuisance plants, Myriophyllum spicatum, Potamogeton crispus, and Elodea canadensis." Hydrobiologia, 131(1), 3-21.
   - Wiegleb, G. (1988). "Analysis of flora and vegetation in rivers: concepts and applications." In: Symoens, J.J. (ed.), Vegetation of Inland Waters. Springer.
@@ -114,6 +114,8 @@ Commercial cultivation is limited, and the species is more commonly collected fr
 The species is not widely available through the mainstream aquarium trade due to its seasonal die-back and invasive status in several jurisdictions.
 
 ## See Also
+
+- [[potamogeton-pectinatus]]
 
 - [[myriophyllum-spicatum]]
 - [[hydrilla-verticillata]]

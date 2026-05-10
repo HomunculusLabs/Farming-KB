@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Breitenbach, J. & Kränzlin, F. (1981). Fungi of Switzerland Vol. 3. Boletaceae, Agaricaceae."
   - "Phillips, R. (2010). Mushrooms. Pan Macmillan."
-  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms."
+  - "Lincoff, G.H. (1981). National Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms."
   - "Courtecuisse, R. & Duhem, B. (1995). Mushrooms and Toadstools of Britain and Europe. HarperCollins."
   - "Boa, E. (2004). Wild Edible Fungi: A Global Overview. FAO."
 ---

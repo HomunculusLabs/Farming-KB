@@ -32,7 +32,7 @@ requires the use of poisonous chemicals.
 
 The sensible approach to [[natural-farming-guide-no-till-grain-strategy|no-till farming movements]] worldwide. Natural farming takes a distinctive form according to local
 conditions. In making the transition, some weeding or
-[[permaculture-design-principles-beginners|permaculture design], [[organic-farming-history|ecological farming]] movements around the world.]]
+[[permaculture-design-principles-beginners|permaculture design]], [[organic-farming-history|ecological farming]] movements around the world.
 
 ## See Also
 

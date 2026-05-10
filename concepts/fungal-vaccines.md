@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Despite the significant global burden of fungal infections — estimated at over 1.5 million deaths annually — no licensed fungal vaccines exist for human use as of 2026. This represents a critical gap in infectious disease medicine. Fungal vaccine development faces unique scientific and commercial challenges, but recent advances in immunology, genomics, and adjuvant technology have generated renewed optimism. This page reviews the current state of fungal vaccine research, challenges, and promising candidates.
+Despite the significant global burden of fungal infections — estimated at over 1.5 million deaths annually — no licensed fungal vaccines exist for human use as of 2026. This represents a critical gap in infectious disease medicine. Fungal vaccine development faces unique scientific and commercial challenges, but recent advances in immunology, genomics, and adjuvant technology have generated renewed optimism. This page reviews the current state of fungal vaccine research, challenges, and promising candidates. (see [[rhizosphere-bacterial-community-dynamics]]).
 
 ## The Burden of Fungal Disease
 
@@ -23,14 +23,14 @@ Invasive fungal infections (IFIs) cause substantial morbidity and mortality worl
 - **Pneumocystis pneumonia**: ~500,000 cases annually, primarily in immunocompromised hosts
 - **Mucormycosis**: Rising incidence, mortality 40-80%
 
-The populations at highest risk — immunocompromised patients (HIV/AIDS, transplant recipients, chemotherapy patients), the elderly, and those in intensive care — are often the least able to mount effective vaccine responses.
+The populations at highest risk — immunocompromised patients (HIV/AIDS, transplant recipients, chemotherapy patients), the elderly, and those in intensive care — are often the least able to mount effective vaccine responses. (see [[fungal-metal-ion-resistance-mechanisms]]).
 
 ## Unique Challenges of Fungal Vaccine Development
 
 ### Biological Challenges
 
 - **Fungi are eukaryotes**: Unlike bacteria and viruses, fungi share fundamental cellular biology with human cells. Many potential antigens have human homologs, raising concerns about autoimmune cross-reactivity
-- **Diverse pathogenic mechanisms**: Fungal pathogens use varied strategies — tissue invasion, dimorphism, biofilm formation, [[fungal-virulence-factors-host-immune-evasion]] — making a universal approach difficult
+- **Diverse pathogenic mechanisms**: Fungal pathogens use varied strategies — tissue invasion, dimorphism, biofilm formation, immune evasion — making a universal approach difficult
 - **Intracellular vs. extracellular phases**: Some fungi (Histoplasma, Cryptococcus) have intracellular phases that require cell-mediated immunity, while others (Candida, Aspergillus) are primarily extracellular
 - **Immune evasion**: Fungi have sophisticated mechanisms to evade host immunity, including capsule formation (Cryptococcus), biofilm formation (Candida), melanin production, and morphological switching
 
@@ -38,12 +38,12 @@ The populations at highest risk — immunocompromised patients (HIV/AIDS, transp
 
 - **Limited commercial incentive**: Pharmaceutical companies perceive fungal vaccines as low-profit compared to chronic disease therapeutics. The primary target populations (immunocompromised) are relatively small
 - **Regulatory uncertainty**: No established regulatory pathway for fungal vaccines; no precedents for approval
-- **[[psilocybin-clinical-trial-landscape-2020-2025]] complexity**: Endpoint definitions are challenging; patient populations are heterogeneous and often critically ill
-- **Funding**: Historical underfunding of fungal [[cannabis-huntingtons-disease-research]] relative to bacterial and viral diseases
+- **Clinical trial complexity**: Endpoint definitions are challenging; patient populations are heterogeneous and often critically ill
+- **Funding**: Historical underfunding of fungal disease research relative to bacterial and viral diseases
 
 ## Candida Vaccine Candidates
 
-Candida species (especially C. albicans, C. glabrata, C. parapsilosis, C. tropicalis, and the emerging C. auris) are the most common causes of invasive fungal infection worldwide.
+Candida species (especially C. albicans, C. glabrata, C. parapsilosis, C. tropicalis, and the emerging C. auris) are the most common causes of invasive fungal infection worldwide. (see [[trichoderma-and-biocontrol-fungi]]).
 
 ### NDV-3A (Vaxinnate/Novateur)
 
@@ -67,7 +67,7 @@ Invasive aspergillosis primarily affects immunocompromised patients, especially 
 
 ### ASP3976 (Astellas/GlaxoSmithKline)
 
-- **Antigen**: Recombinant Asp f3 protein from [[aspergillus-fumigatus]]
+- **Antigen**: Recombinant Asp f3 protein from Aspergillus fumigatus
 - **Mechanism**: Asp f3 is a thiol peroxidase involved in oxidative stress defense
 - **Status**: Completed Phase I trials demonstrating safety and immunogenicity in healthy adults
 - **Target population**: Patients undergoing chemotherapy, stem cell transplantation, or lung transplantation
@@ -85,7 +85,7 @@ Cryptococcal meningitis kills approximately 180,000 people annually, primarily i
 
 ### Capsule-Based Approaches
 
-The polysaccharide capsule is the primary virulence factor of [[cryptococcus-neoformans]]:
+The polysaccharide capsule is the primary virulence factor of Cryptococcus neoformans:
 
 - **GXM conjugate vaccine**: Glucuronoxylomannan (the major capsular polysaccharide) conjugated to tetanus toxoid. Shown protective in animal models. Phase I trials demonstrated safety and immunogenicity
 - **GXM-tetanus toxoid**: Generates antibodies that enhance opsonophagocytosis of Cryptococcus by macrophages
@@ -139,9 +139,7 @@ The success of mRNA vaccines against SARS-CoV-2 has renewed interest in mRNA pla
 - **Universal fungal vaccines**: Targeting common antigens shared across multiple fungal pathogens (e.g., beta-glucan, heat shock proteins, chitin)
 - **Combination vaccines**: Incorporating antigens from multiple fungi into a single formulation
 - **Therapeutic vaccines**: Designed to boost immune responses in patients already infected
-- **Improved adjuvants**: TLR agonists and other pattern recognition [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]] to enhance fungal-specific immune responses
+- **Improved adjuvants**: TLR agonists and other pattern recognition receptor agonists to enhance fungal-specific immune responses
 - **Personalized approaches**: Tailoring vaccine strategies to individual patient risk profiles and immune status
 
 See [[fungal-infections-human]] for details on the diseases these vaccines aim to prevent and [[fungal-antibiotics]] for current treatment approaches.
-
-See also: [[legume-nitrogen-fixation-and-green-manure]]

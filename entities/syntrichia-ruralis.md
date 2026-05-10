@@ -101,6 +101,8 @@ The species is used as a reference system for studying the evolution of desiccat
 
 ## See Also
 
+- [[homalothecium-sericeum]]
+
 - [[ceratodon-purpureus]]
 - [[bryum-argenteum]]
 - [[polytrichum-commune]]

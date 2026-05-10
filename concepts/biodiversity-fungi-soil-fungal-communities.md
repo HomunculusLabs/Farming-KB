@@ -127,6 +127,8 @@ appear to be primarily tropical in distribution.
 
 ## See Also
 
+- [[soil-physicochemical-properties-microbial-communities]]
+
 - biodiversity fungi soil fungal communities
 
 - [[fukuoka-natural-farming-soil-ecology-principles]]

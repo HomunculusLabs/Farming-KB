@@ -1,5 +1,5 @@
 ---
-title: comparison-foliar-feeding-vs-compost-tea-nutrients Plants
+title: Foliar Feeding Plants
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -26,7 +26,7 @@ Most nutrients must be in ionic (charged) form to be absorbed, the same requirem
 
 ## The Mobility Limitation
 
-The effectiveness of foliar feeding depends critically on [[cervantes-nutrient-mobility-deficiency-diagnosis]] within the plant:
+The effectiveness of foliar feeding depends critically on nutrient mobility within the plant:
 
 - **Mobile nutrients** (N, P, K, Mg, Mo, Ni, Zn): Can be transported from leaves where they are absorbed to other parts of the plant. Foliar feeding has some value for these.
 - **Immobile nutrients** (Ca, B, S, Fe, Mn, Cu): Once absorbed into a leaf cell, they stay there. Spraying these nutrients only benefits the leaves that receive the spray -- they cannot be moved to growing tips, roots, or new leaves where they may be needed most.
@@ -45,11 +45,11 @@ When soil conditions (compaction, extreme pH, waterlogging) prevent root uptake,
 
 ### Growth Stimulation
 
-Some gardeners use dilute seaweed extracts or fish emulsion as [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] during critical growth periods (transplanting, flowering, fruit set) for a boost of micronutrients, hormones, and enzymes.
+Some gardeners use dilute seaweed extracts or fish emulsion as foliar sprays during critical growth periods (transplanting, flowering, fruit set) for a boost of micronutrients, hormones, and enzymes.
 
 ## Surfactants
 
-Surfactants (wetting agents) reduce the [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]] of the spray solution, allowing it to spread more evenly across leaf surfaces and penetrate the waxy cuticle more effectively. Many commercial foliar products include surfactants. A few drops of mild liquid soap can serve as a homemade surfactant, but avoid detergents that can damage leaf tissue.
+Surfactants (wetting agents) reduce the surface tension of the spray solution, allowing it to spread more evenly across leaf surfaces and penetrate the waxy cuticle more effectively. Many commercial foliar products include surfactants. A few drops of mild liquid soap can serve as a homemade surfactant, but avoid detergents that can damage leaf tissue.
 
 ## Timing Considerations
 

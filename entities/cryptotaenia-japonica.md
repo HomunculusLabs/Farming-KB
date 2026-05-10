@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Kato, A. et al. (2012). "Chemical composition and antioxidant activity of Cryptotaenia japonica." Journal of Agricultural and Food Chemistry.
   - Sugimoto, N. et al. (2009). "Polyacetylenes from Cryptotaenia japonica." Phytochemistry.
-  - Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. CRC Press.
+  - Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. CRC Press.
   - Lee, J. et al. (2015). "Anti-inflammatory effects of Cryptotaenia japonica extract." BMC Complementary and Alternative Medicine.
 ---
 

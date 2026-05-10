@@ -1,5 +1,5 @@
 ---
-title: PIHKAL mdma-qualitative-effects-phenomenology Themes
+title: PIHKAL Qualitative Effects Themes
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -84,7 +84,7 @@ Less commonly reported but present in some entries:
 - [[2c-e-compound-profile]] and the DO family are particularly noted for cognitive depth
 
 ### Ego Effects
-- Varying degrees of [[psilocybin-ego-dissolution-mechanisms]] or ego softening
+- Varying degrees of ego dissolution or ego softening
 - At moderate doses: reduced self-consciousness and social inhibition
 - At higher doses: complete dissolution of the sense of separate self (particularly with [[2c-b-compound-profile]])
 - The balance between ego preservation and dissolution varies by compound

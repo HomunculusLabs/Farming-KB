@@ -137,6 +137,8 @@ holistic approach to soil fertility management.
 
 ## See Also
 
+- [[soil-protozoa-nutrient-cycling-mineralization]]
+
 - [[soil-protozoa-ecology-trophic-interactions]]
 - soil nitrogen cycle
 - soil phosphorus cycling

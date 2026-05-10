@@ -4,8 +4,7 @@ created: 2026-05-02
 updated: 2026-05-02
 type: comparison
 tags: [gardening, permaculture]
-sources:
-  sources: []
+sources: []
 ---
 ---
 title: "Annual vs Perennial"

@@ -1,6 +1,6 @@
 ---
 
-title: comparison-laminar-flow-hood-vs-fruiting-chamber Hood Guide
+title: Laminar Flow Hood Guide
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # Laminar Flow Hood Guide
 
-A laminar flow hood (LFH) provides a continuous stream of HEPA-filtered air, creating a sterile workspace for [[accessible-mushroom-cultivation-for-disabilities]], agar work, and [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]. It is the gold standard for contamination prevention.
+A laminar flow hood (LFH) provides a continuous stream of HEPA-filtered air, creating a sterile workspace for mushroom cultivation, agar work, and tissue culture. It is the gold standard for contamination prevention.
 
 Related: [[mushroom-sterile-technique-detailed]], [[mushroom-grow-equipment]]
 
@@ -44,7 +44,7 @@ A blower fan draws room air through a prefilter (removing large particles) then 
 
 ## Sizing
 
-The standard DIY size is 2 ft x 4 ft (24x48 in working face). This provides ample workspace for [[query-how-to-make-agar-plates-for-mushroom-cultivation]], grain jars, and inoculation work. Smaller hoods (12x24 in) work for limited budgets.
+The standard DIY size is 2 ft x 4 ft (24x48 in working face). This provides ample workspace for agar plates, grain jars, and inoculation work. Smaller hoods (12x24 in) work for limited budgets.
 
 ## Calculating Airflow
 
@@ -55,7 +55,7 @@ Proper airflow is critical. The HEPA filter has a rated face velocity of 100 FPM
 3. Account for filter static pressure (typically 1.0-1.2 in w.g.) — the blower must deliver 800 CFM at that pressure
 4. Always check the blower's performance curve, not just free-air CFM rating
 
-A minimum of 100 CFM per [[comparison-biointensive-vs-square-foot-gardening]] of filter area ensures laminar flow. Too little and contaminants enter; too much and turbulence disrupts the sterile curtain.
+A minimum of 100 CFM per square foot of filter area ensures laminar flow. Too little and contaminants enter; too much and turbulence disrupts the sterile curtain.
 
 ## DIY Build Steps
 
@@ -114,7 +114,7 @@ Forister and Burger (UC Davis, Dept. of Environmental Horticulture) published a 
 
 ## Commercial Alternatives
 
-Pre-built laminar flow hoods cost $500-3000+. For occasional home use, a still [[query-how-to-make-a-diy-still-air-box-for-mushroom-cultivation]] (SAB) at $5-20 is a viable alternative, though the flow hood dramatically reduces contamination rates for regular agar work.
+Pre-built laminar flow hoods cost $500-3000+. For occasional home use, a still air box (SAB) at $5-20 is a viable alternative, though the flow hood dramatically reduces contamination rates for regular agar work.
 
 ## See Also
 

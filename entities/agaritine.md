@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Walton K et al. (2019). "Agaritine and its derivatives: review of chemistry, biochemistry, toxicology, and dietary risk assessment." Food and Chemical Toxicology, 132: 110642
-  - Schumacher RW et al. (2006). "The biosynthesis of agaritine in [[genetic-improvement-agaricus-bisporus-molecular-approaches]]." Journal of Natural Products, 69(6): 942-944
+  - Schumacher RW et al. (2006). "The biosynthesis of agaritine in genetic-improvement-agaricus-bisporus-molecular-approaches." Journal of Natural Products, 69(6): 942-944
   - EFSA Panel on Contaminants in the Food Chain (2018). "Scientific Opinion on the risks for public health related to the presence of glycoalkaloids in food." EFSA Journal
 ---
 

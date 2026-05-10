@@ -103,8 +103,5 @@ monthly water budget:
 
 The tank must be sized to cover the maximum cumulative deficit (the
 lowest point in the cumulative balance curve). In Mediterranean or
-## See Also
 
 ## See Also
-
-- mollison-designers-roof-water-catchment

@@ -1,127 +1,149 @@
 ---
-title: Dual Chambered Terrarium for Mushroom Fruiting
-aliases: [DCT, PF Terrarium, Dual Chamber Terrarium, [[pf-tek-perlite-humidification-evaporation-dynamics]]
-tags: [mycology, cultivation, fruiting, humidity, terrarium, psilocybe-cubensis]
+title: Dual Chambered Terrarium Fruiting
+source: pf-tek-psilocybe-fanaticus
+tags: [cultivation, pf-tek, fruiting, terrarium, humidity, mycology, mushroom]
 created: 2026-05-09
 ---
 
-# Dual Chambered Terrarium for Mushroom Fruiting
+# Dual Chambered Terrarium Fruiting
 
 ## Overview
 
-The Dual Chambered Terrarium (DCT) is the [[fruiting-chamber]] design developed by [[psylocybe-fanaticus]] as part of the PF TEK system. It uses a standard 10-gallon aquarium divided into two zones — an upper fruiting chamber and a lower humidity reservoir — separated by a perforated platform. The design creates a self-regulating humid environment ideal for *[[psilocybe-cubensis]]* fruiting without requiring active humidification equipment.
+The Dual Chambered Terrarium (DCT) is the [[comparison-laminar-flow-hood-vs-fruiting-chamber]] design
+developed by [[pf-tek-psilocybe-fanaticus]] for the PF TEK cultivation method. It
+consists of a standard aquarium modified into two chambers — an upper
+[[pf-tek-fruiting-chamber-and-cultivation-environment]] a lower humidity reservoir chamber — separated by a
+perforated barrier. This design provides the high humidity environment
+required for [[aquarium-humidity-chamber-mushroom-fruiting]] while allowing air exchange and easy
+maintenance. The DCT was designed to be constructed from inexpensive,
+commonly available materials.
 
-## Design Principles
+## Chamber Design
 
-The DCT exploits two physical principles to maintain high humidity:
+The terrarium is built from a standard glass aquarium:
 
-1. **Evaporation from a large water surface area:** The lower chamber contains a bed of wet perlite or standing water. Water evaporates upward through the perforated divider, continuously humidifying the upper chamber.
-2. **Airtight enclosure:** A tightly sealed aquarium lid (custom-built from a wooden frame with polyethylene film stretched across it) traps moisture inside, preventing humidity loss. The lid must have no air leaks.
+- **Upper chamber**: Where colonized substrate cakes fruit. This is the
+  main growing space where mushrooms develop.
+- **Lower chamber**: Serves as a humidity reservoir, typically filled
+  with damp perlite to maintain high ambient humidity.
+- **Perforated barrier**: Separates the chambers while allowing humid
+  air to rise from the reservoir into the fruiting space.
 
-The critical design requirement is that the aquarium must be completely sealable. Any gaps or air leaks allow humidity to escape, leading to inadequate [[fruiting-conditions]]. The polyethylene film lid should be tacked tightly to the frame so that it hangs down and seals against the aquarium rim.
+The aquarium should be sized appropriately for the number of cakes being
+fruited. A standard 10-gallon aquarium can comfortably hold 6-12
+half-pint cakes depending on arrangement.
 
-## Construction
+## Perlite Humidification
 
-### Materials
-- Standard 10-gallon glass aquarium (24" × 14.5" outer dimensions)
-- 1/4" flat board or wood strips for lid frame
-- Clear polyethylene plastic film (Saran wrap or similar)
-- Perforated platform (plastic grid, egg crate lighting panel, or similar)
-- Perlite (horticultural grade) or alternative humidification medium
-- Waterproof tape or sealant
+Perlite (amorphous volcanic glass) is the recommended humidification
+medium for the lower chamber. It provides superior humidity regulation
+compared to standing water alone:
 
-### Upper Chamber (Fruiting Zone)
-The upper chamber houses the colonized substrate cakes. The platform supporting the cakes must be elevated above the water/perlite surface in the lower chamber. Cakes are placed directly on the platform. The height of the upper chamber (determined by the platform position) should provide at least 6–8 inches of headroom above the cakes to allow mushroom growth.
+- Perlite holds large amounts of water on its irregular surface area.
+- It releases moisture gradually, maintaining stable humidity levels.
+- It is inert and does not support microbial growth when properly
+  maintained.
+- It is inexpensive and available at any garden center.
 
-### Lower Chamber (Humidity Reservoir)
-The lower chamber holds the humidification medium. Two approaches are used:
+The perlite [[pf-tek-perlite-humidification-technique]] exemplifies the PF TEK philosophy
+of "less is more" — simple, effective solutions using minimal equipment.
 
-1. **Standing water:** Simple but requires careful water level management. Too much water and the upper chamber becomes excessively wet; too little and humidity drops.
-2. **Perlite humidification:** The preferred method. A 2–3 inch bed of wet perlite in the lower chamber provides a massive surface area for evaporation while remaining well below the platform. Perlite humidification is described by PF as proving "once again, that less is more" — it provides more consistent humidity with less maintenance than standing water.
+## Removing the Cake from the Jar
 
-### The Airtight Lid
-The lid is a custom wooden frame (21.25" × 12" inside dimensions for a standard 10-gallon aquarium) with clear polyethylene film tacked to the underside. The frame's inner cutout must be slightly larger than the aquarium top so the film seals against the glass. Professional-grade masking tape can supplement the seal at the edges.
+Once the substrate cake is fully colonized (visible as white mycelium
+covering all exposed surfaces), it must be removed from the jar for
+fruiting. The process requires care:
 
-## Environmental Parameters
+1. Loosen the substrate from the jar walls by gently tapping and
+   rotating the jar. The tapered sides of recommended jars facilitate
+   this step.
+2. Open the jar and invert it over a clean surface, allowing the cake
+   to slide out. The dry vermiculite contamination barrier on top
+   can be left in place or gently brushed off.
+3. If the cake resists removal, gently insert a clean butter knife
+   along the inside wall to break the seal, then retry.
+4. Place the cake on the perforated barrier in the upper chamber of
+   the terrarium.
 
-### Humidity
-The DCT should maintain 90–95% relative humidity in the upper chamber. This is the range at which *P. cubensis* primordia form and fruitbodies develop normally. Symptoms of low humidity include:
+## Incubation Before Fruiting
 
-- **Cracking of the mushroom cap:** Caps develop radial splits as they expand in dry air.
-- **Stunted growth:** Mushrooms fail to reach normal size.
-- **Premature veil tearing:** The partial veil breaks early, indicating the mushroom is abandoning normal development.
-- **White fuzzy mycelial growth on stems:** "Fuzzy feet" — the mycelium tries to create its own humid microclimate by growing aerial hyphae from the stem surface.
+After inoculation, jars are incubated at room temperature (approximately
+70-75°F / 21-24°C) in a dark, draft-free location. Colonization
+typically takes 2-4 weeks depending on spore viability, temperature,
+and substrate conditions. Signs of successful colonization include:
 
-### Temperature
-Room temperature (65–75°F / 18–24°C) is adequate for fruiting. The PF TEK describes heating the terrarium with an aquarium heater in the lower water reservoir, but notes this is optional in warm conditions. Avoid temperatures above 80°F, which promote bacterial contamination and can reduce potency.
+- White, thread-like mycelium spreading from inoculation points.
+- Complete coverage of the substrate visible through the glass.
+- Formation of primordia (small pin-like structures) on the substrate
+  surface, indicating readiness for fruiting.
 
-### Fresh Air Exchange
-While the DCT is designed to be airtight for humidity retention, some gas exchange is necessary to prevent CO₂ accumulation. The natural imperfections in the lid seal and the periodic opening for maintenance provide sufficient exchange. The PF TEK recommends daily misting/spraying as part of the maintenance routine, which also introduces fresh air during each opening.
+## The Canning Jar Lid: Loose or Tight
 
-## Maintenance Routine
+During incubation, the jar lid can be left slightly loose to allow gas
+exchange. This is particularly important when using the maximum fruiting
+formula (higher water content) or finer vermiculite, as excess moisture
+can build up and promote bacterial growth. The dry vermiculite barrier
+layer at the top of the jar provides the primary contamination defense
+even with the lid slightly loosened.
 
-### Spraying Procedure
-Mist the inside walls and lid of the upper chamber with a fine spray of water from a clean spray bottle. Do not spray directly onto the cakes — indirect misting from the walls allows moisture to evaporate and humidify the air gently. This is performed daily or as needed to maintain humidity.
+## Time Scale of Mushroom Development
 
-### Water Management
-Monitor the water level in the lower chamber. With perlite humidification, re-wet the perlite when it begins to dry (every few days to a week depending on conditions). With standing water, top up as needed. Avoid letting water contact the cakes or the platform.
+The PF TEK follows a predictable timeline:
 
-### Contamination Monitoring
-Check cakes and chamber surfaces daily for signs of contamination (colored growths, unusual odors). Remove any contaminated cake immediately to prevent spread within the sealed environment.
+1. **Spore germination**: 3-7 days after inoculation, visible white
+   mycelium appears at inoculation points.
+2. **Colonization**: 14-28 days for complete substrate colonization.
+3. **[[fruiting-initiation]]**: Primordia (pins) form within days of
+   placing cakes in the humidified terrarium.
+4. **Mushroom maturation**: 5-7 days from pin formation to harvest.
+   Mushrooms are harvested just before or as the veil beneath the cap
+   begins to tear.
 
-## Loading the Terrarium
+## Humidity Management
 
-The best time to transfer cakes from the colonization jar to the terrarium is when primordia (tiny structures with reddish heads) appear on the cake surface inside the jar. The transfer procedure:
+Maintaining proper humidity (90-95% relative humidity) is critical.
+Symptoms of low humidity include:
 
-1. Remove the jar lid and scrape away the majority of the dry top vermiculite barrier.
-2. Place an old jar lid over the jar mouth and invert the jar onto it.
-3. Lightly tap the inverted jar on a cushioned surface. The cake slides out onto the lid base.
-4. Gently daub any water droplets from the cake surface with tissue paper.
-5. Place the cake immediately into the terrarium on the platform.
+- Slow or stalled pin development.
+- Cracked or split mushroom caps.
+- Premature veil tearing and early spore release.
+- Small, underdeveloped mushrooms.
 
-Handle cakes minimally to avoid bruising, which causes blueing (oxidation of psilocin) and represents a loss of active compounds.
+Regular misting with a clean spray bottle of distilled water helps
+maintain humidity. Light mist directed above the cakes allows droplets
+to settle gently rather than spraying directly onto the mycelium.
 
-## Perlite Humidification Technique
+## Heating
 
-The perlite method involves placing 2–3 inches of horticultural perlite in the lower chamber and saturating it with water. The perlite should be wet but not submerged — excess water should be drained off. Perlite's enormous surface area (each expanded particle has countless microscopic crevices) provides far more evaporation surface than an equivalent volume of standing water, resulting in higher and more stable humidity with less maintenance.
+Mild heating of the terrarium can accelerate colonization and fruiting,
+particularly in cool environments. Heat sources should be placed outside
+the terrarium to avoid drying the substrate. A heating pad placed under
+one end of the aquarium creates a temperature gradient, with the warmer
+end promoting faster growth. Temperatures above 80°F (27°C) should be
+avoided as they promote contamination.
 
-The perlite bed also acts as a thermal buffer, moderating temperature fluctuations in the chamber. Wet perlite has significant thermal mass, which helps prevent rapid temperature swings that can stress developing fruitbodies.
+## Cool Desiccation (Drying)
 
-## Fruiting Cycle Timeline
+After harvest, mushrooms are dried for preservation:
 
-The complete PF TEK lifecycle from spore to harvest follows this approximate timeline:
+- Place fresh mushrooms on a screen or paper towel in a dry,
+  well-ventilated area.
+- A fan can accelerate drying. Avoid direct heat sources.
+- For complete desiccation, place dried mushrooms in a sealed
+  container with desiccant (silica gel, damp-rid).
+- Properly dried mushrooms are cracker-dry and snap rather than bend.
+- Store in airtight containers in a cool, dark location.
 
-1. **Spore inoculation → germination:** Within 3–7 days at ~70°F (21°C)
-2. **Germination → full colonization:** 2–3 weeks
-3. **Colonization → pinning:** Within 1–2 weeks after full colonization
-4. **Pinning → harvest:** Approximately 2 weeks for the first flush
-5. **Total cycle:** 4–6 weeks from inoculation to first harvest
+## Spore Printing
 
-After the initial flush, cakes may produce a secondary flush if thoroughly cleaned, but subsequent flushes are typically sparse and small. The first flush is by far the most productive.
-
-## Troubleshooting
-
-| Problem | Likely Cause | Solution |
-|---|---|---|
-| No pinning after 2 weeks | Insufficient humidity or temperature | Check seal integrity, increase misting |
-| Mushrooms growing tall and thin | High CO₂, low light | Open chamber more often, add indirect light |
-| Cap cracking | Low humidity | Increase misting frequency, check perlite moisture |
-| Fuzzy white stems ("fuzzy feet") | Low humidity or high CO₂ | Improve air exchange, boost humidity |
-| Green mold on cakes | *Trichoderma* contamination | Remove affected cake immediately; sanitize chamber |
-| Slime or sour smell | Bacterial contamination | Discard affected cake; sterilize chamber |
-| Cakes turning blue | Bruising from handling or dehydration | Handle less; check humidity levels |
-
-## CO₂ and Mushroom Morphology
-
-Carbon dioxide concentration strongly influences the shape and size of developing fruitbodies. In the natural environment on cow dung, *P. cubensis* grows in open air with low CO₂ and develops thick-stemmed, broad-capped mushrooms. In a sealed terrarium, CO₂ accumulates from mycelial respiration and the mushrooms respond by growing taller with thinner stems and smaller caps — an adaptation to reach above the CO₂-rich boundary layer toward fresh air. This is why regular air exchange (through misting and brief chamber openings) is important for producing well-formed specimens.
+Mature mushrooms with open caps can create spore prints for future
+cultivation. Place the cap gills-down on clean paper or foil, cover with
+a glass, and leave for 12-24 hours. The resulting print contains millions
+of spores and can prepare new spore syringes, continuing the cultivation
+cycle indefinitely.
 
 ## See Also
-- [[psilocybe-cubensis-fruiting-timeline-flush-patterns-dung-grain-substrate]]
 
-- [[pf-tek-brown-rice-vermiculite-substrate]]
-- [[mushroom-potency-harvest-timing]]
-
-## References
-
-- Psylocybe Fanaticus, *PF TEK — [[psilocybe-fanaticus]]*, 2nd Edition, 1996
-- Source: `fanaticus-pf-tek-psilocybe-fanaticus.md`
+- [[pf-tek-dual-chambered-terrarium-design-humidity-management]]
+- [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]
+- [[simple-stackable-fruiting-chamber-passive-humidity-cultivation]]

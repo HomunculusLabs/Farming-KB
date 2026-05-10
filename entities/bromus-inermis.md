@@ -117,4 +117,4 @@ Despite its invasiveness, smooth brome remains a valuable tool for emergency ero
 - [[schizachyrium-scoparium]]
 - [[bouteloua-curtipendula]]
 - [[dactylis-glomerata]]
-- [[pennisetum-alpecuroides]]
+- [[pennisetum-alopecuroides]]

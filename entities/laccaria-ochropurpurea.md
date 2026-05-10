@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Mueller, G.M. (1992). \"Systematics of Laccaria (Agaricales) in the continental United States and Canada.\" Mycotaxon, 44, 1-60."
-  - "Wilson, A.W. et al. (2017). \"Systematics of the genus Laccaria (Agaricales, Basidiomycota) in [[psilocybin-north-america-pacific-northwest]].\" Mycologia, 109(5), 795-818."
+  - "Wilson, A.W. et al. (2017). \"Systematics of the genus Laccaria (Agaricales, Basidiomycota) in psilocybin-north-america-pacific-northwest.\" Mycologia, 109(5), 795-818."
   - "Kropp, B.R. & Mueller, G.M. (1999). \"Laccaria.\" In: Cannon, P.F. et al. (eds.), Fungi of Europe."
   - "https://www.mycobank.org/Laccaria/ochropurpurea"
 created: 2026-05-07

@@ -20,7 +20,7 @@ sources:
   - "Maa, E. & Figi, P. (2014). \"The case for cervantes-medical-marijuana-pharmacology in epilepsy.\" Epilepsia 55(6): 783-786."
   - "Press, C.A. et al. (2015). \"Parental reporting of response to oral cannabis extracts for treatment of refractory epilepsy.\" Epilepsy & Behavior 45: 49-52."
   - "Gupta, S.K. (2015). \"FDA approvals of cannabinoid-based pharmaceuticals.\" FDA Presentation."
-  - "Lewis, M.A. et al. (2018). \"Cannabidiol as a potential treatment for anxiety and [[cannabis-sleep-disorders-and-insomnia]].\" Journal of Clinical Pharmacy and Therapeutics 43(5): 635-641."
+  - "Lewis, M.A. et al. (2018). \"Cannabidiol as a potential treatment for anxiety and cannabis-sleep-disorders-and-insomnia.\" Journal of Clinical Pharmacy and Therapeutics 43(5): 635-641."
   - "https://www.charlottesweb.com/about-us"
 aliases:
   - CW

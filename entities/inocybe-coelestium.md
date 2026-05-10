@@ -7,8 +7,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Guzmán G, Allen JW, Gartz J. World Wide Distribution of Magic Mushrooms"
-  - "Stamets P, Gartz J. [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World"
-  - "Gartz J. Magic Mushrooms [[fungi-around-the-world-species-distribution]]"
+  - "Stamets P, Gartz J. forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World"
+  - "Gartz J. Magic Mushrooms fungi-around-the-world-species-distribution"
 ---
 # Inocybe coelestium
 ## Overview

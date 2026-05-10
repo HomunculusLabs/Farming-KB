@@ -1,5 +1,5 @@
 ---
-title: Permaculture holzer-pond-construction-and-aquaculture
+title: Permaculture Pond Construction
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 # Permaculture Pond Construction
 
-Ponds and small dams are central elements in permaculture water management, serving multiple functions: irrigation, aquaculture, fire control, wildlife habitat, stock water, and landscape aesthetics. Mollison treats earth dams as the cheapest, easiest, and most locally self-reliant method of water conservation.
+Ponds and small dams are central elements in permaculture water management, serving multiple functions: irrigation, aquaculture, fire control, wildlife habitat, stock water, and landscape aesthetics. Mollison treats earth dams as the cheapest, easiest, and most locally self-reliant method of water conservation. (see [[earthworks-for-water-management]]).
 
 ## General Principles
 
@@ -21,7 +21,7 @@ Ponds and small dams are central elements in permaculture water management, serv
 ## Dam Types and Locations
 
 ### Saddle Dams
-The highest available storages, on saddles or hollows in the skyline profile of hills. Can be excavated below grade or walled. Uses: wildlife, stock, high storage, fire control.
+The highest available storages, on saddles or hollows in the skyline profile of hills. Can be excavated below grade or walled. Uses: wildlife, stock, high storage, fire control. (see [[permaculture-water-systems]]).
 
 ### Ridgepoint ("Horseshoe") Dams
 Built on sub-plateaus of flattened ridges on descending ridgelines, below saddle dams. Shaped like a horse's hoof. Uses: as for saddle dams; limited irrigation but useful for runoff and pumped storages.
@@ -52,10 +52,10 @@ The spillway is the critical safety element:
 ## Sealing Methods
 
 ### Gleying
-A biological sealing method using fresh [[fukuoka-textdoc-animal-manure-human-waste-natural-cycle-heretic]] (cattle, pig, chicken) and green [[hamilton-composting-and-organic-matter-management]] (grass, papaya and banana leaves, [[comparison-green-manure-guide-vs-mulch-types-and-effects]]) spread 15-30 cm thick over the pond bottom and banks, then sealed with soil, plastic, or hay. Fermentation produces an impermeable bacterial slime. Modifications include penning cattle in the dry dam until the bottom is manurial pug.
+A biological sealing method using fresh animal manure (cattle, pig, chicken) and green organic matter (grass, papaya and banana leaves, green manure) spread 15-30 cm thick over the pond bottom and banks, then sealed with soil, plastic, or hay. Fermentation produces an impermeable bacterial slime. Modifications include penning cattle in the dry dam until the bottom is manurial pug.
 
 ### Bentonite
-Volcanic ash-derived [[jadam-red-clay-powder-method]] that swells when watered. Rototilled in at 5-7 cm deep and rolled. Works in sands, gravels, shales, and leaking substrates. Expensive and doesn't always work.
+Volcanic ash-derived clay powder that swells when watered. Rototilled in at 5-7 cm deep and rolled. Works in sands, gravels, shales, and leaking substrates. Expensive and doesn't always work.
 
 ### Clay
 Spread and rolled 23-30 cm thick over suspect areas. Expensive if carted in but reliable.

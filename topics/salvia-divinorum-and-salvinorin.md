@@ -125,7 +125,6 @@ religious, and economic pressures. Respect for the tradition means neither
 freezing it as timeless folklore nor stripping the plant from the people who
 cared for it. It means recognizing that ethnobotanical knowledge is social
 knowledge.
-
 ## See Also
 
 - [[salvia-divinorum]]

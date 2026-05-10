@@ -67,6 +67,8 @@ contamination while allowing the [[spore-syringe]] vigorously to distribute spor
 
 ## See Also
 
+- [[pf-tek-steam-sterilization-contamination-control-methods]]
+
 - [[pf-tek-control-jar-sterility-verification]]
 
 - [[mushroom-desiccant-drying-methods]] - Post-harvest drying

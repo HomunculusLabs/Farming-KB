@@ -145,6 +145,5 @@ The chemotype is written as a six-digit number representing the descending order
 
 **Witch's kava** (a concept from Vanuatu) refers to particularly potent or unusual varieties, sometimes associated with [[adverse-effects-and-harm-reduction-psilocybin]].
 
-### Non-Lactone Constituents
 ## Related
 - [[coleman-claytonia-winter-harvest-cultivation|coleman claytonia winter harvest cultivation]]

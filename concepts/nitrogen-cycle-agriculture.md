@@ -40,7 +40,7 @@ Aerobic oxidation of NH₄⁺ to NO₃⁻ via two steps. **Step 1** (ammonia oxi
 
 ### Denitrification
 
-Facultative anaerobes (*Pseudomonas*, *Paracoccus*, *Bradyrhizobium*) reduce NO₃⁻ → NO₂⁻ → NO → N₂O → N₂ using nitrate reductase (NAR), nitrite reductase (NirK/NirS), nitric oxide reductase (NOR), and nitrous oxide reductase (NosZ). Favored by >60–70% WFPS, available carbon, and neutral pH. Acidic conditions inhibit NosZ, increasing the N₂O:N₂ ratio. Agricultural soils emit ~3.8 Tg N₂O-N yr⁻¹ (~60% of anthropogenic N₂O). **Anammox** (*Candidatus Brocadia*, Planctomycetes) converts NH₄⁺ + NO₂⁻ directly to N₂ in the anammoxosome; contributes 5–15% of N₂ production in some flooded soils.
+Facultative anaerobes (*Pseudomonas*, *Paracoccus*, *Bradyrhizobium*) reduce NO₃⁻ → NO₂⁻ → NO → N₂O → N₂ using nitrate reductase (NAR), nitrite reductase (NirK/NirS), nitric oxide reductase (NOR), and [[nitrous-oxide]] reductase (NosZ). Favored by >60–70% WFPS, available carbon, and neutral pH. Acidic conditions inhibit NosZ, increasing the N₂O:N₂ ratio. Agricultural soils emit ~3.8 Tg N₂O-N yr⁻¹ (~60% of anthropogenic N₂O). **Anammox** (*Candidatus Brocadia*, Planctomycetes) converts NH₄⁺ + NO₂⁻ directly to N₂ in the anammoxosome; contributes 5–15% of N₂ production in some flooded soils.
 
 ### Volatilization, Leaching, and Runoff
 
@@ -88,11 +88,11 @@ N₂O has a GWP₁₀₀ of 273 (IPCC AR6), atmospheric lifetime ~114 years, cur
 
 ### 4R Nutrient Stewardship
 
-Right [[biological-nitrification-inhibition]]ume covers (cereal rye, radish) scavenge 20–70 kg N/ha, reducing leaching by 40–80%. Legume covers (crimson clover, hairy vetch) fix 50–200 kg N/ha. Soybean contributes 25–50 kg N/ha to subsequent corn; alfalfa fixes 200–300 kg N/ha over 3–4 years.
+Right [[biological-nitrification-inhibition]] ume covers (cereal rye, radish) scavenge 20–70 kg N/ha, reducing leaching by 40–80%. Legume covers (crimson clover, hairy vetch) fix 50–200 kg N/ha. Soybean contributes 25–50 kg N/ha to subsequent corn; alfalfa fixes 200–300 kg N/ha over 3–4 years.
 
 ### Biological Nitrification Inhibition and Precision Management
 
-*Brachiaria humidicola* releases **brachialactone**, suppressing nitrification by 60–90% in the rhizosphere. *Sorghum bicolor* releases sorgoleone and MHPP. Precision tools include pre-sidedress nitrate testing, active canopy sensors (NDVI, SPAD), satellite imagery, and variable-rate technology, reducing N rates by 10–25% while maintaining yield. Integrated soil-crop system management in China raised maize yield from 7.5 to 13.5 t/ha while improving NUE from 30% to 57%.
+*Brachiaria humidicola* releases **brachialactone**, suppressing nitrification by 60–90% in the rhizosphere. *[[sorghum-bicolor]] or]]* releases sorgoleone and MHPP. Precision tools include pre-sidedress nitrate testing, active canopy sensors (NDVI, SPAD), satellite imagery, and variable-rate technology, reducing N rates by 10–25% while maintaining yield. Integrated soil-crop system management in China raised maize yield from 7.5 to 13.5 t/ha while improving NUE from 30% to 57%.
 
 ### Nitrification Inhibitors: Mechanisms and Efficacy
 

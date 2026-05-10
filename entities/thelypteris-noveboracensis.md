@@ -137,7 +137,6 @@ tolerates brief dry periods but performs best with regular moisture. It is
 hardy to USDA Zone 3, making it suitable for cold-climate gardens.
 
 The species has limited ethnobotanical significance. Indigenous peoples did
-not commonly harvest it for food or medicine, as more productive fern species
 ## See Also
 
 - [[dryopteris-filix-mas]]

@@ -60,7 +60,7 @@ implementation. Careful attention to these factors improves outcomes
 and reduces the likelihood of common problems and setbacks.
 
 Environmental conditions play a particularly significant role in
-[[det|det]]ermining outcomes. Factors such as temperature, moisture, light
+[[det]] ermining outcomes. Factors such as temperature, moisture, light
 exposure, and seasonal timing can substantially affect results.
 Monitoring these conditions and adapting practices accordingly is
 a hallmark of experienced and effective practice in this area.
@@ -108,3 +108,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
+
+See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
+See [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] for more on Query Can Bamboo Be Used As A Building Material And How Do I Get Started.

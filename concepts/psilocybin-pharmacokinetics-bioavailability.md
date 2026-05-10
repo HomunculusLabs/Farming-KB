@@ -2,7 +2,7 @@
 
 ## Overview
 
-The pharmacokinetics of psilocybin — encompassing its absorption, distribution, metabolism, and excretion (ADME) — are critical to understanding [[ayahuasca-drug-interactions]]rug interactions, and the design of clinical dosing protocols. Psilocybin is a prodrug that undergoes rapid first-pass dephosphorylation to its active metabolite psilocin, with complex interindividual variability in metabolic rates that significantly influences subjective experience intensity and duration.
+The pharmacokinetics of psilocybin — encompassing its absorption, distribution, metabolism, and excretion (ADME) — are critical to understanding [[ayahuasca-drug-interactions]] rug interactions, and the design of clinical dosing protocols. Psilocybin is a prodrug that undergoes rapid first-pass dephosphorylation to its active metabolite psilocin, with complex interindividual variability in metabolic rates that significantly influences [[dosage-unpredictability-psilocybin-subjective-experience]] intensity and duration.
 
 ## Chemical Properties Affecting Pharmacokinetics
 
@@ -11,7 +11,7 @@ Psilocybin (O-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) has the molecular for
 - **Water solubility**: Highly water-soluble due to the phosphate group, facilitating rapid dissolution in gastric fluid
 - **Lipid solubility**: The phosphate group renders psilocybin itself relatively polar with limited blood-brain barrier (BBB) penetration; however, its dephosphorylated metabolite psilocin (C₁₂H₁₆N₂O, MW 204.27) is significantly more lipophilic (log P ≈ 1.5–2.0) and readily crosses the BBB
 - **Acid stability**: Psilocybin is stable in acidic conditions (stomach pH 1–3) but undergoes rapid enzymatic dephosphorylation in the alkaline environment of the small intestine and by hepatic alkaline phosphatases
-- **Thermal sensitivity**: Psilocybin degrades at temperatures above 150°C, which is relevant for oral administration in capsules or solution but not for typical consumption methods
+- **Thermal sensitivity**: Psilocybin degrades at temperatures above 150°C, which is relevant for oral administration in capsules or solution but not for typical [[magic-mushroom-preparation-and-consumption-methods]]
 
 ## Absorption
 
@@ -22,8 +22,8 @@ Oral ingestion is the most common route of psilocybin administration in both rec
 - **Gastric absorption**: Minimal absorption occurs in the stomach due to psilocybin's zwitterionic nature, though some psilocybin may be dephosphorylated by gastric acid and absorbed as psilocin
 - **Intestinal absorption**: Primary absorption site is the small intestine, where alkaline phosphatase enzymes on the brush border membrane convert psilocybin to psilocin, which is then absorbed via passive diffusion
 - **Time to onset**: Subjective effects typically begin 20–60 minutes after oral administration, with peak effects at 60–120 minutes. The onset delay reflects the time required for gastric emptying, intestinal dephosphorylation, absorption, and BBB penetration
-- **Bioavailability**: Oral bioavailability is estimated at approximately 50–60%, with the remaining fraction lost to first-pass metabolism and incomplete absorption
-- **Food effects**: Fasting before administration accelerates onset and increases peak plasma concentrations (Cmax) by 20–40%. A full stomach delays onset by 30–60 minutes and may reduce [[phase-ii-metabolism]]phase I and phase II metabolism:
+- **Bioavailability**: [[first-pass-metabolism-and-oral-bioavailability]] is estimated at approximately 50–60%, with the remaining fraction lost to first-pass metabolism and incomplete absorption
+- **Food effects**: Fasting before administration accelerates onset and increases peak plasma concentrations (Cmax) by 20–40%. A full stomach delays onset by 30–60 minutes and may reduce [[phase-ii-metabolism]] phase I and [[phase-ii-metabolism]]:
 
 #### Phase I: Oxidation
 
@@ -46,7 +46,7 @@ The most significant source of interindividual variability in psilocybin pharmac
 - **Extensive metabolizers (EM)**: 60–80% of populations. Normal metabolic capacity, standard dosing
 - **Ultra-rapid metabolizers (UM)**: 5–10% of populations, more common in North African and Middle Eastern populations. Lower psilocin exposure, potentially subtherapeutic at standard doses
 
-This pharmacogenomic variability is not routinely assessed in current clinical trials but may become relevant as psilocybin moves toward personalized medicine approaches.
+This pharmacogenomic variability is not routinely assessed in current [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] but may become relevant as psilocybin moves toward personalized medicine approaches.
 
 ## Excretion
 

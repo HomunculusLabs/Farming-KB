@@ -13,7 +13,6 @@ type: concept
 
 [[sterilization]]
 - [[coleman-moveable-greenhouse-system]]
-
 ## See Also
 
 - coleman-mobile-greenhouse-crop-rotation-patterns

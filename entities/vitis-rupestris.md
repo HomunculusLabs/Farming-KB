@@ -16,7 +16,7 @@ sources:
   - Hegwood, D.A. (1990). "The wild grapes of Texas." Proceedings of the Texas Grape Growers Association, 19, 20-33.
   - Millardet, P.M.A. (1889). "Le mildiou et le black-rot des vignes." Annales de l'École Nationale d'Agriculture de Montpellier, 11, 181-220.
   - Wan, Y. et al. (2007). "The genome of Vitis rotundifolia and its implications for grape breeding." Acta Horticulturae, 754, 187-192.
-  - Moore, M.O. (1991). "Classification and systematics of [[polypore-fungi-eastern-north-america]] American Vitis (north of Mexico)." Economic Botany, 45(4), 445-457.
+  - Moore, M.O. (1991). "Classification and systematics of polypore-fungi-eastern-north-america American Vitis (north of Mexico)." Economic Botany, 45(4), 445-457.
 ---
 
 ## Overview

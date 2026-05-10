@@ -5,7 +5,7 @@ type: species
 tags: [fungi, mycena, wood-inhabiting, temperate, bioluminescent]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources: []
+sources: []
 ---
 
 # Mycena citrinomarginata

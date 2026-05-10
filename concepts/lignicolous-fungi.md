@@ -7,7 +7,7 @@ updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 type: concept
 ---
-# Lignicolous Fungi ## Overview Lignicolous fungi are fungi that grow on and decompose wood. They play a critical role in forest ecosystems by breaking down dead and dying trees, recycling the carbon locked in lignin and cellulose back into the soil. Many commercially important edible and medicinal mushrooms — including shiitake, oyster, lion's mane, reishi, and maitake — are lignicolous species, making understanding wood decay fungi central to mushroom cultivation. The term "lignicolous" derives from the Latin *lignum* (wood) and *colere* (to inhabit). While all lignicolous fungi share the ability to utilize wood as a substrate, they differ dramatically in their enzymatic strategies, preferred wood types, decay patterns, and ecological roles. ## Wood Decomposition Strategies Lignicolous fungi are classified by the primary component of wood they target [[lentinula-edodes]]inula edodes*), oyster mushrooms (*Pleurotus* spp.)mycelium-network
+# Lignicolous Fungi ## Overview Lignicolous fungi are fungi that grow on and decompose wood. They play a critical role in forest ecosystems by breaking down dead and dying trees, recycling the carbon locked in lignin and cellulose back into the soil. Many commercially important edible and medicinal mushrooms — including shiitake, oyster, lion's mane, reishi, and maitake — are lignicolous species, making understanding wood decay fungi central to mushroom cultivation. The term "lignicolous" derives from the Latin *lignum* (wood) and *colere* (to inhabit). While all lignicolous fungi share the ability to utilize wood as a substrate, they differ dramatically in their enzymatic strategies, preferred wood types, decay patterns, and ecological roles. ## Wood Decomposition Strategies Lignicolous fungi are classified by the primary component of wood they target [[lentinula-edodes]] inula edodes*), oyster mushrooms (*Pleurotus* spp.)mycelium-network
 - [[mushroom-cultivation-lifecycle]]
 ## Practical Applications
 
@@ -86,5 +86,9 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
+
+See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
+See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
+
 ## See Also
 - [[decomposition]]

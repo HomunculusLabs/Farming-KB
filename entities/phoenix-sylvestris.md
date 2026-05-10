@@ -102,6 +102,8 @@ In riparian areas, Phoenix sylvestris helps stabilize stream banks with its deep
 
 ## See Also
 
+- [[phoenix-theophrasti]]
+
 - [[phoenix-dactylifera]]
 - [[phoenix-canariensis]]
 - [[borassus-flabellifer]]

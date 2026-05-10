@@ -12,7 +12,7 @@ sources:
   - Vitikainen O. (1994). "Taxonomic revision of Peltigera (Lichenized Ascomycetes) in Europe." Acta Botanica Fennica 152.
   - Goward T. (1999). "The Lichens of British Columbia: Macrolichens." Ministry of Forests, Victoria.
   - Miadlikowska J. et al. (2018). "A phylogenetic framework for the Peltigerales (Ascomycota)." American Journal of Botany 105(6): 1095-1115.
-  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
+  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
 ---
 
 ## Overview
@@ -55,7 +55,7 @@ margin. The species produces simple ascospores, hyaline, ellipsoid, 3- to
 ## Distribution and Habitat
 
 Peltigera horizontalis has a circumboreal distribution, found across
-Europe, Asia, and North America. In Europe, it ranges from Scandinavia to
+Europe, Asia, and [[guzman-psilocybin-mushrooms-north-america]]. In Europe, it ranges from Scandinavia to
 the Mediterranean mountains, though it is most abundant in oceanic and
 suboceanic regions with high humidity.
 
@@ -64,10 +64,10 @@ in old-growth and mature forests. It prefers shaded, humid microsites such
 as stream banks, ravines, and north-facing slopes.
 
 It occurs from lowland to subalpine elevations, typically below 1500 m.
-In North America, it is common in the Pacific Northwest, the Appalachian
+In North America, it is common in the [[psilocybin-north-america-pacific-northwest]], the Appalachian
 Mountains, and across boreal Canada.
 
-The lichen is sensitive to air pollution and habitat disturbance. It is
+The lichen is sensitive to [[air-pollution-fungal-community-responses]] and habitat disturbance. It is
 considered an indicator of old-growth forest conditions and clean air in
 many European monitoring programs.
 

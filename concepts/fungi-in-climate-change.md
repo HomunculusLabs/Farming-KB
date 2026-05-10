@@ -9,13 +9,13 @@ sources: []
 
 ## Overview
 
-Fungi play critical but underappreciated roles in climate change dynamics. As primary decomposers, mycorrhizal partners, and soil architects, fungi influence carbon sequestration, greenhouse gas emissions, and ecosystem resilience to warming. Understanding fungal responses to climate change is essential for accurate climate models and effective mitigation strategies.
+Fungi play critical but underappreciated roles in climate [[dighton-fungi-climate-change-feedback]] change dynamics. As primary decomposers, mycorrhizal partners, and soil architects, fungi influence carbon sequestration, greenhouse gas emissions, and ecosystem resilience to warming. Understanding fungal responses to climate change is essential for accurate climate models and effective mitigation strategies.
 
 ## Carbon Sequestration by Mycorrhizal Fungi
 
 ### The Mycorrhizal Carbon Sink
 Mycorrhizal fungi are among the largest sinks for atmospheric carbon dioxide:
-- Global mycorrhizal [[fungal-mycelial-networks-nutrient-translocation]] contain an estimated 13-36 gigatons of carbon
+- Global mycorrhizal mycelial networks contain an estimated 13-36 gigatons of carbon
 - This is roughly equivalent to 30-70% of annual global fossil fuel emissions
 - Arbuscular mycorrhizal fungi (AMF) store carbon primarily as glomalin-related soil protein (GRSP)
 - Ectomycorrhizal fungi (EMF) produce recalcitrant compounds that resist decomposition for decades to centuries
@@ -37,7 +37,7 @@ Mycorrhizal fungi are among the largest sinks for atmospheric carbon dioxide:
 A critical tension in fungal climate roles:
 - Saprotrophic fungi decompose organic matter, releasing CO2 (carbon source)
 - Mycorrhizal fungi sequester carbon, building soil stocks (carbon sink)
-- Shifts in fungal [[core-endorhiza-bacterial-community-composition-cannabis]] between these groups affect net carbon balance
+- Shifts in fungal community composition between these groups affect net carbon balance
 - EMF-dominated forests tend to store more soil carbon than AMF-dominated forests
 
 ## Fungal Responses to Warming
@@ -80,20 +80,20 @@ Climate change is altering fungal communities worldwide:
 
 ### Drought Resilience
 - Mycorrhizal networks improve plant water access through hyphal exploration
-- AMF increase plant [[dighton-fungal-drought-tolerance-plant-water-relations]] by improving hydraulic conductivity
-- Dark [[dark-septate-endophytes-root-colonizing-fungi]] (DSE) confer drought resistance to host plants
+- AMF increase plant drought tolerance by improving hydraulic conductivity
+- Dark septate endophytes (DSE) confer drought resistance to host plants
 - Melanized fungal hyphae maintain water channels in drying soils
 
 ### Heat Stress Mitigation
 - Mycorrhizal plants show higher thermal tolerance
 - Fungal antioxidants protect plant roots from heat-induced oxidative stress
 - Soil shading by fungal mats reduces soil temperature fluctuations
-- [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]] through mycelial water transport
+- Evaporative cooling through mycelial water transport
 
 ### Extreme Weather Recovery
 - Fungal networks accelerate ecosystem recovery after fires, floods, and storms
 - Pioneer fungi colonize disturbed sites and facilitate plant succession
-- Mycorrhizal networks connect surviving plants, enabling [[mycelial-network-resource-sharing-plants]]
+- Mycorrhizal networks connect surviving plants, enabling resource sharing
 - See [[mycorrhizal-networks-and-forest-communication]] for resource sharing details
 
 ## Management Implications

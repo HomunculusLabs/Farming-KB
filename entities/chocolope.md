@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Dutch Passion Seed Company. "Chocolope Strain Profile." dutchpassion.com.
   - Leafly Staff (2023). "Chocolope Weed Strain Information." Leafly.
-  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] 1995-2014." Biological Psychiatry.
+  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing 1995-2014." Biological Psychiatry.
   - Mudge, E.M. et al. (2018). "Cannabinoid and Terpene Chemometrics." ACS Omega.
   - Hazekamp, A. et al. (2016). "The Cannabis Inventory." Cannabis and Cannabinoid Research.
 created: 2026-04-28
@@ -106,7 +106,7 @@ Chocolope represents an important chapter in [[oner-cannabis-breeding-fundamenta
 
 - [[sour-diesel]]
 - [[jack-herer]]
-- [[cannabis-blue-dream]]
+- [[blue-dream]]
 - haze
 - [[lambsbread]]
 - thai-stick-entity

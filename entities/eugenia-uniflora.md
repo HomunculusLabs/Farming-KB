@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Legrand, C.D. & Klein, R.M. (1977). "Mirtáceas." Flora Ilustrada Catarinense, Part I.
-  - Schmeda-Hirschmann, G. et al. (1987). "[[permaculture-designers-manual-essential-oil-plants]] of Eugenia uniflora Leaves." Planta Medica 53(2): 164-166.
+  - Schmeda-Hirschmann, G. et al. (1987). "permaculture-designers-manual-essential-oil-plants of Eugenia uniflora Leaves." Planta Medica 53(2): 164-166.
   - Beaumont, J.H. (1958). "The Surinam Cherry." Economic Botany 12(4): 355-362.
   - Celli, G.B. & Beta, T. (2005). "Anthocyanins of Eugenia uniflora." Food Research International 38(8-9): 975-983.
 ---

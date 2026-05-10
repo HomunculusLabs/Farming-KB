@@ -4,8 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
   - "raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md"
 ---
 # Grain Spawn Types and Preparation for Mushroom Cultivation

@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly (2024). "Oreoz Strain Information." leafly.com.
-  - AllBud (2024). "Oreoz [[blesching-cannabis-strain-selection-receptor-targeting]]." allbud.com.
+  - AllBud (2024). "Oreoz blesching-cannabis-strain-selection-receptor-targeting." allbud.com.
   - Weedmaps (2024). "Oreoz Strain Review." weedmaps.com.
   - SeedFinder (2024). "Oreoz Genetic Lineage Database." seedfinder.eu.
 ---

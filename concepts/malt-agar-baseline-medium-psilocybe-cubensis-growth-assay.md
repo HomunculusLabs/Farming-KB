@@ -134,14 +134,8 @@ systematic variation of phosphate, nitrogen, and carbon sources to
 determine how nutrient availability modulates the hormone response.
 
 ## See Also
-
-- [Malt Agar vs Dung Grain Comparative Cultivation](malt-agar-vs-dung-grain-comparative-cultivation-psilocybe-cubensis.md)
-- [Brassinosteroid Substrate Comparison Agar vs Dung Grain](brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis.md)
-- [[brassinosteroid-experimental-methodology-gartz-1990]] Gartz 1990](brassinosteroid-experimental-methodology-gartz-1990.md)
-- [[psilocybe-cubensis-cultivation]]](psilocybe-cubensis-cultivation.md)
-
-## See Also
-
+- [[brassinosteroid-experimental-methodology-gartz-1990]]
+- [[psilocybe-cubensis-cultivation]]
 - [[mushroom-cultivation-basics]]
 - [[contamination-identification-prevention]]
 - [[mushroom-fruiting-body-morphogenesis]]

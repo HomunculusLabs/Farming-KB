@@ -9,8 +9,7 @@ tags:
   - organic-gardening
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: query
 ---
 # What Is Trap Cropping and How Does It Work?

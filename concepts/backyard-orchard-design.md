@@ -1,5 +1,5 @@
 ---
-title: comparison-food-forest-design-vs-backyard-orchard-design Design
+title: Backyard Orchard Design
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ A backyard orchard brings tree fruit production to the home landscape. Even smal
 - Observe your yard's sun patterns across seasons before planting
 
 ### Air Circulation
-- Good airflow reduces [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] (especially critical for stone fruits)
+- Good airflow reduces fungal disease (especially critical for stone fruits)
 - Space trees adequately — do not crowd
 - Orient rows to align with prevailing winds for natural ventilation
 - Avoid planting in low frost pockets where cold air settles
@@ -38,7 +38,7 @@ A backyard orchard brings tree fruit production to the home landscape. Even smal
 - Ensure irrigation reaches all trees
 - Group trees with similar water needs
 - Avoid planting near the drip line of large shade trees that compete for water
-- Plan for [[comparison-drip-irrigation-vs-passive-irrigation]] lines during layout — easier to install before planting
+- Plan for drip irrigation lines during layout — easier to install before planting
 
 ## Spacing
 
@@ -124,7 +124,7 @@ Rootstocks determine tree size, hardiness, soil adaptation, and precocity (how q
 - Small yard: Dwarf (M26 for apples, Gi5 for cherries)
 - Medium yard: Semi-dwarf (MM106 for apples, OHxF 333 for pears)
 - Poor soil: MM111 (apples) or Lovell (peaches)
-- [[permaculture-designers-manual-cold-climate-design]]: Ensure rootstock is rated for your zone
+- Cold climate: Ensure rootstock is rated for your zone
 - Container growing: Dwarf rootstocks only
 
 ## Understory Planting
@@ -133,17 +133,18 @@ The space beneath and between fruit trees can be productive if designed carefull
 
 ### What to Plant Under Trees
 - **Spring bulbs**: Daffodils, crocus, allium — bloom before trees leaf out, suppress weeds, deter rodents
-- **Comfrey**: Deep-rooted [[nutrient-dynamic-accumulator-reference]]; chop and drop for mulch. Plant at the drip line, not near the trunk
-- **Nitrogen-fixing ground covers**: White clover, [[comparison-lupin-vs-crimson-clover-green-manure]]
+- **Comfrey**: Deep-rooted dynamic accumulator; chop and drop for mulch. Plant at the drip line, not near the trunk
+- **Nitrogen-fixing ground covers**: White clover, crimson clover
 - **Herbs**: Chives, garlic, chamomile — deter pests, attract pollinators
 - **Berry bushes**: Currants, gooseberries tolerate partial shade
 - **Nasturtiums**: Pest deterrent, edible flowers, ground cover
 
 ### What NOT to Plant Under Trees
 - Grass — competes aggressively with tree roots for water and nutrients
-## See Also
+- Deep-rooted vegetables — they compete with tree roots
+- Walnut-sensitive plants near walnut trees (juglone toxicity)
+- Plants requiring full sun under large-canopy trees
 
-- [[apple-tree-care]] for detailed apple tree management
-- [[stone-fruit-tree-care]] for peach, plum, and cherry care
-- [[food-forest-design]] for integrating orchard trees into a perennial polyculture
-- [[seasonal-gardening-calendar]] for seasonal orchard tasks
+### Ring Mulching
+- Maintain a mulched ring 3-4 feet in radius around each tree trunk
+- Keep mulch 3-4 inches away from the trunk (prevents bark rot)

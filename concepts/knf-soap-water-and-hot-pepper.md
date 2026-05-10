@@ -22,7 +22,7 @@ sources:
 
 # KNF Soap Water and Hot Pepper Spray
 
-Soap water and hot pepper water are KNF's direct [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]] methods for aphids and mites. Unlike most [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] that focus on plant nutrition, these are physical/mechanical controls. Soap water kills aphids through evaporation-induced rupture, while hot pepper repels them with capsaicin.
+Soap water and hot pepper water are KNF's direct pest control methods for aphids and mites. Unlike most KNF inputs that focus on plant nutrition, these are physical/mechanical controls. Soap water kills aphids through evaporation-induced rupture, while hot pepper repels them with capsaicin.
 
 ## Soap Water
 
@@ -65,7 +65,7 @@ Cho emphasizes: it is more important to grow plants that do not attract aphids a
 | Do not spray soap water on cloudy days | Evaporation is the killing mechanism |
 | Do not combine with other KNF biologicals | Soap can kill beneficial microbes |
 | Test on small area first | Some plants sensitive to soap/capsaicin |
-| Apply in early morning or late afternoon for pepper spray | Avoid midday [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]] |
+| Apply in early morning or late afternoon for pepper spray | Avoid midday heat stress |
 | Do not over-apply nitrogen | Root cause of aphid attraction |
 
 ## Combining with KNF
@@ -73,7 +73,7 @@ Cho emphasizes: it is more important to grow plants that do not attract aphids a
 - Fix the underlying nutritional imbalance causing pest susceptibility
 - Reduce FAA ([[fish-amino-acid-faa]]) if over-applying — excess nitrogen attracts aphids
 - Apply WS-Ca ([[water-soluble-calcium-wca]]) to harden plant tissues against pests
-- Use OHN ([[oriental-herbal-nutrient-ohn]]) for [[cervantes-pest-disease-prevention-overview]] alongside soap/pepper
+- Use OHN ([[oriental-herbal-nutrient-ohn]]) for disease prevention alongside soap/pepper
 - For severe infestations, use JADAM methods — see [[jadam-natural-pesticide-jnp]]
 
 ## See Also
@@ -83,4 +83,4 @@ Cho emphasizes: it is more important to grow plants that do not attract aphids a
 - [[jadam-natural-pesticide-jnp]] — JADAM pesticide formulations for stronger control
 - [[oriental-herbal-nutrient-ohn]] — OHN for disease prevention
 - [[water-soluble-calcium-wca]] — calcium hardens plant tissues against pests
-- [[insect-allies]] — [[hamilton-beneficial-insects-and-biological-pest-control]] control with [[comparison-beneficial-insects-guide-vs-integrated-pest-management]]
+- [[insect-allies]] — biological pest control with beneficial insects

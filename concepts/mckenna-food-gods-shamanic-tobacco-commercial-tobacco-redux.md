@@ -133,6 +133,8 @@ its enema rituals replaced by the cigarette.
 
 ## See Also
 
+- [[mckenna-tobacco-shamanic-to-commercial-dilution-process]]
+
 - [[mckenna-food-gods-opium-wars-psychopharmacology-de-quincey]]
 - [[mckenna-food-gods-honey-opium-minoan-crete-dionysus]]
 - [[mckenna-food-gods-sugar-addiction-slavery]]

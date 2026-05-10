@@ -137,12 +137,12 @@ identified as the potential future energy base, with tree crops like
 - coastal-permaculture-design-mollison
 - tropical-permaculture-guide
 
-- [rural-permaculture](rural-permaculture.md)
-- [keyline-design](keyline-design.md)
-- [grain-crops](grain-crops.md)
-- [self-seeding-garden](self-seeding-garden.md)
-- [earth-sheltered-housing](earth-sheltered-housing.md)
-- [mollison-tree-crop-systems-permaculture](mollison-tree-crop-systems-permaculture.md)
+- rural-permaculture
+- [[keyline-design|keyline-design]]
+- grain-crops
+- self-seeding-garden
+- earth-sheltered-housing
+- [[mollison-tree-crop-systems-permaculture|mollison-tree-crop-systems-permaculture]]
 - [[bill-mollison-permaculture-a-designers-manual-broadacre-and-rural-design]]
 - [[water-management]]
 - [[bill-mollison]]

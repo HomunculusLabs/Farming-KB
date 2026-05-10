@@ -99,6 +99,8 @@ addiction while harnessing therapeutic benefits.
 
 ## See Also
 
+- [[2-ag-endocannabinoid-signaling-blesching]]
+
 - [[n-arachidonoyl-dopamine-nada]]
 
 - [[blesching-cannabis-acetylcholine-memory-learning]]

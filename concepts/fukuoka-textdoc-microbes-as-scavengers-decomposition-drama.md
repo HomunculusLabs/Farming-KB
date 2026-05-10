@@ -135,16 +135,9 @@ perfect harmony without increase or decrease; they are born and die unseen by ma
 
 ## The Mystery of Self-Governed Providence
 
-The mastery of the conductor performing this drama of natural transformation, at
 ## See Also
-
 - [[microbes-scavengers-natural-farming]]
-
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]
 - [[fukuoka-textdoc-natural-soil-management]]
-
 - [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]]
-
-## See Also
-
 - [[fukuoka-textdoc-cremation-corpse-decomposition-natural-order]]

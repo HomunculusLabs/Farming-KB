@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources:
-  sources: []
+sources: []
 ---
 Updated: 2026-04-18 Black Locust (Robinia pseudoacacia) is a valuable hardwood tree prized for its rot-resistant timber, excellent firewood, and nitrogen-fixing ability. It is one of the most valuable bee forages in France and a key [[mulch-producing-plants]] from leaf fall and prunings
 

@@ -15,7 +15,7 @@ sources:
     and Pelargonium." Taylor & Francis.
   - Demarne, F.E. (2005). "Pelargoniums of Southern Africa." Briza
     Publications.
-  - Boukhatem, M.N. et al. (2013). "Rose geranium [[permaculture-designers-manual-essential-oil-plants]] as
+  - Boukhatem, M.N. et al. (2013). "Rose geranium permaculture-designers-manual-essential-oil-plants as
     source of new bioactive products." Journal of Applied Botany.
   - Singh, P. et al. (2014). "Pharmacological properties of Pelargonium
     graveolens." International Journal of Pharmaceutical Sciences.

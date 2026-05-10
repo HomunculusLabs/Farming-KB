@@ -9,7 +9,7 @@ sources:
 ---
 # Liberty Cap — Psilocybe semilanceata History and Biology
 
-The Liberty Cap (Psilocybe semilanceata) is the most widely distributed and commonly consumed [[emcdda-psilocybin-mushroom-dose-and-effects]] in the temperate world. Its name derives from the distinctive Phrygian bonnet shape of its cap, associated with the French revolutionaries who stormed the Bastille.
+The Liberty Cap (Psilocybe semilanceata) is the most widely distributed and commonly consumed [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] in the temperate world. Its name derives from the distinctive Phrygian bonnet shape of its cap, associated with the French revolutionaries who stormed the Bastille.
 
 ## Distribution and Habitat
 

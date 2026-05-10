@@ -14,7 +14,7 @@ sources:
   - Harrison, K.A. (1973). "The genus Hydnum in psilocybin-north-america-pacific-northwest." Michigan Botanist 12: 129-138.
   - Dentinger, B.T.M. & Binder, M. (2010). "Evolutionary relationships of the chanterelles and allies." Mycologia 102(5): 981-994.
   - Wilson, A.W. et al. (2017). "Systematics of the genus Hydnum." Persoonia 38: 106-121.
-  - Trudell, S.A. & Ammirati, J.F. (2009). "Hyperdiverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] in the Tongass National Forest." Mycologia 101(5): 613-624.
+  - Trudell, S.A. & Ammirati, J.F. (2009). "Hyperdiverse biodiversity-of-fungi-soil-fungal-communities-agriculture in the Tongass National Forest." Mycologia 101(5): 613-624.
 created: 2026-05-07
 ---
 

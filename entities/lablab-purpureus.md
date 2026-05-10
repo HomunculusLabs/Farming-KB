@@ -12,7 +12,7 @@ tags:
   - fabaceae
 sources:
   - "Purseglove, J.W. (1968). mollison-specialist-tropical-crops-forest-products: Dicotyledons. Longman."
-  - "Maass, B.L. et al. (2010). \"Lablab purpureus — a crop for the future.\" [[query-best-grain-legumes-for-a-small-homestead]], 56, 16-18."
+  - "Maass, B.L. et al. (2010). \"Lablab purpureus — a crop for the future.\" query-best-grain-legumes-for-a-small-homestead, 56, 16-18."
   - "Rachie, K.O. & Roberts, L.M. (1974). Lablab purpureus. IITA Monograph."
   - "Pengelly, B.C. & Maass, B.L. (2001). \"Lablab purpureus as a forage crop.\" ACIAR Technical Reports, 55."
   - "Duke, J.A. (1981). Handbook of Legumes of World Economic Importance. Plenum Press."

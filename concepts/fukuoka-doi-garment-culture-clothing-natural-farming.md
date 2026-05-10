@@ -1,5 +1,5 @@
 ---
-title: The fukuoka doi garment culture clothing [[korean-natural-farming-and-jadam]] the fukuoka-culture-of-clothing-and-meat in comparison-natural-farming-vs-permaculture
+title: The fukuoka doi garment culture clothing [[query-jadam-vs-korean-natural-farming]] the fukuoka-culture-of-clothing-and-meat in comparison-natural-farming-vs-permaculture
 source: masanobu-fukuoka-the-road-back-to-nature.md
 author: [[masanobu-fukuoka]]
 tags: [fukuoka, natural-farming, clothing, doi, traditional-garments, farmer-attire, japanese-culture]

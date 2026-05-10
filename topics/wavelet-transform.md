@@ -140,11 +140,6 @@ Continuous wavelet transforms can be redundant and computationally heavier than 
 Discrete transforms can be less visually intuitive and depend strongly on sampling structure.
 Interpretation also requires care because scale is related to but not identical with frequency.
 Despite these limitations, wavelets remain valuable because they combine locality, scale, sparsity, and reconstruction.
-They are especially powerful when data contain both broad trends and sharply localized detail.
-## See Also
-wavelet transform
-[[kalman-filter]]
 
 ## See Also
-
 - [[query-what-is-a-wavelet-transform-used-for]]

@@ -4,8 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [cannabis, cultivation]
-sources:
-  sources: []
+sources: []
 ---
 # Cannabis Nutrient Deficiency and Toxicity Guide
 

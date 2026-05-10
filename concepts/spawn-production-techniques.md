@@ -141,7 +141,6 @@ Updated: 2026-04-18
 ## Practical Considerations
 
 When working with [[mushroom-spawn-generation-limits]] Techniques, several practical factors should be
-
 ## See Also
 - [[mushroom-cultivator-grain-spawn-production]]
 - [[emcdda-hallucinogenic-mushroom-contributing-factors-megatrends]]

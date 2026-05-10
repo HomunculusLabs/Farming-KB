@@ -4,21 +4,18 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [entheogen, chemistry, preparation, lab-technique, mycology, psychopharmacology, safety, biochemistry, methods, psychopharmacology, potency, mushrooms]
-sources:
-  sources: []
+sources: []
 ---
 
-# Psilocybin Extraction Guide
+# Psilocybi [[dmt-extraction-guide]] de
 
 ## Overview
 
-Psilocybin (4-PO-DMT) and psilocin (4-HO-DMT) are the primary psychoactive compounds found in "magic mushrooms" — over 200 species of fungi in the genus Psilocybe and related genera. Psilocybin is a prodrug — it is rapidly dephosphorylated in the body to psilocin, the active compound that acts on serotonin 5-HT2A receptors.
+Psilocybin (4-PO-D [[psilocybin-and-psilocin-chemical-synthesis]] ocin (4-HO-DMT) are the primary psychoactive compounds found in "magic mushrooms" — over 200 species [[fungi-in-the-environment-bioremediation-applications]] the genus Psilocybe and related genera. Psilocybin is a prodrug [[chamovitz-gravitropism-plant-knows-where-it-is]] is rapidly dephosphorylate [[psilocybin-in-the-counter-culture]] he body to psilocin, the active compound that acts on serotonin 5-HT2A receptors.
 
 This guide covers methods for extracting and concentrating psilocybin from mushroom material, primarily using ethanol extraction. These methods are presented for educational and harm-reduction purposes. Psilocybin is a controlled substance in many jurisdictions — see [[psychedelic-plants-legal-status]].
 
-## The Chemistry
-
-### Psilocybin vs. Psilocin
+## The Chemis [[psilocybin-vs-other-psychedelics]] ocybin vs. Psilocin
 - **Psilocybin (4-PO-DMT)**: Stable, water-soluble, not soluble in nonpolar solvents. The primary compound in dried mushrooms. Prodrug that converts to psilocin in the body.
 - **Psilocin (4-HO-DMT)**: Unstable in air (oxidizes to blue quinone compounds, causing bruising), water-soluble. The actual active compound at receptors.
 - Both are tryptamines, structurally similar to DMT and serotonin
@@ -31,18 +28,18 @@ This guide covers methods for extracting and concentrating psilocybin from mushr
 ## Mushroom Sources
 
 ### Common Cultivated Species
-- **[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]** — most common cultivated species, moderate potency (0.5–1.5% psilocybin+psilocin by dry weight)
-- **[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
-- **[[stamets-psi-psilocybe-azurescens-species-guide]]** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
+- **Psilocybe cubensis** — most common cultivated species, moderate potency (0.5–1.5% psilocybin+psilocin by dry weight)
+- **Psilocybe cyanescens** ("wavy caps") — higher potency (1.0–2.5%), wood-loving species
+- **Psilocybe azurescens** — among the most potent known (up to 3.0%), native to the Pacific Northwest coast
+- **Psilocybe semilanceata** ("liberty caps") — widespread in temperate grasslands, moderate-high potency
 
 ### Potency Variation
 Potency varies enormously based on:
 - Species and strain
 - Growing conditions (substrate, temperature, light)
-- [[cannabis-harvest-timing-visual-cues]] (before or after veil breaks)
+- Harvest timing (before or after veil breaks)
 - Drying method
-- [[vegetable-storage-conditions-by-temperature-and-humidity]]
+- Storage conditions
 
 ## Method 1: Ethanol Extraction (Tincture)
 
@@ -144,7 +141,8 @@ Converting mushroom extract into purified psilocybin crystals:
 - Oxidation of psilocin is what causes mushrooms to turn blue when bruised
 
 ## Safety Considerations
-## Related Topics
 
-- [[psychedelic-mushroom-decriminalization]] — legal reform movement
-- [[dmt-extraction-guide]] — extraction methods for DMT, a related tryptamine
+- Start with low doses — potency is unpredictable without testing
+- A sitter is recommended, especially at higher doses
+- Screen for SSRIs or other serotonergic medications (serotonin syndrome risk)
+- Avoid if personal or family history of psychosis or schizophrenia

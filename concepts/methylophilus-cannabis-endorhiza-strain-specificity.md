@@ -94,6 +94,8 @@ The first experiment sampled plants **eight weeks post-harvest**, meaning root t
 
 ## See Also
 
+- [[methylophilus-cultivar-specific-endorhiza]]
+
 - [[cannabis-microbiome-cultivar-specificity]]
 - [[two-tier-selection-model-plant-microbiome]]
 - [[endorhiza-bacterial-communities]]

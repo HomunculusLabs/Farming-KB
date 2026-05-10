@@ -139,11 +139,8 @@ achieving this:
 
 3. **[[mycelial-network-nutrient-transport-imaging-gadd]] from upslope preserves**: A natural wood preserve on
    the uphill side of the farm builds humus that washes downhill with
-## See Also
 
+## See Also
 - [[query-jadam-vs-korean-natural-farming]]
 - [[non-causality-in-nature]]
-
-## See Also
-
 - [[fukuoka-natural-orchard-ground-cover]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis-training-techniques-comparison
+title: Cannabis Training Techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ Training techniques manipulate cannabis plant structure to optimize light distri
 
 ## Low-Stress Training (LST)
 
-LST involves bending and securing branches to create an even, flat canopy. It is the least invasive training method and suitable for all experience levels.
+LST involves bending and securing branches to create an even, flat canopy. It is the least invasive training method and suitable for all experience levels. (see [[cannabis-vegetative-growth-stage]]).
 
 ### How It Works
 
@@ -36,7 +36,7 @@ LST involves bending and securing branches to create an even, flat canopy. It is
 
 ## Screen of Green (ScROG)
 
-ScROG uses a horizontal screen (chicken wire, trellis netting, or string grid) at a fixed height above the canopy. Branches are woven through the screen as they grow.
+ScROG uses a horizontal screen (chicken wire, trellis netting, or string grid) at a fixed height above the canopy. Branches are woven through the screen as they grow. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
 
 ### Setup
 
@@ -50,17 +50,17 @@ ScROG uses a horizontal screen (chicken wire, trellis netting, or string grid) a
 - Creates the most even canopy possible
 - Maximizes light utilization across the entire footprint
 - Supports heavy buds — screen acts as structural support
-- Can significantly increase yield per [[comparison-biointensive-vs-square-foot-gardening]]
+- Can significantly increase yield per square foot
 
 ### Considerations
 
 - Works best with fewer, larger plants (1-4 plants per 3x3 or 4x4 tent)
-- Requires commitment to daily tending during [[cannabis-vegetative-growth-stage]]
+- Requires commitment to daily tending during vegetative growth
 - Not practical for autoflowers with short veg periods
 
 ## Main-Lining / Manifolding
 
-Main-lining is a systematic approach that creates a perfectly symmetrical plant with evenly spaced colas. It involves topping the plant at specific nodes and training each branch into its own designated quadrant.
+Main-lining is a systematic approach that creates a perfectly symmetrical plant with evenly spaced colas. It involves topping the plant at specific nodes and training each branch into its own designated quadrant. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
 
 ### Process
 
@@ -85,7 +85,7 @@ Main-lining is a systematic approach that creates a perfectly symmetrical plant 
 
 ## Defoliation
 
-Defoliation is the strategic removal of leaves to improve light penetration and airflow. It is one of the most debated techniques in [[query-how-does-no-till-cannabis-cultivation-work]].
+Defoliation is the strategic removal of leaves to improve light penetration and airflow. It is one of the most debated techniques in cannabis cultivation.
 
 ### When to Defoliate
 
@@ -143,7 +143,8 @@ Super cropping is a high-stress technique that involves crushing the inner tissu
 - Over-stressing the plant if performed on multiple branches simultaneously
 - Not suitable for thin or young stems
 
-## See Also
+## Combination Approaches
 
-- [[cannabis-training-techniques-comparison]]
-- [[cannabis-grow-plant-training-scrog-techniques]]
+Experienced growers often combine techniques:
+
+- **ScROG + LST**: Use LST to train branches into the screen

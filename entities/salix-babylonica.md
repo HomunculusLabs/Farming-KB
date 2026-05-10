@@ -9,10 +9,10 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Fang, Z. et al. (1999). "A revision of Salix section Crematothecae." Harvard Papers in Botany, 4(1), 197–204.
-  - Argus, G.W. (2010). "Salix of [[psilocybin-north-america-pacific-northwest]]." American Journal of Botany, 97(5), 797–821.
+  - Argus, G.W. (2010). "Salix of psilocybin-north-america-pacific-northwest." American Journal of Botany, 97(5), 797–821.
   - Newsholme, C. (1992). "Willows: The Genus Salix." B.T. Batsford Ltd, London.
   - USDA Natural Resources Conservation Service. "Salix babylonica" Plant Profile.
-  - Zsuffa, L. et al. (1984). "Willow: A Fast-Growing Tree for [[dighton-fungal-biomass-production-aquatic-ecosystems]]." University of Toronto, Faculty of Forestry.
+  - Zsuffa, L. et al. (1984). "Willow: A Fast-Growing Tree for dighton-fungal-biomass-production-aquatic-ecosystems." University of Toronto, Faculty of Forestry.
 ---
 
 ## Overview

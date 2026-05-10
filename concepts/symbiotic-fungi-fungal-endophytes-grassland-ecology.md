@@ -4,8 +4,7 @@ created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [fungal-ecology, mycology]
-sources:
-  sources: []
+sources: []
 ---
 ---
 title: Fungal Endophytes in Grassland Ecology

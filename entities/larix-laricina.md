@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Larix laricina." USDA Forest Service Agriculture Handbook 654.
-  - Fowells, H.A. (1965). "Silvics of Forest Trees of the [[dmt-containing-plants-united-states-halpern]]." USDA Agriculture Handbook 271.
+  - Fowells, H.A. (1965). "Silvics of Forest Trees of the dmt-containing-plants-united-states-halpern." USDA Agriculture Handbook 271.
   - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
   - Eckenwalder, J.E. (2009). "Conifers of the World." Timber Press.
 ---

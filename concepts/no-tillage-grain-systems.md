@@ -23,7 +23,7 @@ sources:
 
 # No-Tillage Grain and Staple Crop Systems
 
-No-tillage grain systems from Mollison's Permaculture Two, building on Fukuoka's methods. See [[grain-and-staple-crops]] for general homestead [[jeavons-grain-growing-mini-farms]] and [[one-straw-revolution-guide]] for Fukuoka's philosophy.
+No-tillage grain systems from Mollison's Permaculture Two, building on Fukuoka's methods. See [[grain-and-staple-crops]] for general homestead grain growing and [[one-straw-revolution-guide]] for Fukuoka's philosophy.
 
 ## Fukuoka's Grain/Legume Rotation System
 
@@ -57,11 +57,11 @@ Five plots rotate through rice + winter grain + white clover simultaneously:
 
 ### Key Principles
 
-- **Never till**: Straw mulch is the only [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
+- **Never till**: Straw mulch is the only weed control
 - **Return all straw**: Every year, cycle straw between plots to prevent disease
 - **Clover as permanent base**: White clover provides nitrogen and suppresses weeds
 - **No chemicals**: Fukuoka maintained this for 25 years with only chicken/duck manure
-- **[[mollison-designers-seed-pelleting-and-pretreatment]]**: Mix grain with mud, press through wire-mesh into balls, or coat with clay dust to prevent bird predation
+- **Seed pelleting**: Mix grain with mud, press through wire-mesh into balls, or coat with clay dust to prevent bird predation
 
 ### Grain Species Data (from FAO + Mollison)
 
@@ -93,10 +93,10 @@ Five plots rotate through rice + winter grain + white clover simultaneously:
 
 Where paddies aren't possible:
 - Substitute dryland rice or other grain species
-- Spray irrigation replaces [[fukuoka-puddling-summer-flooding-soil-death-rice-cultivation]]
+- Spray irrigation replaces summer flooding
 - In monsoon areas, summer rain suffices
 - For cool areas: substitute spring wheat or corn sown in September-November with oats/barley/wheat as winter crop
-- **Mulch-only system**: No irrigation needed once established; soil builds [[hamilton-composting-and-organic-matter-management]] rapidly
+- **Mulch-only system**: No irrigation needed once established; soil builds organic matter rapidly
 
 ## Yield Distribution Strategy
 
@@ -141,6 +141,6 @@ Techniques from Mollison for reducing annual replanting:
 - [[one-straw-revolution-guide]] — Fukuoka's philosophy and methods
 - [[no-till-gardening-method]] — No-tillage soil science
 - [[mulching-guide]] — Mulch types and application
-- [[cover-cropping-guide]] — Cover [[cover-crop-selection-guide]]
+- [[cover-cropping-guide]] — Cover crop selection
 - [[permaculture-climate-strategies]] — Climate-specific approaches
 - [[seed-saving-techniques]] — Seed saving and storage

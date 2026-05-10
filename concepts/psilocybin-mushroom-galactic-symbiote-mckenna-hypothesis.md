@@ -143,7 +143,6 @@ a holographic wave transform while consciousness operates freely in
 McKenna's thought. The mushroom, as galactic symbiote, serves as the
 catalyst for this transformation, feeding information to humanity
 "about the larger picture" and accelerating the evolutionary process
-toward what he calls the "culminating moment" of human becoming.
 ## See Also
 - [[accessible-mushroom-cultivation-for-disabilities]]
 - [[acid-house-rave-culture-and-second-mushroom-boom]]

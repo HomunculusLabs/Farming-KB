@@ -5,7 +5,6 @@ tags: [fukuoka, natural-farming, orchard, ground-cover, clover, alfalfa, acacia,
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 type: concept
 ---
@@ -140,11 +139,8 @@ One can understand the nature of the soil more quickly by examining the weeds
 growing in it than by examining the soil itself. Weeds solve the problems of
 both the soil and the weeds. The emergence and succession of different weeds is
 more natural and more conducive to soil enrichment than a monoculture cover of
-any single plant.
+
 ## See Also
 - [[acacia]]
 - [[dom]]
-
-## See Also
-
 - [[fukuoka-natural-orchard-ground-cover]]

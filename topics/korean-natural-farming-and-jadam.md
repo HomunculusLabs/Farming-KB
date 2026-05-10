@@ -110,7 +110,6 @@ fields, and the base of old fruit trees are preferred collection sites. The box
 is loosely covered to protect it from rain and animals while allowing air 
 exchange. After 5 to 7 days, depending on temperature and moisture, the rice 
 will be colonized by a diverse community of microorganisms. A successful IMO 1 
-collection shows visible growth of white, gray, yellow, or other colored fungal 
 ## See Also
 
 [[cho-han-kyu-life-and-philosophy]]

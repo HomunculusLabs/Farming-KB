@@ -1,5 +1,5 @@
 ---
-title: Plant cannabis-grow-nutrient-deficiency-problem-solving Guide
+title: Plant Nutrient Deficiency Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Plant Nutrient Deficiency Guide
 
-[[hamilton-nutrient-deficiencies-and-treatment]] manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid diagnosis and correction before yield is significantly impacted. This guide covers the primary macronutrients, secondary nutrients, and key micronutrients with their characteristic deficiency signs and organic remedies.
+Nutrient deficiencies manifest as visual symptoms on plant leaves, stems, roots, and fruits. Learning to read these symptoms allows rapid diagnosis and correction before yield is significantly impacted. This guide covers the primary macronutrients, secondary nutrients, and key micronutrients with their characteristic deficiency signs and organic remedies. (see [[cannabis-nutrient-deficiency-and-toxicity-guide]]).
 
 ## Before Diagnosing
 
@@ -18,7 +18,7 @@ Check these factors first — they often mimic nutrient deficiencies:
 - pH imbalance: most nutrients are available between pH 6.0-7.0 (slightly different for cannabis: 5.8-6.8)
 - Overwatering: causes root suffocation, mimics many deficiencies
 - Light stress: too much light can bleach and curl leaves like nutrient burn
-- Temperature stress: cold restricts [[plant-nutrient-uptake-mechanisms]], especially phosphorus
+- Temperature stress: cold restricts nutrient uptake, especially phosphorus
 - Pest damage: spider mites, thrips, and other pests create spotting that looks like deficiency
 - Salt buildup: excess fertilizer causes lockout, making nutrients unavailable despite adequate levels
 
@@ -34,10 +34,10 @@ Visual symptoms:
 - Overall stunted growth, small new leaves
 - In cannabis: rapid yellowing of fan leaves during early flowering is normal; during veg it indicates deficiency
 
-Mobile nutrient — symptoms appear on older leaves first as nitrogen is translocated to new growth.
+Mobile nutrient — symptoms appear on older leaves first as nitrogen is translocated to new growth. (see [[cervantes-troubleshooting-guide]]).
 
 Organic fixes:
-- [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]] (chicken manure is highest in N)
+- Composted manure (chicken manure is highest in N)
 - Blood meal (fast-acting, ~12% N)
 - Alfalfa meal or pellets
 - Fish emulsion or fish hydrolysate
@@ -63,7 +63,7 @@ Organic fixes:
 - Bat guano (high-P varieties)
 - Composted poultry manure
 - Worm castings
-- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] — mycorrhizae dramatically increase P availability to roots
+- Mycorrhizal inoculation — mycorrhizae dramatically increase P availability to roots
 
 ### Potassium (K) Deficiency
 
@@ -142,8 +142,9 @@ Organic fixes:
 - Gypsum (calcium sulfate)
 - Epsom salt (magnesium sulfate)
 - Kelp meal
-## See Also
+- Compost
 
-- [[soil-testing]] for baseline nutrient analysis
-- [[nutritive-cycle-theory]] for understanding plant [[vegetable-nutrient-demand-levels]] through growth stages
-- [[soil-food-web-nutrient-cycling]] for how biology makes nutrients available
+## Micronutrients
+
+### Iron (Fe) Deficiency
+Immobile nutrient. Severe interveinal chlorosis on new leaves (youngest most affected), leaves may turn almost white while veins stay green, growth severely stunted. Common in alkaline soils (pH >7.0). In cannabis: new leaves turn pale yellow/white at high pH.

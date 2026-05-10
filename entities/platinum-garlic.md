@@ -139,11 +139,8 @@ Platinum Garlic is considered **moderately difficult**, best suited to growers w
 ## Market Availability
 
 Most commonly found in licensed dispensaries in **Oklahoma** (extremely popular in the medical market), **California**, **Oregon/Washington**, and increasingly in **Michigan and Illinois**. Less established internationally due to its recent development.
-## See Also
-
-- [[girl-scout-cookies]] — The other grandparent line, providing structural and potency foundation
-- [[trainwreck]] — Contributing sativa elements through the Platinum Wreck parent
 
 ## See Also
-
+- [[girl-scout-cookies]]
+- [[trainwreck-cannabis]]
 - [[query-what-is-the-difference-between-sativa-indica-and-hybrid-cannabis]]

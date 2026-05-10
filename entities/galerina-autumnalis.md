@@ -102,3 +102,9 @@ amatoxins. Even tiny amounts can be lethal.
 
 1. Stamets, P. *Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]*. 3rd edition.
 2. Source document: unknown-growing-gourmet-and-medicinal-mushrooms-s.md
+
+## See Also
+
+- [[galerina-steglichii]]
+
+- [[fimbristylis-autumnalis]]

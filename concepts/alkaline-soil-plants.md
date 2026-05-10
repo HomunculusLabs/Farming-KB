@@ -18,7 +18,7 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Acer platanoides** (Norway maple)
 - **Acer pseudoplatanus** (maple)
 - **Aesculus spp** (horse chestnuts, buckeyes)
-- **Araucaria heterophylla** (Norfolk Island pine) — coastal, [[halotolerant-halophilic-fungi-salt-tolerant-diversity]] to beach front
+- **Araucaria heterophylla** (Norfolk Island pine) — coastal, salt tolerant to beach front
 - **Arbutus unedo** (Irish strawberry tree)
 - **Callitris columellaris** (Murray pine) — hardy evergreen
 - **Callitris preissii** (Rottnest Island pine) — hardy evergreen
@@ -31,13 +31,13 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Ceratonia siliqua** (carob)
 - **Cortaderia selloana** (pampas grass)
 - **Crataegus cordata** (Washington thorn) — frost hardy, scarlet berries persist into winter
-- **Crataegus oxyacantha** (English hawthorn) — honey, berries as [[knf-poultry-feed-preparation]], hedge
-- **Derris indica** ([[permaculture-neem-and-indian-beech-utility-trees]])
+- **Crataegus oxyacantha** (English hawthorn) — honey, berries as poultry feed, hedge
+- **Derris indica** (Indian beech)
 - **Eucalyptus spp** — E. camaldulensis, E. citriodora, E. diversifolia, E. erythrocorys, E. gomphocephala, E. lansdowneana, E. leucoxylon, E. nutans, E. occidentalis (swamp yate), E. platypus, E. spathulata, E. torquata, E. woodwardii
 - **Fagus sylvatica** (common beech, European beech)
 - **Fraxinus excelsior** (European ash) — frost resistant, edible manna
 - **Fraxinus ornus** (manna ash) — frost resistant
-- **Gleditsia triacanthos** ([[permaculture-honey-locust-pod-fodder-system]])
+- **Gleditsia triacanthos** (honey locust)
 - **Inga edulis** (pacay, ice cream bean)
 - **Laurus nobilis** (sweet bay laurel) — culinary, medicinal, liqueur from berries
 - **Ligustrum spp**
@@ -83,7 +83,7 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Correa alba** — hardy evergreen, salt tolerant, leaves as tea substitute
 - **Correa decumbens** — hardy evergreen
 - **Correa mannii** — hardy evergreen
-- **Cotoneaster spp** — [[free-range-poultry-forage-design-mollison]], honey
+- **Cotoneaster spp** — poultry forage, honey
 - **Deutzia spp** — hardy deciduous
 - **Diptolaena spp** — hardy evergreen, somewhat salt tolerant
 - **Echium candicans** (pride of Madeira) — good honey and winter/spring flowers
@@ -116,7 +116,7 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 - **Kochia sedifolia** (pearl bluebush)
 - **Kolkwitzia spp**
 - **Lagunaria patersonia**
-- **Lavandula spp** (lavender) — [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]], culinary, medicinal
+- **Lavandula spp** (lavender) — essential oils, culinary, medicinal
 - **Leptospermum laevigatum** (coastal tea tree)
 - **Maireana pyramidata** (black bluebush) — hardy evergreen
 - **Maireana sedifolia** (pearl bluebush) — hardy evergreen
@@ -141,9 +141,10 @@ A comprehensive list of plant species tolerant of alkaline soils, sourced from p
 
 - **Baccaris halimifolia** (groundsel bush) — pollen in autumn
 - **Baccaris patagonica**
-## See Also
-- [[permaculture-designers-manual-essential-oil-plants]]
-- [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]]
-- [[permaculture-plant-selection-and-useful-species-categories]]
-- [[permaculture-plant-selection]]
-- [[query-how-do-i-extract-essential-oils-and-hydrosols-at-home]]
+- **Banksia ashbyi** — nectar in spring
+- **Clianthus formosus** (Sturt's desert pea)
+- **Colophospermum mopane** (mopane)
+- **Cornus mas** (Cornelian cherry) — deciduous tree with edible fruit
+- **Oryzopsis miliacea** (smilo, millet grass)
+- **Ribes spp**
+- **Sambucus spp** (elder) — edible fruits, flowers, roots

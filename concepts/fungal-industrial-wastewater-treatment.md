@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 updated: 2026-04-18 Fungal [[fungal-treatment-of-industrial-wastewaters]] wastewaters is a major application of [[fungal-oil-petroleum-bioremediation]].
 

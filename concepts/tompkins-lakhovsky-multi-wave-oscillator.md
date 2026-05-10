@@ -5,7 +5,7 @@ tags: [biophysics, alternative-medicine, electromagnetism, history]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  - ~/wiki/raw/papers/tompkins-secret-life-of-plants.md
+  - ~/wiki/raw/papers/tompkins-marcel-vogel-plant-human-communication|tompkins-the-secret-life-of-plants-tompkins-and-bird|secret-life-of-plants.md
 type: concept
 ---
 
@@ -46,7 +46,7 @@ argued, it should be treated with a radiation of appropriate frequency.
 
 In 1923, Lakhovsky designed an electrical apparatus emitting very short
 waves (two to ten meters in length) which he called a "radio-cellulo-
-oscillator." At the famous Salpetriere hospital in Paris, he inoculated
+oscillator [[magnetron-oscillator-microwave-sterilization]]." At the famous Salpetriere hospital in Paris, he inoculated
 geraniums with cancer-producing bacteria. When the plants developed
 tumors the size of cherry stones, one was exposed to radiation from the
 oscillator.

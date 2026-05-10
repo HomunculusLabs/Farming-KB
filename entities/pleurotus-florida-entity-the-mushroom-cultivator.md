@@ -5,8 +5,7 @@ type: species
 tags: [edible-mushroom, cultivable-species, oyster-mushroom, primary-decomposer, pleurotaceae]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 # Pleurotus florida
 ## Taxonomy

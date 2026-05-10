@@ -121,14 +121,6 @@ retailers, and online suppliers. It is inexpensive and stable with a long
 shelf life when kept dry.
 
 ## See Also
-
-- [Horse Dung Rice Grain Substrate Preparation](horse-dung-rice-grain-substrate-preparation.md)
-- [Monopotassium Phosphate Mushroom Substrate Buffer Nutrient](monopotassium-phosphate-kh2po4-mushroom-substrate-buffer-nutrient.md)
-- [Brassinosteroid Growth Promotion Psilocybe Cubensis](brassinosteroid-growth-promotion-psilocybe-cubensis.md)
-- [Mushroom [[mushroom-substrate-preparation-sterilization]]](mushroom-substrate-preparation-sterilization.md)
-
-## See Also
-
 - [[mushroom-cultivation-basics]]
 - [[contamination-identification-prevention]]
 - [[mushroom-fruiting-body-morphogenesis]]

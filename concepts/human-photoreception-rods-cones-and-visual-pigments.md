@@ -67,6 +67,8 @@ Beyond the visible spectrum, ultraviolet light has shorter
 
 ## See Also
 
+- [[human-photoreception-rods-cones-visual-spectrum]]
+
 - [[phytochrome-photoreception]] - Phytochrome photoreceptor systems
 - phytochrome and plant [[plant-vision-and-light-perception-mechanisms]] - Plant light sensing
 - [[darwin-phototropism-discovery-plant-light-perception]] - Darwin's

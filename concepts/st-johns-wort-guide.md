@@ -1,5 +1,5 @@
 ---
-title: St. John's Wort comparison-bean-growing-guide-vs-pepper-growing-guide
+title: St. John's Wort Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -12,11 +12,11 @@ sources: []
 ## Overview
 
 St. John's Wort is a perennial herbaceous plant native to Europe, western
-Asia, and North Africa, now naturalized throughout much of [[psilocybin-north-america-pacific-northwest]].
+Asia, and North Africa, now naturalized throughout much of North America. (see [[echinacea-growing-guide]]).
 Named for flowering around St. John's Day (June 24), it has been used
 medicinally for over 2,400 years and is one of the most clinically studied
 herbal remedies, particularly for mild to moderate depression. It also
-produces a beautiful red oil infusion valued in topical herbal medicine.
+produces a beautiful red oil infusion valued in topical herbal medicine. (see [[hawthorn-berry-guide]]).
 
 ## Botanical Profile
 
@@ -30,7 +30,7 @@ produces a beautiful red oil infusion valued in topical herbal medicine.
 The name "perforatum" refers to the translucent oil glands visible in the
 leaves when held up to light. Flowers are bright yellow with five petals
 and prominent stamens. When flower buds or flowers are crushed, they release
-a reddish-purple pigment (hypericin), which is the signature of this plant.
+a reddish-purple pigment (hypericin), which is the signature of this plant. (see [[chamomile-growing-guide]]).
 
 ## Medicinal Uses
 
@@ -41,7 +41,7 @@ serotonin, dopamine, and norepinephrine reuptake.
 
 Internal uses:
 - Mild to moderate depression: The most extensively studied use. Numerous
-  [[mushroom-cancer-clinical-trials-overview]] and meta-analyses support its efficacy, showing it is
+  clinical trials and meta-analyses support its efficacy, showing it is
   comparable to standard SSRIs for mild to moderate depression with fewer
   side effects for many people.
 - Anxiety: Often co-occurs with depression treatment; may help with
@@ -60,7 +60,7 @@ Topical uses:
 
 ## Critical Drug Interactions
 
-St. John's Wort is notorious for [[cannabis-drug-interactions-and-contraindications]] must be used with
+St. John's Wort is notorious for drug interactions and must be used with
 caution. It is a potent inducer of cytochrome P450 enzymes (particularly
 CYP3A4) and P-glycoprotein, which speeds up the metabolism of many drugs:
 
@@ -139,11 +139,12 @@ Management:
 For medicinal use, harvest the upper 6-12 inches of the plant (flowering
 tops including buds, flowers, and upper leaves) during peak bloom.
 
-## See Also
+Optimal harvest timing:
+- Harvest on a dry, sunny day in mid-morning after dew has dried
+- The highest hypericin content is when approximately 50% of flowers are
+  open and 50% are in bud
+- Snip stems above a leaf node to allow regrowth
+- Handle fresh material minimally to avoid losing the red pigment on your
+  fingers (it stains)
 
-- [[valerian-growing-guide]] -- often combined with St. John's Wort in
-  formulas for anxiety and depression
-- [[lemon-balm-growing-guide]] -- another nervine herb with mood-supporting
-  properties
-
-See also: [[medicinal-herb-growing]]
+## Processing

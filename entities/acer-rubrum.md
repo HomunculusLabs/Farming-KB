@@ -14,7 +14,7 @@ sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service.
   - Dirr, M.A. (1998). "Manual of Woody Landscape Plants." Stipes Publishing.
   - Walters, R.S. & Yawney, H.W. (1990). "Acer rubrum." In: Silvics of North America, Vol. 2. USDA.
-  - Little, E.L. (1979). "Checklist of [[dmt-containing-plants-united-states-halpern]] Trees." USDA Forest Service Agricultural Handbook 541.
+  - Little, E.L. (1979). "Checklist of dmt-containing-plants-united-states-halpern Trees." USDA Forest Service Agricultural Handbook 541.
 ---
 
 ## Overview
@@ -86,6 +86,10 @@ fuelwood. Its rapid growth and wide availability make it an important
 component of the eastern hardwood timber resource.
 
 ## See Also
+
+- [[acer-pensylvanicum]]
+
+- [[acer-nigrum]]
 
 - [[quercus-rubra]]
 - [[betula-papyrifera]]

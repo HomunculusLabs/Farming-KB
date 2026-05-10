@@ -15,11 +15,11 @@ updated: 2026-04-12
 
 # Coprophilous Fungi
 
-Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical [[dighton-fungal-roles-in-nutrient-cycling]] cycling and decomposition of herbivore waste.
+Coprophilous (dung-inhabiting) fungi represent one of the most diverse and specialized ecological guilds in the fungal kingdom. They colonize the dung of herbivorous mammals, birds, and other animals, playing critical roles in nutrient cycling and decomposition of herbivore waste.
 
 ## Overview
 
-Dung provides a nutrient-rich, ephemeral substrate that supports successional communities of fungi. The coprophilous fungal community changes predictably over time, with different [[coprophilous-fungi-taxonomic-groups-distribution]] dominating at different stages of decomposition. This makes dung a natural laboratory for studying fungal succession.
+Dung provides a nutrient-rich, ephemeral substrate that supports successional communities of fungi. The coprophilous fungal community changes predictably over time, with different taxonomic groups dominating at different stages of decomposition. This makes dung a natural laboratory for studying fungal succession.
 
 ## Taxonomic Groups
 
@@ -64,7 +64,7 @@ The Zygomycetes include 10 orders with coprophilous representatives. Key genera:
 - Helicocephalum, Rhopalomyces (Zoopagales) - predators of other fungi
 - Piptocephalis, Syncephalis (Piptocephalidaceae) - mycoparasites
 
-**Reproductive biology**: Most [[biodiversity-coprophilous-zygomycetes-dung]] are heterothallic (requiring + and - mating types). On dung, usually only one mating type is present, so reproduction is asexual. [[fungal-life-cycles-sexual-reproduction-metamorphosis]] (zygospore formation) requires both mating types in proximity, mediated by trisporic acid.
+**Reproductive biology**: Most coprophilous Zygomycetes are heterothallic (requiring + and - mating types). On dung, usually only one mating type is present, so reproduction is asexual. Sexual reproduction (zygospore formation) requires both mating types in proximity, mediated by trisporic acid.
 
 ### Ascomycetes
 
@@ -113,7 +113,7 @@ Relatively few genera are coprophilous:
 
 ## Succession Patterns
 
-Dung [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] follow predictable succession:
+Dung fungal communities follow predictable succession:
 
 1. **Pioneer stage** (first 1-4 days): Zygomycetes dominate (Mucorales, Pilobolus), rapidly colonizing fresh dung using readily available sugars
 2. **Primary stage** (4-14 days): Ascomycetes appear, especially fast-growing Sordariales and Pezizales; spore trapping structures of Predaceous fungi (Zoopagales) capture nematodes and other microfauna
@@ -125,7 +125,7 @@ Dung [[biodiversity-of-fungi-soil-fungal-communities-agriculture]] follow predic
 Coprophilous fungi have evolved remarkable dispersal strategies:
 
 - **Pilobolus**: Phototropic sporangia on stalks, explosive discharge of entire sporangium up to 2+ meters toward light, adhering to vegetation where herbivores graze
-- **Sphaerobolus**: "[[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]" launches peridiole (spore packet) up to 6 meters with force of 10,000g acceleration
+- **Sphaerobolus**: "Artillery fungus" launches peridiole (spore packet) up to 6 meters with force of 10,000g acceleration
 - **Nidulariales** (bird's nest fungi): Splash-cup mechanism - raindrops splash peridioles containing spores outward
 - **Coprinus**: Spores are eaten by invertebrates in dung and pass through digestive tracts
 - **Passive**: Many ascomycetes rely on herbivore ingestion of spores deposited on vegetation; spores survive gut passage and germinate in dung
@@ -140,10 +140,11 @@ Coprophilous fungi have evolved remarkable dispersal strategies:
 ## Ecological Significance
 
 - Primary decomposers of herbivore waste, recycling nutrients in grassland and forest ecosystems
-## Related Topics
+- Spore dispersal depends on herbivore behavior, linking fungal and animal ecology
+- Mycoparasitic species (Piptocephalis, Syncephalis) regulate other fungal populations in dung communities
+- Predaceous fungi (Stylopage, Zoopagales) prey on nematodes and amoebae in dung microfauna
+- Some species are indicators of herbivore presence and ecosystem health
 
-- [[saprotrophic-fungi]] — Decomposer fungi general
-- [[fungal-spore-biology]] — Spore launch physics
-- [[fungal-ecology]] — Fungal ecology overview
-- [[fungal-biodiversity-biogeography]] — Global fungal diversity patterns
-- [[soil-food-web-nutrient-cycling]] — Nutrient cycling in ecosystems
+## Biogeography
+
+Most coprophilous fungi are thought to be cosmopolitan, distributed worldwide alongside their herbivore hosts. However, some tropical species have restricted ranges. The composition of dung fungal communities varies with:

@@ -124,7 +124,6 @@ Level contour features hold water for infiltration; graded features move
 water slowly to a planned outlet. Confusing the two can cause failure. A
 swale that unintentionally falls along its length may scour, while a drain
 without fall may pond, saturate, and breach.
-## Swales and infiltration earthworks
 ## See Also
 [[soil-erosion-control]]
 [[mollison-soil-formation-rates-and-erosion-costs]]

@@ -13,7 +13,7 @@ tags:
   - mushroom-cultivation
 sources:
   - https://pubmed.ncbi.nlm.nih.gov/ — Auricularia polysaccharide and cardiovascular studies
-  - Stamets, P. (2000). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. Ten Speed Press.
+  - Stamets, P. (2000). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. Ten Speed Press.
   - Miles, P.G. & Chang, S.T. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect.
   - Wasser, S.P. (2014). "Medicinal Mushrooms in Human Clinical Studies." Pharm. Nutr.
 ---

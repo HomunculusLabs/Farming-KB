@@ -1,5 +1,5 @@
 ---
-title: harner-amazonian-ayahuasca-preparation-methods and Ceremony
+title: Ayahuasca Preparation and Ceremony
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -19,7 +19,7 @@ sources:
 
 # Ayahuasca Preparation and Ceremony
 
-The Amazonian psychoactive brew ayahuasca: its botanical components, chemical synergy, preparation methods, and ceremonial structure.
+The Amazonian psychoactive brew ayahuasca: its botanical components, chemical synergy, preparation methods, and ceremonial structure [[ayahuasca-ceremony-structure-and-practice]].
 
 ## Overview
 
@@ -55,7 +55,7 @@ The ayahuasca brew works because of a remarkable pharmacological synergy:
 
 ## Preparation
 
-[[kava-traditional-preparation-ceremonial-context]] is a lengthy process:
+Traditional preparation is a lengthy process:
 
 1. **Harvesting**: The *B. caapi* vine is pounded or shredded, and the leaves of the DMT plant are collected.
 2. **Cooking**: The plant materials are boiled together in a large pot, often for 12-24 hours or more, with periodic addition of water as it evaporates.
@@ -68,7 +68,7 @@ Some traditions add additional plants for specific purposes -- tobacco (*Nicotia
 
 ### Structure
 
-[[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] are typically conducted at night and last 4-8 hours:
+Ayahuasca ceremonies are typically conducted at night and last 4-8 hours:
 
 1. **Preparation**: Participants observe dietary restrictions (no salt, sugar, oil, pork, alcohol, or sexual activity) for days beforehand.
 2. **Opening**: The ceremony begins with prayers, invocations, or the blowing of mapacho (jungle tobacco) smoke to purify the space.
@@ -92,10 +92,10 @@ The ayahuasquero or curandero serves multiple functions:
 
 Ayahuasca has spread far beyond its Amazonian origins:
 
-- **[[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]]**: A Brazilian syncretic religion founded in the 1930s that uses ayahuasca (called *daime*) as a sacrament within a Christian framework.
-- **Uniao do Vegetal (UDV)**: Another [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]] religion, with legal recognition in Brazil and the United States (following a 2006 Supreme Court ruling).
+- **Santo Daime**: A Brazilian syncretic religion founded in the 1930s that uses ayahuasca (called *daime*) as a sacrament within a Christian framework.
+- **Uniao do Vegetal (UDV)**: Another Brazilian ayahuasca religion, with legal recognition in Brazil and the United States (following a 2006 Supreme Court ruling).
 - **Urban ceremonies**: Ayahuasca ceremonies are now held in cities worldwide, led by both indigenous and non-indigenous practitioners.
-- **Therapeutic use**: Ayahuasca has attracted scientific interest for treating depression, PTSD, and addiction, though [[hofmann-lsd-clinical-research-early-studies]] is less advanced than for psilocybin.
+- **Therapeutic use**: Ayahuasca has attracted scientific interest for treating depression, PTSD, and addiction, though clinical research is less advanced than for psilocybin.
 
 ## Risks and Contraindications
 

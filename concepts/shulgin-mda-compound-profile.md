@@ -138,10 +138,8 @@ potency from MDA. The acetone analogue (IDA, isopropylidine addition) is further
 2-3x. Human trials of EDA at 150 mg produced only threshold light-headedness. IDA remains
 untested. The positional isomer with the methylenedioxy group at 2,3 (ORTHO-MDA) acts as
 a stimulant rather than a psychedelic — at 50 mg, one subject stayed awake all night
-## See Also
 
+## See Also
 - [[indole-hallucinogen-classification]]
-
-## See Also
 - [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]
 - [[teaming-with-nutrients-essential-plant-nutrients]]

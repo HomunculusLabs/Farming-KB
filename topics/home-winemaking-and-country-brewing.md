@@ -6,10 +6,10 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Wine Making from Grapes (wiki concept)
-  - Grape [[comparison-bean-growing-guide-vs-pepper-growing-guide]] (wiki concept)
+  - Grape comparison-bean-growing-guide-vs-pepper-growing-guide (wiki concept)
   - Cider Making Guide (wiki concept)
   - Mead Making Guide (wiki concept)
-  - [[comparison-beer-brewing-vs-cider-making]] Basics (wiki concept)
+  - comparison-beer-brewing-vs-cider-making Basics (wiki concept)
   - Gruit Beer and Herbs (wiki concept)
   - Barley Varieties for Brewing (wiki concept)
   - Malt and Malting Process (wiki concept)
@@ -118,7 +118,6 @@ Cabernet Sauvignon, Syrah, and Zinfandel.
 
 Vine training systems establish the permanent framework on which
 fruit-bearing canes grow each year. The four-arm Kniffen system, with
-wires at three and five or six feet, is the most common for home
 ## See Also
 
 [[wine-making-from-grapes]] [[grape-growing-guide]] [[cider-making-guide]]

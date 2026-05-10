@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Götsch E. (1996). "Breakthrough in Agriculture: Syntropic Farming." Retired from publication; lectures and workshop materials distributed through Project Life Institute.
-  - Wilmsen C., Fikret P. (2017). "[[query-what-is-syntropic-agriculture-and-how-do-i-start]]: A Dialogue with Ernst Götsch." Agroecology and Sustainable Food Systems, 41(8), 808-822.
+  - Wilmsen C., Fikret P. (2017). "query-what-is-syntropic-agriculture-and-how-do-i-start: A Dialogue with Ernst Götsch." Agroecology and Sustainable Food Systems, 41(8), 808-822.
   - Via Campesina (2019). "Ernst Götsch and Syntropic Farming in Brazil." La Via Campesina Documentation Series.
   - Tavares M.S. (2015). "Life in Syntropy: A Film About Ernst Götsch." Documentary film, 45 min.
   - Fonseca M.L. (2020). "Syntropic Agriculture as a Regenerative Strategy for Degraded Pastures in the Brazilian Atlantic Forest." Agroforestry Systems, 94(4), 1485-1497.

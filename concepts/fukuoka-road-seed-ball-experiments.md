@@ -5,7 +5,6 @@ updated: 2026-04-24
 type: concept
 tags: [seed-balls, revegetation, desert, farming, fukuoka, aerial-sowing]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Seed Ball Experiments Worldwide

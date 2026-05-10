@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Pawar, P. & Bhattacharya, S. (2019). "Terminalia bellirica (Gaertn.) Roxb.: A review on its ethnobotany, phytochemistry, and pharmacology." Phytomedicine, 55, 206-221.
   - Khandelwal, K.R. (2020). Practical Pharmacognosy. Pune: Nirali Prakashan.
-  - Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]]. 2nd ed. Boca Raton: CRC Press.
+  - Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing. 2nd ed. Boca Raton: CRC Press.
   - Chopra, R.N., Nayar, S.L. & Chopra, I.C. (1956). Glossary of Indian Medicinal Plants. New Delhi: CSIR.
   - FRLHT (Foundation for Revitalisation of Local Health Traditions). "Bibhitaki." Digital Plant Database.
 created: 2026-04-28
@@ -124,14 +124,7 @@ The species responds well to organic manuring and tolerates moderately acidic to
 - **Terminalia ferdinandiana** — Kakadu plum; highest recorded vitamin C content of any fruit
 
 ## See Also
-
 - [[amazonian-medicinal-plants-reference]]
-- armillaria-gallica
-- armillaria-gallica
-- terminalia bellirica
-
-## See Also
-
 - [[permaculture-plants-fruit-trees-subtropical]]
 - [[terminalia-arjuna]]
 - [[terminalia-chebula]]

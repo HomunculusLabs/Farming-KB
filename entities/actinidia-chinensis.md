@@ -95,6 +95,8 @@ New Psa-resistant cultivars are now being commercialized. Zespri's proprietary v
 
 ## See Also
 
+- [[cercis-chinensis]]
+
 - [[citrus-sinensis]]
 - [[botrytis-cinerea]]
 - [[fusarium-oxysporum]]

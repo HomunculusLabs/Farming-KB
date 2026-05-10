@@ -96,7 +96,7 @@ Incorporating β-caryophyllene-rich spices into the diet provides a mild, contin
 
 ### Complementary Approach
 β-Caryophyllene from food sources can complement other cannabinoid-based therapies:
-- Combined with [[cbd-mechanism-of-action|CBD]] for enhanced anti-inflammatory effect
+- Combined with CBD for enhanced anti-inflammatory effect
 - May reduce the required dose of pharmaceutical anti-inflammatories
 - Provides CB2 activation without the complexity of cannabis-based medicine
 

@@ -89,6 +89,8 @@ Detected in mammalian brain tissue, human blood/urine/CSF, and amphibian skin se
 
 ## See Also
 
+- [[4-aco-dmt]]
+
 - [[harmane]]
 
 - 5 Methoxy DMT — Related tryptamine with distinct pharmacological profile

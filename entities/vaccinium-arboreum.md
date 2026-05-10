@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vander Kloet, S.P. & Dickinson, T.A. (2009). "A subgeneric classification of the genus Vaccinium and the metamorphosis of V. section Bracteata." Botanical Review, 75(2), 159-197.
-  - Camp, W.H. (1945). "The [[growing-gourmet-north-american-reishi-species]] blueberries with notes on other groups of Vacciniaceae." Brittonia, 5(3), 203-275.
+  - Camp, W.H. (1945). "The growing-gourmet-north-american-reishi-species blueberries with notes on other groups of Vacciniaceae." Brittonia, 5(3), 203-275.
   - Kirkman, L.K., Mitchell, R.J., Helton, R.C. & Drew, M.B. (2001). "Productivity and species richness in an avian seed dispersal mutualism." Ecology, 82(3), 582-590.
   - USDA NRCS (2024). "Vaccinium arboreum Plant Guide." Natural Resources Conservation Service.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants." 6th edition. Stipes Publishing.

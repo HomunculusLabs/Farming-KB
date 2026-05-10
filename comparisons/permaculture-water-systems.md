@@ -33,7 +33,7 @@ sources:
 
 Water management is the foundation of regenerative land design. On a homestead, water systems work together as an integrated strategy: rain is captured and stored, runoff is slowed and infiltrated, graywater is recycled, and distribution is optimized for plant growth. This comparison covers nine major water management approaches synthesized from [[swale-design-construction]], [[graywater-systems]], [[rainwater-harvesting-systems]], [[keyline-design]], [[drip-irrigation-guide]], and [[homestead-water-systems]].
 
-The permaculture principle is to slow, spread, and sink water on the landscape rather than allowing it to run off. Each system in this comparison addresses a different part of the water cycle: swales and [[query-how-does-keyline-design-work-in-permaculture]] manage landscape-scale water movement; rainwater tanks capture and store; graywater systems recycle household water; ponds and dams provide storage and aquaculture; gabions and check dams control erosion in waterways. The most resilient homesteads combine multiple systems.
+The permaculture principle is to slow, spread, and sink water on the landscape rather than allowing it to run off. Each system in this comparison addresses a different part of the water cycle: swales and keyline design manage landscape-scale water movement; rainwater tanks capture and store; graywater systems recycle household water; ponds and dams provide storage and aquaculture; gabions and check dams control erosion in waterways. The most resilient homesteads combine multiple systems.
 
 ## System Comparison Table
 
@@ -68,7 +68,7 @@ Per [[swale-design-construction]], swales are shallow, level-bottomed channels d
 
 ## Graywater System Details
 
-Per [[graywater-systems]], the branched drain system is the simplest and most reliable approach. Each fixture drains separately to its own mulch basin through gravity-fed plumbing. No pumps, filters, or moving parts. The mulch basin (2-4 feet wide, 6-12 inches deep, filled with coarse [[fukuoka-textdoc-sawdust-wood-chips-orchard-soil-acidification-experiment]]) acts as a biofilter where fungi and bacteria [[query-can-fungi-break-down-plastic-pollution]] [[hamilton-composting-and-organic-matter-management]] and soap residues. Soap selection is critical — avoid bleach, borax, fabric softeners, and high-sodium detergents.
+Per [[graywater-systems]], the branched drain system is the simplest and most reliable approach. Each fixture drains separately to its own mulch basin through gravity-fed plumbing. No pumps, filters, or moving parts. The mulch basin (2-4 feet wide, 6-12 inches deep, filled with coarse wood chips) acts as a biofilter where fungi and bacteria break down organic matter and soap residues. Soap selection is critical — avoid bleach, borax, fabric softeners, and high-sodium detergents.
 
 ## Rainwater Harvesting Details
 
@@ -78,7 +78,7 @@ Per [[rainwater-harvesting-systems]], the catchment calculation is: Gallons = Ro
 
 | Property Size | Recommended Systems |
 |--------------|-------------------|
-| Small lot (0.1-0.5 acre) | Rain barrels, rain gardens, graywater mulch basins, [[comparison-drip-irrigation-vs-passive-irrigation]] |
+| Small lot (0.1-0.5 acre) | Rain barrels, rain gardens, graywater mulch basins, drip irrigation |
 | Medium homestead (1-5 acres) | Rainwater tanks, swales, graywater branched drain, small pond, drip irrigation |
 | Large property (5-50+ acres) | Keyline design, earth dams, large ponds, swale networks, gabion check dams, rainwater tanks |
 
@@ -94,4 +94,4 @@ Start with rainwater harvesting (tanks) and graywater reuse (branched drain to m
 - [[keyline-design]] — Keypoints, keylines, dam series, cultivation patterns
 - [[drip-irrigation-guide]] — System design, emitter sizing, scheduling
 - [[homestead-water-systems]] — Complete water sourcing, storage, and distribution
-- [[permaculture-design-methods]] — Water management in the broader [[hemenway-garden-design-process-observation-and-visioning]]
+- [[permaculture-design-methods]] — Water management in the broader design process

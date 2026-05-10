@@ -135,16 +135,8 @@ because a natural explanation would have diminished the Devil's
 stature as a worthy foe of Christendom.
 
 The consequence of this severed connection, in McKenna's view, is the
-modern world: a planet dying under what he called "moral anesthesia,"
-## See Also
 
-- [Dominator [[dominator-culture-and-partnership-society]] Society](dominator-culture-and-partnership-society.md)
-- [Mckenna [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]](mckenna-archaic-revival.md)
-- [Mckenna Partnership Dominator Culture Models](mckenna-partnership-dominator-culture-models.md)
-- [Mckenna High Plains of Eden Tassili](mckenna-high-plains-eden-tassili.md)
-- [Mckenna Minoan Crete Eleusinian Mysteries](mckenna-minoan-crete-eleusinian-mysteries.md)
+## See Also
 - [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
-
-## See Also
 - [[mckenna-kurgan-waves-indo-european-invasion-partnership-collapse]]
 - [[mckenna-dominator-vs-partnership-society-model]]

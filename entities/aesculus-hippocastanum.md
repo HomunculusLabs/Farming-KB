@@ -139,11 +139,8 @@ safe while raw seeds are not.
   parks, large gardens, and urban settings.
 - **[[dighton-fungal-decomposition-leaf-litter-dynamics]]:** Decomposing leaves add [[hamilton-composting-and-organic-matter-management]] and moderate
   nutrients to soil.
-## See Also
 
+## See Also
 - [[quercus-robur]]
 - [[sambucus-nigra]]
-
-## See Also
-
 - [[permaculture-plants-fruit-trees-temperate]]

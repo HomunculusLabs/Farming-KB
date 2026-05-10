@@ -143,7 +143,6 @@ explicitly prohibited at this stage.
 The simplest approach is to place the terrarium in a room where the ambient
 temperature naturally falls within the 65-80F range. Most homes maintain this
 range without any active climate control. If the growing space tends to be
-warm, positioning the terrarium near the floor (where air is cooler) or against
 ## See Also
 - [[mycelium]]
 - [[pf-tek-fruiting-chamber]]

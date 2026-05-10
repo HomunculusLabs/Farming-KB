@@ -1,6 +1,6 @@
 ---
 
-title: oyster-mushroom-harvesting-post-harvest and Potency
+title: Mushroom Harvesting and Potency
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # Mushroom Harvesting and Potency
 
-Harvest timing, drying method, and storage dramatically affect the quality and potency of [[fungi-cultivated-mushrooms-pathogens-competitors]]. PF (Psylocybe Fanaticus) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, [[psilocybin-mushroom-drying-and-storage-methods]] methods, spore printing, and spore syringe preparation.
+Harvest timing, drying method, and storage dramatically affect the quality and potency of cultivated mushrooms. PF (Psylocybe Fanaticus) and Paul Stamets both provide detailed guidance. This page covers harvest timing for maximum potency, drying and storage methods, spore printing, and spore syringe preparation.
 
 ## When to Harvest: Pre-Sporulation
 
@@ -70,7 +70,7 @@ From PF and Jochen Gartz's research, P. cubensis can achieve baseline psilocybin
 | 3 grams | Visual waves; air appears liquid with tidal movements |
 | 4 grams | Intense experience, 4-5 hours |
 | 5 grams | Nearly overwhelming, 6 hours |
-| 7+ grams | Not recommended; requires very supportive [[lsd-set-and-setting-framework]] |
+| 7+ grams | Not recommended; requires very supportive set and setting |
 
 Note: Individual sensitivity varies enormously. One mycologist needs only 1-2 grams for a full experience; another woman felt nothing at 5 grams.
 
@@ -138,11 +138,13 @@ Mature specimens (with dark brown gills and purple spore deposits) are good for 
 - Sterile syringes with water, glass stirring rod (science supply)
 - Lid with two holes (one for stirring rod, one for syringe needle)
 
-## See Also
+### Procedure
 
-- [[pf-tek-guide]] -- Complete PF TEK from substrate to harvest
-- [[pf-tek-fruiting-chamber]] -- Dual [[dual-chambered-terrarium-design]] construction
-- [[psilocybin-cultivation]] -- Broader cultivation overview
-- [[mushroom-drying-storage]] -- Drying and storage methods
-- [[mushroom-spore-printing-and-storage]] -- Spore techniques
-- [[psilocybin-mushroom-chemistry]] -- Species [[psilocybe-cubensis-strain-potency-comparison-amazon-mr-equadorian]]
+1. **Pre-sterilize** jar and metal lid in toaster oven at ~300F for 30 minutes; cool; tighten lid
+2. **Wash hands** -- hands are "a prime source for bacteria and microspore contaminants"
+3. **Sterilize work surfaces** with rubbing alcohol; minimize drafts
+4. Run a HEPA air cleaner (99.97% efficiency) for a few hours in a closed room
+5. **Flame sterilize scissors** with alcohol flame; snip mushroom cap as far up the stem as possible
+6. **Place cap gills-down** on jar bottom using straight pin; lid on loosely
+7. **Leave 2 days** in draft-free area away from direct sunlight
+8. **Remove cap** with minimal air disturbance; let jar dehumidify a few days with loose lid

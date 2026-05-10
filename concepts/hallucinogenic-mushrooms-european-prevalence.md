@@ -3,7 +3,7 @@ title: emcdda-hallucinogenic-mushrooms-emerging-trend-europe — hallucinogenic-
 source: carolina-mushrooms_08qxp.md
  mined: 2026-05-08
 tags: [psilocybin, mushrooms, europe, prevalence, drug-trends, emcdda]
-aliases: [[guzman-magic-mushrooms-african-species]] prevalence EU, [[emcdda-psilocybin-mushroom-dose-and-effects]] use statistics]
+aliases: [[guzman-magic-mushrooms-african-species]] prevalence EU, [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] use statistics]
 ---
 # Hallucinogenic Mushrooms — European Prevalence and Trends
 

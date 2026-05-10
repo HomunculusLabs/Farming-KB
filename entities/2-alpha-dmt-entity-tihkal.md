@@ -38,7 +38,9 @@ Shulgin noted that this compound highlights the limits of generalizations in med
 
 The sedative character at high doses contrasts sharply with the stimulant profile of alpha-MT, suggesting that the 2-methyl group fundamentally changes how the molecule interacts with receptor systems, possibly shifting affinity away from serotonin receptors and toward other targets.
 
-## Related Compounds
+## Related
+
+- [[alpha-pvp]] Compounds
 
 [[det-entity-tihkal]] (2-methyl-DET) - the 2-methyl analogue of DET, which shows auditory distortion effects.
 

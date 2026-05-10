@@ -18,7 +18,7 @@ sources:
   - Heim, R. (1942). "Nouvelles études sur les Termitomyces." Revue de Mycologie, 7, 61-80.
   - Pegler, D.N. & Vanhaecke, M. (1994). "Termitomyces of South-East Asia." Kew Bulletin, 49(4), 717-736.
   - Aanen, D.K. et al. (2002). "The Evolution of fungus-growing termites and their mutualistic fungal symbionts." PNAS, 99(23), 14887-14892.
-  - Oei, P. (1996). [[accessible-mushroom-cultivation-for-disabilities]]: [[mollison-designers-appropriate-technology-small-scale-tools]] for Mushroom Growers. TOOL Publications.
+  - Oei, P. (1996). accessible-mushroom-cultivation-for-disabilities: mollison-designers-appropriate-technology-small-scale-tools for Mushroom Growers. TOOL Publications.
   - De Fine Licht, H.H. et al. (2005). "The termite fungus comb." Insectes Sociaux, 52(3), 247-254.
 ---
 # Termitomyces eurhizus

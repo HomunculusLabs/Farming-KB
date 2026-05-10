@@ -1,5 +1,5 @@
 ---
-title: Plant plant hearing and vibration sensing Sensing
+title: Plant plant hearing and [[chamovitz-plant-acoustic-and-vibration-sensing]] Sensing
 created: 2026-05-08
 tags: [botany, plant-senses, hearing, vibration, mechanosensing, plant-neurobiology, chamovitz, acoustics]
 date: 2026-05-08
@@ -10,7 +10,7 @@ date: 2026-05-08
 ## Overview
 
 The question of whether plants can hear has fascinated scientists and the
-public alike. In *What a Plant Knows*, Daniel Chamovitz examines the
+public alike. In *What a Plant Knows*, [[daniel-chamovitz]] examines the
 evidence for acoustic perception in plants, finding that while plants are
 remarkably sensitive to mechanical vibration, true "hearing" — the
 perception of airborne sound waves — remains unproven in most species.
@@ -54,7 +54,7 @@ Plants are exquisitely sensitive to vibrations transmitted through their
 physical substrate — soil, water, or the plant's own structure. Research
 has shown that plants can detect:
 - The vibrations of chewing caterpillars through leaf tissue
-- Water flow vibrations in aquatic environments
+- Water flow vibrations in [[fungal-roles-aquatic-environments]]
 - Seismic vibrations through root systems
 
 ### Mechanical Deformation
@@ -72,7 +72,7 @@ calcium signaling, jasmonic acid, and ethylene pathways.
 
 ## Recent Research: Caterpillar Detection
 
-A notable study (Appel and Cocroft, 2014) found that *Arabidopsis thaliana*
+A notable study (Appel and Cocroft, 2014) found that *[[arabidopsis-thaliana]]*
 plants could detect the feeding vibrations of caterpillars and respond
 by producing elevated levels of defensive glucosinolates. However, this
 response was triggered by substrate-borne vibration transmitted through
@@ -136,14 +136,5 @@ For growers, the evidence suggests:
 
 ## See Also
 
-- [[what-a-plant-knows-plant-vision-and-light-perception]]
-- [[plant-thigmomorphogenesis-what-a-plant-feels]]
-- [[plant-mechanosensing-and-thigmomorphogenesis]]
-- [[chamovitz-plant-senses-overview]]
-- [[sound-and-music-effects-on-plants]]
-
-## Source
-
-- Chamovitz D. *What a Plant Knows: A [[ghouled-field-guide-historical-context]] to the Senses of Your
-  Garden — and Beyond*. Oneworld Publications, 2012. Chapter 4: What
-  a Plant Hears.
+- [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]
+- [[query-what-are-phytohormones-and-how-do-they-affect-plant-growth]]

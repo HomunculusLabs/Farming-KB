@@ -129,6 +129,10 @@ aromatherapy and bath products.
 
 ## See Also
 
+- [[pinus-rigida]]
+
+- [[pinus-monticola]]
+
 - [[pinus-sylvestris]]
 - [[pinus-nigra]]
 - [[picea-abies]]

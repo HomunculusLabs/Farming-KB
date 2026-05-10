@@ -131,7 +131,7 @@ Sterilization through elastomeric barriers requires rigorous validation to ensur
 ## See Also
 
 - [[aseptic-specimen-transfer-space-environment-microwave-sterilizable-access-port]]
-- [[microwave-water-interaction-2.45-ghz]]
+- [[microwave-water-interaction-2-45-ghz]]
 - [[eclss-environmental-control-life-support]]
 
 ## Merged: Microwave Penetration Through Elastomeric Materials for Enclosed System Sterilization

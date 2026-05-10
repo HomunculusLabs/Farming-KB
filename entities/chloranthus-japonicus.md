@@ -108,6 +108,8 @@ The genus *Chloranthus* as a whole is of significant scientific interest due to 
 
 ## See Also
 
+- [[chloranthus-oldhamii]]
+
 - [[chloranthus-spicatus]]
 - [[saururus-cernuus]]
 - [[houttuynia-cordata]]

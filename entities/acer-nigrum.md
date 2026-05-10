@@ -109,6 +109,8 @@ Some authorities recognize a third taxon in the complex, black sugar maple (*A. 
 
 ## See Also
 
+- [[piper-nigrum-entity]]
+
 - [[acer-saccharum]]
 - [[acer-rubrum]]
 - [[acer-platanoides]]

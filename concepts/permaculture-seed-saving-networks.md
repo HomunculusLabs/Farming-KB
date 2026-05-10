@@ -18,7 +18,7 @@ Seed saving networks are community-based systems for preserving, sharing, and br
 - **Self-reliance** — reduces dependence on commercial seed companies, many of which sell F1 hybrids that do not breed true
 - **Cost reduction** — seeds are free once the initial stock is acquired
 - **Food sovereignty** — communities control their own food supply chain from seed to plate
-- **Cultural preservation** — heirloom varieties carry [[shroom-cultural-history-hippie-revolution-and-counterculture]], flavor, and nutritional qualities
+- **Cultural preservation** — heirloom varieties carry cultural history, flavor, and nutritional qualities
 
 ## Open-Pollinated vs Hybrid Seeds
 
@@ -58,7 +58,7 @@ Select seeds from the best plants — not just the best fruit. Consider:
 - Yield
 - Earliness or lateness (for extending the season)
 - Growth habit (bush vs. vining, compact vs. sprawling)
-- Local adaptation traits ([[dighton-fungal-drought-tolerance-plant-water-relations]], [[coleman-cold-hardiness-testing-ratings]], [[cannabis-disease-pest-resistance-breeding-clarke]])
+- Local adaptation traits (drought tolerance, cold hardiness, pest resistance)
 
 Save from multiple plants (minimum 20-50 for outcrossing species) to maintain genetic diversity.
 
@@ -100,7 +100,7 @@ Seed libraries are community collections where members can borrow seeds, grow pl
 
 ## Community Seed Exchanges
 
-Seed swaps are events where gardeners gather to exchange seeds, knowledge, and stories. They are often seasonal ([[coleman-overwintered-onions-and-early-spring-crops]]) and may include:
+Seed swaps are events where gardeners gather to exchange seeds, knowledge, and stories. They are often seasonal (early spring) and may include:
 
 - Seed sharing tables organized by crop type
 - Seed saving workshops and demonstrations
@@ -111,7 +111,7 @@ Seed swaps are events where gardeners gather to exchange seeds, knowledge, and s
 
 One of the most powerful outcomes of seed saving networks is regional adaptation. Over 5-10 generations of selection, seeds become:
 - Better adapted to local temperature extremes
-- More resistant to local [[hamilton-pest-and-disease-control-organic]] pressures
+- More resistant to local pest and disease pressures
 - Synchronized with local growing seasons (day length, rainfall patterns)
 - More productive under local soil conditions
 

@@ -130,10 +130,6 @@ during the [[savory-growing-season-and-non-growing-season-management]]. You will
 or meter per year for most garden areas.
 
 ## See Also
-
 - [[green-manures-organic-gardening]]
 - [[organic-pest-disease-control]]
-
-## See Also
-
 - [[comparison-vermicomposting-vs-composting-organic-garden]]

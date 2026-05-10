@@ -44,11 +44,9 @@ stored in airtight containers in a cool, dark, dry place, with strains
 reproduced every three years to maintain viability.
 
 ## See Also
-
-## See Also
-
 - [[cannabis-grow-harvesting-drying-curing]]
 - [[cannabis-maturation-and-harvest-by-latitude-clarke]]
+
 ## Practical Considerations
 
 When working with [[cannabis-harvesting-and-curing-techniques]], Curing, and Storage Methods, several practical factors should be

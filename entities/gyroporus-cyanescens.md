@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Bessette, A.E., Roody, W.C. & Bessette, A.R. (2000). growing-gourmet-north-american-reishi-species Boletes: A Color Guide to the Fleshy Pored Mushrooms. Syracuse University Press."
-  - "Orson, K.M. & Miller, O.K. (2012). \"Gyroporus and other boletes of the southeastern [[dmt-containing-plants-united-states-halpern]].\" Mycotaxon, 120, 473-488."
+  - "Orson, K.M. & Miller, O.K. (2012). \"Gyroporus and other boletes of the southeastern dmt-containing-plants-united-states-halpern.\" Mycotaxon, 120, 473-488."
   - "Kuo, M. (2024). Gyroporus cyanescens. MushroomExpert.com."
   - "Binder, M. & Bresinsky, A. (2002). \"Derivation of a polymorphic lineage of Gasteromycetes from boletoid ancestors.\" Mycologia, 94(1), 85-98."
 ---

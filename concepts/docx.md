@@ -88,12 +88,6 @@ generation pipelines, template-based reporting systems, and document conversion
 services.
 
 ## See Also
-
-- [[microsoft-word]] — Primary application for DOCX files
-- ole2 compound binary file format — File format concepts
-- xml — XML markup fundamentals
-- rich text format — Earlier cross-platform rich text format
-
-## See Also
+- [[microsoft-word]]
 - [[microsoft-word-document-format]]
 - [[binary-document-format-reverse-engineering]]

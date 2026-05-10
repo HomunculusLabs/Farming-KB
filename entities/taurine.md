@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Schaffer S., Kim H.W. (2018). "Regulation of glutamate homeostasis by taurine." Advances in Experimental Medicine and Biology.
-  - Oudit G.Y. et al. (2003). "Taurine supplementation reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and improves cardiovascular function." Circulation.
+  - Oudit G.Y. et al. (2003). "Taurine supplementation reduces blesching-cannabis-oxidative-stress-and-antioxidant-defense and improves cardiovascular function." Circulation.
   - El Idrissi A. (2008). "Taurine improves learning and retention in age-related memory decline." Neurochemical Research.
   - Ripps H., Shen W. (2012). "Review: taurine: a very essential amino acid." Molecular Vision.
   - Spitze A.R. et al. (2010). "Selected vitamins, A, C, E, and beta-carotene, taurine, L-carnitine." Journal of Animal Science.
@@ -112,6 +112,6 @@ Some countries restrict taurine content in energy drinks, with limits typically 
 ## See Also
 
 - [[nicotine]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[dmt]]
 - [[ergine-entity]]

@@ -7,7 +7,7 @@ tags: [reference]
 sources:
   - "raw/papers/harner-j-hallucinogens-and-shamanism.md"
 ---
-# Cashinahua Banisteriopsis Use
+# Cashinahua [[harner-cashinahua-banisteriopsis-usage|Banisteriopsis]] Use
 
 The Cashinahua are a Panoan-speaking people of approximately 500 persons living in the tropical rain forest of southeastern Peru along the Curanja River. Their use of Banisteriopsis — known locally as nixi pae ("vine drunkenness") and more widely as ayahuasca — was documented by anthropologist Kenneth M. Kensinger across multiple field trips between 1955 and 1968.
 
@@ -27,7 +27,7 @@ The group is essential: it provides contact with the real world without which th
 
 ## Common Hallucinatory Themes
 
-Despite the individual nature of the experience, there is high similarity in content across participants during any single session. The most frequent hallucinations include:
+Despite the individual nature of the experience, there is high similarity in content across participants during any single session. The most frequent [[guzman-voluntary-hallucinations-psilocybin-vapor-enclosed-spaces|hallucinations]] include:
 
 Brightly colored large snakes are the most commonly reported vision, along with jaguars and ocelots. Spirits — both of ayahuasca and others — appear regularly. Large trees, sometimes falling, are seen. Lakes filled with anacondas and alligators, Cashinahua villages and those of other Indians, traders and their goods, and gardens full of manioc, plantains, corn, and peanuts all figure prominently.
 
@@ -49,26 +49,9 @@ The Cashinahua believe each person has five spirits: bedu yuxin (eye spirit, the
 
 ## See Also
 
-[[harmala-alkaloids-and-ayahuasca-preparation]]
-[[campa-ayahuasca-ceremony]]
-[[hallucinogens-and-shamanism-harner-anthology]]
-[[shamanic-use-of-psychedelics]]
-
-## See Also
-
-[[harmala-alkaloids-and-ayahuasca-preparation]]
-[[campa-ayahuasca-ceremony]]
-[[hallucinogens-and-shamanism-harner-anthology]]
-[[shamanic-use-of-psychedelics]]
-[[campa-ayahuasca-ceremony]] and [[shamanic-trance-cross-cultural-patterns]].
-
-Contemporary interest in ayahuasca has brought both opportunities and challenges to Cashinahua communities. While some have benefited from the attention to their botanical knowledge, the influx of outsiders seeking ayahuasca experiences threatens the integrity of traditional practices. The communal, fear-centered nature of Cashinahua ayahuasca use stands in stark contrast to the often individualistic and pleasure-seeking motivations of Western [[stuart-r-ayahuasca-tourism-cautionary-ethnography]].
-
-The Cashinahua framework for understanding [[amaringo-ayahuasca-visions-shipibo-iconography]] — as the experiences of the dream spirit (nama yuxin) providing practical information about the future — offers a model for integrating psychedelic experiences into a coherent worldview that is both spiritually meaningful and practically useful. Their recognition that the experience is fundamentally fearsome, rather than pleasurable, challenges romantic Western narratives about plant medicines.
-
 ## References and Further Reading
 
-Kensinger, K. M. (1973). "Banisteriopsis Usage Among the Cashinahua." In M. J. Harner (Ed.), Hallucinogens and Shamanism. Oxford University Press.
+Kensinger, K. M. (1973). "Banisteriopsis Usage Among the Cashinahua." In M. J. Harner (Ed.), [[hallucinogens-and-shamanism-harner-anthology]]. Oxford University Press.
 
 Kensinger, K. M. (1995). How Real People Really Live: Banisteriopsis Use Among the Cashinahua. In L. E. DeBoin & J. M. Winkelman (Eds.), Ayahuasca: Hallucinogens, Consciousness and the Spirit of Nature.
 
@@ -91,3 +74,7 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Related Topics
+
+- [[plants-of-the-gods-banisteriopsis-ayahuasca]]

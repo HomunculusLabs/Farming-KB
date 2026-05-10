@@ -1,5 +1,5 @@
 ---
-title: KNF bionutrients-lab-oriental-herbal-nutrients-ohn Nutrient
+title: KNF Oriental Herbal Nutrient
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # KNF Oriental Herbal Nutrient (OHN)
 
-Oriental Herbal Nutrient is made by fermenting a blend of [[permaculture-plants-medicinal-herbs-healing]] in alcohol. It provides vitality to plants, helps them overcome stress, and strengthens resistance to disease and pests.
+Oriental Herbal Nutrient is made by fermenting a blend of medicinal herbs in alcohol. It provides vitality to plants, helps them overcome stress, and strengthens resistance to disease and pests.
 
 ## Herbs Used
 
@@ -21,7 +21,7 @@ Seven herbs are used, each with specific functions:
 2. **Licorice**: Harmonizes effects of other herbs, supports plant metabolism
 3. **Cinnamon**: Warms and stimulates plant growth, antimicrobial
 4. **Garlic**: Natural antibiotic, pest deterrent, immune booster
-5. **Ginger**: Stimulates circulation, warms plants, enhances [[plant-nutrient-uptake-mechanisms]]
+5. **Ginger**: Stimulates circulation, warms plants, enhances nutrient uptake
 6. **Aloe Vera**: Soothing, supports wound healing, promotes growth
 7. **Ginkgo**: Antioxidant, promotes overall plant health
 
@@ -66,15 +66,15 @@ For each herb (prepare separately):
 
 - Restores vitality to plants damaged by weather, pests, or chemicals
 - Strengthens plant immune system
-- Helps plants overcome [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]]
+- Helps plants overcome transplant shock
 - Provides trace minerals and bio-active compounds
-- Enhances the effectiveness of other [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] when used together
+- Enhances the effectiveness of other KNF inputs when used together
 
 ## Storage
 
 - Keep in airtight container
 - Cool, dark place
-- Long [[psilocybin-shelf-life-stability]] due to alcohol content
+- Long shelf life due to alcohol content
 
 ## See Also
 

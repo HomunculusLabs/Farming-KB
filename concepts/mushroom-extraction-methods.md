@@ -4,8 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mycology, mushrooms, cultivation]
-sources:
-  sources: []
+sources: []
 ---
 # Mushroom Extraction Methods Extracting bioactive compounds from medicinal mushrooms is critical for producing therapeutically effective preparations. Different extraction methods yield different compounds with distinct biological activities. Understanding these methods is essential for both industrial production and home preparation. ## Hot Water Extraction The traditional method used in Chinese medicine for thousands of years. Hot water extraction is effective for recovering water-soluble polysaccharides (β-glucans, heteropolysaccharides) and some water-soluble proteins. ### Process 1. Dried mushroom material ground to fine powder 2. Suspended in water (typically 1:20 to 1:100 ratio) 3. Heated to 80-100°C for 2-4 hours with stirring 4. Filtered to remove insoluble material 5. Filtrate concentrated by evaporation 6. Polysaccharides precipitated by adding 3-4 volumes of ethanol 7. Precipitate collected, washed, dried ### Characteristics - Recovers the primary immunomodulatory polysaccharides - Mimics traditional decoction methods (consistent with historical use) - Relatively simple and inexpensive - Does NOT extract non-polar compounds (triterpenoids, sterols, some alkaloids) ### Home-Scale Adaptation - Simmer dried mushrooms in water for 1-2 hours - Strain and drink the broth - Re-extraction of the same material 2-3 times increases yield - Typical ratio: 5-10g dried mushroom per litre of water ## Ethanol Extraction Used to recover alcohol-soluble compounds not extracted by hot water: - Triterpenoids (from [[mushroom-polysaccharide-chemistry]] — chemistry of extracted compounds
 - [[maitake-cultivation]] — cultivation of medicinal mushroom species
@@ -52,6 +51,18 @@ creating a reference base of observations, interventions, and results.
 This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
+
+## Dual Extraction Methods
+
+Because hot water and ethanol each recover different compound classes,
+many high-quality medicinal mushroom products use dual extraction. This
+involves performing a hot water extraction first, then extracting the
+residual material with ethanol, and finally combining both extracts.
+Dual extraction captures both the water-soluble beta-glucans and the
+alcohol-soluble triterpenoids, providing a more complete profile of
+bioactive compounds. Reishi (Ganoderma lucidum) and turkey tail
+(Trametes versicolor) preparations particularly benefit from dual
+extraction due to their significant triterpenoid content.
 
 ## Future Directions
 

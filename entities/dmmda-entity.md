@@ -13,13 +13,13 @@ DMMDA is a tetraoxygenated substituted amphetamine and one of the earliest compo
 
 ## Chemical Classification
 
-DMMDA belongs to the phenethylamine class of chemical compounds.
+DMMDA belongs to the phenethylamine class of [[neurotropic-fungi-chemical-compounds]].
 
 It is formally named 2,5-dimethoxy-3,4-methylenedioxyamphetamine.
 
 DMMDA is the alpha-methylated homologue of [[mmda-entity]] is derived from myristicin.
 
-The complex substitution pattern with four oxygen groups represents an early attempt to understand the structure-activity relationships of highly substituted phenethylamines.
+The complex substitution pattern with four oxygen groups represents an early attempt to understand the structure-activity relationships of highly [[pihkal-beta-substituted-phenethylamines]].
 
 ## Dosage and Duration
 
@@ -28,12 +28,7 @@ Dosage: 30 - 75 mg.
 Duration: 6 - 8 h.
 
 ## See Also
-
-[[mmda-entity]]
-
-[[lsd-compound-profile]]
-
-myristicin
+- [[dmmda-2-entity]]
 
 ## References
 
@@ -87,7 +82,7 @@ complexity of day-to-day management and observation activities.
 
 Ongoing developments in research and practice continue to expand our
 understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
+and [[analytical-methods-psilocybin-psilocin-quantification]] offer opportunities for refinement and innovation
 that can enhance both the effectiveness and efficiency of implementation.
 
 Integration with other disciplines and approaches creates synergies that
@@ -95,7 +90,7 @@ advance the field as a whole. Cross-pollination of ideas from biology,
 ecology, data science, and traditional knowledge systems generates novel
 perspectives and solutions that may not emerge within any single domain.
 
-For continued learning, recommended resources include current research
+For continued learning, recommended resources include [[psychedelic-therapy-current-research]]
 publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest

@@ -5,7 +5,6 @@ updated: 2026-05-02
 type: comparison
 tags: [homesteading, livestock]
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 tags: [comparison, poultry, livestock, homesteading]
 date: 2026-04-25

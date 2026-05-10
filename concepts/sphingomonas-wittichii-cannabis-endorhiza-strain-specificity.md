@@ -90,6 +90,8 @@ Future work should include isolation and characterization of S. wittichii strain
 
 ## See Also
 
+- [[sphingomonas-wittichii-maui-wowie]]
+
 - [[methylophilus-cannabis-endorhiza-strain-specificity]]
 
 - [[cannabis-endorhiza-microbiome]]

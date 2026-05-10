@@ -131,7 +131,7 @@ the experience was unpleasant and not worth repeating.
 
 - [[4-d-entity-pihkal]]
 - [[lsd-entity-tihkal]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - Safrole
 - Elemicin
 - [[harmine-entity-tihkal]]

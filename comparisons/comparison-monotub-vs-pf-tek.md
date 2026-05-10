@@ -16,9 +16,9 @@ type: comparison
 the spectrum of complexity, cost, and yield.
 
 PF TEK ([[substrate-preparation]], sterilization
-requirements, fruiting chamber design, and overall scalability. PF TEK uses a
+requirements, [[fruiting-chamber]] er]] er]] design, and overall scalability. PF TEK uses a
 simple brown rice flour and vermiculite mixture sterilized in half-pint mason
-jars, while monotub cultivation uses colonized grain spawn mixed with a bulk
+jars, while [[monotub-cultivation]] on]] uses colonized grain spawn mixed with a bulk
 substrate such as CVG (coco coir, vermiculite, gypsum) inside a modified
 plastic storage bin.
 
@@ -55,7 +55,7 @@ monitoring, and humidity management without the complexity of grain work.
 
 ## Monotub Cultivation: The Yield Standard
 
-[[substrate-pasteurization]]RF + vermiculite | Grain spawn + bulk CVG |
+[[substrate-pasteurization]] RF + vermiculite | Grain spawn + bulk CVG |
 | Sterilization method | Boiling pot | Pressure cooker (15 PSI) |
 | Substrate pasteurization | Not needed | Bucket tek or heat pasteurization |
 | Typical container | Half-pint jars | 50-80 quart plastic bin |

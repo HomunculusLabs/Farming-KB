@@ -39,7 +39,7 @@ All share the core traits: lignicolous (wood-decomposing), cold-fruiting, [[perm
 
 ## Potency
 
-P. azurescens holds the distinction of having the highest alkaloid concentrations of any known [[emcdda-psilocybin-mushroom-dose-and-effects]]. Gartz (1995) analysis of dried specimens:
+P. azurescens holds the distinction of having the highest alkaloid concentrations of any known [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]. Gartz (1995) analysis of dried specimens:
 
 | Sample | Psilocybin (%) | Psilocin (%) | Baeocystin (%) |
 |--------|---------------|-------------|----------------|

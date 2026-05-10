@@ -1,5 +1,5 @@
 ---
-title: Nineteenth-Century psilocybin-mushroom-identification-guide and Foraging
+title: Nineteenth-Century Mushroom Identification and Foraging
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -21,7 +21,7 @@ Palmer demolished every popular identification rule:
 
 | Popular Rule | Palmer's Refutation |
 |---|---|
-| [[palmer-edible-mushrooms-north-america]] peel like potatoes | Nearly all fungi peel readily |
+| Edible mushrooms peel like potatoes | Nearly all fungi peel readily |
 | Stems come out like umbrella handles | Many poisonous species have free gills that detach easily |
 | Found in damp/dark places = poisonous | The best edibles grow in damp, dark places |
 | Thin cap = dangerous | Marasmius oreades has a thin cap and is excellent |
@@ -32,7 +32,7 @@ Palmer demolished every popular identification rule:
 | Snail trails = danger | Slugs eat both edible and poisonous species equally |
 | Bright colors = poison | Boletus edulis has brown cap; deadly Amanitas can be pure white |
 
-Palmer quoted Dr. F.S. Cordier (Paris, 1876): "No one of these characteristics is exclusively the property either of esculent mushrooms or of [[palmer-poisonous-mushrooms-deadly-species]]."
+Palmer quoted Dr. F.S. Cordier (Paris, 1876): "No one of these characteristics is exclusively the property either of esculent mushrooms or of poisonous mushrooms."
 
 ## Palmer's Four Grand Divisions
 
@@ -48,7 +48,7 @@ For beginners, Palmer offered a practical classification by examining the unders
 
 ## Notable Edible Species Described
 
-- **[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]] (Maned/[[growing-gourmet-shaggy-mane-coprinus-cultivation]])**: ovate like turtle's egg, brown smooth top, white ruffled "mane" below. Hollow stem. "No poisonous counterpart." Deliquesces into ink — never eat with black gills. Called "macaroni mushroom" because stem resembles macaroni when cut.
+- **Coprinus comatus (Maned/Shaggy Mane)**: ovate like turtle's egg, brown smooth top, white ruffled "mane" below. Hollow stem. "No poisonous counterpart." Deliquesces into ink — never eat with black gills. Called "macaroni mushroom" because stem resembles macaroni when cut.
 
 - **Agaricus ulmarius (Elm-tree Mushroom)**: grows only in autumn on elm trees. Thick solid stem, broad white gills, firm white flesh, light-yellow top. Reappears yearly in the same cleft or cut. Called "tree-fish" for its fish-like flavor and smell.
 

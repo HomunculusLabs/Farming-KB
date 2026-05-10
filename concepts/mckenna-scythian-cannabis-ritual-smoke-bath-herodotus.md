@@ -38,9 +38,9 @@ first was a kind of cannabis sweat lodge ceremony:
 
 This passage is remarkable for several reasons. It describes a ritual technology
 that closely parallels Indigenous American sweat lodge ceremonies, suggesting
-that the combination of extreme heat, enclosed space, and psychoactive
+that the combination of [[extreme-heat-preparedness]], enclosed space, and psychoactive
 substance may represent a deep structural pattern in human [[shamanism|shamanic]]
-practice. The Scythians' use of heated stones to volatilize cannabis seeds
+practice. The Scythians' use of heated stones to volatilize [[query-how-to-germinate-cannabis-seeds]]
 created what Herodotus explicitly compared to Greek vapor baths -- but with an
 intensity that surpassed any Greek equivalent. The participants' transport was
 so complete that they "shout aloud," conveying the ecstatic communal nature of
@@ -64,11 +64,11 @@ around a fire, throwing cannabis fruit onto the flames. Herodotus's comparison
 to Greek wine-drinking is telling: cannabis served the same social and ritual
 function for the Scythians that wine did for the Greeks. The progression from
 intoxication to dance and song indicates an experience moving beyond mere
-inebriation into ritual celebration and possibly shamanic trance.
+inebriation into ritual celebration and possibly [[shamanic-trance-cross-cultural-patterns]].
 
 ## The Missing Leap: Inhalation Without the Pipe
 
-One of the most intriguing aspects of Herodotus's account, as Terence McKenna
+One of the most intriguing aspects of Herodotus's account, as [[terence-mckenna]]
 observed, is what the Scythians did *not* invent. Despite having discovered
 that "inhaling the smoke of cannabis was the most effective way to enjoy it,"
 the Scythians "were unable to make the creative leap to the invention of the
@@ -87,13 +87,13 @@ and tobacco smoking today.
 
 McKenna placed the Scythian adoption of cannabis within a larger narrative of
 botanical succession. He argued that cannabis was "the most likely plant
-candidate to replace the sacred psilocybin mushrooms of the older cultures of
+candidate to replace the sacred [[cap-versus-stem-alkaloid-distribution-in-psilocybin-mushrooms]] of the older cultures of
 the Near East." As [[ancient-cannabis-use-near-east-and-egypt|ancient Near Eastern]] partnership societies transformed, cannabis emerged as the primary
 psychoactive sacrament -- easier to cultivate, more widely distributed, and
 less ecologically constrained than psilocybin mushrooms.
 
 This transition "lies far in the past," but left a lasting legacy: the
-persistent association of cannabis with partnership society values. McKenna
+persistent association of cannabis with [[dominator-culture-and-partnership-society]] values. McKenna
 speculated that the "growing presence of cannabis in Vedic society and later
 in Islam may have acted to slow the rise of dominator values" by encouraging
 heterodox forces -- Shivites in Hinduism and Sufis in Islam -- "who made no

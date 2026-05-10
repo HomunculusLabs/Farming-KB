@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Zavarin, E. & Snajberk, K. (1972). "Geographical variability of monoterpenes from Abies concolor and A. grandis." Biochemical Systematics and Ecology 1(1): 57-67.
-  - Alexander, R.R. (1987). "Abies concolor Gordon & Glend." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of [[psilocybin-north-america-pacific-northwest]], Vol. 1. USDA Forest Service.
+  - Alexander, R.R. (1987). "Abies concolor Gordon & Glend." In: Burns, R.M. & Honkala, B.H. (eds.), Silvics of psilocybin-north-america-pacific-northwest, Vol. 1. USDA Forest Service.
   - Laacke, R.J. (1990). "Abies concolor." In: Silvics of North America. USDA Forest Service Agriculture Handbook 654.
   - Kuser, J.E. et al. (1997). "Morphological and biochemical variation in the Abies concolor complex of the Sierra Nevada and southern California." Biochemical Systematics and Ecology 25(3): 259-271.
 ---

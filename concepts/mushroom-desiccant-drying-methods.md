@@ -138,9 +138,5 @@ Properly dried mushrooms require appropriate storage:
   1-2 years. Frozen, 2+ years with minimal potency loss
 
 ## See Also
-
-- [[psilocybin-metabolism-psilocin-conversion]] - Stability and degradation
-
-## See Also
-
+- [[psilocybin-metabolism-psilocin-conversion]]
 - [[mushroom-drying-canning-pickling-methods]]

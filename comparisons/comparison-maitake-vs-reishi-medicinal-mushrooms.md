@@ -16,7 +16,7 @@ sources:
   - "Mayell, M. (2001). Maitake extracts and their therapeutic potential. Alternative Medicine Review, 6(1), 48–60."
   - "Paterson, R.R.M. (2006). Ganoderma – a therapeutic fungal biofactory. Phytochemistry, 67(18), 1985–2001."
   - "Boh, B., Berovic, M., et al. (2007). Ganoderma lucidium and the lingzhi mushroom. Acta Pharmaceutica, 57(2), 1–14."
-  - "Wasser, S.P. (2014). Medicinal mushroom science: history, current status, future trends, and unsolved problems. International Journal of [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]], 16(1), 1–16."
+  - "Wasser, S.P. (2014). Medicinal mushroom science: history, current status, future trends, and unsolved problems. International Journal of comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive, 16(1), 1–16."
   - "Inoue, A., et al. (2002). Maitake D-fraction: healing and preventive potential. Explore: The Journal of Science and Healing, 13(4), 283–288."
 type: comparison
 ---

@@ -5,7 +5,6 @@ tags: [natural-building, energy-efficiency, permaculture, sustainable-housing]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: comparison
 ---

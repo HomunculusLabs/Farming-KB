@@ -10,7 +10,7 @@ sources: []
 
 BOD (beta-methoxy-2C-D; 4-methyl-2,5,beta-trimethoxyphenethylamine) is a psychedelic phenethylamine and the founding member of the BOX series, described in [[2c-b-pihkal-entry-20]] #14.
 
-The BOX family is named for the addition of an oxygen atom at the benzylic position ("benzyl-oxy" or "BO") of known [[psychedelic-phenethylamines-and-pihkal]], with the "X" indicating the ring substitution pattern of the parent compound.
+The BOX family is named for the addition of an oxygen atom at the benzylic position ("benzyl-oxy" or "BO") of known psychedelic phenethylamines and pihkal, with the "X" indicating the ring substitution pattern of the parent compound.
 
 In BOD, the "D" references [[bob-entity]] analogue would have been named "BOMB," but the shorter naming convention was retained.
 

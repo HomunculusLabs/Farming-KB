@@ -29,7 +29,7 @@ Rewilding is a relatively recent approach (formalized in the 1990s) that aims to
 
 Traditional conservation typically requires ongoing, often intensive management: habitat management (mowing, grazing, burning), population control (culling overabundant species, supplementing declining ones), predator control, invasive species removal, and monitoring. A nature reserve managed traditionally may require permanent staff conducting regular interventions.
 
-Rewilding explicitly aims to **reduce** ongoing management by restoring natural regulatory processes. The goal is for [[keystone-species-and-trophic-cascades]], natural disturbance regimes, and [[comparison-no-till-vs-reduced-tillage]]
+Rewilding explicitly aims to **reduce** ongoing management by restoring natural regulatory processes. The goal is for keystone species and trophic cascades, natural disturbance regimes, and [[comparison-no-till-vs-reduced-tillage]]
 - [[comparison-agrovoltaics-vs-traditional-solar-farms]]
 ## Practical Applications
 

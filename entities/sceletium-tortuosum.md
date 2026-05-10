@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Smith, M.M. (2004). "Sceletium — a review." *Journal of Ethnopharmacology*, 92(2-3), 263-266.
   - Gericke, N., & Van Wyk, B.E. (2001). "Sceletium — a review update." *Journal of Ethnopharmacology*, 72(1-2), 31-41.
-  - Harvey, A.L. et al. (2011). "Pharmacological actions of the [[kanna-sceletium-south-african-narcotic]] medicinal and functional food plant Sceletium tortuosum." *Phytochemistry*, 72(11), 1442-1450.
+  - Harvey, A.L. et al. (2011). "Pharmacological actions of the kanna-sceletium-south-african-narcotic medicinal and functional food plant Sceletium tortuosum." *Phytochemistry*, 72(11), 1442-1450.
   - Van Wyk, B.E., & Gericke, N. (2000). *People's Plants: A Guide to Useful Plants of Southern Africa*. Briza Publications.
 created: 2026-05-07
 ---

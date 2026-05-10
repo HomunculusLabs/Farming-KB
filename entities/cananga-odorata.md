@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Joulain, D. (2006). "The profile of Ylang-ylang." Perfumer & Flavorist, 31(2), 24–39.
   - Burfield, T. (2000). "The natural products of Cananga odorata." International Journal of Aromatherapy, 10(3-4), 115–125.
-  - Verzera, A., et al. (2007). "[[permaculture-designers-manual-essential-oil-plants]] composition of Cananga odorata from different geographical locations." Journal of Agricultural and Food Chemistry, 55(18), 7384–7390.
+  - Verzera, A., et al. (2007). "permaculture-designers-manual-essential-oil-plants composition of Cananga odorata from different geographical locations." Journal of Agricultural and Food Chemistry, 55(18), 7384–7390.
   - Heyne, K. (1987). Tumbuhan Berguna Indonesia [Useful Plants of Indonesia]. 3rd ed. Badan Litbang Kehutanan.
   - Rivera, D., et al. (2005). "Aromatic and medicinal plants in the traditional Mediterranean." In: The Medicinal Plant Industry. CRC Press.
 ---

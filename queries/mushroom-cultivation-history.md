@@ -1,5 +1,5 @@
 ---
-title: accessible-mushroom-cultivation-for-disabilities History
+title: Mushroom Cultivation History
 created: 2026-04-11
 updated: 2026-04-12
 type: query
@@ -17,13 +17,13 @@ sources:
 # Mushroom Cultivation History
 
 Chronological development of mushroom cultivation from ancient Asian log culture
-to modern [[cultivator-sterile-technique-and-agar-culture]] and home growing.
+to modern sterile technique and home growing.
 Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
 [[mushroom-cultivation-methods]], and entity pages for key cultivators.
 
 ## Ancient Cultivation in Asia
 
-- **~1000 CE — [[gourmet-medicinal-mushroom-shiitake-cultivation-logs]] (China/Japan):**
+- **~1000 CE — Shiitake cultivation (China/Japan):**
   Shiitake (Lentinula edodes) first cultivated on fallen logs
   by forest farmers in China.
   Technique involves cutting notches in shii tree logs
@@ -45,7 +45,7 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
 
 - **1600s — La Quintinie and Paris mushroom caves:**
   Jean de La Quintinie (1624-1688), director of royal gardens at Versailles,
-  developed systematic [[genetic-improvement-agaricus-bisporus-molecular-approaches]] cultivation
+  developed systematic Agaricus bisporus cultivation
   in underground quarries and cellars near Paris.
   Horse manure served as substrate.
   The Parisian mushroom caves became the center of European production
@@ -65,7 +65,7 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
   replacing dependence on wild inoculation.
   This represents the first step toward controlled cultivation.
 
-- **Early 1800s — First [[duggar-mushroom-growing-history-and-methods]] houses:**
+- **Early 1800s — First mushroom growing houses:**
   Purpose-built above-ground mushroom houses constructed
   in England and France, with controlled temperature and ventilation.
   Brick or stone structures with thick walls to maintain cool temperatures.
@@ -103,7 +103,7 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
   [[julius-palmer]] publishes About Mushrooms: A Guide to Forays,
   combining foraging guidance with cultivation advice.
   Reflects the transition period when wild collection was still primary
-  but [[fungi-cultivated-mushrooms-pathogens-competitors]] were becoming commercially significant.
+  but cultivated mushrooms were becoming commercially significant.
 
 - **1894 — Mushroom culture patent:**
   US patent filings document early attempts to formalize
@@ -136,15 +136,15 @@ Draws from [[historical-mushroom-cultivation]], [[mushroom-cultivation-basics]],
 - **1930s-1960s — Agaricus industry industrializes:**
   Button mushroom cultivation becomes a major industry.
   Mechanized composting (phase I and phase II),
-## Related
+  climate-controlled growing rooms,
+  and standardized spawn production transform mushroom farming
+  from craft to industry.
+  See [[mushroom-compost-substrates]].
 
-- [[cuthill-mushroom-cultivation-history-19th-century]]
-- [[mushroom-home-cultivation-history]] Pages
+## Modern Era (1950–Present)
+
+The late 20th and 21st centuries of mushroom cultivation — from species diversification and the home cultivation revolution through PF TEK, the gourmet mushroom boom, and mainstream mycology — are covered in detail on mushroom cultivation history. Key milestones include the McKenna brothers' grower's guide, Stamets' definitive manuals, PF TEK democratization, and the rise of online cultivation communities. See also mushroom cultivation history.
+
+## Related Pages
 
 - mushroom cultivation history — late 20th century through present
-- [[historical-mushroom-cultivation]] — detailed cultivation history concept page
-- [[mushroom-cultivation-basics]] — modern 10-step cultivation process
-- [[mushroom-cultivation-methods]] — side-by-side method comparison
-- [[pf-tek-guide]] — complete PF TEK documentation
-- [[mushroom-species-guide]] — species profiles with cultivation parameters
-- [[mushroom-grow-equipment]] — complete equipment guide with costs

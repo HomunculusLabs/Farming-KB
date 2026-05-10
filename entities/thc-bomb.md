@@ -127,11 +127,11 @@ over-fertilization during early flowering.
 
 - [[cannabis-flowering-stage-management]]
 
-- [OG Kush](og-kush.md)
+- [[og-kush-cannabis-entity|OG Kush]]
 - [[girl-scout-cookies]](girl-scout-cookies.md)
-- [Chemdawg](chemdawg.md)
-- [Blue Dream](blue-dream-cannabis-strain.md)
-- [Wedding Cake](wedding-cake.md)
+- [[chemdawg|Chemdawg]]
+- Blue Dream
+- [[wedding-cake|Wedding Cake]]
 - [[granddaddy-purple]]](granddaddy-purple.md)
-- [Gelato](gelato-cannabis.md)
+- Gelato
 - [[blesching-cannabis-als]]

@@ -117,9 +117,9 @@ many as 1,900 nematodes, ensuring frequent encounters.
 - [[endophytic-fungi-plant-interactions]]
 
 - [[aquatic-fungi-spore-dispersal-ingold]] Mechanisms](spore-dispersal-mechanisms.md)
-- [Fungal Chemical Signaling]([[fungal-chemical-signaling]].md)
+- [[fungal-chemical-signaling|Fungal Chemical Signaling]]
 - [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)
-- [Amanita Phalloides (Death Cap)]([[amanita-phalloides-death-cap]].md)
+- [[amanita-phalloides-death-cap|Amanita Phalloides (Death Cap)]]
 
 ## References
 

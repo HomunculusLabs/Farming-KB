@@ -14,11 +14,11 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Tisserant, E. et al. (2013). "Genome of an comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi fungus provides
+  - Tisserant, E. et al. (2013). "Genome of an arbuscular mycorrhizal fungus provides
     insight into the oldest plant symbiosis." PNAS, 110(50), 20117-20122.
   - Schüßler, A. & Walker, C. (2010). "The Glomeromycota: A species list with new
     families and new genera." Royal Botanic Garden Edinburgh.
-  - Smith, S.E. & Read, D.J. (2008). [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]], 3rd Ed. Academic Press.
+  - Smith, S.E. & Read, D.J. (2008). "Mycorrhizal Symbiosis," 3rd Ed. Academic Press.
   - Berruti, A. et al. (2016). "Mycorrhizal fungal inoculation functions as a
     biostimulant in horticulture." Agronomy, 6(3), 39.
   - Lekberg, Y. & Koide, R.T. (2014). "Arbuscular mycorrhizal fungi in temperate
@@ -56,7 +56,7 @@ Cosmopolitan — found from arctic tundra to tropical agroecosystems on all inha
 ## Symbiosis Mechanics
 
 ### Carbon Flow (Host → Fungus)
-Receives up to 20% of host plant's photosynthetically fixed carbon as hexoses across the arbuscular interface. Carbon is metabolized via glycolysis and stored as triacylglycerols in vesicles. Allocation increases under [[dighton-fungal-drought-tolerance-plant-water-relations]]
+Receives up to 20% of host plant's photosynthetically fixed carbon as hexoses across the arbuscular interface. Carbon is metabolized via glycolysis and stored as triacylglycerols in vesicles. Allocation increases under [[dighton-fungal-drought-tolerance-plant-water-relations]].
 
 ### Root Zone Expansion
 Extraradical mycelium extends effective root absorptive surface area by 100-1000×. Hyphal networks connect multiple plants simultaneously via common [[dighton-mycorrhizal-networks-carbon-transfer]] (CMNs).
@@ -86,5 +86,38 @@ Extraradical mycelium extends effective root absorptive surface area by 100-1000
 
 Primary model organism for AMF research. First AMF with a published genome (Tisserant et al., 2013):
 
-- **Genome:** ~150 Mb — s [[query-how-does-mycorrhizal-network-communication-work-between-plants]]-one-carbon-metabolism-affect-methylation]] gy (mycorrhiza-specific phosphate and monosaccharide transporters), carbon metabolism and lipid biosynthesis, common mycorrhizal network function and interplant [[mycelial-network-resource-sharing-plants]], soil [[edaphic-factors-microbial-community-structure-interactions.-##-cultivation-###-laboratory-culture-maintained-in-dual-in-vitro-culture-using-ri-t-dna-transformed-carrot-(*daucus-carota*)-roots-or-*medicago-truncatula*-hairy-root-organ-cultures.-grown-on-minimal-medium-(m)-or-modified-strullu-romand-(msr)-medium.-produces-clean,-contaminant-free-inoculum-for-research.-###-commercial-production-on-farm-inoculum-via-trap-crop-methods-(*paspalum-notatum*,-*sorghum-bicolor*-in-inoculated-soil/compost).-pot-culture-with-sterilized-substrate-and-host-plants.-major-commercial-strain:-daom-197198-(type-strain).-##-related-species---**rhizophagus-clarus**-—-close-relative;-common-in-tropical-soils---**funneliformis-mosseae**-—-formerly-*glomus-mosseae*;-widely-distributed,-used-in-inoculants---**claroideoglomus-claroideum**-—-formerly-*glomus-claroideum*;-common-in-european-agricultural-soils---**gigaspora-margarita**-—-large-spored-amf-(gigasporaceae);-no-vesicles,-only-auxiliary-cells-##-key-identification-features| Feature | Description | |---------|-------------| | [[agroforestry]]
+- **Genome:** ~150 Mb — smallest known fungal genome at time of sequencing. Encodes reduced metabolic capacity reflecting obligate biotrophy. Lacks genes for nitrate reduction and fatty acid synthesis (relies entirely on host lipids). Expanded gene families for mycorrhiza-specific phosphate and monosaccharide transporters.
+- **Carbon metabolism and lipid biosynthesis:** Central to understanding the AMF-plant carbon exchange mechanism
+- **Common mycorrhizal network function:** Key model for studying [[mycelial-network-resource-sharing-plants]]
+- **Soil [[edaphic-factors-microbial-community-structure]]:** Used to investigate how AMF influence soil microbial community composition and nutrient cycling
+
+## Cultivation
+
+### Laboratory Culture
+Maintained in dual in-vitro culture using Ri T-DNA transformed carrot (*Daucus carota*) roots or *Medicago truncatula* hairy-root organ cultures. Grown on minimal medium (M) or modified Strullu-Romand (MSR) medium. Produces clean, contaminant-free inoculum for research.
+
+### Commercial Production
+On-farm inoculum via trap crop methods (*Paspalum notatum*, *Sorghum bicolor* in inoculated soil/compost). Pot culture with sterilized substrate and host plants. Major commercial strain: DAOM 197198 (type strain).
+
+## Related Species
+
+- **Rhizophagus clarus** — close relative; common in tropical soils
+- **Funneliformis mosseae** — formerly *Glomus mosseae*; widely distributed, used in inoculants
+- **Claroideoglomus claroideum** — formerly *Glomus claroideum*; common in European agricultural soils
+- **Gigaspora margarita** — large-spored AMF (Gigasporaceae); no vesicles, only auxiliary cells
+
+## Key Identification Features
+
+| Feature | Description |
+|---------|-------------|
+| Spore morphology | Glomerospores 100-400 μm, hyaline to yellow-brown, laminated wall (3-4 layers) |
+| Arbuscules | Highly branched, in root cortical cells |
+| Vesicles | Both intraradical and extraradical |
+| Hyphae | Coarse extraradical hyphae, 5-20 μm diameter |
+| Host range | ~80% of terrestrial plant species |
+| Ecology | Cosmopolitan, especially in agricultural soils |
+
+## See Also
+
 - [[common-mycorrhizal-networks]]
+- [[agroforestry]]

@@ -138,7 +138,6 @@ This hierarchy explains why practices that destroy macroaggregates (like intensi
 
 **Microbial colonization and EPS production**: When organic matter enters the soil, bacteria and fungi rapidly colonize it, producing extracellular polymeric substances (EPS) that glue mineral particles together around the decomposing material.
 
-**Fungal hyphal enmeshment**: Mycorrhizal hyphae extend into the soil matrix, physically binding particles together over distances of centimeters. This is particularly important for stabilizing macroaggregates.
 ## See Also
 
 - [[the-soil-food-web]] — the living community that builds and maintains soil structure

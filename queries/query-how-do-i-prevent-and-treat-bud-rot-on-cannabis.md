@@ -5,7 +5,6 @@ tags: [query, cannabis, disease, mold, bud-rot, prevention]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: query
 ---

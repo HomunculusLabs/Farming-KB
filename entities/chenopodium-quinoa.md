@@ -13,7 +13,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vega-Gálvez A et al. (2010). "Nutritional aspects and health benefits of quinoa." Journal of Cereal Science 52(2): 229–233.
-  - Bazile D et al. (2016). "State of the Art Report on Quinoa [[fungi-around-the-world-species-distribution]]." FAO/CIRAD.
+  - Bazile D et al. (2016). "State of the Art Report on Quinoa fungi-around-the-world-species-distribution." FAO/CIRAD.
   - Berti M et al. (2020). "Quinoa: A Potential New Crop for Mediterranean Climates." Agronomy 10(7): 993.
   - Filho AM et al. (2017). "Quinoa: Nutritional, Functional, and Antinutritional Aspects." Critical Reviews in Food Science 57(8): 1618–1630.
 ---

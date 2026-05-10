@@ -140,11 +140,8 @@ intact, facilitating water infiltration and root penetration for new plantings.
 
 **Polycultural complexity.** Three plant species — rice, barley, and clover —
 occupy the same field in overlapping succession, creating a biological
-complexity that no monoculture can match. [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] that might
-## See Also
 
+## See Also
 - [[clay-pellet-seed-ball-method-for-desert-revegetation]]
 - [[natural-farming-energy-efficiency-vs-scientific-agriculture]]
-
-## See Also
 - [[fukuoka-direct-seeded-no-tillage-rice-barley-clover-succession]]

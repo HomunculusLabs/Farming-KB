@@ -121,9 +121,5 @@ to manage hermies after they appear. Any detected hermaphrodite should be
 removed promptly to protect the rest of the grow.
 
 ## See Also
-
 - [[greg-green-npk-and-nutrient-deficiency]]
-
-## See Also
-
 - [[greg-green-spider-mites-and-common-pests]]

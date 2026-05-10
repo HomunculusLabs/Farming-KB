@@ -103,6 +103,8 @@ The species is commercially cultivated in large-scale nurseries in Florida, Hawa
 
 ## See Also
 
+- [[dypsis-decaryi]]
+
 - [[cocos-nucifera]]
 - [[chamaedorea-elegans]]
 - [[phoenix-roebelenii]]

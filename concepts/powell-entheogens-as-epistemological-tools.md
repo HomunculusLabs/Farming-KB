@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [entheogens, consciousness, epistemology, shamanism, philosophy]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [raw/papers/the-psilocybin-solution-by-simon-g-powell.md]
+sources: [raw/papers/the-psilocybin-solution-by-simon-g-powell-mutability-of-consciousness-chemical-lens|powell.md]
 type: concept
 ---
 
@@ -36,7 +36,7 @@ agents serves two complementary purposes:
 
 1. **Perceptual Enhancement**: Through their dramatic action within the
    brain, entheogens allow us to perceive Nature in a new and arguably
-   more comprehensive way. The psychedelic state often brings a
+   more comprehensive way. The [[metzner-entheogenic-terminology-psychedelic-hallucinogenic-entheogenic|psychedelic]] state often brings a
    holistic, gestalt perception of reality that contrasts with the
    piecemeal analytical approach of conventional science.
 

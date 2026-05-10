@@ -27,7 +27,7 @@ sources:
 
 # Psylocybe Fanaticus (PF)
 
-Pseudonymous cultivator who created the PF TEK ([[pf-tek-psilocybe-fanaticus-cultivation-method]] Technique) in 1991-1992, revolutionizing home [[accessible-mushroom-cultivation-for-disabilities]]. Operated from Seattle, Washington.
+Pseudonymous cultivator who created the PF TEK (Psilocybe Fanaticus Technique) in 1991-1992, revolutionizing home mushroom cultivation. Operated from Seattle, Washington.
 
 ## Overview
 
@@ -41,7 +41,7 @@ PF's primary innovation was the substrate formula using brown rice powder and ve
 
 The PF TEK substrate formula for half-pint jars: 1/8 cup brown rice powder, 1/2 to 2/3 cup horticultural vermiculite (medium grade), and 40-45 cc water. A "maximum fruiting" variant used 1/4 cup brown rice powder, 1/2 cup vermiculite, and 60 cc water. PF noted that vermiculite coarseness varies considerably between brands, affecting water-holding capacity.
 
-PF also advocated mass spore inoculation directly to the [[stamets-fruiting-substrate-materials]] rather than tissue cloning, arguing that "the genotype remains complete" and "senescence (mutating and ceased fruiting) is no longer a problem." This copies nature by using the full genetic diversity of spores rather than a single cloned genotype.
+PF also advocated mass spore inoculation directly to the fruiting substrate rather than tissue cloning, arguing that "the genotype remains complete" and "senescence (mutating and ceased fruiting) is no longer a problem." This copies nature by using the full genetic diversity of spores rather than a single cloned genotype.
 
 ## Cultural Impact
 
@@ -55,12 +55,12 @@ The PF TEK was "copied worldwide" according to PF's own documentation, appearing
 - The "Magic Mushroom Growers Guide" Ver. 3.2 on the Lycaeum, Hyperreal, and Erowid websites
 - Modified versions in French, Italian, and other languages
 
-Andy Letcher, in "Shroom: A [[shroom-cultural-history-hippie-revolution-and-counterculture]] of the Magic Mushroom" (2006), described Psylocybe Fanaticus as "famed for his so-called TEK" and noted the PF TEK "proved a great success" in popularizing home cultivation.
+Andy Letcher, in "Shroom: A Cultural History of the Magic Mushroom" (2006), described Psylocybe Fanaticus as "famed for his so-called TEK" and noted the PF TEK "proved a great success" in popularizing home cultivation.
 
 ## Technical Contributions
 
 ### Perlite Humidification Technique
-PF documented and popularized the use of wetted perlite as a [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] source in fruiting chambers. Perlite absorbs water but does not hold it like vermiculite — instead it slowly evaporates moisture through its porous structure, maintaining high humidity for weeks without electric humidifiers. PF described it as "proving once again, that less is more."
+PF documented and popularized the use of wetted perlite as a passive humidity source in fruiting chambers. Perlite absorbs water but does not hold it like vermiculite — instead it slowly evaporates moisture through its porous structure, maintaining high humidity for weeks without electric humidifiers. PF described it as "proving once again, that less is more."
 
 ### Dual Chambered Terrarium
 PF designed a fruiting chamber using a standard 10-gallon aquarium with a clear acrylic spray shield partition. The shield divides the aquarium into primary (cakes) and secondary (spray accumulation) chambers. An airtight lid of wood framing with clear polyethylene film seals the top. Mushrooms receive water from both the substrate and the highly humidified surrounding air.
@@ -87,7 +87,7 @@ PF viewed mushroom cultivation as a means for responsible adult exploration. The
 ## See Also
 
 - [[pf-tek-guide]] — Complete method documentation
-- [[psilocybin-cultivation]] — Broader cultivation overview
+- [[psilocybin-mushroom-cultivation]] — Broader cultivation overview
 - [[mushroom-sterile-technique-detailed]] — Sterile procedure hierarchy
-- [[mushroom-contamination-identification]] — [[mushroom-cultivation-contamination-troubleshooting]] and prevention
+- [[mushroom-contamination-identification]] — Contamination identification and prevention
 - [[psilocybin-mushroom-chemistry]] — Dosage and safety considerations

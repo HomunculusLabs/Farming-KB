@@ -4,7 +4,6 @@ tags: [query, plant-disease, fusarium, soil-pathogen, cannabis]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 

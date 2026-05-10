@@ -4,7 +4,7 @@ created: 2026-05-08
 updated: 2026-05-08
 sources:
   - "McKenna T - mckenna-tryptamine-hallucinogens-and-consciousness and Consciousness (1983/1992)"
-  - "Metzner R - Hallucinogenic [[hallucinogenic-drugs-in-psychotherapy-and-shamanism]] and Shamanism (1998)"
+  - "Metzner R - Hallucinogenic hallucinogenic-drugs-in-psychotherapy-and-shamanism and Shamanism (1998)"
 type: concept
 tags: [shamanism, hallucinogens, healing, divination, indigenous, psychedelics]
 ---
@@ -140,10 +140,6 @@ shamanic tradition" to guide exploration of these states.
 > leaves these other forms of consciousness quite disregarded.
 
 ## See Also
-
 - [[psilocybin-mushrooms-as-alien-symbiotes]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
-
-## See Also
-
 - [[golden-guide-hallucinogenic-plants-dmt-containing-species]]

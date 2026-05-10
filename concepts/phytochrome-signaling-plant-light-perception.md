@@ -125,7 +125,4 @@ germination through senescence.
 ## See Also
 - [[what-a-plant-knows-plant-vision-and-light-perception]]
 - [[hamilton-shade-garden-plants]]
-
-## See Also
-
 - [[darwin-phototropism-discovery-plant-light-perception]]

@@ -5,13 +5,12 @@ updated: 2026-04-19
 type: concept
 tags: [cultivation, mycology]
 sources:
-  sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - "raw/papers/the-mushroom-cultivator-shiitake-growing-parameters|mushroom-cultivator-stamets-substrate-supplementation-strategies-mushroom-cultivation|stamets.md"
 ---
 
 # Shiitake Cultivation Parameters
 
-Lentinus Edodes (shiitake) is one of the most commercially important cultivated mushrooms worldwide, with a cultivation history stretching back two thousand years in Japan and China. paul stamets provides detailed cultivation parameters in The Mushroom Cultivator.
+Lentinus Edodes (shiitake [[mushroom-cultivator-shiitake-growing-parameters]]) is one of the most commercially important cultivated mushrooms worldwide, with a cultivation history stretching back two thousand years in Japan and China. paul stamets provides detailed cultivation parameters in The Mushroom Cultivator.
 
 ## Historical Context
 

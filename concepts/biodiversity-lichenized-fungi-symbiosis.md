@@ -75,3 +75,5 @@ early during [[fungal-taxonomy]] and [[nephroma-arcticum]]
 - [[lichen-ecology-environmental-sensitivity]] — ecological roles and habitat requirements
 - [[lichen-symbiosis-mechanisms-photobiont-selection]] — photobiont partner selection
 - [[fungal-taxonomy]] — fungal classification and nomenclature
+
+For further reading, see [[neurotropic-fungi-classification-and-taxonomy]].

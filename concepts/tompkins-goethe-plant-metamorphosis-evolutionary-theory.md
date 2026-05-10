@@ -1,7 +1,7 @@
 ---
-title: Goethe's Plant Metamorphosis and Evolutionary Theory
+title: Goethe's [[luther-burbank-plant-breeding-methods|Plant]] Metamorphosis and Evolutionary Theory
 created: 2026-04-28
-tags: [goethe, plant-metamorphosis, darwin, lamarck, evolution,
+tags: [goethe, plant-metamorphosis, [[darwin-plant-movement-experiments|darwin]], lamarck, evolution,
       morphology, romantic-science, natural-philosophy]
 date: 2026-04-25
 updated: 2026-04-25

@@ -1,5 +1,5 @@
 ---
-title: emcdda-psilocybin-mushroom-dose-and-effects Global Distribution
+title: Psilocybin Mushroom Global Distribution
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -16,23 +16,23 @@ sources:
 
 # Psilocybin Mushroom Global Distribution
 
-The geographic distribution of psilocybin-containing mushrooms worldwide, organized by region and climate.
+The geographic distribution of psilocybin-containing mushrooms worldwide, organized by region and climate. (see [[psilocybin-mushrooms-overview]]).
 
 ## Overview
 
-Psilocybin-containing mushrooms are found on every inhabited continent. They belong primarily to the genus *Psilocybe* (approximately 200+ species), with additional psychoactive species in the genera *Panaeolus*, *Gymnopilus*, *Inocybe*, *Pluteus*, *Conocybe*, and others. The greatest diversity of species occurs in tropical and subtropical regions.
+Psilocybin-containing mushrooms are found on every inhabited continent. They belong primarily to the genus *Psilocybe* (approximately 200+ species), with additional psychoactive species in the genera *Panaeolus*, *Gymnopilus*, *Inocybe*, *Pluteus*, *Conocybe*, and others. The greatest diversity of species occurs in tropical and subtropical regions. (see [[guzman-allen-gartz-neurotropic-fungi-europe]]).
 
 ## North America
 
 ### United States
-- **Pacific Northwest**: Rich in psilocybin species, particularly *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
-- **Gulf Coast / Southeast**: *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *[[gartz-panaeolus-subbalteatus-taxonomy-and-intoxication-history]]* and *P. cyanescens* also occur.
+- **Pacific Northwest**: Rich in psilocybin species, particularly *Psilocybe cyanescens* ("wavy caps"), *P. azurescens*, and *P. stuntzii*. The coastal dune grasslands of Oregon and Washington support naturalized populations of *P. azurescens*, one of the most potent species known.
+- **Gulf Coast / Southeast**: *Psilocybe cubensis* is common in subtropical Florida, Texas, and along the Gulf Coast, fruiting on bovine dung from spring through fall. *Panaeolus subbalteatus* and *P. cyanescens* also occur.
 - **Southwest**: Scattered species in Arizona and New Mexico, associated with higher elevation grasslands.
 - **Northeast**: *Psilocybe ovoideocystidiata* and *Panaeolus cinctulus* occur in the mid-Atlantic and northeastern states.
 
 ### Mexico
 Mexico is the center of diversity for *Psilocybe* and has the highest number of known psychoactive species in the world (approximately 50+). Key species include:
-- *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]* (the species first identified by Heim and used by the Mazatec)
+- *Psilocybe mexicana* (the species first identified by Heim and used by the Mazatec)
 - *P. caerulescens*, *P. zapotecorum*, *P. sanctorum*
 - *P. cubensis* in tropical lowland regions
 
@@ -53,7 +53,7 @@ Species are concentrated in the states of Oaxaca, Puebla, Veracruz, Chiapas, and
 
 ## Europe
 
-- **[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]** (liberty cap) is the most widespread European species, found across the British Isles, Scandinavia, Central Europe, and the Mediterranean. It fruits in autumn in pastures and grasslands.
+- **Psilocybe semilanceata** (liberty cap) is the most widespread European species, found across the British Isles, Scandinavia, Central Europe, and the Mediterranean. It fruits in autumn in pastures and grasslands.
 - **Psilocybe cyanescens** is common in Western Europe, particularly in the Netherlands, Germany, and the UK, where it has naturalized in landscaped wood chip mulch.
 - **Panaeolus cinctulus** occurs widely across Europe in horse pastures and manured fields.
 - Southern European countries (Spain, Italy, Greece) have additional species.

@@ -103,4 +103,6 @@ foundation for developing deep expertise and contributing to the field.
 
 ## See Also
 
+- [[bloomfield-rice-blast-magnaporthe-appressorium-mechanics]]
+
 - [[lagrangian-mechanics]]

@@ -1,6 +1,6 @@
 ---
 
-title: JADAM jadam-microorganism-solution-culturing (JMS) — Microbe Culture Recipe
+title: JADAM Microorganism Solution (JMS) — Microbe Culture Recipe
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -23,7 +23,7 @@ sources:
 
 # JADAM Microorganism Solution (JMS)
 
-JMS cultures [[beneficial-indigenous-microorganisms-bim]] from forest leaf mold using boiled potato as food. Simpler than [[indigenous-microorganisms-imo]] -- no multi-stage collection, no sugar/molasses needed. At peak fermentation, 1ml contains ~0.1-1 billion microbes. The core of [[jadam-methods]] soil management. 500L batch costs nearly nothing.
+JMS cultures indigenous microorganisms from forest leaf mold using boiled potato as food. Simpler than [[indigenous-microorganisms-imo]] -- no multi-stage collection, no sugar/molasses needed. At peak fermentation, 1ml contains ~0.1-1 billion microbes. The core of [[jadam-methods]] soil management. 500L batch costs nearly nothing.
 
 ## Collecting Leaf Mold (Starter)
 
@@ -45,11 +45,11 @@ Store in black plastic bags or gunnysack in shade. Keep loosely closed. Becoming
 ### Step-by-Step Process
 
 1. Boil potato until soft, put in bag with rocks, knead until fully dissolved into water
-2. Put leaf mold in separate bag with rocks, knead to extract microbes into water
+2. Put leaf mold in separate bag with rocks, knead to extract microbes [[jadam-organic-livestock-no-feces-removing]] into water
 3. Dissolve sea salt in the water
 4. (Optional) Blend crop residues, put in bag, knead into water
 5. Hang bags underwater so contents are submerged
-6. Close lid, place in sun, at [[jadam-ambient-temperature-principle]] matching your crops
+6. Close lid, place in sun, at ambient temperature matching your crops
 7. **Fermentation time**: 24 hrs at 28C (82F), 72 hrs at 25C (77F), 96 hrs at 19C (66F)
 8. Bubbles appear first, then foam forms a circular disc (pizza-like layer)
 9. **Ready when foam is at peak** -- clear disc with vigorous foam, edges well-defined
@@ -80,7 +80,7 @@ Store in black plastic bags or gunnysack in shade. Keep loosely closed. Becoming
 - Increases microbial diversity on leaf surface, preventing pathogen dominance
 
 **JMS Pesticide** (prevention formula, per 500L):
-- JMS 20L + [[comparison-jerusalem-artichoke-vs-potato]] JHS 5L + ginkgo JHS 5L + JWA 3L
+- JMS 20L + Jerusalem artichoke JHS 5L + ginkgo JHS 5L + JWA 3L
 - Use regularly before disease/pest outbreaks
 - If disease breaks out, replace JMS with JS; if pest occurs, use KPFR JHS instead
 
@@ -104,7 +104,7 @@ When pest pressure requires more than prevention, add JHS to JMS:
 
 - **Good**: Vigorous circular foam disc, clear edges, active bubbling
 - **Ready**: Foam at maximum coverage, pizza-like appearance -- lasts ~12 hours
-- **Too late**: Foam edges crumble, bubbles dying down -- use as [[jadam-liquid-fertilizer-nutritional-perspective]] (dilute 1:10)
+- **Too late**: Foam edges crumble, bubbles dying down -- use as liquid fertilizer (dilute 1:10)
 - **Failed**: All foam gone, film on surface -- microbes dead, use as JLF only
 
 ## Troubleshooting
@@ -116,7 +116,7 @@ When pest pressure requires more than prevention, add JHS to JMS:
 
 ## See Also
 
-- [[jadam-wetting-agent-jwa]] — required for [[ultra-low-cost-foliar-application-methods]] of JMS
+- [[jadam-wetting-agent-jwa]] — required for foliar application of JMS
 - [[jadam-herb-solution-jhs]] — add to JMS for pest control
 - [[indigenous-microorganisms-imo]] — KNF's 4-stage IMO method for comparison
 - [[jadam-methods]] — JADAM system overview and soil management philosophy

@@ -102,7 +102,6 @@ is not an isolated disposal service but an element of watershed management and
 soil fertility.
 ## Historical background and design philosophy
 The basic idea of returning human excreta to soil is ancient. Agricultural
-societies in many regions used night soil, cesspit residues, animal bedding,
 ## See Also
 [[composting-toilet-systems]] describes common self-contained, central, and
 urine-diverting toilet arrangements.

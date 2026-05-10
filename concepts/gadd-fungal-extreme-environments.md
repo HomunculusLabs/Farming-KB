@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-24
 sources:
   - Honegger, R. (2006). Water relations in lichens. In Fungi in the Environment, ed. G. M. Gadd, S. C. Watkinson & P. S. Dyer. Cambridge University Press, pp. 185-200.
-  - Gadd, G. M., Burford, E. P., Fomina, M. & Melville, K. (2006). [[fungal-mineral-transformations-biogeochemical-cycles-gadd]] and biogeochemical cycles. In Fungi in the Environment, ed. G. M. Gadd, S. C. Watkinson & P. S. Dyer. Cambridge University Press, pp. 77-111.
+  - Gadd, G. M., Burford, E. P., Fomina, M. & Melville, K. (2006). fungal-mineral-transformations-biogeochemical-cycles-gadd and biogeochemical cycles. In Fungi in the Environment, ed. G. M. Gadd, S. C. Watkinson & P. S. Dyer. Cambridge University Press, pp. 77-111.
 type: concept
 tags: [fungi]
 ---

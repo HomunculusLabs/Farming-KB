@@ -1,5 +1,5 @@
 ---
-title: Fungal Role in mollison-phosphorus-cycling-and-conservation-in-permaculture-systems
+title: Fungal Role in Phosphorus Cycling
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/john-dighton-fungi-in-ecosystem-processes.md]
 
 # Fungal Role in Phosphorus Cycling
 
-Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi play a central role in making phosphorus available to plants through [[mycorrhizal-mineral-weathering-nutrient-acquisition]], [[hamilton-composting-and-organic-matter-management]] decomposition, and [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]. Without fungi, most soil phosphorus would remain locked in unavailable forms.
+Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi play a central role in making phosphorus available to plants through mineral weathering, organic matter decomposition, and mycorrhizal symbiosis. Without fungi, most soil phosphorus would remain locked in unavailable forms.
 
 ## Phosphorus in Soil
 
@@ -17,7 +17,7 @@ Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi 
 - **Organic P**: 30-80% of total soil P. Found in DNA, RNA, phospholipids, phytate
 - **Inorganic P**: 20-70% of total soil P. Found as phosphate minerals (apatite, iron/aluminum phosphates)
 - **Available P**: Only 0.1-1% of total P is in plant-available form (orthophosphate, H2PO4- and HPO4 2-)
-- **P fixation**: In acidic soils, P binds to iron and aluminum oxides. In alkaline soils, P precipitates as [[bionutrients-lab-calcium-phosphate-calamansi]]
+- **P fixation**: In acidic soils, P binds to iron and aluminum oxides. In alkaline soils, P precipitates as calcium phosphate
 
 ### The Problem
 - Plants can only absorb free orthophosphate ions from soil solution
@@ -75,7 +75,7 @@ Phosphorus is often the most limiting nutrient in terrestrial ecosystems. Fungi 
 ### Agriculture
 - Conventional P fertilizer bypasses the fungal pathway — creates dependency
 - Mycorrhizal crops need less P fertilizer (30-50% reduction possible)
-- Tillage disrupts [[dighton-mycorrhizal-networks-carbon-transfer]] — reducing tillage improves P access
+- Tillage disrupts mycorrhizal networks — reducing tillage improves P access
 - Phosphorus is a non-renewable resource — peak phosphorus is a real concern
 
 ### Permaculture and Organic Farming

@@ -136,7 +136,6 @@ Other substrates (whole grain, manure-based, wood-based) generally require press
 
 **Cause:** Condensation from the steam entering through loosely covered jar lids.
 **Solution:** Ensure the dry vermiculite barrier layer on top of the substrate is intact. This layer absorbs excess condensation during sterilization.
-
 ## See Also
 
 - [[pf-tek-canning-jar-lid-configuration|PF TEK Canning Jar Lid Configuration]]

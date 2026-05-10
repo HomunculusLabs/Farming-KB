@@ -50,13 +50,11 @@ Sometimes the bugs win. For a total infestation:
   back. If you can't eliminate them, you may have to discard your
   genetics.
 - Breeders should pay strict attention to keeping grow rooms clean
-## See Also
 
+## See Also
 - [[green-cannabis-grow-bible-pest-disease-prevention]]
-
-## See Also
-
 - [[green-cannabis-potency-maximizing]]
+
 ## Practical Considerations
 
 When working with Cannabis Pests Prevention - Greg Green's Cannabis Grow Bible, several practical factors should be

@@ -32,7 +32,7 @@ sources:
 - **Type:** Indica-dominant hybrid (approximately 70/30 indica-to-sativa ratio, with some phenotypes exhibiting more balanced expression)
 - **Breeder:** Seed Junky Genetics (California, USA)
 - **Genetic cross:** Face Off OG × Animal Mints
-- **Parent — Face Off OG:** An indica-dominant strain of uncertain origin, reportedly named after the 1997 John Travolta–Nicolas Cage film. Face Off OG itself is believed to descend from [[og-kush]] lineage, offering deep body relaxation and a characteristically pungent, kush-forward aroma. It has served as a parent in several notable modern crosses.
+- **Parent — Face Off OG:** An indica-dominant strain of uncertain origin, reportedly named after the 1997 John Travolta–Nicolas Cage film. Face Off OG itself is believed to descend from [[og-kush-cannabis-entity]] lineage, offering deep body relaxation and a characteristically pungent, kush-forward aroma. It has served as a parent in several notable modern crosses.
 - **Parent — Animal Mints:** A three-way cross of Face Off animal cookies kies, thin mint Mint GSC. Animal Mints inherits the dense resin production and sweet, minty cookie profile of the GSC line while adding musky, animalistic funk from the Animal Cookies side. Note that Face Off OG appears on both sides of Animal Face's pedigree, creating a degree of inbreeding that concentrates desirable traits — a common strategy in modern [[oner-cannabis-breeding-fundamentals]].
 - **Noted phenotypes:** Multiple cuts circulate, with variation in bud structure, color expression (some phenos exhibit deep purple hues in cooler temperatures), and the balance between the diesel and cookie terpene notes
 

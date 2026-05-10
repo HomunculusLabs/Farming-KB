@@ -20,8 +20,7 @@ taxonomy:
   section: Phalloideae
 edibility: deadly poisonous
 tags: [profile]
-sources:
-  sources: []
+sources: []
 ---
 
 # Amanita bisporigera

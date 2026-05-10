@@ -113,7 +113,6 @@ design for home and hobby systems. Grow beds are filled with inert media,
 expanded clay pebbles (hydroton), gravel, lava rock, or expanded shale,
 through which water from the fish tank periodically floods and then drains.
 The flooding and draining cycle is typically controlled by an automatic bell
-siphon, which uses simple fluid dynamics to fill the bed to a set level and
 ## See Also
 
 - [[aquaponics]] for core system types and cycling

@@ -1,5 +1,5 @@
 ---
-title: falconer-mushroom-cooking-selection-and-preparation Techniques
+title: Mushroom Cooking Techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,14 +9,14 @@ sources: []
 
 ## Overview
 
-Mushrooms are versatile ingredients with diverse textures and flavors that respond differently to various cooking methods. Proper technique is essential to bring out the best in each species. This guide covers cooking methods, species-specific approaches, flavor pairing, and common mistakes to avoid.
+Mushrooms are versatile ingredients with diverse textures and flavors that respond differently to various cooking methods. Proper technique is essential to bring out the best in each species. This guide covers cooking methods, species-specific approaches, flavor pairing, and common mistakes to avoid. (see [[granola-making]]).
 
 ## Fundamental Principles
 
 ### Why Cook Mushrooms
-All [[edible-wild-mushrooms-by-region]] should be cooked before eating. Raw mushrooms contain:
+All wild mushrooms should be cooked before eating. Raw mushrooms contain:
 - Chitin in cell walls (indigestible raw)
-- Potential pathogens from the [[cannabis-growing-environment-setup]]
+- Potential pathogens from the growing environment
 - Heat-sensitive toxins in some species
 - Agaritine in raw Agaricus species (reduced by cooking)
 
@@ -60,7 +60,7 @@ Excellent for developing deep, concentrated flavor:
 - Spread in single layer on sheet pan (do not overcrowd)
 - Roast 20-30 minutes, tossing halfway through
 - Edges should be deeply browned and slightly crisp
-- Works well for: portobello, shiitake, [[growing-gourmet-king-oyster-eryngii-cultivation]], maitake
+- Works well for: portobello, shiitake, king oyster, maitake
 
 ### Grilling
 Best for large, meaty mushrooms:
@@ -118,7 +118,7 @@ Preservation method that also creates flavor:
 - Do not pair with vinegar or strong acids (masks flavor)
 
 ### Porcini/Boletes (Boletus edulis group)
-- Rich, nutty, meaty flavor; the "king" of [[palmer-edible-mushrooms-north-america]]
+- Rich, nutty, meaty flavor; the "king" of edible mushrooms
 - Check all boletes for blue staining (some are bitter or toxic)
 - Best methods: sauteing, drying, risotto, soups
 - Pair with: pasta, rice, Parmesan, thyme, white wine
@@ -143,7 +143,8 @@ Preservation method that also creates flavor:
 - Complex, peppery flavor; layered, feathery texture
 - Tear into pieces along natural segments
 - Best methods: roasting, braising, tempura, soups
-## See Also
+- Pair with: soy sauce, butter, sage, roasted meats
+- Crisps beautifully when roasted at high heat
 
-- [[edible-wild-mushrooms-by-region]] -- finding mushrooms to cook with
-- [[mushroom-foraging-safety-guide]] -- ethical harvesting for the kitchen
+### Chicken of the Woods (Laetiporus sulphureus)
+- Chicken-like texture and mild flavor when young

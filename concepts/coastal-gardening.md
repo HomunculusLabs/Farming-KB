@@ -38,8 +38,8 @@ Coastal winds are stronger and more persistent than inland:
 Coastal soils are predominantly sandy:
 
 - **Rapid drainage**: Water moves through sand quickly; irrigation must be frequent
-- **Low nutrient retention**: Sand holds little [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity; nutrients leach rapidly
-- **Low [[hamilton-composting-and-organic-matter-management]]**: Decomposition is rapid and sand dilutes organic inputs
+- **Low nutrient retention**: Sand holds little cation exchange capacity; nutrients leach rapidly
+- **Low organic matter**: Decomposition is rapid and sand dilutes organic inputs
 - **Low water-holding capacity**: Sandy soil holds only 0.5-1 inch of water per foot of depth
 - **pH variability**: Coastal sands range from acidic (under pine) to alkaline (shell deposits)
 
@@ -113,15 +113,15 @@ Salt-tolerant species for coastal windbreaks:
 - **Lantana**: Salt-tolerant; excellent butterfly plant; invasive in some areas
 - **Silver dollar plant (Lunaria annua)**: Ornamental; moderate salt tolerance
 - **Saltbush (Atriplex spp.)**: True halophyte; silvery foliage
-- **Yucca**: Extremely salt and [[permplant-carob-drought-tolerant-food-tree]]; architectural form
+- **Yucca**: Extremely salt and drought tolerant; architectural form
 - **Agave**: Salt-tolerant succulent; multiple species available
 
 ### Salt-Tolerant Perennials and Groundcovers
 - **Sea oats (Uniola paniculata)**: Primary dune stabilizer; protected in many coastal areas
-- **Beach [[golden-guide-morning-glory-and-ololiuqui]] (Ipomoea pes-caprae)**: Dune stabilizer; purple flowers
+- **Beach morning glory (Ipomoea pes-caprae)**: Dune stabilizer; purple flowers
 - **Daylily (Hemerocallis)**: Surprisingly salt-tolerant; tough and adaptable
 - **Liriope**: Grass-like groundcover; tolerates salt and shade
-- **Sedum**: Succulent groundcover; drought and [[halotolerant-halophilic-fungi-salt-tolerant-diversity]]
+- **Sedum**: Succulent groundcover; drought and salt tolerant
 - **Blanket flower (Gaillardia)**: Native wildflower; salt and drought tolerant
 - **Sea lavender (Limonium)**: Salt marsh native; excellent cut flower
 - **Mugwort (Artemisia)**: Aromatic; salt-tolerant; medicinal uses
@@ -143,7 +143,8 @@ Most vegetables are salt-sensitive, but a few tolerate mild salt spray:
 Sandy coastal soils need constant organic matter additions:
 
 - **Compost**: Apply 2-4 inches annually; mix into top 6 inches of soil
-- **Green manure cover crops**: Plant in fallow areas; [[comparison-lupin-vs-crimson-clover-green-manure]], winter rye, field peas
-## Related
+- **Green manure cover crops**: Plant in fallow areas; crimson clover, winter rye, field peas
+- **Mulch**: Maintain 3-4 inch layer of organic mulch at all times
+- **Biochar**: Incorporate to improve nutrient retention in sand
+- **Sheet composting**: Layer organic materials directly on garden beds and let them decompose in place
 
-- [[desert-gardening]]

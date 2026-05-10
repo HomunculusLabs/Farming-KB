@@ -1,5 +1,5 @@
 ---
-title: "Hothouse to Food Synthesis Trajectory"
+title: "Hothouse to Food [[fukuoka-food-synthesis-trajectory]]"
 created: 2026-05-09
 updated: 2026-05-09
 sources:
@@ -10,12 +10,12 @@ tags: [natural-farming, philosophy, ecology, food-quality, agriculture]
 
 # Hothouse to Food Synthesis Trajectory
 
-Masanobu Fukuoka identified a clear and terrifying trajectory in modern
+[[masanobu-fukuoka]] identified a clear and terrifying trajectory in modern
 agriculture: the progressive removal of food production from nature,
 beginning with hothouse cultivation and culminating in the total chemical
 synthesis of food from petrochemicals. He saw this not as progress but as
-the final stage of humanity's [[mu|alienation from nature]] — a
-civilizational collapse disguised as technological achievement.
+the final stage of humanity's alienation from nature — a
+[[fukuoka-textdoc-civilizational-collapse-centrifugal-centripetal-cycle]] disguised as technological achievement.
 
 ## The Degradation Sequence
 
@@ -41,7 +41,7 @@ germinate and grow, roots extend within the synthetic netting. Stems and
 leaves are artificially supported within tightly sealed, completely sterile
 chambers. Temperature is mechanically controlled, light exposure raised
 with artificial lighting, carbon dioxide is sprayed, and oxygen is pumped
-in — making plant growth several times faster than in field cultivation.
+in — making plant growth several times faster than in [[fukuoka-rice-dry-field-cultivation]].
 
 ## The Illusion of Quality
 
@@ -61,7 +61,7 @@ a classic escalation spiral that Fukuoka viewed as characteristic of
 
 ## The Ultimate Destination: Total Food Synthesis
 
-Artificial cultivation leads, Fukuoka argued, ultimately to the total
+[[fukuoka-matsutake-artificial-cultivation-attempt]] leads, Fukuoka argued, ultimately to the total
 synthesis of food. The creation of factories for purely chemical food
 synthesis — factories that would render farms and gardens entirely
 unnecessary — was already underway when he wrote. The synthesis of urea
@@ -94,7 +94,7 @@ into artificial, anti-natural human beings with an unnatural body prone to
 disease and an unnatural way of thinking.
 
 Mechanization did not reduce the farmer's work — it enslaved him to his
-equipment. To the farmer, machinery is the largest domestic animal of all:
+equipment. To the farmer, machinery is the largest [[mollison-designers-domestic-animal-integration-design]] of all:
 a great guzzler of oil, a consumer good rather than a capital good.
 Equally mistaken is the notion that food can be produced cheaply and in
 large quantity with microorganisms such as chlorella and yeast. Science

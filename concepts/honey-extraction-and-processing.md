@@ -12,7 +12,7 @@ sources: []
 Extracting honey is the culmination of the beekeeping season. Proper
 technique preserves honey quality, ensures food safety, and maximizes
 yield. This guide covers the full process from uncapping to bottling,
-including beeswax processing.
+including beeswax processing. (see [[homestead-dairy-equipment]]).
 
 ## When to Harvest
 
@@ -35,7 +35,7 @@ including beeswax processing.
 ### Bee Escape Board
 Place a bee escape (one-way maze) between the super and the brood chamber
 the night before harvest. Bees pass down through the escape but cannot
-return. Gentle but slow — requires 12-24 hours.
+return. Gentle but slow — requires 12-24 hours. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ### Bee Brush
 Brush bees off each frame manually into the hive. Fast for a few frames but
@@ -74,7 +74,7 @@ The wax capping must be removed before honey can be extracted.
 ## Extraction
 
 ### Radial Extractor
-Frames sit with the [[comparison-beekeeping-basics-vs-top-bar-hive]] pointing outward. Centrifugal force flings
+Frames sit with the top bar pointing outward. Centrifugal force flings
 honey out of both sides simultaneously. Most efficient for medium to large
 operations. Requires even frame loading.
 
@@ -140,10 +140,11 @@ high-quality beeswax.
 ### Solar Wax Melter
 A simple insulated box with a glass lid. Sun melts wax, which flows into
 a collection container. Slumgum stays behind on the screen. Excellent
-off-grid method — see [[solar-oven-cooking]] for related [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]
+off-grid method — see [[solar-oven-cooking]] for related solar energy
 principles.
 
-## See Also
-- [[bee-product-medicinal-uses]]
-- [[solar-oven-cooking]]
-- [[query-how-does-propolis-benefit-honey-bees-and-can-beekeepers-harvest-it]]
+### Uses for Beeswax
+- Candles, lip balm, salves, furniture polish
+- Waxing frames (foundation coating with a wax dip tank)
+- Cheese waxing and food preservation
+- See [[bee-product-medicinal-uses]] for medicinal applications

@@ -91,9 +91,7 @@ sensitivity. Tyrosinase-based sensors detect atrazine and carbamate pesticides
 through enzyme inhibition. Laccase from Coriolus hirsutus is used for ELISA
 detection of 2,4-D (10-20 ng/ml in 1.5-2 hours). See also
 [[fungal-solid-state-fermentation-agricultural-waste]].
+
 ## See Also
-- fungal-bioremediation
-- singh-fungal-metabolism-phenols-chlorophenols
 - [[staycare-fungal-agricultural-waste-conversion]]
-## See Also
 - [[singh-fungal-degradation-of-pesticides-and-agrochemicals]]

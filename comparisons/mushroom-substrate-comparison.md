@@ -1,6 +1,6 @@
 ---
 
-title: Mushroom brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis
+title: Mushroom Substrate Comparison
 created: 2026-04-11
 updated: 2026-04-12
 type: comparison
@@ -27,9 +27,9 @@ sources:
 
 # Mushroom Substrate Comparison
 
-Choosing the right substrate is the single most important factor in successful [[accessible-mushroom-cultivation-for-disabilities]]. Different substrates suit different species, skill levels, and growing environments. This comparison covers the major substrate categories used by home growers, synthesized from [[mushroom-substrates]], [[psilocybin-cultivation]], and cultivation method pages.
+Choosing the right substrate is the single most important factor in successful mushroom cultivation. Different substrates suit different species, skill levels, and growing environments. This comparison covers the major substrate categories used by home growers, synthesized from [[mushroom-substrates]], [[psilocybin-mushroom-cultivation]], and cultivation method pages.
 
-The key tradeoff is contamination risk vs. yield. Unsupplemented substrates (straw, plain coir) are resistant to contamination but produce lower yields. Supplemented substrates (bran + sawdust) yield heavily but require sterilization. Grain spawn, while nutrient-rich, is virtually always used as inoculum rather than a direct [[pf-tek-maximum-fruiting-substrate-formula]] due to high contamination risk.
+The key tradeoff is contamination risk vs. yield. Unsupplemented substrates (straw, plain coir) are resistant to contamination but produce lower yields. Supplemented substrates (bran + sawdust) yield heavily but require sterilization. Grain spawn, while nutrient-rich, is virtually always used as inoculum rather than a direct fruiting substrate due to high contamination risk.
 
 ## Substrate Comparison Table
 
@@ -41,14 +41,14 @@ The key tradeoff is contamination risk vs. yield. Unsupplemented substrates (str
 | **Oat straw** | Chop; soak or hydrate | Pasteurize 160F, 20-30 min | Oyster, wine cap | Moderate (100-150% BE) | Low | Very low | Beginner |
 | **Hardwood chips** (fresh) | Soak 24-48 hrs, drain | No heat treatment for outdoor beds; sterilize for spawn | Wine cap, shiitake, woodlovers | High outdoor (multi-year) | Very low (outdoor) | Low ($free-chipped) | Beginner (outdoor) |
 | **Softwood chips** | Soak, drain | Not recommended (resins inhibitory) | Few species tolerate | Low-Poor | Low | Low | Not recommended |
-| **[[oyster-mushroom-supplemented-sawdust-blocks]]** (HW + bran) | Mix 4:1 sawdust:bran + gypsum + CaCO3; hydrate to 55-65% | Sterilize 15 psi, 90-120 min | Shiitake, lion's mane, reishi, oyster | Very high (150-300% BE) | High (if pasteurized only) | Moderate | Advanced |
-| **Compost / dung** (horse) | Traditional 2-phase composting (7-14 days + 7-14 days) | Achieves thermophilic temps during composting | [[genetic-improvement-agaricus-bisporus-molecular-approaches]], panaeolus | High (100-200% BE) | Low (after proper composting) | Low (free if you have horses) | Advanced |
+| **Supplemented sawdust** (HW + bran) | Mix 4:1 sawdust:bran + gypsum + CaCO3; hydrate to 55-65% | Sterilize 15 psi, 90-120 min | Shiitake, lion's mane, reishi, oyster | Very high (150-300% BE) | High (if pasteurized only) | Moderate | Advanced |
+| **Compost / dung** (horse) | Traditional 2-phase composting (7-14 days + 7-14 days) | Achieves thermophilic temps during composting | Agaricus bisporus, panaeolus | High (100-200% BE) | Low (after proper composting) | Low (free if you have horses) | Advanced |
 | **Compost / dung** (cow) | Composting or aging | Pasteurize 140F, 4-6 hrs | Agaricus, panaeolus, cubensis | Moderate-High | Low-Moderate | Low (free) | Intermediate |
 | **Coir-based** (CVG) | Bucket tek: pour boiling water over coir brick + verm + gypsum | Pasteurized by boiling water (~160-180F core) | P. cubensis, oyster | Moderate (100-200% BE) | Very low | Low ($8-15/brick) | Beginner |
 
 ## Key Metrics Explained
 
-**[[stamets-biological-efficiency-yield]] (BE)**: Yield as a percentage of the dry substrate weight. 100% BE means 1 lb dry substrate produced 1 lb fresh mushrooms. Most home growers achieve 100-200% BE; commercial operations can hit 300%+ on supplemented sawdust.
+**Biological Efficiency (BE)**: Yield as a percentage of the dry substrate weight. 100% BE means 1 lb dry substrate produced 1 lb fresh mushrooms. Most home growers achieve 100-200% BE; commercial operations can hit 300%+ on supplemented sawdust.
 
 **C:N Ratio and Contamination**: Higher C:N substrates (sawdust at 200-500:1, straw at 80-120:1) are more resistant to contamination because competitors have limited nitrogen. Supplementation (adding bran at 10-20%) narrows the ratio to 40-60:1, accelerating growth but also making the substrate more attractive to contaminants — hence the need for full sterilization rather than pasteurization.
 
@@ -87,7 +87,7 @@ Per Nwanze et al. (2005), no single grain is universally best — grain choice i
 
 ## Verdict
 
-For beginners, start with the CVG monotub method for [[psilocybin-cultivation]] or pasteurized straw for oyster mushrooms — both are forgiving and require minimal equipment. Wheat straw costs nearly nothing and can be pasteurized with hot water. Coir-based substrates are the easiest indoor option thanks to the bucket tek method.
+For beginners, start with the CVG monotub method for [[psilocybin-mushroom-cultivation]] or pasteurized straw for oyster mushrooms — both are forgiving and require minimal equipment. Wheat straw costs nearly nothing and can be pasteurized with hot water. Coir-based substrates are the easiest indoor option thanks to the bucket tek method.
 
 For advancing, move to supplemented sawdust blocks for gourmet species (shiitake, lion's mane, reishi). The yield jump from 100% to 200-300% BE justifies the pressure cooker investment. For outdoor/low-tech cultivation, fresh hardwood chips in beds are unbeatable — [[outdoor-mushroom-bed]] cultivation with wine cap or [[outdoor-wood-lover-cultivation]] with psilocybe species can produce for years from a single inoculation.
 

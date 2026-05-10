@@ -15,8 +15,8 @@ updated: 2026-04-28
 sources:
   - Bill Mollison, Permaculture: A Designers Manual
   - Bill Mollison, Permaculture: A Practical Design for a Sustainable Future
-  - Harbhajan Singh, Mycoremediation: [[staycare-composting-as-a-fungal-bioremediation-strategy]]
-  - Nicole Faires, The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and Sustainable
+  - Harbhajan Singh, Mycoremediation: staycare-composting-as-a-fungal-bioremediation-strategy
+  - Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and Sustainable
     Living
   - Toby Hemenway, Gaia's Garden
 related_concepts:
@@ -105,7 +105,6 @@ conditions that support carnivorous plants and sphagnum moss. Fens are
 groundwater-fed peatlands that are less acidic and support greater plant
 diversity, including many rare species.
 
-Wetland plants have evolved remarkable adaptations to survive in saturated,
 ## See Also
 
 - [[constructed-wetland-design]] — engineering parameters for wetland

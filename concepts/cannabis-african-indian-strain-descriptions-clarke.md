@@ -78,7 +78,7 @@ Dagga of South Africa is highly acclaimed:
 ## Related
 
 - [[biscotti-cannabis-strain]]
-- [[acdc-cannabis-strain]] Topics
+- [[acdc]] Topics
 
 - [[cannabis-colombian-strain-description-clarke]] - [[cannabis-colombian-strain-description-clarke]] profile
 - [[cannabis-breeding-basics]] - Breeding fundamentals

@@ -135,8 +135,6 @@ sources:
 | Relative potency | Similar to psilocin (mg-for-mg) |
 
 ## See Also
-
-## See Also
 - [[psychedelic-mushroom-effects-guide]]
 - [[shirota-psilocin-psilocybin-synthesis-from-4-hydroxyindole]]
 - [[tryptamine-chemistry-psilocin-and-psilocybin-synthesis]]

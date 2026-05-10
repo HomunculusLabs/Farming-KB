@@ -3,8 +3,7 @@ title: "What Are Biofertilizers and How Do I Use Them?"
 tags: [query, biofertilizer, soil-health, organic-farming, inoculants]
 date: 2026-05-09
 updated: 2026-05-09
-sources:
-  sources: []
+sources: []
 ---
 
 # What Are Biofertilizers and How Do I Use Them?

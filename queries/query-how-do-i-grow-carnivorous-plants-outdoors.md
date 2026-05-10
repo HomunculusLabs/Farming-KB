@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [carnivorous-plants, cultivation, outdoor-growing, gardening, bog-garden, nepenthes, sarracenia, drosera, venus-flytrap, care-guide]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 type: query
 ---
 # How Do I Grow Carnivorous Plants Outdoors

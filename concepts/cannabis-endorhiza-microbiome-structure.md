@@ -1,0 +1,136 @@
+---
+title: [[cannabis-endorhiza-microbiome]] Structure
+created: 2026-05-09
+tags: [microbiome, cannabis, endorhiza, endophyte, rhizosphere]
+date: 2026-05-09
+updated: 2026-05-09
+sources:
+  - /Users/t3rpz/wiki/raw/papers/understanding-cultivar-specificity-cannabis-microbiome.md
+type: concept
+---
+
+# Cannabis Endorhiza Microbiome Structure
+
+## Overview
+
+The endorhiza (root interior) microbiome of Cannabis represents the most
+host-selective microbial compartment in the plant-soil system. Winston et al.
+(2014) provided the first comprehensive characterization of [[cannabis-endorhiza-bacterial-communities]]
+communities across five distinct Cannabis cultivars, demonstrating that these
+internal root communities are significantly shaped by host genotype rather than
+soil chemistry alone.
+
+## Core Endorhiza Community
+
+Across all five cultivars studied (Burmese, Bookoo Kush, Sour Diesel, White
+Widow, and Maui Wowie), a consistent core microbiome was identified within the
+endorhiza. This core community included:
+
+- **Pseudomonas** — ubiquitous endophytic genus within Gammaproteobacteria
+- **Cellvibrio** — aerobic cellulolytic bacterium, the only non-endophytic
+  member consistently found in the core
+- **Oxalobacteraceae** — family within Betaproteobacteria associated with
+  plant root colonization
+- **Xanthomonadaceae** — family within Gammaproteobacteria, common plant
+  associates
+- **Actinomycetales** — order of Gram-positive bacteria known for producing
+  bioactive [[antifungal-secondary-metabolites-coprophilous-fungi]]
+- **Sphingobacteriales** — order within Bacteroidetes found in soil-root
+  interfaces
+
+The predominance of Gammaproteobacteria and Alphaproteobacteria in the
+endorhiza core community aligns with observations from other plant systems,
+supporting the view that these groups possess conserved mechanisms for root
+tissue colonization.
+
+## Cultivar-Specific Differentiation
+
+While the core community was shared across all cultivars, strain-level
+differences in OTU abundances were significant within the endorhiza. In the
+first experiment, division of [[cannabis-rhizosphere-endorhiza-communities]] by strain was significant
+for both weighted (ADONIS: R² = 0.59, p = 0.004) and unweighted (ADONIS:
+R² = 0.39, p = 0.003) UniFrac analyses.
+
+Notable cultivar-specific features included:
+
+- **Bookoo Kush**: The genus *Methylophilus* comprised 13% of the endorhiza
+  microbial community, a dramatically elevated proportion compared to 0.13%
+  in Burmese and complete absence in Sour Diesel (FDR: p = 0.012)
+- **Maui Wowie**: Showed prevalence of *[[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]*, which can
+  metabolize phenazine-1-carboxylic acid and has been implicated in
+  increased survival in soil environments
+- **White Widow**: When grown in two different soil types, maintained a
+  cultivar-consistent endorhiza profile despite divergent soil communities
+
+## Phylum-Level Shifts from Soil to Root
+
+The transition from bulk soil through the rhizosphere and into the endorhiza
+involves predictable phylum-level compositional changes, consistent with the
+[[two-tier-selection-model-plant-microbiome]]:
+
+- **Acidobacteria**: Dramatic reduction from soil into endorhiza, with the
+  order iii1-15 showing the most significant decrease (Bonferroni-corrected
+  ANOVA: p = 1.12e-7)
+- **Proteobacteria**: Significant increase within endorhiza, including several
+  OTUs from Rhizobiales order
+- **Actinobacteria**: Increase in relative abundance within root tissues
+
+Of 51 OTUs significantly differentiating between sample types, 17 showed
+increased abundance within the Cannabis endorhiza relative to the rhizosphere,
+predominantly belonging to Proteobacteria.
+
+## Endorhiza-Soil OTU Sharing
+
+A key prediction of the two-tier model is that endorhiza communities should
+be soil-derived. This was tested by comparing OTU sharing between White Widow
+plants grown in two different soils. Endorhiza samples shared significantly
+more OTUs with the soil they were grown in (mean = 2934) than with the
+alternative soil (mean = 2162) (t = -10.05, p = 1.209e-15), confirming the
+soil-origin hypothesis while also demonstrating cultivar-mediated selection.
+
+## Alpha Diversity Patterns
+
+Alpha diversity follows a clear gradient from bulk soil to endorhiza:
+
+- **Bulk soil** (chao1: m = 4947; s = 717) — highest diversity
+- **Rhizosphere** (chao1: m = 4525; s = 542) — slight reduction
+- **Endorhiza** (chao1: m = 3321; s = 420) — dramatic reduction
+
+This funneling effect reflects the selective pressures exerted by the root
+environment, where only bacteria capable of tolerating plant immune responses
+and competing for root exudates successfully colonize internal tissues.
+
+## Functional Implications
+
+Endorhiza bacteria support plant growth through multiple mechanisms:
+
+- Production of phytohormones and low molecular weight compounds regulating
+  growth and metabolism
+- Enzyme production involved in nutrient cycling
+- Suppression of plant diseases through competitive exclusion
+- Assistance in tolerating phytotoxic effects of environmental toxicants
+- Potential contributions to localized terroir, as demonstrated in other
+  crop plants such as wine grapes
+
+## Relationship to Secondary Metabolism
+
+Cannabis produces numerous secondary metabolic compounds, including
+cannabinoids and terpenes, which may directly influence endorhiza community
+composition. While Winston et al. found significant correlation between
+cannabinoid profiles and endorhiza community structure (unweighted r-stat:
+0.863, p = 0.001), the strong edaphic [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] direct
+attribution. Plants grown in Orange County soil had both higher THC and
+distinct soil chemistry, making it difficult to disentangle host biochemistry
+from soil physicochemical effects on the microbiome.
+
+This interplay between plant secondary metabolism and root microbiome
+assembly represents a frontier in Cannabis science, with potential
+implications for both agricultural practice and our understanding of
+[[cultivar-specific-root-microbial-communities]].
+
+## See Also
+
+- [[two-tier-selection-model-plant-microbiome]]
+- [[cultivar-specific-root-microbial-communities]]
+- [[16s-rrna-sequencing-microbiome-analysis]]
+- [[edaphic-factors-microbial-community-structure]]

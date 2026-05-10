@@ -138,7 +138,6 @@ mushrooms using chromatographic methods (TLC, GC, HPLC). Previous syntheses
 were impractical at gram scale due to low yields and purification difficulties.
 The Shirota route makes reliable gram-scale production feasible without
 chromatographic purification at any step.
-
 ## See Also
 
 - [[four-hydroxyindole-psilocin-synthesis-route-shirota]]

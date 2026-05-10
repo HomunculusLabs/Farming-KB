@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [fruit-trees, permaculture, orcharding, guilds]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 
@@ -47,6 +46,8 @@ For pear guilds, replace the apple-specific pest deterrents with plants suited t
 The pruning system, however, differs by species. Pears are also trained to a central leader, but peaches and plums are typically trained to an open center system. This is where tree care knowledge specific to each species becomes essential and cannot be generalized from the guild alone.
 
 ## See Also
+
+- [[apple-tree-guild-design-species-combinations]]
 
 - [[comparison-bromeliad-vs-orchid-care]]
 

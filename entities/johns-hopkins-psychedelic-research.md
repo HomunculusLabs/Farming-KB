@@ -68,7 +68,7 @@ Johns Hopkins studies are notable for their methodological rigor:
 - Careful screening and preparation of participants
 - Structured session environments with eyeshades and curated music playlists
 - Experienced guides present throughout sessions
-- Standardized dose ranges explored in [[psilocybin-compound-profile]] — Detailed [[emcdda-psilocybin-pharmacology-and-chemistry]]
+- Standardized dose ranges explored in [[psilocybin-compound-profile]] — Detailed [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]
 - [[psychedelic-safety-and-contra-indications]] — Safety protocols and screening criteria
 
 ## Related

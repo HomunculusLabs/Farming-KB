@@ -110,6 +110,6 @@ Master Kush's name reflects the breeder's intention to create a "master" express
 
 - [[cannabis-sativa]]
 - [[hindu-kush]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[skunk-1]]
 - [[beta-caryophyllene]]

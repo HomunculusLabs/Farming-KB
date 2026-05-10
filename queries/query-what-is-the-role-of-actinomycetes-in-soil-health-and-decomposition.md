@@ -138,12 +138,8 @@ These products are available as wettable powders or granules for soil drench, se
 |---------|--------------|-------|
 | Growth form | Filamentous bacteria (hyphae 0.5–2 μm) | True fungi (hyphae 3–15 μm) |
 | Decomposition speed | Slower; specialize in recalcitrant materials | Faster; dominate early decomposition |
-## See Also
-
-- Actinomycetes and Soil Ecology
-- [[teaming-with-microbes-earthworm-ecology-and-vermicomposting|Vermicomposting and Earthworm Ecology]]
-- [[biological-nitrogen-fixation-agriculture|Nitrogen-Fixing Bacteria and Biological Nitrogen Fixation]]
 
 ## See Also
-
+- [[teaming-with-microbes-earthworm-ecology-and-vermicomposting]]
+- [[biological-nitrogen-fixation-agriculture]]
 - [[query-what-is-the-role-of-actinomycetes-in-soil-health]]

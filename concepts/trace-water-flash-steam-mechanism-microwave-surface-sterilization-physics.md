@@ -128,6 +128,10 @@ exposure to ensure continuous steam generation for full sterilization.
   Center, Houston, Texas.
 ## See Also
 
+- [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]
+
+- [[microwave-surface-sterilization-system-design-nasa-msap-2-45-ghz-trace-water-steam]]
+
 - [[microwave-induced-steam-surface-sterilization-mechanism]]
 - [[microwave-surface-sterilization]]
 - [[trace-water-flash-steam-microwave-sterilization]]

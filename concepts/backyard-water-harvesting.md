@@ -56,6 +56,10 @@ Rain barrels and cisterns capture roof runoff for later use. While soil storage 
 
 ## Related
 
+- [[mushroom-harvesting-potency-desiccation]]
+- [[mushroom-potency-harvesting-drying]]
+- [[pf-tek-fruiting-and-harvesting]]
+
 - water-harvesting-techniques-comparison Concepts
 
 - [[cover-crop-multifunction-design]] -- [[gaias-garden-cover-crops-soil-building]] build soil organic matter for water retention

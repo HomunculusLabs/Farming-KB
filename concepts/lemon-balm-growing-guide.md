@@ -1,11 +1,10 @@
 ---
-title: comparison-lemon-balm-vs-passionflower comparison-bean-growing-guide-vs-pepper-growing-guide
+title: Lemon Balm Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, companion-planting, pollinators, permaculture]
-sources:
-  - "raw/papers/ben-lemon-cannabis-alchemy.md"
+sources: []
 ---
 
 # Lemon Balm Growing Guide (Melissa officinalis)
@@ -17,7 +16,7 @@ Mediterranean region and Central Asia. Prized for its bright, lemon-scented
 foliage, lemon balm has been cultivated for over 2,000 years as a medicinal
 herb, culinary ingredient, bee plant, and garden ornamental. Its genus name
 Melissa comes from the Greek word for "honeybee," reflecting its long-
-standing association with beekeeping.
+standing association with beekeeping. (see [[valerian-growing-guide]]).
 
 ## Botanical Profile
 
@@ -30,11 +29,11 @@ standing association with beekeeping.
 
 The heart-shaped, deeply veined leaves release a strong lemon fragrance when
 crushed. The plant forms bushy clumps and spreads by both rhizomes and self-
-seeding.
+seeding. (see [[echinacea-growing-guide]]).
 
 ## Medicinal Uses
 
-Lemon balm contains rosmarinic acid, flavonoids, and [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
+Lemon balm contains rosmarinic acid, flavonoids, and essential oils
 (citral, citronellal, geranial) responsible for its calming and antiviral
 properties.
 
@@ -69,7 +68,7 @@ interfere with thyroid hormone absorption.
 Lemon balm is one of the best plants for supporting honeybees and native
 bees. The flowers are rich in nectar and produce an excellent honey. The
 name "Melissa" (Greek for bee) reflects this association. Planting lemon
-balm near hives or in [[mollison-designers-bee-forage-tree-planting]] areas supports pollinator health and honey
+balm near hives or in bee forage areas supports pollinator health and honey
 production. Beekeepers historically rubbed lemon balm inside new hives to
 encourage bees to accept them.
 
@@ -126,7 +125,7 @@ or spearmint and is easier to manage.
 
 ### Care and Maintenance
 - Water regularly during the first season; established plants are moderately
-  [[permplant-carob-drought-tolerant-food-tree]]
+  drought tolerant
 - Mulch with compost to retain moisture and suppress weeds
 - Cut plants back by half after flowering to encourage a fresh flush of
   growth and prevent excessive self-seeding
@@ -136,14 +135,16 @@ or spearmint and is easier to manage.
   reduces essential oil content
 
 ## Harvesting
-## See Also
 
-- [[comparison-lemon-balm-vs-passionflower]]
+For tea and culinary use:
+- Harvest leaves at any time during the growing season
+- The highest essential oil concentration is just before flowering
+- Cut stems 2-3 inches above the base; the plant will regrow
+- Harvest in the morning after dew has dried for best flavor and potency
 
-- [[chamomile-growing-guide]] -- pair with lemon balm in calming tea blends
-- [[holy-basil-tulsi-guide]] -- another aromatic [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] for daily
-  wellness teas
+For medicinal use:
+- Harvest aerial parts in early to mid-bloom for maximum rosmarinic acid
+  content
+- Cut the top 6-8 inches of the plant
 
-## Related
-
-- [[st-johns-wort-guide]]
+## Drying and Storage

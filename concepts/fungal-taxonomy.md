@@ -10,24 +10,24 @@ type: concept
 
 # Fungal Taxonomy
 
-Fungal taxonomy classifies the kingdom Fungi into a hierarchical system of
+fungal taxonomy classifies the kingdom [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification|Fungi]] into a hierarchical system of
 phyla, classes, orders, families, genera, and species. The field has undergone
 dramatic revision with the advent of molecular phylogenetics, which revealed
 that many traditional classifications based on morphology were profoundly
 misleading. Fungi are now understood to be more closely related to animals than
-to plants, sharing a common ancestor roughly one billion years ago.
+to [[plants-of-the-gods-plant-kingdom-classification|plants]], sharing a common ancestor roughly one billion years ago.
 
 ## Major Phyla
 
 The kingdom Fungi is currently divided into several major phyla. **Chytridiomycota**
 (chytrids) are the most basal fungal group and the only fungi with flagellated
-[[mycorrhiza]]l fungi, ancient symbionts of
+[[mycorrhiza]] l fungi, ancient symbionts of
 plants. They are obligate symbionts, never found living independently of plant
 roots, and reproduce only asexually.
 
 **Ascomycota** (sac fungi) is the largest phylum, containing over 64,000
 described species. They produce spores inside microscopic sacs called asci.
-This group includes yeasts (*Saccharomyces cerevisiae*), penicillin-producing
+This group includes yeast [[saccharomyces-cerevisiae]] visiae]]*), penicillin-producing
 *molds* (*Penicillium*), morels, truffles, and plant pathogens like *Cryphonectria
 parasitica* (chestnut blight). Many lichen-forming fungi are ascomycetes.
 
@@ -39,7 +39,7 @@ destroying angels).
 
 ## The Species Concept Problem
 
-Fungal taxonomy faces unique challenges in defining species. Many fungi reproduce
+fungal taxonomy faces unique challenges in defining species. Many fungi reproduce
 both sexually and asexually, and the same species can look dramatically different
 depending on its reproductive mode. The discovery that DNA sequences can reveal
 cryptic species, morphologically identical but genetically distinct lineages,

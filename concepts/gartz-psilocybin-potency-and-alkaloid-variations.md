@@ -95,3 +95,7 @@ Conversely, species with high psilocybin but slight bluing -- such as
 - [[psilocybin-mushroom-potency-and-dosage-guide]]
 - gartz-magic-mushrooms-global-distribution-patterns
 - [[metol-testing-bluing-reaction-mushrooms]]
+
+## See Also
+
+- [[salicin]]

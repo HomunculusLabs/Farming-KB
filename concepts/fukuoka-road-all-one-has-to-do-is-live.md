@@ -1,11 +1,11 @@
 ---
 title: All One Has to Do Is to Live
 created: 2026-04-28
-tags: [philosophy, life, nature, civilization, food-origin]
+tags: [philosophy, life, nature, civilization, [[fukuoka-food-strategy-rice-seed-weapon-seed-war-food-ecosystem|food]]-origin]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka-human-intellect-barrier-to-nature-road-back|fukuoka.md"
 type: concept
 ---
 

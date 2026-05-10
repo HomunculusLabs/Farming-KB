@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Soil and Nutrients
 
-Cannabis is a heavy feeder with specific nutrient requirements that change through its [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield.
+Cannabis is a heavy feeder with specific nutrient requirements that change through its life cycle. Understanding NPK ratios, micronutrients, and soil pH is essential for healthy plants and maximum yield. (see [[cannabis-nutrient-deficiency-and-toxicity-guide]]).
 
 ## Soil Mixes
 
@@ -21,7 +21,7 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 
 ### Advanced (Super Soil / Living Soil)
 - Base: 1/3 peat moss or coco, 1/3 compost, 1/3 aeration (perlite/pumice)
-- Amendments: worm castings, bone meal, blood meal, [[comparison-kelp-meal-vs-rock-dust]], bat guano
+- Amendments: worm castings, bone meal, blood meal, kelp meal, bat guano
 - Mycorrhizal inoculant at planting
 - No bottled nutrients needed — microbes make nutrients bioavailable
 - Build 4-6 weeks before planting for microbial activation
@@ -64,29 +64,11 @@ Cannabis is a heavy feeder with specific nutrient requirements that change throu
 - Cannabis absorbs nutrients best in narrow pH range
 - Soil: 6.0-7.0 (optimal 6.3-6.8)
 - Hydro/coco: 5.5-6.5 (optimal 5.8-6.2)
-- pH too high: [[cannabis-nutrient-lockout-and-ph]] (nutrients present but unavailable)
+- pH too high: nutrient lockout (nutrients present but unavailable)
 - pH too low: toxicity (excess uptake of some nutrients)
 
 ## Related
-- [[cannabis-grow-room-setup]] — for [[cervantes-grow-room-design-advanced]]
+- [[cannabis-grow-room-setup]] — for room design
 - [[cannabis-vegetative-stage-management]] — for grow phase
 - [[cannabis-nutrient-deficiency-guide]] — for deficiency diagnosis
 - [[soil-food-web-structure]] — for living soil biology
-## Practical Considerations
-
-Successful implementation of Cannabis Soil and Nutrients requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

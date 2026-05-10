@@ -3,8 +3,7 @@ title: "Valerian vs Chamomile"
 tags: [comparison, medicinal-herbs, nervines, sleep-aid, cultivation]
 date: 2026-05-08
 updated: 2026-05-08
-sources:
-  sources: []
+sources: []
 ---
 
 # Valerian vs Chamomile

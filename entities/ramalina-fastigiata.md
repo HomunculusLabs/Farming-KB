@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
   - Nimis, P.L. & Martellos, S. (2008). "ITALIC - The Information System on Italian Lichens." University of Trieste.
-  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Seaward, M.R.D. (2010). "Ramalina." In: Nash III, T.H. et al. (eds), Lichen Biology (2nd ed.). Cambridge University Press.
   - Huneck, S. & Yoshimura, I. (1996). Identification of Lichen Substances. Springer.
 ---

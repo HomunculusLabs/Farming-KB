@@ -3,8 +3,7 @@ title: "How Do I query how do i save seeds from biennial vegetables from Biennia
 tags: [query, seed-saving, biennial-vegetables, plant-breeding, heirloom-varieties]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 # How Do I Save Seeds from Biennial Vegetables?
 

@@ -81,7 +81,7 @@ Production is a purely biological polymerization:
 - [[query-what-are-mycelium-materials-and-how-are-they-made]]
 - [[woodlovers-mycelium-running-pathway-technique]]
 
-- [Mycelium mycelium materials and fungal biomanufacturing Biomanufacturing](mycelium-materials-and-fungal-biomanufacturing.md)
+- Mycelium mycelium materials and fungal biomanufacturing Biomanufacturing
 - [[stamets-cultivator-pasteurization-vs-sterilization-methods]](../comparisons/pasteurization-vs-sterilization.md)
-- [Biochar vs Biofertilizer](../comparisons/biochar-vs-biofertilizer.md)
-- [Bioremediation Using Fungi](../topics/bioremediation-using-fungi.md)
+- Biochar vs Biofertilizer
+- Bioremediation Using Fungi

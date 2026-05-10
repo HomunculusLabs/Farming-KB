@@ -114,6 +114,8 @@ newborn umbilical stumps to stop bleeding.
 
 ## See Also
 
+- [[bloomfield-zygomycete-sex-trisporic-acid-zygospore]]
+
 - [[amanita-cesarea]]
 
 - bloomfield-mushroom-poisons-and-toxidromes for broader toxicology

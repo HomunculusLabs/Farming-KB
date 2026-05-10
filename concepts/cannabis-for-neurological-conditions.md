@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Neurological Conditions
 
-Neurology is one of the most promising areas for medical cannabis research. The strongest evidence exists for epilepsy (specifically CBD), with growing evidence for multiple sclerosis, Parkinson's, and other conditions.
+Neurology is one of the most promising areas for medical cannabis research. The strongest evidence exists for epilepsy (specifically CBD), with growing evidence for multiple sclerosis, Parkinson's, and other conditions. (see [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]).
 
 ### Treatment-Resistant Epilepsy
 - **Evidence level: Strong** (FDA-approved Epidiolex for Dravet and Lennox-Gastaut syndromes)
@@ -17,7 +17,7 @@ Neurology is one of the most promising areas for medical cannabis research. The 
 - Mechanism: CBD modulates GABA and glutamate signaling, reduces neuronal excitability
 - Does not produce psychoactive effects
 - Dosage: 10-25mg/kg/day CBD (pharmaceutical grade)
-- Whole-plant CBD extracts show additional benefits beyond isolated CBD ([[cannabis-terpene-entourage-effect-profiles]])
+- Whole-plant CBD extracts show additional benefits beyond isolated CBD (entourage effect)
 
 ### Multiple Sclerosis
 - **Evidence level: Strong** for spasticity (Sativex approved in many countries)
@@ -57,27 +57,7 @@ Neurology is one of the most promising areas for medical cannabis research. The 
 - THC:CBD combinations most studied
 
 ## Related
-
-- [[cannabis-and-neurological-conditions]]
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific applications
 - [[cannabis-for-chronic-pain]] — for neuropathic pain overlap
 - [[cannabis-thc-therapeutic-profile]] — for THC-specific effects
-## Practical Considerations
-
-Successful implementation of Cannabis for Neurological Conditions requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

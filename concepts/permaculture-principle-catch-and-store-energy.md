@@ -1,17 +1,16 @@
 ---
-title: Permaculture Principle 2 — permaculture principle catch and store energy Energy
+title: Permaculture Principle 2 — Catch and Store Energy
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, principles, water-management, energy, soil, ecology]
 sources:
-  sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
 # Permaculture Principle 2 — Catch and Store Energy
 
-The second of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles. In the context of [[holmgren-energy-descent-permaculture-flower]], we need to rebuild natural capital — the storages that support human and ecological systems. This principle directs us to identify and capture energy flows (solar, water, wind, biological) and store them in forms we can use through lean times.
+The second of David Holmgren's twelve permaculture design principles. In the context of energy descent, we need to rebuild natural capital — the storages that support human and ecological systems. This principle directs us to identify and capture energy flows (solar, water, wind, biological) and store them in forms we can use through lean times.
 
 > "By developing systems that collect resources at peak abundance, we can use them in times of need." — David Holmgren
 
@@ -34,7 +33,7 @@ Storage strategies include:
 
 ### Soil and Humus
 
-Soil [[hamilton-composting-and-organic-matter-management]] is one of the most important energy storages. Holmgren discusses soil humus as a carbon sink, citing Alan Yeomans' argument that loss of humus from agricultural soils is as large a contributor to [[dighton-fungal-greenhouse-gas-nitrogen-saturation]] emissions as motor cars.
+Soil organic matter is one of the most important energy storages. Holmgren discusses soil humus as a carbon sink, citing Alan Yeomans' argument that loss of humus from agricultural soils is as large a contributor to greenhouse gas emissions as motor cars.
 
 Holmgren outlines methods for rebuilding soil humus:
 
@@ -63,26 +62,4 @@ Holmgren identifies key characteristics that water, soil, trees, and seed all sh
 
 ## Connections
 
-This principle is closely related to [[permaculture-principle-obtain-a-yield]] (stored energy becomes yield), [[permaculture-principle-produce-no-waste]] (waste is uncaptured energy), and [[permaculture-principle-use-and-value-renewable-resources]] (focusing on [[holmgren-wind-power-and-renewable-energy-debate]] flows). See also [[rainwater-harvesting-systems]], [[swale-design-construction]], [[soil-fertility-management]], and [[permaculture-principles]].
-## Practical Considerations
-
-Successful implementation of Permaculture Principle 2 — Catch and Store Energy requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- permaculture-catch-and-store-energy-principle
+This principle is closely related to [[permaculture-principle-obtain-a-yield]] (stored energy becomes yield), [[permaculture-principle-produce-no-waste]] (waste is uncaptured energy), and [[permaculture-principle-use-and-value-renewable-resources]] (focusing on renewable energy flows). See also [[rainwater-harvesting-systems]], [[swale-design-construction]], [[soil-fertility-management]], and [[permaculture-principles]].

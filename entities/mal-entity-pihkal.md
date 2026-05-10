@@ -140,10 +140,8 @@ removed under vacuum, and the residual pale amber oil distilled at
 120-130 deg C at 0.3 mm/Hg to provide 1.5 g of a white oil. This was
 dissolved in 8.0 mL of IPA and neutralized with 25 drops of
 concentrated HCl. The addition of 40 ml of anhydrous Et2O with
+
 ## See Also
 - [[methyl-dob-entity-pihkal]]
 - [[propynyl-entity-pihkal]]
-
-## See Also
-
 - [[tma-5-entity-pihkal]]

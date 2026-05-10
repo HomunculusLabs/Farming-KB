@@ -84,3 +84,4 @@ Horsetail has been utilised by humans for thousands of years across multiple cul
 
 - [[urtica-dioica]] — Nettle; companion [[nutrient-dynamic-accumulator-reference]] and [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]] with overlapping diuretic uses.
 - comfrey — Comfrey (Symphytum spp.); premier dynamic accumulator of potassium and other minerals for permaculture systems.
+- [[thlaspi-arvense]]

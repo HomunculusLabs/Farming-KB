@@ -121,7 +121,6 @@ The first principle is deep soil preparation through double-digging,
 which loosens soil to a depth of approximately 24 inches, creating
 a well-aerated root zone that dramatically increases the volume of
 soil available to plant roots. The second is close plant spacing in
-hexagonal patterns, which creates a living mulch that shades the soil,
 ## See Also
 
 - [[biointensive-gardening-overview]]

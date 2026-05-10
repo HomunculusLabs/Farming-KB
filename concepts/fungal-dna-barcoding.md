@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungal DNA barcoding uses standardized DNA regions to rapidly identify fungal species from small tissue samples. It has revolutionized [[molecular-methods-fungal-taxonomy-and-diversity]], ecology, and monitoring, enabling identification of fungi that are difficult or impossible to distinguish by morphology alone. The technique is essential for environmental DNA (eDNA) studies, biosecurity, and citizen science.
+Fungal DNA barcoding uses standardized DNA regions to rapidly identify fungal species from small tissue samples. It has revolutionized fungal taxonomy, ecology, and monitoring, enabling identification of fungi that are difficult or impossible to distinguish by morphology alone. The technique is essential for environmental DNA (eDNA) studies, biosecurity, and citizen science.
 
 ## The ITS Region
 
@@ -83,7 +83,7 @@ The most commonly used primers for fungal ITS amplification:
 - Used for metabarcoding — identifying all fungi in an environmental sample (soil, air, water)
 - Platforms: Illumina MiSeq (most common), Ion Torrent, PacBio, Oxford Nanopore
 - Can generate millions of sequences per run
-- Enables community-level studies of [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
+- Enables community-level studies of fungal diversity
 - Illumina MiSeq: ~300 bp paired-end reads (ITS2 region ideal)
 
 ### PacBio Long-Read Sequencing
@@ -123,27 +123,28 @@ The most commonly used primers for fungal ITS amplification:
 - **CBS/KNAW culture collection**: Type strain sequences
 - **MycoBank**: Fungal nomenclature database linked to sequence data
 - **Q-bank**: Plant pathogenic fungi database for biosecurity
-- **EUROFUNGI**: European [[biodiversity-fungal-culture-preservation]] collection sequences
+- **EUROFUNGI**: European fungal culture collection sequences
 
 ## Bioinformatics Pipeline
 
 1. **Quality filtering**: Remove low-quality reads, trim primers and adapters
 2. **Clustering/Denoising**: Group similar sequences into OTUs (97% similarity) or ASVs (exact sequence variants)
 3. **Taxonomic assignment**: Compare against reference databases using BLAST, RDP classifier, or machine learning approaches
-4. **[[rhizosphere-fungal-community-analysis-rrna-rdna]]**: Calculate diversity metrics, compare communities
+4. **Community analysis**: Calculate diversity metrics, compare communities
 
 Common software: QIIME2, DADA2, mothur, OBITOOLS, USEARCH
 
 ## Citizen Science
-## See Also
 
-- [[mushroom-taxonomy-history]] — How molecular methods revolutionized fungal classification
-- [[fungal-symbiosis-types]] — Identifying [[mycelium-running-symbiotic-fungi-relationships]] through barcoding
-- [[fungal-parasites-and-predators]] — [[biodiversity-fungal-molecular-identification-dna-barcoding]] of predatory fungi
-- [[fungal-biology-fundamentals]]
-- [[lichen-biology-guide]]
+### iNaturalist
 
-## Related
+- Photos of fungi submitted by users
+- Identification by community and automated suggestions
+- Some observations linked to voucher specimens and sequences
 
-- [[fungal-species-estimates-taxonomy]]
-- [[fungal-species-concept-and-taxonomy]]
+### Sequence-Verified Citizen Science
+
+Projects like the North American Mycoflora Project aim to:
+1. Collect and photograph fungi across North America
+2. Generate DNA barcodes for every observation
+3. Build a comprehensive, georeferenced fungal database

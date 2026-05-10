@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [europe, agriculture, history, critique, civilization]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources: []
+sources:
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 type: concept
 ---
 

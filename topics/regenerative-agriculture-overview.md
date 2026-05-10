@@ -103,7 +103,6 @@ it?
 Tillage is the most destructive practice in conventional agriculture. A single
 pass with a moldboard plow destroys [[dighton-mycorrhizal-networks-carbon-transfer]] that took years to
 establish, vaporizes soil organic matter through exposure to air, kills
-earthworms and soil macrofauna, and breaks soil aggregates into smaller and
 ## See Also
 
 - the soil food web -- the biological foundation of regenerative

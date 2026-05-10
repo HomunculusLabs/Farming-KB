@@ -1,0 +1,120 @@
+---
+title: Alpha-PVP
+---
+
+# Alpha-PVP
+
+## Overview
+
+Alpha-PVP (alpha-pyrrolidinopentiophenone) is a synthetic stimulant of the cathinone class that gained widespread notoriety as a "bath salt" component during the 2010s. It is a derivative of pyrovalerone, a stimulant medication developed in the 1960s, and shares structural features with MDPV (methylenedioxypyrovalerone). The compound is commonly known by street names including "flakka," "gravel," and "bath salts."
+
+The drug first appeared in recreational drug markets around 2010 and rapidly became one of the most prevalent synthetic cathinones worldwide. Alpha-PVP was frequently sold under the guise of "plant food," "jewelry cleaner," or "research chemicals" to circumvent drug control legislation. Its popularity peaked between 2013 and 2016, during which time emergency department visits related to alpha-PVP exposure surged dramatically across multiple countries.
+
+Alpha-PVP is classified as a norepinephrine-dopamine reuptake inhibitor (NDRI), distinguishing it from many other cathinones that function primarily as releasing agents. This pharmacological distinction contributes to a clinical profile characterized by prolonged stimulation, intense compulsive redosing, and a high incidence of severe adverse effects including psychosis and hyperthermia. The drug's pharmacokinetic properties, particularly its long duration of action and slow elimination, amplify these risks.
+
+The compound attracted significant media attention following numerous high-profile incidents involving bizarre and dangerous behavior. Reports of users running naked in traffic, experiencing extreme delusions of superhuman abilities, and engaging in violent confrontations became widely publicized. While media coverage often exaggerated the prevalence of such extreme reactions, the underlying pharmacology of alpha-PVP does support a high risk of severe stimulant psychosis.
+
+Alpha-PVP typically appears as a white to off-white crystalline powder or as small crystalline fragments resembling gravel, hence one of its common street names. The drug is most commonly administered through insufflation, oral ingestion, or vaporization. Smoking or vaporizing alpha-PVP has become increasingly common due to the rapid onset of effects through this route, though it carries additional risks of pulmonary toxicity and more intense behavioral toxicity.
+
+Purity of illicit alpha-PVP varies considerably between batches and vendors. Samples analyzed by forensic laboratories have shown purity ranging from less than 20 percent to over 95 percent, with cutting agents including caffeine, lidocaine, and inorganic bulking agents. This variability in potency contributes significantly to the risk of accidental overdose, as users cannot reliably gauge the strength of a given sample. Adulteration with other active substances, including other synthetic cathinones or novel psychoactive substances, has also been documented.
+
+International control of alpha-PVP has been implemented through various mechanisms. China banned the production and export of alpha-PVP in 2015, a significant regulatory action given China's role as the primary source of synthetic cathinone precursors. The drug was placed under international control through scheduling by the United Nations Commission on Narcotic Drugs, and many individual nations have enacted specific legislative controls targeting alpha-PVP and its analogues.
+
+## Chemical Properties
+
+Alpha-PVP has the molecular formula C15H21NO and a molar mass of 231.33 g/mol. The IUPAC name is 1-phenyl-2-(pyrrolidin-1-yl)pentan-1-one, indicating a pentanophenone skeleton bearing a pyrrolidine ring at the alpha position. The CAS Registry Number for alpha-PVP is 14530-33-7.
+
+The molecule consists of a phenyl ring connected to a carbonyl group, which is bonded to a five-membered pyrrolidine ring via a three-carbon aliphatic chain terminating in a methyl group. This alpha-pyrrolidino ketone structure is the hallmark of the pyrovalerone class of stimulants. The pyrrolidine nitrogen confers basic properties and is the site of protonation that forms the water-soluble hydrochloride salt encountered in illicit markets.
+
+The hydrochloride salt of alpha-PVP is a white crystalline solid with high solubility in water and moderate solubility in ethanol. The freebase form is an oily liquid. The compound exhibits moderate lipophilicity with a calculated log P of approximately 3.0 for the freebase, facilitating efficient blood-brain barrier penetration. This relatively high lipophilicity contributes to the rapid onset and intense central effects observed following administration.
+
+The boiling point and vapor pressure characteristics of alpha-PVP freebase make it amenable to vaporization, which has implications for the growing trend of smoking the drug. Thermal degradation products generated during vaporization may include reactive aldehydes and other potentially toxic species, though comprehensive pyrolysis studies remain limited. The inhalation route delivers the drug directly to the pulmonary circulation, bypassing first-pass hepatic metabolism and contributing to the rapid onset and high peak concentrations associated with this route.
+
+Alpha-PVP has a pKa of approximately 9.9 for the protonated pyrrolidine nitrogen, meaning the compound exists predominantly in its cationic form at physiological pH. The melting point of the hydrochloride salt is reported in the range of 120 to 125 degrees Celsius. The compound is stable under normal storage conditions but may degrade upon exposure to heat, moisture, or strong light over extended periods.
+
+The SMILES notation for alpha-PVP is O=C(C(CCCCC1)C1=CC=CC=C1)N1CCCC1, encoding the complete molecular structure. The pyrrolidine ring is a key structural feature that distinguishes alpha-PVP from simpler cathinones lacking this cyclic amine substituent. This structural modification increases the compound's metabolic stability and prolongs its duration of action compared to open-chain amine analogues such as methcathinone.
+
+Synthetic routes to alpha-PVP typically involve the reaction of 1-phenyl-2-pentanone (valerophenone) with pyrrolidine under reductive amination conditions. This straightforward synthesis, combined with the availability of both precursors from chemical suppliers, contributed to the drug's rapid proliferation in clandestine markets before international controls were implemented.
+
+Forensic identification of alpha-PVP relies on gas chromatography-mass spectrometry and liquid chromatography-tandem mass spectrometry. The mass spectrum shows a molecular ion at m/z 231 and characteristic fragment ions at m/z 126, 98, and 70. The pyrrolidine ring produces a distinctive fragment pattern that differentiates alpha-PVP from other cathinone classes in forensic analysis. Standardized analytical methods have been published by the United Nations Office on Drugs and Crime to support international detection efforts.
+
+## Pharmacology
+
+Alpha-PVP acts primarily as a potent inhibitor of dopamine and norepinephrine reuptake at their respective transporters (DAT and NET). Unlike releasing agents such as methamphetamine and methcathinone, alpha-PVP does not promote monoamine efflux through transporter reversal. Instead, it binds tightly to the transporter proteins and blocks their reuptake function, allowing endogenous and previously released monoamines to accumulate in the synaptic cleft.
+
+In vitro binding and uptake inhibition assays have demonstrated that alpha-PVP is a particularly potent dopamine reuptake inhibitor, with IC50 values in the low nanomolar range at DAT. Its potency at NET is comparable, while activity at the serotonin transporter (SERT) is substantially lower. This selectivity profile produces a clinical effect dominated by dopaminergic stimulation and peripheral sympathomimetic activation, with minimal serotonergic contribution. The lack of significant serotonin activity means that alpha-PVP does not produce the entactogenic effects associated with drugs such as MDMA or methylone, and the subjective experience is one of pure stimulant effect without the empathogenic warmth characteristic of serotonergic cathinones.
+
+The reuptake inhibition mechanism of alpha-PVP has important clinical implications. Unlike releasing agents, reuptake inhibitors do not deplete vesicular monoamine stores, which may contribute to the drug's characteristically long duration of action. Users frequently report effects lasting 8 to 12 hours or longer, far exceeding the duration of most releasing-type cathinones. The prolonged stimulation promotes compulsive redosing behavior, as users seeking to maintain the desired effects continue to administer the drug well beyond the initial dose.
+
+Alpha-PVP shows negligible affinity for a wide range of receptor systems including serotonin receptors, muscarinic receptors, NMDA receptors, and opioid receptors. Its pharmacological activity is almost entirely mediated through DAT and NET inhibition. The absence of significant receptor binding means that alpha-PVP does not produce hallucinogenic effects at typical doses, and its clinical profile is one of pure psychostimulation without entactogenic qualities.
+
+The compound's high affinity for DAT is associated with a pronounced abuse liability, consistent with the well-established correlation between DAT inhibition potency and reinforcing effects across stimulant drug classes. Self-administration studies in rodent models have confirmed that alpha-PVP is readily self-administered and produces robust conditioned place preference. These preclinical findings align with the strong compulsive use patterns observed in human recreational users.
+
+Electrophysiological studies have shown that alpha-PVP increases the firing rate of dopaminergic neurons in the ventral tegmental area, an effect consistent with enhanced dopaminergic tone resulting from reuptake blockade. This mechanism is shared with classical stimulants such as cocaine and methylphenidate, and accounts for the overlapping subjective effects and abuse potential across these drug classes despite their structural diversity.
+
+## Effects
+
+The onset of effects varies significantly by route of administration. Insufflation produces effects within 5 to 15 minutes, oral ingestion within 20 to 45 minutes, and vaporization within 1 to 5 minutes. The duration of action is notably prolonged, typically lasting 3 to 5 hours for smoked doses and 8 to 12 hours or longer for insufflated or oral doses. The extended duration is a defining characteristic of alpha-PVP compared to shorter-acting cathinones.
+
+Desired effects include intense euphoria, heightened alertness, increased energy, enhanced libido, and elevated mood. At lower doses, users may experience improved focus and sociability. However, the therapeutic index is narrow, and doses only marginally above the recreational range frequently produce unpleasant overstimulation, anxiety, and paranoid ideation. The euphoric effects tend to diminish rapidly with repeated dosing, while adverse effects intensify.
+
+Physical effects include pronounced tachycardia, hypertension, mydriasis, diaphoresis, bruxism, and hyperthermia. Vasoconstriction is typically severe, and users may present with cool and pale extremities. Appetite suppression is profound and can persist for the entire duration of action. Sexual stimulation is prominently reported, though physical sexual function may be impaired despite increased subjective arousal.
+
+Tremor, particularly of the hands, is a common physical sign of alpha-PVP intoxication. Muscle rigidity and hyperreflexia have been observed in severe cases, potentially reflecting excessive dopaminergic activity in the extrapyramidal motor system. Pupillary dilation is typically pronounced and may persist well beyond the subjective duration of stimulant effects.
+
+The typical recreational dose ranges from 5 to 20 mg when insufflated, 10 to 30 mg when taken orally, and 2 to 10 mg when vaporized. These doses are notably lower than those of most other cathinones, reflecting the compound's high potency. Due to the narrow margin between recreational and toxic doses, accidental overdose is relatively common, particularly among inexperienced users unfamiliar with the compound's potency.
+
+Adverse effects are frequent even at doses considered recreational by experienced users. Anxiety, agitation, paranoia, and insomnia are nearly universal at higher doses. Stimulant psychosis, characterized by paranoid delusions, visual and auditory hallucinations, and disorganized thinking, is reported with alarming frequency. Hyperthermia represents a particularly dangerous complication, with body temperatures exceeding 40 degrees Celsius documented in severe cases.
+
+The risk of psychosis appears to be dose-dependent and is significantly higher with alpha-PVP than with many other synthetic cathinones, possibly due to the drug's sustained high-level dopamine reuptake inhibition. Users with a personal or family history of psychiatric illness appear to be at heightened risk for psychotic decompensation. These episodes may persist for hours to days after the pharmacological effects of the drug have subsided, requiring psychiatric hospitalization in severe cases.
+
+The comedown from alpha-PVP is notoriously harsh, with users reporting severe dysphoria, anhedonia, exhaustion, and intense drug craving. These aftereffects may persist for several days following a single episode of use. Chronic users frequently develop a pattern of continuous use lasting several days, followed by a crash period of prolonged sleep and depressive symptoms. This binge-crash cycle is a hallmark of alpha-PVP dependence and closely parallels the use pattern of classical stimulants like methamphetamine.
+
+Medical management of alpha-PVP toxicity is primarily supportive, focusing on sedation with benzodiazepines, aggressive cooling for hyperthermia, and cardiovascular monitoring. Antipsychotics may be used cautiously for stimulant psychosis, though their use is complicated by the potential to lower seizure threshold and exacerbate anticholinergic effects. No specific pharmacological antagonist exists for alpha-PVP, and management relies on treating the symptomatic manifestations of excessive catecholaminergic stimulation.
+
+## Toxicology
+
+The acute toxicity of alpha-PVP is primarily driven by excessive dopaminergic and noradrenergic stimulation. Cardiovascular complications represent the most immediate life-threatening risks, including hypertensive crisis, tachyarrhythmias, myocardial ischemia, and aortic dissection. Hyperthermia is the leading cause of death in acute alpha-PVP toxicity, with reported fatalities involving body temperatures above 41 degrees Celsius.
+
+Excited delirium syndrome is a well-documented complication of alpha-PVP use. This syndrome presents as agitation, hyperthermia, delirium, and autonomic hyperactivity, often culminating in sudden cardiac arrest. The pathophysiology involves a combination of hyperthermia-induced coagulopathy, metabolic acidosis, and catecholamine-mediated cardiac toxicity. The syndrome is frequently precipitated by physical restraint of agitated users, and deaths in custody have been associated with alpha-PVP-induced excited delirium.
+
+Management of excited delirium requires early recognition and aggressive supportive care. Benzodiazepines are the preferred first-line agent for agitation control, as they address the underlying catecholamine excess without the cardiac risks associated with antipsychotics. Intravenous fluids, active cooling measures, and continuous cardiac monitoring are essential components of treatment. Ketamine has emerged as an alternative sedation option, though its use in this context requires careful hemodynamic monitoring.
+
+Chronic alpha-PVP use has been associated with persistent psychiatric sequelae. Prolonged stimulant psychosis that does not fully resolve with abstinence has been documented in multiple case reports. Cognitive impairment affecting attention, working memory, and executive function may persist for weeks to months after discontinuation. The neurotoxic potential of chronic DAT inhibition, while less well characterized than that of releasing agents, represents a significant concern for long-term users.
+
+Weight loss and nutritional deficiency are common among chronic users due to the profound appetite suppression and the drug's tendency to promote sustained use patterns extending over multiple days. Dental deterioration, skin picking, and neglect of personal hygiene are frequently observed. Social consequences including loss of employment, relationship breakdown, and financial ruin commonly accompany alpha-PVP dependence, paralleling the psychosocial deterioration seen with other potent stimulants.
+
+Renal failure secondary to rhabdomyolysis, itself a consequence of hyperthermia and excessive muscular activity, has been reported in severe alpha-PVP intoxication. Hepatotoxicity may result from direct drug effects and from hyperthermia-induced hepatic injury. Necrotizing vasculitis and peripheral ischemia secondary to severe vasoconstriction have been documented, occasionally requiring surgical intervention including fasciotomy or amputation.
+
+**Legal status:** Alpha-PVP is classified as a Schedule I controlled substance in the United States. It is listed in Schedule II of the United Nations Convention on Psychotropic Substances (1971) following a scheduling decision by the Commission on Narcotic Drugs in 2020. China implemented a blanket ban on alpha-PVP and related substances in 2015. The European Union, United Kingdom, Australia, and numerous other jurisdictions have enacted specific controls targeting alpha-PVP.
+
+Drug interactions of particular concern include synergistic toxicity with other stimulants, risk of serotonin syndrome when combined with serotonergic agents, and enhanced cardiovascular strain when used with vasoconstrictive substances. Alpha-PVP should not be combined with MAO inhibitors due to the risk of hypertensive crisis. The use of antipsychotics to manage stimulant psychosis induced by alpha-PVP is complicated by the potential for lowered seizure threshold and anticholinergic effects.
+
+## History and Related Compounds
+
+Alpha-PVP was first detected in the recreational drug market around 2010, appearing initially in European countries before spreading to the United States, Asia, and Australia. The drug was developed as a structural analogue of pyrovalerone, a stimulant medication synthesized in 1964 by the German pharmaceutical company Hoechst. Pyrovalerone was investigated as an appetite suppressant and treatment for chronic fatigue but was never widely marketed.
+
+The rapid proliferation of alpha-PVP in recreational markets was facilitated by its initial legal status in most jurisdictions. Sold under the euphemistic label of "bath salts," "plant food," or "research chemicals," the drug was readily available through online vendors and head shops. This period of legal availability lasted approximately from 2010 to 2014 in most Western countries, during which time patterns of use and toxicity were extensively characterized in emergency medicine literature.
+
+The European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) issued its first formal risk assessment of alpha-PVP in 2014, documenting widespread availability across EU member states. The report catalogued over 150 acute toxicity presentations and 80 deaths associated with alpha-PVP use across Europe. These data were instrumental in supporting the European Union's decision to subject alpha-PVP to control measures across all member states.
+
+The city of Fort Lauderdale, Florida, became a focal point for alpha-PVP-related problems in 2015, with media reports dubbing the drug "flakka" and documenting numerous incidents of bizarre behavior by affected individuals. The resulting media coverage, while frequently sensationalized, drew public and legislative attention to the dangers of synthetic cathinones. The intense media scrutiny contributed to accelerated scheduling efforts across multiple jurisdictions.
+
+Closely related compounds include MDPV (methylenedioxypyrovalerone), which shares the pyrrolidinophenone core with an added methylenedioxy substituent on the phenyl ring, and pyrovalerone, the parent compound from which alpha-PVP was derived. Other structural analogues include alpha-PHP (alpha-pyrrolidinohexanophenone), alpha-PBP (alpha-pyrrolidinobutiophenone), and the more potent alpha-PiHP (alpha-pyrrolidinoisohexanophenone). These analogues share the core pharmacological mechanism of dopamine and norepinephrine reuptake inhibition.
+
+The emergence and subsequent scheduling of alpha-PVP exemplifies the cat-and-mouse dynamic between legislative authorities and the designer drug market. Following the scheduling of alpha-PVP, novel pyrrolidinophenone analogues appeared in rapid succession, each designed to circumvent existing controls while retaining the pharmacological profile of the parent compound. This pattern of legislative action followed by structural innovation has characterized the synthetic cathinone market throughout its history.
+
+Despite widespread scheduling, alpha-PVP and its analogues continue to appear in drug markets, though at reduced prevalence compared to the peak years. The drug's persistence reflects both the continued demand from established user populations and the ongoing capacity of illicit manufacturers to adapt to regulatory changes. Public health surveillance systems in many countries continue to monitor for alpha-PVP and related substances as part of broader early warning systems for novel psychoactive substances.
+
+## See Also
+
+- [[mephedrone]]
+- [[methylone]]
+- [[cathinone]]
+- [[methcathinone]]
+- [[cocaine]]
+- [[mdma]]
+- [[butylone]]
+- [[ethylone]]
+- pma
+- [[pcp]]

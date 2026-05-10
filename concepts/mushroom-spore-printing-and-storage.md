@@ -16,8 +16,7 @@ tags:
 - lighting
 
 sources:
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+- raw/papers/the-mushroom-cultivator-stamets.md
 - raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md
 - raw/papers/pf-tek-psilocybe-fanaticus.md
 - raw/papers/working-with-agar.md
@@ -25,7 +24,7 @@ sources:
 
 # Mushroom Spore Printing and Storage
 
-Spore collection is the foundation of [[accessible-mushroom-cultivation-for-disabilities]] — every grow begins with spores. Techniques range from simple field prints for identification to sterile lab methods for long-term cultivation stock. See mushroom-identification for spore print colors as an ID feature, and [[fungal-biology-fundamentals]] for the role of spores in the fungal life cycle.
+Spore collection is the foundation of mushroom cultivation — every grow begins with spores. Techniques range from simple field prints for identification to sterile lab methods for long-term cultivation stock. See [[mushroom-identification]] for spore print colors as an ID feature, and [[fungal-biology-fundamentals]] for the role of spores in the fungal life cycle.
 
 ## Spore Print Technique
 
@@ -55,7 +54,7 @@ Spore collection is the foundation of [[accessible-mushroom-cultivation-for-disa
 6. Seal jar with tape; store at room temperature in a dark place (not refrigerator)
 
 ### Veil Method for Clean Spores (Stamets)
-Species with a partial veil (e.g., *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*, *Agaricus brunnescens*) offer a natural advantage: the veil seals the gills from the outside, creating a semi-sterile chamber. By choosing a healthy young specimen with the veil intact and carefully removing veil tissue under aseptic conditions, a nearly pure spore print is obtained — the ideal way to start a multispore culture.
+Species with a partial veil (e.g., *Psilocybe cubensis*, *Agaricus brunnescens*) offer a natural advantage: the veil seals the gills from the outside, creating a semi-sterile chamber. By choosing a healthy young specimen with the veil intact and carefully removing veil tissue under aseptic conditions, a nearly pure spore print is obtained — the ideal way to start a multispore culture.
 
 ## Spore Print Colors by Species
 
@@ -66,9 +65,9 @@ Species with a partial veil (e.g., *[[brassinosteroid-morphological-effects-psil
 | *Pleurotus ostreatus* (Oyster) | White to lilac-gray |
 | *Lentinula edodes* (Shiitake) | White to cream |
 | *Hericium erinaceus* (Lion's mane) | White to cream |
-| *[[stamets-reishi-ganoderma-lucidum-cultivation]]* (Reishi) | Brown |
-| *[[allegro-amanita-muscaria-properties-and-pharmacology]]* | White |
-| *[[stamets-cultivator-coprinus-comatus-shaggy-mane-cultivation]]* | Black (deliquesces) |
+| *Ganoderma lucidum* (Reishi) | Brown |
+| *Amanita muscaria* | White |
+| *Coprinus comatus* | Black (deliquesces) |
 | *Laetiporus sulphureus* (Chicken of the woods) | White |
 
 ## Making a Spore Syringe
@@ -76,7 +75,7 @@ Species with a partial veil (e.g., *[[brassinosteroid-morphological-effects-psil
 ### PF Tek Method
 **Materials**: Spore print in jar, sterile syringes, sterile water, small Pyrex glass stirring rod, alcohol, tequila shot glass, eye dropper, lid with two holes (one for rod, one for syringe needle).
 
-**[[mushroom-spore-syringe-preparation-and-storage]]**: Boil syringes in water for 1 hour, wrapped in foil. Cool before use.
+**Syringe preparation**: Boil syringes in water for 1 hour, wrapped in foil. Cool before use.
 
 1. Inject sterile water into the spore print jar through the needle hole
 2. Flame-sterilize the glass stirring rod, cool, insert through center hole
@@ -129,9 +128,4 @@ See [[mushroom-sterile-technique-detailed]] for full agar work procedures.
 - **Silica gel packets** — include in all storage containers to absorb residual moisture
 
 ## Related
-
-- [[mushroom-spore-allergy]]
-- [[mushroom-spore-syringes]]
-
-- [[mushroom-spore-syringe-preparation-and-storage]]
 [[mushroom-species-guide]], [[pf-tek-guide]]

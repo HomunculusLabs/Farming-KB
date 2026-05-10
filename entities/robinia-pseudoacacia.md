@@ -15,7 +15,7 @@ tags:
   - pollinator
 sources:
   - Martin, J.L. & Sherman, R.E. (2013). "Black Locust." USDA Forest Service Silvics Manual.
-  - Jacke, D. & Toensmeier, E. (2005). Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]. Chelsea Green.
+  - Jacke, D. & Toensmeier, E. (2005). Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests. Chelsea Green.
   - Mabberley, D.J. (2017). Mabberley's Plant-Book. Cambridge University Press.
   - Rackham, O. (1986). The History of the Countryside. J.M. Dent & Sons.
 ---
@@ -114,9 +114,7 @@ A mature 25-year-old coppice stool can produce 50–100 kg of fresh wood per har
 
 ## See Also
 
+- [[thermopsis-rhodanthoides]]
 - [[food-forest]]
 - [[agroforestry]]
-
-## See Also
-
 - [[pioneer-species-selection-for-permaculture-systems]]

@@ -3,8 +3,7 @@ title: comparison constructed wetlands vs bioswales vs Bioswales
 tags: [stormwater-management, water-treatment, constructed-wetlands, bioswales, ecological-engineering, permaculture, greywater, runoff]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 created: 2026-05-07
 type: comparison
 ---

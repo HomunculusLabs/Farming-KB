@@ -1,6 +1,6 @@
 ---
 
-title: PF TEK gottlieb-psilocybin-cultivation-fruiting-chamber-design
+title: PF TEK Fruiting Chamber
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,13 +23,13 @@ sources:
 
 # PF TEK Fruiting Chamber
 
-The Dual [[dual-chambered-terrarium-design]] is Psylocybe Fanaticus's original fruiting chamber design for the PF TEK. It uses a standard 10-gallon aquarium with a Plexiglas spray shield partition to create molecularized humidity -- fine mist that bathes the fungus without direct water contact. See [[pf-tek-guide]] for the complete substrate and inoculation method.
+The Dual Chambered Terrarium is Psylocybe Fanaticus's original fruiting chamber design for the PF TEK. It uses a standard 10-gallon aquarium with a Plexiglas spray shield partition to create molecularized humidity -- fine mist that bathes the fungus without direct water contact. See [[pf-tek-guide]] for the complete substrate and inoculation method.
 
 ## Why a Dual Chamber?
 
 The mushroom gets water from two sources: the substrate it grows on, and the humid air surrounding it. The fungus needs to "bathe in a shroud of floating water molecules" at near-100% humidity. The dual chambered design achieves this through three principles:
 
-1. **Never spray the fungus directly** -- water droplets are "giant ponds" relative to fine [[fungal-mycelial-networks-nutrient-translocation]] and can drown or contaminate growth
+1. **Never spray the fungus directly** -- water droplets are "giant ponds" relative to fine mycelial networks and can drown or contaminate growth
 2. **Molecularized water** (evaporated humidity) is what the fungus actually absorbs
 3. The spray shield breaks coarse spray into fine mist that flows around into the secondary chamber
 
@@ -126,7 +126,7 @@ An anonymous internet technique that works well with the dual chambered terrariu
 | Feature | PF Dual Chamber | SGFC | Monotub |
 |---------|----------------|------|---------|
 | Cost | Very low (~$20) | Low (~$30) | Low (~$20) |
-| [[cervantes-humidity-control-dehumidification]] | Manual spraying | Perlite + FAE holes | [[pf-tek-substrate-moisture-diagnosis-and-correction]] |
+| Humidity control | Manual spraying | Perlite + FAE holes | Substrate moisture |
 | Maintenance | Spray 2-3x daily | Mist/fan 2-3x daily | Minimal after setup |
 | Best for | Beginners, small scale | Small scale | Medium scale |
 | Air exchange | Manual fanning | Passive through holes | Passive through holes |
@@ -134,10 +134,8 @@ An anonymous internet technique that works well with the dual chambered terrariu
 
 ## See Also
 
-- [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
-
 - [[pf-tek-guide]] -- Complete PF TEK from substrate to harvest
-- [[mushroom-harvesting-potency]] -- [[cannabis-harvest-timing-visual-cues]] and potency optimization
+- [[mushroom-harvesting-potency]] -- Harvest timing and potency optimization
 - [[psilocybin-fruiting-chambers]] -- Broader chamber comparison
 - [[mushroom-indoor-cultivation]] -- Modern indoor methods
 - [[mushroom-grow-equipment]] -- Equipment guide

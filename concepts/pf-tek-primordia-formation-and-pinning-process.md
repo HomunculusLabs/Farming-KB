@@ -143,7 +143,6 @@ early-forming fruit bodies.
 The cake is removed by placing an old jar lid over the jar mouth, inverting
 the jar, and lightly slamming it down on a table cushioned with a magazine.
 The cake slides onto the jar cap, which functions as a base. The cake should
-be handled as little as possible, as bruising (visible as blue discoloration)
 ## See Also
 - [[mycelium]]
 - [[mushroom-pinning-primordia-formation-strategies]]

@@ -144,7 +144,6 @@ Larval metabolism generates significant heat. In dense colonies, substrate tempe
 - **Hot climates:** Keep bins in shade, limit colony depth to <10 cm, increase ventilation, or use [[bloomfield-mushroom-evaporative-cooling-fungal-frigidity]]. Above 40°C causes significant mortality.
 
 ## Harvesting Methods
-
 ## See Also
 - [[comparison-black-soldier-fly-larvae-vs-meat-scraps-composting]]
 - [[black-soldier-fly-composting]]

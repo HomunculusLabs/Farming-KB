@@ -1,7 +1,6 @@
 ---
 created: 2026-04-11
-sources:
-  - "raw/papers/a-golden-guide-to-hallucinogenic-plants.md"
+sources: []
 tags:
 - history
 - psychopharmacology
@@ -26,7 +25,7 @@ Lysergic acid diethylamide (LSD) has one of the most consequential histories of 
 ### Albert Hofmann and Sandoz
 
 - **1938**: Albert Hofmann, a chemist at Sandoz Laboratories in Basel, Switzerland, synthesizes the 25th compound in a series of lysergic acid derivatives: **lysergic acid diethylamide-25** (LSD-25)
-- Hofmann was studying derivatives of ergot alkaloids (from the ergot fungus, [[bloomfield-ergot-claviceps-purpurea-ergotism]]) as potential circulatory and respiratory stimulants
+- Hofmann was studying derivatives of ergot alkaloids (from the ergot fungus, Claviceps purpurea) as potential circulatory and respiratory stimulants
 - Initial pharmacological testing on animals showed no remarkable effects; the project was shelved
 
 ### Bicycle Day — April 19, 1943
@@ -64,12 +63,12 @@ See [[albert-hofmann]] for full biographical details.
   - Operation Midnight Climax: CIA set up safe houses in San Francisco, dosed sex workers' clients with LSD, and observed from behind two-way mirrors
   - Frank Olson, an Army scientist, was dosed without his knowledge in 1953; he died days later in a fall from a hotel window — officially ruled a suicide, though family and investigators have long suspected foul play
   - MK-Ultra was exposed by the Church Committee in 1975
-- **Military experiments**: The US Army's Edgewood Arsenal conducted LSD experiments on soldiers to assess its potential as a [[solomon-root-exudates-and-allelopathy]] agent
+- **Military experiments**: The US Army's Edgewood Arsenal conducted LSD experiments on soldiers to assess its potential as a chemical warfare agent
 
 ### Cultural Exploration
 
 - **1953-1955**: Aldous Huxley takes mescaline (guided by Humphry Osmond) and writes "The Doors of Perception" (1954) — a foundational text of the psychedelic movement
-- **1955**: R. Gordon Wasson becomes the first Westerner to participate in a Mazatec mushroom ceremony; his 1957 LIFE magazine article introduced [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] to the world
+- **1955**: R. Gordon Wasson becomes the first Westerner to participate in a Mazatec mushroom ceremony; his 1957 LIFE magazine article introduced psilocybin mushrooms to the world
 - **1956**: Wasson and Hofmann collaborate to identify psilocybin as the active compound in magic mushrooms
 - **1957**: First wave of mainstream media coverage begins to bring psychedelics to public attention
 
@@ -77,11 +76,11 @@ See [[albert-hofmann]] for full biographical details.
 
 ### Harvard and Timothy Leary
 
-- **1960**: Timothy Leary and Richard Alpert (later Ram Dass) begin [[early-paris-psilocybin-research-1960s]] at Harvard
+- **1960**: Timothy Leary and Richard Alpert (later Ram Dass) begin psilocybin research at Harvard
 - See [[timothy-leary]] for the full story
 - Leary's enthusiastic promotion of psychedelics and dismissal of academic caution led to his dismissal from Harvard in 1963
 - Leary became the most visible advocate of LSD, coining the phrase "Turn on, tune in, drop out"
-- His media presence did enormous damage to the legitimacy of [[mckenna-suppression-psychedelic-research-lsd-therapy]]
+- His media presence did enormous damage to the legitimacy of psychedelic research
 
 ### Ken Kesey and the Merry Pranksters
 
@@ -136,7 +135,7 @@ See [[albert-hofmann]] for full biographical details.
 - Duration: 8-12 hours
 - Tolerance develops rapidly; cross-tolerance with other psychedelics
 - No evidence of physical dependence or withdrawal
-- See [[psychedelic-compounds-reference]] for detailed [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
+- See [[psychedelic-compounds-reference]] for detailed pharmacological comparison
 
 ## Related Pages
 

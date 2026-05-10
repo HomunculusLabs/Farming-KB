@@ -93,6 +93,8 @@ PGPR are powerful but not a silver bullet. Key limitations to understand:
 - **Not a substitute for good soil management:** PGPR work best as part of a holistic approach. See [[ingham-field-guide-compost-tea-ingredients-and-recipes|compost tea]] as complementary practices.
 ## See Also
 
+- [[query-what-are-adaptogenic-herbs-and-how-do-they-work]]
+
 - [[biofertilizers-and-soil-inoculants|Microbial Inoculants and Biological Soil Amendments]]
 - [[integrated-pest-management|Integrated Pest Management (IPM)]]
 - [[biochar-in-agriculture|Biochar in Regenerative Agriculture]]

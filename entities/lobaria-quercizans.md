@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Yoshimura I. (1971). "The genus Lobaria of Eastern Asia." Journal of the Hattori Botanical Laboratory 34: 231-364.
-  - Jordan W.P. (1973). "The genus Lobaria in [[psilocybin-north-america-pacific-northwest]] north of Mexico." The Bryologist 76(2): 225-251.
+  - Jordan W.P. (1973). "The genus Lobaria in psilocybin-north-america-pacific-northwest north of Mexico." The Bryologist 76(2): 225-251.
   - Miadlikowska J. et al. (2018). "A phylogenetic framework for the Peltigerales." American Journal of Botany 105(6): 1095-1115.
   - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of North America." Yale University Press.
 ---

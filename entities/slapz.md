@@ -110,7 +110,7 @@ Breeders have used Slapz as a parent in several crosses, including combinations 
 - [[gelato]]
 - [[kush-mints]]
 - jungle-cake
-- [[biscotti-cannabis]]
+- [[biscotti-cannabis-strain]]
 - [[lava-cake]]
 - [[zookies-cannabis]]
 - [[white-runtz]]

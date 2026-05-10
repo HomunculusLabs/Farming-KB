@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Amphibians—frogs, toads, salamanders, and newts—are among the most imperiled groups of animals on Earth. Approximately 40% of amphibian species are threatened with extinction, making them the most endangered vertebrate class. Amphibians require both aquatic breeding habitat and terrestrial foraging habitat, making them especially sensitive to habitat loss and fragmentation. Creating amphibian habitat on the homestead provides critical breeding sites for declining populations while contributing [[cho-natural-pest-control-methods]] control—adult frogs consume thousands of insects per season. This connects to [[wetland-ecology]], [[pollinator-conservation|conservation]], and [[pollinator-conservation]] efforts.
+Amphibians—frogs, toads, salamanders, and newts—are among the most imperiled groups of animals on Earth. Approximately 40% of amphibian species are threatened with extinction, making them the most endangered vertebrate class. Amphibians require both aquatic breeding habitat and terrestrial foraging habitat, making them especially sensitive to habitat loss and fragmentation. Creating amphibian habitat on the homestead provides critical breeding sites for declining populations while contributing natural pest control—adult frogs consume thousands of insects per season. This connects to [[wetland-ecology]], [[pollinator-conservation|conservation]], and [[pollinator-conservation]] efforts.
 
 ## Amphibian Biology Basics
 
@@ -39,7 +39,7 @@ The transformation from aquatic tadpole to terrestrial adult:
 - Tiny (0.75-1.25 inches); tan with a dark X on the back
 - First frogs to call in spring; chorus sounds like jingling sleigh bells
 - Breed in temporary wetlands (vernal pools) from February to April
-- Overwinter under [[dighton-fungal-decomposition-leaf-litter-dynamics]] and logs; can survive partial freezing
+- Overwinter under leaf litter and logs; can survive partial freezing
 
 #### American Bullfrog (Lithobates catesbeianus)
 - Large (3.5-6 inches); green with prominent eardrums
@@ -79,14 +79,14 @@ The transformation from aquatic tadpole to terrestrial adult:
 
 #### Spotted Salamander (Ambystoma maculatum)
 - Large (6-9 inches); black with two rows of bright yellow spots
-- Breeds in vernal pools on warm rainy nights in [[coleman-overwintered-onions-and-early-spring-crops]]
-- Eggs laid in gelatinous masses; often with symbiotic [[cervantes-green-algae-growing-medium]]
+- Breeds in vernal pools on warm rainy nights in early spring
+- Eggs laid in gelatinous masses; often with symbiotic green algae
 - Adults live in forest leaf litter; long-lived (20-30 years)
 
 #### Red-Backed Salamander (Plethodon cinereus)
 - Small (3-4 inches); two color phases: red-backed and lead-backed
 - Fully terrestrial; no aquatic larval stage
-- Most abundant salamander in [[polypore-fungi-eastern-north-america]] American forests
+- Most abundant salamander in eastern North American forests
 
 #### Eastern Newt (Notophthalmus viridescens)
 - Complex life cycle: aquatic larva → terrestrial red eft (juvenile) → aquatic adult
@@ -120,7 +120,7 @@ A successful amphibian pond has multiple depth zones:
 - **Submerged vegetation**: Provides egg attachment sites, tadpole cover, and oxygen; hornwort, eelgrass
 - **Emergent vegetation**: Cattails, rushes, sedges, and irises provide cover and egg-laying sites
 - **Floating vegetation**: Water lilies and duckweed provide shade and cover
-- **[[fungal-succession-woody-debris-ecology]]**: Submerged logs provide basking sites and cover; partially submerged logs allow exit
+- **Woody debris**: Submerged logs provide basking sites and cover; partially submerged logs allow exit
 - **Rock piles**: Underwater rock piles provide hiding places for tadpoles
 - **Mud bottom**: Natural substrate supports invertebrate prey; avoid gravel or concrete
 
@@ -142,9 +142,9 @@ Creating a range of hydroperiods supports the greatest amphibian diversity. Temp
 
 ### Plants for Amphibian Ponds
 | Plant | Type | Function |
-## See Also
-
-- [[taricha-granulosa]]
-- [[wetland-ecology]]
-- [[pollinator-conservation]]
-- [[farming-with-air-water-and-sunlight]]
+|-------|------|----------|
+| Blue flag iris (Iris versicolor) | Emergent | Egg-laying; cover; aesthetic |
+| Pickerelweed (Pontederia cordata) | Emergent | Cover; nectar for pollinators |
+| Soft rush (Juncus effusus) | Emergent | Egg attachment; cover |
+| Cattail (Typha latifolia) | Emergent | Cover; but can be aggressive—contain with barriers |
+| Swamp milkweed (Asclepias incarnata) | Marginal | Pollinator plant; cover |

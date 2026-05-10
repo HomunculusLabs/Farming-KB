@@ -1,5 +1,5 @@
 ---
-title: fermented-hot-sauce-guide Making
+title: Hot Sauce Making
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,9 +9,9 @@ sources: []
 
 ## What Is Hot Sauce
 
-Hot sauce is a condiment made primarily from [[query-how-to-grow-chili-peppers-from-seed-to-harvest]], vinegar, and salt. It spans cultures worldwide — from Mexican salsa picante to Thai sriracha to Caribbean pepper sauces to American Louisiana-style hot sauces. Home hot sauce making allows complete control over heat level, flavor complexity, ingredients, and fermentation methods.
+Hot sauce is a condiment made primarily from chili peppers, vinegar, and salt. It spans cultures worldwide — from Mexican salsa picante to Thai sriracha to Caribbean pepper sauces to American Louisiana-style hot sauces. Home hot sauce making allows complete control over heat level, flavor complexity, ingredients, and fermentation methods. (see [[comparison-fermented-vegetables-vs-canning]]).
 
-There are two main approaches to making hot sauce: vinegar-based (quick, no fermentation) and fermented (lactic [[lactic-acid-bacteria-knf]] develop complex flavors over time).
+There are two main approaches to making hot sauce: vinegar-based (quick, no fermentation) and fermented (lactic acid bacteria develop complex flavors over time). (see [[fermented-hot-sauce-guide]]).
 
 ## Pepper Selection
 
@@ -48,7 +48,7 @@ Fermented hot sauce develops deeper, more complex flavors than vinegar-based sau
 ### Basic Fermented Hot Sauce Process
 
 1. Wash and stem peppers — leave them whole, halved, or chopped
-2. Pack peppers into a clean [[sterile-spore-print-collection-glass-jar-technique]], leaving 1-2 inches of headspace
+2. Pack peppers into a clean glass jar, leaving 1-2 inches of headspace
 3. Add garlic cloves, onions, shallots, or other aromatics as desired
 4. Prepare a 2-4% salt brine: 1 teaspoon fine sea salt per cup of water (approximately 2.5%)
 5. Pour brine over peppers, ensuring they are fully submerged
@@ -71,7 +71,7 @@ Fermented hot sauce develops deeper, more complex flavors than vinegar-based sau
 For a fast, no-ferment sauce:
 
 1. Stem and roughly chop peppers
-2. Combine peppers with vinegar (white, apple cider, or [[brown-rice-vinegar-brv]]) in a saucepan
+2. Combine peppers with vinegar (white, apple cider, or rice vinegar) in a saucepan
 3. Add garlic, onion, salt, and any desired spices
 4. Simmer for 10-15 minutes until peppers are soft
 5. Blend until smooth (or leave chunky for a rustic sauce)
@@ -112,7 +112,7 @@ After fermentation (or as part of the quick method), cooking develops the final 
 ### Preservation Methods
 
 - Refrigeration: keeps for 3-6 months
-- Water [[water-bath-canning-guide]]: process 5 oz bottles for 10 minutes in a boiling water bath — shelf-stable for 1+ year
+- Water bath canning: process 5 oz bottles for 10 minutes in a boiling water bath — shelf-stable for 1+ year
 - Add vinegar to at least 4-5% acidity if canning for safety
 - Adding 1-2 tablespoons of vinegar per 5 oz bottle aids preservation
 
@@ -142,8 +142,9 @@ After fermentation (or as part of the quick method), cooking develops the final 
 
 - Jalapenos or serranos, tomatillos, cilantro, lime juice, garlic, onion
 - Bright, herbaceous
-## See Also
 
-- [[pickle-making]] — fermentation of vegetables in brine
-- [[kimchi-making]] — Korean fermented vegetable condiment
-- [[vinegar-making]] — making your own vinegar for hot sauce base
+### Pineapple Habanero
+
+- Habaneros, fresh pineapple, lime juice, honey, garlic, white vinegar
+- Tropical, sweet heat
+

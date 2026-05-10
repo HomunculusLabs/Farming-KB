@@ -112,10 +112,6 @@ maintain realistic expectations about the depth of experience possible
 in a commercial tourism context.
 
 ## See Also
-
 - [[ayahuasca-tourism-in-peru]]
 - [[amazonian-boa-spirits-and-water-beings-in-shamanic-practice]]
-
-## See Also
-
 - [[metzner-neoshamanic-medicine-circles-structure-and-practice]]

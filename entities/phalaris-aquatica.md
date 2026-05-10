@@ -10,7 +10,7 @@ sources:
   - https://pfaf.org/
 ---
 
-> *"Phalaris aquatica is among the most widely studied of the [[dighton-fungal-drought-tolerance-plant-water-relations]] |
+> *"Phalaris aquatica is among the most widely studied of the dighton-fungal-drought-tolerance-plant-water-relations |
 
 Inflorescence resembles reed canary grass (*P. arundinacea*) but shorter, thicker, more erect. Semievergreen in mild winters.
 

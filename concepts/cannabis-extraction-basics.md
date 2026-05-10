@@ -1,23 +1,21 @@
 ---
-title: comparison-cannabis-extraction-basics-vs-extraction-methods Basics
+title: Cannabis Extraction Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, lab-technique, chemistry, safety, potency, equipment]
-sources:
-  sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 ## Overview
 
-Cannabis extraction is the process of separating cannabinoids, terpenes, and other desirable compounds from plant material. Extracts and concentrates offer higher potency, alternative consumption methods, and purified cannabinoid profiles. Extraction methods range from simple mechanical techniques to complex chemical processes requiring specialized equipment.
+Cannabis extraction is the process of separating cannabinoids, terpenes, and other desirable compounds from plant material. Extracts and concentrates offer higher potency, alternative consumption methods, and purified cannabinoid profiles. Extraction methods range from simple mechanical techniques to complex chemical processes requiring specialized equipment. (see [[cannabis-extraction-solvents]]).
 
 ## Types of Extraction
 
 ### Solvent-Based Extraction
 
-Solvent-based methods use a chemical solvent to dissolve cannabinoids and terpenes from plant material, then evaporate the solvent to leave behind the concentrated extract.
+Solvent-based methods use a chemical solvent to dissolve cannabinoids and terpenes from plant material, then evaporate the solvent to leave behind the concentrated extract. (see [[cannabis-chromatography-cannabinoid-purification]]).
 
 #### Ethanol Extraction
 
@@ -91,7 +89,7 @@ Carbon dioxide is pressurized and heated beyond its critical point (supercritica
 
 #### Rosin Press
 
-Mechanical extraction using heat and pressure to squeeze resin from [[cervantes-cannabis-flower-anatomy]] or hash.
+Mechanical extraction using heat and pressure to squeeze resin from cannabis flower or hash.
 
 **Process**:
 1. Place flower, kief, or bubble hash between parchment paper
@@ -117,7 +115,7 @@ Uses ice and water to separate trichome heads from plant material through agitat
 
 **Process**:
 1. Mix cannabis with ice and cold water in a bucket
-2. Agitate (stir or use a [[cervantes-washing-machine-hash]]) for 10-30 minutes
+2. Agitate (stir or use a washing machine) for 10-30 minutes
 3. Pour the mixture through a series of mesh bubble bags (progressively smaller micron sizes)
 4. Trichome heads collect in the bags; plant matter passes through
 5. Collect and dry the hash from each bag separately
@@ -127,7 +125,7 @@ Uses ice and water to separate trichome heads from plant material through agitat
 - 73-45 micron: Good quality, common yield
 - 25 micron: Fine grade, often lower quality
 
-See [[cannabis-concentrates-types]] for details on bubble hash, [[green-cannabis-dry-sift-water-extraction]], and other water-extracted products.
+See [[cannabis-concentrates-types]] for details on bubble hash, dry sift, and other water-extracted products.
 
 ## Winterization
 
@@ -145,6 +143,8 @@ Winterization is not typically needed for BHO or CO2 extracts that are processed
 
 Raw cannabis contains THCA and CBDA (acidic, non-intoxicating forms). Decarboxylation converts these to active THC and CBD through heat:
 
-## Related
+- THCA → THC at approximately 220 F (105 C) over 30-60 minutes
+- CBDA → CBD at similar temperatures
 
-- [[live-resin-processing]]
+Decarboxylation is necessary for any extract intended for oral consumption (edibles, tinctures). See [[cannabis-edibles-guide]] and [[cannabis-tinctures-guide]].
+

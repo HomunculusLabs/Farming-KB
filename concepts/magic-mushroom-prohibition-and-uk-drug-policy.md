@@ -29,7 +29,7 @@ is made.
 Psilocybin and psilocin had been classified as controlled substances
 under US Federal Law in 1970. The Comprehensive Drug Abuse Prevention
 and Control Act made the knowing possession, sale or use of a
-[[emcdda-psilocybin-mushroom-dose-and-effects]] a criminal offence punishable by fine or
+[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] a criminal offence punishable by fine or
 imprisonment. But the fact that all mushrooms were illegal did little
 to halt their spread. Arrests were few and far between, and were more
 often for trespassing than for possession of a prohibited substance.

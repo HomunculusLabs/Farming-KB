@@ -66,7 +66,7 @@ The rationale: organisms need energy to produce the enzymes required to break do
 If temperature remains low after adding energy sources:
 
 - Use commercial compost starters that contain bacteria capable of degrading the specific contaminants
-- Examples Ingham mentions: EM inoculum ([[bokashi-composting-and-effective-microorganisms]]), Biostart, Organica, Agri-Energy compost starters
+- Examples Ingham mentions: EM inoculum ([[comparison-bokashi-vs-effective-microorganisms]]), Biostart, Organica, Agri-Energy compost starters
 - These products contain specific bacterial strains that "chew up these nasty materials"
 
 ### Persistent Problems

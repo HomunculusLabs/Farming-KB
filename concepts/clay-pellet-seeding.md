@@ -138,11 +138,8 @@ The method depends on adequate rainfall for germination. Hyper-arid deserts
 with annual rainfall below 100 mm may require modified seed selection.
 Fukuoka's approach of maximum diversity lets nature select which plants
 are appropriate for each site.
-## See Also
 
+## See Also
 - [[natural-farming]]
 - [[green-manure-cover-crops]]
-
-## See Also
-
 - [[fukuoka-desert-revegetation-natural-farming]]

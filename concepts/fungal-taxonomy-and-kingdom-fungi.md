@@ -124,11 +124,7 @@ recalcitrant polymer that gives wood its structural rigidity and that few
 other organisms can break down.
 
 ## See Also
-
 - [[fungal-taxonomy-and-classification]]
 - [[fungal-inventory-and-survey-methods]]
 - [[chytrid-fungi-guide]]
-
-## See Also
-
 - [[fungal-kingdom-taxonomy-classification]]

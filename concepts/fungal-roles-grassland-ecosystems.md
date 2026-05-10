@@ -1,5 +1,5 @@
 ---
-title: Fungal Roles in Grassland Ecosystems
+title: Fungal Roles in [[biodiversity-fungi-grassland-ecosystems]]
 created: 2026-04-16
 updated: 2026-05-09
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 Fungi play fundamentally different roles in grassland ecosystems
 compared to forests, reflecting differences in organic matter inputs,
-soil structure, [[mycorrhizal-nutrient-transport|mycorrhizal]] associations, and decomposition pathways.
+soil structure, [[mycorrhizal-nutrient-transport|mycorrhizal]] associations, and [[teaming-with-microbes-decomposition-pathways]].
 
 In grasslands, the dominant organic inputs come from belowground root
 turnover rather than surface litter, creating distinct fungal communities
@@ -69,7 +69,7 @@ in the Gigasporaceae invest more heavily in extraradical hyphae that
 extend far from the root zone.
 
 This functional complementarity means that diverse AMF communities
-support a wider range of ecosystem services than any single species
+support a wider range of [[biodiversity-of-fungi-ecosystem-services-agriculture]] than any single species
 alone.
 
 Grassland AMF diversity is influenced by several factors:
@@ -77,7 +77,7 @@ Grassland AMF diversity is influenced by several factors:
 - Plant species richness directly correlates with AMF diversity
 - Soil pH affects which AMF taxa dominate
 - Disturbance intensity reduces AMF species richness
-- Seasonal dry-wet cycles shift AMF community composition
+- Seasonal dry-wet cycles shift AMF [[core-endorhiza-bacterial-community-composition-cannabis]]
 - Grazing intensity can either increase or decrease AMF diversity
 
 ## Saprotrophic Fungal Communities
@@ -125,7 +125,7 @@ recalcitrant, while biomass with less hyphal extension is more
 important in warmer environments with higher-quality resources.
 
 In grasslands, fungal hyphal lengths typically fall between forest and
-agricultural values, reflecting intermediate resource quality and
+agricultural values, reflecting intermediate [[fungal-decomposition-resource-quality-determinants]] and
 decomposition rates.
 
 The relationship between fungal investment strategy (hyphal extension
@@ -140,11 +140,10 @@ Fungi play important roles in grassland nitrogen cycling through:
 - Decomposition of root litter and soil organic matter
 - Nitrogen immobilization in fungal biomass during periods of high
   resource availability
-- Facilitation of nitrogen mineralization through enzyme production
+- Facilitation of [[fungal-nitrogen-mineralization-pathways]] through enzyme production
 - AMF-mediated nitrogen transfer among plants
 - Contribution to nitrogen retention during periods of leaching potential
 
 In semi-arid prairie meadows, fungal contributions to decomposition and
 nutrient cycling are particularly important because bacterial activity
-is limited by moisture stress.
 ## See Also

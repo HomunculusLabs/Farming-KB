@@ -1,5 +1,5 @@
 ---
-title: cannabis-grow-hydroponic-growing-systems Basics
+title: Hydroponic Growing Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Hydroponic Growing Basics
 
-Hydroponics is the practice of growing plants without soil by delivering nutrients dissolved in water directly to the root zone. For [[query-how-does-no-till-cannabis-cultivation-work]], hydroponics offers faster growth rates, higher yields, and precise control over nutrient delivery compared to soil-based methods. This guide covers the major hydroponic systems, [[green-cannabis-grow-bible-nutrient-management-ppm]], pH control, and essential practices.
+Hydroponics is the practice of growing plants without soil by delivering nutrients dissolved in water directly to the root zone. For cannabis cultivation, hydroponics offers faster growth rates, higher yields, and precise control over nutrient delivery compared to soil-based methods. This guide covers the major hydroponic systems, nutrient management, pH control, and essential practices. (see [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]]).
 
 ## Advantages of Hydroponics
 
@@ -18,7 +18,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 - Precise control over nutrient ratios and concentrations
 - Reduced water usage (water is recirculated, not lost to soil drainage)
 - Fewer soil-borne pests and pathogens
-- Cleaner [[cannabis-growing-environment-setup]]
+- Cleaner growing environment
 - Easier to automate and monitor
 
 ## Disadvantages
@@ -34,7 +34,7 @@ Hydroponics is the practice of growing plants without soil by delivering nutrien
 
 ### Deep Water Culture (DWC)
 
-The simplest active hydroponic system. Plant roots hang directly in an oxygenated [[cannabis-nutrient-solution-preparation]].
+The simplest active hydroponic system. Plant roots hang directly in an oxygenated nutrient solution. (see [[aquaponics]]).
 
 How it works:
 - Plants are suspended in net pots filled with inert growing medium (hydroton, rockwool, coco coir)
@@ -47,7 +47,7 @@ Pros:
 - Simple to build and maintain
 - Low component count
 - Excellent for single-plant or small-scale grows
-- Very low maintenance during [[comparison-cannabis-vegetative-stage-vs-flowering-stage]]
+- Very low maintenance during vegetative stage
 
 Cons:
 - Root rot risk if temperature exceeds 72°F / 22°C
@@ -142,8 +142,9 @@ Cons:
 
 ## Nutrient Solution Management
 
-## See Also
+### Electrical Conductivity (EC)
 
-- [[aeroponics-guide]] for the most advanced hydroponic method
-- [[cannabis-lighting-guide]] for optimizing light in hydroponic grows
-- [[plant-nutrient-deficiency-guide]] for diagnosing nutrient issues in solution
+EC measures dissolved nutrient concentration in millisiemens/cm (mS/cm) or PPM:
+
+- Seedlings/clones: EC 0.4-0.8 (PPM 200-400)
+- Early vegetative: EC 0.8-1.2 (PPM 400-600)

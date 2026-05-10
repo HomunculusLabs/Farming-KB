@@ -140,8 +140,10 @@ The recommended sequence for [[holmgren-site-design-as-cellular-design]] is:
 
 ## See Also
 
+- [[permaculture-site-analysis-mollison]]
+
 - [[permaculture-site-analysis]]
 - [[permaculture-climate-adaptation]]
 - [[mollison-animal-integration-permaculture-design]]
 
-- [site-analysis](site-analysis.md)
+- site-analysis

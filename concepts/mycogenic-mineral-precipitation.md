@@ -36,6 +36,8 @@ fungi and [[mycoremediation]] of contaminated land.
 
 ## See Also
 
+- [[gadd-mycogenic-mineral-precipitation-secondary-minerals]]
+
 - [[fungal-mineral-transformations-biogeochemistry]]
 - [[radiation-resistant-fungi-and-myco-corrosion]]
 - fungal-soil-aggregate-formation-glomalin

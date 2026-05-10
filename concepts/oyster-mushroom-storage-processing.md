@@ -118,10 +118,6 @@ and chilled before consumption. Pickled mushrooms produce favorable products
 when proper formulas are chosen.
 
 ## See Also
-
 - [[gourmet-medicinal-mushroom-oyster-cultivation-methods]]
 - [[biological-efficiency]]
-
-## See Also
-
 - [[mushroom-storage-and-processing-methods]]

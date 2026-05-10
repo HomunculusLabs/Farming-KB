@@ -12,7 +12,7 @@ topics: ["[[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-disper
 
 One of the most striking features of Terence McKenna's tryptamine
 research is the framework of **dialogue** he established with the
-[[emcdda-psilocybin-mushroom-dose-and-effects]], particularly *Stropharia cubensis*. Rather
+[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]], particularly *Stropharia cubensis*. Rather
 than treating the mushroom as a passive pharmacological agent,
 McKenna approached it as an intelligent interlocutor. The
 culmination of this dialogue is the mushroom's own self-

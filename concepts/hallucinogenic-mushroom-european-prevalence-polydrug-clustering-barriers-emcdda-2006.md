@@ -142,6 +142,8 @@ The mushroom use dynamics differ from drugs like cannabis or amphetamines:
 3. **Polydrug context**: Mushrooms are accessed within broader polydrug use rather
 ## See Also
 
+- [[european-hallucinogenic-mushroom-prevalence-demographic-patterns-emcdda-2006]]
+
 - emcdda-hallucinogenic-mushroom-barriers-to-diffusion
 - [[emcdda-hallucinogenic-mushroom-cultivation-and-growkit-market]]
 - [[emcdda-hallucinogenic-mushroom-eu-legislation-responses-2001-2006]]

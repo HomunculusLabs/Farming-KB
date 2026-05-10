@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications.
-  - Adam, J.H., Wilcock, C.C. (1998). "A review of the genus Nepenthes in Borneo." Journal of [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]] Science, 10(2), 159-178.
+  - Adam, J.H., Wilcock, C.C. (1998). "A review of the genus Nepenthes in Borneo." Journal of arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration Science, 10(2), 159-178.
   - McPherson, S.R. (2009). "Pitcher Plants of the Old World." Redfern Natural History Productions.
   - Gaume, L., et al. (2016). "The wax crystals of Nepenthes pitcher plants." Journal of the Royal Society Interface, 13(116).
 ---

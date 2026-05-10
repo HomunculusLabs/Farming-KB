@@ -3,8 +3,7 @@ title: "What Is the Rhizosphere and Why Does It Matter for Plants?"
 tags: [query, rhizosphere, soil-biology, plant-microbiome, mycorrhiza]
 date: 2026-05-09
 updated: 2026-05-09
-sources:
-  sources: []
+sources: []
 ---
 
 # What Is the Rhizosphere and Why Does It Matter for Plants?
@@ -55,7 +54,7 @@ Fungal communities in the rhizosphere include both beneficial mycorrhizal partne
 
 The [[fungal-bacterial-partnerships-mycorrhizosphere|fungal-bacterial partnerships]] that form in the rhizosphere are critical to nutrient cycling.
 
-These interactions are described in depth in [[the-rhizosphere-ecology-and-plant-microbe-interactions]].
+These interactions are described in depth in the rhizosphere ecology and plant microbe interactions.
 
 ## Mycorrhizal Fungi and the Rhizosphere
 

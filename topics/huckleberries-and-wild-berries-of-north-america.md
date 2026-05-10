@@ -140,7 +140,6 @@ A diminutive woodland groundcover producing clusters of bright red drupes in lat
 ### Wintergreen / Teaberry (*Gaultheria procumbens*)
 
 A low evergreen groundcover of eastern North American forests, wintergreen produces small, spicy red berries (aromatic with methyl salicylate) and glossy leaves used for tea. Both leaves and berries have the characteristic wintergreen flavor used in traditional medicine and confectionery.
-
 ## See Also
 
 - [[haskap-honeyberry-cultivation-and-variety-guide|Haskap and Honeyberry]]

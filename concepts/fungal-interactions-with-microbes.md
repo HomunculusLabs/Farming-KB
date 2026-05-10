@@ -9,7 +9,7 @@ sources: [raw/papers/geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-en
 
 # Fungal Interactions with Microbes
 
-Fungi in soil and other environments engage in complex interactions with bacteria, other fungi, viruses, and microfauna. These interactions shape microbial [[core-endorhiza-bacterial-community-composition-cannabis]], [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]], plant health, and ecosystem function. Understanding these interactions is key to managing soil health and applying biological controls.
+Fungi in soil and other environments engage in complex interactions with bacteria, other fungi, viruses, and microfauna. These interactions shape microbial community composition, nutrient cycling, plant health, and ecosystem function. Understanding these interactions is key to managing soil health and applying biological controls. (see [[fungal-interactions-organisms]]).
 
 ## Fungal-Bacterial Interactions
 
@@ -20,7 +20,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 - **Lysis**: Fungal enzymes degrade bacterial cell walls
 
 ### Mutualism
-- **[[arbuscule-isolation-and-nutrient-exchange-mechanisms]]**: Bacteria fix nitrogen that fungi and plants use; fungi provide carbon
+- **Nutrient exchange**: Bacteria fix nitrogen that fungi and plants use; fungi provide carbon
 - **Physical association**: Bacterial biofilms on fungal hyphae ("fungal highway") enhance dispersal
 - **Degradation synergy**: Fungi and bacteria work together to degrade complex organic matter
   - Fungi break down lignin; bacteria consume the released sugars
@@ -48,7 +48,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 ### Symbiosis
 - Lichens: fungus + algae/cyanobacteria partnership
 - Endophytic fungi within other fungi (mycoviruses)
-- [[comparison-soil-food-web-vs-arbuscular-mycorrhizal-fungi]] networks connecting multiple plant species
+- Arbuscular mycorrhizal networks connecting multiple plant species
 
 ## Fungal-Viral Interactions
 
@@ -61,7 +61,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 
 ### Beneficial Effects
 - Some mycoviruses enhance fungal stress tolerance
-- May increase [[fungal-elicitors-enhanced-secondary-metabolite-production]] production
+- May increase secondary metabolite production
 - Potential tool for managing fungal diseases
 
 ## Fungal-Microfauna Interactions
@@ -83,11 +83,7 @@ Fungi in soil and other environments engage in complex interactions with bacteri
 - Arthropods disperse fungal spores (phoresy)
 
 ## Applications
-- **Biocontrol**: Trichoderma, mycophagous fungi, mycoviruses as [[hamilton-pest-and-disease-control-organic]]
+- **Biocontrol**: Trichoderma, mycophagous fungi, mycoviruses as disease control
 - **Composting**: Fungal-bacterial consortia for efficient decomposition
 - [[soil-food-web-structure]] — for the complete soil food web
 - [[mycopesticides-fungal-biocontrol]] — for fungal biocontrol agents
-
-## See Also
-
-- [[teaming-with-microbes-bacterial-vs-fungal-dominance]]

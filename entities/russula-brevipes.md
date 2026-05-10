@@ -12,10 +12,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Miller, S.L. et al. (2012). \"Molecular phylogeny of the genus Russula in psilocybin-north-america-pacific-northwest.\" Mycologia, 104(3), 647-665."
-  - "Buyck, B. et al. (2018). \"The genus Russula in tropical Africa.\" [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 89, 267-349."
+  - "Buyck, B. et al. (2018). \"The genus Russula in tropical Africa.\" arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 89, 267-349."
   - "Arora, D. (1986). Mushrooms Demystified, 2nd ed. Ten Speed Press."
   - "Kuo, M. (2022). Russula brevipes. MushroomExpert.com."
-  - "Smith, A.H. & Thiers, H.D. (1964). A Contribution toward a Monograph of [[growing-gourmet-north-american-reishi-species]] Species of Russula. University of Michigan Press."
+  - "Smith, A.H. & Thiers, H.D. (1964). A Contribution toward a Monograph of growing-gourmet-north-american-reishi-species Species of Russula. University of Michigan Press."
 ---
 
 # Russula brevipes (*Short-Stalked Russula*)

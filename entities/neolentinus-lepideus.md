@@ -22,7 +22,7 @@ sources:
   - "Corner, E.J.H. (1950). 'A Monograph of Lentinus and Allied Genera.' Annals of Botany Memoirs."
   - "Pegler, D.N. (2005). 'The genus Lentinus — a world monograph.' Kew Publishing."
   - "Hibbett, D.S. et al. (1997). 'Phylogenetic relationships of Lentinus and Neolentinus.' Mycologia 89(1): 33-43."
-  - "Rayner, A.D.M. & Boddy, L. (1988). '[[dighton-fungal-decomposition-leaf-litter-dynamics]] of Wood.' John Wiley & Sons."
+  - "Rayner, A.D.M. & Boddy, L. (1988). 'dighton-fungal-decomposition-leaf-litter-dynamics of Wood.' John Wiley & Sons."
   - "https://www.firstnature.com/fungi/neolentinus-lepideus.php"
 ---
 
@@ -123,13 +123,8 @@ requires a cold shock and fresh air exchange.
 - *Pleurotus dryinus* — cap can appear scaly, but gills are decurrent; white-rot on hardwood.
 
 ## See Also
-
-- [[piptoporus-betulinus]] — [[iceman-otzi-birch-polypore-prehistoric-mushroom-use]] with similar lignicolous ecology
-- [[lentinula-edodes]] — cultivated shiitake, related agaricales
-
-## See Also
-
-- edible-wild-mushroom-guide
+- [[piptoporus-betulinus]]
+- [[lentinula-edodes]]
 - [[decomposition]]
 - [[forest-gardens]]
 - [[fungal-decomposition]]

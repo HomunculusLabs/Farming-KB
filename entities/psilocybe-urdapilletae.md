@@ -10,7 +10,7 @@ sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-
 
 # Psilocybe urdapilletae
 
-**Psilocybe urdapilletae** is a rare [[emcdda-psilocybin-mushroom-dose-and-effects]] in the family Hymenogastraceae, described from the highlands of Jalisco state in western Mexico. The species was named by gastón-guzmán in honor of a local guide who assisted with mycological fieldwork in the region. It is classified in Psilocybe [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]], sharing morphological and ecological characteristics with [[psilocybe-pseudoaztecorum]] of central Mexico.
+**Psilocybe urdapilletae** is a rare [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] in the family Hymenogastraceae, described from the highlands of Jalisco state in western Mexico. The species was named by gastón-guzmán in honor of a local guide who assisted with mycological fieldwork in the region. It is classified in Psilocybe [[psilocybe-aztecorum-section-aztecorum-alpine-neurotropic-fungi-guzman-1998]], sharing morphological and ecological characteristics with [[psilocybe-pseudoaztecorum]] of central Mexico.
 
 ## Taxonomy
 

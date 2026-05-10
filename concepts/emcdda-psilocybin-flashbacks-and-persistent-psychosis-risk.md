@@ -1,5 +1,5 @@
 ---
-title: [[emcdda-psilocybin-cardiovascular-risks-acute-physiological-effects]] flashbacks and persistent psychosis risk and Persistent Psychosis Risk
+title: [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] flashbacks and persistent psychosis risk and Persistent Psychosis Risk
 created: 2026-05-08
 updated: 2026-05-08
 sources:

@@ -137,7 +137,7 @@ access is critical.
 
 ## Related
 
-- [[microwave-water-interaction-2.45-ghz]]
+- [[microwave-water-interaction-2-45-ghz]]
 
 - [[microwave-surface-sterilization-technology]]
 - [[bacterial-spore-microwave-resistance]]

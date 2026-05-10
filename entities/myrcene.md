@@ -144,6 +144,6 @@ studies:
 - [[romulan]]
 
 - [[cannabis-sativa]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 
 See also: [[query-what-is-the-cannabis-entourage-effect]]

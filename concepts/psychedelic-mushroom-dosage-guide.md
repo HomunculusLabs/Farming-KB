@@ -1,19 +1,17 @@
 ---
-title: archaeology-of-psychedelic-mushroom-use Dosage Guide
+title: Psychedelic Mushroom Dosage Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mycology, fungi, psychopharmacology, psychedelics, entheogen, safety, potency, preparation]
-sources:
-  sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+sources: []
 ---
 
 # Psychedelic Mushroom Dosage Guide
 
 ## Overview
 
-Accurate dosing of psychedelic mushrooms is complicated by significant variability in potency between species, within species, and even between individual fruiting bodies. This guide provides general dosage frameworks based on Psilocybe cubensis as a reference standard, with conversion factors for other species. All dosages refer to dried mushroom material unless otherwise noted.
+Accurate dosing of psychedelic mushrooms is complicated by significant variability in potency between species, within species, and even between individual fruiting bodies. This guide provides general dosage frameworks based on Psilocybe cubensis as a reference standard, with conversion factors for other species. All dosages refer to dried mushroom material unless otherwise noted. (see [[hallucinogenic-mushroom-dose-and-effects]]).
 
 ## Critical Caveats
 
@@ -31,7 +29,7 @@ Fresh mushrooms contain approximately 90% water by weight. The standard conversi
 - **1 gram dried ≈ 10 grams fresh** (average)
 - Range: 1g dried ≈ 8-12g fresh depending on species and drying completeness
 
-Fresh mushrooms are often considered slightly different in character — some users report a more "organic" or "wilder" experience, possibly due to the presence of psilocin that degrades during drying. However, fresh material is harder to dose accurately and has a much shorter shelf life.
+Fresh mushrooms are often considered slightly different in character — some users report a more "organic" or "wilder" experience, possibly due to the presence of psilocin that degrades during drying. However, fresh material is harder to dose accurately and has a much shorter shelf life. (see [[hallucinogenic-plants-united-states]]).
 
 ## Dosage Levels by Dried P. cubensis Equivalent
 
@@ -52,7 +50,7 @@ Fresh mushrooms are often considered slightly different in character — some us
 
 ### Moderate Dose: 1.5 - 3.0g
 
-- Classic [[leary-psychedelic-experience-bardo-mapping]]
+- Classic psychedelic experience
 - Significant visual and cognitive effects
 - Suitable for experienced users seeking full psychedelic effects
 - Not recommended for first-time users without experienced guidance
@@ -86,8 +84,8 @@ Potency varies dramatically between species. The following conversion factors ad
 | Psilocybe azurescens | 0.25-0.40x | Extremely potent; 1g cubensis ≈ 0.3g azurescens |
 | Psilocybe cyanescens | 0.40-0.60x | Very potent; 2g cubensis ≈ 1g cyanescens |
 | Psilocybe bohemica/serbica | 0.50-0.70x | Potent European species |
-| [[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]] | 0.50-0.70x | Small but potent; potency varies by region and season |
-| [[stamets-panaeolus-cyanescens-copelandia-identification-ecology]] | 0.40-0.60x | "Blue meanies"; dung-inhabiting tropical species |
+| Psilocybe semilanceata | 0.50-0.70x | Small but potent; potency varies by region and season |
+| Panaeolus cyanescens | 0.40-0.60x | "Blue meanies"; dung-inhabiting tropical species |
 
 ### Moderate-Potency Species
 
@@ -103,8 +101,8 @@ Potency varies dramatically between species. The following conversion factors ad
 | Species | Potency Factor | Notes |
 |---------|---------------|-------|
 | Psilocybe mexicana | 2.0-3.0x | Requires 2-3x cubensis dose for equivalent effects |
-| [[sclerotia-maturation-timeline-psilocybe-tampanensis-mexicana]] | 2.0-3.0x | Also cultivated as "philosopher's stones" (sclerotia) |
-| [[allegro-amanita-muscaria-properties-and-pharmacology]] | Not comparable | Different active compounds (muscimol, ibotenic acid); see [[fungal-toxins-reference]] |
+| Psilocybe tampanensis | 2.0-3.0x | Also cultivated as "philosopher's stones" (sclerotia) |
+| Amanita muscaria | Not comparable | Different active compounds (muscimol, ibotenic acid); see [[fungal-toxins-reference]] |
 
 ## Dosage by Body Weight
 
@@ -145,6 +143,8 @@ Mushrooms are steeped in hot (not boiling) water for 10-20 minutes, optionally w
 ### Capsules
 
 Dried, powdered mushrooms encapsulated for precise dosing. Effects are similar to whole consumption but with more predictable dosing and easier storage.
-## See Also
-- [[psychedelic-mushroom-set-and-setting]]
-- [[fungal-toxins-reference]]
+
+## Tolerance
+
+Tolerance to psilocybin develops rapidly:
+

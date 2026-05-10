@@ -15,7 +15,7 @@ sources:
   - Kuo, M. (2024). Morchella importuna. MushroomExpert.com
   - Volk, T. (2023). Morchella importuna. Tom Volk's Fungus of the Month
   - Richard, F. et al. (2015). "Morchella importuna." Mycotaxon 130(2): 475-484
-  - Stamets, P. (2020). Growing Gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. 3rd ed. Ten Speed Press
+  - Stamets, P. (2020). Growing Gourmet and comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press
   - Ower, R. et al. (1986). "Cultivation of Morchella." Mycologia 78(4): 547-554
 ---
 

@@ -48,12 +48,12 @@ Beginning in the 1990s and accelerating through the 2000s and 2010s, several fac
 - Growing clinical evidence for therapeutic applications (depression, anxiety, PTSD, addiction)
 - Legal changes in some jurisdictions permitting therapeutic or research use
 - Increased public awareness of mycology and fungal ecology
-- The popularization of mycoremediation and sustainable agriculture
+- The popularization of [[mycoremediation]] and sustainable agriculture
 
 ### Contemporary Festival Culture
 
 Modern mushroom festivals blend several traditions:
-- Foraging workshops connecting to European aztec-mushroom-feasts-and-revelations, where participants consumed [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] in structured ceremonial settings. Key parallels between ancient and modern practices include:
+- Foraging workshops connecting to European traditions where participants consumed mushrooms in structured ceremonial settings. Key parallels between ancient and modern practices include:
 
 - **Structured social context** — both ancient ceremonies and modern festivals provide organized settings for mushroom use
 - **Spiritual dimensions** — both traditions often include or imply spiritual or transformative experiences
@@ -65,11 +65,19 @@ The Siberian [[witches-fungi-and-flying-ointments]] practices may have involved 
 - Contemporary "psychonaut" communities continue to develop sophisticated knowledge of mushroom species, effects, and preparation
 - Underground [[accessible-mushroom-cultivation-for-disabilities]] has become widespread, with extensive online knowledge sharing
 
+### The Integration Movement
+
+A growing trend in modern festival culture is the integration of [[psychedelic-integration]] practices alongside mushroom experiences. Festivals increasingly feature workshops on harm reduction, set and setting optimization, and post-experience integration. This reflects a maturation of psychedelic culture from purely recreational use toward more intentional, therapeutic, and educational frameworks.
+
+### Economic and Educational Impact
+
+Mushroom festivals also serve important economic and educational functions. They generate revenue for rural communities, support local mycology businesses, and provide accessible venues for public education about fungal ecology. Many festivals now partner with universities and conservation organizations to contribute to citizen science projects, including fungal biodiversity surveys and ecological monitoring.
+
 ***
 
 ## Related Topics
 
 - [[siberian-fly-agaric-shamanism-urine-recycling]]
-- mushroom-symbolism-western-art
 - [[witches-fungi-and-flying-ointments]]
 - [[golden-guide-psilocybin-mushrooms-overview]]
+- [[ethnomycology-cultural-significance-sacred-fungi]]

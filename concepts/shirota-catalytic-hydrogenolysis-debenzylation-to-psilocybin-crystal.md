@@ -139,7 +139,6 @@ synthesis is the key innovation of the Shirota route:
    than chromatographically purified materials
 4. **Reproducibility**: Crystallization conditions are more
    reproducible across laboratories than chromatographic methods
-
 ## See Also
 
 - [[shirota-psilocybin-crystal-form-spectral-data-and-analytical-characterization]]

@@ -28,7 +28,7 @@ sources:
 
 # Harbhajan Singh
 
-Research scientist and author of "Mycoremediation: [[staycare-composting-as-a-fungal-bioremediation-strategy]]" (2006, John Wiley & Sons), the definitive reference work on using fungi for environmental cleanup. Based in Atlanta, Georgia, Singh wrote the book in his private capacity with a disclaimer noting that no official support or endorsement by the U.S. Environmental Protection Agency or any other federal government agency is intended.
+Research scientist and author of "Mycoremediation: Fungal Bioremediation" (2006, John Wiley & Sons), the definitive reference work on using fungi for environmental cleanup. Based in Atlanta, Georgia, Singh wrote the book in his private capacity with a disclaimer noting that no official support or endorsement by the U.S. Environmental Protection Agency or any other federal government agency is intended.
 
 ## Overview
 
@@ -38,9 +38,9 @@ Harbhajan Singh is a researcher who produced one of the most comprehensive techn
 
 Singh's book systematically catalogs the degradative capabilities of fungi across a remarkable range of materials:
 
-- **Polymer degradation:** Documented that Penicillium simplicissimum can degrade polyethylene, that Mucor rouxii and Aspergillus flavus enzymes can alter the mechanical properties of disposable polyethylene bags, and that white-rot fungi are efficient in polyethylene degradation. [[staycare-phanerochaete-chrysosporium-in-bioremediation]] was shown to reduce 50% of polyamide-6 polymer molar mass after 3 months.
+- **Polymer degradation:** Documented that Penicillium simplicissimum can degrade polyethylene, that Mucor rouxii and Aspergillus flavus enzymes can alter the mechanical properties of disposable polyethylene bags, and that white-rot fungi are efficient in polyethylene degradation. Phanerochaete chrysosporium was shown to reduce 50% of polyamide-6 polymer molar mass after 3 months.
 - **Wood and material decay:** Comprehensive treatment of how white-rot and brown-rot fungi decompose lignin, cellulose, and other complex materials — the same capabilities that make them candidates for bioremediation.
-- **Concrete and mineral degradation:** Documented how Fusarium species contribute to calcium loss in concrete and how Aspergillus niger affects cement porosity and bending strength through [[staycare-fungal-organic-acid-production-metal-leaching]].
+- **Concrete and mineral degradation:** Documented how Fusarium species contribute to calcium loss in concrete and how Aspergillus niger affects cement porosity and bending strength through acid production.
 - **Library materials and cultural heritage:** Cataloged 234 species from 84 genera of filamentous fungi isolated from library materials between 1919-1977, documenting the fungal foxing phenomenon on paper.
 - **Waste conversion:** Rhizopus oryzae cultures converting waste office paper to l(+)-lactic acid, demonstrating the potential for fungal bioprocessing of waste streams.
 
@@ -50,31 +50,13 @@ Singh is also cited in connection with mycorrhizal research literature and metho
 
 ## Significance
 
-Singh's book represents the most comprehensive single-volume technical reference on fungal bioremediation available. While popular works by [[paul-stamets]] have brought mycoremediation to public attention, Singh's book provides the detailed scientific foundation that researchers and practitioners need for serious application of these techniques. It is cited in [[jeff-lowenfels]]'s "Teaming With Fungi" and other works on [[gadd-fungal-ecology-endophytes]].
+Singh's book represents the most comprehensive single-volume technical reference on fungal bioremediation available. While popular works by [[paul-stamets]] have brought mycoremediation to public attention, Singh's book provides the detailed scientific foundation that researchers and practitioners need for serious application of these techniques. It is cited in [[jeff-lowenfels]]'s "Teaming With Fungi" and other works on fungal ecology.
 
 ## See Also
 
 - [[mycoremediation-basics]] — Fungal pollution cleanup overview
 - [[mycorestoration-overview]] — Broader fungal restoration applications
 - [[mycorrhizal-fungi]] — Mycorrhizal associations and plant relationships
-- [[fungal-ecosystem-roles]] — Decomposition and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]
+- [[fungal-ecosystem-roles]] — Decomposition and nutrient cycling
 - [[paul-stamets]] — Popularizer of mycoremediation concepts
 - [[geoffrey-gadd]] — Researcher in fungal ecology and bioremediation
-## Practical Considerations
-
-Successful implementation of Harbhajan Singh requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

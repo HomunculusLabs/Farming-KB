@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Yeates, G.W., Bongers, T., de Goede, R.G.M., Freckman, D.W., & Georgieva, S.S. (1993). Feeding habits in soil nematode families and genera — an outline for soil ecologists. Journal of Nematology, 25(3), 315–331."
-  - "Khan, Z., & Kim, Y.H. (2007). A review on the role of predatory soil nematodes in the [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of plant parasitic nematodes. Applied Soil Ecology, 35(2), 370–379."
+  - "Khan, Z., & Kim, Y.H. (2007). A review on the role of predatory soil nematodes in the fukuoka-textdoc-biological-control-fallacy-pheromone-critique of plant parasitic nematodes. Applied Soil Ecology, 35(2), 370–379."
   - "Abawi, G.S., & Widmer, T.L. (2000). Impact of soil health management practices on soilborne pathogens, nematodes and root diseases of vegetable crops. Applied Soil Ecology, 15(1), 37–47."
   - "Kerry, B.R. (2000). Rhizosphere interactions and the exploitation of microbial agents for the biological control of plant-parasitic nematodes. Annual Review of Phytopathology, 38, 423–441."
 type: comparison

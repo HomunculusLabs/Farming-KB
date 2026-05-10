@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design, tuber-crops, nitrogen-fixing]
-sources:
-  sources: []
+sources: []
 ---
 Updated: 2026-04-18
 Groundnut (Apios americana) is a native [[growing-gourmet-north-american-reishi-species]] perennial vine producing

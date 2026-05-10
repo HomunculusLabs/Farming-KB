@@ -131,8 +131,9 @@ For mushroom cultivation applications, understanding microwave kill curves sugge
 - Shorter exposures may significantly reduce contamination but cannot be relied upon for complete sterility
 - The method is most practical for surface decontamination of tools and work surfaces rather than bulk [[mushroom-substrate-sterilization-and-pasteurization]]
 - Pressure cooker sterilization remains the standard for grain substrates because microwave energy cannot penetrate deeply enough to sterilize the core of a jar
-
 ## Related
+
+- [[microwave-sterilization-dose-response-lethality-curves]]
 
 - [[microwave-sterilization-dose-response-microbial-kill-kinetics-nasa-testing]]
 
@@ -146,3 +147,4 @@ For mushroom cultivation applications, understanding microwave kill curves sugge
 ---
 
 *Source: NASA MSC-22484, Sterilizing Surfaces by Irradiation with Microwaves (Atwater, Streech & Garmon)*
+

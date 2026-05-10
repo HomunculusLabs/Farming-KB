@@ -139,7 +139,6 @@ north as Alaska and Siberia, and as far south as Chile and New Zealand.
 Notable gaps in distribution records exist for Korea, Malaysia, Hawaii,
 Costa Rica, and many regions of Africa — likely reflecting
 under-collection rather than true absence.
-
 ## Related Topics
 
 - [[neurotropic-fungi-chemical-groups-classification]] — chemical

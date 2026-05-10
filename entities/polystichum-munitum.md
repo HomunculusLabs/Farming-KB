@@ -12,7 +12,7 @@ date: 2026-05-09
 updated: 2026-05-09
 sources:
   - Klinkenberg, B. (2020). "Polystichum munitum." Flora of British Columbia.
-  - Wagner, W.H. Jr. & Flagg, R.O. (2004). "Polystichum." Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 2.
+  - Wagner, W.H. Jr. & Flagg, R.O. (2004). "Polystichum." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
   - Pojar, J. & MacKinnon, A. (1994). Plants of the Pacific Northwest Coast. Lone Pine Publishing.
   - Jones, D.L. (1987). Encyclopedia of Ferns. Timber Press.
 ---

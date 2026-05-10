@@ -115,7 +115,6 @@ precision. Agar melts at approximately 185 degrees Fahrenheit (85 degrees
 Celsius) and solidifies at 100 to 110 degrees Fahrenheit (38 to 43 degrees
 Celsius), which allows it to be sterilized as a liquid, poured into plates
 or slants, and cooled to form a firm gel. This temperature gap between
-melting and solidifying is what makes agar uniquely useful: it can be melted
 ## See Also
 
 - [[grain-spawn-preparation]]

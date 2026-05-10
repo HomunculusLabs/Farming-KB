@@ -130,8 +130,8 @@ ayahuasca tourists should consider:
    sitter could provide "a far more enlightening" experience at lower cost.
 
 ## See Also
-
-- [[ayahuasca-ceremony-practices]] — How ceremonies are structured
+- [[ayahuasca-ceremony-practices]]
+- [[ayahuasca-tourism-ethics]]
 
 ## References
 

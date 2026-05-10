@@ -1,9 +1,9 @@
 ---
-title: Mushroom Cultivation Contaminant Identification
+title: [[mushroom-cultivation]] Contaminant Identification
 created: 2026-05-09
 tags: [mycology, cultivation, contamination, sterilization, pathology]
 date: 2026-05-09
-aliases: [Mushroom Contamination, PF Tek Contaminants, Fungal Contamination ID]
+aliases: [Mushroom Contamination, [[pf-tek]] Contaminants, Fungal Contamination ID]
 ---
 
 # Mushroom Cultivation Contaminant Identification
@@ -29,7 +29,7 @@ Contaminants enter the cultivation process from several vectors:
    be sterile.
 5. **The cultivator:** Skin, breath, and clothing carry enormous numbers of microbial
    organisms. Working quickly and in a clean area minimizes this risk.
-6. **Water:** Non-sterile water used in substrate preparation can introduce bacteria.
+6. **Water:** Non-sterile water used in [[substrate-preparation]] can introduce bacteria.
 
 ## Common Bacterial Contaminants
 
@@ -52,7 +52,7 @@ Contaminants enter the cultivation process from several vectors:
 - **Prevention:** Ensure proper substrate moisture content and adequate sterilization
   time
 - **Action:** The jar is lost — bacterial contamination cannot be treated. Dispose
-  of the contaminated jar without opening it to prevent spore dispersal
+  of the contaminated jar without opening it to prevent [[spore-dispersal]]
 
 ## Common Fungal Contaminants
 
@@ -85,7 +85,7 @@ Contaminants enter the cultivation process from several vectors:
 - **Identification:** The mycelium is very fine (like cobwebs), grows rapidly across
   surfaces, and has a grayish rather than pure white appearance
 - **Cause:** High humidity combined with poor fresh air exchange creates conditions
-  favorable for cobweb mold in the fruiting chamber
+  favorable for cobweb mold in the [[fruiting-chamber]]
 - **Prevention:** Maintain proper FAE (fresh air exchange), avoid excessive humidity
   condensation on mushroom surfaces
 - **Action:** Can sometimes be treated by reducing humidity and increasing air
@@ -142,7 +142,6 @@ Not all failures are contamination. Sometimes spores fail to germinate entirely:
 - **Cobweb mold on fruiting cake:** Reduce humidity, increase FAE
 - **Green mold (Trichoderma) anywhere:** Discard immediately, isolate area
 - **No growth after 14 days:** Wait 7 more days, then likely non-viable spores
-
 ## See Also
 
 - [[pf-tek-substrate-formula]]

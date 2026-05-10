@@ -132,7 +132,7 @@ Effects begin within 2–5 minutes when smoked or vaporized. The onset is notabl
 ### Reported Effects (Positive)
 ## See Also
 
-- [[jealousy]]
+- jealousy cannabis strain entity
 
 - [[starfighter]]
 

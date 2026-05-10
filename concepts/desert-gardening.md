@@ -1,11 +1,10 @@
 ---
-title: comparison-desert-gardening-vs-drought-gardening
+title: Desert Gardening
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, climate, water-management, cacti, plants, conservation, design]
-sources:
-  sources: []
+sources: []
 ---
 
 # Desert Gardening
@@ -29,7 +28,7 @@ Solar radiation in deserts is among the highest on Earth. UV intensity at elevat
 Desert soils are typically:
 
 - High pH (7.5-8.5 or higher)
-- Low in [[hamilton-composting-and-organic-matter-management]] (often under 1%)
+- Low in organic matter (often under 1%)
 - High in calcium carbonate (caliche layers common)
 - Saline due to low rainfall and high evaporation
 - Low in nitrogen, phosphorus, and micronutrients (especially iron and zinc)
@@ -87,10 +86,10 @@ Strategic use of shade, windbreaks, and thermal mass can create favorable microc
 ### Cacti and Succulents
 Naturally adapted to arid conditions through water storage tissues and reduced leaf surface area:
 
-- **[[comparison-agave-vs-prickly-pear-cultivation]] (Opuntia spp.)**: Edible pads (nopales) and fruit (tunas); cold-hardy varieties survive to -20°F
+- **Prickly pear (Opuntia spp.)**: Edible pads (nopales) and fruit (tunas); cold-hardy varieties survive to -20°F
 - **Saguaro**: Iconic Sonoran Desert cactus; protected species in many areas
 - **Agave**: Multi-use plant for food, fiber, and landscaping; many species cold-hardy to 10°F
-- **Aloe vera**: Medicinal succulent; requires [[holzer-frost-protection-techniques]] in most deserts
+- **Aloe vera**: Medicinal succulent; requires frost protection in most deserts
 - **Barrel cactus**: Water storage, ornamental value
 
 See [[psychoactive-cacti-guide|cacti]] for detailed species profiles.
@@ -121,7 +120,7 @@ Desert gardens excel with cool-season crops grown fall through spring:
 
 - Leafy greens: lettuce, spinach, chard, kale (September-March)
 - Root vegetables: carrots, beets, radishes, turnips
-- Cole crops: broccoli, cabbage, cauliflower (plant in September for [[coleman-claytonia-winter-harvest-cultivation]])
+- Cole crops: broccoli, cabbage, cauliflower (plant in September for winter harvest)
 - Peas: Plant in October for winter/spring harvest
 - Garlic and onions: Plant in October-November for summer harvest
 
@@ -138,13 +137,14 @@ Building soil organic matter in deserts is challenging but essential:
 ### Soil Amendments
 - **Sulfur**: Lowers pH in alkaline soils (apply 5-10 lbs per 100 sq ft; takes months)
 - **Gypsum**: Improves soil structure in sodic soils without changing pH
-- **[[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]**: Adds organic matter and nutrients; use aged manure to avoid salt burn
+- **Composted manure**: Adds organic matter and nutrients; use aged manure to avoid salt burn
 - **Worm castings**: Gentle fertilizer with beneficial microbes; use as top-dressing
 - **Chelated iron**: Corrects iron chlorosis common in alkaline soils
 
 ### Caliche Management
 Caliche is a hardened calcium carbonate layer common in desert soils:
-## Related
 
-- [[coastal-gardening]]
-- [[tropical-gardening]]
+- If within 12 inches of surface, break through with pickaxe or jackhammer
+- Create raised beds above the caliche layer
+- Plant in containers or raised beds where caliche is too deep to penetrate
+

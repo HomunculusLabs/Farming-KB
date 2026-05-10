@@ -14,7 +14,7 @@ sources:
     Fungiflora, Oslo, 1986.
   - Ryvarden L, Gilbertson RL. "North American Polypores, Vol. 2."
     Fungiflora, Oslo, 1987.
-  - Overholts LO. "The Polyporaceae of the [[dmt-containing-plants-united-states-halpern]], Alaska,
+  - Overholts LO. "The Polyporaceae of the dmt-containing-plants-united-states-halpern, Alaska,
     and Canada." University of Michigan Press, 1953.
   - Cunningham GH. "The Polyporaceae of New Zealand." DSIR
     Bulletin, 1965.

@@ -49,32 +49,37 @@ The actual mechanism likely involves a combination of these factors. Importantly
 | 2034 | II | 17-year | CT, MD, NC, VA |
 | 2035 | XIV | 17-year | [[histoplasma-capsulatum-ohio-valley-disease-dimorphic-fungus]], PA, WV |
 
+## Brood Dynamics and Extinction
+
+Not all periodical cicada broods are secure. Several historical broods
+have gone extinct or are in decline. Brood XI, last recorded in 1954
+in the Connecticut River Valley, is now considered extinct, likely due
+to habitat loss from agricultural development and urbanization. Brood
+VII in upstate New York has contracted significantly from its historical
+range. Small, isolated broods are especially vulnerable because they
+cannot achieve effective predator satiation when population density
+drops below a critical threshold. Conservation concerns for periodical
+cicadas focus on preserving the mature forest habitats that support
+dense nymphal populations, as clearing forest canopy disrupts the soil
+temperature regimes and root systems that nymphs depend on during their
+long underground development.
+
+## Ecological Impact of Emergence Events
+
+Periodical cicada emergences are keystone ecological events. The
+simultaneous appearance of billions of adults creates a massive pulse
+of biomass that ripples through the food web. Above ground, birds,
+mammals, reptiles, and fish feast on adults, and population booms have
+been documented in predator species during emergence years. Below
+ground, the mass die-off of post-reproductive adults and subsequent
+nymphal molts deposit enormous quantities of nitrogen and carbon into
+the soil. Studies have shown that forest tree growth increases
+significantly in the years following a cicada emergence due to this
+nutrient injection. The emergence tunnels created by nymphs exiting the
+soil also improve soil aeration and water infiltration, creating
+beneficial conditions for root growth and microbial activity.
+
 ## See Also
 
-- cicadas [[endophytic-fungi-biology-ecology-taxonomic-diversity]] and [[ethnomycology-cultural-significance-sacred-fungi]]
-- 
-- 
-- 
-
-## See Also
-- holmgren-emergence-and-long-term-cycles
-- cotter-mushroom-life-cycle-mycelium-biology
-
-## Practical Considerations
-
-Successful implementation of Why Do Periodical Cicadas Emerge in 13- and 17-Year Cycles? requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+- [[comparison-cicadas-vs-locusts]]
+- cicadas biology ecology and cultural significance

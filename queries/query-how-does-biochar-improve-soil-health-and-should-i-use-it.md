@@ -75,3 +75,5 @@ This is spirulina's biggest weakness for direct human consumption. The strong, e
 - Aquaponics provides fish and vegetables; see [[natural-farming-imo-collection-and-cultivation]] — detailed spirulina [[comparison-bean-growing-guide-vs-pepper-growing-guide]]
 - [[jadam-livestock-integration-and-manure-management]] — aquatic plant protein systems
 - [[query-how-to-use-aquaponics-to-grow-herbs-and-vegetables]] — integrated fish and [[dry-gardening-unirrigated-vegetable-production-solomon]]
+
+For further reading, see [[query-how-to-start-a-small-scale-snail-farm]].

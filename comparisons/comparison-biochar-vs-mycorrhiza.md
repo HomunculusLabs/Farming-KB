@@ -71,3 +71,19 @@ continuously through glomalin production and hyphal growth and turnover. See
 and [[mycorrhiza]] are also essential in low-fertility soils
 where their nutrient-mining capacity compensates for limited available
 nutrients. See [[biochar-and-fungi]] for detailed interaction mechanisms and
+
+## Key Differences at a Glance
+
+| Feature | Biochar | Mycorrhiza |
+|---|---|---|
+| Nature | Inert carbon structure | Living fungal symbiont |
+| Persistence | Hundreds to thousands of years | Seasonal; requires living roots |
+| Primary function | Nutrient retention, soil structure | Nutrient mining, plant-fungi exchange |
+
+## Synergistic Combination
+
+Biochar and mycorrhizal fungi are complementary rather than competing
+strategies. Biochar provides physical habitat for mycorrhizal hyphae, with its
+pore structure offering protected pathways through soil. Studies show that
+biochar amendment can increase mycorrhizal colonization rates by 20-40% in
+some soils. See [[arbuscular-mycorrhizal-fungi]] for inoculation protocols.

@@ -9,7 +9,7 @@ sources:
   - "Clements FE (1916) — Plant Succession: An Analysis of the Development of Vegetation"
   - "Connell & Slatyer (1977) — Mechanisms of Succession in Natural Communities, American Naturalist"
   - "Toensmeier E (2016) — The Carbon Farming Solution"
-  - "Jacke & Toensmeier (2005) — Edible [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]], Vol 1 & 2"
+  - "Jacke & Toensmeier (2005) — Edible bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests, Vol 1 & 2"
   - "USDA NRCS — Soil Health and Ecological Principles"
   - "Shepherd J (2015) — Restoration Agriculture"
 type: query

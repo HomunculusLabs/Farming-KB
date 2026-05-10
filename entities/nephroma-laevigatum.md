@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - White F.J., James P.W. (1985). "A new guide to microchemical techniques for the identification of lichen substances." British Lichen Society, London.
   - Jørgensen P.M., Galloway D.J. (1992). "Nephromataceae." Flora of Australia 54: 322-331.
-  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of [[psilocybin-north-america-pacific-northwest]]." Yale University Press.
+  - Brodo I.M., Sharnoff S.D., Sharnoff S. (2001). "Lichens of psilocybin-north-america-pacific-northwest." Yale University Press.
   - Goward T. (1999). "The Lichens of British Columbia: Macrolichens." Ministry of Forests, Victoria.
 ---
 

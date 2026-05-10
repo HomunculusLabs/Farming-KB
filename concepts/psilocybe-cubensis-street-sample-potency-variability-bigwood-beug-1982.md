@@ -111,6 +111,8 @@ Based on the documented variability, several harm-reduction recommendations emer
 
 ## See Also
 
+- [[psilocybe-cubensis-street-sample-potency-variability-bigwood-beug-1982-detailed]]
+
 - [[dosage-unpredictability-psilocybin-subjective-experience]]
 - [[psilocybin-psilocin-variation-flushes-cubensis]]
 - [[hplc-analysis-psilocybin-psilocin-mushroom-tissue]]

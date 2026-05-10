@@ -36,7 +36,7 @@ Most permaculture techniques are designed to accelerate natural succession and m
 ### Nurse Plants
 Nurse, scaffold, and chaperone plants help young or tender species establish:
 - **Nitrogen fixers** (New Mexico locust, Russian olive, Siberian pea shrub, tagasaste): Build soil and shelter young fruit trees
-- **Pioneer species**: Fast-growing plants that create shade and [[cervantes-wind-protection-outdoor-cannabis]]
+- **Pioneer species**: Fast-growing plants that create shade and wind protection
 - At Jerome Osentowski's Central Rocky Mountain Permaculture Institute, nitrogen-fixing nurse plants were planted first, then fruit trees were placed in their shelter
 - At Roxanne Swentzell's garden in New Mexico desert, Russian olives and Siberian pea shrubs created the initial shade that allowed fruit trees to survive
 
@@ -53,13 +53,13 @@ Joel Glanzberg described this at Roxanne Swentzell's garden: "We'd work on creat
 After 3-5 years of establishment, ecological gardens often undergo a dramatic transformation — the system suddenly "pops" into vigorous life. Hemenway observed this at multiple sites:
 - Roxanne Swentzell's New Mexico desert garden popped in year 5
 - The Bullock brothers' Orcas Island food forest popped after several years
-- Hemenway's own Oregon garden popped after 5 years of [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] and dense planting
+- Hemenway's own Oregon garden popped after 5 years of sheet mulching and dense planting
 
 **What happens during the pop:**
 - Soil organisms reach critical mass, cycling nutrients rapidly
 - Shade from maturing trees retains moisture and creates benign microclimates
 - Leaf litter builds humus that stores minerals and water
-- [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and birds arrive and establish predator-prey balance
+- Beneficial insects and birds arrive and establish predator-prey balance
 - Plants that struggled for years suddenly grow several feet in a season
 - The garden shifts from needing imports to generating its own fertility
 
@@ -69,7 +69,7 @@ Understanding succession means understanding this fundamental cycle:
 
 1. **Producers** (plants) harvest sunlight and create biomass
 2. **Consumers** (animals, insects) eat plant material, convert to manure
-3. **Decomposers** (worms, bacteria, fungi) break down [[hamilton-composting-and-organic-matter-management]] into available nutrients
+3. **Decomposers** (worms, bacteria, fungi) break down organic matter into available nutrients
 4. Nutrients cycle back to producers
 
 In most conventional gardens, decomposers are few and weak, which constricts the vigor of producers and consumers. [[sheet-mulching]] and [[permaculture-animal-integration]] ramp up all three components simultaneously.
@@ -113,7 +113,7 @@ Hemenway advises pragmatism: "Using nonrenewable resources to create a landscape
 - [[permaculture-animal-integration]] — Animals complete the producer-consumer-decomposer cycle
 - [[gaia-garden-plant-guilds]] — Plant communities that mimic natural succession
 - [[gaias-garden-methods]] — Home-scale permaculture methods
-- [[permaculture-design-methods]] — [[mollison-climate-site-analysis-permaculture]] and design assembly
-- [[permaculture-zones-in-practice]] — [[mollison-course-zone-planning-and-design]] for garden assembly
+- [[permaculture-design-methods]] — Site analysis and design assembly
+- [[permaculture-zones-in-practice]] — Zone planning for garden assembly
 - [[soil-food-web-nutrient-cycling]] — The decomposer foundation of succession
 - [[edge-effect-and-microclimate]] — Creating benign microclimates for establishment

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Farjon, A. (2005). "A Monograph of Cupressaceae and Sciadopitys." Royal Botanic Gardens, Kew.
-  - Bartel, J.A. (1993). "Cupressus macrocarpa." In: "Flora of [[psilocybin-north-america-pacific-northwest]]," Vol. 2, Oxford University Press.
+  - Bartel, J.A. (1993). "Cupressus macrocarpa." In: "Flora of psilocybin-north-america-pacific-northwest," Vol. 2, Oxford University Press.
   - Griffen, K.R. (1968). "Cupressus macrocarpa (Monterey Cypress): A Literature Review." USDA Forest Service.
   - Thomas, P. (2011). "Cupressus macrocarpa." IUCN Red List of Threatened Species.
   - New Zealand Forest Research Institute (2005). "Cypress Timber Species Manual."
@@ -102,6 +102,8 @@ The species is hardy to approximately -15°C (USDA zone 8) but is susceptible to
 The Leyland cypress (*× Cupressocyparis leylandii*), a fertile hybrid between C. macrocarpa and Nootka cypress (*Callitropsis nootkatensis*), is one of the most widely planted hedging plants in the world. First raised in Wales in 1888, it inherits the rapid growth of Monterey cypress and the [[coleman-cold-hardiness-testing-ratings]] of Nootka cypress, making it adaptable to a broader range of climates than either parent.
 
 ## See Also
+
+- [[cupressus-arizonica]]
 
 - [[pinus-sylvestris]]
 - [[taxus-baccata]]

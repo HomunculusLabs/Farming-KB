@@ -98,6 +98,6 @@ is needed.
 
 - [[rotational-transition-water-dipole-microwave-sterilization-physics]]
 
-- [[microwave-water-interaction-2.45-ghz]]
+- [[microwave-water-interaction-2-45-ghz]]
 
 - [[microwave-trace-water-surface-sterilisation-protocol]]

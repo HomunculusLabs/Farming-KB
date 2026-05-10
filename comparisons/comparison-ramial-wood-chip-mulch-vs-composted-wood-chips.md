@@ -136,13 +136,9 @@ Composted wood chips are wood chips that have undergone a controlled aerobic dec
 ### Vegetable Gardens (Annual Beds)
 
 **Winner: Composted wood chips.**
+
 ## See Also
-
 - [[ramial-chipped-wood]]
-
 - [[cation-exchange-capacity]]
 - [[decomposition]]
-
-## See Also
-
 - [[comparison-broadfork-vs-chisel-plow]]

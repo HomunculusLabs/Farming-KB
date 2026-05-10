@@ -1,5 +1,5 @@
 ---
-title: allegro-amanita-muscaria-properties-and-pharmacology psilocybin-psilocin-chemistry-and-pharmacology-emcdda
+title: Amanita Muscaria Chemistry and Pharmacology
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Amanita muscaria, the fly-agaric, contains a unique pharmacological profile distinct from the psilocybin-containing mushrooms. Its primary psychoactive compounds are [[amanita-muscaria-muscimol-ibotenic-acid-pharmacology]] and muscimol, which act on the glutamate and GABA neurotransmitter systems respectively -- fundamentally different from the serotonergic mechanism of psilocybin.
+Amanita muscaria, the fly-agaric, contains a unique pharmacological profile distinct from the psilocybin-containing mushrooms. Its primary psychoactive compounds are ibotenic acid and muscimol, which act on the glutamate and GABA neurotransmitter systems respectively -- fundamentally different from the serotonergic mechanism of psilocybin. (see [[amanita-muscaria-pharmacology-dosing-guide]]).
 
 ## Primary Active Compounds
 
@@ -22,8 +22,8 @@ Amanita muscaria, the fly-agaric, contains a unique pharmacological profile dist
 - **Formula**: C5H6N2O4, molecular weight 158.11
 - **Appearance**: Colorless crystals, melting point 150-152 deg. C (decomposition)
 - **Solubility**: Readily soluble in cold water
-- **Pharmacology**: A conformationally restricted derivative of glutamic acid, the major excitatory neurotransmitter in the mammalian central nervous system. Acts on glutamate receptors implicated in neurological disorders such as epilepsy and Huntington's disease.
-- **Note**: Any attempt at dehydration leads to decarboxylation, yielding muscimol quantitatively.
+- **Pharmacology**: A conformationally restricted derivative of glutamic acid, the major excitatory neurotransmitter in the mammalian central nervous system. Acts on glutamate receptors implicated in neurological disorders such as epilepsy and Huntington's disease. (see [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]).
+- **Note**: Any attempt at dehydration leads to decarboxylation, yielding muscimol quantitatively. (see [[dm-reference]]).
 
 ### Muscimol
 
@@ -42,7 +42,7 @@ Amanita muscaria, the fly-agaric, contains a unique pharmacological profile dist
 
 ## Pharmacological Relationship
 
-Ibotenic acid and muscimol are respectively conformationally restricted derivatives of glutamic acid and GABA. This dual relationship to the brain's primary excitatory and inhibitory systems is unique among psychoactive mushrooms. The conversion of ibotenic acid to muscimol through dehydration (decarboxylation) is the basis for the [[kava-traditional-preparation-ceremonial-context]] methods that render the mushroom safely psychoactive.
+Ibotenic acid and muscimol are respectively conformationally restricted derivatives of glutamic acid and GABA. This dual relationship to the brain's primary excitatory and inhibitory systems is unique among psychoactive mushrooms. The conversion of ibotenic acid to muscimol through dehydration (decarboxylation) is the basis for the traditional preparation methods that render the mushroom safely psychoactive.
 
 According to Michelot and Melendez-Howell: "Ibotenic acid, and particularly muscimol, have to be regarded as the substances responsible for the psychotropic action of Amanita muscaria. The effects of both substances are similar but not identical to the effect of the fungus in toto."
 
@@ -52,31 +52,9 @@ The two major chemicals found in A. muscaria are closely related to known antibi
 
 ## Toxicity
 
-Amanita muscaria is commonly considered poisonous, yet reliable recorded fatalities are "extremely rare, even when consumed fresh in large quantities." The [[blesching-cannabis-safety-adverse-effects-evidence]] of fresh consumption (nausea, disorientation, agitation) are primarily due to ibotenic acid content, which is substantially reduced through proper preparation.
+Amanita muscaria is commonly considered poisonous, yet reliable recorded fatalities are "extremely rare, even when consumed fresh in large quantities." The adverse effects of fresh consumption (nausea, disorientation, agitation) are primarily due to ibotenic acid content, which is substantially reduced through proper preparation.
 
 ## Related Concepts
 
-- [[amanita-muscaria-preparation-methods]] -- how traditional users rendered it safe
+- [[amanita-preparation-methods]] -- how traditional users rendered it safe
 - [[soma-and-the-sacred-mushroom-debate]] -- the Wasson/Amanita-Soma theory
-
-## See Also
-
-- [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
-## Practical Considerations
-
-Successful implementation of Amanita Muscaria Chemistry and Pharmacology requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

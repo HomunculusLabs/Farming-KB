@@ -5,7 +5,6 @@ updated: 2026-04-14
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Pinhead Initiation Techniques

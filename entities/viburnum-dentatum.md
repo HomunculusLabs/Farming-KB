@@ -100,6 +100,8 @@ Compared to nannyberry, arrowwood has smaller fruit, more coarsely toothed leaf 
 
 ## See Also
 
+- [[viburnum-acerifolium]]
+
 - [[viburnum-lentago]]
 - [[sambucus-canadensis]]
 - [[vaccinium-corymbosum-entity]]

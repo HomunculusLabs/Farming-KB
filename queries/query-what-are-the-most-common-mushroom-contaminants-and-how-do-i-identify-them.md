@@ -62,4 +62,27 @@ Use heirloom or open-pollinated varieties when possible to preserve genetic dive
 
 ---
 
+## Companion Planting Benefits Beyond the Three Sisters
+
+The Three Sisters guild can be enhanced with additional companion plants that provide pest management, nutrient cycling, or pollination services:
+
+- **Sunflowers (Helianthus annuus)**: Planted on the north side of mounds to avoid shading the corn, sunflowers attract pollinators and their seeds provide an additional harvest. Their strong stalks can also serve as a secondary climbing support.
+- **Nasturtiums (Tropaeolum majus)**: Act as a trap crop for aphids and repel squash bugs when planted at the mound edges. Their edible flowers and leaves add culinary value.
+- **Amaranth (Amaranthus spp.)**: A traditional fourth companion in some Indigenous American systems, amaranth provides edible greens and grain while its deep taproot brings nutrients from subsoil layers.
+- **Radishes**: Fast-maturing radishes sown between mounds can help break compacted soil and provide an early harvest before the squash canopy closes.
+
+## Harvest Timing and Techniques
+
+Harvest timing varies by crop within the same mound:
+
+- **Corn**: Harvest sweet corn when silks are brown and kernels exude milky juice when pressed. For flour and field corn, allow ears to fully mature and dry on the stalk until husks are papery.
+- **Beans**: Harvest pole beans continuously during peak production to encourage further flowering. For dry beans, allow pods to mature fully on the vine until rattling dry.
+- **Squash**: Summer squash (zucchini, crookneck) should be harvested small for best flavor and to encourage continued production. Winter squash and pumpkins are ready when the rind resists thumbnail pressure and the stem is woody and dry.
+
+## Historical and Cultural Context
+
+The Three Sisters system originated with Indigenous peoples of the Northeastern Woodlands and Haudenosaunee (Iroquois) nations, where it was central to agricultural practice for centuries. The Haudenosaunee creation story describes the Three Sisters as gifts from the Creator, and the planting ceremony remains an important cultural practice. Archaeological evidence from sites in New York and Ontario dates the polyculture system to at least 1300 CE, though the practice likely extends much further back. The system spread across eastern North America through trade and cultural exchange, with regional adaptations reflecting local climate and soil conditions.
+
+---
+
 *Related: companion planting and polycultures · [[mollison-designers-cover-crops-and-green-manure-species]] · [[query-how-do-i-design-and-plant-a-living-fence]]

@@ -119,3 +119,4 @@ weeks of twig fall. It is frequently found alongside [[coprinus-comatus| Coprinu
 - [[pleurotus-ostreatus]]
 - [[agaricus-xanthodermus]]
 - [[stropharia-rugosoannulata]]
+- [[pseudevernia-furfuracea]]

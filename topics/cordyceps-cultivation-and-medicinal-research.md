@@ -88,7 +88,6 @@ methods, and future directions.
 ### Taxonomic Revisions
 
 The taxonomy of Cordyceps underwent a significant revision in 2007 based on
-molecular phylogenetic analysis. The traditional genus was split into two genera
 ## See Also
 
 - [[cordyceps-and-entomopathogenic-fungi]]: Overview of Cordyceps taxonomy,

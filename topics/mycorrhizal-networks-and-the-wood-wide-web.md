@@ -135,7 +135,6 @@ Mycorrhizal networks play critical roles in forest succession:
 - **Early succession:** AMF-dominated networks facilitate herbaceous and grassland communities, promoting soil development and nutrient cycling
 - **Mid-succession:** As woody species establish, ECM networks begin to form, gradually replacing AMF dominance in the soil community
 - **Late succession:** Mature forests develop extensive ECM networks that connect canopy trees, understory plants, and seedlings into a single integrated system
-
 ## See Also
 
 - The Soil Food Web — the broader community of organisms that mycorrhizal networks are embedded within

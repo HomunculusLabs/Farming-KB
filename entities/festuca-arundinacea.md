@@ -13,7 +13,7 @@ sources:
   - Sleper, D.A. & Buckner, R.C. (1995). "The Fescues." Crop Science Society of America.
   - Bouton, J.H. (2009). "Endophyte-infected tall fescue and its use in sustainable agriculture." In Neotyphodium in Cool-Season Grasses.
   - Wang, J. et al. (2019). "Genomic insights into the origin and evolution of tall fescue." Plant Biotechnology Journal.
-  - Bush, L.P. & Fannin, F.F. (2009). "[[ergot-alkaloid-chemistry-history]] of endophyte-infected tall fescue." In Fescue Toxicosis.
+  - Bush, L.P. & Fannin, F.F. (2009). "ergot-alkaloid-chemistry-history of endophyte-infected tall fescue." In Fescue Toxicosis.
 ---
 
 ## Overview

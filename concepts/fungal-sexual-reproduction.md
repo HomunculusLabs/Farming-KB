@@ -1,5 +1,5 @@
 ---
-title: Fungal fungal-life-cycles-sexual-reproduction-metamorphosis and Mating
+title: Fungal Sexual Reproduction and Mating
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,13 +13,13 @@ How fungi find partners, fuse, exchange genetic material, and produce sexual spo
 
 ## Overview
 
-Unlike animals and plants with obvious male/female distinction, fungi use complex mating type systems. The visible mushroom is the endpoint of a sexual process that began with hyphal fusion underground.
+Unlike animals and plants with obvious male/female distinction, fungi use complex mating type systems. The visible mushroom is the endpoint of a sexual process that began with hyphal fusion underground. (see [[fungal-life-cycles-sexual-reproduction-metamorphosis]]).
 
 ## Mating Type Systems
 
 Fungi use molecular "ID tags" (mating type genes, or MAT loci) rather than sexes:
 
-**Heterothallic species** require two different mating types to reproduce sexually. In bipolar systems (2 mating types), compatibility is determined by a single MAT locus with two alleles (think of it as two "sexes"). In tetrapolar systems (thousands of mating types), compatibility requires differences at two unlinked loci. Schizophyllum commune, a common bracket fungus, has over 28,000 different mating types — virtually any two individuals from different populations are compatible.
+**Heterothallic species** require two different mating types to reproduce sexually. In bipolar systems (2 mating types), compatibility is determined by a single MAT locus with two alleles (think of it as two "sexes"). In tetrapolar systems (thousands of mating types), compatibility requires differences at two unlinked loci. Schizophyllum commune, a common bracket fungus, has over 28,000 different mating types — virtually any two individuals from different populations are compatible. (see [[mushroom-hybridization-art]]).
 
 **Homothallic species** are self-fertile — a single spore can complete the sexual cycle alone.
 
@@ -35,7 +35,7 @@ The system is analogous to yeast mating (a-factor and alpha-factor) but operates
 
 ## Hyphal Fusion (Plasmogamy)
 
-Compatible hyphae fuse their cells (plasmogamy), allowing cytoplasmic mixing. In many basidiomycetes, nuclei from the two parents coexist without immediately fusing (dikaryon stage). This dikaryotic mycelium can persist and grow for extended periods, forming the bulk of the visible fungal organism. Only when conditions trigger fruiting [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]] do the nuclei finally fuse (karyogamy) and undergo meiosis to produce spores.
+Compatible hyphae fuse their cells (plasmogamy), allowing cytoplasmic mixing. In many basidiomycetes, nuclei from the two parents coexist without immediately fusing (dikaryon stage). This dikaryotic mycelium can persist and grow for extended periods, forming the bulk of the visible fungal organism. Only when conditions trigger fruiting body formation do the nuclei finally fuse (karyogamy) and undergo meiosis to produce spores.
 
 ## Fruiting Body Development
 
@@ -53,28 +53,10 @@ Palmer noted in 1894 that "the very name cryptogamy shows our ignorance; the sec
 
 ## The Spawn Mystery
 
-Palmer observed that spores thrown on ground rarely produced mushrooms: "I have thrown the refuse of hundreds of fungi [on soil], and the soil must have received millions of spores, yet not a toadstool of any kind has ever grown there." The transition from spore to mycelium (spawn) remains one of the more poorly understood aspects of [[bloomfield-fungal-biology-and-hyphal-growth]], with many species requiring specific conditions for successful germination and colonization.
+Palmer observed that spores thrown on ground rarely produced mushrooms: "I have thrown the refuse of hundreds of fungi [on soil], and the soil must have received millions of spores, yet not a toadstool of any kind has ever grown there." The transition from spore to mycelium (spawn) remains one of the more poorly understood aspects of fungal biology, with many species requiring specific conditions for successful germination and colonization.
 
 See also: [[fungal-biology-fundamentals]] | [[fungal-spore-biology]] | [[nineteenth-century-mushroom-cultivation]]
 
 ## Related
 
 - [[mushroom-cultivation-basics]]
-## Practical Considerations
-
-Successful implementation of Fungal Sexual Reproduction and Mating requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

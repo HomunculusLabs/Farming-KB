@@ -25,7 +25,7 @@ sources:
 
 TMA is a potent, mood-variable psychedelic that was the first totally synthetic phenethylamine found active in man:
 
-- At 135 mg: no nausea (unlike [[mescaline-entity]] but good humor and over-appreciation of jokes. Remarkable eyes-closed imagery tied to music. Irritated by other people's conversations. Equated to 300-350 mg [[set-and-setting]]
+- At 135 mg: no nausea (unlike [[mescaline]] but good humor and over-appreciation of jokes. Remarkable eyes-closed imagery tied to music. Irritated by other people's conversations. Equated to 300-350 mg [[set-and-setting]]
 
 - Nausea, while less than with mescaline, can still occur particularly at higher doses
 

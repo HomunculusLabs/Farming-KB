@@ -4,9 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [agriculture, regenerative, cover-crop, nutrient-cycling, soil, plant-systems, permaculture, living-soil]
-sources:
-  sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 # Crop Rotation Principles
@@ -15,7 +13,7 @@ Crop rotation is the practice of growing different types of crops in sequential 
 
 ## Rotation Families
 
-Group crops by botanical family to ensure that related crops with similar [[hamilton-pest-and-disease-control-organic]] profiles do not follow each other. A minimum 3-year rotation between same-family crops is recommended; 4 years is better.
+Group crops by botanical family to ensure that related crops with similar pest and disease profiles do not follow each other. A minimum 3-year rotation between same-family crops is recommended; 4 years is better.
 
 ### Brassicaceae (Brassicas)
 
@@ -35,7 +33,7 @@ Onions, garlic, leeks, shallots, chives. Shallow-rooted, moderate feeders. Susce
 
 ### Cucurbitaceae (Cucurbits)
 
-Cucumbers, squash, pumpkins, melons, zucchini, gourds. Heavy feeders with extensive vines. Susceptible to [[cervantes-powdery-mildew-prevention-treatment]], cucumber beetles, squash bugs, and vine borers. See [[insect-allies]] for squash bug management.
+Cucumbers, squash, pumpkins, melons, zucchini, gourds. Heavy feeders with extensive vines. Susceptible to powdery mildew, cucumber beetles, squash bugs, and vine borers. See [[insect-allies]] for squash bug management.
 
 ### Asteraceae (Composites)
 
@@ -43,7 +41,7 @@ Lettuce, endive, chicory, sunflowers, artichokes, Jerusalem artichokes. Generall
 
 ### Apiaceae (Umbellifers)
 
-Carrots, parsnips, celery, cilantro, dill, fennel, parsley. Often slow to germinate. Susceptible to carrot rust fly and various root diseases. Good companions for attracting [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] — see [[insect-allies]].
+Carrots, parsnips, celery, cilantro, dill, fennel, parsley. Often slow to germinate. Susceptible to carrot rust fly and various root diseases. Good companions for attracting beneficial insects — see [[insect-allies]].
 
 ### Lamiaceae (Mints)
 
@@ -97,7 +95,7 @@ Different crop families have different nutrient demands and contributions. Strat
 ### Example 4-Year Rotation with Nutrient Balance
 
 **Year 1 — Heavy Feeders (Tomatoes + Peppers)**
-- High N, P, K demand. Follow a legume cover crop. Apply compost at planting. See [[organic-fertilizer-recipes]] for [[cervantes-organic-amendments-chart]].
+- High N, P, K demand. Follow a legume cover crop. Apply compost at planting. See [[organic-fertilizer-recipes]] for organic amendments.
 
 **Year 2 — Light Feeders (Root Crops: Carrots, Beets, Onions)**
 - Moderate to low nutrient demand. The residual fertility from Year 1 compost and previous legume N release feeds these crops without additional inputs.
@@ -124,7 +122,7 @@ Rotate tall crops (corn, trellised tomatoes) with short crops (squash, root vege
 
 ### Include a Fallow or Cover Crop Year
 
-Devote at least one season per rotation cycle to cover crops or [[jeavons-green-manures-cover-crops]]. This rebuilds soil [[hamilton-composting-and-organic-matter-management]] and provides a clean break from disease cycles. See [[cover-cropping-guide]].
+Devote at least one season per rotation cycle to cover crops or green manures. This rebuilds soil organic matter and provides a clean break from disease cycles. See [[cover-cropping-guide]].
 
 ### Never Follow Same Family
 
@@ -142,9 +140,11 @@ This is the fundamental rule. Tomatoes should never follow potatoes (both Solana
 
 ### Comprehensive 4-Year Rotation with Cover Crops
 
-## Related Topics
+| Season | Year 1 | Year 2 | Year 3 | Year 4 |
+|--------|--------|--------|--------|--------|
+| Spring | Lettuce, peas | Tomatoes, peppers | Beans, cucumbers | Carrots, beets |
+| Summer | Tomatoes, peppers | Beans, squash | Cover crop (cowpeas) | Garlic (fall-planted) |
+| Fall | Cover crop (rye+vetch) | Cover crop (oats+clover) | Broccoli, kale | Cover crop (rye+clover) |
+| Winter | Cover crop holds | Cover crop winter-kills | Cover crop holds | Cover crop holds |
 
-- [[cover-cropping-guide]] for cover crop selection within rotations
-- [[green-manure-crops]] for fertility-building rotation entries
-- [[companion-planting-reference]] for beneficial plant pairings within rotation plots
-- [[companion-planting-reference]] for growing multiple crops simultaneously
+### Intensive Market Garden Rotation

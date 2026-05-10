@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Dairy Guide
 
-Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal for small-scale homesteading.
+Keeping dairy goats on the homestead provides a reliable supply of fresh milk, cheese, butter, yogurt, and cream. Goats are smaller, more manageable, and require less land and feed than dairy cows, making them the ideal dairy animal for small-scale homesteading. (see [[homestead-dairy-equipment]]).
 
 ## Choosing a Dairy Goat Breed
 
@@ -35,7 +35,7 @@ Keeping dairy goats on the homestead provides a reliable supply of fresh milk, c
 - Disadvantages: lower butterfat than Nubians
 
 ### LaMancha and Saanen
-LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy to handle, distinctive tiny ears. Saanen: 2-3 gallons/day (highest producer), 2.5-3% butterfat, 130-145 lbs. Calm temperament, efficient converters, but lower butterfat and sunburn-prone white skin.
+LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy to handle, distinctive tiny ears. Saanen: 2-3 gallons/day (highest producer), 2.5-3% butterfat, 130-145 lbs. Calm temperament, efficient converters, but lower butterfat and sunburn-prone white skin. (see [[goat-cheese-making]]).
 
 ## Getting Started
 
@@ -49,7 +49,7 @@ LaMancha: 1-2 gallons/day, 3.5-4% butterfat, 125-150 lbs. Extremely docile, easy
 - Minimum 15-20 square feet per goat indoors
 - Access to outdoor space: 200+ square feet per goat minimum
 - Bedding: straw, wood shavings, or deep bedding (composting pack)
-- Secure fencing: 4-5 foot woven wire fencing with electric offset. Goats are escape artists.
+- Secure fencing: 4-5 foot woven wire fencing with electric offset. Goats are escape artists. (see [[mollison-designers-goat-dairy-and-cheese-production]]).
 - Separate kidding area if breeding
 
 ### Feed
@@ -138,12 +138,13 @@ Aged cheeses require a cheese press, aging space, and more patience but produce 
 - Rennet (animal or microbial)
 - Starter cultures (mesophilic for fresh cheeses, thermophilic for aged cheeses)
 - Cheese mold (for shaping pressed cheeses)
-## Related Concepts
+- Cheese press (for aged cheeses): $50-200 or build your own
+- Aging space: cool (50-55F), humid (80-95% RH), well-ventilated
 
-- [[homesteading-income-streams]] -- [[mollison-designers-goat-dairy-and-cheese-production]] products as a revenue stream
-- animal husbandry for general goat care principles
-- [[food-fermentation-guide]] -- cheese and yogurt are both [[query-how-do-i-start-making-fermented-dairy-at-home]] products
+## Butter
 
-## See Also
+Goat milk butter is white (goats convert all beta-carotene to vitamin A, unlike cows) and delicious.
 
-- [[homestead-first-aid-guide]]
+1. Let fresh milk sit undisturbed in the refrigerator for 24-48 hours. Cream rises to the top.
+2. Skim the cream layer with a ladle (goat milk cream is lighter and more dispersed than cow cream -- a cream separator helps)
+3. Chill cream to 50-55F

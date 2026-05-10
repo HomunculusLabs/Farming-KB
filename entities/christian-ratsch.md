@@ -126,10 +126,6 @@ Christian Rätsch's influence on the modern ethnobotanical and psychedelic renai
 Christian Rätsch died on **September 9, 2022**, at the age of 65. His death was met with an outpouring of tributes from the global ethnobotanical community. He is remembered as a passionate, if sometimes polarizing, figure whose life's work helped to preserve and share humanity's ancient relationship with psychoactive plants.
 
 ## See Also
-
-- [[paul-stamets]] — Mycologist who similarly bridges academic and popular audiences
-- [[alexander-shulgin]] — Chemist who synthesized and documented hundreds of psychoactive compounds
-
-## See Also
-
+- [[paul-stamets]]
+- [[alexander-shulgin]]
 - [[shamanism-and-hallucinogenic-plants]]

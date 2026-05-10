@@ -115,6 +115,10 @@ Hybrids between the two species are common in cultivation and in areas where bot
 
 ## See Also
 
+- [[ravenea-rivularis]]
+
+- [[ceroxylon-quindiuense]]
+
 - [[cocos-nucifera]]
 - [[phoenix-dactylifera]]
 - [[sabal-palmetto]]

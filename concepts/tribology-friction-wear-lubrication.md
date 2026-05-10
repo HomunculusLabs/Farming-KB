@@ -5,8 +5,7 @@ tags: [engineering, materials-science, mechanics, lubrication, reliability]
 created: 2026-05-02
 updated: 2026-05-06
 type: concept
-sources:
-  sources: []
+sources: []
 ---
 
 ## Overview

@@ -120,6 +120,8 @@ Solomon recommends keeping simple records of soil temperature and planting dates
 
 ## See Also
 
+- [[solomon-cool-climate-compost-soil-temperature-nutrient-release]]
+
 - [[soil-temperature-plant-growth-rate-doubling-rule]]
 
 - [[solomon-seed-quality-and-germination-testing|Seed Germination Temperature]]

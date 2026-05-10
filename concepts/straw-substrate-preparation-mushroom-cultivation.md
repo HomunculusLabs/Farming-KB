@@ -33,6 +33,8 @@ leaving approximately 2cm of bag at the bottom for support.
 
 ## See Also
 
+- [[straw-substrate-pasteurization-methods-mushroom-cultivation]]
+
 - straw-substrate-boil-a-bag-cultivation-method
 - [[mushroom-humidity-chamber-design-operation]]
 

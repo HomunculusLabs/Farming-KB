@@ -6,8 +6,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - "Kentucky State University Pawpaw Program — https://kysu.edu/pawpaw/"
-  - "USDA NRCS Plant Guide: [[diospyros-virginiana]] — https://plants.usda.gov/home/plantProfile?symbol=DIVI5"
-  - "USDA NRCS Plant Guide: [[asimina-triloba]] — https://plants.usda.gov/home/plantProfile?symbol=ASTR"
+  - "USDA NRCS Plant Guide: diospyros-virginiana — https://plants.usda.gov/home/plantProfile?symbol=DIVI5"
+  - "USDA NRCS Plant Guide: asimina-triloba — https://plants.usda.gov/home/plantProfile?symbol=ASTR"
   - "Clemson Cooperative Extension: Persimmon — https://hgic.clemson.edu/factsheet/persimmon/"
   - "University of Kentucky Extension: Pawpaw — https://uky.edu/hort/pawpaw"
   - "North American Pawpaw Growers Association — https://www.pawpaw.org/"

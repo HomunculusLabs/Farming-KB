@@ -20,7 +20,7 @@ A mature forest garden occupies seven vertical layers:
 3. **Shrub layer** — berry bushes and medium shrubs (blueberry, currant, gooseberry, elderberry, raspberry)
 4. **Herbaceous layer** — perennial herbs, vegetables, and flowers (comfrey, artichoke, mint, sorrel, asparagus)
 5. **Ground cover layer** — low spreading plants that suppress weeds and protect soil (clover, creeping thyme, strawberries, mint)
-6. **Root layer** — edible root crops (horseradish, [[comparison-jerusalem-artichoke-vs-potato]], yacon, groundnut)
+6. **Root layer** — edible root crops (horseradish, Jerusalem artichoke, yacon, groundnut)
 7. **Vine layer** — climbing plants on trellises or up trees (grape, kiwi, hops, passionflower, climbing beans)
 
 ## Establishment Phases
@@ -65,10 +65,10 @@ Once the tree framework is established and the soil is improving, add the middle
 **What to plant:**
 - Berry shrubs in the understory and edges
 - Fruiting vines on trellises or along fence lines
-- [[comparison-perennial-vegetables-vs-cover-crops]] and herbs in the herbaceous layer
+- Perennial vegetables and herbs in the herbaceous layer
 - Ground covers between shrubs and trees
 - Root crops in designated areas
-- Additional nitrogen fixers and [[comparison-dynamic-accumulators-vs-cover-crops]]
+- Additional nitrogen fixers and dynamic accumulators
 - Pollinator-attracting flowers throughout
 
 **Management:**
@@ -76,7 +76,7 @@ Once the tree framework is established and the soil is improving, add the middle
 - Chop and drop nitrogen fixers and dynamic accumulators as mulch
 - Manage guild relationships — ensure pest confusers are near susceptible plants
 - Begin [[permaculture-chicken-tractors]] rotation in alleys between tree rows (if compatible)
-- Monitor [[hamilton-pest-and-disease-control-organic]] issues; intervene with ecological methods
+- Monitor pest and disease issues; intervene with ecological methods
 
 ### Phase 4: Filling and Connecting (Years 3-5)
 
@@ -98,7 +98,7 @@ The forest garden begins to function as a self-maintaining ecosystem. Management
 **Characteristics of a mature forest garden:**
 - Closed canopy shades the soil, reducing weed pressure
 - Deep root systems access water and minerals from multiple soil layers
-- [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] is largely internal — leaf fall, decomposition, and root exudates feed the system
+- Nutrient cycling is largely internal — leaf fall, decomposition, and root exudates feed the system
 - Pest and disease pressure is moderated by biodiversity and predator-prey balance
 - Multiple harvests per year across many species
 - Reduced need for external inputs
@@ -114,7 +114,7 @@ The forest garden begins to function as a self-maintaining ecosystem. Management
 ## Species Selection Principles
 
 - **Right plant, right place** — match species to site conditions (sun, soil, moisture, cold hardiness)
-- **Functional redundancy** — each function ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]], pest control, pollination) served by multiple species
+- **Functional redundancy** — each function (nitrogen fixation, pest control, pollination) served by multiple species
 - **Multi-functionality** — each plant serves multiple functions (food, medicine, mulch, habitat)
 - **Succession awareness** — some plants are pioneers that will be shaded out as the canopy closes; plan for this
 - **Local adaptation** — favor species and varieties proven in your climate (see [[permaculture-seed-saving-networks]])

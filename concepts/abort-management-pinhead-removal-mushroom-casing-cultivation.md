@@ -136,14 +136,10 @@ flush and a smaller second.
 
 ## See Also
 
-- [Casing Soil Mushroom Cultivation](casing-soil-mushroom-cultivation.md)
-- [Mushroom Casing Moisture Management](mushroom-casing-moisture-management.md)
-- [[passive-humidity-fruit-chamber-polyethylene-sheeting]] Chamber [[polyethylene-sheeting-fruiting-chamber-simple-stackable-design]]](passive-humidity-fruit-chamber-polyethylene-sheeting.md)
-- [Mushroom Crop Management Flush Harvesting](mushroom-crop-management-flush-harvesting.md)
-
-## See Also
-
+- [[comparison-mangosteen-vs-rambutan-cultivation]]
+- [[hericium-erinaceus-lions-mane-cultivation]]
+- [[mushroom-cultivation-for-food-sovereignty]]
+- [[passive-humidity-fruit-chamber-polyethylene-sheeting]]
 - [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-contamination-troubleshooting]]
-- mushroom substrates grain spawn bulk
 - [[mushroom-fruiting-body-morphogenesis]]

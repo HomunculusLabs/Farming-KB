@@ -116,3 +116,12 @@ Proponents of anaerobic teas cite plate count studies showing pathogen inhibitio
 - Ingham, E.R. (2004). *The Field Guide I for Actively Aerated Compost Tea (AACT)*. Sustainable Studies Institute.
 - Nelson, E.B. (Cornell University) — plate count vs. disease suppressiveness research.
 - Ingham, E.R. et al. (1985). Ecological Monograph — foundational [[ingham-worm-leachate-versus-aact-comparison]]
+
+## See Also
+
+- [[comparison-dandelion-vs-mullein]]
+- [[comparison-leaf-mold-vs-biochar]]
+- [[comparison-mullein-vs-yarrow]]
+- [[comparison-pig-husbandry-vs-goat-husbandry]]
+- [[comparison-valerian-vs-tulsi]]
+- [[ingham-compost-tea-pathogen-safety-anaerobic-risk]]

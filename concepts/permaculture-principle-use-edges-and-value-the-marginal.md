@@ -1,17 +1,16 @@
 ---
-title: Permaculture Principle 11 — Use permaculture principle use edges and value the marginal the Marginal
+title: Permaculture Principle 11 — Use Edges and Value the Marginal
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, principles, ecology, patterns, design, water-management]
 sources:
-  sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
 # Permaculture Principle 11 — Use Edges and Value the Marginal
 
-The eleventh of David Holmgren's twelve [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] principles. The icon of the sun rising over the horizon with a river in the foreground shows us a world composed of edges. Edges are where the most interesting, productive, and diverse events take place in any system.
+The eleventh of David Holmgren's twelve permaculture design principles. The icon of the sun rising over the horizon with a river in the foreground shows us a world composed of edges. Edges are where the most interesting, productive, and diverse events take place in any system.
 
 > "Don't think you're on the right track just because it's a well-beaten path." — David Holmgren
 
@@ -39,11 +38,11 @@ Changes in soil type, slope (break of slope), or aspect (ridges) can create rapi
 
 ## Micro-Scale Edge
 
-Within [[savory-living-organisms-as-tools]], edges are where action happens:
+Within living organisms, edges are where action happens:
 
 - **Lungs**: The ultimate fractal pattern of tissue allowing maximum gaseous exchange
 - **Roots**: Surprisingly little mass but enormous surface area (edge) for osmotic absorption of water and nutrients
-- **Soil**: Clay and humus provide complex surfaces ([[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity) that hold and release nutrients. A huge part of what makes soil productive is an open, friable structure that amounts to maximum edge
+- **Soil**: Clay and humus provide complex surfaces (cation exchange capacity) that hold and release nutrients. A huge part of what makes soil productive is an open, friable structure that amounts to maximum edge
 
 ## Edge in Cultivated Landscapes
 
@@ -57,26 +56,8 @@ Increasing edge is one important way to increase system intensity and productivi
 
 ## The Value of Marginal Systems
 
-Holmgren extends this principle beyond physical edges to social and cultural margins. [[holmgren-wild-foods-and-marginal-systems]], rundown neighborhoods, and countercultural movements often exist at the margins of society but can be sources of innovation and resilience. The proverb reminds us that the most common, obvious, and popular is not necessarily the most significant.
+Holmgren extends this principle beyond physical edges to social and cultural margins. Wild foods, rundown neighborhoods, and countercultural movements often exist at the margins of society but can be sources of innovation and resilience. The proverb reminds us that the most common, obvious, and popular is not necessarily the most significant.
 
 ## Connections
 
-This principle connects to [[permaculture-principle-design-from-patterns-to-details]] (edge is a fundamental pattern), [[permaculture-principle-use-and-value-diversity]] (edges maximize diversity), [[permaculture-principle-integrate-rather-than-segregate]] (edge is where integration happens), and [[permaculture-principle-obtain-a-yield]] (marginal yields have been undervalued). See also [[permaculture-principles]], [[edge-effect-and-microclimate]], herb [[herb-spiral-design-guide]], and [[rain-garden-design]].
-## Practical Considerations
-
-Successful implementation of Permaculture Principle 11 — Use Edges and Value the Marginal requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+This principle connects to [[permaculture-principle-design-from-patterns-to-details]] (edge is a fundamental pattern), [[permaculture-principle-use-and-value-diversity]] (edges maximize diversity), [[permaculture-principle-integrate-rather-than-segregate]] (edge is where integration happens), and [[permaculture-principle-obtain-a-yield]] (marginal yields have been undervalued). See also [[permaculture-principles]], [[edge-effect-and-microclimate]], herb spiral design, and [[rain-garden-design]].

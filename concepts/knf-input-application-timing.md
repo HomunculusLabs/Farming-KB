@@ -1,5 +1,5 @@
 ---
-title: KNF knf input application timing Timing
+title: KNF Input Application Timing
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # KNF Input Application Timing
 
-The [[cho-nutritive-cycle-theory]] Theory states that plants need different nutrients during different stages of growth. Like humans, plants need different kinds of food at different stages. This guide covers when to apply each KNF input during the plant growth cycle.
+The Nutritive Cycle Theory states that plants need different nutrients during different stages of growth. Like humans, plants need different kinds of food at different stages. This guide covers when to apply each KNF input during the plant growth cycle.
 
 ## The Three Growth Stages
 
@@ -31,7 +31,7 @@ Plants develop roots and shoots. They consume Carbohydrates (C) and convert them
 
 ### 2. Changeover Period (Cross-Over / "Morning Sickness")
 
-Plants begin flowering in preparation for reproduction. They crave "sour nutrients" in the form of [[cho-water-soluble-phosphoric-acid-preparation]] (P) compounds.
+Plants begin flowering in preparation for reproduction. They crave "sour nutrients" in the form of Phosphoric acid (P) compounds.
 
 **Primary inputs:**
 - [[knf-water-soluble-phosphoric-acid|WPA]] -- supplies phosphoric acid demand
@@ -40,7 +40,7 @@ Plants begin flowering in preparation for reproduction. They crave "sour nutrien
 
 **Dilution:** All inputs at 1:1000 with water
 
-**Purpose:** Supply the demand for phosphoric acid during the transition from vegetative to [[knf-reproductive-growth-stage]].
+**Purpose:** Supply the demand for phosphoric acid during the transition from vegetative to reproductive growth.
 
 ### 3. Reproductive Growth Stage
 
@@ -91,7 +91,7 @@ Mixed in 1000 ml of water.
 | FPJ | 1:500 |
 | BRV | 1:500 |
 
-For [[staycare-soft-rot-fungi-in-pollutant-degradation]] or anthracnose, add WCA at 1:1000.
+For soft rot or anthracnose, add WCA at 1:1000.
 
 ## General Application Rules
 

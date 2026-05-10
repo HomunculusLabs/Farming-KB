@@ -9,18 +9,18 @@ sources: []
 
 # Leaf Mold Composting
 
-Leaf mold is the product of decomposed leaves, broken down primarily by fungi rather than the bacteria that dominate traditional composting. The result is a dark, crumbly, earthy-smelling material that is an exceptional soil conditioner. While not as nutrient-rich as finished compost, leaf mold excels at improving soil structure, water retention, and microbial habitat. It is one of the simplest and most rewarding [[natural-farming-guide-composting-methods-and-techniques]] available, requiring minimal effort and no purchased inputs.
+Leaf mold is the product of decomposed leaves, broken down primarily by fungi rather than the bacteria that dominate traditional composting. The result is a dark, crumbly, earthy-smelling material that is an exceptional soil conditioner. While not as nutrient-rich as finished compost, leaf mold excels at improving soil structure, water retention, and microbial habitat. It is one of the simplest and most rewarding composting methods available, requiring minimal effort and no purchased inputs.
 
 ## What is Leaf Mold?
 
-When leaves decompose through fungal activity (primarily through saprophytic fungi), they produce leaf mold -- a humus-rich material similar to the forest floor. The process is slower than [[comparison-bokashi-vs-hot-composting-method]] but requires no turning, no precise carbon-to-nitrogen ratios, and no special equipment. Nature has been making leaf mold in forests for hundreds of millions of years.
+When leaves decompose through fungal activity (primarily through saprophytic fungi), they produce leaf mold -- a humus-rich material similar to the forest floor. The process is slower than hot composting but requires no turning, no precise carbon-to-nitrogen ratios, and no special equipment. Nature has been making leaf mold in forests for hundreds of millions of years.
 
 Nutrient profile (approximate, per cubic yard of finished leaf mold):
 - Nitrogen: low (0.5-1%)
 - Phosphorus: low (0.2-0.5%)
 - Potassium: low (0.3-0.8%)
 - Calcium: moderate (1-2%)
-- [[hamilton-composting-and-organic-matter-management]]: very high (60-80%)
+- Organic matter: very high (60-80%)
 - Water-holding capacity: can hold 300-500% of its weight in water
 
 The true value of leaf mold is not its nutrient content but its soil-building properties: it dramatically improves soil structure, increases water retention, supports beneficial fungal networks, and provides excellent habitat for soil organisms.
@@ -49,14 +49,14 @@ Leaves to avoid or limit:
 - Black walnut leaves (contain juglone, toxic to some plants)
 - Eucalyptus leaves (contain allelopathic compounds)
 - Pine needles (very slow, highly acidic -- better used as mulch separately)
-- Diseased leaves ([[bloomfield-fungal-pathogens-and-parasites]] like apple scab can survive -- hot compost these instead)
+- Diseased leaves (fungal pathogens like apple scab can survive -- hot compost these instead)
 
 ### Collection Methods
 - Rake leaves from lawn and garden areas
 - Collect from neighbors who would otherwise bag them for municipal pickup
 - Use a lawn mower with bagger to shred leaves as you collect (shredding dramatically speeds decomposition)
 - Build a leaf corral: circle of wire mesh to contain loose leaves
-- Avoid leaves from busy roads ([[dighton-fungal-biosorption-heavy-metal-remediation]] contamination from vehicle exhaust)
+- Avoid leaves from busy roads (heavy metal contamination from vehicle exhaust)
 
 ## Wire Bin Method
 
@@ -89,7 +89,7 @@ Leaves are high carbon (C:N ratio of 40-80:1), which is why they decompose slowl
 
 The high C:N ratio is intentional for leaf mold:
 - Fungi are the primary decomposers of high-carbon materials
-- [[dighton-fungal-decomposition-leaf-litter-dynamics]] produces stable humus that persists in soil for years
+- Fungal decomposition produces stable humus that persists in soil for years
 - The slow process creates a more mature, stable end product than hot compost
 - Adding nitrogen sources (manure, grass clippings) speeds decomposition but shifts the process toward bacterial composting, producing a different end product
 
@@ -137,13 +137,14 @@ For faster leaf mold (6-9 months), you can add:
 - Slowly feeds the soil as it continues to decompose
 
 ### Potting Mix Component
-## See Also
+- Mix 1 part leaf mold with 1 part compost and 1 part perlite or coarse sand
+- Creates a lightweight, moisture-retentive potting mix
+- Excellent for seed starting and container growing
 
-- [[composting-methods-comparison]] -- how leaf mold compares to other composting methods
-- [[soil-testing-and-analysis]] -- assessing soil needs before applying leaf mold amendments
-- [[soil-food-web-nutrient-cycling]]
-- [[forest-garden-layers]]
+### Lawn Topdressing
+- Spread a thin layer (1/4 inch) over established lawn in fall or early spring
+- Improves soil structure without disturbing grass
+- Reduces thatch buildup
+- Provides slow-release organic matter
 
-## Related
-
-- [[litter-wood-decomposing-fungi]]
+### Moisture Management

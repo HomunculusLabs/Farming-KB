@@ -1,5 +1,5 @@
 ---
-title: Soil soil-compaction-solutions-ingham
+title: Soil Compaction Solutions
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
@@ -21,7 +21,7 @@ Soil compaction is the compression of soil particles, reducing pore space and re
 
 ### Natural
 - Clay soils naturally compact when wet
-- Single-grain structure (sandy soils with no [[hamilton-composting-and-organic-matter-management]])
+- Single-grain structure (sandy soils with no organic matter)
 - Sodium-affected soils (sodium disperses clay particles)
 
 ## Symptoms
@@ -38,15 +38,15 @@ Soil compaction is the compression of soil particles, reducing pore space and re
 - **Designated paths**: Never walk on garden beds; use permanent paths
 - **Raised beds**: Concentrate foot traffic in pathways between beds
 - **Avoid working wet soil**: Wait until soil crumbles (not smears) when squeezed
-- **Cover bare soil**: Mulch, cover crops, or living [[permaculture-plants-food-forest-ground-covers-bamboos]] protect from rain impact
+- **Cover bare soil**: Mulch, cover crops, or living ground covers protect from rain impact
 - **Broad tires/low pressure**: If using machinery, use the widest tires possible at lowest pressure
 
 ### 2. Biological Decompaction
 - **Earthworms**: Nature's aerators. Encourage with organic matter, no tillage, and mulch. [[earthworm-breeding]] for active encouragement
 - **Root channels**: Deep-rooted plants (daikon radish, chicory, comfrey) punch through compacted layers
 - **Cover crops with taproots**: Daikon radish (tillage radish) creates 3-4 ft channels that decompose into macropores
-- **[[arbuscular-mycorrhizal-fungi-biology-symbiosis]]**: Hyphae penetrate compacted soil and create micro-channels
-- **Apply AAct**: Actively [[actively-aerated-compost-tea-aact-brewing]] tea restores biological communities that improve soil structure
+- **Mycorrhizal fungi**: Hyphae penetrate compacted soil and create micro-channels
+- **Apply AAct**: Actively aerated compost tea restores biological communities that improve soil structure
 
 ### 3. Physical Remediation
 - **Broadfork**: The best tool for relieving compaction without inverting the soil. Push the broadfork into the soil and rock back — it lifts and fractures the compaction layer without mixing soil horizons
@@ -67,7 +67,7 @@ Soil compaction is the compression of soil particles, reducing pore space and re
 
 ## Priority Approach
 1. **Stop causing it** — paths, raised beds, no wet-soil working
-2. **Add biology** — compost, AAct, [[pgpr-mycorrhizal-inoculants-microplant-establishment]]
+2. **Add biology** — compost, AAct, mycorrhizal inoculants
 3. **Plant roots through it** — daikon radish, chicory, comfrey
 4. **Broadfork** if physical intervention is needed
 5. **Add organic matter** — compost, mulch, cover crops

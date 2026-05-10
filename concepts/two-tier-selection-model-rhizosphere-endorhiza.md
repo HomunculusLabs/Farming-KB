@@ -120,7 +120,7 @@ The two-tier selection model has practical significance for cannabis
 cultivators seeking to manipulate the root microbiome. Because soil-driven
 selection determines the initial species pool, growers can influence the
 rhizosphere community through substrate amendments such as [[bacterial-vs-fungal-compost-teas]],
-biochar, or specific [[microbial-inoculants-and-biological-soil-amendments]] applied to the [[cervantes-green-algae-growing-medium]].
+biochar, or specific microbial inoculants and biological soil amendments applied to the [[cervantes-green-algae-growing-medium]].
 However, because cultivar-driven selection ultimately shapes the endorhiza
 community, the same soil amendments applied to different cannabis cultivars
 may yield different endophytic profiles. This means that inoculation

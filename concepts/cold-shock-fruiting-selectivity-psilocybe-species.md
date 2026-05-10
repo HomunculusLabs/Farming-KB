@@ -121,7 +121,4 @@ Cultivators should research the specific environmental triggers for each species
 ## See Also
 - [[species-specific-cold-shock-fruiting-guide]]
 - [[species-specific-cold-shock-response-psilocybe]]
-
-## See Also
-
 - [[species-specific-cold-shock-and-fruiting-behavior-psilocybe-guide]]

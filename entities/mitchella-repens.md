@@ -15,7 +15,7 @@ tags:
 sources:
   - Gleason, H.A. & Cronquist, A. (1991). "Manual of Vascular Plants of Northeastern dmt-containing-plants-united-states-halpern and Adjacent Canada." 2nd ed. New York Botanical Garden.
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Foster, S. & Duke, J.A. (2014). "A Field Guide to Medicinal Plants and Herbs." 2nd ed. Houghton Mifflin.
 ---
 
@@ -111,4 +111,4 @@ Key permaculture functions include:
 - arctostaphylos-uva-ursi
 - [[sambucus-nigra]]
 - crataegus-monogyna
-- [[food-forest-permaculture]]
+- [[food-forest]]

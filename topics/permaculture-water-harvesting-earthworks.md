@@ -68,7 +68,6 @@ systems create channels for water penetration and bind soil against erosion. Lea
 litter and mulch layers absorb the impact of raindrops and allow gentle
 infiltration. Deep-rooted perennials access subsoil water and maintain continuous
 water movement through the landscape even during dry periods.
-
 ## See Also
 
 [[keyline-design]] - P.A. Yeomans' system for landscape water management and

@@ -137,7 +137,6 @@ The basic candle-making process involves melting wax in a double boiler to 60 to
 Pouring temperature affects the final appearance of candles. Higher pouring temperatures (70 to 80 degrees Celsius) produce smooth surfaces and reduce frosting on soy wax, while lower temperatures (55 to 65 degrees Celsius) can create rustic textures and improve adhesion to container walls. Cooling too rapidly by placing candles in a refrigerator can cause cracking and poor adhesion. For best results, candles should cool at room temperature in a draft-free area for at least 24 hours before trimming the wick to 5 millimeters and lighting.
 
 ## Natural Body Care Products
-
 ## See Also
 
 - [[herbal-medicine-making]] for tinctures, salves, and medicinal preparations

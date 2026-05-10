@@ -10,7 +10,6 @@ tags:
   - nutrient-cycling
   - resource-efficiency
 sources:
-  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # [[permaculture-design]] is fundamentally about capturing, storing, and

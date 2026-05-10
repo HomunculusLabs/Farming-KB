@@ -99,6 +99,9 @@ explode. Biomass compost heating achieves similar energy goals more
 safely and in alignment with faires-biomass-compost-water-heating
 - [[mollison-designers-solar-water-heating-systems]]
 ## See Also
+
+- [[coleman-greenhouse-heating-options-winter-production]]
+- [[coleman-rolling-greenhouse-wheel-rail-design]]
 - [[decomposition]]
 - [[hamilton-greenhouse-heating-and-temperature-control]]
 - [[mushroom-compost-bed-systems-duggar]]

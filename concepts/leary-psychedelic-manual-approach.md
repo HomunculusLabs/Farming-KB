@@ -1,5 +1,5 @@
 ---
-title: Leary's leary psychedelic manual approach Approach
+title: Leary's Psychedelic Manual Approach
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,11 +9,11 @@ sources: [raw/papers/leary-t-the-psychedelic-experience.md]
 
 ## Leary's Manual Based on the Tibetan Book of the Dead
 
-"The [[leary-psychedelic-experience-bardo-mapping]]" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
+"The Psychedelic Experience" (1964) by Timothy Leary, Ralph Metzner, and Richard Alpert adapts the Tibetan Book of the Dead (Bardo Thodol) as a guide for navigating psychedelic [[leary-psychedelic-experience-bardo-mapping]] sessions. The manual maps the stages of ego death and rebirth onto three Bardo phases, providing both philosophical framework and practical instructions.
 
 ### Central Thesis: Set and Setting
 
-Leary's foundational principle: "The psychedelic experience depends almost entirely on set and setting."
+Leary's foundational principle: "The psychedelic [[leary-psychedelic-experience-bardo-mapping]] experience depends almost entirely on set and setting."
 
 - **Set**: the preparation of the individual — expectations, personality, mood, intention
 - **Setting**: the physical and social environment — the room, the people present, the sounds
@@ -86,7 +86,7 @@ Leary's Bardo model parallels [[psychedelic-experience-stages|Turner's phenomeno
 
 ### Critical Note
 
-Leary's approach has been criticized for being culturally appropriative (mapping Tibetan Buddhist concepts onto [[shamanic-vs-western-psychedelic-healing]] use), overly intellectualizing experiences that may not fit the framework, and for Leary's later advocacy that contributed to the backlash against [[mckenna-suppression-psychedelic-research-lsd-therapy]]. However, the core insights — set and setting, the importance of surrender, the value of preparation and a guide — remain foundational to modern [[metzner-psycholytic-psychedelic-therapy-models]] and [[adverse-effects-and-harm-reduction-psilocybin]].
+Leary's approach has been criticized for being culturally appropriative (mapping Tibetan Buddhist concepts onto Western psychedelic use), overly intellectualizing experiences that may not fit the framework, and for Leary's later advocacy that contributed to the backlash against psychedelic research. However, the core insights — set and setting, the importance of surrender, the value of preparation and a guide — remain foundational to modern psychedelic therapy and harm reduction.
 
 ## See Also
 

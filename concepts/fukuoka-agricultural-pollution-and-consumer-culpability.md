@@ -5,7 +5,6 @@ updated: 2026-04-15
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Fukuoka on Agricultural Pollution and Consumer Culpability

@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Capulator (2023). "Rainbow Chips strain information." SeedFinder Database.
-  - AllBud (2024). "Rainbow Chips [[blesching-cannabis-strain-selection-receptor-targeting]]." https://www.allbud.com/
+  - AllBud (2024). "Rainbow Chips blesching-cannabis-strain-selection-receptor-targeting." https://www.allbud.com/
   - Leafly Staff (2024). "Rainbow Chips Weed Strain." Leafly.
   - GrowDiaries (2024). "Rainbow Chips grow reports." GrowDiaries.com.
   - Strainly Market (2024). "Rainbow Chips genetics discussion." Strainly.io.

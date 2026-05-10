@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Smith, A.J.E. (2004). "The Moss Flora of Britain and Ireland." 2nd ed. Cambridge University Press.
   - Holyoak, D.T. (2004). "European BRYACEAE." http://www.holyoakbooks.co.uk
-  - Spence, J.R. (2005). "Bryaceae." Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 27.
+  - Spence, J.R. (2005). "Bryaceae." Flora of psilocybin-north-america-pacific-northwest, Vol. 27.
   - Crundwell, A.C. & Nyholm, E. (1979). "A Revision of Bryum bicolor sensu lato." Journal of Bryology, 10, 429–457.
 ---
 

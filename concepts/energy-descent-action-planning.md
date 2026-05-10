@@ -5,7 +5,6 @@ updated: 2026-04-16
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 ---
 # Energy Descent Action Planning

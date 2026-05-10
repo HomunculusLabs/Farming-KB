@@ -116,4 +116,4 @@ evolutionary success.
 ## See Also
 - [[david-holmgren]]
 - [[holmgren-gigantism-intermediate-technology-and-small-scale]]
-- [[permaculture-design-process-and-site-analysis]]
+- [[mollison-designers-design-client-interview-and-site-assessment-process]]

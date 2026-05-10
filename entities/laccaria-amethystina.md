@@ -117,10 +117,6 @@ can make it superficially resemble other small woodland mushrooms.
   a radish-like odor and smooth (not spiny) spores. Mildly toxic.
 
 ## See Also
-
-- [[laccaria-laccata]] — the deceiver, close relative
-- [[pisolithus-tinctorius]] — another pioneer ectomycorrhizal fungus
-
-## See Also
-
+- [[laccaria-laccata]]
+- [[pisolithus-tinctorius]]
 - [[mycorrhizal-edible-mushroom-species-overview]]

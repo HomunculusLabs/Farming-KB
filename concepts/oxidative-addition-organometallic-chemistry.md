@@ -1,7 +1,7 @@
 ---
 title: "Oxidative Addition in Organometallic Chemistry"
 aliases: [oxidative addition, oxidative addition reaction, metal insertion]
-tags: [organometallic-chemistry, catalysis, inorganic-chemistry, organic-chemistry, reaction-mechanisms]
+tags: [organometallic-chemistry, catalysis, inorganic-chemistry, [[pericyclic-reactions-organic-chemistry|organic]]-chemistry, reaction-mechanisms]
 created: 2026-05-03
 updated: 2026-05-06
 type: concept
@@ -25,7 +25,7 @@ attached, the fragments can migrate, insert, exchange, or recombine to make new 
 The reaction is favored when the metal center is electron-rich, coordinatively unsaturated, and capable of accessing a higher oxidation
 state. Low-valent d8 and d10 complexes of palladium, platinum, iridium, rhodium, nickel, and related metals commonly participate.
 
-A vacant coordination site or a ligand that can dissociate is usually needed. Four- coordinate square-planar complexes and five-coordinate
+A vacant coordination [[holmgren-site-design-as-cellular-design|site]] or a ligand that can dissociate is usually needed. Four- coordinate square-planar complexes and five-coordinate
 complexes are common starting points because they can accept additional ligands without severe steric or electronic penalty.
 
 Electron-donating ligands promote oxidative addition by increasing metal basicity and back-donation into antibonding orbitals of the

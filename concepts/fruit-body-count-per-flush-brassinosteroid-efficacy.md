@@ -112,14 +112,6 @@ fruit body count per flush would have several practical implications:
   formation means less substrate is wasted on non-productive growth.
 
 ## See Also
-
-- [Brassinosteroid Dung Grain Substrate Fruiting Enhancement](brassinosteroid-dung-grain-substrate-fruiting-enhancement.md)
-- [First Flush Acceleration Brassinosteroid Timing Reduction](first-flush-acceleration-brassinosteroid-timing-reduction.md)
-- [Flush Count Variation [[flush-count-variation-brassinosteroid-treated-cultures]] Cultures](flush-count-variation-brassinosteroid-treated-cultures.md)
-- [Brassinosteroid Mushroom Yield Dry Mass](brassinosteroid-mushroom-yield-dry-mass.md)
-
-## See Also
-
 - [[mushroom-cultivation-basics]]
 - [[mushroom-fruiting-body-morphogenesis]]
 - [[contamination-identification-prevention]]

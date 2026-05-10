@@ -99,8 +99,8 @@ A mixture of 6.1 g POCl3 and 5.4 g N-methylformanilide was heated for
 3 min on the [[scythian-cannabis-steam-bath-ritual]], and then added to the remainder of the
 
 (Additional synthesis details available in source.)
-## See Also
 
+## See Also
 - [[mdcpm-entity-pihkal]]
 - [[desoxy-entity-pihkal]]
 - [[pea-entity-pihkal]]
@@ -137,12 +137,6 @@ A mixture of 6.1 g POCl3 and 5.4 g N-methylformanilide was heated for
 - [[mem-entity-pihkal]]
 - [[aleph-4-entity]]
 - [[2c-t-4-entity-pihkal]]
-
 - [[aleph-2-entity-pihkal]]
 - [[aleph-7-entity-pihkal]]
-
-- PIHKAL (the source book)
-
-## See Also
-
 - [[aleph-entity-pihkal]]

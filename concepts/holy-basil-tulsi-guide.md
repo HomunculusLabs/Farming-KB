@@ -1,11 +1,10 @@
 ---
-title: Holy Basil (Tulsi) comparison-bean-growing-guide-vs-pepper-growing-guide
+title: Holy Basil (Tulsi) Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [medicine, plants, cultivation, species-profiles, harvesting, processing, ethnobotany, asia, companion-planting, pollinators]
-sources:
-  sources: []
+sources: []
 ---
 
 # Holy Basil (Tulsi) Growing Guide (Ocimum sanctum)
@@ -15,11 +14,11 @@ sources:
 Holy basil, known as Tulsi in Hindi, is a sacred plant in Hinduism and one
 of the most important herbs in Ayurvedic medicine. Referred to as "the
 incomparable one" or "the queen of herbs," tulsi has been cultivated for
-over 3,000 years throughout the Indian subcontinent and [[psilocybe-southeast-asia-pacific]].
+over 3,000 years throughout the Indian subcontinent and Southeast Asia. (see [[echinacea-growing-guide]]).
 There are three primary varieties used medicinally: Krishna tulsi (purple
 leaves), Rama tulsi (green leaves), and Vana tulsi (wild-type, tall and
 camphor-scented). All share adaptogenic, immunomodulating, and stress-
-reducing properties.
+reducing properties. (see [[medicinal-herb-growing]]).
 
 ## Botanical Profile
 
@@ -32,7 +31,7 @@ reducing properties.
 
 Primary varieties:
 - Krishna tulsi (O. sanctum 'Krishna'): Dark purple-green leaves, peppery
-  clove-like flavor, compact bushy habit. Highest eugenol content.
+  clove-like flavor, compact bushy habit. Highest eugenol content. (see [[hawthorn-berry-guide]]).
 - Rama tulsi (O. sanctum 'Rama'): Green leaves, milder flavor, slightly
   taller than Krishna. Most commonly available variety.
 - Vana tulsi (O. gratissimum): Tall (3-4 feet), bright green leaves, strong
@@ -97,7 +96,7 @@ Tulsi is a tropical plant that thrives in warm conditions:
 - Light: Full sun (6-8 hours minimum)
 - Soil: Prefers fertile, well-drained loam, pH 6.0-7.5
 - Water: Allow soil to dry slightly between waterings
-- [[savory-growing-season-and-non-growing-season-management]]: 90-120 days from seed to harvest
+- Growing season: 90-120 days from seed to harvest
 
 ### Starting from Seed
 
@@ -111,14 +110,14 @@ Harden off and move outdoors after last frost.
 - Rows 18-24 inches apart
 - Plant at the same depth as the seedling container
 - Water well after transplanting
-- Mulch with 2-3 inches of [[hamilton-composting-and-organic-matter-management]] to retain moisture and suppress
+- Mulch with 2-3 inches of organic matter to retain moisture and suppress
   weeds
 
 ### Care and Maintenance
 - Water when the top inch of soil is dry; avoid overwatering
 - Fertilize lightly every 4-6 weeks with compost tea or balanced organic
   fertilizer
-- Pinch back growing tips regularly to encourage bushy, [[fukuoka-ideal-rice-plant-morphology-compact-growth-high-yield]]
+- Pinch back growing tips regularly to encourage bushy, compact growth
 - Remove flower buds if you want to maximize leaf production (tulsi
   becomes bitter and slows leaf growth after flowering)
 - In cool zones, harvest completely before first frost (can be brought
@@ -133,18 +132,19 @@ summer to root indoors.
 ### Pests and Diseases
 - Aphids: Check undersides of leaves; spray with water or insecticidal soap
 - Whiteflies: Use yellow sticky traps and insecticidal soap
-- Fungal diseases: Avoid overhead watering; ensure good [[stamets-growing-room-air-circulation-co2-management]]
+- Fungal diseases: Avoid overhead watering; ensure good air circulation
 - Japanese beetles: Handpick in severe infestations
 - Root rot: Prevent by ensuring well-drained soil and proper watering
 
 ## Tea Production
 
 Tulsi is one of the best herbs for daily tea consumption:
-## See Also
 
-- [[chamomile-growing-guide]] -- combine with tulsi in calming evening tea
-  blends
-- [[ashwagandha-growing-guide]] -- complementary Ayurvedic adaptogen for
-  comprehensive stress and wellness support
+For fresh tea:
+1. Harvest 8-10 fresh leaves per cup
+2. Pour boiling water over leaves
+3. Cover and steep 5-7 minutes
+4. Strain and enjoy plain or with honey and lemon
 
-See also: [[comparison-lemongrass-vs-citronella-vs-palmarosa]]
+For dried tea:
+1. Harvest leafy stems before flowering for the best flavor

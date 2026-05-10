@@ -1,6 +1,6 @@
 ---
 
-title: comparison-compost-tea-guide-vs-fermented-plant-extract-fpe (FPE) — FPJ & FFJ
+title: Fermented Plant Extract (FPE) — FPJ & FFJ
 created: 2026-04-10
 updated: 2026-04-12
 type: concept
@@ -26,14 +26,14 @@ sources:
 
 # Fermented Plant Extract (FPE)
 
-[[bionutrients-lab-fermented-plant-juice-fpj]] (FPJ) and [[bionutrients-lab-fermented-fruit-juice-ffj]] Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
+Fermented Plant Juice (FPJ) and Fermented Fruit Juice (FFJ) are core KNF inputs that capture plant nutrients and growth energy. Made by fermenting plant material with sugar, they provide bioavailable nutrients, enzymes, and plant hormones.
 
 FPJ and FFJ are functionally the same process — FPJ uses vegetative plant parts, FFJ uses fruits. The key difference is the sugar content and stage of the source plant.
 
 ## FPJ — Fermented Plant Juice
 
 ### Purpose
-Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels [[cannabis-vegetative-growth-stage]] and overall plant vitality. Different plants contribute different properties — see plant selection below.
+Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels vegetative growth and overall plant vitality. Different plants contribute different properties — see plant selection below.
 
 ### Plant Selection (Cho's Guidelines)
 
@@ -48,7 +48,7 @@ Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels [[cannabis-
 - Sweet potato vines
 - Duckweed — very fast growing, high protein
 
-**[[knf-reproductive-growth-stage]] FPJ/FFJ** (for flowering/fruiting):
+**Reproductive growth FPJ/FFJ** (for flowering/fruiting):
 - Pumpkin/squash vines
 - Yam leaves
 - Tomato plant tips
@@ -72,7 +72,7 @@ Provides energy, nitrogen, enzymes, and plant growth hormones. Fuels [[cannabis-
 
 **Process**:
 1. **Harvest at dawn** (before sunrise) when plant sugars and energy are highest — plants produce maximum nutrients during night via photosynthesis, peaking at dawn
-2. Do NOT wash the plant material — washing removes the [[beneficial-indigenous-microorganisms-bim]] on leaf surfaces that drive fermentation
+2. Do NOT wash the plant material — washing removes the indigenous microorganisms on leaf surfaces that drive fermentation
 3. Shake off dust gently if needed
 4. Chop or crush plant material to increase surface area (do not blend — preserves microbial diversity)
 5. Alternate layers of plant material and sugar in the jar
@@ -142,8 +142,9 @@ Same process as FPJ but with fruit:
 | Reproductive | 1:1000 | Sugar for fruit/flower development |
 | Pre-harvest | 1:1000 | Sweetness promotion |
 
-## See Also
+## BRV — Brown Rice Vinegar (Natural Acetic Acid)
 
-- [[knf-preparations]] — all KNF inputs overview
-- [[indigenous-microorganisms-imo]] — the microbes that drive FPJ fermentation
-- [[fish-amino-acid-faa]] — nitrogen companion to FPJ
+A separate KNF input that functions as both a nutrient source and an extraction solvent. See [[brown-rice-vinegar-brv]] for full recipe.
+
+Key uses with FPJ/FFJ:
+- Extracts calcium from eggshells (see [[water-soluble-calcium-wca]])

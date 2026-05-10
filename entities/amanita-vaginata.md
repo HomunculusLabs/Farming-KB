@@ -21,7 +21,7 @@ sources:
   - Tulloss RE, Yang ZL. (2021). "Amanita section Vaginatae." Mycotaxon.
   - Neville P, Poumarat S. (2004). "Amanitaceae." Fungi Europaei Vol. 9.
   - Kuo M. (2024). "Amanita vaginata." MushroomExpert.com.
-  - Lincoff G. (1981). "National Audubon Society [[ghouled-field-guide-historical-context]] to [[growing-gourmet-north-american-reishi-species]] Mushrooms." Knopf.
+  - Lincoff G. (1981). "National Audubon Society ghouled-field-guide-historical-context to growing-gourmet-north-american-reishi-species Mushrooms." Knopf.
   - Bas C. (1969). "Morphology and subdivision of Amanita and a monograph on its section Lepidella." Persoonia.
 ---
 

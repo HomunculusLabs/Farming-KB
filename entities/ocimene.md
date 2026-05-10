@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Degenhardt, J. et al. (2009). "Monoterpene and sesquiterpene synthases and the origin of terpene molecular diversity in plants." Phytochemistry, 70(15-16), 1621-1637.
   - Maffei, M.E. et al. (2011). "The evolutionary history of terpenoid biosynthesis in plants." Perspectives in Plant Ecology, Evolution and Systematics, 13(3), 161-167.
-  - Booth, J.K. & Bohlmann, J. (2019). "Terpenes in [[comparison-cannabis-sativa-vs-cannabis-indica]] — From biosynthesis to potential health benefits." In: Cannabis sativa L. — Phytochemistry and Pharmacology. Springer.
+  - Booth, J.K. & Bohlmann, J. (2019). "Terpenes in comparison-cannabis-sativa-vs-cannabis-indica — From biosynthesis to potential health benefits." In: Cannabis sativa L. — Phytochemistry and Pharmacology. Springer.
   - Rice, S. & Koziel, J.A. (2015). "The role of terpenes in cannabis." In: Handbook of Cannabis. Oxford University Press.
   - Gershenzon, J. & Dudareva, N. (2007). "The function of terpene natural products in the natural world." Nature Chemical Biology, 3(7), 408-414.
 ---

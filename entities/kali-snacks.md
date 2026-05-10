@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Strain Database. "Kali Snacks." leafly.com.
-  - AllBud. "Kali Snacks [[blesching-cannabis-strain-selection-receptor-targeting]]." allbud.com.
+  - AllBud. "Kali Snacks blesching-cannabis-strain-selection-receptor-targeting." allbud.com.
   - Wikileaf. "Kali Snacks Strain Information." wikileaf.com.
 created: 2026-04-28
 ---
@@ -112,7 +112,7 @@ sites.
 ## See Also
 
 - [[animal-cookies]]
-- [[cannabis-blue-dream]]
+- [[blue-dream]]
 - [[zookies-cannabis]]
 - [[mac-1]]
 - [[white-widow-entity]]

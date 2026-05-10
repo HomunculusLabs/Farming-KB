@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G, Allen JW, Gartz J. (2000). "A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." Mycological Research, 104(4), 499-506.
-  - Stamets P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
+  - Stamets P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
   - Allen JW, Merlin MD, Jansen KL. (1991). "An ethnomycological review of psychoactive Agaricales in Australia." Journal of Psychoactive Drugs, 23(4), 367-371.
 created: 2026-05-07
 ---

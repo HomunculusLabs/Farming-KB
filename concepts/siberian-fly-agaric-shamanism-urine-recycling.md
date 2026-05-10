@@ -21,7 +21,7 @@ Von Strahlenberg's account was the first detailed European description of Siberi
 
 When the highly prized mushrooms were in short supply, the poorer Koryak could not afford to purchase them from the Russian authorities. Instead, people from lower social strata would loiter outside the dwellings whenever a mushroom feast was taking place, waiting for the moment when the guests would come out to relieve themselves. They would catch the urine in wooden bowls and drink it down, "having still some Virtue of the mushroom in it."
 
-The practice has a pharmacological basis. The active compounds in [[amanita-muscaria-preparation-methods]] demonstrate a sophisticated understanding of the mushroom's pharmacology developed through centuries of empirical experimentation.
+The practice has a pharmacological basis. The active compounds in [[amanita-preparation-methods]] demonstrate a sophisticated understanding of the mushroom's pharmacology developed through centuries of empirical experimentation.
 
 ## The Western Literary Impact
 

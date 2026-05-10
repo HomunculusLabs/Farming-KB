@@ -100,7 +100,6 @@ amended with compost, and trees planted on raised mounds 12-18 inches
 high and 6-8 feet in diameter. Sandy soils benefit from heavy organic
 matter additions and mulching. Sites with a known history of replant
 disease should be planted with cover crops for at least two years
-before introducing fruit trees.
 ## See Also
 
 - [[orchard-management]] for detailed site selection, planting, and

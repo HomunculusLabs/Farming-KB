@@ -14,7 +14,7 @@ sources:
   - Iwu MM (2014). "Handbook of African Medicinal Plants." 2nd ed. CRC Press.
   - Ding Y, Tian S, Zhang Z, et al. (2014). "Anti-inflammatory effects of 6-paradol." Journal of Agricultural and Food Chemistry.
   - Tartaglia J (2014). "Alligator pepper." Economic Botany.
-  - Okwu DE, Morah FN (2007). "Mineral and [[dighton-fungal-nutritional-composition-animal-diets]] of Aframomum melegueta." Journal of Food Technology.
+  - Okwu DE, Morah FN (2007). "Mineral and dighton-fungal-nutritional-composition-animal-diets of Aframomum melegueta." Journal of Food Technology.
 ---
 
 # Aframomum melegueta

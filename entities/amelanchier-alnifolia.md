@@ -140,6 +140,8 @@ native landscaping projects due to its adaptability, [[coleman-cold-hardiness-te
 value. It establishes readily from seed on disturbed sites.
 ## See Also
 
+- [[amelanchier-arborea]]
+
 - [[ribes-nigrum]]
 - aronia-melanocarpa
 - [[eleagnus-umbellata-entity]]

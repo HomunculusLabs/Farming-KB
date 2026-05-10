@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Parrish, D.J. & Fike, J.H. (2005). "The biology and agronomy of switchgrass." In Turhollow, A.F. (ed.), Critical Reviews in Plant Sciences, 24(5-6), 423-459.
   - Schmer, M.R. et al. (2008). "Net energy of cellulosic ethanol from switchgrass." PNAS, 105(2), 464-469.
-  - Vogel, K.P. et al. (2002). "Switchgrass [[dighton-fungal-biomass-production-aquatic-ecosystems]] in the Midwest USA." Agronomy Journal, 94, 413-420.
+  - Vogel, K.P. et al. (2002). "Switchgrass dighton-fungal-biomass-production-aquatic-ecosystems in the Midwest USA." Agronomy Journal, 94, 413-420.
   - Wright, L. & Turhollow, A. (2010). "Switchgrass selection as a 'model' bioenergy crop." Proceedings of the National Academy of Sciences, 107(16), 7141-7142.
 ---
 

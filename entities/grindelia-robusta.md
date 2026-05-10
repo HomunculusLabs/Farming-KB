@@ -26,7 +26,7 @@ sources:
   - Moore, M. (1989). Medicinal Plants of the Pacific West. Red Crane Books.
   - Kember, M. et al. (2012). "Grindelia (Asteraceae): A review of its chemistry, pharmacology, and ethnobotany." Journal of Ethnopharmacology, 141(1), 419-434.
   - USDA NRCS. "Grindelia robusta." PLANTS Database. https://plants.usda.gov/
-  - Foster, S. & Duke, J.A. (2013). Peterson [[ghouled-field-guide-historical-context]] to Medicinal Plants. Houghton Mifflin Harcourt.
+  - Foster, S. & Duke, J.A. (2013). Peterson ghouled-field-guide-historical-context to Medicinal Plants. Houghton Mifflin Harcourt.
   - Timmons, F.L. (1949). "The distribution and economic importance of Grindelia species." Economic Botany, 3(1), 71-94.
 created: 2026-04-28
 ---

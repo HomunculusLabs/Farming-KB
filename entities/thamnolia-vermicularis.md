@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sanders WB, Lücking R. (2015). "Phylogenetic evaluation of Thamnolia vermicularis and its placement in the Icmadophilaceae." Lichenologist 47(5): 419-427.
-  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Wirth V, Hauck M, Schultz M. (2013). Die Flechten Deutschlands. Eugen Ulmer.
   - Ahti T, Stenroos S, Moberg R. (2007). "Thamnoliaceae." Nordic Lichen Flora 3: 61-66.
 ---

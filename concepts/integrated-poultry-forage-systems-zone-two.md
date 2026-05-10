@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [permaculture, poultry, forage, zone-two-design]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources:
+sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---

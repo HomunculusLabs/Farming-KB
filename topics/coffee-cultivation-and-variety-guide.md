@@ -135,7 +135,6 @@ and individual selections. For arabica, the two foundational groups are
 Typica and Bourbon, both descending from the original Yemeni stock
 dispersed to the Americas in the early eighteenth century.
 
-Typica is the progenitor of most Central and [[chiric-caspi-brunfelsia-south-american-hallucinogen]] coffee. It is
 ## See Also
 
 - [[agroforestry-and-alley-cropping]]

@@ -63,7 +63,7 @@ restore the rodent population. This cascade of unintended
 consequences illustrates the insanity of intervening in natural
 systems without understanding their full complexity.
 
-## Pesticide Application on [[fukuoka-natural-predator-protection]]s, and leaves victim dragonfly larvae,
+## Pesticide Application on [[fukuoka-natural-predator-protection]] s, and leaves victim dragonfly larvae,
 tadpoles, and loaches. Just one look at this slaughter would
 suffice to show the insanity of the blanket application of
 pesticides. Each spray eliminates not only target pests but the
@@ -89,3 +89,6 @@ a beneficial act: replanting logged forests with commercially
 valuable species. But this monoculture approach eliminates the
 diverse food sources that supported complex [[fukuoka-natural-farming]]
 - [[fukuoka-nelissen-farm]]
+
+See [[query-what-is-the-soil-food-web-and-why-does-it-matter]] for more on Query What Is The Soil Food Web And Why Does It Matter.
+See [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] for more on Query What Are Ectomycorrhizal Fungi And Which Plants Do They Associate With.

@@ -130,7 +130,6 @@ While steam distillation is by far the most common method, several
 alternatives exist for specific applications.
 
 Hydrodistillation submerges the plant material directly in water
-and boils it, rather than passing steam through it.
 ## See Also
 
 - [[permaculture-designers-manual-essential-oil-plants]]

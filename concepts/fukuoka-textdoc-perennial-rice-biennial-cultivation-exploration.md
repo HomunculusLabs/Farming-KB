@@ -123,6 +123,8 @@ These questions led him far beyond the immediate problem of rice cultivation int
 
 ## See Also
 
+- [[fukuoka-textdoc-volunteer-rice-stubble-regeneration-perennial-exploration]]
+
 - [[fukuoka-textdoc-ideal-rice-morphology-high-yield-natural-farming]]
 - [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
 - [[natural-farming]]

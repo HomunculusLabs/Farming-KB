@@ -4,7 +4,6 @@ tags: [query, permaculture, earthworks, water-harvesting, land-management]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 

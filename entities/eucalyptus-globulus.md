@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Boland, D.J. et al. (2006). "Eucalyptus globulus." CSIRO Publishing, Melbourne.
   - Coppen, J.J.W. (2002). "Eucalyptus: The Genus Eucalyptus." Taylor & Francis.
-  - Li, Y. et al. (2021). "Chemical composition and biological activities of Eucalyptus globulus [[permaculture-designers-manual-essential-oil-plants]]." Molecules, 26(14), 4182.
+  - Li, Y. et al. (2021). "Chemical composition and biological activities of Eucalyptus globulus permaculture-designers-manual-essential-oil-plants." Molecules, 26(14), 4182.
   - Duke, J.A. (2002). "CRC Handbook of Medicinal Spices." CRC Press.
 created: 2026-05-07
 ---
@@ -136,6 +136,8 @@ Leaves were crushed and inhaled to relieve congestion or applied as poultices to
 The species was introduced to Europe in the 1850s and quickly became a standard medicinal plant.
 
 ## See Also
+
+- [[khaya-senegalensis]]
 
 - [[eucalyptus-camaldulensis]]
 

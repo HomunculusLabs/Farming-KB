@@ -13,7 +13,7 @@ tags:
 sources:
   - Calderón-Montaño, J.M. et al. (2011). "A review on the dietary flavonoid kaempferol." Mini-Reviews in Medicinal Chemistry, 11(4), 298-344.
   - Imran, M. et al. (2019). "Kaempferol: A key emphasis to its anticancer potential." Molecules, 24(12), 2277.
-  - Chen, A.Y. & Chen, Y.C. (2013). "Kaempferol suppresses [[blesching-cannabis-apoptosis-and-cancer-cell-death]] proliferation." Cancer Prevention Research, 6(2), 120-131.
+  - Chen, A.Y. & Chen, Y.C. (2013). "Kaempferol suppresses blesching-cannabis-apoptosis-and-cancer-cell-death proliferation." Cancer Prevention Research, 6(2), 120-131.
   - Huang, W. et al. (2020). "Pharmacological activities of kaempferol." Frontiers in Pharmacology, 11, 607883.
   - USDA (2023). "Flavonoid Content of Selected Foods." Release 3.2.
 ---
@@ -88,18 +88,7 @@ At pharmacological doses (>200 mg/day), mild gastrointestinal discomfort has bee
 [[cannabis-drug-interactions-and-contraindications]] are possible due to CYP450 inhibition, particularly CYP3A4 and CYP2C9. Kaempferol may enhance the bioavailability of drugs metabolized by these enzymes, requiring clinical monitoring in polypharmacy patients.
 
 ## See Also
-
 - [[plumbago-zeylanica]]
-
 - [[quercetin]]
-- apigenin
-- luteolin
-- genistein
-- naringenin
 - [[pistia-stratiotes]]
-
-## See Also
-
-- [[plumbago-zeylanica]]
-
 - [[query-what-are-the-health-benefits-of-dietary-polyphenols]]

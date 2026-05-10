@@ -133,10 +133,8 @@ transfer, thermal radical initiation by lamp heating, and trace-metal effects ca
 without catalyst, without light, and with different wavelengths are necessary.
 
 ## References and Further Reading
-## See Also
 
-- [[phase-transfer-catalysis]]
 ## See Also
-- pdc-water-systems-design-and-management
+- [[phase-transfer-catalysis]]
 - [[reactive-oxygen-species-and-oxidative-stress]]
 - [[mushroom-growing-room-environmental-control]]

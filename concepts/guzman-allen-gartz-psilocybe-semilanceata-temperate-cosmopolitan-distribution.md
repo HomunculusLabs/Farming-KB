@@ -101,7 +101,7 @@ exclusive to neurotropic species.
 ## Cultural Significance
 
 P. semilanceata holds particular cultural importance in Europe, where it is the
-most commonly foraged [[emcdda-psilocybin-mushroom-dose-and-effects]]. Unlike Mexico, where the
+most commonly foraged [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]. Unlike Mexico, where the
 ethnobotanical use of neurotropic fungi is deeply embedded in indigenous
 ceremonial traditions, European use of P. semilanceata appears to be largely a
 modern phenomenon driven by recreational foraging. The species' abundance,

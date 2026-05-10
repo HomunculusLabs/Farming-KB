@@ -1,5 +1,5 @@
 ---
-title: Cannabis for cannabis-chronic-pain-management
+title: Cannabis for Chronic Pain
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Chronic Pain
 
-Chronic pain is the most common reason patients use medical cannabis, and it has the strongest evidence base of any therapeutic application. Multiple systematic reviews and meta-analyses support cannabis as effective for neuropathic pain and chronic non-cancer pain.
+Chronic pain is the most common reason patients use medical cannabis, and it has the strongest evidence base of any therapeutic application. Multiple systematic reviews and meta-analyses support cannabis as effective for neuropathic pain and chronic non-cancer pain. (see [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]]).
 
 ## Types of Pain Treated
 
@@ -55,33 +55,15 @@ Chronic pain is the most common reason patients use medical cannabis, and it has
 
 ## Key Terpenes for Pain
 - **Myrcene**: Muscle relaxant, sedative (found in indica strains)
-- **Beta-caryophyllene**: Anti-inflammatory, CB2 agonist (found in [[comparison-black-pepper-vs-cardamom-tropical-spice-cultivation]], cannabis)
+- **Beta-caryophyllene**: Anti-inflammatory, CB2 agonist (found in black pepper, cannabis)
 - **Pinene**: Anti-inflammatory, bronchodilator
 - **Linalool**: Analgesic, anxiolytic (found in lavender, cannabis)
 
 ## Opioid Crisis Context
-Cannabis shows significant promise as an opioid alternative or adjunct. States with medical cannabis laws see 25% fewer opioid overdose deaths. Patients using cannabis for chronic pain report reducing or eliminating opioid use in many cases.
+Cannabis shows significant promise as an opioid alternative or adjunct. States with medical cannabis laws see 25% fewer opioid overdose deaths. Patients using cannabis for chronic pain report reducing or eliminating opioid use in many cases. (see [[cannabis-thc-therapeutic-profile]]).
 
 ## Related
 - [[cannabis-therapeutic-index-overview]] — for the evidence framework
 - [[cannabis-endocannabinoid-system]] — for mechanism of action
 - [[cannabis-cbd-therapeutic-profile]] — for CBD-specific effects
 - [[cannabis-for-inflammatory-conditions]] — for inflammatory pain overlap
-## Practical Considerations
-
-Successful implementation of Cannabis for Chronic Pain requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

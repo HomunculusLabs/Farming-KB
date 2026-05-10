@@ -132,7 +132,6 @@ development of new methods, and deeper understanding of underlying
 mechanisms. Staying current with developments helps practitioners
 maintain and improve their effectiveness over time.
 
-Cross-disciplinary collaboration increasingly drives progress, with
 ## See Also
 
 - [[blesching-molecules-emotions-endocannabinoid-bridge]]

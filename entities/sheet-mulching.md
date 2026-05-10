@@ -16,7 +16,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Hemenway, T. (2009). Gaia's Garden: A Guide to Home-Scale Permaculture, 2nd Edition. Chelsea Green Publishing.
-  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens, Vol. 2: [[williams-pdc-ecological-design-principles]] and Practice for Temperate-Climate Permaculture. Chelsea Green Publishing.
+  - Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens, Vol. 2: williams-pdc-ecological-design-principles and Practice for Temperate-Climate Permaculture. Chelsea Green Publishing.
   - Holzer, S. (2011). Sepp Holzer's Permaculture. Chelsea Green Publishing.
   - Mollison, B. (1988). Permaculture: A Designer's Manual. Tagari Publications.
 aliases:
@@ -38,7 +38,7 @@ aliases:
 
 ## Applications
 
-**New garden bed creation:** The most common application. Convert lawn, pasture, or compacted ground into fertile planting beds without digging. Especially valuable for establishing [[food-forest-permaculture|Food forest]] establishment:** Sheet mulch large areas to prepare for tree and shrub planting. Create circular sheet mulch zones around each planting site to reduce competition from existing vegetation.
+**New garden bed creation:** The most common application. Convert lawn, pasture, or compacted ground into fertile planting beds without digging. Especially valuable for establishing [[food-forest|Food forest]] establishment:** Sheet mulch large areas to prepare for tree and shrub planting. Create circular sheet mulch zones around each planting site to reduce competition from existing vegetation.
 
 **Pathway construction:** Sheet mulch pathways between beds with thick cardboard + wood chip layers. Paths become weed-free, moisture-retaining, and eventually contribute to the fertility of adjacent beds as nutrients and organisms migrate laterally.
 

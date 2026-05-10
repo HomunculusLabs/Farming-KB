@@ -4,7 +4,8 @@ created: 2026-04-28
 tags: [sterile-technique, contamination, laboratory-design, hepa-filtration]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources: []
+sources:
+  - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
 
@@ -37,11 +38,12 @@ Some cultivators have few problems with contaminants while working in what
 seems like primitive conditions. Others encounter pronounced contamination
 levels and must invest in high technology controls. Each circumstance dictates
 an appropriate countermeasure. Whether one is a home cultivator or a spawn
-## See Also
 
 ## See Also
-
 - [[stamets-grain-sterilization-contamination-sources]]
+- [[sterilization]]
+- [[mushroom-hygiene-and-contamination]]
+
 ## Practical Considerations
 
 When working with Contamination Sources and Laboratory Hygiene, several practical factors should be

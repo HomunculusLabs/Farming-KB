@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Baird RE, de Leon C, Torres-Torres E, et al. (2013). "A new species of Hydnellum (Bankeraceae) from Neotropical and Caribbean forests." Mycotaxon 125(1): 127-136.
   - Maas Geesteranus RA (1971). "Hydnellum Peck (Donk) and related genera in Europe." Persoonia 6(4): 361-388.
-  - Kõljalg U, Larsson KH, Abarenkov K, et al. (2005). "UNITE: a database providing web-based methods for the [[biodiversity-fungal-molecular-identification-dna-barcoding]] of [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]]." New Phytologist 166(3): 1063-1068.
+  - Kõljalg U, Larsson KH, Abarenkov K, et al. (2005). "UNITE: a database providing web-based methods for the biodiversity-fungal-molecular-identification-dna-barcoding of query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with." New Phytologist 166(3): 1063-1068.
 created: 2026-04-28
 ---
 

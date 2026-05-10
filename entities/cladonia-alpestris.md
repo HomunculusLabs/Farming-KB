@@ -129,6 +129,10 @@ Cladonia alpestris shows somewhat stronger phosphorus-specific allelopathic effe
 
 ## See Also
 
+- [[cladonia-deformis]]
+- [[cladonia-deglacialis]]
+- [[cladonia-squamosa]]
+
 - lichen-air-quality-biomonitoring-sampling-protocols
 
 - [[fungal-biodiversity-forest-ecosystems]]

@@ -53,20 +53,42 @@ This accumulated knowledge enables progressively better decision-making
 and helps identify patterns that might otherwise be overlooked in the
 complexity of day-to-day management and observation activities.
 
-## Future Directions
+## Dose-Response Profile
 
-Ongoing developments in research and practice continue to expand our
-understanding and improve available approaches. New techniques, tools,
-and analytical methods offer opportunities for refinement and innovation
-that can enhance both the effectiveness and efficiency of implementation.
+The EMCDDA identified four general dose levels based on dried mushroom
+material, though potency varies enormously between species and even
+within the same species depending on growing conditions and age:
 
-Integration with other disciplines and approaches creates synergies that
-advance the field as a whole. Cross-pollination of ideas from biology,
-ecology, data science, and traditional knowledge systems generates novel
-perspectives and solutions that may not emerge within any single domain.
+- **Light dose** (0.5-1.0 g dried): Mild perceptual changes, enhanced
+  colors, slight mood elevation. Suitable for first-time users in a
+  safe setting.
+- **Common dose** (1.0-2.5 g dried): Pronounced visual and auditory
+  alterations, significant mood shifts, altered sense of time,
+  introspective thought patterns.
+- **Strong dose** (2.5-5.0 g dried): Intense visual hallucinations,
+  ego dissolution possible, profound emotional experiences, synesthesia.
+- **Heavy dose** (5.0+ g dried): Complete immersion in hallucinatory
+  experience, significant risk of anxiety or panic, not recommended
+  without experienced guidance.
 
-For continued learning, recommended resources include current research
-publications, established practitioner networks, hands-on experimentation,
-and systematic observation of outcomes across different conditions and
-approaches. The combination of study and practice provides the strongest
-foundation for developing deep expertise and contributing to the field.
+Onset of effects typically occurs within 20-60 minutes after ingestion,
+peaks at 2-3 hours, and gradually subsides over 4-6 hours. The
+experience is strongly influenced by set (the user's mindset and
+expectations) and setting (the physical and social environment), a
+framework first described by Timothy Leary that remains central to
+understanding psychedelic experiences.
+
+## Health Risks and Harm Reduction
+
+The EMCDDA concluded that psilocybin mushrooms carry relatively low
+toxicity risk compared to other recreational drugs. No fatal overdoses
+from psilocybin alone have been documented. Primary risks are
+psychological: individuals with a family history of psychosis may
+experience destabilizing reactions. Accidental poisoning from
+misidentified species remains the most significant physical risk.
+Harm reduction practices include testing a small amount first, having
+a trusted sober companion present, and avoiding stressful environments.
+
+## See Also
+
+- [[emcdda-psilocybin-flashbacks-and-persistent-psychosis-risk]]

@@ -131,6 +131,8 @@ carry genetic connections to the emerging Diesel family.
 
 ## See Also
 
+- [[oner-diesel-strain-lineage-and-profiles]]
+
 - [[oner-cannabis-phenotypes-genetic-expression]]
 - [[oner-sativa-renaissance-rise-of-the-second-child]]
 

@@ -1,0 +1,119 @@
+---
+title: "Magnolia acuminata"
+type: species
+tags:
+  - magnoliaceae
+  - deciduous-tree
+  - ornamental-tree
+  - native-american
+  - temperate-hardwood
+date: 2026-05-09
+updated: 2026-05-09
+sources:
+  - Callaway, D.J. (1994). "The World of Magnolias." Timber Press.
+  - United States Forest Service. "Silvics of North America: Magnolia acuminata."
+  - Treseder, L.C. (1994). "Magnolias of the World." Royal Botanic Gardens, Kew.
+---
+
+## Overview
+
+**Magnolia acuminata**, commonly known as the cucumber tree, is the largest of the native North American magnolia species. It is a deciduous tree valued for its timber, ornamental qualities, and ecological importance in eastern deciduous forests.
+
+The species is the most cold-hardy of all magnolias, naturally occurring farther north than any other member of the genus. Its common name derives from the cucumber-like appearance of its immature fruit.
+
+This tree serves as a parent in several important hybrid magnolias, contributing cold hardiness and yellow flower color to cultivated varieties. It is the state flower of Mississippi in its southern range forms.
+
+## Taxonomy
+
+- **Kingdom:** Plantae
+- **Order:** Magnoliales
+- **Family:** Magnoliaceae
+- **Genus:** Magnolia
+- **Species:** *M. acuminata*
+- **Authority:** (L.) L.
+
+**Synonyms:**
+- *Magnolia cordata* Michx. (disputed, sometimes treated as separate)
+- *Magnolia acuminata* var. *cordata* (Michx.) Ser.
+- *Magnolia acuminata* var. *subcordata* (Spach) Dandy
+
+The species was one of the first magnolias described from North America. Linnaeus originally placed it in a different genus before later transferring it to Magnolia.
+
+Two botanical varieties are recognized: var. *acuminata* (typical northern form) and var. *subcordata* (southern form with smaller, more cordate leaves). The southern variety is sometimes treated as a distinct species, *M. cordata*.
+
+## Morphology
+
+Cucumber trees reach heights of 18–30 meters (60–100 feet) under optimal conditions. Exceptional specimens may exceed 35 meters with trunk diameters of 1–1.5 meters.
+
+The leaves are large, measuring 15–25 cm in length and 8–12 cm in width. They are elliptic to oblong-lanceolate in shape with entire margins and acuminate tips.
+
+The upper leaf surface is dark green and smooth, while the underside is paler with fine pubescence along the veins. Autumn coloration is yellow to bronze, though less spectacular than many other deciduous trees.
+
+Flowers are terminal, solitary, and measure 5–8 cm in diameter. They are yellowish-green to green, less showy than other magnolias, appearing in May to June after leaf emergence.
+
+The fruit is an aggregate of follicles, 3–8 cm long, cylindrical and slightly curved. Immature fruit resembles a small cucumber, giving the species its common name. Seeds are orange-red when ripe, suspended by thin threads.
+
+Bark is dark gray to brown, developing furrows and ridges with age. Young branches are smooth and greenish-brown, becoming darker and rougher over time.
+
+## Distribution and Habitat
+
+*Magnolia acuminata* is native to eastern North America, ranging from southern Ontario and western New York south to Mississippi and Alabama, and west to Missouri and Arkansas.
+
+The species reaches its greatest size in the Appalachian Mountains and the Cumberland Plateau. It is most abundant in rich, moist coves and lower mountain slopes.
+
+It grows in mixed hardwood forests, often associated with [[liriodendron-tulipifera]], [[quercus-alba]], [[acer-saccharum]], [[fagus-grandifolia]], and [[tilia-americana]]. It is a component of the mixed mesophytic forest association.
+
+Optimal growth occurs on deep, fertile, well-drained loam soils with a pH of 5.0–6.5. The species is somewhat shade-tolerant in youth but becomes more light-demanding with maturity.
+
+Elevation range extends from near sea level in the northern part of its range to approximately 1,500 meters in the southern Appalachians. It is absent from poorly drained soils and extremely dry ridges.
+
+The species is relatively long-lived, with documented specimens exceeding 300 years. Champion trees have been recorded with heights over 29 meters and trunk diameters approaching 2 meters.
+
+## Cultivation
+
+Cucumber trees are propagated primarily from seed, though softwood cuttings and grafting are also successful. Seeds require 3–6 months of cold stratification at 1–5°C for reliable germination.
+
+The species is hardy to USDA Zone 4, making it the most cold-tolerant magnolia available to northern gardeners. This exceptional cold hardiness drives much of its horticultural value.
+
+It prefers full sun to partial shade and deep, moist, slightly acidic soils. Young trees transplant with moderate difficulty due to a coarsely branched root system.
+
+Growth rate is moderate, typically 30–60 cm per year under cultivation. Trees begin flowering at 15–20 years of age when grown from seed, faster when grafted onto established rootstock.
+
+Several cultivars exist, including 'Fertile Myrtle' (prolific bloomer) and 'Elizabeth' (a yellow-flowered hybrid with *M. acuminata* parentage). The species is widely used in breeding programs to introduce cold hardiness and yellow pigment into cultivated magnolias.
+
+Pests include magnolia scale, tuliptree scale, and various borers. The species is generally more disease-resistant than many ornamental magnolias.
+
+In urban and landscape settings, cucumber tree requires ample space due to its mature size. It performs well as a shade tree in parks, large residential properties, and institutional grounds. Its tolerance of urban conditions is moderate, performing best in areas with reduced pollution and adequate root space.
+
+## Ecological Role
+
+The flowers are pollinated by beetles, continuing an ancient pollination syndrome characteristic of primitive angiosperms. The floral structure is adapted to crawling pollinators rather than flying insects.
+
+Unlike many magnolia species, *M. acuminata* flowers after leaf emergence rather than before. This later flowering period protects blooms from late spring frosts, contributing to reliable seed set in northern populations.
+
+Seeds are dispersed by birds and small mammals, which are attracted to the bright orange-red arils. Each follicle contains 1–2 seeds, with a single tree producing thousands of seeds in favorable years.
+
+The species provides habitat and food for numerous wildlife species. Cavities in mature trees serve as nesting sites for woodpeckers, flying squirrels, and other cavity-nesting birds and mammals.
+
+In forest ecosystems, cucumber tree contributes to canopy structure and vertical diversity. Its large leaves create significant leaf litter, contributing to soil organic matter and nutrient cycling.
+
+The wood is straight-grained, light, and moderately soft, working easily with both hand and machine tools. It has been used for furniture, paneling, crates, and veneer, though commercial harvest is limited by the species' scattered distribution and relatively slow growth.
+
+The species is considered threatened or endangered in several states at the northern edge of its range. Habitat loss from urbanization and agricultural conversion has reduced populations in parts of Ontario, New York, and Pennsylvania.
+
+Conservation efforts include seed banking, habitat protection in state and national forests, and reforestation programs. The species' value in hybrid magnolia breeding provides additional incentive for ex situ conservation in botanical collections worldwide.
+
+## See Also
+
+- [[magnolia-soulangeana]]
+
+- [[magnolia-grandiflora]]
+- [[magnolia-virginiana]]
+- [[liriodendron-tulipifera]]
+- [[quercus-alba]]
+- [[acer-saccharum]]
+- [[fagus-grandifolia]]
+- [[tilia-americana]]
+- [[ginkgo-biloba]]
+- [[betula-nigra]]
+- [[liquidambar-styraciflua]]

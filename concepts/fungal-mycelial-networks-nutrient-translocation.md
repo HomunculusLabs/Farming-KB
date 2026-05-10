@@ -12,7 +12,6 @@ connectivity creates both vulnerabilities and resilience — networks can rerout
 damaged sections but may also facilitate the spread of contaminants or pathogens.
 
 ## See Also
-
 - [[mycelial-cord-architecture-and-nutrient-translocation-basidiomycetes]]
 - [[soil-foodweb-biology-overview]]
 

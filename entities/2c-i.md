@@ -17,7 +17,7 @@ sources:
 # 2C-I (2,5-Dimethoxy-4-iodophenethylamine)
 
 2C-I is a synthetic psychedelic phenethylamine and a member of the 2C family first synthesized and bioassayed by
-[[mescaline-entity]] and its distinctly colorful visual effects. It
+[[mescaline]] and its distinctly colorful visual effects. It
 is one of the most widely encountered 2C compounds in both research and recreational contexts.
 
 ## Chemical Properties

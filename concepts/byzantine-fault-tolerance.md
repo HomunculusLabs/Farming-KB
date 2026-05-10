@@ -106,3 +106,6 @@ These links are conceptual neighbors in the broader wiki rather than direct farm
 
 See also: [[pasture-management-and-forage]]
 - [[fungal-salt-tolerance-and-ion-homeostasis]]
+
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.

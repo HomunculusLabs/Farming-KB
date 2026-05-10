@@ -14,7 +14,7 @@ sources:
   - "Büntgen, U. et al. (2011). \"Drought-induced decline in the growth of European truffle.\" Nature dighton-fungi-climate-change-feedback, 1(5), 276-279."
   - "Hall, I.R., Brown, G.T. & Zambonelli, A. (2007). Taming the Truffle. Timber Press."
   - "Mello, A. et al. (2006). \"Tuber aestivum: a species complex or a polymorphic species?\" Mycorrhiza, 16(4), 239-246."
-  - "Bonito, G. et al. (2010). \"Tuber aestivum Vittad. and Tuber uncinatum Chatin.\" [[bloomfield-fungal-biology-and-hyphal-growth]], 114(1), 63-72."
+  - "Bonito, G. et al. (2010). \"Tuber aestivum Vittad. and Tuber uncinatum Chatin.\" bloomfield-fungal-biology-and-hyphal-growth, 114(1), 63-72."
   - "Stobbe, U. et al. (2013). \"Tuber aestivum synthesis with Quercus robur.\" Mycorrhiza, 23(1), 59-69."
 ---
 
@@ -136,13 +136,8 @@ Unlike the more expensive black Périgord truffle (*T. melanosporum*), the summe
 - **Soil compaction:** Heavy machinery in orchards degrades soil structure essential for truffle development
 
 ## See Also
-
 - [[fomes-fomentarius]]
 - [[tricholoma-matsutake]]
-
-## See Also
-
-- permaculture-tuber-crops
 - [[fagus-sylvatica]]
 - [[tuber-borchii]]
 - [[ectomycorrhiza]]

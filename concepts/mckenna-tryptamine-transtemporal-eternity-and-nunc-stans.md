@@ -120,17 +120,7 @@ The convergence between McKenna's reports and indigenous shamanic descriptions s
 The universality of the experience across cultures supports McKenna's claim that it reveals something fundamental about the relationship between consciousness and time.
 
 ## See Also
-
 - [[mckenna-tryptamine-ecstasy-and-platonic-eternity]]
-
 - [[dmt-onset-phenomenology-mode-shift]]
-
 - [[tryptamine-hypercontinuum-and-invisible-landscape]]
-
-- shamanic cosmology and tryptamine spaces
-
-## See Also
-
-- [[mckenna-tryptamine-ecstasy-and-platonic-eternity]]
-
 - [[mckenna-heraclitus-aeon-child-play-tryptamine-ecstasy]]

@@ -5,7 +5,6 @@ updated: 2026-05-02
 type: query
 tags: [fungal-ecology, mycology]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 ---

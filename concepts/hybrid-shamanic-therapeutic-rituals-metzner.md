@@ -142,7 +142,6 @@ that require materialist frameworks.
 Nevertheless, the trend toward integration appears to be
 accelerating. Contemporary psychedelic therapy programs
 increasingly incorporate elements such as ceremonial setting,
-music playlists (a secular form of the shaman's singing),
 ## See Also
 
 - [[shamanic-singing-and-darkness-in-entheogenic-ceremonies]]

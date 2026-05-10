@@ -5,7 +5,6 @@ date: 2026-04-25
 updated: 2026-04-25
 tags: [comparison, water-management, earthworks, permaculture, soil-building]
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 type: comparison
 ---

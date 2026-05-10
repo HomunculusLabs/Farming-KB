@@ -95,7 +95,7 @@ Most homesteaders have dessert apples, not true cider apples. You can still make
 
 ### Step 4: Choosing Your Yeast Approach
 
-**[[comparison-wild-fermentation-vs-commercial-starter-culture]] (Traditional)**
+**Wild Fermentation (Traditional)**
 - Use no added yeast -- rely on wild yeasts naturally present on the apples and in the environment
 - Results in complex, funky, terroir-driven cider
 - Less predictable -- can produce off-flavors or fail entirely
@@ -140,10 +140,11 @@ If you want sweet or semi-sweet cider, you must stabilize before adding sugar:
 - Still cider: bottle in wine bottles with corks or swing-top bottles. Age 1-3 months.
 - Sparkling cider: bottle in thick beer bottles with caps. Prime with sugar as for beer. Age 2-4 weeks for carbonation.
 - Condition at room temperature, then store cool. Serve chilled.
-## Related Concepts
 
-- [[fruit-tree-propagation]] -- plant cider apple trees on your homestead
-- [[beer-brewing-basics]] -- shared fermentation and carbonation techniques
-- [[mead-making-guide]] -- cyser is a honey-apple mead combining both traditions
-- [[root-beer-making]]
-- [[calendula-salve-making]]
+## Aging
+
+- Young cider (1-3 months): fresh, bright apple character, simple but pleasant
+- Aged cider (6-12 months): more complex, mellow, developed flavors
+- Extended aging (1-3+ years): gains depth and complexity. Higher-tannin ciders benefit most from aging.
+- Store at 50-60F, on their side if corked, away from light
+

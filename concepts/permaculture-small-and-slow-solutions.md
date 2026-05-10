@@ -10,8 +10,7 @@ tags:
   - appropriate-scale
   - resilience
 sources:
-  sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
 # Permaculture Small and Slow Solutions
@@ -44,11 +43,11 @@ Small changes can be reversed or modified if they don't work as expected. Large 
 
 ### Learning and Adaptation
 
-Working slowly allows observation of results and incorporation of lessons learned. Each step informs the next, creating a responsive, adaptive [[hemenway-garden-design-process-observation-and-visioning]] rather than a rigid plan imposed on the landscape.
+Working slowly allows observation of results and incorporation of lessons learned. Each step informs the next, creating a responsive, adaptive design process rather than a rigid plan imposed on the landscape.
 
 ### Energy Efficiency
 
-Small, local systems generally require less energy to build and maintain than large, centralized ones. Transport distances are shorter, infrastructure is simpler, and maintenance can be done with [[garden-hand-tools-solomon]].
+Small, local systems generally require less energy to build and maintain than large, centralized ones. Transport distances are shorter, infrastructure is simpler, and maintenance can be done with hand tools.
 
 ## Applications in Design
 
@@ -58,7 +57,7 @@ Small, local systems generally require less energy to build and maintain than la
 - Begin with [[permaculture-sheet-mulch-detailed-guide|sheet mulching]] one bed rather than tilling the entire yard
 - Plant a few trees first, observe their performance, then add more
 - Use [[permaculture-herb-spiral-details|herb spirals]] and [[keyhole-garden-design|keyhole beds]] -- small features with big impact
-- [[zone-sector-analysis-guide|Zone planning]] itself is an expression of this principle: concentrate intensive design where it matters most
+- [[permaculture-zone-and-sector-analysis|Zone planning]] itself is an expression of this principle: concentrate intensive design where it matters most
 
 ### Water Management
 
@@ -93,7 +92,7 @@ There are situations where larger, faster action is necessary:
 
 - Emergency response (fire, flood, immediate threats)
 - Stopping destructive processes (clear-cutting, pollution)
-- Establishing protective infrastructure (fencing, [[permplant-willows-salix-erosion-control-fodder]])
+- Establishing protective infrastructure (fencing, erosion control)
 - Meeting urgent human needs (shelter, food security)
 
 Even in these cases, the principle suggests that the response should be the minimum necessary and should set the stage for longer-term, slower, more resilient solutions.

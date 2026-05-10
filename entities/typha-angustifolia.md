@@ -103,6 +103,8 @@ Genetic studies have confirmed that the invasive *T. × glauca* populations in t
 
 ## See Also
 
+- [[elaeagnus-angustifolia]]
+
 - [[typha-domingensis]]
 
 - [[phragmites-australis]]

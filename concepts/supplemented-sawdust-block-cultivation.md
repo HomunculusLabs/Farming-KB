@@ -119,6 +119,8 @@ bedding for [[vermicomposting]] systems.
 
 ## See Also
 
+- [[supplemented-sawdust-fruiting-block-production]]
+
 - [[shiitake-cultivation-on-sawdust]]
 - [[oyster-mushroom-supplemented-sawdust-blocks]]
 - [[biological-efficiency]]

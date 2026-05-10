@@ -13,7 +13,7 @@ type: concept
 
 ## Evidence-Based Confidence Level
 
-The [[cannabis-health-endo-cannabinoid-system]] offers a fundamentally different therapeutic
+The [[endocannabinoid-neurogenesis-neuroplasticity-blesching-[[blesching-dark-night-of-soul-meditation-adverse-effects-mind-body]]]] offers a fundamentally different therapeutic
 pathway through neurochemical modulation and processing of suppressed
 emotions. The hippocampus, central to memory and emotion, is rich in CB1
 receptors and plays a critical role in depression.
@@ -79,7 +79,7 @@ A meditative approach requiring no physical energy, only imagination:
 3. Slowly let the contents flow out into the earth.
 4. Notice the weight becoming lighter.
 
-The autonomic nervous system does not distinguish between real and imagined
+The [[endocannabinoid-autonomic-nervous-system-balance-blesching]] system does not distinguish between real and imagined
 events, making this visualization physiologically effective.
 
 ### The Walking Cure: Gait and Selective Memory

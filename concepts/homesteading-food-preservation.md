@@ -9,14 +9,14 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and.md]
 
 # Homesteading Food Preservation
 
-Preserving the harvest extends seasonal abundance into year-round food security. The core methods are drying, fermentation, freezing, canning, and [[comparison-root-cellaring-guide-vs-canning-and-preserving]] — each suited to different foods.
+Preserving the harvest extends seasonal abundance into year-round food security. The core methods are drying, fermentation, freezing, canning, and root cellaring — each suited to different foods.
 
 ## Root Cellaring
 
 The simplest and most energy-efficient preservation method:
 - Temperature: 32-40°F (0-4°C)
 - Humidity: 85-95%
-- Crops: [[growing-root-vegetables-guide]] (potatoes, carrots, beets, turnips, parsnips), cabbages, apples, onions, winter squash
+- Crops: root vegetables (potatoes, carrots, beets, turnips, parsnips), cabbages, apples, onions, winter squash
 - No electricity required — use [[earth-cellar-construction]] or [[stone-cellar-building]]
 - Store crops in layers separated by straw or sawdust
 - Check weekly; remove any rotting specimens immediately
@@ -26,7 +26,7 @@ The simplest and most energy-efficient preservation method:
 
 ### Sun Drying
 - Best for herbs, fruits (tomatoes, apples, figs, berries), and hot peppers
-- Requires 85-100°F with [[pf-tek-low-humidity-symptoms-and-remediation]] and good airflow
+- Requires 85-100°F with low humidity and good airflow
 - 3-5 days depending on thickness
 - Protect from insects with netting or screens
 
@@ -50,7 +50,7 @@ The oldest and most nutritious preservation method:
 - **Sauerkraut**: Shredded cabbage + 2% salt by weight, pack tightly, ferment 3-6 weeks
 - **Kimchi**: Cabbage, radish, chili, garlic, ginger + 3% salt, ferment 1-3 weeks
 - **Pickles**: Vegetables in brine (5% salt solution), ferment 1-4 weeks
-- **Sourdough**: Flour + water + [[comparison-sourdough-vs-wild-yeast-bread]], daily feeding, use for bread
+- **Sourdough**: Flour + water + wild yeast, daily feeding, use for bread
 - Fermented foods are alive — store in cool conditions to slow fermentation
 
 ## Freezing
@@ -76,5 +76,5 @@ The oldest and most nutritious preservation method:
 
 ## Related
 - [[fermented-plant-extract-fpe]] — for the science behind fermentation
-- [[earth-cellar-construction]] — for root [[root-cellar-design-and-construction]]
+- [[earth-cellar-construction]] — for root cellar design
 - [[compost-building-guide]] — for food scraps that can't be preserved

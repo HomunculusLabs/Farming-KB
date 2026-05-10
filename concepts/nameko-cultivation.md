@@ -16,11 +16,11 @@ sources:
 
 ## Overview
 
-Nameko (Pholiota nameko) is a traditional Japanese culinary mushroom, one of the most popular [[fungi-cultivated-mushrooms-pathogens-competitors]] in Japan. It is characterized by its small amber-to-orange cap and distinctive gelatinous, slippery surface coating. Nameko has a mild, nutty flavor and is a key ingredient in miso soup and nabemono (Japanese hot pot dishes).
+Nameko (Pholiota nameko) is a traditional Japanese culinary mushroom, one of the most popular cultivated mushrooms in Japan. It is characterized by its small amber-to-orange cap and distinctive gelatinous, slippery surface coating. Nameko has a mild, nutty flavor and is a key ingredient in miso soup and nabemono (Japanese hot pot dishes). (see [[shiitake-cultivation-guide]]).
 
 ## Species Description
 
-Nameko produces small to medium fruiting bodies with caps 2-5 cm in diameter, ranging from amber to deep orange-brown. The most distinctive feature is the viscid, gelatinous coating on both cap and stem when fresh, giving it a glossy, wet appearance. The gills are attached to the stem and initially pale, becoming rust-brown with spore maturity.
+Nameko produces small to medium fruiting bodies with caps 2-5 cm in diameter, ranging from amber to deep orange-brown. The most distinctive feature is the viscid, gelatinous coating on both cap and stem when fresh, giving it a glossy, wet appearance. The gills are attached to the stem and initially pale, becoming rust-brown with spore maturity. (see [[supplemented-sawdust-block-cultivation]]).
 
 Natural habitat: saprophytic on dead hardwood logs, particularly species of oak, beech, and other broadleaf trees. Found in temperate forests of East Asia and has been widely cultivated in Japan for several centuries.
 
@@ -67,7 +67,7 @@ The log method produces lower yields but requires minimal equipment and is well-
 | CO2 | Moderate | N/A |
 | Light | Dark | No light needed |
 
-Nameko mycelium is white to off-white and colonizes relatively quickly. Full colonization of [[oyster-mushroom-supplemented-sawdust-blocks]] blocks typically takes 3-4 weeks.
+Nameko mycelium is white to off-white and colonizes relatively quickly. Full colonization of supplemented sawdust blocks typically takes 3-4 weeks.
 
 ## Fruiting Conditions
 
@@ -82,7 +82,7 @@ Nameko mycelium is white to off-white and colonizes relatively quickly. Full col
 
 ### Initiation
 
-After full colonization, a cold shock (reducing temperature to 50-54°F / 10-12°C for 24-48 hours) stimulates [[growing-gourmet-primordia-formation-pinning]]. Light introduction and increased humidity complete the initiation process.
+After full colonization, a cold shock (reducing temperature to 50-54°F / 10-12°C for 24-48 hours) stimulates primordia formation. Light introduction and increased humidity complete the initiation process.
 
 ### Key Fruiting Consideration: Gel Production
 
@@ -100,7 +100,7 @@ Harvest individual mushrooms or small clusters by cutting at the base with sciss
 
 ### Yield
 
-- **Sawdust blocks:** 60-100% [[stamets-biological-efficiency-yield]]
+- **Sawdust blocks:** 60-100% biological efficiency
 - **Log cultivation:** Variable; 20-40% of log weight over several years
 - **Flushes:** 2-3 flushes per block; log cultivation may produce for 2-3 years
 
@@ -112,9 +112,9 @@ Fresh Nameko is highly perishable due to its gelatinous coating and moisture con
 
 - **Drying of gel coating:** Insufficient humidity during fruiting
 - **Cobweb mold (Dactylium):** Common competitor; requires strict hygiene
-- **Green mold (Trichoderma):** Primary contaminant; maintain [[cultivator-sterile-technique-and-agar-culture]]
+- **Green mold (Trichoderma):** Primary contaminant; maintain sterile technique
 - **Poor fruiting:** Often caused by insufficient cold shock or excessive temperature
-- **[[growing-gourmet-bacterial-blotch-disease-management]]:** Dark spots on caps caused by Pseudomonas species; improve air circulation and reduce surface wetness
+- **Bacterial blotch:** Dark spots on caps caused by Pseudomonas species; improve air circulation and reduce surface wetness
 
 ## See Also
 

@@ -23,7 +23,7 @@ sources:
 
 # PF TEK Guide
 
-The [[pf-tek-psilocybe-fanaticus-cultivation-method]] TEK (Technique), first published in 1992, revolutionized home [[accessible-mushroom-cultivation-for-disabilities]] by making it accessible using common kitchen supplies. PF TEK remains the most widely copied and influential beginner cultivation method. See [[pf-tek-fruiting-chamber]] for detailed [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] construction and [[mushroom-harvesting-potency]] for harvest/drying/potency optimization.
+The Psilocybe Fanaticus TEK (Technique), first published in 1992, revolutionized home mushroom cultivation by making it accessible using common kitchen supplies. PF TEK remains the most widely copied and influential beginner cultivation method. See [[pf-tek-fruiting-chamber]] for detailed fruiting chamber construction and [[mushroom-harvesting-potency]] for harvest/drying/potency optimization.
 
 ## History
 
@@ -31,7 +31,7 @@ In September 1991, Psylocybe Fanaticus (PF) introduced the PF magic mushroom gro
 
 ## Core Innovation
 
-PF TEK uses brown rice powder and vermiculite as substrate instead of grain. The key insight: when mycelium is grown in grain, it turns into a dense mass with little air space, but when grown with vermiculite, the mycelial threads stretch across space, creating a more productive culture. The method uses mass spore inoculation directly to the [[pf-tek-maximum-fruiting-substrate-formula]] rather than tissue cloning, preserving full genetic diversity and avoiding senescence.
+PF TEK uses brown rice powder and vermiculite as substrate instead of grain. The key insight: when mycelium is grown in grain, it turns into a dense mass with little air space, but when grown with vermiculite, the mycelial threads stretch across space, creating a more productive culture. The method uses mass spore inoculation directly to the fruiting substrate rather than tissue cloning, preserving full genetic diversity and avoiding senescence.
 
 ## Substrate Formula (per half-pint jar)
 
@@ -132,18 +132,19 @@ See [[mushroom-harvesting-potency]] for complete details:
 - Shoulderless half-pint jars with lids (Kerr or Ball)
 - Organic brown rice flour
 - Horticultural vermiculite (medium or fine grade)
-## See Also
+- Distilled or filtered drinking water
+- Heavy duty tin foil
+- Heavy duty masking tape
+- Ice pick (for punching lid holes)
 
-- [[pf-tek-fruiting-chamber]] -- Dual [[dual-chambered-terrarium-design]] construction and operation
-- [[mushroom-harvesting-potency]] -- Harvest timing, drying, spore printing
-- [[psilocybin-cultivation]] -- Broader cultivation overview
-- [[mushroom-sterile-technique-detailed]] -- Sterile procedure hierarchy (SAB, glove box, flow hood)
-- [[mushroom-substrates]] -- Substrate options beyond PF TEK
-- [[mushroom-grow-equipment]] -- Equipment guide
-- [[inoculation-methods]] -- [[cotter-inoculation-techniques-and-hygiene]]
-- [[mushroom-cultivation-methods]] -- Method comparison
+### Stage Two: Mushroom Growing
+- 10-gallon aquarium
+- Cut piece of transparent Plexiglas (~15x18 inches, 1/8 inch thick)
+- Strips of wood with connectors and screws (terrarium lid)
+- Plastic film and thumb tacks (lid covering)
+- Small wall thermometer
+- High-quality adjustable nozzle water spray bottle (critical)
+- Wire screen, plastic containers, plastic bags (drying)
+- Desiccant: Drierite, silica gel, or Damp Gone (drying)
 
-## Related
-
-- [[mushroom-cultivation-methods]]
-- [[psilocybin-liquid-culture]]
+### Stage Three: Spore Printing and Syringe Making

@@ -4,8 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 # Organic [[seed-starting-reference]] and [[root-vegetable-storage-guide]] should be monitored for readiness
 

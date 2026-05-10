@@ -5,7 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  sources: []
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 Updated: 2026-04-18

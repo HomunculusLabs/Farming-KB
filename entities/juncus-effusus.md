@@ -13,7 +13,7 @@ sources:
   - Kirschner, J. (2002). "Juncus L." In: Flora of psilocybin-north-america-pacific-northwest North of Mexico, Vol. 22, pp. 256-291. Oxford University Press.
   - Wilcox, D.A. & Meeker, J.E. (1991). "Disturbance effects on aquatic vegetation in a regulated lake in northern Wisconsin." American Midland Naturalist, 126(1), 37-49.
   - Brooks, R.E. (2000). "Juncus effusus L. (soft rush)." In: USDA Forest Service Fire Effects Information System.
-  - Ebeling, F. et al. (2016). "Phytoremediation of nutrient-enriched water using Juncus effusus in [[comparison-constructed-wetlands-vs-bioswales]]." Ecological Engineering, 94, 428-435.
+  - Ebeling, F. et al. (2016). "Phytoremediation of nutrient-enriched water using Juncus effusus in comparison-constructed-wetlands-vs-bioswales." Ecological Engineering, 94, 428-435.
   - Simpson, D. (2010). "Juncaceae of economic importance." Kew Bulletin, 65(3), 451-465.
 ---
 
@@ -101,6 +101,8 @@ Optimal growth occurs in full sun to partial shade with consistently moist soil.
 *Juncus tenuis* (path rush) is a smaller species of disturbed ground, reaching only 20–40 cm tall. *Juncus inflexus* (hard rush) differs in having harder, more rigid stems and a more northerly distribution. These species can form hybrids in zones of overlap, particularly between *J. effusus* and *J. conglomeratus*.
 
 ## See Also
+
+- [[juncus-tenuis]]
 
 - [[schoenoplectus-lacustris]]
 - typha-latifolia-entity

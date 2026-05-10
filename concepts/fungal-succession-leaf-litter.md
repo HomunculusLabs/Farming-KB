@@ -67,3 +67,15 @@ Understanding fungal succession on leaves has applications in:
 - Cooke, R.C. and Rayner, A.D.M. 1984. Ecology of Saprotrophic Fungi
 - Dix, N.J. and Webster, J. 1995. [[gadd-fungal-ecology-endophytes]]
 - [[fungal-decomposition-wood-litter]]
+
+## Competition and Antagonism Among Decomposer Fungi
+
+Fungal succession on leaf litter is not merely a passive response to changing substrate chemistry; active competition and antagonism between species play a significant role in community assembly. Many decomposer fungi produce antifungal compounds that inhibit competing species. Hyphal interference, including mycoparasitism and resource preemption, shapes which species dominate at each successional stage. Trichoderma species are well-known aggressive competitors that can displace earlier colonizers through rapid growth and enzymatic degradation of competing hyphae.
+
+## Climate Change Impacts on Fungal Succession
+
+Rising temperatures and altered precipitation patterns are expected to shift fungal successional trajectories on decomposing leaves. Experimental warming studies have demonstrated that higher temperatures accelerate decomposition rates but may alter the relative abundances of key functional groups. Drought stress can slow succession by limiting fungal growth, while increased precipitation frequency may favor early-stage sugar fungi over later-stage lignin decomposers. These shifts have implications for carbon storage and nutrient availability in forest ecosystems.
+
+## Methodological Considerations for Studying Succession
+
+Studying fungal succession on leaves requires careful attention to methodology. Culture-based approaches capture only a fraction of the total fungal diversity, as many species are unculturable on standard media. Molecular techniques including DNA metabarcoding from environmental samples have revealed much higher fungal diversity on decomposing leaves than traditional plating methods, but they also introduce biases related to DNA extraction efficiency and primer specificity. A combined approach using both cultural and molecular methods provides the most comprehensive picture of successional dynamics.

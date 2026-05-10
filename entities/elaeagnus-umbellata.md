@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Olsson, A.M. (1974). "Elaeagnus umbellata as a nurse plant in black walnut plantations." Plant and Soil 40(2): 321-328.
-  - Paschke, M.W. et al. (1989). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] and [[dighton-fungal-biomass-production-aquatic-ecosystems]] by Elaeagnus umbellata." American Journal of Botany 76(1): 22-29.
+  - Paschke, M.W. et al. (1989). "comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer and dighton-fungal-biomass-production-aquatic-ecosystems by Elaeagnus umbellata." American Journal of Botany 76(1): 22-29.
   - USDA-NRCS (2020). "Plant Guide: Autumn olive (Elaeagnus umbellata)." USDA Natural Resources Conservation Service.
   - Fordham, I.M. et al. (2001). "Lycopene and tocopherol content of autumn olive berries." Journal of the American Society for Horticultural Science 126(1): 14-18.
   - Catling, P.M. & Porebski, S. (1994). "The history of invasion and current status of Elaeagnus umbellata in Ontario." Canadian Field-Naturalist 108(3): 305-310.

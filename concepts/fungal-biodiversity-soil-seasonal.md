@@ -63,6 +63,18 @@ conditions. Integration with other system elements enhances
 overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
+## Sampling Design Considerations
+
+For researchers studying seasonal fungal dynamics, sampling design
+must account for temporal variability. Single time-point studies
+risk mischaracterizing community composition, as a species dominant
+in autumn may be undetectable in spring. Minimum recommended sampling
+frequency is quarterly, with monthly sampling preferred for detailed
+phenological studies. Soil cores should be taken at consistent depth
+(usually 0-15 cm) and composited from multiple subsamples to reduce
+spatial heterogeneity effects. See [[soil-fungal-diversity]] for
+standardized survey protocols.
+
 ## Future Directions
 
 Continued development in this area promises new insights and

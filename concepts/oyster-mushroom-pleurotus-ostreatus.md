@@ -10,7 +10,7 @@ sources:
 
 # Oyster Mushroom (Pleurotus ostreatus)
 
-The most versatile and widely used mushroom for both [[mycoremediation-basics]] and [[mushroom-cultivation-basics]]. From [[paul-stamets]]' *[[woodlovers-mycelium-running-pathway-technique]]* (2005).
+The most versatile and widely used mushroom for both [[mycoremediation-basics]] and [[mushroom-cultivation-basics]]. From [[paul-stamets]]' *Mycelium Running* (2005).
 
 ## Taxonomy and Description
 
@@ -18,7 +18,7 @@ The most versatile and widely used mushroom for both [[mycoremediation-basics]] 
 - **Family**: Pleurotaceae
 - **Genus**: Pleurotus
 - **Common names**: Oyster mushroom, pearl oyster
-- **Distribution**: Found on virtually every continent; one of the most widespread [[growing-gourmet-saprophytic-mushrooms-decomposers]] in the world
+- **Distribution**: Found on virtually every continent; one of the most widespread saprophytic mushrooms in the world
 - **Habitat**: Dead or dying hardwood trees and logs, especially oaks, beeches, and aspens
 
 ## Why Oyster Mushrooms Are Special
@@ -27,7 +27,7 @@ Stamets calls oyster mushrooms "the most versatile" for mycoremediation because 
 - Can break down more classes of toxins than any other single species
 - Are found virtually worldwide — native strains available everywhere
 - Are extremely aggressive colonizers — outcompete most contaminants
-- Grow on the widest range of substrates — straw, sawdust, paper, cardboard, [[oyster-mushroom-coffee-grounds-cultivation]], agricultural waste
+- Grow on the widest range of substrates — straw, sawdust, paper, cardboard, coffee grounds, agricultural waste
 - Fruit prolifically — high yields with minimal input
 - Are edible and delicious — dual-purpose (food + remediation)
 
@@ -37,7 +37,7 @@ Stamets calls oyster mushrooms "the most versatile" for mycoremediation because 
 
 | Toxin Class | Specific Compounds | Mechanism |
 |-------------|-------------------|-----------|
-| PAHs | Naphthalene, anthracene, phenanthrene, benzo[a]pyrene | [[singh-ligninolytic-enzymes-fungal-bioremediation]] |
+| PAHs | Naphthalene, anthracene, phenanthrene, benzo[a]pyrene | Ligninolytic enzymes |
 | Petroleum | Crude oil, diesel, bunker C | Extracellular enzyme oxidation |
 | Pentachlorophenol | Wood preservative PCP | Laccase, peroxidase |
 | Bacteria | E. coli, coliforms | Antibacterial secretions |
@@ -78,7 +78,7 @@ This darkening/whitening cycle serves as a visual bioindicator of remediation pr
 - **Pasteurization**: 160°F for 1-2 hours (hot water submersion preferred)
 
 ### Yields
-- **[[stamets-biological-efficiency-yield]]**: 50-200% (weight of fresh mushrooms per dry substrate weight)
+- **Biological efficiency**: 50-200% (weight of fresh mushrooms per dry substrate weight)
 - **Time to first fruit**: 2-4 weeks after full colonization
 - **Number of flushes**: 3-5, diminishing over time
 - **Straw bags**: 1-2 lbs fresh mushrooms per 6-8 lb bag
@@ -134,4 +134,4 @@ Oyster mushrooms are primary decomposers — among the first organisms to coloni
 - [[straw-cultivation-methods]] for detailed cultivation
 - [[mycopesticides]] for related biocontrol applications
 - [[mushroom-cultivation-basics]] for general cultivation
-- [[mycelium-running-techniques]] for [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]
+- [[mycelium-running-techniques]] for inoculation methods

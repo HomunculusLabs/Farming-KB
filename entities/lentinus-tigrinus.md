@@ -14,7 +14,7 @@ sources:
   - Pegler DN, Spooner BM, Young TWK (1993). "British Tricholomas." Kew Publishing.
   - Kirk PM, Cannon PF, Minter DW, Stalpers JA (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
   - Núñez M, Ryvarden L (2000). "East Asian Polypores." Fungiflora, Oslo.
-  - Wasser SP (2002). "[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3): 258-274.
+  - Wasser SP (2002). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides." Applied Microbiology and Biotechnology, 60(3): 258-274.
   - Zmitrovich IV, Malysheva VF (2013). "Towards a phylogenetic classification of the Polyporales (Basidiomycota)." Mycota, 14: 367-383.created: 2026-05-07
 
 created: 2026-05-07

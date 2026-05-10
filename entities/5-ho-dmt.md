@@ -114,6 +114,6 @@ The rising popularity of Bufo alvarius venom ("toad medicine") has prompted incr
 
 - [[dmt]]
 - [[bufotenin]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[elemicin]]
 - [[ergotamine]]

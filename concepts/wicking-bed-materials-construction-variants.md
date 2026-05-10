@@ -115,6 +115,6 @@ Soil moisture sensors (capacitance or tensiometer type) installed at mid-depth i
 - Recycled materials [[mollison-lawn-reform-and-alternatives-in-permaculture-design]]
 - Structural load calculations for raised beds
 - Automated irrigation systems for small farms
-- [[rainwater-harvesting-and-graywater-recycling]] storage systems
+- [[urban-permaculture-rainwater-harvesting-graywater]] storage systems
 - [[mollison-designers-community-garden-design-urban-permaculture]] and management
 - Rooftop garden engineering considerations

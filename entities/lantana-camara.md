@@ -15,7 +15,7 @@ tags:
 sources:
   - Ghisalberti, E.L. (2000). "Lantana camara — A Review of Its Phytochemistry and Toxicology." Phytochemistry, 57(5), 689-697.
   - Sharma, O.P. et al. (2007). "Lantana camara Linn.: A review." Pharmacognosy Reviews, 1(2), 348-355.
-  - Day, M.D. et al. (2003). "Lantana camara: A Global Weed." In: [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of Weeds, CSIRO Publishing.
+  - Day, M.D. et al. (2003). "Lantana camara: A Global Weed." In: fukuoka-textdoc-biological-control-fallacy-pheromone-critique of Weeds, CSIRO Publishing.
   - Bhadoria, B.S.S. (2012). "Lantana weed (Lantana camara) and its management." Scientific Publishers.
   - https://www.cabi.org/isc/datasheet/30936
 ---

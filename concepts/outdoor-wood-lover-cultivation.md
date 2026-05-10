@@ -1,6 +1,6 @@
 ---
 
-title: stamets-outdoor-wood-chip-bed-mycelium-transplantation Lover Cultivation
+title: Outdoor Wood Lover Cultivation
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -24,13 +24,13 @@ sources:
 
 # Outdoor Wood Lover Cultivation
 
-Detailed guide for cultivating wood-decomposing mushrooms ([[stamets-psi-psilocybe-azurescens-species-guide]], P. cyanescens, P. ovoideocystidiata, P. allenii) in outdoor beds. See [[mushroom-cultivation-methods]] for method selection and [[mushroom-growing-reference]] for general parameters.
+Detailed guide for cultivating wood-decomposing mushrooms (Psilocybe azurescens, P. cyanescens, P. ovoideocystidiata, P. allenii) in outdoor beds. See [[mushroom-cultivation-methods]] for method selection and [[mushroom-growing-reference]] for general parameters.
 
 ## Species Overview
 
 | Species | Native Range | Fruiting Temp | Potency (psilocybin % dry) | Notes |
 |---------|-------------|---------------|---------------------------|-------|
-| P. azurescens | Oregon coast | 7-10C (45-50F) | 1.4-1.7% | Most potent [[emcdda-psilocybin-mushroom-dose-and-effects]] known |
+| P. azurescens | Oregon coast | 7-10C (45-50F) | 1.4-1.7% | Most potent psilocybin mushroom known |
 | P. cyanescens | Pacific NW, worldwide | 10-15C (50-59F) | 0.5-1.2% | Wavy cap, aggressive colonizer |
 | P. ovoideocystidiata | Eastern US, Ohio River valley | 10-15C | 0.3-0.6% | Ovoids, stream banks |
 | P. allenii | Pacific NW | 10-15C | 0.6-1.0% | Allenii, wood chips |
@@ -50,7 +50,7 @@ Prepare grain spawn first ([[mushroom-substrates]]), then expand to sterilized w
 6. **Incubate**: 20C for 3-4 weeks until fully colonized
 
 ### Outdoor Bed (Stage 2)
-1. **[[fukuoka-creating-natural-farm-site-selection-establishment]]**: Half-shaded location under shrubs. Avoid full sun. Natural dune grass or garden edge locations work well
+1. **Site selection**: Half-shaded location under shrubs. Avoid full sun. Natural dune grass or garden edge locations work well
 2. **Dig**: 15-20cm (6-8 inch) deep hole or raised bed
 3. **Substrate**: Coarse hardwood chips soaked 24 hours and drained
 4. **Spawn ratio**: Minimum 1:5 spawn to substrate by volume; 1:3 preferred if available. Azurescens guide recommends at least 1/5th spawn by volume
@@ -80,11 +80,11 @@ Beds laid in autumn of the preceding year or early spring have excellent fruitin
 
 ## Watering Management
 
-Critical: overwatering during summer promotes aggressive [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] but suppresses fruiting in autumn. Keep beds humid but not wet for first 2 weeks after establishment, then minimal water until September. From September, water 1-2x weekly unless rainfall is sufficient.
+Critical: overwatering during summer promotes aggressive mycelial growth but suppresses fruiting in autumn. Keep beds humid but not wet for first 2 weeks after establishment, then minimal water until September. From September, water 1-2x weekly unless rainfall is sufficient.
 
 ## Pest Protection
 
-- **Slugs**: Most common pest. Use beer traps, [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]] barriers, or hand-pick at night
+- **Slugs**: Most common pest. Use beer traps, diatomaceous earth barriers, or hand-pick at night
 - **Rodents**: Grain spawn attracts rodents — this is why wood chip spawn is preferred over direct grain inoculation. Use wire mesh under beds if rodents are present
 - **Insects**: Various insects under plastic covering are normal and generally harmless
 - **Contamination**: Outdoor beds are resilient. If a contaminated jar is discarded in a garden bed, mushrooms may still appear in autumn

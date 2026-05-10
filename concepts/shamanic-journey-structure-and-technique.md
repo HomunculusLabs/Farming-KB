@@ -120,11 +120,6 @@ The cross-cultural consistency of the shamanic journey is one of the strongest a
 The universality of the shamanic journey also supports the therapeutic potential of psychedelic-assisted psychotherapy, as it suggests that the states accessed by these substances are not pathological but are part of the natural range of human consciousness.
 
 ## See Also
-
 - [[set-and-setting-psychedelic-therapy-framework]]
-
 - [[psychedelic-integration-practices]]
-
-## See Also
-
 - [[metzner-neoshamanic-medicine-circles-structure-and-practice]]

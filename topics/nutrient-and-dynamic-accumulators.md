@@ -140,7 +140,6 @@ interesting and more useful.
 
 During the growing season, the nitrogen fixed by a legume's root nodules is
 banked in a temporary savings account distributed throughout the stems and
-leaves. Research has shown that just before flowering, as much as 60 percent
 ## See Also
 
 - [[permaculture-plant-selection-and-useful-species-categories]]

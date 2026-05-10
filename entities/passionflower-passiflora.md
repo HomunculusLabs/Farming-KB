@@ -140,10 +140,6 @@ Vines die back to ground in zones 5–7 and regrow from rootstock. Requires trel
 | Standardized extract | 250–500 mg, 2–3× daily |
 
 ## See Also
-
 - [[passiflora-incarnata]]
-- [[valeriana-officinalis]] — Valerian, commonly combined for sleep
-
-## See Also
-
+- [[valeriana-officinalis]]
 - [[permaculture-plants-climbers-and-vines]]

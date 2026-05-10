@@ -126,7 +126,7 @@ It remains a benchmark strain used to evaluate new cultivars and breeding progra
 Chemdawg's influence is comparable to that of foundational wine grape varieties like Pinot Noir in viticulture.
 
 ## See Also
-- [[og-kush|OG Kush]]
+- [[og-kush-cannabis-entity|OG Kush]]
 - [[gorilla-glue|Gorilla Glue]]
 - [[cannabis-indica|Cannabis indica]]
 - [[myrcene|Myrcene]]

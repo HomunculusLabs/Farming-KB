@@ -58,7 +58,7 @@ Professional therapeutic support can be valuable, especially for experiences tha
 ### 4. Movement and Creative Expression
 
 - **Art**: Drawing, painting, sculpture, or music can express dimensions of the experience that resist verbal description. Many people report that creating art after a psychedelic session helps access the visionary content.
-- **Movement**: Dance, yoga, [[blesching-cannabis-fibromyalgia-tai-chi-and-trauma]], or simple walking in nature can help process the physical energy and somatic changes from the experience.
+- **Movement**: Dance, yoga, tai chi, or simple walking in nature can help process the physical energy and somatic changes from the experience.
 - **Writing**: Beyond journaling, creative writing, poetry, or prose can give form to the ineffable.
 
 ### 5. Nature Immersion
@@ -94,7 +94,7 @@ Not all psychedelic experiences are pleasant. Integration is especially importan
 
 - Confrontation with death, fear, or existential dread
 - Re-experiencing of traumatic memories
-- [[psilocybin-ego-dissolution-mechanisms]] experienced as annihilation rather than liberation
+- Ego dissolution experienced as annihilation rather than liberation
 - Confusion and disorientation
 
 These experiences, while distressing, often contain the most valuable material for growth when properly processed. Avoiding or suppressing them reduces the likelihood of lasting benefit.

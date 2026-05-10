@@ -124,6 +124,8 @@ In Ecuador, the species can be observed in its native habitat in protected areas
 
 ## See Also
 
+- [[iris-versicolor]]
+
 - [[brugmansia-aurea]]
 - [[datura-stramonium]]
 - [[trichocereus-pachanoi]]

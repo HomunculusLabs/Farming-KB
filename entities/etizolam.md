@@ -117,6 +117,6 @@ The primary mechanism of death in overdose is respiratory depression, potentiate
 ## See Also
 
 - [[dimethyltryptamine]] — Natural psychoactive tryptamine
-- [[mescaline-entity]] — Natural phenethylamine psychedelic
+- [[mescaline]] — Natural phenethylamine psychedelic
 - [[cannabis-endocannabinoid-system]] — Psychoactive plant compounds
 - cannabis — Major psychoactive plant genus

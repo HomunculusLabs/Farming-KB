@@ -86,6 +86,8 @@ composition has closely resembled those of mycelium-running-bioremediation-mushr
 - [[staycare-brown-rot-fungi-in-bioremediation]]
 - [[staycare-fungal-agricultural-waste-conversion]]
 ## See Also
+
+- [[chitin-chitosan-fungal-cell-wall]]
 - [[decomposition]]
 - [[staycare-chlorophenol-degradation-pathways-white-rot-fungi]]
 - [[staycare-azo-dye-degradation-mechanisms-ligninolytic-fungi]]

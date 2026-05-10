@@ -144,7 +144,6 @@ and provide seasonal harvests. This approach represents a convergence of
 [[accessible-mushroom-cultivation-for-disabilities]] with permaculture design and ecological restoration,
 positioning fungi as functional components of managed landscapes rather than
 isolated crop species.
-
 ## See Also- [[oyster-mushroom-growing-house-design-site-selection-tropical-climates]]
 - [[stamets-cultivator-wood-lovers-bed-preparation-outdoor]]
 - [[mycelium-running-stamets-fungal-ecology-networks]]

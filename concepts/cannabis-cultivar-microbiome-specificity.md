@@ -139,3 +139,7 @@ fitness and yield.
   Determinants of the [[cannabis-microbiome-cultivar-specificity]]. PLoS ONE 9(6): e99641.
 - Bulgarelli D, Schlaeppi K, Spaepen S, et al. (2013) Structure and Functions
   of the Bacterial Microbiota of Plants. Annu Rev Plant Biol.
+
+## See Also
+
+- [[microbial-terroir-and-crop-specificity]]

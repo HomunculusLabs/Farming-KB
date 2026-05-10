@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Singh, B. & Singh, A.K. (2014). "Luffa cylindrica." In: Plant Resources of South Asia, Springer.
-  - Purseglove, J.W. (1968). [[mollison-specialist-tropical-crops-forest-products]]: Dicotyledons. Longman.
+  - Purseglove, J.W. (1968). mollison-specialist-tropical-crops-forest-products: Dicotyledons. Longman.
   - Ding, H. et al. (2013). "Luffa cylindrica as a biomaterial." Materials 6(3): 917–931.
   - Achigan-Dako, E.G. et al. (2008). "Luffa." In: Prohens & Nuez, Vegetables II, Springer.
 ---
@@ -138,6 +138,8 @@ Luffa cultivation has ecological benefits as a fast-growing annual that can
 provide shade, biomass mulch, and [[permplant-willows-salix-erosion-control-fodder]] on trellises and fences.
 It is increasingly integrated into permaculture designs.
 ## See Also
+
+- [[imperata-cylindrica]]
 
 - [[cucumis-melo]]
 - [[lagenaria-siceraria]]

@@ -130,15 +130,6 @@ intensive thermogenesis — a thermodynamic free lunch powered by ambient
 temperature differentials and hygroscopic spore surfaces.
 
 ## See Also
-
-- bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge
-- bloomfield-mushroom-aerodynamics-wind-spore-dispersal
-- bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting
-- mushroom-spore-catapult-mechanism
-- basidiospore-discharge-mechanism
-
-## See Also
-
 - [[bloomfield-fungal-spore-discharge-and-dispersal]]
 - [[bloomfield-mushroom-aerodynamics-wind-spore-dispersal]]
 - [[bloomfield-amanita-toxins-evolutionary-puzzle-mushroom-poisoning]]

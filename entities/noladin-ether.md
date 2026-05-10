@@ -64,7 +64,7 @@ anandamide or 2-AG.
 Noladin ether was first identified by Lumir Hanus and colleagues at
 the Hebrew University of Jerusalem in 2001. Its discovery expanded
 the known repertoire of endogenous cannabinoids and helped establish
-that the [[cannabis-health-endo-cannabinoid-system]] is more complex than initially
+that the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] is more complex than initially
 thought, with multiple distinct lipid mediators contributing to
 cannabinoid receptor signaling. However, research on noladin ether
 remains limited compared to the two primary endocannabinoids

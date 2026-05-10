@@ -4,17 +4,16 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, gardening, food-forest, design, plants, cultivation]
-sources:
-  sources: []
+sources: []
 ---
 
 # Edible Landscaping
 
-Edible landscaping replaces or supplements ornamental plants with food-producing species while maintaining aesthetic appeal. It integrates [[permaculture-design|permaculture]] [[holmgren-permaculture-twelve-design-principles-framework]] with traditional landscape architecture, creating productive spaces that look intentional and beautiful.
+Edible landscaping replaces or supplements ornamental plants with food-producing species while maintaining aesthetic appeal. It integrates [[permaculture-design|permaculture]] design principles with traditional landscape architecture, creating productive spaces that look intentional and beautiful.
 
 ## Core Design Principles
 
-- **Function meets form**: Every plant should serve at least two purposes — food production plus beauty, shade, [[permplant-willows-salix-erosion-control-fodder]], or wildlife habitat
+- **Function meets form**: Every plant should serve at least two purposes — food production plus beauty, shade, erosion control, or wildlife habitat
 - **Right plant, right place**: Match species to site conditions (sun, soil, moisture, hardiness zone)
 - **Layer vertically**: Use canopy trees, understory shrubs, herbaceous plants, ground covers, and vines to maximize production per square foot
 - **Year-round interest**: Plan for sequential bloom, foliage color, structure, and harvest windows
@@ -37,7 +36,7 @@ These plants blur the line between ornamental and edible:
 
 ## Food Forests in Suburban Settings
 
-A suburban food forest layers productive perennial plants to mimic a [[fukuoka-pine-forest-ecosystem-collapse-cascade-matsutake]]:
+A suburban food forest layers productive perennial plants to mimic a forest ecosystem:
 
 ### Canopy Layer
 - Standard fruit trees (apple, pear, plum, persimmon, pecan)
@@ -49,11 +48,11 @@ A suburban food forest layers productive perennial plants to mimic a [[fukuoka-p
 
 ### Shrub Layer
 - Berry bushes (blueberry, raspberry, blackberry, currant, elderberry)
-- Nitrogen-fixing shrubs ([[comparison-sea-buckthorn-vs-aronia]], goumi, Siberian pea shrub)
+- Nitrogen-fixing shrubs (sea buckthorn, goumi, Siberian pea shrub)
 
 ### Herbaceous Layer
 - [[perennial-vegetables]] (asparagus, rhubarb, sorrel)
-- [[holzer-medicinal-and-culinary-herbs-compendium]] (thyme, oregano, mint in containers)
+- Culinary herbs (thyme, oregano, mint in containers)
 - Annual vegetables interplanted in gaps
 
 ### Ground Cover Layer
@@ -70,7 +69,7 @@ A suburban food forest layers productive perennial plants to mimic a [[fukuoka-p
 - Use espalier or cordon-trained fruit trees against fences and walls
 - Select dwarf and semi-dwarf rootstocks for small spaces
 - Multi-graft trees provide multiple varieties on one tree
-- Utilize [[comparison-vertical-gardening-vs-container-gardening]] on fences, arbors, and trellises
+- Utilize vertical gardening on fences, arbors, and trellises
 - Replace foundation plantings with edible shrubs and herbs
 
 ## Front Yard Gardens

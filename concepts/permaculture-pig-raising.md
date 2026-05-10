@@ -4,8 +4,7 @@ created: 2026-04-20
 updated: 2026-04-20
 type: concept
 tags: [permaculture, design]
-sources:
-  sources: []
+sources: []
 ---
 # Permaculture Pig Raising Pigs are very efficient foragers in a permaculture-zone-planning orchard when trees are at least a few years old - They eat 25 pounds (11.3 kg) of food per day, including all food waste - Excellent for land clearing: after pigs clear a pasture, replant and rotate with [[permaculture-animal-integration]] system benefit from diverse forage, clean living conditions, and low stocking densities, which reduce disease pressure significantly compared to confinement operations.
 
@@ -54,6 +53,71 @@ Integration strategies:
 - Apple and pear orchard cleanup: Pigs efficiently process windfall fruit, reducing pest pressure for the following season
 
 The key principle is to match pig activity to the farm's seasonal rhythm. Allow pigs into areas when their rooting behavior is beneficial (clearing, tilling) and exclude them when plants need protection (establishing seedlings, growing crops).
+
+## Pig Breeds for Permaculture
+Selecting appropriate breeds ensures success in permaculture systems.
+Heritage breeds excel in foraging and tolerate outdoor conditions.
+
+- Large Black: Excellent foragers, calm temperament, good mothers
+- Gloucestershire Old Spot: Orchard grazers, hardy, produce quality meat
+- Tamworth: Active foragers, good at clearing land, parasite resistant
+- Berkshire: High-quality meat, moderate foraging ability, adaptable
+- American Guinea Hog: Small size, ideal for small homesteads, efficient
+
+Consider breed traits relative to climate and farm goals. Heritage breeds
+maintain vigor and self-sufficiency compared to commercial lines.
+
+## Rotational Grazing Systems
+Rotational grazing prevents soil compaction and allows pasture recovery.
+Divide land into paddocks sized for 2-5 day grazing periods.
+
+Move pigs weekly to prevent overgrazing and allow regrowth. Electric
+fencing creates flexible boundaries and adjusts to different paddock sizes.
+Paddocks need 30-45 days of rest between grazing cycles for full recovery.
+
+Design rotation patterns that complement seasonal plant growth and match
+other livestock species. This approach breaks parasite life cycles while
+improving overall pasture health and reducing feed costs.
+
+## Feed Integration with Food Forests
+Designing food forests to support pig nutrition creates mutual benefits.
+Multi-story plantings provide diverse forage throughout growing seasons.
+
+- Fruit trees: Drop fruit supplements diet in late summer/autumn
+- Nut trees: Oaks and chestnuts provide high-calorie winter feed
+- Berry bushes: Pigs browse lower branches and fallen fruit
+- Ground covers: Jerusalem artichokes, chicory, plantain support health
+- Cover crops: Rye, turnips, and field peas provide seasonal nutrition
+
+Strategic plantings reduce purchased feed while improving farm biodiversity.
+Pigs harvest food that would otherwise require human labor to collect.
+
+## Manure Management
+Proper manure handling transforms waste into valuable soil amendment.
+Fresh pig manure is "hot" and requires composting before garden use.
+
+- Hot composting: Reach 131-140°F (55-60°C) to kill pathogens
+- Carbon ratio: Mix with straw, sawdust, or leaves (25-30:1 C:N)
+- Aging period: 6-12 months ensures safety for food crops
+- Vermicomposting: Worms process aged manure into castings
+- Deep litter systems: Build compost directly in pig housing
+
+Collect manure regularly to prevent nitrogen loss and odor issues. Bedding
+materials absorb moisture and provide carbon for balanced decomposition.
+
+## Infrastructure Design
+Thoughtful infrastructure supports permaculture pig system efficiency.
+Housing, fencing, and water systems minimize labor and stress.
+
+- Shelter: Three-sided structures protect from weather and sun
+- Fencing: Electric polywire or woven wire prevents escapes
+- Water: Automatic waterers ensure fresh supply year-round
+- Feeders: Reduce waste and protect from contamination
+- Farrowing areas: Safe, warm spaces for sows and piglets
+
+Design systems for ease of cleaning and maintenance. Use local materials
+when possible to reduce costs and environmental impact. Plan expansion
+flexibility for herd growth or changing management strategies.
 - permaculture-cold-climate-strategies
 
 ## Practical Considerations

@@ -1,5 +1,5 @@
 ---
-title: mollison-designers-tropical-soils-and-cation-exchange-management Capacity
+title: Cation Exchange Capacity
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -16,9 +16,9 @@ Cation exchange capacity (CEC) is a measure of how many negatively charged sites
 
 ## How CEC Works
 
-Clay and [[hamilton-composting-and-organic-matter-management]] (humus) particles have vast surface areas covered with negative electrical charges. These negative sites attract and hold positively charged nutrient cations. When a plant root comes into contact with these soil particles, it exchanges its own hydrogen ions (H+) for the nutrient cations attached to the soil -- hence "cation exchange."
+Clay and organic matter (humus) particles have vast surface areas covered with negative electrical charges. These negative sites attract and hold positively charged nutrient cations. When a plant root comes into contact with these soil particles, it exchanges its own hydrogen ions (H+) for the nutrient cations attached to the soil -- hence "cation exchange."
 
-Root cells pump out hydrogen ions that accumulate on root hair cell walls. These H+ ions exchange locations with nutrient cations (K+, Ca2+, Mg2+, NH4+, etc.) adhering to soil particle surfaces. Once the nutrient cation attaches to the root cell wall, it can enter the cell via [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]].
+Root cells pump out hydrogen ions that accumulate on root hair cell walls. These H+ ions exchange locations with nutrient cations (K+, Ca2+, Mg2+, NH4+, etc.) adhering to soil particle surfaces. Once the nutrient cation attaches to the root cell wall, it can enter the cell via transport proteins.
 
 ## CEC by Soil Type
 
@@ -55,7 +55,7 @@ CEC directly influences which nutrients are mobile vs immobile in a given soil:
 
 - Nutrients leach quickly and must be applied more frequently
 - Do not apply fertilizers in autumn -- nothing will remain by spring
-- Add [[coleman-compost-and-organic-fertility-management]] matter to increase CEC
+- Add compost and organic matter to increase CEC
 - Side-dress or split applications to match plant uptake timing
 
 ### High CEC Soils (Clay/High Organic Matter)
@@ -79,7 +79,7 @@ Organic matter not only increases CEC but also increases the soil's buffering ca
 - Higher CEC means better nutrient retention and less leaching
 - Organic matter dramatically increases CEC -- this is the primary benefit of compost
 - CEC affects fertilizer timing: low-CEC soils need frequent small applications; high-CEC soils can accept larger, less frequent applications
-- CEC interacts with pH to determine overall [[ph-and-nutrient-availability-garden-soils]]
+- CEC interacts with pH to determine overall nutrient availability
 
 ## Related
 

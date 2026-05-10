@@ -114,10 +114,7 @@ Despite its toxicity, *C. maculata* plays ecological roles:
   the fruits, contributing to seed dispersal
 
 ## See Also
-
-- [[digitalis-purpurea]] — Foxglove, another toxic plant with medicinal cardiac compounds
-- [[nicotine]] — Nicotine, plant-derived neurotoxin with overlapping toxicity
-
-## See Also
-
+- [[dactylorhiza-maculata]]
+- [[digitalis-purpurea]]
+- [[nicotine]]
 - [[natives-vs-exotics]]

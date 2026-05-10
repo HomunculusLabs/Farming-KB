@@ -14,8 +14,7 @@ tags:
   - plant-science
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 
@@ -131,11 +130,8 @@ orchids and bromeliads use CAM because they cannot access soil water.
 The pathway a crop uses has major practical consequences for growers:
 
 **Temperature response**: C3 crops (tomato, lettuce, wheat) suffer declining
-## See Also
 
+## See Also
 - [[c3-c4-cam-photosynthesis-plant-carbon-fixation-pathways]]
 - [[comparison-dwc-vs-ebb-and-flow]]
-
 - [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]]
-
-## See Also

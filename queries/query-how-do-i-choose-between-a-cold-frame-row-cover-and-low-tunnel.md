@@ -8,7 +8,7 @@ sources:
   - https://extension.umn.edu/yard-and-garden-planning/season-extension-techniques
   - https://attra.ncat.org/attra-pub/summaries/summary.php?pub=299
   - https://www.sare.org/publications/season-extension-techniques-for-market-gardeners/
-  - Coleman, Eliot. The [[coleman-claytonia-winter-harvest-cultivation]] Handbook. Chelsea Green, 2009.
+  - Coleman, Eliot. The coleman-claytonia-winter-harvest-cultivation Handbook. Chelsea Green, 2009.
 type: query
 ---
 

@@ -12,10 +12,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Redhead, S.A., Norvell, L.L. & Danell, E. (1997). "Cantharellus formosus and the Pacific Northwest golden chanterelle complex." Mycotaxon, 65, 285–296.
-  - Buyck, B., Hofstetter, V., Binder, M., et al. (2014). "The systematic position of the chanterelles (Cantharellus) and the limits of the Cantharellales." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 64(1), 239–251.
+  - Buyck, B., Hofstetter, V., Binder, M., et al. (2014). "The systematic position of the chanterelles (Cantharellus) and the limits of the Cantharellales." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 64(1), 239–251.
   - Arora, D. (1986). "Mushrooms Demystified." Ten Speed Press, Berkeley.
   - Danell, E. (2002). "Using morphological and unstable molecular characters to recognize species within the Cantharellus cibarius complex in Europe." Mycological Research, 106(5), 543–555.
-  - Pilz, D. & Molina, R. (2002). "Commercial harvests of [[palmer-edible-mushrooms-north-america]] from the forests of the Pacific Northwest United States: Issues, management, and monitoring for sustainability." Forest Ecology and Management, 155(1–3), 3–16.
+  - Pilz, D. & Molina, R. (2002). "Commercial harvests of palmer-edible-mushrooms-north-america from the forests of the Pacific Northwest United States: Issues, management, and monitoring for sustainability." Forest Ecology and Management, 155(1–3), 3–16.
 created: 2026-04-28
 ---
 

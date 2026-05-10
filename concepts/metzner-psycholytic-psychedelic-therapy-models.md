@@ -114,6 +114,8 @@ both approaches:
 
 ## See Also
 
+- [[psycholytic-vs-psychedelic-therapy-historical-models-metzner]]
+
 - [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]
 - [[mckenna-tryptamine-consciousness-dmt-spirit-molecule]]
 - [[hofmann-lsd-sandoz-research-program]]

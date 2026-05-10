@@ -75,6 +75,8 @@ mycelium is stressed and should be cased or spawned as soon as
 possible to prevent further degradation.
 ## See Also
 
+- [[grass-seed-as-mushroom-substrate]]
+
 - Casing Soil Preparation and Application — Next step for mushroom
   production from colonized grass seed
 - Sclerotia [[sclerotia-formation-in-psilocybe-species]] Species — Direct sclerotia

@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Hallucinogenic plants have been used by humans for thousands of years, "probably since he began gathering plants for food." They have played an extensive role in human culture -- as sacred sacraments, medicines, divinatory tools, and sources of artistic inspiration. The Golden Guide to Hallucinogenic Plants provides a comprehensive survey of the major psychoactive plant families and their [[ethnomycology-cultural-significance-sacred-fungi]].
+Hallucinogenic plants have been used by humans for thousands of years, "probably since he began gathering plants for food." They have played an extensive role in human culture -- as sacred sacraments, medicines, divinatory tools, and sources of artistic inspiration. The Golden Guide to Hallucinogenic Plants provides a comprehensive survey of the major psychoactive plant families and their cultural significance.
 
 ## Classification of Hallinogens
 
@@ -26,8 +26,8 @@ The active compounds in hallucinogenic plants are "true narcotics" that distort 
 
 ### Mushrooms
 
-Two broad groups of [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]] exist:
-1. **[[allegro-amanita-muscaria-properties-and-pharmacology]] and A. pantherina** -- the fly-agarics, containing ibotenic acid and muscimol. See [[amanita-muscaria-chemistry-and-pharmacology]].
+Two broad groups of hallucinogenic mushrooms exist:
+1. **Amanita muscaria and A. pantherina** -- the fly-agarics, containing ibotenic acid and muscimol. See [[amanita-muscaria-chemistry-and-pharmacology]].
 2. **Psilocybin-containing species** -- primarily in the genera Psilocybe, Panaeolus, Conocybe, and Gymnopilus. Over 180 species contain psilocybin and/or psilocin. See [[global-psychedelic-mushroom-species-diversity]].
 
 ### Cacti
@@ -39,7 +39,7 @@ Several cactus species contain mescaline and related alkaloids:
 
 ### Vines
 
-- **Ayahuasca** (Banisteriopsis caapi) -- a Amazonian vine containing harmine and harmaline (beta-carboline alkaloids). Combined with DMT-containing plants like chacruna (Psychotria viridis) to produce an orally active brew. See [[ayahuasca-vision-art-and-shipibo-tradition]].
+- **Ayahuasca** (Banisteriopsis caapi) -- a Amazonian vine containing harmine and harmaline (beta-carboline alkaloids). Combined with DMT-containing plants like chacruna (Psychotria viridis) to produce an orally active brew. See [[ayahuasca-vision-art-and-Shipibo-tradition]].
 
 ### Seeds
 
@@ -50,13 +50,13 @@ Several cactus species contain mescaline and related alkaloids:
 
 - **Cannabis** (Cannabis sativa) -- containing THC and other cannabinoids.
 - **Datura** (Datura spp.) -- containing tropane alkaloids (scopolamine, atropine, hyoscyamine), used in New World and Old World shamanic practices.
-- **[[plants-of-the-gods-tabernanthe-iboga-chemistry]]** -- containing ibogaine, used in African Bwiti ceremonies.
-- **[[mckenna-food-gods-peganum-harmala-soma]]** -- Syrian rue, containing harmine and harmaline.
+- **Tabernanthe iboga** -- containing ibogaine, used in African Bwiti ceremonies.
+- **Peganum harmala** -- Syrian rue, containing harmine and harmaline.
 
 ## Cultural Roles
 
 Hallucinogenic plants have served multiple functions in human societies:
-- **Religious sacraments**: Mediators between humans and gods (Delphic oracle, peyote ceremonies, [[metzner-mazatec-mushroom-veladas-darkness-singing-and-christian-syncretism]]).
+- **Religious sacraments**: Mediators between humans and gods (Delphic oracle, peyote ceremonies, mushroom veladas).
 - **Medicines**: Treatment of illness, pain, and psychological disturbance.
 - **Divination**: Predicting the future, diagnosing illness, locating lost objects.
 - **Initiation**: Rites of passage in many indigenous cultures.
@@ -66,21 +66,3 @@ Hallucinogenic plants have served multiple functions in human societies:
 
 - [[global-psychedelic-mushroom-species-diversity]] -- mushroom species worldwide
 - [[peyote-and-psychoactive-cacti]] -- mescaline cacti in detail
-## Practical Considerations
-
-Successful implementation of Hallucinogenic Plants of the World requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

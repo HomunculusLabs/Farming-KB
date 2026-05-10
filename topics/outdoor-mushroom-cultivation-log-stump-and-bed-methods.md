@@ -118,7 +118,6 @@ should be intact — cracked, peeling, or damaged bark invites competitor fungi
 and accelerates drying.
 
 Different mushroom species have strong preferences for certain tree species, but
-as a general rule, hardwoods are preferred over softwoods for most gourmet and
 ## See Also
 
 - [[outdoor-mushroom-cultivation]]

@@ -11,7 +11,7 @@ updated: 2026-05-08
 sources:
   - Garbary, D.J. et al. (2018). "Bangia (Bangiaceae, Rhodophyta) in the Canadian Maritimes." Botanica Marina.
   - Brodie, J. & Zuccarello, G.C. (2007). "Systematics of the Bangiophycidae (Rhodophyta): molecular and morphological perspectives." Phycological Research.
-  - Schneider, C.W. & Searles, R.B. (1991). Seaweeds of the Southeastern [[dmt-containing-plants-united-states-halpern]]. Duke University Press.
+  - Schneider, C.W. & Searles, R.B. (1991). Seaweeds of the Southeastern dmt-containing-plants-united-states-halpern. Duke University Press.
   - Guiry, M.D. & Guiry, G.M. (2025). "Bangia atropurpurea." AlgaeBase.
 ---
 

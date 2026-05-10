@@ -142,6 +142,8 @@ Caffeine withdrawal is recognized in DSM-5 as a psychiatric condition. Symptoms 
 
 ## See Also
 
+- [[reserpine]]
+
 - [[query-what-are-caffeine-plants-and-how-do-i-grow-them]]
 - [[ilex-paraguariensis]]
 - [[coffea-arabica]]

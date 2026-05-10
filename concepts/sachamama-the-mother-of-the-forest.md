@@ -62,7 +62,7 @@ The Sachamama is part of a broader family of serpent beings in Amazonian cosmolo
 - sachamama the mother of the forest -- another forest spirit
 
 - [[shipibo-icaros-healing-songs]]
-- [[ayahuasca-vision-art-and-shipibo-tradition]]
+- [[ayahuasca-vision-art-and-Shipibo-tradition]]
 ## Practical Considerations
 
 Successful implementation of Sachamama the Mother of the Forest requires attention to

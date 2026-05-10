@@ -16,7 +16,7 @@ sources:
   - Triplett, J.K., et al. (2006). "Systematics of the native growing-gourmet-north-american-reishi-species bamboos." SIDA, 22(1), 67–107.
   - Judziewicz, E.J., et al. (1999). Manual of the Grasses of the United States. Smithsonian Institution Press.
   - Platt, W.J. (1999). "Southeastern pine savannas and canebrakes." In: Savannas, Barrens, and Rock Outcrop Plant Communities of North America. Cambridge University Press.
-  - Gagnon, P.R., et al. (2010). "[[mollison-wet-tropical-forest-structure-and-polyculture]] and composition along a chronosequence of pine savanna restoration." Restoration Ecology, 18(4), 468–479.
+  - Gagnon, P.R., et al. (2010). "mollison-wet-tropical-forest-structure-and-polyculture and composition along a chronosequence of pine savanna restoration." Restoration Ecology, 18(4), 468–479.
   - Noss, R.F. (2013). "Forgotten grasslands of the South." Springer Science.
 ---
 
@@ -115,14 +115,16 @@ Prescribed fire stimulates new shoot production and suppresses woody competitors
 
 ## See Also
 
+- [[stipa-gigantea]]
+
 - [[food-forest-layers-and-species]]
 
 - [[calvatia-gigantea]]
 
-- [comfrey-symphytum-officinale](comfrey-symphytum-officinale.md)
-- [black-locust-entity](black-locust-entity.md)
-- [elaeagnus-umbellata](elaeagnus-umbellata.md)
-- [tagasaste](tagasaste.md)
-- [[permaculture](permaculture.md)]]
-- [sambucus-nigra](sambucus-nigra.md)
-- [morus-alba](morus-alba.md)
+- [[comfrey-symphytum-officinale|comfrey-symphytum-officinale]]
+- [[black-locust-entity|black-locust-entity]]
+- [[elaeagnus-umbellata|elaeagnus-umbellata]]
+- tagasaste
+- [[permaculture]]
+- [[sambucus-nigra|sambucus-nigra]]
+- [[morus-alba|morus-alba]]

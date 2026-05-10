@@ -69,15 +69,11 @@ safety profiles are based on limited self-experimentation. Exercise
 extreme caution. This compound is not approved for human consumption.
 
 ## See Also
-
 - [[dme-entity]]
-
 - [[2c-o-4-entity-pihkal]]
 - [[2-br-4-5-mda-entity-pihkal]]
-
-- PIHKAL (Shulgin & Shulgin, 1991)
-- Related phenethylamine compounds in PIHKAL
-
-## See Also
-
 - [[tma-5-entity-pihkal]]
+
+## Related Topics
+
+- [[methyl-j-entity-pihkal]]

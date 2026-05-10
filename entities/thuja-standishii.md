@@ -11,9 +11,9 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - "Farjon, A. (2005). A Monograph of Cupressaceae and Sciadopitys. Royal Botanic Gardens, Kew."
-  - "Kartesz, J.T. (2015). The Biota of [[psilocybin-north-america-pacific-northwest]] Program (BONAP). [[growing-gourmet-north-american-reishi-species]] Plant Atlas."
+  - "Kartesz, J.T. (2015). The Biota of psilocybin-north-america-pacific-northwest Program (BONAP). growing-gourmet-north-american-reishi-species Plant Atlas."
   - "Yamazaki, T. (1995). Thuja standishii (Gordon) Carrière. In Iwatsuki, K. et al. (eds.), Flora of Japan, Vol. I. Kodansha."
-  - "Adams, R.P. et al. (2011). Leaf [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] and DNA fingerprints of Thuja (Cupressaceae). Biochemical Systematics and Ecology, 39(4-6), 395-406."
+  - "Adams, R.P. et al. (2011). Leaf comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap and DNA fingerprints of Thuja (Cupressaceae). Biochemical Systematics and Ecology, 39(4-6), 395-406."
   - "Little, D.P. (2006). Evolution and diversification of the Cupressaceae. Annals of the Missouri Botanical Garden, 93(4), 537-547."
 ---
 

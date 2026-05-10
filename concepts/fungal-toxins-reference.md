@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Fungi produce a diverse array of toxic [[antifungal-secondary-metabolites-coprophilous-fungi]] known as mycotoxins. These compounds range from deadly poisons found in [[palmer-poisonous-mushrooms-deadly-species]] to contaminants of agricultural crops that affect human and animal health on a global scale. This reference covers the most significant fungal toxins, their mechanisms of action, clinical effects, and management.
+Fungi produce a diverse array of toxic secondary metabolites known as mycotoxins. These compounds range from deadly poisons found in poisonous mushrooms to contaminants of agricultural crops that affect human and animal health on a global scale. This reference covers the most significant fungal toxins, their mechanisms of action, clinical effects, and management. (see [[fungal-poisons-and-toxicology]]).
 
 ## Amatoxins (Amanitin)
 
@@ -19,8 +19,8 @@ Fungi produce a diverse array of toxic [[antifungal-secondary-metabolites-coprop
 
 Amatoxins are produced primarily by species in the genus Amanita, most notably:
 
-- **Amanita phalloides** ([[query-how-to-identify-and-avoid-the-death-cap-amanita-phalloides]]) — responsible for the majority of fatal mushroom poisonings worldwide
-- **[[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]** (Destroying Angel)
+- **Amanita phalloides** (Death Cap) — responsible for the majority of fatal mushroom poisonings worldwide
+- **Amanita virosa** (Destroying Angel)
 - **Amanita verna** (Fool's Mushroom)
 - **Amanita bisporigera** (Eastern Destroying Angel)
 - Also found in some Galerina and Lepiota species
@@ -35,7 +35,7 @@ Amatoxins are bicyclic octapeptides containing a tryptophan-derived indole bridg
 
 ### Clinical Presentation
 
-[[bloomfield-amatoxin-poisoning-mechanism]] follows a characteristic biphasic course:
+Amatoxin poisoning follows a characteristic biphasic course:
 
 **Phase 1 — Gastrointestinal (6-24 hours post-ingestion)**:
 - Severe nausea, vomiting, profuse watery diarrhea, abdominal cramping
@@ -63,7 +63,7 @@ Amatoxins are bicyclic octapeptides containing a tryptophan-derived indole bridg
 
 ### Lethal Dose
 
-The LD50 of alpha-amanitin in humans is estimated at 0.1 mg/kg — approximately 50-100g of fresh Amanita phalloides (a single cap can be lethal).
+The LD50 of alpha-amanitin in humans is estimated at 0.1 mg/kg — approximately 50-100g of fresh Amanita phalloides (a single cap can be lethal). (see [[medicinal-mushroom-guide-oyster]]).
 
 ## Orellanine
 
@@ -110,7 +110,7 @@ Gyromitrin is found in several species of false morels:
 
 Gyromitrin is a volatile, water-soluble hydrazone compound metabolized to **monomethylhydrazine (MMH)**:
 
-- **MMH inhibits glutathione synthesis**: Depletion leads to [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] and cellular damage
+- **MMH inhibits glutathione synthesis**: Depletion leads to oxidative stress and cellular damage
 - **MMH disrupts GABA synthesis**: Causes central nervous system excitation and seizures
 - **MMH causes methemoglobinemia**: Oxidizes hemoglobin, reducing oxygen-carrying capacity
 
@@ -142,8 +142,9 @@ Aflatoxins are produced by Aspergillus flavus, A. parasiticus, and A. nomius, co
 ### Mechanism of Action
 
 Aflatoxins are difuranocoumarin compounds, with B1 being the most potent and prevalent:
-## Related
 
-- [[fungal-allergies]]
-- [[teaming-with-microbes-tilling-damage-to-fungal-networks]]
-- [[singh-single-cell-protein-fungal-wastewater-treatment]]
+- **Metabolic activation**: Aflatoxin B1 is metabolized by cytochrome P450 enzymes (CYP1A2, CYP3A4) to the reactive intermediate **aflatoxin B1-8,9-epoxide**
+- **DNA adduct formation**: The epoxide forms covalent bonds with DNA, primarily at the N7 position of guanine
+- **TP53 mutation**: Aflatoxin-DNA adducts cause a characteristic G-to-T transversion mutation in the TP53 tumor suppressor gene (codon 249), which is strongly associated with hepatocellular carcinoma
+- **Immunosuppression**: Aflatoxins suppress cell-mediated immunity and reduce antibody production
+

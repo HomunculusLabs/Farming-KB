@@ -127,5 +127,7 @@ Avoid hunting during extended dry periods; even well-located habitats will
 not produce during drought conditions.
 ## See Also
 
+- [[query-how-to-grow-rare-tropical-fruits-in-marginal-and-subtropical-climates]]
+
 - [[allen-pans-cyanescens-australia-distribution]]
 - [[allen-gymnopilus-and-other-psychoactive-genera]]

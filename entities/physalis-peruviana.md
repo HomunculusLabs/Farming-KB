@@ -72,8 +72,25 @@ Studies have demonstrated hepatoprotective effects in animal models, anti-inflam
 
 In permaculture systems, groundcherry serves as a productive understory plant in food forests and polycultures. Its sprawling habit provides [[comparison-living-mulch-vs-cover-crops]], and the calyx-covered fruits resist bird predation better than many berries. It pairs well with [[physalis-alkekengi]]
 
-- [[forest-garden-design-principles]]
+## Seasonality
 
+In its native Andean range, *P. peruviana* flowers and fruits nearly
+year-round at lower elevations, with peak harvest from November to
+March. In temperate Northern Hemisphere regions grown as an annual,
+fruit ripens from August through October, continuing until the first
+frost. In the Southern Hemisphere (South Africa, Australia, New
+Zealand), the cycle is reversed with fruiting from February to May.
+The calyx provides excellent protection, allowing ripe fruits to be
+harvested gradually over several weeks as they drop from the plant.
+
+## Similar Species
+
+- **[[physalis-alkekengi]]** (Chinese lantern) — Primarily ornamental with bright orange-red calyces; fruits are smaller, bitter, and generally inedible raw. The inflated calyx is more prominent than the fruit itself.
+- **Physalis ixocarpa** (Tomatillo) — Larger species with green or purple fruit used in Mexican cuisine. Larger fruit (3-6 cm) that fills the calyx with a more tart, acidic flavor.
+- **Physalis pruinosa** — North American native similar to P. peruviana but smaller, with ~1 cm fruits and a sweeter mango-like flavor.
+
+## See Also
+- [[forest-garden-design-principles]]
 - [[comfrey-symphytum-officinale|Comfrey]] — [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] partner
 - [[moringa-oleifera|Moringa oleifera]] — complementary Andean/tropical superfood
 - [[ashwagandha-withania-somnifera|Ashwagandha]] — shared withanolide chemistry

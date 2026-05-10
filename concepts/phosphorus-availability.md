@@ -1,5 +1,5 @@
 ---
-title: query-how-does-phosphorus-availability-change-across-soil-ph-levels
+title: Phosphorus Availability
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,13 +13,13 @@ sources:
 
 ## Overview
 
-Phosphorus (P) is critical for plant energy (ATP), DNA, RNA, and [[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]] integrity. Despite its importance, phosphorus is notoriously unavailable in most soils. An acre of soil might contain only 1 pound of phosphorus actually dissolved in water and available to plants. Understanding why -- and how to work around it -- is essential for gardeners.
+Phosphorus (P) is critical for plant energy (ATP), DNA, RNA, and cell membrane integrity. Despite its importance, phosphorus is notoriously unavailable in most soils. An acre of soil might contain only 1 pound of phosphorus actually dissolved in water and available to plants. Understanding why -- and how to work around it -- is essential for gardeners.
 
 ## Why Phosphorus Gets Tied Up
 
 ### Chemical Fixation
 
-Inorganic phosphorus from weathered rock (primarily apatite) is adsorbed to the surfaces of clay particles and [[hamilton-composting-and-organic-matter-management]] through ionic attraction, binding it tightly in place. Phosphorus does not move much in soil as a result. Some positively charged areas on clay sheet surfaces attract phosphate anions despite their negative charge. In [[mollison-designers-tropical-soils-and-cation-exchange-management]] with highly weathered clays, even sulfates and nitrates can be held.
+Inorganic phosphorus from weathered rock (primarily apatite) is adsorbed to the surfaces of clay particles and organic matter through ionic attraction, binding it tightly in place. Phosphorus does not move much in soil as a result. Some positively charged areas on clay sheet surfaces attract phosphate anions despite their negative charge. In tropical soils with highly weathered clays, even sulfates and nitrates can be held.
 
 ### pH Lockup
 
@@ -27,7 +27,7 @@ At high pH (alkaline conditions), phosphorus reacts with calcium to form insolub
 
 ### Peak Phosphorus Concern
 
-More than 22 million tons of phosphorus are applied to agricultural fields annually. The Global Phosphorus Research Initiative estimates that mined supplies may be insufficient in only 30 to 40 years, with 95 percent of remaining mineable phosphorus concentrated in Morocco, China, South Africa, Jordan, and the [[dmt-containing-plants-united-states-halpern]].
+More than 22 million tons of phosphorus are applied to agricultural fields annually. The Global Phosphorus Research Initiative estimates that mined supplies may be insufficient in only 30 to 40 years, with 95 percent of remaining mineable phosphorus concentrated in Morocco, China, South Africa, Jordan, and the United States.
 
 ## How Plants Access Phosphorus
 
@@ -44,7 +44,7 @@ Around 95 percent of all plants form [[mycorrhizal-inoculation|mycorrhizal]] ass
 - Form intricate webs that can carry phosphorus to roots of different plants, not just their host
 - Access phosphorus in soil pores too small for roots to reach
 
-The plant provides carbohydrates (from [[mycorrhizal-root-exudates-pathogen-interactions]]) to the fungi in exchange. Without mycorrhizal fungi, plants cannot obtain the quantities and kinds of phosphorus needed to perform at their best.
+The plant provides carbohydrates (from root exudates) to the fungi in exchange. Without mycorrhizal fungi, plants cannot obtain the quantities and kinds of phosphorus needed to perform at their best.
 
 ### Phosphate-Solubilizing Bacteria
 

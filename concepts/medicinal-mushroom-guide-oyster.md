@@ -1,20 +1,19 @@
 ---
-title: Oyster Mushroom (Pleurotus ostreatus) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: Oyster Mushroom (Pleurotus ostreatus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, medicine, health, mycology, preparation, species-profiles, pharmacology, biochemistry]
-sources:
-  sources: []
+sources: []
 ---
 
 # Oyster Mushroom (Pleurotus ostreatus)
 
 ## Overview
 
-The oyster mushroom (Pleurotus ostreatus) is one of the most widely cultivated and recognized edible mushrooms worldwide. Named for its oyster shell-shaped cap, it grows in shelf-like clusters on dead or dying hardwood trees across temperate and subtropical forests globally.
+The oyster mushroom [[medicinal-mushroom-guide-meshima]] (Pleurotus ostreatus) is one of the most widely cultivated and recognized edible mushrooms worldwide. Named for its oyster shell-shaped cap, it grows in shelf-like clusters on dead or dying hardwood trees across temperate and subtropical forests globally.
 
-While primarily known as a culinary mushroom, oyster mushrooms possess significant medicinal properties that are increasingly supported by research. They are particularly notable for their cholesterol-lowering effects (producing natural statins), anti-tumor activity, and environmental applications in mycoremediation.
+While primarily known as a culinary mushroom, oyster mushrooms possess significant medicinal [[medicinal-mushroom-guide-meshima]] properties that are increasingly supported by research. They are particularly notable for their cholesterol-lowering effects (producing natural statins), anti-tumor activity, and environmental applications in mycoremediation.
 
 ## Key Compounds
 
@@ -60,7 +59,7 @@ Oyster mushrooms have demonstrated anti-cancer properties across multiple studie
 
 ### Pleuran Research
 - Pleuran (commercially available as Imunoglukan) is a purified beta-glucan from P. ostreatus.
-- Shown to enhance immune function and reduce respiratory infections in [[mushroom-cancer-clinical-trials-overview]].
+- Shown to enhance immune function and reduce respiratory infections in clinical trials.
 - Investigated as an adjunct in cancer therapy in Eastern Europe.
 
 ## Immune System Effects
@@ -82,7 +81,7 @@ Oyster mushrooms have demonstrated anti-cancer properties across multiple studie
 - High ergothioneine content (1-5mg/g dried weight) — one of the richest dietary sources.
 - Phenolic compounds provide significant radical scavenging activity.
 - Protects against oxidative DNA damage and lipid peroxidation.
-- Metal chelating activity reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] from heavy metals.
+- Metal chelating activity reduces oxidative stress from heavy metals.
 
 ## Nutritional Value
 
@@ -119,7 +118,7 @@ Oyster mushrooms are nutritionally dense:
 
 ### Dual Extraction Tincture
 1. Hot water extraction for polysaccharides.
-2. [[pf-tek-alcohol-extraction-method]] for lovastatin and other lipophilic compounds.
+2. Alcohol extraction for lovastatin and other lipophilic compounds.
 3. Combine extracts.
 
 ## Dosing Guidelines
@@ -134,17 +133,23 @@ Oyster mushrooms are nutritionally dense:
 
 Oyster mushrooms are among the easiest mushrooms to cultivate, making them ideal for home growers:
 
-- **Substrate:** Extremely versatile — hardwood sawdust, straw, [[oyster-mushroom-coffee-grounds-cultivation]], agricultural waste, cardboard, paper.
+- **Substrate:** Extremely versatile — hardwood sawdust, straw, coffee grounds, agricultural waste, cardboard, paper.
 - **Colonization:** 10-21 days at 72-78°F (22-26°C).
 - **Fruiting:** Requires high humidity (85-95%), fresh air, and indirect light.
 - **Temperature:** Varies by species (P. ostreatus fruits at 55-75°F).
-- **[[stamets-biological-efficiency-yield]]:** 50-200% depending on substrate.
+- **Biological efficiency:** 50-200% depending on substrate.
 - **Methods:** Bucket tek, straw logs, monotubs, outdoor log inoculation.
 
 ## Mycoremediation Applications
 
-## Related Topics
+Oyster mushrooms have significant environmental applications:
+- Breaks down petroleum hydrocarbons (oil spills).
+- Degrades polycyclic aromatic hydrocarbons (PAHs).
+- Absorbs and concentrates heavy metals (bioaccumulation).
+- Degrades plastic and synthetic dyes in laboratory settings.
+- Used in greywater filtration systems and ecological restoration.
 
-- [[medicinal-mushroom-guide-shiitake]] for complementary cholesterol-lowering mushroom
-- [[medicinal-mushroom-guide-maitake]] for metabolic health comparison
-- [[medicinal-mushroom-guide-king-tubercake]] for another Pleurotus species
+
+## See Also
+- [[oyster-mushroom-species-guide]]
+- [[oyster-mushroom-cultivation-and-species-guide]]

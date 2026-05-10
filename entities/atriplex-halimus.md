@@ -20,7 +20,7 @@ sources:
 
 # Atriplex halimus
 
-**Atriplex halimus**, commonly known as **Mediterranean saltbush**, **sea orache**, or **spiny saltbush**, is a perennial halophytic shrub in the family Amaranthaceae. One of the most salt-tolerant and drought-resistant shrubs available for permaculture, it is invaluable for arid-zone [[food-forest|food forest]]ry, windbreaks, livestock forage, and soil restoration in marginal environments. Its ability to thrive in conditions lethal to most plants has earned increasing attention in climate-adaptive agriculture.
+**atriplex halimus**, commonly known as **Mediterranean saltbush**, **sea orache**, or **spiny saltbush**, is a perennial halophytic shrub in the family Amaranthaceae. One of the most salt-tolerant and drought-resistant shrubs available for permaculture, it is invaluable for arid-zone [[food-forest]] ry, windbreaks, livestock forage, and soil restoration in marginal environments. Its ability to thrive in conditions lethal to most plants has earned increasing attention in climate-adaptive agriculture.
 
 ## Taxonomy
 
@@ -84,7 +84,7 @@ One of the most important drought-resistant forages:
 - **Erosion control:** Extensive roots stabilize slopes, dunes, degraded soils
 - **Organic matter:** Leaf litter and root turnover improve soil structure
 - **Dune stabilization:** Widely planted for coastal fixation
-- **[[phytoremediation|Phytoremediation]]:** Used for heavy metal-contaminated soils
+- **[[phytoremediation]]:** Used for heavy metal-contaminated soils
 
 ### hippophae-rhamnoides
 - elaeagnus-angustifolia
@@ -92,3 +92,6 @@ One of the most important drought-resistant forages:
 - Atriplex canescens — Four-wing saltbush, North American relative
 - elaeagnus-angustifolia — Russian olive, salt-tolerant nitrogen fixer
 - [[silvopasture]] — Integration of trees and forage for livestock
+
+See [[query-best-nut-trees-for-a-permaculture-food-forest-by-climate-zone]] for more on Query Best Nut Trees For A Permaculture Food Forest By Climate Zone.
+See [[query-what-are-c3-c4-and-cam-photosynthesis-and-why-does-it-matter-for-growers]] for more on Query What Are C3 C4 And Cam Photosynthesis And Why Does It Matter For Growers.

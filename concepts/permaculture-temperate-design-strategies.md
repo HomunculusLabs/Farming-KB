@@ -1,5 +1,5 @@
 ---
-title: Permaculture permaculture temperate design strategies Strategies
+title: Permaculture Temperate Design Strategies
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -16,13 +16,13 @@ sources:
 
 # Permaculture Temperate Design Strategies
 
-Chapter 12 of the Designers' Manual addresses the cool temperate and [[permaculture-designers-manual-cold-climate-design]] strategies, dealing with the specific challenges of frost, snow, wind, short growing seasons, and the bimodal productivity curve of temperate grasslands.
+Chapter 12 of the Designers' Manual addresses the cool temperate and cold climate strategies, dealing with the specific challenges of frost, snow, wind, short growing seasons, and the bimodal productivity curve of temperate grasslands. (see [[permaculture-grazing-and-pasture]]).
 
 ## The Temperate Productivity Challenge
 
 ### Bimodal Growth Curve
 
-The net product of grassland in a [[mollison-designers-cool-humid-climate-design-overview]] climate has a bimodal growth curve with two periods of deficit -- late summer (from grass seeding, droughting, and drying-off) and winter (slow or no growth, with snow cover or blizzards). These deficits are always a feature of open grasslands.
+The net product of grassland in a cool humid climate has a bimodal growth curve with two periods of deficit -- late summer (from grass seeding, droughting, and drying-off) and winter (slow or no growth, with snow cover or blizzards). These deficits are always a feature of open grasslands. (see [[mollison-meadow-design-and-plant-assemblies]]).
 
 Strategies to overcome seasonal deficits:
 - **Summer**: Green leaf from forage tree plantations overcomes the shortage. Evergreen forage trees like tagasaste may not withstand hard frost if lopped in late autumn; mature leaf must be carried into frost periods. Deciduous species (willow, poplar) provide summer forage, and their wood chips can be fermented to high-value winter concentrates.
@@ -52,7 +52,7 @@ A meadow is maintained by its pollinators, browsers, burrowers, and their predat
 
 ## Soil Revitalisation
 
-Compacted soils and worn-out pastures are revitalised by sod-seeding: a broad-flanged chisel point at 6-10 cm depth and 0.5-0.6 m spacing cuts existing grass roots and provides a seed furrow. [[coleman-overwintered-onions-and-early-spring-crops]] and mid-autumn to early winter are usual sowing periods. Trace elements, major nutrients, and water-retaining gels can be added to the furrows.
+Compacted soils and worn-out pastures are revitalised by sod-seeding: a broad-flanged chisel point at 6-10 cm depth and 0.5-0.6 m spacing cuts existing grass roots and provides a seed furrow. Early spring and mid-autumn to early winter are usual sowing periods. Trace elements, major nutrients, and water-retaining gels can be added to the furrows.
 
 Seed mixes for sod-seeding include clovers for the specific site, spikeroots (dandelion, plantain, chicory), woody browse species (wormwood, tagasaste, Elaeagnus, pines, willows, poplars), and site-appropriate grasses.
 
@@ -80,7 +80,7 @@ Best defenses: preservation of high-slope forests, placement of essential servic
 
 ## Related Concepts
 
-- [[permaculture-climate-classification]] -- Understanding [[permaculture-designers-manual-temperate-climate-design]] zones
+- [[permaculture-climate-classification]] -- Understanding temperate climate zones
 - [[permaculture-livestock-forage-systems]] -- Forage strategies for temperate livestock
 - [[permaculture-design-process]] -- Energy-efficient housing for cold climates
-- [[permaculture-livestock-forage-systems]] -- [[comparison-rotational-grazing-vs-continuous-grazing]] in temperate grasslands
+- [[permaculture-livestock-forage-systems]] -- Rotational grazing in temperate grasslands

@@ -99,12 +99,14 @@ any [[emcdda-wild-mushroom-foraging-misidentification-hazards]] without expert g
 
 ## See Also
 
+- [[amanita-phalloides-toxicology]]
+
 - [[plants-of-the-gods-amanita-muscaria]]
 - [[peter-mantle-liberty-cap-chromatographic-discovery-1969]]
 
 - [[mycotoxins]].md)
 - [[bloomfield-fungal-pathogens-and-parasites]] and Human Disease]([[fungal-pathogens-human-disease]].md)
-- [Insect-Fungi Interactions]([[insect-fungi-interactions]].md)
+- [[insect-fungi-interactions|Insect-Fungi Interactions]]
 - [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (Stinkhorn)]([[phallus-impudicus-stinkhorn]].md)
 
 ## References

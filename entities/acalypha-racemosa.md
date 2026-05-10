@@ -134,14 +134,11 @@ Acute toxicity studies in rodents have shown that aqueous and ethanolic extracts
 ## Cultivation and Propagation
 
 *A. racemosa* can be propagated by both seed and stem cuttings:
+
 ## See Also
 
-- acalypha racemosa
+- [[actaea-racemosa]]
 - [[termitomyces-african-mushrooms]]
-- biodiversity-fungi-endophytes-tropical-plants
-
-## See Also
-
 - [[herbal-medicine-making-basics]]
 - [[bacillus-subtilis]]
 - [[candida-albicans]]

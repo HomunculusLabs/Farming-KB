@@ -23,7 +23,7 @@ updated: 2026-04-28
 sources:
   - Cai, Y. et al. (1991). "Polyphenolic compounds from Croton lechleri."
     Phytochemistry 30(3): 953-955.
-  - Perdue, G.P. et al. (1979). "[[chiric-caspi-brunfelsia-south-american-hallucinogen]] plants II: taspine, a
+  - Perdue, G.P. et al. (1979). "chiric-caspi-brunfelsia-south-american-hallucinogen plants II: taspine, a
     novel cicatrizant agent." Journal of Natural Products 42(5): 567-568.
   - Chen, Z.L. et al. (1994). "Croton lechleri sap — a source of
     proanthocyanidins." Journal of Natural Products 57(1): 54-59.

@@ -3,8 +3,8 @@ title: Marketing Philosophy — Fresh, Local, and Beyond Organic
 created: 2026-05-08
 sources:
   - path: /Users/t3rpz/wiki/raw/papers/eliot-coleman-winter-harvest-handbook.md
-    title: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook - eliot-coleman
-    author: Eliot Coleman
+    title: The coleman-claytonia-winter-harvest-cultivation Handbook - eliot-coleman
+    author: [[eliot-coleman]]
 updated: 2026-05-08
 type: concept
 tags: [reference]
@@ -106,7 +106,7 @@ no-nonsense attitude to complete harvest on time.
 The fundamental insight of Coleman's marketing philosophy is that
 small farmers cannot compete with industrial agriculture on price or
 volume, but they can compete decisively on quality, freshness, and
-connection to their community. The winter harvest system itself is
+connection to their community. The [[coleman-claytonia-winter-harvest-cultivation]] system itself is
 a marketing advantage: being able to offer fresh, locally grown
 salads in January creates a product that literally no one else in
 the region can match.
@@ -114,7 +114,7 @@ the region can match.
 Time's winged chariot, as Coleman quotes from Andrew Marvell, is
 always hurrying near. The next harvest follows quickly after the
 last. Since you cannot harvest what you have not planted, the
-planting schedule must be as much a part of daily life as the
+[[coleman-winter-harvest-planting-schedule]] must be as much a part of daily life as the
 harvest schedule. The most important skill for a four-season grower
 is keeping careful notes on seed-to-harvest days and preparing a
 day-by-day planting calendar from them.

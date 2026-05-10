@@ -140,7 +140,6 @@ Effects persist for at least two hours, making it suitable as a
 daytime smoke.
 
 The flavor is pleasant and complements the uplifting effects.
-
 ## See Also
 
 - [[oner-jamaican-dream-and-jamaican-lions]]

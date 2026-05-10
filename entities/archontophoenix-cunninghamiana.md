@@ -104,6 +104,8 @@ The species has become a significant element in contemporary Australian horticul
 
 ## See Also
 
+- [[archontophoenix-alexandrae]]
+
 - [[rhapis-excelsa]]
 - [[bismarckia-nobilis]]
 - [[caryota-urens]]

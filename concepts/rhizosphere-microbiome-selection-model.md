@@ -116,10 +116,6 @@ significant (unweighted: t = -2.10, p = 0.109; weighted: t = -2.23, p =
 differentiation step of the model.
 
 ## See Also
-
-- [[soil-edaphic-factors-microbial-communities]] for tier 1 drivers
-- [[cannabis-microbiome-research]] for the complete study overview
-
-## See Also
-
+- [[soil-edaphic-factors-microbial-communities]]
+- [[cannabis-microbiome-research]]
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]

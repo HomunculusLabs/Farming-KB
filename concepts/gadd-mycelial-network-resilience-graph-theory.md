@@ -108,9 +108,5 @@ The key insight from comparing mycelial networks to these other systems is that 
 4. **Remodeling phase**: As resources are depleted or new ones discovered, the fungus abandons unproductive network sections and reallocates resources. This continuous remodeling means that the network's resilience profile changes over time, typically increasing as the colony matures and establishes more connections.
 
 ## See Also
-
 - [[biological-network-theory]]
-
-## See Also
-
 - [[mycelial-network-nutrient-transport-imaging-gadd]]

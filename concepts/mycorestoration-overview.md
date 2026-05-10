@@ -5,8 +5,7 @@ updated: 2026-04-12
 type: concept
 tags: [mycology, restoration, ecology, remediation, filtration, forestry]
 sources:
-  sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - raw/papers/mycelium-running-stamets.md
 ---
 
 # Mycorestoration Overview
@@ -44,16 +43,16 @@ fungi → insects/vertebrates → bacteria → plants → insects/vertebrates �
 ## Why Fungi Are Unique
 
 - **Molecular disassemblers**: Enzymes that break lignin (nature's most recalcitrant molecule) also break petroleum, PCBs, dioxins, pesticides
-- **Network builders**: [[singh-mycelial-mats-and-biological-soil-crusts]] span cubic volumes, creating living filtration membranes
+- **Network builders**: Mycelial mats span cubic volumes, creating living filtration membranes
 - **Self-propagating**: Once established, mycelium grows on its own
-- **Low cost**: Uses [[fungi-in-composting-and-agricultural-waste-conversion]] (straw, wood chips) as substrate; ~$50/ton vs ~$1,000/ton for incineration
+- **Low cost**: Uses agricultural waste (straw, wood chips) as substrate; ~$50/ton vs ~$1,000/ton for incineration
 - **Synergistic**: Triggers broader ecological recovery, not just single-target cleanup
 - **Ancient**: Fungi have been recycling ecosystems for over a billion years
 
 ## Stamets' Key Discoveries
 
 ### The WSDOT Experiment
-Diesel-contaminated soil (20,000 ppm TPH) treated with [[cotter-oyster-mushroom-cultivation]] mycelium:
+Diesel-contaminated soil (20,000 ppm TPH) treated with oyster mushroom mycelium:
 - 4 weeks: hundreds of mushrooms fruited, diesel smell gone
 - 8 weeks: TPH dropped to <200 ppm (99% reduction)
 - 9 weeks: vascular plants growing in formerly dead soil
@@ -65,7 +64,7 @@ Diesel-contaminated soil (20,000 ppm TPH) treated with [[cotter-oyster-mushroom-
 - One strain native to Pacific Northwest old-growth forests effectively denatured VX
 
 ### Tahuya State Forest — Road Reclamation
-- Old logging road treated with wood chips + oyster [[cuthill-mushroom-spawn-preparation-historical]] + [[arbuscular-mycorrhizal-inoculum-production-best-practices]]
+- Old logging road treated with wood chips + oyster mushroom spawn + mycorrhizal inoculum
 - After 3 years: mantle of contiguous mycelia at wood chip/soil interface
 - Road transformed from erosion source into nature trail
 - Cost: ~50% of conventional road decommissioning
@@ -88,7 +87,7 @@ From the book's remediation cost comparison chart:
 
 1. **Profile the site** — identify contaminants, existing biology, water flow, terrain
 2. **Select species** — match fungal enzymes to the target toxins/conditions
-3. **Deploy mycelium** — [[comparison-sheet-mulching-vs-chop-and-drop-mulching]], bunker spawn, or direct inoculation
+3. **Deploy mycelium** — sheet mulching, bunker spawn, or direct inoculation
 4. **Let nature take over** — monitor but don't over-manage
 5. **Recharge annually** — add fresh inoculated substrate if needed
 6. **Plant mycorrhizal trees/plants** — once toxicity drops to tolerable levels

@@ -12,9 +12,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Fernald, M.L. (1950). "Gray's Manual of Botany." 8th ed. American Book Company.
-  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - Foster, S. & Duke, J.A. (2014). "Peterson Field Guide to Medicinal Plants." Houghton Mifflin Harcourt.
-  - Duke, J.A. et al. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
+  - Duke, J.A. et al. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
   - U.S. Forest Service (2024). "Aralia racemosa L." USDA NRCS Plant Database.
 ---
 
@@ -113,6 +113,10 @@ The root was an official drug in the United States Pharmacopoeia from 1820 to 19
 Current herbal use focuses on respiratory support and as a component of adaptogenic formulations, often combined with other Araliaceae species.
 
 ## See Also
+
+- [[exochorda-racemosa]]
+
+- [[acalypha-racemosa]]
 
 - [[aralia-nudicaulis]]
 

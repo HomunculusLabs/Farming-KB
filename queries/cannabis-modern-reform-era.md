@@ -1,5 +1,5 @@
 ---
-title: Cannabis cannabis modern reform era Era
+title: Cannabis Modern Reform Era
 created: 2026-04-12
 updated: 2026-04-12
 type: query
@@ -12,7 +12,7 @@ sources:
 
 # Cannabis Modern Reform Era (1970–Present)
 
-Continuation of [[cannabis-prohibition-history]]. Covers the [[cervantes-war-on-drugs-statistics]], [[cervantes-medical-marijuana-pharmacology]] movement, and modern legalization.
+Continuation of [[cannabis-prohibition-history]]. Covers the War on Drugs, medical marijuana movement, and modern legalization.
 
 ## Controlled Substances Act and War on Drugs (1970-1996)
 
@@ -98,4 +98,4 @@ The end of prohibition and the modern legalization movement — from Colorado an
 - [[cannabis-genetics-and-breeding]] — breeding methods shaped by prohibition-era underground work
 - [[robert-clarke]] — cannabis botany and ethnobotany authority
 - [[cannabis-spiritual-ritual-use]] — ceremonial use across traditions
-- [[cannabis-living-soil-guide]] — modern living soil [[synthetic-log-cultivation-methods-guide]]
+- [[cannabis-living-soil-guide]] — modern living soil cultivation methods

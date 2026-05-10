@@ -63,11 +63,10 @@ CNS depressants
 
 5-MeO-TMT is not specifically scheduled in most jurisdictions. As a
 substituted [[dimethyltryptamine]], it could potentially fall under analogue
-## See Also
 
 ## See Also
-
 - [[4-5-mdo-dmt-entity-tihkal]]
+
 ## Practical Considerations
 
 Successful implementation of 5 Meo Tmt (Tihkal) requires attention to

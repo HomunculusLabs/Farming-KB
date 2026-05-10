@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [comparison, soil-management, no-till, raised-beds]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 

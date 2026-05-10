@@ -140,10 +140,8 @@ Expert growers scale these methods to entire rooms:
 - Multiple vertically suspended HPS lights.
 - Full reflective coverage (flat white paint and Mylar).
 - Multiple air ducts, extraction fans, and CO2 generators.
-## See Also
 
+## See Also
 - [[green-cannabis-harvesting-processing]]
 - [[green-cannabis-grow-bible-seed-selection-and-seed-banks]]
 - [[green-cannabis-grow-bible-soil-and-medium-preparation]]
-
-## See Also

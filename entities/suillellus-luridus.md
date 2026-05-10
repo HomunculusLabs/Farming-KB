@@ -132,14 +132,8 @@ is a valued culinary mushroom.
   forest ecosystems.
 
 ## See Also
-
-- [[rubroboletus-satanas|Rubroboletus satanas]]
-- Neoboletus erythropus
-- [[amanita-muscaria-entity|Amanita muscaria]]
-
-## See Also
-
-- edible-wild-mushroom-guide
+- [[rubroboletus-satanas]]
+- [[amanita-muscaria-entity]]
 - [[ectomycorrhiza]]
 - [[neoboletus-erythropus]]
 - [[mycelial-networks]]

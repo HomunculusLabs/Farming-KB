@@ -1,11 +1,10 @@
 ---
-title: grassland-pasture-management-mollison
+title: Pasture Management
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [forage, animal-husbandry, homesteading, regenerative, permaculture, livestock]
-sources:
-  sources: []
+sources: []
 ---
 
 # Pasture Management
@@ -13,7 +12,7 @@ sources:
 Pasture management is the foundation of any grass-based livestock system.
 Properly managed pastures produce more forage per acre, build soil health,
 sequester carbon, reduce feed costs, and break parasite life cycles. The
-principles of [[comparison-rotational-grazing-vs-continuous-grazing]] and adaptive multi-paddock management can
+principles of rotational grazing and adaptive multi-paddock management can
 transform marginal land into productive, resilient pasture.
 
 ## Rotational Grazing
@@ -21,7 +20,7 @@ transform marginal land into productive, resilient pasture.
 ### The Principle
 Rotational grazing divides pasture into smaller paddocks and moves animals
 through them on a schedule, allowing each paddock a rest period for regrowth.
-This mimics [[fukuoka-factory-livestock-critique-natural-grazing-philosophy]] patterns of wild herbivores and stimulates both
+This mimics natural grazing patterns of wild herbivores and stimulates both
 plant and soil health.
 
 ### Benefits
@@ -32,7 +31,7 @@ plant and soil health.
 - Deeper root systems — plants grow deeper when grazed and rested properly.
 - Improved water infiltration — root channels and organic matter increase
   soil porosity.
-- [[mycorrhizal-fungi-soil-carbon-sequestration-by-type]] — grazing stimulates root exudates that feed soil
+- Carbon sequestration — grazing stimulates root exudates that feed soil
   microbes, building soil organic carbon.
 
 ### Implementation
@@ -40,7 +39,7 @@ plant and soil health.
   fencing. See [[livestock-fencing-guide]].
 - Move animals when the pasture is grazed to the target residual height.
 - Rest each paddock until plants have fully recovered.
-- Adjust [[savory-fencing-economics-and-stock-density-curve]] (animals per acre) based on forage availability and
+- Adjust stock density (animals per acre) based on forage availability and
   season.
 
 ### Grazing Management Rules
@@ -101,7 +100,7 @@ plant and soil health.
   infected types cause fescue toxicosis in livestock — use novel endophyte
   varieties.
 - **Timothy:** High quality, good for hay. Less persistent under grazing.
-- **Smooth Bromegrass:** Aggressive, sod-forming. Good for [[permplant-willows-salix-erosion-control-fodder]].
+- **Smooth Bromegrass:** Aggressive, sod-forming. Good for erosion control.
 
 ### Warm-Season Grasses (Grow in Summer)
 - **Bermudagrass:** Highly productive in hot climates. Requires good
@@ -140,10 +139,12 @@ plant and soil health.
 - General guidelines for cool-season pastures:
   - Spring (rapid growth): 14-21 days
   - Early summer: 21-30 days
-## See Also
+  - Mid-summer (drought): 30-60+ days
+  - Fall: 30-45 days
+- Rest until plants have 3-4 fully expanded leaves before re-grazing.
 
-- [[permaculture-pasture-management]]
-- [[hay-and-forage-management]]
-- [[livestock-fencing-guide]]
-- mollison-designers-sheep-management-grazing-systems
-- [[pasture-management-and-forage]]
+### Stockpiling
+- Allow pasture to grow ungrazed in late summer/fall for winter grazing.
+- Tall fescue and orchardgrass stockpile well. Strip-graze with temporary
+  fencing to minimize waste. Can reduce winter hay feeding 30-60 days.
+

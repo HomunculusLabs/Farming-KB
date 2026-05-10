@@ -16,7 +16,7 @@ sources:
   - Simone M, et al. "Propolis and bee health: the natural history and significance of resin use by honey bees." Apidologie, 2009.
   - Gisder S, et al. "Propolis and its biological activities against pathogens of the honey bee." Apidologie, 2019.
   - Kujumgiev A, et al. "Antibacterial, antifungal and antiviral activity of propolis." J Ethnopharmacol, 1999.
-  - Huang S, et al. "Propolis: a review of its traditional uses, [[guzman-magic-mushrooms-chemical-constituents]], and pharmacological properties." Evid Based Complement Alternat Med, 2014.
+  - Huang S, et al. "Propolis: a review of its traditional uses, guzman-magic-mushrooms-chemical-constituents, and pharmacological properties." Evid Based Complement Alternat Med, 2014.
 type: query
 ---
 
@@ -140,10 +140,6 @@ The relationship between propolis and Varroa destructor is complex:
 - **Candle and soap additive:** Adds antimicrobial properties and a pleasant honey-resin scent
 
 ## See Also
-
-- [[bee-feeding-and-fungal-pesticides]] — Full guide to all hive products and their uses
-- [[integrated-pest-management]] including bee health
-
-## See Also
-
+- [[bee-feeding-and-fungal-pesticides]]
+- [[integrated-pest-management]]
 - [[query-how-do-i-set-up-a-rainwater-harvesting-system-for-my-garden]]

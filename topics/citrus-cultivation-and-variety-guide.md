@@ -138,7 +138,6 @@ Citrus is a heavy feeder with specific nutrient demands that vary by age and gro
 
 - **Nitrogen (N)**: The most critical nutrient for citrus. Apply 0.1–0.2 lbs N per tree per year of age, up to a maximum of 1.5 lbs N for mature trees. Split applications 3–4 times per year in regions with summer rainfall; 2–3 times in Mediterranean climates.
 - **Phosphorus (P)**: Required in smaller amounts, primarily for young trees. Soil testing guides application; most established citrus trees need minimal P.
-- **Potassium (K)**: Important for fruit quality, size, and cold hardiness. Apply at 50–75% of the nitrogen rate.
 ## See Also
 
 - [[avocado-cultivation-and-variety-guide]]

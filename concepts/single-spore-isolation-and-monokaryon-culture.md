@@ -141,7 +141,6 @@ susceptible to contamination and senescence:
 - **Clumping**: Spores tend to clump in suspension, defeating dilution
   strategies. Adding a small amount of Tween 80 and vortexing thoroughly
   helps disperse aggregates.
-
 ## See Also
 
 - [[mushroom-mating-systems-bipolar-tetrapolar-genetics]]

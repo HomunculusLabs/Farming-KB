@@ -117,6 +117,6 @@ Cannabis remains illegal in Jamaica for recreational use, though decriminalizati
 
 ## See Also
 
-- [[blue-dream-strain]]
-- [[acdc-cannabis-strain]]
+- [[blue-dream]]
+- [[acdc]]
 - [[african-landrace-sativa-modern-hybrids]]

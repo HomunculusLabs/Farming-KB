@@ -1,6 +1,6 @@
 ---
 
-title: Ramsbottom ramsbottom-poisonous-fungi-identification-guide Species
+title: Ramsbottom Poisonous Fungi Species
 created: 2026-04-12
 updated: 2026-04-12
 type: summary
@@ -26,11 +26,11 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 ## AMANITA PHALLOIDES -- Death Cap
 
-**Cap**: 3.5" wide. Fleshy, hemispherical then flat. Olivaceous green or yellowish green, darker centre. Occasionally brownish, yellow, or rarely whitish. Satiny when dry, viscid in wet weather. Finely streaked with dark radiating fibrils.
+**Cap**: 3.5" wide. Fleshy, hemispherical then flat. Olivaceous green or yellowish green, darker centre. Occasionally brownish, yellow, or rarely whitish. Satiny when dry, viscid in wet weather. Finely streaked with dark radiating fibrils. (see [[agaricus-sylvicola]]).
 
-**Gills**: Crowded, white, often greenish/yellowish reflection.
+**Gills**: Crowded, white, often greenish/yellowish reflection. (see [[inocybe-geophylla]]).
 
-**Stem**: 4.5" tall, 5/8" wide. Whitish, often green tinge. Solid at first, often becoming hollow. Well-marked large white/greenish ring. Bulbous base surrounded by large white/yellowish persistent volva, free for half its length with lax margin.
+**Stem**: 4.5" tall, 5/8" wide. Whitish, often green tinge. Solid at first, often becoming hollow. Well-marked large white/greenish ring. Bulbous base surrounded by large white/yellowish persistent volva, free for half its length with lax margin. (see [[lepiota-procera]]).
 
 **Flesh**: White, tinged with cap colour below readily separable skin. Practically tasteless, without smell until decay (then fetid).
 
@@ -48,7 +48,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Habitat**: Woods, especially beech. Summer and early autumn. Despite the name (verna = spring), rarely appears in spring.
 
-**Notes**: J. Bauhin called it *Fungus stultorum* -- "the fungus of fools," presumably because in its young stage it was mistaken for A. caesarea. Rare in Britain. Just as poisonous as A. phalloides but more dangerous because being white, it is more readily mistaken for [[palmer-edible-mushrooms-north-america]].
+**Notes**: J. Bauhin called it *Fungus stultorum* -- "the fungus of fools," presumably because in its young stage it was mistaken for A. caesarea. Rare in Britain. Just as poisonous as A. phalloides but more dangerous because being white, it is more readily mistaken for edible mushrooms.
 
 ## AMANITA VIROSA -- Destroying Angel
 
@@ -90,7 +90,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Toxins**: Muscarine (small amounts, NOT matching actual symptoms), mycetoatropine/muscaridine (atropine-like CNS effects), choline (large amounts, probably causes GI symptoms). Poison resides principally in skin of the cap; considerable variation in amount.
 
-**Ethnobotanical use**: Koryak tribes of northeast Siberia eat it for "excessive emotion." [[siberian-fly-agaric-shamanism-urine-recycling]] prolongs effects. Price in barren Steppes: 3-4 reindeer for a single specimen. Vikings said to eat it before battle ("berserk"). The name refers to Albertus Magnus (13th century) observation that the fungus broken up in milk kills flies.
+**Ethnobotanical use**: Koryak tribes of northeast Siberia eat it for "excessive emotion." Urine recycling prolongs effects. Price in barren Steppes: 3-4 reindeer for a single specimen. Vikings said to eat it before battle ("berserk"). The name refers to Albertus Magnus (13th century) observation that the fungus broken up in milk kills flies.
 
 **Homeopathic use**: Agaricus (Aga), formerly one of the antipsorics.
 
@@ -120,7 +120,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Habitat**: Amongst grass, autumn. Rare in Britain.
 
-**Poisoning**: Mild [[amanita-phalloides]]-type symptoms. Much less dangerous than the Amanitas.
+**Poisoning**: Mild Amanita phalloides-type symptoms. Much less dangerous than the Amanitas.
 
 ## LACTARIUS TORMINOSUS -- Woolly Milk Cap
 
@@ -144,6 +144,7 @@ Complete species descriptions from [[john-ramsbottom]]'s 1945 "Poisonous Fungi" 
 
 **Flesh**: Firm, white, pink under cap skin. Very acrid taste after a few seconds (persistent). Pleasant smell.
 
-## See Also
+**Habitat**: Woods, summer and autumn.
 
-- [[ramsbottom-poisonous-fungi-identification-guide]]
+**Notes**: Acrid substance dispersed in cooking, but best avoided.
+

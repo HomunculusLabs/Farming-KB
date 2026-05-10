@@ -47,7 +47,7 @@ Many implementations use innovation tests to reject sensor faults.
 The correction step is mathematically compact but conceptually powerful.
 It updates the estimate only by the amount justified by uncertainty.
 ## Key assumptions
-The standard Kalman filter assumes linear system dynamics.
+The standard kalman filter er]] er]] er]] assumes linear system dynamics.
 It assumes measurement equations are linear as well.
 It assumes process noise and measurement noise are Gaussian.
 It assumes noise statistics are known or reasonably estimated.

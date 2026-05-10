@@ -15,7 +15,7 @@ sources:
   - "Hawksworth, D.L. et al. (1995). Ainsworth & Bisby's Dictionary of the Fungi. 8th ed. CAB International."
   - "Chang, S.T. & Miles, P.G. (2004). Mushrooms: Cultivation, Nutritional Value, Medicinal Effect, and Environmental Impact. 2nd ed. CRC Press."
   - "Yang, J. et al. (2012). \"Polysaccharides from Dictyophora indusiata: isolation, structural characterization and immunomodulatory activity.\" Carbohydrate Polymers, 89(3), 873-878."
-  - "Deng, C. et al. (2020). \"[[dighton-fungal-nutritional-composition-animal-diets]] and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of Dictyophora indusiata: a review.\" Journal of Food Science and Technology, 57(7), 2393-2404."
+  - "Deng, C. et al. (2020). \"dighton-fungal-nutritional-composition-animal-diets and query-what-are-the-main-bioactive-compounds-in-medicinal-plants of Dictyophora indusiata: a review.\" Journal of Food Science and Technology, 57(7), 2393-2404."
   - "Wang, X. et al. (2019). \"Antioxidant and anti-inflammatory activities of Dictyophora indusiata extracts.\" Food Chemistry, 271, 721-727."
 ---
 

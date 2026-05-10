@@ -1,16 +1,16 @@
 ---
-title: "Edible edible mushroom families boleti russula lactarius clavaria puffballs palmer Boleti palmer-russula-lactarius-families Clavaria Puffballs Palmer"
+title: "Edible [[bloomfield-boletus-satanus-edible-mushroom-hazards]] families boleti russula lactarius clavaria puffballs [[palmer-boleti-guide-identification]] palmer-russula-lactarius-families Clavaria Puffballs Palmer"
 created: 2026-05-02
 updated: 2026-05-02
 type: concept
 tags: [mushroom-cultivation, mycology]
 sources: - "raw/papers/julius-auboineau-palmer-about-mushrooms.md"
 ---
---- title: Edible Mushroom Families — Boleti, Russula, Lactarius, Clavaria, and Puffballs (Palmer) created: 2026-04-21 updated: 2026-04-21 type: concept tags: [mushroom-foraging, species-guide, edible, mycology] sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md] --- # Edible Mushroom Families — Boleti, Russula, Lactarius, Clavaria, and Puffballs (Palmer) Updated: 2026-04-18 Source: Julius A. Palmer, Jr., *About Mushrooms* (1894). Chapters on edible species identification and the foraging tradition. ## Palmer's Approach to Edible [[psilocybin-mushroom-identification-guide]] Palmer advocated a conservative, knowledge-based approach to mushroom eating: learn to identify a limited number of easily recognized edible species, and leave all others alone. He stated: "I may select twenty varieties, easily recognized, advise that all others be let alone, and follow my own counsel." His personal testing protocol was methodical: take a small piece of cap flesh (avoiding the spore-bearing gills), eat it first thing in the morning. If no ill effects follow, increase the dose daily until a whole specimen is consumed. After this, never reverse the decision. Key principle: a variety once found edible never changes its properties — what is true of other plants is true of these. ## Puffball Family (Lycoperdaceae) ### Identification Puffballs are among the safest edible [[query-what-are-the-best-mushrooms-for-beginners-to-grow]]. Palmer noted that "most persons will readily recognize the puff-ball family — those round, white balls which come after rains." ### Edibility Rule "Wherever they cut open, perfectly white, they may be eaten; there are no poisonous varieties." ### Critical Safety Notes - Only eat puffballs that are PURE WHITE throughout when cut open - Any discoloration (yellow, purple, green, black) indicates the specimen is past prime or is an immature egg stage of an Amanita - The outer skin should be removed before cooking - Small puffballs tend to be more tender and desirable ### Related - edible-mushroom-families-characteristics - [[calvatia-cyathiformis]]
+--- title: Edible Mushroom Families — Boleti, Russula, Lactarius, Clavaria, and Puffballs (Palmer) created: 2026-04-21 updated: 2026-04-21 type: concept tags: [mushroom-foraging, species-guide, edible, mycology] sources: [raw/papers/julius-auboineau-palmer-about-mushrooms.md] --- # Edible Mushroom Families — Boleti, Russula, Lactarius, Clavaria, and Puffballs (Palmer) Updated: 2026-04-18 Source: Julius A. Palmer, Jr., *About Mushrooms* (1894). Chapters on edible species identification and the foraging tradition. ## Palmer's Approach to Edible psilocybin-mushroom-identification-guide Palmer advocated a conservative, knowledge-based approach to mushroom eating: learn to identify a limited number of easily recognized edible species, and leave all others alone. He stated: "I may select twenty varieties, easily recognized, advise that all others be let alone, and follow my own counsel." His personal testing protocol was methodical: take a small piece of cap flesh (avoiding the spore-bearing gills), eat it first thing in the morning. If no ill effects follow, increase the dose daily until a whole specimen is consumed. After this, never reverse the decision. Key principle: a variety once found edible never changes its properties — what is true of other plants is true of these. ## Puffball Family (Lycoperdaceae) ### Identification Puffballs are among the safest edible query-what-are-the-best-mushrooms-for-beginners-to-grow. Palmer noted that "most persons will readily recognize the puff-ball family — those round, white balls which come after rains." ### Edibility Rule "Wherever they cut open, perfectly white, they may be eaten; there are no poisonous varieties." ### Critical Safety Notes - Only eat puffballs that are PURE WHITE throughout when cut open - Any discoloration (yellow, purple, green, black) indicates the specimen is past prime or is an immature egg stage of an Amanita - The outer skin should be removed before cooking - Small puffballs tend to be more tender and ... [truncated]
 
-- [[palmer-russula-lactarius-families]]
+- palmer-russula-lactarius-families
 
-- [[lactarius-deliciosus]] Concerns
+- lactarius-deliciosus Concerns
 Modern mycology notes that inhalation of puffball spores (lycoperdonosis) can cause respiratory distress. See [[porcini-boletus-guide]] for modern identification details.
 
 ## Russula (Russulaceae)
@@ -30,7 +30,7 @@ Palmer's confidence in the edibility of pleasant-tasting Russula species came fr
 His correspondent Paul Casamajor confirmed this approach: "acting on this suggestion, he had gathered with his children a basket full, being careful to exclude all not Russula, and then, tasting each specimen, he cooked them and made an evening meal with perfect safety."
 
 ### Caution
-Some Russula species are acrid or peppery in taste. Palmer advised tasting a small piece raw — if unpleasant, avoid the species. While Palmer never encountered dangerous Russula species, modern mycology recognizes some mildly toxic members. See edible-wild-mushroom-guide and [[lactarius-cultivation-attempts]] for modern perspectives.
+Some Russula species are acrid or peppery in taste. Palmer advised tasting a small piece raw — if unpleasant, avoid the species. While Palmer never encountered dangerous Russula species, modern mycology recognizes some mildly toxic members. See edible-wild-mushroom-guide and [[lactarius-cultivation-attempts]] for [[cannabis-root-medicine-historical-modern-perspectives]].
 
 ## Clavaria (Coral Fungi)
 
@@ -53,7 +53,7 @@ Palmer praised Clavaria highly: "more delicate food than cauliflower, nicer in s
 ## Foraging Safety Principles (Palmer)
 
 ### The Discrimination Principle
-"There is only one way to tell a mushroom from a toadstool; the same discrimination which is applied to other foods." Palmer compared mushroom identification to knowing currants from grapes or wild parsnip from domestic — it requires learning, not magic tests.
+"There is only one way to tell a mushroom from a toadstool; the same discrimination which is applied to other foods." Palmer compared [[nineteenth-century-mushroom-identification]] to knowing currants from grapes or wild parsnip from domestic — it requires learning, not magic tests.
 
 ### The Amanita Avoidance Principle
 Learn the three Amanita marks (volva, ring, scurfy warty cap). If all three are present, avoid the mushroom. This single rule eliminates virtually all deadly poisoning risk.
@@ -65,3 +65,26 @@ For any species not positively identified as safe, use Palmer's gradual dose pro
 "A variety once found edible never changes its properties." An edible species remains edible regardless of season, location, or growing conditions. This has been confirmed by modern mycology.
 
 ### Historical Context
+
+Palmer wrote during a period of widespread mycophobia in the
+Anglo-American world, where European immigrants' mushroom knowledge
+was often dismissed. His work was part of a broader movement to promote
+rational mycophagy. The late 19th century saw the founding of amateur
+mycological societies in Boston, New York, and Philadelphia, reflecting
+growing interest in systematic mushroom study. His cautious
+empirical approach anticipates modern evidence-based foraging practices.
+
+## Boleti (Boletaceae)
+
+Palmer treated boleti as a distinct and important edible group. He
+described them as having a spongy pore surface beneath the cap instead
+of gills, making them easy to distinguish from gilled mushrooms. He
+noted that most boleti with firm flesh and mild taste are edible,
+though species with red pore surfaces that bruise blue should be
+approached with caution. The King Bolete (Boletus edulis, known as
+porcini in Italian cuisine) was recognized as Europe's finest edible
+fungus. See [[porcini-boletus-guide]] for modern identification details.
+
+## See Also
+
+- [[query-what-are-the-most-common-edible-wild-mushrooms-for-beginners]]

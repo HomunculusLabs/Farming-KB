@@ -9,7 +9,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - /Users/t3rpz/wiki/raw/papers/concise-psilocybin-large-scale-production-psilocin-synthesis-4-hydroxyindole-to-psilocin-of-psilocin-powell-mayan-civilisation-and-psilocybin-psilocybin-psilocybin-psilocybin-mushroom-image-guide-habitat-clues-guide-identification-methods-guide-spore-color-chart-guide-bruising-reactions-use-chemistry-psilocybin-shirota-hakamata-goda.md
+  - /Users/t3rpz/wiki/raw/papers/concise-psilocybin-large-scale-production-psilocin-synthesis-4-hydroxyindole-to-psilocin-of-psilocin-powell-mayan-civilisation-and-psilocybin-psilocybin-psilocybin-psilocybin-mushroom-image-guide-habitat-clues-guide-identification-methods-guide-spore-color-chart-guide-bruising-reactions-use-chemistry-psilocybin-shirota-zwitterionic-phosphate-intermediate-psilocybin-synthesis|shirota-hakamata-goda.md
 type: concept
 ---
 
@@ -19,7 +19,7 @@ type: concept
 
 The Shirota, Hakamata, and Goda (2003) paper provides comprehensive
 NMR characterization of psilocin (compound 1), psilocybin (compound 2),
-the zwitterionic [[jadam-ambient-temperature-principle]].
+the [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003|zwitterionic]] [[jadam-ambient-temperature-principle]].
 
 ## General Experimental Conditions
 

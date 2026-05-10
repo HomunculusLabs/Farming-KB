@@ -135,9 +135,9 @@ entirely.
 ## Cardiovascular Effects
 
 ## See Also
-
-- [[cannabis-sativa-vs-indica-therapeutic-profiles]] — [[blesching-cannabis-strain-selection-receptor-targeting]]
-- [[blesching-cannabis-modes-administration-pharmacokinetics]] — [[cannabis-delivery-methods-comparison]] and risk
+- [[cannabis-sativa-vs-indica-therapeutic-profiles]]
+- [[blesching-cannabis-modes-administration-pharmacokinetics]]
+- [[cannabis-safety-profile-and-overdose-risk]]
 
 ## Sources
 

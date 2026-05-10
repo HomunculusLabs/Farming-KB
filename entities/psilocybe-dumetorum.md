@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushroom
 
 # Psilocybe dumetorum
 
-**Psilocybe dumetorum** is a tropical [[emcdda-psilocybin-mushroom-dose-and-effects]] species in the family strophariaceae, originally described from the island of Java in Indonesia. The species was first documented by the British mycologist E.J.H. Corner during his extensive mycological explorations of Southeast Asia. The name reflects its growth among bushes and thickets in humid tropical environments. It remains one of the lesser-known psychoactive fungi of the Malay Archipelago, having received relatively little attention since its original description.
+**Psilocybe dumetorum** is a tropical [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] species in the family strophariaceae, originally described from the island of Java in Indonesia. The species was first documented by the British mycologist E.J.H. Corner during his extensive mycological explorations of Southeast Asia. The name reflects its growth among bushes and thickets in humid tropical environments. It remains one of the lesser-known psychoactive fungi of the Malay Archipelago, having received relatively little attention since its original description.
 
 ## Taxonomy and Etymology
 

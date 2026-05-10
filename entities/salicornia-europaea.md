@@ -13,8 +13,8 @@ updated: 2026-04-28
 sources:
   - Davy, A.J. et al. (2001). "Developmental plasticity in Salicornia." In: Coastal Saltmarsh Management. Elsevier.
   - Kentsch, M. (2019). "Salicornia europaea: biology, ecology, and uses." Wetlands Ecology and Management, 27, 1-22.
-  - Venturin, S. et al. (2023). "[[dighton-fungal-nutritional-composition-animal-diets]] and [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] of Salicornia species." Journal of Food Composition and Analysis, 115, 104678.
-  - Hasanuzzaman, M. et al. (2021). "Salicornia as a model halophyte for [[fungal-salt-tolerance-and-ion-homeostasis]] research." Plant Stress, 2, 100012.
+  - Venturin, S. et al. (2023). "dighton-fungal-nutritional-composition-animal-diets and query-what-are-the-main-bioactive-compounds-in-medicinal-plants of Salicornia species." Journal of Food Composition and Analysis, 115, 104678.
+  - Hasanuzzaman, M. et al. (2021). "Salicornia as a model halophyte for fungal-salt-tolerance-and-ion-homeostasis research." Plant Stress, 2, 100012.
 created: 2026-05-07
 ---
 

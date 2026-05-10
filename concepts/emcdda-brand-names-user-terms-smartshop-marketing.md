@@ -143,6 +143,8 @@ something other than "drugs."
 - Erowid (2006). Online psychoactive substance information resource.
 
 ## See Also
+
+- [[european-mushroom-markets-and-smartshop-economy]]
 - [[hallucinogenic-mushroom-user-terminology-and-brand-names]]
 - [[emcdda-hallucinogenic-mushroom-legal-prohibition-impact-uk-netherlands]]
 - [[guzman-allen-gartz-indigenous-mexican-mushroom-nomenclature-sacred-names]]

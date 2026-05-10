@@ -13,13 +13,13 @@ sources:
 
 ## Overview
 
-From its discovery in 1943 until its prohibition in the late 1960s, LSD was the subject of intensive medical research and was used as an adjunct to psychotherapy in clinics across Europe and [[psilocybin-north-america-pacific-northwest]]. Albert Hofmann's account in "LSD: My Problem Child" provides a first-person history of this remarkable chapter in psychiatry.
+From its discovery in 1943 until its prohibition in the late 1960s, LSD was the subject of intensive medical research and was used as an adjunct to psychotherapy [[claude-naranjo]] in clinics across Europe and North America. Albert Hofmann's account in "LSD: My Problem Child" provides a first-person history of this remarkable chapter in psychiatry.
 
 ## Delysid and Clinical Use
 
 Sandoz introduced LSD to the medical market in 1947 under the trade name Delysid, available as sugar-coated tablets (25 micrograms) and ampoules (100 micrograms in 1 ml). The official Sandoz prospectus listed two indications:
-1. **Analytical psychotherapy**: to elicit release of repressed material and provide mental relaxation, particularly in anxiety states and obsessional neuroses. Starting dose: 25 micrograms, increased by 25 micrograms per session to an optimum of 50-200 micrograms.
-2. **Experimental studies on the nature of psychoses**: allowing psychiatrists to gain insight into the world of mental patients by self-experimentation.
+1. **Analytical psychotherapy**: to elicit release of repressed material and provide mental relaxation, particularly in anxiety states and obsessional neuroses. Starting dose: 25 micrograms, increased by 25 micrograms per session to an optimum of 50-200 micrograms. (see [[hofmann-lsd-pharmacokinetics-dosage-tolerance]]).
+2. **Experimental studies on the nature of psychoses**: allowing psychiatrists to gain insight into the world of mental patients by self-experimentation. (see [[psilocybin-mushrooms-overview]]).
 
 ## Two Therapeutic Models
 
@@ -31,7 +31,7 @@ The term was coined by **Ronald A. Sandison**, an English therapist of Jungian o
 
 ### Psychedelic Therapy
 
-Favored in the [[dmt-containing-plants-united-states-halpern]], this method used a single, very high LSD dose (0.3 to 0.6 mg) after intensive psychological preparation. It attempted to induce a mystical-religious experience through the "shock effects" of LSD, which could then serve as a starting point for restructuring the patient's personality.
+Favored in the United States, this method used a single, very high LSD dose (0.3 to 0.6 mg) after intensive psychological preparation. It attempted to induce a mystical-religious experience through the "shock effects" of LSD, which could then serve as a starting point for restructuring the patient's personality.
 
 The term "psychedelic" (mind-manifesting or mind-expanding) was introduced by **Humphry Osmond**, a pioneer of LSD research in the United States.
 
@@ -53,29 +53,9 @@ A particularly significant application was LSD's use with terminally ill patient
 
 ## Shutdown
 
-LSD research and therapy were curtailed as the drug was swept up in the "huge wave of an inebriant mania" spreading across the Western world at the end of the 1950s. As careless, medically unsupervised use led to untoward incidents, LSD became a "problem child" for Sandoz. The company eventually withdrew Delysid from the market, and legal prohibitions effectively ended two decades of [[hofmann-lsd-clinical-research-early-studies]].
+LSD research and therapy were curtailed as the drug was swept up in the "huge wave of an inebriant mania" spreading across the Western world at the end of the 1950s. As careless, medically unsupervised use led to untoward incidents, LSD became a "problem child" for Sandoz. The company eventually withdrew Delysid from the market, and legal prohibitions effectively ended two decades of clinical research.
 
 ## Related Concepts
 
 - [[hallucinogenic-drugs-in-psychotherapy-history]] -- broader historical overview
 - [[psilocybin-and-consciousness-expansion]] -- modern philosophical perspective
-
-See also: [[hofmann-delysid-product-psychotherapy]]
-## Practical Considerations
-
-Successful implementation of LSD Therapeutic History requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

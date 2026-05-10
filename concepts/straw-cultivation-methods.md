@@ -1,6 +1,6 @@
 ---
 
-title: Straw synthetic-log-cultivation-methods-guide — Pasteurization and Low-Tech Techniques
+title: Straw Cultivation Methods — Pasteurization and Low-Tech Techniques
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -16,12 +16,12 @@ tags:
 - species
 
 sources:
-sources: []
+- raw/papers/mycelium-running-stamets.md
 ---
 
 # Straw Cultivation Methods
 
-From Chapter 10 of *[[woodlovers-mycelium-running-pathway-technique]]* by [[paul-stamets]]. Despite only a few fungi being native to straw, many mushrooms can be grown on cereal straws due to their powerful fiber-degrading enzymes. Wheat, barley, rye, and rice straws are preferred.
+From Chapter 10 of *Mycelium Running* by [[paul-stamets]]. Despite only a few fungi being native to straw, many mushrooms can be grown on cereal straws due to their powerful fiber-degrading enzymes. Wheat, barley, rye, and rice straws are preferred.
 
 ## The Core Challenge
 
@@ -96,7 +96,7 @@ The method with the longest history and preferred by most cultivators. Heat stra
 - **Do NOT overpasteurize** (>190F): black and pink molds can appear within days
 
 ### Inoculation
-- Use [[comparison-grain-spawn-vs-grain-to-grain-transfer]] at 10-20% inoculation rate
+- Use grain spawn at 10-20% inoculation rate
 - Mix thoroughly by hand immediately after cooling
 - If enough grain spawn is used, colonization completes within a week
 
@@ -104,7 +104,7 @@ The method with the longest history and preferred by most cultivators. Heat stra
 
 Beyond straw, mycelium can decompose an enormous range of materials (break into 1/4 to 2 inch pieces, saturate 60-80% with water):
 
-- Bamboo, brewery waste, cacao shells, coconut/coir, [[oyster-mushroom-coffee-grounds-cultivation]]
+- Bamboo, brewery waste, cacao shells, coconut/coir, coffee grounds
 - Corn, corncobs, cornstalks, cotton waste, fabrics, garden waste
 - Hair, hemp, leaves, manure, nut casings/seed hulls
 - Paper products (newspapers, cardboard, money, books)

@@ -118,10 +118,6 @@ This imagery connects to [[sacred-meal-ancient-traditions]] of the magician's st
 It is important to note that the guide is a modern practical manual rather than a historical document. Its claims about [[allegro-dead-sea-scrolls-and-early-christian-sects]] cannabis use and other historical connections are not footnoted or sourced from primary documents. The rituals presented are contemporary constructions that draw on established magical frameworks rather than documented historical practices. The text should be understood as a contribution to modern neopagan and occult practice that invokes historical themes and traditions rather than as a scholarly account of pre-modern witchcraft.
 
 ## See Also
-
 - [[marijuana-magick-cannabis-sacred-spatial-preparation]]
 - [[marijuana-magick-scrying-and-divination-cannabis]]
-
-## See Also
-
 - [[marijuana-magick-ancient-ritual-use-cannabis]]

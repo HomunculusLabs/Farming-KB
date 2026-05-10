@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Allen, O.N. & Allen, E.K. (1981). "The Leguminosae: A Source Book of Characteristics, Uses, and Nodulation." University of Wisconsin Press.
   - Pennington, T.D. & Sarukhán, J. (2005). "Árboles Tropicales de México." UNAM.
-  - Francis, J.K. (2000). "Wildland Shrubs of the [[dmt-containing-plants-united-states-halpern]] and its Territories." USDA Forest Service.
+  - Francis, J.K. (2000). "Wildland Shrubs of the dmt-containing-plants-united-states-halpern and its Territories." USDA Forest Service.
   - Hughes, C.E. (1998). "Monograph of Enterolobium (Leguminosae: Mimosoideae)." Systematic Botany Monographs.
 ---
 

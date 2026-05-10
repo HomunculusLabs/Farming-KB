@@ -4,8 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: entity
 tags: [research, psychedelics]
-sources:
-  sources: []
+sources: []
 ---
 # MAPS (Multidisciplinary Association for Psychedelic Studies)
 

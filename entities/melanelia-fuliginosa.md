@@ -10,7 +10,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Esslinger, T.L. (1977). "A chemosystematic revision of the brown Parmeliae." Journal of the Hattori Botanical Laboratory, 43: 1–164.
-  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
+  - Brodo, I.M., Sharnoff, S.D., Sharnoff, S. (2001). Lichens of psilocybin-north-america-pacific-northwest. Yale University Press.
   - Purvis, O.W. et al. (1992). The Lichen Flora of Great Britain and Ireland. Natural History Museum Publications.
   - Wirth, V., Hauck, M., Schulz, M. (2013). Die Flechten Deutschlands. Eugen Ulmer KG.
 ---

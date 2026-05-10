@@ -109,3 +109,7 @@ greater flexibility in reacting to different extracellular signals, potentially
 related to its pathogenic rather than [[gadd-fungal-cell-structure]]
 - [[magnaporthe-grisea-functional-genomics-rice-blast]]
 - [[gadd-fungal-reproduction-spores]]
+
+## See Also
+
+- [[gadd-two-component-signalling-histidine-kinase-fungi]]

@@ -12,8 +12,8 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 2 — Hardwoods." USDA Forest Service.
-  - Sternberg, G. (2004). "Native Trees for [[growing-gourmet-north-american-reishi-species]] Landscapes." Timber Press.
-  - Wiggans, R.D. (1964). "Nyssa sylvatica." In: Silvics of Forest Trees of the [[dmt-containing-plants-united-states-halpern]]. USDA.
+  - Sternberg, G. (2004). "Native Trees for growing-gourmet-north-american-reishi-species Landscapes." Timber Press.
+  - Wiggans, R.D. (1964). "Nyssa sylvatica." In: Silvics of Forest Trees of the dmt-containing-plants-united-states-halpern. USDA.
   - Little, E.L. (1979). "Checklist of United States Trees." USDA Forest Service Agricultural Handbook 541.
 ---
 

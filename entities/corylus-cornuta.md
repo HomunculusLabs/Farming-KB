@@ -13,8 +13,8 @@ updated: 2026-05-08
 sources:
   - Brinkman, K.A. (1974). *Corylus cornuta* Marsh., Beaked Hazelnut. USDA Forest Service.
   - Posluszny, U. et al. (2000). "Floral Development in *Corylus*." Int. J. Plant Sci.
-  - K不过, W.L. et al. (2010). "[[growing-gourmet-north-american-reishi-species]] Hazelnuts." Horticultural Reviews.
-  - Moerman, D.E. (1998). [[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany. Timber Press.
+  - K不过, W.L. et al. (2010). "growing-gourmet-north-american-reishi-species Hazelnuts." Horticultural Reviews.
+  - Moerman, D.E. (1998). halpern-sacramental-peyote-and-native-american-church Ethnobotany. Timber Press.
 ---
 
 ## Overview

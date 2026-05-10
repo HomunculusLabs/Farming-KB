@@ -99,6 +99,8 @@ Note: For corn, cooling time doubles after blanching.
 
 ## See Also
 
+- [[coleman-hardy-winter-vegetables-cold-tolerance-mechanisms]]
+
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[kitchen-composting-and-vermicomposting]]
 - faires-low-energy-cooking-and-food-preservation

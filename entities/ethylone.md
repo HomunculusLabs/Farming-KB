@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Casale JF, Hays PA. "Synthetic cathinones: Characterization of the β-keto-amphetamines." Forensic Science International, 2012.
   - Europol-EMCDDA. "EU Early Warning System: Report on Ethylone." EMCDDA Publications, 2014.
-  - Zaitsu K, et al. "Metabolism of the newly encountered designer drug ethylone in humans." [[cytochrome-p450-enzymes-drug-metabolism]] and Disposition, 2014.
+  - Zaitsu K, et al. "Metabolism of the newly encountered designer drug ethylone in humans." cytochrome-p450-enzymes-drug-metabolism and Disposition, 2014.
   - Palmer RB, et al. "Case series of novel psychoactive substance toxicity." Clinical Toxicology, 2015.
 ---
 

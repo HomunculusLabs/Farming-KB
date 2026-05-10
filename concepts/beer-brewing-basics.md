@@ -1,16 +1,15 @@
 ---
-title: comparison-beer-brewing-vs-cider-making Basics
+title: Beer Brewing Basics
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, fermentation, food, recipe, grain, processing, preparation, homestead-crafts]
-sources:
-  sources: []
+sources: []
 ---
 
 # Beer Brewing Basics
 
-[[ayahuasca-diy-home-brewing-as-tourism-alternative]] is a natural fit for the homesteader, especially if you grow your own grains and hops. Beer is essentially water, malted grain, hops, and yeast. Understanding the basics of each ingredient and the brewing process allows you to create quality beer at a fraction of commercial prices.
+Home brewing is a natural fit for the homesteader, especially if you grow your own grains and hops. Beer is essentially water, malted grain, hops, and yeast. Understanding the basics of each ingredient and the brewing process allows you to create quality beer at a fraction of commercial prices.
 
 ## Two Main Approaches
 
@@ -23,7 +22,7 @@ Brews from raw malted grain. More complex process (mashing, sparging) but offers
 ## Ingredients
 
 ### Water
-Beer is 90-95% water. Mineral content affects flavor and mash chemistry. If your tap water tastes good, it is probably fine for brewing. Soft water (low in minerals) is ideal for most styles. Avoid heavily chlorinated water -- let it sit uncovered for 24 hours or use a [[cervantes-ventilation-fan-carbon-filter-setup]].
+Beer is 90-95% water. Mineral content affects flavor and mash chemistry. If your tap water tastes good, it is probably fine for brewing. Soft water (low in minerals) is ideal for most styles. Avoid heavily chlorinated water -- let it sit uncovered for 24 hours or use a carbon filter.
 
 ### Malt (Malted Barley)
 The backbone of beer. Malted barley provides fermentable sugars. During malting, barley is soaked, germinated, and dried to activate enzymes that convert starches to sugars during mashing.
@@ -46,7 +45,7 @@ Converts sugars to alcohol and CO2. The single most important ingredient for bee
 
 - Ale yeast (Saccharomyces cerevisiae): top-fermenting, works at 60-75F. Produces fruity esters. Ferments in 1-2 weeks.
 - Lager yeast (Saccharomyces pastorianus): bottom-fermenting, works at 45-55F. Cleaner, crisper flavor. Requires cold fermentation and lagering (cold storage for weeks to months).
-- Dry yeast: convenient, long [[psilocybin-shelf-life-stability]], good for beginners. Rehydrate before pitching.
+- Dry yeast: convenient, long shelf life, good for beginners. Rehydrate before pitching.
 - Liquid yeast: wider variety of strains, fresher, more expensive. Requires a starter for high-gravity beers.
 
 ## Essential Equipment
@@ -113,8 +112,8 @@ Converts sugars to alcohol and CO2. The single most important ingredient for bee
 
 ## Growing Your Own Ingredients
 
-- Hops: perennial vines, hardy in zones 4-8. Plant rhizomes in spring. Harvest cones in late summer. Dry and freeze for brewing. See [[small-scale-grain-growing]] for [[fukuoka-no-till-grain-production-method]].
-- Grain: [[ergot-of-barley-and-wheat-alkaloid-composition]] can be grown on the homestead. Malting requires controlled germination and kilning -- possible at home but labor-intensive.
+- Hops: perennial vines, hardy in zones 4-8. Plant rhizomes in spring. Harvest cones in late summer. Dry and freeze for brewing. See [[small-scale-grain-growing]] for grain production.
+- Grain: barley and wheat can be grown on the homestead. Malting requires controlled germination and kilning -- possible at home but labor-intensive.
 
 ## Common Problems
 

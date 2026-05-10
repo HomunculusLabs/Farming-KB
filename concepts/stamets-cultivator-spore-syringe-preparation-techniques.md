@@ -5,7 +5,6 @@ tags: [sterile-technique, spore-collection, inoculation, strain-preservation, la
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---

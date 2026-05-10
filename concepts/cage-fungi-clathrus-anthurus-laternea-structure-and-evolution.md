@@ -139,4 +139,6 @@ example of how evolution works through the modification of existing structures
 rather than the invention of entirely new ones.
 
 ## See Also
+
+- [[bloomfield-cage-fungi-clathrus-anthurus-ileodictyon-receptacle-evolution]]
 - [[bloomfield-parallel-carrion-stench-fungi-flowers-insect-convergence]]

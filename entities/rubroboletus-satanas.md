@@ -125,14 +125,8 @@ recognize.
 - Found on calcareous soils under broadleaf trees in summer and autumn.
 
 ## See Also
-
-- [[boletus-edulis-entity|Boletus edulis]]
-- Neoboletus erythropus
-- [[gyromitra-esculenta|Gyromitra esculenta]]
-
-## See Also
-
-- mushroom-foraging-traditions-europe
+- [[boletus-edulis-entity]]
+- [[gyromitra-esculenta]]
 - [[ectomycorrhiza]]
 - [[suillellus-luridus]]
 - [[neoboletus-erythropus]]

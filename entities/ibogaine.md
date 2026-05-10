@@ -15,7 +15,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Alper, K.R. et al. (2001). "Ibogaine: A Review." The Heffter Review
-    of [[mckenna-suppression-psychedelic-research-lsd-therapy]], 2, 17-27.
+    of mckenna-suppression-psychedelic-research-lsd-therapy, 2, 17-27.
   - Mash, D.C. et al. (2000). "Ibogaine: Complex Pharmacokinetics, Common
     Effects." Journal of Ethnopharmacology, 71(1-2), 275-283.
   - Lotsof, H.S. (1995). "Ibogaine in the Treatment of Chemical

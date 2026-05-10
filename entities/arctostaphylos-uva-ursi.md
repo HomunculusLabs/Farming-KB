@@ -15,7 +15,7 @@ sources:
     folium." EMA/HMPC/581984/2009.
   - USDA NRCS (2024). "Arctostaphylos uva-ursi Plant Guide." Natural Resources
     Conservation Service.
-  - Moerman, D. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
+  - Moerman, D. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
 ---
 
 ## Overview
@@ -135,8 +135,9 @@ though local populations may decline with habitat conversion.
 It is widely used in ecological restoration and native plant landscaping due
 to its [[dighton-fungal-drought-tolerance-plant-water-relations]], low maintenance requirements, and ornamental
 red berries.
-
 ## See Also
+
+- [[cyclamen-hederifolium]]
 
 - [[vaccinium-macrocarpon]]
 - [[vaccinium-corymbosum-entity]]
@@ -147,4 +148,3 @@ red berries.
 - [[oxydendrum-arboreum]]
 - [[rhododendron-maximum]]
 - [[arctostaphylos-patula]]
-- [[gaylussacia-baccata]]

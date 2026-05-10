@@ -120,5 +120,5 @@ These three terms — psychedelic, hallucinogenic, and entheogenic — each emph
 ## See Also
 
 - [[psychedelic-psychotherapy-paradigms|Psychedelic Psychotherapy Paradigms]] — modern frameworks for clinical psychedelic use
-- [[set-and-setting-model-psychedelic-therapy|Set and Setting in Psychedelic Therapy] — detailed exploration of the set-and-setting model]]
-- [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening|MDMA-Assisted Psychotherapy] — the empathogen model that extended beyond classical hallucinogens]]
+- [[set-and-setting-model-psychedelic-therapy|Set and Setting in Psychedelic Therapy]]] — detailed exploration of the set-and-setting model
+- [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening|MDMA-Assisted Psychotherapy]]] — the empathogen model that extended beyond classical hallucinogens

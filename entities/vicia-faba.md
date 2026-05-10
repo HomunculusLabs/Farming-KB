@@ -26,7 +26,7 @@ sources:
   - Maxted, N. (1995). "Vicia faba L." In: "Evolution of Crop Plants" (2nd ed.). Longman.
   - Cubero, J.I. (1974). "On the evolution of Vicia faba L." Theoretical and Applied Genetics 45(2).
   - Duc, G. et al. (2010). "Faba bean." In: Singh, R.J. (ed.) "Genetic Resources, Chromosome Engineering, and Crop Improvement." CRC Press.
-  - Crépon, K. et al. (2010). "Nutritional value of faba bean." [[query-best-grain-legumes-for-a-small-homestead]] 56.
+  - Crépon, K. et al. (2010). "Nutritional value of faba bean." query-best-grain-legumes-for-a-small-homestead 56.
   - Bond, D.A. & Lawes, D.A. (1978). "The influence of Vicia faba on the nitrogen economy of rotations." Rothamsted Experimental Station Report.
 created: 2026-04-28
 ---
@@ -106,6 +106,8 @@ Consumption of fava beans has been associated with improved cardiovascular healt
 Polyphenolic compounds in fava beans, including catechin, epicatechin, and procyanidins, contribute antioxidant and anti-inflammatory effects. These compounds exhibit radical scavenging activity comparable to other legumes in standardized ORAC assays.
 
 ## See Also
+
+- [[vicia-cracca]]
 
 - [[trifolium-pratense]]
 - [[vicia-villosa]]

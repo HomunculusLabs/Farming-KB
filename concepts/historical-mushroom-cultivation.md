@@ -1,6 +1,6 @@
 ---
 
-title: Historical accessible-mushroom-cultivation-for-disabilities
+title: Historical Mushroom Cultivation
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -24,7 +24,7 @@ sources:
 
 # Historical Mushroom Cultivation
 
-The [[companion-cultivation-of-mushrooms-with-garden-vegetables]] has evolved over millennia from accidental discovery to systematic agriculture. Understanding this history illuminates how modern techniques developed.
+The cultivation of mushrooms has evolved over millennia from accidental discovery to systematic agriculture. Understanding this history illuminates how modern techniques developed.
 
 Related: [[mushroom-cultivation-methods]], [[mushroom-growing-reference]]
 
@@ -34,7 +34,7 @@ Mushroom cultivation likely began in ancient China, where the shiitake (Lentinul
 
 ## 17th Century France: The Birth of Controlled Cultivation
 
-Jean de La Quintinie (1624-1688), director of the royal gardens at Versailles under Louis XIV, developed the first systematic European mushroom [[synthetic-log-cultivation-methods-guide]]. He grew [[genetic-improvement-agaricus-bisporus-molecular-approaches]] (the common button mushroom) in underground quarries and cellars near Paris, using horse manure as substrate. These Parisian mushroom caves became the center of European mushroom production for over two centuries.
+Jean de La Quintinie (1624-1688), director of the royal gardens at Versailles under Louis XIV, developed the first systematic European mushroom cultivation methods. He grew Agaricus bisporus (the common button mushroom) in underground quarries and cellars near Paris, using horse manure as substrate. These Parisian mushroom caves became the center of European mushroom production for over two centuries.
 
 ## 19th Century English and American Manuals
 
@@ -45,7 +45,7 @@ Scottish author of "A Treatise on the Cultivation of the Mushroom" (mid-19th cen
 American author of "Mushrooms: How to Grow Them" (1891). Falconer adapted European techniques for American growers, covering cave culture, cellar culture, and the use of prepared "bricks" of mushroom spawn. His manual was one of the first comprehensive American cultivation guides.
 
 ### Julius Auboineau Palmer
-American author of "About Mushrooms: A Guide to Forays" (1894). Palmer combined foraging guidance with cultivation advice, reflecting the transition period when wild collection was still primary but [[fungi-cultivated-mushrooms-pathogens-competitors]] were becoming commercially significant. He advocated systematic mycological study.
+American author of "About Mushrooms: A Guide to Forays" (1894). Palmer combined foraging guidance with cultivation advice, reflecting the transition period when wild collection was still primary but cultivated mushrooms were becoming commercially significant. He advocated systematic mycological study.
 
 ### Benjamin Minge Duggar
 American botanist (1872-1956) who contributed to mushroom growing literature. Duggar brought scientific rigor to cultivation practices, bridging the gap between practical gardening guides and academic mycology.
@@ -58,7 +58,7 @@ US Patent No. 2761246 (or similar era filings) documented early attempts to form
 The progression from 17th to 20th century cultivation followed a clear path:
 1. **Cave/cellar culture** (1600s-1800s): Horse manure beds in dark, cool underground spaces
 2. **Spawn improvement** (1800s): Standardized spawn preparation replacing wild-collected mycelium
-3. **Sterilization** (early 1900s): Adoption of [[query-difference-between-pasteurization-and-sterilization-mushroom-growing]] to reduce contamination
+3. **Sterilization** (early 1900s): Adoption of pasteurization and sterilization to reduce contamination
 4. **Pure culture** (1930s): Sinden's development of grain spawn using pure cultures on sterilized grain
 5. **Modern era** (1970s-present): PF TEK, monotubs, agar isolation, flow hoods, and species diversification
 

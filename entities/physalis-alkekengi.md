@@ -105,6 +105,8 @@ Standardized extracts of P. alkekengi calyx are under development as phytomedici
 
 ## See Also
 
+- [[physalis-pruinosa]]
+
 - [[solanum-melongena]]
 - [[atropa-belladonna]]
 - [[hyoscyamus-niger]]

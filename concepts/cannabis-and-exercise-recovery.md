@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The relationship between cannabis use and exercise recovery is an area of growing interest among athletes, fitness enthusiasts, and medical researchers. While cannabis has long been associated with sedentary behavior (the "couch-lock" stereotype), emerging research and extensive anecdotal evidence suggest that cannabinoids can play a meaningful role in post-exercise recovery, [[cannabis-pain-management-protocols]], and performance optimization. This guide examines the science, practical applications, and considerations for using cannabis as part of an exercise recovery protocol.
+The relationship between cannabis use and exercise recovery is an area of growing interest among athletes, fitness enthusiasts, and medical researchers. While cannabis has long been associated with sedentary behavior (the "couch-lock" stereotype), emerging research and extensive anecdotal evidence suggest that cannabinoids can play a meaningful role in post-exercise recovery, pain management, and performance optimization. This guide examines the science, practical applications, and considerations for using cannabis as part of an exercise recovery protocol.
 
 ## The Science of Exercise Recovery
 
@@ -20,7 +20,7 @@ The relationship between cannabis use and exercise recovery is an area of growin
 After exercise, the body undergoes several recovery processes:
 
 - **Inflammation:** Muscle damage from exercise triggers an inflammatory response, causing soreness and swelling
-- **[[bionutrients-lab-lactic-acid-bacteria-serum]] accumulation:** Contributes to muscle fatigue and soreness (though its role is less significant than once believed)
+- **Lactic acid accumulation:** Contributes to muscle fatigue and soreness (though its role is less significant than once believed)
 - **Micro-tears in muscle fibers:** Triggered by resistance training and intense exercise; repair leads to muscle growth
 - **Glycogen depletion:** Muscles deplete stored glycogen during exercise
 - **Hormonal changes:** Cortisol (stress hormone) rises during exercise and gradually returns to baseline
@@ -47,7 +47,7 @@ Cannabinoids have demonstrated significant anti-inflammatory properties:
   - Reduces neutrophil migration to inflamed tissues
 
 - **THC (Tetrahydrocannabinol):** Also anti-inflammatory through:
-  - CB2 receptor activation (regulates [[mushroom-immune-cell-activation-mechanisms]] activity)
+  - CB2 receptor activation (regulates immune cell activity)
   - COX-2 inhibition
   - Reduction of inflammatory cytokines
   - Modulation of immune response
@@ -74,7 +74,7 @@ Quality sleep is critical for recovery, and cannabis can influence it:
 
 - **THC:** Shortens sleep onset, may increase deep sleep. Long-term use may disrupt sleep architecture.
 - **CBD:** May improve sleep quality, particularly anxiety-related disturbance. Higher doses (160mg+) show sleep-promoting effects in studies.
-- **Myrcene and linalool:** Common [[query-what-are-cannabis-terpenes-and-why-do-they-matter]] associated with sedative and calming properties
+- **Myrcene and linalool:** Common cannabis terpenes associated with sedative and calming properties
 - Timing matters: using cannabis too close to bedtime may disrupt REM sleep
 
 ### Stress Reduction
@@ -147,3 +147,4 @@ Sativa-dominant strains for light movement: Green Crack, Durban Poison, Super Le
 - Low: 2.5-5mg (mild relaxation without impairment)
 - Medium: 5-15mg (noticeable relaxation and pain relief)
 - High: 15mg+ (significant sedation — best for evening)
+

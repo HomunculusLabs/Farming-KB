@@ -1,5 +1,5 @@
 ---
-title: Permaculture cool-climate-settlement-design-mollison
+title: Permaculture Settlement Design
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -17,9 +17,9 @@ In zonation, the village or dwelling itself is Zone 0 -- the origin from which w
 
 ## Settlement Siting for Cool Climates
 
-Settlement site choice and surrounding plantings provide about 70% of heat [[mollison-designers-home-energy-conservation-and-solar-heating]] in cool climates. Structural techniques cope with the rest:
+Settlement site choice and surrounding plantings provide about 70% of heat energy conservation in cool climates. Structural techniques cope with the rest:
 
-- **Village or streets aligned east-west** at the mid-slope ([[mollison-frost-protection-and-thermal-belt-design]]) of a sun-facing slope, with forests and high water storages above
+- **Village or streets aligned east-west** at the mid-slope (thermal belt) of a sun-facing slope, with forests and high water storages above
 - **Housing closely placed or conjoined** at east and west walls, preferably 2-4 stories, to reduce insulation costs and create compact sites
 - **Dense windbreaks** poleward or uphill, and to the east and west (a "suntrap" structure)
 - **Dense attached vines** on all sound masonry walls for insulation
@@ -45,7 +45,7 @@ Mollison outlines the elements of a village complex including:
 
 A village of about 50 households can support 20+ enterprises:
 - **Food**: 5-7 families can earn a living from food provision
-- **Energy**: 2-5 families from [[mollison-designers-house-design-climate-zones]], retrofit, and energy systems
+- **Energy**: 2-5 families from house design, retrofit, and energy systems
 - **Vehicles**: 2-4 livings in service, repairs, biofuels
 - **Financial**: 2 people handling income, loans, and credit union
 - **Building**: plumber-builder-mechanic for establishment and maintenance
@@ -68,11 +68,9 @@ Technologies that lay waste to soil, water, or air must be rejected as the "econ
 
 ## Community Recycling
 
-The Devonport (Auckland) model demonstrates total solid [[mollison-designers-banana-circle-waste-recycling-system]] returning cash benefits to households through separated waste collection, community woodwork centres, windrow composting, and community gardens built on clean fill "ziggurats."
+The Devonport (Auckland) model demonstrates total solid waste recycling returning cash benefits to households through separated waste collection, community woodwork centres, windrow composting, and community gardens built on clean fill "ziggurats."
 
-## Related
-
-- [[permaculture-settlement-siting-fire]] Concepts
+## Related Concepts
 
 - [[permaculture-zone-0-house-design]] -- Zone 0 as the individual household within the settlement
 - [[permaculture-building-design]] -- individual house design within settlement context

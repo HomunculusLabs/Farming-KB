@@ -4,7 +4,6 @@ tags: [query, mulch, straw, soil-health, water-conservation]
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
@@ -122,5 +121,7 @@ Finally, avoid piling straw directly against tree trunks or woody stems, as this
 - [[query-how-do-i-make-a-balanced-herbal-mulch-for-no-till-gardens]]
 
 ## See Also
+
+- [[query-what-are-the-benefits-of-growing-calendula-and-how-do-i-use-it]]
 
 - [[query-what-is-biochar-and-how-should-i-use-it-in-my-garden]]

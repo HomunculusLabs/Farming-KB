@@ -23,7 +23,7 @@ sources:
     Verlag Mykologia, Lucerne.
   - Singer R (1986). The Agaricales in Modern Taxonomy, 4th ed.
     Koeltz Scientific Books, Koenigstein.
-  - Wasser SP, Weis AL (1994). "[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] of the
+  - Wasser SP, Weis AL (1994). "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive of the
     Tricholomataceae Family." International Journal of Medicinal
     Mushrooms 1(2): 121-138.
   - https://www.mycobank.org/species/Clitocybe_nebularis

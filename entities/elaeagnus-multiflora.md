@@ -19,7 +19,7 @@ updated: 2026-04-28
 sources:
   - Khasanova, L. et al. (2017). "The genus Elaeagnus: A review of traditional uses and pharmacology." Journal of Ethnopharmacology, 195, 289–304.
   - Dirr, M.A. (2009). "Manual of Woody Landscape Plants" (6th ed.). Stipes Publishing.
-  - Martin, R. (2014). "[[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] by actinorhizal shrubs in agroforestry systems." Agroforestry Systems, 88(5), 837–849.
+  - Martin, R. (2014). "comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer by actinorhizal shrubs in agroforestry systems." Agroforestry Systems, 88(5), 837–849.
   - https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:588761-1
 aliases:
   - Goumi

@@ -136,12 +136,7 @@ Vegetative propagation via rhizome division is standard commercial practice.
 - **Mahonia aquifolium** (Oregon grape) — ornamental with berberine
 
 ## See Also
-
-- [[sanguinaria-canadensis]] — Fellow woodland medicinal
-- actaea-racemosa — Black cohosh, shade-loving forest medicinal
-
-## See Also
-
+- [[sanguinaria-canadensis]]
 - [[natives-vs-exotics]]
 - [[coptis-chinensis]]
 - [[juglans-nigra]]

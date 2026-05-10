@@ -133,17 +133,10 @@ The dose-response model established in MSC-22484 supports the following protocol
 ## Limitations and Considerations
 
 - The MSC-22484 data is specific to 2.45 GHz and 3.6 W/cm²; extrapolation to other frequencies or rates requires additional validation
-## See Also
-
-- Thermal D-value and Z-value in sterilization science
-- UV-C dose-response for [[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]]
-- *Bacillus* spore resistance mechanisms
-- Dielectric heating in biological systems
 
 ## See Also
+
+- [[microwave-microbial-kill-mechanisms]]
 - [[microbial-kill-curve-microwave-surface-sterilization-kinetics]]
 - [[microwave-microbial-kill-curves]]
-
-## See Also
-
 - [[microwave-sterilization-dose-response-microbial-kill-curves]]

@@ -21,8 +21,8 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Mukherjee, P.K. et al. (2016). "Mangifera indica." In: Benzie, I.F.F., Wachtel-Galor, S. (eds.) Herbal Medicine: Biomolecular and Clinical Aspects. 2nd ed. CRC Press.
-  - Ribeiro, S.M.R. & Schieber, A. (2010). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in Mango (Mangifera indica L.)." In: Bioactive Compounds in Foods. Wiley-Blackwell, 89-115.
-  - Singh, R. et al. (2013). "Mangifera indica: [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]." Journal of Pharmacognosy and Phytochemistry, 1(5), 1-8.
+  - Ribeiro, S.M.R. & Schieber, A. (2010). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants in Mango (Mangifera indica L.)." In: Bioactive Compounds in Foods. Wiley-Blackwell, 89-115.
+  - Singh, R. et al. (2013). "Mangifera indica: psilocybin-psilocin-chemistry-and-pharmacology-emcdda." Journal of Pharmacognosy and Phytochemistry, 1(5), 1-8.
   - Litz, R.E. (2009). The Mango: Botany, Production and Uses. 2nd ed. CABI Publishing.
   - https://www.cgiar.org/research-program/forests-trees-and-agroforestry/
 ---

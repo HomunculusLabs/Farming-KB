@@ -16,8 +16,7 @@ tags:
 - grain
 
 sources:
-sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+- raw/papers/the-mushroom-cultivator-stamets.md
 - raw/papers/2-laminar-flow-hood-construction.md
 - raw/papers/pf-tek-psilocybe-fanaticus.md
 - raw/papers/magic-mushroom-growers-guide-ot-oss-on-oeric.md
@@ -40,9 +39,9 @@ Quality equipment dramatically reduces contamination rates and improves yields. 
 | Item | Cost | Purpose | Notes |
 |---|---|---|---|
 | Pressure cooker (23qt+) | $80–200 | Sterilize grain jars, agar media, substrates | Essential. Must reach 15 PSI. All-American 941 recommended by Oss & Oeric. |
-| [[pf-tek-pressure-canner-sterilization]] | $100–300 | Larger batches, bags of substrate | Higher capacity than standard pressure cookers |
+| Pressure canner | $100–300 | Larger batches, bags of substrate | Higher capacity than standard pressure cookers |
 | Autoclave | $500–5000+ | Lab-grade sterilization | Overkill for home growers but standard for commercial spawn |
-| Microwave (for [[challenge-organisms-nasa-microwave-surface-sterilization-testing]]) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
+| Microwave (for surface sterilization) | Existing | Sterilize tools, small surfaces | 2.45 GHz effective against bacteria, yeasts, molds in closed systems |
 
 **Sterilization times at 15 PSI** (PF Tek at 12 PSI):
 - 1/2 pint PF jars: 20 min (12 PSI)
@@ -93,11 +92,11 @@ Based on construction guide from Luftfilterbau. Total cost: ~€304 ($320):
 
 | Item | Cost | Purpose | Notes |
 |---|---|---|---|
-| SGFC ([[query-what-is-the-difference-between-a-monotub-and-a-shotgun-fruiting-chamber]] Chamber) | $10–20 | Simple fruiting | Plastic tote with drilled holes. Passive FAE + perlite humidity. |
+| SGFC (Shotgun Fruiting Chamber) | $10–20 | Simple fruiting | Plastic tote with drilled holes. Passive FAE + perlite humidity. |
 | Monotub | $15–30 | Bulk fruiting | Modified tote with polyfill-filtered holes. Self-contained. |
 | Martha tent (greenhouse) | $60–150 | High-volume fruiting | With humidifier on timer. Best for multiple species. |
 | Humidifier (ultrasonic) | $25–60 | Martha tent humidity | Use distilled water. Connect to timer or hygrostat. |
-| Perlite | $5–15 | [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]] in SGFC | Medium grade, 2–3 inches deep |
+| Perlite | $5–15 | Passive humidity in SGFC | Medium grade, 2–3 inches deep |
 | LED light (6500K) | $10–30 | Fruiting trigger | 12/12 schedule. Indirect, not on the cultures. |
 | Small fan | $10–20 | Fresh air exchange | Low speed, pointed away from cultures |
 
@@ -123,7 +122,7 @@ Few organisms are as sensitive to environmental fluctuations as mushrooms. Essen
 - **Max-min thermometer**: Gauge temperature fluctuations
 - **Hygrometer or sling psychrometer**: Measure humidity; calibrate hygrometers periodically with psychrometer
 - **CO2 detector**: Useful but not essential — elevated CO2 indicates need for more fresh air
-- **Moisture meter**: [[pf-tek-substrate-moisture-diagnosis-and-correction]] checking
+- **Moisture meter**: Substrate moisture checking
 - **Light meter**: Verify adequate indirect light levels
 
 ## PF TEK Specific Equipment (Fanaticus)
@@ -136,15 +135,20 @@ The original PF TEK requires no pressure cooker. Complete kit:
 - **Steaming pot**: Any large pot with tight-fitting lid. Vegetable steamer rack elevates jars off bottom. $15-30.
 - **10-gallon aquarium** (terrarium): $10-15 used. Dual-chamber design with spray shield separates misting from fruiting.
 - **Spray shield**: Glass or plastic partition inside aquarium. Mist hits shield, molecularizes, drifts to secondary chamber.
-- **[[comparison-spore-print-collection-vs-spore-syringe-production]]**: 10cc, pre-filled. ~$15-25. Inoculates 10 jars at 1cc each.
+- **Spore syringe**: 10cc, pre-filled. ~$15-25. Inoculates 10 jars at 1cc each.
+- **3-penny nail**: For punching 4 inoculation holes in jar lids.
+
+**Jar lid prep**: Punch 4 holes in lid with nail. Rubber seal faces up (rubber side touching jar mouth). Fill with substrate, wipe rim, add dry vermiculite barrier (1/2-3/4 inch), screw lid down tight.
+
+**Boil-a-Bag method (Jarrold)**: Polypropylene autoclave bags filled with substrate, sealed, and sterilized by boiling in water for 60 minutes. Alternative to jars for those without pressure canners.
+
+## Indoor Growing Technique Equipment (A4 Doc)
+
+Alternative indoor setup using sealed grow bags with filter patches:
+- Polypropylene grow bags with self-healing injection port and filter patch
+- Liquid culture syringes for faster colonization
+- Heat mat with thermostat for temperature control
+
+
 ## See Also
-- [[mushroom-contamination-identification]]
-- [[mushroom-sterile-technique-detailed]]
-- [[mushroom-indoor-cultivation]]
-
-## Related
-
-- [[psylocybe-fanaticus]]
-- [[led-vs-hps-grow-lights]]
-- [[mushroom-species-cultivation-parameters]]
-- [[maitake-cultivation-guide]]
+- [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]]

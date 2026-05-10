@@ -4,8 +4,7 @@ created: 2026-04-15
 updated: 2026-04-15
 type: concept
 tags: [mycology, soil-biology, symbiosis]
-sources:
-  sources: []
+sources: []
 ---
 # Mycorrhizal PAH and TNT Degradation Mycorrhizal fungi contribute to the degradation of polycyclic aromatic hydrocarbons (PAHs) and 2,4,6-trinitrotoluene (TNT) through their enzymatic capabilities and symbiotic relationships with host plants. While generally slower than [[fungi-in-the-environment-fungal-endophytes-plant-communities]] have been tested for PAH degradation ability:
 

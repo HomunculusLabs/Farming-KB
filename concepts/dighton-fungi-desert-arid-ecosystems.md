@@ -1,5 +1,5 @@
 ---
-title: "Fungi in [[desert-and-arid-lands-permaculture]] Ecosystems"
+title: "Fungi in [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]] Ecosystems"
 created: 2026-04-26
 tags:
   - mycology

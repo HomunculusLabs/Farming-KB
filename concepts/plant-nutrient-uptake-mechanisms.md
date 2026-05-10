@@ -1,5 +1,5 @@
 ---
-title: Plant plant nutrient uptake mechanisms Mechanisms
+title: Plant Nutrient Uptake Mechanisms
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -12,7 +12,7 @@ sources:
 
 ## Overview
 
-Plants absorb nutrients through their roots via several distinct mechanisms. Understanding these is fundamental to managing soil fertility effectively. Nutrients enter plants as ions (charged molecules) through the plasmalemma ([[plant-cell-membrane-transport-proteins-channels-carriers-and-pumps]]), which acts as a selective gatekeeper controlling what enters and exits each cell.
+Plants absorb nutrients through their roots via several distinct mechanisms. Understanding these is fundamental to managing soil fertility effectively. Nutrients enter plants as ions (charged molecules) through the plasmalemma (cell membrane), which acts as a selective gatekeeper controlling what enters and exits each cell.
 
 ## The Plasmalemma as Gatekeeper
 

@@ -77,7 +77,7 @@ The "Stoned Ape" hypothesis, articulated most fully in *Food of the Gods* (1992)
 
 ## The Archaic Revival
 
-The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[ayahuasca-vision-art-and-shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
+The concept of the "Archaic Revival" is McKenna's call for a return to pre-literate, partnership-model ways of knowing that were lost with the rise of dominator culture. He argued that the accumulated knowledge of indigenous peoples regarding [[ayahuasca-vision-art-and-Shipibo-tradition]] phenomenon, though the latter has also been criticised as a form of cultural appropriation.
 
 ## Novelty Theory and Timewave Zero
 

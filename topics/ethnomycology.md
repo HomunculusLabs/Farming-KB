@@ -140,7 +140,6 @@ festival of Panquetzaliztli.
 The Spanish Inquisition persecuted the use of psychoactive mushrooms with
 particular ferocity, driving the practice underground where it survived in a
 few remote indigenous communities of the Sierra Mazateca, Zapotec highlands,
-and Mixtec regions of Oaxaca. The theological significance of teonanacatl was
 ## See Also
 
 - [[shroom-cultural-history-western-discovery-valentina-wasson]]

@@ -20,7 +20,7 @@ sources:
   - Iversen, L. et al. (2014). "Report on the Risk Assessment of 6-MAPB." EMCDDA.
   - Elliott, S. & Evans, J. (2014). "The first reported death in the UK involving 6-MAPB." Journal of Forensic Sciences 59(5): 1402-1404.
   - Caspar, A.T. et al. (2018). "Pharmacological profile of 6-MAPB." Neuropharmacology 134: 42-51.
-  - Brandt, S.D. et al. (2014). "An analytical investigation of thirty 'legal high' products." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 6(7-8): 708-718.
+  - Brandt, S.D. et al. (2014). "An analytical investigation of thirty 'legal high' products." psychedelic-drug-testing-and-adulterant-screening and Analysis 6(7-8): 708-718.
   - EMCDDA-Europol. (2014). "6-MAPB — EMCDDA-Europol Joint Report." Publications Office of the EU.
 ---
 

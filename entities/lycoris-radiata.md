@@ -112,7 +112,7 @@ Several horticultural cultivars exist, including white-flowered and double-flowe
 - [[galantamine]]
 - [[colchicine]]
 - [[camassia-quamash]]
-- [[allium-sativum]]
+- [[allium-sativum-entity]]
 - [[tulbaghia-violacea]]
 - [[panax-ginseng]]
 - [[apigenin]]

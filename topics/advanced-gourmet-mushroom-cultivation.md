@@ -124,7 +124,6 @@ cooker or autoclave at 15 psi (121 degrees Celsius) for 90 to 120
 minutes. This level of sterilization is necessary because grain is an
 extremely nutritious medium that will support the growth of virtually
 any contaminant organism. For sawdust-based substrates, atmospheric
-steam sterilization at temperatures exceeding 190 degrees Fahrenheit
 ## See Also
 
 - [[mushroom-cultivation-fundamentals]]

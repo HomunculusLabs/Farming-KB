@@ -1,5 +1,5 @@
 ---
-title: comparison-cannabis-vegetative-stage-vs-flowering-stage [[cannabis-flowering-stage-management]]
+title: Cannabis Vegetative Stage Management
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/greg-green-the-cannabis-grow-bible.md]
 
 # Cannabis Vegetative Stage Management
 
-The vegetative stage is when cannabis builds its structure — roots, stems, and leaves — before flowering. This stage determines the plant's final size and yield potential. Proper management of light, training, and nutrition during veg is critical.
+The vegetative stage is when cannabis builds its structure — roots, stems, and leaves — before flowering. This stage determines the plant's final size and yield potential. Proper management of light, training, and nutrition during veg is critical. (see [[cannabis-vegetative-growth-stage]]).
 
 ## Light Schedule
 - Standard: 18 hours on / 6 hours off (18/6)
@@ -56,7 +56,7 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 - Start in 1-gallon pot, upgrade to 3-5 gallon for flower
 - Transplant when roots circle the pot (check drainage holes)
 - Don't transplant during flowering (causes shock)
-- Final [[query-how-to-choose-the-right-pot-size-for-cannabis]]: 3-7 gallons (soil), 5-10 gallons (living soil)
+- Final pot size: 3-7 gallons (soil), 5-10 gallons (living soil)
 
 ## Vegetative Duration
 - From seed: 4-8 weeks before switching to flower
@@ -68,25 +68,3 @@ The vegetative stage is when cannabis builds its structure — roots, stems, and
 - [[cannabis-grow-room-setup]] — for room and light setup
 - [[cannabis-soil-and-nutrients]] — for feeding during veg
 - [[cannabis-grow-room-setup]] — for light specifics
-
-## See Also
-
-- [[cannabis-vegetative-stage]]
-## Practical Considerations
-
-Successful implementation of Cannabis Vegetative Stage Management requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

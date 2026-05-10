@@ -20,7 +20,7 @@ The HEPA (High Efficiency Particulate Air) filter is the critical component that
 
 ### Replacement Procedure
 1. Turn off and unplug the blower
-2. Remove the filter lid
+2. Remove the filter [[hepa-filter-selection-and-testing]] lid
 3. Unscrew the enclosure or release clamping mechanism
 4. Carefully lift out the old filter
 5. Clean the seating area and install new gasket material if using compressible gaskets

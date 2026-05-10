@@ -137,4 +137,4 @@ The distinction between *H. lacunosa* and *Gyromitra* species is critical: Gyrom
 
 - `[[helvella-crispa]]` — Closely related edible elfin saddle with whitish cap
 - `[[cordyceps-sinensis]]` — Another ascomycete fungus of pharmaceutical significance
-- `[[psilocybe-cubensis]]` — Cultivated [[emcdda-psilocybin-mushroom-dose-and-effects]] for comparison of fungal ecology
+- `[[psilocybe-cubensis]]` — Cultivated [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for comparison of fungal ecology

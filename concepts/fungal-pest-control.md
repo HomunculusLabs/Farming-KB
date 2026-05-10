@@ -1,12 +1,11 @@
 ---
-title: Fungal comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol — Using Mushrooms Against Insects
+title: Fungal Pest Control — Using Mushrooms Against Insects
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [mycology, pest-control, entomopathogenic, insects, agriculture, mycorestoration]
 sources:
-  sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+  - raw/papers/mycelium-running-stamets.md
 ---
 
 # Fungal Pest Control
@@ -55,7 +54,7 @@ Using entomopathogenic (insect-killing) fungi as nontoxic alternatives to chemic
 | Target specificity | Often broad, kills beneficials | Can be species-specific |
 | Application safety | Requires PPE, restricted areas | Generally safe, no reentry periods |
 | Soil/water contamination | Significant | None; fungi are natural soil organisms |
-| Cost | Variable, often subsidized | Low — can be cultured on [[fungi-in-composting-and-agricultural-waste-conversion]] |
+| Cost | Variable, often subsidized | Low — can be cultured on agricultural waste |
 
 ## Fire Ant Control
 
@@ -67,14 +66,14 @@ Similar social-disruption strategy used against fire ants:
 
 ## Integration with Gardens
 
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]** with insect-attractive plants near mycelial beds draws pests into fungal traps
-- **[[growing-gourmet-sawdust-spawn-production-use]]** placed at the base of vulnerable plants creates a protective mycelial zone
+- **Companion planting** with insect-attractive plants near mycelial beds draws pests into fungal traps
+- **Sawdust spawn** placed at the base of vulnerable plants creates a protective mycelial zone
 - **Spore sprays** can be applied to foliage using standard garden sprayers
-- Works synergistically with [[garden-mushroom-growing]] — same beds can produce food mushrooms AND [[query-how-to-control-pests-without-chemicals]]
+- Works synergistically with [[garden-mushroom-growing]] — same beds can produce food mushrooms AND control pests
 
 ## Limitations
 
-- Effectiveness varies with [[greg-green-temperature-and-humidity-control]] — fungi need moisture to sporulate
+- Effectiveness varies with temperature and humidity — fungi need moisture to sporulate
 - UV light degrades spores — shade or evening application recommended
 - Not instantaneous — requires days to weeks for full effect
 - Some insect species have grooming behaviors that remove spores

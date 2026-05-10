@@ -119,7 +119,9 @@ PMK1-dependent expression. M. grisea accumulates arabitol rather than
 glycerol as its osmotic solute, unlike S. cerevisiae, suggesting
 different regulation of compatible solute production.
 
-## Related concepts
+## Related
+
+- [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]] concepts
 
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
 - [[gadd-fungal-genomics-comparative-approaches]]

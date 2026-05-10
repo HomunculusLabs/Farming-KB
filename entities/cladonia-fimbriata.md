@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Ahti T (2000). "Cladoniaceae." *Flora Neotropica Monograph* 78: 1-362.
-  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of [[psilocybin-north-america-pacific-northwest]]*. Yale University Press.
+  - Brodo IM, Sharnoff SD, Sharnoff S (2001). *Lichens of psilocybin-north-america-pacific-northwest*. Yale University Press.
   - Nash TH III (2008). *Lichen Biology*. 2nd ed. Cambridge University Press.
   - Hammer S (1995). "Cladonia." In: *Lichen Flora of the Greater Sonoran Desert Region* 1: 115-147.
   - Huneck S, Yoshimura I (1996). *Identification of Lichen Substances*. Springer.
@@ -131,6 +131,8 @@ Habitat loss through afforestation of open heathlands and intensification of agr
 land use represents a localized threat in some European countries.
 
 ## See Also
+
+- [[caralluma-fimbriata]]
 
 - [[cladonia-pyxidata]]
 - [[evernia-prunastri]]

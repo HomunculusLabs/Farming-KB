@@ -24,6 +24,8 @@ understanding is essential to advancing plant succession and  community dynamics
 
 ## See Also
 
+- [[shamanic-recruitment-signs-and-training-practices]]
+
 - [[mollison-designers-plant-nursery-seedling-production]]
 ## Practical Applications
 

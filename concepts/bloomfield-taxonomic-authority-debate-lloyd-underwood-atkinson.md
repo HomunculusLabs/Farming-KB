@@ -111,10 +111,9 @@ This asymmetry is reflected in the correspondence. Atkinson's letters are formal
 The temptations that Lloyd identified — publishing inadequate descriptions to claim priority, naming species for self-aggrandizement, erecting taxa from poor material — have not disappeared. If anything, the pressure to publish has intensified. The "publish or perish" culture of modern academia creates incentives that parallel those Lloyd railed against, though the specific forms of misconduct have evolved. Taxonomic inflation (splitting species unnecessarily), inadequate type specimen documentation, and publication of new names without proper diagnostic characters remain problems in mycology and throughout biology. The fungal kingdom, with an estimated 2.2 to 3.8 million species and only ~150,000 described, remains the most underdocumented branch of the tree of life, making these nomenclatural debates more than academic trivia. Every confused name, every synonym, and every disputed authority adds friction to the already monumental task of cataloging fungal diversity.
 
 ## See Also
-
-- [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] — Deadly Amanita species and their clinical significance
-- bloomfield taxonomic authority debate lloyd underwood atkinson — Historical development of fungal classification systems
-- [[bloomfield-gasteromycetes-puffballs-earthstars]] — Lloyd's extensive work on puffballs and gasteromycete fungi
+- [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
+- [[bloomfield-gasteromycetes-puffballs-earthstars]]
+- [[bloomfield-curtis-gates-lloyd-pharmacist-mycologist]]
 
 ## Sources
 

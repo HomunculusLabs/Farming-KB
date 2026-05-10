@@ -120,11 +120,6 @@ pathogen populations for reduced sensitivity to commonly used fungicides is
 an essential component of sustainable disease management programs.
 
 ## See Also
-
 - [[mycorrhizal-fungi-fruit-trees]]
-- apple scab
 - [[fukuoka-orchard-floor-management]]
-
-## See Also
-
 - [[fukuoka-natural-fruit-tree-pest-control]]

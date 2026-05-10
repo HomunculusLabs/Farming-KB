@@ -124,7 +124,6 @@ sand. If too sandy, add clay or increase the barbed wire layers.
 Lime stabilization is an option for wet climates or where soil quality is
 marginal. Adding 5 to 10 percent [[cervantes-hydrated-lime-quicklime-ph-adjustment]] to the fill mix produces a
 chemical reaction with clay that improves water resistance and compressive
-strength. Lime-stabilized earthbag walls can withstand prolonged moisture
 ## See Also
 
 [[cob-building]] | [[straw-bale-construction]] | [[natural-building-techniques]]

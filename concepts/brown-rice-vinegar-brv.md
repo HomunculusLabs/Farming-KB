@@ -28,9 +28,9 @@ Brown Rice Vinegar is a KNF input made by fermenting brown rice into natural ace
 ## Why Brown Rice Vinegar?
 
 Acetic acid (the active compound in vinegar) has several roles in plant growth:
-- **Extraction solvent**: Dissolves calcium from eggshells and [[bionutrients-lab-calcium-phosphate-calamansi]] from bones (see [[water-soluble-calcium-wca]] and [[water-soluble-calcium-phosphate-wcp]])
-- **Root development**: Stimulates root [[gadd-hyphal-tip-growth-and-branching-mechanisms]]
-- **Growth regulation**: In combination with FPJ, prevents over-luxurious [[cannabis-vegetative-growth-stage]]
+- **Extraction solvent**: Dissolves calcium from eggshells and calcium phosphate from bones (see [[water-soluble-calcium-wca]] and [[water-soluble-calcium-phosphate-wcp]])
+- **Root development**: Stimulates root growth and branching
+- **Growth regulation**: In combination with FPJ, prevents over-luxurious vegetative growth
 - **Sour nutrient**: Provides the "sour" nutrient type needed during the changeover period (see [[nutritive-cycle-theory]])
 - **Mineral delivery**: Carries trace minerals from the fermentation process
 
@@ -56,7 +56,7 @@ BRV is preferred over commercial white vinegar because:
 1. Rinse brown rice and soak in water for 4-6 hours
 2. Steam or boil rice until soft but not mushy (like sushi rice consistency)
 3. Spread rice on clean cloth to cool to room temperature
-4. Mix with IMO-2 or IMO-4 (the [[beneficial-indigenous-microorganisms-bim]] drive fermentation)
+4. Mix with IMO-2 or IMO-4 (the indigenous microorganisms drive fermentation)
 5. Place in fermentation vessel, add water to cover rice
 6. Cover with porous paper, secure with rubber band
 7. Store in warm place (25-30C / 77-86F)
@@ -66,7 +66,7 @@ BRV is preferred over commercial white vinegar because:
 
 **Step 2: Vinegar (Acetic Acid Fermentation)**
 1. Once rice wine is actively bubbling, transfer to a wider vessel with more surface area
-2. Cover with breathable cloth (acetic [[bionutrients-lab-lactic-acid-bacteria-serum]] need oxygen)
+2. Cover with breathable cloth (acetic acid bacteria need oxygen)
 3. Acetic acid bacteria (Acetobacter) from the IMO and air convert alcohol to acetic acid
 4. Ferment 2-4 weeks
 5. Vinegar is ready when alcohol smell is gone, replaced by sharp vinegar aroma
@@ -116,7 +116,7 @@ Apply as foliar spray or soil drench. BRV is acidic — avoid direct contact wit
 
 According to [[nutritive-cycle-theory]], BRV provides "sour nutrients":
 
-- **[[comparison-cannabis-vegetative-stage-vs-flowering-stage]]**: Generally not needed (plants want sweet nutrients)
+- **Vegetative stage**: Generally not needed (plants want sweet nutrients)
 - **Changeover period**: BRV at 1:200-500 — critical sour nutrient for transition
 - **Reproductive stage**: Can continue at 1:500 if needed
 - **As extraction solvent**: Used year-round for making WS-Ca and WS-CaPo
@@ -138,6 +138,8 @@ BRV works synergistically with:
 | Wine smells bad | Anaerobic contamination | Ensure breathable cover, start over |
 | Vinegar not forming | Not enough oxygen/ surface area | Use wider vessel, ensure airflow |
 | Weak acidity | Insufficient fermentation time | Wait longer, ensure warm temperature |
+| Harsh taste | Fermented too long or too hot | Dilute before use, shorten fermentation next time |
+
 ## See Also
 
 - [[knf-preparations]] — all KNF inputs overview
@@ -146,4 +148,3 @@ BRV works synergistically with:
 - [[water-soluble-calcium-phosphate-wcp]] — WS-CaPo made with BRV
 - [[indigenous-microorganisms-imo]] — IMO for fermentation inoculation
 - [[fermented-plant-extract-fpe]] — FPJ pairing with BRV
-- [[oriental-herbal-nutrient-ohn]] — OHN for pest control

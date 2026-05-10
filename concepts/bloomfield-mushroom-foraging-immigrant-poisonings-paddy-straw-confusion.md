@@ -143,7 +143,6 @@ overconfidence in this domain can be death or the need for organ transplantation
 - The 1997 death-cap poisoning of Sam Sebastiani, son of the California
   vintners, showed that anyone without mycological training is at risk.
 - Mycological training is essential for safe foraging; homeland mushroom
-  knowledge does not transfer reliably to new ecosystems.
 ## See Also
 - [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
 - [[paddy-straw-mushroom-volvariella-volvacea-cultivation]]

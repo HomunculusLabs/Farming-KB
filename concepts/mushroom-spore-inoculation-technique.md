@@ -131,4 +131,4 @@ When spores fail to germinate, the most common causes are:
 
 - [[pf-substrate-formula]]
 - [[dual-chambered-terrarium]]
-- [[mushroom-contaminant-identification]]
+- [[mushroom-contamination-identification]]

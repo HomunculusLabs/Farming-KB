@@ -9,7 +9,7 @@ tags: [mushroom, growing-room, temperature, moisture, ventilation, cave, cellar,
 updated: 2026-04-26
 ---
 
-# [[mushroom-cultivation]]impler and less expensive than constructing a dedicated mushroom house, but it offers less control over environmental conditions and is more dependent on favorable weather. The matting used should be heavy enough to retain moisture but breathable enough to allow gas exchange.
+# [[mushroom-cultivation]] impler and less expensive than constructing a dedicated mushroom house, but it offers less control over environmental conditions and is more dependent on favorable weather. The matting used should be heavy enough to retain moisture but breathable enough to allow gas exchange.
 
 ## Selecting a Location
 
@@ -101,3 +101,6 @@ reference works, practitioner communities, research publications, and
 hands-on experimentation. The combination of theoretical study and
 practical experience provides the strongest foundation for developing
 expertise and contributing to the ongoing evolution of this field.
+
+See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
+See [[query-can-bamboo-be-used-as-a-building-material-and-how-do-i-get-started]] for more on Query Can Bamboo Be Used As A Building Material And How Do I Get Started.

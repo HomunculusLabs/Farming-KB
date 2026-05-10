@@ -11,7 +11,7 @@ type: concept
 
 ## Botanical Details
 
-**Scientific name:** Phoenix dactylifera
+**Scientific name:** [[phoenix-dactylifera]] ra]]
 **Family:** ARECACEAE
 
 Native to the tropical and sub tropical deserts of the Middle East, this palm has been cultivated for about 6,000 years. It is now not known in the wild. It is an erect palm growing to 36 m.
@@ -50,11 +50,7 @@ The fruit is used as a detersive and astringent for intestinal troubles. An infu
 
 Although date palms grow readily from seed, fruiting can take ten years and the fruit quality is variable. Also half of the raised seedlings are likely to be male. Where suckers of known plants are available, they are usually preferred. Suckers weigh about 45 kg when they are transplanted. Where suckers are not available, large numbers of seedlings should be planted and suckers propagated from the best specimens. Males will be required for pollination.
 
-## Related Phoenix Species
-
-**Phoenix sylvestris** (wild date palm, silver date palm) -- India: tropical rainforest, to 1500 m. Wide range of soils and sites. Withstands light frosts. Edible fruit for wildlife forage; sap for wine, sugar (40 kg sugar/tree/yr); leaves for weaving. Potential fuel or sugar crop for cooler areas of Australia.
-
-**Phoenix canariensis** (Canary Island date palm) -- An ornamental widely planted in Mediterranean and subtropical areas. Produces small but edible dates.
+## Related Phoenix Species [[phoenix-sylvestris]] estris]]** (wild date palm, silver date palm) -- India: tropical rainforest, to 1500 m. Wide range of soils and sites. Withstands light frosts. Edible fruit for wildlife forage; sap for wine, sugar (40 kg sugar/tree/yr); leaves for weaving. Potential fuel or sugar crop for cooler areas of Austra [[phoenix-canariensis]] ariensis** (Canary Island date palm) -- An ornamental widely planted in Mediterranean and subtropical areas. Produces small but edible dates.
 
 ## Permaculture Integration
 
@@ -65,7 +61,7 @@ Although date palms grow readily from seed, fruiting can take ten years and the 
 
 # Permaculture Palm Species Utility Guide
 
-Comprehensive profiles of utility palms for [[permaculture-design]]mer)** — Praslin Island, Seychelles. Rare and slow growing, producing the world's largest seed (double coconut) with very large leaves used for roofing.
+Comprehensive profiles of utility palms for [[permaculture-design]] mer)** — Praslin Island, Seychelles. Rare and slow growing, producing the world's largest seed (double coconut) with very large leaves used for roofing.
 
 ## Palm Applications in Permaculture Design
 

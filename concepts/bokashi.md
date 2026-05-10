@@ -21,7 +21,7 @@ sources:
 
 # Bokashi Fermentation
 
-Bokashi is an [[jadam-anaerobic-fermentation-principles]] process that preserves organic waste using [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]. Unlike composting, bokashi uses lactic [[lactic-acid-bacteria-knf]] and yeast to pickle food scraps and [[hamilton-composting-and-organic-matter-management]]. The result is pre-digested material that breaks down rapidly when buried in soil.
+Bokashi is an anaerobic fermentation process that preserves organic waste using effective microorganisms. Unlike composting, bokashi uses lactic acid bacteria and yeast to pickle food scraps and organic matter. The result is pre-digested material that breaks down rapidly when buried in soil.
 
 ## What Bokashi Is (and Isn't)
 
@@ -99,8 +99,8 @@ Bokashi doesn't finish composting — it pre-digests. The final step is burial:
 - More bran = faster fermentation (but don't overdo it)
 - The tighter packed, the better — anaerobic conditions are essential
 - Any color of mold except black/green is acceptable (white, yellow, orange = OK)
-- Citrus, onions, and garlic work fine in bokashi (they don't in [[ingham-anaerobic-vs-aerobic-compost-tea]])
-- Meat and bones [[query-can-fungi-break-down-plastic-pollution]] completely — chop bones small
+- Citrus, onions, and garlic work fine in bokashi (they don't in aerobic compost)
+- Meat and bones break down completely — chop bones small
 - Two-bin system means one is always fermenting while the other fills
 
 ## See Also

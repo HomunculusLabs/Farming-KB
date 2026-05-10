@@ -135,3 +135,7 @@ as safe fine mist. Indirect room light or a small low-wattage fluorescent
 plant light provides the phototropic stimulus for upward growth. Together
 these elements replicate the natural conditions that trigger Psilocybe
 Cubensis to fruit.
+
+## See Also
+
+- [[dual-chambered-terrarium-fungus-fruiting]]

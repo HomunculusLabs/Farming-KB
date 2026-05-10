@@ -121,9 +121,9 @@ Psilocin (4-hydroxy-N,N-dimethyltryptamine) is the dephosphorylated, pharmacolog
 The progressive accumulation of psilocin in later flushes may indicate a shift in the mycelium's enzymatic activity over time, with increasing [[mycorrhizal-phosphatase-activity-elf97-detection]] converting stored psilocybin to psilocin, or changes in relative biosynthesis rates for each compound.
 
 ## See Also
-
 - [[psilocybin]]
 - [[mushroom-cultivation-methods]]
+- [[psilocybin-psilocin-variation-flushes-cubensis]]
 
 ## References
 

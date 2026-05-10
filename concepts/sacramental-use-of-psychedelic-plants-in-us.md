@@ -133,12 +133,7 @@ concern about precedents extending to broader populations. As UDV
 litigation progresses, the fundamental question is whether the US legal
 system can accommodate sacramental psychedelic use outside federal
 Native American policy.
-## See Also
 
+## See Also
 - [[plants-of-the-gods-overview-hallucinogenic-plant-use]]
-
-- keewaydinoquay-native-american-mushroom-traditions
-
-## See Also
-
 - [[sacramental-religious-use-hallucinogenic-plants-united-states]]

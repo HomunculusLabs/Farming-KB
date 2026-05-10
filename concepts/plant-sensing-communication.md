@@ -23,7 +23,7 @@ sources:
 
 # Plant Sensing and Communication
 
-Plants perceive and respond to their environment through sophisticated sensory systems that, while fundamentally different from animal senses, achieve many of the same functions. Research by Chamovitz and others reveals that plants detect light (color, direction, duration), [[query-how-do-plants-use-chemical-signals-to-defend-against-insects]] ([[fungal-volatile-organic-compounds-communication]] compounds), mechanical stimuli (touch, vibration), gravity, and moisture -- and use this information to coordinate growth, defense, and reproduction.
+Plants perceive and respond to their environment through sophisticated sensory systems that, while fundamentally different from animal senses, achieve many of the same functions. Research by Chamovitz and others reveals that plants detect light (color, direction, duration), chemical signals (volatile organic compounds), mechanical stimuli (touch, vibration), gravity, and moisture -- and use this information to coordinate growth, defense, and reproduction.
 
 ## What a Plant Sees
 
@@ -41,7 +41,7 @@ Plants do not form images, but they possess multiple families of photoreceptors 
 
 ### Photoperiodism
 
-Plants measure the length of continuous darkness (not day length) to determine when to flower. Discovered by Garner and Allard (1918) with [[chamovitz-maryland-mammoth-photoperiodism-discovery]] tobacco:
+Plants measure the length of continuous darkness (not day length) to determine when to flower. Discovered by Garner and Allard (1918) with Maryland Mammoth tobacco:
 
 - **Short-day plants**: Flower when nights exceed a critical length (chrysanthemums, soybeans, cannabis). A brief flash of red light in the middle of the night prevents flowering -- the plant "resets" its darkness counter.
 - **Long-day plants**: Flower when nights are shorter than a critical length (irises, barley, spinach). A flash of red light in the night induces flowering.
@@ -73,7 +73,7 @@ Plants produce and detect a wide array of volatile chemical signals:
 ### Interspecies Signaling
 
 - Some plants release VOCs that attract predators of the herbivores attacking them -- an indirect defense (e.g., corn releases volatiles that attract parasitic wasps when attacked by caterpillars)
-- [[dighton-mycorrhizal-networks-carbon-transfer]] ([[mycorrhizal-networks]]) serve as underground communication channels, transferring chemical signals and nutrients between plants
+- Mycorrhizal networks ([[mycorrhizal-networks]]) serve as underground communication channels, transferring chemical signals and nutrients between plants
 
 ## What a Plant Feels
 
@@ -121,7 +121,7 @@ Understanding plant sensing directly informs cultivation practices:
 
 - **Light spectrum matters**: Using the right wavelengths for each growth stage (blue for vegetative structure, red for flowering) leverages plants' photoreceptor systems. See [[cannabis-lighting-guide]]
 - **Mechanical stress**: Gentle air movement (fans) produces stronger, sturdier stems via thigmomorphogenesis
-- **[[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] VOCs**: Interplanting aromatic herbs may prime neighboring crops' defenses
+- **Companion planting VOCs**: Interplanting aromatic herbs may prime neighboring crops' defenses
 - **Mycorrhizal networks**: Building healthy soil mycorrhizae creates communication channels between plants. See [[mycorrhizal-networks]]
 - **Seed treatment**: Cold stratification and light exposure during germination use plants' sensory systems to break dormancy. See [[seed-starting-reference]]
 
@@ -130,5 +130,5 @@ Understanding plant sensing directly informs cultivation practices:
 - [[cannabis-lighting-guide]] — Light spectrum management for indoor growing
 - [[mycorrhizal-networks]] — Underground fungal communication networks
 - [[companion-planting-reference]] — Using plant signaling for garden design
-- [[seed-starting-reference]] — [[spore-germination-triggers-and-dormancy-breaking]] and dormancy breaking
+- [[seed-starting-reference]] — Germination triggers and dormancy breaking
 - [[soil-food-web-nutrient-cycling]] — Root exudates and rhizosphere signaling

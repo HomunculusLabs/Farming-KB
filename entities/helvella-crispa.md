@@ -20,7 +20,7 @@ updated: 2026-04-28
 sources:
   - Kuo, M. (2024). "Helvella crispa." MushroomExpert.com.
   - Breitenbach, J. & Kränzlin, F. (1984). Fungi of Switzerland, Vol. 1. Verlag Mykologia.
-  - Denison, W.C. (1968). "The genus Helvella in [[psilocybin-north-america-pacific-northwest]]." Mycologia 60(5): 1013-1037.
+  - Denison, W.C. (1968). "The genus Helvella in psilocybin-north-america-pacific-northwest." Mycologia 60(5): 1013-1037.
   - https://www.mushroomexpert.com/helvella_crispa.html
 ---
 
@@ -118,3 +118,7 @@ and serves as a food source for various invertebrates and small mammals.
 - disciotis venosa
 - helvella acetabulum
 - helvella elastica
+
+## See Also
+
+- [[neckera-crispa]]

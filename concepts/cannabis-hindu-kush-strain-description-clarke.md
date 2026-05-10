@@ -89,7 +89,7 @@ Many hybrid crosses of this type are made each year and are currently cultivated
 
 - [[jedi-kush]]
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 
 - [[cannabis-resin-production-and-quality-traits-clarke]]
 - [[banana-kush]]

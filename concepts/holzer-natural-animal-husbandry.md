@@ -109,8 +109,9 @@ Holzer advocates for slaughter that respects the animal:
 ### Full Utilisation
 
 Out of respect, everything an animal offers should be utilised: meat,
-## See Also
+
+See [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]] for more on Query What Are Predatory Mites And How Can I Use Them For Pest Control.
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
 
 ## See Also
-
 - [[natural-farming-animal-husbandry]]

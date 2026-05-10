@@ -10,8 +10,8 @@ sources: []
 
 ## Overview
 
-Mullein (*Verbascum thapsus*) and St John's Wort (*Hypericum perforatum*)
-are two of the most widely used medicinal herbs in Western herbalism, yet
+Mullein (*[[verbascum-thapsus]]*) and St John's Wort (*Hypericum perforatum*)
+are two of the most widely used [[medicinal-herbs-for-livestock]] in Western herbalism, yet
 they address fundamentally different systems of the body. Mullein is the
 premier respiratory herb — a demulcent and expectorant that soothes
 inflamed airways and clears congestion from the lungs. St John's Wort is
@@ -27,7 +27,7 @@ anchor entirely different branches of a home medicine chest.
 
 Mullein is a tall biennial plant in the figwort family
 (Scrophulariaceae), native to Europe and Asia but now naturalized across
-much of North America. In its first year it forms a distinctive woolly
+much of [[guzman-psilocybin-mushrooms-north-america]]. In its first year it forms a distinctive woolly
 basal rosette close to the ground, and in the second year sends up a
 towering flower spike that can reach 2.5 meters. The leaves and flowers
 are covered in dense stellate trichomes that give them a soft, felt-like
@@ -118,7 +118,7 @@ neuralgia) are the primary applications. The clinical evidence base is
 substantially stronger than mullein's, with multiple meta-analyses and
 Cochrane reviews supporting its antidepressant efficacy. Topically, the
 red oil infusion is exceptional for musculoskeletal pain and minor wound
-care. However, anyone taking prescription medications must consult a
+care. However, anyone taking [[ayahuasca-interactions-with-prescription-medications]] must consult a
 healthcare provider before using St John's Wort internally due to its
 extensive CYP450 drug interactions.
 
@@ -126,7 +126,7 @@ extensive CYP450 drug interactions.
 
 Both plants are remarkably easy to grow and often colonize disturbed
 areas without deliberate planting. Mullein is a biennial that requires
-two growing seasons to complete its lifecycle — it produces only a basal
+two [[jeavons-climate-adaptation-growing-seasons]] to complete its lifecycle — it produces only a basal
 rosette in year one and flowers in year two, then dies after setting
 seed. Each plant can produce 100,000–240,000 seeds that remain viable
 in soil for decades. St John's Wort is a perennial that returns year
@@ -136,15 +136,11 @@ it potentially invasive in pastureland and meadow ecosystems.
 Mullein prefers full sun and well-drained soil but tolerates poor, dry
 conditions thanks to its deep taproot. St John's Wort is similarly
 adaptable, thriving in full sun to partial shade with a pH range of
-5.5–7.0 and excellent drought tolerance once established. Both are
+5.5–7.0 and excellent [[dighton-fungal-drought-tolerance-plant-water-relations]] once established. Both are
 considered weeds by some and medicinal treasures by herbalists — a
 duality that makes them among the most accessible plants for home
 medicine making.
 
 ## See Also
 
-- [[comparison-mullein-vs-calendula]]
-- [[comparison-mullein-vs-chamomile]]
-- [[comparison-arnica-vs-stinging-nettle]]
-- [[comparison-stinging-nettle-vs-horsetail]]
-- [[st-johns-wort-guide]]
+- [[cover-crop-species-comparison]]

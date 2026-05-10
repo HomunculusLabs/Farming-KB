@@ -1,21 +1,19 @@
 ---
-title: comparison-root-cellaring-guide-vs-canning-and-preserving Guide
+title: Root Cellaring Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, storage, food, preservation, design, humidity]
-sources:
-  sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+sources: []
 ---
 
 # Root Cellaring Guide
 
-A root cellar is a cold-storage structure that uses the natural insulating properties of the earth to maintain consistent [[greg-green-temperature-and-humidity-control]] for long-term food storage. Root cellaring is the simplest and most energy-efficient method for preserving fall harvests of root crops, hardy vegetables, and fruits through winter without electricity.
+A root cellar is a cold-storage structure that uses the natural insulating properties of the earth to maintain consistent temperature and humidity for long-term food storage. Root cellaring is the simplest and most energy-efficient method for preserving fall harvests of root crops, hardy vegetables, and fruits through winter without electricity. (see [[comparison-root-cellaring-vs-food-dehydration]]).
 
 ## Ideal Conditions
 
-Different crops have different storage requirements. Understanding these ranges is essential for successful root cellaring.
+Different crops have different storage requirements. Understanding these ranges is essential for successful root cellaring. (see [[cold-frame-gardening]]).
 
 ### Temperature and Humidity by Crop
 
@@ -33,7 +31,7 @@ Different crops have different storage requirements. Understanding these ranges 
 | Apples | 30-40 | 85-90 | 3-6 months |
 | Cabbage | 32-40 | 90-95 | 3-4 months |
 
-Note: Onions, garlic, and winter squash require lower humidity and should not be stored in the same area as [[growing-root-vegetables-guide]]. Potatoes and apples should not be stored together -- apples release ethylene gas which causes potatoes to sprout.
+Note: Onions, garlic, and winter squash require lower humidity and should not be stored in the same area as root vegetables. Potatoes and apples should not be stored together -- apples release ethylene gas which causes potatoes to sprout.
 
 ## Root Cellar Design Types
 
@@ -43,7 +41,7 @@ The traditional root cellar is dug into a hillside or underground. The earth pro
 
 Key design elements:
 - Depth: At least 4-6 feet below grade for earth insulation
-- Ventilation: Two vents -- one high (exhaust) and one low (intake) for [[stamets-growing-room-air-circulation-co2-management]]. Close both in extreme cold.
+- Ventilation: Two vents -- one high (exhaust) and one low (intake) for air circulation. Close both in extreme cold.
 - Drainage: Sloped floor with gravel base or drain tile to prevent water accumulation
 - Door: Insulated, weather-stripped door facing north to minimize solar heat gain
 - Walls: Concrete block, stone, or treated wood
@@ -56,7 +54,7 @@ An exterior basement room can function as a root cellar if it meets temperature 
 - Exterior walls (exposed to earth on at least two sides)
 - A window or vent for temperature control
 - A door that seals well
-- [[stamets-cultivator-humidity-management-fogging-systems]] (damp sand floor or humidifier for high-humidity crops)
+- Humidity management (damp sand floor or humidifier for high-humidity crops)
 
 ### Above-Ground Cold Storage
 
@@ -90,7 +88,7 @@ Monitor temperature with a max-min thermometer. Adjust ventilation:
 ### Humidity Management
 
 - High humidity (90-95%): For root vegetables. Maintain by dampening gravel floors, placing pans of water, or using a humidifier.
-- [[pf-tek-low-humidity-symptoms-and-remediation]] (60-70%): For onions, garlic, and squash. Provide better ventilation or a separate, drier storage area.
+- Low humidity (60-70%): For onions, garlic, and squash. Provide better ventilation or a separate, drier storage area.
 
 ## Harvesting for Storage
 

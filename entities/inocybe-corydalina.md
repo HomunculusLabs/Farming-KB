@@ -12,7 +12,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Stijve T. & Kuyper T.W. (1985). "Occurrence of psilocybin in various species of the genus Inocybe (Fr.) Fr." Persoonia 12: 455–461.
-  - Stamets P. (1996). "[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World." Ten Speed Press.
+  - Stamets P. (1996). "forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World." Ten Speed Press.
   - Kühner R. (1980). "Les Hyménomycètes agaricoïdes." Bulletin de la Société Mycologique de France 96: 97–144.
   - Noordeloos M.E. (1999). "Flora Agaricina Neerlandica, Vol. 4." CRC Press.
   - Gartz J. (1996). "Distribution and evolution of psilocybin in fungi." Journal of Psychoactive Drugs 28(1): 63–66.

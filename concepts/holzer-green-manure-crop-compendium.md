@@ -5,7 +5,7 @@ updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  sources: []
+  - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Green Manure Crop Compendium

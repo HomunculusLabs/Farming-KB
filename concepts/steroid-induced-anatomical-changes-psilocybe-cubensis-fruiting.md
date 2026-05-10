@@ -139,11 +139,6 @@ Several questions remain unanswered from the original study:
   untreated specimens?
 
 ## See Also
-
 - [[track-changes]]
-
 - [[suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment]]
-- [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis|psilocybe cubensis fruiting body morphology]]
-- mushroom [[growing-gourmet-fruiting-abnormalities-malformations]] malformations
-
-## See Also
+- [[brassinosteroid-suppressed-annulus-formation-psilocybe-cubensis]]

@@ -9,7 +9,7 @@ sources:
 ---
 # 3-TM (Thiomescaline; 3,4-Dimethoxy-5-methylthiophenethylamine)
 
-3-TM, also known as thiomescaline, is the sulfur analogue of [[mescaline-entity]] (at the 4-position) with a sulfur atom.
+3-TM, also known as thiomescaline, is the sulfur analogue of [[mescaline]] (at the 4-position) with a sulfur atom.
 
 The prefix "thio" means a sulfur-in-place-of-an-oxygen, with everything else left alone.
 
@@ -21,7 +21,7 @@ The name 4-TM is also used in PIHKAL, indicating the position of the sulfur rela
 
 The duration of effects is 10 to 15 hours.
 
-This represents a dramatic potency increase over [[mescaline-entity]] is one of the oldest known psychedelic phenethylamines, requiring 200-400 mg doses.
+This represents a dramatic potency increase over [[mescaline]] is one of the oldest known psychedelic phenethylamines, requiring 200-400 mg doses.
 
 3-TM achieves similar or greater effects at 20-40 mg, a roughly tenfold increase in potency.
 

@@ -116,6 +116,8 @@ The need for standard compounds created by the 2002 law motivated the developmen
 
 ## See Also
 
+- [[japan-psilocybin-mushroom-regulation-narcotics-control-law-2002-forensic]]
+
 - [[japan-narcotics-control-law-psilocybin-fungi-2002]]
 - [[shirota-forensic-standard-compounds-magic-mushroom-identification]]
 

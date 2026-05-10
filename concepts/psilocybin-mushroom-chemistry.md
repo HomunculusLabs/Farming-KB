@@ -1,6 +1,6 @@
 ---
 
-title: emcdda-psilocybin-mushroom-dose-and-effects Chemistry
+title: Psilocybin Mushroom Chemistry
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -38,7 +38,7 @@ Chemical composition, analysis methods, biosynthetic pathways, and alkaloid prof
 - **Molecular weight:** 284.22 g/mol
 - **Appearance:** White crystalline solid
 - **Solubility:** Soluble in water, slightly soluble in ethanol
-- **Discovery:** Isolated by [[albert-hofmann]] from [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] (1958, Sandoz)
+- **Discovery:** Isolated by [[albert-hofmann]] from Psilocybe mexicana (1958, Sandoz)
 - **Mechanism:** Prodrug — dephosphorylated by alkaline phosphatase in the gut and liver to form the active metabolite psilocin
 - **Receptor pharmacology:** 5-HT2A agonist (primary), also active at 5-HT1A, 5-HT2B, 5-HT2C, 5-HT5A, 5-HT6, 5-HT7
 - **Stability:** Very stable compound; survives drying, storage, and moderate heat. This is why dried mushrooms retain psychoactivity.
@@ -51,11 +51,11 @@ Chemical composition, analysis methods, biosynthetic pathways, and alkaloid prof
 - **Appearance:** White to pale pink crystalline solid
 - **Solubility:** Slightly soluble in water, soluble in ethanol
 - **Mechanism:** Active metabolite of psilocybin; also present directly in fresh mushrooms
-- **Stability:** UNSTABLE — rapidly oxidizes in air, turning blue/purple (this is the [[field-guide-psilocybin-bluing-reaction-identification]]). Degraded by heat, light, and oxygen. Properly dried mushrooms contain mostly psilocybin, not psilocin.
+- **Stability:** UNSTABLE — rapidly oxidizes in air, turning blue/purple (this is the bluing reaction). Degraded by heat, light, and oxygen. Properly dried mushrooms contain mostly psilocybin, not psilocin.
 
 ### The Bluing Reaction
 
-The characteristic blue-green bruising of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is caused by oxidation of psilocin:
+The characteristic blue-green bruising of psilocybin mushrooms is caused by oxidation of psilocin:
 
 1. Mechanical damage (cutting, bruising) ruptures cells
 2. Psilocin is released and exposed to oxygen
@@ -75,7 +75,7 @@ The characteristic blue-green bruising of [[forensic-identification-methods-psil
 - **Molecular weight:** 270.19 g/mol
 - **Structure:** Psilocybin with one methyl group removed (N-methyltryptamine instead of N,N-dimethyltryptamine)
 - **Pharmacology:** Less well characterized than psilocybin/psilocin. Likely a prodrug for 4-HO-NMT (norpsilocin). May contribute to overall effects but is generally considered less potent.
-- **Named after:** [[stamets-psi-psilocybe-baeocystis-knobby-tops]]
+- **Named after:** Psilocybe baeocystis
 - **Distribution:** Present in most psilocybin-containing species, typically at 10-30% of psilocybin concentration
 
 ### Norbaeocystin (4-PO-T)
@@ -93,7 +93,7 @@ The characteristic blue-green bruising of [[forensic-identification-methods-psil
 - **Molecular formula:** C13H19N2O4P
 - **Molecular weight:** 298.25 g/mol
 - **Structure:** Unique quaternary ammonium compound with three methyl groups on the nitrogen
-- **Discovery:** First isolated by [[jochen-gartz]] from [[gartz-inocybe-aeruginascens-distribution-and-psychoactivity]]
+- **Discovery:** First isolated by [[jochen-gartz]] from Inocybe aeruginascens
 - **Distribution:** Only known from I. aeruginascens (possibly present in a few other Inocybe species)
 - **Pharmacology:** Unknown; Gartz hypothesized it may have euphoriant properties (see [[inocybe-aeruginascens]] and psilocybin mushroom chemistry)
 - **Significance:** The only known tryptamine alkaloid with a quaternary ammonium group found in nature
@@ -144,7 +144,7 @@ The final step before the psilocybin-specific pathway is subject to feedback inh
 | Indole-3-acetaldehyde | Unknown mechanism | 50% |
 
 Non-inhibitors: 5-Methoxy-DMT, 5-methoxytryptamine, indole-3-pyruvic acid (0% inhibition). This feedback system explains why simply adding tryptamine to substrate can dramatically alter alkaloid profiles (see Gartz biotransformation below).
-## See Also
 
-- [[hofmann-mexican-mushroom-expedition-psilocybin]]
-- [[magic-mushroom-constituent-chemistry]]
+### Gartz Tryptamine Biotransformation (1989)
+
+[[jochen-gartz]] demonstrated that adding 25 mM tryptamine HCl to a cow dung/rice substrate caused P. cubensis to hydroxylate and methylate the fed tryptamine, producing unprecedented psilocin levels:

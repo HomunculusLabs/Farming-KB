@@ -18,10 +18,10 @@ Cover crop termination is the process of killing a cover crop at the right time 
 The ideal termination window depends on the cover crop species, intended benefits, and following crop:
 
 - **Nitrogen release timing**: Legume cover crops reach peak nitrogen content at flowering. Terminating at early flowering (50% bloom) maximizes N contribution to the following crop. Terminating too early sacrifices N; too late means the plant begins pulling N from leaves into seeds, reducing availability.
-- **Biomass accumulation**: Grass cover crops (rye, oats) produce maximum biomass at boot stage (just before seed head emergence). More biomass means more mulch and [[hamilton-composting-and-organic-matter-management]], but also more potential for nitrogen tie-up from the high C:N ratio.
-- **Allelopathic weed suppression**: Cereal rye produces allelopathic compounds that suppress weed [[cannabis-seed-germination-methods]]. This effect peaks at flowering and persists for 2-4 weeks after termination.
+- **Biomass accumulation**: Grass cover crops (rye, oats) produce maximum biomass at boot stage (just before seed head emergence). More biomass means more mulch and organic matter, but also more potential for nitrogen tie-up from the high C:N ratio.
+- **Allelopathic weed suppression**: Cereal rye produces allelopathic compounds that suppress weed seed germination. This effect peaks at flowering and persists for 2-4 weeks after termination.
 - **Soil moisture**: In dry climates, terminate early to preserve soil moisture for the following crop. Cover crops transpire significant water, especially in spring.
-- **Frost risk**: Some cover crops ([[comparison-lupin-vs-crimson-clover-green-manure]], winter peas) can survive light frost. In areas with late spring freezes, delay termination until frost risk passes.
+- **Frost risk**: Some cover crops (crimson clover, winter peas) can survive light frost. In areas with late spring freezes, delay termination until frost risk passes.
 
 ### Days Before Planting
 
@@ -44,10 +44,10 @@ The gold standard for no-till systems. A roller-crimper is a heavy steel cylinde
 - Creates a weed-suppressing mulch mat
 - Retains soil moisture
 - No fuel-intensive tillage
-- Preserves [[dighton-mycorrhizal-networks-carbon-transfer]]
+- Preserves mycorrhizal networks
 
 **Requirements**:
-- Cover crop must be at the correct [[cho-plant-growth-stage-treatment-protocols]] (typically flowering for effective kill)
+- Cover crop must be at the correct growth stage (typically flowering for effective kill)
 - Requires a roller-crimper implement (available commercially or DIY from plans)
 - Works best with tall, stiff-stemmed cover crops (cereal rye, hairy vetch)
 - May need a second pass or supplemental control for incomplete kill
@@ -143,7 +143,7 @@ Selecting cover crop species that will naturally die from freezing temperatures,
 Using synthetic herbicides (typically glyphosate) to kill cover crops. Mentioned for completeness but not recommended for organic, [[cannabis-living-soil-guide]], or regenerative systems.
 
 **Concerns**:
-- Harmful to soil biology including [[arbuscular-mycorrhizal-fungi-biology-symbiosis]]
+- Harmful to soil biology including mycorrhizal fungi
 - Glyphosate chelates micronutrients (Mn, Zn, Fe) reducing availability
 - Residue concerns for food crops
 - Development of herbicide-resistant weeds

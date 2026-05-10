@@ -40,7 +40,6 @@ in the seventeenth century with the cultivation of [[genetic-improvement-agaricu
 Parisian catacombs, and the field has expanded enormously since the popular
 introduction of the PF Tek method in the 1990s. Today, gourmet and medicinal
 mushrooms represent a multi-billion dollar global industry, while home
-cultivation has become increasingly accessible through ready-made spawn,
 ## See Also
 
 [[cotter-grain-spawn-production]] - Grain spawn preparation and production

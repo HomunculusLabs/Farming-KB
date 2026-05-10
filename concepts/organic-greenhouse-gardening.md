@@ -48,14 +48,14 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 - **Bubble wrap insulation** -- line the interior with horticultural bubble wrap from November to March. Reduces heat loss by 30-40%
 - **Heat sink** -- water barrels painted black absorb heat during day, release at night. Place against north wall
 - **Compost heating** -- a hot compost pile inside the greenhouse generates heat as it decomposes. A well-built pile reaches 50-60°C internally
-- **Paraffin heater** -- traditional, simple, adequate for [[holzer-frost-protection-techniques]] in small greenhouses
+- **Paraffin heater** -- traditional, simple, adequate for frost protection in small greenhouses
 - **Horse manure hotbed** -- fresh manure layered with straw generates heat for 4-6 weeks. Classic technique for early melons, cucumbers, and capsicums. Layer 30cm manure + 15cm soil. Wait until temperature drops below 30°C before planting
-- **[[comparison-passive-solar-vs-earth-sheltered]]** -- maximize south-facing glazing, use thermal mass (stone, brick, water), insulate north wall
+- **Passive solar** -- maximize south-facing glazing, use thermal mass (stone, brick, water), insulate north wall
 
 ## Growing in the Greenhouse
 
 ### Summer Crops
-- **Tomatoes** -- the primary greenhouse crop. Cordon varieties need string support, side shooting, and regular feeding once first truss sets. Good air circulation essential for [[cervantes-pest-disease-prevention-overview]]
+- **Tomatoes** -- the primary greenhouse crop. Cordon varieties need string support, side shooting, and regular feeding once first truss sets. Good air circulation essential for disease prevention
 - **Cucumbers** -- need high humidity and consistent moisture. Train up canes or wire. All-female varieties avoid bitter fruits
 - **Peppers and aubergines** -- need consistent warmth (minimum 12°C at night). Slow starters; sow in February for June planting
 - **Melons** -- hotbed technique (manure heating) or grow bag culture. Need pinching out and pollination
@@ -77,7 +77,7 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 | Red spider mite | Increase humidity; introduce Phytoseiulus predator mites; remove badly affected leaves |
 | Whitefly | Yellow sticky traps; Encarsia formosa parasitic wasp; companion plant with basil |
 | Aphids | Ladybird larvae; soap spray (1 tbsp liquid soap per gallon); encourage hoverflies with umbellifer flowers |
-| Mealybug | Rubbing alcohol on cotton swab; [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] with Cryptolaemus ladybirds |
+| Mealybug | Rubbing alcohol on cotton swab; biological control with Cryptolaemus ladybirds |
 | Vine weevil | Nematode biological control (water into soil); sticky barriers on staging legs |
 | Fungal diseases (grey mould, damping off) | Good ventilation; avoid overhead watering; remove affected material immediately; space plants well |
 | Tomatoes -- blight | Never wet foliage when watering; remove lower leaves as plants grow; good air circulation |
@@ -86,17 +86,13 @@ Growing under protection using organic methods. Based on Geoff Hamilton's approa
 
 - Ventilation is critical -- open doors and vents on all but the coldest days. Stagnant air promotes fungal disease
 - Water in the morning so foliage dries before evening
-- Use water at [[jadam-ambient-temperature-principle]] (not freezing from the tap in winter)
+- Use water at ambient temperature (not freezing from the tap in winter)
 - Automatic watering systems with seep hoses or capillary matting save time and provide consistent moisture
 - Group plants by water need -- tomatoes need less than cucumbers
 
 ## Links
 
-- [[geoff-hamilton-organic-techniques]] -- Full [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] system
+- [[geoff-hamilton-organic-techniques]] -- Full organic gardening system
 - [[greenhouse-design]] -- Structure design and construction
 - [[seed-starting-reference]] -- Propagation under protection
 - [[seasonal-planning]] -- Monthly task calendar
-
-## See Also
-
-- [[dig-vs-no-dig-gardening]]

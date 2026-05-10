@@ -24,9 +24,9 @@ aliases:
 sources:
   - "Jealousy." Leafly Strain Database. www.leafly.com.
   - "Jealousy." AllBud Strain Information. www.allbud.com.
-  - "Jealousy [[blesching-cannabis-strain-selection-receptor-targeting]]." Wikileaf. www.wikileaf.com.
+  - "Jealousy blesching-cannabis-strain-selection-receptor-targeting." Wikileaf. www.wikileaf.com.
   - "Jealousy." GrowDiaries. www.growdiaries.com.
-  - "Seed Junky [[mushroom-genetics-strain-selection]] Catalog." seedjunky.com.
+  - "Seed Junky mushroom-genetics-strain-selection Catalog." seedjunky.com.
 created: 2026-04-28
 ---
 

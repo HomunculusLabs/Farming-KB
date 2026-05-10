@@ -109,6 +109,8 @@ Large, mature specimens are highly valued as architectural plants in subtropical
 
 ## See Also
 
+- [[platycerium-grande]]
+
 - [[asplenium-nidus]]
 - [[adiantum-pedatum]]
 - [[adiantum-capillus-veneris]]

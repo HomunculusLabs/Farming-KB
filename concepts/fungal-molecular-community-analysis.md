@@ -39,13 +39,10 @@ are highly diverse and that selection of indigenous populations is a complex
 process.
 
 ## See Also
-
 - [[endolithic-fungi-rock-colonizing-communities]]
 - [[gadd-fungal-ecology-saprotrophs]]
-
-## See Also
-
 - [[singh-fungal-community-analysis-molecular-methods]]
+
 ## Practical Considerations
 
 When working with Fungal Molecular Community Analysis, several practical factors should be

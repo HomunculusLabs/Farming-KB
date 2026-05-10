@@ -22,6 +22,35 @@ that includes grasses, other [[permaculture-plants-legume-trees-acacia-carob-loc
 diversity eliminates toxicity risk while maximising total system
 productivity and resilience.
 
+## Silvopastoral Integration and Animal Systems
+
+In silvopastoral systems, leucaena is planted in dense hedgerows at
+2-5 metre spacing within grazing paddocks. Animals browse the hedgerows
+directly rather than cutting and carrying fodder. Research in
+Australia and Latin America has demonstrated liveweight gains of
+100-300 kg per hectare per year in leucaena-grass pastures compared
+to grass-only systems. The psyllid insect (Heteropsylla cubana) is a
+major pest of leucaena, causing defoliation and growth reduction.
+Psyllid-resistant cultivars have been developed through breeding
+programs in Hawaii and Australia, making silvopastoral systems more
+reliable across diverse tropical environments. Cattle should be
+introduced gradually to leucaena pastures over 2-3 weeks to allow
+rumen microbes that degrade mimosine to build up in the gut, which
+prevents the hair loss and goiter that can result from sudden
+exposure to high-mimosine diets.
+
+## Nitrogen Fixation and Soil Improvement
+
+Leucaena forms effective nodules with Rhizobium strains that can fix
+100-500 kg of nitrogen per hectare per year, depending on stand
+density and growing conditions. This nitrogen input significantly
+improves soil fertility for associated crops. Leaf prunings from alley
+cropping contribute 60-200 kg N/ha/yr when returned as mulch. The
+deep root system also cycles nutrients from subsoil layers, bringing
+calcium, magnesium, and potassium to the surface through leaf fall.
+Over time, leucaena-based systems can restore degraded tropical soils
+that have been exhausted by conventional monoculture cropping.
+
 ## Ice Cream Bean as Companion Species
 
 The ice cream bean (Inga edulis), with over 400 species, shares many

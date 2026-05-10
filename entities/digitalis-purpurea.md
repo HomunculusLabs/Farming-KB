@@ -138,10 +138,9 @@ Series' (first-year flowering), and the 'Excelsior' group (radial flowers).
 ## Ecological Role
 
 Digitalis purpurea is pollinated primarily by bumblebees (*Bombus* spp.),
-## See Also
 
+## See Also
+- [[digitalis-lanata]]
 - [[claviceps-purpurea]]
-
-## See Also
 - [[teaming-with-microbes-plant-control]]
 - [[teaming-with-nutrients-plant-nutrient-essentials-npk]]

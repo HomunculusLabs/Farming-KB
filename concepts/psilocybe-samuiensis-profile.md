@@ -25,7 +25,7 @@ Guzman, Bandala and Allen. It was described from material collected
 on Koh Samui, Thailand, and named after its type locality. The
 species was first documented during John W. Allen's extensive
 mycological explorations of Southeast Asia, where he collected and
-photographed numerous [[emcdda-psilocybin-mushroom-dose-and-effects]] species throughout Thailand.
+photographed numerous [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] species throughout Thailand.
 
 Psilocybe samuiensis is placed within the genus Psilocybe and belongs
 to the group of tropical and subtropical [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]

@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Fukuoka, Masanobu. *The Natural Way of Farming: The Theory and
-    Practice of [[fukuoka-sowing-green-philosophy-one-grain-revolution]]*. 1985.
+    Practice of fukuoka-sowing-green-philosophy-one-grain-revolution*. 1985.
 related_concepts:
   - natural-farming-principles
   - fukuoka-natural-farming-philosophy
@@ -119,13 +119,6 @@ varieties adapted to specific regions and management systems, though
 these typically require the chemical inputs that Fukuoka rejected.
 
 ## See Also
-
 - [[clay-pellet-seeding-technique]]
 - [[masanobu-fukuoka]]
-- seed saving and plant breeding
-- growing staple crops grains beans and tubers
-- heritage and [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] varieties for small farmers
-
-## See Also
-
 - [[fukuoka-happy-hill-rice-landrace]]

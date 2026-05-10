@@ -1,16 +1,15 @@
 ---
-title: Wine wine cap stropharia cultivation Cultivation
+title: Wine Cap Stropharia Cultivation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, permaculture, food, gardening, species]
-sources:
-  sources: []
+sources: []
 ---
 
 # Wine Cap Stropharia Cultivation
 
-This page provides detailed practical instructions for cultivating Wine Cap mushrooms (Stropharia rugosoannulata) in [[stamets-outdoor-wood-chip-bed-mycelium-transplantation]] chip beds. See [[kings-stropharia-garden-giant]] for the species overview, ecology, and [[bloomfield-nematode-trapping-fungi-predatory-soil-fungi]] biology.
+This page provides detailed practical instructions for cultivating Wine Cap mushrooms (Stropharia rugosoannulata) in outdoor wood chip beds. See [[kings-stropharia-garden-giant]] for the species overview, ecology, and nematode trapping biology.
 
 ## Wood Chip Selection and Preparation
 
@@ -51,19 +50,19 @@ The best source of fresh chips is local tree services:
 3. Optionally soak chips in water for 24-48 hours before bed building
 4. Chips should be moist but not dripping wet before installation
 
-Fresh chips from recently felled trees are ideal. Chips that have been sitting in piles for months may already be colonized by competitor fungi. If using older chips, pasteurize by soaking in 160 F water for 1 hour.
+Fresh chips from recently felled trees are ideal. Chips that have been sitting in piles for months may already be colonized by competitor fungi. If using older chips, pasteurize by soaking in 160 F water for 1 hour. (see [[query-how-to-make-and-use-leaf-mold-in-your-garden]]).
 
 ## Spawn Selection
 
 ### Spawn Types
 
 - Grain spawn (on rye or millet): most aggressive, fastest colonization
-- [[growing-gourmet-sawdust-spawn-production-use]]: slower but more economical for large beds
+- Sawdust spawn: slower but more economical for large beds
 - Cardboard spawn: budget option; colonize cardboard with mycelium indoors, then transplant
 
 ### Sourcing Spawn
 
-Purchase from reputable mushroom supply companies. Wine Cap spawn is widely available in the US and Europe due to its popularity with permaculture growers. Ensure the spawn is fresh (used within 2-3 months of purchase for best results).
+Purchase from reputable mushroom supply companies. Wine Cap spawn is widely available in the US and Europe due to its popularity with permaculture growers. Ensure the spawn is fresh (used within 2-3 months of purchase for best results). (see [[shiitake-cultivation-guide]]).
 
 ## Bed Installation
 
@@ -71,7 +70,7 @@ Purchase from reputable mushroom supply companies. Wine Cap spawn is widely avai
 
 Best installation times:
 
-- Spring (March-May): allows full [[savory-growing-season-and-non-growing-season-management]] for colonization; may fruit same fall
+- Spring (March-May): allows full growing season for colonization; may fruit same fall
 - Fall (September-November): colonization over winter; first fruiting following spring
 
 Fall installation is generally preferred in most climates — the winter months allow slow, thorough colonization without competition from fast-growing summer fungi.
@@ -79,7 +78,7 @@ Fall installation is generally preferred in most climates — the winter months 
 ### Step-by-Step Bed Construction
 
 1. Choose and prepare the site (partially shaded, near a water source)
-2. Clear [[fukuoka-rain-falls-from-ground-vegetation-rainfall-cycle]]; optional: lay cardboard or newspaper as weed barrier
+2. Clear ground vegetation; optional: lay cardboard or newspaper as weed barrier
 3. Loosen the top 2-4 inches of soil with a garden fork
 4. Moisten the soil surface
 5. Apply first layer of chips: 2-3 inches deep, evenly spread
@@ -136,12 +135,16 @@ Maintain a 2-3 inch layer of straw or leaf mulch on top:
 - After 2-3 months: should see extensive white mycelium throughout
 - If colonization stalls: increase moisture, check for contaminants
 
-## Related Topics
+## Harvesting
 
-- [[kings-stropharia-garden-giant]] for species overview and ecological benefits
-- [[oyster-mushroom-species-guide]] for other easy-to-grow cultivated species
+### When to Harvest
 
-## See Also
+- Mushrooms appear 2-4 days after heavy rain or deep watering
+- Harvest when caps are fully expanded but still firm
+- Young specimens: burgundy-red cap, white gills, firm flesh
+- Mature: cap faded to tan, gills purple-black, slightly softer
 
-- king-stropharia-wine-cap-cultivation
-- [[wine-cap]]
+### How to Harvest
+
+- Cut at the base with a knife or twist gently
+- Do not pull — this damages the mycelial network

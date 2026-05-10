@@ -144,7 +144,6 @@ A well-designed duck pond serves multiple functions: water for ducks, habitat fo
 
 **Minimum water depth**: 6–12 inches for small flocks; 18–24 inches is ideal for natural behavior
 
-**Natural pond approach**:
 ## Related
 - [[gaias-garden-living-plant-systems-insectary|gaias garden living plant systems insectary]]
 - [[comparison-biointensive-vs-permaculture|comparison biointensive vs permaculture]]

@@ -108,6 +108,8 @@ In the food industry, carnauba wax is classified as GRAS (Generally Recognized A
 
 ## See Also
 
+- [[copernicia-alba]]
+
 - [[cocos-nucifera]]
 - [[elaeis-guineensis]]
 - [[borassus-flabellifer]]

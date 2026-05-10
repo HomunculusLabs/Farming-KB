@@ -118,10 +118,6 @@ own self-awareness. The mushroom, as the "flesh of the gods," is the
 medium through which this awareness was originally achieved.
 
 ## See Also
-
-- [[dominator-culture-and-partnership-society]] - Partnership vs. dominator
-- [[eleusinian-mysteries]] - Mediterranean partnership culture example
-
-## See Also
-
+- [[dominator-culture-and-partnership-society]]
+- [[eleusinian-mysteries]]
 - [[mckenna-tassili-plateau-round-head-civilization]]

@@ -19,7 +19,7 @@ sources:
 
 # Psychedelic Harm Reduction
 
-Evidence-based safety practices for psychedelic use, including substance testing, [[blesching-cannabis-health-index-dosage-guidelines-medical]], contraindications, SSRI interactions, and trip sitting principles.
+Evidence-based safety practices for psychedelic use, including substance testing, dosage guidelines, contraindications, SSRI interactions, and trip sitting principles.
 
 ## Principles
 
@@ -37,20 +37,20 @@ Psychedelic harm reduction operates on the principle that people will use these 
 
 - **Reagent testing**: Chemical reagent kits (Ehrlich, Marquis, Hofmann, Hofmann Freebase) can provide preliminary identification of compounds. Ehrlich reagent turns purple in the presence of indoles (psilocybin, LSD, DMT) but cannot distinguish between them or detect adulterants.
 - **Laboratory testing**: GC/MS or HPLC analysis provides definitive identification of compounds and their concentrations. This is the gold standard but requires sending samples to a lab.
-- **Spore identification**: For mushrooms, [[fungal-microscopic-examination-mounting-media-techniques]] of spores can confirm genus and species.
+- **Spore identification**: For mushrooms, microscopic examination of spores can confirm genus and species.
 
 ## Dosage Guidelines
 
 ### Psilocybin Mushrooms
 
-Doses vary enormously depending on species, age, preparation, and individual sensitivity. The following are approximate guidelines for dried *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* (the most commonly available species):
+Doses vary enormously depending on species, age, preparation, and individual sensitivity. The following are approximate guidelines for dried *Psilocybe cubensis* (the most commonly available species):
 
 | Level | Dose (dried *P. cubensis*) | Effects |
 |---|---|---|
 | Microdose | 0.1-0.3 g | Sub-perceptual; subtle mood/cognitive enhancement |
 | Light | 0.5-1.0 g | Mild visual changes, enhanced colors, light mood shift |
 | Moderate | 1.0-2.5 g | Clear visual hallucinations, altered thought patterns, emotional intensity |
-| Strong | 2.5-5.0 g | Intense visuals, [[psilocybin-ego-dissolution-mechanisms]] possible, profound experiences |
+| Strong | 2.5-5.0 g | Intense visuals, ego dissolution possible, profound experiences |
 | Heroic | 5.0+ g | Complete ego dissolution, overwhelming, for experienced users only |
 
 **Important caveats**:
@@ -84,7 +84,7 @@ Doses vary enormously depending on species, age, preparation, and individual sen
 - **Personal or family history of schizophrenia or psychotic disorders**: Psychedelics can trigger psychotic episodes in vulnerable individuals.
 - **Bipolar disorder (especially Type I)**: Psychedelics may trigger manic episodes.
 - **Borderline personality disorder**: While not an absolute contraindication, individuals with BPD may be more susceptible to difficult experiences and should work with experienced guides.
-- **Active suicidal ideation**: A [[leary-psychedelic-experience-bardo-mapping]] is not appropriate during acute mental health crises.
+- **Active suicidal ideation**: A psychedelic experience is not appropriate during acute mental health crises.
 - **Recent trauma**: Processing fresh trauma in a psychedelic context without professional support can be re-traumatizing.
 
 ## Trip Sitting Principles
@@ -134,5 +134,5 @@ Psilocybin and LSD are Schedule I substances in many jurisdictions. Possession, 
 
 - [[psychedelic-mushroom-set-and-setting]] for the set and setting framework
 - [[psychedelic-integration-practices]] for post-experience care
-- [[psilocybin-mushroom-identification-guide]] for [[psilocybin-mushroom-identification-guide]] safety
+- [[psilocybin-mushroom-identification-guide]] for mushroom identification safety
 - [[psychedelic-integration-guide]] for detailed integration guidance

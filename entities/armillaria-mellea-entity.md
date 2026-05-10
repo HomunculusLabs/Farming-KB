@@ -2,8 +2,7 @@
 title: "Armillaria mellea" type: species tags: [species, fungi, basidiomycota, pathogenic, edible, permaculture, mushroom] date: 2026-04-28 updated: 2026-04-28 sources: - "General mycological knowledge"
 created: 2026-04-28
 type: entity
-sources:
-  sources: []
+sources: []
 tags: []
 updated: 2026-05-06
 ---
@@ -137,7 +136,6 @@ than being the sole cause of decline.
 | Galerina marginata | Brown cap, rusty-brown spore print, thinner stipe — DEADLY |
 | Hypholoma fasciculare | Sulphur-yellow gills turning green, bitter taste — POISONOUS |
 | Pholiota squarrosa | Very scaly cap and stipe, brown spore print, grows on living trees |
-
 ## See Also
 
 - psilocybe-mushroom-species-guide

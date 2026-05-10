@@ -20,10 +20,10 @@ tags:
   - ecology
 sources:
   - Guzmán, G. et al. (2004). "A worldwide geographical distribution of the challenges-neurotropic-fungi-chemical-analysis-taxonomic-identification." In: Entheogens and the Development of Culture. Springer.
-  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
+  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Hatanaka, T. (1961). "Taxonomic studies on the genus Gymnopilus." Reports of the Tottori Mycological Institute, 1, 1–69.
   - Bigwood, J. & Beug, M.W. (1982). "Variation in psilocybin and psilocin content." Journal of Psychedelic Drugs, 14(3), 195–200.
-  - Lincoff, G. (1981). The Audubon Society Field Guide to [[growing-gourmet-north-american-reishi-species]] Mushrooms. Knopf.
+  - Lincoff, G. (1981). The Audubon Society Field Guide to growing-gourmet-north-american-reishi-species Mushrooms. Knopf.
 ---
 
 # Gymnopilus spectabilis

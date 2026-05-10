@@ -133,6 +133,8 @@ The essential oil (0.5–6% in seeds) is the primary source of fennel's bioactiv
 ### Fennel Leaves (Fronds)
 ## See Also
 
+- [[heracleum-sphondylium]]
+
 - [[agastache-foeniculum]]
 
 - [[anethum-graveolens]] (dill — close relative)

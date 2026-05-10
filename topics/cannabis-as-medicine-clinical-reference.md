@@ -101,7 +101,6 @@ both CB1 and CB2 receptors. Through CB1 activation in the central nervous
 system, THC produces its characteristic psychoactive effects alongside
 analgesic, antiemetic, bronchodilatory, and appetite-stimulating properties.
 Through CB2 activation in immune cells, THC modulates inflammatory signaling.
-Notably, CB1 receptors are absent from the medulla oblongata, the brain region
 ## See Also
 
 - [[blesching-cannabinoid-pharmacology]]

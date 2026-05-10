@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [ethnobotany, entheogen, ayahuasca, amazonian, pharmacology]
 date: 2026-04-25
 updated: 2026-04-25
-sources: [~/wiki/raw/papers/harner-j-hallucinogens-and-shamanism.md, ~/wiki/raw/papers/a-golden-guide-to-hallucinogenic-plants.md]
+sources: [~/wiki/raw/papers/harner-amazonian-ayahuasca-preparation-methods|harner-j-hallucinogens-and-shamanism.md, ~/wiki/raw/papers/a-golden-guide-hallucinogenic-plants-dmt-containing-species|golden-guide-to-hallucinogenic-plants.md]
 type: concept
 ---
 
@@ -12,7 +12,7 @@ type: concept
 
 One of the most remarkable features of [[psychotria-viridis]] and Chacruna
 
-The most widely documented ayahuasca additive is Psychotria viridis,
+The most widely documented ayahuasca [[schultes-ayahuasca-analogs-dmt-plants]] additive is Psychotria viridis,
 known as chacruna in Peru. This 20-foot forest treelet belongs to the
 coffee family, Rubiaceae. Its leaves have been found to contain the
 powerfully hallucinogenic alkaloid N,N-dimethyltryptamine ([[ayahuasca-preparation]]s. These include Datura suaveolens, whose

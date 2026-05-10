@@ -141,9 +141,7 @@ metal only. Remove any green plastic film on reflector interiors.
 
 **CRITICAL: Do NOT use mirrors or shiny tin foil.** Mirrors absorb
 light -- only a small amount is reflected back. What you need is
+
 ## See Also
 - [[green-cannabis-grow-bible-plant-training-pruning-and-yield]]
-
-## See Also
-
 - [[cannabis-lighting-guide]]

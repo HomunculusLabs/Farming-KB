@@ -1,133 +1,140 @@
 ---
-title: Complete complete-organic-fertilizer-cof-recipe-solomon (COF) Blend
-source: Gardening When It Counts - steve-solomon
-source_author: Steve Solomon
-tags: [gardening, fertilizer, organic, soil-fertility, plant-nutrition]
-created: 2026-05-08
+title: Complete Organic Fertilizer COF
+aliases: [COF, complete-organic-fertilizer, organic-fertilizer-blend]
+tags: [gardening, organic-farming, soil-fertility, fertilizers]
+sources:
+  - gardening-when-it-counts-steve-solomon.md
+created: 2026-05-10
 ---
 
-# Complete Organic Fertilizer (COF) Blend
+# Complete Organic Fertilizer (COF)
 
 ## Overview
 
-Steve Solomon's Complete Organic Fertilizer (COF) is a custom blended
-organic fertilizer designed to provide balanced nutrition for vegetable
-crops using [[fungi-in-composting-and-agricultural-waste-conversion]] products and crushed rock minerals. Unlike
-single-ingredient [[cervantes-organic-amendments-chart]], COF supplies all major and minor
-plant nutrients in approximately the right proportions, addressing the
-common problem of nutrient imbalance in organic gardens.
+The Complete Organic Fertilizer (COF) is a blended organic fertilizer formula developed by Steve Solomon, founder of Territorial Seed Company and author of "Gardening When It Counts." COF is designed to provide a complete [[complete-organic-fertilizer-recipes]] balance of essential plant nutrients using agricultural waste products and crushed rocks, without relying on synthetic chemical fertilizers or petroleum-based inputs. The formula is mixed by the gardener from bulk ingredients, making it far more economical than commercially packaged organic fertilizers while producing nutritionally superior vegetables.
 
-## The Problem with Common Organic Amendments
+## Why COF Is Needed
 
-Most home gardeners rely heavily on one or two organic amendments —
-typically compost and manure — without understanding that these materials
-are inherently unbalanced. Compost is excellent for soil structure and
-microbial life but contains relatively low concentrations of actual plant
-nutrients per unit volume. Manure varies enormously in composition
-depending on the animal species, diet, and handling.
+Vegetables grown with manure and compost alone, regardless of where you live, do not guarantee making garden soil that will produce the most highly nutritious vegetables possible. They will make nutritious vegetables only if the soils around you are rich and balanced. The COF approach supplements modest amounts of manure and compost with a complete [[complete-organic-fertilizer-recipes]] spectrum of minerals and nutrients.
 
-The result is that many organic gardens suffer from specific nutrient
-deficiencies despite generous applications of organic matter. Plants may
-appear healthy but produce nutritionally inferior food because certain
-minerals are simply not available in adequate quantities.
+Building up soil excessively with organic [[complete-organic-fertilizer-recipes]] matter not only wastes money and effort, but also lowers the nutritional quality of your vegetables. The COF formula addresses this by providing precise mineral nutrition alongside the soil ecology benefits of moderate organic matter.
 
-## COF Formula and Ingredients
+## The COF Formula
 
-Solomon's COF blend uses widely available ingredients that can be
-purchased in bulk at farm supply stores. The core formula combines seed
-meal as a nitrogen source with agricultural lime, rock phosphate or
-bonemeal, and kelp meal for micronutrients.
+All materials are measured by volume (scoop, bucketful, jar full, etc.). The formula has two variations depending on available seed meal:
 
-Seed meal, typically cottonseed or canola meal, provides the bulk of
-nitrogen and some phosphorus. Agricultural lime (calcium carbonate)
-supplies calcium and adjusts soil pH. Rock phosphate or bonemeal
-provides phosphorus and additional calcium. Kelp meal contributes a
-broad spectrum of trace minerals.
+### Primary Formula (using most seed meals)
 
-The precise ratios can be adjusted based on soil test results, but the
-standard blend is designed to work well in most temperate garden soils
-without extensive testing. This makes it accessible to gardeners who
-lack the resources or knowledge to create fully customized fertility
-programs.
+Mix uniformly:
 
-## Why Not Just Use Manure or Compost?
+- **4 parts** any kind of seed meal (except copra meal)
+- **Blend with:**
+  - **1/2 part** ordinary agricultural lime (best finely ground)
+  - **1/4 part** gypsum (if you don't use gypsum, double the quantity of agricultural lime)
+  - **1/4 part** dolomite lime
+- **Plus (for best results), 1 part** of any one of these phosphorus sources:
+  - Finely ground rock phosphate (either "hard" or "soft" rock phosphate)
+  - Bonemeal
+  - High-phosphate guano
+- **Plus, 1 part** kelp meal or 1 part basalt dust
 
-Manure and compost are valuable soil amendments, but they have
-limitations as primary fertility sources. Their nutrient content is
-variable and often insufficient for demanding vegetable crops. A garden
-relying solely on compost or manure may produce adequate yields but
-nutritionally inferior food.
+### Alternative Formula (using copra meal)
 
-COF addresses this by providing known, consistent amounts of each
-essential nutrient. When combined with modest applications of compost
-for soil biology and structure, the result is a fertility system that
-produces both high yields and highly nutritious vegetables.
+- **4 parts** less-potent copra meal
+- **1 part** tankage (also called "blood-and-bone" or "meatmeal") to boost nitrogen content
+- Same lime, phosphorus, and kelp/basalt additions as above
 
-## Relationship to Plant Nutrition
+The tankage version is slightly better for leafy crops in spring. Note: if your tankage is over 20 years old, the only consequence is that your COF will be a bit lower in nitrogen, requiring you to use a bit more of it to get the same result.
 
-The concept behind COF is that plants require specific ratios of
-nutrients for optimal growth and [[coleman-winter-greens-nutritional-quality-cold-sweetening]]. When one nutrient
-is limiting, the plant cannot make full use of the others. This is
-Liebig's Law of the Minimum applied to [[home-vegetable-garden-planning]].
+## Ingredient Analysis
 
-Solomon argues that the nutritional quality of homegrown vegetables is
-directly related to the completeness of the fertility program. Vegetables
-grown with complete nutrition contain significantly more vitamins,
-minerals, and phytonutrients than those grown in deficient soils — even
-if the deficient plants appear visually healthy.
+### Seed Meals
 
-## Application Methods
+Seed meals are byproducts of the oilseed industry — the remains after oil is mechanically pressed or solvent-extracted from seeds. Most seed meals in commercial trade analyze at approximately 6-4-2 (NPK), although copra meal (coconut byproduct) is about one-third weaker. Seed meals contain calcium, magnesium [[solomon-lime-types-agricultural-dolomitic-gypsum-ph-myth-organic-garden]], and trace nutrients beyond NPK. Because seed meals are not labeled as fertilizers, they are not expensive.
 
-COF is typically applied at planting time by incorporating it into the
-soil of each planting station or bed. For transplants, a small handful
-is mixed into the soil where each plant will go. For direct-seeded crops,
-COF can be broadcast in a narrow band along the row before seeding.
+Common seed meals include:
+- **Cottonseed meal**: Widely available, moderate nitrogen content
+- **Soybean meal**: Higher protein content, good nitrogen source
+- **Canola/rapeseed meal**: Readily available in many regions
+- **Linseed (flaxseed) meal**: Good all-around nutrient profile
+- **Sunflower seed meal**: Moderate nutrient content
+- **Copra meal**: Coconut byproduct, lower nitrogen but acceptable with supplementation
 
-The amount needed depends on the crop's nutritional demands. Light
-feeders like peas and beans need less, while heavy feeders like tomatoes,
-corn, and brassicas benefit from more generous applications. Solomon
-provides crop-specific guidance in the book's individual crop chapters.
+### Lime Components
 
-## Soil pH Considerations
+Three types [[solomon-lime-types-agricultural-dolomitic-gypsum-ph-myth-organic-garden]] of lime are used in COF, each providing different minerals:
 
-COF includes agricultural lime in part because many temperate soils
-tend toward acidity. Acidic soils lock up certain nutrients, making
-them unavailable to plants even when they are present in the soil.
-Lime raises pH into the optimal range for most vegetables (6.0-6.5).
+- **Agricultural lime**: Relatively pure calcium carbonate, providing calcium
+- **Dolomitic lime**: Contains both calcium and magnesium, usually in roughly equal amounts
+- **Gypsum**: Calcium sulfate, providing calcium and sulfur
 
-However, gardeners in areas with naturally alkaline soils should modify
-the formula, reducing or eliminating lime and potentially substituting
-gypsum (calcium sulfate) as a calcium source that does not raise pH.
+Solomon advises ignoring soil pH. Liming to adjust soil pH may be standard practice in conventional farming but is not of concern in an organic garden. Each year, just add what COF specifies and the pH will correct itself over time, more because of the organic matter than from adding calcium and/or magnesium.
 
-## Cost and Accessibility
+If using COF routinely, there should be no separate need to lime the garden. COF is formulated so that when the specified amount is applied, it automatically distributes about 23 kg of lime per 1,000 square feet per year.
 
-One of COF's significant advantages is low cost. The ingredients are
-commodity agricultural products available in bulk at farm supply stores.
-A season's supply for a typical home garden costs a fraction of
-comparable commercial organic fertilizer products.
+### Phosphorus Sources
 
-This affordability is central to Solomon's philosophy of gardening for
-hard times. When money is tight and commercial inputs are expensive,
-the ability to mix effective fertilizer from bulk ingredients is a
-valuable skill that keeps garden production economical.
+All three phosphorus sources (rock phosphate, bonemeal, and high-phosphate guano) are rich in trace elements. However, the trace element content of agricultural soils has steadily decreased over the past 25 years, and USDA data shows that the nutritional content of common vegetables has declined approximately 2% per year. This makes the trace elements in COF's phosphorus sources particularly valuable.
 
-## Avoiding Overuse
+### Kelp Meal and Basalt Dust
 
-Solomon strongly warns against over-applying [[hamilton-organic-fertilizers-and-plant-nutrition]]. The
-common assumption that "more is better" is counterproductive. Excessive
-nitrogen produces lush, succulent growth that is more attractive to
-insect pests and more susceptible to disease. Over-fertilized plants
-may produce large yields but with lower nutritional density.
+Kelp meal is highly recommended but may seem costly. It adds considerable fortitude to plants, including growth regulators, natural hormones, and resistance to cold, frost, and other stresses. Korean kelp costs less than the meal itself. Basalt dust may be substituted for kelp meal as a less expensive alternative that provides a broad spectrum of trace minerals.
 
-Building up soil excessively not only wastes money and effort but
-actually lowers the quality of the vegetables produced. COF is designed
-to be used in measured, appropriate amounts rather than applied
-generously without restraint.
+## Application Rates
+
+Apply once a year (best in spring), spreading 4 to 6 liters of COF atop each 100 square feet of raised bed or down each 50 feet of row that is 12 to 18 inches wide. Work the fertilizer in with a hoe or spade. If practicing no-dig gardening, spread it on top and let earthworms incorporate it.
+
+When making planting hills, mix an additional amount of COF into each hill. This base application provides enough fertility for "low-demand" vegetables (carrots, parsnips, beans, peas) to grow to their maximum potential, and adequately feeds all "medium-demand" vegetables.
+
+For additional nutrition of medium-demand and high-demand vegetables, after seedlings emerge or are transplanted, sprinkle small amounts of fertilizer around them every few weeks. As plants grow, place each dusting further from the stem, matching the expanding root zone.
+
+## Advantages Over Chemical Fertilizers
+
+Chemical fertilizers, even those labeled "complete" (e.g., 16-16-16), are in fact entirely incomplete. They provide only nitrogen, phosphorus, and potassium. They may contain plenty of sulfur, but not the calcium and magnesium that plants also need in large amounts, nor the dozens of other essential trace minerals.
+
+Plants grown with chemical fertilizers are more easily attacked by insects and diseases, often do not grow as large, and produce food with lower nutritional content. The rapid solubility of chemical fertilizers causes a spike in nutrient availability followed by a big sag, requiring repeated applications that waste water and nutrients through leaching.
+
+COF, by contrast, releases nutrients slowly as the soil ecology decomposes the organic materials. The rate of decomposition is determined by soil temperature, roughly doubling for each 10°F (5°C) increase. Complete decomposition of COF takes around two months in warm soil. During that period, nutrients are steadily released.
+
+## COF and Nutritional Quality
+
+According to Solomon, vegetables grown with COF combined with modest manure and compost contain far more human nutrition (protein, vitamins, enzymes, and minerals) than vegetables grown by any other method. The emphasis on complete mineral nutrition, including trace elements from kelp, rock phosphate, and basalt dust, addresses the documented decline in the nutritional content of conventionally grown vegetables over recent decades.
+
+## Foliar Feeding with Kelp
+
+An alternative to mixing kelp meal directly into COF is foliar feeding — spraying a liquid kelp solution directly onto plant leaves. This is more effective per unit of kelp than soil incorporation, though it requires more effort. Commercial foliar kelp sprays are available, but gardeners can also make their own by steeping kelp meal in water.
+
+Foliar feeding needs to be done regularly (approximately every two to three weeks during the growing season) to be effective. An additional benefit is that spraying gets the gardener walking among the plants regularly, facilitating early detection of pest or disease problems. As Solomon notes, "the best fertilizer of all is the gardener's shadow" — meaning that attentive presence in the garden contributes more to success than any specific product or technique.
+
+## Side-Dressing for High-Demand Crops
+
+For vegetables classified as high-demand (those requiring the most fertile soil to reach their potential, such as celery, cauliflower, and brassicas), the initial COF application may not be sufficient for the full growing season. Side-dressing provides supplemental nutrition:
+
+1. Apply the initial COF at planting time as described above
+2. Wait until seedlings are established or transplants have recovered from transplanting shock (typically 2-3 weeks)
+3. Sprinkle a small amount of additional COF in a band alongside the row, approximately 4-6 inches from the plant stems
+4. Repeat every 3-4 weeks during the growing season
+5. As plants grow larger, widen the band to match the expanding root zone
+
+For beets and similar root crops, side-dress at approximately 30 days after emergence for the best development of the root. If a seedling fails to grow after a few weeks, that lack of response usually indicates insufficient nitrogen.
+
+## Cost Considerations
+
+One of COF's primary advantages is cost efficiency. Purchased in bulk from agricultural suppliers rather than garden centers, the ingredients are remarkably inexpensive. A typical 200-square-meter garden requires approximately 55 pounds (25 kg) of COF per year, which can be mixed for a fraction of the cost of equivalent commercial organic fertilizer products.
+
+Solomon emphasizes that seed meals are not expensive when bought in large sacks from agricultural suppliers. The main cost variables are kelp meal (which can be partially replaced with basalt dust) and rock phosphate. Even with these premium ingredients, the total annual cost of COF for a substantial home garden is typically under $50, while producing vegetables of significantly higher nutritional quality than those available commercially.
+
+## Soil Building Philosophy
+
+The COF approach embodies a philosophy of soil management that differs from both conventional chemical agriculture and intensive organic methods:
+
+- **Moderate organic matter**: Rather than building soil to extreme levels with massive compost applications, COF uses modest organic matter to feed the soil ecology while relying on mineral supplements for plant nutrition
+- **Mineral completeness**: The emphasis on trace elements from diverse rock and seaweed sources addresses the mineral depletion that affects even well-managed organic soils
+- **Economic sustainability**: By using agricultural waste products (seed meals) and mined minerals (rock phosphate, lime), COF avoids dependence on expensive, branded garden products
+- **Long-term soil health**: The slow-release nature of organic inputs builds soil structure and feeds the microbial ecosystem, unlike chemical fertilizers that can degrade soil over time
 
 ## See Also
 
-- [[solomon-manure-nutrient-variability-cof]]
-
-- [[dryland-vegetable-gardening]]
-- [[soil-foodweb-biology-balance]]
-- [[complete-organic-fertilizer-cof-recipe-solomon]]
+- [[low-irrigation-vegetable-gardening]]
+- [[manure-quality-and-soil-fertility]]
+- [[vegetable-spacing-and-garden-layout]]

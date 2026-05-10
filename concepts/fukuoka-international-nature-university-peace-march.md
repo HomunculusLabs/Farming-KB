@@ -131,19 +131,8 @@ food security and environmental restoration.
 Fukuoka's fusion of agricultural practice with peace philosophy remains one of the
 most original contributions to ecological thought in the [[coleman-louis-savier-twentieth-century-maraicher]]. He
 demonstrated that the path to a peaceful world does not begin with treaties or
-## See Also
-
-- **Natural Farming** — Fukuoka's core agricultural methodology
-- **The One-Straw Revolution** — Fukuoka's earlier and most widely read work
-- **Mu (Nothingness)** — The philosophical foundation of non-intervention
-- **Quarter-Acre Farming** — Small-scale self-sufficient agriculture model
-- **Food Sovereignty** — The broader political movement resonating with Fukuoka's
-  critique of food-as-weapon systems
 
 ## See Also
 - [[fukuoka-peace-march-war-agriculture]]
 - [[fukuoka-nature-is-unknowable]]
-
-## See Also
-
 - [[fukuoka-paris-peace-march-nature-university]]

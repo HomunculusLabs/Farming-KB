@@ -12,7 +12,7 @@ sources:
   - Tryon, R.M. & Tryon, A.F. (1982). "Ferns and Allied Plants." Springer-Verlag.
   - Moran, R.C. (2004). "A Natural History of Ferns." Timber Press.
   - Farnsworth, E. et al. (2007). "Wild edible ferns of Asia." Economic Botany, 61(1), 1-15.
-  - Cheng, H.H. et al. (2016). "[[dighton-fungal-nutritional-composition-animal-diets]] of edible ferns." Journal of Food Science, 81(6), C1432-C1439.
+  - Cheng, H.H. et al. (2016). "dighton-fungal-nutritional-composition-animal-diets of edible ferns." Journal of Food Science, 81(6), C1432-C1439.
 ---
 
 ## Overview

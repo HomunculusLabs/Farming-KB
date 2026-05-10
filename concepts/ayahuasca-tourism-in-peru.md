@@ -138,7 +138,6 @@ ayahuasca and practice native religious traditions alongside their publicly
 professed Christianity. This syncretism reflects the deep cultural roots of
 ayahuasca use, which predates and in many ways transcends the introduced
 religions.
-
 ## See Also
 
 - [[stuart-r-ayahuasca-tourism-cautionary-ethnography]]

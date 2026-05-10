@@ -5,11 +5,10 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
-**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets) | **Updated:** 2026-04-18
+**Source:** woodlovers-mycelium-running-pathway-technique (Paul Stamets) | **Updated:** 2026-04-18
 
 ## Overview
 

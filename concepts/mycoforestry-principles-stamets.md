@@ -5,7 +5,7 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  sources: []
+  - "raw/papers/mycelium-running-stamets.md"
 ---
 
 Updated: 2026-04-18

@@ -4,7 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mushroom-foraging, safety, identification, fungi, mycology, deadly-mushrooms, spore-print, lookalikes]
-sources: sources: []
+sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
 # Mushroom Foraging Safety
@@ -13,8 +13,8 @@ Mushroom foraging is rewarding but carries genuine risks. Several mushroom speci
 
 ## The Golden Rules
 
-1. **Never eat a mushroom unless you are 100% certain of its identification.** If in doubt, throw it out.
-2. **Learn from experts.** Join a local mycological society, take guided walks, and study with experienced foragers.
+1. **Never eat a mushroom unless you are 100% certain of its identification.** If in doubt, throw it out. (see [[agaricus-species-guide]]).
+2. **Learn from experts.** Join a local mycological society, take guided walks, and study with experienced foragers. (see [[mushroom-identification]]).
 3. **Identify the mushroom, not just match pictures.** Consider habitat, season, substrate, cap features, gill structure, stem characteristics, spore print color, and bruising reactions.
 4. **When trying a new edible species for the first time, eat only a small amount and wait 24 hours.** Some people have individual sensitivities.
 5. **Keep a voucher specimen** of every mushroom you eat, in case identification needs to be confirmed later.
@@ -72,21 +72,3 @@ A proper identification considers ALL of these features:
 - [[gourmet-mushroom-species-guide]]
 - [[fungal-ecology-forest-floor]]
 - [[psilocybin-mushroom-cultivation-basics]]
-## Practical Considerations
-
-Successful implementation of Mushroom Foraging Safety requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

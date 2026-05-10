@@ -138,7 +138,6 @@ hepatotoxic risk, while true cinnamon is safe for daily use.
   fermented, and rolled into quills by hand.
 - **Yield:** ~50–100 kg dried bark per hectare per year from mature
   plantations.
-
 ## See Also
 
 - [[actinodaphne-lancifolia]]

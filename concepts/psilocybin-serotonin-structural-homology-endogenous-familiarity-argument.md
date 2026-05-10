@@ -114,9 +114,9 @@ This modern framework preserves the intuitive core of McKenna's argument — tha
 - [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
 - [[dmt-endogenous-production]]
 - [[mckenna-tryptamines-logos-consciousness]]
-- [[rebus-model-predictive-coding-psychedelics]]
-- [[5ht2a-receptor-agonism-cortical-hierarchy]]
-- [[psilocybin-phosphoryloxy-prodrug-metabolism]]
+- rebus model predictive coding psychedelics
+- 5ht2a receptor agonism cortical hierarchy
+- [[psilocybin-metabolism-psilocin-conversion]]
 
 ## See Also
 

@@ -123,9 +123,10 @@ The seeds are sometimes treated with chemicals
 to discourage consumption, but this is a vendor practice, not a legal requirement.
 
 ## See Also
-
 - [[datura-as-hallucinogen]]
-- peyote
+- [[lysergic-acid-diethylamide]]
+- [[lysergic-acid-amide]]
+- [[lysergic-acid]]
 
 ## Sources
 

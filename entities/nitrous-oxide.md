@@ -15,7 +15,7 @@ sources:
   - Weimann, J. (2003). "Gas density and airway resistance." British Journal of Anaesthesia 90(2): 166-172.
   - Jevtović-Todorović, V. et al. (1998). "Prolonged exposure to inhalational anesthetic causes neurodegeneration in the developing brain." Annals of Neurology 43(3): 358-364.
   - EMCDDA (2023). "Nitrous Oxide — Drug Profile." European Monitoring Centre for Drugs and Drug Addiction.
-  - Committee on the Ethics of [[hofmann-lsd-animal-experiments-toxicity]] (2015). "Nitrous oxide for procedural analgesia." Pain Medicine 16(6): 1083-1091.
+  - Committee on the Ethics of hofmann-lsd-animal-experiments-toxicity (2015). "Nitrous oxide for procedural analgesia." Pain Medicine 16(6): 1083-1091.
 created: 2026-05-07
 ---
 

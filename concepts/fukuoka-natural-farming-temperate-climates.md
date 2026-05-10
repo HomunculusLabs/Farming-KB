@@ -1,11 +1,10 @@
 ---
-title: comparison-natural-farming-vs-permaculture [[query-how-to-grow-and-use-oca-in-temperate-climates]]
+title: Natural Farming in Temperate Climates
 created: 2026-04-18
 updated: 2026-04-20
 type: concept
 tags: [fukuoka, natural-farming, philosophy]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 

@@ -111,3 +111,4 @@ This hydrochory mechanism has facilitated the species' spread across the Europea
 - [[marchantia-polymorpha]]
 - [[xanthoria-parietina]]
 - [[peltigera-canina]]
+- [[lobularia-maritima]]

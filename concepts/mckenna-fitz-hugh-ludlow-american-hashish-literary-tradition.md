@@ -17,8 +17,8 @@ sources:
 
 Fitz Hugh Ludlow (1834-1870) occupies a singular position in American literary
 history as the author of *The Hasheesh Eater* (1857), the first sustained work
-of American [[psychedelics|psychedelic]] literature. Writing decades before the
-wider European fascination with altered states reached American shores, Ludlow
+of American [[history-psychedelics-ancient|psychedelic]] literature. Writing decades before the
+wider European fascination with [[harner-shamanic-journey-and-altered-states]] reached American shores, Ludlow
 created a tradition of pharmo-picaresque literature that would later find
 practitioners in William S. Burroughs and Hunter S. Thompson. His work stands
 as a bridge between Romantic-era explorations of consciousness and the modern
@@ -38,8 +38,8 @@ student tea gathering, where the effects arrived without warning:
 Unlike modern cannabis consumers who predominantly smoke the plant, Ludlow and
 his nineteenth-century contemporaries consumed hashish exclusively through edible
 preparations. These confections, imported from the Middle East, included
-dawamesc -- a jellied hashish preparation of Algerian origin -- and ganja
-preparations from India. This method of ingestion, as Terence McKenna noted,
+dawamesc -- a jellied [[lemon-cannabis-alchemy-hashish-preparation]] of Algerian origin -- and ganja
+preparations from India. This method of ingestion, as [[terence-mckenna]] noted,
 turned hashish into "a powerful engine for the exploration of inner vistas of
 fantasy and awareness," producing experiences of far greater intensity than
 typically associated with smoked cannabis. The visions left no doubt among
@@ -109,14 +109,14 @@ original partnership societies." The drug's capacity to dissolve social
 conditioning, diminish ego, and promote intuitive, less competitive behavior
 patterns made it fundamentally inimical to dominator values.
 
-The writers who explored hashish in the nineteenth century shared what McKenna
+The writers who explored hashish in the [[mckenna-club-des-hachischins-and-nineteenth-century-literary-hashish]] shared what McKenna
 identified as a partnership-oriented sensibility: attention to beauty, openness
 to visionary experience, and a willingness to question received authority. Their
 "scientific" attitude toward drug exploration reflected an intellectual
 seriousness that contrasted sharply with the trivializing "recreational"
 paradigm later imposed on cannabis use. For Ludlow and his contemporaries, the
 hashish experience raised genuine questions about human psychology -- questions
-that the dominator culture preferred to suppress.
+that [[mckenna-dissolution-of-the-dominator-culture]] preferred to suppress.
 
 ## Legacy and the Archaic Revival
 
@@ -125,7 +125,7 @@ psychoactive experience -- proved remarkably persistent. From the Beat
 Generation through the psychedelic counterculture and into contemporary
 psychedelic literature, writers have continued to use cannabis and other
 substances as tools for creative exploration. McKenna noted that the "innate
-drive to restore the psychological balance typifying the partnership society,
+drive to restore the psychological balance typifying the [[dominator-culture-and-partnership-society]],
 once it finds a suitable vehicle, is not easily deterred." Ludlow's work
 represents one of the earliest literary expressions of that drive in American
 culture, making *The Hasheesh Eater* a foundational document in the ongoing

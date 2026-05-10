@@ -10,7 +10,7 @@ tags: [mckenna, osiris, eros, dmt, soul, eschatology, nag-hammadi, hibernation, 
 
 In his 1983 Esalen lecture, Terence McKenna advanced one of his most arresting mythopoetic formulations.
 
-The [[emcdda-psilocybin-mushroom-dose-and-effects]] encountered by the Spanish in the mountains of Oaxaca was nothing less than "the condensed body of Eros"—the divine principle of love, connection, and erotic union that had retreated from Western civilization at the coming of Christianity.
+The [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] encountered by the Spanish in the mountains of Oaxaca was nothing less than "the condensed body of Eros"—the divine principle of love, connection, and erotic union that had retreated from Western civilization at the coming of Christianity.
 
 This image condenses several threads of McKenna's thought into a single mythological proposition.
 

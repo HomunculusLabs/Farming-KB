@@ -20,7 +20,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Cannabis Cup Archives. "High Times Cannabis Cup Winners 1994–1999." https://hightimes.com
-  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last 2 Decades." Biological Psychiatry, 79(7), 613–619.
+  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last 2 Decades." Biological Psychiatry, 79(7), 613–619.
   - Mudge, E.M. et al. (2018). "Cannabinoid and Terpene Chemotypes of Cannabis." Botany, 96(5), 387–394.
   - Smart, R. et al. (2017). "The Taxonomy of Cannabis." American Journal of Botany, 104(7), 985–993.
 ---

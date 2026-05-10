@@ -13,7 +13,7 @@ sources:
   - Hofmann, A. (1979). "How LSD Originated." Journal of Psychedelic Drugs, 11(1–2), 53–60.
   - TiHKAL: The Continuation. Shulgin, A. & Shulgin, A. (1997). Transform Press.
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–710.
-  - Brandt, S.D. et al. (2016). "Return of the Lysergamides." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis, 8(9), 921–936.
+  - Brandt, S.D. et al. (2016). "Return of the Lysergamides." psychedelic-drug-testing-and-adulterant-screening and Analysis, 8(9), 921–936.
   - Halberstadt, A.L. et al. (2020). "Correlation Between Potency and Binding." ACS Chemical Neuroscience.
 created: 2026-04-28
 ---

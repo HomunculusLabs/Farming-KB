@@ -111,7 +111,6 @@ Beetle banks are raised earth mounds, typically about forty centimeters high and
 
 Insect hotels and log piles, constructed from bundles of hollow stems, drilled wooden blocks, and decaying logs, provide nesting sites for solitary bees, ladybirds, and predatory beetles. These structures are especially valuable in urban and suburban gardens where natural habitat is limited. Bamboo, elderberry stems, and bramble canes make excellent nesting materials.
 
-Water sources in the form of shallow dishes filled with pebbles provide drinking water for beneficial insects without creating drowning hazards. Water should be changed regularly to prevent mosquito breeding. Ponds and water features also serve broader ecological functions in the garden.
 ## See Also
 
 [[insectary-plants-guide]]

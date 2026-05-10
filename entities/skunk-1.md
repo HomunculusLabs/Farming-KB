@@ -143,7 +143,7 @@ sources: ["domain-knowledge"]
   making it arguably the most genetically pervasive strain in existence
 ## See Also
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[hindu-kush]]
 
 See also: [[triangle-kush]]

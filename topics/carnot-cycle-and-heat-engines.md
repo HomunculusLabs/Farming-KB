@@ -140,7 +140,6 @@ Environmental analysts use it to explain waste heat, cooling-water demand, and t
 The Carnot cycle is therefore both a historical milestone and a practical compass.
 It does not tell engineers how to build a machine directly.
 It tells them what losses matter, what improvements are thermodynamically meaningful, and what goals are impossible.
-
 ## See Also
 
 - [[rankine-cycle]]

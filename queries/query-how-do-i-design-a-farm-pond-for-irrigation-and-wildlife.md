@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Water for Every Farm, Yeomans mark-shepard
-  - Permaculture: A Designers' Manual, [[bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture]]
+  - Permaculture: A Designers' Manual, bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture
 type: query
 ---
 

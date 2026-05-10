@@ -41,6 +41,8 @@ Coleman used specific cultivars chosen for winter performance:
 
 ## See Also
 
+- [[coleman-winter-salad-braising-mix-composition]]
+
 - coleman cold hardy [[cover-crop-selection-guide]] — Full list of winter-hardy varieties
 - [[organic-farming-history]] — Soil fertility for quality winter greens
 - coleman overwintered spinach — The backbone winter crop

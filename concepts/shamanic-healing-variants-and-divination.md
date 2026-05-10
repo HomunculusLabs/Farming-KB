@@ -19,10 +19,10 @@ what illness is and how healing occurs. [[metzner-william-james-radical-empirici
 research with [[amazonian-plant-teachers-doctores]]
 - [[metzner-shamanic-healing-divination-worldview]] 156|
 - [Iboga and the [[iboga-and-the-bwiti-cult-initiation]] Initiation](iboga-and-the-bwiti-cult-initiation.md)
-- [Metzner Shamanic Healing Divination Worldview](metzner-shamanic-healing-divination-worldview.md)
+- [[metzner-shamanic-healing-divination-worldview|Metzner Shamanic Healing Divination Worldview]]
 - [Metzner [[metzner-spirit-beings-multiple-realities-entheogens]] Multiple Realities Entheogens]([[metzner-spirit-beings-multiple-realities-entheogens]].md)
-- [Plant Teachers Ayahuasca]([[plant-teachers-ayahuasca]].md)
-- [Amazonian Plant Teachers Doctores](amazonian-plant-teachers-doctores.md)
+- [[plant-teachers-ayahuasca|Plant Teachers Ayahuasca]]
+- [[amazonian-plant-teachers-doctores|Amazonian Plant Teachers Doctores]]
 ## Practical Applications
 
 Shamanic Healing Variants And Divination has a range of practical applications that make it relevant to

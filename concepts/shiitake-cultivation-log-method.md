@@ -1,23 +1,23 @@
 ---
-title: gourmet-medicinal-mushroom-shiitake-cultivation-logs - Log Method
+title: Shiitake Cultivation - Log Method
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [shiitake, mushroom-cultivation, log-cultivation, fungi, mycology, lentinula-edodes, wood-cultivation]
-sources: sources: []
+sources: [raw/papers/mycelium-running-stamets.md, raw/papers/the-mushroom-cultivator-stamets.md, raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
 
 # Shiitake Cultivation - Log Method
 
-Shiitake ([[staycare-lentinula-edodes-in-bioremediation]]) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom.
+Shiitake (Lentinula edodes) has been cultivated on hardwood logs for centuries in Asia. The log method remains one of the most reliable and low-maintenance approaches to growing this prized mushroom. (see [[shiitake-cultivation-guide]]).
 
 ## Selecting Logs
 
-Hardwood logs are essential. Oak (especially white oak) is the traditional and preferred species. Other suitable hardwoods include maple, alder, beech, birch, ironwood, and hickory. Avoid softwoods (pine, fir, spruce, cedar) and [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]. Logs should be:
+Hardwood logs are essential. Oak (especially white oak) is the traditional and preferred species. Other suitable hardwoods include maple, alder, beech, birch, ironwood, and hickory. Avoid softwoods (pine, fir, spruce, cedar) and fruit trees. Logs should be:
 
 - 3-8 inches in diameter
 - 3-4 feet long
-- Cut from healthy, living trees during dormancy (late fall through [[coleman-overwintered-onions-and-early-spring-crops]])
+- Cut from healthy, living trees during dormancy (late fall through early spring)
 - Inoculated within 2-6 weeks of cutting (before competing fungi colonize)
 
 ## Inoculation
@@ -37,10 +37,10 @@ Hardwood logs are essential. Oak (especially white oak) is the traditional and p
 
 After inoculation, logs enter an incubation period of 6-18 months:
 
-- **Stacking method**: Stack logs in a shaded, moist location. The "crib" or "log cabin" stacking method promotes good [[stamets-growing-room-air-circulation-co2-management]]
+- **Stacking method**: Stack logs in a shaded, moist location. The "crib" or "log cabin" stacking method promotes good air circulation
 - **Moisture management**: Logs should be kept at 35-45% moisture content. In dry periods, water or mist the logs periodically
 - **Location**: Shade is essential -- under trees, behind buildings, or under shade cloth. Full sun will dry and kill the mycelium
-- **Temperature**: 50-80 F is acceptable; 60-75 F is ideal for [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]
+- **Temperature**: 50-80 F is acceptable; 60-75 F is ideal for mycelial growth
 - **Ground contact**: Some growers rest logs on bare earth; others elevate on bricks or wire to prevent contamination from soil organisms
 
 ## Fruiting
@@ -54,7 +54,7 @@ Shiitake typically fruits naturally in spring and fall when temperature and mois
 
 ## Yield
 
-A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 pound of fresh shiitake per log per year. Total yield over the log's productive life can equal the log's original weight in fresh mushrooms.
+A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 pound of fresh shiitake per log per year. Total yield over the log's productive life can equal the log's original weight in fresh mushrooms. (see [[log-cultivation-of-mushrooms]]).
 
 ## Advantages of the Log Method
 
@@ -67,24 +67,6 @@ A typical log produces mushrooms for 2-6 years, yielding approximately 1/4 to 1 
 ## See Also
 
 - [[gourmet-mushroom-species-guide]]
-- [[cotter-oyster-mushroom-cultivation]]
+- [[oyster-mushroom-cultivation]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[mushroom-cultivation-bulk-substrates]]
-## Practical Considerations
-
-Successful implementation of Shiitake Cultivation - Log Method requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

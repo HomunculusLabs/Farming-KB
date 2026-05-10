@@ -5,7 +5,6 @@ tags: [cannabis, plant-support, trellis, training, flowering]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -108,18 +107,6 @@ against while the knuckle forms. Planning ahead prevents the need
 to work around heavy buds and fragile stems later in flowering.
 
 ## See Also
-
-Cervantes notes that CO2-enriched plants develop thicker, stronger
-stems and branches with more densely packed cells. Flower stems on
-enriched plants carry more weight without bending. This natural
-strengthening effect reduces but does not eliminate the need for
-physical support on heavy-yielding varieties. Enriched plants also
-grow faster and larger, which can increase the overall weight that
-support structures must bear.
-
-## See Also
-
-- [[screen-of-green]] - SCROG method using screen
-  supports
-- [[cervantes-flowering-phase]] - flowering support requirements
-- [[cervantes-co2-enrichment]] - CO2 effects on stem strength
+- [[screen-of-green]]
+- [[cervantes-flowering-phase]]
+- [[cervantes-co2-enrichment]]

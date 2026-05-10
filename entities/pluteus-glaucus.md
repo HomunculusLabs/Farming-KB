@@ -7,8 +7,7 @@ tags: [fungi, basidiomycota, agaricales, pluteaceae, pluteus,
   wood-inhabiting]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
   - "/Users/t3rpz/wiki/raw/papers/world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md"
 ---
 # Pluteus glaucus
@@ -139,6 +138,8 @@ genera than was historically appreciated:
 | Pluteus romellii | Yellow cap; found on conifer wood |
 | Pluteus umbrosus | Darker brown; larger stature |
 ## See Also
+
+- [[pluteus-salvinus]]
 - [[psilocybe-cubensis]]
 - [[psilocybe-cyanescens]]
 - [[panaeolus-subbalteatus]]

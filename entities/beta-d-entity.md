@@ -9,7 +9,7 @@ sources:
 ---
 # beta-D (3,4,5-Trimethoxy-beta,beta-dideuterophenethylamine)
 
-beta-D is a deuterium-labelled analogue of [[mescaline-entity]]
+beta-D is a deuterium-labelled analogue of [[mescaline]]
 
 [[tma-entity]]
 

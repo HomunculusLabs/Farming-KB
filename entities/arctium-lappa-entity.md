@@ -145,5 +145,5 @@ Burdock is an exceptional permaculture plant with multiple functions:
 - [[arctium-minus]]
 
 - [[taraxacum-officinale]]
-- [[food-forest-permaculture]]
+- [[food-forest]]
 - [[yarrow]]

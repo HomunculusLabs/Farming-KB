@@ -9,9 +9,9 @@ sources: []
 
 ## Why Dry Herbs
 
-Drying herbs preserves their flavor, aroma, and medicinal properties for use long after the [[savory-growing-season-and-non-growing-season-management]]. Properly dried and stored herbs retain 50-80% of their volatile oils (compared to fresh) and can last for 1-3 years. Drying concentrates flavors, making dried herbs roughly 3 times more potent by volume than fresh — the general conversion is 1 teaspoon dried herb equals 1 tablespoon fresh.
+Drying herbs preserves their flavor, aroma, and medicinal properties for use long after the growing season. Properly dried and stored herbs retain 50-80% of their volatile oils (compared to fresh) and can last for 1-3 years. Drying concentrates flavors, making dried herbs roughly 3 times more potent by volume than fresh — the general conversion is 1 teaspoon dried herb equals 1 tablespoon fresh. (see [[herb-growing-guide]]).
 
-Home-dried herbs are significantly cheaper and more flavorful than store-bought dried herbs, which may have been sitting on shelves for months or years before purchase.
+Home-dried herbs are significantly cheaper and more flavorful than store-bought dried herbs, which may have been sitting on shelves for months or years before purchase. (see [[echinacea-growing-guide]]).
 
 ## When to Harvest
 
@@ -33,7 +33,7 @@ The simplest and most traditional method. Works well for low-moisture herbs like
 1. Gather 5-10 stems into small bundles (large bundles mold in the center)
 2. Tie stems tightly with string or rubber bands (stems shrink as they dry)
 3. Hang bundles upside down in a warm, dry, dark, well-ventilated area
-4. Upside-down drying preserves the [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] in the leaves (they flow downward from the stem)
+4. Upside-down drying preserves the essential oils in the leaves (they flow downward from the stem)
 5. A paper bag with holes punched in it can be placed over bundles to protect from dust and light
 6. Herbs are dry when leaves crumble easily between your fingers (typically 1-3 weeks)
 
@@ -142,8 +142,9 @@ Not technically drying, but freezing preserves herbs well for culinary use.
 ## Labeling
 
 Every container should be labeled with:
-## See Also
+- Herb name (common and botanical if desired)
+- Date dried or packaged
+- Source (garden location, purchased, wild-harvested)
+- Any notes on variety or use
 
-- [[granola-making]] — using dried herbs in homemade granola
-- [[pickle-making]] — herbs as aromatics in pickling
-- [[jerky-making]] — dried herbs in jerky marinades
+A simple label system prevents the common problem of unidentifiable dried herbs in the back of the pantry.

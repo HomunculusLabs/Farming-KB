@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Adams, R.P. (2004). "Junipers of the World: The Genus Juniperus." Trafford Publishing.
-  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of [[psilocybin-north-america-pacific-northwest]]: Volume 1. Conifers." USDA Forest Service Agriculture Handbook 654.
+  - Burns, R.M. & Honkala, B.H. (1990). "Silvics of psilocybin-north-america-pacific-northwest: Volume 1. Conifers." USDA Forest Service Agriculture Handbook 654.
   - Van Pelt, R. (2001). "Conifers of the Pacific Northwest." Oregon State University Press.
   - Little, E.L. (1950). "Juniperus scopulorum, a New Name for the Rocky Mountain Red Cedar." Journal of Washington Academy of Sciences 40(7): 224-225.
 ---

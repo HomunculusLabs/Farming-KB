@@ -112,7 +112,9 @@ Temperature has a profound effect on how well vegetables can access soil nutrien
 
 Solomon's own experience in Tasmania and Oregon's Willamette Valley informs this distinction. He found that the same variety of cabbage that produced excellent heads in a hot-climate garden with moderate compost inputs failed to form heads at all in his cool-climate garden with identical inputs — until he added COF. The demand level classification is a starting framework; actual garden conditions may shift a crop's effective demand up or down by one tier.
 
-## Related Concepts
+## Related
+
+- [[vegetable-nutrient-demand-categories-solomon]] Concepts
 
 - [[building-soil-fertility-long-term]]
 - [[vegetable-seed-spacing-systems]]

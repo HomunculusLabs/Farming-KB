@@ -134,6 +134,8 @@ The species is less amenable to intensive plantation silviculture than
 
 ## See Also
 
+- [[callitriche-palustris]]
+
 - [[pinus-taeda]]
 - [[pinus-ponderosa]]
 - [[pinus-contorta]]

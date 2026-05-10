@@ -130,7 +130,6 @@ Species selection for cordwood affects both the appearance and longevity of the 
 ## Timber Frame Construction
 
 Timber framing is the ancient art of building structural frames from large timbers connected by wooden joinery rather than nails or metal connectors. The technique dominated European and American building for centuries before being largely displaced by balloon framing and dimensional lumber in the nineteenth century. Its revival has been driven by the aesthetic appeal of exposed timber, the longevity of properly joined frames, and its natural compatibility with natural wall systems as infill.
-
 ## See Also
 
 [[natural-building-overview]] | [[natural-building-materials-guide]] |

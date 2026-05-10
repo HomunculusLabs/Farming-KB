@@ -15,13 +15,13 @@ Selling homestead products online extends reach beyond local markets and creates
 
 ### What Sells Online (Shelf-Stable)
 - Dried herbs and tea blends (see [[homestead-herb-business]])
-- [[fermented-hot-sauce-guide]] and fermented products (see [[fermented-hot-sauce-guide]])
+- Hot sauce and fermented products (see [[fermented-hot-sauce-guide]])
 - Preserves: jam, jelly, canned goods (pH below 4.6 only)
 - Baked goods: shipped breads, cookies, granola
 - Tinctures and herbal remedies
 - Salves, balms, body care products
 - Beeswax candles and wraps
-- [[cotter-mushroom-products-and-value-added-applications]]: dried, powders, grow kits (see [[homestead-mushroom-business]])
+- Mushroom products: dried, powders, grow kits (see [[homestead-mushroom-business]])
 - Seeds and plant starts (seasonal)
 - Wool, yarn, fiber products
 - Soap (cold process, hot process)
@@ -59,7 +59,7 @@ Selling homestead products online extends reach beyond local markets and creates
 
 ### Local Delivery Platforms
 - Barn2Door, FoodHub, Harvie
-- Best for: local CSA and [[csa-farm-share-model]] management
+- Best for: local CSA and farm share management
 - Fees: varies, typically 2-5% transaction fee
 - Connects online ordering with local pickup/delivery
 

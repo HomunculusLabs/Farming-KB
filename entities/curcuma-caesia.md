@@ -13,7 +13,7 @@ sources:
   - Das, S. et al. (2022). "Curcuma caesia Roxb.: A review on phytochemistry, ethnobotany, and pharmacology." Journal of Ethnopharmacology, 285, 114836.
   - Singh, R. et al. (2020). "Pharmacological potential of black turmeric (Curcuma caesia)." Phytomedicine, 68, 153183.
   - Pandey, M.K. & Sharma, P.K. (2019). "Ethnomedicinal uses of Curcuma species in tribal communities of Northeast India." Indian Journal of Traditional Knowledge, 18(2), 354-362.
-  - Kumar, V. et al. (2018). "Curcuminoids and [[permaculture-designers-manual-essential-oil-plants]] composition of Curcuma caesia from Manipur." Industrial Crops and Products, 122, 295-301.
+  - Kumar, V. et al. (2018). "Curcuminoids and permaculture-designers-manual-essential-oil-plants composition of Curcuma caesia from Manipur." Industrial Crops and Products, 122, 295-301.
   - Sakurai, K. et al. (2021). "Anti-inflammatory activity of Curcuma caesia rhizome extract." Natural Product Communications, 16(7).
 ---
 

@@ -1,19 +1,19 @@
 ---
-title: accessible-mushroom-cultivation-for-disabilities - Cloning and Strain Isolation
+title: Mushroom Cultivation - Cloning and Strain Isolation
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [mushroom-cultivation, cloning, strain-isolation, tissue-culture, agar, fungi, mycology, spore-print, genetics]
-sources: sources: []
+sources: [raw/papers/the-mushroom-cultivator-stamets.md]
 ---
 
 # Mushroom Cultivation - Cloning and Strain Isolation
 
-Mushroom cultures can be started from spores (multispore) or from living tissue (cloning). Each method has advantages and disadvantages. Spores offer genetic diversity while cloning preserves the exact genetics of a selected specimen.
+Mushroom cultures can be started from spores (multispore) or from living tissue (cloning). Each method has advantages and disadvantages. Spores offer genetic diversity while cloning preserves the exact genetics of a selected specimen. (see [[mushroom-spore-syringe-preparation]]).
 
 ## Spore Prints
 
-To collect spores, sever the cap from the stem of a fresh, cleaned mushroom and place it gills-down on clean white paper or a glass microscope slide. If the specimen is partially dried, add a drop of water to the cap surface. Place a cup over the cap to lessen evaporation. After a few hours, spores fall according to the gills' radiating symmetry.
+To collect spores, sever the cap from the stem of a fresh, cleaned mushroom and place it gills-down on clean white paper or a glass microscope slide. If the specimen is partially dried, add a drop of water to the cap surface. Place a cup over the cap to lessen evaporation. After a few hours, spores fall according to the gills' radiating symmetry. (see [[mushroom-spore-printing-and-storage]]).
 
 For nearly contaminant-free spores, use a specimen with an intact partial veil. The veil seals the gills from the outside, creating a semi-sterile chamber. Carefully remove the veil tissue under aseptic conditions.
 
@@ -30,7 +30,7 @@ Tissue cultures must be taken within a day or two of picking, after which a heal
 1. Flame-sterilize a scalpel
 2. Tear (do not cut) the mushroom stem to expose clean internal tissue
 3. Remove a small piece of inner tissue from the cap or stem
-4. Transfer to [[growing-gourmet-agar-media-formulas-preparation]] under sterile conditions
+4. Transfer to agar media under sterile conditions
 5. Mycelium grows out from the tissue fragment in 3-7 days
 
 Tearing rather than cutting exposes sterile internal tissue without dragging surface contaminants through the specimen.
@@ -40,14 +40,14 @@ Tearing rather than cutting exposes sterile internal tissue without dragging sur
 From a multispore germination, individual strains can be isolated by:
 
 1. Making sector cuts from the leading edge of actively growing mycelium
-2. Transferring sectors to fresh [[query-how-to-make-agar-plates-for-mushroom-cultivation]]
+2. Transferring sectors to fresh agar plates
 3. Selecting for desired characteristics: rhizomorphic (strandy) vs. cottony growth, colonization speed, fruiting potential
 
-[[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]] is generally preferred for its fast growth. The addition of ground [[bigwood-beug-miniculture-rye-grain-flush-variation-method]] or grain extract to agar media promotes the growth of strandy mycelium.
+Rhizomorphic mycelium is generally preferred for its fast growth. The addition of ground rye grain or grain extract to agar media promotes the growth of strandy mycelium.
 
 ## Agar-to-Agar Transfers
 
-To transfer mycelium between agar plates: flame-sterilize scalpel, cut a wedge from the leading edge of [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]], transfer to fresh plate. This is used for strain isolation, expansion, and maintenance. Clamp connections -- microscopic bridges between adjoining cells visible at 100-400X -- indicate dikaryotic (mated) mycelium capable of fruiting.
+To transfer mycelium between agar plates: flame-sterilize scalpel, cut a wedge from the leading edge of mycelial growth, transfer to fresh plate. This is used for strain isolation, expansion, and maintenance. Clamp connections -- microscopic bridges between adjoining cells visible at 100-400X -- indicate dikaryotic (mated) mycelium capable of fruiting.
 
 ## The Mushroom Life Cycle
 
@@ -58,22 +58,3 @@ Understanding the life cycle aids cultivation: spore (1N, haploid) germinates to
 - [[mushroom-cultivation-sterile-technique]]
 - [[mushroom-cultivation-grain-spawn]]
 - [[psilocybin-mushroom-cultivation-basics]]
-
-## Practical Considerations
-
-Successful implementation of Mushroom Cultivation - Cloning and Strain Isolation requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

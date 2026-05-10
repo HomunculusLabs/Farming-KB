@@ -110,5 +110,5 @@ No established [[mushroom-cancer-clinical-trials-overview]] exist for 1B-LSD. Al
 - [[eth-lad-entity-tihkal]] — 6-allyl-nor-LSD, a related lysergamide derivative
 - [[lsd-pharmacology]] — detailed 5-HT₂A pharmacology of lysergamides
 - [[dimethyltryptamine]] — endogenous tryptamine psychedelic compound
-- [[mescaline-entity]] — phenethylamine psychedelic for [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
+- [[mescaline]] — phenethylamine psychedelic for [[dmt-vs-lsd-pharmacological-comparison-onset-duration-receptor]]
 - [[ketamine]] — dissociative anesthetic with psychedelic properties

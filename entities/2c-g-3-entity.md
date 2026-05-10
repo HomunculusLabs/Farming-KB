@@ -2,7 +2,7 @@
 title: 2C-G-3 (2,5-Dimethoxy-3,4-trimethylenephenethylamine)
 created: 2026-04-16
 updated: 2026-04-16
-type: entity
+type: [[methyl-k-entity-pihkal|entity]]
 tags: [chemistry, tihkal, 2c-family]
 sources: []
 ---
@@ -45,7 +45,7 @@ that evening was easy, and the next day was with good energy.
 
 A remarkably complex multi-step synthesis starting from 4-indanol:
 
-(1) Methylation with methyl iodide and KOH in MeOH to give 2,3-
+(1) Methylation with [[methyl-j-entity-pihkal|methyl]] iodide and KOH in MeOH to give 2,3-
 (trimethylene)anisole (crude, 56.5 g).
 
 (2) Vilsmeier formylation with N-methylformanilide and POCl3 to give

@@ -92,3 +92,7 @@ reach enclosed surfaces.
 The MSAP ([[microwave-sterilizable-access-port-nasa-space-biology]] for the engineered system using this capability
 - [[microwave-exposure-system-architecture-surface-sterilization]]
 - [[microwave-sterilization-system-hardware-architecture]]
+
+## See Also
+
+- [[elastomer-penetrating-microwave-sterilization-enclosed-systems]]

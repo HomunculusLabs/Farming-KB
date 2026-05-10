@@ -142,3 +142,8 @@ complex chemical arsenals over millions of years of competition, may
 be particularly promising sources of new medicines — including agents
 active against emerging infectious diseases, antibiotic-resistant
 bacteria, and potential bioterrorism threats.
+
+## See Also
+
+- [[mycelium-natures-internet-mycelial-mind]]
+- [[non-thermal-microwave-antimicrobial-mechanism-water-coupling-lethality]]

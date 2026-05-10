@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [soil-health, composting, organic-gardening, permaculture, mulching]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 type: query
 ---
 

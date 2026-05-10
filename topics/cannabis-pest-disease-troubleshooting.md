@@ -119,7 +119,6 @@ within a single generation cycle.
 
 Control relies heavily on biological agents. [[comparison-predatory-mites-vs-ladybugs-biocontrol]] are the
 cornerstone: Phytoseiulus persimilis is a specialist predator that reproduces
-faster than its prey; Amblyseius californicus tolerates a wider range of
 ## See Also
 
 - [[spider-mites-cannabis]]

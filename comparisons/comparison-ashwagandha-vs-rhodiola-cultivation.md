@@ -8,7 +8,7 @@ sources:
   - "Kumar, V., et al. (2015). Cultivation of Ashwagandha (herbal-medicine, 3(4), 32-38."
   - "Panossian, A., & Wikman, G. (2010). Evidence-based efficacy of Rhodiola rosea L. extract in fatigue and stress. Phytomedicine, 17(7), 481-493."
   - "Singh, N., et al. (2011). An overview on ashwagandha. African Journal of Traditional Medicine, 8(5S), 208-213."
-  - "Book: Crellin, J. & Philpott, J. (1990). [[herbal-medicine]]: A Canadian Herbalist's Guide. NC Press."
+  - "Book: Crellin, J. & Philpott, J. (1990). herbal-medicine: A Canadian Herbalist's Guide. NC Press."
   - "Book: Bown, D. (2001). Encyclopedia of Herbs and Their Uses. Dorling Kindersley."
 created: 2026-05-03
 type: comparison
@@ -115,6 +115,8 @@ Both plants are heliophilic but with different heat tolerances. **Ashwagandha** 
 | High-value niche market | Rhodiola | Supply-constrained, premium pricing |
 | [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
 ## See Also
+
+- [[comparison-maca-vs-rhodiola-cultivation]]
 - [[rhodiola-rosea]]
 - [[comparison-schisandra-vs-ashwagandha-vs-rhodiola-adaptogenic-cultivation]]
 - [[cervantes-nematodes-root-maggots-soil-pests]]

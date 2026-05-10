@@ -19,7 +19,7 @@ sources:
   - AllBud (2023). "Stardawg Strain Review." AllBud.com.
   - Smokecartel Staff (2023). "Stardawg: A Complete Guide." Smoke Cartel.
   - Mowgli H., Page J.E. (2021). "Cannabis Chemotaxonomy: Chemovars and Their Terpenoid Profile." Cannabis and Cannabinoid Research, 6(1), 56-66.
-  - ElSohly M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry, 79(7), 613-619.
+  - ElSohly M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last Two Decades." Biological Psychiatry, 79(7), 613-619.
 ---
 
 # Stardawg
@@ -123,8 +123,8 @@ No serious adverse interactions with pharmaceuticals have been documented, but t
 
 ## See Also
 
-- [[chemdawg-cannabis]] — Detailed entity page for the Chemdawg genetic line
-- [[og-kush]] — Another foundational strain with Chemdawg genetic contributions
+- [[chemdawg]] — Detailed entity page for the Chemdawg genetic line
+- [[og-kush-cannabis-entity]] — Another foundational strain with Chemdawg genetic contributions
 - [[myrcene]] — Dominant sedative terpene contributing to indica-dominant effects
 - [[gmo-garlic-cookies]] — Modern descendant with enhanced Chemdawg lineage traits
 - dosidos — Notable Stardawg-influenced hybrid with similar terpene profile

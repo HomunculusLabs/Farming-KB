@@ -112,6 +112,8 @@ potential, but at much higher cost and with greater computational demands.
 
 ## See Also
 
+- [[gadd-environmental-sensing-filamentous-fungi]]
+
 - [[fungal-habitats-and-niches]]
 - [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]]
 - [[fungal-conservation-challenges]]

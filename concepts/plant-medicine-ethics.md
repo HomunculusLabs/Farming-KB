@@ -11,21 +11,19 @@ sources: []
 
 ## Overview
 
-The growing global interest in psychedelic and entheogenic plant medicines — ayahuasca, [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]], peyote, iboga, [[gottlieb-psychoactive-cacti-san-pedro-and-peruvian-torch]], and others — raises profound ethical questions about cultural appropriation, ecological sustainability, indigenous rights, intellectual property, and the responsibilities of practitioners and participants. This page examines these issues and proposes frameworks for ethical engagement.
+The growing global interest in psychede [[gaian-psychotherapy-and-entheogenic-plants]] enic plant medicines — ayahuasca, psilocybin mushrooms, peyote, iboga, San Ped [[jadam-i-and-others-are-one]] hers — raises profound ethical questions about cultural [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]] appropriation, ecological sustainability, indigenous rights, intellectual proper [[psilocybin-and-the-logos]] the responsibilities [[ayahuasca-tourism-practitioners-and-safety-considerations]] and participants. This page examines these issues and proposes frameworks for ethical engagement.
 
 ## Cultural Appropriation vs. Cultural Appreciation
 
-### The Problem
+### The Problem [[psychedelic-plant-sources]] c plant medicines are sacred [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]] to indigenous communities who have used them for centuries or millennia:
 
-Many psychedelic plant medicines are sacred to indigenous communities who have used them for centuries or millennia:
-
-- Ayahuasca: Indigenous peoples of the Amazon basin (Shipibo, Ashaninka, Quechua, and many others)
-- Peyote: [[halpern-sacramental-peyote-and-native-american-church]] Church members, Huichol (Wixarika) people of Mexico
+- Ayahuasca: Indigenous [[yakuruna-water-spirits-of-the-amazon]] e Amazon basin (Shipibo, Ashaninka, Quechua, and many others)
+- Peyote: Native American Church members, Huichol (Wixarika) people of Mexico
 - Iboga: Bwiti spiritual tradition of Gabon and surrounding regions
 - Psilocybin mushrooms: Mazatec people of Oaxaca, Mexico; various Mesoamerican cultures
 - San Pedro (Echinopsis pachanoi): Andean indigenous traditions
 
-When Western practitioners adopt these traditions without acknowledgment, compensation, or understanding of cultural context, several harms occur:
+When Western practitioners adopt these traditions without acknowledgment, compensation, or understanding of cultural [[mckenna-paracelsus-doctor-opiatus-alchemical-opium]] context, several harms occur:
 
 - Erasure of indigenous contributions and intellectual traditions
 - Economic exploitation — practitioners profit from knowledge that originated with indigenous peoples
@@ -64,7 +62,7 @@ Lophophora williamsii (peyote) is experiencing severe population decline:
 
 ### Iboga
 
-- [[plants-of-the-gods-tabernanthe-iboga-chemistry]] is slow-growing and overharvested in Gabon
+- Tabernanthe iboga is slow-growing and overharvested in Gabon
 - Some estimates suggest wild populations could be depleted within decades at current rates
 - The Bwiti tradition depends on iboga access for coming-of-age ceremonies
 - Cultivation programs exist but are insufficient to meet global demand
@@ -138,12 +136,13 @@ Practical approaches to economic justice:
 
 The facilitator-participant relationship involves inherent power asymmetry:
 
-## See Also
+- Facilitators hold authority during altered states of consciousness
+- Participants are in vulnerable, suggestible states
+- This dynamic has been exploited in cases of sexual abuse, financial exploitation, and spiritual manipulation
 
-- [[entheogenic-ceremony-preparation]] — practical preparation including ethical considerations
-- plant medicine ethics — this page
-- [[psychedelic-research-timeline]] — historical context of indigenous knowledge and Western adoption
+Ethical facilitation requires:
 
-## See Also
-
-- [[entheogen-ayahuasca-admixture-plants]]
+- Clear boundaries and informed consent
+- Trauma-informed training
+- Accountability structures (oversight, peer review)
+- Transparency about facilitator's training, experience, and limitations

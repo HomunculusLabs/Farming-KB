@@ -136,7 +136,6 @@ widespread international presence. The UDV won a landmark U.S. Supreme
 Court case (Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal,
 2006) affirming its right to use ayahuasca under the Religious Freedom
 Restoration Act.
-
 ## See Also
 
 - [[ayahuasca-churches-syncretic-ceremonies]]

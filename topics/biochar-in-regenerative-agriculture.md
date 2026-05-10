@@ -120,7 +120,6 @@ of 20 to 35 percent. In these systems, biomass is heated in a sealed chamber
 by combustion gases from a primary burn chamber, ensuring that the biochar
 itself is never directly exposed to flame. This produces a cleaner, more
 consistent product with lower ash content and fewer residual volatile
-compounds.
 ## See Also
 
 - [[the-soil-food-web]]

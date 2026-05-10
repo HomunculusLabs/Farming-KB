@@ -5,7 +5,7 @@ updated: 2026-04-25
 type: concept
 tags: [education, schooling, children, philosophy, fukuoka, learning]
 sources:
-  sources: []
+  - "raw/papers/masanobu-fukuoka-the-road-back-to-nature.md"
 ---
 # Fukuoka on Education and Modern Schooling
 

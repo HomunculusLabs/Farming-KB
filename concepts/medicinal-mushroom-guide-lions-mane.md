@@ -1,5 +1,5 @@
 ---
-title: Lion's Mane (Hericium erinaceus) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: Lion's Mane (Hericium erinaceus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,9 +11,9 @@ sources: []
 
 ## Overview
 
-Lion's mane is a distinctive edible and medicinal mushroom recognized by its cascading white, tooth-like spines that resemble a lion's mane. Native to [[psilocybin-north-america-pacific-northwest]], Europe, and Asia, it grows primarily on dead or dying hardwood trees (oak, walnut, beech, maple). In the wild it is a saprotroph but can also be a weak parasite on living trees.
+Lion's mane is a distinctive edible and medicinal mushroom recognized by its cascading white, tooth-like spines that resemble a lion's mane. Native to North America, Europe, and Asia, it grows primarily on dead or dying hardwood trees (oak, walnut, beech, maple). In the wild it is a saprotroph but can also be a weak parasite on living trees. (see [[medicinal-mushroom-guide-oyster]]).
 
-Lion's mane has gained significant attention for its neuroprotective and neuroregenerative properties, making it one of the most popular nootropic mushrooms. Traditional use spans centuries in Chinese and Japanese medicine for digestive health and cognitive vitality.
+Lion's mane has gained significant attention for its neuroprotective and neuroregenerative properties, making it one of the most popular nootropic mushrooms. Traditional use spans centuries in Chinese and Japanese medicine for digestive health and cognitive vitality. (see [[medicinal-mushroom-guide-chaga]]).
 
 ## Key Compounds
 
@@ -32,7 +32,7 @@ The neuroregenerative action of lion's mane centers on NGF, a protein essential 
 4. Enhanced neuroplasticity supports learning, memory, and cognitive function.
 5. BDNF stimulation supports hippocampal neurogenesis.
 
-This mechanism is unique among [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]] and makes lion's mane the primary fungal nootropic.
+This mechanism is unique among medicinal mushrooms and makes lion's mane the primary fungal nootropic.
 
 ## Cognitive Benefits
 
@@ -54,7 +54,7 @@ Clinical trials have shown improvements in mild cognitive impairment (MCI):
 ### Anti-Inflammatory Neuroprotection
 - Reduces neuroinflammation by inhibiting microglial activation.
 - Suppresses pro-inflammatory cytokines (TNF-alpha, IL-1beta, IL-6) in the CNS.
-- Antioxidant effects protect neurons from [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]].
+- Antioxidant effects protect neurons from oxidative stress.
 
 ## Digestive Health
 
@@ -76,7 +76,7 @@ Fresh lion's mane has a texture and flavor often compared to crab or lobster mea
 Dried mushroom powder simmered for 30-60 minutes. Extracts water-soluble beta-glucans. Less effective for hericenone extraction compared to dual extraction.
 
 ### Dual Extraction Tincture
-Combines water extraction (polysaccharides) with [[pf-tek-alcohol-extraction-method]] (hericenones):
+Combines water extraction (polysaccharides) with alcohol extraction (hericenones):
 1. Simmer powder in water for 60 minutes.
 2. Macerate spent material in ethanol (40-50%) for 4-6 weeks.
 3. Combine extracts.
@@ -100,7 +100,7 @@ Lion's mane is one of the easier medicinal mushrooms to cultivate at home:
 - **Substrate:** Hardwood sawdust (oak, maple) supplemented with wheat bran (5-10%).
 - **Spawn to fruit:** 2-4 weeks colonization, then 1-3 weeks to fruit.
 - **Temperature:** 65-75°F (18-24°C) for colonization; 60-70°F (15-21°C) for fruiting.
-- **Humidity:** 85-95% for [[growing-gourmet-primordia-formation-pinning]]; 80-90% for fruit development.
+- **Humidity:** 85-95% for primordia formation; 80-90% for fruit development.
 - **Fresh air exchange:** Critical — poor air circulation causes deformed, dense fruiting bodies.
 
 Can also be grown on sterilized hardwood logs (oak) outdoors, fruiting in fall.
@@ -113,9 +113,7 @@ Can also be grown on sterilized hardwood logs (oak) outdoors, fruiting in fall.
 - Avoid in pregnancy and breastfeeding due to limited safety data.
 - Theoretically could interfere with immunosuppressant therapy.
 
-## Related
-
-- [[lions-mane]] Topics
+## Related Topics
 
 - [[nootropic-herbs-guide]] for complementary cognitive herbs
 - [[medicinal-mushroom-guide-reishi]] for a calming mushroom pairing

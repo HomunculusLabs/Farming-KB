@@ -4,14 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [fungi, mushrooms, cultivation, species, species-profiles, food, comparison, indoor, fruiting]
-sources:
-  sources:
-  - "raw/papers/the-mushroom-cultivator-stamets.md"
+sources: []
 ---
 
 # Oyster Mushroom Species Guide
 
-Oyster mushrooms (genus Pleurotus) are among the most widely [[fungi-cultivated-mushrooms-pathogens-competitors]] worldwide, valued for their fast growth, broad substrate tolerance, excellent culinary qualities, and ease of cultivation. The genus contains over 30 described species, but five are most commonly grown commercially and by home cultivators.
+Oyster mushrooms (genus Pleurotus) are among the most widely cultivated mushrooms worldwide, valued for their fast growth, broad substrate tolerance, excellent culinary qualities, and ease of cultivation. The genus contains over 30 described species, but five are most commonly grown commercially and by home cultivators.
 
 ## Genus Overview
 
@@ -31,7 +29,7 @@ Pleurotus species are white-rot fungi that decompose both cellulose and lignin, 
 | Spawn Run | 14-21 days | 10-18 days | 14-21 days | 10-16 days | 21-30 days |
 | Colonization Speed | Moderate | Fast | Moderate | Fast | Slow |
 | Substrate Range | Very broad | Very broad | Broad | Broad | Narrower (prefers straw) |
-| [[stamets-biological-efficiency-yield]] | 100-200% | 100-150% | 75-150% | 50-100% | 60-100% |
+| Biological Efficiency | 100-200% | 100-150% | 75-150% | 50-100% | 60-100% |
 | Shelf Life | 5-7 days | 5-7 days | 3-5 days | 2-3 days | 7-10 days |
 | Cold Tolerance | Good | Poor | Poor | None | Excellent |
 | Heat Tolerance | Moderate | Good | Good | Very good | Poor |
@@ -75,7 +73,7 @@ More challenging to cultivate than other Pleurotus species:
 - Requires cooler temperatures
 - Slower colonization (3-4 weeks)
 - More sensitive to contamination
-- Requires careful [[stamets-cultivator-humidity-management-fogging-systems]]
+- Requires careful humidity management
 - Benefits from higher supplementation (25-30% bran)
 
 King Oyster benefits from a "cut and flip" technique where the bag is opened and the block is flipped upside down to produce a single large, stem-dominant mushroom.
@@ -104,13 +102,13 @@ All Pleurotus species share similar substrate preparation:
 - Dried-out fruiting bodies: increase humidity
 - Long stems, small caps: increase fresh air exchange (lower CO2)
 - Bacterial blotch: reduce humidity, improve air circulation
-- Mite infestations: maintain clean [[cannabis-growing-environment-setup]]
+- Mite infestations: maintain clean growing environment
 
 ## Related Topics
 
-- [[shiitake-cultivation-guide]] for sawdust block [[synthetic-log-cultivation-methods-guide]]
+- [[shiitake-cultivation-guide]] for sawdust block cultivation methods
 - [[enoki-cultivation-guide]] for another commercially important cultivated species
-- [[paddy-straw-mushroom]] for tropical [[accessible-mushroom-cultivation-for-disabilities]] comparison
+- [[paddy-straw-mushroom]] for tropical mushroom cultivation comparison
 
 ## Related
 

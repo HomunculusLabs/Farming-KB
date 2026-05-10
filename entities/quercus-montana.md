@@ -137,7 +137,6 @@ Prescribed fire programs on public lands aim to restore fire-adapted oak ecosyst
 The species is relatively resistant to oak wilt (*Ceratocystis fagacearum*), though it can serve as a symptomless carrier.
 
 Gypsy moth (*Lymantria dispar dispar*) defoliation can cause growth loss and occasional mortality, especially during outbreaks.
-
 ## See Also
 
 - [[quercus-rubra]]

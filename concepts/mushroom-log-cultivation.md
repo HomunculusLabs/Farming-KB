@@ -16,14 +16,14 @@ tags:
 - species
 
 sources:
-sources: []
+- raw/papers/the-mushroom-cultivator-stamets.md
 - raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md
 - raw/papers/unknown-a-practical-guide-to-synthetic-log-cultiva.md
 ---
 
 # Mushroom Log Cultivation
 
-[[falconer-growing-mushrooms-in-sheds]] on freshly cut hardwood logs -- a low-tech, sustainable method that mimics natural [[fungal-wood-decomposition-spatial-variation]]. Yields gourmet and [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] over multiple years with minimal infrastructure.
+Growing mushrooms on freshly cut hardwood logs -- a low-tech, sustainable method that mimics natural wood decomposition. Yields gourmet and medicinal mushrooms over multiple years with minimal infrastructure.
 
 ## Log Selection
 
@@ -44,7 +44,7 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 ## Inoculation Process
 
 1. **Drill** holes in a diamond pattern (2 inches apart, 1 inch deep), using 5/16" bit for plug spawn or larger for sawdust
-2. **Fill** each hole with spawn (plug spawn hammered in, or [[growing-gourmet-sawdust-spawn-production-use]] packed with inoculation tool)
+2. **Fill** each hole with spawn (plug spawn hammered in, or sawdust spawn packed with inoculation tool)
 3. **Wax** each hole immediately with food-grade cheese wax or beeswax to seal moisture and exclude contaminants
 4. Also wax the cut ends of the log
 
@@ -68,7 +68,7 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 
 ## Fruiting Triggers
 
-- **Soaking (force fruiting):** Submerge colonized logs in cold water for 12-24 hours, then rest in shade. Japanese growers call this "[[growing-gourmet-soak-and-strike-forcing]]." Triggers fruiting by simulating rainfall + temperature drop
+- **Soaking (force fruiting):** Submerge colonized logs in cold water for 12-24 hours, then rest in shade. Japanese growers call this "soak and strike." Triggers fruiting by simulating rainfall + temperature drop
 - **Natural fruiting:** Occurs in response to seasonal rain, temperature shifts (especially fall), and humidity changes
 - Maitake forms primordia in enclosed bags, requiring bag opening for fruiting body development
 
@@ -91,7 +91,7 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 
 ## Synthetic Log Cultivation (Indoor)
 
-[[oyster-mushroom-supplemented-sawdust-blocks]] blocks in filter bags provide faster turnaround than natural logs:
+Supplemented sawdust blocks in filter bags provide faster turnaround than natural logs:
 - 75-80% hardwood sawdust (fine + coarse 3:1), 18-23% wheat bran, 1% sucrose, 1% lime/gypsum
 - Moisture content 60-63%, pH 5.5-6.5
 - Sterilized, inoculated, incubated at 20-25C, fruited at lower temperatures

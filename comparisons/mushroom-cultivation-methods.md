@@ -1,6 +1,6 @@
 ---
 
-title: accessible-mushroom-cultivation-for-disabilities Methods Comparison
+title: Mushroom Cultivation Methods Comparison
 created: 2026-04-11
 updated: 2026-04-13
 type: comparison
@@ -31,13 +31,13 @@ sources:
 
 Mushroom cultivation methods range from simple outdoor beds requiring no equipment to sterile indoor techniques demanding precision and investment. The right method depends on your species of interest, budget, available space, and skill level. This comparison covers eight major approaches synthesized from [[pf-tek-guide]], [[monotub-cultivation]], [[outdoor-mushroom-bed]], [[outdoor-wood-lover-cultivation]], [[mushroom-substrates]], [[mushroom-log-cultivation]], and [[straw-cultivation-methods]].
 
-The fundamental tradeoff is control vs. simplicity. Indoor methods (PF TEK, monotub, sawdust blocks) offer [[eclss-environmental-control-life-support]] and faster results but require [[cultivator-sterile-technique-and-agar-culture]] and equipment investment. Outdoor methods (beds, logs) leverage natural weather cycles and require minimal equipment but are slower and yield inconsistently. The best approach for most homestead growers is to start with an easy outdoor method while building skills for indoor cultivation.
+The fundamental tradeoff is control vs. simplicity. Indoor methods (PF TEK, monotub, sawdust blocks) offer environmental control and faster results but require sterile technique and equipment investment. Outdoor methods (beds, logs) leverage natural weather cycles and require minimal equipment but are slower and yield inconsistently. The best approach for most homestead growers is to start with an easy outdoor method while building skills for indoor cultivation.
 
 ## Method Comparison Table
 
-| Method | Skill Level | Cost | Time to First Fruit | Yield ([[stamets-biological-efficiency-yield]]) | Contamination Risk | Indoor/Outdoor | Best Species | Space Needed |
+| Method | Skill Level | Cost | Time to First Fruit | Yield (Biological Efficiency) | Contamination Risk | Indoor/Outdoor | Best Species | Space Needed |
 |--------|-------------|------|--------------------|------------------------------|-------------------|----------------|-------------|-------------|
-| **PF TEK (BRF cakes)** | Beginner | $30-50 | 4-6 weeks | 50-75% (low per cake; multiple cakes needed) | Low (verm barrier) | Indoor | [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] | Small (kitchen, closet) |
+| **PF TEK (BRF cakes)** | Beginner | $30-50 | 4-6 weeks | 50-75% (low per cake; multiple cakes needed) | Low (verm barrier) | Indoor | Psilocybe cubensis | Small (kitchen, closet) |
 | **Monotub (bulk CVG)** | Beginner-Intermediate | $40-100 | 5-8 weeks | 100-200% (1-2 oz dry per quart spawn) | Low-Moderate (bucket tek pasteurization) | Indoor | P. cubensis, oyster | Medium (closet, tent) |
 | **Outdoor wood chip bed** | Beginner | $20-60 | 3-12 months (depends on species) | Variable; multi-year production | Very low (outdoor resilience) | Outdoor | Wine cap, P. cyanescens, P. azurescens | Large (garden bed, 10-50+ sq ft) |
 | **Log cultivation (bolt inoculation)** | Beginner | $20-80 | 6-18 months first fruit; then 3-5 years | Low first year; high in subsequent years | Very low (wax seal) | Outdoor | Shiitake, oyster, reishi, lion's mane | Outdoor (shaded area, logs stacked) |
@@ -90,7 +90,7 @@ For homestead integration, outdoor wine cap and king stropharia beds are the bes
 - [[monotub-cultivation]] — Monotub setup and management
 - [[outdoor-mushroom-bed]] — Outdoor bed construction and species selection
 - [[outdoor-wood-lover-cultivation]] — Woodlover bed specifics
-- [[mushroom-substrate-comparison]] — [[growing-gourmet-substrate-materials-wood-types]] compared
+- [[mushroom-substrate-comparison]] — Substrate materials compared
 
 ## Related
 

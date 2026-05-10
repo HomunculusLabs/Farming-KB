@@ -1,5 +1,5 @@
 ---
-title: Permaculture mollison-spiral-patterns-in-nature-and-design
+title: Permaculture Patterns in Nature
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -15,17 +15,17 @@ sources:
 
 # Permaculture Patterns in Nature
 
-Chapter 4 of the Designers' Manual is devoted to [[bill-mollison-permaculture-a-designers-manual-pattern-understanding-in-permaculture]] -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches.
+Chapter 4 of the Designers' Manual is devoted to pattern understanding -- the recognition that natural systems express themselves through recurring patterns that can be applied to design. Pattern application is what distinguishes permaculture from other design approaches. (see [[mollison-designers-composting-toilets-and-humanure]]).
 
 ## The Role of Pattern in Design
 
-[[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]] works from pattern to detail. Understanding the patterns that govern natural events allows the designer to place elements in relationships that mirror natural efficiency. The tree of life, referenced in the book's cover story, expresses the general pattern of life forms: roots in earth, crown in rain, sunlight, and wind.
+Permaculture design works from pattern to detail. Understanding the patterns that govern natural events allows the designer to place elements in relationships that mirror natural efficiency. The tree of life, referenced in the book's cover story, expresses the general pattern of life forms: roots in earth, crown in rain, sunlight, and wind. (see [[mollison-designers-water-purification-and-storage-principles]]).
 
 ## Key Pattern Types
 
 ### Branching
 
-Branching patterns appear throughout nature: in trees, rivers, blood vessels, lightning, root systems, and neural networks. Branching is an efficient distribution system -- it minimises the distance any element must travel while maximising surface area for exchange. In permaculture design, branching patterns inform road layout, water distribution, pathway systems, and the placement of elements in [[mollison-course-zone-planning-and-design]].
+Branching patterns appear throughout nature: in trees, rivers, blood vessels, lightning, root systems, and neural networks. Branching is an efficient distribution system -- it minimises the distance any element must travel while maximising surface area for exchange. In permaculture design, branching patterns inform road layout, water distribution, pathway systems, and the placement of elements in zone planning.
 
 The Manual discusses orders of magnitude in branches and how branching affects the efficiency of conduits for flow (water, nutrients, energy).
 
@@ -47,7 +47,7 @@ Toroidal flow patterns appear in weather systems, ocean currents, and thermal co
 
 ### Boundaries and Edges
 
-Edges are where two media meet (land/water, forest/field, warm/cold). Boundaries have their own harmonics and geometries. The [[bill-mollison-permaculture-a-designers-manual-edge-effect-and-ecotone-design]] -- where diversity and productivity are highest at the interface between two systems -- is a core permaculture principle. Compatible and incompatible borders and components must be understood for effective design.
+Edges are where two media meet (land/water, forest/field, warm/cold). Boundaries have their own harmonics and geometries. The edge effect -- where diversity and productivity are highest at the interface between two systems -- is a core permaculture principle. Compatible and incompatible borders and components must be understood for effective design.
 
 ## Flow Over Landscape
 
@@ -75,6 +75,6 @@ The Manual provides a pattern application checklist for designers, covering boun
 
 ## Related Concepts
 
-- [[permaculture-design]] -- Pattern understanding as input to [[hemenway-garden-design-process-observation-and-visioning]]
-- [[zone-sector-analysis-guide]] -- Pattern of zones and sectors as master layout
+- [[permaculture-design]] -- Pattern understanding as input to design process
+- [[permaculture-zone-and-sector-analysis]] -- Pattern of zones and sectors as master layout
 - [[permaculture-introduction-and-ethics]] -- Ethical foundation for design decisions

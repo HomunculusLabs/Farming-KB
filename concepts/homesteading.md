@@ -22,12 +22,12 @@ sources:
 
 # Homesteading
 
-Homesteading is the practice of self-sufficient living on a small plot of land, producing food, energy, and other necessities while reducing dependence on external systems. Modern homesteading integrates [[permaculture-design]], [[gardening-in-hard-times]], animal husbandry, food preservation, and [[mollison-designers-appropriate-technology-small-scale-tools]].
+Homesteading is the practice of self-sufficient living on a small plot of land, producing food, energy, and other necessities while reducing dependence on external systems. Modern homesteading integrates [[permaculture-design]], [[gardening-in-hard-times]], animal husbandry, food preservation, and appropriate technology.
 
 ## Core Elements
 
 ### Food Production
-- **[[home-vegetable-garden-planning]]** — intensive and extensive approaches; see [[nutrient-dense-gardening]] and [[no-till-gardening-method]]
+- **Vegetable gardening** — intensive and extensive approaches; see [[nutrient-dense-gardening]] and [[no-till-gardening-method]]
 - **Food forests** — perennial food systems; see [[food-forest-design]]
 - **Animal husbandry** — poultry, goats, rabbits for eggs, meat, dairy, manure; see [[duck-keeping]], [[goat-keeping]]
 - **Seed saving** — maintain genetic diversity and self-reliance; see [[seed-saving-techniques]]
@@ -41,7 +41,7 @@ Homesteading is the practice of self-sufficient living on a small plot of land, 
 - See [[food-preservation-canning]] for comprehensive methods
 
 ### Water Systems
-- [[comparison-xeriscaping-guide-vs-rainwater-harvesting-systems]]
+- Rainwater harvesting
 - Well water management
 - Greywater systems
 - See [[homestead-water-systems]] and [[water-management]]
@@ -58,7 +58,7 @@ Homesteading is the practice of self-sufficient living on a small plot of land, 
 Adapted from [[permaculture-zones-in-practice]]:
 
 - **Zone 0** — House (kitchen, living spaces)
-- **Zone 1** — [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]], herbs, daily-care animals (chickens)
+- **Zone 1** — Intensive garden, herbs, daily-care animals (chickens)
 - **Zone 2** — Orchard, goats, pond, intensively managed pasture
 - **Zone 3** — Pasture, hay fields, main crops
 - **Zone 4** — Managed forest, foraging, woodlot
@@ -69,8 +69,8 @@ Per [[nicole-faires]]' approach:
 
 1. **Water first** — secure water source before anything else
 2. **Access** — design paths and roads before placing structures
-3. **Shelter** — house, [[permaculture-designers-manual-animal-housing-detailed]], storage
-4. **Food garden** — [[mollison-designers-market-garden-intensive-production-design]] closest to kitchen
+3. **Shelter** — house, animal housing, storage
+4. **Food garden** — intensive production closest to kitchen
 5. **Perennials** — orchard, berries, food forest
 6. **Animals** — after fencing and shelter are ready
 7. **Income systems** — value-added products, surplus sales

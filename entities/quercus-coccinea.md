@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Sander, I.L. (1990). "Quercus coccinea Muenchh." in Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
-  - Farrar, J.L. (1995). Trees of the Northern [[dmt-containing-plants-united-states-halpern]] and Canada. Iowa State University Press.
+  - Farrar, J.L. (1995). Trees of the Northern dmt-containing-plants-united-states-halpern and Canada. Iowa State University Press.
   - Burns, R.M., Honkala, B.H. (1990). Silvics of North America, Vol. 2. USDA Agriculture Handbook 654.
   - Abrams, M.D. (1992). "Fire and the development of oak forests." BioScience, 42(5), 346-353.
   - Johnson, P.S., Shifley, S.R., Rogers, R. (2009). The Ecology and Silviculture of Oaks. CABI Publishing.

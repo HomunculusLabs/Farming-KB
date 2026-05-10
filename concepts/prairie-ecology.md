@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Prairies are grassland ecosystems dominated by native grasses and forbs (non-woody flowering plants) with scattered trees absent or limited by fire and drought. Once covering vast portions of [[psilocybin-north-america-pacific-northwest]], tallgrass, mixed-grass, and shortgrass prairies are among the most endangered ecosystems on Earth. Understanding prairie ecology is essential for [[pollinator-conservation|conservation]], [[pasture-management|pasture]] management, and integrating native plantings into homestead design.
+Prairies are grassland ecosystems dominated by native grasses and forbs (non-woody flowering plants) with scattered trees absent or limited by fire and drought. Once covering vast portions of North America, tallgrass, mixed-grass, and shortgrass prairies are among the most endangered ecosystems on Earth. Understanding prairie ecology is essential for [[pollinator-conservation|conservation]], [[pasture-management|pasture]] management, and integrating native plantings into homestead design.
 
 ## Prairie Types
 
@@ -59,7 +59,7 @@ Prairie plants have evolved remarkable fire adaptations:
 - **Rapid post-fire recovery**: Grasses can resprout within days; full canopy recovery in 4-6 weeks
 
 ### Prescribed Fire Management
-For [[comparison-prairie-restoration-vs-silvopasture]] and management, prescribed fire mimics natural fire regimes:
+For prairie restoration and management, prescribed fire mimics natural fire regimes:
 
 - **Timing**: Dormant season (early spring or late fall) is most common; growing-season fires have different ecological effects
 - **Frequency**: Every 1-5 years depending on goals and prairie type
@@ -80,9 +80,9 @@ Deep prairie root systems serve critical ecological functions:
 
 - **Drought resilience**: Deep roots access water unavailable to shallow-rooted species
 - **Soil building**: Root exudates feed soil microbes; dead roots add organic matter at depth
-- **[[mycorrhizal-fungi-soil-carbon-sequestration-by-type]]**: Prairie soils can store 1-3 tons of carbon per acre per year in root biomass and associated soil organic matter
+- **Carbon sequestration**: Prairie soils can store 1-3 tons of carbon per acre per year in root biomass and associated soil organic matter
 - **Soil structure**: Root channels create macropores for water infiltration
-- **[[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]**: Deep roots bring minerals from subsoil to the surface through leaf litter
+- **Nutrient cycling**: Deep roots bring minerals from subsoil to the surface through leaf litter
 
 ### The Soil Carbon Connection
 Native prairie soils (Mollisols) are among the most fertile and carbon-rich soils on Earth. The tallgrass prairie region of the US Midwest contains some of the deepest, most carbon-rich soils globally, a direct product of thousands of years of deep-rooted grass production and fire-maintained nutrient cycling.
@@ -94,7 +94,7 @@ Active during summer months; use the C4 photosynthetic pathway for high water-us
 
 | Species | Height | Root Depth | Uses |
 |---------|--------|------------|------|
-| Big bluestem | 5-8 ft | 7-10 ft | Forage, biofuel, [[permplant-willows-salix-erosion-control-fodder]] |
+| Big bluestem | 5-8 ft | 7-10 ft | Forage, biofuel, erosion control |
 | Indiangrass | 5-7 ft | 6-8 ft | Forage, ornamental, wildlife cover |
 | Switchgrass | 3-6 ft | 10+ ft | Biofuel, forage, erosion control |
 | Little bluestem | 2-4 ft | 5-7 ft | Forage, ornamental, restoration |
@@ -116,7 +116,7 @@ Nitrogen-fixing forbs enrich prairie soil:
 
 - Purple prairie clover (Dalea purpurea): Deep taproot, high protein forage
 - White prairie clover (Dalea candida): Pollinator favorite
-- Round-headed bush clover (Lespedeza capitata): Wildlife food, [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]]
+- Round-headed bush clover (Lespedeza capitata): Wildlife food, nitrogen fixation
 - Showy tick trefoil (Desmodium canadense): Butterfly host plant
 
 ### Pollinator Forbs
@@ -143,7 +143,8 @@ Important for migrating butterflies and seed-eating birds:
 
 ### Grassland Birds
 Prairie birds are among the most rapidly declining bird groups in North America:
-## See Also
-- [[pasture-management]]
-- [[pollinator-conservation]]
-- [[comparison-prairie-restoration-vs-silvopasture]]
+
+- Greater prairie chicken (threatened): Requires large, unfragmented blocks of grassland
+- Bobolink: Nests in tall grass; neotropical migrant
+- Eastern meadowlark: Territory requires 6+ acres of grassland
+- Grasshopper sparrow: Specialist of dry, open prairie

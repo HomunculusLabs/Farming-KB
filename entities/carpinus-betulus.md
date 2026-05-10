@@ -109,6 +109,11 @@ In modern urban forestry, the species is increasingly valued for climate resilie
 
 ## See Also
 
+- [[pinus-brutia]]
+- [[pinus-coulteri]]
+- [[pinus-densiflora]]
+- [[pinus-jeffreyi]]
+
 - [[fagus-sylvatica]]
 - [[quercus-robur]]
 - [[betula-pendula]]

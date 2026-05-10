@@ -4,9 +4,7 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, economics, sustainability, reference, workflow]
-sources:
-  sources:
-  - "raw/papers/bill-mollison-permaculture-design-course.md"
+sources: []
 ---
 
 # Homestead Financial Planning
@@ -18,7 +16,7 @@ Financial planning is the least glamorous but most critical aspect of homesteadi
 Startup costs vary enormously based on land price, location, and ambitions. Here is a realistic range for a 5-20 acre homestead:
 
 ### Land Purchase
-- [[mollison-country-permaculture-rural-land-design]]: $2,000-$15,000 per acre (varies dramatically by region and quality)
+- Rural land: $2,000-$15,000 per acre (varies dramatically by region and quality)
 - Total land cost for 5-20 acres: $10,000-$300,000
 - Closing costs, survey, and legal fees: 2-5% of purchase price
 
@@ -35,12 +33,12 @@ Startup costs vary enormously based on land price, location, and ambitions. Here
 ### Equipment and Supplies
 - Tractor (used, compact): $5,000-$25,000
 - Tools and workshop setup: $2,000-$10,000
-- Kitchen equipment ([[pf-tek-pressure-canner-sterilization]], dehydrator, grain mill): $500-$2,000
+- Kitchen equipment (pressure canner, dehydrator, grain mill): $500-$2,000
 - Irrigation system: $500-$5,000
 - First animals and housing: $500-$5,000
 
 ### Typical Total Startup Range
-- **Minimalist approach** (small parcel, existing structure, [[garden-hand-tools-solomon]]): $30,000-$80,000
+- **Minimalist approach** (small parcel, existing structure, hand tools): $30,000-$80,000
 - **Moderate approach** (5-10 acres, some infrastructure, basic equipment): $80,000-$250,000
 - **Full development** (10-20+ acres, new buildings, full equipment): $250,000-$600,000+
 
@@ -91,17 +89,17 @@ Most homesteads do not generate significant profit in the first 3-5 years. Plan 
 If you operate your homestead as a business (even a small one), you may deduct ordinary and necessary business expenses. Consult a tax professional, but common deductions include:
 
 - **Schedule F (Farm Income)** — if you report farm income, you can deduct farm expenses: feed, seed, fertilizer, veterinary care, equipment, fuel, repairs, insurance, depreciation
-- **Home office deduction** — if you have a dedicated space for [[mollison-designers-intensifying-small-farm-production]] administration
+- **Home office deduction** — if you have a dedicated space for farm business administration
 - **Vehicle expenses** — mileage or actual expenses for farm-related travel
 - **Depreciation** — equipment, buildings, fencing, and improvements depreciated over their useful life (3-20 years depending on asset)
 - **Soil and water conservation expenses** — up to 25% of gross farm income
-- **Agricultural tax exemptions** — many states exempt [[coleman-small-farm-equipment-and-tools]], feed, seed, and fertilizer from sales tax
+- **Agricultural tax exemptions** — many states exempt farm equipment, feed, seed, and fertilizer from sales tax
 
 **Important:** The IRS requires you to show profit intent. If you report a loss for 3 out of 5 consecutive years, the IRS may reclassify your farm as a hobby, eliminating deductions. Keep good records — see [[homestead-record-keeping]].
 
 ## Grants and Programs
 
-- **NRCS EQIP (Environmental Quality Incentives Program)** — cost-share for conservation practices (fencing, water systems, [[gaias-garden-cover-crops-soil-building]], pasture improvement). Pays 50-75% of costs.
+- **NRCS EQIP (Environmental Quality Incentives Program)** — cost-share for conservation practices (fencing, water systems, cover crops, pasture improvement). Pays 50-75% of costs.
 - **USDA FSA loans** — beginning farmer loans, farm ownership loans, operating loans at below-market rates.
 - **State agricultural development programs** — many states offer grants for young farmers, specialty crops, and value-added products.
 - **SARE grants** — research and education grants for sustainable agriculture projects.

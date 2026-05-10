@@ -16,7 +16,7 @@ sources:
   - Buckholtz, N.S. & Boggan, W.O. (1977). "Monoamine Oxidase Inhibition." Psychopharmacology 53(3): 253-259.
   - Samoylenko, V., et al. (2010). "Harmine and Harmaline." Current Drug Discovery Technologies 7(1): 45-51.
   - Shulgin, A. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
-  - Pegington, C. (2021). "Pharmacology of the [[turner-harmala-alkaloids-preparation-and-dosage]]." Journal of Psychopharmacology.
+  - Pegington, C. (2021). "Pharmacology of the turner-harmala-alkaloids-preparation-and-dosage." Journal of Psychopharmacology.
 ---
 
 ## Overview
@@ -139,10 +139,6 @@ restricted in some jurisdictions. France and Russia have specific restrictions
 on *Peganum harmala* preparations.
 
 ## See Also
-
-- [[harmaline]] — Major β-carboline co-occurring with harmalol in Syrian rue
-- [[dmt]] — Psychedelic tryptamine protected from degradation by harmala alkaloids
-
-## See Also
-
+- [[harmaline]]
+- [[dmt]]
 - [[psilocybin-chemistry-and-pharmacology]]

@@ -4,8 +4,7 @@ created: 2026-04-23
 updated: 2026-04-23
 type: concept
 tags: [soil-biology, bacteria, decomposition]
-sources:
-  sources: []
+sources: []
 ---
 
 # Bacteria — The Smallest Workers

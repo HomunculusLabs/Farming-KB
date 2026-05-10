@@ -14,7 +14,9 @@ sources:
 type: concept
 ---
 
-# Soil Ch are the only
+# Soil Chytridiomycetes - Diversity and Distribution
+
+Chytridiomycetes are the only
 true fungi that produce motile flagellated cells (zoospores)
 at some stage in their [[bloomfield-fungal-life-cycle-spiral-versus-circle]]. This characteristic
 distinguishes them from all other fungal phyla and reflects
@@ -72,6 +74,39 @@ obtaining complete pictures of soil [[arbuscular-mycorrhizal-fungal-diversity-pa
 ## Conservation and Research Needs
 
 [[chytridiomycota-phylogeny-diversity]]
-- fungal-enzyme-systems-and-nutrient-cycling
+- [[fungal-enzyme-systems-and-nutrient-cycling]]
 - [[fungal-parasites-predators-rotifers-invertebrates]]
 - [[biodiversity-of-fungi-saprobic-soil-fungi]]
+
+For further reading, see [[fungal-biodiversity-herbarium-collections]].
+
+## Taxonomic Groups
+
+Soil chytrids encompass diverse taxonomic groups with distinct ecological preferences:
+
+### Spizellomycetales
+Commonly isolated from agricultural soils and disturbed habitats. Members of this order often specialize in decomposing pollen and other simple organic substrates. They are frequently the first colonizers of fresh organic matter in soil.
+
+### Chytridiales
+Widely distributed across diverse soil types, including forest, grassland, and aquatic-terrestrial interface zones. Many species parasitize algae and aquatic plants, playing roles in regulating primary productivity in wetland soils.
+
+### Rhizophydiales
+Often associated with plant roots and rhizosphere environments. Some species form endophytic associations with plants, potentially influencing plant health and nutrient acquisition. Others function as saprotrophs on decaying plant material.
+
+## Environmental Factors
+
+### Moisture Requirements
+Chytrids require aquatic films for zoospore motility and reproduction. Soil moisture availability is the primary limiting factor for their distribution and activity. Seasonal drying typically reduces chytrid activity, though resting spores can survive desiccation.
+
+### pH Tolerance
+Different chytrid species exhibit varying pH optima, ranging from acidic forest soils (pH 4-5) to neutral agricultural soils (pH 6-7). Soil pH influences both species composition and metabolic activity.
+
+### Temperature
+Most soil chytrids are mesophilic, with optimal activity between 15-25°C. Some psychrotolerant species remain active in cold soils, while others are adapted to warm temperate conditions.
+
+### Substrate Availability
+Chytrid community composition shifts based on available organic substrates. Pollen, chitin (from insect exoskeletons), keratin, and cellulose are common targets. The presence of specific substrates can selectively enrich for chytrid species with corresponding enzymatic capabilities.
+
+## Methodological Considerations
+
+Traditional cultivation-based methods underestimate chytrid diversity because many species are unculturable under standard laboratory conditions. Molecular techniques (DNA barcoding, metabarcoding) have revealed substantially higher chytrid diversity than previously recognized. Sampling depth, soil handling, and extraction methods significantly impact detected species richness.

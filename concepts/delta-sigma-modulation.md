@@ -3,7 +3,7 @@ title: Delta Sigma Modulation
 created: 2026-04-28
 updated: 2026-05-06
 sources:
-  - "raw/papers/permaculture-a-designers-manual-bill-mollison.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
 type: concept
 tags: [reference]
 ---
@@ -11,7 +11,7 @@ tags: [reference]
 # Delta-Sigma Modulation
 
 ## Overview
-Delta-sigma modulation is a signal-conversion technique that trades amplitude precision for time precision.
+Delta-sigma modulation [[cancer-immune-modulation-mechanisms]] is a signal-conversion technique that trades amplitude precision for time precision.
 It is most often used in analog-to-digital converters and digital-to-analog converters.
 The method samples a signal far above the minimum Nyquist rate.
 It then uses feedback to push much of the quantization noise away from the frequency band of interest.
@@ -101,4 +101,6 @@ Finite impulse response filters are common in audio [[tompkins-plant-electrical-
 
 See also: [[natural-building]]
 ## See Also
+
+- [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]]
 - [[cannabis-immune-modulation]]

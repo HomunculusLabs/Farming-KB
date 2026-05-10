@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [query, cannabis, outdoor, light-schedule, harvest-timing]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: query
 ---
 
@@ -82,3 +81,7 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## See Also
+
+- [[query-what-is-supercropping-cannabis-and-how-does-it-work]]

@@ -1,12 +1,10 @@
 ---
-title: cuthill-mushroom-spawn-preparation-historical Making Detailed
+title: Mushroom Spawn Making Detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, indoor, spawn, inoculation, workflow, preparation, storage]
-sources:
-  - "raw/papers/2-laminar-flow-hood-construction.md"
-  - "raw/papers/laminar-flow-hood-construction-1.md"
+sources: []
 ---
 
 ## Overview
@@ -32,8 +30,8 @@ In practice, most cultivators limit expansion to 2-3 generations. Beyond this, s
 
 The master jar is the foundation of the entire spawn run. It must be absolutely clean:
 
-1. **Inoculate from the cleanest possible source**: Agar wedge or [[comparison-liquid-culture-vs-grain-spawn]]. Never use a [[comparison-spore-print-collection-vs-spore-syringe-production]] for a master jar intended for G2G expansion — [[query-spore-syringes-vs-liquid-culture]] carry higher contamination risk and introduce genetic variability.
-2. **Use the best [[mushroom-spawn-grain-preparation-inoculation]]**: Perfectly hydrated, thoroughly sterilized grain. See [[grain-spawn-preparation]].
+1. **Inoculate from the cleanest possible source**: Agar wedge or liquid culture. Never use a spore syringe for a master jar intended for G2G expansion — spore syringes carry higher contamination risk and introduce genetic variability.
+2. **Use the best grain preparation**: Perfectly hydrated, thoroughly sterilized grain. See [[grain-spawn-preparation]].
 3. **Shake at 20-30% colonization**: Redistribute colonized kernels for faster, more complete colonization.
 4. **Verify 100% colonization**: Every kernel should be white with mycelium. No uncolonized grain visible.
 5. **Wait an extra 3-5 days after full colonization**: This "recovery period" allows the mycelium to fully digest the grain interior, producing a more vigorous culture for transfer.
@@ -142,9 +140,11 @@ Bad spawn (do not use):
 - Wet, slimy areas (bacterial contamination).
 - Sour or rotten smell.
 - Uncolonized patches after the expected colonization time.
-## Related Topics
+- Grains stuck together in a wet mass.
+- Mycelium that appears thin, weak, or gray rather than white.
 
-- [[grain-spawn-preparation]] — grain types, hydration, and sterilization
-- [[mushroom-liquid-culture]] — liquid culture as an alternative expansion method
-- [[mushroom-agar-work]] — maintaining clean cultures for [[growing-gourmet-sawdust-spawn-production-use]]
-- [[mushroom-sterile-technique-detailed]] — sterile procedure for G2G transfers
+## Shake Timing Strategy
+
+Strategic shaking dramatically speeds spawn colonization:
+
+1. **No shake after inoculation**: Allow the inoculation point to establish (3-5 days).

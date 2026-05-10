@@ -4,17 +4,16 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [germination, cultivation, gardening, vegetables, indoor, plant-growth, beginner]
-sources:
-  sources: []
+sources: []
 ---
 
 # Seed Starting Reference
 
-Starting seeds indoors extends the [[savory-growing-season-and-non-growing-season-management]], provides stronger transplants, and offers access to varieties unavailable as starts. This reference covers germination conditions, lighting, soil blocks, and hardening off.
+Starting seeds indoors extends the growing season, provides stronger transplants, and offers access to varieties unavailable as starts. This reference covers germination conditions, lighting, soil blocks, and hardening off. (see [[succession-planting]]).
 
 ## Germination Temperatures by Crop
 
-Optimal soil temperature for germination varies significantly. Use a heat mat with a thermostat for precise control.
+Optimal soil temperature for germination varies significantly. Use a heat mat with a thermostat for precise control. (see [[seasonal-gardening-calendar]]).
 
 | Crop | Optimal Soil Temp (°F) | Days to Germinate |
 |------|----------------------|-------------------|
@@ -99,7 +98,7 @@ Eliminates plastic trays. A soil block tool compresses wet mix into cubes; seeds
 - 4 inch (maxi-block) — for larger transplants (squash, melons).
 
 **Advantages of soil blocks:**
-- No [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] — roots never circle.
+- No transplant shock — roots never circle.
 - No plastic trays to buy, clean, or store.
 - Air-pruning produces dense, fibrous root systems.
 - Blocks can be potter up (placed into larger blocks) seamlessly.
@@ -111,7 +110,7 @@ Eliminates plastic trays. A soil block tool compresses wet mix into cubes; seeds
 - Large seeds (squash, beans, peas) — plant 1 inch deep.
 - Label every variety immediately. Use pencil on wooden stakes or tape on trays.
 - Cover trays with a humidity dome or plastic wrap until germination.
-- Remove cover as soon as 50% of seeds have sprouted to prevent [[cervantes-damping-off-seedling-disease-prevention]].
+- Remove cover as soon as 50% of seeds have sprouted to prevent damping off.
 
 ## Hardening Off
 
@@ -138,13 +137,14 @@ Transplants grown indoors must be gradually acclimated to outdoor conditions ove
 ## Common Problems
 
 ### Damping Off
-- [[bloomfield-amphibian-decline-fungal-disease-climate-interactions]] that kills seedlings at soil line.
-- Caused by overwatering, poor [[stamets-growing-room-air-circulation-co2-management]], contaminated media.
+- Fungal disease that kills seedlings at soil line.
+- Caused by overwatering, poor air circulation, contaminated media.
 - Prevention: use sterile media, clean trays, good airflow, chamomile tea spray.
 - Once symptoms appear (pinched stems, flopped seedlings), affected plants cannot be saved.
-## Related Concepts
 
-- [[raised-bed-gardening]] for transplanting seedlings into prepared beds
-- [[compost-tea-brewing]] for feeding seedlings after transplant
-- [[soil-amendment-reference]] for [[azurescens-outdoor-bed-preparation-woodchips]] before planting
-- [[mulching-guide]] for post-transplant care
+### Leggy Seedlings
+- Caused by insufficient light or excessive heat after germination.
+- Solution: increase light intensity, lower light fixture, reduce temperature to 60-65°F.
+- Can partially recover by burying stem up to first leaves when transplanting (tomatoes).
+
+## Timing: When to Start Seeds

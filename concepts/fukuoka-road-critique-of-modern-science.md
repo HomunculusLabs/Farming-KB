@@ -5,7 +5,6 @@ updated: 2026-04-25
 type: concept
 tags: [philosophy, science, reductionism, farming, nature, fukuoka]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Critique of Modern Science and Reductionism

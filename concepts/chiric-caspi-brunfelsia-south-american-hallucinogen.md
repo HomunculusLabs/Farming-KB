@@ -89,7 +89,7 @@ of many Solanaceous plants in South American traditional medicine.
 The medicinal applications of Brunfelsia may be related to the same
 compounds responsible for its psychoactive effects, or they may involve
 entirely different [[guzman-magic-mushrooms-chemical-constituents]]. Many plants that are psychoactive
-at higher doses have useful [[ginseng-cultivation-and-medicinal-properties]] at lower doses, a
+at higher doses have useful ginseng cultivation and medicinal properties at lower doses, a
 phenomenon that is well-documented across the ethnopharmacological
 literature.
 
@@ -123,6 +123,8 @@ indicates a long-standing cultural relationship with the species and a
 recognition of its value that extends beyond casual or opportunistic use.
 
 ## See Also
+
+- [[brunfelsia-americana]]
 
 - [[culebra-borrachera-methysticodendron-amesianum]]
 - [[tree-daturas-brugmansia-south-american-ethnobotany]]

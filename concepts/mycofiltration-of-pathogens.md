@@ -5,7 +5,6 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 Mycofiltration of pathogens is the use of fungal mycelial mats as biological membranes to filter, trap, and destroy disease-causing microorganisms from water and soil. This application of mycology demonstrates how mushroom mycelium can serve as a living filtration system, reducing populations of coliform bacteria, protozoa, and other pathogens that threaten human health, agriculture, and aquatic ecosystems.

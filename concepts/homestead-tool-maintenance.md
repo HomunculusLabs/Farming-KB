@@ -9,7 +9,7 @@ sources: []
 
 # Homestead Tool Maintenance
 
-Well-maintained tools work better, last longer, and are safer to use. A [[homesteading|homestead]] relies heavily on [[garden-hand-tools-solomon]] — shovels, axes, saws, pruners, hoes, knives, and more. Regular maintenance including cleaning, sharpening, oiling, and proper storage extends tool life by years or decades and reduces replacement costs significantly.
+Well-maintained tools work better, last longer, and are safer to use. A [[homesteading|homestead]] relies heavily on hand tools — shovels, axes, saws, pruners, hoes, knives, and more. Regular maintenance including cleaning, sharpening, oiling, and proper storage extends tool life by years or decades and reduces replacement costs significantly.
 
 ## Basic Tool Care Principles
 
@@ -30,7 +30,7 @@ Well-maintained tools work better, last longer, and are safer to use. A [[homest
 ### Store Properly
 
 - Hang tools or store them off the ground
-- Keep in a dry location (humidity causes rust and [[singh-wood-rot-fungi-structural-timber-decay]])
+- Keep in a dry location (humidity causes rust and wood rot)
 - Organize so tools do not bang against each other (prevents edge damage)
 - Use tool racks, pegboards, or shadow boards for organization
 
@@ -140,10 +140,16 @@ Wooden handles require periodic oiling to prevent drying, cracking, and splinter
 - Apply 2-3 coats, allowing each to soak in before wiping excess
 - Reapply annually or when wood looks dry
 - Food-safe when fully cured
-## Related
+- Available at any hardware store
 
-- [[fruit-tree-pruning]]
-- [[composting-systems]]
-- [[woodlot-management]]
-- [[homestead-workshop-tools]]
-- [[homestead-financial-planning]]
+### Tung Oil
+
+- Natural, food-safe finish
+- Penetrates deeply, water-resistant
+- More expensive than linseed oil
+- Reapply annually
+
+
+## See Also
+- [[well-drilling-and-maintenance]]
+- [[solomon-tool-care-sharpening-shovels-hoes-essential-gardening]]

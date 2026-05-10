@@ -13,7 +13,7 @@ sources:
   - "Leafly. 'Chemdawg 91 Strain Information.' https://www.leafly.com/strains/chemdawg-91"
   - "AllBud. 'Chemdawg 91.' https://www.allbud.com/marijuana-strains/hybrid/chemdawg-91"
   - "SeedFinder. 'Chemdawg 91.' https://en.seedfinder.eu/strain-info/Chemdawg-91/"
-  - Smart R, Marks D, Vandrey R (2019). "Emerging trends in [[green-cannabis-potency-maximizing]]." Addiction 114(6): 1020-1026.
+  - Smart R, Marks D, Vandrey R (2019). "Emerging trends in green-cannabis-potency-maximizing." Addiction 114(6): 1020-1026.
 ---
 
 ## Overview
@@ -124,7 +124,7 @@ Numerous Chemdawg 91 crosses exist, including Stardawg,Underdawg, and various Ch
 
 ## See Also
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[northern-lights]]
 - [[wedding-cake]]
 - [[girl-scout-cookies]]

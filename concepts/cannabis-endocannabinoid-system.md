@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis and the Endocannabinoid System
 
-The endocannabinoid system (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, and stress responses. Understanding the ECS is essential to understanding why cannabis works as medicine.
+The endocannabinoid system (ECS) is the biological system that cannabis interacts with to produce its effects. Discovered in the early 1990s, the ECS is involved in regulating pain, mood, appetite, memory, immune function, sleep, and stress responses. Understanding the ECS is essential to understanding why cannabis works as medicine. (see [[cannabinoid-receptors-cb1-and-cb2]]).
 
 ## Components of the ECS
 
@@ -30,7 +30,7 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 - **2-AG (2-Arachidonoylglycerol)**: The most abundant endocannabinoid — binds both CB1 and CB2, involved in immune function
 
 ### Metabolic Enzymes
-- **FAAH** (Fatty [[lysergic-acid-amide-containing-plants-halpern]] Hydrolase): Breaks down anandamide
+- **FAAH** (Fatty Acid Amide Hydrolase): Breaks down anandamide
 - **MAGL** (Monoacylglycerol Lipase): Breaks down 2-AG
 - These enzymes regulate how long endocannabinoids act in the body
 
@@ -58,36 +58,10 @@ The endocannabinoid system (ECS) is the biological system that cannabis interact
 
 ## Clinical Significance
 
-The ECS explains why cannabis treats such a wide variety of conditions — it is not that cannabis is a wonder drug, but that the ECS is involved in regulating virtually every physiological system. When the ECS is deficient (clinical endocannabinoid deficiency hypothesis), cannabis can supplement the body's own cannabinoids.
+The ECS explains why cannabis treats such a wide variety of conditions — it is not that cannabis is a wonder drug, but that the ECS is involved in regulating virtually every physiological system. When the ECS is deficient (clinical endocannabinoid deficiency hypothesis), cannabis can supplement the body's own cannabinoids. (see [[cannabis-sativa-vs-indica-guide]]).
 
 ## Related
-
-- [[etizolam]]
 - [[cannabis-cbd-therapeutic-profile]] — for CBD specifics
 - [[cannabis-thc-therapeutic-profile]] — for THC specifics
 - [[cannabis-for-chronic-pain]] — for pain applications
 - [[psilocybin-psychological-mechanisms]] — for comparison with psychedelic mechanisms
-## Practical Considerations
-
-Successful implementation of Cannabis and the Endocannabinoid System requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
-
-## See Also
-
-- [[thc-cbd-therapeutic-profiles]]
-
-- [[cannabinoid-receptor-pharmacology]]

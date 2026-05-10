@@ -134,6 +134,8 @@ Black alder is valued in permaculture and agroforestry for its rapid growth, nit
 
 ## See Also
 
+- [[alnus-serrulata]]
+
 - [[caragana-arborescens]]
 - [[lespedeza-bicolor]]
 - [[robinia-pseudoacacia]]

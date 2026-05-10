@@ -141,7 +141,6 @@ Ridge beds are constructed in a triangular cross-section:
 
 - Lighter mushrooms in first and last harvests (vs flat beds)
 - More complex to construct
-- Less efficient use of floor space
 ## See Also
 - [[stamets-mushroom-genetics-mating-systems-reproduction]]
 - [[duggar-mushroom-common-varieties]]

@@ -124,7 +124,7 @@ Patients are encouraged to explore whether emotional factors such as unresolved 
 ## See Also
 
 - [[blesching-cannabis-anorexia-cachexia]]
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 - [[tetrahydrocannabinol-thc]]
 - [[cannabidiol-cbd]]
 - Mind [[mind-body-medicine-and-endocannabinoid-system]] and Emotional Molecules

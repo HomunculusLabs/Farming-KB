@@ -5,7 +5,6 @@ updated: 2026-05-02
 type: comparison
 tags: [cannabis, processing]
 sources:
-  sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 ---

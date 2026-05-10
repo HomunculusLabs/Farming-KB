@@ -70,12 +70,12 @@ Mollison provides analysis data for various mulch materials:
   distinct nutrient profiles
 - The crop for cowpea, soya bean, and cassava mulch follows
   a beneficial and [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] pattern
+
 ## See Also
 - [[bill-mollison-permaculture-a-designers-manual-forest-gardens-and-food-forests]]
-
-## See Also
-
 - [[mollison-tropical-mulch-systems-and-materials]]
+- [[bill-mollison]]
+
 ## Practical Considerations
 
 Successful implementation of Mulch Materials Sources and Application in the Tropics requires attention to

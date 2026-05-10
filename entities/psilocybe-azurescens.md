@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Stamets, P. (1996). "Psilocybe Mushrooms of the World." Ten Speed Press.
-  - Guzmán, G., Stamets, P. (2002). "A New Bluing Species of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Azurescens from New Jersey." Mycotaxon 84: 1-6.
+  - Guzmán, G., Stamets, P. (2002). "A New Bluing Species of guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions Azurescens from New Jersey." Mycotaxon 84: 1-6.
   - Gartz, J. (1996). "Distribution and Ecological Aspects of Psilocybe azurescens." Integration Journal 1: 68-71.
   - Besl, H. et al. (1995). "Neue Erkenntnisse zur Verbreitung von Psilocybe azurescens." Mycologischer Bote 3: 14-16.
 created: 2026-04-28
@@ -113,4 +113,4 @@ Internationally, the species is controlled under the UN Convention on Psychotrop
 - [[mycoremediation]]
 - [[5-meo-dmt-entity]]
 - [[amanita-muscaria-entity]]
-- [[mescaline-entity]]
+- [[mescaline]]

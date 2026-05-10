@@ -15,7 +15,7 @@ sources:
   - "Ringo, L. (2011). Soure Tsunami breeding notes.
     Southern Humboldt Seed Collective."
   - "De Meijer, E.P. et al. (2003). \"The inheritance of
-    chemical phenotype in [[comparison-cannabis-sativa-vs-cannabis-indica]] L.\" Genetics,
+    chemical phenotype in comparison-cannabis-sativa-vs-cannabis-indica L.\" Genetics,
     163(1), 335-346."
   - "Ligresti, A. et al. (2006). \"Antitumor activity of
     plant cannabinoids.\" Molecular Cancer Therapeutics,
@@ -138,11 +138,4 @@ Without selection, plants may express THC:CBD ratios closer to 1:1.
   [[cervantes-powdery-mildew-prevention-treatment]]
 
 ## See Also
-
-[[pennywise-strain]] is a descendant cross with balanced
-CBD:THC for specific therapeutic applications. [[cannabidiol-cbd]] details the primary pharmacological
-compound this strain was developed to express.
-
-## See Also
-
 - [[cannabis-sativa-dominant-growing-challenges]]

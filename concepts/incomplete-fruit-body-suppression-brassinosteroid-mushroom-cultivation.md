@@ -124,14 +124,6 @@ scale, the cost of brassinosteroid application would be negligible per
 unit of substrate.
 
 ## See Also
-
-- [Abort Management and Pinhead Removal](abort-management-pinhead-removal-mushroom-casing-cultivation.md)
-- [Brassinosteroid Anti-Stress [[brassinosteroid-anti-stress-effects-crop-science]]](brassinosteroid-anti-stress-effects-crop-science.md)
-- [Suppressed Incomplete Fruit Body Formation Brassinosteroid](suppressed-incomplete-fruit-body-formation-brassinosteroid-treatment.md)
-- [Brassinosteroid Physiological Mechanisms Cell Elongation Division](brassinosteroid-physiological-mechanisms-cell-elongation-division.md)
-
-## See Also
-
 - [[mushroom-cultivation-basics]]
 - [[mushroom-fruiting-body-morphogenesis]]
 - [[contamination-identification-prevention]]

@@ -122,6 +122,9 @@ Loquats and persimmons can absolutely be grown together. They share similar soil
 
 *See [[permplant-persimmon-diospyros-kaki-fruit-tree]] for detailed variety recommendations and regional growing advice.*
 
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+See [[query-how-do-i-extend-my-growing-season-with-cold-frames-and-season-extension-techniques]] for more on Query How Do I Extend My Growing Season With Cold Frames And Season Extension Techniques.
+
 ## See Also
 
 - [[comparison-perlite-vs-vermiculite]]

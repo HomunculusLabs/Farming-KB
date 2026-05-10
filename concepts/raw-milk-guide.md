@@ -9,7 +9,7 @@ sources: []
 
 # Raw Milk Guide
 
-Raw (unpasteurized) milk is milk that has not been heated to kill pathogenic bacteria. It is consumed directly, used for cheese making, and valued by many homesteaders for its nutritional density, flavor, and probiotic content. This guide covers the benefits, risks, handling practices, testing protocols, and legal landscape of raw milk.
+Raw (unpasteurized) milk is milk that has not been heated to kill pathogenic bacteria. It is consumed directly, used for cheese making, and valued by many homesteaders for its nutritional density, flavor, and probiotic content. This guide covers the benefits, risks, handling practices, testing protocols, and legal landscape of raw milk. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 ## What Makes Raw Milk Different
 
@@ -25,8 +25,8 @@ Pasteurization heats milk to 72 C (161 F) for 15 seconds (HTST method) or 63 C (
 
 ### Nutritional Advantages
 
--  **Enzymes** — Raw milk contains active enzymes that aid digestion. Lactase helps lactose-intolerant individuals tolerate raw milk. Phosphatase aids calcium and phosphorus absorption.
--  **Probiotics** — Beneficial bacteria in raw milk (Lactobacillus, Bifidobacterium, and others) support gut health and immune function. These are the same bacteria used in yogurt and cheese cultures.
+-  **Enzymes** — Raw milk contains active enzymes that aid digestion. Lactase helps lactose-intolerant individuals tolerate raw milk. Phosphatase aids calcium and phosphorus absorption. (see [[homestead-dairy-guide]]).
+-  **Probiotics** — Beneficial bacteria in raw milk (Lactobacillus, Bifidobacterium, and others) support gut health and immune function. These are the same bacteria used in yogurt and cheese cultures. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
 -  **Vitamins** — Raw milk retains more vitamin C, B6, B12, and folate than pasteurized milk. Fat-soluble vitamins A, D, E, and K are more bioavailable in raw milk fat.
 -  **CLA (Conjugated Linoleic Acid)** — Higher levels in grass-fed raw milk. CLA has anti-inflammatory and potential anti-cancer properties.
 -  **Immunoglobulins** — Raw milk contains antibodies that support immune function, particularly important in young animals and children.
@@ -36,7 +36,7 @@ Pasteurization heats milk to 72 C (161 F) for 15 seconds (HTST method) or 63 C (
 -  No energy required for pasteurization
 -  Can be used directly for [[goat-cheese-making]] without re-culturing (pasteurized milk requires added cultures)
 -  Higher cream content in many heritage breeds separates easily for butter and cream
--  Eliminates dependence on commercial [[faires-dairy-processing-cheese-and-butter]]
+-  Eliminates dependence on commercial dairy processing
 
 ## Risks
 
@@ -56,7 +56,7 @@ Raw milk can carry pathogenic bacteria that cause serious illness:
 Risk of contamination increases with:
 -  Poor animal health (mastitis, udder infections)
 -  Dirty milking environment or equipment
--  Improper milk [[coleman-post-harvest-handling-and-storage]]
+-  Improper milk handling and storage
 -  Unhealthy or stressed animals
 -  Mixing milk from multiple animals without individual testing
 -  Feeding animals contaminated feed or water
@@ -83,7 +83,7 @@ Risk is minimized (not eliminated) by:
 -  **Chill immediately** — The most critical step. Cool milk from body temperature (38 C / 100 F) to 4 C (40 F) within 1 hour of milking.
 -  **Ice bath method** — Place the milk container in a larger container filled with ice water. Stir occasionally for even cooling.
 -  **Refrigerator** — Store at 0-4 C (32-40 F) immediately after chilling.
--  **[[ingham-compost-tea-holding-time-shelf-life]]** — Properly handled raw goat milk lasts 7-10 days refrigerated. Raw cow milk lasts 7-14 days. Quality declines over time as naturally occurring bacteria multiply.
+-  **Shelf life** — Properly handled raw goat milk lasts 7-10 days refrigerated. Raw cow milk lasts 7-14 days. Quality declines over time as naturally occurring bacteria multiply.
 -  **Do not mix batches** — Keep milk from each milking separate until it has been tested or you are confident in your herd's health status.
 
 ### Equipment
@@ -113,7 +113,7 @@ Regular testing is the foundation of safe raw milk production.
 
 ### Bulk Tank Culture
 
-Periodically submit a milk sample for culture testing to identify specific bacteria present. This helps identify [[stamets-contamination-sources-laboratory-hygiene]] and track herd health over time.
+Periodically submit a milk sample for culture testing to identify specific bacteria present. This helps identify contamination sources and track herd health over time.
 
 ## Legal Status
 
@@ -143,7 +143,8 @@ Healthy adults can make an informed decision about raw milk consumption based on
 ## Sourcing Quality Raw Milk
 
 If you do not have your own dairy animals:
-## See Also
-- [[homestead-dairy-equipment]]
-- [[goat-cheese-making]]
-- [[cereal-milk]]
+
+-  Visit the farm in person — observe animal health, cleanliness, and milking practices
+-  Ask about testing protocols — Somatic cell count, bacteria counts, pathogen testing
+-  Check for certifications — Some states have raw milk certification programs
+-  Ask about the herd — Breed, diet (grass-fed preferred), grazing management, health care practices

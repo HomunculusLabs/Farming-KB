@@ -1,5 +1,5 @@
 ---
-title: Medicinal Mushrooms Reishi and Maitake
+title: [[cancer-medicinal-mushrooms-reishi-ganoderma-research|Medicinal]] Mushrooms Reishi and [[maitake-mushroom-cultivation-and-medicinal-properties|Maitake]]
 created: 2026-04-28
 tags: mycology, medicinal-mushrooms, ganoderma, grifola, fungi]
 date: 2026-04-28

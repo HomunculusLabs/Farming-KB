@@ -98,7 +98,6 @@ families to the typical psilocybin-containing agarics exhibit psychoactive
 properties raises interesting questions about the evolution of psychoactive
 compounds in fungi and whether B. manicus contains psilocybin or an entirely
 different class of psychoactive substances.
-
 ## Related New Guinea Neurotropic Boletes
 
 The New Guinea bolete complex includes several species whose neurotropic status

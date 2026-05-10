@@ -7,7 +7,7 @@ updated: 2026-05-03
 sources:
   - Ianto Evans & Leslie Jackson, "query-what-is-a-rocket-mass-heater-and-how-does-it-work Heaters" (2006)
   - John G. Holmgren, "Passive Annual Heat Storage" principles
-  - Builder's guides from Masonry Heater Association of [[psilocybin-north-america-pacific-northwest]]
+  - Builder's guides from Masonry Heater Association of psilocybin-north-america-pacific-northwest
   - Paul Wheaton, Permies.com off-grid heating discussions
   - USDA Rural Development, off-grid housing technical guides
 type: query

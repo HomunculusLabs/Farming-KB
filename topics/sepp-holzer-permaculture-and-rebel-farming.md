@@ -65,7 +65,6 @@ possible in marginal climates without chemical inputs, irrigation, or
 specialised equipment. Holzer's approach predates the formal permaculture
 design system codified by Bill Mollison and David Holmgren in the 1970s; he
 arrived at his methods independently through childhood observation and decades
-of hands-on experimentation, and his work represents one of the most thoroughly
 ## See Also
 
 - [[holzer-farming-philosophy]] -- Core principles of working with nature

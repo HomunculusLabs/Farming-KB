@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Golden Goat Cannabis Strain Information." Leafly.com.
   - AllBud (2024). "Golden Goat Strain Review." AllBud.com.
-  - Mudge, E. et al. (2018). "Cannabis Chemotaxonomy: A Comparative Analysis of [[cannabis-terpene-profiles-sativa]]." Cannabis and Cannabinoid Research, 3(1), 58-67.
+  - Mudge, E. et al. (2018). "Cannabis Chemotaxonomy: A Comparative Analysis of cannabis-terpene-profiles-sativa." Cannabis and Cannabinoid Research, 3(1), 58-67.
   - Hazekamp, A. et al. (2016). "The Cannabis Effect: A Review of the Interactions Between Cannabinoids and Terpenes." Frontiers in Plant Science, 7, 40.
 created: 2026-04-28
 ---

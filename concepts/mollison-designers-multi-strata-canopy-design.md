@@ -97,9 +97,6 @@ This web of beneficial relationships is what distinguishes a designed food
 forest from a simple collection of trees.
 
 ## See Also
-
-## See Also
-
 - [[mollison-designers-forest-garden-layer-canopy-understory]]
 - [[forest-gardens]]
 - [[bill-mollison]]

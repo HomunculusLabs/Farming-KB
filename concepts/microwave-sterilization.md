@@ -97,7 +97,7 @@ for substrate sterilization, while microwave methods show greater promise for
 
 ## See Also
 
-- [[microwave-water-interaction-2.45-ghz]]
+- [[microwave-water-interaction-2-45-ghz]]
 
 - [[contamination-identification-prevention]]
 

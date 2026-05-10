@@ -12,7 +12,7 @@ updated: 2026-05-09
 sources:
   - Danser, B.H. (1928). "The Nepenthaceae of the Netherlands Indies." Bulletin de Jardin de Botanique de Buitenzorg, Ser. III, 9, 249-438.
   - Clarke, C.M. (1997). "Nepenthes of Borneo." Natural History Publications (Borneo).
-  - McPherson, S. (2009). "Pitcher Plants of the [[datura-metel-old-world-ethnobotany]]." Redfern Natural History Productions.
+  - McPherson, S. (2009). "Pitcher Plants of the datura-metel-old-world-ethnobotany." Redfern Natural History Productions.
   - Lee, C.C. et al. (2011). "Nepenthes reinwardtiana." IUCN Red List of Threatened Species.
   - Adam, J.H. & Wilcock, C.C. (1999). "A review of Nepenthes (Nepenthaceae) in Borneo." Gardens' Bulletin Singapore, 51, 47-62.
 ---

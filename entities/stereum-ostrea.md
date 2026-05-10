@@ -12,7 +12,7 @@ updated: 2026-04-28
 sources:
   - Ryvarden, L. & Gilb., G.S. (2004). "Mycological Progress." Vol. 3, No. 1.
   - Bernicchia, A. (2005). "Fungi Europaei." Vol. 10, Candusso.
-  - Gilb., G.S. & M. Blackburn (2006). "A preliminary account of Stereum in the southeastern [[dmt-containing-plants-united-states-halpern]]." Mycotaxon 97: 207-222.
+  - Gilb., G.S. & M. Blackburn (2006). "A preliminary account of Stereum in the southeastern dmt-containing-plants-united-states-halpern." Mycotaxon 97: 207-222.
   - Index Fungorum (2024). www.indexfungorum.org.
 created: 2026-04-28
 ---

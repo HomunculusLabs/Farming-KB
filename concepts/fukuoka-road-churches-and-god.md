@@ -4,8 +4,8 @@ created: 2026-04-28
 tags: [religion, europe, churches, civilization, philosophy]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka-road-one-straw-revolution-continuation|fukuoka.md"
 type: concept
 ---
 
@@ -27,7 +27,7 @@ fountains, the stone castles in the forests, the crosses
 blazing with the rays of the setting sun, the beauty of
 stained glass windows -- the towns are filled with enduring
 reminders of history. To the Japanese visitor, the
-Europeans enjoying a life of serenity amid all this splendor
+Europeans enjoying a [[fukuoka-textdoc-staff-of-life-critique-western-dietetics|life]] of serenity amid all this splendor
 seem very fortunate indeed.
 
 But when one stands before the solemn statue of a great

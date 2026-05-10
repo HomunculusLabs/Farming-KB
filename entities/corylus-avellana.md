@@ -142,9 +142,8 @@ Hazel is one of the most versatile species in temperate permaculture:
 
 In silvopasture systems, hazel provides shade, fodder, and shelter
 for livestock while producing a nut crop. In riparian buffer strips,
-hazel stabilizes banks while providing wildlife habitat.
 ## See Also
 
-- [[juglans-nigra]] · [[food-forest-permaculture]] · [[agroforestry]]
+- [[juglans-nigra]] · [[food-forest]] · [[agroforestry]]
 
 - [[corylus-maxima]]

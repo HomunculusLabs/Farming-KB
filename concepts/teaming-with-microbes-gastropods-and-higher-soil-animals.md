@@ -8,7 +8,7 @@ sources:
   - "raw/papers/jeff-lowenfels-wayne-lewis-teaming-with-microbes.md"
 ---
 
-[[query-how-to-get-rid-of-slugs-and-snails-organically]] (gastropods) are among the more visible members of the
+query-how-to-get-rid-of-slugs-and-snails-organically (gastropods) are among the more visible members of the
 fungal-cellulose-decomposition-fungal-enzymes.
 
 ## Ecological Role in the Soil Food Web

@@ -1,5 +1,5 @@
 ---
-title: Psychedelic metzner-mdma-assisted-therapy-research Protocol
+title: Psychedelic Assisted Therapy Protocol
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Psychedelic-assisted therapy (PAT) is a clinical approach that combines the administration of psychedelic substances (in this case, psilocybin) with structured psychological support. Unlike conventional pharmacotherapy, PAT leverages the acute psychoactive experience itself as a therapeutic mechanism, with the therapist serving as a guide rather than a director. Modern protocols have been refined through decades of [[hofmann-lsd-clinical-research-early-studies]] and draw on earlier models from the mid-20th century.
+Psychedelic-assisted therapy (PAT) is a clinical approach that combines the administration of psychedelic substances (in this case, psilocybin) with structured psychological support. Unlike conventional pharmacotherapy, PAT leverages the acute psychoactive experience itself as a therapeutic mechanism, with the therapist serving as a guide rather than a director. Modern protocols have been refined through decades of clinical research and draw on earlier models from the mid-20th century. (see [[psilocybin-assisted-therapy]]).
 
 ## Theoretical Foundation
 
@@ -20,7 +20,7 @@ Psychedelic-assisted therapy (PAT) is a clinical approach that combines the admi
 PAT relies heavily on non-specific therapeutic factors that are common across psychotherapy modalities:
 
 - **Therapeutic alliance**: The trust and rapport between patient and therapist is the single strongest predictor of outcomes
-- **[[lsd-set-and-setting-framework]]**: The patient's psychological state and the physical/interpersonal environment profoundly shape the experience
+- **Set and setting**: The patient's psychological state and the physical/interpersonal environment profoundly shape the experience
 - **Expectancy**: Patient beliefs and expectations about the treatment influence both the experience and outcomes
 - **Meaning-making**: The patient's capacity to construct helpful narratives from the experience determines therapeutic benefit
 
@@ -38,7 +38,7 @@ Psilocybin-assisted therapy appears to work through several specific mechanisms:
 
 ### Inclusion Criteria
 
-Typical inclusion criteria for [[mushroom-cancer-clinical-trials-overview]]:
+Typical inclusion criteria for clinical trials:
 
 - Adults aged 21-65 (varies by study)
 - Diagnosis of the target condition (depression, anxiety, substance use disorder)
@@ -64,7 +64,7 @@ Key contraindications for psilocybin-assisted therapy:
 
 ### Number and Structure
 
-Preparation typically consists of 1-3 sessions, each lasting 60-90 minutes, scheduled in the week(s) before the dosing session.
+Preparation typically consists of 1-3 sessions, each lasting 60-90 minutes, scheduled in the week(s) before the dosing session. (see [[roland-griffiths]]).
 
 ### Goals of Preparation
 
@@ -139,8 +139,12 @@ The dosing session room is carefully prepared:
 
 - **Minimal intervention**: The default is quiet, supportive presence
 - **Non-directive**: Do not steer the experience; follow the patient's lead
-## See Also
-- [[psychedelic-mushroom-effects-guide]]
-- turner-psilocybin-mushroom-experience-guide
-- [[psychedelic-experience-preparation]]
-- [[psychedelic-therapy-mechanisms]]
+- **Physical touch**: Only with prior consent; a hand on the shoulder or hand can be deeply grounding
+- **Medication management**: Benzodiazepines (typically lorazepam) may be available as a safety net for severe anxiety, but are rarely needed
+- **Record-keeping**: Therapists may take brief notes on observable behavior and notable themes
+
+## Phase 3: Integration Sessions
+
+### Number and Structure
+
+Integration typically consists of 1-3 sessions, each lasting 60-90 minutes, scheduled in the days and weeks following the dosing session.

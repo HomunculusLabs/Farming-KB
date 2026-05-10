@@ -137,6 +137,8 @@ remains dense enough to resist invasion.
 
 ## See Also
 
+- [[mycofiltration-silt-barrier-design]]
+
 - [[mollison-tropical-mulch-systems-and-materials]]
 - [[mollison-avenue-cropping-with-legumes]]
 - permaculture-designers-manual-tropical-climates

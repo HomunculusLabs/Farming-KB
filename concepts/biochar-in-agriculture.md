@@ -1,16 +1,15 @@
 ---
-title: comparison-biochar-in-agriculture-vs-biochar-soil-remediation
+title: Biochar in Agriculture
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [soil-amendment, soil, regenerative, agriculture, carbon-sequestration, fertility, living-soil]
-sources:
-  sources: []
+sources: []
 ---
 
 # Biochar in Agriculture
 
-Biochar is a carbon-rich, porous material produced by pyrolyzing biomass (heating in the absence of oxygen). When incorporated into soil, it can improve water retention, nutrient holding capacity, microbial habitat, and long-term [[holmgren-soil-humus-carbon-storage-rebuilding]]. Biochar has been used for centuries — most notably in Amazonian Terra Preta soils — and is gaining renewed attention in regenerative agriculture.
+Biochar is a carbon-rich, porous material produced by pyrolyzing biomass (heating in the absence of oxygen). When incorporated into soil, it can improve water retention, nutrient holding capacity, microbial habitat, and long-term carbon storage. Biochar has been used for centuries — most notably in Amazonian Terra Preta soils — and is gaining renewed attention in regenerative agriculture.
 
 ## Biochar Production
 
@@ -96,7 +95,7 @@ Never use treated wood, painted wood, plastic, or glossy paper as biochar feedst
 
 ## Charging Biochar with Nutrients
 
-Fresh biochar has an extremely high [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity (CEC) but is essentially an empty sponge. If applied raw, it will adsorb nutrients from the surrounding soil, potentially creating a temporary [[cannabis-grow-nutrient-deficiency-problem-solving]] for plants. "Charging" or "activating" biochar pre-loads it with nutrients and microbial life before soil application.
+Fresh biochar has an extremely high cation exchange capacity (CEC) but is essentially an empty sponge. If applied raw, it will adsorb nutrients from the surrounding soil, potentially creating a temporary nutrient deficiency for plants. "Charging" or "activating" biochar pre-loads it with nutrients and microbial life before soil application.
 
 ### Compost Charging (Recommended)
 
@@ -106,7 +105,7 @@ The easiest and most effective method:
 2. The composting microbes colonize the biochar pores
 3. Nutrients from the compost adsorb onto biochar surfaces
 4. After the compost is finished (2-6 months), the biochar-charged compost is ready to apply
-5. This method simultaneously improves [[aact-compost-quality-standards-ingham]] by reducing nitrogen volatilization and odors
+5. This method simultaneously improves compost quality by reducing nitrogen volatilization and odors
 
 ### Liquid Nutrient Charging
 
@@ -139,12 +138,13 @@ For larger applications:
 
 Biochar's porous structure acts as a microscopic reservoir, holding water in pores and releasing it slowly. Studies show 10-30% improvement in water-holding capacity in sandy soils and 5-15% in clay soils. This is especially valuable in [[rainwater-harvesting-systems]] and drought-prone gardens.
 
-## Related Topics
+### Nutrient Holding (Cation Exchange Capacity)
 
-- [[no-till-gardening-method]] for systems that preserve biochar's soil structure benefits
-- [[green-manure-crops]] for pairing biochar with [[coleman-compost-and-organic-fertility-management]] sources
-- [[rainwater-harvesting-systems]] for maximizing water retention with biochar
-- [[soil-food-web-nutrient-cycling]] for general soil health context
-- [[compost-tea-aact]]
-- [[vermicomposting]]
-- [[biochar]]
+Biochar's high surface area and negative charge attract and hold positively charged nutrients (cations): ammonium (NH4+), potassium (K+), calcium (Ca2+), and magnesium (Mg2+). This reduces leaching losses and makes nutrients available over a longer period. This complements [[organic-fertilizer-recipes]] applications by reducing the frequency needed.
+
+### Microbial Habitat
+
+Biochar pores provide refuge for beneficial bacteria, fungi, and protozoa. The porous structure protects microbes from predation and desiccation. Mycorrhizal fungi colonize biochar surfaces, using it as a substrate for hyphal growth and nutrient exchange. See microbes for more on soil biology.
+
+### pH Buffering
+

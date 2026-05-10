@@ -21,7 +21,7 @@ sources:
 
 ## Overview
 
-**Stephania tetrandra** S. Moore, known as **fang ji** (防己) or **han fang ji**
+**stephania tetrandra ra]] ra]]** S. Moore, known as **fang ji** (防己) or **han fang ji**
 (汉防己) in Chinese medicine, is a perennial climbing vine in the family
 Menispermaceae. The dried root (Radix Stephaniae Tetrandrae) has been used
 in traditional Chinese medicine for over 2,000 years as a diuretic,
@@ -95,7 +95,7 @@ Key pharmacological actions of tetrandrine:
 - **Diuretic:** Increases glomerular filtration rate and natriuresis
 
 **Safety concern — aristolochic acid adulteration:** In the early 1990s,
-batches of *Stephania tetrandra* were adulterated with *Aristolochia
+batches of *stephania tetrandra* were adulterated with *Aristolochia
 fangchi*, which contains nephrotoxic aristolochic acid. This caused 100+
 cases of rapidly progressive kidney failure (Chinese herb nephropathy) in
 Belgium and other countries, leading to major regulatory changes in herbal
@@ -116,3 +116,6 @@ The herb is often combined with **Atractylodes macrocephala** (bai zhu) and
 **[[corydalis-yanhusuo]] — Fellow TCM analgesic with isoquinoline alkaloids
 - [[berberine]] — Alkaloid with overlapping anti-inflammatory pharmacology
 - [[glycyrrhiza-uralensis]] — TCM herb with complementary anti-inflammatory profile
+
+See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.

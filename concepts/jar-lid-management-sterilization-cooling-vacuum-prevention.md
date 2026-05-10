@@ -131,17 +131,9 @@ cultivation where the cost of filtered lids is not justified.
 | Ease of use | Moderate | High |
 
 ## See Also
-
 - [[jar-lid-management-sterilization-cooling-vacuum-prevention-shaking]]
-
-- [Jar Preparation and Sterilization](jar-preparation-and-sterilization.md)
-- [[pressure-cooker-sterilization-mushroom-substrate]] of Grain Jars](pressure-cooker-sterilization-of-grain-jars.md)
-- [[jar-shaking-colonization-acceleration-grain-spawn-grass-seed]] Acceleration](jar-shaking-colonization-acceleration-grain-spawn-grass-seed.md)
-- [Grass [[water-absorption-variability-grass-seed-substrate-preparation]]](grass-seed-substrate-preparation.md)
-
-## See Also
-
+- [[pressure-cooker-sterilization-mushroom-substrate]]
+- [[jar-shaking-colonization-acceleration-grain-spawn-grass-seed]]
 - [[mushroom-cultivation-basics]]
 - [[mushroom-cultivation-contamination-troubleshooting]]
-- mushroom substrates grain spawn bulk
 - [[mushroom-fruiting-body-morphogenesis]]

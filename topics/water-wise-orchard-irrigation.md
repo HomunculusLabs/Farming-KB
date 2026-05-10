@@ -111,7 +111,6 @@ At the same time, constant shallow watering is counterproductive. If the surface
 is kept wet, new feeder roots concentrate near the top few inches, where heat,
 weeds, and interrupted irrigation can quickly damage them. Deep watering draws
 roots downward and outward. A tree with roots distributed through a broad soil
-volume can endure short dry periods, use nutrients from below the mulch layer,
 ## See Also
 
 [[irrigation-systems]]

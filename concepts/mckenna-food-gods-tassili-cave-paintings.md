@@ -53,6 +53,10 @@ The destruction of Çatal Höyük — which McKenna attributed to Indo-European 
 The Tassili paintings are significant not only as early evidence of mushroom use but as visual proof that the human fascination with altered states of consciousness is at least as old as complex symbolic culture itself. The geometric entoptic patterns in the paintings demonstrate that the visual vocabulary of the [[leary-psychedelic-experience-bardo-mapping]] is ancient, universal, and deeply embedded in the human nervous system — not, as dominator culture would have it, a pathology or a deviation, but a fundamental dimension of human consciousness that was once celebrated and integrated into religious life.
 
 ## See Also
+- [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
+- [[psilocybin-mushroom-legal-history]]
+- [[sacred-mushroom-names-cross-cultural-synonyms]]
+
 ## The Tassili-n-Ajjer Plateau
 
 Archaeological evidence for McKenna's speculative ideas can be found in the Sahara Desert of southern Algeria in an area called the Tassili-n-Ajjer Plateau. A curious geological formation, the plateau is like a labyrinth, a vast badlands of stone escarpments that have been cut by the wind into many perpendicular narrow corridors. Aerial photographs give the eerie impression of an abandoned city.

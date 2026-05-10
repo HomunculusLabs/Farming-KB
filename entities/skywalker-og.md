@@ -127,6 +127,6 @@ comparative reviews.
 
 ## See Also
 
-- [[blue-dream-strain]]
+- [[blue-dream]]
 - [[northern-lights]]
 - [[chemdawg]]

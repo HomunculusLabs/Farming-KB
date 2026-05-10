@@ -13,10 +13,10 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Godfrey, R.K. & Wooten, J.W. (1981). "permaculture-plants-aquatic-and-wetland-species Plants of Southeastern United States." University of Georgia Press.
-  - Moerman, D.E. (1998). "[[halpern-sacramental-peyote-and-native-american-church]] Ethnobotany." Timber Press.
+  - Moerman, D.E. (1998). "halpern-sacramental-peyote-and-native-american-church Ethnobotany." Timber Press.
   - USDA NRCS (2024). "Saururus cernuus Plant Guide." USDA Natural Resources Conservation Service.
   - Cook, C.D.K. (1996). "Aquatic and Wetland Plants of India." Oxford University Press.
-  - Crow, G.E. & Hellquist, C.B. (2000). "Aquatic and Wetland Plants of Northeastern [[psilocybin-north-america-pacific-northwest]]." University of Wisconsin Press.
+  - Crow, G.E. & Hellquist, C.B. (2000). "Aquatic and Wetland Plants of Northeastern psilocybin-north-america-pacific-northwest." University of Wisconsin Press.
 ---
 
 ## Overview

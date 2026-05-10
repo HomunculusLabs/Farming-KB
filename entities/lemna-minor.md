@@ -15,7 +15,7 @@ sources:
   - "Leng, R.A. et al. (1995). \"Duckweed — a potential high-protein feed resource for domestic animals and fish.\" Livestock Research for Rural Development, 7(1), 1-9."
   - "Ziegler, P. et al. (2015). \"The duckweeds (Lemnaceae): a model system for studying plant development.\" Frontiers in Plant Science, 6, 290."
   - "Appenroth, K.J. et al. (2018). \"Duckweed: we can do more with less.\" In: Functional Plant Biology, CSIRO Publishing."
-  - "Søndergaard, M. (2017). \"Duckweed (Lemna minor) as a tool for testing toxicity and [[ph-and-nutrient-availability-garden-soils]].\" Ecotoxicology, 26(4), 536-546."
+  - "Søndergaard, M. (2017). \"Duckweed (Lemna minor) as a tool for testing toxicity and ph-and-nutrient-availability-garden-soils.\" Ecotoxicology, 26(4), 536-546."
 ---
 
 # Lemna minor
@@ -108,6 +108,8 @@ The starch content of duckweed fronds increases significantly under nitrogen or 
 Genomic studies have revealed that L. minor possesses one of the smallest known angiosperm genomes at approximately 460 Mb, distributed across 21 chromosomes. Its simplified anatomy, rapid cloning, and small genome make it an increasingly important model system for plant developmental genetics and CRISPR gene editing research.
 
 ## See Also
+
+- [[lemna-gibba]]
 
 - [[fontinalis-antipyretica]]
 - [[scirpus-tabernaemontani]]

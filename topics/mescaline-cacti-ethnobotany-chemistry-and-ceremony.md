@@ -115,7 +115,6 @@ where they hunt for the sacred cactus in a ritual that mirrors their
 cosmological journey.
 
 When European missionaries first encountered peyote use among
-indigenous peoples, they classified it as diabolical. Yet peyote use
 ## See Also
 
 - [[mescaline-compound-profile]] for chemical identity and dosage

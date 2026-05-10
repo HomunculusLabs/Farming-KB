@@ -59,7 +59,7 @@ for new resistant varieties.
 - [[mycorrhizal-fungi-symbiosis-with-plants]]
 - [[underground-fungal-networks]](underground-fungal-networks.md)
 - [[fungal-life-cycles]](fungal-life-cycles.md)
-- [Insect-Fungi Interactions]([[insect-fungi-interactions]].md)
+- [[insect-fungi-interactions|Insect-Fungi Interactions]]
 
 ## References
 

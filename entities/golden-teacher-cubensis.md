@@ -5,8 +5,7 @@ type: strain
 tags: [cannabis-strains, psilocybin-cubensis, cultivation, entheogen, beginner-friendly, microscopy]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
   - /Users/t3rpz/wiki/raw/papers/the-mushroom-cultivator-stamets.md
 ---
 

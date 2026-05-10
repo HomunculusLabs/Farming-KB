@@ -1,12 +1,43 @@
 ---
 
+title: Mushroom Foraging Safety Guide
+created: 2026-04-12
+updated: 2026-04-12
+type: query
+
+tags:
+- mushrooms
+- mycology
+- ecology
+- troubleshooting
+- folklore
+- reference
+- species
+- lighting-hardware
+- safety
+- foraging
+
+sources:
+- concepts/mushroom-identification.md
+- concepts/edible-wild-mushrooms-of-north-america.md
+- concepts/mushroom-species-guide.md
+- concepts/mushroom-toxicity-identification-warnings.md
+- concepts/mushroom-identification-resources.md
+---
+
+# Mushroom Foraging Safety Guide
+
+A comprehensive safety reference for wild mushroom foraging. Covers positive ID rules, spore prints, habitat awareness, seasonal timing, and the deadly mistakes that kill foragers every year. See [[mushroom-identification]] for systematic ID methodology and [[mushroom-toxicity-identification-warnings]] for detailed lookalike comparisons.
+
+---
+
 ## Before You Forage: Golden Rules
 
 1. **Never eat a mushroom you cannot positively identify to species.** No exceptions.
 2. **No single rule works.** Peelability, silver spoon test, cap color, "if animals eat it" — all are myths. Each species must be learned individually (Ramsbottom, 1945).
 3. **When in doubt, throw it out.** No mushroom is worth your life.
 4. **Learn from local experts.** Join a mycological society. Regional knowledge is critical.
-5. **Start with easy species.** Morels, chanterelles, chicken of the woods, query-how-to-grow-oyster-mushrooms-at-home, lion's mane — all have metzner-three-distinctive-features-shamanic-entheogenic-ceremonies and few dangerous lookalikes.
+5. **Start with easy species.** Morels, chanterelles, chicken of the woods, oyster mushrooms, lion's mane — all have distinctive features and few dangerous lookalikes.
 6. **Use multiple field guides.** Cross-reference every ID with at least two sources.
 7. **Keep a detailed journal.** Photos, habitat, tree associations, spore print color, date, location.
 
@@ -14,7 +45,7 @@
 
 ## Positive Identification Checklist
 
-Before consuming any [[emcdda-wild-mushroom-foraging-misidentification-hazards]], verify ALL of the following:
+Before consuming any wild mushroom, verify ALL of the following:
 
 **Macroscopic features**:
 - Cap: shape, color, texture (smooth/scaly/viscid), margin (rolled/curved/striate), size
@@ -41,9 +72,9 @@ Essential for distinguishing many lookalikes. Place cap gills-down on half white
 
 | Spore Print Color | Edible Examples | Dangerous Examples |
 |---|---|---|
-| White | Paddy [[mushroom-training-straw-mushroom-cultivation]] (Volvariella) | Death Cap (Amanita phalloides), [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]] (A. virosa), many Lepiota |
+| White | Paddy straw mushroom (Volvariella) | Death Cap (Amanita phalloides), Destroying Angel (A. virosa), many Lepiota |
 | Pink/brown | Field mushroom (Agaricus campestris) | Entoloma species (poisonous) |
-| Dark brown/chocolate | [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]] | Galerina marginata (DEADLY — same habitat as Psilocybe) |
+| Dark brown/chocolate | Psilocybe cubensis | Galerina marginata (DEADLY — same habitat as Psilocybe) |
 | Rust/brown | Some edible Boletus | Cortinarius species (kidney toxin, delayed onset) |
 | Cream/yellow | Chanterelle | Jack-o'-lantern (not deadly but sickening) |
 | Purple-brown | King Bolete (Boletus edulis) | Some toxic Boletus (Tylopilus, Rubroboletus) |
@@ -107,12 +138,13 @@ Essential for distinguishing many lookalikes. Place cap gills-down on half white
 - Grows on decaying wood — same habitat as Psilocybe species
 - Brown spore print, persistent ring, does NOT bruise blue
 - Key difference from Psilocybe: Galerina does NOT bruise blue
-## See Also
 
-- [[mushroom-edibility-testing-safety-protocols]]
+### Cortinarius
+- Several species contain orellanine (irreversible kidney toxin)
+- Delayed onset: days to WEEKS after consumption
+- Rust-brown spore print, cobwebby partial veil (cortina)
+- Notoriously difficult to identify — best avoided by beginners
 
-- mushroom-identification -- systematic ID features, microscopy, field guides
-- [[mushroom-toxicity-identification-warnings]] -- detailed lookalike comparison table
-- [[edible-wild-mushrooms-by-region]] -- seasonal foraging guide with species profiles
-- [[mushroom-species-guide]] -- cultivated species profiles for comparison
-- mushroom-identification -- regional field guides, microscopy references
+---
+
+## Common Deadly Mistakes

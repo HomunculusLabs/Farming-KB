@@ -64,7 +64,7 @@ mass into valuable products.
 
 ## Biogas Production
 
-Spent mushroom substrate can serve as feedstock for [[biogas-digesters-and-anaerobic-digestion-systems]]
+Spent mushroom substrate can serve as feedstock for biogas digesters and anaerobic digestion systems
 to produce biogas. The partially degraded organic matter is readily
 fermentable, though methane yields are lower than for fresh manures. The
 handbook notes this application is most viable at larger scales where the
@@ -125,6 +125,8 @@ proper management. The handbook recommends immediate application or
 composting rather than long-term storage.
 
 ## See Also
+
+- [[oyster-spent-substrate-recycling]]
 
 - [[mushroom-biology-life-cycle-classification]]
 - [[oyster-mushroom-substrate-materials-preparation]]

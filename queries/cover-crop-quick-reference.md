@@ -28,7 +28,7 @@ sources:
 
 # Cover Crop Quick Reference
 
-Quick-reference table for selecting [[gaias-garden-cover-crops-soil-building]] by family, planting window, and purpose. See [[cover-cropping-guide]] for the full concept page and [[no-till-gardening-method]] for integration with reduced-disturbance systems.
+Quick-reference table for selecting cover crops by family, planting window, and purpose. See [[cover-cropping-guide]] for the full concept page and [[no-till-gardening-method]] for integration with reduced-disturbance systems.
 
 ## Crop Selection Table
 
@@ -36,13 +36,13 @@ Quick-reference table for selecting [[gaias-garden-cover-crops-soil-building]] b
 
 | Crop | N-Fix | Plant | Terminate | Notes |
 |------|-------|-------|-----------|-------|
-| [[comparison-lupin-vs-crimson-clover-green-manure]] | Yes | Fall | Crimp/mow at flowering | [[mollison-designers-bee-forage-tree-planting]], winter hardy |
-| White dutch clover | Yes | Spring/Fall | Mow low | Excellent [[comparison-living-mulch-vs-cover-crops]], tolerates traffic |
+| Crimson clover | Yes | Fall | Crimp/mow at flowering | Bee forage, winter hardy |
+| White dutch clover | Yes | Spring/Fall | Mow low | Excellent living mulch, tolerates traffic |
 | Red clover | Yes | Spring/Fall | Mow before seed set | Biennial, deep taproot, good forage |
 | Hairy vetch | Yes | Fall | Crimp at flowering | Vigorous vine, very winter hardy, high N |
 | Austrian winter pea | Yes | Fall | Mow or winter kill | Quick growing, winter kills in cold zones |
 | Cowpeas | Yes | Summer | Mow or pull | Heat tolerant, fast summer N fixer |
-| Field peas | Yes | [[coleman-overwintered-onions-and-early-spring-crops]] | Mow at flowering | Cool season spring N boost |
+| Field peas | Yes | Early spring | Mow at flowering | Cool season spring N boost |
 | Soybeans | Yes | Summer | Mow or pull | Dual purpose (cover + harvest beans) |
 | Alfalfa | Yes | Spring | Mow 4-5x/season | Deep taproot perennial, high N, see [[dynamic-accumulators]] |
 
@@ -71,7 +71,7 @@ Quick-reference table for selecting [[gaias-garden-cover-crops-soil-building]] b
 |------|-------|-------|-----------|-------|
 | Phacelia | No | Spring/Summer | Chop-and-drop | Top pollinator attractor, quick growing |
 | Sunflower | No | Spring | Pull or mow | Tall bee forage, nutrient accumulator |
-| Chicory | No | Spring | Mow | Deep taproot, [[permplant-carob-drought-tolerant-food-tree]], multi-mineral |
+| Chicory | No | Spring | Mow | Deep taproot, drought tolerant, multi-mineral |
 
 ## Termination Methods
 

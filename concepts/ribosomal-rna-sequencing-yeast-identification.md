@@ -9,7 +9,7 @@ sources: []
 
 # Ribosomal RNA Sequencing for Yeast and Fungal Identification
 
-Ribosomal RNA (rRNA) and ribosomal DNA (rDNA) sequence comparisons have become the gold standard for [[fungal-identification-and-biodiversity-assessment]] phylogenetic analysis. The multi-copy nature of rDNA and its combination of conserved and variable regions make it ideal for comparisons across different taxonomic levels.
+Ribosomal RNA (rRNA) and ribosomal DNA (rDNA) sequence comparisons have become the gold standard for [[fungal-biodiversity-assessment-methods]] phylogenetic analysis. The multi-copy nature of rDNA and its combination of conserved and variable regions make it ideal for comparisons across different taxonomic levels.
 
 ## Ribosomal RNA Gene Structure
 

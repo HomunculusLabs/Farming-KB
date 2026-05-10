@@ -145,6 +145,5 @@ Epiphytes are rare in temperate zones but not absent. The common polypody polypo
 
 ## Threats and Conservation
 
-### Climate Change
 ## See Also
 - [[cicadas-biology-ecology-and-cultural-significance]]

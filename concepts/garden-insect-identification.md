@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Garden Insect Identification
 
-Common garden insect pests as described in Steve Solomon's *Gardening When It Counts*, along with identification characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
+Common garden insect pests as described in Steve Solomon's *Gardening When It Counts*, along with identification [[tree-of-knowledge-and-forbidden-fruit-theory]] characteristics and control methods. Solomon emphasizes that the first response to pest problems should be to ask whether the struggling plant is simply not growing fast enough to overcome the problem — often the best cure is fertilizer, not pesticide.
 
 ## Aphids (Aphididae family)
 
@@ -26,14 +26,14 @@ At least two distinct species attack brassicas.
 
 - **Identification**: Large green larvae from a white butterfly (day flyer). Smaller green larvae from a night-flying brown moth (cabbage looper). White butterfly lays clusters of small yellowish bullet-shaped eggs on undersides of leaves. Looper lays round greenish-white eggs singly on upper leaf surfaces.
 - **Damage**: Both can do significant damage quickly, especially during early cabbage head formation. The smaller looper larvae are usually more destructive.
-- **Control**: Handpicking works in small gardens. [[cervantes-bacillus-thuringiensis-bt-control]] (Bt, marketed as Dipel) is extremely effective — lethal only to cabbageworms and close relatives. Spray with a spreader-sticker (quarter teaspoon dishwashing liquid per quart) and target undersides of leaves.
+- **Control**: Handpicking works in small gardens. Bacillus thuringiensis (Bt, marketed as Dipel) is extremely effective — lethal only to cabbageworms and close relatives. Spray with a spreader-sticker (quarter teaspoon dishwashing liquid per quart) and target undersides of leaves.
 
 ## Colorado Potato Beetle (Leptinotarsa decemlineata)
 
-Found throughout most of [[psilocybin-north-america-pacific-northwest]]; can almost completely defoliate a potato crop.
+Found throughout most of North America; can almost completely defoliate a potato crop.
 
 - **Identification**: Adults overwinter 12-18 inches below surface in or near the potato plot. They emerge in late spring, lay eggs on leaf undersides, and resume feeding. Both adults and larvae feed.
-- **Control**: Growing spuds on new ground reduces emergence. Straw mulching after planting provides habitat for ground predators. Row covers work for small plots. Handpick adults when they first emerge. [[comparison-crop-rotation-vs-cover-cropping]] is essential.
+- **Control**: Growing spuds on new ground reduces emergence. Straw mulching after planting provides habitat for ground predators. Row covers work for small plots. Handpick adults when they first emerge. Crop rotation is essential.
 
 ## Corn Earworm (Helicoverpa zea)
 
@@ -44,7 +44,7 @@ Also known as the tomato fruitworm.
 
 ## Cucumber Beetles (Striped and Spotted)
 
-[[growing-gourmet-north-american-reishi-species]] pests about a quarter inch long. Striped ones have three parallel lines; spotted ones have various patterns.
+North American pests about a quarter inch long. Striped ones have three parallel lines; spotted ones have various patterns.
 
 - **Life cycle**: Overwinter in spring, feed on seedlings and chew leaves. Favorite food is cantaloupe, then cucumbers, watermelon, and squash last.
 - **Damage**: Can transmit virus wilt disease that kills seedlings. Most damage is in spring.
@@ -63,7 +63,7 @@ Tiny black hopping insects that chew pinholes in leaves.
 - **Identification**: Primarily attack cabbage family members. In high numbers they stunt and kill seedlings.
 - **Life cycle**: Overwintering adults migrate into gardens in early spring. Eggs hatch into soil-dwelling larvae that feed on roots (usually without much damage). Later-season adult feeding is usually inconsequential.
 - **Damage**: Mostly a problem in spring when cool conditions slow plant growth, concentrating beetles on a few seedlings.
-- **Control**: Fast-growing plants usually outgrow damage. Direct-sow five seeds for every plant wanted, thin as competition starts. Don't sow at the earliest possible moment. If losing more than 10 percent leaf area, foliar feed with [[solomon-foliar-feeding-fish-emulsion-and-kelp]]. If exceeding 20 percent, spray with rotenone or pyrethrum every few days.
+- **Control**: Fast-growing plants usually outgrow damage. Direct-sow five seeds for every plant wanted, thin as competition starts. Don't sow at the earliest possible moment. If losing more than 10 percent leaf area, foliar feed with fish emulsion. If exceeding 20 percent, spray with rotenone or pyrethrum every few days.
 
 ## Japanese Beetle (Popillia japonica Newman)
 
@@ -101,7 +101,7 @@ About 5/8 inch long, dark brown or mottled, with an unpleasant odor.
 
 ## Solomon's Pest Management Philosophy
 
-- **Plant twice what you need**: So [[query-how-to-manage-pests-and-diseases-in-mushroom-cultivation]] can't wipe out your food supply
+- **Plant twice what you need**: So pests and diseases can't wipe out your food supply
 - **Don't sow too early**: The biggest single cause of pest trouble
 - **Fertilize, don't poison**: Often the struggling plant just needs nutrition to outgrow the problem
 - **Accept imperfection**: The American "Sanitary System" belief that food must be perfectly clean is unrealistic

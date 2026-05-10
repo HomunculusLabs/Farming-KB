@@ -32,21 +32,21 @@ Major psychoactive compounds used in ethnobotanical, therapeutic, and research c
 
 | Compound | Source | Family | Dose Range | Duration | Effects |
 |----------|--------|--------|-----------|----------|---------|
-| Psilocybin | Psilocybe spp. (100+ species) | Tryptamine | 1-5g dried cubensis (~10-15mg psilocybin) | 5-7 hrs | Visual hallucinations, synesthesia, [[psilocybin-mystical-experiences-personality-change]], ego dissolution. "Dreamy, drifty" quality vs LSD. |
+| Psilocybin | Psilocybe spp. (100+ species) | Tryptamine | 1-5g dried cubensis (~10-15mg psilocybin) | 5-7 hrs | Visual hallucinations, synesthesia, mystical experiences, ego dissolution. "Dreamy, drifty" quality vs LSD. |
 | Psilocin | Active metabolite of psilocybin | Tryptamine | Same as above (4-OH-DMT) | Same | Active form; psilocybin dephosphorylates to psilocin in vivo. |
 | LSD | Synthetic (from ergot/lysergic acid) | Lysergamide | 100-500 mcg | 8-12 hrs | Most potent psychedelic by weight. "Transparent" -- least signature, most variable. Visuals, time dilation, cosmic consciousness. |
-| DMT | Many plants (Psychotria viridis, [[entheogen-jurema-mimosa-hostilis-ethnobotany]]); endogenous | Tryptamine | 30-60mg smoked; 60-120mg oral (with MAOI) | 15-60 min (smoked); 4-6 hrs (oral) | "Breakthrough" experiences, entity contact, geometric hyperspace. Conventional reality completely replaced. |
+| DMT | Many plants (Psychotria viridis, Mimosa hostilis); endogenous | Tryptamine | 30-60mg smoked; 60-120mg oral (with MAOI) | 15-60 min (smoked); 4-6 hrs (oral) | "Breakthrough" experiences, entity contact, geometric hyperspace. Conventional reality completely replaced. |
 | Mescaline | Peyote (Lophophora williamsii), San Pedro (Echinopsis pachanoi) | Phenethylamine | 200-500mg (or 5-15 buttons peyote; 10" San Pedro section) | 6-14 hrs | Turner's favorite traditional psychedelic. Visual-rich, organic quality. "Lucid, penetrating, focused" with LSD's clarity but calmer, no metallic edge. Aphrodisiac. Native American Church sacrament. See [[mescaline-reference]]. |
-| Ibogaine | [[plants-of-the-gods-tabernanthe-iboga-chemistry]] root bark | Indole alkaloid | 5-20g root bark; 10-20mg/kg HCl | 12-36 hrs (acute); months (afterglow) | Intense oneiric (dreamlike) state. Anti-addictive properties. Bwiti initiation sacrament. Cardiac risk. |
+| Ibogaine | Tabernanthe iboga root bark | Indole alkaloid | 5-20g root bark; 10-20mg/kg HCl | 12-36 hrs (acute); months (afterglow) | Intense oneiric (dreamlike) state. Anti-addictive properties. Bwiti initiation sacrament. Cardiac risk. |
 | Salvinorin A | [[salvia-divinorum|Salvia]] divinorum leaves | Neoclerodane diterpene | 200-500mcg smoked (leaf: 0.5-2g) | 5-15 min | Kappa opioid agonist (unique mechanism). Extreme dissociation, "reality replacement." Mazatec divinatory plant. |
-| Ketamine | Synthetic (PCP derivative) | Arylcyclohexylamine | 75-125mg IM; 30-100mg intranasal | 30-90 min | Turner rates "Intensity: 10 - Infinity." Dissociative anesthetic. "The [[ketamine-ultimate-psychedelic-journey]] journey." Cosmic orgasm, connection to all things, existence/non-existence toggle. Rising therapeutic use for depression. See [[dmt-reference]] for comparison. |
+| Ketamine | Synthetic (PCP derivative) | Arylcyclohexylamine | 75-125mg IM; 30-100mg intranasal | 30-90 min | Turner rates "Intensity: 10 - Infinity." Dissociative anesthetic. "The ultimate psychedelic journey." Cosmic orgasm, connection to all things, existence/non-existence toggle. Rising therapeutic use for depression. See [[dmt-reference]] for comparison. |
 | MDMA | Synthetic (from safrole) | Phenethylamine (empathogen) | 125-170mg | 4-6 hrs | "Heart-opening psychedelic." Selective psychedelic — opens mind without full ego dissolution. Empathogenic, facilitates deep bonding. Originally therapeutic tool (1977-1985); MAPS trials for PTSD. See [[mdma-reference]]. |
 
 ## Chemistry Families
 
 ### Tryptamines (from PIHKAL/TIHKAL)
 The tryptamine family shares an indole ring structure. Key subfamilies:
-- **Simple tryptamines:** DMT, 5-MeO-DMT, bufotenin -- [[savory-short-duration-grazing-and-cell-systems]], extremely potent
+- **Simple tryptamines:** DMT, 5-MeO-DMT, bufotenin -- short duration, extremely potent
 - **4-substituted tryptamines:** Psilocin (4-OH-DMT), 4-AcO-DMT, 4-HO-MET -- longer duration, similar to mushrooms
 - **Beta-carbolines:** Harmine, harmaline (in ayahuasca) -- MAO inhibitors, not psychedelic alone but enable oral DMT
 
@@ -58,7 +58,7 @@ The tryptamine family shares an indole ring structure. Key subfamilies:
 
 ## Safety Notes
 
-- [[lsd-set-and-setting-framework]] critically influence outcomes ([[timothy-leary]])
+- Set and setting critically influence outcomes ([[timothy-leary]])
 - Tolerance develops rapidly (2-3 days for most compounds)
 - MAOIs (ayahuasca) require dietary restrictions to prevent hypertensive crisis
 - Ibogaine has cardiac risk; ketamine has addiction potential at frequent use

@@ -5,7 +5,6 @@ tags: [cannabis, odor-control, ozone, negative-ion, air-treatment]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -139,7 +138,4 @@ ventilation ductwork attachment. They are often used to alter both the
 odor of marijuana and the telltale odor produced by ozone generators.
 
 ## See Also
-
-## See Also
-
 - [[cervantes-odor-deodorizers-comparison]]

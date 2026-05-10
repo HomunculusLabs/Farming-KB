@@ -15,7 +15,7 @@ sources:
   - ElSohly, M.A. et al. (2016). "Changes in Cannabis Potency Over the Last Two Decades (1995–2014)." Drug and Alcohol Dependence, 171, 107–111.
   - Hazekamp, A. & Fischedick, J.T. (2012). "Cannabis — from cultivar to chemovar II." Drug Testing and Analysis, 4(7–8), 660–667.
   - Mudge, E.M. et al. (2019). "A unified approach to Cannabis cultivar attribution." Scientific Reports, 9, 20523.
-  - Smart, R. et al. (2017). "[[cervantes-medical-marijuana-pharmacology]] policies and the opioid epidemic." American Journal of Public Health, 107(9), 1367–1373.
+  - Smart, R. et al. (2017). "cervantes-medical-marijuana-pharmacology policies and the opioid epidemic." American Journal of Public Health, 107(9), 1367–1373.
   - UK Drug Policy Commission (2012). "Classification and the Misuse of Drugs Act: An Overview." London: UKDPC.
 created: 2026-04-28
 ---
@@ -116,4 +116,4 @@ The Cheese genetic line has been extensively used in breeding programs, producin
 [[skunk-1]] [[chemdawg]]
 [[white-widow-entity]] [[myrcene]] [[limonene]]
 [[cannabidiol-cbd]]
-[[purple-haze]] [[gelato]] [[sfv-og]]
+[[purple-haze-cannabis]] [[gelato]] [[sfv-og]]

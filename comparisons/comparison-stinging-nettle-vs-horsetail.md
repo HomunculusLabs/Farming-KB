@@ -3,8 +3,7 @@ title: "comparison stinging nettle vs horsetail vs Horsetail"
 tags: [comparison, dynamic-accumulator, herbal-plant, medicinal-herb, permaculture]
 date: 2026-05-08
 updated: 2026-05-08
-sources:
-  sources: []
+sources: []
 ---
 
 # Stinging Nettle vs Horsetail

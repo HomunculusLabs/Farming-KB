@@ -20,7 +20,7 @@ sources:
   - Ryvarden, L. & Gilbourn, C.L. (2004). "Polypore Taxonomy in the 21st Century." Mycotaxon 89: 77-88.
   - Kirk, P.M. et al. (2008). "Ainsworth & Bisby's Dictionary of the Fungi." 10th ed. CABI.
   - Núñez, M. & Ryvarden, L. (2001). "East Asian Polypores." Synopsis Fungorum 14: 170-171.
-  - Justo, A. et al. (2017). "A revised family-level classification of the Polyporales." [[bloomfield-fungal-biology-and-hyphal-growth]] 121(9): 798-824.
+  - Justo, A. et al. (2017). "A revised family-level classification of the Polyporales." bloomfield-fungal-biology-and-hyphal-growth 121(9): 798-824.
   - Index Fungorum. "Lenzites betulina (L.) Fr." http://www.indexfungorum.org
 ---
 

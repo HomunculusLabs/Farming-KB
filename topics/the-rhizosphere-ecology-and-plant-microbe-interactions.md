@@ -4,8 +4,7 @@ subtitle: How roots shape microbial communities and how microbes shape plant hea
 tags: [rhizosphere, soil-ecology, mycorrhizae, microbiome, root-exudates, plant-microbe-signaling, nutrient-cycling, endophytes]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
   - /Users/t3rpz/wiki/raw/papers/teaming-with-fungi-lowenfels.md
   - /Users/t3rpz/wiki/raw/papers/symbiotic-fungi.md
   - /Users/t3rpz/wiki/raw/papers/john-dighton-fungi-in-ecosystem-processes.md
@@ -128,7 +127,6 @@ Under phosphorus-replete conditions, a zinc-tolerant strain of Paxillus involutu
 
 One of the most remarkable features of mycorrhizal fungi is their ability to associate with more than one host plant at the same time. Mycorrhizal networks can be shared among plants, even plants of different species. In forests, this interconnected mycelial web allows larger trees to literally feed and protect smaller trees through the shared network. And when one plant dies, many of its nutrients are returned to the network and flow toward other plants. These common mycorrhizal networks represent a form of biological connectivity that has profound implications for forest ecology, plant community dynamics, and ecosystem resilience.
 
-The physical structure of these networks means that carbon, nutrients, water, and chemical signals can move between plants that may be separated by considerable distances. In some forest ecosystems, a single mycorrhizal fungal individual can connect dozens or even hundreds of trees, creating an underground communication and resource-sharing system that operates on a scale comparable to above-ground ecological networks. The recognition that forests are not merely collections of competing individuals but rather interconnected superorganisms linked by mycorrhizal networks has transformed our understanding of forest ecology and succession.
 ## See Also
 
 [[mycorrhizal-fungi]] provides a detailed examination of mycorrhizal fungal types, colonization strategies, and their specific roles in plant nutrition and soil health.

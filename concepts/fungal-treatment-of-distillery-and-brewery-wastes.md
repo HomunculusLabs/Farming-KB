@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 updated: 2026-04-18 Distillery and brewery wastes represent some of the most problematic industrial effluents due to extremely high organic loads, dark coloration, and toxic components. mycoremediation-techniques|fungal treatment approaches using yeasts, filamentous fungi, and [[ligninolytic-enzyme-systems-white-rot-fungi]] (laccase, MnP, LiP). These same non-specific enzymes that degrade lignin also break down the recalcitrant melanoidin color compounds.
 

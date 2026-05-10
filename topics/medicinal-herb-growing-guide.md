@@ -118,7 +118,6 @@ characteristics of parent plants. Division is preferred for established
 perennials such as lemon balm, echinacea, valerian, and yarrow, performed
 every three to four years in spring or early fall. Softwood cuttings root
 readily for lemon balm, St. John's Wort, and passionflower. Root cuttings
-work well for echinacea and valerian. Layering is effective for spreading
 ## See Also
 
 - [[herb-growing-guide]]

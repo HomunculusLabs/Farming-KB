@@ -120,7 +120,6 @@ The single most important planting technique is to bury the stem deeply.
 Tomatoes are unique among garden vegetables in their ability to produce
 adventitious roots along any portion of the stem that contacts soil. By
 removing the lower leaves and burying two-thirds of the transplant, the
-gardener transforms the original stem into an extended root system. This
 ## See Also
 
 [[tomato-growing-guide]] | [[growing-tomatoes-organically]]

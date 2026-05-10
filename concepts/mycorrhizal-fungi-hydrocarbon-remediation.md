@@ -141,7 +141,6 @@ conditions.
 Crude oil and heavy fuel oils contain higher proportions of
 recalcitrant compounds including PAHs and asphaltenes.
 
-These degrade more slowly and may require longer remediation timeframes.
 ## See Also
 - [[staycare-arbuscular-mycorrhizal-fungi-in-hydrocarbon-remediation]]
 - [[singh-arbuscular-mycorrhizal-fungi-soil-remediation]]

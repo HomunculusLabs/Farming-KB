@@ -41,13 +41,13 @@ Three growing approaches for a homestead garden. The right choice depends on sca
 | **Soil-borne disease** | Reduced (fresh soil) | Can build up over years | Minimal (new soil each cycle) |
 | **Root space** | Good (8-24 inches depth) | Unlimited | Limited (container size) |
 | **Water retention** | Moderate (drains faster) | Best (deep soil profile) | Poorest (dries quickly) |
-| **[[holzer-frost-protection-techniques]]** | Slight (soil warms faster in spring) | None | Portable — move indoors |
+| **Frost protection** | Slight (soil warms faster in spring) | None | Portable — move indoors |
 | **Lifespan** | 10-20+ years (wood, stone) | Permanent | Varies (plastic degrades) |
 | **Cost per sq ft** | $5-25 (build + fill) | $1-5 (amendments only) | $5-15 (pot + soil) |
 | **Labor to set up** | High (build, fill, amend) | Low (till or sheet mulch) | Low (fill pot, plant) |
 | **Scalability** | Moderate (materials add up) | Unlimited | Limited by space and watering |
 | **Mobility** | Permanent | Permanent | Fully portable |
-| **Best for** | Intensive planting, poor native soil, accessibility | Large-scale crops, perennials, orchards | Patios, [[comparison-cannabis-indoor-growing-basics-vs-cannabis-outdoor-growing]], herbs, cannabis |
+| **Best for** | Intensive planting, poor native soil, accessibility | Large-scale crops, perennials, orchards | Patios, indoor growing, herbs, cannabis |
 
 ## Deep Comparison
 
@@ -93,7 +93,7 @@ In-ground gardening works directly with native soil, amending it over time. It's
 - Harder to modify pH quickly across large areas
 - Gopher/mole damage in some regions
 
-**Transition strategy:** [[no-till-gardening-method]] [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] converts lawn or compacted ground to in-ground beds over 3-6 months without tilling.
+**Transition strategy:** [[no-till-gardening-method]] sheet mulching converts lawn or compacted ground to in-ground beds over 3-6 months without tilling.
 
 ### Containers
 
@@ -116,16 +116,16 @@ Containers provide complete soil isolation and full mobility. Essential for [[ca
 - Root-bound plants need repotting or root pruning
 - Not suitable for large crops (corn, pumpkins, fruit trees)
 
-**Container sizing rule:** 5 gallons minimum for peppers and determinate tomatoes. 15-30+ gallons for indeterminate tomatoes and [[modern-farm-cannabis-living-soil-vs-hydroponic-debate]] soil beds.
+**Container sizing rule:** 5 gallons minimum for peppers and determinate tomatoes. 15-30+ gallons for indeterminate tomatoes and cannabis living soil beds.
 
 ## Integration on the Homestead
 
 | Growing Area | Method | Crops |
 |-------------|--------|-------|
-| Main [[fukuoka-dutch-priest-vegetable-garden-spiritual-renewal]] | Raised beds | Intensive annuals: tomatoes, peppers, brassicas, onions |
+| Main vegetable garden | Raised beds | Intensive annuals: tomatoes, peppers, brassicas, onions |
 | Perennial food forest | In-ground | Fruit trees, berry bushes, asparagus, herbs |
 | Herb garden near kitchen | Containers or raised beds | Basil, thyme, rosemary, parsley, cilantro |
-| [[query-how-to-set-up-an-indoor-cannabis-grow-on-a-budget]] | Containers (living soil beds) | Cannabis — see [[cannabis-living-soil-guide]] |
+| Indoor cannabis | Containers (living soil beds) | Cannabis — see [[cannabis-living-soil-guide]] |
 | Greenhouse | Raised beds or in-ground | Seed starting, winter greens, heat-loving crops |
 | Patio/deck | Containers | Peppers, herbs, dwarf tomatoes, strawberries |
 

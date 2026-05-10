@@ -4,20 +4,19 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [soil, minerals, fertility, nutrients, npk, fertilizer, methods, regenerative]
-sources:
-  sources: []
+sources: []
 ---
 
 # Rock Dust and Mineral Amendments
 
-Rock dust and mineral amendments are ground geological materials used to replenish trace minerals and improve soil fertility. Over time, agricultural soils lose minerals through leaching, [[cole-crop-harvest-and-storage]], and erosion. Rock dusts provide a slow-release source of essential and trace elements, improve soil structure, and support microbial activity. They are foundational to remineralization strategies in regenerative agriculture.
+Rock dust and mineral amendments are ground geological materials used to replenish trace minerals and improve soil fertility. Over time, agricultural soils lose minerals through leaching, crop harvest, and erosion. Rock dusts provide a slow-release source of essential and trace elements, improve soil structure, and support microbial activity. They are foundational to remineralization strategies in regenerative agriculture.
 
 ## Why Mineral Amendments Matter
 
 - **Trace mineral depletion**: Modern agricultural soils are often deficient in trace minerals due to decades of NPK-focused fertilization. See [[nutrient-dense-gardening]] for the connection between soil minerals and food quality.
 - **Slow-release nutrition**: Unlike soluble fertilizers, rock dusts break down gradually through microbial and chemical weathering, providing nutrients over years rather than weeks.
 - **Soil biology support**: Minerals feed microbial communities and support enzymatic processes essential for [[soil-food-web-nutrient-cycling]] function.
-- **CEC improvement**: Some rock dusts (especially those with high clay mineral content) increase [[mollison-designers-tropical-soils-and-cation-exchange-management]] capacity.
+- **CEC improvement**: Some rock dusts (especially those with high clay mineral content) increase cation exchange capacity.
 - **Paramagnetic properties**: Certain rock dusts generate weak magnetic fields that some researchers associate with improved plant growth and microbial activity, though this remains controversial.
 
 ## Types of Rock Dust and Mineral Amendments
@@ -123,13 +122,13 @@ Established gardens benefit from lighter annual applications:
 Rock dusts work synergistically with biological amendments:
 - [[compost-tea-aact]] applications increase the microbial population that weathers rock dust
 - [[effective-microorganisms-em]] can accelerate mineral release
-- [[teaming-with-fungi-mycorrhizal-inoculation-techniques]] dramatically increases [[query-how-does-phosphorus-availability-change-across-soil-ph-levels]] from rock phosphate
+- Mycorrhizal inoculation dramatically increases phosphorus availability from rock phosphate
 - Fermented preparations like [[fermented-mixed-compost-fmc]] can incorporate rock dust into their mix
 
 ### Container and Raised Bed Gardens
 
 Container soils have no access to the mineral reservoir of native earth. Rock dusts are essential:
-- Mix 1-2 cups of azomite or basalt dust per cubic foot of [[solomon-potting-mix-and-seedling-soil-recipe]]
+- Mix 1-2 cups of azomite or basalt dust per cubic foot of potting mix
 - Add soft rock phosphate at 1 cup per cubic foot for phosphorus
 - Reapply lightly each season when refreshing container soil
 
@@ -139,12 +138,13 @@ The remineralization movement, popularized by John Hamaker and later by the Remi
 
 1. Ice age glaciation ground fresh rock into mineral-rich dust, creating the fertile soils that supported early agriculture
 2. These minerals have been leached and harvested away over millennia of farming
-3. Returning rock dust to soils restores [[holmgren-mineral-balance-soil-fertility]], improves crop nutrition, and can help sequester atmospheric carbon through enhanced plant growth
+3. Returning rock dust to soils restores mineral balance, improves crop nutrition, and can help sequester atmospheric carbon through enhanced plant growth
 4. Rock dust application to forests and degraded lands can accelerate ecological restoration
 
 While the science supporting broad claims about remineralization is mixed, controlled studies consistently show benefits from targeted mineral amendment, especially for trace element deficient soils.
-## Related
 
-- [[biochar-in-agriculture|biochar]]
+## Cost Considerations
 
-- [[plant-nutrient-deficiency-guide]]
+| Amendment | Approximate Cost (per 50 lb bag) | Coverage (per bag) |
+|---|---|---|
+| Basalt rock dust | $15-25 | 1,000-5,000 sq ft |

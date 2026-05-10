@@ -136,12 +136,9 @@ adapt it through attentive observation and responsive management.
 ## Legacy and Global Impact
 
 Dr. Cho continued developing his system until his passing. The Janong
-## See Also
 
-- [Nutritive Cycle Theory](cho-nutritive-cycle-theory.md)
-- [[beneficial-indigenous-microorganisms-bim]] (IMO)](indigenous-microorganisms-imo.md)
-- [Natural Farming Inputs](natural-farming-inputs-cho.md)
 ## See Also
+- [[beneficial-indigenous-microorganisms-bim]]
 - [[cho-indigenous-microorganisms-collection-and-cultivation]]
 - [[natural-farming-poster-korean-techniques-summary]]
 - [[query-jadam-vs-korean-natural-farming]]

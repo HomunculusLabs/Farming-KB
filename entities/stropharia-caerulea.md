@@ -124,5 +124,9 @@ These quantitative measures allow rigorous comparison of foraging strategies bet
 
 ## See Also
 
+- [[stropharia-semiglobata]]
+
+- [[stropharia-hornemannii]]
+
 - [[hypholoma-fasciculare]] for another surface fractal species
 - [[gloeophyllum-trabeum]] for another saprotrophic basidiomycete

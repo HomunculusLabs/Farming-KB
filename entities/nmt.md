@@ -116,5 +116,5 @@ International control status varies; the compound is not listed on any UN drug s
 - [[psilocybin]]
 - [[5-meo-dmt-entity]]
 - [[harmaline]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[acacia]]

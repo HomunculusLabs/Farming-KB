@@ -1,5 +1,5 @@
 ---
-title: KNF Lactic lactic-acid-bacteria-knf Serum
+title: KNF Lactic Acid Bacteria Serum
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources:
 
 # KNF Lactic Acid Bacteria Serum (LAB)
 
-Lactic Acid Bacteria (LAB) serum is a powerful [[comparison-natural-farming-vs-permaculture]] input made from rice-washed water and milk. LAB improves soil ventilation, promotes rapid growth of [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]] and leaf vegetables, and increases the solubility of fertilizers.
+Lactic Acid Bacteria (LAB) serum is a powerful natural farming input made from rice-washed water and milk. LAB improves soil ventilation, promotes rapid growth of fruit trees and leaf vegetables, and increases the solubility of fertilizers. (see [[lactic-acid-bacteria-lab]]).
 
 ## Characteristics
 
@@ -41,11 +41,11 @@ Lactic Acid Bacteria (LAB) serum is a powerful [[comparison-natural-farming-vs-p
 1. Pour the LAB pure stock into a larger jar
 2. Add milk at 10:1 ratio (milk to rice water)
 3. At 23-25C, LAB grow vigorously in 5-7 days
-4. Three layers form again: cheese/floating matter (starch, protein, fat) on top, light yellow [[comparison-lab-serum-vs-compost-tea]] below
+4. Three layers form again: cheese/floating matter (starch, protein, fat) on top, light yellow LAB serum below
 5. Remove the cheese promptly -- if left, it melts and undergoes secondary reaction (unusable)
 6. Filter and refine the yellow LAB serum
 
-**Why milk?** Milk has more nutrients than rice-washed water, so LAB multiply much more vigorously. Only the strongest bacteria survive in the poor-nutrient rice-washed water environment, so you collect resilient strains first.
+**Why milk?** Milk has more nutrients than rice-washed water, so LAB multiply much more vigorously. Only the strongest bacteria survive in the poor-nutrient rice-washed water environment, so you collect resilient strains first. (see [[lactic-acid-bacteria-serum-labs]]).
 
 ## Storage
 
@@ -74,21 +74,3 @@ Lactic Acid Bacteria (LAB) serum is a powerful [[comparison-natural-farming-vs-p
 - [[knf-fermented-fruit-juice]]
 - [[knf-fish-amino-acid]]
 - [[knf-oriental-herbal-nutrient]]
-## Practical Considerations
-
-Successful implementation of KNF Lactic Acid Bacteria Serum requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

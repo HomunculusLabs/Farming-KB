@@ -112,7 +112,7 @@ Clone-only cuts are the preferred propagation method as seed-grown plants show s
 - [[lemon-cherry-gelato]]
 
 - [[sunset-sherbet]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[wedding-cake]]
 - [[kush-mints]]
 - [[cereal-milk]]

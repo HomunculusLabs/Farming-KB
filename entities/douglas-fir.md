@@ -121,7 +121,9 @@ and should be placed only where its mature size, shade, roots, and fire context 
 mycoforestry, protecting soil, litter, coarse wood, and host-tree continuity is more important than
 treating the tree as an isolated crop.
 
-## Related Concepts
+## Related
+
+- [[stamets-forest-mycelial-biomass-topsoil-douglas-fir]] Concepts
 
 - [[mycorrhizal-networks-common-mycelial-network]]
 - mycorrhizal-mushrooms-forest-partnerships-stamets

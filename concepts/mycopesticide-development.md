@@ -5,7 +5,6 @@ updated: 2026-04-17
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 Mycopesticides are biopesticides derived from [[singh-entomopathogenic-fungi-biocontrol-agents]] that target and kill insect pests without the environmental damage caused by conventional chemical pesticides. The field represents a convergence of mycology, entomology, and [[cannabis-pest-management-guide]], with the potential to replace toxic chemical treatments across agriculture, forestry, and structural [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]].

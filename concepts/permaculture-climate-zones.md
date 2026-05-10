@@ -1,5 +1,5 @@
 ---
-title: Permaculture mollison-climate-zones-permaculture-strategies
+title: Permaculture Climate Zones
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/bill-mollison-permaculture-two-practical-design-for-to.md]
 
 # Permaculture Climate Zones
 
-Bill Mollison identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "Permaculture Two: Practical Design for Town and Country in Permanent Agriculture" (1979).
+Bill Mollison identified three broad climatic regions where man lives and gardens, each requiring specific design strategies. From "Permaculture Two: Practical Design for Town and Country in Permanent Agriculture" (1979). (see [[mollison-permaculture-two-arid-water-harvesting-and-erosion-control]]).
 
 ## The Three Broad Climatic Regions
 
@@ -17,11 +17,11 @@ Bill Mollison identified three broad climatic regions where man lives and garden
 2. **Tropical humid areas** of summer rain
 3. **Arid lands** -- where rain is irregular, coming as flash floods or sudden downpours
 
-Additionally: cold deserts, arctic and mountain climates, and equatorial jungles are little occupied but all have useful plants. **Coastlines** are not climates as such, but share problems of wind and salt with deserts and deserve specific treatment.
+Additionally: cold deserts, arctic and mountain climates, and equatorial jungles are little occupied but all have useful plants. **Coastlines** are not climates as such, but share problems of wind and salt with deserts and deserve specific treatment. (see [[mollison-designers-climate-classification-and-design-zones]]).
 
 ## Landscape Profile Analysis
 
-A broad landscape profile typical of humid tropical to [[greenhouse-cool-climates-mollison]] demonstrates several zones:
+A broad landscape profile typical of humid tropical to cool climates demonstrates several zones:
 
 ### High Plateaus (Upper Erosion Surface)
 Where snow is stored, trees and shrubs prevent quick run-off. Prof. W.D. Jackson estimated that perhaps 85% of precipitation condenses from night air on the myriad leaf surfaces of plateaus. These are the most critical areas for national or continental well-being -- vandalism by developers and over-grazing should be minimised.
@@ -44,8 +44,8 @@ Perhaps the most pressing problem of the third world. Two approaches:
 ### Key Arid Land Strategies
 - Start from up-stream, up-wind, and from oases -- plants generate moisture downstream, downwind, and locally
 - Run-off from bare or rocky areas increases effective precipitation
-- Modern [[comparison-drip-irrigation-vs-passive-irrigation]] plus mulch will grow any domestic crop
-- [[permaculture-sheet-mulch-detailed-guide]] is the answer around settlements
+- Modern drip irrigation plus mulch will grow any domestic crop
+- Sheet mulch is the answer around settlements
 - Scattered leguminous trees (10-12 per ha) greatly assist nutrient recycling and soil stability
 - The "dead centre" of deserts is a myth -- many important crops will grow
 
@@ -56,32 +56,14 @@ Where there are hills, a well-marked frost-line occurs at about 9-15 m elevation
 
 | Climate | Key Strategies |
 |---------|---------------|
-| Temperate/Winter Rain | Keypoint dams, midslope gardens, deciduous/evergreen balance, [[holzer-frost-protection-techniques]] |
+| Temperate/Winter Rain | Keypoint dams, midslope gardens, deciduous/evergreen balance, frost protection |
 | Tropical Humid | Shade houses, mulch, fast-growing perennials, careful species selection |
 | Arid | Drip irrigation + mulch, run-off catchment, deep-rooted perennials, windbreaks |
-| Coastal | Salt-tolerant species, [[cervantes-wind-protection-outdoor-cannabis]], sand stabilisation |
+| Coastal | Salt-tolerant species, wind protection, sand stabilisation |
 
 ## Related
 
 - [[permaculture-design-process]]
-- [[zone-sector-analysis-guide]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[difficult-site-planting]]
 - [[salt-tolerant-plant-guide]]
-## Practical Considerations
-
-Successful implementation of Permaculture Climate Zones requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

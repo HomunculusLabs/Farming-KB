@@ -5,7 +5,6 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Permaculture Zone and Sector Analysis

@@ -126,7 +126,6 @@ planting bed to a large earth-banked orchard enclosure.
 The back wall of a sun trap should be the tallest and densest element, oriented
 to intercept low-angle sun. Thermal mass materials like stone, concrete, or
 water on the back wall absorb heat during the day and release it slowly at
-night. The arms taper in height toward the open front, progressively reducing
 ## See Also
 
 - [[permaculture-design-principles]]

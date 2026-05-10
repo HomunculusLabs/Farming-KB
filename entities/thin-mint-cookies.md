@@ -14,7 +14,7 @@ sources:
   - Leafly Staff (2023). "Thin Mint Cookies Strain Information." Leafly.com.
   - AllBud (2023). "Thin Mint Girl Scout Cookies." AllBud.com.
   - Zamnesia (2023). "Thin Mint Cookies: A GSC Phenotype." Zamnesia.com.
-  - Mudge, E. et al. (2022). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of Girl Scout Cookies varieties." Cannabis and Cannabinoid Research 7(3): 245-258.
+  - Mudge, E. et al. (2022). "Cannabinoid and cannabis-terpene-profiles-sativa of Girl Scout Cookies varieties." Cannabis and Cannabinoid Research 7(3): 245-258.
   - Smart, R. et al. (2022). "The phytochemical diversity of commercial Cannabis." Scientific Reports 12: 12597.
 created: 2026-04-28
 ---
@@ -109,7 +109,7 @@ This cold-weather technique is commonly used to bring out the signature dark app
 
 ## See Also
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[sunset-sherbet]]
 - [[wedding-cake]]
 - [[kush-mints]]

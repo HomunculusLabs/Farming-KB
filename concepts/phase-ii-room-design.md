@@ -4,8 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 # Phase II Room Design for Mushroom Composting
 

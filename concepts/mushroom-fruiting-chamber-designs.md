@@ -115,9 +115,6 @@ Maintaining a clean fruiting chamber between crops is essential for long-term cu
 - **Quarantine**: If any substrate bags show signs of contamination during fruiting, remove them from the chamber immediately. Contamination can spread rapidly in the warm, humid environment and infect nearby healthy crops. Place contaminated bags in a sealed bag before disposal to prevent spore release.
 
 ## See Also
-
-- straw based [[accessible-mushroom-cultivation-for-disabilities]] boil bag method preparation, colonization, and the transition to fruiting
-- [[mushroom-spore-syringe-preparation]] — creating sterile inoculant for the cultivation cycle
-
-## See Also
+- [[mushroom-fruiting-chamber-setup]]
+- [[mushroom-spore-syringe-preparation]]
 - [[simple-plastic-bin-fruiting-chamber-passive-humidity-mushroom-cultivation]]

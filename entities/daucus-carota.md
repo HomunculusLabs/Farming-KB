@@ -12,10 +12,10 @@ tags:
   - permaculture
 sources:
   - Rubatzky, V.E., Quiros, C.F., Simon, P.W. (1999). "Carrots and Related Vegetable Umbelliferae." CABI Publishing.
-  - Small, E. (2006). "[[holzer-medicinal-and-culinary-herbs-compendium]]." NRC Research Press.
+  - Small, E. (2006). "holzer-medicinal-and-culinary-herbs-compendium." NRC Research Press.
   - Ilnyckyj, J. (2010). "Edible Wild Plants of the Prairie." University of Alberta Press.
   - USDA Natural Resources Conservation Service. "Daucus carota L." PLANTS Database.
-  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press, 2nd edition.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." CRC Press, 2nd edition.
 ---
 
 ## Overview

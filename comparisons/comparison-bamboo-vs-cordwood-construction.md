@@ -9,8 +9,7 @@ tags:
   - wall-systems
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 ---
 
 # Bamboo vs Cordwood Construction

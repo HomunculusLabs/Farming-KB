@@ -10,7 +10,7 @@ tags: [reference]
 # Memristor
 ## Overview
 A memristor is an electrical circuit element whose resistance depends on the history of current or voltage that has passed through it.
-The name combines memory and resistor, emphasizing that the device can retain a conductance state after power is removed.
+The name combines [[plant-memory-and-learning-mechanisms|memory]] and resistor, emphasizing that the device can retain a conductance state after power is removed.
 
 In ideal circuit theory, the memristor relates electric charge to magnetic flux linkage, complementing the resistor, capacitor, and inductor.
 

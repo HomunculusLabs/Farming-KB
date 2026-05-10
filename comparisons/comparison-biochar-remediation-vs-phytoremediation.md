@@ -4,8 +4,7 @@ title: "biochar-soil-remediation vs Phytoremediation"
 tags: [soil-remediation, biochar, phytoremediation, contamination, comparison]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 ---
 
 # [[biochar-soil-remediation]] (physical-chemical amendment) and
@@ -76,3 +75,7 @@ In combined applications, biochar provides immediate risk reduction
 through immobilization while plants work over time to extract or
 degrade remaining contaminants. This layered approach is increasingly
 recognized as a best practice for medium-contamination sites.
+
+## See Also
+
+- [[pcb-remediation-technologies]]

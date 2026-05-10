@@ -1,5 +1,5 @@
 ---
-title: pine-disease-and-matsutake-mushroom-decline
+title: Matsutake Mushroom
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -13,7 +13,7 @@ The Matsutake is arguably the most valuable mushroom in the world by weight, wit
 
 ## Overview
 
-Matsutake (Tricholoma matsutake, "pine mushroom") is an ectomycorrhizal mushroom that forms obligate symbiotic associations with the roots of specific pine and other conifer species. Found across the Northern Hemisphere in pine forests from Japan to [[psilocybin-north-america-pacific-northwest]] to Scandinavia, it has been prized in Japanese culture for over a thousand years as a symbol of autumn, purity, and the changing seasons.
+Matsutake (Tricholoma matsutake, "pine mushroom") is an ectomycorrhizal mushroom that forms obligate symbiotic associations with the roots of specific pine and other conifer species. Found across the Northern Hemisphere in pine forests from Japan to North America to Scandinavia, it has been prized in Japanese culture for over a thousand years as a symbol of autumn, purity, and the changing seasons.
 
 ## Species Profile
 
@@ -45,7 +45,7 @@ In Japan, the mycelial mat that matsutake forms in the soil is called a "shiro" 
 
 ### Forest Ecosystem Role
 
-Matsutake plays an important role in forest [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]:
+Matsutake plays an important role in forest nutrient cycling:
 
 - Facilitates nutrient uptake for host trees
 - Mediates competition between tree species
@@ -58,7 +58,7 @@ Despite decades of research and enormous economic incentive, commercial cultivat
 
 ### Obligate Mycorrhizal Dependency
 
-Matsutake requires a living host tree to complete its life cycle. Unlike saprotrophic mushrooms ([[shiitake-cultivation-guide]], [[oyster-mushroom-species-guide]]) that grow on dead organic matter, matsutake cannot be grown on [[oyster-mushroom-non-sterilized-substrate-cultivation]]. Any cultivation would require growing host trees with the fungal symbiont.
+Matsutake requires a living host tree to complete its life cycle. Unlike saprotrophic mushrooms ([[shiitake-cultivation-guide]], [[oyster-mushroom-species-guide]]) that grow on dead organic matter, matsutake cannot be grown on sterilized substrate. Any cultivation would require growing host trees with the fungal symbiont.
 
 ### Complex Soil Biology
 
@@ -66,7 +66,7 @@ The shiro ecosystem involves interactions with:
 
 - Specific soil chemistry (pH, mineral composition)
 - Competing mycorrhizal fungi
-- Specific [[cultivar-endorhiza-bacterial-communities-cannabis]]
+- Specific bacterial communities
 - Soil microarthropods
 - Root exudate chemistry of host trees
 
@@ -142,8 +142,9 @@ Look for matsutake in:
 - White flesh that stains slightly reddish-brown when cut
 - White spore print
 - Grows singly or in small groups, not in tight clusters
-## Related Topics
+- Always associated with pine or other conifer roots
 
-- [[porcini-boletus-guide]] for another valuable wild-foraged mycorrhizal mushroom
-- [[chanterelle-guide]] for wild [[bloomfield-mushroom-foraging-immigrant-poisonings-paddy-straw-confusion]] techniques
-- [[truffle-guide]] for another uncultivable mycorrhizal fungus with extreme market value
+### Dangerous Look-alikes
+
+- Tricholoma pardinum (Trivial Angel): poisonous, causes severe GI distress; cap is more silvery-gray with concentric scales
+- Amanita species: some have white spore prints; check for a volva at the base (matsutake does not have a volva)

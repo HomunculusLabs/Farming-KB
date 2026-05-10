@@ -97,7 +97,4 @@ Evidence supports faster symptom resolution in bacterial and viral tonsillophary
 EPs 7630 has been studied in children aged 1–12 years and demonstrates safety and efficacy at age-appropriate doses, making it one of the few evidence-based herbal options for pediatric respiratory infections.
 
 ## See Also
-
-## See Also
-
 - [[herbal-medicine-making-basics]]

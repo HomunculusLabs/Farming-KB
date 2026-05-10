@@ -116,10 +116,6 @@ diseases naturally. Apply at least two 2-gallon buckets of
 well-rotted compost per square yard/meter each year.
 
 ## See Also
-
 - [[green-manures-organic-gardening]]
 - [[mulching-organic-garden]]
-
-## See Also
-
 - [[soil-health-and-management]]

@@ -120,7 +120,6 @@ fruit set and biological pest control. Umbelliferous flowers like dill,
 fennel, coriander, and yarrow are among the most effective, attracting
 parasitic wasps, ladybirds, lacewings, and hoverflies. Borage and comfrey
 are popular insectary plants for fruit tree guilds, and flowering shrubs
-like butterfly bush, fuchsia, and salvia placed nearby encourage
 ## See Also
 
 - [[companion-planting-and-polycultures]] — broader context of

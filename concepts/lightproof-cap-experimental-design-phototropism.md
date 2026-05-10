@@ -139,11 +139,3 @@ identification of auxin as the phototropic growth hormone.
 The general principle of using localised light barriers to dissect sensory
 pathways in plants has been extended to studies of shade avoidance, de-etiolation,
 and photoperiodic flowering control. The underlying logic, that selectively
-## See Also
-
-- [[darwins-phototropism-experiments]]
-- [[plant-vision-and-phototropism]]
-
-## See Also
-
-- [[cannabis-microbiome-experimental-design]]

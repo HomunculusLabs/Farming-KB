@@ -84,7 +84,7 @@ growing conditions, and age. The most potent species (e.g. *Psilocybe
 semilanceata*) could contain up to 1% psilocybin, with some higher
 potency reported in specific species (e.g. *[[psilocybe-bohemica]]*). In other species (*[[psilocybin-pharmacology-and-serotonin-receptors]]
 
-- [[emcdda-psilocybin-mushroom-species-and-identification]] for species
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for species
   that contain these active compounds
 - [[emcdda-hallucinogenic-mushroom-health-risks]] for toxicity data
   and health consequences

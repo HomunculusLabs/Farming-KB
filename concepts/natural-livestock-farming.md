@@ -30,16 +30,11 @@ and cold exist, and yet do not exist, in nature. One will never be wrong
 in starting with the assumption that [[greg-green-temperature-and-humidity-control]] are
 everywhere and at all times just right for raising livestock somewhere
 in nature.
-## See Also
 
+## See Also
 - [[knf-livestock-chicken-house-natural-farming]]
-
-- knf [[knf-livestock-chicken-house-natural-farming]] house natural farming
-- knf livestock chicken house natural farming
-
-## See Also
-
 - [[fukuoka-natural-livestock-farming]]
+
 ## Practical Considerations
 
 When working with Natural Livestock Farming, several practical factors should be

@@ -114,7 +114,6 @@ drupifera may be used when Alan is slow to take effect, its latex
 applied directly to the eyes with a parrot feather to affect the optic
 nerve and induce visions.
 
-The Bwiti ceremony known as the "Payment of the Ancestors" takes place
 ## See Also
 
 - [[iboga-and-ibogaine-profile]] for the comprehensive substance profile

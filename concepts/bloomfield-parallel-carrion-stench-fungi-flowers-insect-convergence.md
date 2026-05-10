@@ -123,6 +123,8 @@ evolution between fungi and plants:
 
 ## See Also
 
+- [[mexico-mycobiotic-convergence-zone-neurotropic-fungi-guzman-2000]]
+
 - [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
 - [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
 - [[bloomfield-gasteromycete-polyphyly-ragbag-taxon-not-natural-group]]

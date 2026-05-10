@@ -140,7 +140,6 @@ modern hybrid genetics.
 
 Preservation of these landrace lines ensures future breeders can
 access original genetic material.
-
 ## See Also
 
 - malawi gold southern african landrace sativa — African landrace comparison

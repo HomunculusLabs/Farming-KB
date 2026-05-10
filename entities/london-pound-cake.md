@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly Staff (2021). "London Pound Cake Strain Information." Leafly.com.
-  - AllBud (2023). "London Pound Cake [[blesching-cannabis-strain-selection-receptor-targeting]]." AllBud.com.
+  - AllBud (2023). "London Pound Cake blesching-cannabis-strain-selection-receptor-targeting." AllBud.com.
   - Wikileaf (2023). "London Pound Cake: The UK's Most Decadent Export." Wikileaf.com.
   - Cookies Fam (2022). "London Pound Cake — Strain Library." cookiesfam.com.
   - cannabis-md (2022). "Terpene Profile Analysis of Popular Cake-Strain Varieties." Journal of Cannabis Research 4(2): 15-28.created: 2026-05-07

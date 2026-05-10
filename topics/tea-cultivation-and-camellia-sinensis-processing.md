@@ -141,7 +141,6 @@ Organic approaches include:
 - Compost or vermicompost at 5–10 t/ha annually
 - Oilseed cakes (neem, castor, mustard) as slow-release nitrogen
 - Biochar amendments to improve soil [[root-anatomy-structure-and-nutrient-uptake]] retentio  rops (*Crotalaria*, *Tephrosia*, *Desmodium*) in inter-row spaces
-
 ## See Also
 
 - [[caffeine-plants-and-stimulant-herb-cultivation]]

@@ -116,6 +116,8 @@ What makes the Cannabis study particularly informative is the inclusion of multi
 
 ## See Also
 
+- [[two-tier-selection-model-rhizosphere-endorhiza]]
+
 - [[proteobacteria-dominance-cannabis-endorhiza]]
 - [[endorhiza-bacterial-communities]]
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]

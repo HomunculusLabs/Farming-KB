@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-The monotub is the most widely used fruiting [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]] [[psilocybe-cubensis-cultivation-miniculture]]. A single plastic storage bin serves as both the colonization vessel and the [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]], eliminating the need to transfer substrates between containers. The design is simple, scalable, and capable of producing impressive yields with minimal daily maintenance. The monotub method was popularized in online mycology communities during the 2000s and has become the de facto standard for home cultivators.
+The monotub is the most widely used fruiting method for Psilocybe cubensis cultivation. A single plastic storage bin serves as both the colonization vessel and the fruiting chamber, eliminating the need to transfer substrates between containers. The design is simple, scalable, and capable of producing impressive yields with minimal daily maintenance. The monotub method was popularized in online mycology communities during the 2000s and has become the de facto standard for home cultivators.
 
 ## Monotub Design
 
@@ -53,7 +53,7 @@ Standard ratio by volume:
 
 ## Spawn Ratio
 
-The spawn-to-substrate ratio determines how quickly the [[gottlieb-psilocybin-cultivation-bulk-substrate-preparation]] colonizes and how resistant it is to contamination:
+The spawn-to-substrate ratio determines how quickly the bulk substrate colonizes and how resistant it is to contamination:
 
 - **1:1** — Maximum speed and contamination resistance. Expensive in terms of spawn.
 - **1:2** — The standard recommended ratio. Good balance of speed, safety, and efficiency.
@@ -75,7 +75,7 @@ Example: A 66-quart monotub with 4 quarts of grain spawn uses 8-12 quarts of CVG
 - In a still-air environment (see [[mushroom-sterile-technique-detailed]]), break up colonized grain spawn in the jar by shaking.
 - Add a thin layer (1/2 inch) of CVG to the bottom of the tub — this prevents grain from touching the bare plastic.
 - Mix the grain spawn and CVG substrate thoroughly in the tub. Some growers layer spawn and substrate alternately.
-- Add a 1/4 to 1/2 inch top layer of plain CVG (no grain) — this is called a "[[gourmet-medicinal-mushroom-casing-layer-techniques]]" and helps maintain surface humidity while protecting exposed grain from contamination.
+- Add a 1/4 to 1/2 inch top layer of plain CVG (no grain) — this is called a "casing layer" and helps maintain surface humidity while protecting exposed grain from contamination.
 
 ### 3. Colonization
 
@@ -118,6 +118,6 @@ See [[mushroom-harvesting-potency]] for strategies to maximize each flush.
 ## Related Topics
 
 - [[bulk-substrate-preparation]] — CVG substrate recipe and preparation
-- [[mushroom-grow-room-design]] — [[eclss-environmental-control-life-support]] for monotub setups
-- [[psilocybin-cultivation]] — broader cultivation overview
+- [[mushroom-grow-room-design]] — environmental control for monotub setups
+- [[psilocybin-mushroom-cultivation]] — broader cultivation overview
 - [[mushroom-harvesting-potency]] — when and how to harvest

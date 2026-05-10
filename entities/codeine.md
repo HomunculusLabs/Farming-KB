@@ -118,7 +118,7 @@ Despite these restrictions, codeine remains one of the most commonly prescribed 
 - [[lsd]]
 - [[dmt]]
 - [[serotonin]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[nicotine]]
 - [[caffeine]]
 - [[blesching-cannabis-dopamine-endocannabinoid-system]]

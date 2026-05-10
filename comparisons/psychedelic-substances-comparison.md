@@ -4,8 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: comparison
 tags: [psychedelics, comparison]
-sources:
-  sources: []
+sources: []
 ---
 # Psychedelic Substances Comparison
 

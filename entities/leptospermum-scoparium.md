@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Stephens, J.M.C. et al. (2005). "Dihydroxyacetone in Leptospermum Honey." Carbohydrate Research 340(10): 1781-1785.
-  - Porter, N.G. & Wilkins, A.L. (1999). "Chemical, Physical and [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] of Essential Oils of Leptospermum scoparium." Flavour and Fragrance Journal 14(6): 383-390.
+  - Porter, N.G. & Wilkins, A.L. (1999). "Chemical, Physical and mycelium-running-mushroom-antimicrobial-properties-species-chart of Essential Oils of Leptospermum scoparium." Flavour and Fragrance Journal 14(6): 383-390.
   - Thompson, J. (1989). "Leptospermum." Flora of Australia 19: 44-59.
   - Adams, C.J. et al. (2008). "Manuka Honey and Wound Healing." Phytotherapy Research 22(9): 1133-1139.
 ---

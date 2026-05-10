@@ -129,7 +129,7 @@ seeking purely pharmacological guidance.
 
 ## See Also
 
-- [[cannabis-health-endo-cannabinoid-system]]
+- [[endocannabinoid-neurogenesis-neuroplasticity-blesching]]
 - [[blesching-cannabis-health-index-dosage-guidelines-medical]]
 - [[cannabis-evidence-based-medicine-chi-methodology]]
 - [[uwe-blesching]]

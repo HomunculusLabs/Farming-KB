@@ -112,6 +112,10 @@ The health claim approval by the U.S. FDA in 1997 significantly boosted oat cons
 
 ## See Also
 
+- [[avena-fatua]]
+
+- [[pastinaca-sativa]]
+
 - [[hordeum-vulgare]]
 - [[oryza-sativa]]
 - [[glycine-max]]

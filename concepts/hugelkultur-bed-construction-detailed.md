@@ -9,7 +9,7 @@ sources: []
 
 # Hugelkultur Bed Construction Detailed
 
-Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woody material beneath layers of [[hamilton-composting-and-organic-matter-management]] and topsoil. As the wood decomposes, it acts like a sponge, holding moisture and releasing nutrients over years. This method transforms logs, branches, and brush into a self-fertilizing, water-retaining growing system.
+Hugelkultur ("hill culture" in German) is a raised-bed technique that buries woody material beneath layers of organic matter and topsoil. As the wood decomposes, it acts like a sponge, holding moisture and releasing nutrients over years. This method transforms logs, branches, and brush into a self-fertilizing, water-retaining growing system.
 
 ## Core Principles
 
@@ -19,7 +19,7 @@ The hugelkultur bed mimics the natural forest floor where fallen trees break dow
 
 - Large logs and branches (6-12 inches diameter preferred)
 - Smaller branches and twigs
-- Nitrogen source: [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], grass clippings, or [[cover-crop-guide-detailed|cover crop]] residue
+- Nitrogen source: composted manure, grass clippings, or [[cover-crop-guide-detailed|cover crop]] residue
 - Finished compost or leaf mold
 - Topsoil
 - Mulch material (straw, leaves, wood chips)
@@ -59,7 +59,7 @@ Top with 2-4 inches of straw, leaves, or wood chip mulch. This conserves moistur
 
 ### Year 1: Establishment
 
-The decomposition process generates heat and can temporarily tie up nitrogen. Plant nitrogen-fixing legumes (beans, peas), shallow-rooted crops, and [[cover-crop-guide-detailed|cover crops]] like buckwheat or [[comparison-lupin-vs-crimson-clover-green-manure]]. Avoid heavy feeders like corn or tomatoes directly in the first season unless you amend heavily.
+The decomposition process generates heat and can temporarily tie up nitrogen. Plant nitrogen-fixing legumes (beans, peas), shallow-rooted crops, and [[cover-crop-guide-detailed|cover crops]] like buckwheat or crimson clover. Avoid heavy feeders like corn or tomatoes directly in the first season unless you amend heavily.
 
 ### Year 2: Maturation
 
@@ -67,7 +67,7 @@ The wood begins breaking down significantly. Soil biology is well-established. Y
 
 ### Year 3+: Peak Performance
 
-The hugel bed reaches its prime. The decomposed wood has created a rich, spongy humus layer. Water retention is excellent — many gardeners report not needing to irrigate at all. [[ph-and-nutrient-availability-garden-soils]] peaks as the wood releases stored minerals and carbon.
+The hugel bed reaches its prime. The decomposed wood has created a rich, spongy humus layer. Water retention is excellent — many gardeners report not needing to irrigate at all. Nutrient availability peaks as the wood releases stored minerals and carbon.
 
 ## Key Considerations
 
@@ -90,8 +90,8 @@ The hugel bed reaches its prime. The decomposed wood has created a rich, spongy 
 - Reduces irrigation needs by 50-90% after establishment
 - Builds deep, rich topsoil from marginal land
 - Sequesters carbon in woody material and soil
-- Extends the [[savory-growing-season-and-non-growing-season-management]] through thermal mass decomposition heat
-- Turns waste wood and brush into productive [[cotter-growing-space-design-fruiting-rooms]]
+- Extends the growing season through thermal mass decomposition heat
+- Turns waste wood and brush into productive growing space
 - Creates excellent habitat for soil organisms including [[mycorrhizal-fungi]]
 
 ## See Also

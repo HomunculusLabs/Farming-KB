@@ -9,7 +9,7 @@ sources: []
 
 # MDMA Reference
 
-MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism.
+MDMA (3,4-methylenedioxymethamphetamine) is an empathogen-entactogen — a compound that produces feelings of emotional openness, empathy, connection, and reduced fear. Originally synthesized in 1912 and rediscovered in the 1970s, MDMA has become one of the most promising substances in modern psychiatric research, particularly for the treatment of post-traumatic stress disorder (PTSD). Unlike classical psychedelics, MDMA's primary mechanism involves serotonin release and reuptake inhibition rather than direct receptor agonism. (see [[psychedelic-mushroom-pharmacology]]).
 
 ## Chemistry
 
@@ -41,8 +41,8 @@ MDMA is structurally related to:
 - Gained popularity in recreational settings in the early 1980s
 - Emergency scheduling by the DEA in 1985 despite ongoing legal challenges
 - Made permanently Schedule I in 1986
-- Rick Doblin founded MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] for Psychedelic Studies) in 1986 to pursue MDMA research
-- MAPS-sponsored Phase 3 [[mushroom-cancer-clinical-trials-overview]] for MDMA-assisted therapy for PTSD completed in 2021-2024 with positive results
+- Rick Doblin founded MAPS (Multidisciplinary Association for Psychedelic Studies) in 1986 to pursue MDMA research
+- MAPS-sponsored Phase 3 clinical trials for MDMA-assisted therapy for PTSD completed in 2021-2024 with positive results
 - FDA advisory committee review for MDMA-PTSD approval began in 2024
 
 ## Pharmacology
@@ -58,7 +58,7 @@ MDMA has a complex mechanism that distinguishes it from classical psychedelics:
 - Minor 5-HT2A receptor agonism: at higher doses, contributes some psychedelic-like effects
 - Minor MAO inhibition: may contribute to serotonin accumulation
 
-The serotonin release mechanism is the key differentiator. While classical psychedelics directly stimulate 5-HT2A receptors, MDMA causes the brain to flood itself with its own serotonin supply. This produces qualitatively different effects: less visual hallucination, more emotional warmth and interpersonal connection.
+The serotonin release mechanism is the key differentiator. While classical psychedelics directly stimulate 5-HT2A receptors, MDMA causes the brain to flood itself with its own serotonin supply. This produces qualitatively different effects: less visual hallucination, more emotional warmth and interpersonal connection. (see [[ketamine-compound-profile]]).
 
 ## Pharmacokinetics
 
@@ -89,7 +89,7 @@ Note: street MDMA varies enormously in purity and content. Pills may contain:
 - Methylone, mephedrone, or other cathinones (NPS — novel psychoactive substances)
 - MDMA mixed with amphetamine, caffeine, or other substances
 - Purity ranges from 0% to 90%+ in seized samples
-- Testing with reagents (Marquis, Mecke, Simon's) is essential for [[adverse-effects-and-harm-reduction-psilocybin]]
+- Testing with reagents (Marquis, Mecke, Simon's) is essential for harm reduction
 
 ## Effects
 
@@ -141,9 +141,14 @@ This is the most advanced clinical application:
 
 ## Harm Reduction
 
+### Acute Risks
+
+- Hyponatremia: from drinking excessive water (SIADH). Drink 250-500 ml/hour; do not overhydrate
+- Hyperthermia: most dangerous acute risk. Stay cool, take breaks, use cool water
+- Serotonin syndrome: risk when combined with other serotonergic drugs (SSRIs, MAOIs, tramadol). Can be fatal
+- Cardiovascular events: dangerous for those with cardiovascular conditions
+
+
+
 ## See Also
-
-- [[lsd-reference]] for comparison with a classical psychedelic
-- [[ketamine-reference]] for another drug with breakthrough psychiatric applications
-
-See also: [[peyote-and-psychoactive-cacti]]
+- [[turner-ecstasy-mdma-heart-opening-psychedelic]]

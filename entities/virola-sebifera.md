@@ -12,8 +12,8 @@ updated: 2026-04-28
 sources:
   - Schultes, R.E. (1969). "Virola as an Oral Hallucinogen Among the Bororo and Pataxó Indians of Brazil." Botanical Museum Leaflets, Harvard University 22(7): 221-230.
   - Schultes, R.E. & Hofmann, A. (1980). "The Botany and Chemistry of Hallucinogens." 2nd ed. Charles C. Thomas.
-  - Prance, G.T. (1972). "A [[ghouled-field-guide-historical-context]] to the Common Trees of the Amazon." Amazon Conservation Association.
-  - Rivier, L. & Lindgren, J.E. (1972). "Ayahuasca: The [[chiric-caspi-brunfelsia-south-american-hallucinogen]] Hallucinogenic Drink—An Ethnobotanical and Chemical Investigation." Economic Botany 26(2): 101-129.
+  - Prance, G.T. (1972). "A ghouled-field-guide-historical-context to the Common Trees of the Amazon." Amazon Conservation Association.
+  - Rivier, L. & Lindgren, J.E. (1972). "Ayahuasca: The chiric-caspi-brunfelsia-south-american-hallucinogen Hallucinogenic Drink—An Ethnobotanical and Chemical Investigation." Economic Botany 26(2): 101-129.
 ---
 
 # Virola sebifera

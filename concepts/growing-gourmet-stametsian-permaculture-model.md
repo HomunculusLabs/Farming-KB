@@ -135,8 +135,9 @@ be repeatedly purchased and applied, fungal systems are self-propagating and sel
 reinforcing. This embodies the core permaculture principle of designing systems
 that produce their own needs and regulate themselves with minimal human
 intervention over time.
-
 ## See Also
+
+- [[stametsian-permaculture-model]]
 
 - [[mycelium-running-mycelium-natures-internet-fungal-network-theory]]
 - [[mycelium-running-mycelium-sentient-network-bioneering]]

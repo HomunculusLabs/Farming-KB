@@ -108,6 +108,9 @@ Future pages on depletion regions and the Shockley diode equation could expand t
 Related engineering pages include MOSFET, bipolar junction transistor, solar cell, LED, avalanche breakdown, and Schottky barrier.
 The p-n junction is a compact example of how materials processing creates useful electrical nonlinearity.
 
+See [[query-what-are-ec-and-tds-and-how-do-i-use-them-for-cannabis-nutrient-management]] for more on Query What Are Ec And Tds And How Do I Use Them For Cannabis Nutrient Management.
+See [[query-what-are-the-most-common-mushroom-contaminants-and-how-do-i-identify-them]] for more on Query What Are The Most Common Mushroom Contaminants And How Do I Identify Them.
+
 ## References
 
 Research basis: Wikipedia articles on p-n junction, depletion region, diode, Shockley diode equation, and semiconductor, consulted 2026-05-02.

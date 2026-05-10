@@ -99,8 +99,8 @@ depending on the destination country.
 
 - [[morning-glory-lsa-and-ergoline-alkaloids]]
 
-- [Agroclavine](agroclavine.md)
-- [Chanoclavine](chanoclavine.md)
-- [Lysergic acid amide](lysergic-acid-amide.md)
-- [Lysergic acid hydroxyethylamide](lysergic-acid-hydroxyethylamide.md)
-- [Ergotamine](ergotamine.md)
+- [[agroclavine|Agroclavine]]
+- [[chanoclavine|Chanoclavine]]
+- [[lysergic-acid-amide|Lysergic acid amide]]
+- [[lysergic-acid-hydroxyethylamide|Lysergic acid hydroxyethylamide]]
+- [[ergotamine|Ergotamine]]

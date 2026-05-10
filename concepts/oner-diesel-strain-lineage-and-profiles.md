@@ -29,7 +29,7 @@ Diesel, which became one of the most sought-after strains on the East
 Coast during the 1990s and 2000s.
 
 The genetics flowing through the Diesel family include Chemdawg,
-MassSuperSkunk, Sensi [[cannabis-northern-lights]], RFK Skunk, Hawaiian Sativa, and
+MassSuperSkunk, Sensi [[northern-lights]], RFK Skunk, Hawaiian Sativa, and
 additional Northern Lights contributions — a remarkably diverse genetic
 pool for what became a relatively coherent family of strains.
 

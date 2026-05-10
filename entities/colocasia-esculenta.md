@@ -15,7 +15,7 @@ sources:
   - "Bown, D. (2000). Aroids: Plants of the Arum Family. Timber Press."
   - "Onwueme, I.C. (1999). Taro Cultivation in Asia and the Pacific. RAP Publication."
   - "Huang, C.C. et al. (2007). \"Molecular analysis of the taro (Colocasia esculenta) germplasm.\" Genetic Resources and Crop Evolution, 54(4), 813-821."
-  - "Aguegia, V. et al. (2015). \"[[dighton-fungal-nutritional-composition-animal-diets]] of taro corms and leaves.\" Journal of Food Composition and Analysis, 42, 1-5."
+  - "Aguegia, V. et al. (2015). \"dighton-fungal-nutritional-composition-animal-diets of taro corms and leaves.\" Journal of Food Composition and Analysis, 42, 1-5."
 ---
 
 # Colocasia esculenta (*Taro, Dasheen, Kalo*)
@@ -140,3 +140,7 @@ Taro is exceptionally valuable in tropical permaculture systems:
 - **Wetland function:** Thrives in pond margins, drainage swales, greywater zones
 - **[[gyromitra-esculenta]]
 - [[gyromitra-esculenta]]
+
+## See Also
+
+- [[anthurium-andraeanum]]

@@ -109,7 +109,6 @@ unable to deliver their castings and tunneling benefits to any root zone.
 Sheet mulching, by contrast, places the decomposition process exactly where
 the resulting soil is needed. Nutrients released during decomposition are
 immediately available to plant roots or held in the biological activity of
-the soil food web. Earthworms that colonize the mulch layers are already in
 ## See Also
 
 [[sheet-mulching]] | [[sheet-mulching-guide]] |

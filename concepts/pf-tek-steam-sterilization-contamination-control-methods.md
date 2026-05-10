@@ -133,3 +133,7 @@ However, the margin of safety with atmospheric steam sterilization is narrower t
 - Stamets, P. & Chilton, J.S. (1983). The Mushroom Cultivator. Agarikon Press.
 - Stamets, P. (1996). Psilocybin Mushrooms of the World: An Identification Guide. Ten Speed Press.
 - United States Department of Agriculture. Complete Guide to Home Canning. USDA Bulletin No. 539.
+
+## See Also
+
+- [[pf-tek-bacteria-contamination-detection]]

@@ -22,7 +22,7 @@ This same enzymatic versatility allows fungi to degrade man-made compounds speci
 
 ### 1. Lignin Peroxidase (LiP)
 
-- **Produced by**: White-rot fungi (primarily [[staycare-phanerochaete-chrysosporium-in-bioremediation]])
+- **Produced by**: White-rot fungi (primarily Phanerochaete chrysosporium)
 - **Mechanism**: Generates highly reactive free radicals that attack aromatic rings
 - **Targets**: Lignin, PAHs, PCBs, dioxins, some pesticides
 - **Key feature**: Can cleave carbon-carbon bonds in aromatic structures
@@ -30,7 +30,7 @@ This same enzymatic versatility allows fungi to degrade man-made compounds speci
 
 ### 2. Manganese Peroxidase (MnP)
 
-- **Produced by**: White-rot fungi ([[staycare-phanerochaete-sordida-in-bioremediation]], Phanerochaete chrysosporium, many others)
+- **Produced by**: White-rot fungi (Phanerochaete sordida, Phanerochaete chrysosporium, many others)
 - **Mechanism**: Oxidizes Mn(II) to Mn(III), creating a powerful diffusible oxidant
 - **Targets**: Lignin, phenolic compounds, petrochemicals, dyes
 - **Key feature**: Mn(III) chelates can diffuse away from the mycelium, extending the oxidative reach
@@ -38,10 +38,10 @@ This same enzymatic versatility allows fungi to degrade man-made compounds speci
 
 ### 3. Laccase
 
-- **Produced by**: White-rot fungi ([[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Pleurotus spp.) and many other fungi
+- **Produced by**: White-rot fungi (Trametes versicolor, Pleurotus spp.) and many other fungi
 - **Mechanism**: Four-copper oxidase that reduces oxygen to water while oxidizing phenolic substrates
 - **Targets**: Phenolic compounds, PAHs, dyes, pesticides
-- **Key feature**: Does not require [[cervantes-hydrogen-peroxide-sterilization]] (unlike LiP and MnP)
+- **Key feature**: Does not require hydrogen peroxide (unlike LiP and MnP)
 - **Also produced by**: Mushroom mycelium as a natural defense — peroxidases that break down plant fibers AND kill foreign spores
 
 ## Additional Enzymes
@@ -87,7 +87,7 @@ Stamets provides a chart matching mushroom species to toxin classes:
 
 1. **Pentachlorophenol (PCP)** and other chlorophenols — wood preservatives
 2. **Polychlorinated biphenyls (PCBs)** — industrial coolants/insulators
-3. **[[singh-fungal-biodegradation-of-polycyclic-aromatic-hydrocarbons]] hydrocarbons (PAHs)** — petroleum byproducts
+3. **Polycyclic aromatic hydrocarbons (PAHs)** — petroleum byproducts
 4. **BTEX** — benzene, toluene, ethylbenzene, xylene — petroleum components
 5. **Organophosphates** — pesticides, chemical warfare agents
 6. **PAHs in creosote** — railroad ties, utility poles
@@ -104,7 +104,7 @@ Stamets provides a chart matching mushroom species to toxin classes:
 | Bjerkandera adusta | PAHs, chlorophenols |
 | Lentinula edodes | PAHs, PCP, E. coli, bacteria |
 | Gloeophyllum trabeum | Wood preservatives, creosote |
-| [[maitake-grifola-frondosa-comprehensive-profile]] | E. coli, bacteria |
+| Grifola frondosa | E. coli, bacteria |
 
 ## Strain Training for Targeted Remediation
 

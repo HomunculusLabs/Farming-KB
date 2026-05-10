@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [sourdough, wild-yeast, bread-baking, fermentation, comparison]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 # Sourdough Bread Guide vs [[sourdough-bread-guide]] (focused recipe tutorial) and

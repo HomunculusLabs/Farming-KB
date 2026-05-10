@@ -13,7 +13,7 @@ sources:
   - Dyer, L.A. & Palmer, A.D. (2004). "Piper: A Model Genus for Studies of Phytochemistry, Ecology, and Evolution." Springer.
   - Gupta, M.P. (1995). "270 Plants of South America with Medicinal Properties." CYTED.
   - Ríos, J.L. et al. (2007). "Medicinal plants used in the traditional medicine of Mesoamerica." Journal of Ethnopharmacology, 110(3), 410-422.
-  - Marques, A.M. et al. (2010). "Chemical composition and antimicrobial activity of the [[permaculture-designers-manual-essential-oil-plants]] of Piper auritum." Journal of Ethnopharmacology, 129(1), 149-156.
+  - Marques, A.M. et al. (2010). "Chemical composition and antimicrobial activity of the permaculture-designers-manual-essential-oil-plants of Piper auritum." Journal of Ethnopharmacology, 129(1), 149-156.
 ---
 
 ## Overview

@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, equipment]
-sources: sources:
+sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Stamets Fruiting Substrate Materials and Formulations #mushroom-cultivation #substrate-preparation #materials #sustainable-agriculture Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Ch. 6 "Materials for Formulating a Fruiting Substrate" ## Overview The potential for recycling organic wastes with fungi seems unlimited. Many mushrooms thrive on base materials alien to their natural habitat. Although Oyster mushrooms are generally found on deciduous woods, they grow well on cereal straws, corn cobs, seed hulls, coffee wastes, sugar cane bagasse, paper and pulp by-products, and numerous other materials. Success increases if the base material is modified for optimal structure and moisture, and heat-treated before inoculation. See also [[oyster-mushroom-substrate-preparation]], [[stem-butt-cardboard-cultivation]]

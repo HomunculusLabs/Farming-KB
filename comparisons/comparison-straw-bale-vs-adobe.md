@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [comparison, natural-building, construction, permaculture, sustainable]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: comparison
 ---
 
@@ -100,10 +99,6 @@ moisture resistance) and straw bale for a second story (lighter weight and
 superior insulation for the sleeping area).
 
 ## See Also
-
 - [[adobe-construction]]
 - [[stone-cellar-building]]
-
-## See Also
-
 - [[comparison-straw-bale-vs-rammed-earth]]

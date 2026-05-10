@@ -1,11 +1,10 @@
 ---
-title: comparison-mulching-guide-vs-green-manure-guide
+title: Mulching Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [regenerative, no-till, soil-building, gardening, vegetables, water-management]
-sources:
-  sources: []
+sources: []
 ---
 
 # Mulching Guide
@@ -46,7 +45,7 @@ Mulch is any material spread over the soil surface to conserve moisture, suppres
 - NEVER use clippings from lawns treated with broadleaf herbicides (clopyralid, 2,4-D, dicamba).
 
 ### Cardboard / Newspaper
-- Best for: [[comparison-sheet-mulching-vs-chop-and-drop-mulching]], killing sod, establishing new beds, pathways.
+- Best for: Sheet mulching, killing sod, establishing new beds, pathways.
 - Depth: 2-3 layers cardboard or 5-10 sheets newspaper.
 - Pros: Excellent weed suppression, breaks down within a season, smother grass.
 - Cons: Can block water if overlapping seams are not soaked; may contain glue/tape.
@@ -89,7 +88,7 @@ When carbon-rich mulches (wood chips, sawdust, straw) decompose on the soil surf
 Key points:
 - Surface mulch causes MINIMAL nitrogen tie-up — the effect is concentrated at the mulch-soil interface, not in the root zone.
 - The problem occurs when carbon materials are TILLED into soil, not when laid on top.
-- If nitrogen deficiency appears (yellowing lower leaves), side-dress with blood meal, [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]], or [[solomon-foliar-feeding-fish-emulsion-and-kelp]].
+- If nitrogen deficiency appears (yellowing lower leaves), side-dress with blood meal, composted manure, or fish emulsion.
 - Mixing nitrogen sources (grass clippings, compost) with carbon mulch reduces tie-up risk.
 
 ## Application Rules
@@ -113,8 +112,8 @@ Key points:
 
 ## Related Concepts
 
-- [[hugelkultur-guide]] for mound-based growing with built-in [[hamilton-composting-and-organic-matter-management]]
-- [[composting-methods-comparison]] for converting [[mollison-mulch-materials-sources-and-tropical-application]] into finished compost
+- [[hugelkultur-guide]] for mound-based growing with built-in organic matter
+- [[composting-methods-comparison]] for converting mulch materials into finished compost
 - [[soil-amendment-reference]] for mineral additions beneath mulch
 - [[no-till-gardening-method]] for mulch-based growing systems
 - [[sheet-mulching-lasagna-gardening]] — Sheet Mulching and Lasagna Gardening is the detailed technique for creating no-dig garden beds using layered organic materials.

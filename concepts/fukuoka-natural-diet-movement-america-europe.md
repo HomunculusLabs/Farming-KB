@@ -85,7 +85,7 @@ European practitioners of natural farming combined Fukuoka techniques such as se
 ball broadcasting and no-till cultivation with local traditions of seasonal eating,
 food preservation, and community-based food systems. This integration of Eastern
 philosophy with Western food culture created a unique synthesis that continues to
-influence the European organic and [[biochar-in-regenerative-agriculture]] movements today.
+influence the European organic and [[biochar-in-agriculture]] movements today.
 
 ## Natural Diet and Human Health
 

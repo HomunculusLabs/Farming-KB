@@ -19,7 +19,7 @@ The soil food web is the complex community of organisms living in soil, from mic
 
 ### Bacteria (Foundation Level)
 
-Bacteria are the smallest and most numerous organisms in soil -- 100 million to 1 billion in a single teaspoon. They are primary decomposers that [[query-can-fungi-break-down-plastic-pollution]] simple [[hamilton-composting-and-organic-matter-management]] (sugars, simple carbohydrates) and retain nutrients in their bodies. They produce slime that binds soil particles together into microaggregates, forming the foundation of soil structure. A good garden soil may contain 20,000 to 30,000 different species of bacteria.
+Bacteria are the smallest and most numerous organisms in soil -- 100 million to 1 billion in a single teaspoon. They are primary decomposers that break down simple organic matter (sugars, simple carbohydrates) and retain nutrients in their bodies. They produce slime that binds soil particles together into microaggregates, forming the foundation of soil structure. A good garden soil may contain 20,000 to 30,000 different species of bacteria.
 
 ### Fungi (Foundation Level)
 
@@ -31,7 +31,7 @@ Protozoa are single-celled eukaryotic organisms that eat bacteria (and occasiona
 
 ### Nematodes (Second Predator Level)
 
-Nematodes are nonsegmented roundworms that are the second most dominant form of animal life after [[soil-arthropods|arthropods]]. A teaspoon of good soil averages about 40-50 nematodes. They are classified by feeding habit: bacterial-feeders, fungal-feeders, predators, omnivores, and root-feeders. The [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] feeders are crucial mineralizers. See [[nematodes-in-soil-ecology]].
+Nematodes are nonsegmented roundworms that are the second most dominant form of animal life after [[soil-arthropods|arthropods]]. A teaspoon of good soil averages about 40-50 nematodes. They are classified by feeding habit: bacterial-feeders, fungal-feeders, predators, omnivores, and root-feeders. The bacterial and fungal feeders are crucial mineralizers. See [[nematodes-in-soil-ecology]].
 
 ### Microarthropods (Third Predator Level)
 
@@ -68,11 +68,11 @@ Every member of the soil food web has its place. Each plays a specific role. Eli
 
 ## Key Points
 
-- Plants control the food web through [[mycorrhizal-root-exudates-pathogen-interactions]]
+- Plants control the food web through root exudates
 - Nutrients are retained in microbial biomass and released through predation
 - Soil structure is built by the combined activities of all web members
 - Disease is suppressed through competition and predation
-- [[cervantes-chemical-fertilizers-guide]] bypass the web, leaching through soil; organic inputs feed the web
+- Chemical fertilizers bypass the web, leaching through soil; organic inputs feed the web
 - Compaction, tilling, and chemicals damage the web; compost, mulch, and [[compost-tea-recipe-guide|compost tea]] restore it
 
 ## Related

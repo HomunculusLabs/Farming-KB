@@ -113,5 +113,5 @@ Several Native American peoples traditionally used the seeds of Koeleria and rel
 - [[schizachyrium-scoparium]]
 - [[briza-media]]
 - [[stipa-tenuissima]]
-- [[pennisetum-alpecuroides]]
+- [[pennisetum-alopecuroides]]
 - [[molinia-caerulea]]

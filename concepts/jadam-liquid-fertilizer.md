@@ -1,6 +1,6 @@
 ---
 
-title: JADAM jadam-liquid-fertilizer-nutritional-perspective (JLF)
+title: JADAM Liquid Fertilizer (JLF)
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -21,22 +21,22 @@ sources:
 
 # JADAM Liquid Fertilizer (JLF)
 
-JADAM liquid fertilizer is the simplest fertilizer system in [[coleman-deep-organic-farming-philosophy]]. The key difference from [[knf-preparations]]: **no sugar, no molasses, no purchased microorganisms**. Only three ingredients: plant material, water, and leaf mold. This is the ultra-low-cost approach that makes [[jadam-methods]] possible at $100/acre/year.
+JADAM liquid fertilizer is the simplest fertilizer system in organic farming. The key difference from [[knf-preparations]]: **no sugar, no molasses, no purchased microorganisms**. Only three ingredients: plant material, water, and leaf mold. This is the ultra-low-cost approach that makes [[jadam-methods]] possible at $100/acre/year.
 
 ## Core Philosophy
 
-JADAM's nutritional perspective: "Things similar to my crops are good food for my crops." The best fertilizer for tomatoes is made from tomatoes. Crop residues contain the exact [[jadam-nutritional-balance-fertilizer]] that crop needs.
+JADAM's nutritional perspective: "Things similar to my crops are good food for my crops." The best fertilizer for tomatoes is made from tomatoes. Crop residues contain the exact nutritional balance that crop needs.
 
 ## Three Principles of JADAM Fertilizer Making
 
 1. **Anaerobic** (not aerobic) -- close the lid, minimize air exposure
 2. **Water and leaf mold** (not sugar and molasses) -- indigenous microbes from leaf mold do the work
-3. **[[jadam-ambient-temperature-principle]]** (not heated) -- culture at same temperature as crops
+3. **Ambient temperature** (not heated) -- culture at same temperature as crops
 
 ## Basic Recipe
 
 **Ingredients**:
-- Crop residues or [[jadam-cover-crop-wild-grass-symbiosis]]: fill container
+- Crop residues or wild grass: fill container
 - Water: fill to top
 - Leaf mold: 1 handful (about 500g for 500L container)
 
@@ -111,7 +111,7 @@ Calculate based on 1 ton (264 gal) water per 0.03 ha (0.08 ac).
 
 - Sea salt: up to 0.1% salinity (0.5kg per 500L) -- except for human waste JLF
 - Phyllite powder: 0.2% (1kg per 500L) -- reduces smell
-- [[ultra-low-cost-foliar-application-methods]]: always filter well + mix with JWA (3L per 500L)
+- Foliar application: always filter well + mix with JWA (3L per 500L)
 
 ## See Also
 

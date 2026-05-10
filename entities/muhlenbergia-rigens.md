@@ -107,6 +107,8 @@ The species is a staple of the California native plant landscaping movement. It 
 
 ## See Also
 
+- [[brachiaria-brizantha]]
+
 - [[deschampsia-flexuosa]]
 - [[pennisetum-setaceum]]
 - [[pseudotsuga-menziesii]]

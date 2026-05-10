@@ -137,6 +137,8 @@ a testament to the effectiveness of biological soil management.
 
 ## See Also
 
+- [[coleman-soil-block-transplant-system]]
+
 - [[coleman-winter-harvest-philosophy]]
 - [[winter-succession-planting]]
 - [[coleman-spring-transition]]

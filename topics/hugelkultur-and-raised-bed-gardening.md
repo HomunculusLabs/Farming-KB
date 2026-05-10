@@ -112,7 +112,6 @@ create planting beds without digging. Both approaches share the fundamental
 principle with hugelkultur: building soil from the top down, using organic
 matter as the primary input, and avoiding the soil disturbance that
 conventional tillage entails.
-
 ## See Also
 
 - [[hugelkultur]] for core technique and construction details

@@ -5,7 +5,6 @@ updated: 2026-04-26
 type: concept
 tags: [cannabis, pruning]
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 

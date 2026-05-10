@@ -4,8 +4,7 @@ created: 2026-04-13
 updated: 2026-04-13
 type: concept
 tags: [psilocybin, mushrooms]
-sources:
-  sources: []
+sources: []
 ---
 # Global Distribution of Psilocybin Mushrooms
 

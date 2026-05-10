@@ -139,7 +139,6 @@ McKenna extends the model to contemporary issues:
 The model has been criticized as overly dichotomous (real societies
 exhibit mixtures of both patterns), romanticizing prehistory without
 adequate evidence, and oversimplifying the complexity of cultural
-evolution. Eisler's archaeological interpretations have been questioned
 ## Related Topics
 
 - [[stropharia-cubensis-tree-of-knowledge]] — the mushroom as catalyst

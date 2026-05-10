@@ -61,7 +61,7 @@ inputs applied during this stage include Water-Soluble Calcium (WCA),
 Water-Soluble Phosphoric Acid, and [[chos-natural-farming-nutritive-cycle-theory]]
 
 - [[beneficial-indigenous-microorganisms-bim]] (IMO)](indigenous-microorganisms-imo.md)
-- [Natural Farming Inputs](natural-farming-inputs-cho.md)
+- [[natural-farming-inputs-cho|Natural Farming Inputs]]
 - [Cho's Natural [[fukuoka-do-nothing-farming-philosophy-and-practice]](cho-natural-farming-philosophy.md)
 ## Practical Considerations
 

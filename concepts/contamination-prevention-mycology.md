@@ -58,6 +58,18 @@ conditions. Integration with other system elements enhances
 overall effectiveness and creates beneficial synergies that
 improve resilience and productivity over time.
 
+## Common Contaminants and Identification
+
+Trichoderma (green mold) is the most widespread contaminant in mushroom
+cultivation, recognized by its rapid green sporulation. It thrives on grain
+spawn and can spread aggressively through a cultivation facility via airborne
+spores. Bacterial contamination often presents as a slimy, sour-smelling
+wet spot in grain jars, caused by species such as Bacillus that survive
+insufficient sterilization. Penicillium appears as blue-green colonies on
+substrate surfaces and agar plates. Early identification and immediate removal
+of contaminated containers prevents these organisms from sporulating and
+infecting neighboring cultures.
+
 ## Future Directions
 
 Continued development in this area promises new insights and

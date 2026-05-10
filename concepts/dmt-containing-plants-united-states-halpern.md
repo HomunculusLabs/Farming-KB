@@ -131,6 +131,8 @@ found no adverse health consequences from regular ayahuasca use.
 
 ## See Also
 
+- [[ethocybin]]
+
 - [[salvia-divinorum]]
 - [[psilocybin-mushrooms]]
 - [[peganum-harmala]]

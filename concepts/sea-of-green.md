@@ -3,7 +3,7 @@ title: Sea of Green (SOG)
 created: 2026-04-26
 updated: 2026-04-23
 sources:
-  sources: []
+  - raw/papers/marijuana-horticulture-cervantes.md
   - "Cervantes - Marijuana Horticulture"
 type: concept
 tags: [reference]

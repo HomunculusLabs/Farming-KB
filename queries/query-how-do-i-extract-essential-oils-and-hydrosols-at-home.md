@@ -1,5 +1,5 @@
 ---
-title: "How Do I query how do i extract [[essential-oils-and-hydrosol-distillation]] hydrosols at home Oils and Hydrosols at Home?"
+title: "How Do I query how do i extract query how do i extract [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] hydrosols at home hydrosols at home Oils and Hydrosols at Home?"
 tags: [query, essential-oils, hydrosols, distillation, aromatic-plants, herbalism]
 date: 2026-04-28
 updated: 2026-04-28
@@ -102,6 +102,9 @@ depending on the plant material and still size.
 
 See [[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]]
 - [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]]
+
+See [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] for more on Query How To Make And Use Plant Based Foliar Sprays For Pest And Disease Prevention.
+See [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]] for more on Query What Are The Benefits Of Straw Mulch In The Garden And How Do I Use It.
 
 ## See Also
 

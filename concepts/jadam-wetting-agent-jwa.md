@@ -1,6 +1,6 @@
 ---
 
-title: JADAM jadam-nutrient-management-wetting-agent-and-calcium (JWA) — Natural Surfactant Recipe
+title: JADAM Wetting Agent (JWA) — Natural Surfactant Recipe
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # JADAM Wetting Agent (JWA)
 
-JWA is the most important ingredient in [[jadam-methods]] pesticide system. It is a natural surfactant (soap) made from [[jadam-canola-oil-surfactant-method]] and caustic potash (KOH) without heating. It provides wetting, coating and penetrating power -- without it, no JADAM pesticide works. It also has its own pesticide and germicide effect. Costs under $0.50/L to make. No expiration date.
+JWA is the most important ingredient in [[jadam-methods]] pesticide system. It is a natural surfactant (soap) made from canola oil and caustic potash (KOH) without heating. It provides wetting, coating and penetrating power -- without it, no JADAM pesticide works. It also has its own pesticide and germicide effect. Costs under $0.50/L to make. No expiration date.
 
 Replaces: commercial synthetic surfactants, machine oil, neem oil. 99.9% biodegrades in 5 days.
 
@@ -72,7 +72,7 @@ Solutions for hard water: collect rainwater (discard first 30 min), use a water 
 | Situation | JWA Volume |
 |-----------|-----------|
 | Mild pest/disease, maintenance | 3L (0.8 gal) |
-| Growing [[fukuoka-textdoc-pesticide-creates-pest-problem-citrus-orchard]] | 5L (1.3 gal) |
+| Growing pest problem | 5L (1.3 gal) |
 | Serious infestation | 5-10L (1.3-2.6 gal) |
 | Emergency, one-time only | 10-15L (2.6-4 gal) |
 | Winter dormant spray | 10-20L (2.6-5.3 gal) |
@@ -84,8 +84,8 @@ Do NOT exceed 10L continuously -- can suppress growth and damage white powdery c
 ## What JWA Alone Can Control
 
 - Aphids and mites (early stages)
-- [[cervantes-powdery-mildew-prevention-treatment]] (early stages)
-- Can replace machine oil for winter fruit tree [[comparison-pheromone-based-pest-control-vs-beneficial-insect-biocontrol]]
+- Powdery mildew (early stages)
+- Can replace machine oil for winter fruit tree pest control
 - Moderately effective for improving fruit color and promoting maturity
 
 ## Safety
@@ -107,9 +107,7 @@ Do NOT exceed 10L continuously -- can suppress growth and damage white powdery c
 
 ## See Also
 
-- [[agent-orange]]
-
 - [[jadam-sulfur-js]] — combine with JWA for JS germicide
-- [[jadam-herb-solution-jhs]] — combine with JWA for [[mushroom-pests-insect-control-stamets]]
+- [[jadam-herb-solution-jhs]] — combine with JWA for insect control
 - [[jadam-natural-pesticide-jnp]] — master pesticide combinations
 - [[jadam-methods]] — JADAM system overview

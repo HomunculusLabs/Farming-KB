@@ -117,10 +117,10 @@ mycological community as a landmark in the history of the discipline.
 - [[ingold-cecil-t]]
 - [[terence-mckenna]]
 
-- [Fungal Spore Biology]([[fungal-spore-biology]].md)
-- [Spore Dispersal Mechanisms](spore-dispersal-mechanisms.md)
+- [[fungal-spore-biology|Fungal Spore Biology]]
+- Spore Dispersal Mechanisms
 - [Fungal [[bloomfield-rust-fungi-life-cycles-barberry-wheat]]([[fungal-life-cycles]].md)
-- [A. H. R. Buller (Mycologist)](ahr-buller-mycologist.md)
+- A. H. R. Buller (Mycologist)
 
 ## References
 

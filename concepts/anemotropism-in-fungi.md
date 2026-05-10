@@ -1,135 +1,145 @@
 ---
 title: Anemotropism in Fungi
-source: tropisms-in-the-mushroom-psilocybe-cubensis.md
-tags: [mycology, tropism, anemotropism, mushroom, wind, spore-dispersal]
-created: 2026-05-09
+slug: anemotropism-in-fungi
+source: tropisms-in-the-mushroom-psilocybe-cubensis
+tags:
+  - anemotropism
+  - wind-response
+  - boundary-layer
+  - evaporative-demand
+  - psilocybe-cubensis
+  - phycomyces
+  - fungal-tropism
+created: 2026-05-10
 ---
 
 # Anemotropism in Fungi
 
-Anemotropism is the growth response of an organism to wind or air flow. In
-fungi, anemotropism has been observed in the directed growth of mushroom
-stipes (stems) and sporangiophores toward or away from air currents. The
-phenomenon was formally documented in *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]* by Edmond R.
-Badham in 1982 using controlled wind tunnel experiments, and has parallels in
-the zygomycete fungus *Phycomyces blakesleeanus*.
+Anemotropism is the directional growth response of organisms to wind or air flow.
+It is one of several tropisms documented in [[mushroom-tropisms]], the study of
+how fungi orient their growth in response to environmental stimuli.
 
-## Background
+## Definition and Scope
 
-Tropisms — directional growth responses to environmental stimuli — are
-well-studied in both plants and fungi. Phototropism (response to light) and
-geotropism (response to gravity) have been the most extensively investigated
-fungal tropisms. Anemotropism, the response to wind, has received less
-attention despite its likely ecological importance for [[aquatic-fungi-spore-dispersal-ingold]] in
-aerial fungi.
+The term derives from the Greek *anemos* (wind) and *tropos* (turning).
+In fungi, anemotropism has been most thoroughly studied in basidiomycete
+mushrooms, where it influences stipe orientation during development.
 
-Mushrooms produce basidiospores on the gills (lamellae) of their caps
-(pilei), and the effectiveness of spore dispersal depends in part on the
-orientation of the cap relative to air currents. Anemotropism may therefore
-serve as an adaptive mechanism to optimize spore release and transport.
+Unlike phototropism or gravitropism, anemotropism operates through physical
+and [[brassinosteroid-physiological-mechanisms-cell-elongation-division]] tied to air movement rather than light or gravity.
 
-## Badham's Wind Tunnel Experiments
+## Observations in Psilocybe cubensis
 
-Edmond R. Badham studied *Psilocybe cubensis* in a closed-circuit wind tunnel
-with carefully controlled environmental parameters:
+The primary experimental work on anemotropism in basidiomycetes comes from
+Badham (1982), published in *Mycologia* 74(2):275–279.
 
-- **Wind velocity:** 9 ± 3 cm/sec
-- **Relative humidity:** 94 ± 3%
-- **Temperature:** 24.5 ± 1.5°C
-- **Light:** "Cool white" fluorescent, 2685 lux, 12-hour photoperiod
-- **Light energy:** 0.002 calories/cm²/min
+In *P. cubensis*, [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] up to developmental Stage 2 is directed
+into the prevailing air flow, steering the growing mushroom toward the wind.
+When cultures are rotated perpendicular to the wind, growth resumes upward
+rather than bending back, indicating continuous modulation of the response.
 
-The wind tunnel (working area 43 × 30 × 20 cm) included a blower, polyester
-fiber filter for wind speed reduction, a spin-type humidifier with heater,
-air baffles, soda straws for flow straightening, and a [[cervantes-humidity-control-dehumidification]]
-system using wet and dry thermocouples connected to a strip-chart recorder.
+## Experimental Conditions
 
-### Observed Anemotropic Response
+The anemotropic response is remarkably robust, occurring in both light and
+complete darkness, which rules out interaction with phototropic pathways.
 
-When mushroom primordia at Stage 1 (slight pileus swelling) through Stage 2
-(nearly spherical pileus) were placed in the wind tunnel with horizontal
-airflow, the stipe grew **into the wind** (toward the air source). This
-anemotropic response occurred regardless of whether the initial stipe
-orientation was toward or away from the wind — if the primordia were placed
-with stipes directed away from the wind, they still curved to grow toward
-it.
+It is present in both fertile and sterile basidiocarps, indicating that
+reproductive state is not required for the wind-sensing mechanism.
 
-When cultures were rotated on a turntable with the long axis of the stipe
-perpendicular to the wind (3 rpm), the equalization of the directional wind
-stimulus on all sides of the stipe resulted in upward growth — the default
-negative geotropic response was expressed when the anemotropic stimulus was
-neutralized by rotation.
+Even when stipes are initially directed away from the wind source, they
+gradually curve toward the airflow, overriding the initial growth vector.
 
-### Persistence of Anemotropic Response
+These findings suggest a general-purpose orientation mechanism independent
+of other sensory modalities and reproductive status.
 
-The anemotropic growth response was observed under all of the following
-conditions:
+## Mechanism: Boundary Layer and Evaporative Demand
 
-- With a 12-hour photoperiod and in complete darkness
-- In fertile (spore-producing) and sterile (sporeless mutant) basidiocarps
-- In cultures placed with stipes initially directed toward or away from the
-  wind
+The leading mechanistic explanation involves redistribution of the boundary
+layer around the stipe. The boundary layer is the thin layer of still air
+adjacent to the stipe surface.
 
-This ubiquity suggests that anemotropism in *P. cubensis* is a robust and
-fundamental growth response, not dependent on the presence of light or the
-capacity for spore production.
+Under wind conditions, this layer becomes thinner on the windward side and
+thicker on the leeward side due to differences in shear stress.
 
-## Proposed Mechanisms
+This asymmetry drives differential water vapor redistribution around the
+stipe. On the windward side, the thinner boundary layer allows faster
+exchange of water vapor, creating greater evaporative demand.
 
-### Evaporative Demand Gradient Hypothesis
+Cells on the windward side lose water more rapidly, while the thicker
+leeward boundary layer retards water vapor exchange and reduces stress.
 
-Badham proposed that anemotropism in *P. cubensis* results from a
-redistribution of the boundary layer around the stipe. In wind, the boundary
-layer is thicker on the leeward (downwind) side than on the windward (upwind)
-side. This asymmetric boundary layer creates differential evaporative demand:
-the windward side experiences greater drying than the leeward side.
+This differential evaporative demand causes cells on each side to elongate
+at different rates. Greater expansion on the leeward side produces net
+curvature toward the wind.
 
-Cells on the two sides of the stipe would therefore experience different rates
-of water loss, and this differential could drive asymmetric cell expansion,
-causing the stipe to curve toward the windward side (into the wind). The
-evaporative demand is a function of at least four factors: wind speed,
-humidity, light, and temperature.
+Johnson and Gamow (1971) provided critical support for this model,
+demonstrating that wind is necessary and water vapor plays a central role.
 
-This mechanism has parallels in *Phycomyces blakesleeanus*, where Johnson and
-Gamow (1971) demonstrated the necessity of wind and the importance of water
-vapor to the avoidance response and anemotropism.
+## Possible Role of Ethylene
 
-### Alternative: Mechanical Force Hypothesis
+Russo et al. (1975) suggested that ethylene may mediate the anemotropic
+response. Ethylene influences cell elongation in fungi and could translate
+the evaporative differential into asymmetric growth signaling.
 
-An alternative explanation is that the mushroom responds directly to the
-physical force of the wind. Studies on *Phycomyces* (Dennison, 1961) showed
-that sporangiophore growth responds to both gravity and centrifugal force,
-suggesting that fungi can sense and respond to mechanical stimuli. The wind
-force on the thin, flexible stipe might directly influence the direction of
-cell expansion.
+The exact role of ethylene remains an open question requiring further
+experimental investigation.
 
-### Gas Redistribution Hypothesis
+## Alternative: Mechanical Force Response
 
-Wind could also cause redistribution of gases other than water vapor around
-the stipe. Russo et al. (1975) suggested that ethylene may be involved in the
-avoidance response in *Phycomyces*. If similar gas-mediated signaling
-operates in *P. cubensis*, wind-induced concentration gradients of ethylene
-or other [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] could influence the growth direction.
+An alternative hypothesis proposes that anemotropism results from direct
+mechanical force. Physical bending stress from wind on the stipe could
+trigger a thigmotropic growth correction.
+
+This mechanical explanation does not exclude the boundary layer model;
+both mechanisms could operate simultaneously or in different contexts.
+
+## Comparison with Phycomyces blakesleeanus
+
+Anemotropism is not limited to basidiomycetes. The zygomycete
+*Phycomyces blakesleeanus* exhibits a similar wind-directed growth response,
+along with a well-characterized avoidance response.
+
+In *Phycomyces*, the sporangiophore bends away from obstacles and also
+responds to air currents. The mechanistic parallels with *Psilocybe cubensis*
+suggest anemotropism may be conserved across major fungal lineages.
+
+Comparative data from *Phycomyces* strengthen the boundary layer hypothesis,
+as similar physical principles apply to its tall aerial sporangiophores.
 
 ## Adaptive Significance
 
-Anemotropism likely serves an adaptive function by positioning the mushroom
-cap in the most favorable orientation for spore dispersal. Growing into the
-wind would place the cap upwind of the stipe, allowing released spores to be
-carried away from the immediate vicinity of the [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] by the air
-current. This reduces the probability of spores falling back onto the
-substrate near the parent organism and increases the likelihood of dispersal
-to new habitats.
+Anemotropism likely confers two key ecological advantages.
 
-Anemotropism may also serve to increase spacing between the stipes of
-cespitose (clustered) fruiting bodies, reducing competition for air flow and
-improving spore dispersal efficiency for individual mushrooms within a dense
-cluster.
+First, it positions the cap favorably for [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]] by orienting the
+[[bloomfield-mushroom-formation-fruiting-body-development-cultivation]] into prevailing airflow, maximizing [[mushroom-veil-function-wind-light-protection-prior-to-spore-release]] and transport.
 
+Second, in cespitose (clustered) [[bloomfield-asterophora-and-mycoparasites-of-fruiting-bodies]], anemotropic curvature
+increases spacing between adjacent stipes, reducing competition for air flow
+and preventing spores from landing on neighboring caps.
+
+Together, these benefits suggest anemotropism has been selectively maintained
+because it directly enhances reproductive success.
+
+## Summary
+
+Anemotropism is a wind-directed growth response documented in fungi including
+*Psilocybe cubensis* and *Phycomyces blakesleeanus*.
+
+The mechanism most likely involves asymmetric boundary layer distribution
+creating differential evaporative demand, though mechanical force responses
+and ethylene signaling may also contribute.
+
+The response is robust across light conditions and reproductive states,
+representing an important component of [[mushroom-tropisms]] that govern
+fungal developmental orientation.
+
+## References
+
+- Badham, E.R. (1982). Tropisms in the mushroom *Psilocybe cubensis*.
+  *Mycologia* 74(2): 275–279.
+- Johnson, D.L. and Gamow, R.I. (1971). The avoidance response of
+  *Phycomyces*. *Journal of General Physiology* 57: 41–56.
+- Russo, V.E.A., et al. (1975). Ethylene and the growth of
+  *Phycomyces*. *Plant Physiology* 56: 837–840.
 ## See Also
-
-- [[mushroom-geotropism]]
-- [[psilocybe-cubensis-development-stages]]
-- [[mushroom-tropisms-phototropism-geotropism|Tropism]]
-- [[spore-dispersal]]
-- phycomyces
+- [[windward-leeward-boundary-layer-redistribution-stipe-curvature-badham-1982]]

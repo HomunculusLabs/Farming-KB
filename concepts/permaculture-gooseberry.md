@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [permaculture, design]
-sources:
-  sources: []
+sources: []
 ---
 Updated: 2026-04-18 Gooseberry (Ribes uva-crispa) is a hardy shrub producing tart edible berries, valued in European cuisine but restricted in some [[growing-gourmet-north-american-reishi-species]] regions due to white pine blister rust concerns. It is a productive addition to [[backyard-orchard-design]] layouts.
 

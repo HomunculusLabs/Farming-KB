@@ -29,7 +29,7 @@ Approximately 1,000+ species of marine fungi have been described, but the true d
 ## Habitats
 
 ### Mangrove Ecosystems
-Mangroves are the most productive habitat for marine [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]. Fungi colonize:
+Mangroves are the most productive habitat for marine fungal diversity. Fungi colonize:
 - **Prop roots and pneumatophores**: Large surface area for fungal colonization
 - **Submerged wood**: Driftwood and woody debris in intertidal zone
 - **Leaves**: Both attached and detrital mangrove leaves
@@ -41,7 +41,7 @@ Mangroves are the most productive habitat for marine [[arbuscular-mycorrhizal-fu
 - Many species are restricted to specific mangrove tree species
 
 ### Driftwood and Submerged Wood
-- Drifting wood at sea supports diverse [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+- Drifting wood at sea supports diverse fungal communities
 - Wood submerged at various depths (intertidal to deep sea)
 - Succession follows similar patterns to terrestrial wood decay
 - Distinct species assemblages at different depths and salinities
@@ -66,7 +66,7 @@ Mangroves are the most productive habitat for marine [[arbuscular-mycorrhizal-fu
 ### Coral Reefs and Marine Invertebrates
 - Endophytic fungi in corals, sponges, and algae
 - Fungal diseases of corals (e.g., aspergillosis of sea fans)
-- Symbiotic fungi in marine sponges produce [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]
+- Symbiotic fungi in marine sponges produce bioactive compounds
 - Fungi associated with marine algae (endophytes and parasites)
 
 ## Major Taxonomic Groups
@@ -81,7 +81,7 @@ Mangroves are the most productive habitat for marine [[arbuscular-mycorrhizal-fu
 
 **Adaptations**:
 - Ascospores often with adhesive appendages for attachment to substrata in moving water
-- Some species with forced [[bloomfield-ascospore-discharge-mechanisms-ascomycetes]]; others rely on passive release
+- Some species with forced ascospore discharge; others rely on passive release
 - Fruiting bodies (ascocarps) adapted to resist waterlogging
 
 ### Basidiomycetes
@@ -114,7 +114,7 @@ Mangroves are the most productive habitat for marine [[arbuscular-mycorrhizal-fu
 - **Pressure tolerance**: Deep-sea fungi withstand hydrostatic pressure
 - **Spore morphology**: Appendaged spores, sticky coatings for attachment
 - **Enzyme systems**: Halotolerant enzymes; some active at high salt concentrations
-- **Nutrient utilization**: Ability to use refractory [[fungal-volatile-organic-compounds-communication]] common in marine environments
+- **Nutrient utilization**: Ability to use refractory organic compounds common in marine environments
 - **Osmotic regulation**: Compatible solutes (glycerol, mannitol, arabitol) for osmotic balance
 
 ## Ecological Roles
@@ -131,7 +131,7 @@ Mangroves are the most productive habitat for marine [[arbuscular-mycorrhizal-fu
 - Some species parasitize marine invertebrates (sponges, mollusks)
 
 ### Symbiosis
-- Endophytes in marine plants (seagrasses, mangroves) provide [[fungal-lichen-stress-tolerance-and-poikilohydry]]
+- Endophytes in marine plants (seagrasses, mangroves) provide stress tolerance
 - Fungal-algal associations in marine lichens (some crustose lichens in intertidal zones)
 - Symbionts in marine sponges
 
@@ -140,10 +140,11 @@ Mangroves are the most productive habitat for marine [[arbuscular-mycorrhizal-fu
 - Denitrification by some marine fungi
 - Degradation of marine pollutants
 
-## Related Topics
+## Collection and Study Methods
 
-- [[freshwater-fungi-biodiversity]] — Freshwater fungal diversity
-- [[fungal-biodiversity-biogeography]] — Global diversity patterns
-- [[fungal-ecology-extreme-environments]] — Fungi in extreme habitats
-- [[fungal-enzymatic-capabilities]] — Fungal enzyme systems
-- [[saprotrophic-fungi]] — Decomposer strategies
+- Collect wood, leaves, and other substrata from intertidal and subtidal zones
+- Incubate in moist chambers with seawater (not freshwater)
+- Seawater agar or cornmeal seawater agar for isolation
+- Halophytophthora baited from sediments using hemp seeds or grass blades
+- Molecular methods (DNA from seawater and sediment) revealing hidden diversity
+- KMV Agar with streptomycin for marine/clinical isolates

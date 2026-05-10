@@ -103,6 +103,8 @@ The fluffy, cottony pith material extracted from the stems was used as wound dre
 
 ## See Also
 
+- [[schoenoplectus-tabernaemontani]]
+
 - typha-latifolia-entity
 - [[typha-angustifolia]]
 - [[phragmites-australis]]

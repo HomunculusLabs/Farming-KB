@@ -15,7 +15,7 @@ sources:
   - NOAA (2023). "Sargassum horneri Invasive Species Alert." NOAA National Marine Sanctuaries.
   - Yoon, Y.H. et al. (2014). "Distribution of Sargassum horneri in Korean Waters." Algae 29(1): 13–20.
   - Komatsu, T. et al. (2014). "Sargassum horneri Invasion in the Northeast Pacific." Coastal Management 42(1): 1–13.
-  - Li, R. et al. (2020). "[[dighton-fungal-nutritional-composition-animal-diets]] of Sargassum horneri." Journal of Applied Phycology 32: 2029–2038.
+  - Li, R. et al. (2020). "dighton-fungal-nutritional-composition-animal-diets of Sargassum horneri." Journal of Applied Phycology 32: 2029–2038.
 ---
 
 ## Overview

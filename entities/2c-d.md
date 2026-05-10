@@ -119,7 +119,7 @@ Many European countries have scheduled 2C-D or its parent class of 2C phenethyla
 ## See Also
 
 - [[2c-e]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[pihkal-2c-e]]
 - [[ann-shulgin]]
 - [[lsd]]

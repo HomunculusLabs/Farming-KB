@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán, G., Allen, J.W. & Gartz, J. (2000). "Worldwide global-distribution-of-neurotropic-fungi fungi." Mycotaxon.
-  - Stamets, P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
+  - Stamets, P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Gartz, J. (1995). "Distribution and ecology of psilocybin fungi in the tropics." Mycological Research.
   - https://www.mycobank.org/ - Taxonomic classification
 ---

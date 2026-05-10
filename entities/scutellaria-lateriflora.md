@@ -74,6 +74,7 @@ Contemporary Western herbalism continues to use S. lateriflora as a primary nerv
 
 ## See Also
 
-## See Also
-
+- [[herbal-tinctures-guide]]
 - [[herbal-medicine-making-basics]]
+
+For further reading, see [[scutellaria-baicalensis]].

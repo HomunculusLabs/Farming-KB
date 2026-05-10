@@ -39,13 +39,11 @@ aeration) can enhance biomethylation rates. Future research directions
 include the identification of novel fungal species with enhanced
 methylation capabilities and the development of genetically improved
 strains for [[fungi-in-the-environment-bioremediation-applications]].
-## See Also
 
+## See Also
 - [[staycare-fungal-biosorption-of-heavy-metals]]
-
-## See Also
-
 - [[singh-fungal-transformation-metals-metalloids]]
+
 ## Practical Considerations
 
 When working with Fungal Biomethylation of Metals and Metalloids, several practical factors should be

@@ -115,4 +115,6 @@ expertise and contributing to the ongoing evolution of this field.
 
 ## See Also
 
+- [[mushroom-phototropism]]
+
 - [[mushroom-tropisms]]

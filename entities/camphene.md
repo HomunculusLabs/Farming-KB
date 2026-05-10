@@ -13,7 +13,7 @@ created: 2026-04-28
 updated: 2026-04-28
 sources:
   - Seki, T., et al. (2010). "Anti-inflammatory Activity of Monoterpenes." Inflammation, 33(5), 353-357.
-  - Vallverdú-Queralt, A., et al. (2015). "[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in Essential Oils." Phytochemistry Reviews, 14(5), 745-766.
+  - Vallverdú-Queralt, A., et al. (2015). "query-what-are-the-main-bioactive-compounds-in-medicinal-plants in Essential Oils." Phytochemistry Reviews, 14(5), 745-766.
   - https://pubchem.ncbi.nlm.nih.gov/compound/camphene
   - https://www.phytochemistryjournal.com/
 ---

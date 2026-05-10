@@ -143,7 +143,6 @@ plant-driven filtering: bulk soil harbors the full soil microbiome diversity,
 the rhizosphere enriches for root-exudate-adapted taxa, and the endorhiza
 further selects for taxa capable of root interior colonization. See
 [[cannabis-endorhiza-microbiome]] for specific Chao1 richness values.
-
 ## See Also
 - [[two-tier-selection-model-plant-microbiome]] — Two-tier selection framework
 - [[cannabis-endorhiza-microbiome]] — Root interior communities

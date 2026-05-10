@@ -130,8 +130,9 @@ The comparison between *Phycomyces* and *P. cubensis* tropism mechanisms suggest
 3. **What is the gill-derived substance** that triggers Phase 2 geotropism — is it a known plant hormone, a novel fungal compound, or a modified endocannabinoid-like molecule?
 4. **Do other basidiomycetes** show similar two-phase tropic programs, or is this unique to coprophilous species?
 5. **Can the boundary layer redistribution model** be directly tested with modern humidity sensors and computational fluid dynamics?
+## Related
 
-## Related Concepts
+- [[wind-tunnel-methodology-mushroom-tropism-research]] Concepts
 
 - [[two-phase-directed-growth-psilocybe-cubensis-basidiocarp-development]] — The two-phase model for P. cubensis
 - [[anemotropism-in-fungi]] — Wind-directed growth in [[brassinosteroid-fungal-fruiting-body-morphology]] bodies

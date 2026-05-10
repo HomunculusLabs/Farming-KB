@@ -141,7 +141,6 @@ jar neck can mitigate this problem.
 ## Key References
 
 - Cultivation of fruitbodies and sclerotia on sterilised grass seed.
-  Anonymous cultivation guide. Exotic spore supplier documentation.
 ## See Also
 
 - [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]]

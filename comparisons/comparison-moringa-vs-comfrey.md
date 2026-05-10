@@ -3,8 +3,7 @@ title: "Moringa vs Comfrey"
 tags: [comparison, moringa, comfrey, permaculture, dynamic-accumulators]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 
 # comfrey
@@ -25,16 +24,12 @@ cuts through autumn. In container growing, moringa can be overwintered
 indoors while comfrey remains productive outside year-round.
 
 ## See Also
-
-- nutrient and [[comparison-dynamic-accumulators-vs-cover-crops]]
-- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] and polycultures
-- comparison [[comparison-comfrey-tea-vs-compost-tea]] vs compost tea
-- comparison dynamic accumulators vs cover crops
-- soil [[green-cannabis-grow-bible-nutrient-management-ppm]] and plant nutrition
-
-## See Also
-
+- [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]]
 - [[comparison-nettle-vs-comfrey]]
+- [[comparison-comfrey-tea-vs-compost-tea]]
+- [[decomposition]]
+- [[comparison-dynamic-accumulators-vs-cover-crops]]
+
 ## Practical Applications
 
 Moringa vs Comfrey has a range of practical applications that make it relevant to

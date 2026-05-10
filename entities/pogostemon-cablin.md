@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - Hu, C.Y. et al. (2016). "Pogostemon cablin: A review of phytochemistry, bioactivities, and uses." Journal of Ethnopharmacology, 194, 844–853.
   - SWHA (2017). "Patchouli oil (Pogostemon cablin)." In WHO Monographs on Medicinal Plants, Vol. 5, WHO, Geneva.
-  - Lawrence, B.M. (2003). "Patchouli: The raw material, its [[cannabis-resin-production-and-quality-traits-clarke]]." In Essential Oils, Allured Publishing, 211–238.
+  - Lawrence, B.M. (2003). "Patchouli: The raw material, its cannabis-resin-production-and-quality-traits-clarke." In Essential Oils, Allured Publishing, 211–238.
 ---
 
 ## Overview

@@ -80,3 +80,8 @@ Kava and kratom face very different regulatory environments:
 ## Bottom Line
 
 Kava and kratom are frequently compared because both are botanical psychoactives used for relaxation and well-being, but they are fundamentally different in pharmacology, cultural context, and risk profile. Kava is a GABAergic anxiolytic with deep ceremonial roots, minimal addiction potential, and a good safety record when sourced properly. Kratom is an opioid receptor modulator with stimulant-analgesic biphasic effects, moderate dependence potential, and a more uncertain regulatory future. They serve different purposes and should not be considered interchangeable.
+
+## See Also
+
+- [[kava]]
+- [[kratom]]

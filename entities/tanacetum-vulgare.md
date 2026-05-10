@@ -14,7 +14,7 @@ tags:
 sources:
   - "Foster, S. & Duke, J.A. (1990). A ghouled-field-guide-historical-context to Medicinal Plants. Houghton Mifflin."
   - "Mabey, R. (1996). Flora Britannica. Sinclair-Stevenson."
-  - "Duke, J.A. (2002). Handbook of [[permaculture-plants-medicinal-herbs-healing]], 2nd ed. CRC Press."
+  - "Duke, J.A. (2002). Handbook of permaculture-plants-medicinal-herbs-healing, 2nd ed. CRC Press."
   - "Stoilov, I. et al. (2005). \"Traditional medicinal plants of Bulgaria.\" Fitoterapia, 76(3–4), 273–281."
   - "https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:186896-1"
 ---
@@ -26,7 +26,7 @@ sources:
 *Tanacetum vulgare*, commonly known as tansy, is a perennial herbaceous plant in the aster family (Asteraceae), native to temperate Europe and Asia. It is recognized for its strong aromatic foliage, bright yellow button-shaped flower heads, and its long history of use in traditional European medicine, [[cannabis-pest-management-guide]], and culinary applications.
 
 Tansy contains thujone, a bioactive monoterpene ketone also found in [[artemisia-absinthium]] — Wormwood, another thujone-containing medicinal plant
-- achillea-millefolium — Yarrow, a companion permaculture herb with similar ecological roles
+- achillea-millefolium — Yarrow, a companion [[permaculture-herb-spiral-design]] with similar [[ecological-roles-fungi-ecosystems]]
 - [[mentha-piperita]] — Peppermint, an aromatic companion plant with insect-repellent properties
 - [[thujone]] — The primary bioactive compound in tansy
 - tagetes-erecta-entity — Marigold, another insect-repellent companion plant in agriculture
@@ -47,7 +47,7 @@ essential for achieving optimal results regardless of scale.
 Documented case studies provide valuable reference points, though
 each situation presents unique combinations of opportunities and
 constraints that require context-specific solutions. The most
-successful implementations combine established best practices with
+successful implementations combine established [[arbuscular-mycorrhizal-inoculum-production-best-practices]] with
 creative adaptation to local conditions and emerging challenges.
 
 ## Key Considerations
@@ -97,7 +97,7 @@ more robust and productive overall systems. This integrative approach
 is increasingly recognized as essential for sustainable outcomes.
 
 Future development in this area is likely to be driven by advances
-in scientific understanding, new technological capabilities, and the
+in [[fukuoka-fallacies-scientific-understanding]], new technological capabilities, and the
 growing urgency of environmental and social challenges. Staying
 current with developments and maintaining openness to new approaches
 helps practitioners continue to improve their effectiveness over time.

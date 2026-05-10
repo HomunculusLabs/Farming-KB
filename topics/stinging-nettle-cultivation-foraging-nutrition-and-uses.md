@@ -4,8 +4,7 @@ subtitle: "The multifunctional powerhouse plant of permaculture, herbal medicine
 tags: [permaculture, dynamic-accumulators, medicinal-herbs, foraging, fiber-crops]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 related_concepts:
   - comfrey-as-dynamic-accumulator
   - nutrient-and-dynamic-accumulators
@@ -129,7 +128,6 @@ protein by weight, making it comparable to legumes in protein density. It is
 exceptionally rich in minerals, particularly iron (up to 40 mg per 100g of
 dried leaf), calcium (up to 4,800 mg per 100g), magnesium, potassium, and
 zinc. It also provides significant amounts of vitamins A, C, K, and several B
-vitamins including folate.
 ## See Also
 
 - mollison-designers-dynamic-accumulators-comfrey

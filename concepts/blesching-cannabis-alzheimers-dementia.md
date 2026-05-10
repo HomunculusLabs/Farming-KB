@@ -59,7 +59,7 @@ reduce the risk of the disease.
 
 ## Cannabis and Alzheimer's Disease
 
-Recent experiments suggest the [[cannabis-health-endo-cannabinoid-system]] may play a significant
+Recent experiments suggest the [[endocannabinoid-neurogenesis-neuroplasticity-blesching]] may play a significant
 role in the development of AD. A study from Madrid, Spain (2005), discovered
 that "cannabinoid receptors are important in the pathology of AD and that
 cannabinoids succeed in preventing the neurodegenerative process occurring in

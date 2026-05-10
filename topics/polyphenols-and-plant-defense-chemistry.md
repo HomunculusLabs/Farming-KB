@@ -43,7 +43,7 @@ Flavonoids are the largest and most studied subclass of polyphenols, with over 6
 - **Flavonols**: Quercetin, kaempferol, myricetin, and isorhamnetin. Quercetin is among the most widely distributed flavonoids in nature, found in onions, apples, berries, capers, and broccoli. It is a potent antioxidant and anti-inflammatory agent.
 - **Flavones**: Apigenin, luteolin, baicalein. Found in parsley, celery, chamomile, and Scutellaria species. Luteolin is a key compound in the defense chemistry of many medicinal plants.
 - **Flavanones**: Hesperidin, naringenin, eriodictyol. Primarily found in citrus fruits, these contribute to the bitter taste of grapefruit peel and have cardioprotective properties.
-- **Flavanols (Catechins)**: (+)-Catechin, (-)-epicatechin, epigallocatechin gallate (EGCG), gallocatechin. Catechins are the principal polyphenols in green tea ([[tea-cultivation-and-camellia-sinensis-processing]]) and cacao (Theobroma cacao). EGCG is the most abundant and biologically active catechin in green tea.
+- **Flavanols (Catechins)**: (+)-Catechin, (-)-epicatechin, epigallocatechin gallate (EGCG), gallocatechin. Catechins are the principal polyphenols in green tea (tea cultivation and camellia sinensis processing) and cacao (Theobroma cacao). EGCG is the most abundant and biologically active catechin in green tea.
 - **Anthocyanins**: Cyanidin, delphinidin, pelargonidin, peonidin, petunidin, malvidin. These water-soluble pigments produce the red, purple, blue, and orange colors of flowers, fruits, and autumn leaves. They serve dual roles as visual attractants for pollinators and UV-protective compounds. Major dietary sources include berries, grapes, red cabbage, and eggplant.
 - **Isoflavones**: Genistein, daidzein, glycitein. Almost exclusively produced by leguminous plants (Fabaceae), isoflavones are phytoestrogens that play roles in plant-microbe signaling—particularly in the [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation|nitrogen-fixing symbiosis]] between legumes and rhizobia. Soybeans are the richest dietary source.
 - **Chalcones and Dihydrochalcones**: Phloridzin (found in apples), arbutin, xanthohumol (from hops). These are biosynthetic precursors to other flavonoids but also have significant biological activity in their own right.
@@ -91,7 +91,7 @@ Polyphenol biosynthesis is highly responsive to environmental cues:
 - **Biotic stress**: Pathogen attack triggers massive upregulation of phytoalexin biosynthesis (resveratrol in grapes, glyceollins in soybeans, camalexin in Arabidopsis). The signaling cascades involve [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]], jasmonic acid, and ethylene.
 - **Abiotic stress**: UV-B radiation strongly induces flavonol and anthocyanin accumulation as a sunscreen mechanism. Drought, cold, heavy metals, and [[cannabis-grow-nutrient-deficiency-problem-solving]] also modulate polyphenol profiles.
 - **Developmental regulation**: Polyphenol composition changes dramatically during fruit ripening (anthocyanin accumulation), leaf senescence, and seed maturation.
-- **Circadian rhythms**: Some polyphenol biosynthetic genes show diurnal expression patterns, leading to time-of-day variation in leaf polyphenol content.
+- **circadian rhythms**: Some polyphenol biosynthetic genes show diurnal expression patterns, leading to time-of-day variation in leaf polyphenol content.
 
 ## Role in Plant Defense
 
@@ -131,12 +131,11 @@ Polyphenols are potent antioxidants that protect plant cells from reactive oxyge
 | Resveratrol | Stilbene | Grape skins, Japanese knotweed, peanuts, blueberries | Phytoalexin, antioxidant, anti-inflammatory, cardioprotective |
 | Quercetin | Flavonol | Onions, capers, apples, berries, broccoli | Most widely distributed flavonol; potent antioxidant |
 | EGCG | Flavanol (Catechin) | Green tea (Camellia sinensis) | Strongest antioxidant among catechins; neuroprotective |
-| Curcumin | Curcuminoid | Turmeric (Curcuma longa) rhizome | Anti-inflammatory, antimicrobial, anticancer |
+| Curcumin | Curcuminoid | Turmeric ([[curcuma-longa]]) rhizome | Anti-inflammatory, antimicrobial, anticancer |
 | Epicatechin | Flavanol | Cacao, tea, apples, grapes | Cardiovascular benefits; improves endothelial function |
 | Caffeic acid | Hydroxycinnamic acid | Coffee, artichokes, burdock root | Antioxidant, precursor to chlorogenic acid |
 | Chlorogenic acid | Phenolic acid ester | Coffee, eggplant, apples, pears | Antioxidant, modulates glucose metabolism |
 | Gallic acid | Hydroxybenzoic acid | Tea, sumac, berries, grapes | Precursor to gallotannins; antimicrobial |
-| Kaempferol | Flavonol | Kale, beans, tea, spinach, berries | Anti-inflammatory, cardioprotective |
 ## See Also
 
 - [[plant-defense-chemistry-and-secondary-metabolites|Plant Defense Chemistry and Secondary Metabolites]]

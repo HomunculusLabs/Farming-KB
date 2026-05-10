@@ -97,6 +97,8 @@ Hardiness is generally rated to USDA zone 3, reflecting its native range across 
 
 ## See Also
 
+- [[botrychium-virginianum]]
+
 - [[matteuccia-struthiopteris]]
 - [[osmunda-regalis]]
 - [[lycopodium-clavatum]]

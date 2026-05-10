@@ -134,7 +134,7 @@ along with myristicin and other compounds.
   monitoring in some jurisdictions
 
 ## See Also
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[psilocybin]]
 
 See also: [[peyote-and-psychoactive-cacti]]

@@ -140,7 +140,6 @@ Ginger is generally safe at culinary and therapeutic doses (1–4 g/day dried):
 - **Side effects:** Mild heartburn, diarrhea, mouth irritation at high doses
 - **Pregnancy:** Safe for nausea up to 1.5 g/day; avoid >4 g/day (theoretical uterine stimulation risk)
 - **[[cannabis-drug-interactions-and-contraindications]]:** Potentiates anticoagulants (warfarin, aspirin); enhances hypoglycemic drugs; may reduce absorption of concurrent medications
-- **Contraindications:** Gallstone disease, bleeding disorders
 ## See Also
 
 - [[sesamum-indicum]]

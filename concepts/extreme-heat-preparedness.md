@@ -9,14 +9,14 @@ sources: []
 
 # Extreme Heat Preparedness
 
-Extreme heat is the deadliest weather-related hazard in the [[dmt-containing-plants-united-states-halpern]], causing more fatalities than hurricanes, tornadoes, floods, and earthquakes combined. Homesteaders face unique heat risks due to outdoor physical labor, limited access to cooling infrastructure, and the need to care for livestock and crops.
+Extreme heat is the deadliest weather-related hazard in the United States, causing more fatalities than hurricanes, tornadoes, floods, and earthquakes combined. Homesteaders face unique heat risks due to outdoor physical labor, limited access to cooling infrastructure, and the need to care for livestock and crops. (see [[permaculture-climate-adaptation]]).
 
 ## Understanding Heat Risk
 
 **Heat Advisory:** Heat index of 100-104°F for 2+ hours
 **Excessive Heat Warning:** Heat index of 105°F+ for 2+ hours
 
-The heat index accounts for humidity. High humidity prevents sweat from evaporating, which is the body's primary cooling mechanism. A temperature of 90°F with 70% humidity feels like 106°F.
+The heat index accounts for humidity. High humidity prevents sweat from evaporating, which is the body's primary cooling mechanism. A temperature of 90°F with 70% humidity feels like 106°F. (see [[comparison-fermented-vegetables-vs-canning]]).
 
 Key terms:
 - **Heat exhaustion:** Heavy sweating, weakness, cold/clammy skin, fast/weak pulse, nausea. Can progress to heat stroke.
@@ -83,7 +83,7 @@ Livestock suffer severely during heat waves because they cannot escape condition
 - Provide continuous access to shade — natural or constructed
 - Ensure unlimited access to cool, clean water — consumption doubles or triples
 - Check water sources multiple times daily
-- Add electrolytes to water if animals show [[query-how-do-i-manage-heat-stress-in-my-cannabis-garden]]
+- Add electrolytes to water if animals show heat stress
 - Avoid handling, transporting, or working livestock during peak heat
 - Ensure adequate ventilation in all animal shelters
 

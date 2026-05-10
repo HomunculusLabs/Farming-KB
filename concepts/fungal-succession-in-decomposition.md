@@ -22,15 +22,15 @@ When a tree falls or organic matter is deposited on soil, a predictable sequence
 
 ### Stage 2: Secondary Decomposers (Months to Years)
 - **White-rot fungi**: The dominant wood decomposers
-- Species: [[staycare-phanerochaete-chrysosporium-in-bioremediation]], [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Pleurotus ostreatus, Fomes fomentarius
-- Characteristics: Produce [[singh-ligninolytic-enzymes-fungal-bioremediation]] (laccase, lignin peroxidase, [[fungal-manganese-peroxidase-remediation]])
+- Species: Phanerochaete chrysosporium, Trametes versicolor, Pleurotus ostreatus, Fomes fomentarius
+- Characteristics: Produce ligninolytic enzymes (laccase, lignin peroxidase, manganese peroxidase)
 - Role: Break down lignin and cellulose simultaneously — full wood decomposition
 - Create characteristic white, bleached appearance in wood
 - Most efficient decomposers of hardwood
 
 ### Stage 3: Tertiary Decomposers (Years to Decades)
 - **Brown-rot fungi**: Specialize in cellulose decomposition
-- Species: [[fungal-serpula-lacrymans-dry-rot-buildings]], Gloeophyllum trabeum, Piptoporus betulinus ([[iceman-otzi-birch-polypore-prehistoric-mushroom-use]])
+- Species: Serpula lacrymans, Gloeophyllum trabeum, Piptoporus betulinus (birch polypore)
 - Characteristics: Produce Fenton reaction (H2O2 + Fe2+) to depolymerize cellulose
 - Role: Remove cellulose and hemicellulose, leave lignin behind
 - Create characteristic brown, cubical cracking in wood

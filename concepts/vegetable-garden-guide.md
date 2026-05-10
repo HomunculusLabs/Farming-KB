@@ -1,6 +1,6 @@
 ---
 
-title: fukuoka-dutch-priest-vegetable-garden-spiritual-renewal Guide
+title: Vegetable Garden Guide
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -25,7 +25,7 @@ sources:
 
 # Vegetable Garden Guide
 
-Comprehensive reference for home [[home-vegetable-garden-planning]] based on Purdue University Extension guidelines (Lerner & Dana, HO-32-W). Covers planning, soil preparation, planting, care, and harvest.
+Comprehensive reference for home vegetable gardening based on Purdue University Extension guidelines (Lerner & Dana, HO-32-W). Covers planning, soil preparation, planting, care, and harvest.
 
 ## Site Selection
 
@@ -74,7 +74,7 @@ Vegetables grow best in open, level areas with loose, rich, well-drained soil. M
 
 ## Fertilization
 
-The fertilization program covers four steps: establishing basic fertility via soil test, annual NPK maintenance, high-phosphorus starter solution for transplants, and crop-specific nitrogen side-dressing. Soil pH adjustment (sulfur or limestone) and [[hamilton-composting-and-organic-matter-management]] management (peat moss, compost, manures, green manures) are also covered. See [[vegetable-garden-fertilization]] for the complete program including rates and timing tables.
+The fertilization program covers four steps: establishing basic fertility via soil test, annual NPK maintenance, high-phosphorus starter solution for transplants, and crop-specific nitrogen side-dressing. Soil pH adjustment (sulfur or limestone) and organic matter management (peat moss, compost, manures, green manures) are also covered. See [[vegetable-garden-fertilization]] for the complete program including rates and timing tables.
 
 ## Planting Technique
 
@@ -132,18 +132,19 @@ If you can crumble a soil ball with your fingers, it is ready to plant. If it cl
 5. Hand-pick insect pests when possible
 6. Use commercial sprays/dusts as directed, covering undersides of leaves
 
+## Frost Protection
+
+Cover tender crops (tomatoes, peppers, eggplants) with cardboard boxes, blankets, hot caps, fabric row covers, or newspaper tents. Do not let covers touch plants. Never use metal or plastic sheets (conduct cold). Remove covers in morning.
+
+## Harvest and Storage
+
+Detailed harvest timing and storage conditions for all 25+ crops, organized by storage category (cold/moist, cool/dry, warm/dry, warm/moist) and crop type (root vegetables, cole crops, greens, legumes, vine crops, fruiting vegetables). See [[vegetable-garden-harvest]] for the complete guide.
+
+## Season End
+
+- Clean, repair, and sharpen tools; store dry
+- Wipe metal blades with oily rag to prevent rust
+- Drain fuel and oil from power tools
+- Store pesticides safely, protected from temperature extremes
+
 ## See Also
-
-- [[vegetable-garden-fertilization]] — Complete fertilization program, pH adjustment, organic matter
-- [[vegetable-garden-harvest]] — [[cannabis-harvest-timing-visual-cues]] and [[vegetable-storage-conditions-by-temperature-and-humidity]] by crop
-- [[companion-planting-reference]] — Beneficial plant pairings
-- [[seed-saving-techniques]] — Saving seeds from open-pollinated varieties
-- [[mulching-guide]] — Detailed mulching techniques
-- [[soil-testing]] — Soil analysis methods
-- [[interpreting-soil-test-results]] — Understanding soil test reports
-- [[seasonal-planning]] — Year-round [[hamilton-garden-planning-and-site-assessment]]
-
-## Related
-
-- [[vegetable-growing-guide]]
-- [[garden-soil-basics]]

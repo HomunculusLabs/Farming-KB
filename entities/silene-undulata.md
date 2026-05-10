@@ -15,7 +15,7 @@ sources:
   - Van Wyk, B.E. & Wink, M. (2004). "Medicinal Plants of the World." 2nd ed. Briza Publications, Pretoria.
   - Neuwinger, H.D. (2000). "African Traditional Medicine: A Dictionary of Plant Use and Applications." Medpharm Scientific Publishers, Stuttgart.
   - Watt, J.M. & Breyer-Brandwijk, M.G. (1962). "The Medicinal and Poisonous Plants of Southern and Eastern Africa." 2nd ed. E&S Livingstone, Edinburgh.
-  - Xaba, S.E. & Dutton, M.F. (2000). "The use of Silene capensis by the Xhosa as a divinatory plant." [[kanna-sceletium-south-african-narcotic]] Journal of Botany, 66, 258–261.
+  - Xaba, S.E. & Dutton, M.F. (2000). "The use of Silene capensis by the Xhosa as a divinatory plant." kanna-sceletium-south-african-narcotic Journal of Botany, 66, 258–261.
 created: 2026-04-28
 ---
 

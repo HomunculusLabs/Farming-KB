@@ -135,6 +135,6 @@ The Ethiopian Biodiversity Institute maintains the world's largest enset germpla
 - [[gaias-garden-perennial-vegetables]]
 - [[gymnopilus-ventricosus]]
 
-- [[food-forest-permaculture|Food Forest]] — agroforestry design principles
+- [[food-forest|Food Forest]] — agroforestry design principles
 - [[terra-preta|Terra preta]] — Amazonian dark earth for soil improvement
 - [[biochar|Biochar]] — soil amendment for tropical agroforestry systems

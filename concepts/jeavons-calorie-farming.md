@@ -107,10 +107,6 @@ The Biosphere II project demonstrated that a complete year's diet for one person
 This illustrates why calorie farming must be combined with soil-building practices for true sustainability.
 
 ## See Also
-
 - [[solomon-garden-planning-calorie-production]]
 - [[jeavons-diet-design-self-sufficiency]]
-
-## See Also
-
 - [[jeavons-carbon-farming]]

@@ -93,6 +93,8 @@ communities, and systematic experimentation to build expertise.
 
 ## See Also
 
+- [[straw-substrate-yeast-extract-enrichment-preparation]]
+
 - [[growing-gourmet-agar-media-formulation-guide]]
 
 - [[malt-agar-baseline-medium-psilocybe-cubensis-growth-assay]]

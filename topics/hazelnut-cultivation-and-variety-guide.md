@@ -143,7 +143,6 @@ This is the [[ingham-natural-growth-regulators-soil-microbes]] habit and the sta
 - **Goal**: Maintain a vase-shaped, open-centered bush with good [[stamets-growing-room-air-circulation-co2-management]] and light penetration into the canopy interior. Well-pruned bushes have higher yields, better nut quality, and lower disease pressure.
 - **Timing**: Prune during dormancy (November–February) when disease organisms are inactive and the branch structure is fully visible.
 
-### Single Trunk (Tree Form)
 ## See Also
 - [[loquat-cultivation-and-variety-guide]]
 - [[coffee-cultivation-and-variety-guide]]

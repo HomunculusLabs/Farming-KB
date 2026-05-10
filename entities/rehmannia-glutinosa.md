@@ -133,11 +133,6 @@ type 2 diabetes for reducing HbA1c and improving renal function markers.
   not iridoids; distinct pharmacological profile.
 
 ## See Also
-
-- [[astragalus-membranaceus]] — Huang Qi, often combined for qi-yin dual tonification
-- [[panax-notoginseng]] — San Qi, combined for kidney and blood tonification
-- cornus officinalis — Shan Zhu Yu, paired in Liu Wei Di Huang Wan
-
-## See Also
-
+- [[astragalus-membranaceus]]
+- [[panax-notoginseng]]
 - [[herbal-plant-remedies]]

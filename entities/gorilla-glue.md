@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing Over the Last Two Decades.\" Biological Psychiatry."
   - "Mudge, E.M. et al. (2019). \"Cannabinoid and Terpene Profiling of Cannabis.\" Molecules."
-  - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpenoid [[beta-caryophyllene-entourage-effects-cannabis]].\" British Journal of Pharmacology."
+  - "Russo, E.B. (2011). \"Taming THC: Potential Cannabis Synergy and Phytocannabinoid-Terpenoid beta-caryophyllene-entourage-effects-cannabis.\" British Journal of Pharmacology."
   - "Casajuana Cogul, E. et al. (2018). \"The Association Between Cannabis and Anxiety.\" Current Psychiatry Reports."
   - "High Times Cannabis Cup records (2014–2016)."
 ---
@@ -135,7 +135,7 @@ Several distinct Gorilla Glue phenotypes have been selected from the original [[
 In 2017, the Gorilla Glue adhesive company (Gorilla Glue Inc.) initiated trademark proceedings against GG Strains. The resulting settlement required the cannabis strain to be officially rebranded as "Original Glue" or "GG#4" in commercial markets. Despite the legal name change, the original "Gorilla Glue" name remains ubiquitous in [[mckenna-cannabis-culture-history]] and dispensary menus worldwide.
 ## See Also
 
-- [[cannabis-gorilla-glue]]
+- gorilla glue
 
 - [[cannabis-terpene-profiles]]
 

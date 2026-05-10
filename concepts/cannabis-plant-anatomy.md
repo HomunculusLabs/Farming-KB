@@ -1,5 +1,5 @@
 ---
-title: green-cannabis-plant-anatomy-calyx-pistil-bud-structure
+title: Cannabis Plant Anatomy
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -13,7 +13,7 @@ Cannabis is an annual, dioecious (separate male and female plants) herbaceous pl
 
 ### Seed and Germination
 
-[[query-how-to-store-cannabis-seeds-for-long-term-viability]] are approximately 2-5 mm, oval with a pointed tip, and mottled brown/tan. The shell is hard and smooth. Germination requires moisture, warmth (20-25°C), and darkness. The first structure to emerge is the radicle (embryonic root), followed by straightening of the hypocotyl (embryonic stem). Cotyledons (seed leaves) are slightly unequal in size and narrow toward the stem.
+Cannabis seeds are approximately 2-5 mm, oval with a pointed tip, and mottled brown/tan. The shell is hard and smooth. Germination requires moisture, warmth (20-25°C), and darkness. The first structure [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]] to emerge is the radicle (embryonic root), followed by straightening of the hypocotyl (embryonic stem). Cotyledons (seed leaves) are slightly unequal in size and narrow toward the stem.
 
 ### Vegetative Structures
 
@@ -23,11 +23,11 @@ Cannabis is an annual, dioecious (separate male and female plants) herbaceous pl
 
 **Branches**: If not crowded, limbs grow from small buds at the intersection of petioles along the main stem. Branching pattern is influenced by genetics and growing conditions.
 
-**Roots**: Fibrous taproot system. Root production is proportionate to above-ground growth. Extensive root networks support the rapid [[cannabis-vegetative-growth-stage]].
+**Roots**: Fibrous taproot system. Root production is proportionate to above-ground growth. Extensive root networks support the rapid vegetative growth.
 
 ### Flowering Structures
 
-Cannabis is a short-day plant — flowering is triggered when daylength drops below a critical threshold (varies by strain, typically 12-14 hours). The first sign of flowering is undifferentiated flower primordia at the nodes, behind the stipules (leaf spurs).
+Cannabis is a short-day plant [[green-cannabis-plant-anatomy-calyx-pistil-bud-structure]] — flowering is triggered when daylength drops below a critical threshold (varies by strain, typically 12-14 hours). The first sign of flowering is undifferentiated flower primordia at the nodes, behind the stipules (leaf spurs).
 
 **Female (pistillate) flowers**:
 - Calyx: a symmetrical tubular floral sheath that envelops the ovule. The calyx is the primary site of cannabinoid and terpene production.
@@ -46,7 +46,7 @@ Cannabis is a short-day plant — flowering is triggered when daylength drops be
 
 ### Trichomes (Glandular Hairs)
 
-Trichomes are the primary sites of cannabinoid and [[clarke-marijuana-botany-terpene-biosynthesis-aromatic-profiles]]. Three major types:
+Trichomes are the primary sites of cannabinoid and terpene biosynthesis. Three major types:
 
 1. **Capitate-stalked trichomes**: Largest and most abundant on female flower parts. Consist of a stalk and a globular head (gland) where cannabinoids and terpenes are synthesized and stored. These are the primary source of the psychoactive resin.
 
@@ -62,26 +62,6 @@ Pollen germinates on the pistil stigma 15-20 minutes after contact. The pollen t
 
 ## See Also
 
-- [[nehemiah-grew-plant-anatomy]]
-
 - [[cannabis-genetics-and-breeding]]
 - [[cannabis-extraction-methods]]
 - [[cannabis-extraction-basics]]
-## Practical Considerations
-
-Successful implementation of Cannabis Plant Anatomy requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

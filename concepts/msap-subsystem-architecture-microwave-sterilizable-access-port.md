@@ -120,6 +120,8 @@ The development team consisted of three innovators based in Oregon: James E. Atw
 
 ## See Also
 
+- [[msap-subsystem-architecture-microwave-sterilizable-access-port-design]]
+
 - [[microwave-sterilizable-access-port-nasa-space-biology]] — Detailed MSAP overview
 - [[microwave-sterilization-system-hardware-architecture]] — Hardware component details
 - [[coaxial-power-splitter-waveguide-microwave-sterilization]] — Microwave delivery system

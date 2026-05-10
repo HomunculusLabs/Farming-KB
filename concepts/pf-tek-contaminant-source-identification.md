@@ -117,7 +117,4 @@ When contamination or failure occurs, follow this diagnostic sequence:
 By systematically working through each variable, the cultivator can identify and correct the specific cause of failure, improving success rates with each subsequent batch.
 
 ## See Also
-
-## See Also
-
 - [[mushroom-cultivator-contaminants-identification]]

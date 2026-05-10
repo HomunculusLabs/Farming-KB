@@ -144,7 +144,6 @@ Ferns support diverse food webs. Fiddleheads are browsed by deer, moose, and oth
 
 ### Spore Sowing
 
-Propagating ferns from spores is rewarding but requires patience. The basic process:
 ## Related
 - [[serpentine-soil-ecology]]
 - [[marine-fungal-diversity-ecology]]

@@ -14,7 +14,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Singh, D.R. (2012). "Morinda citrifolia (Noni): A Comprehensive Review." In Bioactive Foods in Promoting Health. Academic Press.
-  - West, B.J. et al. (2009). "Morinda citrifolia (Noni) [[bionutrients-lab-fermented-fruit-juice-ffj]]." Journal of Agricultural and Food Chemistry.
+  - West, B.J. et al. (2009). "Morinda citrifolia (Noni) bionutrients-lab-fermented-fruit-juice-ffj." Journal of Agricultural and Food Chemistry.
   - Deng, S. et al. (2007). "Noni (Morinda citrifolia): A Complete Review." Asian Journal of Food and Agro-Industry.
   - Nelson, S.C. & Elevitch, C.R. (2015). "Morinda citrifolia (Noni): Production, Processing, and Marketing." Permanent Agriculture Resources (PAR), Holualoa, Hawai'i.
 ---

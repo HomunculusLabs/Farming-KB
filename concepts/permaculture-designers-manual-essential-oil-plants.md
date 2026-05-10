@@ -47,6 +47,49 @@ Timing of harvest significantly affects essential oil yield and quality. Most ar
 
 Post-harvest handling is critical for leaf and flower crops. Material should be distilled as quickly as possible after harvest — wilting reduces oil content. If distillation must be delayed, plant material should be dried in shade with good airflow rather than in direct sun, which volatilizes the most valuable aromatic compounds. For root-based oils such as vetiver, roots are typically harvested at 18-24 months, washed, chopped, and dried before distillation.
 
+## Distillation Methods
+
+[[comparison-steam-distillation-vs-co2-extraction-for-essential-oils]] is
+the most accessible method for on-farm production. A simple copper or
+stainless-steel still heats water to produce steam, which carries
+volatile compounds through plant material into a condenser. The
+resulting hydrosol (floral water) and essential oil separate by
+density — most oils float, though a few (such as clove and
+wintergreen) sink below the hydrosol layer. Hydrodistillation
+submerges plant material directly in water and suits delicate
+flowers like jasmine and rose that degrade under dry steam. Small
+batch stills (5-20 litre capacity) are ideal for homestead-scale
+production and can be fabricated from recycled pressure cookers
+and copper tubing for minimal capital investment.
+
+## Key Oil Profiles
+
+Understanding the dominant chemical constituents of essential oils
+helps growers select species for specific functions. Lavender oil
+is rich in linalool and linalyl acetate, giving it calming
+aromatherapy properties alongside antiseptic activity. Rosemary
+contains high levels of 1,8-cineole (eucalyptol) and camphor,
+making it effective for respiratory support and mental clarity.
+Peppermint oil, dominated by menthol and menthone, provides
+analgesic and cooling effects useful in first-aid salves. Tea
+tree oil's terpinen-4-ol content gives it broad-spectrum
+antimicrobial action suited to wound care and sanitation.
+
+## Integration with Permaculture Zones
+
+Essential oil plants should be sited according to their harvest
+frequency and care requirements. High-frequency crops like basil
+and peppermint belong in [[permaculture-food-forest-design-principles]]
+Zone 1 or 2 near the kitchen, where they receive regular attention
+and harvest. Lavender, rosemary, and sage are suited to Zone 2-3
+hedgerows where they provide pest barrier functions with minimal
+maintenance. Tree-based oil species such as eucalyptus and
+melaleuca fit naturally into Zone 4 forestry systems. In all
+zones, position distillation equipment centrally to minimize
+transport distance from harvest to processing, and design the
+layout so spent biomass can be returned directly to adjacent
+compost systems or used as sheet mulch.
+
 ## Related
 
 - [[permaculture-designers-manual-oil-seeds]]
@@ -57,7 +100,6 @@ Post-harvest handling is critical for leaf and flower crops. Material should be 
 - permaculture-designers-manual-fuel-wood-systems - fuel forests including oil species
 - [[soil-erosion-control]]
 - [[permaculture-designers-manual-climatic-zones-tropical]]
-
 ## Practical Considerations
 
 Successful implementation of Essential Oil Plants requires attention to

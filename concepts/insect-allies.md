@@ -32,7 +32,7 @@ sources:
 
 # Insect Allies
 
-[[comparison-beneficial-insects-guide-vs-integrated-pest-management]] are the backbone of any ecological [[cannabis-pest-management-guide]] strategy. Rather than eradicating all insects, the goal is to build balanced predator-prey populations where pests stay below economic damage thresholds. See [[cannabis-pest-management]] for crop-specific IPM protocols.
+Beneficial insects are the backbone of any ecological pest management strategy. Rather than eradicating all insects, the goal is to build balanced predator-prey populations where pests stay below economic damage thresholds. See [[cannabis-pest-management]] for crop-specific IPM protocols.
 
 ## Key Beneficial Insects
 
@@ -62,7 +62,7 @@ sources:
 ### Ground Beetles (Carabidae)
 - **Prey**: Slugs, cutworms, root maggots, codling moth larvae (pupae in soil)
 - **Habitat**: Ground cover, mulch, stone piles, undisturbed soil
-- **Note**: Nocturnal; create beetle banks with [[savory-perennial-grass-and-desertification]] bunches along field margins
+- **Note**: Nocturnal; create beetle banks with perennial grass bunches along field margins
 
 ### Hover Flies (Syrphidae)
 - **Prey**: Aphids (larvae eat 400-800 aphids in their development)
@@ -72,7 +72,7 @@ sources:
 ### Bees (Apidae, Megachilidae, Andrenidae, etc.)
 - **Role**: Pollination services; ~1/3 of food crops depend on insect pollinators
 - **Types**: Honeybees (managed hives), bumblebees (excellent for tomatoes/peppers in greenhouses), mason bees/solitary bees (efficient early-season pollinators)
-- See [[beekeeping-basics]] for [[bee-forage-hive-management-mollison]] and [[pollinator-habitat]] for habitat design
+- See [[beekeeping-basics]] for hive management and [[pollinator-habitat]] for habitat design
 
 ## Attracting Beneficial Insects
 
@@ -101,10 +101,10 @@ Plant specific species to provide nectar, pollen, and alternative prey:
 
 ## Biological Control Products
 
-- **Bt ([[cervantes-bacillus-thuringiensis-bt-control]])**: Targeted bacteria — kurstaki for caterpillars, israelensis for fungus gnat larvae. Must be ingested; no effect on adults. Apply at dusk (UV degrades it).
+- **Bt (Bacillus thuringiensis)**: Targeted bacteria — kurstaki for caterpillars, israelensis for fungus gnat larvae. Must be ingested; no effect on adults. Apply at dusk (UV degrades it).
 - **Spinosad (Spinosyn A+D)**: Broad-spectrum but organic; effective on thrips, caterpillars, leafminers. Toxic to bees when wet — apply evening after bloom.
 - **Neem oil (azadirachtin)**: Antifeedant, growth disruptor, mild repellent. Effective on aphids, whiteflies, mites, soft-bodied insects. Can harm beneficials — spot-treat.
-- **[[query-how-to-use-diatomaceous-earth-in-the-garden]] (DE)**: Mechanical desiccant; works on soft-bodied insects (slugs, aphids, ants). Non-selective — kills beneficials too. Use in dry conditions only; loses effectiveness when wet.
+- **Diatomaceous Earth (DE)**: Mechanical desiccant; works on soft-bodied insects (slugs, aphids, ants). Non-selective — kills beneficials too. Use in dry conditions only; loses effectiveness when wet.
 - **Insecticidal soap**: Potassium salts of fatty acids; works on contact against soft-bodied insects. Minimal residual; one of the safest options.
 
 ## Insect Hotels and Pollinator Corridors

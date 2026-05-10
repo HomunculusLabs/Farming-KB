@@ -25,7 +25,7 @@ Ascomycota is the largest phylum of fungi, containing over 64,000 described spec
 Contains the economically critical genera Penicillium and Aspergillus. These are primarily asexual fungi found in soil, decaying matter, and indoor environments. Penicillium species produce the antibiotic penicillin and are used in cheese production. Aspergillus species are used in soy sauce fermentation (A. oryzae) but some produce aflatoxins (A. flavus). See also [[mold-identification-guide]].
 
 ### Saccharomycetales (Saccharomyces)
-The true yeasts. Most are unicellular and reproduce by budding. [[yeast-biology-guide|Saccharomyces cerevisiae]] is the workhorse of baking, brewing, and winemaking. Other members include [[bloomfield-candida-albicans-yeast-hyphal-dimorphism]] (a human pathogen) and Pichia species used in bioethanol production.
+The true yeasts. Most are unicellular and reproduce by budding. [[yeast-biology-guide|Saccharomyces cerevisiae]] is the workhorse of baking, brewing, and winemaking. Other members include Candida albicans (a human pathogen) and Pichia species used in bioethanol production.
 
 ### Pezizales
 The cup fungi and morels. This order contains Morchella (morels), Tuber (truffles), and Helvella (elfin saddles). These are mostly ectomycorrhizal or saprotrophic and produce apothecia as fruiting bodies. See morels and truffles.
@@ -34,7 +34,7 @@ The cup fungi and morels. This order contains Morchella (morels), Tuber (truffle
 An ecologically diverse order including many plant pathogens (Sclerotinia), saprotrophs, and mycorrhizal associates. They produce small apothecia, often on dead wood or plant debris.
 
 ### Hypocreales
-Contains important [[singh-entomopathogenic-fungi-biocontrol-agents]] (see [[cordyceps-and-entomopathogenic-fungi]]), including Cordyceps, Ophiocordyceps, Beauveria, and Metarhizium. Also includes Trichoderma species used in biocontrol and Gibberella (Fusarium) plant pathogens.
+Contains important entomopathogenic fungi (see [[cordyceps-and-entomopathogenic-fungi]]), including Cordyceps, Ophiocordyceps, Beauveria, and Metarhizium. Also includes Trichoderma species used in biocontrol and Gibberella (Fusarium) plant pathogens.
 
 ### Erysiphales
 The powdery mildews. Obligate biotrophic plant parasites that produce white powdery growth on leaf surfaces. Economically significant in agriculture, affecting grapes, cereals, cucurbits, and roses.
@@ -55,12 +55,12 @@ Includes Ophiostoma novo-ulmi, the causative agent of Dutch elm disease. Spread 
 | Fusarium | Plant pathogen, soil fungus | Crop diseases, mycotoxins |
 | Claviceps | Plant pathogen | Ergot alkaloids, LSD precursor |
 | Taphrina | Plant pathogen | Peach leaf curl, plum pockets |
-| Xylaria | Wood decomposer | Dead man's fingers, [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] |
+| Xylaria | Wood decomposer | Dead man's fingers, bioactive compounds |
 
 ## Ecological Roles
 
 ### Decomposition
-Ascomycetes are primary decomposers of plant material, especially cellulose and lignin. Xylaria, Daldinia, and Hypoxylon species are among the first colonizers of dead wood. Their ability to break down complex polysaccharides makes them essential to [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in forest ecosystems.
+Ascomycetes are primary decomposers of plant material, especially cellulose and lignin. Xylaria, Daldinia, and Hypoxylon species are among the first colonizers of dead wood. Their ability to break down complex polysaccharides makes them essential to nutrient cycling in forest ecosystems.
 
 ### Plant Pathogens
 Many serious plant diseases are caused by ascomycetes: powdery mildews, apple scab (Venturia), ergot of cereals (Claviceps), and Fusarium wilts. The phylum contains more plant pathogens than any other fungal group.
@@ -77,12 +77,12 @@ Ascomycetes form the fungal partner in most lichen symbioses (roughly 98% of lic
 
 ## Reproduction
 
-Ascomycetes reproduce both sexually and asexually. [[fungal-life-cycles-sexual-reproduction-metamorphosis]] involves plasmogamy (hyphal fusion), karyogamy (nuclear fusion) in the ascus mother cell, and meiosis to produce eight ascospores. Asexual reproduction occurs through conidia (mitospores) produced on specialized structures called conidiophores. Many species have dual nomenclature because their sexual and asexual stages were described separately.
+Ascomycetes reproduce both sexually and asexually. Sexual reproduction involves plasmogamy (hyphal fusion), karyogamy (nuclear fusion) in the ascus mother cell, and meiosis to produce eight ascospores. Asexual reproduction occurs through conidia (mitospores) produced on specialized structures called conidiophores. Many species have dual nomenclature because their sexual and asexual stages were described separately.
 
 ## Identification Tips
 
 - Look for cup-shaped (apothecium) or flask-shaped (perithecium) fruiting bodies
-- [[fungal-microscopic-examination-mounting-media-techniques]] of asci and ascospores is often necessary
+- Microscopic examination of asci and ascospores is often necessary
 - Spore print colors vary but are often white, cream, pink, or dark
 - Many have distinctive asexual stages that are easier to identify than sexual structures
 

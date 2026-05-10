@@ -109,13 +109,17 @@ The fibrous trunk covering also supports a community of mosses, liverworts, and 
 
 ## See Also
 
+- [[trachycarpus-wagnerianus]]
+
+- [[drynaria-fortunei]]
+
 - [[serenoa-repens]]
 - [[cocos-nucifera]]
 - [[areca-catechu]]
 - [[euterpe-oleracea]]
 - [[phoenix-dactylifera]]
-- [[landscaping]]
+- [[edible-landscaping]]
 - [[agroforestry]]
-- [[China]]
-- [[invasive-species]]
-- [[plant-anatomy]]
+- China
+- [[invasive-species-management]]
+- plant anatomy

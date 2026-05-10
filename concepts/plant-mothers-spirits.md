@@ -112,12 +112,7 @@ revered of all plant teachers, and the knowledge they impart is
 considered particularly potent and rare.
 
 ## See Also
-
-- ayahuasca-preparation-brew
 - [[chacruna-psychotria-viridis]]
-
-## See Also
-
 - [[spirit-mothers-of-plants]]
 - [[ayahuasca-visions]]
 - [[ayahuasca-preparation]]

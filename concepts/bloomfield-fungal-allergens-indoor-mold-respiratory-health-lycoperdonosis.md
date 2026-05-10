@@ -91,6 +91,8 @@ While the black mold panic is often exaggerated, genuine mold problems should no
 
 ## See Also
 
+- [[bloomfield-lycoperdonosis-puffball-spore-inhalation-respiratory-illness]]
+
 - [[modern-homes-mold-crisis-energy-efficient-construction]]
 
 - [[bloomfield-stachybotrys-indoor-mold-trichothecenes-air-quality]]

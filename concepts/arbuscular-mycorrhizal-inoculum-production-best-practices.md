@@ -67,6 +67,8 @@ Traceability through the entire supply chain ensures reliability and enables ide
 ## Environmental Risk Assessment
 
 ## See Also
+
+- [[in-vitro-sclerotia-production-timeline-psilocybe]]
 ## Practical Considerations
 
 Successful implementation of Arbmycorrhizal-inoculum-productionoduction Best Practices requires attention to

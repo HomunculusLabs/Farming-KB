@@ -142,3 +142,5 @@ subbalteatus has received relatively little modern research attention. The
 variability in reported psilocybin content (0.1% in Europe versus up to 0.65%
 in the Pacific Northwest) suggests either genuine geographic variation or
 ## See Also
+
+- [[psilocybin-intoxication-medical-management-and-first-aid]]

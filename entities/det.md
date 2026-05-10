@@ -121,11 +121,11 @@ The compound is controlled in several European countries as part of broad trypta
 
 - [[pihkal-introduction-and-methodology]]
 
-- [dmt](dmt.md)
+- [[dmt|dmt]]
 - [[5-meo-dmt-entity]]](5-meo-dmt.md)
-- [dpt](dpt.md)
+- [[dpt|dpt]]
 - [[psilocin-and-psilocybin-chemistry]]](psilocin-and-psilocybin-chemistry.md)
-- [harmine](harmine.md)
-- [harmaline](harmaline.md)
-- [ergine]([[ergine-entity]].md)
-- [myristicin]([[5-meo-dipt]](5-meo-dipt.md)
+- [[harmine|harmine]]
+- [[harmaline|harmaline]]
+- [[ergine-entity|ergine]]
+- myristicin

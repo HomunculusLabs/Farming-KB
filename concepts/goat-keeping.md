@@ -48,9 +48,9 @@ Goats are versatile, intelligent animals suited to small-acreage homesteads. The
 ## Housing and Fencing
 
 - **Shelter:** Minimum 15-20 sq ft per goat indoors; draft-free, dry, well-ventilated; goats despise rain and cold wet conditions
-- **Bedding:** Straw or wood shavings over packed dirt; clean weekly; [[comparison-deep-litter-vs-hot-composting]] system works (see [[homesteading-infrastructure]])
+- **Bedding:** Straw or wood shavings over packed dirt; clean weekly; deep litter system works (see [[homesteading-infrastructure]])
 - **Fencing:** Minimum 4 ft high; woven wire field fence (4x4 in openings) with a single strand of hot wire at top and bottom; goats are escape artists — test every latch and gap
-- **Electric fencing:** Multi-wire portable electric (5-7 strands) works well for [[comparison-rotational-grazing-vs-continuous-grazing]]; train goats to respect it first
+- **Electric fencing:** Multi-wire portable electric (5-7 strands) works well for rotational grazing; train goats to respect it first
 - **Predator protection:** Secure shelter at night; livestock guardian dogs (LGDs) strongly recommended; guard donkeys or llamas are alternatives
 - **Key principle:** If a goat can get its head through a gap, its body will follow — eliminate all openings wider than 4 in
 
@@ -60,7 +60,7 @@ Goats are versatile, intelligent animals suited to small-acreage homesteads. The
 - **Pasture:** Supplemental grass pasture is fine but not sufficient alone; provide 2-4% body weight in dry matter daily
 - **Hay:** Good quality grass or grass-legume hay free-choice when pasture is insufficient; 2-4 lbs/day for a Nigerian Dwarf, 4-6 lbs/day for a full-size doe
 - **Grain:** Only for lactating does, growing kids, or underweight animals; 1 lb grain per 3 lbs milk produced; avoid overfeeding grain (causes acidosis)
-- **Minerals:** Loose goat-specific minerals free-choice (not sheep minerals — goats require copper); copper oxide wire particles (COWP) bolus 2-4x/year for [[query-how-to-fix-copper-deficiency-in-cannabis]]; selenium may be needed in deficient regions
+- **Minerals:** Loose goat-specific minerals free-choice (not sheep minerals — goats require copper); copper oxide wire particles (COWP) bolus 2-4x/year for copper deficiency; selenium may be needed in deficient regions
 - **Water:** Clean, fresh water free-choice; goats drink 1-2 gallons/day; heated buckets in winter
 - **Toxic plants:** Azaleas, rhododendrons, oleander, yew, cherry (wilted leaves), nightshade — know your property's plants
 
@@ -111,7 +111,7 @@ Goats are versatile, intelligent animals suited to small-acreage homesteads. The
 
 - **NPK:** Approximately 0.7-1.0% N, 0.3-0.5% P, 0.6-0.9% K (fresh); values vary by diet and bedding
 - **C:N ratio:** ~12-20:1 (relatively balanced; can be composted with minimal additional carbon)
-- **Composting:** [[query-what-is-the-difference-between-hot-compost-and-cold-compost]] at 130-150F for 15+ days kills pathogens and weed seeds; turn every 3-5 days; ready in 2-4 months
+- **Composting:** Hot compost at 130-150F for 15+ days kills pathogens and weed seeds; turn every 3-5 days; ready in 2-4 months
 - **Direct application:** Fresh goat manure is milder than chicken manure and can be side-dressed around established plants at 1-2 in depth; avoid direct contact with plant stems
 - **Volume:** One adult goat produces ~1-2 lbs of manure per day; a small herd of 4 goats produces ~1,500-2,900 lbs/year
 - **Pelleted manure:** Available commercially; can be used as a slow-release fertilizer at 2-3 lbs per 100 sq ft

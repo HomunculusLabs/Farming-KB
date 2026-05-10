@@ -76,6 +76,8 @@ AM colonization of roots is confirmed by clearing and staining:
 
 ## See Also
 
+- [[ingham-humic-acids-extraction-and-soil-function]]
+
 - [[arbuscular-mycorrhizal-colonization-patterns]]
 - [[fungal-glomalin-and-soil-carbon]]
 

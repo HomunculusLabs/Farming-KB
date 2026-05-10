@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vander Kloet, S.P. (1988). "The Genus Vaccinium in psilocybin-north-america-pacific-northwest." Research Branch, Agriculture Canada Publication 1828.
-  - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A [[ghouled-field-guide-historical-context]]." USDA Forest Service Research Paper PNW-143.
+  - Minore, D. (1972). "The Wild Huckleberries of Oregon and Washington: A ghouled-field-guide-historical-context." USDA Forest Service Research Paper PNW-143.
   - Pitcher, D. & McKern, J. (1998). "Vaccinium deliciosum: Taxonomy, distribution, and ecology." Madroño, 45(3), 187-194.
   - Höerdemann, M.L. (2018). "Huckleberries of the Pacific Northwest." Mountaineers Books.
 ---

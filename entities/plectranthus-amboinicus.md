@@ -23,9 +23,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Lukhoba, C.W. et al. (2006). "Plectranthus: A review of ethnobotanical uses." Journal of Ethnopharmacology 103(1): 1-24.
-  - Omidbaigi, R. et al. (2009). "[[permaculture-designers-manual-essential-oil-plants]] composition of Plectranthus amboinicus." Journal of Essential Oil Research 21(5): 432-434.
+  - Omidbaigi, R. et al. (2009). "permaculture-designers-manual-essential-oil-plants composition of Plectranthus amboinicus." Journal of Essential Oil Research 21(5): 432-434.
   - Asokan, S. et al. (2009). "Antimicrobial activity of Plectranthus amboinicus." Indian Journal of Pharmacology 41(5): 244-247.
-  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." CRC Press.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." CRC Press.
   - Ravindran, P.N. (2017). "The Encyclopedia of Herbs and Spices." CABI Publishing.
 created: 2026-04-28
 ---

@@ -4,8 +4,7 @@ created: 2026-04-14
 updated: 2026-04-15
 type: concept
 tags: [psilocybin, mushrooms]
-sources:
-  sources: []
+sources: []
 ---
 # Psilocybin Neuroscience
 

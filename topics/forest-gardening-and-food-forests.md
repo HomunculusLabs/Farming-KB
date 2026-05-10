@@ -120,7 +120,6 @@ moderate shade. Most stone fruits and citrus need substantial sun for good
 fruit production and should be positioned in canopy gaps or at the southern
 edge of the forest. Semi-dwarf rootstocks (M7 for apples, OHxF 333 for pears)
 keep trees manageable while still producing full-sized fruit.
-
 ## See Also
 
 - [[forest-garden-seven-layers]] -- detailed layer-by-layer species lists

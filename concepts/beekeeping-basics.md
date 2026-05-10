@@ -4,8 +4,7 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [homesteading, biology, methods, troubleshooting, ecology]
-sources:
-  sources: []
+sources: []
 ---
 
 # Beekeeping Basics
@@ -138,13 +137,14 @@ A vertical top bar hive. Boxes are added to the bottom (nadiring) rather than th
 
 ### Varroa Mites (Varroa destructor)
 The most serious threat to honey bees worldwide. Mites feed on adult bees and brood, transmitting viruses that weaken and kill colonies.
-## See Also
 
-- [[companion-planting-reference]] — Planting for bee forage
-- [[food-forest-design]] — Creating pollinator habitat in food forests
-- [[fruit-tree-pruning]] — Fruit trees benefit from bee pollination
-- [[homesteading]] — Beekeeping as a homestead enterprise
+**Monitoring**: Sugar shake test, alcohol wash, or sticky board. Threshold for treatment is typically 3 mites per 100 bees (3%).
+**Treatment**: Oxalic acid vaporization, formic acid (MAQS), amitraz (Apivar), or mechanical methods (drone brood removal). Rotate treatments to prevent resistance.
 
-## Related
+### Small Hive Beetle (Aethina tumida)
+Beetles that lay eggs in hives. Larvae tunnel through comb, defecating and fermenting honey, which runs out of the hive.
+**Management**: Maintain strong colonies that can defend themselves. Beetle traps (oil traps, beetle blasters). Keep apiary clean and remove debris.
 
-- [[bee-products-beyond-honey]]
+### Wax Moths
+Larvae that destroy comb, especially in weak colonies or stored equipment.
+**Management**: Maintain strong colonies. Freeze stored frames for 48 hours before storage. Store supers with paradichlorobenzene (PDB) crystals (not mothballs).

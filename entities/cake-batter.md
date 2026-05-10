@@ -11,7 +11,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly (2024). "Cake Batter Strain Information." leafly.com.
-  - AllBud (2024). "Cake Batter [[blesching-cannabis-strain-selection-receptor-targeting]]." allbud.com.
+  - AllBud (2024). "Cake Batter blesching-cannabis-strain-selection-receptor-targeting." allbud.com.
   - Weedmaps (2024). "Cake Batter Strain Review." weedmaps.com.
   - MRA Labs (2023). "Cannabinoid and Terpene Profiling: Cake Batter." MRA Analytics.
   - Cookies Fam Breeders (2023). "Lineage documentation: Cake Batter." Internal breeding records.
@@ -110,6 +110,6 @@ Appetite stimulation is reliable, consistent with the high THC content and Cooki
 - [[granddaddy-purple]]
 - [[gelato]]
 - [[ice-cream-cake-cannabis]]
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[headband]]
 - [[sfv-og]]

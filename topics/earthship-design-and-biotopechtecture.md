@@ -139,7 +139,6 @@ For homesteaders, permaculture practitioners, and anyone interested in reducing 
 
 # What Is an Earthship and How Does It Work?
 
-## Frequently Asked Questions
 ## See Also
 
 - [[phytoremediation-and-hyperaccumulator-plants]]

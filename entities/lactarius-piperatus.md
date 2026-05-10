@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - Heilmann-Clausen, J., et al. (1998). "The Genus Lactarius." Danish Mycological Society, Copenhagen.
   - Neuhoff, W. (1956). "Die Milchlinge (Lactarius)." Die Pilze Mitteleuropas, Band 2b.
-  - Verbeken, A., Horak, E. (2000). "Lactarius in Tropical montane forests." [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]], 5, 5-33.
+  - Verbeken, A., Horak, E. (2000). "Lactarius in Tropical montane forests." arbuscular-mycorrhizal-fungal-diversity-patterns-distribution, 5, 5-33.
   - Basso, M.T. (1999). "Lactarius Pers. Fungi Europaei." Edizioni Candusso, Alba.
   - Foltz, M.J., et al. (2015). "Lactarius systematics." Mycologia, 107(2), 292-307.
 ---

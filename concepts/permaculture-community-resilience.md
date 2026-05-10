@@ -1,11 +1,10 @@
 ---
-title: urban-permaculture-community-building-social-design Resilience
+title: Permaculture Community Resilience
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, community, sustainability, economics, resilience, design, activism]
-sources:
-  sources: []
+sources: []
 ---
 
 # Permaculture Community Resilience
@@ -18,7 +17,7 @@ Permaculture communities seek to strengthen local economic circuits so that mone
 
 ### Strategies
 - **Local food systems** — community-supported agriculture (CSA), farmers markets, food cooperatives, direct farm-to-consumer sales
-- **[[mollison-local-currency-systems-and-community-banking]] or time banking** — alternative exchange systems that keep value circulating locally
+- **Local currency or time banking** — alternative exchange systems that keep value circulating locally
 - **Community enterprises** — worker cooperatives, community-owned businesses, social enterprises
 - **Skill-based exchange** — trading services directly without monetary mediation
 - **Local production** — supporting local makers, builders, and craftspeople who use local materials
@@ -53,8 +52,8 @@ Mutual aid is voluntary, reciprocal exchange of resources and services within a 
 Building community resilience requires a broad base of practical skills distributed across many community members rather than concentrated in specialists.
 
 ### Essential Skill Categories
-- **Food production** — gardening, preserving, [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]], animal husbandry
-- **Building and repair** — carpentry, plumbing, electrical, [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]
+- **Food production** — gardening, preserving, seed saving, animal husbandry
+- **Building and repair** — carpentry, plumbing, electrical, natural building
 - **Health and healing** — herbal medicine, first aid, mental health support
 - **Communication and governance** — facilitation, conflict resolution, organizing
 - **Crafts and making** — textiles, pottery, metalwork, fermentation
@@ -85,7 +84,7 @@ Food cooperatives are member-owned organizations that provide access to healthy,
 
 ## Transition Towns
 
-The Transition Towns movement, started in Totnes, England in 2006 by Rob Hopkins, applies permaculture principles at the community scale to prepare for the twin challenges of peak oil and [[dighton-fungi-climate-change-feedback]].
+The Transition Towns movement, started in Totnes, England in 2006 by Rob Hopkins, applies permaculture principles at the community scale to prepare for the twin challenges of peak oil and climate change.
 
 ### Core Elements
 - **Awareness raising** — helping communities understand the challenges and opportunities

@@ -138,11 +138,6 @@ As a primary decomposer of leaf litter, *L. nuda* plays a significant role in:
 *Lepista nuda* is not currently considered threatened. It is common and widespread throughout its range. However, like many saprotrophic fungi, it may be sensitive to:
 
 ## See Also
-
 - [[agaricus-bisporus]]
 - [[lepista-sordida]]
-
-## See Also
-
-- edible-wild-mushroom-guide
 - [[saprotrophic-fungi]]

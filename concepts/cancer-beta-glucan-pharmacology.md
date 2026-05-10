@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-04-24
 sources:
   - Smith, Rowan and Sullivan (2002). Medicinal Mushrooms: Their therapeutic properties and current medical usage with special emphasis on cancer treatments. University of Strathclyde.
-  - Bohn, J.A. and BeMiller, J.N. (1995). (1-3)-beta-D-glucans as [[medicinal-mushrooms-biological-response-modifiers]] modifiers. Carbohydrate Polymers 28, 3-14.
+  - Bohn, J.A. and BeMiller, J.N. (1995). (1-3)-beta-D-glucans as medicinal-mushrooms-biological-response-modifiers modifiers. Carbohydrate Polymers 28, 3-14.
   - Sasaki, T. and Takasuka, N. (1976). Further study of the structure of lentinan. Carbohydrate Research 47, 99-104.
   - Ohno, N. et al. (1988). Structural characterization and antitumour activity of beta-glucans.
 type: concept

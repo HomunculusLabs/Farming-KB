@@ -104,6 +104,8 @@ The species has not been investigated for novel bioactive [[antifungal-secondary
 
 ## See Also
 
+- [[welwitschia-mirabilis]]
+
 - [[boletus-aereus]]
 - [[suillus-luteus]]
 - [[cantharellus-cibarius-entity]]

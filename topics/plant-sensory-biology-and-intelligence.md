@@ -140,7 +140,6 @@ switch: red light converts it to the active form, promoting flowering, while
 far-red light reverts it to the inactive form. The last light a plant sees at
 dusk is far-red, signaling it to "turn off," while the red light of dawn
 "wakes it up." In this way, phytochrome allows a plant to measure how long ago
-it last saw red light and adjust its growth accordingly.
 ## See Also
 
 - [[julius-von-sachs-blue-light-phototropism-discovery]]

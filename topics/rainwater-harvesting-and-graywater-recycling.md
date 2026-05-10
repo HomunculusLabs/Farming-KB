@@ -119,7 +119,6 @@ and tanks should be sealed or fitted with tight-fitting lids.
 
 ## Storage Solutions: Tanks, Cisterns, and Dams
 
-Storage is where rainwater harvesting transitions from concept to
 ## See Also
 
 - [[rainwater-harvesting-systems]]

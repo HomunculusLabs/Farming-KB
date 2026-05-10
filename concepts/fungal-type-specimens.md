@@ -141,7 +141,6 @@ are fundamental infrastructure for taxonomic research:
 
 - **Major fungal herbaria**: The world's largest fungal collections include
   Kew (K), the Royal Botanic Gardens Edinburgh (E), the New York Botanical
-  Garden (NY), the National Fungus Collections (BPI) in Beltsville, and
 ## See Also
 - [[fungal-specimen-collection-herbarium-management]]
 - [[fungal-taxonomy-challenges]]

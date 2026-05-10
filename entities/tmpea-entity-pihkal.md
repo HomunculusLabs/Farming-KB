@@ -141,4 +141,4 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 - [[j-entity-pihkal]]
 
-- [[mescaline-entity]]
+- [[mescaline]]

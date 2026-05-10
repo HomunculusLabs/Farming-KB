@@ -104,7 +104,7 @@ In the [[shamanic-vs-western-psychedelic-healing]] community, *E. lageniformis* 
 ## See Also
 
 - [[echinopsis-peruviana]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[lophophora-williamsii]]
 - [[mescaline-extraction-guide]]
 - [[cactus-alkaloids-reference]]

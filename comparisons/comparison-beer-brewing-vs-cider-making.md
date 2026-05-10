@@ -32,7 +32,7 @@ Cider making uses apples as its primary ingredient and is widely regarded as one
 - **Bittersweets** (Dabinett, Kingston Black) add tannin and structure, giving the cider complexity
 - **Bittersharps** (Foxwhelp) bring both tannin and acidity for a well-rounded profile
 
-A practical homestead strategy is to blend sweet and tart dessert apples rather than seeking out traditional cider varieties. This produces a perfectly drinkable cider without needing uncommon [[uncommon-specialty-fruit-crops-for-permaculture]] for permaculture. A rough guideline is to use about 60% sweet apples, 20% tart apples, and 20% aromatic or astringent apples for balance.
+A practical homestead strategy is to blend sweet and tart dessert apples rather than seeking out traditional cider varieties. This produces a perfectly drinkable cider without needing uncommon uncommon specialty fruit crops for permaculture for permaculture. A rough guideline is to use about 60% sweet apples, 20% tart apples, and 20% aromatic or astringent apples for balance.
 
 The cider process is straightforward: press or juice the apples, add yeast (or rely on [[comparison-wild-fermentation-vs-commercial-starter-culture]] from the apple skins), ferment for 2-6 weeks, then rack and age. Equipment needs are minimal compared to beer, often requiring just a fermenter, airlock, siphon, and optionally a fruit press. A thermometer and hydrometer are helpful but not strictly required for beginners.
 
@@ -80,7 +80,7 @@ Cider making is the right fit when:
 - You are new to fermentation and want an achievable first project
 - You have apple trees or access to affordable bulk apples in season
 - You prefer minimal equipment and a short shopping list
-- You are interested in [[wild-fermentation-and-spontaneous-cultures]] natural methods
+- You are interested in wild fermentation and spontaneous cultures natural methods
 - You want a forgiving process where imperfect batches still taste good
 
 Cider also stores well and can be back-sweetened or carbonated easily after fermentation. The forgiving nature of the process means that even imperfect batches tend to be drinkable and enjoyable.

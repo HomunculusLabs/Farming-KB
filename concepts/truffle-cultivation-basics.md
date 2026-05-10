@@ -1,5 +1,5 @@
 ---
-title: comparison-truffle-cultivation-basics-vs-mushroom-indoor-cultivation Basics
+title: Truffle Cultivation Basics
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,11 +9,11 @@ sources: [raw/papers/teaming-with-fungi-lowenfels.md]
 
 ## Truffle Cultivation — Mycorrhizal Basics
 
-Truffles are the fruiting bodies of certain [[query-what-are-ectomycorrhizal-fungi-and-which-plants-do-they-associate-with]] that grow in symbiotic association with tree roots. Unlike saprotrophic mushrooms (shiitake, oyster) that can be cultivated on dead [[hamilton-composting-and-organic-matter-management]], truffles require a living host tree. Understanding mycorrhizal biology (see Teaming with Fungi, Lowenfels) is essential for truffle cultivation.
+Truffles are the fruiting bodies of certain ectomycorrhizal fungi that grow in symbiotic association with tree roots. Unlike saprotrophic mushrooms (shiitake, oyster) that can be cultivated on dead organic matter, truffles require a living host tree. Understanding mycorrhizal biology (see Teaming with Fungi, Lowenfels) is essential for truffle cultivation.
 
 ### What Ectomycorrhizae Are
 
-Ectomycorrhizal fungi form associations with woody plants — primarily trees in the Pinaceae, Fagaceae, Betulaceae, and Myrtaceae families. The fungus wraps the tree root in a dense mantle of hyphae and penetrates between root cortical cells (but not into them) to form a Hartig net — the primary site of [[arbuscule-isolation-and-nutrient-exchange-mechanisms]]. The tree provides carbohydrates (sugars from photosynthesis); the fungus provides water, phosphorus, nitrogen, and other minerals from the soil.
+Ectomycorrhizal fungi form associations with woody plants — primarily trees in the Pinaceae, Fagaceae, Betulaceae, and Myrtaceae families. The fungus wraps the tree root in a dense mantle of hyphae and penetrates between root cortical cells (but not into them) to form a Hartig net — the primary site of nutrient exchange. The tree provides carbohydrates (sugars from photosynthesis); the fungus provides water, phosphorus, nitrogen, and other minerals from the soil.
 
 80-95% of all terrestrial plants form mycorrhizal relationships of some type. Ectomycorrhizal fungi are associated with about 5% of terrestrial plant species but include some 25,000 tree species globally.
 
@@ -44,12 +44,12 @@ Ectomycorrhizal fungi form associations with woody plants — primarily trees in
 
 **5. Maintenance**: Ongoing care includes:
 - Soil pH monitoring and lime amendment as needed
-- [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]] (reducing root competition from non-host plants)
+- Weed control (reducing root competition from non-host plants)
 - Pruning trees to allow adequate light to the soil surface
 - Irrigation during dry periods
 - Avoiding soil compaction (no heavy machinery near trees)
 
-**6. Harvest**: Truffles form underground, typically at depths of 5-30 cm. They are located using trained dogs (preferred) or pigs (traditional but more destructive). Harvest requires careful digging to avoid damaging the truffle or the [[arbuscular-mycorrhizal-network-visualization-anastomosis]].
+**6. Harvest**: Truffles form underground, typically at depths of 5-30 cm. They are located using trained dogs (preferred) or pigs (traditional but more destructive). Harvest requires careful digging to avoid damaging the truffle or the mycorrhizal network.
 
 ### Why Cultivation Often Fails
 
@@ -75,21 +75,3 @@ Lowenfels notes that ectomycorrhizal fungi are generally acidophilic (prefer aci
 - [[mycorrhizal-fungi]]
 - [[ectomycorrhizal-ecology]]
 - [[fungal-ecology]]
-## Practical Considerations
-
-Successful implementation of Truffle Cultivation Basics requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

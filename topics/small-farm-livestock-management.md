@@ -103,7 +103,6 @@ Wyandottes provide both eggs and meat, while specialized layers like Leghorns
 and Rhode Island Reds maximize egg output. Foraging breeds such as Sussex and
 Australorp obtain a significant portion of their diet from free-ranging,
 reducing feed costs. Ducks complement chickens by consuming slugs, snails,
-and algae from pond systems; Khaki Campbell ducks rival chickens in egg
 ## See Also
 
 - [[chicken-keeping-basics]]

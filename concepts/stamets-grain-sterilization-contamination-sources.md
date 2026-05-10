@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [sterilization, grain-spawn, contamination, mushroom-cultivation]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources:
+sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---

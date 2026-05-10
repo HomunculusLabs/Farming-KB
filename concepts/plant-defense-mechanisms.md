@@ -18,7 +18,7 @@ tags:
 - fungi
 
 sources:
-sources: []
+- raw/papers/teaming-with-microbes-lowenfels.md
 - raw/papers/gardening-when-it-counts-steve-solomon.md
 ---
 
@@ -38,16 +38,16 @@ Plants are not passive victims of pests and disease. They have evolved sophistic
 ### Induced Defenses (Activated by Attack)
 - **Jasmonic acid pathway** — activated by herbivore damage; produces protease inhibitors that make leaves indigestible to insects
 - **Salicylic acid pathway** — activated by pathogen attack; triggers systemic acquired resistance (SAR)
-- **[[fungal-volatile-organic-compounds-communication]] Compounds (VOCs)** — released when damaged; warn neighboring plants AND attract predatory insects
+- **Volatile Organic Compounds (VOCs)** — released when damaged; warn neighboring plants AND attract predatory insects
 
 ### The VOC Warning System
 When a plant is attacked by caterpillars, it releases VOCs that:
 
 1. **Warn nearby plants** to pre-activate their own defenses
 2. **Attract parasitic wasps** that lay eggs in the caterpillars
-3. **Signal [[dighton-mycorrhizal-networks-carbon-transfer]]** to share resources with stressed plants
+3. **Signal mycorrhizal networks** to share resources with stressed plants
 
-This is why [[comparison-companion-planting-reference-vs-jadam-monoculture-critique]] partially works — nearby plants can "eavesdrop" on each other's alarm signals.
+This is why companion planting partially works — nearby plants can "eavesdrop" on each other's alarm signals.
 
 ## Biological Defenses
 
@@ -55,7 +55,7 @@ This is why [[comparison-companion-planting-reference-vs-jadam-monoculture-criti
 Mycorrhizal fungi provide multiple layers of defense (see [[mycorrhizal-fungi]]):
 
 1. **Physical barrier** — fungal hyphae form a dense network around roots that blocks pathogen access
-2. **[[solomon-root-exudates-and-allelopathy]]** — fungi produce antibiotics and antifungal compounds
+2. **Chemical warfare** — fungi produce antibiotics and antifungal compounds
 3. **Early warning** — the fungal network detects pathogen presence before the plant does
 4. **Nutrient bolstering** — well-nourished plants have stronger immune responses
 
@@ -107,8 +107,8 @@ Often overlooked as a plant nutrient, silicon:
 
 1. **Complete mineral nutrition** — plants need all 13 nutrients to synthesize defensive compounds
 2. **Healthy soil biology** — [[soil-food-web-nutrient-cycling]] provides biological protection
-3. **[[teaming-with-fungi-mycorrhizal-inoculation-techniques]]** — especially in disturbed or tilled soils
-4. **Avoid synthetic pesticides** — they kill [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] and microbes that provide defense
+3. **Mycorrhizal inoculation** — especially in disturbed or tilled soils
+4. **Avoid synthetic pesticides** — they kill beneficial insects and microbes that provide defense
 5. **Appropriate stress** — mild stress (hardening off, water stress) can prime defenses
 6. **Biodiversity** — polycultures support the predator-prey cycles that keep pests in check
 

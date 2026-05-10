@@ -138,11 +138,7 @@ If spores fail to germinate, consider these common causes:
    shipping.
 
 ## See Also
-
 - [[incubation-and-colonization]]
-
-## See Also
-
 - [[pf-tek-inoculation-without-lids-and-alcohol-flaming]]
 - [[sterilization]]
 - [[pf-tek-inoculation-technique-and-syringe-management]]

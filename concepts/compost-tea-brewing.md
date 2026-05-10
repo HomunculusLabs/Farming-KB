@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [compost, microbes, biology, fertilizer, recipe, gardening, vegetables, regenerative]
-sources:
-  sources: []
+sources: []
 ---
 
 # Compost Tea Brewing Guide
 
-[[actively-aerated-compost-tea]] tea (ACT) is a liquid extract of finished compost, brewed with oxygen to multiply beneficial microorganisms. Applied as a soil drench or foliar spray, ACT introduces diverse bacteria, fungi, protozoa, and nematodes to the soil and plant surfaces, boosting [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] and [[aact-disease-suppression-mechanisms-ingham]].
+Aerated compost tea (ACT) is a liquid extract of finished compost, brewed with oxygen to multiply beneficial microorganisms. Applied as a soil drench or foliar spray, ACT introduces diverse bacteria, fungi, protozoa, and nematodes to the soil and plant surfaces, boosting nutrient cycling and disease suppression. (see [[compost-tea-guide]]).
 
 ## ACT vs. Non-Aerated Compost Tea
 
@@ -23,7 +22,7 @@ sources:
 | Risk | Low if brewed correctly | Higher (pathogens if anaerobic) |
 | Equipment needed | Air pump, airstone | Just a bucket |
 
-This guide focuses on aerated compost tea (ACT).
+This guide focuses on aerated compost tea (ACT). (see [[compost-tea-recipe-guide]]).
 
 ## 5-Gallon ACT Recipe
 
@@ -85,7 +84,7 @@ If tea smells bad (sewer, sulfur, vomit), it has gone anaerobic — discard on n
 - Spray in early morning or late evening — UV light kills microbes.
 - Coat both tops and undersides of leaves.
 - Do not spray in full sun or above 85°F.
-- Apply every 2-3 weeks for [[cervantes-pest-disease-prevention-overview]].
+- Apply every 2-3 weeks for disease prevention.
 - Good for: powdery mildew suppression, botrytis prevention, general plant health.
 
 ## Compost Quality Matters
@@ -94,7 +93,7 @@ The quality of your starting compost directly determines tea quality:
 - **Vermicompost** (worm castings) — highest microbe diversity, gold standard.
 - **Thermophilic compost** — good if fully finished, earthy-smelling, dark brown.
 - **Bad compost** — smells foul, still hot, recognizable feedstock pieces. Do NOT use.
-- **[[staycare-spent-mushroom-compost-bioremediation]]** — can work but may be sterilized; test results vary.
+- **Mushroom compost** — can work but may be sterilized; test results vary.
 
 ## Troubleshooting
 
@@ -117,5 +116,5 @@ The quality of your starting compost directly determines tea quality:
 
 - [[composting-methods-comparison]] for producing quality compost for tea
 - [[soil-amendment-reference]] for mineral amendments to complement biological inputs
-- [[fermented-plant-extract-fpe]] for [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]] as another biological spray
+- [[fermented-plant-extract-fpe]] for fermented plant extracts as another biological spray
 - [[soil-food-web-nutrient-cycling]] for understanding the soil microbiology behind ACT

@@ -86,3 +86,7 @@ cultural attributes. Along with belladonna, mandrake, and datura, henbane was
 considered one of the primary ingredients in the pharmacological basis of
 [[henbane-hyoscyamus-niger-ethnobotany]]
 - [[atropine]]
+
+## See Also
+
+- [[hyoscyamus-muticus]]

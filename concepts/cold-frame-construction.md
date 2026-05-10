@@ -1,5 +1,5 @@
 ---
-title: comparison-cold-frame-gardening-vs-container-gardening-guide Construction
+title: Cold Frame Construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/hamilton-geoffhamilton-nick_-organic-gardening.md]
 
 # Cold Frame Construction
 
-A cold frame is a bottomless box with a transparent lid, used to [[query-how-to-protect-plants-from-frost-and-extend-the-growing-season]] season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through.
+A cold frame is a bottomless box with a transparent lid, used to extend the growing season by protecting plants from frost and wind. It acts as a miniature greenhouse, capturing solar heat while allowing light through. (see [[cold-frame-gardening]]).
 
 ## Construction
 
@@ -43,7 +43,7 @@ A cold frame is a bottomless box with a transparent lid, used to [[query-how-to-
 | Season | Use |
 |---|---|
 | Late winter | Start seedlings 4-6 weeks early |
-| [[coleman-overwintered-onions-and-early-spring-crops]] | Harden off indoor-started plants |
+| Early spring | Harden off indoor-started plants |
 | Autumn | Extend harvest of lettuce, greens, radishes |
 | Winter | Overwinter hardy crops (parsley, leeks, spinach) |
 
@@ -63,21 +63,3 @@ A cold frame is a bottomless box with a transparent lid, used to [[query-how-to-
 - [[seed-starting-indoors]] — for earlier starts under lights
 - [[garden-bed-preparation]] — for preparing the cold frame bed
 - [[drought-gardening]] — for managing moisture in enclosed spaces
-## Practical Considerations
-
-Successful implementation of Cold Frame Construction requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

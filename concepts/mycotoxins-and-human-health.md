@@ -24,7 +24,7 @@ sources:
 
 # Mycotoxins and Human Health
 
-Mycotoxins are poisonous compounds produced by fungi that contaminate food, indoor environments, and agricultural products. While most people are familiar with [[palmer-poisonous-mushrooms-deadly-species]], the more pervasive threats come from mold-produced toxins that operate invisibly in food chains and buildings. This page draws extensively from [[nicholas-money]]'s Mr. Bloomfield's Orchard.
+Mycotoxins are poisonous compounds produced by fungi that contaminate food, indoor environments, and agricultural products. While most people are familiar with poisonous mushrooms, the more pervasive threats come from mold-produced toxins that operate invisibly in food chains and buildings. This page draws extensively from [[nicholas-money]]'s Mr. Bloomfield's Orchard.
 
 ## Major Mycotoxin Categories
 
@@ -39,7 +39,7 @@ Produced by **Aspergillus flavus** and **Aspergillus parasiticus** on corn, pean
 - Contamination of dairy/meat occurs when livestock eat aflatoxin-tainted feed
 - Traces found in human milk
 
-**Historical incident — [[aflatoxin-turkey-x-disease-1960-discovery-peanut-meal]] (1960, England):**
+**Historical incident — Turkey X Disease (1960, England):**
 100,000 turkeys died from liver failure after eating aflatoxin-contaminated peanut meal. This disaster launched modern mycotoxin research.
 
 **Cancer risk:** If rats are fed maximum anticipated human exposure levels, 1 in 10,000 develops liver cancer. Human incidence appears 10x lower than rodent models predict.
@@ -57,19 +57,19 @@ Produced by **Stachybotrys chartarum** (black mold) and Fusarium species:
 - No specific antidotes exist
 - Soap and water can remove from skin, but only if used immediately
 
-**[[bloomfield-trichothecene-mycotoxins-biological-warfare-yellow-rain]] potential:**
+**Biological warfare potential:**
 - Iraqi scientists experimented with concentrated aflatoxins before the Gulf War
 - Trichothecenes may have been used as "yellow rain" in Laos/Cambodia (1970s) and Afghanistan (1980s)
 - Production techniques well within capability of anyone with a microbiology PhD
 
 ### Ergot Alkaloids
 
-Produced by **[[bloomfield-ergot-claviceps-purpurea-ergotism]]** (ergot fungus) on cereal grains:
+Produced by **Claviceps purpurea** (ergot fungus) on cereal grains:
 
 - Historical "St. Anthony's Fire" epidemics caused mass hallucinations, gangrene, and death
 - Led to the Salem witch trials and other episodes of mass hysteria
 - Modern ergotism is rare due to grain cleaning procedures
-- See [[entheogen-culture]] for the connection to the [[mckenna-food-of-the-gods-kykeon-and-eleusinian-mysteries]]
+- See [[entheogen-culture]] for the connection to the Eleusinian Mysteries
 
 ## Indoor Mold and Health
 
@@ -110,7 +110,7 @@ Produced by **[[bloomfield-ergot-claviceps-purpurea-ergotism]]** (ergot fungus) 
 Fungi secrete antibiotics to:
 - Remove competing microorganisms from their territory
 - Obtain nitrogen from dead bacteria (plant tissues are sugar-rich but protein-poor)
-- Species that form ink-caps, puffballs, and bird's nest fungi are adept [[fungal-bacterial-predators-nitrogen-acquisition-soil-ecology]]
+- Species that form ink-caps, puffballs, and bird's nest fungi are adept bacterial predators
 - See [[fungal-symbiosis-types]] and [[soil-food-web-nutrient-cycling]] for ecological context
 
 ## Nematode-Trapping Fungi

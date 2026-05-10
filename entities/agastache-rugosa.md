@@ -16,7 +16,7 @@ sources:
   - "Lee, S.J. et al. (2008). \"Chemical composition and antimicrobial activity of the permaculture-designers-manual-essential-oil-plants of Agastache rugosa.\" Journal of Agricultural and Food Chemistry, 56(20), 9591-9596."
   - "Li, X. et al. (2013). \"Agastache rugosa: A review of its phytochemistry, pharmacology, and quality control.\" African Journal of Traditional, Complementary and Alternative Medicines, 10(5), 208-217."
   - "Mills, S. & Bone, K. (2000). The Essential Guide to Herbal Safety. Elsevier."
-  - "Chung, I.M. et al. (2010). \"[[permaculture-designers-manual-essential-oil-plants]] composition and antioxidant activity of Agastache rugosa leaves.\" Journal of the Science of Food and Agriculture, 90(12), 2068-2074."
+  - "Chung, I.M. et al. (2010). \"permaculture-designers-manual-essential-oil-plants composition and antioxidant activity of Agastache rugosa leaves.\" Journal of the Science of Food and Agriculture, 90(12), 2068-2074."
   - "Oh, I. et al. (2015). \"Anti-inflammatory effects of Agastache rugosa Kuntze extract.\" BioMed Research International, 2015, 475683."
 ---
 

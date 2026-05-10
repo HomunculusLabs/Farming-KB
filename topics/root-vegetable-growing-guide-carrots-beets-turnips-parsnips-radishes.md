@@ -124,7 +124,6 @@ grow large without cracking, so they demand the best soil conditions.
 Danvers and Chantenay types are stronger and more fibrous, with broad
 shoulders and tapered roots that perform better in heavier soils and
 for winter storage. Miniature and round varieties such as Paris Market
-and Thumbelina are excellent choices for containers, rocky soils, or
 ## See Also
 
 - [[carrot-growing-guide]] for detailed carrot variety selection

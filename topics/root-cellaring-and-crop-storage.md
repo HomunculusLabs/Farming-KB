@@ -115,7 +115,6 @@ meals long after outdoor growth has stopped.
 The household value is also logistical. Storage changes the meaning of a
 large harvest from a glut into a reserve. It lets the gardener harvest
 when crops are mature, cure them when necessary, and draw them down in a
-planned order. In a well-designed annual food system, the storage room is
 ## See Also
 
 [[solomon-food-preservation-storage]]

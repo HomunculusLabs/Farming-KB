@@ -6,8 +6,7 @@ tags: [herbalism, permaculture, edible-weed, medicinal-plants,
   dynamic-accumulator, Asteraceae, companion-plant]
 date: 2026-04-28
 updated: 2026-04-28
-sources:
-  sources: []
+sources: []
 ---
 
 # Taraxacum officinale

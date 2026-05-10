@@ -45,13 +45,12 @@ trillions of spores into a favorable airstream.
 mushroom-hunting-and-identification
 
 ## See Also
-
-- fungal-spores
-- [[emcdda-magic-mushroom-hunting-europe]] and identification
-
-## See Also
-
+- [[emcdda-magic-mushroom-hunting-europe]]
 - [[bloomfield-buller-drop-surface-tension-spore-catapult-basidiospore-discharge]]
+- [[fungal-spore-discharge-mechanisms]]
+- [[bloomfields-orchard-gasteromycetes-and-stinkhorn-fungi]]
+- [[bloomfield-fungal-spore-discharge-and-dispersal]]
+
 ## Practical Considerations
 
 When working with Spore Discharge Mechanisms in Fungi, several practical factors should be

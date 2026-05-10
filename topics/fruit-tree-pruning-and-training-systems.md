@@ -141,7 +141,6 @@ Trees trained in a single plane against a wall, fence, or wire framework. Espali
 - Wall-trained trees benefit from reflected heat (extends growing season in cool climates)
 - Easy netting and pest management in a single plane
 
-**Disadvantages:**
 ## See Also
 
 - [[chestnut-cultivation-and-restoration]]

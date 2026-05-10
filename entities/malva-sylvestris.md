@@ -40,7 +40,7 @@ dating back to ancient Greece and Rome. Its mucilaginous leaves and flowers
 are valued for their anti-inflammatory, demulcent, and mild laxative
 properties. The young leaves and fruits are also edible raw or cooked.
 
-## Taxonomy
+## Taxonomy and Morphology
 
 - **Kingdom:** Plantae
 - **Clade:** Tracheophytes
@@ -56,9 +56,7 @@ properties. The young leaves and fruits are also edible raw or cooked.
 
 **Synonyms:** *Malva ambigua* Guss., *Malva erecta* C. Presl, *Malva grossheimii* Iljin
 
-## Morphology
-
-*Malva sylvestris* is an erect to decumbent perennial growing 30–120 cm tall.
+*M. sylvestris* is an annual to short-lived perennial, 30–120 cm tall.
 The stem is hairy with stellate trichomes, branching from the base.
 
 **Leaves:** Alternate, long-petiolate, 3–10 cm wide. Palmately lobed with 5–7
@@ -137,9 +135,11 @@ disturbed sites.
 
 ## See Also
 
-- [[borago-officinalis]]
-- [[plantago-major]]
-- [[glycyrrhiza-glabra]]
-- [[hypericum-perforatum]]
-- [[taraxacum-officinale]]
-- achillea-millefolium
+- [[borago-officinalis]] — Borage, another mucilaginous medicinal herb
+- [[plantago-major]] — Plantain, demulcent herb for skin and respiratory use
+- [[glycyrrhiza-glabra]] — Licorice, soothing anti-inflammatory herb
+- [[hypericum-perforatum]] — St. John's wort, widely used European medicinal herb
+- [[taraxacum-officinale]] — Dandelion, edible medicinal Asteraceae
+- [[achillea-millefolium]] — Yarrow, traditional European medicinal herb
+- [[althea-officinalis]] — Marsh-mallow, related Malvaceae with similar demulcent properties
+- [[tilia-cordata]] — Linden, European herbal tea species

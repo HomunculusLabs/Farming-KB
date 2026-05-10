@@ -145,6 +145,5 @@ Within each successional category, species are further selected for economic val
 
 ### Planting Layout
 
-Syntropic systems are typically established in **rows or alleys** with specific spatial arrangements:
 ## See Also
 - [[query-what-is-syntropic-agriculture-and-how-do-i-start]]

@@ -48,14 +48,11 @@ farming breaks this cycle by recognizing that nature already knows how to
 grow food.
 
 ## See Also
-
 - [[four-principles-of-natural-farming]]
 - [[fukuoka-hybrid-rice-international-drama]]
-- [[comparison-natural-farming-vs-permaculture]] as spiritual practice
-
-## See Also
-
+- [[comparison-natural-farming-vs-permaculture]]
 - [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming]]
+
 ## Practical Considerations
 
 When working with Scientific Farming Paradoxes According to Fukuoka, several practical factors should be

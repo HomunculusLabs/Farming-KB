@@ -4,15 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, living-soil, no-till, microbes, compost, soil, biology, organic, beginner]
-sources:
-  sources: []
+sources: []
 ---
 
 # Cannabis Living Soil Guide
 
 ## Overview
 
-Living soil is a cultivation approach centered on building and maintaining a thriving ecosystem of microorganisms, fungi, and invertebrates within the growing medium. Rather than feeding plants directly with liquid nutrients, living soil growers feed the soil biology, which in turn makes nutrients available to plants through [[fukuoka-microbes-scavengers-natural-decomposition-biosystem]] and mineralization processes. This approach aligns with regenerative agriculture principles and produces cannabis with superior [[cannabis-terpene-profiles-sativa]] and flavor.
+Living soil is a cultivation approach centered on building and maintaining a thriving ecosystem of microorganisms, fungi, and invertebrates within the growing medium. Rather than feeding plants directly with liquid nutrients, living soil growers feed the soil biology, which in turn makes nutrients available to plants through natural decomposition and mineralization processes. This approach aligns with regenerative agriculture principles and produces cannabis with superior terpene profiles and flavor. (see [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]).
 
 ## What Is Living Soil?
 
@@ -36,7 +35,7 @@ Living soil is a complete ecosystem contained in a container or raised bed. It d
 
 ## The Soil Food Web
 
-The soil food web is the interconnected system of organisms that drives [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] in living soil. Understanding these relationships is key to success.
+The soil food web is the interconnected system of organisms that drives nutrient cycling in living soil. Understanding these relationships is key to success. (see [[rhizosphere-bacterial-community-dynamics]]).
 
 ### Bacteria
 
@@ -48,7 +47,7 @@ The foundation of the soil food web. Beneficial bacteria:
 - Protect plant roots from pathogens through competitive exclusion
 - Cycle nutrients through their biomass (bacterial loop)
 
-Key bacterial groups include Bacillus species (decomposers), Pseudomonas ([[aact-disease-suppression-mechanisms-ingham]]), and Rhizobium ([[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] — less relevant for cannabis but important in cover crop rotations).
+Key bacterial groups include Bacillus species (decomposers), Pseudomonas (disease suppression), and Rhizobium (nitrogen fixation — less relevant for cannabis but important in cover crop rotations).
 
 ### Fungi
 
@@ -116,7 +115,7 @@ Common blend (per cubic yard): 2 cups bone meal, 2 cups rock phosphate, 2 cups k
 
 ## Nutrient Cycling
 
-Organic inputs are decomposed by bacteria and fungi, consumed by protozoa and nematodes, and released as plant-available nutrients at the root zone. Plant root exudates feed the organisms in return. This self-regulating system reduces risk of [[cannabis-nutrient-lockout-and-ph]] or toxicity.
+Organic inputs are decomposed by bacteria and fungi, consumed by protozoa and nematodes, and released as plant-available nutrients at the root zone. Plant root exudates feed the organisms in return. This self-regulating system reduces risk of nutrient lockout or toxicity.
 
 ## Living Soil for Cannabis
 
@@ -145,6 +144,7 @@ Grow clover, alfalfa, buckwheat, or daikon radish between grows to protect soil 
 - Aligns with regenerative practices
 
 ## Challenges
-## Related
 
-- [[cannabis-seed-germination]]
+- Higher initial setup cost than conventional media
+- Slower to correct deficiencies (biological processes take time)
+- Requires understanding of soil biology

@@ -13,7 +13,7 @@ sources:
   - Clarke, C. (1997). "Nepenthes of Borneo." Natural History Publications.
   - Mey, F.S. (2013). "Nepenthes thorelii ex situ." Carnivorous Plant Newsletter, 42(4), 120-126.
   - Schlauer, J. (2020). "Nepenthes nomenclatural database." Carnivorous Plant Database.
-  - McPherson, S.R. (2009). "Pitcher Plants of the [[datura-metel-old-world-ethnobotany]]." Redfern Natural History Productions.
+  - McPherson, S.R. (2009). "Pitcher Plants of the datura-metel-old-world-ethnobotany." Redfern Natural History Productions.
 ---
 
 ## Overview

@@ -1,5 +1,5 @@
 ---
-title: KNF bionutrients-lab-fermented-fruit-juice-ffj Juice
+title: KNF Fermented Fruit Juice
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,18 +11,18 @@ sources:
 
 # KNF Fermented Fruit Juice (FFJ)
 
-Fermented Fruit Juice is made by extracting plant juice using osmotic pressure from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms.
+Fermented Fruit Juice is made by extracting plant juice using osmotic pressure from brown sugar. FFJ provides hormones, nutrients, enzymes, and bio-active substances to plants and microorganisms. (see [[fermented-plant-juice]]).
 
 ## Purpose and Effects
 
 - Promotes plant growth through bio-active substances and natural hormones
 - Enzymes in FFJ help manufacturing of nutrients for plant growth
 - Supports microorganisms in the soil
-- Different fruits provide different benefits based on their [[savory-growing-season-and-non-growing-season-management]]
+- Different fruits provide different benefits based on their growing season
 
 ## Selecting Fruits
 
-Choose fruits appropriate to the plant's [[cho-plant-growth-stage-treatment-protocols]]:
+Choose fruits appropriate to the plant's growth stage:
 
 | Season | Recommended Fruits |
 |--------|-------------------|
@@ -32,7 +32,7 @@ Choose fruits appropriate to the plant's [[cho-plant-growth-stage-treatment-prot
 
 - Banana peel FFJ: very effective for fruiting/flowering plants
 - Tomato FFJ: good for leafy growth
-- Mango FFJ: excellent for [[cannabis-flowering-stage-management]]
+- Mango FFJ: excellent for flowering stage
 - Papaya FFJ: contains lots of enzymes
 
 ## Best Time to Pick
@@ -54,7 +54,7 @@ Choose fruits appropriate to the plant's [[cho-plant-growth-stage-treatment-prot
 3. Mix plant material with brown sugar in a clay jar, wooden box, or PE container
 4. Fill jar to 2/3 of volume
 5. Pile material and sugar in alternating layers; cover top with extra sugar
-6. Cover with [[fukuoka-rice-straw-mulch-central-technique]], then with paper (not sealed airtight)
+6. Cover with rice straw, then with paper (not sealed airtight)
 7. In 3-4 days, osmotic pressure begins extracting liquid from plant material
 8. Ferment at 23-25C in a cool, shaded place
 9. After 7 days, liquid begins dripping out (collect this)
@@ -77,7 +77,7 @@ Choose fruits appropriate to the plant's [[cho-plant-growth-stage-treatment-prot
 
 - Basic dilution ratio: 1:1,000
 - For foliar spray: 1:500 during early growth
-- Can be mixed with other [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]
+- Can be mixed with other KNF inputs
 - Apply during recommended plant growth phases
 
 ## Storage
@@ -86,8 +86,6 @@ Choose fruits appropriate to the plant's [[cho-plant-growth-stage-treatment-prot
 - Cool place, no direct sunlight
 
 ## See Also
-
-- [[knf-fruit-ripeness-crack-prevention]]
 
 - [[knf-fpj-ratio-guide]]
 - [[knf-fish-amino-acid]]

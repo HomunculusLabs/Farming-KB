@@ -4,8 +4,7 @@ created: 2026-04-28
 tags: [panaeolus, mycology, mushroom-profile, temperate]
 date: 2026-04-25
 updated: 2026-04-25
-sources:
-  sources: []
+sources: []
 type: concept
 ---
 # Panaeolus acuminatus Profile

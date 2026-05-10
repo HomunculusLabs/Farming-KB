@@ -109,11 +109,11 @@ Alkaloid content in Opuntia stricta is low compared to psychoactive cactus speci
 
 - [[opuntia-ficus-indica]]
 - [[echinopsis-pachanoi]]
-- [[cereus-peruvianus]]
+- cereus peruvianus
 - [[lophophora-williamsii]]
-- [[mescaline]]
-- [[peyote]]
+- [[pihkal-mescaline]]
+- [[peyote-ceremony]]
 - [[quercetin]]
 - [[kaempferol]]
 - [[luteolin]]
-- [[invasive-species]]
+- [[invasive-species-management]]

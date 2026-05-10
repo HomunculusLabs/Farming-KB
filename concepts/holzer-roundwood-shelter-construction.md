@@ -5,13 +5,12 @@ updated: 2026-04-18
 type: concept
 tags: [holzer, permaculture, homesteading]
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 
 # Holzer Roundwood Shelter and Earth Cellar Construction
 
-Earth is the cheapest and best insulation. The temperature of the soil balances out fluctuations and provides a steady room temperature, which benefits both livestock [[root-cellaring-and-crop-storage]]. These structures can be built anywhere in the world using local materials.
+Earth is the cheapest and best insulation. The temperature of the soil balances out fluctuations and provides a steady room temperature, which benefits both livestock [[solomon-root-cellaring-and-crop-storage]]. These structures can be built anywhere in the world using local materials.
 
 ## Earth Shelter Pigsties (Simplest Design)
 

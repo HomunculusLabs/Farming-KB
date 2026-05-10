@@ -1,11 +1,9 @@
 ---
+
 ## See Also
-
-- bacillus-megaterium
-
-- comparison trichoderma vs bacillus vs pseudomonas biocontrol
-- ingham-fungal-dominant-vs-bacterial-dominant-tea
-- comparison-rhizosphere-ecology-vs-mycorrhizal-fungi
+- [[pseudomonas]]
+- [[trichoderma]]
+- [[solomon-soil-temperature-and-nighttime-plant-growth]]
 
 ## Merged: "Trichoderma vs Bacillus — Biocontrol Agents Compared"
 

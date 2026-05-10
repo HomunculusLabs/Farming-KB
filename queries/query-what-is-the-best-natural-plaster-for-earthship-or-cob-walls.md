@@ -2,7 +2,7 @@
 title: What is the query-what-are-the-best-natural-building-methods Plaster for Earthship or Cob Walls?
 created: 2026-04-28
 tags:
-  - [[natural-building]]
+  - [natural-building]]
   - plaster
   - lime
   - clay

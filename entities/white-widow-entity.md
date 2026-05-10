@@ -15,7 +15,7 @@ updated: 2026-04-28
 sources:
   - "Clarke, R.C. & Merlin, M.D. (2013). \"Cannabis: Evolution and Ethnobotany.\" University of California Press."
   - "Green, J.M. (2009). \"The Cannabis Grow Bible.\" Green Candy Press."
-  - "ElSohly, M.A. et al. (2016). \"Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades.\" Biological Psychiatry, 79(7), 613-619."
+  - "ElSohly, M.A. et al. (2016). \"Changes in green-cannabis-potency-maximizing Over the Last Two Decades.\" Biological Psychiatry, 79(7), 613-619."
   - "Hazekamp, A. & Fischedick, J.T. (2012). \"Cannabis — from cultivar to chemovar.\" Drug Testing and Analysis, 4(7-8), 660-667."
 ---
 

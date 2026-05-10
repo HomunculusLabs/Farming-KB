@@ -104,3 +104,7 @@ Inhalation preserves the volatile terpene profile most effectively, as terpenes 
 
 Cannabinoids interact with the [[endocannabinoid-system-overview]]
 - [[cannabis-cannabinoid-receptor-pharmacology]]
+
+## See Also
+
+- [[tryptamine-endogenous-familiarity-and-rapid-pharmacokinetics]]

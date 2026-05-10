@@ -14,7 +14,7 @@ updated: 2026-05-08
 sources:
   - "Bartsch, I. et al. (2008). \"The genus Laminaria s.l.\" In: Biology of Seaweeds. Springer."
   - "Kerrison, P.D. et al. (2015). \"SACCHARINA: New crops for marine aquaculture.\" Journal of Applied Phycology, 27, 1835-1841."
-  - "Holdt, S.L. and Kraan, S. (2011). \"[[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] in seaweed.\" Journal of Applied Phycology, 23, 543-597."
+  - "Holdt, S.L. and Kraan, S. (2011). \"query-what-are-the-main-bioactive-compounds-in-medicinal-plants in seaweed.\" Journal of Applied Phycology, 23, 543-597."
   - "Pereira, L. (2016). \"Edible Seaweeds of the World.\" CRC Press."
   - "Olischlaeger, M. et al. (2017). \"Sugarkelp cultivation.\" Algal Research, 24, 109-115."
 ---

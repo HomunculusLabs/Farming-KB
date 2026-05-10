@@ -5,7 +5,6 @@ updated: 2026-04-13
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
 ---
 # Organic Fruit Tree Care Calendar

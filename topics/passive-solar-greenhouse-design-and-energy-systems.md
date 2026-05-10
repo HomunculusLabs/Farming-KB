@@ -106,7 +106,6 @@ heats the wall surface, and the stored warmth radiates into the interior over ma
 hours. Vents at top and bottom create a thermosiphon loop that circulates warm air
 during the day while conduction provides steady radiant heat through the night.
 
-Glazing selection involves trade-offs between solar heat gain coefficient (SHGC) and
 ## See Also
 
 - [[passive-solar-design]]

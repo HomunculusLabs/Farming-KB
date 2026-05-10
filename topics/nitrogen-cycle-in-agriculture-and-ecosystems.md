@@ -8,7 +8,7 @@ sources:
   - "Robertson, G.P. & Vitousek, P.M. (2009). Nitrogen in agriculture: Balancing the cost of an essential resource. *Annual Review of Environment and Resources*, 34, 97-125."
   - "Galloway, J.N. et al. (2008). Transformation of the nitrogen cycle: Recent trends, questions, and potential solutions. *Science*, 320(5878), 889-892."
   - "Crews, T.E. & Peoples, M.B. (2005). Can the synchrony of nitrogen supply and crop demand be increased in legume-based cropping systems? *Agronomy Journal*, 97(5), 1275-1284."
-  - "Liu, J. et al. (2023). [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]] fixation in agriculture: Achievements, challenges, and future prospects. *Frontiers in Plant Science*, 14, 1158420."
+  - "Liu, J. et al. (2023). nitrogen-fixing-bacteria-and-biological-nitrogen-fixation fixation in agriculture: Achievements, challenges, and future prospects. *Frontiers in Plant Science*, 14, 1158420."
 ---
 
 # Nitrogen Cycle in Agriculture and Ecosystems
@@ -137,7 +137,6 @@ Nitrate leached below the root zone contaminates groundwater (causing methemoglo
 
 ### 7. Biological Nitrogen Assimilation
 
-Plants absorb N primarily as:
 ## See Also
 
 - [[nitrogen-fixing-bacteria-and-biological-nitrogen-fixation]]

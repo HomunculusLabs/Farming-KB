@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [soil]
-sources:
-  sources: []
+sources: []
 ---
 # Casing Soil Techniques in The Mushroom Cultivator
 

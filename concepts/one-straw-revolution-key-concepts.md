@@ -5,7 +5,6 @@ updated: 2026-04-13
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # One Straw Revolution Key Concepts

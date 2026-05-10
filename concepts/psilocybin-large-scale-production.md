@@ -1,6 +1,6 @@
 ---
 
-title: Large-Scale gottlieb-psilocybin-production-extraction-methods — Room Design and Workflow
+title: Large-Scale Psilocybin Production — Room Design and Workflow
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -23,9 +23,9 @@ sources:
 
 # Large-Scale Psilocybin Production — Room Design and Workflow
 
-Gottlieb's design for a dedicated 10x15 ft production room for bulk psilocybin [[accessible-mushroom-cultivation-for-disabilities]]. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for [[gottlieb-psilocybin-cultivation-fruiting-chamber-design]] details and [[psilocybin-liquid-culture]] for culture preparation.
+Gottlieb's design for a dedicated 10x15 ft production room for bulk psilocybin mushroom cultivation. This represents the practical scale-up from individual jar cultivation to a coordinated production schedule. See [[psilocybin-fruiting-chambers]] for fruiting chamber details and [[psilocybin-liquid-culture]] for culture preparation.
 
-Related: [[psilocybin-cultivation]], [[psilocybin-extraction-guide]]
+Related: [[psilocybin-mushroom-cultivation]], [[psilocybin-extraction-guide]]
 
 ## Room Design (Gottlieb, 1976)
 
@@ -35,10 +35,10 @@ Related: [[psilocybin-cultivation]], [[psilocybin-extraction-guide]]
 - **Floor**: Concrete or sealed surface, easily cleaned
 - **Ventilation**: 12-inch air exhaust fan in wall, with filtered intake
 - **Temperature control**: Electric heater, thermostat, thermometer
-- **[[cervantes-humidity-control-dehumidification]]**: Ultrasonic humidifier or misting system
+- **Humidity control**: Ultrasonic humidifier or misting system
 - **Lighting**: Fluorescent ceiling light on timer (12 hours on/12 hours off)
 - **Shelving**: Four-tier shelving units, each shelf approximately 12 inches apart
-- **Door**: Sealed to maintain [[eclss-environmental-control-life-support]]
+- **Door**: Sealed to maintain environmental control
 
 ### Equipment Checklist
 - 50+ quart Mason jars (or equivalent)
@@ -117,7 +117,7 @@ This allows for harvesting approximately every 3-4 days from a single room.
 | Humidity | 60-70% (ambient) | 80-95% (critical) |
 | Light | Not required | 12h on/12h off fluorescent |
 | Air exchange | Minimal (gas exchange holes) | Frequent (2-4x daily fanning) |
-| CO2 level | High (promotes [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]) | Low (triggers fruiting) |
+| CO2 level | High (promotes mycelial growth) | Low (triggers fruiting) |
 
 ## Contamination Prevention
 
@@ -140,10 +140,11 @@ This allows for harvesting approximately every 3-4 days from a single room.
 - **Black spots**: Aspergillus — discard; some species produce harmful spores
 - **Slimy appearance**: Bacterial contamination — sour smell; discard
 - **Pink/orange growth**: Various molds — discard
-## See Also
+- **Healthy mycelium**: White, fluffy, organized growth with mushroom-like smell
 
-- [[psilocybin-fruiting-chambers]] — Detailed fruiting chamber construction and management
-- [[psilocybin-liquid-culture]] — Pure culture preparation and maintenance
-- [[psilocybin-extraction-guide]] — Post-harvest alkaloid extraction
-- [[psilocybin-cultivation]] — General cultivation overview
-- [[mushroom-sterile-technique-detailed]] — Comprehensive contamination prevention
+## Cost and Materials (1976 Prices, Gottlieb)
+
+- Mason jars: ~$1.00 each (reusable)
+- Pressure cooker: ~$20-30
+- Rye grain: ~$0.50/lb
+- Syringes: ~$0.25 each

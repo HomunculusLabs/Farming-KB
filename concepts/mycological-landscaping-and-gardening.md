@@ -5,7 +5,6 @@ updated: 2026-04-15
 type: concept
 tags: [gardening, organic-gardening]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mycological Landscaping and Gardening with Fungi

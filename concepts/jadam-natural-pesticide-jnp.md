@@ -1,6 +1,6 @@
 ---
 
-title: JADAM jadam-natural-pesticide-institute-and-research (JNP) — Master Formulation Guide
+title: JADAM Natural Pesticide (JNP) — Master Formulation Guide
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -20,11 +20,11 @@ sources:
 
 # JADAM Natural Pesticide (JNP)
 
-JNP is the [[jadam-combined-pesticide-programs-jwa-js-jhs]] system of [[jadam-methods]]. It is built from four ingredients -- [[jadam-wetting-agent-jwa]], [[jadam-sulfur-js]], [[jadam-herb-solution-jhs]], and [[jadam-microorganism-solution-jms]] -- mixed in different proportions for different targets. One pesticide system replaces hundreds of commercial products. Costs ~$7-9 per acre per year (vs ~$350 for chemical pesticides).
+JNP is the combined pesticide system of [[jadam-methods]]. It is built from four ingredients -- [[jadam-wetting-agent-jwa]], [[jadam-sulfur-js]], [[jadam-herb-solution-jhs]], and [[jadam-microorganism-solution-jms]] -- mixed in different proportions for different targets. One pesticide system replaces hundreds of commercial products. Costs ~$7-9 per acre per year (vs ~$350 for chemical pesticides).
 
 ## Core Principle
 
-Without JWA, there is no pesticide. JWA is the center of everything -- it provides coating, penetration and delivery. Increasing JWA makes any formulation stronger. Controlling [[cervantes-powdery-mildew-prevention-treatment]] and aphids is the touchstone: succeed at those two and you can control 90% of all [[hamilton-pest-and-disease-control-organic]] problems.
+Without JWA, there is no pesticide. JWA is the center of everything -- it provides coating, penetration and delivery. Increasing JWA makes any formulation stronger. Controlling powdery mildew and aphids is the touchstone: succeed at those two and you can control 90% of all pest and disease problems.
 
 ## Essential Rules
 
@@ -51,7 +51,7 @@ Without JWA, there is no pesticide. JWA is the center of everything -- it provid
 ### Insect Control (Insecticides)
 
 **Aphids and mites**:
-- JWA 5L + [[comparison-jerusalem-artichoke-vs-potato]] JHS 5L
+- JWA 5L + Jerusalem artichoke JHS 5L
 - Add JS 1-2L for simultaneous disease control
 - Add 0.5kg fine red clay powder for extra effect
 
@@ -131,7 +131,7 @@ JADAM pesticides do not develop resistance in pests because:
 
 ## Cost Reference
 
-[[jadam-bongha-village-proof]], Korea (320 acres, 160 households): $7/acre/year for 4 applications of JNP. That is ~1/50 the cost of chemical pesticides.
+Bongha village, Korea (320 acres, 160 households): $7/acre/year for 4 applications of JNP. That is ~1/50 the cost of chemical pesticides.
 
 ## See Also
 

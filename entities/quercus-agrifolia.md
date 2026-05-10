@@ -14,7 +14,7 @@ updated: 2026-05-08
 sources:
   - Griffin, J.R. & Critchfield, W.B. (1972). "The distribution of forest trees in California." USDA Forest Service Research Paper PSW-82.
   - Pavlik, B.M. et al. (1991). "The status of Quercus agrifolia (coast live oak) in California." Report to the California Department of Fish and Game.
-  - Swiecki, T.J. & Bernhardt, E. (2006). "[[bloomfield-sudden-oak-death-phytophthora-species-diversity]] death: research summary." Proceedings of the Sudden Oak Death Science Symposium, USDA Forest Service.
+  - Swiecki, T.J. & Bernhardt, E. (2006). "bloomfield-sudden-oak-death-phytophthora-species-diversity death: research summary." Proceedings of the Sudden Oak Death Science Symposium, USDA Forest Service.
   - McDonald, P.M. (1978). "Silvical characteristics of coast live oak (Quercus agrifolia Née)." General Technical Report PSW-49, USDA Forest Service.
   - Callaway, R.M. (1992). "Effect of shrubs on recruitment of Quercus agrifolia in California." Ecology, 73(6), 2119-2131.
 ---
@@ -102,6 +102,8 @@ Coast live oak is highly valued as a landscape tree in California, prized for it
 Proper establishment requires attention to irrigation — young trees benefit from supplemental water during establishment but mature trees are adapted to summer drought and can be damaged by frequent shallow irrigation. Root zone protection during construction is critical for tree survival.
 
 ## See Also
+
+- [[quercus-phellos]]
 
 - [[quercus-ilex]]
 - [[quercus-garryana]]

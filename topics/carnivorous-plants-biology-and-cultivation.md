@@ -139,7 +139,6 @@ With over **250 species**, the most widespread carnivorous genus, found on every
   - **Subtropical rosettes** (e.g., *D. capensis*, *D. aliciae*) — Year-round growth
   - **Tuberous sundews** (e.g., *D. peltata*, ~50 species) — Australian species that survive dry summers as underground tubers
   - **Pygmy sundews** (e.g., *D. scorpioides*, ~50 species) — Tiny Australian species that produce gemmae for asexual reproduction
-  - **Annual sundews** (e.g., *D. burmannii*) — Complete lifecycle in one season
 ## See Also
 
 - [[beneficial-insects-cannabis]] — For complementary pest management strategies

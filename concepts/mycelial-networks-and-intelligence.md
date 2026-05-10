@@ -5,7 +5,6 @@ updated: 2026-04-15
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Mycelial Networks and Intelligence

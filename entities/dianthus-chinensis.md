@@ -110,6 +110,8 @@ The essential oil of *D. chinensis* flowers contains eugenol, benzoic acid deriv
 
 ## See Also
 
+- [[dianthus-barbatus]]
+
 - [[dianthus-caryophyllus]]
 - [[stellaria-media]]
 - [[silene-capensis]]

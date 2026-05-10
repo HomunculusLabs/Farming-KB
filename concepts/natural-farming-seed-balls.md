@@ -1,6 +1,6 @@
 ---
 
-title: comparison-natural-farming-vs-permaculture Seed Balls
+title: Natural Farming Seed Balls
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -19,8 +19,7 @@ tags:
 - farming
 
 sources:
-sources:
-  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
+- raw/papers/masanobu-fukuoka-the-natural-way-of-farming-the-theory.md
 - raw/papers/masanobu-fukuoka-the-road-back-to-nature.md
 - raw/papers/masanobu-fukuoka-fukuoka.md
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
@@ -28,7 +27,7 @@ sources:
 
 # Natural Farming Seed Balls
 
-Seed balls (also called [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]] or "earth dumplings") are Fukuoka's primary technique for [[comparison-seed-starting-indoors-vs-direct-seeding-techniques]] without cultivation. Seeds are encased in clay to protect them from birds, rodents, and drying until conditions are right for germination. See [[natural-farming-fukuoka]] for the full method context.
+Seed balls (also called clay pellets or "earth dumplings") are Fukuoka's primary technique for direct seeding without cultivation. Seeds are encased in clay to protect them from birds, rodents, and drying until conditions are right for germination. See [[natural-farming-fukuoka]] for the full method context.
 
 ## Why Seed Balls?
 
@@ -67,18 +66,18 @@ Three problems seed balls solve:
 
 Fukuoka's basic recipe is clay + seed only, but practitioners add:
 
-- **Compost or [[comparison-wood-chip-mulch-vs-leaf-mold-vs-composted-manure-soil-building]]** (1 part to 5 parts clay): provides initial nutrients for germination
+- **Compost or composted manure** (1 part to 5 parts clay): provides initial nutrients for germination
 - **Microbes**: coating with beneficial organisms ([[indigenous-microorganisms-imo]]) gives seedlings a head start
 - **Red clay with a thin outer layer of topsoil**: nutrients on the outside, protection on the inside
 - **Cayenne pepper**: deters ants from carrying away balls before rain
 
-Do NOT [[query-how-do-legumes-add-nitrogen-to-soil]] fertilizer -- it can burn seedlings in the confined space of a ball.
+Do NOT add nitrogen fertilizer -- it can burn seedlings in the confined space of a ball.
 
 ## When to Apply
 
 | Season | Application | Notes |
 |--------|------------|-------|
-| **Fall (Oct-Dec)** | [[fukuoka-textdoc-overwintering-rice-seed-clay-pellet-method]], clover, winter grains | Balls protect seed through freezing; germinate in spring |
+| **Fall (Oct-Dec)** | Overwintering rice, clover, winter grains | Balls protect seed through freezing; germinate in spring |
 | **Spring (Mar-Apr)** | Vegetables, cover crops, legumes | Apply just before or during rainy season |
 | **Early summer** | Warm-season crops, greens | Must have reliable moisture |
 | **Before rainy season** | Any seeds | Ideal timing -- rain triggers germination |

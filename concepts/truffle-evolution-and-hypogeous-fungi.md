@@ -4,8 +4,7 @@ created: 2026-04-16
 updated: 2026-04-16
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Truffle Evolution and Hypogeous Fungi Truffles and other hypogeous (underground) fungi represent one of the most remarkable evolutionary transitions in the fungal kingdom — the shift from above-ground, wind-dispersed spore release to below-ground fruiting with animal-mediated spore dispersal. As discussed in Nicholas Money's Mr. Bloomfield's Orchard, this transition occurred independently multiple times and is intimately linked to the evolution of mycorrhizal-symbiosis with forest trees. See also [[stinkhorns-and-cage-fungi]] strategy of targeting specific insect vectors.
 

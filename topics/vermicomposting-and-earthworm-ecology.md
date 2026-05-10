@@ -141,7 +141,6 @@ compaction, erosion, and surface crusting. This is why soils with active
 earthworm populations have the characteristic friable texture that
 gardeners recognize as good tilth. Fungal hyphae, bacterial gums, and
 worm exudates work together to create this biological architecture.
-
 ## See Also
 - [[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]]
 - [[ingham-paper-cardboard-fungal-foods-compost]]

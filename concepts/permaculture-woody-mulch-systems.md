@@ -15,11 +15,11 @@ sources:
 
 # Permaculture Woody Mulch Systems
 
-Mulch is central to permaculture soil management. In the humid tropics (Chapter 10), Mollison identifies mulch sources as one of the special topics requiring considerable emphasis, as humus is an essential soil fraction and humus creation is a prerequisite to sustainability.
+Mulch is central to permaculture soil management. In the humid tropics (Chapter 10), Mollison identifies mulch sources as one of the special topics requiring considerable emphasis, as humus is an essential soil fraction and humus creation is a prerequisite to sustainability. (see [[nitrogen-fixing-trees-and-shrubs]]).
 
 ## The Role of Mulch
 
-In the wet tropics, heat and high rainfall would leach most mobile nutrients from soils, except for the biomass of the great variety of plants, which contain 80-90% of the available nutrients. Bare-soil cultivation and intensive clearing in short cycles are identified as inappropriate strategies. Instead, complex multi-storied plant systems designed to yield basic staples, create mulch, and preserve soil nutrients are the permaculture approach.
+In the wet tropics, heat and high rainfall would leach most mobile nutrients from soils, except for the biomass of the great variety of plants, which contain 80-90% of the available nutrients. Bare-soil cultivation and intensive clearing in short cycles are identified as inappropriate strategies. Instead, complex multi-storied plant systems designed to yield basic staples, create mulch, and preserve soil nutrients are the permaculture approach. (see [[urban-permaculture-nitrogen-fixing-green-manures]]).
 
 ## Mulch Sources
 
@@ -33,10 +33,10 @@ Young branches (ramial shoots) from deciduous trees and shrubs are rich in ligni
 
 ### Green Manure Crops
 
-Tropical [[holzer-green-manure-and-soil-building-plants]] mulch species include:
+Tropical green manure and mulch species include:
 
 - **Cowpea** (Vigna sinensis) -- preferred annual cover crop and soil improver
-- **Lablab** (Lablab purpureus) -- vigorous annual/short-lived perennial for soil-building and [[fukuoka-textdoc-weed-control-with-weeds-rice-barley-clover-discovery]]
+- **Lablab** (Lablab purpureus) -- vigorous annual/short-lived perennial for soil-building and weed control
 - **Puero** (Pueraria phaseoloides) -- pioneer green and cover crop, perennial climber
 - **Stylo** (Stylosanthes guianensis) -- perennial pasture legume, excellent mulch in tree systems on poor acid soils
 - **Mung beans** (Vigna radiata) -- vigorous garden green crop and forage annual
@@ -62,13 +62,13 @@ Mulch conserves moisture, reduces soil temperature, and prevents wind erosion. S
 
 ### Temperate Zones
 
-Woody mulch from autumn leaf fall, prunings, and chipped branch wood builds soil [[hamilton-composting-and-organic-matter-management]] through winter. [[comparison-sheet-mulching-vs-chop-and-drop-mulching]] with cardboard and woody material is used for garden [[azurescens-outdoor-bed-preparation-woodchips]].
+Woody mulch from autumn leaf fall, prunings, and chipped branch wood builds soil organic matter through winter. Sheet mulching with cardboard and woody material is used for garden bed preparation.
 
 ## Design Principles
 
 1. Every element should produce mulch as a yield
 2. Mulch should be produced on-site, not imported
-3. Leguminous mulch species [[query-how-to-fix-nitrogen-toxicity-in-cannabis]] while providing organic matter
+3. Leguminous mulch species fix nitrogen while providing organic matter
 4. A succession of mulch producers ensures year-round coverage
 5. Deep-rooted species bring nutrients from subsoil to surface via leaf fall
 

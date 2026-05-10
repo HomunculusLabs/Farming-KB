@@ -45,7 +45,7 @@ Key risk factors for [[blesching-cannabis-safety-adverse-effects-evidence]] incl
 
 ## Related Topics
 
-- [[emcdda-psilocybin-pharmacology-and-chemistry]] for the chemical
+- [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] for the chemical
   basis of toxicity
 - [[emcdda-hallucinogenic-mushroom-harm-reduction]] for prevention
   and risk reduction approaches

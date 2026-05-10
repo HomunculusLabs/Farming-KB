@@ -13,9 +13,9 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Ryvarden, L. & Gilbertson, R.L. (1993). "European Polypores. Part 1." Synopsis Fungorum, 6, 1-387.
-  - Martinez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus [[staycare-phanerochaete-chrysosporium-in-bioremediation]] strain RP78." Nature Biotechnology, 22(6), 695-700.
+  - Martinez, D. et al. (2004). "Genome sequence of the lignocellulose degrading fungus staycare-phanerochaete-chrysosporium-in-bioremediation strain RP78." Nature Biotechnology, 22(6), 695-700.
   - Floudas, D. et al. (2012). "The Paleozoic origin of enzymatic lignin decomposition reconstructed from 31 fungal genomes." Science, 336(6089), 1715-1719.
-  - Hofrichter, M. et al. (2010). "Reactive oxygen species in fungal [[mycoremediation-white-rot-fungi-lignin-degradation-enzymes]]." Fungal Biology Reviews, 24(3-4), 112-120.
+  - Hofrichter, M. et al. (2010). "Reactive oxygen species in fungal mycoremediation-white-rot-fungi-lignin-degradation-enzymes." Fungal Biology Reviews, 24(3-4), 112-120.
   - https://www.indexfungorum.org/names/NamesRecord.asp?RecordID=128404
 created: 2026-04-28
 ---

@@ -53,6 +53,17 @@ Locate the greenhouse in a bright place for maximum free solar heat. Insulate to
 - [[container-gardening-techniques]] — for growing in pots and bags
 - [[cold-frame-construction]] — essential companion to greenhouse growing
 
+## Seasonal Management
+
+During spring, the greenhouse is used for raising seedlings and hardening off
+young plants. In summer, ventilation becomes critical — doors and vents should
+be opened early in the morning and shading applied to prevent leaf scorch.
+Autumn is the time to sow winter salads, overwintering onions, and hardy
+annuals. In winter, insulation is added and frost protection becomes the
+priority; bubble wrap lining the interior is an effective low-cost solution.
+Monitoring temperature daily with a max-min thermometer and adjusting
+ventilation and heating accordingly prevents most climate-related problems.
+
 ## Practical Considerations
 
 Successful implementation of Greenhouse Growing Essentials requires attention to

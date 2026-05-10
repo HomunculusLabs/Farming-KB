@@ -142,8 +142,8 @@ and cultural legitimacy for practices that might otherwise be suppressed.
 
 ## See Also
 
+- [[brazilian-ayahuasca-syncretic-churches-santo-daime-udv-barquinha]]
+
 - [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]]
 - [[metzner-syncretic-entheogenic-churches-brazil-santo-daime-udv-barquinha]]
 - [[dmt]]
-
-## See Also

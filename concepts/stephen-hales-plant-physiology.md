@@ -122,9 +122,9 @@ first addressed with extraordinary ingenuity centuries before the
 development of modern instrumentation.
 
 ## See Also
-
 - [[darwin-power-of-movement-in-plants]]
 - [[history-of-plant-science]]
+- [[hallucinogenic-plants-history-ethnobotany]]
 
 ## References
 

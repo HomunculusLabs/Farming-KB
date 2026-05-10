@@ -1,5 +1,5 @@
 ---
-title: singh-mycoremediation-regulatory-frameworks Framework
+title: Mycoremediation Regulatory Framework
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/singh-harbhajan_-mycoremediation-_-fungal-bioremediation.md
 
 # Mycoremediation Regulatory Framework
 
-The regulatory landscape for mycoremediation is still developing. While fungi offer promising solutions for environmental cleanup, deploying [[savory-living-organisms-as-tools]] in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects.
+The regulatory landscape for mycoremediation is still developing. While fungi offer promising solutions for environmental cleanup, deploying living organisms in the environment involves regulatory considerations around safety, efficacy, and liability. Understanding this framework is essential for anyone considering field-scale mycoremediation projects. (see [[bioaugmentation-strategies]]).
 
 ## Current Status
 
@@ -17,7 +17,7 @@ The regulatory landscape for mycoremediation is still developing. While fungi of
 - No specific regulations exist for mycoremediation in most jurisdictions
 - Falls under general bioremediation regulations
 - Often treated as "land application of biological material" — similar to composting or bioaugmentation
-- Regulatory agencies are still developing guidance specific to [[cotter-pet-livestock-waste-fungal-remediation-systems]]
+- Regulatory agencies are still developing guidance specific to fungal remediation
 
 ### Regulatory Bodies (US)
 - **EPA**: Primary regulator for contaminated sites. Clean-up standards set under CERCLA/Superfund and RCRA
@@ -31,7 +31,7 @@ The regulatory landscape for mycoremediation is still developing. While fungi of
 - Contaminant type and concentration must be characterized before remediation
 - Baseline ecological survey (existing organisms, groundwater monitoring)
 - Cleanup goals must be defined (what concentration is "clean enough"?)
-- Regulatory approval may be required before deploying [[ingham-fungal-inoculum-sourcing]]
+- Regulatory approval may be required before deploying fungal inoculum
 
 ### Strain Selection
 - **Native strains preferred**: Using locally-occurring species avoids introducing non-native organisms
@@ -68,7 +68,7 @@ The regulatory landscape for mycoremediation is still developing. While fungi of
 ## Standards and Verification
 
 ### How Success Is Measured
-- Total [[singh-basidiomycete-fungi-in-petroleum-hydrocarbon-cleanup]] (TPH) reduction targets
+- Total petroleum hydrocarbon (TPH) reduction targets
 - EPA Regional Screening Levels (RSLs) for soil and groundwater
 - State-specific cleanup standards
 - Ecological risk assessment (not just chemical concentration)
@@ -90,12 +90,12 @@ The regulatory landscape for mycoremediation is still developing. While fungi of
 | Liability transfer | Yes (waste goes to landfill) | Stays on site |
 
 ## Future Directions
-- ASTM and ISO developing standards for [[combined-biological-remediation-approaches]]
+- ASTM and ISO developing standards for biological remediation
 - EPA exploring mycoremediation as a "green remediation" technology
 - Insurance industry developing products for biological remediation projects
 - Growing acceptance as pilot projects demonstrate efficacy
 
 ## Related
-- [[cotter-mycoremediation-overview]] — for the science
+- [[mycoremediation-overview]] — for the science
 - [[mycoremediation-field-applications]] — for case studies
 - [[mycoremediation-petroleum-hydrocarbons]] — for the most common application

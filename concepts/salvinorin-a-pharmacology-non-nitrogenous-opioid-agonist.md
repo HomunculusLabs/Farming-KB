@@ -131,12 +131,13 @@ Many other Lamiaceae ornamentals may ultimately prove
 to be psychoactive similar to Salvia divinorum.
 Coleus spp. plants, popular in gardens for their intense leaf colors,
 are sometimes chewed by Mazatec Indians as a Salvia substitute.
+
 ## See Also
-
+- [[salvinorin-a-kappa-opioid-receptor-pharmacology]]
 - [[salvinorin-b]]
-
 - [[salvia-divinorum-profile]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]
+
 ## Sources
 
 - Halpern, J.H. (2004). Hallucinogens and dissociative agents naturally growing in the US. Pharmacology & Therapeutics, 102, 131-138.
@@ -145,5 +146,3 @@ are sometimes chewed by Mazatec Indians as a Salvia substitute.
 - Valdes, L.J. et al. (1983). Two new neoclerodane diterpenoids from Salvia divinorum. Journal of Natural Products.
 
 ## See Also
-
-- [[salvinorin-pharmacology]]

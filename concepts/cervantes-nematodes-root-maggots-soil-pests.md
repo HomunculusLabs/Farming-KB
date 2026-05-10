@@ -5,7 +5,6 @@ tags: [cannabis, nematodes, root-maggots, soil-pests, pest-control]
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -144,7 +143,6 @@ around stem joints.
 
 ## Leafhoppers
 
-### Identification
 ## See Also
 
 - [[cervantes-root-maggots-cutworms]]

@@ -1,5 +1,5 @@
 ---
-title: Mushroom water-harvesting-techniques-comparison
+title: Mushroom Harvesting Techniques
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,13 +9,13 @@ sources: []
 
 ## Overview
 
-Harvesting is the culmination of the cultivation cycle. Proper timing and technique directly affect yield, potency, quality, and [[psilocybin-shelf-life-stability]]. Mushrooms are [[savory-living-organisms-as-tools]] that continue to metabolize after being picked — they lose potency and quality with every hour they remain undried. This page covers when to harvest, how to harvest, drying methods, and long-term storage.
+Harvesting is the culmination of the cultivation cycle. Proper timing and technique directly affect yield, potency, quality, and shelf life. Mushrooms are living organisms that continue to metabolize after being picked — they lose potency and quality with every hour they remain undried. This page covers when to harvest, how to harvest, drying methods, and long-term storage. (see [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]]).
 
 ## Harvest Timing
 
 ### The Veil as Indicator
 
-The most reliable indicator of harvest readiness for P. cubensis is the partial veil — the thin membrane connecting the cap to the stem. The veil stretches as the mushroom grows and eventually tears.
+The most reliable indicator of harvest readiness for P. cubensis is the partial veil — the thin membrane connecting the cap to the stem. The veil stretches as the mushroom grows and eventually tears. (see [[mushroom-potency-harvest-timing]]).
 
 - **Before veil tears**: Mushroom is still growing. Potency is increasing. Harvesting now yields smaller, more visually appealing mushrooms but lower total weight.
 - **At veil tear**: The traditional harvest point. The mushroom has reached near-maximum size and potency. The cap margin is still slightly curved inward.
@@ -68,7 +68,7 @@ The standard harvesting method for monotub cultivation:
 ### Handling After Harvest
 
 - Handle mushrooms gently. Bruising (blue discoloration) occurs with physical contact. Bruising does not significantly affect potency but indicates handling damage.
-- Place harvested mushrooms on a clean surface (paper towel, plate, or [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]).
+- Place harvested mushrooms on a clean surface (paper towel, plate, or drying rack).
 - Do not wash mushrooms before drying. Water on the surface slows drying and can promote rot.
 - Trim any substrate debris from the base with clean scissors.
 
@@ -108,7 +108,7 @@ A food dehydrator is the fastest and most reliable drying method:
 
 For cultivators without a dehydrator:
 
-1. Place mushrooms on a wire rack over a bed of desiccant ([[aminopropyl-silica-gel-chromatography-indole-alkaloid-purification]], DampRid, or indicating silica gel).
+1. Place mushrooms on a wire rack over a bed of desiccant (silica gel, DampRid, or indicating silica gel).
 2. Seal in an airtight container (Tupperware, gallon jar).
 3. Replace desiccant when it changes color (for indicating gel) or becomes saturated.
 4. This method takes 3-7 days and may not achieve cracker-dry consistency in humid environments.
@@ -127,7 +127,7 @@ For any drying method, fan-drying for 24-48 hours before using a dehydrator or d
 
 ### Short-Term Storage (Weeks to Months)
 
-- Place cracker-dry mushrooms in a [[sterile-spore-print-collection-glass-jar-technique]] with a desiccant packet.
+- Place cracker-dry mushrooms in a glass jar with a desiccant packet.
 - Seal tightly. Store in a cool, dark place (pantry, closet).
 - Check periodically for moisture. If the desiccant changes color, replace it and re-dry the mushrooms.
 
@@ -141,9 +141,10 @@ For any drying method, fan-drying for 24-48 hours before using a dehydrator or d
 
 Psilocybin degrades through oxidation, exposure to UV light, and heat:
 
-## Related Topics
+- **Oxygen**: The primary degradation pathway. Minimize air exposure.
+- **Light**: UV light accelerates degradation. Store in opaque containers or dark locations.
+- **Heat**: Elevated temperatures accelerate chemical degradation. Store below 70F (21C).
+- **Moisture**: Residual moisture promotes enzymatic degradation. Ensure cracker-dry before storage.
 
-- [[mushroom-yield-optimization]] — maximizing yield before harvest
-- [[monotub-cultivation]] — the growing method leading to harvest
-- [[psilocybin-cultivation]] — the complete cultivation cycle
-- [[mushroom-strain-selection]] — strain characteristics affecting harvest timing
+### Expected Shelf Life
+

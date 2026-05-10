@@ -32,6 +32,36 @@ Fungal community patterns operate at multiple scales:
 
 Zak and colleagues (1995) emphasized that the scale at which interactions between a fungal mycelium and its environment are perceived biases our understanding.
 
+## Dispersal Limitation and Priority Effects
+
+Dispersal limitation -- the inability of fungal propagules to reach all
+suitable habitats -- has emerged as a significant factor in community
+assembly from molecular studies. Many fungal species show distance-decay
+patterns where community similarity decreases with geographic distance,
+even when environmental conditions remain constant. Priority effects,
+where early-colonizing species modify the substrate and influence which
+species can establish later, add a historical contingency dimension.
+These effects are especially pronounced in wood-decay communities, where
+the order of fungal arrival on a fallen log determines the subsequent
+successional trajectory for years or decades. Experimental studies using
+sterilized wood blocks placed at varying distances from source
+communities have confirmed that both dispersal and environmental
+filtering jointly shape the resulting fungal assemblages.
+
+## Temporal Dynamics and Seasonal Patterns
+
+Fungal communities exhibit pronounced seasonal shifts driven by
+temperature, moisture, and substrate availability fluctuations. Soil
+fungal biomass typically peaks in autumn when fresh litter inputs
+coincide with moist conditions. Epigeous fruiting communities show even
+sharper temporal patterns, with distinct spring and autumn fruiting
+assemblages in temperate forests. A single sampling point captures only
+a snapshot; repeated sampling is necessary to characterize true fungal
+diversity at any given site. Molecular surveys using repeated temporal
+sampling have revealed that up to 30% of fungal OTUs in a given soil
+sample may be transient, appearing in only one or two sampling events
+out of a year-long series.
+
 ## Disturbance and Succession
 
 Disturbance is a major driver of fungal community assembly. Following disturbance events such as fire, tillage, or logging, fungal communities undergo directional changes through succession. Early successional communities are typically dominated by ruderal species with rapid colonization ability, while late-successional communities favor competitive and stress-tolerant species. The culturing-culture-independent-fungi are essential for understanding the full complexity of fungal community assembly processes. Molecular data have confirmed the strong environmental regulation of community composition while also revealing the importance of dispersal limitation and historical factors at broader spatial scales.

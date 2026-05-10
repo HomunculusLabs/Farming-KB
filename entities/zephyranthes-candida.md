@@ -96,6 +96,6 @@ Extracts of Zephyranthes candida have demonstrated antimicrobial activity agains
 - [[colchicine]]
 - [[camassia-quamash]]
 - [[tulbaghia-violacea]]
-- [[allium-sativum]]
+- [[allium-sativum-entity]]
 - [[apigenin]]
 - [[quercetin]]

@@ -9,7 +9,7 @@ tags:
 - chytrids
 - oomycetes
 - ecology
-title: Freshwater biodiversity-of-fungi-biodiversity-patterns-ecosystems
+title: Freshwater Fungi Biodiversity
 type: concept
 updated: 2026-04-12
 ---
@@ -62,7 +62,7 @@ Now classified in Kingdom Straminipila, not true Fungi, but traditionally studie
 **Collection methods**:
 - Baiting with hemp seed halves, snake skin, and fruit in water samples
 - In situ baiting with mesh bags or dialysis tubing
-- [[particle-filtration-dilution-plating-microfungal-isolation]] for Pythium isolation
+- Dilution plating for Pythium isolation
 - CFD (charcoal-filtered distilled) water promotes zoospore formation
 
 ### Freshwater Ascomycetes
@@ -84,7 +84,7 @@ A diverse group, with approximately 600+ species reported from freshwater habita
 **Temporal patterns**: Many freshwater ascomycetes are seasonal. Fruiting often peaks in autumn when submerged leaf litter is most abundant. Tropical species may fruit year-round.
 
 **Geographic distribution**:
-- Temperate regions best studied (Europe, [[psilocybin-north-america-pacific-northwest]])
+- Temperate regions best studied (Europe, North America)
 - Tropical regions poorly documented but likely more diverse
 - Many species appear to have broad distributions
 
@@ -112,7 +112,7 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 
 ### Lakes and Ponds (Lentic)
 - Seasonal pollen inputs drive chytrid populations
-- Submerged wood supports long-term [[biodiversity-of-fungi-soil-fungal-communities-agriculture]]
+- Submerged wood supports long-term fungal communities
 - Sediment-dwelling fungi decompose settled organic matter
 - Stratification affects fungal distribution
 
@@ -140,10 +140,11 @@ Anamorphic fungi that produce conidia in freshwater habitats. Include the Ingold
 - Water/soil samples diluted with CFD water
 - VP3 agar for Pythium isolation via dilution plating
 - Temperature near natural habitat conditions
-## Related Topics
 
-- [[aquatic-fungi-and-ingoldian-spores]] — Ingoldian freshwater hyphomycetes
-- [[fungal-biodiversity-biogeography]] — Global [[arbuscular-mycorrhizal-fungal-diversity-patterns-distribution]]
-- [[fungal-ecology]] — Fungal ecology overview
-- [[saprotrophic-fungi]] — Decomposer strategies
-- [[fungal-parasites]] — [[escovopsis-parasitic-fungi-attine-ant-gardens]]
+**Ascomycetes**:
+- Collection of naturally submerged wood and plant material
+- Incubation in moist chambers at ambient temperatures
+- Examination for ascomata after 1-12 weeks
+- Single-spore isolation on agar media
+
+**Hyphomycetes**:

@@ -1,16 +1,15 @@
 ---
-title: query-what-are-permaculture-zones-and-how-do-i-use-them and Sectors
+title: Permaculture Zones and Sectors
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, design, patterns, ecological-design, water-management, principles]
-sources:
-  sources: []
+sources: []
 ---
 
 # Permaculture Zones and Sectors
 
-Permaculture zones and sectors are the foundational spatial planning tools of [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
+Permaculture zones and sectors are the foundational spatial planning tools of permaculture design. Zones organize elements by frequency of human use and maintenance needs. Sectors map external energies (sun, wind, fire, water, wildlife) flowing through a site. Together they enable efficient, resilient landscape design that minimizes energy input while maximizing yield.
 
 ## Zone Analysis
 
@@ -23,18 +22,18 @@ The house or primary dwelling. This is the center of activity where people spend
 - Indoor living spaces
 - Kitchen and food preparation areas
 - Indoor herb gardens, sprouting setups
-- [[comparison-passive-solar-vs-earth-sheltered]] design elements
+- Passive solar design elements
 - Water harvesting from rooftops
 - Composting toilet or worm bin in attached greenhouse
 
-Zone 0 design focuses on [[fukuoka-textdoc-energy-efficiency-agricultural-labor]], thermal comfort, and integrating growing systems into daily living spaces.
+Zone 0 design focuses on energy efficiency, thermal comfort, and integrating growing systems into daily living spaces.
 
 ### Zone 1 — Intensive Garden
 
 Immediately surrounding the home, visited daily. Contains high-maintenance, high-yield elements:
 
 - Annual vegetable beds
-- Salad gardens and [[holzer-medicinal-and-culinary-herbs-compendium]]
+- Salad gardens and culinary herbs
 - Seedling nursery and propagation area
 - Small greenhouse or cold frame
 - Compost bins (close for kitchen scrap delivery)
@@ -50,7 +49,7 @@ Visited every few days. Lower maintenance than Zone 1 but still actively managed
 
 - Fruit and nut trees (semi-dwarf and standard)
 - Berry patches (raspberries, blackberries, strawberries)
-- [[comparison-perennial-vegetables-vs-cover-crops]] (asparagus, rhubarb, artichokes)
+- Perennial vegetables (asparagus, rhubarb, artichokes)
 - Larger composting systems
 - Poultry housing and forage areas
 - Pond or small water feature
@@ -142,9 +141,10 @@ Map all water flows onto the property:
 - Flood risk areas
 - Springs, seeps, and groundwater indicators
 - Potential sites for ponds, swales, and catchment
-## See Also
 
-- [[forest-garden-layers]] for detailed polyculture layer design
-- [[permaculture-earthworks]] for water management infrastructure
-- [[keyline-design]] for advanced water harvesting on slope
-- [[food-forest-plant-palette]] for species selection by zone
+Key design response: [[permaculture-earthworks]] such as swales and keyline systems capture, store, and slowly release water across the landscape. See [[keyline-design]] for detailed water management techniques.
+
+### Wildlife Sector
+
+Track animal movement corridors and foraging patterns:
+

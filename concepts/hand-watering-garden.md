@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Hand Watering the Garden
 
-Techniques for watering gardens with a hose and nozzle or watering can, as described in Steve Solomon's *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all vegetable gardens were grown without running water at all.
+Techniques for watering gardens with a hose and nozzle or watering can, as described in Steve Solomon's *Gardening When It Counts*. Solomon notes that before 1880, over 90% of all vegetable gardens were grown without running water at all. (see [[wide-spacing-dry-gardening-low-irrigation-solomon]]).
 
 ## The Fan Nozzle Method
 
@@ -30,7 +30,7 @@ The main problem with daily light watering:
 - But they become severely stunted due to lack of root development
 - Roots stay shallow, only exploring the moist surface zone
 
-This subtle moisture stress can cause significant damage without any visible wilting.
+This subtle moisture stress can cause significant damage without any visible wilting. (see [[solomon-drip-irrigation-limitations-home-garden]]).
 
 ## Soil Type Considerations
 
@@ -52,11 +52,11 @@ To determine when to water, dig 5-6 inches (12-15 cm) below the surface and sque
 
 If you are so short of water that fertigation is not possible, foliar feeding with a sprayer is the next best choice:
 
-- Mix [[solomon-foliar-feeding-fish-emulsion-and-kelp]] and/or kelp tea at recommended dilution rates
+- Mix fish emulsion and/or kelp tea at recommended dilution rates
 - Spray directly onto plant leaves
 - Kelp tea contains phytamins and a full range of trace mineral nutrients
 - Even a few gallons per week can make a significant difference
-- Half-strength Coca Cola has been discovered to be an effective foliar spray — it contains significant amounts of [[cho-water-soluble-phosphoric-acid-preparation]] and sugars that help plants
+- Half-strength Coca Cola has been discovered to be an effective foliar spray — it contains significant amounts of phosphoric acid and sugars that help plants
 
 ## Watering Seedlings
 
@@ -64,7 +64,7 @@ After seedlings have come up or been transplanted out, sprinkle them with a fine
 
 ## How Much Water Do Plants Need?
 
-Modern [[comparison-heirloom-vegetable-varieties-vs-seed-saving-techniques]] have been bred in an age of oil-driven irrigation and are weaker at rooting than their predecessors. Crop science aims at maintaining moisture levels above 70% of field capacity to the full depth of the root zone.
+Modern vegetable varieties have been bred in an age of oil-driven irrigation and are weaker at rooting than their predecessors. Crop science aims at maintaining moisture levels above 70% of field capacity to the full depth of the root zone.
 
 The basic plan:
 1. Maintain soil moisture above 70% of field capacity in the top foot (30 cm)

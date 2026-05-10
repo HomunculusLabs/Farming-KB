@@ -124,10 +124,6 @@ recreational use, the pursuit of purely positive experiences may prevent users f
 accessing the full range of what the tryptamine state has to offer.
 
 ## See Also
-
 - [[mckenna-dmt-experience-and-hyperspace]]
 - [[tryptamine-hypercontinuum]]
-
-## See Also
-
 - [[mckenna-invention-of-lsd-and-psychedelic-sixties]]

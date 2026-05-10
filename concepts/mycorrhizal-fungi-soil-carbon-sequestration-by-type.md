@@ -77,3 +77,10 @@ The differences between mycorrhizal types have significant implications for carb
 - ectomycorrhizal organic nitrogen uptake
 - glomalin soil aggregation and carbon storage
 - soil organic carbon pools and turnover rates
+
+## See Also
+
+- [[dighton-ectomycorrhizal-hartig-net-structure-function]]
+- [[symbiotic-fungi-arbuscular-mycorrhizal-agriculture]]
+- [[mycorrhizal-networks]]
+- [[teaming-with-microbes-fungi]]

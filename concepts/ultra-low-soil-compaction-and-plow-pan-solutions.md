@@ -82,5 +82,7 @@ intervention.
 
 ## See Also
 
+- [[plow-pan-soil-compaction-remediation-solomon]]
+
 - [[ultra-low-green-manure-cover-crop-species]] - Cover crop establishment
 - [[jadam-fertilizer-program]] - Comprehensive soil nutrition

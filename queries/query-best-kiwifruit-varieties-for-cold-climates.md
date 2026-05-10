@@ -16,7 +16,7 @@ updated: 2026-05-03
 sources:
   - Ferguson AR (1999). "New Zealand kiwifruit: breeding and genetics." Acta Horticulturae.
   - Latocha P et al. (2020). "Hardy kiwifruit (Actinidia arguta) — a review of genetic resources." Plants.
-  - Oregon State University Extension: Growing Kiwifruit in the [[cool-climate-home-garden-mollison]].
+  - Oregon State University Extension: Growing Kiwifruit in the cool-climate-home-garden-mollison.
   - University of Minnesota Extension: Hardy Kiwi in Minnesota.
 type: query
 created: 2026-05-03

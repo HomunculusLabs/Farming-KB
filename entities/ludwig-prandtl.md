@@ -13,8 +13,7 @@ categories:
   - aerodynamics
   - engineering
 tags: [profile]
-sources:
-  sources: []
+sources: []
 ---
 # Ludwig Prandtl
 
@@ -25,7 +24,7 @@ and provided the mathematical foundation for understanding drag, lift, and
 streamlined body design. Over five decades at the University of Gottingen,
 he developed lifting-line theory, the mixing-length turbulence model, thin
 airfoil theory, and the Prandtl number, while training an extraordinary
-generation of students who [[dom|dom]]inated  worldwide.
+generation of students who [[dom]] inated  worldwide.
 
 ## Early Life and Education
 
@@ -53,7 +52,7 @@ Reynolds number is inertia-dominated. Outside this layer, the flow obeys
 the inviscid Euler equations. This resolved **D'Alembert's paradox** (1752)
 -- inviscid theory predicting zero drag -- by showing drag arises in the
 thin viscous boundary layer. He also introduced **flow separation**, where
-the boundary layer [[det|det]]aches, creating wakes that fundamentally alter drag
+the boundary layer [[det]] aches, creating wakes that fundamentally alter drag
 and lift. This single paper founded modern fluid dynamics.
 
 ## The Gottingen Research Center
@@ -140,10 +139,9 @@ accommodating the regime to preserve his research.
 
 Prandtl died on **15 August 1953** in Gottingen. He received the **Daniel
 Guggenheim Medal** (1928), was elected Foreign Member of the **Royal
-## See Also
+
+See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
+See [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]] for more on Query What Are The Best Ancient And Heritage Grains For Small Scale Farming.
 
 ## See Also
-- fukuoka-textdoc-high-yield-theory-photosynthesis-critique
 - [[euler-bernoulli-beam-theory]]
-
-See also: [[fukuoka-natural-farming-philosophy]]

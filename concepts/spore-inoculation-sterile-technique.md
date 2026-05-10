@@ -64,6 +64,19 @@ colonization to distribute mycelium evenly. Colonization progress is
 monitored through the container walls. Any jars showing signs of bacterial
 slime, unusual colors, or stale odors are removed and discarded immediately.
 
+## Personal Hygiene and Workspace Preparation
+
+Thorough personal preparation is the first line of defense against
+contamination. Cultivators should shower and wear freshly laundered clothing,
+including a face mask, hair cover, and nitrile gloves. Long sleeves prevent
+shedding skin cells into the work area. All surfaces inside the inoculation
+chamber should be wiped down with 70 percent isopropyl alcohol at least 15
+minutes before beginning work, allowing time for airborne particles to settle.
+
+Tools and materials should be arranged inside the chamber before starting so
+that arms do not need to enter and exit repeatedly. This minimizes air
+disturbance and significantly reduces contamination risk during the procedure.
+
 ## See Also
 
 - [[mushroom-inoculation-methods-spore-syringe-mycelium-syringe-agar-squares-comparison]]

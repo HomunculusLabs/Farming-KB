@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, equipment, engineering, construction, water, safety]
-sources:
-  sources: []
+sources: []
 ---
 
 # Wood-Fired Hot Tub
 
-A wood-fired hot tub provides year-round soaking on the homestead without electricity or gas. Using a wood-burning stove or submersible heater to heat water, these tubs are simple, reliable, and deeply satisfying after a day of physical work. They can be built from a variety of materials and range from simple stock tank conversions to custom-built cedar tubs with sophisticated heater systems.
+A wood-fired hot tub provides year-round soaking on the homestead without electricity or gas. Using a wood-burning stove or submersible heater to heat water, these tubs are simple, reliable, and deeply satisfying after a day of physical work. They can be built from a variety of materials and range from simple stock tank conversions to custom-built cedar tubs with sophisticated heater systems. (see [[rocket-stove]]).
 
 ## Design Overview
 
@@ -54,9 +53,9 @@ A wood-fired hot tub consists of four main components:
 ## Heater Systems
 
 ### External Wood-Fired Stove (Recommended)
-A stainless steel or copper coil (heat exchanger) sits inside a small wood stove. Water circulates from the tub, through the coil, and back into the tub via thermosiphon (natural convection) or a small pump.
+A stainless steel or copper coil (heat exchanger) sits inside a small wood stove. Water circulates from the tub, through the coil, and back into the tub via thermosiphon (natural convection) or a small pump. (see [[comparison-slip-form-stone-vs-timber-frame]]).
 
-- **How it works**: The stove heats the coil, which heats the water. Hot water rises out of the coil back into the tub; cool water flows from the tub into the coil. No pump required if the system is properly designed with adequate rise (12-18 inches minimum between stove output and tub inlet).
+- **How it works**: The stove heats the coil, which heats the water. Hot water rises out of the coil back into the tub; cool water flows from the tub into the coil. No pump required if the system is properly designed with adequate rise (12-18 inches minimum between stove output and tub inlet). (see [[straw-bale-construction]]).
 - **Heating time**: 2-4 hours from 50F to 104F for a 250-gallon tub with a well-designed system
 - **Fuel**: small-diameter dry hardwood (similar to [[rocket-stove-design]] fuel). A wheelbarrow load of wood per heating session.
 - **Cost**: $500-$2,000 for a complete system
@@ -83,10 +82,10 @@ This requires welding skills but costs as little as $100-200 in materials.
 Wood-fired tubs typically do not use conventional pool chemicals (chlorine is unpleasant and unnecessary for a non-circulating tub). Options include:
 
 ### Non-Chemical Methods
-- **Drain and refill** — the simplest approach. Drain every 1-3 weeks depending on use. At 250-400 gallons, this is practical if you have a water source. See [[water-management]] systems.
-- **Enzyme treatment** — commercial enzyme products (like Spa Marvel) [[query-can-fungi-break-down-plastic-pollution]] body oils and [[hamilton-composting-and-organic-matter-management]]. Add weekly. Extends water life to 2-4 weeks.
-- **[[cervantes-hydrogen-peroxide-sterilization]]** — 1 cup of 3% hydrogen peroxide per 100 gallons helps oxidize contaminants. Safer than chlorine and breaks down to water and oxygen.
-- **[[cervantes-ozone-generators-negative-ion-odor]]** — small 12V ozone units reduce contaminants. Effective but require electricity.
+- **Drain and refill** — the simplest approach. Drain every 1-3 weeks depending on use. At 250-400 gallons, this is practical if you have a water source. See [[water-management|water]] systems.
+- **Enzyme treatment** — commercial enzyme products (like Spa Marvel) break down body oils and organic matter. Add weekly. Extends water life to 2-4 weeks.
+- **Hydrogen peroxide** — 1 cup of 3% hydrogen peroxide per 100 gallons helps oxidize contaminants. Safer than chlorine and breaks down to water and oxygen.
+- **Ozone generators** — small 12V ozone units reduce contaminants. Effective but require electricity.
 
 ### Filtration
 - A simple cartridge filter run periodically keeps water clearer
@@ -106,7 +105,7 @@ A full tub weighs 2,000-4,000+ pounds. The foundation must support this weight.
 - **Compacted gravel** — 6 inches of compacted crushed stone, leveled
 - **Concrete pad** — 4-inch reinforced concrete, slightly larger than the tub
 - **Concrete blocks** — level block pavers on compacted ground
-- **[[comparison-bamboo-construction-vs-timber-frame-basics]]** — treated 6x6 beams on a gravel bed
+- **Timber frame** — treated 6x6 beams on a gravel bed
 
 ### Drainage
 - Install a drain valve at the bottom of the tub (bulkhead fitting)
@@ -142,5 +141,3 @@ A cover is essential — it retains heat between uses (reducing heating time and
 - Once at temperature, maintain with a small fire or let it cool naturally — the tub holds heat for several hours
 
 A wood-fired hot tub is one of the most rewarding homestead additions. It costs little to operate, requires no grid connection, and provides genuine therapeutic benefit after hard physical work.
-
-See also: [[natural-building]]

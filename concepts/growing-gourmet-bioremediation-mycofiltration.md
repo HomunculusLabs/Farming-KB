@@ -49,7 +49,9 @@ Once the economic value of recycling with gourmet and medicinal
 mushrooms is clearly understood, and with the increasing popularity
 ## See Also
 
-- [[mycofiltration]]
+- [[mycofiltration-fungal-water-filtration]]
+
+- [[unknown-mycelium-mycofiltration]]
 ## Practical Considerations
 
 When working with Mushroom Bioremediation and Mycofiltration, several practical factors should be
@@ -108,3 +110,4 @@ publications, established practitioner networks, hands-on experimentation,
 and systematic observation of outcomes across different conditions and
 approaches. The combination of study and practice provides the strongest
 foundation for developing deep expertise and contributing to the field.
+- [[mycofiltration]]

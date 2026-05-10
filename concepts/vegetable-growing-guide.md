@@ -1,5 +1,5 @@
 ---
-title: fukuoka-semi-wild-vegetable-growing-natural-method Guide
+title: Vegetable Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/gardening-when-it-counts-steve-solomon.md]
 
 # Vegetable Growing Guide
 
-General principles for [[container-growing-vegetables-herbs]], from Steve Solomon's *Gardening When It Counts* Chapter 9, "What to Grow... and How to Grow It."
+General principles for growing vegetables, from Steve Solomon's *Gardening When It Counts* Chapter 9, "What to Grow... and How to Grow It."
 
 ## Organization
 
@@ -32,13 +32,13 @@ Solomon emphasizes that the root growth you cannot see is as important as what y
 - A few days after formation, the root tip becomes covered with bark-like tissue that reduces its ability to absorb
 - The plant must constantly create new root tips in an ever-expanding network to feed efficiently
 - The plant cannot readily make new root tips where it already has roots (self-signaling chemicals)
-- [[mycorrhizal-root-exudates-pathogen-interactions]] repel roots of other species — competing root systems cause stress
+- Root exudates repel roots of other species — competing root systems cause stress
 
 When root systems compete, plants become stressed: growth slows, they are more easily attacked by insects, they stop producing fruit, and they become more susceptible to disease. They can be "starving in the midst of plenty."
 
 ## Spacing Terminology
 
-- **"In stations"**: A few seeds sown in a cluster, with clusters at fixed spacing on [[comparison-raised-beds-vs-hugelkultur]] or wide raised rows
+- **"In stations"**: A few seeds sown in a cluster, with clusters at fixed spacing on raised beds or wide raised rows
 - **"In drills"**: Seeds set in the bottom of a shallow furrow
 - **"In hills"**: Seeds sown in highly fertile mounds, for sprawling or large plants
 
@@ -53,7 +53,7 @@ The most vigorous and cold-hardy of all garden brassicas. Kale produces when oth
 - **Two kale species**: Siberian (B. napus, rosette pattern) and regular (B. oleracea, tall central stalk). Some prefer Siberian's flavor raw in salads.
 - **Calcium need**: All brassicas need more calcium than most vegetables. Broadcast 5 lbs of agricultural lime per 100 sq ft on rain-leached soils before sowing.
 - **Spacing**: 24 x 30 inch (60 x 75 cm) stations for full-size kale
-- **Timing**: Start about 6 weeks before first frost for autumn/[[coleman-semi-hibernating-winter-crops-harvest-extension]]
+- **Timing**: Start about 6 weeks before first frost for autumn/winter crops
 - **Flavor**: Gets sweeter after frost (like chicories)
 - **Pests**: Cabbage worms show only slight interest in kale — they prefer refined brassicas
 

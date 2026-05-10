@@ -114,6 +114,12 @@ Fodder beet varieties, developed for high dry matter yield, remain important as 
 
 ## See Also
 
+- [[silene-vulgaris]]
+
+- [[senecio-vulgaris]]
+
+- [[hippuris-vulgaris]]
+
 - [[amaranthus-caudatus]]
 - [[daucus-carota]]
 - raphanus sativum

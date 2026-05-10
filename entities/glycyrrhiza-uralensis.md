@@ -20,7 +20,7 @@ sources:
 
 ## Overview
 
-**Glycyrrhiza uralensis** Fisch. ex DC., known as **Chinese licorice** or
+**glycyrrhiza uralensis is]]** Fisch. ex DC., known as **Chinese licorice** or
 **gan cao** (甘草), is a perennial herbaceous legume in the family Fabaceae.
 It is the most commercially important of the approximately 30 *Glycyrrhiza*
 species and serves as the official source of licorice root in the Chinese
@@ -36,7 +36,7 @@ plant's widespread use as a sweetener, flavoring agent, and therapeutic agent.
 
 ### Taxonomy
 
-- **King[[dom|dom]]:** Plantae
+- **King [[dom]]:** Plantae
 - **Order:** Fabales
 - **Family:** Fabaceae
 - **Subfamily:** Faboideae
@@ -139,11 +139,10 @@ Propagation is primarily by seed (scarification improves germination from
 well-drained sandy soils and 400–600 mm annual rainfall.
 
 Harvest typically begins 3–4 years after planting when root glycyrrhizin
+
+See [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]] for more on Query How To Make And Use Plant Based Foliar Sprays For Pest And Disease Prevention.
+See [[query-what-are-the-most-important-medicinal-mushrooms-and-how-do-i-choose-one]] for more on Query What Are The Most Important Medicinal Mushrooms And How Do I Choose One.
+
 ## See Also
-
-- [[glycyrrhiza-glabra]] — European licorice, the Western pharmacopeial source
-- [[withania-somnifera]] — Ayurvedic adaptogen with overlapping anti-inflammatory profile
-
-## See Also
-
-- gaias-garden-nitrogen-fixers-guild-design
+- [[glycyrrhiza-glabra]]
+- [[withania-somnifera]]

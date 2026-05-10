@@ -1,6 +1,6 @@
 ---
 
-title: mckenna-tryptamine-consciousness-dmt-spirit-molecule Theory
+title: Tryptamine Consciousness Theory
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -22,7 +22,7 @@ sources:
 
 # Tryptamine Consciousness Theory
 
-[[terence-mckenna]]'s 1983 Esalen lecture "[[mckenna-tryptamine-hallucinogens-and-consciousness]] and Consciousness" (published in *The [[mckenna-archaic-revival-four-part-structure-paradise-paradise-lost-hell-regained]]*, 1992) presents his most detailed phenomenological account of DMT and psilocybin experiences, with theoretical implications for consciousness studies.
+[[terence-mckenna]]'s 1983 Esalen lecture "Tryptamine Hallucinogens and Consciousness" (published in *The Archaic Revival*, 1992) presents his most detailed phenomenological account of DMT and psilocybin experiences, with theoretical implications for consciousness studies.
 
 ## The Tryptamine Family
 
@@ -51,7 +51,7 @@ Central to McKenna's theory: DMT and psilocybin "invoke the Logos" -- they work 
 1. **Onset** (15 sec): Sound like "ripping cellophane," ascending tone, shifting geometric surfaces
 2. **Mode shift** (~30 sec): All available bond sites occupied; arrival in an "underground, insulated, domed" space
 3. **The "Merry Go Raum"**: From Finnegans Wake -- the room is actually going around; one feels like a child
-4. **Entity contact**: "Self-transforming [[dmt-self-transforming-machine-elves-mckenna]]" -- hyperdimensional, dynamically contorting topological modules
+4. **Entity contact**: "Self-transforming machine elves" -- hyperdimensional, dynamically contorting topological modules
 5. **The message**: "Don't be alarmed. Remember, and do what we are doing."
 
 ### The Machine Elves
@@ -59,7 +59,7 @@ Central to McKenna's theory: DMT and psilocybin "invoke the Logos" -- they work 
 - "Bathe one in love" -- not erotic but open-hearted
 - Emit sounds "like music, like language" that pass "without any quantized moment of distinction"
 - Convey "alien meaning that cannot be Englished"
-- The [[mckenna-cognitive-dissonance-translinguistic-object]] of encountering a "translinguistic object" causes wonder, astonishment, and "awe at the brink of terror"
+- The cognitive dissonance of encountering a "translinguistic object" causes wonder, astonishment, and "awe at the brink of terror"
 
 ### Glossolalia and the Primal Language
 DMT-induced glossolalia differs from religious speaking-in-tongues:
@@ -90,7 +90,7 @@ Both invoke the Logos and convey into "the world of the tryptamine hyperdimensio
 ### Time and Eternity
 - The tryptamine state is "transtemporal -- an anticipation of the future"
 - Plato's metaphor: "time is the moving image of eternity"
-- The [[mckenna-tryptamine-ecstasy-and-platonic-eternity]] is "a stepping out of the moving image and into eternity, the nunc stans of Thomas Aquinas"
+- The tryptamine ecstasy is "a stepping out of the moving image and into eternity, the nunc stans of Thomas Aquinas"
 - In that state, "all of human history is seen to lead toward this culminating moment"
 - Visible acceleration: fire (millions of years ago), language (35,000 years ago), measurement (5,000), Galileo (400), Watson-Crick and DNA (recent)
 

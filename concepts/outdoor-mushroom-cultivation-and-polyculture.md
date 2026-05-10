@@ -124,7 +124,4 @@ environmental stewardship.
 ## See Also
 - [[mushroom-bioremediation-and-mycofiltration]]
 - [[mycorrhizal-mushroom-cultivation-challenges]]
-
-## See Also
-
 - [[holzer-mushroom-cultivation-outdoor-beds]]

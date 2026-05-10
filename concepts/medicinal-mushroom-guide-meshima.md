@@ -1,5 +1,5 @@
 ---
-title: Meshima (Phellinus linteus) — gourmet-medicinal-mushroom-casing-layer-techniques Guide
+title: Meshima (Phellinus linteus) — Medicinal Mushroom Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Meshima, meaning "women's island" in Japanese, is a bracket fungus that has been used for centuries in traditional medicine across East Asia, particularly in Japan, Korea, and China. It grows as a woody, hoof-shaped conk on mulberry and other hardwood trees. The name originates from a historical account that a woman on a remote island survived what was likely cervical cancer by consuming this mushroom.
+Meshima, meaning "women's island" in Japanese, is a bracket fungus that has been used for centuries in traditional medicine across East Asia, particularly in Japan, Korea, and China. It grows as a woody, hoof-shaped conk on mulberry and other hardwood trees. The name originates from a historical account that a woman on a remote island survived what was likely cervical cancer by consuming this mushroom [[medicinal-mushroom-guide-oyster]].
 
 Phellinus linteus is considered one of the most powerful anti-inflammatory and anti-tumor mushrooms in traditional Asian medicine, though it is less well-known in the West compared to reishi, shiitake, or turkey tail.
 
@@ -19,14 +19,14 @@ Phellinus linteus is considered one of the most powerful anti-inflammatory and a
 
 - **Hispidin and hispolon:** Phenolic compounds unique to Phellinus species. Potent antioxidants with significant anti-tumor and anti-inflammatory activity.
 - **Interferon-gamma (IFN-gamma) inducing polysaccharides:** Unique polysaccharides that specifically promote IFN-gamma production, a critical immune signaling molecule.
-- **Beta-glucans:** 1,3-beta and 1,6-beta-glucans for [[cancer-immune-modulation-mechanisms]].
+- **Beta-glucans:** 1,3-beta and 1,6-beta-glucans for immune modulation.
 - **Proteoglycans:** Protein-bound polysaccharides with immunomodulatory effects.
 - **Phelligridins:** Phenolic compounds with antioxidant activity.
 - **Fuscoporia pigments:** Dark pigments with bioactive properties.
 
 ## Anti-Inflammatory Properties
 
-Meshima is one of the most potent anti-inflammatory [[cancer-medicinal-mushrooms-agaricus-blazei-polysaccharides]]:
+Meshima is one of the most potent anti-inflammatory medicinal [[medicinal-mushroom-guide-oyster]] mushrooms:
 
 ### Mechanisms
 - Strong inhibition of NF-kB signaling pathway, the master regulator of inflammation.
@@ -39,7 +39,7 @@ Meshima is one of the most potent anti-inflammatory [[cancer-medicinal-mushrooms
 ### Applications
 - Arthritis and joint inflammation (animal models show significant reduction in joint swelling).
 - Allergic conditions (asthma, atopic dermatitis, allergic rhinitis).
-- [[blesching-cannabis-inflammatory-bowel-disease]] disease (Crohn's disease, ulcerative colitis models).
+- Inflammatory bowel disease (Crohn's disease, ulcerative colitis models).
 - Chronic systemic inflammation.
 - Dermatitis and skin inflammation.
 
@@ -75,7 +75,7 @@ Meshima's immune effects are distinctive:
 
 - Hispidin and related phenolics provide powerful free radical scavenging.
 - Protects against lipid peroxidation and DNA damage.
-- Reduces [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] markers in animal models.
+- Reduces oxidative stress markers in animal models.
 - Ergothioneine content contributes additional antioxidant protection.
 
 ## Hepatoprotective Effects
@@ -95,7 +95,7 @@ Meshima's immune effects are distinctive:
 
 ### Hot Water Extract
 - Powdered meshima simmered 60-90 minutes.
-- Most effective method for [[mushroom-polysaccharide-extraction-chemistry]].
+- Most effective method for polysaccharide extraction.
 
 ### Dual Extraction Tincture
 1. Hot water extraction (60-90 min) for polysaccharides.
@@ -142,8 +142,14 @@ Meshima cultivation is challenging and less developed than other medicinal mushr
 
 - Can be cultivated on hardwood sawdust substrates, though yields are lower than most commercial species.
 - Requires extended incubation periods (3-6 months colonization).
-## Related Topics
+- Fruiting conditions are not fully optimized for commercial production.
+- Most commercial meshima is still wild-harvested in Korea and China.
+- Liquid culture and submerged fermentation methods are being developed for mycelium-based products.
 
-- [[medicinal-mushroom-guide-reishi]] for complementary anti-inflammatory mushroom
-- [[medicinal-mushroom-guide-turkey-tail]] for cancer adjunct comparison
-- [[medicinal-mushroom-guide-chaga]] for another woody medicinal bracket fungus
+## Safety Considerations
+
+
+
+## See Also
+- [[medicinal-mushroom-guide-turkey-tail]]
+- [[medicinal-mushroom-guide-shiitake]]

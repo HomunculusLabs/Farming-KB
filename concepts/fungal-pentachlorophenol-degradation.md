@@ -22,7 +22,7 @@ The formation of bound residues is influenced by soil type, organic matter conte
 
 Complete mineralization of PCP to carbon dioxide and chloride ions is the ideal outcome of fungal remediation. However, many fungal species can only partially transform PCP, producing less-chlorinated intermediates that may still be toxic. The extent of mineralization varies with fungal species, culture conditions, and the presence of cosubstrates.
 
-[[fungal-bioaugmentation-inoculation]] and requires careful consideration of fungal survival, colonization, and competition with [[beneficial-indigenous-microorganisms-bim]].
+[[fungal-bioaugmentation-inoculation]] and requires careful consideration of fungal survival, colonization, and competition with indigenous microorganisms.
 
 The success of fungal augmentation for PCP degradation depends on [[duggar-mushroom-environmental-factors-temperature-moisture-light]] including temperature, moisture, pH, [[ph-and-nutrient-availability-garden-soils]], and the initial PCP concentration. Soil characteristics such as texture, organic matter content, and clay mineralogy also influence fungal activity.
 
@@ -42,11 +42,19 @@ Exposure to PCP can cause physiological alterations in fungi, including changes 
 
 Fungi that are naturally tolerant to PCP and other chlorophenols are preferred candidates for remediation applications. The ability to maintain [[arbuscule-isolation-metabolic-activity-assays]] in the presence of toxic concentrations of PCP is a critical selection criterion.
 
+## White-Rot Fungi in PCP Degradation
+
+White-rot basidiomycetes such as Phanerochaete chrysosporium and Trametes versicolor have received considerable attention for PCP degradation due to their lignin-degrading enzyme systems. The lignin peroxidase and manganese peroxidase enzymes produced by these fungi can non-specifically oxidize chlorinated phenols. P. chrysosporium can mineralize PCP under ligninolytic conditions, achieving up to 60-70% conversion to CO2 in optimized liquid cultures. The addition of surfactants and co-substrates such as glucose or Tween 80 has been shown to enhance PCP degradation rates by improving bioavailability and supporting fungal growth.
+
+## Field Applications and Scale-Up Considerations
+
+Field-scale application of fungal PCP remediation faces challenges including maintaining adequate moisture and aeration in contaminated soils, protecting inoculated fungi from competition with indigenous microorganisms, and ensuring sufficient contact between fungal hyphae and PCP-contaminated soil particles. Composting-based approaches, where contaminated soil is mixed with organic amendments and inoculated with ligninolytic fungi, have shown promise for practical PCP remediation. Treatment times of weeks to months may be required depending on PCP concentration, soil properties, and environmental conditions.
+
 ## See Also
 
-- fungal-bioremediation
-- brown-rot-fungi-biodegradation
 - [[fungal-bioaugmentation-inoculation]]
+- [[ligninolytic-enzymes-bioremediation]]
+- fungal-bioremediation
 - fungal-biosensors-environmental-monitoring
 
 ## Practical Considerations
@@ -67,3 +75,7 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
+
+## Regulatory and Toxicological Context
+
+Pentachlorophenol is classified as a priority pollutant by the U.S. EPA and is listed under the Stockholm Convention on Persistent Organic Pollutants. Its use has been heavily restricted in most countries, but legacy contamination persists at numerous sites worldwide. The toxicity of PCP extends beyond acute effects to include chronic endocrine disruption, immunotoxicity, and potential carcinogenicity. Fungal remediation offers a cost-effective alternative to traditional physical and chemical treatment methods for PCP-contaminated sites, particularly for large-scale soil remediation where excavation and incineration would be prohibitively expensive.

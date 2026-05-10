@@ -10,7 +10,6 @@ tags:
 date: 2026-04-25
 updated: 2026-04-25
 sources:
-  sources:
   - "raw/papers/marijuana-horticulture-cervantes.md"
 type: concept
 ---
@@ -118,3 +117,7 @@ homozygous individuals. See
 [[cannabis-genetics-and-breeding]] - Overview of [[vic-high-cannabis-genetics-mendelian-inheritance]]
 - [[cervantes-seed-population-types-ibl-hybrid]] - Population types
 - [[cannabis-phenotype-selection]] - Selecting for desired traits
+
+## See Also
+
+- [[gadd-soil-biomass-fungal-dominance-elemental-cycles]]

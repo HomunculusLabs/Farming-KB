@@ -104,4 +104,6 @@ cultivators use UV-C sterilization lamps in their grow spaces between crops
 
 ## See Also
 
+- [[mushroom-contaminant-identification-prevention]]
+
 - [[mushroom-cultivation-contamination-prevention]]

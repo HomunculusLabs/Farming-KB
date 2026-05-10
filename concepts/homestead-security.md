@@ -4,13 +4,12 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [homesteading, safety, animal-husbandry, equipment, community]
-sources:
-  sources: []
+sources: []
 ---
 
 # Homestead Security
 
-Rural and remote homesteads face unique security challenges: longer emergency response times, isolation, and valuable assets spread across open land. A comprehensive security approach combines physical barriers, surveillance, animal deterrents, and community networks. This page covers cameras, motion lighting, gates, livestock guardians, and community-based security strategies.
+Rural and remote homesteads face unique security challenges: longer emergency response times, isolation, and valuable assets spread across open land. A comprehensive security approach combines physical barriers, surveillance, animal deterrents, and community networks. This page covers cameras, motion lighting, gates, livestock guardians, and community-based security strategies. (see [[livestock-fencing-guide]]).
 
 ## Layered Security Model
 
@@ -25,7 +24,7 @@ Effective security is not a single solution but layers of deterrence. Each layer
 
 ### Security Cameras
 
-Modern IP camera systems are affordable and accessible for homesteads. Prioritize coverage of entry points, high-value areas, and animal enclosures.
+Modern IP camera systems are affordable and accessible for homesteads. Prioritize coverage of entry points, high-value areas, and animal enclosures. (see [[hurricane-preparedness-guide]]).
 
 **Camera types:**
 - Dome cameras: Vandal-resistant, wide-angle, for under eaves and covered areas
@@ -38,7 +37,7 @@ Modern IP camera systems are affordable and accessible for homesteads. Prioritiz
 - Motion detection with push notifications to your phone
 - Local storage (NVR/DVR) or cloud recording
 - Weatherproof rating (IP66 or IP67 minimum)
-- [[holmgren-trees-solar-power-plants-detailed]] capability for remote camera placement
+- Solar power capability for remote camera placement
 - Two-way audio for remote communication with visitors
 
 **Recommended placement:**
@@ -92,7 +91,7 @@ The first line of physical security. Gates should match the fence in strength an
 
 - Maintain fences in good repair — gaps invite intrusion
 - Use no-climb fencing in high-security areas
-- Consider thorny hedgerow barriers ([[bloomfield-ghosts-of-evolution-osage-orange-anachronism]], blackberry, [[permaculture-honey-locust-pod-fodder-system]])
+- Consider thorny hedgerow barriers (osage orange, blackberry, honey locust)
 - Lock all gates, even interior gates between pasture areas
 - Keep gates closed and latched at all times
 
@@ -143,8 +142,9 @@ Isolation is the homesteader's greatest vulnerability. A connected community is 
 ### Vehicle and Equipment Security
 
 - Keep vehicles locked, keys secured, and parked in visible areas
-## Related Concepts
+- Use wheel locks, steering wheel locks, or GPS trackers on tractors and ATVs
+- Engrave equipment with your driver's license number
+- Photograph serial numbers and store records off-site
+- Chain and lock equipment in sheds when not in use
 
-- [[mushroom-foraging-safety-guide]] — Broader [[shulgin-safety-principles-self-experimentation]] and risk management
-- [[goat-husbandry]] — Livestock guardian dogs as part of animal management
-- [[homestead-communication]] — Communication systems for security and emergency coordination
+### Firearm Safety and Self-Defense

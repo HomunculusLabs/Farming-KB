@@ -14,10 +14,10 @@ tags:
   - traditional-medicine
 sources:
   - Peintner, U. et al. (2002). "The phylogeny of Hymenochaetaceae (Basidiomycetes) inferred from ITS and nLSU sequences." Mycological Research, 106(7), 785-791.
-  - Shashkina, M.Y. et al. (2006). "Antioxidant activity of the melanin-glucan complex from the [[gourmet-medicinal-mushroom-casing-layer-techniques]] Inonotus obliquus." Applied Biochemistry and Microbiology, 42(5), 492-497.
+  - Shashkina, M.Y. et al. (2006). "Antioxidant activity of the melanin-glucan complex from the gourmet-medicinal-mushroom-casing-layer-techniques Inonotus obliquus." Applied Biochemistry and Microbiology, 42(5), 492-497.
   - Park, Y.M. et al. (2005). "Extract of Inonotus obliquus inhibits oxidative stress and modulates the immune response in mice." Journal of Medicinal Food, 8(4), 472-478.
   - Géry, A. et al. (2018). "Isolation of new antioxidant compounds from the medicinal mushroom Inonotus obliquus." Phytochemistry, 153, 197-204.
-  - Stamets, P. (2000). Growing Gourmet & [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]]. 3rd ed. Ten Speed Press.
+  - Stamets, P. (2000). Growing Gourmet & comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive. 3rd ed. Ten Speed Press.
 ---
 
 ## Overview
@@ -113,10 +113,4 @@ Standard dosage ranges from 1–2 grams of dried chaga powder per cup of tea, co
 **Safety note:** Chaga contains high levels of oxalates, which may pose risks for individuals with kidney stones or kidney disease. It also exhibits anticoagulant activity and should be used with caution by individuals on blood-thinning medications.
 
 ## See Also
-
-- [[hericium-erinaceus]] — lion's mane mushroom, noted for neuroprotective effects
-- pleurotus-ostreatus]oyster-mushroom room, easily cultivated and studied for biomedical applications
-
-## See Also
-
-- cancer-medicinal-mushrooms-chaga-and-birch-polypore
+- [[hericium-erinaceus]]

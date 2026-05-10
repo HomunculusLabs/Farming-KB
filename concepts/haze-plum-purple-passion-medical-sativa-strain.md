@@ -115,6 +115,8 @@ Haze Plum Purple Passion represents the deeply personal dimension of cannabis br
 
 ## See Also
 
+- [[harlequin-high-cbd-medical-sativa-strain]]
+
 - [[cannabis-strain-harlequin]] — Another medical-focused sativa from the same source volume
 - [[grand-daddy-blue-dream-sativa-hybrid-strain]] — Medical sativa-dominant hybrid comparison
 - [[oner-sativa-medical-applications]] — Medical applications of sativa strains

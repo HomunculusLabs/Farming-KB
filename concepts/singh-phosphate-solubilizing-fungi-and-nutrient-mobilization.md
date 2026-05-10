@@ -85,3 +85,7 @@ In the [[biosorption-isotherms]] or [[singh-mycorrhizal-exudates-root-exudate-in
 - [[mycoremediation-pahs]] -- context for [[cotter-pet-livestock-waste-fungal-remediation-systems]] applications
 - heavy metal contamination -- metals associated with phosphate
   minerals in contaminated soils
+
+## See Also
+
+- [[gadd-mycelial-resource-competition-and-combat-fungi]]

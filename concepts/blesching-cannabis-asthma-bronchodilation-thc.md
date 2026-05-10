@@ -136,7 +136,9 @@ Blesching connects asthma to emotional and psychological factors:
 
 **Total CHI Value: 24**
 
-## Related Concepts
+## Related
+
+- [[thc-heart-protective-mechanisms-blesching]] Concepts
 
 - [[blesching-cannabis-copd]] — Cannabis for chronic obstructive pulmonary disease
 - [[endocannabinoid-system-and-cannabis-pharmacology]] — Endocannabinoid system overview
@@ -144,6 +146,5 @@ Blesching connects asthma to emotional and psychological factors:
 - [[blesching-cannabis-modes-administration-pharmacokinetics]] — Administration routes
 - [[blesching-cannabis-colds-and-flu]] — Cannabis for respiratory infections
 
-## Source
+## Sources
 
-Blesching, U. (2015). *The Cannabis Health Index*. North Atlantic Books. Chapter IV: Lung Diseases — Asthma.

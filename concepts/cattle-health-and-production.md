@@ -32,7 +32,7 @@ Detailed health management, vaccination schedules, growth and finishing data, da
 |---------|----------|------------|
 | Bloat | Distended left side, distress | Avoid sudden pasture changes, bloat blocks |
 | Respiratory | Coughing, nasal discharge, fever | Good ventilation, vaccination |
-| Pinkeye | Weepy, red, swollen eyes | Face [[jadam-fly-control-livestock]], [[grassland-pasture-management-mollison]] |
+| Pinkeye | Weepy, red, swollen eyes | Face fly control, pasture management |
 | Footrot | Lameness, swelling above hoof | Dry footing, foot baths (zinc sulfate) |
 | Mastitis | Swollen, hot udder, clumpy milk | Clean milking hygiene, dry cow treatment |
 | Coccidiosis (calves) | Bloody diarrhea, dehydration | Clean calf housing, coccidiostat |
@@ -55,7 +55,7 @@ Detailed health management, vaccination schedules, growth and finishing data, da
 - Strategic deworming: treat based on fecal egg counts, not calendar
 - Rotate drug classes to prevent resistance
 - Oral drenches, pour-ons, or injectables available
-- Pasture management ([[comparison-rotational-grazing-vs-continuous-grazing]], mixed species) reduces parasite load
+- Pasture management (rotational grazing, mixed species) reduces parasite load
 - Multi-species grazing with sheep or goats breaks cattle parasite cycles
 
 ## Growth and Finishing
@@ -100,7 +100,7 @@ Detailed health management, vaccination schedules, growth and finishing data, da
 - One cow produces approximately 80-100 lbs of manure per day
 - NPK (fresh): approximately 0.6-0.2-0.4
 - Must be composted before garden use
-- [[comparison-bokashi-vs-hot-composting-method]]: reaches 130-160F, kills pathogens and weed seeds
+- Hot composting: reaches 130-160F, kills pathogens and weed seeds
 - Composting time: 3-6 months minimum
 - Composted cow manure is excellent for [[soil-fertility-management]]
 - See [[animal-byproducts]] for detailed composition data

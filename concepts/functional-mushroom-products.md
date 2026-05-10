@@ -1,5 +1,5 @@
 ---
-title: Functional cotter-mushroom-products-and-value-added-applications
+title: Functional Mushroom Products
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-Functional mushroom products encompass a wide range of formats including tinctures, powders, capsules, extracts, teas, and food products. The functional [[hallucinogenic-mushroom-market-in-europe]] has grown rapidly, with global sales exceeding $50 billion and projected continued expansion. However, product quality, labeling accuracy, and consumer understanding vary enormously. This page covers product types, extraction methods, quality assessment, and practical guidance for consumers and practitioners.
+Functional mushroom products encompass a wide range of formats including tinctures, powders, capsules, extracts, teas, and food products. The functional mushroom market has grown rapidly, with global sales exceeding $50 billion and projected continued expansion. However, product quality, labeling accuracy, and consumer understanding vary enormously. This page covers product types, extraction methods, quality assessment, and practical guidance for consumers and practitioners. (see [[medicinal-mushroom-guide-chaga]]).
 
 ## Product Formats
 
@@ -63,13 +63,13 @@ Concentrated preparations that isolate or concentrate specific compounds:
 
 - Hot water extracts: Best for beta-glucans and polysaccharides
 - Alcohol extracts: Best for triterpenes, hericenones, ergothioneine
-- Dual extracts: Sequential water and [[pf-tek-alcohol-extraction-method]], capturing both classes
-- Liposomal extracts: Encapsulated in lipid molecules for [[staycare-surfactant-enhanced-bioavailability-in-fungal-bioremediation]]
+- Dual extracts: Sequential water and alcohol extraction, capturing both classes
+- Liposomal extracts: Encapsulated in lipid molecules for enhanced bioavailability
 - Standardized extracts: Guaranteed minimum levels of specific compounds (e.g., "30% beta-glucans")
 
 ### Teas and Decoctions
 
-[[kava-traditional-preparation-ceremonial-context]] methods:
+Traditional preparation methods:
 
 - Simple hot water extraction — steep mushroom powder or dried pieces in hot water
 - Decoction: Simmer for 20-60 minutes for tougher, woody mushrooms (reishi, chaga)
@@ -97,7 +97,7 @@ Emerging functional food category:
 | Fermentation | Liquid/solid culture mycelium | Novel metabolites, enhanced bioavailability | Varies; verify fruiting body inclusion |
 | Spent Substrate | Post-cultivation residue | Residual beta-glucans, enzymes | Lower potency; label clearly |
 
-Dual extraction is the gold standard for broad-spectrum products, especially for reishi and lion's mane which have significant alcohol-soluble compounds.
+Dual extraction is the gold standard for broad-spectrum products, especially for reishi and lion's mane which have significant alcohol-soluble compounds. (see [[medicinal-mushroom-compound-extraction]]).
 
 ## Quality Assessment
 
@@ -139,11 +139,12 @@ Critical quality issue:
 Third-party testing should verify:
 
 - Heavy metals (lead, arsenic, cadmium, mercury)
-## See Also
+- Pesticide residues
+- Microbial contamination (E. coli, Salmonella, mold, yeast)
+- Aflatoxins and other mycotoxins
+- Solvent residues (for alcohol-extracted products)
+- Radiation (relevant for products from certain regions)
 
-- [[medicinal-mushroom-guide]] — the [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]] these products deliver
-- [[mushroom-nutrition-guide]] — nutritional content of whole mushroom products
+## Labeling: Reading Between the Lines
 
-## Related
-
-- [[turkey-tail-trametes-versicolor]]
+### Key Labeling Terms

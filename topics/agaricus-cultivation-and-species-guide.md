@@ -120,7 +120,6 @@ secondarily homothallic: each basidium produces only two spores, and each
 spore contains a pre-formed dikaryon, meaning a single spore can germinate
 into fully fertile mycelium capable of producing mushrooms without mating.
 
-## Agaricus bisporus: The World's Most Cultivated Mushroom
 ## See Also
 
 [[mushroom-cultivation-fundamentals]] covers general mushroom growing principles that apply to all species.

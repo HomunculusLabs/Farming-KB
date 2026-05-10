@@ -9,7 +9,7 @@ sources: []
 
 # Cheese Making Basics
 
-Homestead cheese making transforms fresh milk into a shelf-stable, value-added product. Soft cheeses require minimal equipment and skill, making them the ideal entry point for beginners. As experience grows, cheesemakers can progress to aged and pressed cheeses. This guide covers soft cheeses: ricotta, chevre, and mozzarella.
+Homestead cheese [[goat-cheese-making]] making transforms fresh milk into a shelf-stable, value-added product. Soft cheeses require minimal equipment and skill, making them the ideal entry point for beginners. As experience grows, cheesemakers can progress to aged and pressed cheeses. This guide covers soft cheeses: ricotta, chevre, and mozzarella.
 
 ## Milk Selection
 
@@ -30,7 +30,7 @@ Always use the freshest milk possible. Milk for cheese should taste clean and sw
 - Slotted spoon or skimmer
 - Colander for draining
 - Cheese molds (for shaping)
-- Cheese mat or [[query-how-do-i-build-a-medicinal-herb-drying-rack-and-optimize-drying-conditions]]
+- Cheese mat or drying rack
 - pH strips or meter (helpful but not essential for beginners)
 - Long knife for cutting curd
 - Drainage container (catches whey)
@@ -39,7 +39,7 @@ Always use the freshest milk possible. Milk for cheese should taste clean and sw
 
 ### Cultures
 
-Cheese cultures are specific strains of lactic [[lactic-acid-bacteria-knf]] that acidify milk:
+Cheese cultures are specific strains of lactic acid bacteria that acidify milk:
 
 - Direct-set cultures (mesophilic): Add directly to milk. Convenient, no maintenance. Used for chevre, fromage blanc, and most soft cheeses.
 - Thermophilic cultures: Require higher temperatures (90-110 F). Used for mozzarella, parmesan, and other Italian-style cheeses.
@@ -52,7 +52,7 @@ Rennet contains enzymes (chymosin) that coagulate milk proteins, forming curds:
 - Animal rennet: Traditional, from calf stomach. Strongest coagulation.
 - Vegetable rennet: From cardoon thistle or fig sap. Weaker coagulation.
 - Microbial rennet: Fermentation-derived. Consistent and widely available.
-- Rennet tablets vs liquid: Tablets have longer [[psilocybin-shelf-life-stability]]. Liquid is more precise for dosing.
+- Rennet tablets vs liquid: Tablets have longer shelf life. Liquid is more precise for dosing.
 
 ## Ricotta
 

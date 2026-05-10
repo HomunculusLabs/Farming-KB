@@ -1,5 +1,5 @@
 ---
-title: Psilocybin psilocybin mushroom identification guide Guide
+title: Psilocybin Mushroom Identification Guide
 created: 2026-04-13
 updated: 2026-04-13
 type: concept
@@ -16,17 +16,17 @@ sources:
 
 # Psilocybin Mushroom Identification Guide
 
-Key features for identifying psilocybin-containing mushrooms in the field, with emphasis on distinguishing them from potentially dangerous lookalikes.
+Key features for identifying psilocybin-containing mushrooms in the field, with emphasis on distinguishing them from potentially dangerous lookalikes. (see [[inocybe-geophylla]]).
 
 ## Critical Safety Warning
 
-Proper identification requires training, patience, and ideally expert guidance. Many [[palmer-poisonous-mushrooms-deadly-species]] can cause serious illness or death. Never consume a mushroom based solely on written descriptions. This guide covers general features only.
+Proper identification requires training, patience, and ideally expert guidance. Many poisonous mushrooms can cause serious illness or death. Never consume a mushroom based solely on written descriptions. This guide covers general features only. (see [[mushroom-identification]]).
 
 ## Key Identification Features
 
 ### 1. Blue Bruising (Bluing Reaction)
 
-The most characteristic feature of [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] is the tendency of the flesh to turn blue or blue-green when bruised, cut, or handled. This reaction is caused by the oxidation of psilocin (the active compound) and is the single most useful field indicator.
+The most characteristic feature of psilocybin mushrooms is the tendency of the flesh to turn blue or blue-green when bruised, cut, or handled. This reaction is caused by the oxidation of psilocin (the active compound) and is the single most useful field indicator.
 
 - Bluing may appear on the stem, cap, gills, or flesh when damaged.
 - The reaction is not instantaneous; it may take seconds to minutes to develop.
@@ -39,9 +39,9 @@ A spore print is essential for identification. Place the cap gills-down on paper
 
 - Most psilocybin mushrooms produce a **purple-brown to dark purple-black** spore print.
 - *Psilocybe cubensis*: Purple-brown to nearly black.
-- *[[guzman-allen-gartz-psilocybe-semilanceata-temperate-cosmopolitan-distribution]]*: Dark purple-brown.
-- *[[growing-gourmet-caramel-capped-psilocybe-cyanescens-cultivation]]*: Dark purplish-brown.
-- *[[stamets-panaeolus-cyanescens-copelandia-identification-ecology]]*: Black.
+- *Psilocybe semilanceata*: Dark purple-brown.
+- *Psilocybe cyanescens*: Dark purplish-brown.
+- *Panaeolus cyanescens*: Black.
 
 ### 3. Gill Characteristics
 

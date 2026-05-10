@@ -133,7 +133,9 @@ The bad trip phenomenology documented by the EMCDDA supports several harm reduct
 - **Avoiding alcohol and stimulants**: Polydrug use amplifies both physical and psychological risks
 - **Mental health screening**: Individuals with underlying psychotic or personality disorders face elevated risks
 
-## Related Pages
+## Related
+
+- [[bad-trip-first-aid-and-crisis-intervention-psilocybin]] Pages
 
 - [[emcdda-hallucinogenic-mushroom-health-risks]]
 - emcdda-hallucinogenic-mushroom-dose-effects-acute-pharmacology

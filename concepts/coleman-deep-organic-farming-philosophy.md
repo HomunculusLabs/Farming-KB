@@ -89,7 +89,7 @@ Biological farming ideas are not new. Books Coleman read in 1965 were
 already decades old — Hainsworth's *Agriculture: A New Approach* (1954),
 Wickenden's *Make Friends with Your Land* (1949), Waksman's *The Soil
 and the Microbe* (1931). K.D. White's *Roman Farming* reveals compost,
-[[cover-crops-and-green-manures]], and legume rotations were basic knowledge two thousand
+[[cover-crops-green-manures]], and legume rotations were basic knowledge two thousand
 years ago. F.H. King's *Farmers of Forty Centuries* shows they were
 common knowledge four thousand years ago.
 
@@ -104,7 +104,7 @@ to soil borne organisms than are poorly nourished plants."
 
 1. **Feed the soil biology, not plants directly.** [[fukuoka-textdoc-composting-critique-futility-prepared-organic-matter]] feeds
    soil organisms; their metabolism makes nutrients biologically available.
-2. **Maintain living soil.** Bare soil is anathema. [[biofumigation-and-brassica-cover-crops-for-pest-management]], mulches,
+2. **Maintain living soil.** Bare soil is anathema. biofumigation and brassica cover crops for pest management, mulches,
    and living roots protect structure and feed organisms year-round.
 3. **Maximize biodiversity.** Rotations, polycultures, and beneficial
    habitat create resilient, self-regulating systems.

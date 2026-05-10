@@ -134,7 +134,6 @@ same one that causes the chill experienced after swimming: evaporation
 of water from the mushroom's tissues. This cooling is essential for
 [[bloomfield-fungal-spore-discharge-and-dispersal]], because it promotes the condensation of water on the
 spore surface, forming the Buller's drop that drives the catapult
-mechanism.
 ## See Also
 
 - [[mushroom-pin-formation]]

@@ -1,6 +1,6 @@
 ---
 
-title: Fukuoka Soil query-how-do-i-choose-a-natural-building-method-for-my-climate
+title: Fukuoka Soil Building Method
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -20,15 +20,14 @@ tags:
 - agriculture
 
 sources:
-sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+- raw/papers/one-straw-revolution-masanobu-fukuoka.md
 - raw/papers/masanobu-fukuoka-fukuoka.md
 - raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
 ---
 
 # Fukuoka Soil Building Method
 
-Masanobu Fukuoka's approach to soil fertility is radically simple: **return all organic matter to the field, grow green manure crops, and let [[savory-living-organisms-as-tools]] build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, [[cervantes-chemical-fertilizers-guide]], or prepared compost.
+Masanobu Fukuoka's approach to soil fertility is radically simple: **return all organic matter to the field, grow green manure crops, and let living organisms build soil**. Over 25-40 years on his farm, he transformed hard, barren red clay into rich, dark, humus-filled earth without plowing, chemical fertilizers, or prepared compost.
 
 ## The Starting Point: Barren Red Clay
 
@@ -71,7 +70,7 @@ Fukuoka's system addresses soil at three depths simultaneously:
 - White clover fixes nitrogen, suppresses weeds, retains moisture
 - Result: "The surface layer, rich in humus, has become enriched to a depth of more than four inches during these years"
 
-**Why uncut straw matters**: Agricultural scientists insisted straw must be burned ([[cervantes-pest-disease-prevention-overview]]) or chopped and plowed under. Fukuoka broadcast it whole:
+**Why uncut straw matters**: Agricultural scientists insisted straw must be burned (disease prevention) or chopped and plowed under. Fukuoka broadcast it whole:
 - "Rice straw works well as a mulch for winter grain, and the straw of winter grain works best for the rice"
 - Cross-species mulching prevents disease transmission (rice diseases don't infect barley)
 - "This is only possible with strong, healthy grain" — another reason to avoid chemical-dependent varieties
@@ -111,7 +110,7 @@ Fukuoka's system addresses soil at three depths simultaneously:
 | Year 20-25 | Surface soil transformed: "loose, dark coloured, and rich with earthworms and organic matter" |
 | Year 25+ | Soil continues improving; yields increase; "The quality of the soil improves with each season" |
 
-"Soil improvement by [[comparison-natural-farming-vs-permaculture]] takes a long time." Five to ten years to build six inches of topsoil through cover crops alone. "To current economic perceptions, one disadvantage of natural [[natural-farming-methods-comparison]] is that they take too long."
+"Soil improvement by natural farming takes a long time." Five to ten years to build six inches of topsoil through cover crops alone. "To current economic perceptions, one disadvantage of natural farming methods is that they take too long."
 
 ## The Weed Succession Principle
 
@@ -138,13 +137,14 @@ Fukuoka's innovation: "By sowing vegetable seeds of the same family as the weeds
 - **Early summer**: Leguminous vegetables
 - Result: "In addition to being an effective means of controlling weeds, sowing vegetable seed among the weeds is also a powerful soil improvement technique"
 
-## See Also
+## Soil Quality: Natural vs. Scientific Farming
 
-- [[fukuoka-no-prune-fruit-tree-method]] — Orchard companion method
-- [[natural-farming-fukuoka]] — Full method overview
-- [[natural-farming-seed-balls]] — Seed protection technique
-- [[no-tillage-grain-systems]] — Modern no-till grain methods
-- [[cover-crop-termination]] — Cover crop management (modern approaches)
-- [[cannabis-living-soil-guide]] — Soil biology principles
-- [[one-straw-revolution-guide]] — Book context
-- [[natural-way-of-farming-guide]] — Detailed technical reference
+Fukuoka compares 30 years of natural farming with conventional methods:
+
+| Criterion | Natural Farming | Scientific Farming |
+|-----------|----------------|-------------------|
+| Organic matter | Increasing annually | Requires constant addition |
+| Micronutrients | No deficiencies observed | Requires testing and correction |
+| Soil acidity | Self-regulating | Requires lime application |
+| Physical structure | Improving, porous | Depends on tillage |
+| Tree lifespan | 2-3x longer | Declining |

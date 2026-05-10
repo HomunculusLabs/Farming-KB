@@ -72,3 +72,15 @@ restricted distributions. These populations are vulnerable to climate change
 and habitat fragmentation. Conservation of ECM diversity requires preserving
 not just fungal populations but the host trees and soil conditions upon which
 they depend. See also [[bloomfield-mycorrhizal-symbiosis-and-fungal-ecology]].
+
+## Economically Significant ECM Fungi
+
+Many prized edible and medicinal mushrooms are ECM species, including
+truffles (Tuber spp.), porcini (Boletus edulis), chanterelles (Cantharellus
+spp.), matsutake (Tricholoma matsutake), and lactarius species. These fungi
+cannot be cultivated independently of their host trees, which has driven
+research into truffle orchard establishment and forest management practices
+that promote wild mushroom production. The economic value of ECM mushroom
+harvesting can rival timber production in some regions, providing strong
+incentives for forest conservation. See [[singh-mycorrhizae-and-plant-stress-amelioration]]
+for applications in managed systems.

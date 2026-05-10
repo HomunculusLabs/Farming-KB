@@ -115,13 +115,7 @@ Wine caps are nutritionally comparable to other cultivated mushrooms:
 - **Antioxidants:** Moderate levels of ergothioneine and phenolic compounds
 
 ## See Also
-
-- comfrey-permaculture — the classic permaculture [[nutrient-dynamic-accumulator-reference]], complementary to wine cap in guild plantings
-- [[laetiporus-sulphureus]] — chicken of the woods, another edible bracket fungus with permaculture applications
-
-## See Also
-
-- permaculture-companion-planting
+- [[laetiporus-sulphureus]]
 - [[stropharia-rugosoannulata]]
 - [[decomposition]]
 - [[permaculture-design]]

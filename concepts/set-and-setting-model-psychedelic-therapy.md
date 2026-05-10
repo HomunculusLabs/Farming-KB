@@ -139,11 +139,8 @@ The fundamental insight — that context, intention, and the therapeutic
 relationship matter more than pharmacology — distinguishes psychedelic therapy
 from conventional pharmacotherapy and aligns it with psychotherapy, shamanic
 healing, and contemplative practice.
-## See Also
 
+## See Also
 - [[shamanism-and-hallucinogenic-plants]]
 - [[dmt-phenomenology-and-tryptamine-hypercontinuum]]
-
-## See Also
-
 - [[metzner-psycholytic-psychedelic-therapy-models]]

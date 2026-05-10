@@ -15,13 +15,13 @@ updated: 2026-04-28
 sources:
   - title: "WaterUps — Wicking Bed Design Guide"
     url: "https://waterups.com.au/pages/how-wicking-beds-work"
-  - title: "Texas A&M AgriLife Extension — [[comparison-chinampas-vs-raised-bed-gardening]] Sub-Irrigation"
+  - title: "Texas A&M AgriLife Extension — comparison-chinampas-vs-raised-bed-gardening Sub-Irrigation"
     url: "https://agrilifeextension.tamu.edu/"
   - title: "David Holmgren — Permaculture: Principles & Pathways Beyond Sustainability"
     url: "https://holmgren.com.au/"
-  - title: "GAIA Organic Gardens — Wicking [[hugelkultur-bed-construction-detailed]] Manual"
+  - title: "GAIA Organic Gardens — Wicking hugelkultur-bed-construction-detailed Manual"
     url: "https://gaiaorganics.com.au/"
-  - title: "Food and Agriculture Organization (FAO) — Water [[water-harvesting-techniques-comparison]]"
+  - title: "Food and Agriculture Organization (FAO) — Water water-harvesting-techniques-comparison"
     url: "https://www.fao.org/"
 type: query
 ---

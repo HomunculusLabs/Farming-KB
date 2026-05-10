@@ -101,6 +101,8 @@ Collection from the wild is generally unnecessary, as the species is readily ava
 
 ## See Also
 
+- [[lavandula-x-intermedia]]
+
 - [[drosera-rotundifolia]]
 - [[drosera-anglica]]
 - [[sarracenia-flava]]

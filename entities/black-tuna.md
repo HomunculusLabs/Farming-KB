@@ -13,7 +13,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Leafly strain database. "Black Tuna." Accessed 2024.
-  - AllBud strain reviews. "Black Tuna [[blesching-cannabis-strain-selection-receptor-targeting]]." Accessed 2024.
+  - AllBud strain reviews. "Black Tuna blesching-cannabis-strain-selection-receptor-targeting." Accessed 2024.
   - Cannabis Winnipeg strain archive. "Black Tuna — BC's Underground Legend."
   - Cannabis Growers and Smokers Forum (CGS). Historical strain discussion threads, 2010–2018.
 created: 2026-04-28
@@ -80,6 +80,8 @@ Black Tuna is considered **moderately difficult** to cultivate, suited to interm
 - **Humidity**: Keep below 50% RH during flowering to prevent bud rot in the dense colas
 
 ## See Also
+
+- [[black-domina]]
 
 - herijuana — Black Tuna's primary indica parent
 - [[afghan-kush]] — Related heavy indica with similar sedative effects

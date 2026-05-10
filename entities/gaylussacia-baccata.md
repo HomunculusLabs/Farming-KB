@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Vander Kloet, S.P. & Avery, T.S. (2010). "Systematics, phylogeny, and biogeography of the genus Gaylussacia (Ericaceae)." Systematic Botany, 35(2), 297-311.
-  - Vander Kloet, S.P. (1988). "The genus Gaylussacia in [[polypore-fungi-eastern-north-america]] America." Canadian Journal of Botany, 66(4), 784-792.
+  - Vander Kloet, S.P. (1988). "The genus Gaylussacia in polypore-fungi-eastern-north-america America." Canadian Journal of Botany, 66(4), 784-792.
   - Prior, R.L. & Cao, G. (2000). "Antioxidant phytochemicals in fruits and vegetables: diet and health implications." HortScience, 35(4), 588-592.
   - Ehlenfeldt, M.K. & Prior, R.L. (2001). "Oxygen radical absorbance capacity (ORAC) and phenolic and anthocyanin concentrations in fruit and leaf tissues of highbush blueberry." Journal of Agricultural and Food Chemistry, 49(5), 2222-2227.
   - USDA NRCS (2024). "Gaylussacia baccata Plant Guide." Natural Resources Conservation Service.

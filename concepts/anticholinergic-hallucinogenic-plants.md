@@ -136,4 +136,11 @@ generally serves as a strong natural deterrent to recreational use.
 
 ## See Also
 
+- [[european-hallucinogenic-mushroom-prevalence-and-trends]]
+
+- [[emcdda-hallucinogenic-mushroom-chemistry-psilocybin-5ht2a-pharmacology]]
+- [[european-prevalence-hallucinogenic-mushrooms]]
+- [[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]]
+- [[smartshop-product-labels-and-retailer-risk-information-hallucinogenic-mushrooms]]
+
 - [[shamanism-and-hallucinogenic-plants]]

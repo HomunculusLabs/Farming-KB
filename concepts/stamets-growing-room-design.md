@@ -4,7 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mushroom-cultivation, species-guide, equipment]
-sources: sources:
+sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 # Growing Room Design for Gourmet Mushroom Cultivation #mushroom-cultivation #indoor-cultivation #infrastructure #environmental-control Updated: 2026-04-18 Source: Paul Stamets, Growing Gourmet and Medicinal Mushrooms (1993), Appendix III "The Growing Room" ## Overview The growing room is the controlled environment where mushroom fruiting occurs. Unlike the spawn laboratory (constant temperature/humidity), the growing room's environment is actively fluctuated during mushroom crop development. These changes are specific and sometimes radical, triggering the switch-over from mycelial growth to mushroom formation. See also stamets-mushroom-growing-room-design, [[agaricus-bisporus-cultivation-biology]].

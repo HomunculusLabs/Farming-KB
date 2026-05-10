@@ -1,7 +1,7 @@
 ---
 title: What Is Jujube (Chinese Date) and How Do I Grow It?
 created: 2026-04-28
-tags: [jujube, chinese-date, ziziphus-jujuba, fruit-trees, orchard, query]
+tags: [jujube, chinese-date, ziziphus-jujuba, [[comparison-fruit-tree-pruning-vs-fruit-tree-grafting-guide|fruit]]-trees, orchard, [[query-how-to-design-a-food-forest-guild-for-fruit-trees|query]]]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

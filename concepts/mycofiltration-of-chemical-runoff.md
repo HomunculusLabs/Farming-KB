@@ -4,8 +4,7 @@ created: 2026-04-17
 updated: 2026-04-17
 type: concept
 tags: [reference]
-sources:
-  sources: []
+sources: []
 ---
 Mycofiltration of chemical runoff uses fungal [[singh-mycelial-mats-and-biological-soil-crusts]] to capture, degrade, and neutralize chemical pollutants carried by water flowing across disturbed landscapes. This application is especially critical for logging roads, agricultural drainage, and industrial sites where nitrates, pesticides, hydrocarbons, and other chemical contaminants threaten watersheds and aquatic ecosystems.
 

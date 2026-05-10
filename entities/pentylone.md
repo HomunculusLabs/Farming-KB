@@ -19,7 +19,7 @@ updated: 2026-04-28
 sources:
   - Zaitsu, K. et al. (2009). "Ring-substituted cathinones." Forensic Toxicology, 27(1), 7–16.
   - EMCDDA (2014). "Report on the risk assessment of methylone in the framework of the Council Decision on new psychoactive substances." European Monitoring Centre for Drugs and Drug Addiction.
-  - El Balkhi, S. et al. (2023). "Analytical characterization of pentylone and its metabolites." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis, 15(2), 289–302.
+  - El Balkhi, S. et al. (2023). "Analytical characterization of pentylone and its metabolites." psychedelic-drug-testing-and-adulterant-screening and Analysis, 15(2), 289–302.
   - https://pubchem.ncbi.nlm.nih.gov/compound/Pentylone
 aliases:
   - β-K-MBDB

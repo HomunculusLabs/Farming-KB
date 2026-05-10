@@ -1,55 +1,114 @@
 ---
-
-## 2. fungal-biodiversity, taxonomy, and evolutionary genetics.
-- Mitochondrial markers used for identification of genetic loci and pathogenicity-related patterns.
-
+title: Cryptic Fungal Species
+created: 2026-04-26
+updated: 2026-04-26
+type: concept
+tags: [mycology, taxonomy, cryptic-species, fungal-diversity]
+sources: []
 ---
 
-## 3. [[sclerotinia-sclerotiorum]] and related fungi.
+# Cryptic Fungal Species
 
-**Habitat:**
-- Distributed worldwide (Whipps and Gerlagh 1992; Sandys-Winsch et al. 1993).
-- Found in soil; population not correlated with vegetation cover, soil pH, or soil texture (Ribeiro and Butler 1992).
+Cryptic fungal species are two or more distinct species that are
+morphologically identical or nearly indistinguishable but are
+reproductively isolated and genetically distinct. The recognition of
+cryptic species is one of the most significant developments in modern
+fungal taxonomy, revealing that fungal diversity has been substantially
+underestimated by traditional morphology-based classification. Molecular
+methods, particularly multi-locus sequence analysis and phylogenomics,
+have been essential in uncovering cryptic diversity across all major
+fungal groups.
 
-**[[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] Uses:**
-- The most successful biocontrol agent against Sclerotinia species (Whipps and Gerlagh 1992; Lewis et al. 1995).
-- When abundant in the phyllosphere of oilseed rape, S. sclerotiorum was suppressed (Whipps et al. 1993a).
-- Among several potential antagonists, C. minitans and Trichoderma virens were the most active (Whipps and Budge 1990).
-- Attacks sclerotia and can also grow inside hyphae, thus following the host into plant tissue (Huang and Hoes 1976; Huang 1978; Trutmann et al. 1982; Phillips and Price 1983; Tu 1984; Huang and Kokko 1988; Whipps and Gerlagh 1992; Whipps et al. 1993a, 1993b).
-- A successful preparation is now on the German market (Lüth 1998).
-- Colonized host sclerotia on and in roots more successfully than those inside the stems of sunflower (Huang 1978).
-- Significantly inhibits S. sclerotiorum in vitro on nutrient-poor media (Whipps 1987).
-- Once introduced into soil, its effect lasts for more than 2 years, conferring suppressive properties on the soil (Whipps et al. 1993a, 1993b).
+## Definition and Detection
 
-**Morphology/Lifecycle Details:**
-- Does not form appressoria (Huang and Kokko 1988).
-- Selective isolation: Gerlagh and Vos (1991) used S. sclerotiorum as bait.
-- Produces antibiotic metabolites, including glucose oxidase (identified as the main antifungal agent; Kim et al. 1990), which releases [[cervantes-hydrogen-peroxide-sterilization]] from glucose, highly toxic to V. dahliae. Also produces β-1,3 glucanase and chitinase.
+Cryptic species are defined as species that cannot be reliably
+distinguished by conventional morphological characters yet represent
+independently evolving lineages. Detection typically requires molecular
+data, with the most common approaches being:
+- Multi-locus sequence typing (MLST) using conserved loci such as
+  ITS, LSU, TEF1-alpha, and RPB2
+- Phylogenetic species recognition based on concordance of multiple
+  gene genealogies
+- Genome-wide SNP analysis
+- Mating compatibility tests in sexual species
+- Secondary metabolite profiling (chemotaxonomy)
 
-**Interactions with Other Organisms:**
-- When C. minitans was applied in combination with Talaromyces flavus against Sclerotinia, it had a nearly equivalent effect (McLaren et al. 1994).
-- Coniothyrium sporulosum was found as an antagonist of [[verticillium-biguttatum]]
+## Molecular Markers and Methods
 
-**Taxonomic Classification:**
-- Ascomycete (anamorphic hyphomycete); anamorph of an ascomycete.
+The internal transcribed spacer (ITS) region has served as the primary
+fungal DNA barcode, but it frequently fails to distinguish closely
+related cryptic species. Multi-locus approaches using protein-coding
+genes provide higher resolution. For ascomycetes, the most informative
+loci include beta-tubulin (tub2), calmodulin (cmdA), translation
+elongation factor 1-alpha (tef1), and RNA polymerase II subunits
+(rpb1, rpb2). Whole-genome sequencing provides the highest resolution,
+enabling detection of reproductively isolated lineages that share
+identical ITS sequences.
 
-**Ecological Role/Niche:**
-- Obligate mycoparasite; a very efficient biocontrol agent of Rhizoctonia solani (van den Boogert and Deacon 1994).
-- Has many biotrophic traits but grows easily and axenically in vitro (van den Boogert et al. 1990).
+## Prevalence Across Fungal Groups
 
-**Habitat:**
-- Soil; distribution apparently follows the worldwide distribution of its host fungus, Rhizoctonia solani, when associated with potatoes (van den Boogert and Saat 1991).
-- Sclerotial parasite; can be quantified in soil particles spread over Petri dishes colonized with R. solani (van den Boogert and Gams 1988).
+Cryptic speciation is widespread and has been documented across nearly
+all major fungal lineages:
+- **Pathogenic fungi**: Cryptic species in the Fusarium oxysporum
+  species complex, Candida auris cryptic species, and Cryptococcus
+  gattii molecular types have important clinical implications
+- **Lichenized fungi**: Molecular studies routinely reveal multiple
+  cryptic species within what were thought to be single lichen taxa
+- **Ectomycorrhizal fungi**: Cortinarius, Russula, and Tricholoma
+  genera each contain numerous cryptic species complexes
+- **Saprotrophic fungi**: Penicillium, Aspergillus, and Trichoderma
+  frequently resolve into multiple cryptic lineages
 
-**Biological Control Uses:**
-- A very efficient biocontrol agent of R. solani.
-- Controls its host by attacking both hyphae and sclerotia.
-- Mycoparasite population can be enriched by repeated addition of R. solani to the soil (van den Boogert and Jager 1983).
-- Applied successfully: quantified using suspension plating on R. solani plates with potato-dextrose agar pH 4 (Morris et al. 1995a).
+## Ecological and Functional Implications
 
-**Morphology/Lifecycle Details:**
-- Requires biotin and grows best with mannitol or galactose as carbon sources and glutamine or ammonium salts as nitrogen sources (van den Boogert et al. 1990).
-- Strictly associated with Thanatephorus cucumeris (R. solani) and related fungi under natural conditions (van den Boogert et al. 1989; Morris et al. 1995b).
-- Various species of Verticillium and Lecanicillium interact with the hyphae of R. solani by appressed growth, coiling, and sometimes penetration (Kuter 1984).
+Cryptic species often differ in ecological preferences, host
+specificity, geographic distribution, and functional traits even when
+morphologically identical. This has practical consequences:
+- Different cryptic species within a complex may have different
+  pathogenicity, virulence, or host ranges
+- Cryptic diversity in mycorrhizal fungi can affect plant community
+  composition and ecosystem function
+- Bioactive secondary metabolite production can vary among cryptic
+  species, affecting bioprospecting and drug discovery
+- Environmental niche differentiation means cryptic species may
+  respond differently to climate change
 
----
+## Pathogenic Cryptic Species in Medicine
+
+The recognition of cryptic species among human fungal pathogens has
+direct clinical relevance. Candida auris was identified as a new
+species in 2009 through molecular methods and has since emerged as a
+multidrug-resistant hospital pathogen of global concern. Within the
+Candida parapsilosis complex, C. parapsilosis sensu stricto, C.
+orthopsilosis, and C. metapsilosis differ in antifungal
+susceptibility profiles and virulence. Cryptic species within the
+Aspergillus fumigatus complex show varying azole resistance patterns,
+affecting treatment decisions.
+
+## Cryptic Species and Biogeography
+
+Molecular studies have revealed that many widely distributed fungal
+"species" actually consist of regionally endemic cryptic species with
+more restricted geographic ranges. This has profound implications for
+understanding fungal biogeography, endemism, and conservation. Species
+thought to be cosmopolitan often prove to be complexes of multiple
+geographically restricted taxa when examined with molecular tools,
+suggesting that fungal endemism is more common than previously
+believed.
+
+## Challenges for Taxonomy and Conservation
+
+The recognition of cryptic species creates significant taxonomic
+challenges, including the need to formally describe and name species
+that lack distinguishing morphological characters. For conservation,
+cryptic diversity means that rare or threatened fungal species may be
+hidden within what appear to be common and widespread taxa, potentially
+leading to underestimation of conservation risk.
+
+## See Also
+
+- [[fungal-species-concepts-estimates]]
+- [[fungal-species-estimation-methods-total-diversity]]
+- [[fungal-phylogeny-systematics]]
+- [[fungal-molecular-identification]]
+- [[fungal-biodiversity]]

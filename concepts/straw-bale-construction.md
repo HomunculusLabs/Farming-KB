@@ -1,11 +1,10 @@
 ---
-title: Straw straw-bale-construction-vs-earthbag-construction
+title: Straw Bale Construction
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [construction, sustainability, homesteading, construction, off-grid]
-sources:
-  sources: []
+sources: []
 ---
 
 # Straw Bale Construction
@@ -23,7 +22,7 @@ In load-bearing construction, the straw bale walls carry the weight of the roof 
 - **Window and door openings:** Framed with rough buck frames (wooden frames) that are integrated into the bale wall and pinned securely.
 - **Height limit:** Typically limited to one story; two-story load-bearing requires engineering.
 - **Pros:** Simpler framing, fewer materials, lower cost
-- **Cons:** Limited design flexibility, code approval can be difficult, requires careful plaster application for [[mycelium-running-rhizomorphic-mycelium-structural-strength-erosion-control]]
+- **Cons:** Limited design flexibility, code approval can be difficult, requires careful plaster application for structural strength
 
 ### Post-and-Beam (Infill)
 
@@ -49,7 +48,7 @@ In post-and-beam construction, a timber or steel structural frame carries all lo
 
 - Keep bales elevated off the ground on pallets or a gravel base
 - Cover with tarps, ensuring good airflow underneath
-- Stack in a manner that allows [[stamets-growing-room-air-circulation-co2-management]]
+- Stack in a manner that allows air circulation
 - Do not leave exposed to rain for any extended period
 
 ## Plastering Straw Bale Walls
@@ -59,7 +58,7 @@ Plaster is critical for straw bale buildings — it provides weather protection,
 ### Types of Plaster
 
 - **Earthen plaster:** Clay-based, most common for natural builders, breathable, easy to work with, see [[earth-plaster-and-natural-finishes]]
-- **[[comparison-lime-plaster-vs-earthen-plaster]]:** More weather resistant, good for exteriors in wet climates, takes longer to cure
+- **Lime plaster:** More weather resistant, good for exteriors in wet climates, takes longer to cure
 - **Cement-lime stucco:** Most code-friendly but least breathable; use only with a drainage plane between bales and stucco
 
 ### Application Process
@@ -96,7 +95,7 @@ Moisture is the primary enemy of straw bale construction. Design and build to ma
 
 ### Monitoring
 
-- Install [[cervantes-moisture-meters-watering-technique]] at critical locations during construction and periodically after
+- Install moisture meters at critical locations during construction and periodically after
 - Check for discoloration or musty smells — signs of moisture issues
 - Ensure the building dries completely before enclosing walls
 
@@ -107,7 +106,7 @@ Straw bale building codes exist in several jurisdictions and can guide design:
 - **International Residential Code (IRC):** Appendix S includes prescriptive straw bale construction details (adopted in some US states)
 - **ASTM standards:** ASTM E119 for fire testing of plastered straw bale walls (2-hour rating achieved)
 - **Local permits:** Some areas have no experience with straw bale — provide engineering documentation and reference existing code sections
-- **Tips:** Work with an engineer familiar with [[query-how-do-i-choose-a-natural-building-method-for-my-climate]]; use prescriptive code sections where available; document moisture management strategies thoroughly
+- **Tips:** Work with an engineer familiar with natural building; use prescriptive code sections where available; document moisture management strategies thoroughly
 
 ## Common Mistakes
 

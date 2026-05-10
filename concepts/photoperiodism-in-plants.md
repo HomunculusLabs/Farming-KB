@@ -120,6 +120,8 @@ for scheduling planting and harvesting to maximise yield.
 
 ## See Also
 
+- [[photoperiodism-plants]]
+
 - [[phytochrome-red-far-red-light-switch]]
 - [[phototropism-in-plants]]
 - florigen ft protein

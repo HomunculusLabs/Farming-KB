@@ -12,10 +12,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Guzmán G. (1983). The Genus Psilocybe. J. Cramer, Vaduz.
-  - Guzmán G, Ott J. (1976). "Second and third species in the [[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]] series." Mycotaxon, 4(1), 188-191.
-  - Stamets P. (1996). [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] of the World. Ten Speed Press.
+  - Guzmán G, Ott J. (1976). "Second and third species in the dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis series." Mycotaxon, 4(1), 188-191.
+  - Stamets P. (1996). forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc of the World. Ten Speed Press.
   - Guzmán G, et al. (2000). "A worldwide geographical distribution of the neurotropic fungi." Anales del Instituto de Biología, Universidad Nacional Autónoma de México, Serie Botánica, 71(1), 71-91.
-  - Allen JW, Gartz J. (2001). "Ethnomycology, biochemistry, and [[grass-seed-cultivation-of-psilocybe-mushrooms]] species in the tropics." Eleusis, 5, 39-58.
+  - Allen JW, Gartz J. (2001). "Ethnomycology, biochemistry, and grass-seed-cultivation-of-psilocybe-mushrooms species in the tropics." Eleusis, 5, 39-58.
 created: 2026-04-28
 ---
 

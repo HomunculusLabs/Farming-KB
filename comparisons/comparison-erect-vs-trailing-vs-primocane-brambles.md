@@ -38,7 +38,7 @@ Choosing the right bramble growth habit is one of the most important decisions f
 | **Thorn availability** | Thornless options common | Mostly thorny | Thornless options increasing |
 | **Harvest season** | Summer | Summer | Late summer to fall (or double crop) |
 | **Spreading habit** | Suckers / crown | Tip layering | Suckers (erect types) or tip layering |
-| **Best for** | Home gardens, general purpose | uncommon specialty [[uncommon-specialty-fruit-crops-for-permaculture]] permaculture, Pacific NW | Extended season, [[container-growing-vegetables-herbs]], cold-climate simplification |
+| **Best for** | Home gardens, general purpose | uncommon specialty uncommon specialty fruit crops for permaculture permaculture, Pacific NW | Extended season, [[container-growing-vegetables-herbs]], cold-climate simplification |
 
 ## Growth Habit Comparison
 

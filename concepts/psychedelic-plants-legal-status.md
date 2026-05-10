@@ -11,7 +11,7 @@ sources: []
 
 ## Overview
 
-The legal status of psychedelic plants and fungi varies enormously across countries and regions. This page provides a general overview of the legal landscape for major entheogenic substances as of 2026. Laws change frequently and this information may not reflect the most current legislation. Always verify current local laws before acquiring, cultivating, or consuming any entheogenic substance.
+The legal status of psychedelic plants and fungi varies enormously across countries and regions. This page provides a general overview of the legal landscape for major entheogenic substances as of 2026. Laws change frequently and this information may not reflect the most current legislation. Always verify current local laws before acquiring, cultivating, or consuming any entheogenic substance. (see [[legal-responses-to-hallucinogenic-mushrooms-in-the-european-union]]).
 
 ## International Framework
 
@@ -22,7 +22,7 @@ Three United Nations conventions form the backbone of international drug law:
 - **1971 Convention on Psychotropic Substances**: Covers synthetic and semisynthetic psychedelics including LSD, MDMA, psilocybin, and DMT
 - **1988 Convention Against Illicit Traffic**: Addresses trafficking and precursor chemicals
 
-These conventions require signatory nations to criminalize the scheduled substances, though individual countries retain significant discretion in implementation.
+These conventions require signatory nations to criminalize the scheduled substances, though individual countries retain significant discretion in implementation. (see [[anticholinergic-plants-dangers]]).
 
 ### Key Distinctions
 - The 1971 Convention schedules "psilocybin" and "psilocin" specifically, but does not explicitly schedule the mushrooms that contain them — this has created legal gray areas in some jurisdictions
@@ -33,19 +33,19 @@ These conventions require signatory nations to criminalize the scheduled substan
 ## North America
 
 ### United States
-- **[[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]]**: Schedule I under the Controlled Substances Act. However, several cities and states have deprioritized enforcement (see [[psychedelic-mushroom-decriminalization]])
+- **Psilocybin mushrooms**: Schedule I under the Controlled Substances Act. However, several cities and states have deprioritized enforcement (see [[psychedelic-mushroom-decriminalization]])
 - **Peyote (Lophophora williamsii)**: Schedule I, with a specific religious exemption for members of the Native American Church under the American Indian Religious Freedom Act (1994 amendments)
 - **San Pedro / Trichocereus cacti**: Legal to grow and possess as ornamental plants. Consumption for mescaline content is technically illegal, but enforcement against personal cultivation is virtually nonexistent
 - **Ayahuasca plants**: Banisteriopsis caapi is not explicitly scheduled. Psychotria viridis is not scheduled. However, DMT is Schedule I, so preparations containing DMT are illegal. Religious exemptions exist for UDV (União do Vegetal) and Santo Daime under court rulings
 - **Salvia divinorum**: Not federally scheduled. Regulated at the state level — banned in many states but legal in others
-- **[[allegro-amanita-muscaria-properties-and-pharmacology]]**: Legal — not a controlled substance at the federal level
+- **Amanita muscaria**: Legal — not a controlled substance at the federal level
 - **Iboga / Ibogaine**: Schedule I. Some states have specific ibogaine regulations
-- **[[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue)**: Not scheduled. Seeds are legally available
+- **Peganum harmala (Syrian rue)**: Not scheduled. Seeds are legally available
 - **Spores**: Psilocybin mushroom spores are legal in most US states because they do not contain psilocybin or psilocin. Exceptions: California, Georgia, Idaho
 
 ### Canada
 - Psilocybin and psilocin: Schedule III under the Controlled Drugs and Substances Act
-- [[falconer-growing-mushrooms-in-sheds]] is illegal
+- Growing mushrooms is illegal
 - However, a growing number of exemptions have been granted for medical and therapeutic use
 - Alberta has been the most progressive province regarding psilocybin therapy
 - As of 2022, Health Canada has granted some section 56 exemptions for end-of-life anxiety
@@ -69,7 +69,7 @@ These conventions require signatory nations to criminalize the scheduled substan
 - Ayahuasca is legal and culturally protected
 - San Pedro is legal and widely used in traditional ceremonies
 - Psilocybin mushrooms: Not explicitly scheduled
-- Peru has actively promoted [[stuart-r-ayahuasca-tourism-cautionary-ethnography]] and traditional medicine
+- Peru has actively promoted ayahuasca tourism and traditional medicine
 
 ### Ecuador
 - Ayahuasca: Legal for indigenous and ceremonial use
@@ -115,7 +115,7 @@ Several legal precedents protect religious use of entheogens:
 - **United States**: Native American Church (peyote), UDV (ayahuasca), Santo Daime (ayahuasca)
 - **Brazil**: UDV, Santo Daime, Barquinha (ayahuasca)
 - **Canada**: Some indigenous ceremonial use protections
-- **Netherlands**: [[metzner-amazonian-ayahuasca-ceremonies-icaros-and-healing-methods]] operate legally under religious freedom
+- **Netherlands**: Ayahuasca ceremonies operate legally under religious freedom
 - **Peru and Ecuador**: Indigenous and traditional use is protected by constitutional and cultural heritage law
 
 ## Emerging Trends
@@ -131,7 +131,3 @@ See [[psychedelic-mushroom-decriminalization]] for a detailed look at the US ref
 
 - [[psychedelic-mushroom-decriminalization]] — US decriminalization movement in detail
 - [[entheogen-vendors-and-sources]] — legal sourcing of plants and materials
-
-## See Also
-
-- [[psychedelic-plants-indoor-growing]]

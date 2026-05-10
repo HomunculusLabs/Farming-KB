@@ -141,7 +141,6 @@ Several methods assess compatibility between fungal isolates:
 
 Understanding mating systems is crucial for strain development, spawn quality
 control, and preservation of genetic diversity in culture collections.
-
 ## See Also
 
 - [[dikaryon-formation-mushroom-strain-genetics]]

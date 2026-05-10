@@ -49,7 +49,7 @@ A 5,000W generator can run a small electric furnace or several baseboard heaters
 ### Prevention
 - Wrap all exposed pipes in unheated areas with foam insulation sleeves
 - Use heat tape on the most vulnerable pipes
-- Seal gaps and cracks where [[hemenway-cold-air-drainage-and-frost-management]] enters near pipes
+- Seal gaps and cracks where cold air enters near pipes
 - During extreme cold, allow faucets to drip slowly
 - Open cabinet doors under sinks on exterior walls
 - Know the location of your main water shut-off valve
@@ -72,7 +72,7 @@ Wind + moisture is far more dangerous than cold alone.
 
 **Ducks:** Draft-free shelter at night. Ensure water does not freeze — ducks need water to eat and maintain waterproofing. Use heated water bowls. Frostbite risk on feet and bills in extreme cold.
 
-**Chickens:** Draft-free but ventilated coop. [[comparison-deep-litter-vs-hot-composting]] method provides warmth. Apply petroleum jelly to combs and wattles before extreme cold. Heated waterers or frequent replacement. Extra feed in late afternoon for overnight warmth.
+**Chickens:** Draft-free but ventilated coop. Deep litter method provides warmth. Apply petroleum jelly to combs and wattles before extreme cold. Heated waterers or frequent replacement. Extra feed in late afternoon for overnight warmth.
 
 **General:** Windbreak is the single most important shelter feature. Increase feed availability. Ensure continuous water access. Monitor animals twice daily during extreme cold.
 

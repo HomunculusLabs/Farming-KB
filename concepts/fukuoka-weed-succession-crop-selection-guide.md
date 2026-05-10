@@ -140,10 +140,8 @@ crops, and vegetables in a layered polyculture:
   pear, apple, cherry): Devil's tongue, lily, ginger, buckwheat
 - **Fruit vines** (grape, Chinese gooseberry, Akebia): Barnyard
   millet, proso millet, foxtail millet as ground cover
+
 ## See Also
 - [[fukuoka-textdoc-ladino-clover-lifecycle-weed-succession]]
 - [[fukuoka-textdoc-orchard-management-weed-succession-formative-pruning]]
-
-## See Also
-
 - [[cover-crop-selection-guide]]

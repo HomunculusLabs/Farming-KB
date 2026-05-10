@@ -17,7 +17,7 @@ sources:
     Verlag Mykologia, Lucerne.
   - Watling, R. et al. (2002). "Leccinum in Britain." Forestry Commission
     Bulletin 125.
-  - Béguet, V. & Kantarelis, V. (2017). "Edible [[edible-wild-mushrooms-by-region]] of the
+  - Béguet, V. & Kantarelis, V. (2017). "Edible edible-wild-mushrooms-by-region of the
     Boreal Forest." University of Helsinki Press.
 ---
 

@@ -12,7 +12,7 @@ sources:
   - Maggs, C.A. & Hommersand, M.H. (1993). "Seaweeds of the British Isles, Volume 1: Rhodophyta." HMSO.
   - Dixon, P.S. & Irvine, L.M. (1977). "Seaweeds of the British Isles, Vol. 1: Rhodophyta, Part 1." British Museum.
   - Guiry, M.D. & Guiry, G.M. (2025). "Ceramium virgatum." AlgaeBase.
-  - Lobo-da-Cunha, A. et al. (2019). "Ceramium species as bioindicators of [[dighton-fungal-biosorption-heavy-metal-remediation]] pollution." Marine Pollution Bulletin.
+  - Lobo-da-Cunha, A. et al. (2019). "Ceramium species as bioindicators of dighton-fungal-biosorption-heavy-metal-remediation pollution." Marine Pollution Bulletin.
 ---
 
 Ceramium virgatum is a finely branched red alga in the family Ceramiaceae, widely distributed across temperate intertidal and shallow subtidal waters of the Northern Hemisphere. It is among the most recognizable red algae due to its distinctive dichotomous branching pattern and bright red to purplish coloration.

@@ -1,7 +1,7 @@
 ---
 title: Oxidative oxidative addition vs photoredox catalysis Catalysis
 created: 2026-04-28
-subtitle: Comparing a two-electron organometallic elementary step with a light-driven single-electron catalytic strategy
+subtitle: Comparing a two-electron organometallic elementary step with a light-driven single-electron [[catalytic-hydrogenolysis-palladium-carbon-debenzylation|catalytic]] strategy
 tags: [comparison, organometallic-chemistry, photoredox, catalysis, radical-chemistry, synthesis]
 date: 2026-05-02
 updated: 2026-05-02
@@ -81,6 +81,6 @@ improve resilience and productivity over time.
 Continued development in this area promises new insights and
 improved approaches for both research and practical application.
 Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
+[[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue|methods]] create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.

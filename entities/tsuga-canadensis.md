@@ -11,7 +11,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Farjon, A. (2017). "A Handbook of the World's Conifers." Brill.
-  - Godman, R.M. & Lancaster, K. (1990). "Tsuga canadensis." In: Silvics of [[psilocybin-north-america-pacific-northwest]]. USDA Forest Service.
+  - Godman, R.M. & Lancaster, K. (1990). "Tsuga canadensis." In: Silvics of psilocybin-north-america-pacific-northwest. USDA Forest Service.
   - Eckenwalder, J.E. (2009). "Conifers of the World." Timber Press.
   - IUCN Red List (2023). "Tsuga canadensis."
 ---

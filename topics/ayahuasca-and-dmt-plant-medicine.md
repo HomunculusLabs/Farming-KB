@@ -67,7 +67,6 @@ administration, and ceremonial use.
 The pharmacological synergy at the heart of ayahuasca represents one of
 the most remarkable examples of indigenous pharmacological discovery.
 N,N-dimethyltryptamine (DMT), the primary visionary compound, is orally
-inactive on its own because monoamine oxidase (MAO) enzymes in the gut
 ## See Also
 
 - [[ayahuasca-botany-and-preparation]] for detailed botanical
@@ -78,7 +77,7 @@ inactive on its own because monoamine oxidase (MAO) enzymes in the gut
   structure and contemporary use contexts
 - [[ayahuasca-tourism-ethics]] for ethical considerations in ayahuasca
   tourism and practical guidance for prospective visitors
-- [[ayahuasca-vision-art-and-shipibo-tradition]] for Shipibo
+- [[ayahuasca-vision-art-and-Shipibo-tradition]] for Shipibo
   cosmology, icaros, kene designs, and visionary art traditions
 - [[amazonian-vegetalista-shamanism-degrees-and-hierarchy]] for the
   three degrees of mastery and the healer/sorcerer distinction

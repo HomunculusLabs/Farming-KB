@@ -137,11 +137,6 @@ in the British permaculture literature.
   woodland management activities
 
 ## See Also
-
-- [[sepp-holzer-entity]] — Austrian permaculture farmer working with
-  landscape-scale forest and water systems
-- [[eric-toensmeier]] — Perennial polyculture researcher and advocate
-
-## See Also
-
+- [[sepp-holzer-entity]]
+- [[eric-toensmeier]]
 - [[permaculture-designers-manual-goat-management]]

@@ -8,7 +8,7 @@ sources:
   - USDA NRCS Plant Guides: Castanea spp., Juglans spp., Carya illinoinensis
   - Lee Reich, "Landscaping with Fruit" (2009)
   - Martin Crawford, "Creating a Forest Garden" (2010)
-  - [[growing-gourmet-north-american-reishi-species]] Nut Growers Association proceedings
+  - growing-gourmet-north-american-reishi-species Nut Growers Association proceedings
   - Cornell University Cooperative Extension nut production guides
 type: comparison
 ---

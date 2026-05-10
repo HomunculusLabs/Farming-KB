@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - Shulgin, A.T. & Shulgin, A. (1997). "TIHKAL: The Continuation." Transform Press.
   - Trachsel, D. et al. (2013). "Psilocybin, psilocin, and baeocystin." In: The Psychotropic Drugs, 4th Ed.
-  - Dean, B.V. et al. (2013). "Legal highs: review of the situation." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis 5(6): 410-415.
+  - Dean, B.V. et al. (2013). "Legal highs: review of the situation." psychedelic-drug-testing-and-adulterant-screening and Analysis 5(6): 410-415.
   - Nichols, D.E. (2016). "Psychedelics." Pharmacological Reviews 68(2): 264-355.
 ---
 

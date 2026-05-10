@@ -137,11 +137,6 @@ Jack Herer's trophy cabinet is among the most decorated of any cannabis strain:
 - Inducted into the **High Times Seed Bank Hall of Fame**
 
 ## See Also
-
-- jack herer — The person for whom this strain is named
-- [[northern-lights]] — Indica parent contributing resin production
-- [[comparison-cannabis-sativa-vs-cannabis-indica]] — The sativa/indica classification debate
-
-## See Also
-
+- [[northern-lights]]
+- [[comparison-cannabis-sativa-vs-cannabis-indica]]
 - [[jack-herer-cannabis-strain]]

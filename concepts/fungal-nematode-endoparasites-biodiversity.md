@@ -20,13 +20,10 @@ Endoparasitic fungi represent one of the major strategies by which
 fungi attack nematodes. Unlike [[nematophagous-fungi]] also function as mycoparasites.
 Arthrobotrys superba and A. oligospora, which are primarily known as
 [[arthrobotrys-oligospora]],
-## See Also
-
-- fungal-nematode-interactions-biodiversity
 
 ## See Also
-
 - [[microfungal-biodiversity-ecology-wood-debris-sampling]]
+
 ## Practical Applications
 
 Fungal Endoparasites of Nematodes has a range of practical applications that make it relevant to

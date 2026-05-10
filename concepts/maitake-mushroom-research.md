@@ -9,7 +9,7 @@ sources: [raw/particles/cancer-treatments-medicinal-mushrooms.md]
 
 ## Grifola frondosa (Maitake / Hen of the Woods) — Research Summary
 
-Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hardwood forests of [[psilocybin-north-america-pacific-northwest]], Europe, and Japan. Known as "hen of the woods" for its appearance, and as "dancing mushroom" (mai-take) in Japanese folklore because people reportedly danced with joy upon finding it.
+Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hardwood forests of North America, Europe, and Japan. Known as "hen of the woods" for its appearance, and as "dancing mushroom" (mai-take) in Japanese folklore because people reportedly danced with joy upon finding it.
 
 ### Active Compounds
 
@@ -18,7 +18,7 @@ Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hard
 - **Grifolan**: a high-molecular-weight beta-1,3-glucan with beta-1,6 branching, isolated from maitake mycelium
 - **X-fraction**: an alpha-glucan with insulin-sensitizing properties
 
-**Other**: various polysaccharides, proteins, lectins, sterols, [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
+**Other**: various polysaccharides, proteins, lectins, sterols, fatty acids
 
 ### Mechanism of Action
 
@@ -54,7 +54,7 @@ Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hard
 - Increased NK cell activity documented in multiple human trials
 - Enhanced overall immune competence in both healthy and immunocompromised subjects
 
-**[[cannabis-metabolic-syndrome-research]]**:
+**Metabolic syndrome**:
 - Improved insulin sensitivity and blood glucose control in human studies
 - Reduction in blood pressure and triglyceride levels reported
 
@@ -67,7 +67,7 @@ Maitake (Grifola frondosa) is a large polypore mushroom native to temperate hard
 
 ### Traditional Use
 
-Used in Japanese and Chinese traditional medicine for: immune support, digestive health, fatigue reduction, and as a general tonic. In traditional Kampo medicine, prescribed for "spleen and stomach" disorders. Valued as both food and medicine — one of the most commercially cultivated [[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] in Japan.
+Used in Japanese and Chinese traditional medicine for: immune support, digestive health, fatigue reduction, and as a general tonic. In traditional Kampo medicine, prescribed for "spleen and stomach" disorders. Valued as both food and medicine — one of the most commercially cultivated medicinal mushrooms in Japan.
 
 ## See Also
 
@@ -76,21 +76,3 @@ Used in Japanese and Chinese traditional medicine for: immune support, digestive
 - [[chaga-mushroom-research]]
 - [[medicinal-mushroom-guide-maitake]]
 - [[maitake-cultivation-guide]]
-## Practical Considerations
-
-Successful implementation of Maitake Mushroom — Research Summary requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

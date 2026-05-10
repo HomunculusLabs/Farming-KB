@@ -1,6 +1,6 @@
 ---
 
-title: KNF knf agricultural mineral water Water (AMW)
+title: KNF Agricultural Mineral Water (AMW)
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -21,11 +21,11 @@ sources:
 
 # KNF Agricultural Mineral Water (AMW)
 
-Agricultural Mineral Water is KNF's approach to creating vital, mineral-rich water for irrigation. It uses the waterfall principle — rocks and IMO #4 are combined in a flowing water system to produce water with abundant [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]], minerals, and microorganisms. AMW replaces regular irrigation water with enhanced water that promotes plant growth and livestock health.
+Agricultural Mineral Water is KNF's approach to creating vital, mineral-rich water for irrigation. It uses the waterfall principle — rocks and IMO #4 are combined in a flowing water system to produce water with abundant dissolved oxygen, minerals, and microorganisms. AMW replaces regular irrigation water with enhanced water that promotes plant growth and livestock health.
 
 ## Why AMW?
 
-Water quality significantly affects [[fukuoka-hotel-analogy-crop-yield-model]] and quality. AMW strengthens absorption by making water particles smaller, adds minerals from rocks, and inoculates water with beneficial microorganisms from IMO #4. One watering with AMW is more effective than five waterings with regular water.
+Water quality significantly affects crop yield and quality. AMW strengthens absorption by making water particles smaller, adds minerals from rocks, and inoculates water with beneficial microorganisms from IMO #4. One watering with AMW is more effective than five waterings with regular water.
 
 ## Recipe
 
@@ -85,7 +85,7 @@ There is no special dilution — use AMW like regular water:
 
 ## See Also
 
-- [[knf-preparations]] — all [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]] overview
+- [[knf-preparations]] — all KNF inputs overview
 - [[knf-mineral-liquid]] — Mineral Liquid types A-E for targeted applications
 - [[indigenous-microorganisms-imo]] — IMO #4 as microbial inoculant in AMW
 - [[knf-seawater-and-fermented-seawater]] — seawater as alternative mineral source

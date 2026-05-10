@@ -24,7 +24,7 @@ The species was first described by the British botanist John Lindley in the 19th
 
 T. bridgesii is native to Bolivia, primarily found in the departments of La Paz and Cochabamba at elevations of 2,000-3,000 meters. It grows in dry, rocky slopes, valleys, and scrubland environments.
 
-The species has been widely introduced as an ornamental and is cultivated throughout the world, with particular popularity in the southwestern [[dmt-containing-plants-united-states-halpern]] and Mediterranean climates. Its natural habitat overlaps with [[mescaline-entity]] is the primary psychoactive alkaloid in T. bridgesii, with reported concentrations ranging from 0.05% to as high as 4% by dry weight. Many experienced practitioners consider T. bridgesii to be among the most consistently potent of the Trichocereus species.
+The species has been widely introduced as an ornamental and is cultivated throughout the world, with particular popularity in the southwestern [[dmt-containing-plants-united-states-halpern]] and Mediterranean climates. Its natural habitat overlaps with [[mescaline]] is the primary psychoactive alkaloid in T. bridgesii, with reported concentrations ranging from 0.05% to as high as 4% by dry weight. Many experienced practitioners consider T. bridgesii to be among the most consistently potent of the Trichocereus species.
 
 The variability in reported mescaline content likely reflects genuine genetic diversity within the species, differences in growing conditions, and differences in sampling methodology. Some growers have reported that certain clones produce consistently high mescaline levels, suggesting a significant genetic component to alkaloid production.
 
@@ -53,7 +53,7 @@ The intense bitterness of the cactus tissue can be partially masked by adding ci
 
 T. bridgesii is uncontrolled in most countries and is primarily sold and grown as an ornamental specimen. As with other [[echinopsis-bridgesii]]
 
-- [[mescaline-entity]]
+- [[mescaline]]
 
 - [[trichocereus-pachanoi]]
 - trichocereus peruvianus

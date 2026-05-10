@@ -112,6 +112,8 @@ The plant should never be consumed without expert knowledge of preparation and d
 
 ## See Also
 
+- [[brugmansia-arborea]]
+
 - [[genlisea-aurea]]
 
 - [[brugmansia-sanguinea]] — Blood-Red Angel's Trumpet

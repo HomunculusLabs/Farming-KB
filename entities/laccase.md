@@ -10,7 +10,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/mushroom-cultivationoom-farming-mycoremed
 
 # Laccase
 
-**Laccase** (EC 1.10.3.2; benzenediol:oxygen oxidoreductase) is a multicopper oxidase enzyme produced by a wide range of fungi, bacteria, insects, and plants. In the context of mushroom cultivation and mycoremediation, fungal laccases (particularly from white-rot basidiomycetes) are among the mfungal-bioremediationlysts for lignin degradation, xenobiotic transformation, and environmental detoxification. Laccases are central to the ability of fungi to break down recalcitrant organic pollutants and represent a cornerstone technology in fungal bioremediation.
+**Laccase** (EC 1.10.3.2; benzenediol:oxygen oxidoreductase) is a multicopper oxidase enzyme produced by a wide range of fungi, bacteria, insects, and plants. In the context of [[mushroom-cultivation]] and mycoremediation, fungal laccases (particularly from white-rot basidiomycetes) are among the mfungal-bioremediationlysts for [[lignin-degradation]], xenobiotic transformation, and environmental detoxification. Laccases are central to the ability of fungi to break down recalcitrant organic pollutants and represent a cornerstone technology in fungal bioremediation.
 
 ## Enzyme Structure and Mechanism
 
@@ -50,7 +50,7 @@ Mediators are low-molecular-weight compounds that act as electron shuttles, exte
   * **TEMPO** (2,2,6,6-tetramethylpiperidine-1-oxyl) — stable nitroxyl radical mediator
 
 * **Natural mediators:**
-  * **Methyl syringate** — derived from lignin [[pleurotus-ostreatus]]ipal Laccase-Producing Species
+  * **Methyl syringate** — derived from lignin [[pleurotus-ostreatus]] ipal Laccase-Producing Species
 
 * **Trametes versicolor** — model laccase producer; yields up to 50,000 U/L in optimized submerged fermentation
 * **Trametes hirsuta** — high laccase yields with broad substrate specificity

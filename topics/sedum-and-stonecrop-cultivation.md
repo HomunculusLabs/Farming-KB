@@ -145,6 +145,5 @@ Sedum species exhibit remarkable morphological diversity, adapted to their varie
 
 ### Seed
 
-- Fine, dust-like seed; sow on surface of well-drained mix and press gently (do not bury).
 ## Related
 - [[coleman-claytonia-winter-harvest-cultivation|coleman claytonia winter harvest cultivation]]

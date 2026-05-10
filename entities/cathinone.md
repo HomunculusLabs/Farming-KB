@@ -104,7 +104,7 @@ Cathinone is the structural parent of a large family of synthetic analogues and 
 
 - **[[butylone]]** — β-keto-MBDB, milder empathogen
 - **[[ephedra-sinica]]** — source of ephedrine, structurally related precursor
-- **[[mescaline-entity]]
+- **[[mescaline]]
 - [[2c-b]]
 - [[mda]]
 - [[ethylone]]

@@ -1,5 +1,5 @@
 ---
-title: PDA and comparison-seed-saving-techniques-vs-tissue-culture-cloning
+title: PDA and Tissue Culture
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/a-training-manual-mushroom-cultivation-by-people-with-disab
 
 # PDA and Tissue Culture
 
-Potato Dextrose Agar (PDA) is the standard medium for mushroom tissue culture and spawn propagation. This page covers PDA preparation, tissue culture selection, and PDA-to-PDA transfer from the FAO [[mushroom-cultivation-disabilities-training-manual-overview]].
+Potato Dextrose Agar (PDA) is the standard medium for mushroom tissue culture and spawn propagation. This page covers PDA preparation, tissue culture selection, and PDA-to-PDA transfer from the FAO training manual.
 
 ## PDA Medium Recipe
 
@@ -44,7 +44,7 @@ Buy dextrose and agar of commercial grade. Visually check potatoes for spots or 
 - Cotton/gauze
 - Matches or lighter
 - PDA bottles
-- [[comparison-laminar-flow-hood-vs-fruiting-chamber]] cabinet (or protected clean environment)
+- Laminar flow cabinet (or protected clean environment)
 - UV lamp
 
 ### Mushroom Selection Criteria
@@ -57,7 +57,7 @@ Choose a strong, healthy mushroom for culture:
 
 ### Tissue Culture Procedure
 
-1. **Prepare [[oyster-mushroom-clean-room-design]]**: Clean room, all tools, inside and outside of laminar flow cabinet with alcohol. Transfer PDA bottles and tools into chamber
+1. **Prepare clean room**: Clean room, all tools, inside and outside of laminar flow cabinet with alcohol. Transfer PDA bottles and tools into chamber
 2. **Sterilize cabinet**: Turn on UV lamp and laminar flow for 10-15 minutes. Turn off UV but leave laminar flow running
 3. **Prepare hands**: Clean both hands and bottles with alcohol, insert hands into cabinet
 4. **Sterilize needle**: Hold needle with 2 fingers at 45° angle. Flame until needle turns red. Do not let it touch any surface after flaming
@@ -100,7 +100,7 @@ Because tissue culture has high contamination risk, do only a few bottles from f
 
 ## Related
 
-- [[mushroom-spawn-making-detailed]] — [[comparison-grain-spawn-vs-grain-to-grain-transfer]] from PDA cultures
+- [[mushroom-spawn-making-detailed]] — Grain spawn from PDA cultures
 - [[substrate-bag-preparation]] — Substrate bags for inoculation
 - [[mushroom-sterile-technique-detailed]] — Inoculation and sterile procedures
 - [[mushroom-cultivation-basics]] — Complete cultivation overview

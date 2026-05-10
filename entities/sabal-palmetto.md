@@ -108,13 +108,15 @@ The species plays an important role in successional dynamics of subtropical coas
 
 ## See Also
 
+- [[sabal-minor]]
+
 - [[serenoa-repens]]
 - [[trachycarpus-fortunei]]
 - [[cocos-nucifera]]
 - [[areca-catechu]]
 - [[euterpe-oleracea]]
 - [[phoenix-dactylifera]]
-- [[Florida]]
-- [[Southeastern-US]]
-- [[invasive-species]]
+- Florida
+- Southeastern US
+- [[invasive-species-management]]
 - [[agroforestry]]

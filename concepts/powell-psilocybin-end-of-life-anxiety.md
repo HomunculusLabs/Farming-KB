@@ -118,6 +118,8 @@ speculation. This is the promise psilocybin holds for those confronting their mo
 
 ## See Also
 
+- [[psilocybin-end-of-life-care]]
+
 - [[psilocybin-and-death-anxiety]]
 - [[psilocybin-and-mystical-experience]]
 - [[consciousness-and-psychedelics]]

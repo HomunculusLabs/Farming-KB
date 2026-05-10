@@ -83,15 +83,7 @@ The route of administration is also a barrier. Unlike ecstasy tablets that can b
 - [[bad-trip]] - adverse psychological reactions to mushroom use
 
 ## See Also
-
 - [[mushroom-cultivation-methods]]
-
-- pf-tek-overview-and-history
-
 - [[psilocybe-cubensis-flush-variation]]
 - [[psilocybe-cubensis-miniculture-method]]
-- tropisms-psilocybe-cubensis-phototropism
-
-## See Also
-
 - [[psilocybe-cinctulus]]

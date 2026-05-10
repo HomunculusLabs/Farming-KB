@@ -4,19 +4,18 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [pathogens, troubleshooting, plants, gardening, pest-control, cultivation]
-sources:
-  sources: []
+sources: []
 ---
 
 # Viral Plant Diseases
 
-Plant viruses are submicroscopic [[blesching-cannabis-infectious-agents-cancer]] that replicate only inside living host cells. They cannot be controlled with chemical sprays -- there are no curative treatments once a plant is infected. Management relies entirely on prevention through sanitation, vector control, and resistant varieties. Viruses are typically spread by insect vectors (especially aphids, thrips, and whiteflies), contaminated tools, seed, or mechanical contact.
+Plant viruses are submicroscopic infectious agents that replicate only inside living host cells. They cannot be controlled with chemical sprays -- there are no curative treatments once a plant is infected. Management relies entirely on prevention through sanitation, vector control, and resistant varieties. Viruses are typically spread by insect vectors (especially aphids, thrips, and whiteflies), contaminated tools, seed, or mechanical contact. (see [[query-what-are-predatory-mites-and-how-can-i-use-them-for-pest-control]]).
 
 ## Major Viral Diseases
 
 ### Tobacco Mosaic Virus (TMV)
 
-One of the most studied and widespread plant viruses. TMV is extremely stable -- it can survive in dried plant debris for years and is easily transmitted by touch. It has an exceptionally broad host range including tobacco, tomatoes, peppers, eggplants, cucumbers, and many ornamentals.
+One of the most studied and widespread plant viruses. TMV is extremely stable -- it can survive in dried plant debris for years and is easily transmitted by touch. It has an exceptionally broad host range including tobacco, tomatoes, peppers, eggplants, cucumbers, and many ornamentals. (see [[vegetable-insect-and-disease-control]]).
 
 Symptoms:
 - Mosaic pattern of light and dark green patches on leaves
@@ -34,7 +33,7 @@ Management:
 - Remove and destroy infected plants immediately
 - Use TMV-resistant tomato varieties (many carry the Tm-2 gene)
 - Do not save seed from infected plants
-- [[query-what-is-the-best-way-to-rotate-crops-in-a-vegetable-garden]] -- remove all solanaceous debris
+- Rotate crops -- remove all solanaceous debris
 
 ### Cucumber Mosaic Virus (CMV)
 
@@ -57,7 +56,7 @@ Management:
 - Plant CMV-resistant varieties when available
 - Remove infected plants immediately to reduce source
 - Eliminate perennial weeds near garden edges
-- Use floating [[solomon-row-covers-and-season-extension]] to protect young plants from aphids
+- Use floating row covers to protect young plants from aphids
 
 ### Potato Virus Y (PVY)
 
@@ -104,8 +103,8 @@ Since viruses cannot be cured once plants are infected, all management is preven
 - Resistance is often virus-specific -- a TMV-resistant variety may still be susceptible to CMV
 
 ### Vector Control
-- Monitor aphid, thrips, and whitefly populations with yellow [[cervantes-sticky-traps-pest-monitoring]]
-- Apply insecticidal soap or [[comparison-essential-oils-vs-neem-oil-vs-insecticidal-soap]] at first sign of vector activity
+- Monitor aphid, thrips, and whitefly populations with yellow sticky traps
+- Apply insecticidal soap or neem oil at first sign of vector activity
 - Use floating row covers on young, susceptible plants
 - Encourage natural enemies (ladybugs, lacewings, parasitic wasps)
 - Remove weed hosts that harbor both viruses and vectors

@@ -6,14 +6,11 @@ type: concept
 tags: [mycology, spores, theory]
 sources: [raw/papers/panspermia-hypothesis.md]
 ---
---- 2|title: Spore Interstellar Dispersal Hypothesis tags: [panspermia, mycology, astrobiology, [[terence-mckenna]] based on information he reports receiving during fungal-spores
-- gordon-wasson
-- [[mckenna-mushroom-cultivation-history]] 159|
-- [Stropharia [[stropharia-cubensis-extraterrestrial-hypothesis]] Hypothesis](stropharia-cubensis-extraterrestrial-hypothesis.md)
-- [McKenna [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]] Ecology and Bovine Symbiosis](mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis.md)
-- [[emcdda-psilocybin-mushroom-dose-and-effects]] Spore Print Identification](psilocybin-mushroom-spore-print-identification.md)
-- [McKenna [[accessible-mushroom-cultivation-for-disabilities]] History](mckenna-mushroom-cultivation-history.md)
-- [McKenna [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]] and Extraterrestrial Hypothesis](mckenna-tryptamines-soul-and-extraterrestrial-hypothesis.md)
+--- 2|title: Spore Interstellar Dispersal Hypothesis tags: [stropharia-cubensis-extraterrestrial-hypothesis|panspermia, mycology, astrobiology, terence-mckenna based on information he reports receiving during fungal-spores- gordon-wasson- mckenna-mushroom-cultivation-history 159|- [Stropharia stropharia-cubensis-extraterrestrial-hypothesis Hypothesis]]
+- [McKenna mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis Ecology and [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]](mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis.md)
+- emcdda-psilocybin-mushroom-dose-and-effects [[comparison-spore-print-collection-vs-spore-syringe-production]] Identification](psilocybin-mushroom-spore-print-identification.md)
+- [[mckenna-mushroom-cultivation-history|McKenna accessible-mushroom-cultivation-for-disabilities History]]
+- [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis|McKenna mckenna-tryptamines-soul-and-extraterrestrial-hypothesis and Extraterrestrial Hypothesis]]
 ## Background and Context
 
 Spore Interstellar Dispersal Hypothesis is an important subject that has garnered significant attention
@@ -64,7 +61,7 @@ Selection of appropriate methods should be based on careful assessment
 of the specific situation, including available resources, timeline, and
 desired outcomes rather than rigid adherence to any single approach.
 
-Best practices have been developed through years of trial and error
+[[arbuscular-mycorrhizal-inoculum-production-best-practices]] have been developed through years of trial and error
 by experienced practitioners. These practices represent distilled wisdom
 about what works reliably across a range of conditions. However, they
 should be treated as guidelines rather than rigid rules, with adaptation
@@ -143,4 +140,7 @@ conditions. The combination of theoretical study and practical experience
 provides the most robust foundation for developing expertise in this
 area and contributing to its ongoing development and refinement.
 ## See Also
-- [[mushroom-cultivation-history]]
+
+- [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]
+- [[fungal-spore-biology-dispersal]]
+- [[mckenna-tryptamines-soul-and-extraterrestrial-hypothesis]]

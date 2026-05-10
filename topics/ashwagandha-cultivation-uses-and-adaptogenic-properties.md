@@ -126,7 +126,6 @@ A 2019 double-blind RCT found that patients with insomnia taking 300 mg of ashwa
 - **Cortisol-sex hormone balance:** By reducing cortisol, ashwagandha indirectly supports the production of DHEA, testosterone, and progesterone, which share common pregnenolone precursors with cortisol.
 
 ### Athletic Performance and Strength
-
 ## Related Species
 
 - *Withania coagulans* (Indian rennet): Used traditionally as a milk coagulant and for diabetes management. Contains unique withanolides (withacoagulin).

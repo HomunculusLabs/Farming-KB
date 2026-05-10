@@ -1,5 +1,5 @@
 ---
-title: Mushroom Watering
+title: [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation|Mushroom]] Watering
 created: 2026-04-28
 tags: [mushrooms, irrigation, liquid-manure, victorian-gardening]
 date: 2026-04-28
@@ -55,7 +55,7 @@ For summer cultivation, Cuthill developed an innovative
 technique: rather than watering the mould directly, he
 sprinkled the mats and straw coverings. This extracted heat
 from the bed surface through damp coverings, keeping
-temperature low enough to prevent maggot breeding. He
+[[mushroom-growing-temperature-and-moisture|temperature]] low enough to prevent maggot breeding. He
 illustrated this with an analogy: butter under a basin with
 a water-soaked cloth would harden regardless of hot weather.
 

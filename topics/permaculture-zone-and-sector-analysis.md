@@ -5,7 +5,6 @@ tags: [permaculture, zone-planning, sector-analysis, site-design, permaculture-d
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
 related_concepts:
   - permaculture-zone-and-sector-analysis
@@ -122,7 +121,6 @@ Typical Zone 1 elements include annual vegetable beds, salad gardens,
 [[holzer-medicinal-and-culinary-herbs-compendium]], seedling nurseries, small greenhouses or cold frames,
 compost bins close to the kitchen, worm farms, and small animal
 systems like chickens or rabbits.
-Dwarf fruit trees, espaliered against walls, and intensively managed
 ## See Also
 
 - [[permaculture-design-principles]]

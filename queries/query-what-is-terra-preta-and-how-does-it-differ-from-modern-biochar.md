@@ -50,7 +50,7 @@ One of the most important differences between ancient terra preta and fresh [[bi
 
 Terra preta supports a rich and diverse community of bacteria, fungi, archaea, and soil invertebrates that have co-evolved with the charcoal matrix over centuries.
 
-[[glomalin]], a sticky protein produced by [[arbuscular-mycorrhizal-fungi]], plays a key role in binding charcoal particles into stable aggregates.
+[[glomalin-and-soil-carbon]], a sticky protein produced by [[arbuscular-mycorrhizal-fungi]], plays a key role in binding charcoal particles into stable aggregates.
 
 This aggregation protects organic matter from decomposition and creates a sponge-like structure that retains water and nutrients.
 
@@ -109,7 +109,7 @@ In practice, the two approaches can be combined — burying wood beneath a bioch
 - Terra preta is ancient, human-made fertile soil found in the Amazon Basin with exceptional carbon stability.
 - It was created over centuries through the intentional mixing of charcoal, organic waste, bones, and pottery shards.
 - The microbial community within terra preta is far more mature and complex than what fresh [[biochar]] supports.
-- [[glomalin]] from mycorrhizal fungi plays a critical role in binding charcoal into stable, nutrient-retaining aggregates.
+- [[glomalin-and-soil-carbon]] from mycorrhizal fungi plays a critical role in binding charcoal into stable, nutrient-retaining aggregates.
 - Modern biochar is inspired by terra preta but cannot match its centuries of biological maturation.
 - Gardeners can approximate terra preta by pre-charging biochar with compost and integrating it into [[no-till-gardening-method]] systems.
 - The [[soil-food-web]] within terra preta represents a benchmark for what healthy, carbon-rich soil microbiomes can achieve.

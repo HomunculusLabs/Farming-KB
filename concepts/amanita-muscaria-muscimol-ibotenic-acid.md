@@ -127,12 +127,6 @@ a more desirable experience, though it does not eliminate all
 risk.
 
 ## See Also
-
-- muscimol-compound
-
 - [[salvia-divinorum-salvinorin]]
 - [[mescaline-peyote-san-pedro-cactus]]
-
-## See Also
-
 - [[bloomfield-fly-agaric-amanita-muscaria-muscimol-ibotenic-acid-hallucinogens]]

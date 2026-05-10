@@ -44,20 +44,20 @@ White rot fungi are the only organisms capable of substantial lignin degradation
 
 - **Mechanism**: Produce extracellular ligninolytic enzymes:
   - Lignin peroxidase (LiP)
-  - [[fungal-manganese-peroxidase-remediation]] (MnP)
+  - Manganese peroxidase (MnP)
   - Laccase (phenol oxidase)
   - versatile peroxidase (VP)
 - These enzymes generate highly reactive free radicals that nonspecifically break down the complex lignin polymer. This non-specificity is what makes white rot fungi effective against synthetic pollutants as well (Staycare; Singh).
-- **Key species**: [[staycare-phanerochaete-chrysosporium-in-bioremediation]] (most studied model organism), [[growing-gourmet-turkey-tail-trametes-versicolor-cultivation]], Pleurotus ostreatus, [[stamets-reishi-ganoderma-lucidum-cultivation]], Lentinula edodes
+- **Key species**: Phanerochaete chrysosporium (most studied model organism), Trametes versicolor, Pleurotus ostreatus, Ganoderma lucidum, Lentinula edodes
 - **Ecological role**: Complete decomposers that can mineralize lignin to CO2. Critical in later stages of wood decay.
 
 ### Brown Rot Fungi
 
 Brown rot fungi primarily degrade cellulose and hemicellulose while leaving lignin largely intact as a modified, brown, crumbly residue.
 
-- **Mechanism**: Employ a Fenton chemistry system — generate hydroxyl radicals (OH) via iron reduction and [[cervantes-hydrogen-peroxide-sterilization]]. These radicals cleave cellulose chains rapidly without requiring direct enzymatic contact.
+- **Mechanism**: Employ a Fenton chemistry system — generate hydroxyl radicals (OH) via iron reduction and hydrogen peroxide. These radicals cleave cellulose chains rapidly without requiring direct enzymatic contact.
 - Do not produce ligninolytic peroxidases or laccases in the same manner as white rots.
-- **Key species**: [[fungal-serpula-lacrymans-dry-rot-buildings]], Fomitopsis pinicola, Piptoporus betulinus, Laetiporus sulphureus
+- **Key species**: Serpula lacrymans, Fomitopsis pinicola, Piptoporus betulinus, Laetiporus sulphureus
 - **Ecological role**: Rapid cellulose removal, leaving lignin-enriched residue. Common on conifer wood. Responsible for most structural wood damage in buildings.
 
 ## Decomposition Rates
@@ -103,8 +103,6 @@ Fungi are fundamental to pedogenesis (soil formation):
 - Mycorrhizal fungi contribute to long-term carbon storage through formation of recalcitrant organic compounds and physical protection of organic matter within soil aggregates.
 
 ## Related
-
-- [[fungal-decomposition-lignin-cellulose]]
 
 - [[harbhajan-singh]]
 

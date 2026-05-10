@@ -14,7 +14,7 @@ updated: 2026-04-28
 sources:
   - Hofmann, A. & Troxler, F. (1949). "Alkaloids of ergot: N-alkylated ergot-and-lysergic-acid-history derivatives." Helvetica Chimica Acta, 32, 893–904.
   - Trachsel, D., et al. (2013). "The lysergamides." In: Pharmacology of New Psychoactive Substances. Springer.
-  - Brandt, S.D., et al. (2016). "Return of the lysergamides." [[psychedelic-drug-testing-and-adulterant-screening]] and Analysis, 8(9), 891–900.
+  - Brandt, S.D., et al. (2016). "Return of the lysergamides." psychedelic-drug-testing-and-adulterant-screening and Analysis, 8(9), 891–900.
   - Passie, T., et al. (2008). "The pharmacology of lysergic acid diethylamide." CNS Neuroscience & Therapeutics, 14(4), 295–314.
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–726.
 ---
@@ -116,15 +116,15 @@ Despite scheduling, the compound continues to appear on the NPS market, often so
 - [[psychedelic-substances-comparison]]
 - [[pihkal-introduction-and-methodology]]
 
-- [1p-lsd](1p-lsd.md)
-- [lsd](lsd.md)
-- [dmt](dmt.md)
-- [psilocin-and-psilocybin-chemistry](psilocin-and-psilocybin-chemistry.md)
-- [ergine](ergine-entity.md)
-- [1b-lsd](1b-lsd.md)
-- [ald-52](ald-52.md)
-- [2c-b](2c-b.md)
-- [doi](doi.md)
+- [[1p-lsd|1p-lsd]]
+- [[lsd|lsd]]
+- [[dmt|dmt]]
+- [[psilocin-and-psilocybin-chemistry|psilocin-and-psilocybin-chemistry]]
+- [[ergine-entity|ergine]]
+- [[1b-lsd|1b-lsd]]
+- [[ald-52|ald-52]]
+- [[2c-b|2c-b]]
+- doi
 - [[lysergic-acid-diethylamide]]
 - [[lysergic-acid]]
 - [[albert-hofmann]]

@@ -117,6 +117,6 @@ Modern research interest in theobromine has focused on its cardiovascular benefi
 - [[nicotine]]
 - [[serotonin]]
 - [[2c-b]]
-- [[mescaline-entity]]
+- [[mescaline]]
 - [[lsd]]
 - [[psilocybin]]

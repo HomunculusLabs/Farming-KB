@@ -118,4 +118,6 @@ microorganisms are the primary mechanism for mineral availability. When the
 
 ## See Also
 
+- [[ingham-pleomorphism-microbial-form-shifting-soil-conditions]]
+
 - [[ingham-chelation-microbial-nutrient-processing]]

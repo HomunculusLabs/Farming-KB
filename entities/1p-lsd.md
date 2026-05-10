@@ -18,7 +18,7 @@ sources:
   - Brandt, S.D. et al. (2016). "Return of the lysergamides. Part I: Analytical and behavioural characterization of 1P-LSD." Drug soil-testing-and-analysis, 8(9), 891–902.
   - Wagmann, L. et al. (2019). "Metabolic fate of 1P-LSD: Identification of LSD as the main metabolic product." Drug Testing and Analysis, 11(6), 939–946.
   - Halberstadt, A.L. et al. (2020). "Pharmacological characterization of 1-propionyl-d-lysergic acid diethylamide (1P-LSD)." ACS Chemical Neuroscience.
-  - EMCDDA-Europol Annual Reports on New [[cultural-evolution-and-psychoactive-substances]] (2015–2024).
+  - EMCDDA-Europol Annual Reports on New cultural-evolution-and-psychoactive-substances (2015–2024).
   - Nichols, D.E. (2018). "Psychedelics." Pharmacological Reviews, 70(3), 677–735.
 ---
 

@@ -11,7 +11,7 @@ updated: 2026-04-28
 sources:
   - "Leafly Strain Database." https://www.leafly.com/strains/jedi-kush
   - "AllBud Strain Information." https://www.allbud.com/marijuana-strains/hybrid/jedi-kush
-  - Smart, R. et al. (2010). "Cannabinoid and [[cannabis-terpene-profiles-sativa]] of Popular Cannabis Strains." Journal of Cannabis Therapeutics 10(1-4).
+  - Smart, R. et al. (2010). "Cannabinoid and cannabis-terpene-profiles-sativa of Popular Cannabis Strains." Journal of Cannabis Therapeutics 10(1-4).
   - Clarke, R.C. & Merlin, M.D. (2013). "Cannabis: Evolution and Ethnobotany." University of California Press.
 created: 2026-04-28
 ---
@@ -121,7 +121,7 @@ potassium during mid-to-late flowering.
 
 ## See Also
 
-- [[og-kush]]
+- [[og-kush-cannabis-entity]]
 - [[master-kush]]
 - [[afghan-kush]]
 - [[purple-kush]]

@@ -92,17 +92,8 @@ Indigenous peoples across the circumpolar North have used reindeer lichen for va
 Reindeer lichen grows extremely slowly, typically 3–5 mm per year. Recovery from disturbance (such as wildfire or overgrazing) can take decades. Sustainable harvesting requires careful management, as commercial collection for the floral and craft industries has depleted populations in some areas.
 
 ## See Also
-
 - [[diploschistes-scruposus]]
 - [[solorina-crocea]]
-
-- [[lichen-symbiosis|lichen biology and ecology]]
+- [[lichen-symbiosis]]
 - [[cladonia-arbuscula]]
-
-## See Also
-
-- [[diploschistes-scruposus]]
-- [[solorina-crocea]]
-
-- lichen-air-quality-biomonitoring-sampling-protocols
 - [[cladonia-stellaris]]

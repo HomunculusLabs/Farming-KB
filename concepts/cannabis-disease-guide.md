@@ -4,18 +4,16 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, troubleshooting, indoor, organic, pathogens, microbes, living-soil]
-sources:
-  sources:
-  - "raw/papers/marijuana-horticulture-cervantes.md"
+sources: []
 ---
 
 ## Overview
 
-Cannabis plants are susceptible to a range of fungal, bacterial, and [[cervantes-viral-diseases-cannabis]]. Prevention through [[eclss-environmental-control-life-support]] and cultural practices is far more effective than treatment after infection. Most cannabis diseases thrive in specific environmental conditions — managing temperature, humidity, and airflow per [[cannabis-environment-control]] eliminates the majority of disease risk.
+Cannabis plants are susceptible to a range of fungal, bacterial, and viral diseases. Prevention through environmental control and cultural practices is far more effective than treatment after infection. Most cannabis diseases thrive in specific environmental conditions — managing temperature, humidity, and airflow per [[cannabis-environment-control]] eliminates the majority of disease risk.
 
 ## Bud Rot (Botrytis cinerea / Gray Mold)
 
-Bud rot is the most feared disease in [[query-how-does-no-till-cannabis-cultivation-work]]. It attacks from the inside of dense buds, making early detection difficult.
+Bud rot is the most feared disease in cannabis [[cannabis-nutrient-deficiency-and-toxicity-guide]] cultivation. It attacks from the inside of dense buds, making early detection difficult.
 
 ### Identification
 
@@ -52,7 +50,7 @@ Bud rot is the most feared disease in [[query-how-does-no-till-cannabis-cultivat
 
 ## Powdery Mildew (Podosphaera macularis)
 
-A fungal disease that appears as white powdery spots on leaf surfaces. Unlike most fungi, powdery mildew does not require free water to establish — it thrives in moderate humidity with warm days and cool nights.
+A fungal disease [[cannabis-nutrient-deficiency-and-toxicity-guide]] that appears as white powdery spots on leaf surfaces. Unlike most fungi, powdery mildew does not require free water to establish — it thrives in moderate humidity with warm days and cool nights.
 
 ### Identification
 
@@ -72,7 +70,7 @@ A fungal disease that appears as white powdery spots on leaf surfaces. Unlike mo
 
 - Maintain good airflow — space plants adequately
 - Keep humidity below 55% during flowering
-- Avoid excessive nitrogen during [[cannabis-vegetative-growth-stage]]
+- Avoid excessive nitrogen during vegetative growth
 - Apply potassium bicarbonate or milk spray preventatively
 - Remove and destroy affected leaves immediately
 
@@ -101,7 +99,7 @@ Root rot encompasses several conditions that destroy the root system, most commo
 - Overwatering and waterlogged soil
 - Poor drainage (compacted soil, insufficient drainage holes)
 - High root zone temperatures (above 75 F in hydroponics)
-- Lack of [[aact-dissolved-oxygen-fine-bubble-aeration-ingham]] in the root zone
+- Lack of dissolved oxygen in the root zone
 - Contaminated water sources or equipment
 
 ### Prevention
@@ -119,7 +117,7 @@ Root rot encompasses several conditions that destroy the root system, most commo
 - Repot in fresh, well-draining medium
 - Drench with beneficial microbe solution (Trichoderma, Bacillus subtilis)
 - Reduce watering frequency significantly
-- In hydroponics: add [[cervantes-hydrogen-peroxide-sterilization]] (3%, 3 ml per gallon) for emergency oxygen boost; add beneficial bacteria
+- In hydroponics: add hydrogen peroxide (3%, 3 ml per gallon) for emergency oxygen boost; add beneficial bacteria
 - Treat water with UV sterilization for ongoing prevention
 
 ## Fusarium Wilt (Fusarium oxysporum)
@@ -145,6 +143,8 @@ A soil-borne fungal pathogen that invades through roots and colonizes the vascul
 
 ## Damping Off
 
-## Related
+Damping off is a condition affecting seedlings and young clones, caused by several soil-borne fungi (Pythium, Rhizoctonia, Fusarium). It causes young plants to collapse and die at or near the soil line.
 
-- [[cannabis-pest-management]]
+### Identification
+
+- Seedling stems become thin and water-soaked at the base

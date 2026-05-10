@@ -17,7 +17,7 @@ sources:
 
 # Permaculture Site Assessment Checklist
 
-A thorough site assessment is the foundation of any [[bill-mollison-permaculture-a-designers-manual-permaculture-design-principles]]. William Ozier Williams presents a systematic approach in his PDC, emphasizing that the designer must analyze the site comprehensively before making any design decisions. This checklist consolidates the key elements to assess.
+A thorough site assessment is the foundation of any permaculture design. William Ozier Williams presents a systematic approach in his PDC, emphasizing that the designer must analyze the site comprehensively before making any design decisions. This checklist consolidates the key elements to assess.
 
 ## Broad Scale Context
 
@@ -29,7 +29,7 @@ Before analyzing the specific site, understand its place in the larger landscape
 - **County and local jurisdiction**
 - **Nearby towns, cities, roads**
 - **Nearby hazards**: Trash dumps, industrial sites, sources of pollution
-- **Nearby resources**: Forests, quarries, [[fukuoka-textdoc-agricultural-land-law-obstruction-return-farming]], community assets
+- **Nearby resources**: Forests, quarries, agricultural land, community assets
 - **Neighbor relationships**: Existing and potential collaborations or conflicts
 
 ## Client Interview
@@ -51,7 +51,7 @@ Every design serves a client (even if that is yourself):
 Essential climate information for any design:
 
 - **Solar data**: Solar altitude and azimuth angles for summer and winter solstices
-- **Temperature**: Average high and low temperatures; extreme highs and lows; frost dates and [[savory-growing-season-and-non-growing-season-management]] length
+- **Temperature**: Average high and low temperatures; extreme highs and lows; frost dates and growing season length
 - **Precipitation**: Average annual rainfall; monthly rainfall distribution; extreme rainfall events
 - **Wind**: Direction and speed of prevailing summer winds; direction and speed of prevailing winter winds; storm wind patterns
 - **Humidity**: Average high and low humidity levels
@@ -86,7 +86,7 @@ Essential climate information for any design:
 - **Soil structure**: Granular, platy, blocky, single grain
 - **Soil depth**: Depth to bedrock or hardpan
 - **pH**: Acid or alkaline, and by how much
-- **[[hamilton-composting-and-organic-matter-management]] content**: Percentage of humus
+- **Organic matter content**: Percentage of humus
 - **Fertility**: Levels of nitrogen, phosphorus, potassium, and trace minerals
 - **Infiltration rate**: How quickly water enters the soil (test at multiple locations)
 - **Compaction**: Evidence of compaction from foot traffic, machinery, or grazing
@@ -129,7 +129,7 @@ Research the historical patterns of the site:
 - **Existing buildings**: Condition, orientation, materials
 - **Utilities**: Water, electricity, gas, internet
 - **Fencing**: Condition, materials, purpose
-- **Structures**: Sheds, greenhouses, barns, [[permaculture-designers-manual-animal-housing-detailed]]
+- **Structures**: Sheds, greenhouses, barns, animal housing
 - **Waste systems**: Septic, greywater, composting
 
 ## Inventories
@@ -138,12 +138,13 @@ Create lists of existing on-site resources:
 
 - Plants and their functions
 - Animals (domestic and wild)
-- Potential [[natural-building-materials-guide]] (timber, stone, earth)
-## Related Concepts
+- Potential building materials (timber, stone, earth)
+- Salvageable materials
+- Water sources and storage
+- Available labor and skills
+- Community resources and networks
 
-- [[permaculture-site-analysis]]
-- [[permaculture-mapping-and-reading-the-landscape]]
-- [[permaculture-design-methods]]
-- [[zone-sector-analysis-guide]]
-- [[permaculture-slope-analysis-and-reading]]
-- [[permaculture-climate-classification]]
+## Ecological Design Checklist
+
+Williams recommends evaluating the design against these criteria:
+

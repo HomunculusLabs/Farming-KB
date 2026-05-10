@@ -141,10 +141,8 @@ treating symptoms rather than causes. His emphasis on soil microbiology — noti
 one gram of soil on his farm contained about 100 million nitrogen-fixing bacteria and
 other soil-enriching microbes — anticipated the modern revolution in understanding the
 soil microbiome by decades. Natural farming's radical simplicity, its elimination of
-petroleum inputs, and its capacity to produce food with minimal labor make it a
+
 ## See Also
 - [[fukuoka-sowing-natural-farming-philosophy]]
 - [[natural-farming-energy-efficiency-vs-scientific-agriculture]]
-
-## See Also
 - [[masanobu-fukuoka-natural-farming-philosophy]]

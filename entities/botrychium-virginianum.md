@@ -131,6 +131,8 @@ emergence limit its horticultural popularity.
 
 ## See Also
 
+- [[centrosema-virginianum]]
+
 - [[botrychium-lunaria]]
 - [[polypodium-vulgare]]
 - [[pteridium-aquilinum]]

@@ -128,12 +128,7 @@ and bulbous stem base. Any mushroom matching this description in conifer forests
 should be treated as potentially deadly until proven otherwise.
 
 ## See Also
-
 - [[cortinarius-orellanus]]
-
-- [[cortinarius-cinnamomeus]] — non-toxic *Cortinarius* for comparison
-- [[galerina-marginata]] — another deadly lookalike genus containing amatoxins
-
-## See Also
-
+- [[cortinarius-cinnamomeus]]
+- [[galerina-marginata]]
 - [[emcdda-wild-mushroom-foraging-misidentification-hazards]]

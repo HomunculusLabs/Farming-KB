@@ -1,5 +1,5 @@
 ---
-title: permaculture-designers-manual-cold-climate-design Gardening
+title: Cold Climate Gardening
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: [raw/papers/the-ultimate-guide-to-natural-farming-and-sustainable-livin
 
 # Cold Climate Gardening
 
-Growing food in cold climates (zones 3-6) requires specific strategies: [[comparison-season-extension-techniques-vs-cold-frame-gardening]], cold-hardy varieties, [[query-what-is-succession-planting-and-how-do-i-plan-a-succession-planting-schedule]], and protected cultivation. Drawn from [[nicole-faires]]' comprehensive manual.
+Growing food in cold climates (zones 3-6) requires specific strategies: season extension, cold-hardy varieties, succession planting, and protected cultivation. Drawn from [[nicole-faires]]' comprehensive manual.
 
 ## Zone 5-6 Growing Season
 
@@ -31,7 +31,7 @@ The key challenge is maximizing production within a short growing season while e
 | Brussels sprouts | 0F (-18C) | Best after hard frost |
 | Parsnips | 0F (-18C) | Can overwinter in ground |
 | Carrots | 15F (-9C) | Mulch heavily, harvest through winter |
-| Leeks | 5F (-15C) | Hunch for [[coleman-claytonia-winter-harvest-cultivation]] |
+| Leeks | 5F (-15C) | Hunch for winter harvest |
 | Garlic | N/A | Planted fall, harvested summer |
 | Shallots | 0F (-18C) | Mulch and leave in ground |
 | Mache (corn salad) | 5F (-15C) | Excellent winter green |
@@ -138,12 +138,13 @@ See [[greenhouse-design]] for detailed construction.
 | Aug 1 | Spinach, lettuce, radishes | Direct sow, cover later |
 | Aug 15 | Asian greens, mache, claytonia | Direct sow under cold frame |
 | Sep 1 | Garlic (plant) | Plant cloves 2-3 inches deep, mulch heavily |
-## Related Pages
+| Sep 15 | Spinach (overwintering) | Direct sow under cold frame |
+| Oct 1 | Mulch all winter crops | After first hard freeze |
 
-- cold climate gardening -- Techniques and winter production
-- [[season-extension-techniques]] -- Season extension construction
-- [[greenhouse-design]] -- Greenhouse types and construction
-- [[seed-starting-reference]] -- Indoor seed starting
-- [[raised-bed-gardening]] -- Raised [[hugelkultur-bed-construction-detailed]]
-- [[food-preservation-canning]] -- Storing the harvest
-- [[edge-effect-and-microclimate]] -- [[mollison-designers-microclimate-creation-frost-protection]]
+### Crop Rotation by Year
+
+Rotate crop families to prevent disease and pest buildup:
+
+- Year 1: Nightshades (tomatoes, peppers, potatoes, eggplant)
+- Year 2: Legumes (beans, peas)
+- Year 3: Brassicas (cabbage, broccoli, cauliflower, kale)

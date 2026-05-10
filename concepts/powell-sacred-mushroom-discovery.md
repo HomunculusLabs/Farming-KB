@@ -12,7 +12,7 @@ type: concept
 
 ## Introduction
 
-The discovery of the sacred [[emcdda-psilocybin-mushroom-dose-and-effects]] by Robert Gordon
+The discovery of the sacred [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] by Robert Gordon
 Wasson represents one of the most significant events in the history of
 ethnobotany and the modern psychedelic movement. Wasson, a vice-
 president of a Wall Street banking firm, spent over thirty years in

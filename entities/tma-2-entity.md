@@ -9,7 +9,7 @@ sources:
 ---
 # TMA-2
 
-TMA-2 (2,4,5-Trimethoxyamphetamine) is a classic psychedelic amphetamine that played a pivotal role in [[mescaline-entity]]|mescaline on a weight basis.
+TMA-2 (2,4,5-Trimethoxyamphetamine) is a classic psychedelic amphetamine that played a pivotal role in [[mescaline]]|mescaline on a weight basis.
 
 The compound has a relatively rapid onset compared to longer-acting DOX compounds.
 

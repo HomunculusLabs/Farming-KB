@@ -138,7 +138,6 @@ to slow the mad onslaught of scientific agriculture." Even organic farming, he
 considered "just another type of scientific farming" — a rehashing of
 animal-based traditional farming that will eventually be assimilated by
 scientific agriculture.
-
 ## See Also
 
 - Fukuoka's Do-Nothing Philosophy and Mu

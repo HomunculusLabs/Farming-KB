@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - J. S. Maini (1960). "Taxonomy and distribution of Populus grandidentata." Canadian Journal of Botany 38: 769–785.
   - B. V. Barnes & W. H. Wagner (2004). "Michigan Trees." University of Michigan Press.
-  - USDA Forest Service (2024). "Silvics of [[psilocybin-north-america-pacific-northwest]]: Populus grandidentata." fs.usda.gov.
+  - USDA Forest Service (2024). "Silvics of psilocybin-north-america-pacific-northwest: Populus grandidentata." fs.usda.gov.
   - G. W. Argus (2010). "Salicaceae." In Flora of North America, Vol. 7. Oxford University Press.
   - R. D. Guldin (1983). "Bigtooth aspen." In R. M. Burns, tech. comp., "Silvicultural Systems for the Major Forest Types of the United States." USDA Agric. Handb. 445.
 ---

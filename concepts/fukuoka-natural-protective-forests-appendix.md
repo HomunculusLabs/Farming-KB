@@ -74,6 +74,8 @@ be used.
 
 ## See Also
 
+- [[blesching-thc-heart-protective-mechanisms-myocardial-protection]]
+
 - [[fukuoka-wood-preserve-shelterbelt-design]]
 - [[fukuoka-soil-building-method]]
 - [[fukuoka-clover-and-green-manure-cropping]]

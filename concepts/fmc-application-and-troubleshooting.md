@@ -24,7 +24,7 @@ sources:
 
 # FMC Application and Troubleshooting
 
-[[ingham-compost-tea-application-rates-and-timing]], soil treatment solution (SOS), Carandang's bokashi alternative, and troubleshooting for [[cho-fermented-mixed-compost-methods]] Compost. See [[fermented-mixed-compost-fmc]] for the two FMC methods and quality indicators.
+Application rates, soil treatment solution (SOS), Carandang's bokashi alternative, and troubleshooting for Fermented Mixed Compost. See [[fermented-mixed-compost-fmc]] for the two FMC methods and quality indicators.
 
 ## Application Rates
 
@@ -64,13 +64,13 @@ Mix and let stand 3-5 hours for microorganisms to propagate, then apply with FMC
 
 From the IMO/bionutrients paper — a simplified rapid composting method:
 
-1. Mix rice bran with IMO/BIM (beneficial [[beneficial-indigenous-microorganisms-bim]]) at 1:20 dilution
+1. Mix rice bran with IMO/BIM (beneficial indigenous microorganisms) at 1:20 dilution
 2. Add molasses as energy source
 3. Pack tightly in anaerobic container or pit
 4. Ferment 2-4 weeks (anaerobic — unlike aerobic FMC)
 5. Result: sweet-smelling, fermented organic matter
 6. Bury in garden beds 2 weeks before planting
-7. Functions as pre-digested organic matter — faster [[ph-and-nutrient-availability-garden-soils]] than traditional compost
+7. Functions as pre-digested organic matter — faster nutrient availability than traditional compost
 
 Bokashi complements FMC — use bokashi for rapid processing of kitchen scraps, FMC for larger-scale field composting.
 
@@ -84,7 +84,7 @@ FMC directly builds [[soil-food-web-nutrient-cycling]] diversity by:
 - Feeding bacteria, fungi, protozoa, and nematodes simultaneously
 
 The charcoal in FMC is particularly important — it provides:
-- Porous [[query-how-do-i-design-habitat-for-beneficial-insects]] microbes
+- Porous habitat for beneficial microbes
 - Adsorption of toxins and excess nutrients
 - Water retention in sandy soils
 - Slow-release of minerals
@@ -107,4 +107,4 @@ The charcoal in FMC is particularly important — it provides:
 - [[knf-preparations]] — KNF inputs used in FMC
 - [[compost-tea-aact]] — Compost tea as liquid FMC extension
 - [[bokashi]] — EM bokashi as alternative approach
-- [[soil-food-web-nutrient-cycling]] — [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]] from FMC
+- [[soil-food-web-nutrient-cycling]] — Nutrient cycling from FMC

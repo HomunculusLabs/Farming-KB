@@ -9,7 +9,7 @@ sources: []
 
 # Green Roofs and Living Walls
 
-Green roofs and living walls integrate vegetation into building envelopes, providing insulation, stormwater management, biodiversity habitat, and aesthetic benefits. They are advanced [[water-management]] and [[williams-pdc-ecological-design-principles]] techniques that connect buildings to natural systems.
+Green roofs and living walls integrate vegetation into building envelopes, providing insulation, stormwater management, biodiversity habitat, and aesthetic benefits. They are advanced [[water-management]] and ecological design techniques that connect buildings to natural systems.
 
 ## Green Roof Types
 
@@ -76,7 +76,7 @@ A middle ground combining features of both extensive and intensive systems.
 - Native grasses (little bluestem, prairie dropseed in deeper substrates)
 
 **Intensive roofs** (deeper soil, irrigation available):
-- Ornamental grasses, perennials, [[holzer-medicinal-and-culinary-herbs-compendium]]
+- Ornamental grasses, perennials, culinary herbs
 - Dwarf fruit trees in large planters
 - Vegetables in raised beds set on the roof surface
 - Native wildflower meadows
@@ -113,7 +113,7 @@ A middle ground combining features of both extensive and intensive systems.
 - Plants grow without soil in nutrient-infused water
 - Recirculating water system with pump and reservoir
 - Clean, no soil mess (good for indoor walls)
-- Requires electricity, monitoring, and [[green-cannabis-grow-bible-nutrient-management-ppm]]
+- Requires electricity, monitoring, and nutrient management
 - Higher maintenance than soil-based systems
 
 ## Living Wall Plant Selection
@@ -123,7 +123,7 @@ A middle ground combining features of both extensive and intensive systems.
 - Spider plant (Chlorophytum comosum): Easy, adaptable, produces offsets
 - Peace lily (Spathiphyllum): Shade tolerant, removes air pollutants
 - Ferns (Boston fern, bird's nest fern): Require humidity
-- Philodendron: Multiple species, various [[growing-gourmet-light-requirements-mushroom-fruiting]]
+- Philodendron: Multiple species, various light requirements
 - Fittonia: Colorful foliage, compact, needs humidity
 
 ### Outdoor Living Walls
@@ -137,13 +137,14 @@ A middle ground combining features of both extensive and intensive systems.
 ## Benefits
 
 - **Stormwater management**: Absorbs 50-90% of rainfall, reducing runoff and combined sewer overflows
-- **[[fukuoka-textdoc-energy-efficiency-agricultural-labor]]**: Insulates buildings, reducing heating and cooling costs by 10-30%
+- **Energy efficiency**: Insulates buildings, reducing heating and cooling costs by 10-30%
 - **Urban heat island mitigation**: Evapotranspiration cools ambient air
 - **Biodiversity**: Provides habitat for pollinators, birds, and invertebrates in urban areas
-- **[[cervantes-air-quality-ventilation]]**: Filters particulates and absorbs pollutants
+- **Air quality**: Filters particulates and absorbs pollutants
+- **Aesthetics**: Transforms barren surfaces into living landscapes
+- **Membrane protection**: Green roofs can double the lifespan of waterproof membranes by shielding from UV
+
 ## See Also
 
 - [[vertical-gardening-guide]]
 - [[rain-garden-design]]
-- [[container-gardening-guide]]
-- [[xeriscaping-guide]]

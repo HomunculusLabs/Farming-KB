@@ -138,12 +138,8 @@ The legal status of 4-AcO-DMT varies by country and is subject to rapid change:
 ## Clinical and Therapeutic Potential
 
 As interest in psychedelic-assisted psychotherapy expands, 4-AcO-DMT is being considered alongside psilocybin as a potential therapeutic compound:
-## See Also
-
-- [[psilocin]] — Active metabolite of both psilocybin and 4-AcO-DMT
-- [[dmt]] — N,N-Dimethyltryptamine, the parent compound of the 4-substituted tryptamines
-- 5 ht2a receptor — Primary receptor target mediating psychedelic effects
 
 ## See Also
-
+- [[psilocin]]
+- [[dmt]]
 - [[psychedelic-drug-testing-and-adulterant-screening]]

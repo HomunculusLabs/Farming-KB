@@ -3,7 +3,7 @@ title: Fungal Phylogeny and Systematics
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [mycology, fungi]
+tags: [mycology, [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification|fungi]]]
 sources: []
 ---
 # Fungal Phylogeny and Systematics ## Overview Fungal systematics — the science of classifying and naming fungi [[fungal-species-concept-and-taxonomy]]ary relationships and develop natural classification systems. Despite significant progress, fungal systematics remains challenging due to the enormous undocumented diversity and the prevalence of convergent morphologies.
@@ -12,7 +12,7 @@ sources: []
 
 ### Kingdom-Level Relationships
 
-Molecular evidence firmly places Kingdom Fungi as a monophyletic group most closely related to Metazoa (animals), possibly through a choanoflagellate-like common ancestor. Microsporidia, once considered protozoa, are now recognized as a sister group to Fungi. Together with Metazoa, these groups form a well-supported monophyletic clade.
+[[molecular-methods-fungal-taxonomy-and-diversity|Molecular]] evidence firmly places Kingdom Fungi as a monophyletic group most closely related to Metazoa (animals), possibly through a choanoflagellate-like common ancestor. Microsporidia, once considered protozoa, are now recognized as a sister group to Fungi. Together with Metazoa, these groups form a well-supported monophyletic clade.
 
 ### Major Lineages Within Fungi
 

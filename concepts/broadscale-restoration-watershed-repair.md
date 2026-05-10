@@ -3,13 +3,13 @@ title: urban-broadscale-restoration-watershed-repair and Watershed Repair
 created: 2026-04-26
 updated: 2026-04-24
 sources:
-  - ~/wiki/raw/papers/urban-permaculture-guerilla-gardening.md
+  - ~/wiki/raw/papers/urban-permaculture-plants-aquatic-systems-water-plants|permaculture-guerilla-gardening.md
 type: concept
 tags: [forest-restoration, water]
 ---
 # Broadscale Restoration and Watershed Repair
 Broadscale restoration is the large-scale repair of degraded landscapes through
-simple, low-cost interventions that slow water flow, rebuild soil, and allow
+simple, low-cost interventions that slow water flow, rebuild [[soil-erosion-control-and-landscape-restoration|soil]], and allow
 natural systems to recover. Rather than expensive engineering projects, it
 relies on understanding natural patterns of water flow and plant succession to
 restore ecological function to damaged watersheds. This approach is central to

@@ -113,9 +113,9 @@ Further research with controlled soil conditions is needed
 to disentangle microbiome effects from edaphic confounds.
 
 ## See Also
-
 - [[cannabis-two-tier-microbiome-selection]]
 - [[two-tier-selection-model]]
+- [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
 
 ## Sources
 

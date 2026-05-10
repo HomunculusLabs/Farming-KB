@@ -122,6 +122,10 @@ Together, these molecules form the endogenous ligand complement to the cannabino
 
 ## See Also
 
+- [[endocannabinoid-five-ligands-blesching]]
+
+- [[blesching-cannabis-gateway-theory-and-addiction-debate]]
+
 - [[anandamide-bliss-molecule]]
 - [[cannabis-endocannabinoid-system]]
 - [[cannabinoid-receptor-pharmacology]]

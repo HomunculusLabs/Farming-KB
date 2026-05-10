@@ -5,7 +5,6 @@ tags: [harm-reduction, dosage, psilocybin, preparation, safety]
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 type: concept
 ---
@@ -53,7 +52,7 @@ in the gastrointestinal tract to pass through unaltered.
 ## Psilometric Potency Scale
 
 Stamets provides a psilometric scale rating the relative potency of
-various [[emcdda-psilocybin-mushroom-species-and-identification]]. The scale is based on maximum
+various [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]]. The scale is based on maximum
 reported concentrations of psilocybin and psilocin per dry weight. Key
 findings include:
 

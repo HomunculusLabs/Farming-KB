@@ -4,7 +4,7 @@ created: 2026-04-26
 updated: 2026-05-09
 type: concept
 tags: [mycology, mushroom-cultivation, contaminants, identification, stamets]
-sources: sources: []
+sources: []
 ---
 
 # Mushroom Contaminant Identification Key
@@ -141,7 +141,6 @@ It produces bright orange-pink mycelium and spores that are easily
 spread by air movement.
 
 While less destructive than Trichoderma, Neurospora can still ruin
-entire crops through rapid colonization of exposed substrate.
 ## See Also
 - [[nineteenth-century-mushroom-identification]]
 - [[mushroom-contamination-identification]]

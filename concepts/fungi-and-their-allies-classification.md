@@ -4,8 +4,7 @@ created: 2026-04-21
 updated: 2026-04-21
 type: concept
 tags: [mycology, fungi]
-sources:
-  sources: []
+sources: []
 ---
 # Fungi and Their Allies — Classification Overview Fungi are heterotrophic organisms that permeate our environment. With few exceptions fungi have filamentous bodies enclosed by cell walls, are nonmotile, and reproduce both sexually and asexually by spores. During the last decade, mycologists have made unprecedented progress toward producing a phylogenetic classification of fungi; a skeleton phylogeny based on analyses of DNA characters was developed relatively early on (Bruns et al. 1991). The term "fungi and their allies" reflects the historical inclusion of several groups now known to belong to separate evolutionary lineages. Traditional mycology encompassed all spore-producing organisms that were not clearly plants or animals, including groups now placed in Chromista and Amoebozoa. ## Kingdom Fungi The true fungi constitute a kingdom-level taxon through a choanoflagellate-like ancestor (Barr 1992; Bruns et al. 1992; Wainright et al. 1993). Key phyla include: - **Phylum Chytridiomycota (Zoosporic Fungi):** Early-diverging fungi with flagellated spores. These aquatic or soil-dwelling fungi are among the most basal lineages in the fungal tree of life and include both saprotrophic and parasitic species. For more detail, see [[glomeromycota-arbuscular-mycorrhizae]] for details.
 

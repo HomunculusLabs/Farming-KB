@@ -52,13 +52,12 @@ constructed to exclude.
 
 ## Implications for Understanding Consciousness
 
-- [DMT Black Hole Effect and Ineffability of Tryptamine 
-Experience](dmt-black-hole-effect-and-ineffability-of-tryptamine-experience.md)
+- [[dmt-black-hole-effect-and-ineffability-of-tryptamine-experience|DMT Black Hole Effect and Ineffability of TryptamineExperience]]
 - [[mckenna-tryptamine-hallucinogens-and-consciousness]] and 
 Consciousness](tryptamine-hallucinogens-and-consciousness.md)
 - [Quantum [[mckenna-quantum-mechanical-correlates-hallucinogenesis]] of 
 Hallucinogenesis](quantum-mechanical-correlates-hallucinogenesis-molecular-sensitivity.md)
-- [shamanic use of psychedelics](shamanic-use-of-psychedelics.md)
+- [[shamanic-use-of-psychedelics|shamanic use of psychedelics]]
 - [[terence-mckenna-tryptamine-hypothesis]] Consciousness DMT Spirit 
 Molecule](mckenna-tryptamine-consciousness-dmt-spirit-molecule.md)
 

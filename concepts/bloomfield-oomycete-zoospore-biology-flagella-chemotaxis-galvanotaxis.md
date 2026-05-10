@@ -42,6 +42,8 @@ On a molecular scale, the behavior of zoospores echoes the vitality observed in 
 
 ## See Also
 
+- [[aquatic-fungi-and-zoospore-biology]]
+
 - [[fungal-zoospore-biology-and-flagellate-motility]]
 - [[bloomfield-pythium-oomycete-water-molds]]
 ## Practical Considerations

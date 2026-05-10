@@ -112,6 +112,8 @@ The ultra-low effective dose identified in the Gartz study suggests that future 
 
 ## See Also
 
+- [[ultra-low-concentration-brassinosteroid-efficacy-hormetic-dose-response-fungi]]
+
 - [[brassinosteroid-growth-promotion-psilocybe-cubensis]] — Overview of the growth promotion findings
 - [[kh2po4-phosphate-supplementation-mushroom-substrates]] — Phosphate supplementation context
 - [[phytohormone-activity-in-fungi-steroid-growth-regulation]] — Cross-kingdom phytohormone activity

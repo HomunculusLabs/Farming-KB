@@ -13,7 +13,7 @@ sources:
   - Les, D.H. et al. (2006). "Phylogeny and systematics of Ceratophyllaceae." In: Monocots: Comparative Biology and Evolution, pp. 339-345. CSIRO Publishing.
   - Best, E.P.H. (1977). "Seasonal changes in mineral and organic components of Ceratophyllum demersum and Potamogeton pectinatus in relation to light intensity." Aquatic Botany, 3(2), 115-127.
   - Agami, M. & Reddy, K.R. (1990). "Phosphorus removal ability of aquatic macrophytes." Journal of Environmental Quality, 19(4), 652-657.
-  - Kutil, N. et al. (2015). "Ceratophyllum demersum in [[comparison-constructed-wetlands-vs-bioswales]]: a review of performance." Water Science and Technology, 71(6), 898-906.
+  - Kutil, N. et al. (2015). "Ceratophyllum demersum in comparison-constructed-wetlands-vs-bioswales: a review of performance." Water Science and Technology, 71(6), 898-906.
   - Wiegleb, G. (1988). "Analysis of flora and vegetation in rivers: concepts and applications." In: Symoens, J.J. (ed.), Vegetation of Inland Waters, pp. 311-340. Kluwer.
 ---
 
@@ -102,6 +102,8 @@ Propagation is simple: stem fragments root in the substrate or float freely. Reg
 In outdoor water gardens, hornwort provides seasonal shade and nutrient competition that helps control algal blooms. The plants are typically discarded at the end of the growing season in cold climates, as turion production is not reliable in shallow ornamental ponds.
 
 ## See Also
+
+- [[ceratophyllum-submersum]]
 
 - [[nuphar-lutea]]
 - [[azolla-filiculoides]]

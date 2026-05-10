@@ -1,6 +1,6 @@
 ---
 
-title: singh-fungal-bioaugmentation-contaminated-soils and Inoculation
+title: Fungal Bioaugmentation and Inoculation
 created: 2026-04-11
 updated: 2026-04-12
 type: concept
@@ -60,7 +60,7 @@ Laboratory studies use pure cultures, controlled environments, single chemicals,
 - Promising for cost-effective scale-up
 
 ### Pelleted Spawn
-- Traditional [[accessible-mushroom-cultivation-for-disabilities]] technique adapted for remediation
+- Traditional mushroom cultivation technique adapted for remediation
 - Mycelium grown on sterilized grain (rye, millet) or wood substrate
 - Can be incorporated directly into contaminated soil
 - Non-pelleted P. chrysosporium gave higher activity than pelleted at 24°C; pelleted was better at 39°C
@@ -72,16 +72,16 @@ Laboratory studies use pure cultures, controlled environments, single chemicals,
 | Alginate beads | Excellent (refrigerated) | High | Moderate | Best lab results; expensive at scale |
 | Agarose | Good | High | Moderate | Comparable to alginate |
 | Carrageenan | Good | Moderate | Moderate | -- |
-| Chitosan | Variable | Moderate | Moderate | [[mycelium-running-mushroom-antimicrobial-properties-species-chart]] may inhibit some fungi |
+| Chitosan | Variable | Moderate | Moderate | Antimicrobial properties may inhibit some fungi |
 | Wheat gluten (Pesta) | Good (compatible species) | Low | Easy | Incompatible with some white-rot fungi |
-| Rice/[[comparison-grain-spawn-vs-grain-to-grain-transfer]] | Good | Low | Easy | Traditional method; requires sterilization |
+| Rice/grain spawn | Good | Low | Easy | Traditional method; requires sterilization |
 
 ## Key Findings from Field Studies
 
 - Alginate-embedded P. chrysosporium gave more rapid and reproducible TNT toxicity test results than mycelial plugs (Loomis et al. 1997)
 - Neither P. chrysosporium nor T. versicolor with high biological potential removed PCP from contaminated soil more efficiently than pellets with lower biological potential (Lestan et al. 1996) -- suggesting formulation and field adaptation matter more than raw enzyme capacity
 - Fertilizer addition (nitrogen + phosphorus) did NOT increase benzo[a]pyrene removal by M. troyanus (Nemergut et al. 2000)
-- Marasmiellus troyanus, isolated from a toxic waste site, completely degrades benzo[a]pyrene in [[comparison-liquid-culture-vs-grain-spawn]] and ~90% from soil microcosms
+- Marasmiellus troyanus, isolated from a toxic waste site, completely degrades benzo[a]pyrene in liquid culture and ~90% from soil microcosms
 
 ## Recommendations for Field Deployment
 

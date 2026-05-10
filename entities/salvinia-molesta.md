@@ -12,7 +12,7 @@ date: 2026-05-08
 updated: 2026-05-08
 sources:
   - Room, P.M. (1990). "Ecology of a simple plant-herbivore system: Salvinia molesta." Biological Journal of the Linnean Society, 40(2), 125-136.
-  - Julien, M.H. et al. (2009). "Salvinia molesta D.S. Mitch." In: [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique]] of Tropical Weeds Using Arthropods, Cambridge University Press.
+  - Julien, M.H. et al. (2009). "Salvinia molesta D.S. Mitch." In: fukuoka-textdoc-biological-control-fallacy-pheromone-critique of Tropical Weeds Using Arthropods, Cambridge University Press.
   - McFarland, D.G. et al. (2004). "Salvinia molesta: assessment and management." Aquatics, 26(3), 6-10.
   - Nelson, L.S. (2003). "Salvinia molesta." USDA-ARS, GRIN Taxonomy. https://npgsweb.ars-grin.gov/
 ---

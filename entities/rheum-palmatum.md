@@ -25,7 +25,7 @@ sources:
   - Huang, K.C. (1999). "The Pharmacology of Chinese Herbs." CRC Press.
   - Crownover, R.J. (2010). "Rheum palmatum: A Review of Botany,
     Chemistry, and Pharmacology." Journal of Ethnopharmacology.
-  - Li, T.K. (1974). "An Introduction to Chinese [[herbal-materia-medica]]."
+  - Li, T.K. (1974). "An Introduction to Chinese herbal-materia-medica."
     Chinese Medicine Publishing.
   - Rhee, M.H. et al. (2017). "Rhubarb (Rheum spp.): Chemistry and
     Pharmacology." In: Medicinal and Aromatic Plants of the World.

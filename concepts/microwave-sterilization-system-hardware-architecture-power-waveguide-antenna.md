@@ -142,8 +142,8 @@ magnetrons, additional antenna elements, or multiple irradiation cycles.
 Smaller or more portable configurations can be achieved by reducing
 component size and power output. The fundamental operating parameters
 (2.45 GHz, trace water enhancement, 13.1 W-hr total dose) remain
-constant regardless of system scale.
 ## See Also
+
+- [[microwave-sterilization-power-density-calibration-3-6-w-cm2]]
 - [[microwave-sterilization-system-hardware-architecture]]
 - [[microwave-exposure-system-architecture-surface-sterilization]]
-- [[coaxial-power-splitter-waveguide-microwave-sterilization]]

@@ -1,5 +1,5 @@
 ---
-title: comparison-reciprocal-roof-vs-timber-frame Frame
+title: Reciprocal Roof Frame
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -9,7 +9,7 @@ sources: []
 
 # Reciprocal Roof Frame
 
-A reciprocal roof is a self-supporting roof structure where each rafter rests on and supports the next, forming a spiraling or circular arrangement. No central column or ridge beam is needed — the rafters mutually support each other through an interlocking pattern. This creates a striking, open interior space with a central oculus (opening) at the peak.
+A reciprocal [[comparison-reciprocal-roof-vs-timber-frame]] roof is a self-supporting roof structure where each rafter rests on and supports the next, forming a spiraling or circular arrangement. No central column or ridge beam is needed — the rafters mutually support each other through an interlocking pattern. This creates a striking, open interior space with a central oculus (opening) at the peak.
 
 ## How It Works
 
@@ -46,7 +46,7 @@ Reciprocal roofs are especially well-suited to roundwood (unmilled, whole logs o
 
 ### Selecting Roundwood
 
-- **Species:** Locust, oak, larch, Douglas fir, and [[holzer-sweet-chestnut-and-nut-trees]] are naturally rot resistant. Pine and spruce work but need more protection.
+- **Species:** Locust, oak, larch, Douglas fir, and sweet chestnut are naturally rot resistant. Pine and spruce work but need more protection.
 - **Diameter:** 4-8 inches at the butt end for most small to medium structures
 - **Length:** Determined by the building radius plus overhang
 - **Straightness:** Rafters should be reasonably straight; slight curves add character but must be accounted for
@@ -131,13 +131,11 @@ The reciprocal roof's round or polygonal shape and often organic geometry pair b
 
 ### Weight Considerations
 
-- Wet soil and plants add significant weight — typically 25-40 lbs per [[comparison-biointensive-vs-square-foot-gardening]]
+- Wet soil and plants add significant weight — typically 25-40 lbs per square foot
 - The reciprocal frame and wall system must be engineered to support this load
 - Consult an engineer for living roof designs
 
-## Related
-
-- [[comparison-reciprocal-roof-vs-timber-frame]] Concepts
+## Related Concepts
 
 - [[timber-frame-basics]] for traditional timber joinery and frame construction
 - [[natural-building-materials-guide]] for wall systems to pair with reciprocal roofs

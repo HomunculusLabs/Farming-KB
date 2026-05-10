@@ -142,7 +142,6 @@ very process by which nature creates strong and resilient plants.
 Fukuoka concludes that the future of agriculture lies not in further
 scientific advance but in a fundamental departure from the scientific
 worldview. Science, with its reductionist methods and its assumption that
-nature can be improved through human intervention, has led agriculture into
 ## See Also
   - [[comparison-zone-1-intensive-garden-vs-zone-5-wilderness]]
 

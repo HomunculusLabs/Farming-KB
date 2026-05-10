@@ -4,7 +4,7 @@ created: 2026-04-28
 tags: [permaculture, polyculture, companion-planting, plant-guilds]
 date: 2026-04-25
 updated: 2026-04-25
-sources: sources:
+sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
 type: concept
 ---
@@ -141,7 +141,6 @@ biomass plants, observation of [[hamilton-pest-and-disease-control-organic]] dyn
 successional replacement of short-lived species. Guilds mature over
 five to ten years, with early successional species gradually giving
 way to more permanent plantings as the system self-organises.
-Regular observation and responsive management during this
 ## See Also
 - [[apple-centered-guild-design]]
 - perennial polycultures

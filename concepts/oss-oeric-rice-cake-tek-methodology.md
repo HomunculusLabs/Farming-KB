@@ -31,7 +31,7 @@ print using a flame-sterilized inoculating loop and transferred to the
 agar surface. After 3-5 days, monokaryotic mycelium grows radially from
 inoculation points. When mycelia from different spores make contact,
 somatogamy occurs, establishing dikaryotic mycelium suitable for
-fruiting. See [[oss-oeric-spore-syringe-preparation]] for spore
+fruiting. See [[spore-syringe-preparation]] for spore
 handling techniques.
 
 ## Step 2: Growing Stock Inocula
@@ -104,5 +104,5 @@ and controlled fruiting environment remain unchanged. See
 ## Related Topics
 
 - [[oss-oeric-terrarium-design-and-humidity]] for fruiting chambers
-- [[oss-oeric-spore-syringe-preparation]] for spore handling
+- [[spore-syringe-preparation]] for spore handling
 - [[oss-oeric-equipment-and-materials-list]] for supplies

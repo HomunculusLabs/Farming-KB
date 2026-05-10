@@ -138,8 +138,9 @@ ecosystems:
 - **Sowing:** Direct sow after rains; seed rate 5–8 kg/ha
 - **Management:** Cut back periodically to encourage bushy regrowth;
   tolerates repeated cutting
-- **Pests:** Generally pest-resistant; occasional leafminer damage
 ## See Also
+
+- [[desmodium-paniculatum]]
 
 - [[glycyrrhiza-glabra]]
 - nitrogen-fixing-plants

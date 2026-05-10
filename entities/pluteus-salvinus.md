@@ -137,6 +137,6 @@ mushrooms from other genera.
   species found on wood, but with adnate gills, brown spore print, and
   distinctive odor; some *Inocybe* species contain dangerous levels of
   muscarine.
-- **[[baeocystin]] — A related [[emcdda-psilocybin-mushroom-dose-and-effects]] alkaloid often found
+- **[[baeocystin]] — A related [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] alkaloid often found
   co-occurring with psilocybin in psychoactive fungal species.
 - [[psilocybin]] — The primary psychoactive compound found across

@@ -135,7 +135,6 @@ predictable
 - **LSD**: Extended duration means that a difficult experience lasts many hours;
 extreme potency (active at microgram doses) increases risk of accidental
 overdose; broad receptor engagement introduces more unpredictable interactions
-
 ## See Also
 
 - [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]

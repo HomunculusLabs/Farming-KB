@@ -126,10 +126,6 @@ the synthetic chemicals of conventional agriculture without fundamentally changi
 the management-intensive paradigm.
 
 ## See Also
-
 - [[do-nothing-farming-method]]
 - [[permaculture-principles]]
-
-## See Also
-
 - [[natural-farming-vs-organic-vs-conventional]]

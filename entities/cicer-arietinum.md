@@ -13,7 +13,7 @@ updated: 2026-05-08
 sources:
   - van der Maesen LJG (1972). Cicer L., a Monograph of the Genus. Wageningen.
   - Singh KB, Diwakar BN (1995). "Chickpea breeding." Advances in Agronomy 54: 163–193.
-  - Jukanti AK, Gaur PM, Gowda CLL, Chibbar RN (2012). "[[coleman-winter-greens-nutritional-quality-cold-sweetening]] and health benefits of chickpea." British Journal of Nutrition 108(S1): S11–S26.
+  - Jukanti AK, Gaur PM, Gowda CLL, Chibbar RN (2012). "coleman-winter-greens-nutritional-quality-cold-sweetening and health benefits of chickpea." British Journal of Nutrition 108(S1): S11–S26.
   - Kassie M, Shiferaw B, Muricho G (2011). "Production and importance of chickpea." Field Crops Research 122(1): 1–13.
 ---
 

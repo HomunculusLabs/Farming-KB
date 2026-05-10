@@ -9,7 +9,7 @@ sources: [raw/papers/uwe-blesching-the-cannabis-health-index.md]
 
 # Cannabis for Anxiety Disorders
 
-The relationship between cannabis and anxiety is complex and dose-dependent. Low doses of THC and CBD can reduce anxiety, while high doses of THC can paradoxically increase it. This biphasic response is one of the most important concepts in therapeutic cannabis use.
+The relationship between cannabis and anxiety is complex and dose-dependent. Low doses of THC and CBD can reduce anxiety, while high doses of THC can paradoxically increase it. This biphasic response is one of the most important concepts in therapeutic [[cannabis-sleep-disorders]] cannabis use.
 
 ## The Dosing Paradox
 
@@ -21,7 +21,7 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 ### High Doses (15mg+ THC)
 - Can trigger panic attacks, paranoia, and increased anxiety
 - Overstimulation of CB1 in the amygdala
-- The "[[emcdda-bad-trip-phenomenology-psychiatric-intervention]]" phenomenon in susceptible individuals
+- The "bad trip" phenomenon in susceptible individuals
 
 ### CBD (any dose)
 - Consistently anxiolytic across dose ranges
@@ -51,14 +51,14 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 ### OCD
 - Evidence level: Limited
 - High-CBD strains may reduce compulsive behaviors
-- Anecdotal evidence stronger than [[mushroom-cancer-clinical-trials-overview]]
+- Anecdotal evidence stronger than clinical trials
 
 ## Recommended Approach
 
 1. **Start with CBD-only products** — no risk of anxiety increase
-2. **If THC is needed**, use very low doses (1-2.5mg) with CBD in 1:1 or higher [[cannabis-thc-cbd-ratio-guide-for-conditions]]
+2. **If THC is needed**, use very low doses (1-2.5mg) with CBD in 1:1 or higher CBD ratio
 3. **Avoid high-THC strains** if anxiety is the primary condition
-4. **[[blesching-cannabis-strain-selection-receptor-targeting]]**: High-linalool, high-caryophyllene strains (e.g., ACDC, Harlequin, Cannatonic)
+4. **Strain selection**: High-linalool, high-caryophyllene strains (e.g., ACDC, Harlequin, Cannatonic)
 5. **Terpenes matter**: Linalool (anxiolytic), limonene (mood elevation), myrcene (sedation)
 
 ## Contraindications
@@ -71,21 +71,3 @@ The relationship between cannabis and anxiety is complex and dose-dependent. Low
 - [[cannabis-endocannabinoid-system]] — for mechanism
 - [[cannabis-cbd-therapeutic-profile]] — for CBD specifics
 - [[cannabis-for-sleep-disorders]] — for anxiety-related insomnia
-## Practical Considerations
-
-Successful implementation of Cannabis for Anxiety Disorders requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.

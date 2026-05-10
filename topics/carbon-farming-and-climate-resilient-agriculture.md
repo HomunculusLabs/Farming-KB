@@ -104,7 +104,6 @@ decomposition.
 
 Fungi are the unsung heroes of soil carbon cycling. In most soils, fungal
 biomass dominates the decomposer community. In grassland soils, fungi
-comprise an estimated 78 to 90 percent of total decomposer biomass. In a
 ## See Also
 
 [[biointensive-carbon-farming]] -- Biointensive carbon crop methods

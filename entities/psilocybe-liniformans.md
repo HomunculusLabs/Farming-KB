@@ -5,7 +5,7 @@ type: species
 tags: [psilocybin-mushroom, agaricales, strophariaceae, temperate, grassland]
 date: 2026-04-28
 updated: 2026-04-28
-sources: sources: []
+sources: []
 ---
 
 # Psilocybe liniformans
@@ -107,7 +107,7 @@ sources: sources: []
 
 - While not as culturally prominent as Mexican Psilocybe species, P. liniformans has been documented in the European psychoactive mushroom literature since the 1970s
 - The European variety has been used recreationally, particularly in the Netherlands where it was one of the species known to mushroom enthusiasts before legislative changes
-- The American variety, discovered later, expanded understanding of [[emcdda-psilocybin-mushroom-dose-and-effects]] biodiversity in the Pacific Northwest
+- The American variety, discovered later, expanded understanding of [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] biodiversity in the Pacific Northwest
 - Both varieties have contributed to scientific understanding of the Psilocybe genus and its global distribution
 
 ## Conservation and Occurrence

@@ -10,7 +10,7 @@ sources: [/Users/t3erpz/wiki/raw/papers/cultivation-of-panaeolus-cyanescens-and-
 
 # Psilocybe verrucosa
 
-**Psilocybe verrucosa** is a [[emcdda-psilocybin-mushroom-dose-and-effects]] in the family Hymenogastraceae, described from subtropical forests of Mexico. The species epithet *verrucosa* (warty) refers to the distinctive roughened or warty ornamentation of the pileus surface, a character that helps distinguish it from other members of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Mexicanae with which it shares its habitat and general morphology.
+**Psilocybe verrucosa** is a [[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] in the family Hymenogastraceae, described from subtropical forests of Mexico. The species epithet *verrucosa* (warty) refers to the distinctive roughened or warty ornamentation of the pileus surface, a character that helps distinguish it from other members of [[guzman-allen-gartz-psilocybe-section-relationships-trans-pacific-disjunctions]] Mexicanae with which it shares its habitat and general morphology.
 
 ## Taxonomy
 

@@ -119,13 +119,7 @@ and broccoli can be adequately supported by moderate nitrogen fixers
 such as soybeans or Dutch white clover.
 
 ## See Also
-
 - [[cannabis-nitrogen]]
-- [[legume-nitrogen-yields-by-species]] provides specific data on the
-  nitrogen-fixing capacity of common legume crops.
-- [[holzer-green-manure-and-soil-building-plants]] [[fukuoka-clover-cover-cropping-soil-ecology]] strategies detail how to integrate
-  legumes into a soil-building rotation plan.
-
-## See Also
-
+- [[legume-nitrogen-yields-by-species]]
+- [[holzer-green-manure-and-soil-building-plants]]
 - [[query-how-do-legumes-add-nitrogen-to-soil]]

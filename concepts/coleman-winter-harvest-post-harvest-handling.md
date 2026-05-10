@@ -135,7 +135,6 @@ the higher prices winter vegetables command.
 Regular monitoring of storage temperatures and humidity
 levels ensures that conditions remain optimal throughout
 the holding period.
-
 ## See Also
 
 - [[coleman-cool-house-minimal-supplementary-heat]] — The

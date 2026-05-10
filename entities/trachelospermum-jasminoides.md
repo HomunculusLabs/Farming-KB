@@ -13,7 +13,7 @@ sources:
   - Bailey, L.H. & Bailey, E.Z. (1976). Hortus Third. Macmillan Publishing.
   - Valder, P. (1999). The Garden Plants of China. Timber Press.
   - Royal Horticultural Society. "Trachelospermum jasminoides." RHS Plant Explorer.
-  - Chen, S. et al. (2019). "[[query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms]] from Trachelospermum jasminoides flowers." Journal of [[permaculture-designers-manual-essential-oil-plants]] Research, 31(3), 215–222.
+  - Chen, S. et al. (2019). "query-how-do-fungal-volatile-compounds-affect-plant-growth-and-other-microorganisms from Trachelospermum jasminoides flowers." Journal of permaculture-designers-manual-essential-oil-plants Research, 31(3), 215–222.
 ---
 
 ## Overview

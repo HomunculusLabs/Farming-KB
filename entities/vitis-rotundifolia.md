@@ -14,7 +14,7 @@ sources:
   - Basiouny, F.M. & Himelrick, D.G. (2001). "Muscadine Grapes: Composition and Health Benefits." University of Arkansas Extension.
   - Conner, P.J. (2009). "Muscadine Grape Breeding and Genetics." In Kole, C. (ed.), Fruits. Springer.
   - Galet, P. (1979). A Practical Ampelography: Grapevine Identification. Cornell University Press.
-  - Ruelle, P. & Leclercq, P. (2022). "Vitaceae of the Southeastern [[dmt-containing-plants-united-states-halpern]]." Castanea, 87(3), 245–267.
+  - Ruelle, P. & Leclercq, P. (2022). "Vitaceae of the Southeastern dmt-containing-plants-united-states-halpern." Castanea, 87(3), 245–267.
 ---
 
 ## Overview

@@ -12,7 +12,7 @@ sources:
   - Hermosa R, Rubio MB, Cardoza RE, et al. The contribution of Trichoderma to the control of plant pathogens. Phytopathology Mediterranean. 2013;52(2):273-285.
   - Lorito M, Woo SL, Harman GE, et al. Translational research on Trichoderma: from omics to the field. Annual Review of Phytopathology. 2010;48:229-251.
   - Benítez T, Rincón AM, Limón MC, Codón AC. Biocontrol mechanisms of Trichoderma strains. International Microbiology. 2004;7(4):249-260.
-  - Shoresh M, Harman GE, Mastouri F. [[endophytic-mycorrhizal-induced-systemic-resistance]] resistance and plant responses to fungal biocontrol agents. Annual Review of Phytopathology. 2010;48:21-43.
+  - Shoresh M, Harman GE, Mastouri F. endophytic-mycorrhizal-induced-systemic-resistance resistance and plant responses to fungal biocontrol agents. Annual Review of Phytopathology. 2010;48:21-43.
   - Mukherjee PK, Buensanteai N, Horwitz BA, Kenerley CM. Functional characterization of Trichoderma virens genes involved in mycoparasitism. Molecular Plant-Microbe Interactions. 2013;26(6):625-635.
   - Alabouvette C, Olivain C, Steinberg C. Biological control of plant diseases: the European situation. European Journal of Plant Pathology. 2006;114(2):165-174.
   -Contreras-Cornejo HA, Macías-Rodríguez L, Cortés-Penagos C, López-Bucio J. Trichoderma-induced plant immunity likely involves both hormonal- and camalexin-dependent mechanisms in Arabidopsis thaliana and confers resistance against necrotrophic fungus Botrytis cinerea. Plant Signaling & Behavior. 2009;4(11):1081-1082.

@@ -16,7 +16,7 @@ sources:
   - Bown, D. (2001). "Encyclopedia of Herbs and Their Uses." DK Publishing.
   - Chevallier, A. (2016). "Encyclopedia of Herbal Medicine." 3rd ed. DK.
   - Wichtl, M. (2004). "Herbal Drugs and Phytopharmaceuticals." 3rd ed. MedPharm Scientific Publishers.
-  - Duke, J.A. (2002). "Handbook of [[permaculture-plants-medicinal-herbs-healing]]." 2nd ed. CRC Press.
+  - Duke, J.A. (2002). "Handbook of permaculture-plants-medicinal-herbs-healing." 2nd ed. CRC Press.
 created: 2026-04-28
 ---
 

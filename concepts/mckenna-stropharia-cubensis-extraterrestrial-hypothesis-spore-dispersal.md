@@ -12,7 +12,7 @@ tags: [mckenna, stropharia, extraterrestrial, panspermia, spore-dispersal, mycol
 Terence McKenna proposed one of the most provocative hypotheses in the study of
 psychoactive fungi: that *Stropharia cubensis* (now *[[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]*) may
 not have evolved on Earth. This idea emerged directly from experiences within the
-[[emcdda-psilocybin-mushroom-dose-and-effects]] trance, where McKenna reported being informed by what he
+[[emcdda-psilocybin-non-addictive-profile-tolerance-dynamics]] trance, where McKenna reported being informed by what he
 called "the mushroom consciousness" about its own origins and evolutionary
 strategy. The hypothesis combines elements of directed panspermia, fungal
 biology, and speculative astrophysics into a single framework for understanding

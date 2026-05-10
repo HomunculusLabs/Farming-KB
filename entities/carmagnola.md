@@ -16,19 +16,19 @@ sources:
   - https://en.wikipedia.org/wiki/Hemp
   - https://www.cannabis.ca.gov/resources/types-of-cannabis/
   - Callaway, J.C. (2004). "Hempseed as a nutritional resource." European Journal of Lipid Science and Technology, 106(7), 476-488.
-  - Andre, C.M. et al. (2016). "Hemp (*[[comparison-cannabis-sativa-vs-cannabis-indica]]* L.) and its specific compounds." European Journal of Agronomy, 76, 20-43.
+  - Andre, C.M. et al. (2016). "Hemp (*comparison-cannabis-sativa-vs-cannabis-indica* L.) and its specific compounds." European Journal of Agronomy, 76, 20-43.
   - European Industrial Hemp Association (EIHA) crop variety database
 ---
 # Carmagnola
 
 **Carmagnola** is an Italian **fiber-type hemp (*Canapa sativa*)** cultivar (landrace) originating from the Piedmont region of northern Italy, specifically the area around the town of Carmagnola in the province of Turin. It is one of the most historically significant and genetically distinct European hemp varieties, valued for its dual-purpose fiber and [[symbiotic-fungi-mycorrhizal-types-and-classification]]
 
-- **Species:** *Cannabis sativa* L.
+- **Species:** *[[blesching-cannabis-sativa-indica-classification]]* L.
 - **Subtype:** Fiber hemp (industrial hemp) — Group I (low THC)
 - **Botanical type:** Dioecious (separate male and female plants)
 - **Origin:** Piedmont, Italy
 - **Registration:** EU Common Catalogue; Italian National Register of Varieties
-- **THC content:** < 0.2% (EU compliant); typically 0.1–0.19%
+- **[[thc-content-factors-cultivation-freshness-storage-degradation-blesching]]:** < 0.2% (EU compliant); typically 0.1–0.19%
 - **CBD content:** 1.0–3.5% (exceptionally high for a fiber cultivar)
 
 ## Historical Background
@@ -70,7 +70,7 @@ The Piedmont region was one of the major hemp-producing areas in Europe from the
 - **Pistil [[cannabis-microbiome-soil-type-composition-strain-structure]]----|---------------|
 | Soil type | Loam to clay-loam; pH 6.0–7.5 |
 | Soil fertility | Medium-high; 80–120 kg/ha N |
-| Sowing density | 40–60 | Day-neutral flowering response (moderate) |
+| Sowing density | 40–60 | Day-neutral [[mollison-designers-day-length-and-flowering-response]] (moderate) |
 | Harvest | August–September (Northern Hemisphere) |
 
 ### Yield Data
@@ -87,8 +87,8 @@ The Piedmont region was one of the major hemp-producing areas in Europe from the
 
 Carmagnola shows moderate to good resistance to common hemp pathogens:
 
-- **Botrytis cinerea** ([[cervantes-gray-mold-botrytis-prevention]]): Moderate susceptibility during flowering in humid conditions
-- **Sclerotinia sclerotiorum**: Moderate resistance
+- **[[botrytis-cinerea]]** ([[cervantes-gray-mold-botrytis-prevention]]): Moderate susceptibility during flowering in humid conditions
+- **[[sclerotinia-sclerotiorum]]**: Moderate resistance
 - **Fusarium spp.**: Good resistance
 - **Puccinia cannabis** (hemp rust): Moderate resistance
 - **Insect pests:** Generally low pest pressure; occasional aphid (*Chrysomelidae*) and European corn borer (*Ostrinia nubilalis*) damage
@@ -104,7 +104,7 @@ Carmagnola is notable among fiber-type cultivars for its elevated CBD content:
 | CBD (cannabidiol) | 1.0–3.5% |
 | CBDa (cannabidiolic acid) | 0.5–2.0% |
 | THC (Δ9-tetrahydrocannabinol) | 0.05–0.19% |
-| THCa (tetrahydrocannabinolic acid) | 0.1–0.4% |
+| THCa ([[tetrahydrocannabinolic-acid-thca]]) | 0.1–0.4% |
 | CBC (cannabichromene) | 0.1–0.5% |
 | CBG (cannabigerol) | Trace–0.3% |
 | CBN (cannabinol) | Trace |

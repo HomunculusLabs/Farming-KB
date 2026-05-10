@@ -45,7 +45,7 @@ the exotic frame through which they approached the experience.
 The club's hashish supply came through an unusual channel. Psychiatrist J.J.
 Moreau de Tours, described by McKenna as a "world traveler," served as both
 supplier and intellectual guide. Moreau provided a jellied Algerian hashish
-called dawamesc -- a sweet, spice-laced confection combining cannabis resin
+called dawamesc -- a sweet, spice-laced confection combining [[cannabis-resin-production-and-quality-traits-clarke]]
 with sugar, pistachios, nutmeg, and other aromatics. Consumed orally rather
 than smoked, this preparation delivered the intense visionary effects that
 nineteenth-century hashish eaters sought.
@@ -82,11 +82,11 @@ several converging currents: Romanticism, with its attention to nature's
 "dramatic moods" and sensitivity critics found "feminine," bore "all the signs
 of an incipient partnership revival." Orientomania provided the exotic frame
 for understanding hashish. The "upper-class craze for opium and laudanum" had
-already accustomed intellectuals to altered states as sources of insight.
+already accustomed intellectuals to [[harner-shamanic-journey-and-altered-states]] as sources of insight.
 
 The legal atmosphere was strikingly permissive: "Opium and hashish were not
-controlled substances, and no opprobrium was attached to their use." Tobacco
-and coffee had become indispensable to European civilization, so the
+[[controlled-substances-act-and-psychedelic-research]], and no opprobrium was attached to their use." Tobacco
+and coffee had become indispensable to [[fukuoka-european-civilization-standstill]], so the
 "extravagant tales of travelers concerning narcotic raptures" naturally
 promoted cannabis experimentation. This openness contrasted sharply with the
 prohibitionist regime that would later suppress the same explorations.
@@ -116,7 +116,7 @@ stimulus to the European imagination."
 
 French administrators "failed utterly" to control cannabis production in
 Egypt; when sales were banned, Greek smugglers established a lucrative
-underground trade. This collision of scholarly interest with actual hashish
+[[neurotropic-fungi-underground-trade-legislation-guzman-1998]]. This collision of scholarly interest with actual hashish
 culture created conditions for the club's emergence. The
 [[mckenna-orientomania-and-european-discovery-of-hashish|Orientomania]]
 stimulated by Napoleon's scholars made hashish an intellectual fascination,
@@ -133,7 +133,7 @@ engagement with psychoactive experience.
 For McKenna, the club represented an early manifestation of the
 [[archaic-revival-partnership-vs-dominator-cultures|partnership values]] that
 cannabis promotes. The emphasis on beauty, visionary experience, and
-questioning of conventional reality ran counter to dominator culture's
+questioning of conventional reality ran counter to [[dominator-culture-and-partnership-society]]'s
 "nuts-and-bolts mentality." Their meetings were "private explorations by
 successful and respected literary figures" -- not social outcasts but cultural
 leaders expanding the boundaries of consciousness. In this, they prefigured

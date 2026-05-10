@@ -129,10 +129,7 @@ tested responded favorably to a single electrical pulse of 50,000-100,000 volts
 for one ten-millionth of a second. Yields of shiitake, nameko, and reishi
 doubled compared to controls. The electrical charge may trigger a defense
 mechanism causing more prolific fruiting. This may explain the phenomenon of
-## See Also
 
+## See Also
 - [[cotter-oyster-mushroom-cultivation]]
-
-## See Also
-
 - [[benjamin-minge-duggar-mushroom-cultivation-research]]

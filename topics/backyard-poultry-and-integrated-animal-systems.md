@@ -16,7 +16,7 @@ sources:
   - Bill Mollison, Permaculture: A Designers Manual
   - Bill Mollison, Permaculture Design Course
   - David Holmgren, Permaculture: Principles and Pathways Beyond Sustainability
-  - Nicole Faires, The Ultimate Guide to [[comparison-natural-farming-vs-permaculture]] and Sustainable Living
+  - Nicole Faires, The Ultimate Guide to comparison-natural-farming-vs-permaculture and Sustainable Living
   - Cho Han-Kyu, Cho's Global Natural Farming
   - Toby Hemenway, Gaia's Garden
 related_concepts:
@@ -110,7 +110,6 @@ a wide variety of feed sources into protein, and they perform multiple
 ecological functions simultaneously. A flock of chickens provides eggs, meat,
 feathers, fertilizer, pest control, and weed management from a modest
 investment of space and labour.
-
 ## See Also
 
 - chicken-integration-permaculture-guide — detailed chicken integration

@@ -5,7 +5,6 @@ updated: 2026-04-19
 type: concept
 tags: [reference]
 sources:
-  sources:
   - "raw/papers/the-mushroom-cultivator-stamets.md"
 ---
 
@@ -75,7 +74,9 @@ Unused wood chips were spread in depressions and near roads to reduce silt flow 
 
 ***
 
-## Related Topics
+## Related
+
+- [[mycoforestry-fungal-forest-restoration]] Topics
 
 - [[mycoforestry-forest-restoration]] — Broader forest restoration applications
 - [[brown-rot-white-rot-fungi-remediation]] — [[fungal-wood-decomposition-spatial-variation]] mechanisms

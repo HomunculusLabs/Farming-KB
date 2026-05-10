@@ -1,5 +1,5 @@
 ---
-title: shamanic-entheogenic-ceremony-structure-common-elements Preparation
+title: Entheogenic Ceremony Preparation
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -11,13 +11,13 @@ sources: []
 
 ## Overview
 
-[[metzner-variations-traditional-entheogenic-ceremonies-peyote-huichol-san-pedro-mazatec-amazonian-bwiti]] are structured, intentional settings in which psychoactive plants or fungi are consumed for healing, spiritual growth, or divination. Rooted in indigenous traditions from the Amazon, Mesoamerica, Africa, and elsewhere, these ceremonies have been adapted and adopted by contemporary communities worldwide. Proper preparation — physical, psychological, and logistical — is essential for safety and therapeutic benefit.
+Entheogenic ceremonies are structured, intentional settings in which psychoactive plants or fungi are consumed for healing, spiritual growth, or divination. Rooted in indigenous traditions from the Amazon, Mesoamerica, Africa, and elsewhere, these ceremonies have been adapted and adopted by contemporary communities worldwide. Proper preparation [[ayahuasca-preparation-and-ceremony]] — physical, psychological, and logistical — is essential for safety and therapeutic benefit.
 
 ## Physical Preparation
 
 ### Diet (La Dieta)
 
-Traditional Amazonian preparations involve dietary restrictions, often called "la dieta" or "the diet," typically followed for 1-4 weeks before ceremony:
+Traditional Amazonian preparations involve dietary restrictions, often called "la dieta" or "the diet," typically followed for 1-4 weeks before ceremony [[ayahuasca-preparation-and-ceremony]]:
 
 Foods to avoid:
 - Pork and red meat (considered heavy and interfering with the medicine)
@@ -130,7 +130,7 @@ A skilled facilitator is essential for ceremony safety. Key qualities and respon
 
 - Extensive personal experience with the medicine (years, not sessions)
 - Training in holding space for intense emotional experiences
-- Knowledge of contraindications and [[ayahuasca-tourism-medical-risks-prescription-interactions]]
+- Knowledge of contraindications and medical risks
 - Ability to remain grounded and present during others' crisis
 - Musical or ceremonial skills (icaros, prayer, chanting)
 - Clear boundaries — not a guru, healer, or authority figure
@@ -142,8 +142,14 @@ Red flags in facilitators:
 - Sexual or romantic boundary violations (persistent problem in the ceremony community)
 - Lack of medical screening
 - Pressure to participate or take larger doses
-## See Also
+- Isolation of participants from outside support
+- Resistance to integration support after ceremony
 
-- [[psychedelic-integration-guide]] — detailed post-ceremony integration practices
-- [[harm-reduction-guide]] — [[shulgin-safety-principles-self-experimentation]] applicable to ceremony participation
-- [[plant-medicine-ethics]] — ethical frameworks for engaging with indigenous traditions
+## Choosing a Ceremony
+
+Evaluation criteria for potential ceremony experiences:
+
+
+## See Also
+- [[virola-snuff-amazon-preparation-and-ceremony]]
+- [[shamanic-entheogenic-ceremony-structure-common-elements]]

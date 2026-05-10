@@ -113,10 +113,6 @@ technologies. Fukuoka's prescription was radical: stop intervening. Trust
 nature. The balance will restore itself if given the chance.
 
 ## See Also
-
 - [[fukuoka-rodenticide-ecosystem-disruption-chain]]
 - [[fukuoka-natural-pest-balance]]
-
-## See Also
-
 - [[fukuoka-textdoc-pesticide-ecological-cascade-forest-collapse]]

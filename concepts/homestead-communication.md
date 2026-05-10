@@ -9,13 +9,13 @@ sources: []
 
 # Homestead Communication
 
-Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication networks can fail entirely. This page covers amateur (ham) radio, [[homestead-internet-options]] for rural areas, satellite communication, and emergency communication planning.
+Reliable communication is a lifeline for rural homesteaders. Remote locations often lack cellular service and high-speed internet, and during emergencies, standard communication networks can fail entirely. This page covers amateur (ham) radio, internet options for rural areas, satellite communication, and emergency communication planning. (see [[land-selection-for-homesteading]]).
 
 ## Internet Options
 
 ### Satellite Internet
 
-Satellite is often the only viable option for remote homesteads. Technology has improved dramatically with low-earth-orbit (LEO) satellite constellations.
+Satellite is often the only viable option for remote homesteads. Technology has improved dramatically with low-earth-orbit (LEO) satellite constellations. (see [[hurricane-preparedness-guide]]).
 
 **Starlink:**
 - LEO constellation providing 50-200+ Mbps download speeds
@@ -71,7 +71,7 @@ If your homestead has landline phone service, DSL may be available:
 - Speeds typically 3-25 Mbps depending on distance from the telephone exchange
 - Limited by copper wire infrastructure
 - Declining availability as phone companies abandon copper networks
-- [[jadam-ultra-low-cost-agriculture]] ($30-50/month)
+- Low cost ($30-50/month)
 
 ## Amateur (Ham) Radio
 
@@ -141,9 +141,10 @@ Every homestead should have a dedicated emergency communication kit:
 - Whistle for signaling
 - Signal mirror
 - Flares or signal strobe
-## Related Concepts
 
-- [[mushroom-foraging-safety-guide]] — Emergency preparedness and risk management
-- [[homestead-security]] — Communication as part of the security posture
-- [[emergency-preparedness]] — Communication during extended power outages
-- [[emergency-preparedness]] — Emergency communication during evacuation scenarios
+### Emergency Frequencies
+
+- 146.520 MHz — National simplex calling frequency (ham)
+- 446.000 MHz — National UHF simplex calling frequency (ham)
+- Channel 19 (27.185 MHz) — CB emergency and trucker channel
+- FRS/GMRS Channel 1 — Family communication

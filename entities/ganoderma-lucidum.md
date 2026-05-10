@@ -15,7 +15,7 @@ sources:
   - https://pubmed.ncbi.nlm.nih.gov/?term=Ganoderma+lucidum
   - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7151632/
   - Paterson RR. "Ganoderma – a therapeutic fungal biofactory." Phytochemistry. 2006.
-  - Wasser SP. "[[comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive]] as a source of antitumor and immunomodulating polysaccharides." Appl Microbiol Biotechnol. 2002.
+  - Wasser SP. "comparison-chaga-vs-turkey-tail-medicinal-mushrooms-comprehensive as a source of antitumor and immunomodulating polysaccharides." Appl Microbiol Biotechnol. 2002.
 created: 2026-04-28
 ---
 
@@ -118,16 +118,8 @@ Modern applications include dietary supplements (capsules, tinctures, teas), fun
 *Ganoderma lucidum* is generally regarded as safe (GRAS) with minimal [[blesching-cannabis-safety-adverse-effects-evidence]]. Rare side effects include mild gastrointestinal discomfort and dry mouth. Caution is advised for patients on anticoagulant or antihypertensive medications due to potential interactions. Typical therapeutic doses range from 1.5–9 g of dried fruiting body per day, or equivalent extract concentrations standardized to polysaccharide and triterpenoid content.
 
 ## See Also
-
 - [[chroogomphus-rutilus]]
 - [[ischnoderma-resinosum]]
-
-- [[trametes-versicolor-entity]] — Turkey Tail mushroom
-- [[inonotus-obliquus]] — Chaga mushroom
-
-## See Also
-
-- [[chroogomphus-rutilus]]
-- [[ischnoderma-resinosum]]
-
+- [[trametes-versicolor-entity]]
+- [[inonotus-obliquus]]
 - [[cancer-medicinal-mushrooms-reishi-ganoderma-research]]

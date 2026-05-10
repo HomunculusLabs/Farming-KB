@@ -7,7 +7,7 @@ tags: [reference]
 sources: [/Users/t3rpz/wiki/raw/papers/cancer-treatments-medicinal-mushrooms.md]
 ---
 
-**Source:** [[woodlovers-mycelium-running-pathway-technique]] (Paul Stamets) | **Updated:** 2026-04-18
+**Source:** woodlovers-mycelium-running-pathway-technique (Paul Stamets) | **Updated:** 2026-04-18
 
 ## Overview
 

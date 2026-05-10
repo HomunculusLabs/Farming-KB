@@ -4,8 +4,7 @@ created: 2026-04-19
 updated: 2026-04-19
 type: concept
 tags: [remediation, environment]
-sources:
-  sources: []
+sources: []
 ---
 
 Updated: 2026-04-18

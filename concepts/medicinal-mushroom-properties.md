@@ -1,5 +1,5 @@
 ---
-title: [[ginseng-cultivation-and-medicinal-properties]] of fungi-cultivated-mushrooms-pathogens-competitors
+title: ginseng cultivation and medicinal properties of fungi-cultivated-mushrooms-pathogens-competitors
 created: 2026-04-28
 tags: [mycology, medicinal-mushrooms, health, biochemistry]
 date: 2026-04-28

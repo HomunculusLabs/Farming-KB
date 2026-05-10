@@ -26,11 +26,11 @@ sources:
 
 # Oriental Herbal Nutrient (OHN)
 
-OHN is a medicinal herbal tincture in Korean [[comparison-natural-farming-vs-permaculture]]. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
+OHN is a medicinal herbal tincture in Korean Natural Farming. It functions as an immune booster for plants, a pest deterrent, and a disease preventative. Made by extracting the active compounds from five traditional medicinal herbs into alcohol, OHN provides plants with natural defense compounds (allicin, gingerol, capsaicin, etc.) that strengthen cell walls and repel pests.
 
 ## The Five Herbs
 
-Cho's original formulation uses five medicinal herbs, each contributing specific [[query-what-are-the-main-bioactive-compounds-in-medicinal-plants]]:
+Cho's original formulation uses five medicinal herbs, each contributing specific bioactive compounds:
 
 | Herb | Active Compounds | Primary Function |
 |------|-----------------|-----------------|
@@ -117,7 +117,7 @@ From the IMO/bionutrients paper — a faster approach:
 4. Strain and add equal amount crude sugar/molasses for storage
 5. Dilute 2 tablespoons per gallon for spray
 
-This simplified version focuses on the two most potent herbs (garlic and ginger) and produces a functional pest control + [[cannabis-nutrient-solution-preparation]] in less time. It lacks the angelica and licorice components of Cho's full OHN but is effective for most [[hamilton-pest-and-disease-control-organic]] situations.
+This simplified version focuses on the two most potent herbs (garlic and ginger) and produces a functional pest control + nutrient solution in less time. It lacks the angelica and licorice components of Cho's full OHN but is effective for most pest and disease situations.
 
 ## Application Rates
 
@@ -125,11 +125,11 @@ This simplified version focuses on the two most potent herbs (garlic and ginger)
 |----------|----------|-------|
 | General plant health | 1:1000 | Foliar spray |
 | Pest prevention | 1:500-1000 | Spray before pest season |
-| [[cervantes-pest-disease-prevention-overview]] | 1:500 | During humid/wet conditions |
+| Disease prevention | 1:500 | During humid/wet conditions |
 | Active pest infestation | 1:200-500 | Stronger dose, repeat every 3-5 days |
 | Seed treatment (SES) | 1 ml/L | Part of SES solution |
 | Soil drench | 1:500-1000 | Suppress soil-borne pathogens |
-| [[query-how-to-prevent-transplant-shock-when-moving-cannabis-plants]] | 1:500 | Dip roots or soil drench |
+| Transplant shock | 1:500 | Dip roots or soil drench |
 | Cannabis (vegetative) | 1:500-1000 | IPM spray |
 | Cannabis (flowering) | 1:1000 | Very sparingly — strong smell |
 
@@ -140,10 +140,11 @@ Apply early morning or late evening. OHN can be combined with other KNF inputs (
 For crops that are visibly struggling, yellowing, or recovering from damage:
 
 | Input | Amount per 1000ml water |
-## See Also
-## See Also
-- [[knf-ohn-oriental-herbal-nutrient-recipe]]
-- [[oriental-herbal-nutrient]]
-- [[knf-oriental-herbal-nutrient]]
-- [[cho-oriental-herbal-nutrient-preparation]]
-- [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
+|-------|------------------------|
+| FPJ | 2 ml |
+| BRV | 2 ml |
+| OHN | 1 ml |
+| FAA | 1 ml (for nitrogen-deficient crops) |
+| WS-Ca | 1 ml (for over-luxurious, soft growth) |
+
+Apply every 3-5 days until recovery is visible.

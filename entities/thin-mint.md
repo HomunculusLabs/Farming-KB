@@ -14,8 +14,8 @@ updated: 2026-04-28
 sources:
   - Leafly Staff (2023). "Thin Mint Strain Information." Leafly. https://www.leafly.com/strains/thin-mint
   - AllBud (2023). "Thin Mint Marijuana Strain Information." AllBud. https://www.allbud.com/marijuana-strains/hybrid/thin-mint
-  - Smart, R. et al. (2017). "The Genetics of [[comparison-cannabis-sativa-vs-cannabis-indica]]." Annual Review of Plant Biology, 68, 269–293.
-  - ElSohly, M.A. et al. (2016). "Changes in [[green-cannabis-potency-maximizing]] Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
+  - Smart, R. et al. (2017). "The Genetics of comparison-cannabis-sativa-vs-cannabis-indica." Annual Review of Plant Biology, 68, 269–293.
+  - ElSohly, M.A. et al. (2016). "Changes in green-cannabis-potency-maximizing Over the Last Two Decades." Biological Psychiatry, 79(7), 613–619.
   - Giese, M. et al. (2015). "Cannabis and Cannabinoids: Pharmacology, Toxicology, and Therapeutic Potential." Handbook of Experimental Pharmacology, 231, 1–39.
 ---
 ## Overview

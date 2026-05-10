@@ -136,8 +136,8 @@ Poor meshes may create artificial diffusion, unstable iterations, nonphysical pr
 
 ## See Also
 - [[turbulence-modeling-fluid-dynamics]]
-- boundary layer theory fluid dynamics
 - [[heat-transfer-mechanisms]]
+- [[navier-stokes-equations-fluid-dynamics]]
 
 ## References
 - Wikipedia, "Computational fluid dynamics," accessed 2026-05-02.

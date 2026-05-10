@@ -19,8 +19,7 @@ tags:
   - polygraph
   - plant-consciousness
   - biocommunication
-sources:
-  sources: []
+sources: []
 ---
 
 # Cleve Backster

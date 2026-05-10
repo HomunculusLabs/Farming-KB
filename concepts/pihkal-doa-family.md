@@ -33,14 +33,12 @@ Adding the alpha-methyl group consistently extends duration by a factor
 of 2-4x and typically increases potency. This pattern demonstrates
 the metabolic stability conferred by the methyl group, which impedes
 monoamine oxidase degradation.
-## See Also
-
-- [[pihkal-mescaline-analogs]] — Parent mescaline-based compounds
-- [[phenethylamine-chemistry-basics]] — Biography of the chemist
 
 ## See Also
-
+- [[pihkal-mescaline-analogs]]
+- [[phenethylamine-chemistry-basics]]
 - [[pihkal-beta-substituted-phenethylamines]]
+
 ## Practical Considerations
 
 When working with DOx Family — Amphetamine Psychedelics from PIHKAL, several practical factors should be

@@ -4,15 +4,14 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, beginner, plants, species-profiles, genetics, cultivation, timeline]
-sources:
-  - "raw/papers/robert-clarke-marijuana-botany.md"
+sources: []
 ---
 
 # Cannabis Autoflower Guide
 
 ## Overview
 
-[[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] strains automatically transition from vegetative growth to flowering based on age rather than light cycle. This trait comes from [[cervantes-cannabis-ruderalis-autoflowering]], a subspecies that evolved in extreme northern latitudes with very short growing seasons. Incorporating ruderalis genetics into [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] lines has created a category of fast-finishing, low-maintenance plants popular with both beginners and experienced growers.
+Autoflowering cannabis strains automatically transition from vegetative growth to flowering based on age rather than light cycle. This trait comes from Cannabis ruderalis, a subspecies that evolved in extreme northern latitudes with very short growing seasons. Incorporating ruderalis genetics into [[marijuana-strain-guide-sativa|sativa]] and [[marijuana-strain-guide-indica|indica]] lines has created a category of fast-finishing, low-maintenance plants popular with both beginners and experienced growers.
 
 ## Ruderalis Genetics
 
@@ -48,7 +47,7 @@ A typical autoflower life cycle:
 - **Week 1-2:** Seedling stage
 - **Week 2-4:** Vegetative growth (shorter than photoperiod plants)
 - **Week 3-4:** Pre-flowering begins (automatic transition)
-- **Week 4-8:** [[cannabis-flowering-stage-management]]
+- **Week 4-8:** Flowering stage
 - **Week 8-10:** Harvest (some strains up to 12 weeks)
 
 Total grow time from seed to harvest: 8-12 weeks for most modern autoflowers, compared to 14-20+ weeks for photoperiod strains.
@@ -84,7 +83,7 @@ Most autoflowers stay under 3 feet tall, making them ideal for:
 Ruderalis genetics contribute exceptional resilience:
 
 - Cold tolerance down to near-freezing temperatures
-- [[hamilton-pest-and-disease-control-organic]] resistance
+- Pest and disease resistance
 - Ability to recover from stress (overwatering, light stress, nutrient issues)
 - Less sensitive to light leaks during dark periods
 
@@ -100,12 +99,12 @@ Autoflowers typically produce 1-4 ounces per plant, compared to 4-16+ ounces for
 
 ### Reduced Training Options
 
-Autoflowers have a limited recovery window due to their fixed life cycle. High-stress training (HST) techniques like [[query-what-is-the-difference-between-topping-and-fimming-cannabis]] can stall growth and reduce yield. Recommended training methods include:
+Autoflowers have a limited recovery window due to their fixed life cycle. High-stress training (HST) techniques like topping and fimming can stall growth and reduce yield. Recommended training methods include:
 
 - Low-stress training (LST) — gentle bending and tying
 - Defoliation (light, conservative)
 - Trellis netting for support
-- Avoid topping, [[cannabis-super-cropping-technique]], or transplanting after establishment
+- Avoid topping, super cropping, or transplanting after establishment
 
 ### No Cloning
 
@@ -145,6 +144,7 @@ Early autoflowers had significantly lower THC than photoperiod strains. Modern b
 
 ### Starting from Seed
 
-## Related
+Direct sowing is preferred over starting in small pots. Autoflowers do not handle transplanting well due to their short life cycle. Plant seeds directly in their final container (3-5 gallon fabric pots are common).
 
-- [[cannabis-seed-germination]]
+### Light Schedule
+

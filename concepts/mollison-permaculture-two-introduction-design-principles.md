@@ -144,4 +144,4 @@ designed.
 - [[mollison-animal-integration-permaculture-design]]
 - [[permaculture-design-principles-beginners]]
 
-- [[permaculture](permaculture.md)]]
+- [[permaculture]]

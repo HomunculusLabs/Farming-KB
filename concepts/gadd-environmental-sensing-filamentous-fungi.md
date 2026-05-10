@@ -74,7 +74,7 @@ cells or hyphae detect the population density of their own species or other
 organisms and modify their behavior accordingly. Farnesol, a sesquiterpene
 alcohol, acts as a quorum-sensing molecule in Candida species, inhibiting
 hyphal formation at high population densities. In filamentous fungi, volatile
-[[fungal-volatile-organic-compounds]] (VOCs) serve as signaling molecules that influence the
+[[fungal-volatile-organic-compounds-communication]] (VOCs) serve as signaling molecules that influence the
 growth and development of neighboring colonies, including other fungal
 species, bacteria, and plants. These intercellular communication systems add
 another layer of complexity to [[fungal-environmental-sensing-signal-transduction-read]] and have important
@@ -94,6 +94,8 @@ reproductive timing, and defense in response to constantly changing
 environmental conditions.
 
 ## See Also
+
+- [[gadd-non-motile-heterotrophic-lifestyle-filamentous-fungi]]
 
 - gadd-hyphal-tip-growth-and-polarization.md
 - gadd-fungal-secondary-metabolites.md

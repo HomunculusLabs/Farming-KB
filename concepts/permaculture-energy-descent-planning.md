@@ -11,17 +11,16 @@ tags:
   - transition
   - holmgren
 sources:
-  sources:
-  - "raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md"
+  - raw/papers/david-holmgren-permaculture-principles-pathways-beyon.md
 ---
 
 # Permaculture Energy Descent Planning
 
-Energy descent planning is David Holmgren's framework for preparing for a future of declining fossil fuel availability and the resulting [[holmgren-economic-and-social-succession]] transitions. Developed in "Permaculture: Principles and Pathways Beyond Sustainability," it represents a fundamental rethinking of how societies should plan for the post-carbon era.
+Energy descent planning is David Holmgren's framework for preparing for a future of declining fossil fuel availability and the resulting economic and social transitions. Developed in "Permaculture: Principles and Pathways Beyond Sustainability," it represents a fundamental rethinking of how societies should plan for the post-carbon era.
 
 ## The Energy Descent Concept
 
-Holmgren argues that the inevitable decline in fossil fuel availability (due to peak oil, [[dighton-fungi-climate-change-feedback]] imperatives, or both) will force a progressive reduction in society's energy consumption. This "energy descent" is not framed as a catastrophe but as a process that can be managed through permaculture design. The key insight is that we should proactively design for lower energy futures rather than being caught unprepared.
+Holmgren argues that the inevitable decline in fossil fuel availability (due to peak oil, climate change imperatives, or both) will force a progressive reduction in society's energy consumption. This "energy descent" is not framed as a catastrophe but as a process that can be managed through permaculture design. The key insight is that we should proactively design for lower energy futures rather than being caught unprepared.
 
 Holmgren contrasts three broad scenarios:
 
@@ -38,7 +37,7 @@ All systems should be designed to function with decreasing external energy input
 - Reducing dependence on fossil-fuel-based inputs (synthetic fertilizers, mechanized equipment, long supply chains)
 - Building systems that require less energy to maintain
 - Favoring biological over mechanical solutions (animals instead of tractors, hand tools instead of powered equipment)
-- Designing passive systems ([[comparison-passive-solar-vs-earth-sheltered]] heating, gravity-fed water, natural ventilation)
+- Designing passive systems (passive solar heating, gravity-fed water, natural ventilation)
 
 ### Increase Self-Reliance
 
@@ -46,7 +45,7 @@ Energy descent planning emphasizes building local capacity:
 
 - Food production at household and community level
 - Local energy generation (solar, wind, micro-hydro, biomass)
-- Water [[water-harvesting-and-conservation-in-permaculture]]
+- Water harvesting and conservation
 - Local manufacturing and repair skills
 - Community networks for sharing resources and knowledge
 
@@ -54,7 +53,7 @@ Energy descent planning emphasizes building local capacity:
 
 Resilient systems have many redundant pathways and fail-safes:
 
-- Diverse food sources (multiple crops, multiple [[mushroom-growing-methods-comparison]])
+- Diverse food sources (multiple crops, multiple growing methods)
 - Multiple water sources and storage methods
 - Varied income streams and economic exchanges
 - Strong social networks and community connections
@@ -74,7 +73,7 @@ Prioritize resources that can be sustained indefinitely:
 
 Rather than building new systems from scratch, Holmgren emphasizes retrofitting existing settlements and infrastructure:
 
-- Retrofitting houses for passive solar design and [[fukuoka-textdoc-energy-efficiency-agricultural-labor]]
+- Retrofitting houses for passive solar design and energy efficiency
 - Converting ornamental landscapes to food production
 - Adapting suburban lots for intensive food growing, water harvesting, and animal husbandry
 - Reclaiming waste streams (organic waste, greywater, stormwater) as productive resources

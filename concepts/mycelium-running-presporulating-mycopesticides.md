@@ -141,5 +141,10 @@ year in the United States alone. The presporulating mycelium approach represents
 a significant opportunity within the expanding biopesticide market.
 ## See Also
 
+- [[mycopesticides-fungal-pest-control]]
+- [[unknown-mycelium-mycopesticides]]
+
+- [[presporulating-mycelium-trojan-horse-mycopesticides]]
+
 - [[entomopathogenic-fungal-diversity-cordyceps-insect-pathogens]]
 - [[mycelium-running-pest-control-with-fungi]]

@@ -18,7 +18,7 @@ sources:
   - "Xerces Society for Invertebrate Conservation — comparison-native-bee-pollinators-vs-honeybees Conservation Guides (xerces.org)"
   - "USDA NRCS — Pollinator-Friendly Best Management Practices (nrcs.usda.gov)"
   - "Danforth, B.N. et al. (2019). The Solitary Bees: Biology, Evolution, Conservation. Princeton University Press."
-  - "Winfree, R. et al. (2007). [[query-how-to-attract-native-bees-and-beneficial-insects]] provide insurance against ongoing honey bee losses. Ecology Letters, 10(11), 1105–1113."
+  - "Winfree, R. et al. (2007). query-how-to-attract-native-bees-and-beneficial-insects provide insurance against ongoing honey bee losses. Ecology Letters, 10(11), 1105–1113."
   - "Mader, E. et al. (2011). Attracting Native Pollinators. Xerces Society / Storey Publishing."
   - "USDA-ARS — Bee Research Laboratory: Honey Bee Health and Colony Collapse Disorder (ars.usda.gov)"
   - "Roulston, T.H. & Goodell, K. (2011). The role of resources and risks in regulating wild bee populations. Annual Review of Entomology, 56, 293–312."

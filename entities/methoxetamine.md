@@ -127,10 +127,5 @@ psychoactive substance (NPS) [[adverse-effects-and-harm-reduction-psilocybin]] a
 - **China:** Scheduled as a narcotic drug since 2015
 
 ## See Also
-
-- [[dextromethorphan]] — OTC dissociative NMDA antagonist
-- MDMA — serotonergic empathogen with overlapping SERT interaction risk
-
-## See Also
-
+- [[dextromethorphan]]
 - [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]]

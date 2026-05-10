@@ -1,14 +1,13 @@
 ---
-title: oner-cannabis-terpene-profiles-effects Profile
+title: Cannabis Terpene Profile
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [cannabis, potency, indoor, flowering, biology, chemistry, plant-growth, medicine]
-sources:
-  sources: []
+sources: []
 ---
 # Cannabis Terpene Profile
-Terpenes are aromatic [[fungal-volatile-organic-compounds-communication]] found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The [[cannabis-terpene-entourage-effect-profiles]] — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
+Terpenes are aromatic organic compounds found in many plants, including cannabis. They are responsible for the distinctive smells, flavors, and many of the nuanced effects associated with different cannabis strains. The entourage effect — the theory that cannabinoids and terpenes work synergistically — makes terpene knowledge essential for both cultivators and consumers.
 ## What Are Terpenes?
 
 Terpenes (or terpenoids when modified) are a large class of volatile aromatic hydrocarbons produced by plants. They serve various ecological functions:
@@ -106,7 +105,7 @@ A sweet, woody terpene with herbaceous notes.
 
 - Aroma: sweet, woody, herbal, slightly citrus
 - Effects: uplifting, decongestant, antiviral
-- Strain associations: sativa and [[cervantes-hybrid-varieties-types]]
+- Strain associations: sativa and hybrid varieties
 - Also found in: mint, basil, mango, orchids, pepper
 - Boiling point: 122°F (50°C) — very volatile, degrades easily
 
@@ -129,7 +128,7 @@ The genetic foundation determines which terpenes a plant can produce and in what
 
 ### Light Spectrum
 
-UV-B exposure can stimulate terpene production as a [[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]]. Full-spectrum light (especially the UV-A and UV-B ranges) tends to produce more complex [[cannabis-terpene-profiles-sativa]] than narrow-band LED. See [[cannabis-lighting-guide]] for details.
+UV-B exposure can stimulate terpene production as a stress response. Full-spectrum light (especially the UV-A and UV-B ranges) tends to produce more complex terpene profiles than narrow-band LED. See [[cannabis-lighting-guide]] for details.
 
 ### Temperature
 
@@ -142,9 +141,10 @@ Terpenes degrade and evaporate as trichomes mature past their peak. Harvesting t
 ### Drying and Curing
 
 Slow drying at moderate temperatures (60-70°F / 15-21°C) with 55-65% humidity preserves terpenes. Fast, hot drying destroys terpene profiles. Proper curing (2-8+ weeks in glass jars) develops and preserves the full aromatic profile.
-## See Also
 
-- [[cannabis-trichome-guide]] for the structures that produce terpenes
-- [[cannabis-flavonoids]] for non-terpene aromatic compounds
-- [[cannabis-lighting-guide]] for how light affects terpene production
-- raw/papers/the-modern-farm-why-cannabis-grown-with-lab-might-produce.md
+### Growing Medium
+
+Living soil with diverse biology tends to produce more complex terpene profiles compared to synthetic hydroponic systems. The microbiome appears to influence terpene synthesis pathways.
+
+## The Entourage Effect
+

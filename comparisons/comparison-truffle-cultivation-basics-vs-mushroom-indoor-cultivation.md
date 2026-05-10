@@ -86,6 +86,8 @@ applied to truffle orchards as organic amendment, creating a closed-loop
 system that connects both [[synthetic-log-cultivation-methods-guide]] productively.
 
 ## See Also
+
+- [[stamets-truffle-orchard-failure-lessons-perigord-cultivation]]
 - [[comparison-spore-print-collection-vs-spore-syringe-production]]
 - [[comparison-grain-spawn-vs-sawdust-spawn]]
 - [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]]

@@ -12,10 +12,10 @@ date: 2026-04-28
 updated: 2026-04-28
 sources:
   - Kuo, M. (2023). "Chroogomphus rutilus." MushroomExpert.com.
-  - Miller, O.K. & Miller, H.H. (2006). [[growing-gourmet-north-american-reishi-species]] Mushrooms: A Field Guide to Edible and Inedible Fungi. Globe Pequot Press.
+  - Miller, O.K. & Miller, H.H. (2006). growing-gourmet-north-american-reishi-species Mushrooms: A Field Guide to Edible and Inedible Fungi. Globe Pequot Press.
   - Singer, R. (1986). The Agaricales in Modern Taxonomy. 4th ed. Koeltz Scientific Books.
-  - Bresinsky, A. & Besl, H. (1990). A Colour Atlas of [[ramsbottom-poisonous-fungi-identification-guide]]. Wolfe Publishing.
-  - Wang, Y. et al. (2018). "[[dighton-fungal-nutritional-composition-animal-diets]] and Antioxidant Activity of Chroogomphus rutilus." Journal of Food Science, 83(3), 780–786.
+  - Bresinsky, A. & Besl, H. (1990). A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide. Wolfe Publishing.
+  - Wang, Y. et al. (2018). "dighton-fungal-nutritional-composition-animal-diets and Antioxidant Activity of Chroogomphus rutilus." Journal of Food Science, 83(3), 780–786.
 ---
 
 ## Overview
@@ -136,13 +136,8 @@ parasite *Asterophora lycoperdoides*, though this is more commonly
 observed in related *Chroogomphus* species.
 
 ## See Also
-
-- [[suillus-luteus]] — Fellow ectomycorrhizal associate of pine forests
-- [[ganoderma-lucidum]] — [[growing-gourmet-medicinal-polypore-candidates-turkey-tail-chaga]] sharing coniferous forest habitat
-
-## See Also
-
-- edible-wild-mushroom-guide
+- [[suillus-luteus]]
+- [[ganoderma-lucidum]]
 - [[ectomycorrhiza]]
 - [[pinus-sylvestris]]
 - [[ectomycorrhizal-associations]]

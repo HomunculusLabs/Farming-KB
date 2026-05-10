@@ -143,3 +143,8 @@ nature — and offers instead a radical alternative grounded in trust, observati
 *Source: Masanobu Fukuoka, The Natural Way of Farming: The Theory and Practice of Green
 Philosophy (1985). Translated from the Japanese by Frederic P. Metreaud. Published by Rodale
 Press / Japan Publications.*
+
+## See Also
+
+- [[fukuoka-natural-way-of-farming-theory-of-natural-farming]]
+- [[fukuoka-do-nothing-farming-philosophy-and-practice]]

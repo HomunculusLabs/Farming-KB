@@ -1,4 +1,4 @@
-Crystal crystal structure and crystal defects defects are central concepts in materials
+Crystal [[hex1-protein-woronin-body-crystal-structure-euascomycetes]] and crystal defects defects are central concepts in materials
 science, governing the mechanical, electrical, thermal, and optical
 properties of virtually all [[silicon]] fset by ¼[111]. Silicon (0.5431 nm),
 germanium (0.5658 nm), diamond (0.3567 nm). The open covalent structure

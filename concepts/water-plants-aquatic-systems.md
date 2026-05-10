@@ -139,7 +139,7 @@ Water plants provide critical functions in faires-aquaculture-pond-systems syste
 - [[swale-design-water-harvesting]]
 ## See Also
 - [[permaculture-plants-aquatic-systems-water-plants]]
-- [[mycofiltration]]
+- [[unknown-mycelium-mycofiltration]]
 - [[colocasia-esculenta]]
 - [[permaculture-design]]
 - [[sepp-holzer-water-gardens-and-aquatic-plants]]

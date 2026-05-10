@@ -4,13 +4,12 @@ created: 2026-04-11
 updated: 2026-04-12
 type: concept
 tags: [compost, biology, methods, homesteading, troubleshooting]
-sources:
-  sources: []
+sources: []
 ---
 
 # Vermicomposting
 
-Vermicomposting is the process of using earthworms to decompose organic waste into vermicast (worm castings) — one of the finest soil amendments available. Worm castings are rich in plant-available nutrients, beneficial microorganisms, humic acids, and plant growth hormones. Vermicomposting can be done indoors or outdoors, in small apartments or on large homesteads, making it one of the most accessible [[natural-farming-guide-composting-methods-and-techniques]].
+Vermicomposting is the process of using earthworms to decompose organic waste into vermicast (worm castings) — one of the finest soil amendments available. Worm castings are rich in plant-available nutrients, beneficial microorganisms, humic acids, and plant growth hormones. Vermicomposting can be done indoors or outdoors, in small apartments or on large homesteads, making it one of the most accessible composting methods.
 
 ## Benefits of Vermicomposting
 
@@ -28,10 +27,10 @@ Vermicomposting is the process of using earthworms to decompose organic waste in
 The most common and versatile composting worm. Also called redworm, brandling worm, or manure worm.
 
 - **Size**: 2-3 inches fully grown
-- **[[query-what-is-the-ideal-temperature-range-for-growing-cannabis]]**: 40-90°F (ideal: 55-77°F)
+- **Temperature range**: 40-90°F (ideal: 55-77°F)
 - **Reproduction rate**: Very fast — doubles population every 2-3 months under ideal conditions
 - **Appetite**: Consumes roughly half its body weight per day
-- **Availability**: Widely available online, at [[solomon-garden-centers-seedling-traps]], and through worm farms
+- **Availability**: Widely available online, at garden centers, and through worm farms
 
 ### Eisenia hortensis (European Nightcrawler)
 Larger worm that is both a composter and a bait worm.
@@ -94,7 +93,7 @@ Bedding provides a moist, carbon-rich environment for worms. Materials:
 ### What to Feed
 
 - Fruit and vegetable scraps (most kitchen waste)
-- [[oyster-mushroom-coffee-grounds-cultivation]] and filters
+- Coffee grounds and filters
 - Tea bags (remove staples)
 - Crushed eggshells (provides grit and calcium)
 - Grain products (bread, rice, pasta) — in moderation
@@ -138,13 +137,14 @@ Bedding provides a moist, carbon-rich environment for worms. Materials:
 With stacking tray systems, simply remove the bottom tray (which contains the oldest, most finished material). The worms will have migrated upward through the mesh into the upper feeding trays over time.
 
 ## Vermicompost Tea
-## See Also
 
-- [[composting-systems]] — Traditional thermophilic composting methods
-- [[compost-tea-brewing]] — Brewing [[actively-aerated-compost-tea-aact-brewing]] tea from your castings
-- [[soil-food-web-nutrient-cycling]] — The [[fukuoka-microbial-ecology-decomposition]] behind vermicomposting
-- [[homesteading]] — Worm composting as part of a homestead waste management system
+Worm casting tea is made by steeping finished vermicast in aerated water:
 
-## Related
+1. Add 1-2 cups of worm castings per 5 gallons of dechlorinated water.
+2. Aerate with an air pump and stone for 18-24 hours.
+3. Optionally add 1 tablespoon unsulfured molasses as microbial food.
+4. Apply as a soil drench (undiluted or diluted 1:1) or foliar spray.
 
-- [[composting-systems-design-comparison]]
+See [[compost-tea-brewing]] for detailed brewing guidance.
+
+## Troubleshooting

@@ -5,7 +5,6 @@ tags: [weeds, weed-management, organic-gardening, no-till, permaculture, soil-ec
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
   - /Users/t3rpz/wiki/raw/papers/administrator-microsoft-word-fukuoka-textdoc.md
   - /Users/t3rpz/wiki/raw/papers/the-way-to-ultra-low-cost-agriculture-untitled.md

@@ -13,7 +13,7 @@ updated: 2026-04-28
 sources:
   - "Shulgin, A. & Shulgin, A. (1997). TIHKAL: The Continuation. Transform Press."
   - "Samoylenko, V. et al. (2010). \"β-Carboline alkaloids.\" Current Drug Metabolism, 11(5), 459-479."
-  - "Hertzog, R.I. et al. (2021). \"Pharmacology of [[turner-harmala-alkaloids-preparation-and-dosage]].\" Pharmacology & Therapeutics, 225, 107859."
+  - "Hertzog, R.I. et al. (2021). \"Pharmacology of turner-harmala-alkaloids-preparation-and-dosage.\" Pharmacology & Therapeutics, 225, 107859."
   - "Glennon, R.A. et al. (2000). \"β-Carbolines as agents of the central nervous system.\" Current Medicinal Chemistry, 7(2), 193-203."
 ---
 

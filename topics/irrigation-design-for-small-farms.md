@@ -141,7 +141,6 @@ root zone through a network of tubes and emitters. It is the most water-
 efficient irrigation method available, reducing water use by 30 to 50 percent
 compared to sprinkler systems while simultaneously minimizing foliar disease,
 weed growth, and evaporation losses. For small farms with diverse plantings,
-drip systems offer unmatched precision.
 ## See Also
 - [[pf-tek-vermiculite-type-comparison-water-holding-capacity]]
 - [[fukuoka-textdoc-three-dimensional-solar-energy-methodless-method]]

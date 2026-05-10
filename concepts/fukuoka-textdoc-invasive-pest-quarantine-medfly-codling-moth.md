@@ -39,7 +39,7 @@ establishment an existential threat to diversified farming systems.
 
 The codling moth ravages apples, pears, and other fruit of the rose family (Rosaceae).
 While its host range is narrower than the medfly, its impact on the core temperate
-uncommon specialty [[uncommon-specialty-fruit-crops-for-permaculture]] permaculture makes it a severe threat to Japanese [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique|critique of biological control]]
+uncommon specialty uncommon specialty fruit crops for permaculture permaculture makes it a severe threat to Japanese [[fukuoka-textdoc-biological-control-fallacy-pheromone-critique|critique of biological control]]
 as another layer of technological dependency. The sterile insect technique, for instance, requires mass rearing
 facilities, quality control systems, and repeated releases, all of which represent
 ongoing costs and potential failure points.

@@ -5,7 +5,6 @@ updated: 2026-04-21
 type: concept
 tags: [regenerative, farming, cover-crop, farming]
 sources:
-  sources:
   - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 # Fukuoka's Natural Farming Method: Clover, Barley, and Rice

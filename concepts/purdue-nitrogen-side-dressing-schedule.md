@@ -135,10 +135,6 @@ The following crops should NOT receive nitrogen side-dressings:
 | Sweet potatoes, watermelons, carrots, beets, turnips, parsnips, lettuce | None | 0 | Do not side-dress |
 
 ## See Also
-
 - [[purdue-vegetable-planting-reference-table]]
 - [[purdue-vegetable-harvest-and-storage-guide]]
-
-## See Also
-
 - [[nitrogen-plant-nutrition]]
