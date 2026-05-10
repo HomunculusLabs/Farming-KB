@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1406 pages**
+**1420 pages**
 
 ## #
 
@@ -241,6 +241,8 @@
 - [[emcdda-barriers-to-hallucinogenic-mushroom-trend-diffusion]]
 - [[emcdda-clubbing-survey-prevalence-data-polydrug-use-patterns-mushrooms]]
 - [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]]
+- [[emcdda-european-magic-mushroom-hunting-wild-foraging-practices]]
+- [[emcdda-hallucinogenic-mushroom-acute-toxicity-medical-management]]
 - [[emcdda-hallucinogenic-mushroom-chemistry-psilocybin-5ht2a-pharmacology]]
 - [[emcdda-hallucinogenic-mushroom-clubbing-surveys-and-prevalence]]
 - [[emcdda-hallucinogenic-mushroom-consequences-and-health-risks]]
@@ -268,6 +270,7 @@
 - [[emcdda-hallucinogenic-mushroom-species-classification-and-chemistry]]
 - [[emcdda-hallucinogenic-mushroom-survey-methodology-data-limitations]]
 - [[emcdda-hallucinogenic-mushroom-telephone-helpline-data]]
+- [[emcdda-hallucinogenic-mushroom-telephone-helplines-fesat-data]]
 - [[emcdda-hallucinogenic-mushroom-uk-pre-prohibition-market-economics]]
 - [[emcdda-hallucinogenic-mushroom-wild-foraging-and-hunting]]
 - [[emcdda-hallucinogenic-mushrooms-emerging-trend-europe]]
@@ -277,6 +280,7 @@
 - [[emcdda-mixmag-survey-magic-mushroom-prevalence-trends-2000-2005]]
 - [[emcdda-natural-hallucinogen-sources-beyond-mushrooms]]
 - [[emcdda-psilocybin-mushroom-dose-and-effects]]
+- [[emcdda-psilocybin-mushroom-online-shop-market-snapshot-2006]]
 - [[emcdda-psilocybin-mushroom-species-and-identification]]
 - [[emcdda-return-to-nature-megatrend-mushroom-appeal]]
 - [[emcdda-smartshop-trade-online-distribution-mushrooms]]
@@ -561,6 +565,7 @@
 - [[ingham-clopyralid-chlordane-compost-contamination]]
 - [[inoculation-methods]]
 - [[inoculation-technique-and-alcohol-flaming]]
+- [[internet-mushroom-information-repositories-online-communities-emcdda-2006]]
 
 ## J
 
@@ -695,6 +700,7 @@
 - [[microbial-kill-curve-microwave-surface-sterilization-kinetics]]
 - [[microbial-kill-curves-sterilization-validation]]
 - [[microwave-exposure-system-architecture-surface-sterilization]]
+- [[microwave-frequency-2450-mhz-water-dipole-coupling-sterilization]]
 - [[microwave-induced-steam-surface-sterilization-mechanism]]
 - [[microwave-penetration-through-elastomeric-materials-sterilization]]
 - [[microwave-reflective-transparent-materials-surface-sterilization]]
@@ -704,6 +710,7 @@
 - [[microwave-sterilizable-access-port-nasa-msap-msc-22484]]
 - [[microwave-sterilizable-access-port-nasa-space-biology]]
 - [[microwave-sterilization]]
+- [[microwave-sterilization-d-value-microbial-kill-kinetics-nasa-msc-22484]]
 - [[microwave-sterilization-dose-response-lethality-curves]]
 - [[microwave-sterilization-dose-response-microbial-kill-curves]]
 - [[microwave-sterilization-dose-response-microbial-kill-kinetics-nasa-testing]]
@@ -1108,9 +1115,11 @@
 - [[pf-tek-contamination-prevention-and-troubleshooting]]
 - [[pf-tek-control-jar-sterility-verification]]
 - [[pf-tek-cultivation-method]]
+- [[pf-tek-desiccant-drying-chemistry-and-materials-guide]]
 - [[pf-tek-desiccant-drying-technique]]
 - [[pf-tek-dry-vermiculite-contaminant-barrier]]
 - [[pf-tek-dual-chambered-terrarium-design-humidity-management]]
+- [[pf-tek-dual-chambered-terrarium-spray-shield-humidity-physics]]
 - [[pf-tek-equipment-and-material-procurement-guide]]
 - [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]
 - [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]]
@@ -1144,6 +1153,7 @@
 - [[pf-tek-perlite-humidification-evaporation-dynamics]]
 - [[pf-tek-perlite-humidification-technique]]
 - [[pf-tek-pressure-canner-sterilization]]
+- [[pf-tek-pressure-canner-substrate-sterilization-upgrade-fanaticus]]
 - [[pf-tek-primordia-formation-and-pinning-process]]
 - [[pf-tek-psilocybe-fanaticus]]
 - [[pf-tek-psilocybe-fanaticus-cultivation-method]]
@@ -1162,6 +1172,7 @@
 - [[pf-tek-substrate-moisture-diagnosis-and-correction]]
 - [[pf-tek-substrate-preparation]]
 - [[pf-tek-syringe-sterilization-and-storage]]
+- [[pf-tek-time-scale-harvesting-cool-desiccation]]
 - [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]]
 - [[pf-tek-vermiculite-coarse-vs-fine-comparison]]
 - [[pf-tek-vermiculite-grading-and-water-retention]]
@@ -1192,6 +1203,7 @@
 - [[pseudomonas-cepacia-microwave-surface-decontamination-kinetics]]
 - [[psilocin-synthesis-4-hydroxyindole-to-psilocin]]
 - [[psilocybe-azurescens-profile]]
+- [[psilocybe-caerulescens-mazatec-sacred-mushroom-guzman-1998]]
 - [[psilocybe-cubensis-cattle-dung-substrate-introduction-americas-guzman-1998]]
 - [[psilocybe-cubensis-cultivation]]
 - [[psilocybe-cubensis-cultivation-miniculture]]
@@ -1223,6 +1235,7 @@
 - [[psilocybin-mushroom-dissemination-1950s-1970s]]
 - [[psilocybin-mushroom-distribution-worldwide]]
 - [[psilocybin-mushroom-dosage-and-acute-effects]]
+- [[psilocybin-mushroom-dose-potency-acute-effects-emcdda-2006]]
 - [[psilocybin-mushroom-drying-and-storage-methods]]
 - [[psilocybin-mushroom-european-prevalence-and-trends]]
 - [[psilocybin-mushroom-evolution]]
@@ -1259,6 +1272,7 @@
 - [[psilocybin-mushrooms-species-and-pharmacology]]
 - [[psilocybin-mushrooms-turner-guide]]
 - [[psilocybin-potency-factors-cultivated-wild-mushrooms-gartz]]
+- [[psilocybin-storage-stability-post-harvest-degradation-mushrooms]]
 - [[psychedelic-mushroom-art-and-iconography]]
 - [[psychedelic-mushroom-chemistry]]
 - [[psychedelic-mushroom-decriminalization]]

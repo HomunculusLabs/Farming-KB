@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1198 pages**
+**1199 pages**
 
 ## A
 
@@ -899,6 +899,7 @@
 - [[query-how-to-get-rid-of-slugs-and-snails-organically]]
 - [[query-how-to-grow-amaranth-for-grain-and-greens]]
 - [[query-how-to-grow-and-care-for-a-tamarind-tree]]
+- [[query-how-to-grow-and-use-basil-in-your-garden]]
 - [[query-how-to-grow-and-use-chicory]]
 - [[query-how-to-grow-and-use-oca-in-temperate-climates]]
 - [[query-how-to-grow-and-use-stinging-nettle]]

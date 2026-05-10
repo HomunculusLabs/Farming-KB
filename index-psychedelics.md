@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1599 pages**
+**1602 pages**
 
 ## #
 
@@ -544,6 +544,7 @@
 - [[guilt-martyrdom-harbored-anger-as-health-hazards]]
 - [[guzman-allen-gartz-amazonia-and-unexplored-neotropical-regions]]
 - [[guzman-allen-gartz-australasian-endemic-psilocybe-species]]
+- [[guzman-allen-gartz-cubensis-introduction-african-slave-commerce-hypothesis]]
 - [[guzman-allen-gartz-cyanescens-complex-coprinifacies-bohemica-european-taxonomy]]
 - [[guzman-allen-gartz-global-psilocybe-biogeography]]
 - [[guzman-allen-gartz-neotropical-psilocybe-species]]
@@ -633,6 +634,7 @@
 - [[hplc-analysis-psilocybin-psilocin]]
 - [[hplc-detection-limits-calibration-psilocybin-psilocin-bigwood-beug]]
 - [[hplc-quantification-psilocybin-psilocin-bigwood-beug-1982]]
+- [[hplc-tlc-analysis-psilocybin-psilocin-quantification-bigwood-beug-1982]]
 - [[huichol-peyote-tradition]]
 - [[hybrid-shamanic-therapeutic-rituals]]
 - [[hybrid-shamanic-therapeutic-rituals-metzner]]
@@ -1327,6 +1329,7 @@
 - [[psilocybin-toxicity-and-safety-profile]]
 - [[psilocybin-variation-across-flushes]]
 - [[psilocybin-vs-other-psychedelics]]
+- [[psilocybin-vs-psilocin-distribution-cap-stem]]
 - [[psilocybin-waking-dreams-and-serotonergic-neurochemistry]]
 - [[psychedelic-1960s-counterculture]]
 - [[psychedelic-aesthetics-and-creativity]]
