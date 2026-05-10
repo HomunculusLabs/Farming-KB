@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**214 pages**
+**215 pages**
 
 ## A
 
@@ -238,6 +238,7 @@
 - [[sheep-health-and-production]]
 - [[sheep-husbandry]]
 - [[sheep-keeping-guide]]
+- [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]
 - [[skoolie-bus-conversion]]
 - [[slip-form-stone-construction]]
 - [[small-scale-dairy-guide]]

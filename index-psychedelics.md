@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1613 pages**
+**1619 pages**
 
 ## #
 
@@ -1017,6 +1017,8 @@
 - [[metzner-barquinha-umbanda-and-afro-brazilian-ayahuasca-syncretism]]
 - [[metzner-brazilian-ayahuasca-churches-structural-comparison-santo-daime-udv-barquinha]]
 - [[metzner-bwiti-iboga-ceremonies-ancestor-communication-and-addiction]]
+- [[metzner-cohen-janiger-hollywood-psychedelic-arts-research]]
+- [[metzner-consciousness-contraction-expansion-addiction-model]]
 - [[metzner-consciousness-expansion-versus-contraction-addiction]]
 - [[metzner-empathogen-discovery-mdma-psychotherapy-and-emotional-opening]]
 - [[metzner-empathogens-in-psychotherapy-mda-mdma-and-the-heart-centered-paradigm]]
@@ -1032,6 +1034,7 @@
 - [[metzner-hallucinogenic-drugs-psychotherapy-shamanism]]
 - [[metzner-hallucinogens-psychotherapy-and-shamanism]]
 - [[metzner-hallucinogens-psychotherapy-shamanism-paradigms]]
+- [[metzner-harvard-psilocybin-prison-project-behavior-change]]
 - [[metzner-holotropic-breathwork-and-grof-perinatal-matrices]]
 - [[metzner-hybrid-circle-ritual-structure-and-council-practice]]
 - [[metzner-hybrid-shamanic-therapeutic-rituals]]
@@ -1052,6 +1055,7 @@
 - [[metzner-psychedelic-psychotherapy-clinical-history]]
 - [[metzner-psycholytic-psychedelic-psychotherapy-models-comparison]]
 - [[metzner-psycholytic-psychedelic-therapy-models]]
+- [[metzner-san-pedro-cactus-andean-ceremony-altar-practice]]
 - [[metzner-sandoz-psycholytic-therapy-european-clinical-model]]
 - [[metzner-set-and-setting-hypothesis-origins-and-extensions]]
 - [[metzner-set-and-setting-psychedelic-therapy]]
@@ -1122,6 +1126,7 @@
 ## P
 
 - [[partnership-and-dominator-cultures-in-human-history]]
+- [[partnership-society-vs-dominator-culture]]
 - [[partnership-versus-dominator-culture]]
 - [[partnership-vs-dominator-culture]]
 - [[partnership-vs-dominator-culture-mckenna]]
@@ -1312,6 +1317,7 @@
 - [[psilocybin-psilocin-chemistry-and-pharmacology-emcdda]]
 - [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
 - [[psilocybin-psilocin-flush-accumulation-patterns]]
+- [[psilocybin-psilocin-flush-dynamics-biosynthetic-timing-bigwood-beug]]
 - [[psilocybin-psilocin-flush-variation]]
 - [[psilocybin-psilocin-ratio-dynamics-flushes-bigwood-beug]]
 - [[psilocybin-psilocin-tissue-distribution]]

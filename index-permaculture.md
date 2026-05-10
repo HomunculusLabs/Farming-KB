@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**971 pages**
+**972 pages**
 
 ## A
 
@@ -947,6 +947,7 @@
 - [[small-scale-intensive-food-systems-mollison]]
 - [[soil-building-permaculture]]
 - [[soil-tilth-and-seedbed-preparation]]
+- [[solomon-autumn-digging-new-garden-bed-preparation]]
 - [[solomon-gardening-pest-philosophy-and-resilience]]
 - [[solomon-rainwater-harvesting-for-gardens]]
 - [[solomon-raised-beds-and-bed-preparation]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1236 pages**
+**1238 pages**
 
 ## A
 
@@ -194,6 +194,7 @@
 - [[comparison-composting-toilets-vs-humanure]]
 - [[comparison-constructed-wetland-vs-backyard-pond]]
 - [[comparison-constructed-wetlands-vs-bioswales]]
+- [[comparison-cordyceps-vs-chaga-medicinal]]
 - [[comparison-cordyceps-vs-lions-mane-cultivation]]
 - [[comparison-cordyceps-vs-reishi-cultivation]]
 - [[comparison-cowpea-vs-mung-bean]]
@@ -1112,6 +1113,7 @@
 - [[query-what-are-the-best-nut-trees-for-a-permaculture-food-forest]]
 - [[query-what-are-the-best-perennial-vegetables-for-a-food-forest]]
 - [[query-what-are-the-best-plants-for-a-hugelkultur-bed]]
+- [[query-what-are-the-best-soil-amendments-for-organic-gardening]]
 - [[query-what-are-the-best-ways-to-increase-soil-organic-matter-quickly]]
 - [[query-what-are-the-different-types-of-mycorrhizal-fungi]]
 - [[query-what-are-the-health-benefits-of-dietary-polyphenols]]

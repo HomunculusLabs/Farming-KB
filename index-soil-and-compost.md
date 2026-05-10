@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**548 pages**
+**549 pages**
 
 ## A
 
@@ -547,6 +547,7 @@
 - [[solomon-manure-types-and-nutrient-values]]
 - [[solomon-mulching-and-cover-cropping]]
 - [[solomon-municipal-compost-inadequacy-vegetable-growing]]
+- [[solomon-permanent-mulching-critique-limitations]]
 - [[solomon-permanent-mulching-critique-mild-climate-failure]]
 - [[solomon-phosphorus-potassium-and-secondary-nutrients]]
 - [[solomon-potassium-yield-versus-nutrition-tradeoff]]
