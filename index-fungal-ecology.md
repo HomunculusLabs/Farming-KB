@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2298 pages**
+**2299 pages**
 
 ## #
 
@@ -1247,6 +1247,7 @@
 - [[indigenous-neurotropic-fungi-use-mexico]]
 - [[indigenous-use-neurotropic-fungi-mexico]]
 - [[indoor-wood-decay-fungi-building-deterioration]]
+- [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose]]
 - [[ingham-bacteria-fungi-succession-humus-formation]]
 - [[ingham-bacterial-fungal-succession]]
 - [[ingham-bacterial-to-fungal-succession-soil-food-web]]

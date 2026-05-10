@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**494 pages**
+**498 pages**
 
 ## A
 
@@ -210,10 +210,13 @@
 - [[ingham-aact-disease-suppression-competition-mechanisms]]
 - [[ingham-aact-disease-suppression-through-food-competition]]
 - [[ingham-aact-field-guide-index]]
+- [[ingham-aact-leaf-curl-taphrina-treatment-protocol]]
+- [[ingham-aact-orchard-disease-suppression-verticillium-brown-rot-cedar-rust]]
 - [[ingham-aact-testing-methods]]
 - [[ingham-aact-vs-anaerobic-brews-mechanisms-benefits]]
 - [[ingham-aact-worm-leachate-extract-comparison-brewing-methods]]
 - [[ingham-actinomycetes-soil-biology-and-compost-tea]]
+- [[ingham-ampelomyces-powdery-mildew-biocontrol-aact]]
 - [[ingham-anaerobic-organisms-role-soil]]
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
 - [[ingham-antibiotics-osmotic-shock-compost-tea]]
@@ -251,6 +254,7 @@
 - [[ingham-leaf-surface-biology-phyllosphere-compost-tea-attachment]]
 - [[ingham-light-uv-effects-compost-tea]]
 - [[ingham-manure-antibiotics-chemical-residues-composting]]
+- [[ingham-micronized-compost-aact-brewing-technique]]
 - [[ingham-microscope-identification-soil-biology]]
 - [[ingham-moss-algae-control]]
 - [[ingham-natural-growth-regulators-soil-microbes]]

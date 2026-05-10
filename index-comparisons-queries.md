@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1201 pages**
+**1203 pages**
 
 ## A
 
@@ -460,6 +460,7 @@
 - [[comparison-root-cellaring-vs-dehydration]]
 - [[comparison-root-cellaring-vs-food-dehydration]]
 - [[comparison-root-cellaring-vs-freezing]]
+- [[comparison-root-cellaring-vs-lacto-fermentation]]
 - [[comparison-rotational-grazing-vs-continuous-grazing]]
 - [[comparison-rotational-grazing-vs-set-stocking]]
 - [[comparison-scented-geraniums-vs-edible-flowers]]
@@ -545,6 +546,7 @@
 - [[comparison-tulsi-vs-lemon-balm]]
 - [[comparison-turmeric-vs-ginger]]
 - [[comparison-two-row-vs-six-row-barley]]
+- [[comparison-valerian-vs-ashwagandha]]
 - [[comparison-valerian-vs-chamomile]]
 - [[comparison-valerian-vs-lemon-balm]]
 - [[comparison-valerian-vs-passionflower]]

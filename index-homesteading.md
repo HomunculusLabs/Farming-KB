@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**213 pages**
+**214 pages**
 
 ## A
 
@@ -178,6 +178,7 @@
 
 - [[off-grid-electricity-basics]]
 - [[off-grid-waste-management]]
+- [[oner-golden-goat-island-sweet-skunk-hawaiian-romulan]]
 - [[oner-sativa-landrace-preservation]]
 - [[online-homestead-sales]]
 - [[oss-oeric-drying-and-preservation-methods]]

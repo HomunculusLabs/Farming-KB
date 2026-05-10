@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**3860 pages**
+**3873 pages**
 
 ## #
 
@@ -234,6 +234,7 @@
 - [[adam-vorbrodt]]
 - [[adansonia-digitata]]
 - [[adenium-obesum]]
+- [[adenophora-triphylla]]
 - [[adiantum-aleuticum]]
 - [[adiantum-capillus-veneris]]
 - [[adiantum-pedatum]]
@@ -705,10 +706,16 @@
 - [[camellia-japonica]]
 - [[camellia-sinensis]]
 - [[camellia-sinensis-entity]]
+- [[campanula-carpatica]]
+- [[campanula-cochlearifolia]]
 - [[campanula-glomerata]]
 - [[campanula-lactiflora]]
 - [[campanula-medium]]
 - [[campanula-persicifolia]]
+- [[campanula-poscharskyana]]
+- [[campanula-punctata]]
+- [[campanula-rapunculoides]]
+- [[campanula-rapunculus]]
 - [[campanula-rotundifolia]]
 - [[campanula-trachelium]]
 - [[camphene]]
@@ -1612,9 +1619,11 @@
 - [[gentiana-acaulis]]
 - [[gentiana-amarella]]
 - [[gentiana-andrewsii]]
+- [[gentiana-clusii]]
 - [[gentiana-cruciata]]
 - [[gentiana-lutea]]
 - [[gentiana-pneumonanthe]]
+- [[gentiana-purpurea]]
 - [[gentiana-verna]]
 - [[geoff-hamilton]]
 - [[geoff-lawton]]
@@ -1919,6 +1928,7 @@
 - [[james-arthur]]
 - [[james-cuthill]]
 - [[james-trappe]]
+- [[jasione-montana]]
 - [[jasminum-grandiflorum]]
 - [[jasminum-officinale]]
 - [[jatropha-curcas-entity]]
@@ -2732,6 +2742,7 @@
 - [[physconia-distorta]]
 - [[physocarpus-opulifolius]]
 - [[physostegia-virginiana]]
+- [[phyteuma-spicatum]]
 - [[phytolacca-americana]]
 - [[phytolacca-dodecandra]]
 - [[phytolacca-esculenta]]
@@ -3139,6 +3150,7 @@
 - [[ranunculus-acris]]
 - [[ranunculus-aquatilis]]
 - [[ranunculus-bulbosus]]
+- [[ranunculus-ficaria]]
 - [[ranunculus-glacialis]]
 - [[ranunculus-repens]]
 - [[raphanus-sativus]]
@@ -3500,6 +3512,7 @@
 - [[swale-design-water-harvesting]]
 - [[swazi-gold]]
 - [[swertia-chirata]]
+- [[swertia-perennis]]
 - [[swietenia-macrophylla]]
 - [[swietenia-mahagoni]]
 - [[syagrus-coronata]]

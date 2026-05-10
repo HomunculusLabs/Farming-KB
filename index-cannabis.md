@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**1060 pages**
+**1059 pages**
 
 ## #
 
@@ -386,7 +386,6 @@
 - [[cannabis-for-breast-cancer]]
 - [[cannabis-for-cachexia-and-appetite-stimulation]]
 - [[cannabis-for-cancer-patients]]
-- [[cannabis-for-chemotherapy-nausea]]
 - [[cannabis-for-chronic-pain]]
 - [[cannabis-for-chronic-pain-comprehensive]]
 - [[cannabis-for-colon-cancer]]

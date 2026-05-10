@@ -2,7 +2,7 @@
 
 > Psychedelic compounds, consciousness research, ethnobotany, cultural history, and therapeutic applications
 
-**1602 pages**
+**1603 pages**
 
 ## #
 
@@ -664,6 +664,7 @@
 - [[indole-hallucinogens-and-human-evolution]]
 - [[information-paradigm-of-consciousness]]
 - [[informational-monism]]
+- [[ingham-aact-hydroponic-integration-microbe-restoration]]
 - [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]]
 - [[iochroma-fuchsioides-borrachera-ethnobotany]]
 

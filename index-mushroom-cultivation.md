@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1425 pages**
+**1429 pages**
 
 ## #
 
@@ -838,6 +838,7 @@
 - [[mushroom-drying-storage]]
 - [[mushroom-ecological-species]]
 - [[mushroom-edibility-testing-safety-protocols]]
+- [[mushroom-enzyme-inhibitors-cancer-prevention-hormone-regulation]]
 - [[mushroom-extraction-methods]]
 - [[mushroom-festivals-and-events]]
 - [[mushroom-folklore-and-culture]]
@@ -909,6 +910,7 @@
 - [[mushroom-outdoor-beds]]
 - [[mushroom-overlay-problems]]
 - [[mushroom-pasteurization]]
+- [[mushroom-patch-design-backyard-cultivation]]
 - [[mushroom-permaculture]]
 - [[mushroom-pests-and-diseases]]
 - [[mushroom-pests-diseases-fumigation-duggar]]
@@ -1327,6 +1329,7 @@
 - [[sclerotia-timeline-and-harvest-optimization-psilocybe]]
 - [[sclerotia-timeline-psilocybe-tampanensis-mexicana-grass-seed-jar]]
 - [[sclerotia-timing-dark-incubation-psilocybe-tampanensis-mexicana]]
+- [[seasonal-mushroom-fruiting-calendar-companion-cultivation]]
 - [[selecting-trainees-mushroom-cultivation]]
 - [[sepp-holzer-mushroom-cultivation]]
 - [[shakespeare-mushrooms]]
@@ -1474,6 +1477,7 @@
 - [[verticillium-dry-bubble-mushroom-disease]]
 - [[victorian-mushroom-cultivation]]
 - [[victorian-mushroom-spawn-types]]
+- [[vitamin-d-enhancement-mushrooms-uv-exposure]]
 - [[volvariella-volvacea-cultivation-guide]]
 
 ## W
