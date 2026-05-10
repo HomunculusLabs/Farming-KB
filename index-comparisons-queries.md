@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1219 pages**
+**1222 pages**
 
 ## A
 
@@ -146,6 +146,7 @@
 - [[comparison-chamomile-vs-nettle]]
 - [[comparison-chamomile-vs-passionflower]]
 - [[comparison-chamomile-vs-st-johns-wort]]
+- [[comparison-chamomile-vs-valerian]]
 - [[comparison-chayote-vs-taro-cultivation]]
 - [[comparison-chestnut-vs-walnut-vs-pecan-cultivation]]
 - [[comparison-chicken-keeping-vs-beekeeping-basics]]
@@ -328,6 +329,7 @@
 - [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 - [[comparison-leaf-mold-composting-vs-hot-composting-method]]
 - [[comparison-leaf-mold-vs-biochar]]
+- [[comparison-lemon-balm-vs-chamomile]]
 - [[comparison-lemon-balm-vs-passionflower]]
 - [[comparison-lemongrass-vs-citronella-vs-palmarosa]]
 - [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]]
@@ -815,6 +817,7 @@
 - [[query-how-do-i-start-making-fermented-dairy-at-home]]
 - [[query-how-do-i-start-natural-dyeing-with-plants]]
 - [[query-how-do-i-start-vermicomposting-at-home]]
+- [[query-how-do-i-stratify-and-scarify-seeds-for-better-germination]]
 - [[query-how-do-i-transition-my-cannabis-grow-from-synthetic-to-organic-nutrients]]
 - [[query-how-do-i-use-beauveria-bassiana-for-pest-control]]
 - [[query-how-do-i-use-beneficial-indigenous-microorganisms]]

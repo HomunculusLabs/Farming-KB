@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**959 pages**
+**962 pages**
 
 ## A
 
@@ -172,6 +172,7 @@
 - [[hemenway-soil-as-water-storage]]
 - [[herb-spiral]]
 - [[herb-spiral-construction]]
+- [[herb-spiral-design]]
 - [[herb-spiral-design-guide]]
 - [[herb-spiral-microclimate-design]]
 - [[holmgren-aboriginal-management-edge-landscapes]]
@@ -261,7 +262,6 @@
 - [[holzer-green-manure-crops]]
 - [[holzer-green-manure-soil-fertility]]
 - [[holzer-high-beds-property-boundaries]]
-- [[holzer-indicator-plants]]
 - [[holzer-intercropping-by-height-suntraps]]
 - [[holzer-irrigation-principles]]
 - [[holzer-kitchen-garden-herbs-and-medicinal-plants]]
@@ -891,6 +891,7 @@
 - [[permaculture-woodlot-management]]
 - [[permaculture-woody-mulch-systems]]
 - [[permaculture-zone-0-house-design]]
+- [[permaculture-zone-and-sector-analysis]]
 - [[permaculture-zone-and-sector-planning]]
 - [[permaculture-zone-planning-guide]]
 - [[permaculture-zones]]
@@ -936,6 +937,7 @@
 - [[sheet-mulching-methods-urban-permaculture]]
 - [[small-scale-intensive-food-systems-mollison]]
 - [[soil-building-permaculture]]
+- [[soil-tilth-and-seedbed-preparation]]
 - [[solomon-gardening-pest-philosophy-and-resilience]]
 - [[solomon-rainwater-harvesting-for-gardens]]
 - [[solomon-raised-beds-and-bed-preparation]]
@@ -1027,6 +1029,7 @@
 ## Z
 
 - [[zeri-circular-economy-systems]]
+- [[zeri-organization]]
 - [[zone-5-wilderness]]
 - [[zone-and-sector-analysis]]
 - [[zone-sector-analysis-guide]]

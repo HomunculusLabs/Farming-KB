@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1451 pages**
+**1457 pages**
 
 ## #
 
@@ -584,6 +584,7 @@
 - [[jarrold-boil-a-bag-mushroom-cultivation-method]]
 - [[jarrold-filter-can-vermiculite-air-exchange-mushroom-cultivation]]
 - [[jarrold-fruiting-initiation-bag-opening-humidity-chamber]]
+- [[jarrold-self-humidifying-aquarium-chamber]]
 - [[jarrold-straw-substrate-preparation-marmite-supplementation]]
 - [[jarrold-warm-humid-air-delivery-chamber-cold-climate-mushroom]]
 - [[jesus-name-etymology-mushroom-theories]]
@@ -895,6 +896,8 @@
 - [[mushroom-humidity-chamber-design-operation]]
 - [[mushroom-hybridization-art]]
 - [[mushroom-hygiene-and-contamination]]
+- [[mushroom-identification]]
+- [[mushroom-identification-resources]]
 - [[mushroom-immune-cell-activation-mechanisms]]
 - [[mushroom-immunomodulation-mechanisms]]
 - [[mushroom-indoor-cultivation]]
@@ -1053,6 +1056,7 @@
 - [[oyster-mushroom-coffee-grounds-cultivation]]
 - [[oyster-mushroom-contamination-management]]
 - [[oyster-mushroom-contamination-prevention]]
+- [[oyster-mushroom-cultivation]]
 - [[oyster-mushroom-cultivation-methods]]
 - [[oyster-mushroom-fruiting-chamber-environment]]
 - [[oyster-mushroom-fruiting-conditions]]
@@ -1250,6 +1254,7 @@
 - [[psilocybin-mushroom-chemistry]]
 - [[psilocybin-mushroom-common-names-slang]]
 - [[psilocybin-mushroom-consciousness]]
+- [[psilocybin-mushroom-cultivation]]
 - [[psilocybin-mushroom-cultivation-basics]]
 - [[psilocybin-mushroom-cultivation-compost-basics]]
 - [[psilocybin-mushroom-cultural-artifacts]]
@@ -1469,6 +1474,7 @@
 - [[surface-sterilization-comparison-microwave-autoclave-gamma-uv-chemical-trade-offs]]
 - [[surface-sterilization-methods-comparison]]
 - [[surface-sterilization-methods-comparison-complex-geometries-thermal-chemical-residue]]
+- [[sustainable-mushroom-cultivation]]
 - [[sustaining-mushroom-crop-flushing-harvesting]]
 - [[swaziland-mushroom-project-lessons]]
 - [[synthetic-log-cultivation]]

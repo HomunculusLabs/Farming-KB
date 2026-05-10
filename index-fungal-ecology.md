@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2341 pages**
+**2353 pages**
 
 ## #
 
@@ -75,7 +75,6 @@
 - [[amanita-muscaria-pantherina-ibotenic-acid-muscimol-pharmacology]]
 - [[amanita-muscaria-pharmacology]]
 - [[amanita-muscaria-pharmacology-dosing-guide]]
-- [[amanita-muscaria-preparation-methods]]
 - [[amanita-muscaria-resurrection-experiments]]
 - [[amanita-muscaria-sacramental-wine-preparation]]
 - [[amanita-muscaria-use-australia-nz]]
@@ -85,6 +84,7 @@
 - [[amanita-phalloides-toxicology]]
 - [[amanita-poisoning-identification-antidotes-palmer]]
 - [[amanita-polymorphous-symbolic-names]]
+- [[amanita-preparation-methods]]
 - [[amanita-species-ecology-identification-mycohhizal]]
 - [[amanita-species-southeastern-us]]
 - [[amf-biocontrol-phytophthora-root-exudate-modification]]
@@ -151,6 +151,7 @@
 - [[basidiomycota-classification-major-clades]]
 - [[basidiospore-discharge-mechanism]]
 - [[battelle-diesel-mycoremediation-study]]
+- [[beber-mycelial-network-graph-theory-cord-routing]]
 - [[bee-feeding-and-fungal-pesticides]]
 - [[beta-diversity-distances-bulk-soil-rhizosphere-cannabis-endorhiza]]
 - [[beta-glucan-receptor-binding]]
@@ -201,6 +202,7 @@
 - [[biodiversity-of-fungi-fungal-phylogeny-kingdom-classification]]
 - [[biodiversity-of-fungi-fungal-survey-design-baseline-monitoring]]
 - [[biodiversity-of-fungi-herbarium-specimen-curation-best-practices]]
+- [[biodiversity-of-fungi-molecular-pcr-fungal-diversity]]
 - [[biodiversity-of-fungi-plant-health-pathogens-biocontrol]]
 - [[biodiversity-of-fungi-saprobic-soil-fungi]]
 - [[biodiversity-of-fungi-slime-molds-protostelid-dictyostelid]]
@@ -424,6 +426,7 @@
 - [[dark-septate-endophytes-root-colonizing-fungi]]
 - [[dark-septate-endophytes-stressed-environments]]
 - [[dark-taxa-fungi]]
+- [[davidson-mathematical-modeling-fungal-mycelia]]
 - [[decomposer-fungi-succession]]
 - [[decomposition]]
 - [[decomposition-cycles]]
@@ -698,6 +701,7 @@
 - [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi]]
 - [[fungal-bioweathering]]
 - [[fungal-bioweathering-and-mineral-transformations]]
+- [[fungal-bioweathering-of-rocks]]
 - [[fungal-bound-residue-formation]]
 - [[fungal-btex-and-chlorinated-monoaromatic-biodegradation]]
 - [[fungal-btex-biodegradation]]
@@ -1062,6 +1066,7 @@
 ## G
 
 - [[gadd-arbuscular-mycorrhizal-genomics]]
+- [[gadd-arbuscular-mycorrhizal-glomalin-soil-aggregation-carbon]]
 - [[gadd-aspergillus-fumigatus-glucan-virulence]]
 - [[gadd-beetle-gut-fungal-symbiosis]]
 - [[gadd-beetle-gut-fungal-symbiosis-and-coevolution]]
@@ -1273,6 +1278,7 @@
 - [[indigenous-use-neurotropic-fungi-mexico]]
 - [[indoor-wood-decay-fungi-building-deterioration]]
 - [[ingham-aact-fungal-disease-suppression-fusarium-rhizoctonia-anthracnose]]
+- [[ingham-alfalfa-pellets-fungal-food-brewing]]
 - [[ingham-bacteria-fungi-succession-humus-formation]]
 - [[ingham-bacterial-fungal-succession]]
 - [[ingham-bacterial-to-fungal-succession-soil-food-web]]
@@ -1289,6 +1295,7 @@
 - [[ingham-glomalin-soil-aggregation-arbuscular-mycorrhizal-glue]]
 - [[ingham-leaf-surface-biology-exudates]]
 - [[ingham-mycorrhizal-fungi-nutrient-transport-colonization]]
+- [[ingham-nematode-potato-cover-crop-rotation]]
 - [[ingham-osmotic-shock-sugar-selection-bacteria-fungi]]
 - [[ingham-paper-cardboard-fungal-foods-compost]]
 - [[ingham-single-species-vs-whole-community]]
@@ -1297,6 +1304,7 @@
 - [[ingham-sticker-spreader-surfactants]]
 - [[ingham-trichoderma-biocontrol-fungi-aact]]
 - [[ingham-trichoderma-biocontrol-fungi-biology-preactivation]]
+- [[ingham-wood-chips-compost-fungal-domination]]
 - [[ingoldian-aquatic-fungi]]
 - [[ingoldian-hyphomycetes-spore-dispersal-in-water]]
 - [[inocybe-aeruginascens-and-neurotropic-inocybe-species]]
@@ -1345,6 +1353,7 @@
 - [[laccase-mediator-system-dye]]
 - [[lactarius-cultivation-attempts]]
 - [[leaf-litter-microfungal-diversity-tropical-temperate]]
+- [[leake-mycorrhizal-carbon-cycle-global-sequestration]]
 - [[leake-mycorrhizal-carbon-sequestration-plant-community-composition]]
 - [[legume-and-fruit-vegetable-harvest]]
 - [[legume-nitrogen-dynamics]]
@@ -1504,6 +1513,7 @@
 - [[mushroom-spore-syringe-preparation]]
 - [[mushroom-spore-syringe-preparation-and-storage]]
 - [[mushroom-spore-syringe-preparation-inoculation]]
+- [[mushroom-spore-syringe-preparation-jarrold]]
 - [[mushroom-spore-syringes]]
 - [[mushroom-spore-visual-identification]]
 - [[mushroom-toxicology-palmer-theory]]
@@ -1623,6 +1633,7 @@
 - [[mycopesticides-stamets]]
 - [[mycophiles-and-mushroom-culture]]
 - [[mycophobia-in-western-culture]]
+- [[mycoremediation-applications]]
 - [[mycoremediation-basics]]
 - [[mycoremediation-bioreactor-design-considerations]]
 - [[mycoremediation-case-studies]]
@@ -1636,6 +1647,7 @@
 - [[mycoremediation-of-oil-spills]]
 - [[mycoremediation-of-plastics]]
 - [[mycoremediation-of-textile-dyes]]
+- [[mycoremediation-overview]]
 - [[mycoremediation-pah-and-pcb-degradation]]
 - [[mycoremediation-pahs]]
 - [[mycoremediation-pcbs-and-dioxins]]
@@ -1664,6 +1676,7 @@
 - [[mycorrhizal-biocontrol]]
 - [[mycorrhizal-biocontrol-phytophthora-root-exudates]]
 - [[mycorrhizal-carbon-allocation]]
+- [[mycorrhizal-carbon-cycle]]
 - [[mycorrhizal-carbon-nitrogen-economics]]
 - [[mycorrhizal-carbon-phosphorus-exchange]]
 - [[mycorrhizal-carbon-sequestration]]
@@ -1959,7 +1972,6 @@
 - [[saprotrophic-decomposition]]
 - [[saprotrophic-fungal-ecology]]
 - [[saprotrophic-fungi]]
-- [[saprotrophic-fungi-and-biogeochemical-cycles]]
 - [[saprotrophic-fungi-biogeochemical-cycles-gadd]]
 - [[saprotrophic-fungi-heterogeneous-environments]]
 - [[savory-soil-organic-matter-and-decomposition-dynamics]]
