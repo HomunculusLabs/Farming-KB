@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**949 pages**
+**951 pages**
 
 ## A
 
@@ -101,6 +101,7 @@
 - [[edge-effect-and-microclimate]]
 - [[edge-effect-ecology]]
 - [[energy-descent-action-planning]]
+- [[energy-descent-permaculture-response]]
 - [[ethical-investment-and-earth-banking]]
 
 ## F
@@ -684,6 +685,7 @@
 - [[permaculture-design-methods]]
 - [[permaculture-design-principles-and-sustainability]]
 - [[permaculture-design-principles-beginners]]
+- [[permaculture-design-principles-ethics]]
 - [[permaculture-design-principles-overview]]
 - [[permaculture-design-process]]
 - [[permaculture-design-process-overview]]

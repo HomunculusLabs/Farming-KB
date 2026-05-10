@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**212 pages**
+**213 pages**
 
 ## A
 
@@ -26,6 +26,7 @@
 - [[biodiesel-production]]
 - [[biogas-digester-basics]]
 - [[black-soldier-fly-larvae-as-feed]]
+- [[boil-a-bag-filter-can-construction]]
 - [[bokashi]]
 - [[building-with-natural-materials]]
 

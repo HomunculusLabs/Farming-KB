@@ -2,7 +2,7 @@
 
 > Medicinal plants, herbal preparations, functional mushrooms, and traditional plant medicine
 
-**59 pages**
+**58 pages**
 
 ## A
 
@@ -32,7 +32,6 @@
 
 ## G
 
-- [[ganoderic-acids]]
 - [[greek-wine-and-herbal-inebriants]]
 
 ## H
