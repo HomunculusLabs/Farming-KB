@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1273 pages**
+**1274 pages**
 
 ## A
 
@@ -765,6 +765,7 @@
 - [[query-how-do-i-design-a-multi-species-pasture-mix]]
 - [[query-how-do-i-design-a-windbreak-or-shelterbelt-for-my-property]]
 - [[query-how-do-i-design-an-apple-tree-guild]]
+- [[query-how-do-i-design-and-build-a-rain-garden]]
 - [[query-how-do-i-design-and-plant-a-hops-trellis-system-for-home-brewing]]
 - [[query-how-do-i-design-and-plant-a-living-fence]]
 - [[query-how-do-i-design-habitat-for-beneficial-insects]]

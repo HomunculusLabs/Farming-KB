@@ -27,7 +27,6 @@
 - [[biogas-digester-basics]]
 - [[black-soldier-fly-larvae-as-feed]]
 - [[boil-a-bag-filter-can-construction]]
-- [[bokashi]]
 - [[building-with-natural-materials]]
 
 ## C
@@ -170,6 +169,7 @@
 - [[natural-building-materials-guide]]
 - [[natural-building-overview]]
 - [[natural-farm-food-preservation-methods]]
+- [[natural-free-range-poultry-farming]]
 - [[natural-livestock-farming]]
 - [[natural-pool-building]]
 - [[nut-butter-making]]

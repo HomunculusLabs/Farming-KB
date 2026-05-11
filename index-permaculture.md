@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**1040 pages**
+**1041 pages**
 
 ## A
 
@@ -151,6 +151,7 @@
 - [[faires-water-harvesting-and-swales]]
 - [[farm-forestry-design-mollison]]
 - [[farming-with-air-water-and-sunlight]]
+- [[farming-with-air-water-sunlight]]
 - [[fodder-trees-livestock-permaculture]]
 - [[food-forest-design]]
 - [[food-forest-design-guide]]

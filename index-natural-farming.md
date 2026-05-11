@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**1078 pages**
+**1084 pages**
 
 ## A
 
@@ -12,7 +12,11 @@
 
 - [[bahay-kubo-fpj-and-ffj-fermentation]]
 - [[bahay-kubo-imo-collection-and-preparation]]
-- [[beneficial-indigenous-microorganisms-bim]]
+- [[beneficial-indigenous-microorganisms]]
+- [[beneficial-indigenous-microorganisms-lacto-bacilli]]
+- [[beneficial-indigenous-microorganisms-natural-farming]]
+- [[bionutrients-and-fermented-plant-extracts]]
+- [[bionutrients-fermented-plant-extracts]]
 - [[bionutrients-lab-fermented-fruit-juice-ffj]]
 - [[bionutrients-lab-fermented-plant-juice-fpj]]
 - [[bionutrients-lab-fish-aminos]]
@@ -73,6 +77,7 @@
 - [[coleman-mobile-greenhouse-mechanical-systems-skids-rails-runners-anchors]]
 - [[coleus-blumei-and-coleus-pumilus-potential-psychoactivity]]
 - [[cover-cropping-natural-farming]]
+- [[culturing-indigenous-microorganisms-techniques]]
 
 ## D
 
@@ -82,6 +87,7 @@
 ## E
 
 - [[effective-microorganisms-em]]
+- [[egyptian-mystery-schools-and-pyramid-initiation]]
 - [[electron-transport-chain-mitochondrial-respiration]]
 - [[empathogen-assisted-psychotherapy]]
 - [[empathogens-in-psychotherapy]]

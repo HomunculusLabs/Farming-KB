@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**561 pages**
+**562 pages**
 
 ## A
 
@@ -151,6 +151,7 @@
 ## D
 
 - [[deep-organic-soil-management]]
+- [[designer-compost-bokashi]]
 - [[designer-compost-bokashi-method]]
 - [[direct-seeded-no-tillage-rice-barley-clover-succession]]
 - [[direct-seeded-no-tillage-rice-barley-succession]]
