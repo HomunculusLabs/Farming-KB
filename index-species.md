@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**4323 pages**
+**4329 pages**
 
 ## #
 
@@ -1093,6 +1093,7 @@
 - [[clathrus-archeri]]
 - [[clathrus-ruber]]
 - [[claude-naranjo]]
+- [[claudio-naranjo]]
 - [[clavaria-vermicularis]]
 - [[clavaria-zollingeri]]
 - [[clavariadelphus-pistillaris]]
@@ -1368,6 +1369,7 @@
 - [[dave-jacke]]
 - [[david-arora]]
 - [[david-holmgren]]
+- [[david-nutt]]
 - [[davidia-involucrata]]
 - [[dbt-entity-tihkal]]
 - [[deconica-crobula]]
@@ -2216,6 +2218,7 @@
 - [[jagadis-chandra-bose]]
 - [[james-arthur]]
 - [[james-cuthill]]
+- [[james-fadiman]]
 - [[james-trappe]]
 - [[jasione-corymbosa]]
 - [[jasione-laevis]]
@@ -2559,6 +2562,7 @@
 - [[magnolia-acuminata]]
 - [[magnolia-grandiflora]]
 - [[magnolia-kobus]]
+- [[magnolia-macrophylla]]
 - [[magnolia-soulangeana]]
 - [[magnolia-soulangiana]]
 - [[magnolia-stellata]]
@@ -2581,6 +2585,7 @@
 - [[marchantia-paleacea]]
 - [[marchantia-polymorpha]]
 - [[maria-sabina]]
+- [[marilyn-ferguson]]
 - [[mark-shepard]]
 - [[marrubium-vulgare]]
 - [[marsilea-minuta]]
@@ -3588,6 +3593,7 @@
 - [[rick-strassman]]
 - [[rivea-corymbosa]]
 - [[robert-clarke]]
+- [[robin-carhart-harris]]
 - [[robinia-hispida]]
 - [[robinia-pseudoacacia]]
 - [[roger-heim]]

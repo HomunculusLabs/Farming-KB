@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**1032 pages**
+**1035 pages**
 
 ## A
 
@@ -298,6 +298,7 @@
 - [[fukuoka-japan-fruit-fly-free-quarantine-vulnerability]]
 - [[fukuoka-japan-postwar-agricultural-transformation-mechanization-trap]]
 - [[fukuoka-japan-postwar-agriculture]]
+- [[fukuoka-japan-postwar-mechanization-agricultural-transformation]]
 - [[fukuoka-japanese-cooking-culture-disappearing]]
 - [[fukuoka-japanese-diet-worse]]
 - [[fukuoka-kochi-rice-borer-eradication-debacle]]
@@ -459,6 +460,7 @@
 - [[fukuoka-pest-balance-without-chemicals]]
 - [[fukuoka-pest-ecology]]
 - [[fukuoka-pest-management-without-chemicals]]
+- [[fukuoka-pesticide-carnage-spider-firefly-dragonfly]]
 - [[fukuoka-pesticide-cascade-collapse-natural-balance]]
 - [[fukuoka-petroleum-agriculture-food-quality-decline]]
 - [[fukuoka-philosophy-eating]]
@@ -599,6 +601,7 @@
 - [[fukuoka-straw-soil-building]]
 - [[fukuoka-straw-vegetable-growing]]
 - [[fukuoka-straw-winter-grain-straw-mulch]]
+- [[fukuoka-sunken-hearth-and-village-philosophy]]
 - [[fukuoka-tasty-rice-illusion]]
 - [[fukuoka-tasty-rice-illusion-food-processing]]
 - [[fukuoka-the-one-straw-revolution-final-chapter]]

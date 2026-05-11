@@ -2,7 +2,7 @@
 
 > Fermented foods, beverages, probiotics, and traditional fermentation methods
 
-**39 pages**
+**40 pages**
 
 ## A
 
@@ -38,6 +38,7 @@
 ## I
 
 - [[ingham-biofilm-brewer-hygiene]]
+- [[ingham-molasses-brewing-ingredient-science]]
 - [[ingham-molasses-types-brewing-effects]]
 
 ## K

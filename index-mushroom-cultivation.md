@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1580 pages**
+**1583 pages**
 
 ## #
 
@@ -302,8 +302,11 @@
 - [[emcdda-multilingual-user-terminology-brand-names-hallucinogenic-mushrooms-europe]]
 - [[emcdda-natural-hallucinogen-sources-beyond-mushrooms]]
 - [[emcdda-psilocybin-mushroom-dose-and-effects]]
+- [[emcdda-psilocybin-mushroom-fresh-dried-product-forms-and-potency-variability-2006]]
+- [[emcdda-psilocybin-mushroom-market-variety-names-and-strain-marketing-2006]]
 - [[emcdda-psilocybin-mushroom-online-shop-market-snapshot-2006]]
 - [[emcdda-psilocybin-mushroom-potency-species-comparison-dosage-guidelines]]
+- [[emcdda-psilocybin-mushroom-somatic-health-risks-and-physiological-effects]]
 - [[emcdda-psilocybin-mushroom-species-and-identification]]
 - [[emcdda-return-to-nature-megatrend-mushroom-appeal]]
 - [[emcdda-smartshop-trade-online-distribution-mushrooms]]

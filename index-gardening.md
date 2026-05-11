@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1108 pages**
+**1121 pages**
 
 ## A
 
@@ -72,6 +72,7 @@
 - [[chacruna-plant]]
 - [[chamomile-growing-guide]]
 - [[chamovitz-circadian-rhythm-internal-clock-plants]]
+- [[chamovitz-electromagnetic-spectrum-light-wavelengths-plant-perception]]
 - [[chamovitz-gradualist-framework-plant-sensory-capabilities]]
 - [[chamovitz-gravitropism-plant-knows-where-it-is]]
 - [[chamovitz-plant-acoustic-and-vibration-sensing]]
@@ -82,6 +83,8 @@
 - [[chamovitz-plant-senses-overview]]
 - [[chamovitz-plant-vision-photoreception-systems-compared]]
 - [[chamovitz-red-far-red-phytochrome-switch-and-plant-memory]]
+- [[chamovitz-retina-photoreceptor-rod-cone-resolution-plant-comparison]]
+- [[chamovitz-rhodopsin-photopsin-visual-pigment-chemistry-plant-parallels]]
 - [[chamovitz-ultraviolet-and-infrared-plant-light-perception]]
 - [[chamovitz-what-a-plant-knows-overview]]
 - [[chelation-and-metal-binding-in-plants]]
@@ -110,6 +113,8 @@
 - [[cold-frame-gardening]]
 - [[cold-greenhouse-design-unheated]]
 - [[cold-greenhouse-growing]]
+- [[cold-greenhouse-winter-harvest]]
+- [[cold-hardy-winter-vegetables]]
 - [[cold-house-winter-harvest-system]]
 - [[cole-crop-harvest-and-storage]]
 - [[coleman-baby-leaf-mix-quality-standards-ingredients]]
@@ -283,6 +288,7 @@
 - [[darwin-plant-movement-experiments]]
 - [[darwin-power-movement-in-plants]]
 - [[darwin-power-of-movement-in-plants]]
+- [[darwins-five-condition-phototropism-experiment-plant-vision]]
 - [[deep-water-culture]]
 - [[desalination-and-water-treatment-technologies]]
 - [[desert-gardening]]
@@ -545,6 +551,7 @@
 - [[honey-locust-pod-fodder-timber-production]]
 - [[human-eye-photoreceptor-analogy-plant-light-perception]]
 - [[human-eye-plant-photoreceptor-comparative-analysis]]
+- [[human-retina-photoreceptors-vs-plant-light-perception]]
 - [[human-vs-plant-photoreception-comparison]]
 - [[human-vs-plant-photoreception-rods-cones-phytochrome]]
 - [[human-vs-plant-photoreceptor-systems-comparison]]
@@ -639,6 +646,7 @@
 - [[microbial-terroir-and-crop-specificity]]
 - [[microplastic-bioremediation]]
 - [[miniculture-rye-grain-cultivation-method-for-psilocybe-cubensis]]
+- [[mobile-greenhouse-system]]
 - [[mobile-greenhouses]]
 - [[molecular-bonds-and-chemistry-for-gardeners]]
 - [[molecules-of-life-in-plants]]
@@ -949,6 +957,7 @@
 - [[solomon-double-digging]]
 - [[solomon-drip-irrigation-limitations-home-garden]]
 - [[solomon-drought-gardening-and-water-conservation]]
+- [[solomon-dry-farming-water-less-vegetable-gardening]]
 - [[solomon-ethical-mail-order-seed-business]]
 - [[solomon-fertigation-and-transplant-establishment]]
 - [[solomon-food-preservation-storage]]
@@ -976,6 +985,7 @@
 - [[solomon-hard-times-gardening-philosophy-self-sufficiency]]
 - [[solomon-harvesting-techniques-and-timing]]
 - [[solomon-hill-planting-large-vegetables-spacing]]
+- [[solomon-hybrid-op-seed-nutrition-variety-decline]]
 - [[solomon-hybrid-to-open-pollinated-variety-conversion-breeding]]
 - [[solomon-hybrid-vs-open-pollinated]]
 - [[solomon-insects-and-diseases-integrated-approach]]
@@ -1003,6 +1013,7 @@
 - [[solomon-row-covers-and-season-extension]]
 - [[solomon-row-covers-physical-pest-exclusion]]
 - [[solomon-seed-drilling-spacing-precision-sowing]]
+- [[solomon-seed-germination-science-laboratory-methods]]
 - [[solomon-seed-quality-and-germination-testing]]
 - [[solomon-seed-saving-fundamentals]]
 - [[solomon-seed-saving-guide]]
@@ -1017,6 +1028,7 @@
 - [[solomon-sprinkler-irrigation-system-design]]
 - [[solomon-sprinkler-irrigation-vegetable-gardens]]
 - [[solomon-sprouting-seeds-and-early-season-nutrition]]
+- [[solomon-sweet-potato-cultivation-guide]]
 - [[solomon-thinning-overseeding-stand-establishment]]
 - [[solomon-thinning-spacing-and-direct-seeding]]
 - [[solomon-tool-care-sharpening-shovels-hoes-essential-gardening]]
@@ -1122,6 +1134,7 @@
 - [[vegetable-garden-fertilization]]
 - [[vegetable-garden-guide]]
 - [[vegetable-garden-harvest]]
+- [[vegetable-garden-spacing-systems-solomon]]
 - [[vegetable-garden-watering-systems-spacing]]
 - [[vegetable-growing-guide]]
 - [[vegetable-growing-guide-solomon]]

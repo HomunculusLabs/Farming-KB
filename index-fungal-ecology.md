@@ -2,7 +2,7 @@
 
 > Mycology, fungal biology, symbiosis, ecology, soil food web, and fungal diversity
 
-**2559 pages**
+**2580 pages**
 
 ## #
 
@@ -28,6 +28,7 @@
 - [[adaptive-significance-mushroom-tropisms-spore-dispersal]]
 - [[aflatoxin-turkey-x-disease-1960-discovery-peanut-meal]]
 - [[aflatoxins-mycotoxins-food]]
+- [[african-neurotropic-fungi-distribution-and-underexplored-biodiversity-guzman-1998]]
 - [[african-neurotropic-fungi-distribution-gaps-exploration-potential]]
 - [[african-truffle-species]]
 - [[agaricales-order]]
@@ -156,6 +157,7 @@
 - [[bark-xylotropic-endophytes-woody-tissue-colonization]]
 - [[basidiomycete-mating-systems-sexual-reproduction]]
 - [[basidiomycete-phylum-guide]]
+- [[basidiomycete-sexual-reproduction-and-clamp-connections]]
 - [[basidiomycetous-yeasts-ballistoconidia-biocontrol]]
 - [[basidiomycetous-yeasts-diversity-phylogenetic-distribution]]
 - [[basidiomycota-and-basidiospore-biology]]
@@ -294,6 +296,7 @@
 - [[bloomfield-fungal-life-cycle-spiral-versus-circle]]
 - [[bloomfield-fungal-parasites-of-insects]]
 - [[bloomfield-fungal-pathogens-and-parasites]]
+- [[bloomfield-fungal-pathogens-human-opportunistic-infections]]
 - [[bloomfield-fungal-pheromones-sexual-signaling-antheridiol-oogoniol]]
 - [[bloomfield-fungal-plant-pathogens]]
 - [[bloomfield-fungal-pleomorphy-anamorph-teleomorph]]
@@ -308,6 +311,7 @@
 - [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]
 - [[bloomfield-history-of-mycology-pioneers]]
 - [[bloomfield-hyphal-proton-pump-nutrient-uptake-electrical-biology]]
+- [[bloomfield-ingold-spore-discharge-ballistics]]
 - [[bloomfield-ingoldian-aquatic-fungi-spore-dispersal]]
 - [[bloomfield-ingoldian-aquatic-fungi-tetraradiate-spores-foam]]
 - [[bloomfield-john-webster-ballistospore-discharge-discovery]]
@@ -342,6 +346,7 @@
 - [[bloomfield-siren-songs-fungal-chemical-communication-reproduction-chapter-7]]
 - [[bloomfield-slime-molds-myxomycetes-plasmodial-protists]]
 - [[bloomfield-sphaerobolus-artillery-fungus-spore-launch]]
+- [[bloomfield-stinkhorn-egg-stage-and-pheromone-dispersal]]
 - [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]]
 - [[bloomfield-stokes-law-fungal-spore-sedimentation]]
 - [[bloomfield-stramenopila-oomycete-fungal-kingdom-distinction]]
@@ -400,6 +405,7 @@
 - [[cannabis-endorhiza-core-community-bacterial-endophytes]]
 - [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales]]
 - [[cannabis-rhizosphere-bacterial-communities]]
+- [[cannabis-rhizosphere-bulk-soil-divergence-core-microbiome-conservation]]
 - [[cannabis-rhizosphere-bulk-soil-microbial-comparison]]
 - [[cannabis-rhizosphere-bulk-soil-similarity-endorhiza-divergence]]
 - [[cannabis-rhizosphere-community-structure-edaphic-factors]]
@@ -443,6 +449,7 @@
 - [[companion-planting-with-fungi]]
 - [[compartmented-in-vitro-systems-am-transport]]
 - [[composting-humus-building-holzer]]
+- [[conidia-and-asexual-reproduction-in-filamentous-fungi]]
 - [[conocybe-cyanopus-profile]]
 - [[contamination-prevention-mycology]]
 - [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
@@ -661,6 +668,7 @@
 - [[ethnomycology-wasson-discovery-narrative]]
 - [[ethylene-involvement-fungal-tropism-avoidance-response]]
 - [[european-truffles]]
+- [[evaporative-demand-and-fungal-growth]]
 - [[evaporative-demand-mechanism-fungi]]
 - [[extremophilic-fungi]]
 
@@ -692,6 +700,7 @@
 - [[freshwater-fungi-biodiversity]]
 - [[freshwater-fungi-diversity-and-sampling]]
 - [[freshwater-fungi-sampling]]
+- [[fukuoka-ecosystem-cascade-pine-beetle-nematode-bamboo]]
 - [[fukuoka-high-yield-theory-photosynthesis-critique]]
 - [[fukuoka-matsutake-artificial-cultivation-attempt]]
 - [[fukuoka-matsutake-culture-medium-appendix]]
@@ -747,6 +756,7 @@
 - [[fungal-biodiversity-estimation]]
 - [[fungal-biodiversity-estimation-and-diversity-indices]]
 - [[fungal-biodiversity-estimation-gap-undiscovered-species]]
+- [[fungal-biodiversity-estimation-methods]]
 - [[fungal-biodiversity-forest-ecosystems]]
 - [[fungal-biodiversity-grassland]]
 - [[fungal-biodiversity-herbarium-collections]]
@@ -793,6 +803,7 @@
 - [[fungal-calcium-oxalate-crystals]]
 - [[fungal-calcium-signalling]]
 - [[fungal-cave-diversity]]
+- [[fungal-cell-wall-composition-and-structural-organization]]
 - [[fungal-cellulose-degradation]]
 - [[fungal-chemical-signaling]]
 - [[fungal-chitosan-biotechnology-applications]]
@@ -1067,6 +1078,7 @@
 - [[fungal-species-richness-and-diversity-indices]]
 - [[fungal-specimen-collection-herbarium-management]]
 - [[fungal-specimen-preparation-preservation-herbarium-storage]]
+- [[fungal-specimen-preservation-herbarium]]
 - [[fungal-spore-biology]]
 - [[fungal-spore-biology-dispersal]]
 - [[fungal-spore-discharge-catapult-mechanism]]
@@ -1121,6 +1133,10 @@
 - [[fungi-cultivated-mushrooms-pathogens-competitors]]
 - [[fungi-dominant-soil-biomass-ecosystem-engineers]]
 - [[fungi-ecosystem-health-indicators]]
+- [[fungi-environment-biogeochemical-cycling-mineral-transformations]]
+- [[fungi-environment-mathematical-modelling-mycelial-growth]]
+- [[fungi-environment-mycelial-nutrient-transport-imaging]]
+- [[fungi-environment-woronin-bodies-septal-pore-plugging-euascomycetes]]
 - [[fungi-forest-fire-succession-litter-dighton]]
 - [[fungi-grassland-agricultural-ecosystems-dighton]]
 - [[fungi-in-climate-change]]
@@ -1264,6 +1280,7 @@
 - [[genetic-engineering-fungal-bioremediation]]
 - [[genetic-engineering-of-fungi-for-mycoremediation]]
 - [[genetic-improvement-agaricus-bisporus-molecular-approaches]]
+- [[geomycology-mineral-transformations]]
 - [[geosiphon-pyriforme-endosymbiosis]]
 - [[geotropism-and-spore-production-in-mushrooms]]
 - [[geotropism-in-basidiomycetes]]
@@ -1360,6 +1377,7 @@
 - [[gymnopilus-genus-neurotropic-species]]
 - [[gymnopilus-purpuratus-profile]]
 - [[gymnopilus-spectabilis-profile]]
+- [[gyromitrin-and-fungal-hydrazine-toxins]]
 
 ## H
 
@@ -1566,6 +1584,7 @@
 - [[mckenna-interstellar-spore-percolation-theory]]
 - [[mckenna-leafcutter-ant-fungal-agriculture]]
 - [[mckenna-psilocybin-coprophilous-ecology-and-bovine-symbiosis]]
+- [[mckenna-purple-spore-ultraviolet-absorption-and-electron-density]]
 - [[mckenna-spore-brownian-motion-and-galactic-percolation]]
 - [[mckenna-stropharia-cattle-nomadic-symbiosis-human-gene-carrier]]
 - [[mckenna-stropharia-cubensis-extraterrestrial-hypothesis-spore-dispersal]]
@@ -1609,6 +1628,7 @@
 - [[mold-identification-guide]]
 - [[molecular-fungal-taxonomy]]
 - [[molecular-methods-fungal-diversity]]
+- [[molecular-methods-fungal-taxonomy]]
 - [[molecular-methods-fungal-taxonomy-and-diversity]]
 - [[molecular-methods-in-situ-fungal-diversity-monitoring]]
 - [[mollison-avenue-cropping-with-legumes]]
@@ -1636,6 +1656,7 @@
 - [[mushroom-cultivator-life-cycle-and-spore-germination]]
 - [[mushroom-cultivator-tissue-culture-spore-germination]]
 - [[mushroom-geotropism-and-spore-formation]]
+- [[mushroom-geotropism-and-spore-production]]
 - [[mushroom-geotropism-spore-formation]]
 - [[mushroom-growth-hormone-decapitation-gill-diffusate-evidence-basidiomycetes]]
 - [[mushroom-hormones-gill-directed-tropism-basidiomycete-development]]
