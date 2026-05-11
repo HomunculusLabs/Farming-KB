@@ -2,7 +2,7 @@
 
 > Permaculture principles, ecological design, water management, community resilience, and bioregional organization
 
-**984 pages**
+**985 pages**
 
 ## A
 
@@ -225,6 +225,7 @@
 - [[holmgren-third-wave-environmentalism-model]]
 - [[holmgren-transport-speed-and-energy-descent]]
 - [[holmgren-trees-solar-power-plants-detailed]]
+- [[holmgren-trophic-pyramid-energy-hierarchy-societies]]
 - [[holmgren-use-edges-and-value-the-marginal]]
 - [[holmgren-vegetation-patterns-biomass-fertility]]
 - [[holmgren-voluntary-frugality-energy-descent-prosperous-road-down]]

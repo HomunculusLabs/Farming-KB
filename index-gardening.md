@@ -2,7 +2,7 @@
 
 > Vegetable gardening, orcharding, food preservation, irrigation, season extension, and homesteading skills
 
-**1079 pages**
+**1087 pages**
 
 ## A
 
@@ -133,6 +133,7 @@
 - [[coleman-deep-organic-farming]]
 - [[coleman-deep-organic-farming-philosophy]]
 - [[coleman-deep-organic-history-and-philosophy]]
+- [[coleman-deep-organic-shallow-organic-farming-comparison]]
 - [[coleman-deep-organic-vs-shallow-organic-farming]]
 - [[coleman-direct-marketing-and-csa-models]]
 - [[coleman-double-cover-air-inflated-trial-temperature-data]]
@@ -140,6 +141,7 @@
 - [[coleman-double-cover-microclimate-protection]]
 - [[coleman-double-layer-climate-modification-temperature-data]]
 - [[coleman-double-layer-protection-greenhouse-row-cover]]
+- [[coleman-double-layer-protection-temperature-performance]]
 - [[coleman-drip-irrigation-and-water-management]]
 - [[coleman-emery-emmert-plastic-greenhouse-pioneer]]
 - [[coleman-first-rule-nature-makes-sense]]
@@ -166,6 +168,7 @@
 - [[coleman-la-quentinie-versailles-potager]]
 - [[coleman-lady-eve-balfour-organic-farming-philosophy]]
 - [[coleman-leek-deep-planting-technique]]
+- [[coleman-louis-savier-french-market-garden-modernization]]
 - [[coleman-louis-savier-twentieth-century-maraicher]]
 - [[coleman-mache]]
 - [[coleman-mache-and-specialty-winter-greens]]
@@ -232,6 +235,7 @@
 - [[coleman-winter-kale-brassica-cold-house-management]]
 - [[coleman-winter-salad-braising-mix-composition]]
 - [[coleman-winter-scallion-production-cold-house]]
+- [[coleman-winter-spinach-dependable-cold-house-crop]]
 - [[coleman-winter-succession-planting-sowing-date-calculations-crop-timing]]
 - [[coleman-winter-vegetable-cold-sweetening-mechanism]]
 - [[coleman-wire-wicket-row-covers-protective-cultivation]]
@@ -260,6 +264,7 @@
 - [[cucumber-growing-guide]]
 - [[cultivar-specificity-microbiome-plant-genotype]]
 - [[cultivar-specificity-plant-microbiome]]
+- [[cultivar-specificity-plant-microbiomes]]
 - [[cytokinin-plant-growth-and-development]]
 
 ## D
@@ -712,12 +717,14 @@
 - [[photoperiodism-plant-flowering]]
 - [[photoperiodism-plants]]
 - [[photoperiodism-plants-measure-night-length]]
+- [[photoreceptors-in-plants-phytochrome-cryptochrome]]
 - [[phototropin-blue-light-receptor-plant-directional-sensing]]
 - [[phototropism-and-plant-light-responses]]
 - [[phototropism-darwin-plant-light-response]]
 - [[phototropism-darwin-plant-light-sensing]]
 - [[phototropism-darwin-plants]]
 - [[phototropism-in-plants]]
+- [[phototropism-plant-light-perception]]
 - [[phytochrome-and-plant-photoperiodism]]
 - [[phytochrome-photoperiodism-plant-flowering]]
 - [[phytochrome-photoperiodism-plants]]
@@ -803,6 +810,7 @@
 - [[plant-sensing-communication]]
 - [[plant-sensory-biology]]
 - [[plant-sensory-biology-chamovitz]]
+- [[plant-sensory-biology-overview]]
 - [[plant-sensory-biology-smell-touch-hearing]]
 - [[plant-sensory-perception]]
 - [[plant-signaling-pathways]]

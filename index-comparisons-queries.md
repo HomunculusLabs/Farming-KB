@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1247 pages**
+**1252 pages**
 
 ## A
 
@@ -510,8 +510,12 @@
 - [[comparison-sheet-mulching-vs-chop-and-drop-mulching]]
 - [[comparison-sheet-mulching-vs-double-digging]]
 - [[comparison-sheet-mulching-vs-square-foot-gardening]]
+- [[comparison-shiitake-vs-chaga]]
+- [[comparison-shiitake-vs-lions-mane]]
 - [[comparison-shiitake-vs-oyster-cultivation]]
+- [[comparison-shiitake-vs-reishi]]
 - [[comparison-shiitake-vs-reishi-medicinal-mushrooms]]
+- [[comparison-shiitake-vs-turkey-tail]]
 - [[comparison-silicon-vs-calcium-in-plant-defense-and-structural-support]]
 - [[comparison-silvopasture-systems-vs-pasture-management]]
 - [[comparison-silvopasture-vs-pasture]]
@@ -776,6 +780,7 @@
 - [[query-how-do-i-grow-gooseberries-and-currants]]
 - [[query-how-do-i-grow-horseradish-and-prevent-it-from-spreading]]
 - [[query-how-do-i-grow-king-oyster-mushrooms]]
+- [[query-how-do-i-grow-lavender-and-what-are-its-uses]]
 - [[query-how-do-i-grow-mulberry-trees]]
 - [[query-how-do-i-grow-mushrooms-on-coffee-grounds]]
 - [[query-how-do-i-grow-mushrooms-using-log-cultivation]]

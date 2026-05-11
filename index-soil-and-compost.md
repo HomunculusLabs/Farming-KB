@@ -2,7 +2,7 @@
 
 > Soil science, composting, compost tea, mineral management, and the soil food web
 
-**550 pages**
+**551 pages**
 
 ## A
 
@@ -86,6 +86,7 @@
 - [[clay-soil-management-solomon]]
 - [[clay-soil-management-vegetable-garden-solomon]]
 - [[coleman-aphid-management-winter-greenhouse-nitrogen-flushing]]
+- [[coleman-aphid-nitrogen-flushing-winter-greenhouse-management]]
 - [[coleman-compost-and-organic-fertility-management]]
 - [[coleman-cover-crop-rotation-and-soil-health]]
 - [[coleman-french-maraicher-horse-manure-hotbed-system]]
