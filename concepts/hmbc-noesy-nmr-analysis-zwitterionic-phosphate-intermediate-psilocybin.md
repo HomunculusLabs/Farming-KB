@@ -1,5 +1,5 @@
 ---
-title: Hmbc Noesy Nmr Analysis [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] Psilocybin
+title: "Hmbc Noesy Nmr Analysis [[psilocybin-synthesis-zwitterionic-phosphate-intermediate-shirota-2003]] Psilocybin"
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md
 tags: [NMR, HMBC, NOESY, zwitterionic, phosphate-intermediate, psilocybin-synthesis, 2D-NMR, structural-elucidation, shirota, spectroscopy]
 created: 2026-05-08

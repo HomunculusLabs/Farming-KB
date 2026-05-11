@@ -84,6 +84,6 @@ are more readily bioaccumulated. Conversely, reduction reactions may
 decrease toxicity by converting metals to less bioavailable forms.
 Understanding these transformations is essential for predicting the
 ecological consequences of metal contamination and for designing
-effective [[bioremediation-strategies]].
+effective [[bioremediation-monitoring-and-assessment]].
 
 ## Organic Degradation Capabilities

@@ -1,5 +1,5 @@
 ---
-title: [[medicinal-mushroom-guide]] Oyster
+title: Medicinal Mushroom Guide Oyster
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

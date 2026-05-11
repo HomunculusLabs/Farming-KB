@@ -1,5 +1,5 @@
 ---
-title: Sepp Holzer Cattle And Poultry Management
+title: "Sepp Holzer Cattle And Poultry Management"
 created: 2026-04-19
 updated: 2026-04-19
 type: concept
@@ -13,7 +13,7 @@ Updated: 2026-04-18
 
 Source: Sepp Holzer, *Sepp Holzer's Permaculture* (2010)
 
-Beyond pigs, Sepp Holzer integrates wild cattle breeds and poultry into the Krameterhof permaculture system, each fulfilling multiple functions in the landscape.
+Beyond pigs, Sepp Holzer integrates [[holzer-wild-cattle-and-old-breeds]] breeds and poultry into the Krameterhof permaculture system, each fulfilling multiple functions in the landscape.
 
 ## Wild Cattle and Old Domestic Breeds
 

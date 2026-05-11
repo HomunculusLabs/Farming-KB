@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [mushrooms, fungi, cultivation, species, potency, species-profiles, psychopharmacology, genetics]
-sources: []
+sources:
+  - "raw/papers/terence-mckenna-food-of-the-gods.md"
 ---
 
 ## Overview
@@ -147,4 +148,3 @@ It is important to understand that strain selection is less important than genet
 ## Related Topics
 
 - [[mushroom-agar-work]] — isolating and selecting the best genetics within a strain
-- [[psilocybin-mushroom-cultivation]] — cultivation overview for applying strain knowledge

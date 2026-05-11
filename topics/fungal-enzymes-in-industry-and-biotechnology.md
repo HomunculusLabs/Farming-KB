@@ -108,7 +108,7 @@ enzyme sales worldwide.
 - [[laccase-catalyzed-degradation]]
 - [[laccase-mediator-system-dye]]
 - [[hemicellulase-enzyme-systems]]
-- [[lignin-degradation-by-fungi]]
+- [[Lignin]]
 - lignin-degradation-mechanisms-wood-rot-fungi
 - brown-rot-fungi-biodegradation
 - [[brown-rot-white-rot-fungi-remediation]]

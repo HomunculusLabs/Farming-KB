@@ -20,7 +20,7 @@ Stamets presents a chart sampling research on species-specific metal uptake. Key
 | [[paxillus-atrotomentosus]] | Radioactive Cesium | 1,180× |
 | Boletus badius | Radioactive Cesium | 3,030 Bq/kg |
 | Cortinarius hercynicus | Radioactive Cesium | 6,750 Bq/kg |
-| [[elaphomyces-granulatus]] | Radioactive Cesium | 25,660 Bq/kg |
+| [[Elaphomyces]] | Radioactive Cesium | 25,660 Bq/kg |
 | Chlorophyllum rachodes | Cadmium | 250× |
 | Tricholoma magnivelare (Matsutake) | Arsenic | 100× |
 | [[coprinus-comatus]] (Shaggy mane) | Arsenic | 27× |

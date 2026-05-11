@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [gardening, climate, season-extension, plants, cultivation, earthworks, conservation]
-sources: []
+sources:
+  - "raw/papers/one-straw-revolution-masanobu-fukuoka.md"
 ---
 
 # Mountain Gardening
@@ -147,4 +148,3 @@ Mountain soils are typically shallow, rocky, and low in [[fukuoka-textdoc-compos
 - Use raised beds to increase rooting depth above rocky subsoil
 - Plant [[green-manure-cover-crops]] crops during short off-seasons (hairy vetch, field peas, oats, winter rye)
 - Mulch heavily to retain moisture and build organic matter
-- Add biochar to improve nutrient retention in sandy mountain soils

@@ -1,5 +1,5 @@
 ---
-title: Pf [[pf-tek-perlite-humidification-technique]] [[accessible-mushroom-cultivation-for-disabilities]]
+title: Pf Tek Perlite Humidification Mushroom Cultivation
 source: PF TEK - [[pf-tek-psilocybe-fanaticus]]
 ---
 

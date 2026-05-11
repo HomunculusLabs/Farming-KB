@@ -19,7 +19,7 @@ phosphate biogenesis.
 [[gadd-fungal-biosorption-metal-contamination-remediation]] from mining, industry, and agriculture releases toxic
 elements — lead, cadmium, arsenic, uranium, copper, zinc — into soil and
 water systems. In their soluble ionic forms, these metals are mobile,
-bioavailable, and harmful to organisms. [[bioremediation-strategies]] aim to
+bioavailable, and harmful to organisms. [[bioremediation-monitoring-and-assessment]] aim to
 immobilize metals, converting them from soluble ions to insoluble minerals
 that remain fixed in place and cannot enter biological systems.
 

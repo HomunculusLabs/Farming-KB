@@ -1,5 +1,5 @@
 ---
-title: [[gadd-rice-blast-fungus-magnaporthe-grisea-functional-genomics]] [[functional-genomics-arbuscular-mycorrhiza]]
+title: Rice Blast Fungus Functional Genomics
 source: fungi-in-the-environment-gadd-watkinson-dyer
 source_author: Gadd, Watkinson, Dyer (eds.)
 tags: [fungi, magnaporthe, rice-blast, genomics, plant-pathology, appressorium, functional-genomics, phytopathology]

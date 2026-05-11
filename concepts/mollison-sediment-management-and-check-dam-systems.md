@@ -1,5 +1,5 @@
 ---
-title: Mollison Sediment Management And [[mollison-designers-check-dam-types-and-landscape-placement]] Systems
+title: "Mollison Sediment Management And [[mollison-designers-check-dam-types-and-landscape-placement]] Systems"
 created: 2026-04-26
 tags:
   - [[permaculture]]

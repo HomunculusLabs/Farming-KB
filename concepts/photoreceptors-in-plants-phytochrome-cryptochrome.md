@@ -61,7 +61,7 @@ Phytochromes regulate an enormous range of plant processes:
 - **De-etiolation**: When a seedling emerges from soil, phytochrome detects light and switches from etiolated (pale, elongated) to green, photosynthetically competent growth
 - **Shade avoidance**: Low red:far-red ratio (caused by canopy filtering) triggers stem elongation and leaf hyponasty
 - **Photoperiodic flowering**: Pfr reversion during the night measures dark period length
-- **Circadian clock entrainment**: Phytochrome signals help synchronize the plant's [[chamovitz-circadian-rhythm-internal-clock-plants]] to external light-dark cycles
+- **Circadian clock entrainment**: Phytochrome signals help synchronize the plant's [[chrysanthemum]] to external light-dark cycles
 
 ## Cryptochromes: Blue and UV-A Sensors
 

@@ -80,7 +80,7 @@ The Rev notes this is "perfect for a cheeky toke before work or in the middle of
 
 ### Within the Trainwreck Family
 
-Chupacabra sits within the modern Trainwreck [[haze-breeding-lineage]] alongside:
+Chupacabra sits within the modern Trainwreck [[Haze]] alongside:
 
 - **Original Trainwreck**: The legendary Mexican-Thai hybrid from Northern California
 - **Arcata Trainwreck**: The Humboldt-selected cut used in CookieWreck and other crosses

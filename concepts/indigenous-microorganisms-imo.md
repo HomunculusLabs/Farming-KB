@@ -1,6 +1,6 @@
 ---
 
-title: [[bionutrients-lab-indigenous-microorganisms-imo]]
+title: Indigenous Microorganisms Imo
 created: 2026-04-10
 updated: 2026-04-12
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: Harner Campa Ayahuasca Ceremony
+title: "Harner Campa Ayahuasca Ceremony"
 created: 2026-04-26
 sources: Harner (ed.), Hallucinogens and Shamanism (1973), Ch. 4 (Weiss)
 related:

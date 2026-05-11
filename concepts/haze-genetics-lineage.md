@@ -7,8 +7,8 @@ created: 2026-05-10
 
 # Haze Genetics and Lineage
 
-The Haze lineage [[haze-breeding-lineage]] is one of the most important and influential family trees in modern
-[[cannabis-breeding-basics]] [[haze-breeding-lineage]]. Originating in Northern California in the 1970s, Haze and its
+The Haze lineage [[Haze]] is one of the most important and influential family trees in modern
+[[cannabis-breeding-basics]] [[Haze]]. Originating in Northern California in the 1970s, Haze and its
 countless descendants have shaped the genetic landscape of sativa-dominant cannabis
 worldwide. Understanding Haze genetics is essential for anyone studying cannabis
 [[haze-cannabis-lineage-and-breeding-history]] or selecting sativa strains for cultivation.

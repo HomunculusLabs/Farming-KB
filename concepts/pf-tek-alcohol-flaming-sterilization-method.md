@@ -1,5 +1,5 @@
 ---
-title: Pf Tek [[inoculation-technique-and-alcohol-flaming]] [[sterilization]] Method
+title: "Pf Tek [[inoculation-technique-and-alcohol-flaming]] [[sterilization]] Method"
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 topics: alcohol flame, needle sterilization, denatured alcohol, butane vs alcohol
 created: 2026-05-08

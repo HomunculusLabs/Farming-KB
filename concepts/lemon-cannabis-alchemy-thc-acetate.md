@@ -1,5 +1,5 @@
 ---
-title: [[lemon-cannabis-alchemy-advanced-refinement-techniques]] [[cannabis-thc-acetate-preparation]]
+title: "[[lemon-cannabis-alchemy-advanced-refinement-techniques]] [[cannabis-thc-acetate-preparation]]"
 created: 2026-04-28
 tags: [cannabis, thc-acetate,ben-lemony, synthesis, potency]
 date: 2026-04-28

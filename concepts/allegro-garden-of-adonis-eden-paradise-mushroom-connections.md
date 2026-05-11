@@ -1,0 +1,130 @@
+---
+title: [[allegro-garden-of-eden-and-delight]] Adonis Eden and Paradise as Mushroom References
+source: allegro-j-the-sacred-mushroomcross.md
+type: concept
+---
+
+# The Garden of Adonis, Eden, and Paradise as Mushroom References
+
+In John Allegro's philological analysis, the biblical Garden of Eden, the Qur'anic "gardens of
+delight," and the ancient "Gardens of Adonis" ritual all share a common origin in Sumerian
+[[hallucinogenic-mushroom-terminology-european-languages-emcdda-2006]]. The word for "garden" itself encodes the shape of the mushroom cap, and
+the names associated with these paradisiacal gardens derive from epithets for the sacred fungus.
+What later generations understood as spiritual metaphors for paradise were, in Allegro's
+reading, originally concrete references to a very specific botanical object and the ecstatic
+religious experience it produced.
+
+## The Gardens of Adonis Ritual
+
+The prophet Ezekiel describes women weeping for Tammuz at the north gate of the Jerusalem Temple
+(Ezekiel 8:14). Jerome, in his Latin Vulgate translation, rendered Tammuz as "Adonis," correctly
+recognizing the equivalence between the Mesopotamian god Tammuz and his Semitic and later Greek
+counterpart Adonis. Both were dying-and-rising vegetation deities whose cults involved ritual
+laments designed to prompt their return from the underworld. The identification is linguistically
+sound: the names Tammuz and Adonis (from the Semitic *'adōn*, "lord") refer to the same divine
+figure worshipped across the Fertile Crescent under different local names.
+
+Well into the 4th and 5th centuries AD, a grove connected with Adonis still existed at Bethlehem.
+Christian writers of the period attest to its continued veneration, demonstrating the persistence
+of the older cult in a region that had by then been Christian for centuries. The ritual of the
+Gardens of Adonis was widely attested across the ancient Near East and Mediterranean world.
+Women would gather round shallow pots or baskets in which seedlings—wheat, barley, fennel, or
+lettuce—had been hastily planted in a thin layer of soil. They would urge the germination of
+these plants through lamentation for the dead god, weeping and wailing to call on him to return.
+The shoots would sprout rapidly in the warm sun but soon wither, having no proper root system to
+sustain them. This was a form of sympathetic magic: the quick growth and sudden death of the
+seedlings mirrored the hoped-for cycle of the crops and the god himself—death followed by swift
+renewal.
+
+Allegro argues that the ritual's true origin lies not in sympathetic crop magic but in the search
+for [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]], whose growth pattern perfectly matches the imagery of overnight
+appearance and sudden death. The Old Testament provides direct evidence for this reading. In
+Jonah 4:10, God rebukes Jonah for mourning a "sunshade" plant (*qiqayôn*) that "came into being
+in a night and perished in a night." The identity of the *qiqayôn* has been endlessly debated
+among scholars—candidates include the castor oil plant, the gourd, and the palma christi—but
+Allegro reads it as a reference to a fungus, something that appears overnight and dies just as
+fast, exactly matching the divine rebuke's emphasis on the plant's ephemerality.
+
+Modern mycological observation confirms the aptness of this imagery. [[allegro-colour-and-consistency-of-the-amanita-muscaria]], the
+most prominent candidate for the original sacred mushroom of the ancient Near East, has been
+observed by mycologists to first appear above ground at 8 AM and reach full growth by 4 PM the
+same day—a single eight-hour span from emergence to maturity. Even more dramatically, phalloidic
+species such as [[bloomfield-stinkhorns-phallus-impudicus-osmotic-fruiting]] (the common "stinkhorn") can rise three inches in thirty
+minutes and reach full expansion in approximately one and a half hours. These growth rates are
+extraordinary in the botanical world and would have made a profound impression on ancient
+observers, who would naturally have associated such a plant with divine power.
+
+The "Gardens of Adonis" thus encode a mushroom ritual: the hastily sprouted, rapidly withered
+seedlings in shallow pots were substitutes for—or faded memories of—the fungus that truly "died
+and rose" overnight. As the original mushroom knowledge was lost, the ritual survived in
+diminished form as sympathetic magic for crops, preserving only the outward form while losing the
+inner pharmacological meaning.
+
+## GAN — The Mushroom Canopy Word
+
+The key to decoding these garden references lies in the Sumerian word GAN. In Sumerian, GAN had
+two primary meanings: (1) an "enclosed area, field, or garden," which passed into Semitic as
+*gān* (Hebrew גַּן, "garden"); and (2) "canopy, top of mushroom, rounded shape"—a direct
+reference to the cap of the fungus. This dual meaning is not coincidental but etiologically
+significant: the enclosed garden was named for the mushroom canopy it originally sheltered or
+commemorated. The concept of a "garden" as a walled or enclosed space of delight begins as a
+description of the mushroom's rounded, dome-like cap.
+
+When GAN is combined with the Sumerian element NA-IM-A-AN, it produces a compound meaning "arched
+canopy stretched across the heavens"—a vivid and precise description of a mushroom cap seen from
+below, its dome curving overhead like a canopy or firmament. This compound was brought into
+Semitic as *gan-Na'iman*, which later readers came to interpret as "garden of Na'iman" or
+"garden of Adonis," understanding Na'iman as the name of the garden's divine owner. In reality,
+however, it was a mushroom name. The mushroom's properties—its association with ecstatic visions
+and divine experience—led naturally to secondary meanings of "good living, luxuriousness, and
+delight." The name Na'iman itself derives from a root meaning "to be sweet, pleasant,
+delightful," reinforcing the association with paradise and divine pleasure.
+
+Thus *gan-Na'iman* functioned as a double entendre: it could be read as "garden of Adonis" (the
+deity) and as "garden of delight" (the experience), but its original reference was to the
+mushroom itself—the "canopy stretched across the heavens." This linguistic ambiguity allowed the
+word to survive the transition from overt mushroom worship to more abstract religious language,
+as the botanical reference was gradually forgotten and only the paradisiacal connotations
+remained.
+
+The Hebrew word *'ēden* (עֵדֶן), giving us "Eden," carries the meaning "luxuriating, delight,
+pleasure." The "Garden of Eden" thus originally meant something closer to "the garden of
+luxuriant delight" or "the mushroom garden of ecstatic experience." In the Qur'an, Paradise is
+consistently referred to as *jannātu n-na'īmi*—literally "gardens of delight"—the direct Arabic
+cognate of the Semitic *gan-Na'iman*. The word "garden" in all three traditions (Sumerian GAN,
+Hebrew *gān*, Arabic *janna*) thus preserves, in Allegro's analysis, the memory of the mushroom
+canopy: a rounded dome of delight stretched overhead.
+
+## Isaiah 17:10 — The Adonis Plant
+
+Isaiah 17:10 provides a crucial passage linking the Adonis/Na'iman terminology directly to the
+sacred mushroom. In Allegro's reading, the verse declares: "You plant the plantings of Na'iman
+and sow the sacred mushroom… they grow on the day you plant, blossom in the morning you sow; yet
+harvest will flee away in a day of grief and incurable pain." The prophet is condemning Israel
+for continuing the old fertility-cult practices centered on the sacred fungus, warning that the
+ephemeral mushroom harvest—however spectacular its brief bloom—will end in grief.
+
+The divine names themselves encode [[pf-tek-mushroom-morphology-aborts-sporocarps]]. Adonis, reconstructed from its Sumerian
+roots as *\*ANDUL_AN*, means "heavenly shade"—a reference to the umbrella-like canopy of the
+mushroom as it opens above the worshipper. Na'iman, reconstructed as *\*NA_A_AN*, means
+"stretched across the heavens," again describing the mushroom cap as it expands from its
+volval sheath. Both divine names carry botanical reference to the mushroom's most distinctive
+feature: its rounded, parasol-like top, which when fully opened resembles a small canopy or
+pavilion—an appropriate dwelling-place for a god.
+
+## Summary
+
+Allegro's analysis weaves together a compelling philological argument: the biblical Garden of
+Eden, the Qur'anic "gardens of delight" (*jannātu n-na'īmi*), the women weeping for Tammuz at
+the Temple, and the Na'iman plantings condemned by Isaiah all refer, at their deepest level, to
+the same object—the sacred mushroom. The word for "garden" (GAN) encodes the mushroom's canopy;
+the names of the garden's divine owners (Adonis/Na'iman) describe the cap stretching across the
+heavens; and the associated rituals (rapidly sprouted and withered plants) mimic the fungus's
+overnight growth cycle. What began as concrete mushroom vocabulary was progressively
+spiritualized into paradisiacal imagery as the original cultic context was lost.
+
+Given the mushroom's well-known phallic morphology and the consistent association of sacred
+mushroom cults with fertility symbolism across cultures, Allegro further suggests that "Garden
+of Sex" is the probable original meaning of *gan-Na'iman*—a meaning that was progressively
+sanitized into "gardens of delight" as the mushroom's original cultic significance was forgotten
+and the botanical references were reinterpreted as purely metaphorical descriptions of paradise.

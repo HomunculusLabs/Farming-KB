@@ -44,7 +44,7 @@ State University for species-specific cover crop recommendations. (see [[fungal-
 
 The principle is straightforward: if the nematode cannot feed on the
 cover crop roots, the root-feeding nematode population will decline
-during the cover crop phase because it is deprived of its food source. (see [[compost-tea-brewing-methods]]).
+during the cover crop phase because it is deprived of its food source. (see [[circadian-rhythm-in-plants]]).
 Meanwhile, beneficial soil organisms that compete with or prey on the
 pest nematodes can build up their populations. The cover crop period
 effectively starves the pest while building the biological defense

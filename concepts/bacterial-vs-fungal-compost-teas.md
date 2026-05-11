@@ -83,7 +83,7 @@ A true compost tea should contain all organism groups present in good compost: b
 
 ## See Also
 
-- [[compost-tea-brewing-methods]]
+- [[circadian-rhythm-in-plants]]
 - [[compost-tea-aact]]
 - [[nutrient-cycling-in-soil]]
 - [[ingham-field-guide-overview]]

@@ -1,5 +1,5 @@
 ---
-title: Cannabis Glandular Trichome Types Resin Production Clarke
+title: "Cannabis Glandular Trichome Types Resin Production Clarke"
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

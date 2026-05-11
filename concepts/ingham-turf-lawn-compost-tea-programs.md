@@ -87,7 +87,7 @@ calcium vs. those without plant-available forms is quite noticeable
 -- dandelions no longer grow faster than the grass.
 
 Without adequate protozoa, nematodes, microarthropods, and/or
-[[compost-tea-brewing-equipment-ingham]]
+[[circadian-rhythm-in-plants]]
 
 ## See Also
 

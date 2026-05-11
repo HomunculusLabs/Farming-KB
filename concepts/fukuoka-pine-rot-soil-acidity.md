@@ -43,7 +43,7 @@ Through direct field investigation, Fukuoka assembled evidence that painted
 a very different picture of pine rot causation.
 
 First, when he cut down apparently healthy pines in infected forests and
-cultured the trunk tissue, he found new [[cordyceps-insect-pathogenic-fungi]] in about forty
+cultured the trunk tissue, he found new [[Cordyceps]] in about forty
 percent of samples. These included black change mold and three types of blue
 change mold, all previously undocumented pathogens foreign to the area.
 

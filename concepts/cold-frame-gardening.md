@@ -1,10 +1,11 @@
 ---
-title: [[comparison-cold-frame-gardening-vs-container-gardening-guide]]
+title: Cold Frame Gardening
 created: 2026-04-12
 updated: 2026-04-13
 type: concept
 tags: [season-extension, gardening, permaculture, homesteading, construction]
-sources: []
+sources:
+  - "raw/papers/marijuana-horticulture-cervantes.md"
 ---
 
 # Cold Frame Gardening
@@ -147,4 +148,3 @@ Ventilation is the most important cold frame management task:
 - **Clean the lid:** Dirty glazing reduces light transmission by 20-40%. Wash periodically with mild soap and water.
 - **Check seals:** Replace weatherstripping around the lid if you notice gaps where heat escapes
 - **Replace the covering:** Poly film lasts 1-2 seasons; polycarbonate lasts 10+ years; old windows may need re-puttying
-- **Refresh the soil:** Add 1-2 inches of compost each spring before replanting

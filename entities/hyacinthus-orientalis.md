@@ -61,7 +61,7 @@ Wild hyacinths are adapted to survive prolonged drought by retreating completely
 
 ## Cultivation
 
-Hyacinths require well-drained soil in full sun. They tolerate a range of soil types but perform best in sandy loam with moderate fertility and a pH of 6.0–7.5.
+Hyacinths require well-drained soil in full sun. They tolerate a range of soil types but perform best in [[sandy-loam-texture-cannabis-microbiome-assembly]] with moderate fertility and a pH of 6.0–7.5.
 
 Bulbs are planted in autumn at a depth of 10–15 cm, spaced 10–15 cm apart. For indoor forcing, pre-cooled bulbs are placed in hyacinth glasses filled with water, allowing the basal plate to contact the water surface.
 

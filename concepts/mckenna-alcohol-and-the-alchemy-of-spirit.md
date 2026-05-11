@@ -78,3 +78,23 @@ Before the development of distillation, the fermentation process itself may have
 The mead halls of the Indo-European tribes, where fermented honey was consumed in communal rituals that reinforced social bonds and warrior solidarity, may have evolved from earlier [[stamets-psi-mazatec-mushroom-ceremonies-ethnobotany]] in which the psychoactive properties of the beverage were more pronounced. As the [[mckenna-dissolution-of-the-dominator-culture]], in McKenna's framework, requires not only the recovery of suppressed plant knowledge but also the recovery of the partnership values that were displaced along with it. The [[psychedelic-plants-and-civilization]] that alcohol displaced. The contrast is structural and reveals the fundamental bias of dominator culture toward consciousness-suppressing rather than consciousness-expanding substances. Alcohol suppresses REM sleep, reducing dream activity and the psychological integration that dreams provide; psychedelics have been shown to increase the vividness and frequency of dreams long after the acute experience has ended. Alcohol narrows the visual field and impairs visual acuity; low-dose psilocybin, according to the [[psychedelic-mushroom-set-and-setting]], enhances visual acuity and edge detection. Alcohol promotes aggressive, competitive social behaviour; psychedelics consistently promote empathic, cooperative social attitudes.
 At the neurochemical level, alcohol enhances GABAergic inhibition and suppresses glutamatergic excitation, producing a net reduction in neural activity — literally turning down the volume of consciousness. Psychedelics, by contrast, enhance serotonergic signalling and increase the entropy (disorder, in the information-theoretic sense) of neural activity patterns, producing a net expansion of the range of states available to the brain. These opposite neurochemical profiles produce opposite experiential outcomes: alcohol narrows consciousness, while psychedelics broaden it. For McKenna, the cultural preference for alcohol over psychedelics is not a matter of taste or tradition but a reflection of the dominator culture's fundamental commitment to the restriction and control of consciousness rather than its expansion and liberation.
 This comparative framework has practical implications for drug policy. If the goal of drug regulation is to minimise harm, then the drugs that should be most restricted are those that cause the greatest harm — a category in which alcohol ranks far above any psychedelic substance. The World Health Organization estimates that alcohol is responsible for approximately 3 million deaths per year worldwide, while the total number of deaths attributable to psychedelic substances is vanishingly small by comparison. McKenna argues that the actual function of drug prohibition is not [[adverse-effects-and-harm-reduction-psilocybin]] but the enforcement of a specific model of consciousness — one that values conformity, productivity, and consumer behaviour over creativity, insight, and ecological awareness.
+
+## Practical Applications
+
+The principles outlined here find application across multiple domains including research, education, and practical implementation. Understanding the underlying mechanisms enables more effective application in real-world scenarios.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
+
+## See Also
+
+- [[mckenna-alcohol-alchemy-spirit]]
+- [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]]
+- [[mckenna-soma-mystery-and-the-vedic-enigma]]
+- [[mckenna-shamanism-and-the-lost-archaic-world]]
+- [[mckenna-sect-of-the-phoenix-and-secret-entheogenic-knowledge]]

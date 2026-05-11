@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Doi Garment Culture Clothing [[cho-loess-powder-in-natural-farming]]
+title: "Fukuoka Doi Garment Culture Clothing [[cho-loess-powder-in-natural-farming]]"
 source: masanobu-fukuoka-the-road-back-to-nature.md
 author: [[masanobu-fukuoka]]
 tags: [fukuoka, natural-farming, clothing, doi, traditional-garments, farmer-attire, japanese-culture]

@@ -55,7 +55,7 @@ lets
 plants detect shading and adjust growth. Phytochromes also regulate seed
 germination and flowering.
 
-**Cryptochromes** are blue-light receptors involved in [[chamovitz-circadian-rhythm-internal-clock-plants]]
+**Cryptochromes** are blue-light receptors involved in [[chrysanthemum]]
 entrainment, de-etiolation, and flowering. They share structural
 similarity
 with DNA photolyase enzymes but serve signaling rather than repair

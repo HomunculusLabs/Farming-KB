@@ -53,7 +53,7 @@ decided that she may have been a goddess all along.
 Kretschmer pointed out that Apollodorus equated Semele with Ge, the Thracian
 form of Gaia. This connection to the earth goddess places Dionysus firmly within
 the older partnership tradition. In the older stratum, the Minoan stratum,
-Dionysus is the son of the Great Mother Goddess and is totally subservient to
+Dionysus is the son of the Great [[mckenna-food-of-the-gods-qatal-huyuk-mother-goddess]] and is totally subservient to
 her.
 
 ## Personification of Ecstatic Crisis

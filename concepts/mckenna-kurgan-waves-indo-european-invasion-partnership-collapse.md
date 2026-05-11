@@ -1,5 +1,5 @@
 ---
-title: Mckenna Kurgan Waves [[mckenna-vedic-soma-indo-european-mysteries]] Invasion Partnership Collapse
+title: "Mckenna Kurgan Waves [[mckenna-vedic-soma-indo-european-mysteries]] Invasion Partnership Collapse"
 created: 2026-04-28
 tags: [mckenna, food-of-the-gods, indo-european, kurgan, gimbutas, partnership-society, dominator-culture, archaeology, cultural-evolution]
 date: 2026-04-28
@@ -53,7 +53,7 @@ The religious officials were likely women. The sculpted heads of cattle protrudi
 
 Mellaart noted that Qatal Huyuk preserved traditions that seem archaic for a fully developed Neolithic society. These included naturalistic representations of animals and deities, finger-impressed clay designs, spirals and meanders, red-ochre burials, and bird-like steatopygous goddess amulets.
 
-Such elements are traceable in the Natufian culture of Palestine but nowhere more pronounced than at Qatal Huyuk. Mellaart found it puzzling that the site left no great impact on subsequent cultures in the area. The legacy of Qatal was suppressed precisely because of its deep association with the Mother Goddess.
+Such elements are traceable in the Natufian culture of Palestine but nowhere more pronounced than at Qatal Huyuk. Mellaart found it puzzling that the site left no great impact on subsequent cultures in the area. The legacy of Qatal was suppressed precisely because of its deep association with the [[mckenna-food-of-the-gods-qatal-huyuk-mother-goddess]].
 
 ## The Natufian Bridge from Africa
 

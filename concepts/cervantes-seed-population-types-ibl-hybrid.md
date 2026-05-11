@@ -1,5 +1,5 @@
 ---
-title: [[cervantes-seed-germination]] Population Types Ibl Hybrid
+title: "[[cervantes-seed-germination]] Population Types Ibl Hybrid"
 created: 2026-04-26
 tags:
   - cannabis

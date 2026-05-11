@@ -1,90 +1,150 @@
 ---
-title: Gelato (Cannabis Strain)
+title: "Gelato (Cannabis Strain)"
 type: strain
 tags:
-  - cannabis
-  - strain
-  - hybrid
+  - microbiome|strain]]-microbiome|cannabis]]
+  - indica-leaning-hybrid
   - dessert-strain
   - thc-dominant
-  - cookie-family
-  - california
-  - indicia-leaning
+  - gelato
+  - cookie-genetics
+  - terpene-profile
+  - craft-cannabis
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Leafly Strain Database
-  - Online Pentucket Cannabis (breeder documentation)
-  - Ermont Discount Cannabis (phenotype reports)
-  - Green House Seed Co. catalog archives
+  - "Green, G. (2017). The Cannabis Breeder's Bible. Green Candy Press."
+  - "Leafly Strain Database: Gelato #33 profile and user reports."
+  - "Mudge, E.M. et al. (2019). Phytochemical analysis of Cannabis sativa chemovars. J. Natural Products 82(8)."
 ---
 
 # Gelato (Cannabis Strain)
 
 ## Overview
 
-**Gelato** (also known as **"Larry Bird"** or **Gelato #33**) is a legendary hybrid cannabis strain created by breeder **"Jigga"** of Cookie Fam Genetics in the San Francisco Bay Area. A cross between **Sunset Sherbet** and **Thin Mint [[girl-scout-cookies]] (GSC)**, Gelato quickly became one of the most sought-after strains in the legal cannabis market following its introduction around 2014–2015. Known for its exceptionally sweet, dessert-like flavor profile and potent psychoactive effects, Gelato has served as the genetic backbone for dozens of subsequent phenotypes and crossbreeds.
+Gelato (also known as "Larry Bird" or "Gelato #33") is an indica-leaning hybrid cannabis strain renowned for its exceptionally sweet flavor profile and potent, balanced effects. Created by the Cookies family in San Francisco, Gelato is a cross between *Thin Mint GSC* ([[girl-scout-cookies]]) and *Sunset Sherbet*. Since its introduction around 2016, it has become one of the most sought-after strains in the legal cannabis market, spawning dozens of phenotypes and cross-breeds.
 
 ## Genetic Lineage
 
 ```
-Gelato
-├── Sunset Sherbet
-│   ├── Girl Scout Cookies (Forum Cut)
-│   └── Pink Panties
-│       └── Blackberry Kush × OG Kush phenotype
-└── Thin Mint GSC
-    ├── OG Kush (Florida phenotype)
-    └── Durban Poison (F1)
+Gelato #33
+├── Thin Mint GSC (Forum Cut)
+│   ├── Durban Poison (landrace sativa)
+│   └── OG Kush (Florida cut)
+│       ├── Chemdawg
+│       ├── Lemon Thai
+│       └── Hindu Kush (landrace)
+└── Sunset Sherbet
+    ├── Girl Scout Cookies (OGKB cut)
+    │   ├── Durban Poison
+    │   └── OG Kush
+    └── Pink Panties (Florida Kush x Blackberry)
 ```
 
-Gelato's pedigree traces back to some of the most influential [[cannabis-genetics-and-breeding]] of the modern era. The **Cookie family** lineage contributes complex [[sativa-terpene-profiles-and-aromatic-diversity]] dense trichome production, while the **Durban Poison** ancestry adds uplifting sativa characteristics and resin potency.
-
-## Cannabinoid Profile
-
-| Cannabinoid | Typical Range |
-|---|---|
-| THC | 20–25% (some phenos exceed 27%) |
-| THCa | 18–24% |
-| CBD | < 0.1% (trace) |
-| CBG | 0.1–0.3% |
-| CBC | < 0.1% |
-| Terpenes total | 2–3.5% |
-
-Gelato is overwhelmingly **THC-dominant** with negligible CBD content. The high THC:CBG ratio contributes to its intense psychoactive character. Some phenotype selections (particularly #25 and #42) express slightly lower THC with more nuanced terpene profiles.
-
-## Terpene Profile
-
-Gelato's signature flavor is driven by a rich, complex terpene combination:
-
-- **Limonene** (primary): Sweet citrus, orange zest — contributes to mood elevation and anxiolytic effects
-- **Caryophyllene** (secondary): Black pepper, spice — selectively binds CB2 receptors for anti-inflammatory action
-- **Linalool** (tertiary): Lavender, floral — anxiolytic and sedative properties at higher doses
-- **Humulene**: Earthy, woody, hops — appetite suppressant and anti-inflammatory
-- **Myrcene**: Herbal, musky — enhances THC permeability of the blood-brain barrier ("entourage effect")
-
-The interplay of limonene and linalool creates Gelato's characteristic **sweet-cream-meets-citrus** nose, while caryophyllene provides a grounding spice on the exhale.
+This dense genetic stack draws from Afghan, Thai, and [[african-landrace-sativa-modern-hybrids]] lineages, contributing to Gelato's complex [[cannabis-terpene-profile]] and layered effects.
 
 ## Phenotypes
 
-Cookie Fam Genetics released multiple numbered phenotypes, each with distinct characteristics:
+Several notable phenotypes have been stabilized:
 
-### Gelato #33 ("Larry Bird")
-The most famous and widely distributed phenotype. Named after the NBA legend's jersey number. Dense, purple-tinged buds with dark orange pistils. Balanced hybrid effects with euphoric onset transitioning to body relaxation. **This is the Gelato most consumers encounter.**
+| Phenotype | Characteristics |
+|-----------|----------------|
+| Gelato #33 (Larry Bird) | The original and most famous; purple hues, sweet citrus flavor |
+| Gelato #41 | Bacio Gelato; earthier, more fuel-forward, very resinous |
+| Gelato #42 | Sweeter, berry-forward expression |
+| Gelato #45 | Gello; dense purple buds, creamy vanilla notes |
+| Gelato #47 | Mochi; fruity, doughy aroma, potent body effects |
 
-### Gelato #25 ("Larry Bird's cousin")
-Sweeter, more dessert-forward aroma with heavier body effects. Slightly more indica-dominant expression. Popular for evening use.
+## Cannabinoid Profile
 
-### Gelato #41 ("Mochi")
-A distinct phenotype sometimes branded separately as **Bacio Gelato**. Earthier, hashier flavor with more pronounced physical sedation. Favored by concentrate producers for its resin yield.
+- **THC**: 20–25% (some cuts testing above 28%)
+- **CBD**: < 0.1%
+- **CBG**: 0.1–0.3%
+- **THCv**: Trace amounts in some phenotypes
+- **Terpene total**: 2.0–3.5%
 
-### Gelato #42
-Less common; expresses a more tropical, pineapple-forward terpene profile. Slightly higher sativa expression with longer-lasting cerebral effects.
+## Terpene Profile
 
-### Gelato #45
-Dense structure with extreme purple coloration. Biscotti-like dough flavor. Heavy indica lean with strong [[cannabis-for-cachexia-and-appetite-stimulation]].
+Gelato's signature flavor derives from a rich and complex terpene combination:
 
-## Effects and Experience
+1. **Caryophyllene** (dominant): Pepper, spice, fuel — activates CB2 receptors directly
+2. **Limonene** (co-dominant): Citrus, orange, uplifting mood effects
+3. **Myrcene**: Herbal, musky, contributes to sedative body high
+4. **Linalool**: Floral, lavender, anxiolytic properties
+5. **Humulene**: Earthy, woody, appetite suppressant
+6. **Terpinolene** (trace): Piney, herbal, adds complexity
 
-### Onset (0–15 minutes)
-Rapid cerebral onset characterized by euphoria, heightened [[plant-sensory-perception]], and creative ideation. Colors may appear more vivid; music gains depth and emotional resonance.
+This profile classifies Gelato as a Type I chemovar (THC-dominant) with a dessert-terpene signature.
+
+## Aroma and Flavor
+
+The aroma is intensely sweet with notes of:
+- Creamy vanilla and sweet citrus (orange, bergamot)
+- Undertones of berries and lavender
+- A distinctive doughy, cookie-like base from the GSC lineage
+- Subtle fuel and earth on the exhale
+
+Flavor mirrors aroma with a smooth, dessert-like smoke that coats the palate with sweet citrus and cream. The finish often carries a mild pepper bite from caryophyllene.
+
+## Effects
+
+### Onset and Duration
+- **Onset**: 5–10 minutes (smoking/vaping)
+- **Peak**: 20–40 minutes
+- **Duration**: 2–3 hours
+- **Aftereffects**: Mild, pleasant relaxation for 1–2 hours
+
+### Reported Effects
+- **Cerebral**: Euphoric, creative, mood-elevating, mentally stimulating
+- **Physical**: Progressive body relaxation without heavy sedation (at moderate doses)
+- **Balance**: The indica lean becomes more apparent at higher doses
+
+### Therapeutic Applications
+- Stress and anxiety management
+- Mild to moderate pain relief (inflammatory, neuropathic)
+- [[cannabis-for-cachexia-and-appetite-stimulation]]
+- Mood enhancement for depressive symptoms
+- Evening relaxation without sleep disruption
+
+### Adverse Effects
+- Dry mouth (common)
+- Dry eyes (common)
+- Mild paranoia at high doses (especially for novice consumers)
+- Couch-lock potential at elevated doses
+
+## Cultivation
+
+### Growth Characteristics
+
+- **Type**: Indica-leaning hybrid; bushy, medium-tall stature
+- **Flowering time**: 8–9 weeks (indoor)
+- **Yield**: Moderate (350–450 g/m² indoor); responds well to training
+- **Difficulty**: Intermediate — requires environmental stability and mold prevention
+
+### Environmental Preferences
+
+| Parameter | Range |
+|-----------|-------|
+| Temperature (veg) | 22–28°C |
+| Temperature (flower) | 18–24°C |
+| Humidity (veg) | 50–65% |
+| Humidity (flower) | 40–50% |
+| Light cycle (veg) | 18/6 |
+| Light cycle (flower) | 12/12 |
+| pH (hydro) | 5.5–6.0 |
+| pH (soil) | 6.0–6.8 |
+
+### Cultivation Notes
+
+- Responds exceptionally well to **SCROG** (Screen of Green) and **LST** ([[low-stress-training]])
+- Purple coloration intensifies with cool nighttime temperatures (15–18°C) during late flowering
+- Dense bud structure necessitates strict [[cervantes-humidity-control-dehumidification]] to prevent bud rot
+- Feeding demands increase significantly during weeks 3–6 of flowering due to heavy resin production
+- Support branches during late flowering as colas gain weight
+
+### Breeding Value
+
+Gelato has become a cornerstone strain for modern breeding programs. Notable offspring include:
+
+- **Runtz** (Gelato × Zkittlez)
+- **Açaí Gelato** (Gelato × Açaí)

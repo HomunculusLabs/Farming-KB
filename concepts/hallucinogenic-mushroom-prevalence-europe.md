@@ -1,5 +1,5 @@
 ---
-title: [[european-hallucinogenic-mushroom-prevalence-and-trends]] in Europe
+title: Hallucinogenic Mushroom Prevalence Europe
 created: 2026-05-11
 source: EMCDDA (2006) - Hallucinogenic Mushrooms: An Emerging Trend Case Study
 tags: [epidemiology, prevalence, europe, hallucinogenic-mushrooms, drug-survey, youth, EMCDDA]

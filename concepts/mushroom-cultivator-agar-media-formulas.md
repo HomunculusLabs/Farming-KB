@@ -1,5 +1,5 @@
 ---
-title: [[coprinus-atrementarius-entity-the-mushroom-cultivator]] [[growing-gourmet-agar-media-formulas-preparation]]
+title: Mushroom Cultivator Agar Media Formulas
 created: 2026-04-28
 tags: mycology, agar-media, mushroom-cultivation, tissue-culture, mushroom-cultivator
 date: 2026-04-25

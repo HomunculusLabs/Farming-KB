@@ -1,5 +1,5 @@
 ---
-title: [[aquarium-humidity-chamber-mushroom-fruiting]] Designs Jarrold [[accessible-mushroom-cultivation-for-disabilities]]
+title: Humidity Chamber Designs Jarrold Mushroom Cultivation
 source: "Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag (D.H. Jarrold)"
 source_slug: "jarrold-indoor-mushroom-growing-technique-boil-a-bag"
 extracted: "2026-05-09"

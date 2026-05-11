@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-diet-non-discrimination-diet-of-the-sick]] Blood Thought Civilization
+title: "[[fukuoka-diet-non-discrimination-diet-of-the-sick]] Blood Thought Civilization"
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

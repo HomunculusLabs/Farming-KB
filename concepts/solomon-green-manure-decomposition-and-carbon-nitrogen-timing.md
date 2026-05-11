@@ -18,7 +18,7 @@ created: 2026-05-07
 
 # Green Manure Decomposition and Carbon-to-Nitrogen Timing
 
-The timing of turning in green manure crops is one of the most consequential decisions a gardener can make. Turn them in too early and you forfeit biomass; too late and the carbon-to-nitrogen ratio shifts, decomposition slows dramatically, and your planting schedule collapses by weeks. Steve Solomon treats this topic with unusual precision because he has seen gardeners lose entire seasons to poor green manure timing.
+The timing of turning in [[green-manure-crops]] is one of the most consequential decisions a gardener can make. Turn them in too early and you forfeit biomass; too late and the carbon-to-nitrogen ratio shifts, decomposition slows dramatically, and your [[coleman-winter-harvest-planting-schedule]] collapses by weeks. Steve Solomon treats this topic with unusual precision because he has seen gardeners lose entire seasons to poor green manure timing.
 
 ## The Carbon-to-Nitrogen Ratio Shift
 
@@ -43,9 +43,9 @@ A practical test for whether turned-in green manure has decomposed enough for pl
 
 ## Legume Versus Non-Legume Considerations
 
-Leguminous green manures such as [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, and field peas contribute fixed atmospheric nitrogen to the soil in addition to [[hamilton-composting-and-organic-matter-management]]. However, the decomposition timing rules apply equally to legumes. A mature, flowering legume that has become woody will still impose the four-to-five-week delay. The nitrogen benefit does not compensate for the lost [[savory-growing-season-and-non-growing-season-management]] if the material is turned in too late.
+Leguminous green manures such as [[compost]], hairy vetch, and field peas contribute fixed atmospheric nitrogen to the soil in addition to [[hamilton-composting-and-organic-matter-management]]. However, the decomposition timing rules apply equally to legumes. A mature, flowering legume that has become woody will still impose the four-to-five-week delay. The nitrogen benefit does not compensate for the lost [[savory-growing-season-and-non-growing-season-management]] if the material is turned in too late.
 
-Non-legume green manures such as cereal rye, winter wheat, and buckwheat contribute organic matter and soil structure improvement but no net nitrogen addition. Their value lies in [[dighton-fungal-biomass-production-aquatic-ecosystems]], root penetration, and nutrient capture from deep soil layers that would otherwise leach away.
+Non-legume green manures such as cereal rye, winter wheat, and buckwheat contribute [[savory-soil-organic-matter-and-decomposition-dynamics]] soil structure improvement but no net nitrogen addition. Their value lies in [[dighton-fungal-biomass-production-aquatic-ecosystems]], root penetration, and nutrient capture from deep soil layers that would otherwise leach away.
 
 ## The Heavy Soil Trap
 
@@ -58,7 +58,7 @@ Green manure timing problems are compounded enormously on heavy clay soils, part
 5. This triggers the four-to-five-week decomposition delay on top of the already-late start
 6. Cool-weather autumn crops may become impossible
 
-On heavy soils, cover cropping is intrinsically riskier. The gardener has no control over when the soil becomes workable, yet the cover crop continues growing regardless.
+On heavy soils, [[comparison-crop-rotation-vs-cover-cropping]] is intrinsically riskier. The gardener has no control over when the soil becomes workable, yet the cover crop continues growing regardless.
 
 ## Light Soil Considerations
 
@@ -70,7 +70,7 @@ Light soils can also dry out quickly after a rainless spell, creating a situatio
 
 Several approaches can mitigate the timing problem:
 
-- **Autumn-killed cover crops**: In regions with harsh winters, sow cover crops in autumn that will be killed by winter cold. Their root systems decompose in early spring without requiring any tillage of living, above-ground biomass. This is much safer for gardeners in cold-winter areas.
+- **Autumn-killed cover crops**: In regions with harsh winters, sow [[query-how-do-i-use-cover-crops-in-a-no-till-cannabis-garden]] autumn that will be killed by winter cold. Their root systems decompose in early spring without requiring any tillage of living, above-ground biomass. This is much safer for gardeners in cold-winter areas.
 
 - **Frost-tender species**: Use species that reliably die in autumn in your climate zone. Their residues protect the ground through winter and decompose readily in spring.
 
@@ -86,4 +86,4 @@ Gardeners in semi-arid regions without irrigation face an additional risk. A gre
 
 ## Allelopathy Risk
 
-Some cover crop species release chemical residues into the soil that inhibit the germination or growth of subsequent crops. This phenomenon, called allelopathy, is the opposite of what the gardener intends. It is important to research allelopathic interactions before selecting a cover crop species.
+Some cover crop species release [[ingham-manure-antibiotics-chemical-residues-composting]] into the soil that inhibit the germination or growth of subsequent crops. This phenomenon, called allelopathy, is the opposite of what the gardener intends. It is important to research allelopathic interactions before selecting a cover crop species.

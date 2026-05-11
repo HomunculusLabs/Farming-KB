@@ -1,5 +1,5 @@
 ---
-title: "Gasteromycete [[fungal-spore-dispersal-mechanisms]]"
+title: Gasteromycete Spore Dispersal
 type: concept
 tags:
   - mycology

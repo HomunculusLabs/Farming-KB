@@ -116,7 +116,7 @@ Several questions remain about the two-tier model that warrant further investiga
 ## Related Concepts
 
 - [[cannabis-endorhiza-bacterial-communities]]
-- [[edaphic-factors-microbiome-structuring]]
+- [[crimson-clover]]
 - [[cultivar-specificity-plant-microbiome]]
 - living soil microbial food web
 

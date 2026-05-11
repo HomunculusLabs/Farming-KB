@@ -87,4 +87,4 @@ Traditional use of *P. aphthosa* in Scandinavian and Siberian folk medicine incl
 
 Limited pharmacological screening has revealed **moderate antimicrobial activity** against Gram-positive bacteria, attributed to tenuiorin and related depsides. Extracts have also shown anti-inflammatory activity in vitro.
 
-Tenuiorin, a depsidone isolated from *P. aphthosa*, has demonstrated antioxidant activity in cell-free assays. Methyl gyrophorate exhibits weak antifungal properties against selected plant [[cordyceps-insect-pathogenic-fungi]].
+Tenuiorin, a depsidone isolated from *P. aphthosa*, has demonstrated antioxidant activity in cell-free assays. Methyl gyrophorate exhibits weak antifungal properties against selected plant [[Cordyceps]].

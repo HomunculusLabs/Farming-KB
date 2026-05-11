@@ -1,5 +1,5 @@
 ---
-title: Cervantes [[supercropping]] Plant Stress Techniques
+title: "Cervantes [[supercropping]] Plant Stress Techniques"
 created: 2026-04-28
 tags:
   - plant-training

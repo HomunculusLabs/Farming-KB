@@ -47,7 +47,7 @@ Cordyceps (Kobayasi 1982) are available.
 
 Most necrotrophic parasites can be cultured from conidium or
 ascospore inoculum on simple media. However, some obligate
-[[cordyceps-insect-pathogenic-fungi]] fungi cannot be grown axenically. Humber
+[[Cordyceps]] fungi cannot be grown axenically. Humber
 (1994) discussed problems of culturing strictly obligate
 insect pathogenic fungi. Many require insect [[comparison-seed-saving-techniques-vs-tissue-culture-cloning]]
 medium supplemented with fetal bovine serum but usually will

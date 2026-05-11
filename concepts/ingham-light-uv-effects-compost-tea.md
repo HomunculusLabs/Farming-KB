@@ -45,7 +45,7 @@ while still spreading adequately on the [[bloomfield-rust-germ-tube-tactile-sens
 
 ## Pivot Irrigation and Daytime Application
 
-Because pivot [[compost-tea-brewing-equipment-ingham]]
+Because pivot [[circadian-rhythm-in-plants]]
 - [[ingham-turf-lawn-compost-tea-programs]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]
 ## Practical Considerations

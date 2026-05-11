@@ -121,7 +121,7 @@ The long latency period makes orellanine poisoning particularly insidious, as vi
 
 - **Galerina marginata** can closely resemble [[psilocybin-mushroom-identification-guide|Psilocybe cyanescens]] and other "little brown mushrooms" sought by recreational foragers
 - **Conocybe species** on lawns are both poisonous and hallucinogenic, a dangerous combination
-- **Amanita phalloides** juvenile buttons can be mistaken for [[agaricus-species-guide|Agaricus]] (field mushrooms) or puffball species by inexperienced foragers
+- **Amanita phalloides** juvenile buttons can be mistaken for [[Agaricus|Agaricus]] (field mushrooms) or puffball species by inexperienced foragers
 
 ## See Also
 

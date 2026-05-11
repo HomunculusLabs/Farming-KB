@@ -78,3 +78,23 @@ McKenna cautioned that all hallucinogenic compounds are potentially dangerous an
 He recommended consulting available literature before experimenting with any new compound, calling the library "the first place to go when looking into taking a new compound."
 
 He also noted that these are "bizarre dimensions of extraordinary power and beauty" and that "there is no set rule to avoid being overwhelmed, but move carefully, reflect a great deal, and always try to map experiences back onto the history of the race and the philosophical and religious accomplishments of the species."
+
+## Practical Applications
+
+Research into these compounds continues to reveal therapeutic potential for mental health conditions including depression, anxiety, PTSD, and addiction. Clinical studies demonstrate promising results when combined with appropriate therapeutic frameworks and integration support.
+
+## Safety Considerations
+
+Responsible engagement requires understanding set and setting, proper dosing protocols, potential interactions with medications, and the importance of integration support. Harm reduction practices emphasize preparation, trusted facilitators, and post-experience processing.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures are essential for meaningful progress.
+
+## See Also
+
+- [[dmt-nn-dimethyltryptamine]]
+- [[dmt-dimethyltryptamine-experience-guide]]
+- [[dimethyltryptamine-dmt-chemistry-and-pharmacology]]
+- [[turner-ketamine-lsd-dmt-interactions-recovery-effects]]
+- [[turner-essential-psychedelics-dmt-hyperspace]]

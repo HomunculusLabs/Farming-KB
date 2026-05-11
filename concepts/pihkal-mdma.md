@@ -1,5 +1,5 @@
 ---
-title: Pihkal [[mdma]]
+title: "Pihkal [[mdma]]"
 created: 2026-04-28
 tags: [phenethylamine, empathogen, pihkal, entactogen, pharmacology]
 date: 2026-04-28

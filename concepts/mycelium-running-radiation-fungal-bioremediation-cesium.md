@@ -18,7 +18,7 @@ Surveys of cesium-contaminated mushrooms (Fielitz 2001; Epik and Yaprak 2003) me
 
 | Species | Cesium Level (Bq/kg) | Notes |
 |---------|---------------------|-------|
-| [[elaphomyces-granulatus]] | 25,660 | Mycorrhizal truffle |
+| [[Elaphomyces]] | 25,660 | Mycorrhizal truffle |
 | Cortinarius hercynicus | 6,750 | Mycorrhizal |
 | Boletus badius | 3,030 | Bay bolete, mycorrhizal |
 | Boletus chrysenteron | 1,000 | Mycorrhizal |
@@ -116,6 +116,6 @@ The Chernobyl data provides a framework for responding to future nuclear acciden
 
 The broader lesson is that biological systems have evolved mechanisms for interacting with virtually every element in the periodic table. Understanding and harnessing these mechanisms offers a path toward sustainable remediation that works with nature rather than against it.
 
-The key principle is that once mycelium upchannels radioactive contaminants into mushrooms, they can be picked and transported out of the area. If the contaminated mushrooms are not removed, decomposition by bacteria and other fungi returns the cesium to the soil, perpetuating the contamination cycle. This makes systematic harvesting an essential component of fungal [[bioremediation-strategies]] for nuclear fallout zones.
+The key principle is that once mycelium upchannels radioactive contaminants into mushrooms, they can be picked and transported out of the area. If the contaminated mushrooms are not removed, decomposition by bacteria and other fungi returns the cesium to the soil, perpetuating the contamination cycle. This makes systematic harvesting an essential component of fungal [[bioremediation-monitoring-and-assessment]] for nuclear fallout zones.
 
 Mushrooms' affinity for absorbing metals promises new areas of research. As we better understand hyperaccumulation rates and selectivity factors, Stamets argues, we can put these mushrooms to work extracting radioactive contaminants from the environment. The list of species documented in the cesium bioaccumulation surveys could be helpful in assessing strategies for the gradual detoxification of contaminated landscapes.

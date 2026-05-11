@@ -68,7 +68,7 @@ cultivar response to soil conditions creates genotype-by-environment
 interactions. Additionally, soil chemistry independently shapes the microbiome
 and may influence cannabinoid biosynthesis through nutrient availability.
 
-[[nitrogen-edaphic-factor-cannabis-microbiome|Nitrogen availability]] was the
+[[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome|Nitrogen availability]] was the
 strongest edaphic predictor of community structure, and nitrogen is also known
 to influence cannabinoid biosynthesis rates. This dual role of nitrogen creates
 a statistical confound: the observed cannabinoid-microbiome correlation could
@@ -97,12 +97,10 @@ abundance of Actinomycetales and other Gram-positive endorhiza members.
 
 Root exudates may also contain cannabinoid biosynthetic intermediates or
 degradation products that serve as carbon sources for specialized endophytes.
-The [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales|core
-microbiome]] taxa consistently detected across cultivars may be those capable
+The [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales|core microbiome]] taxa consistently detected across cultivars may be those capable
 of tolerating or metabolizing low levels of cannabinoid compounds in root
-tissues. Conversely, [[cannabis-cultivar-specificity-microbial-selection-mechanisms|cultivar-specific
-enrichments]] like [[methylophilus|Methylophilus]] and
-[[sphingomonas-wittichii|Sphingomonas wittichii]] may reflect differential
+tissues. Conversely, [[cannabis-cultivar-specificity-microbial-selection-mechanisms|cultivar-specific enrichments]] like [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza|Methylophilus]] and
+[[sphingomonas-wittichii-maui-wowie|Sphingomonas wittichii]] may reflect differential
 tolerance to cannabinoid concentrations.
 
 ## Implications for Terroir
@@ -135,8 +133,8 @@ causality and identify specific cannabinoid-responsive taxa.
 - [[two-tier-selection-model]]
 - [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales]]
 - [[cannabis-cultivar-specificity-microbial-selection-mechanisms]]
-- [[nitrogen-edaphic-factor-cannabis-microbiome]]
-- [[methylophilus]]
-- [[sphingomonas-wittichii]]
+- [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]]
+- [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]]
+- [[sphingomonas-wittichii-maui-wowie]]
 - [[unifrac-weighted-unweighted-analysis-cannabis-microbiome]]
 - [[cannabis-rhizosphere-community-structure-edaphic-factors]]

@@ -1,5 +1,5 @@
 ---
-title: Oyster [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]] Temperate Regions Short Log Method
+title: Oyster Mushroom Log Cultivation Temperate Regions Short Log Method
 source: unknown-oyster-mushroom-cultivation.md
 source_author: MushWorld (Hyunjong Kwon, Seung Woo Kang)
 tags: [mushroom, cultivation, oyster, log-cultivation, temperate, hardwood]

@@ -1,5 +1,5 @@
 ---
-title: [[kalman-filter-vs-wavelet-transform]]
+title: "[[kalman-filter-vs-wavelet-transform]]"
 subtitle: A multiscale method for analyzing signals with localized waves
 tags: [signal-processing, mathematics, data-analysis, compression, time-frequency-analysis]
 date: 2026-05-02

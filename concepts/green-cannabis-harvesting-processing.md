@@ -1,5 +1,5 @@
 ---
-title: Green [[cannabis-harvesting-and-curing-techniques]] Processing
+title: "Green [[cannabis-harvesting-and-curing-techniques]] Processing"
 created: 2026-04-26
 updated: 2026-04-25
 sources:

@@ -75,7 +75,7 @@ For troubleshooting molasses-related issues in brewing, see [[aact-pathogen-safe
 
 ## Sulphured vs. Unsulphured Molasses
 
-Always use unsulphured molasses for compost [[compost-tea-brewing-equipment-ingham]]. Sulphured
+Always use unsulphured molasses for compost [[circadian-rhythm-in-plants]]. Sulphured
 molasses contains sulfur dioxide as a preservative, and this compound
 works to suppress microbial growth. The very organisms you are trying
 to grow in your tea are inhibited by the preservative. Unsulphured

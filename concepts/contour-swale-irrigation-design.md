@@ -1,7 +1,7 @@
 ---
 title: Contour Swale Irrigation Design
 created: 2026-04-28
-tags: [swales, contour, irrigation, water-harvesting, [[permaculture]]]
+tags: [swales, contour, irrigation, water-harvesting, [[permaculture]]
 date: 2026-04-27
 updated: 2026-04-27
 sources:

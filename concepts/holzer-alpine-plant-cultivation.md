@@ -57,7 +57,7 @@ Over years of experience cultivating plants from Alpine regions, Holzer's most i
 
 ## Key Principles for Alpine Plant Propagation
 
-1. Always take native soil from near parent plant roots ([[auxin-production-by-symbiotic-fungi]] required)
+1. Always take native soil from near parent plant roots ([[Auxin]] required)
 2. Expose seeds to repeated freeze-thaw cycles
 3. Do not cover seeds -- they need light
 4. Sow on poor, barren soil

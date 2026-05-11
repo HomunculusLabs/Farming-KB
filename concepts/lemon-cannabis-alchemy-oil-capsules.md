@@ -1,5 +1,5 @@
 ---
-title: [[lemon-cannabis-alchemy-direct-vaporization]] [[cannabis-oil-capsules-preparation]]
+title: "[[lemon-cannabis-alchemy-direct-vaporization]] [[cannabis-oil-capsules-preparation]]"
 created: 2026-04-28
 tags: [cannabis, capsules, oral-ingestion, edibles, dosing]
 date: 2026-04-28

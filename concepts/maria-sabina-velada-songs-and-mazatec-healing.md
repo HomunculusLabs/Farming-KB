@@ -1,5 +1,5 @@
 ---
-title: [[maria-sabina]] Velada Songs And Mazatec Healing
+title: "[[maria-sabina]] Velada Songs And Mazatec Healing"
 created: 2026-04-26
 tags:
   - mazatec

@@ -1,5 +1,5 @@
 ---
-title: [[comparison-quail-husbandry-vs-rabbit-husbandry]] Basics
+title: "[[comparison-quail-husbandry-vs-rabbit-husbandry]] Basics"
 created: 2026-04-17
 updated: 2026-04-18
 type: concept

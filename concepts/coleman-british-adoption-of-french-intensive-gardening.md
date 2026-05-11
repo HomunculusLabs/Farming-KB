@@ -3,7 +3,7 @@ title: Coleman British Adoption Of French Intensive Gardening
 created: 2026-05-09
 updated: 2026-05-09
 type: concept
-tags: [french-intensive, british-gardening, history, william-robinson, kropotkin, joseph-fels, [[eliot-coleman]]]
+tags: [french-intensive, british-gardening, history, william-robinson, kropotkin, joseph-fels, [[eliot-coleman]]
 sources:
   - "raw/papers/bill-mollison-permaculture-design-course.md"
   - "eliot-coleman - The [[coleman-claytonia-winter-harvest-cultivation]] Handbook"

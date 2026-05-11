@@ -97,20 +97,17 @@ Cut logs during dormancy (late fall through early spring, ideally Dec-March). Sa
 - Sterilized, inoculated, incubated at 20-25C, fruited at lower temperatures
 - See [[mushroom-substrates]] for detailed substrate formulations
 
-
 ## Ecological Role
 Fungal organisms play critical roles in ecosystem functioning through
 decomposition, nutrient cycling, and symbiotic relationships with plants.
 Understanding their ecological contributions informs both cultivation
 practices and conservation efforts across diverse habitats.
 
-
 ## Research Directions
 Current research explores applications in bioremediation, sustainable
 agriculture, and pharmaceutical development. Advances in genomic
 sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
-
 
 ## See Also
 - [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]]
@@ -123,4 +120,3 @@ and expand our understanding of fungal biology.
 - [[mushroom-cultivation-basics]] -- Stamets' 10-step process overview
 - [[mushroom-species-guide]] -- Species-specific parameters and difficulty ratings
 - [[fungal-decomposition]] -- Wood decay ecology behind log cultivation
-

@@ -1,89 +1,129 @@
 ---
-title: Complete Organic Fertilizer Cof
-source: "Gardening When It Counts (Solomon, 2005)"
-tags: [fertilizer, organic, COF, gardening, soil-fertility, NPK, seedmeal, compost]
+title: "Complete Organic Fertilizer Cof"
+aliases:
+  - COF
+  - complete organic fertilizer
+tags:
+  - soil-fertility
+  - organic-gardening
+  - fertilizers
+  - steve-solomon
+  - plant-nutrition
+source: Gardening When It Counts - Steve Solomon (2005)
+created: 2026-05-11
 ---
 
 # Complete Organic Fertilizer (COF)
 
-## Philosophy
+The Complete Organic Fertilizer (COF) is a custom organic fertilizer blend
+formulated by Steve Solomon, founder of Territorial Seed Company. Unlike
+commercial organic or [[cannabis-chemical-fertilizers]], COF provides a broad, balanced
+spectrum of plant nutrients — not just NPK — resulting in vegetables with
+significantly higher nutritional content. Solomon developed COF over decades
+of gardening and variety trialing, observing that vegetables grown with this
+blend tasted better and were more pest-resistant than those grown with
+conventional fertilizers.
 
-The Complete Organic Fertilizer (COF) is a custom-blended organic fertilizer formula developed by [[steve-solomon]]. It is designed to provide a complete, correctly balanced nutrient supply [[soil-ph-management-for-vegetable-gardens]] using [[agricultural-waste-recycling]] products and crushed rocks. The formula is based on considerable research into soil mineral content and its relationship to human nutrition.
+## Why COF?
 
-Solomon's central insight is that vegetables grown with a correctly balanced organic fertilizer contain far more nutrition than those grown by any other method. While commercial growers push soil potassium to high levels for maximum bulk yield, this increased yield comes in the form of starch and fiber calories, not in the form of protein, vitamins, enzymes, and minerals that humans need.
+Chemical fertilizers labeled "complete" typically contain only nitrogen (N),
+phosphorus (P), and potassium (K). They lack calcium, magnesium, sulfur, and
+all trace minerals. They dissolve rapidly in soil water, causing a quick
+growth spurt followed by a sag requiring repeated application. Nutrients in
+solution leach away with rain or irrigation, especially in sandy soils. Plants
+fed solely with chemical fertilizers produce more starch and fiber but less
+protein, vitamins, enzymes, and minerals.
 
-## The Formula
+Solomon cites USDA data showing the nutritional content of American vegetables
+has declined approximately 2 percent per year over the past 25 years for all
+vitamins and minerals. This decline correlates with increasing use of
+incomplete chemical fertilizers that push yield (calories, starch, fiber) at
+the expense of [[coleman-winter-greens-nutritional-quality-cold-sweetening]].
 
-All materials are measured by volume (scoops, bucketfuls, jarfuls). Proportions varying plus or minus 10 percent will work out fine. Do not attempt to make this formula by weight.
+Single-source organic amendments like manure or homemade compost vary
+enormously in nutrient content. The nutritional quality depends on the soil
+where original vegetation or animals were raised. If local soils are
+deficient, the compost carries those deficiencies forward. COF addresses
+both problems by combining multiple organic ingredients, each contributing
+a different profile of macro- and micronutrients.
 
-### Base Blend
+## COF Formula (by Volume)
 
-```
-4 parts any kind of seedmeal EXCEPT coprameal
-OR
-3 parts any seedmeal except coprameal,
-  PLUS 1 part less-potent coprameal, supplemented with
-  1 part "tankage" (blood-and-bone / meatmeal)
-```
+All ingredients are measured by volume — scoops, bucketfuls, jarfuls.
+Proportions varying plus or minus 10 percent will work fine. Do NOT attempt
+to make this formula by weight.
 
-### Blend With
+**Base nitrogen source (choose one):**
 
-```
-1/2 part ordinary agricultural lime, best finely ground
-1/2 part gypsum (if no gypsum, double the agricultural lime)
-1/2 part [[cervantes-dolomite-lime-ph-buffering]]
-```
+- **Option A:** 4 parts any kind of seedmeal (except coprameal and tankage).
+  Seedmeals are byproducts of oil extraction from cottonseed, linseed (flax),
+  sunflower, canola (rapeseed), and soybean. Most analyze at approximately
+  6-4-2 NPK. Buy whichever provides the most protein for the least cost.
 
-### Plus (for best results)
+- **Option B:** 3 parts any seedmeal (except coprameal and tankage), PLUS
+  1 part tankage ("blood-and-bone," "meatmeal"). This higher-nitrogen option
+  is slightly better for leafy crops in spring. Tankage analyzes at 10-4-0.
 
-```
-1 part phosphorus source:
-  - finely ground rock phosphate ("hard" or "soft")
-  - bonemeal
-  - OR high-phosphate guano
-1/2 part kelp meal
-  - OR 1/2 part basalt dust
-```
+- **Option C:** 4 parts coprameal (coconut meal), supplemented with 1 part
+  tankage. Coprameal is one-third weaker in NPK but coconuts are typically
+  grown without [[agricultural-chemicals-mycorrhizal-impact]].
 
-## Ingredients Explained
+**Blend with the following (add to whichever nitrogen source you chose):**
 
-### Seed Meals
+- 1 part ordinary agricultural lime (best finely ground)
+- 1 part gypsum (calcium sulfate; if you don't use gypsum, double the
+  quantity of agricultural lime)
+- 1/2 part dolomite lime (provides both [[dynamic-accumulator-plants-calcium-and-magnesium]])
+- 1 part phosphorus source: finely ground rock phosphate, bonemeal, or
+  high-phosphate guano
+- 1 part kelpmeal OR 1 part basalt dust (for trace minerals)
 
-Seed meals are the byproduct of making vegetable oil. Common sources include linseed (flax), sunflower, cottonseed, soybean, canola (rapeseed), and safflower. When chemically analyzed, most seed meals have an NPK ratio of approximately 6-4-2, although coprameal (coconut) is about one-third weaker. Seed meals contain calcium, magnesium, and trace nutrients that vary by kind and from purchase to purchase.
+## Ingredient Details
 
-The general rule is to buy whichever seed meal gives the most protein for the least cost. Keep seed meals dry and protected from moisture in a tight-lidded container. Seed meals are the primary nitrogen source in the COF formula.
+### Seedmeals (Nitrogen Base)
+The high-protein meal remaining after oil is pressed from oilseeds. Besides
+nitrogen, they contain phosphorus, potassium, calcium, magnesium, and trace
+nutrients. Analysis varies by kind and from purchase to purchase. Keep
+seedmeals dry and protected from moisture in a sealed container. Stored
+properly, they remain effective for more than 20 years.
 
-### Lime Sources
+### Lime Types
+Three types provide calcium and magnesium in different ratios:
+- **Agricultural lime:** Relatively pure [[peat-calcium-carbonate-perlite-casing-psilocybe-cubensis-miniculture]]
+- **Dolomitic lime:** Contains both calcium and magnesium carbonates
+- **Gypsum (calcium sulfate):** Provides calcium without significantly
+  affecting soil pH
 
-Three lime types are used in COF, each serving a specific purpose:
+Solomon recommends using a mixture of all three rather than relying on a
+single type. He advises gardeners to forget about adjusting soil pH — in
+organic gardens, pH corrects itself over time, more from organic matter
+increases than from calcium and magnesium additions.
 
-- **Agricultural lime (calcium carbonate)**: Provides calcium and raises soil pH
-- **Gypsum (calcium sulfate)**: Provides calcium and sulfur without raising pH; used when soil is already alkaline
-- **Dolomite lime (calcium-magnesium carbonate)**: Provides both [[dynamic-accumulator-plants-calcium-and-magnesium]]
+### Kelpmeal and Basalt Dust (Trace Minerals)
+The "insurance policy" of COF. Kelpmeal is dried ground seaweed containing
+every trace mineral found in seawater — over 70 elements — plus natural
+growth regulators and hormones that enhance plant vigor and resistance to
+cold, frost, and other stresses. Basalt dust is finely ground volcanic rock.
+Kelpmeal can also be applied as a foliar spray for even greater effect.
 
-The combination of these three lime sources ensures that calcium and magnesium are supplied in roughly the right proportions. If gypsum is unavailable, double the agricultural lime quantity.
+## Application Rates
 
-### Phosphorus Sources
+Spread 4 to 6 quarts per 100 square feet of raised bed or per 50 feet of
+row (12-18 inches wide), once or twice yearly (best in spring). Work into
+the top few inches with a hoe or spade, or surface-apply for no-dig gardens.
 
-One part of a phosphorus source is essential. Options include:
+This baseline provides enough fertility for low-demand vegetables (carrots,
+beets, beans, peas) to reach maximum potential and usually adequately feeds
+medium-demand vegetables. Side-dress high-demand crops (tomatoes, corn,
+cabbage) with 1-2 quarts per 100 sq ft every 3-4 weeks after seedlings
+are established.
 
-- **Rock phosphate**: Available in "hard" (colloidal) and "soft" (reactive) forms; slow-release and long-lasting
-- **Bonemeal**: Faster-acting than rock phosphate; provides both phosphorus and calcium
-- **High-phosphate guano**: Bat or seabird guano with high phosphorus content
+## See Also
 
-### Trace Mineral Sources
+- [[soil-foodweb-biology]]
+- actively aerated compost tea aact
 
-Either kelp meal or basalt dust provides [[dynamic-accumulator-plants-trace-minerals]] essential for plant health and, ultimately, human nutrition. Kelp meal is preferred when available as it also contains [[gibberellins-plant-growth-hormones]] and other beneficial compounds. Basalt dust is an excellent alternative that provides a broad spectrum of minerals from volcanic rock.
+## References
 
-## Application Guidelines
-
-### General Use
-
-COF is used to supplement modest amounts of manure and/or compost. For most [[natural-farming-guide-hugelkultur-mounded-garden-beds]], apply COF at a rate of approximately 4-6 quarts per 100 square feet of growing area, worked into the top few inches of soil before planting. For demanding crops in depleted soils, the rate can be increased.
-
-### Crop-Specific Adjustments
-
-- **Leafy crops (spring)**: The higher-nitrogen tankage option is slightly better for spring leafy growth
-- **Fruiting crops (tomatoes, peppers)**: Maintain standard formula; avoid excess nitrogen which promotes foliage over fruit
-- **Root crops (potatoes, carrots)**: Ensure adequate phosphorus for root development
-- **Heavy feeders (corn, brassicas)**: Increase application rate by 25-50 percent
+- Solomon, Steve. *Gardening When It Counts: Growing Food in Hard Times*.
+  New Society Publishers, 2005. Chapters 2 and 4.

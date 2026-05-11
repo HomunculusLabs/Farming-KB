@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's [[fukuoka-natural-farming-principles-do-nothing-agriculture-personal-testimony]]: The Four Pillars and the Philosophy of Non-Action"
+title: Fukuoka Natural Farming Principles
 source: "The Natural Way of Farming — Masanobu Fukuoka"
 topics:
   - natural-farming

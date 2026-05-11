@@ -22,7 +22,7 @@ Cover crops are plants grown to cover and protect bare soil between main crop ro
 
 ### Nitrogen Fixation
 Leguminous cover crops fix atmospheric nitrogen through symbiotic bacteria (Rhizobia) in their root nodules:
-- **[[comparison-lupin-vs-crimson-clover-green-manure]]:** Fixes 70-130 lbs N/acre; beautiful red flowers; winter annual
+- **[[compost]]:** Fixes 70-130 lbs N/acre; beautiful red flowers; winter annual
 - **Hairy vetch:** Fixes 90-200 lbs N/acre; vigorous; hardy to -15°F
 - **Field peas:** Fixes 100-175 lbs N/acre; fast-growing; edible
 - **Fava beans:** Fixes 150-200 lbs N/acre; edible; deep-rooted

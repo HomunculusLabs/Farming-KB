@@ -23,7 +23,7 @@ sources:
 
 *Acropora palmata* is a prominent branching coral endemic to the Caribbean
 Sea and western Atlantic. It is one of the primary reef-building corals of
-the region, contributing substantially to calcium carbonate reef framework
+the region, contributing substantially to peat calcium carbonate perlite casing psilocybe cubensis miniculture [[peat-perlite-casing-layer-composition-psilocybe-cubensis-miniculture-bigwood-beug]] [[psilocybe-cubensis-miniculture-method]] reef framework
 construction. The species suffered catastrophic declines exceeding 95% since
 the 1970s from white-band disease, bleaching, and hurricane damage.
 

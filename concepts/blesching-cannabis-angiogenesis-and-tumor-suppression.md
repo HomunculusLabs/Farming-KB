@@ -72,7 +72,7 @@ treatment resistance, a major challenge in conventional oncology.
 ## Related Concepts
 
 - [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]]
-- [[blesching-cannabinoid-pharmacology]]
+- [[cannabinoid]]
 - [[blesching-cannabis-four-prime-cannabinoids]]
 ## Practical Considerations
 

@@ -77,6 +77,6 @@ added to soil, they can temporarily suppress microbial activity.
 This is why fresh wood chips are often recommended as a mulch
 rather than being incorporated into the soil. As a surface mulch,
 the compounds volatize and [[query-can-fungi-break-down-plastic-pollution]] gradually without directly
-contacting the [[compost-tea-brewing-equipment-ingham]]
+contacting the [[circadian-rhythm-in-plants]]
 - [[ingham-turf-lawn-compost-tea-programs]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]

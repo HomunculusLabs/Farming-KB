@@ -1,5 +1,5 @@
 ---
-title: [[gottlieb-peyote-botany-and-mescaline-content]] Extraction And [[amanita-muscaria-preparation-methods]]
+title: Gottlieb Peyote Extraction And Preparation Methods
 created: 2026-04-26
 updated: "2026-04-24"
 sources:

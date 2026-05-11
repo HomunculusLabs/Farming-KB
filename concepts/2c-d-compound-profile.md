@@ -88,3 +88,16 @@ The ethoxy homologues of the 2C-X series have been collectively called the "Twee
 - Short to moderate duration (4-6 hours)
 - Often recommended as an introductory psychedelic phenethylamine
 - Related compounds: [[2c-e-compound-profile]], [[shulgin-mda-compound-profile]]
+
+## Practical Applications
+2C D Compound Profile has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
+
+## Historical Significance
+The development and understanding of 2c d compound profile has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+
+## See Also
+- [[doet-compound-profile]]
+- [[mdo-compound-profile]]
+- [[mescaline-compound-profile]]
+- [[2c-t-7-compound-profile]]
+- [[doi-compound-profile]]

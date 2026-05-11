@@ -1,5 +1,5 @@
 ---
-title: Comparison Bats Vs Purple Martins Vs Dragonflies [[beneficial-insects-and-biological-pest-control]]
+title: Comparison Bats Vs Purple Martins Vs Dragonflies Pest Control
   - "National Wildlife Federation. 'Purple Martin Conservation Association — Bird House Placement Guidelines.'"
   - "Merckx, T. et al. (2020). 'Aerial insectivores and agricultural pest suppression: a meta-analysis.' Agriculture, Ecosystems & Environment, 295, 106886."
   - "Tuttle, M.D. (2015). The Secret Lives of Bats. Houghton Mifflin Harcourt."

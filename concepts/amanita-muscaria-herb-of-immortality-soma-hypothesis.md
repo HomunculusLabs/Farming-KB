@@ -36,7 +36,7 @@ Teeter finds all these candidates wanting. Soma was specifically a plant that gr
 
 ## The Wasson Identification
 
-In 1974, Teeter read R. gordon-wasson's Soma: [[soma-controversy-fly-agaric-as-divine-mushroom]] of Immortality, which proposed amanita [[allegro-colour-and-consistency-of-the-amanita-muscaria]] herb of immortality soma hypothesis of immortality soma hypothesis
+In 1974, Teeter read R. gordon-wasson's Soma: [[edaphic-factors]] of Immortality, which proposed amanita [[allegro-colour-and-consistency-of-the-amanita-muscaria]] herb of immortality soma hypothesis of immortality soma hypothesis
 
 - [[eleusinian-mysteries]] -- another possible psychedelic mystery cult
 - [[amanita-muscaria-drying-and-preparation]] -- the urinary property linking Amanita to Soma

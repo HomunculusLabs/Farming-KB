@@ -79,20 +79,17 @@ and modern research methods have all contributed to current understanding.
 - [[blesching-cannabis-systemic-sclerosis]]
 - [[blesching-cannabis-anxiety]]
 
-
 ## Cultivation Considerations
 Successful cultivation requires attention to environmental factors
 including light cycles, temperature ranges, humidity control, and
 nutrient management. Both indoor and outdoor approaches have
 distinct advantages depending on climate and regulatory context.
 
-
 ## Safety and Regulation
 Regulatory frameworks vary significantly by jurisdiction. Growers
 should consult local laws regarding cultivation, possession, and use.
 Proper identification and quality control remain essential for
 consumer safety across all production methods.
-
 
 ## See Also
 - [[query-how-to-fix-phosphorus-deficiency-in-cannabis]]
@@ -125,4 +122,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

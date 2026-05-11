@@ -34,9 +34,9 @@ Pinch back the growing tips when the plants are 6-8 inches tall to encourage bus
 
 ### Companion Planting
 
-Basil serves as an excellent companion plant in the vegetable garden and helps repel certain pests while attracting beneficial insects. Plant basil near [[tomato]]s to help repel tomato hornworms and whiteflies. Basil also attracts pollinators and predatory insects that help control garden pests.
+Basil serves as an excellent companion plant in the vegetable garden and helps repel certain pests while attracting beneficial insects. Plant basil near [[tomato-pepper-eggplant-growing-guide]]s to help repel tomato hornworms and whiteflies. Basil also attracts pollinators and predatory insects that help control garden pests.
 
-The strong scent of basil can help confuse pests and mask the aroma of other plants, making it a valuable addition to companion planting schemes. Plant basil alongside [[pepper]]s, [[eggplant]]s, and other warm-season vegetables for mutual benefits.
+The strong scent of basil can help confuse pests and mask the aroma of other plants, making it a valuable addition to companion planting schemes. Plant basil alongside [[pepper-growing-guide]]s, [[eggplant]]s, and other warm-season vegetables for mutual benefits.
 
 ### Harvesting Techniques
 
@@ -48,7 +48,7 @@ For larger harvests, cut stems back by one-third, leaving at least 4-6 leaves on
 
 Fresh basil is a staple in Mediterranean cuisine and adds distinctive flavor to many dishes. The [[holy-basil-tulsi-guide|holy basil]] varieties offer spicier notes, while sweet basil provides classic Italian flavor. Use fresh leaves immediately for maximum flavor impact or store properly for later use.
 
-Common culinary applications include pesto, caprese salad, pasta dishes, and tomato-based sauces. Basil pairs well with [[garlic]], [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]], tomatoes, cheeses, and summer vegetables. The leaves should be added at the end of cooking to preserve their delicate flavor and essential oils.
+Common culinary applications include pesto, caprese salad, pasta dishes, and tomato-based sauces. Basil pairs well with [[garlic-cultivation-and-allium-growing-guide]], [[query-how-to-start-a-small-olive-grove-and-produce-olive-oil-at-home]], tomatoes, cheeses, and summer vegetables. The leaves should be added at the end of cooking to preserve their delicate flavor and essential oils.
 
 ### Preservation Methods
 

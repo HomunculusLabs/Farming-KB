@@ -82,7 +82,7 @@ tissues.
 
 ### Failure of Single-Enzyme Approaches
 
-Geneticists attempted to cripple [[cordyceps-insect-pathogenic-fungi]] by
+Geneticists attempted to cripple [[Cordyceps]] by
 knocking out individual enzyme genes. When cutinase genes
 were disrupted, mutants still penetrated leaves because
 fungi produce many different cutinases.

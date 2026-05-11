@@ -1,5 +1,5 @@
 ---
-title: Biological Slime Mold Computing
+title: "Biological Slime Mold Computing"
 created: 2026-04-28
 tags: [computational-biology, slime-mold, optimization, unconventional-computing, bioinformatics]
 date: 2026-04-28
@@ -67,7 +67,7 @@ network formation. These models represent the plasmodium as a grid of cells
 with state variables for nutrient concentration, diffusion rates, and growth
 direction, producing patterns that closely match biological observations.
 ## Adaptive Behavior and Memory
-Physarum exhibits a form of externalized spatial memory. When navigating an
+Physarum exhibits a form of externalized [[chamovitz-plant-maze-navigation-spatial-memory]]. When navigating an
 environment, the slime mold leaves behind a trail of extracellular slime that
 acts as a repellent, preventing the organism from revisiting areas it has
 already explored. This "habituation" behavior enables efficient coverage of
@@ -78,7 +78,7 @@ problem through distributed processing.
 ## Applications and Bio-Inspired Algorithms
 Slime mold computing has inspired practical applications across multiple
 fields:
-- **Transport Network Design:** Physarum-based algorithms have been used to
+- **[[mycelial-nutrient-transport-network-dynamics-gadd]] Design:** Physarum-based algorithms have been used to
   design road networks, fiber optic layouts, and public transit systems that
   balance efficiency and resilience.
 - **Robotics:** Swarm robotics researchers have developed multi-robot systems

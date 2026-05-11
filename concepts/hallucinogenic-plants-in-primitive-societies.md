@@ -1,0 +1,150 @@
+---
+title: [[anticholinergic-hallucinogenic-plants|[[hallucinogenic-plants-history-ethnobotany|Hallucinogenic]] [[hallucinogenic-plants-history-ethnobotany|Plants]] in Primitive Societies
+source: a-golden-guide-to-hallucinogenic-plants.md
+type: concept
+---
+
+# Hallucinogenic [[allelopathy-and-chemical-warfare-in-[[biological-transmutation-in-plants|plants]]|Plants]] in Primitive Societies
+
+> Hallucinogens permeate nearly every aspect of life in primitive societies.
+> — R.E. Schultes, *A Golden Guide to [[plants-of-the-gods-geography-hallucinogenic-plants|Hallucinogenic Plants]]* (1976)
+
+## Overview
+
+- Hallucinogenic plants have been used by humans for thousands of years,
+  likely since the earliest days of plant gathering
+- In primitive societies, hallucinogens are woven into the fabric of daily
+  existence, touching virtually every domain of life
+- They are considered sacred, powerful, and indispensable to cultural and
+  spiritual continuity
+- Their fantastic effects may even have suggested the very concept of deity
+  to early humans
+
+## Pervasiveness in Primitive Life
+
+Hallucinogens permeate nearly every aspect of life in aboriginal cultures:
+
+- **Health and sickness** — central to healing practices and disease
+  conceptualization
+- **Peace and war** — used to divine enemy plans, ensure victory, and
+  ritualize conflict
+- **Home life and travel** — embedded in domestic routines and journeys
+- **Hunting and agriculture** — employed to locate game, improve harvests
+- **Relations among individuals, villages, and tribes** — used in dispute
+  resolution and social cohesion
+- **Life before birth and after death** — believed to influence prenatal
+  existence and the afterlife
+
+## Medical and Religious Uses
+
+- Medical and religious applications are particularly important across
+  indigenous cultures
+- Aboriginal peoples attribute sickness and health to the working of
+  **spirit forces**
+- A "medicine" that can transport one to the spirit world is valued above
+  one with purely physical effects
+- Hallucinogens thus serve a dual role: as pharmacological agents and as
+  portals to the supernatural
+- This integration of medicine and spirituality is fundamentally different
+  from the Western separation of the two domains
+
+### As Mediators Between Man and Gods
+
+- Psychic and supernatural powers have been attributed to hallucinogens
+  across cultures
+- These plants are integral to primitive religions worldwide
+- They serve as **mediators between humans and deities**
+- The prophecies of the Oracle of Delphi are thought to have been induced
+  through hallucinogenic substances
+- This pattern recurs across continents and millennia
+
+## Initiation Rites
+
+Hallucinogenic plants are basic to adolescent initiation rituals in many
+cultures:
+
+- **Algonquin Indians (North America)**
+  - Administered *wysoccan*, an intoxicating medicine, to young men
+  - Candidates became violently deranged for ~20 days, losing all memory
+  - The intent: start manhood by completely forgetting boyhood — a total
+    psychological rebirth
+- **Iboga Root (Gabon, Central Africa)**
+  - Used in initiation ceremonies among Gabonese peoples
+  - Induces intense visionary experiences confronting ancestral spirits
+- **Caapi / Ayahuasca (Amazon Basin)**
+  - Banisteriopsis caapi prepared as a brew
+  - Used in initiation rituals throughout the Amazon
+  - Brings visions of the spirit world to new initiates
+
+## Divination, Prophecy, and Warfare
+
+### South American Practices
+
+- Many Amazonian tribes take **ayahuasca** (caapi / yajé) to:
+  - Foresee the future and settle disputes
+  - Decipher enemy plans before military action
+  - Cast or remove spells, insure fidelity of women
+- Sensations of death and separation of body and soul commonly occur
+  during dreamlike trances
+- **Jurema** (eastern Brazil): Indians drink jurema before battle for
+  glorious visions of the spirit world
+
+### Datura
+
+- Hallucinogenic properties of *Datura* thoroughly exploited in the
+  New World
+- Used in Mexico and the American Southwest for divination, prophecy,
+  and ritualistic curing
+- Dangerous due to narrow margin between effective and toxic doses
+
+### Mexican Indigenous Practices
+
+- Modern Mexican Indians value certain **mushrooms** as sacraments
+- **Morning glories** and **peyote** are used to predict the future,
+  diagnose and cure disease, and placate good and evil spirits
+- **Mixtecs of Mexico** eat puffballs (*Lycoperdon mixtecorum* and
+  *L. marginotum*) to hear voices from heaven answering questions
+
+### South American Shamanic Practices
+
+- **Waikás (Brazil and Venezuela)** snuff powdered resin of a jungle
+  tree to ritualize death, induce trance for diagnosing disease, and
+  thank spirits for victory
+- **Witotos (Colombia)** eat the same powerful resin to "talk with the
+  little people" (spirit beings)
+- **Peruvian medicine men** drink *cimora* to become "owners of
+  another's identity" — used for healing, divination, and influence
+
+## Use in the Modern Western World
+
+- Modern Western society has recently adopted hallucinogens on a grand
+  scale, sometimes illegally
+- Many users believe they can achieve "mystic" or "religious" experiences
+  by altering body chemistry
+- Most are unaware they are reverting to age-old practices of primitive
+  societies
+- Whether drug-induced experiences are identical to the metaphysical
+  insight claimed by mystics — or merely a counterfeit — remains
+  **controversial**
+- Key distinctions from traditional use:
+  - Widespread use may have little or no value, can be harmful without
+    proper cultural context
+  - Represents a **newly imported and superimposed cultural trait**
+  - Lacks natural roots in Western tradition
+  - Removed from integrated spiritual frameworks that gave these
+    practices meaning in indigenous cultures
+
+## Key Themes
+
+- **Holism**: Hallucinogens are not "drugs" in the Western sense — they
+  are medicines, sacraments, teachers, and tools of social organization
+- **Spirit world access**: The primary value is access to the spirit
+  world, not recreational experience
+- **Cultural integration**: Use is embedded within complex systems of
+  belief, ritual, and social structure
+- **Knowledge transmission**: Shamans and medicine men serve as
+  custodians of plant knowledge and its proper application
+- **Continuity**: The same fundamental patterns recur across continents,
+  suggesting deep human universals in the relationship between
+  consciousness-altering plants and spiritual practice
+## See Also

@@ -24,7 +24,7 @@ If no diseases are present, [[aact-microbial-foliar-nutrient-uptake-co2-stomata-
 
 ## The Coverage Principle
 
-For any foliar disease, the main agent of protection is coverage. If beneficial organisms already occupy the leaf surface, [[cordyceps-insect-pathogenic-fungi]] cannot push them out. The enzymatic ability of many common foliar pathogens is surprisingly weak — they cannot out-compete even modest communities of beneficial organisms for space or resources. The question then becomes: why are these diseases so prevalent? Because conventional management practices continuously destroy the protective biology on leaf surfaces.
+For any foliar disease, the main agent of protection is coverage. If beneficial organisms already occupy the leaf surface, [[Cordyceps]] cannot push them out. The enzymatic ability of many common foliar pathogens is surprisingly weak — they cannot out-compete even modest communities of beneficial organisms for space or resources. The question then becomes: why are these diseases so prevalent? Because conventional management practices continuously destroy the protective biology on leaf surfaces.
 
 Ingham categorizes diseases by difficulty: black spot is "easy," mildew is harder, anthracnose is not easy, and *Fusarium* is "a piece of cake." These assessments reflect the relative enzymatic competitiveness of each pathogen against the beneficial organisms typically present in well-made AACT.
 

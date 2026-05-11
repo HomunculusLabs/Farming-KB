@@ -36,7 +36,7 @@ diversity:
 
 ### Cambodia
 - **P. cubensis**: First collected by Heim (1956a)
-- **[[copelandia-cambodginiensis]]**: Described from Cambodia; widespread in
+- **[[Copelandia]]**: Described from Cambodia; widespread in
   Southeast Asia
 - **C. cyanescens** and **C. tropicalis**: Present in Cambodia
 

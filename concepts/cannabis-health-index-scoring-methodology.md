@@ -1,5 +1,5 @@
 ---
-title: Cannabis [[cannabis-health-index-scoring]] Methodology
+title: Cannabis Health Index Scoring Methodology
 aliases: [CHI score, CHI methodology, cannabis health index rating, evidence-based cannabis scoring]
 tags: [cannabis, evidence-based-medicine, medical-cannabis, research-methodology, health-index]
 created: 2026-05-10

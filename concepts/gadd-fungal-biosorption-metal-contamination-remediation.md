@@ -78,7 +78,7 @@ The formation of toxic metal oxalates enables fungi to tolerate environments con
 
 A specific combination of biotic and abiotic factors leads to deposition of various other secondary minerals associated with fungi, including birnessite, ferrihydrite, goethite, montmorillonite, moolooite (copper oxalate), glushkinskite (magnesium oxalate), and calcium formate. Precipitation immobilizes metals in the soil environment and limits bioavailability (Gadd, 2000).
 
-## [[bioremediation|Bioremediation]] Potential
+## [[bioremediation-monitoring-and-assessment|Bioremediation]] Potential
 
 The ability of fungi to immobilize [[fungal-biosorption-of-heavy-metals-by-filamentous-fungi|metals]] via biosorption, intracellular accumulation, and extracellular precipitation converts metals into chemically more inert forms, resulting in effective **detoxification** of [[mycoremediation-mushroom-cultivation-contaminated-substrates]] (Gadd, 2000; Fomina & Gadd, 2002). Key applications include:
 

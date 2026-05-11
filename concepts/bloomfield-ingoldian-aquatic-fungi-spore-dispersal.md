@@ -1,5 +1,5 @@
 ---
-title: Bloomfield [[ingoldian-aquatic-fungi]] [[adaptive-anemotropism-spore-dispersal-optimization-mushroom-evolution]]
+title: "Bloomfield Ingoldian Aquatic Fungi Spore Dispersal"
 created: 2026-04-28
 tags: [ingoldian-fungi, aquatic-fungi, spore-dispersal, tetraradiate-spores,
       cecil-ingold, leaf-decomposition, stream-ecology, freshwater-fungi]
@@ -24,7 +24,7 @@ As a young professor in Leicester in 1938, Cecil Ingold found unusual
 spores in foam collecting at the surface of "a little, alder-lined,
 babbling brook" near his home. After months of research, he concluded
 that the spores were formed by a previously unknown group of aquatic
-fungi instrumental in leaf decomposition. There had been a few earlier
+fungi instrumental in bloomfield [[dighton-aquatic-hyphomycete-conidia-community-dynamics]] [[bloomfield-aquatic-hyphomycete-leaf-decomposition]]. There had been a few earlier
 reports of aquatic spores with long appendages, but most biologists
 ignored them or misidentified them as protozoans.
 

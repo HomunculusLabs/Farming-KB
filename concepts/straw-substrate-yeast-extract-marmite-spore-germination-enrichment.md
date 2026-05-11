@@ -1,5 +1,5 @@
 ---
-title: Straw [[straw-substrate-yeast-extract-enrichment-preparation]] Marmite [[mushroom-cultivator-life-cycle-and-spore-germination]] Enrichment
+title: Straw Substrate Yeast Extract Marmite Spore Germination Enrichment
 tags: [mushroom-cultivation, substrate-preparation, straw, yeast-extract, marmite, nutrition, jarrold, boil-a-bag]
 related: [jarrold-straw-substrate-preparation-marmite-supplementation, straw-substrate-yeast-extract-enrichment-jarrold, jarrold-boil-a-bag-mushroom-cultivation-method]
 source: [jarrold-indoor-mushroom-growing-technique-boil-a-bag]

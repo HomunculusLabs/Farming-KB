@@ -1,5 +1,5 @@
 ---
-title: "Darwin's [[darwin-phototropism-experiments-plant-light-sensing]] and the Discovery of Plant Vision"
+title: Darwin Phototropism Experiments Plant Vision Discovery
 source: "What a Plant Knows ([[daniel-chamovitz]], 2012)"
 tags: [plant-biology, phototropism, history-of-science, darwin,
      plant-sensory-biology, experimental-design, auxin]

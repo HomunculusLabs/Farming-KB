@@ -41,7 +41,7 @@ interior — is a core prediction of the [[two-tier-selection-model]].
 The genus *Methylophilus* was identified as a major driver of cultivar
 differences in the [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]]. Its distribution across cultivars:
 
-- **Bookoo Kush**: 13% of [[proteobacteria-dominance-cannabis-endorhiza-community]]
+- **Bookoo Kush**: 13% of [[Proteobacteria]]
 - **Burmese**: 0.13%
 - **Sour Diesel**: Completely absent
 

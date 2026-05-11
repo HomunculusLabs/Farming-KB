@@ -1,5 +1,5 @@
 ---
-title: [[palmer-mushroom-anatomy-and-structure]] [[fungal-kingdom-taxonomy-classification]] System
+title: "[[palmer-mushroom-anatomy-and-structure]] [[fungal-kingdom-taxonomy-classification]] System"
 created: 2026-04-28
 tags: [[fungal-taxonomy]], classification, mycology-history, nineteenth-century, palmer]
 date: 2026-04-28

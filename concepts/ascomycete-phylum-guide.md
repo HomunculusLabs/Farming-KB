@@ -34,7 +34,7 @@ The cup fungi and morels. This order contains Morchella (morels), Tuber (truffle
 An ecologically diverse order including many plant pathogens (Sclerotinia), saprotrophs, and mycorrhizal associates. They produce small apothecia, often on dead wood or plant debris.
 
 ### Hypocreales
-Contains important entomopathogenic fungi (see [[cordyceps-and-entomopathogenic-fungi]]), including Cordyceps, Ophiocordyceps, Beauveria, and Metarhizium. Also includes Trichoderma species used in biocontrol and Gibberella (Fusarium) plant pathogens.
+Contains important entomopathogenic fungi (see [[Cordyceps]]), including Cordyceps, Ophiocordyceps, Beauveria, and Metarhizium. Also includes Trichoderma species used in biocontrol and Gibberella (Fusarium) plant pathogens.
 
 ### Erysiphales
 The [[biodiversity-powdery-mildews]]. Obligate biotrophic plant parasites that produce white powdery growth on leaf surfaces. Economically significant in agriculture, affecting grapes, cereals, cucurbits, and roses.

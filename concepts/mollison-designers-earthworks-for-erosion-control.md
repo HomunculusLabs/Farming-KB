@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Earthworks [[comparison-vetiver-grass-vs-bamboo-for-erosion-control]]
+title: Mollison Designers Earthworks For Erosion Control
 created: 2026-04-28
 tags:
   - [[permaculture]]

@@ -1,5 +1,5 @@
 ---
-title: [[stamets-growing-room-air-circulation-co2-management]] Design
+title: "[[stamets-growing-room-air-circulation-co2-management]] Design"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

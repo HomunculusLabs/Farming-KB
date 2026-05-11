@@ -1,5 +1,5 @@
 ---
-title: Carrot [[alliums-growing-guide]]
+title: Carrot Growing Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

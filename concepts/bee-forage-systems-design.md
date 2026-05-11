@@ -23,7 +23,7 @@ A bee forage system is a deliberately designed assemblage of plants that provide
 ### Spring (September-November)
 - **Prunus spp**: Nectar and pollen
 - **Eucalyptus**: E. camaldulensis, E. cornuta, E. diversicolor, E. globulus, E. patens
-- **Clovers**: Up to 400 kg/ha nitrogen yield; [[comparison-lupin-vs-crimson-clover-green-manure]] particularly high
+- **Clovers**: Up to 400 kg/ha nitrogen yield; [[compost]] particularly high
 - **Lucerne**: Very long flowering period begins; 78-285 kg/ha/day
 - **Tagasaste**: Nectar and pollen through winter into spring
 - **Willows**: Nectar/pollen depending on sex of tree

@@ -1,5 +1,5 @@
 ---
-title: Cervantes Backcross [[luther-burbank-plant-breeding-methods]]
+title: "Cervantes Backcross [[luther-burbank-plant-breeding-methods]]"
 created: 2026-04-26
 tags:
   - cannabis

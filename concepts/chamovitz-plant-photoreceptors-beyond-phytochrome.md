@@ -66,7 +66,7 @@ The discovery of UVR8 resolved a long-standing question in photobiology: how do 
 
 The ZEITLUPE (ZTL) family of blue-light photoreceptors plays a specialized role in circadian clock regulation. ZTL proteins contain both a blue-light sensing domain (LOV domain, similar to phototropins) and an F-box domain that targets proteins for degradation.
 
-ZTL functions as a blue-light-regulated timer: it uses light information to time the degradation of TOC1, a central component of the circadian oscillator. By controlling when TOC1 is removed, ZTL helps set the pace of the plant's [[chamovitz-circadian-rhythm-internal-clock-plants]].
+ZTL functions as a blue-light-regulated timer: it uses light information to time the degradation of TOC1, a central component of the circadian oscillator. By controlling when TOC1 is removed, ZTL helps set the pace of the plant's [[chrysanthemum]].
 
 ## Cross-Talk Between Photoreceptor Systems
 

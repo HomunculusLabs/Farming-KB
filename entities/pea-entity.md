@@ -41,7 +41,7 @@ Individuals taking MAO-A or MAO-B inhibitors should avoid PEA supplementation.
 
 ## Index
 
-- [[mda-entity-pihkal]]|MDA: a substituted phenethylamine with significant activity
+- [[mda]]|MDA: a substituted phenethylamine with significant activity
 - [[n-methyl-pea-entity]]
 - [[alexander-shulgin]]
 ## Practical Considerations

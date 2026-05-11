@@ -3,7 +3,7 @@ title: Blesching Cannabis Alzheimers Dementia
 created: 2026-04-26
 updated: 2026-04-25
 sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview [[blesching-cannabinoid-pharmacology]] blesching-cannabis-neurodegenerative-diseases Blesching [[blesching-cannabis-mental-disorders]] Health Applications"
+wikilinks: "blesching-endocannabinoid-system-overview [[cannabinoid]] blesching-cannabis-neurodegenerative-diseases Blesching [[blesching-cannabis-mental-disorders]] Health Applications"
 type: concept
 tags: [cannabis]
 ---

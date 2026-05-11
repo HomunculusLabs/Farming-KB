@@ -1,5 +1,5 @@
 ---
-title: [[endorhiza-microbiome-cannabis-cultivar-specificity]]
+title: Cannabis Cultivar Specificity
 aliases:
   - Strain-specific microbiome
   - Cannabis strain differences

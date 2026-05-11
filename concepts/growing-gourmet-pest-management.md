@@ -1,5 +1,5 @@
 ---
-title: [[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] [[biofumigation-and-brassica-cover-crops-for-pest-management]]
+title: "[[growing-gourmet-abalone-oyster-cystidiosus-cultivation]] [[biofumigation-and-brassica-cover-crops-for-pest-management]]"
 created: 2026-04-26
 tags:
   - [[mycology]]

@@ -97,20 +97,17 @@ Arbuscular mycorrhizal fungi (AMF) form the most widespread symbiosis on Earth, 
 - AMF improve soil aggregation and structure
 - AMF hyphae are the "glue" holding soil together
 
-
 ## Ecological Role
 Fungal organisms play critical roles in ecosystem functioning through
 decomposition, nutrient cycling, and symbiotic relationships with plants.
 Understanding their ecological contributions informs both cultivation
 practices and conservation efforts across diverse habitats.
 
-
 ## Research Directions
 Current research explores applications in bioremediation, sustainable
 agriculture, and pharmaceutical development. Advances in genomic
 sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
-
 
 ## See Also
 - [[endobacteria-arbuscular-mycorrhizal-fungi]]
@@ -123,4 +120,3 @@ and expand our understanding of fungal biology.
 - [[mycorrhizal-networks-common-mycelial-network]] — for common networks
 - [[fungal-role-in-phosphorus-cycling]] — for P cycling role
 - [[soil-food-web-structure]] — for the broader soil biology context
-

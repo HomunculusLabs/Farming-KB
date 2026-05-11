@@ -23,7 +23,7 @@ Gastrodia elata, known as Tianma in Chinese, is a fully mycoheterotrophic orchid
 
 It is one of the most important medicinal plants in traditional Chinese medicine.
 
-The species entirely lacks chlorophyll and depends on [[auxin-production-by-symbiotic-fungi]] for nutrition throughout its life cycle.
+The species entirely lacks chlorophyll and depends on [[Auxin]] for nutrition throughout its life cycle.
 
 The dried tuber of Gastrodia elata has been used medicinally for over 2,000 years in East Asia.
 

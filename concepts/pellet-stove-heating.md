@@ -1,5 +1,5 @@
 ---
-title: [[comparison-masonry-heater-vs-pellet-stove]] Heating
+title: Pellet Stove Heating
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

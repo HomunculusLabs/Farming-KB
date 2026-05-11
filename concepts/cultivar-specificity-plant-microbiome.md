@@ -135,9 +135,9 @@ The Cannabis study adds to this body of evidence by demonstrating cultivar speci
 
 ## Related Concepts
 
-- [[rhizosphere-microbiome-two-tier-selection-model]]
+- [[Rhizosphere]]
 - [[cannabis-endorhiza-bacterial-communities]]
-- [[edaphic-factors-microbiome-structuring]]
+- [[crimson-clover]]
 - living soil microbial food web
 
 ## See Also

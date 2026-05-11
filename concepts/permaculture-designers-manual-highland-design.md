@@ -1,5 +1,5 @@
 ---
-title: [[bill-mollison-permaculture-designers-manual]] Highland Design
+title: "[[bill-mollison-permaculture-designers-manual]] Highland Design"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

@@ -87,4 +87,4 @@ Carex vulpina is occasionally used in [[constructed-wetland-design]] riparian bu
 
 Propagation from seed requires cold stratification for six to eight weeks. Division of established clumps in early spring is the most reliable vegetative propagation method.
 
-The species is not widely available in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]] but may be obtained from specialist native plant nurseries in Europe. It is valued for naturalistic planting schemes and wildlife garden wetland areas.
+The species is not widely available in [[cannabinoid-pharmacology]] but may be obtained from specialist native plant nurseries in Europe. It is valued for naturalistic planting schemes and wildlife garden wetland areas.

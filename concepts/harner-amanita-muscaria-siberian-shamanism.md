@@ -1,5 +1,5 @@
 ---
-title: Harner [[allegro-amanita-muscaria-properties-and-pharmacology]] [[siberian-shamanism-and-amanita]]
+title: "Harner [[allegro-amanita-muscaria-properties-and-pharmacology]] [[siberian-shamanism-and-amanita]]"
 created: 2026-04-26
 sources: Harner (ed.), hallucinogens-and-shamanism-harner-anthology (1973), Introduction (Harner)
 related:

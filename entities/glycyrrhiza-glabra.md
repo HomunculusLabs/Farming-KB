@@ -65,7 +65,7 @@ China (largest global producer), Turkey, Iran, Afghanistan, Pakistan,
 Spain, Italy, Greece, India (Rajasthan, Gujarat), and limited US cultivation.
 ### Habitat Requirements
 - Deep, fertile, well-drained loamy soils preferred
-- Tolerates saline and alkaline soils better than most crops
+- Tolerates saline and [[plants-tolerant-of-alkaline-soils]] better than most crops
 - Full sun to partial shade; hardy to USDA zones 6–10
 - Drought-tolerant once established due to deep root system
 - Natural habitat includes riverbanks, wastelands, and steppe grasslands

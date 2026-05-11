@@ -1,5 +1,5 @@
 ---
-title: Computational [[navier-stokes-equations-fluid-dynamics]]
+title: Computational Fluid Dynamics
 aliases: [CFD, numerical [[turbulence-modeling-fluid-dynamics]], fluid-flow simulation]
 tags: [engineering, fluid-dynamics, computational-physics, simulation, numerical-methods]
 created: 2026-05-02

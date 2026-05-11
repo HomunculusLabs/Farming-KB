@@ -1,6 +1,6 @@
 ---
-title: Cold Greenhouse Growing
-aliases: [[coleman-unheated-greenhouse-design]], cold house, hoop house winter growing, winter harvest]
+title: "Cold Greenhouse Growing"
+aliases: [[coleman-unheated-greenhouse-design]], cold house, hoop house winter growing, [[coleman-claytonia-winter-harvest-cultivation]]
 tags: [greenhouse, winter-growing, season-extension, organic-farming, vegetables]
 source: eliot-coleman-winter-harvest-handbook.md
 created: 2026-05-10
@@ -19,7 +19,7 @@ The winter harvest system has three interdependent components: cold-hardy vegeta
 planting, and [[coleman-protected-cultivation]]. The innovation lies not in any single component but in the
 synergy created when all three are used together. Cold-hardy vegetables survive freezing temperatures.
 [[coleman-succession-planting]] provides a continuous harvest through strategic sowing dates. Protected
-cultivation — the unheated greenhouse — provides the tempering effect that makes outdoor survival
+cultivation — the [[coleman-unheated-greenhouse-economic-model-passive-winter-production]] — provides the tempering effect that makes outdoor survival
 possible in harsh winter conditions.
 
 ## Greenhouse Design
@@ -31,7 +31,7 @@ plastic. The largest are 30 feet wide and 96 feet long, aligned on an east-west 
 solar gain. Gothic arches shed snow effectively, a critical consideration in northern climates. The
 gothic peak also provides headroom along the sidewalls, increasing usable growing space.
 
-The single-layer plastic covering is sufficient for unheated winter production. Unlike heated
+The single-layer plastic covering is sufficient for unheated [[coleman-cool-house-vs-cold-house-economics-winter-production]]. Unlike heated
 greenhouses, which benefit from two air-inflated layers to minimize heat loss, the cold house
 relies on a different approach: a second layer of protection inside the structure.
 
@@ -39,7 +39,7 @@ relies on a different approach: a second layer of protection inside the structur
 
 The technical foundation of the winter harvest is a twice-tempered microclimate created by adding
 a floating row cover inside the greenhouse. Wire wickets (12 inches tall, spaced every 4 feet along
-30-inch-wide beds) support lightweight row cover fabric over the crops. This inner layer is the key
+30-inch-wide beds) support lightweight [[coleman-row-cover-fabric-management]] over the crops. This inner layer is the key
 innovation — when outdoor temperatures drop to -15°F (-26°C), the temperature under the inner layer
 inside the cold house averages only 15°F to 18°F (-10°C to -8°C).
 
@@ -59,7 +59,7 @@ cover the winter crops.
 
 Mobile greenhouses offer several advantages beyond solving the scheduling problem: they avoid the
 expense of cooling summer greenhouses, they expose soil to sun, rain, and snow for one year out of
-every two (breaking pest and disease cycles), and they allow long-term [[green-manure-crops]] on the
+every two (breaking [[hamilton-pest-and-disease-control-organic]] cycles), and they allow long-term [[green-manure-crops]] on the
 uncovered sections for soil building.
 
 ## Cold-Hardy Vegetables

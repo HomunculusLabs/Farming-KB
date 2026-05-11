@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-shamanic-identification-signs-and-training-methods]] Training [[mckenna-shaman-centeredness-and-peripheral-social-role]] Role
+title: Mckenna Shamanic Identification Training And Peripheral Social Role
 source: mckenna_t-tryptamines_consciousness.md
 author: [[terence-mckenna]]
 topics: [[shamanism]], training, initiation, indigenous-knowledge, social-structure]

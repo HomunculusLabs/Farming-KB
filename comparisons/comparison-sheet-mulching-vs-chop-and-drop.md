@@ -55,7 +55,7 @@ germinate.
 Chop-and-drop mulching is a continuous soil-maintenance practice rooted in the
 natural cycle of plant growth and decomposition. Dedicated mulch-producing
 plants such as comfrey, cardoon, borage, and daikon radish are grown to be
-periodically cut and left in place. Cover crops like [[comparison-lupin-vs-crimson-clover-green-manure]], annual
+periodically cut and left in place. Cover crops like [[compost]], annual
 ryegrass, and common vetch provide dense biomass on a seasonal basis.
 
 The technique excels at [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]. Deep-rooted accumulators like comfrey

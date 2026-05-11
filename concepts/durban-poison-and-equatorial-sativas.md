@@ -46,7 +46,7 @@ recommended only for [[fukuoka-natural-farming-tropical-climates]] or greenhouse
 The photoperiod trigger mechanism in equatorial sativas is calibrated to subtle
 changes that are far less dramatic than the day-length shifts experienced at higher
 latitudes. When an equatorial sativa is grown at 40-50°N, the massive seasonal
-photoperiod shift can confuse the plant's [[chamovitz-circadian-rhythm-internal-clock-plants]], sometimes resulting in
+photoperiod shift can confuse the plant's [[chrysanthemum]], sometimes resulting in
 delayed flowering, hermaphroditism, or re-vegetation (the plant attempts to return
 to vegetative growth after initiating flowering).
 

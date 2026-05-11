@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, guild, companion-planting, plant-systems, ecology, design, multi-function]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Permaculture Guild Design

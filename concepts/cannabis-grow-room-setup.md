@@ -98,20 +98,17 @@ and modern research methods have all contributed to current understanding.
 - [[query-how-to-set-up-an-indoor-cannabis-grow-room]]
 - [[query-how-to-set-up-a-mushroom-grow-lab-or-clean-room]]
 
-
 ## Cultivation Considerations
 Successful cultivation requires attention to environmental factors
 including light cycles, temperature ranges, humidity control, and
 nutrient management. Both indoor and outdoor approaches have
 distinct advantages depending on climate and regulatory context.
 
-
 ## Safety and Regulation
 Regulatory frameworks vary significantly by jurisdiction. Growers
 should consult local laws regarding cultivation, possession, and use.
 Proper identification and quality control remain essential for
 consumer safety across all production methods.
-
 
 ## See Also
 - [[green-cannabis-grow-bible-indoor-grow-room-setup]]
@@ -125,4 +122,3 @@ consumer safety across all production methods.
 - [[query-how-to-manage-humidity-cannabis-grow-room]]
 - [[query-how-to-set-up-an-indoor-cannabis-grow-room]]
 - [[green-cannabis-grow-bible-outdoor-growing]]
-

@@ -148,30 +148,3 @@ duststorms are prevented by windbreak and tussock grasses;
 Coastal deforestation causes up to 30% more silt per annum,
 reducing water storage lifespans. Removal of mangroves and
 coastal dune vegetation results in sudden acceleration of
-wind erosion on beaches and coastal soils.
-
-## Shelterbelt Succession
-
-Plant as a succession from tall grass to taller legume to
-long-term windfast hedge (Casuarina, poplar, willow,
-eucalypt, oak, chestnut). The entire complex can be set
-out at once and managed as it evolves to maturity.
-
-Species must suit the climate, wind strength, and wind load
-(salt, sand, dust). There is no standard windbreak shape -
-different configurations are needed for different sites,
-functions, and accessory species.
-
-## The Hawaiian Example
-
-On the Kalaupapa peninsula of Molokai, Hawaiians built
-stone fences 25-50 cm high and 4.5-5 m apart, growing
-sweet-potato with fern mulch behind them - demonstrating
-how even minimal windbreaks enable food production in
-extremely exposed coastal environments.
-
-## See Also
-
-- [[bill-mollison-permaculture-a-designers-manual-zone-and-sector-analysis]] - wind as a sector energy
-- [[bill-mollison-permaculture-a-designers-manual-wildfire-management-in-permaculture]] - fire-resistant plants that also resist wind
-- [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]] - earthbanks as windbreak foundations

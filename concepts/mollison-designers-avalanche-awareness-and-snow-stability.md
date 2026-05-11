@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Avalanche Awareness And Snow Stability
+title: "[[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Avalanche Awareness And Snow Stability"
 created: 2026-04-26
 tags:
   - [[permaculture]]

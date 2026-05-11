@@ -1,0 +1,122 @@
+---
+title: "Mr Bloomfields Orchard Dermatophytes And Human Fungal Infections"
+source: >-
+  mr-bloomfields-orchard---the-mysterious-world-of-mushrooms-molds-and-mycologists.md
+source_author: Nicholas P. Money
+source_title: Mr. Bloomfield's Orchard
+published: 2002
+tags:
+  - mycology
+  - dermatophytes
+  - fungal-infections
+  - ringworm
+  - tinea
+  - malassezia
+  - madurella
+  - histoplasmosis
+  - human-pathogens
+  - medical-mycology
+---
+
+Fungi that infect humans occupy a special place in mycology — they are intimate,
+persistent, and often deeply misunderstood.
+
+# Dermatophytes and Human Fungal Infections
+
+Fungi are rarely contagious between humans, making dermatophytes — the fungi
+responsible for ringworm (tinea) infections — a notable and unsettling
+exception. Chapter 2 of *Mr. Bloomfield's Orchard*, titled "Insidious Killers,"
+surveys several [[bloomfield-fungal-pathogens-and-parasites]] that colonize, disfigure, and occasionally kill
+their human hosts. From the ubiquitous scalp dweller *Malassezia* to the
+bone-eroding *Madurella*, these organisms illustrate the remarkable diversity
+of [[symbiotic-fungi-fungal-parasitism-and-pathogenicity]] the wide range of strategies fungi employ to exploit
+human tissue as a nutrient source.
+
+## Tinea Capitis — Scalp Ringworm
+
+In tinea capitis, the fungus invades the hair shaft itself. Once inside, it
+secretes enzymes that weaken the hair's structural integrity, then reemerges on
+the outside of the shaft and showers the surrounding scalp with spores. These
+spores are readily transmitted — anyone's hair is a suitable target, making
+this infection highly contagious. The life cycle within a single strand of hair
+reads like a microbial siege: infiltration, enzymatic sabotage, replication,
+and explosive reemergence. The fungus essentially weaponizes the hair against
+its owner, converting each strand into a spore-dispersal organ.
+
+## Tinea Corporis — Ringworm of the Body
+
+On less hairy areas of skin, dermatophytes produce tinea corporis, causing
+expanding rings of inflammation and, often, unbearable itching. The infection
+is rarely life-threatening but can persist for decades, sometimes causing
+wholesale hair loss across affected regions. Ringworm expands outward in
+ever-increasing circles, much like a [[antimicrobial-compounds-mushroom-mycelium]] spreading through a
+meadow. In severe cases, the fungus manifests as intricate concentric ring
+patterns covering the entire body. From a distance, the patient appears
+"tattooed" — a striking visual signature of dermatophyte colonization that
+underscores the pathogen's capacity for dramatic, large-scale tissue invasion.
+
+## Modern Antifungal Treatment
+
+The outlook for ringworm patients has improved dramatically with the advent of
+modern antifungal drugs. Terbinafine, marketed as Lamisil, is highly effective
+against dermatophyte infections. Money writes that "a dermatologist's portfolio
+of before and after pictures would paralyze a convention of witch doctors" — a
+vivid testament to how completely these drugs can resolve even severe,
+long-standing dermatophyte infections. What once required decades of suffering
+can now be treated in a matter of weeks with a simple oral regimen.
+
+## Malassezia and Dandruff
+
+Every human scalp is colonized by *Malassezia*, a microscopic fungus that lives
+in sebaceous fat and feeds on dandruff flakes. Remarkably, *Malassezia* can only
+be cultured on agar if bathed in olive oil — extra virgin preferred, according
+to researcher Tom Dawson at Procter & Gamble, who has made this organism a
+central focus of industrial [[mycology-research-methods]]. This unusual nutritional
+requirement reflects the fungus's long evolutionary adaptation to the specific
+lipid-rich environment of the human scalp.
+
+Dandruff itself is a complex complaint exacerbated by stress, diet, hormones,
+and weather, but it is always accompanied by *Malassezia*. The global market for
+anti-dandruff products is enormous: Head and Shoulders shampoo alone generates
+$1.2 billion in annual sales, with China as its largest export market. The
+shampoo's active ingredient, pyrithione zinc, inhibits fungal proliferation,
+yet its precise mode of action remains unknown — a humbling reminder of how
+much remains to be learned about even the most commercially significant fungi
+that live on the human body.
+
+## Madurella Mycetomatis — Mycetoma of the Foot
+
+*Madurella mycetomatis* causes mycetoma, a devastating tropical disease that
+typically begins with a splinter wound in a bare foot. Over months or years,
+the fungus grows beneath the skin, forming spherical abscesses and
+interconnecting canals that resemble the tunnel systems of termite mounds.
+These canals eventually burst through the skin, weeping bloody fluid laced
+with infectious granules that can spread the fungus to new hosts or to new
+sites on the same patient's body.
+
+On X-rays, *Madurella* produces a diagnostic "moth-eaten" appearance as it
+progressively erodes the bones of the foot. The disease is not usually fatal,
+but it robs its victims of mobility — Money describes it as a "slow death
+sentence" in [[low-cost-mushroom-growing-house-construction-developing-countries]] where surgical and antifungal treatment is
+unavailable. As a parasite, *Madurella* is exquisitely well-adapted: it forges
+a long-term relationship with its host rather than killing quickly, and
+ensures its own dispersal through the infectious granules it continuously
+sheds into the surrounding environment. It is a masterclass in patient,
+sustainable parasitism.
+
+## Histoplasma Capsulatum — Ohio Valley Disease
+
+*Histoplasma capsulatum* causes histoplasmosis, also known as Ohio Valley
+disease. The fungus thrives in bird droppings, and outbreaks are often
+associated with starling roosts, where soil enriched with guano harbors vast
+quantities of airborne spores ready to be inhaled by passersby.
+
+In most healthy individuals, infection is asymptomatic, or the fungus becomes
+safely encapsulated in calcified lung nodules that persist silently for
+decades. But when the immune system weakens — through illness, age, or
+immunosuppressive therapy — *Histoplasma* can reawaken, leaving the lungs and
+penetrating virtually any body tissue. It is a dangerous opportunistic
+pathogen capable of disseminated disease. Its sexual stage, named
+*Ajellomyces*, was discovered by the mycologist Kwon-Chung, connecting this
+human pathogen to the broader classification of sexual fungi and revealing
+yet another dimension of its complex and formidable biology.

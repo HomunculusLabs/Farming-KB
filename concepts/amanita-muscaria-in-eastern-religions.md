@@ -9,7 +9,7 @@ tags: [amanita-muscaria, mycology]
 
 # Amanita Muscaria in Eastern Religions
 
-The [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] source argues that [[amanita-muscaria-fly-agaric-history-and-pharmacology]] theory, first proposed by R. [[gordon-wasson-comparative-method-ethnomycology]] in "Soma: [[soma-controversy-fly-agaric-as-divine-mushroom]] of Immortality" (1968), identifies the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] as the original Soma plant.
+The [[amanita-muscaria-herb-of-immortality-soma-hypothesis]] source argues that [[amanita-muscaria-fly-agaric-history-and-pharmacology]] theory, first proposed by R. [[gordon-wasson-comparative-method-ethnomycology]] in "Soma: [[edaphic-factors]] of Immortality" (1968), identifies the [[amanita-muscaria-fly-agaric-history-and-pharmacology]] as the original Soma plant.
 
 The Herb of Immortality author extends Wasson's argument by providing:
 

@@ -1,5 +1,5 @@
 ---
-title: Biodiversity [[fungal-biodiversity-estimation]] Methods
+title: "Biodiversity Fungal Biodiversity Estimation Methods"
 created: 2026-04-28
 tags:
   - biodiversity-estimation
@@ -16,7 +16,7 @@ type: concept
 
 # Fungal Biodiversity Estimation Methods
 
-Estimating fungal biodiversity from limited sampling presents significant
+[[estimating-fungal-biodiversity-methods]] methods from limited sampling presents significant
 challenges because fungi are diverse, patchily distributed, and often
 ephemeral in their fruiting. Large numbers of species inhabit small
 areas, and studies of fungal-communities-succession without sustained,

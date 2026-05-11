@@ -58,7 +58,7 @@ peroxide and formic acid to the L-ketone which was an orange-colored
 liquid with a bp of 125-135 deg C at 0.3 mm/Hg. This ketone was
 reductively aminated with ammonium acetate and sodium cyanoborohydride
 in methanol to produce 2-amino-1-(3,4-methylenedioxyphenyl)hexane
-hydrochloride (L) as a white crystalline product with a mp of 157-158
+hydrochloride (L) as a white [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]] with a mp of 157-158
 deg C. Anal. (C13H20ClNO2) C,H. And this ketone was reductively
 aminated with methylamine hydrochloride and amalgamated aluminum in
 isopropanol to produce

@@ -1,5 +1,5 @@
 ---
-title: Hofmann [[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]] Dosage Tolerance
+title: "Hofmann [[mckenna-dmt-endogenous-brain-affinity-versus-lsd-pharmacokinetics]] Dosage Tolerance"
 created: 2026-04-28
 tags:
   - lsd

@@ -1,5 +1,5 @@
 ---
-title: Motivational Sessions for Trainees
+title: [[mushroom-training-motivational-sessions]] for Trainees
 created: 2026-04-28
 tags: [motivational-sessions, disability-inclusion, personal-development,
   training-program, community-building]

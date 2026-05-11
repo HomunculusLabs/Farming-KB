@@ -49,7 +49,7 @@ scale tips in favor of cannabis, especially when smoke inhalation is avoided.
 ## Related Concepts
 
 - [[blesching-cannabis-angiogenesis-and-tumor-suppression]]
-- [[blesching-cannabinoid-pharmacology]]
+- [[cannabinoid]]
 ## Practical Considerations
 
 When working with Cannabis, Apoptosis, and Cancer Cell Death, several practical factors should be

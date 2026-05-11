@@ -12,7 +12,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - McVaugh, R. (1963). "[[psilocybe-weldenii-tropical-american-neurotropic-species-guzman-1998]] Myrtaceae: Myrciaria and Allied
+  - McVaugh, R. (1963). "psilocybe-weldenii-tropical-american-neurotropic-species-guzman-1998 Myrtaceae: Myrciaria and Allied
     Genera." Fieldiana: Botany 29(5): 145-172.
   - Justi, K.C. et al. (2000). "[[dighton-fungal-nutritional-composition-animal-diets]] and Vitamin C
     Stability of Camu-Camu." Archives of Latinoamerican Nutrition 50(4): 405-408.
@@ -88,3 +88,10 @@ Camu camu is most notable for its extraordinary vitamin C content:
 - **Vitamin C:** 1,800–2,800 mg/100g fresh weight (highest of any
   known fruit)
 - **Anthocyanins:** 50–200 mg/100g, primarily cyanidin-3-glucoside
+
+## See Also
+- [[psilocybe-weldenii-tropical-american-neurotropic-species-guzman-1998]]
+- [[dighton-fungal-nutritional-composition-animal-diets]]
+- [[psilocybe-columbiana-south-american-neurotropic-species-guzman-1998]]
+- [[nut-tree-cultivation-for-permaculture-food-forests]]
+- [[query-how-do-i-use-knf-inputs-through-the-plant-growth-cycle]]

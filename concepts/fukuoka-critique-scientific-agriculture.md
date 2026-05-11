@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Critique [[fukuoka-critique-of-scientific-agriculture]]: Energy, Quality, and Contradiction"
+title: Fukuoka Critique Scientific Agriculture
 source: "The Natural Way of Farming — [[masanobu-fukuoka]]"
 topics:
   - scientific-agriculture

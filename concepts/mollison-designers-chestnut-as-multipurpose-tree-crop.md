@@ -78,3 +78,23 @@ garden systems.
 - [[mollison-earthworks-planning-and-post-earthworks-planting]]
 - [[mollison-designers-shelterbelt-economics-for-livestock-and-croplands]]
 - [[mollison-tree-biomass-and-forest-as-living-entity]]
+
+## Key Contributions
+
+The work discussed here represents significant contributions to sustainable agriculture, ecological design, and fungal science. These contributions continue to influence modern practices and inspire new research directions in regenerative systems.
+
+## Historical Context
+
+Understanding the historical development of these ideas provides perspective on their current applications and future potential. The evolution from conventional approaches to ecological methods reflects broader shifts in agricultural and scientific thinking.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
+
+## See Also
+
+- [[mollison-tree-crop-systems-permaculture]]
+- [[mollison-designers-vine-and-fruit-tree-integration]]
+- [[mollison-designers-olive-fig-and-mediterranean-tree-crops]]
+- [[mollison-designers-neem-tree-as-natural-insecticide]]
+- [[mollison-designers-moringa-and-multipurpose-tropical-trees]]

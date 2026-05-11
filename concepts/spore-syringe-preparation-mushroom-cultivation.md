@@ -1,5 +1,5 @@
 ---
-title: Spore Syringe Preparation Mushroom Cultivation
+title: "Spore Syringe Preparation Mushroom Cultivation"
 slug: spore-syringe-preparation-mushroom-cultivation
 tags: [mycology, spore-syringe, mushroom-cultivation, inoculation, sterilization]
 related: [straw-substrate-mushroom-cultivation-boil-a-bag, humidity-chamber-mushroom-fruiting]
@@ -8,7 +8,7 @@ source: [[boil-a-bag-spore-print-technique-jarrold]]
 
 # Spore Syringe Preparation for Mushroom Cultivation
 
-The spore syringe is the primary inoculation tool in amateur mushroom cultivation. It consists of a sterile syringe filled with a suspension of mushroom spores in sterile water, which is used to introduce fungal spores into a prepared substrate. The boil-a-bag method described by D.H. Jarrold details a reliable technique for preparing spore syringes from spore prints, using equipment that can be assembled from household and hardware store items.
+The spore syringe is the primary inoculation tool in amateur mushroom cultivation. It consists of a sterile syringe filled with a suspension of [[query-how-to-store-mushroom-spores-long-term]] in sterile water, which is used to introduce fungal spores into a prepared substrate. The boil-a-bag method described by D.H. Jarrold details a reliable technique for preparing [[mushroom-spore-syringes]] from spore prints, using equipment that can be assembled from household and hardware store items.
 
 ## Understanding Spore Prints
 
@@ -33,7 +33,7 @@ The spore print can be stored in a sealed jar for later use. Spore prints from f
 - **Spirit burner (meths burner)** — for [[flammability-hazard-alcohol-lysol-flame-sterilization-mycology]] of tools
 - **Isopropyl alcohol** — for surface disinfection
 - **Cotton wool buds** — for applying alcohol to inoculation points
-- **Metal tweezers and scissors** — for handling mushroom caps
+- **Metal tweezers and scissors** — for handling [[alkaloid-distribution-mushroom-caps-stems]]
 - **Flat-edged metal scraper** — for loosening spores from the spore print jar
 - **Breathing mask** — to prevent contamination from the operator's breath
 
@@ -66,7 +66,7 @@ Draw the spore suspension into the syringe. Flame-sterilize the needle before in
 
 ### Step 5: Flame Sterilize Before Each Use
 
-Before every inoculation — whether refilling from the spore jar or injecting into a substrate bag — flame-sterilize the needle. Pass it through the spirit burner flame until the tip glows red. This kills any contaminants that may have contacted the needle between uses. Allow the needle to cool for a few seconds before injecting to avoid heat-killing the spores.
+Before every inoculation — whether refilling from the spore jar or injecting into a [[mushroom-cultivation-disabilities-substrate-bag-production]] — flame-sterilize the needle. Pass it through the spirit burner flame until the tip glows red. This kills any contaminants that may have contacted the needle between uses. Allow the needle to cool for a few seconds before injecting to avoid heat-killing the spores.
 
 ## Inoculation Methods
 

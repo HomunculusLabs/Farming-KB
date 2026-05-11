@@ -53,7 +53,7 @@ at around 50% moisture. Pay attention to the kind of fungi growing.
 Good composts with good food resources will produce thick white
 strands. Bad composts produce only gray fuzz. Testing different
 composts with different food resources is the most reliable way
-to identify [[dighton-litter-quality-fungal-decomposition-rates]] material for your [[compost-tea-brewing-equipment-ingham]].
+to identify [[dighton-litter-quality-fungal-decomposition-rates]] material for your [[circadian-rhythm-in-plants]].
 ## Practical Considerations
 
 When working with Yeasts and Molds in Compost Tea Systems, several practical factors should be

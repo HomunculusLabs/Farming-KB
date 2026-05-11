@@ -1,5 +1,5 @@
 ---
-title: Seed Sourcing [[seed-saving-and-variety-selection]]
+title: Seed Sourcing And Variety Selection
 source: gardening-when-it-counts-steve-solomon
 source_author: Steve Solomon
 tags: [gardening, seeds, seed-companies, variety-selection, heirloom, hybrid, low-input, homesteading]

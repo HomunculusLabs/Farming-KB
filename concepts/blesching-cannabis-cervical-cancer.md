@@ -51,7 +51,7 @@ surgery, chemotherapy, or radiation. Alternative-leaning physicians may also
 recommend a diet high in vegetable consumption, especially fruits and vegetables
 containing lycopene, which may be protective against HPV persistence. Sources
 of lycopene include gac (spiny bitter gourd), tomatoes, watermelon, papaya,
-pink guava, rosehips, and pink grapefruit.
+pink guava, rosehips, and cannabis strain sweet pink grapefruit alpine seeds oner pink grapefruit alpine [[critical-haze-strain-profile-resin-seeds-oner]].
 
 ## Cannabis Health Index (CHI) Score
 

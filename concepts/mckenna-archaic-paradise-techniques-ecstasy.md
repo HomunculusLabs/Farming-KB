@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-archaic-revival]] Paradise Techniques Ecstasy
+title: Mckenna Archaic Paradise Techniques Ecstasy
 created: 2026-04-28
 tags:
   - entheogen

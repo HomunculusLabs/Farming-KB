@@ -1,5 +1,5 @@
 ---
-title: [[stinkhorn-fungi-and-insect-spore-dispersal]] [[gasteromycete-fruiting-bodies]]
+title: Stinkhorn Fungi Gasteromycete Fruiting Bodies
 created: 2026-05-11
 tags: [mycology, fungi, stinkhorn, basidiomycota, reproduction]
 date: 2026-05-11

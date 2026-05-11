@@ -88,3 +88,16 @@ desiccation-tolerant.
 Acidophilic and alkalophilic [[query-how-do-fungi-contribute-to-carbon-sequestration]]:
 - Weathering of rocks and minerals
 - Decomposition in extreme pH environments
+
+## Practical Applications
+Acidophilic Alkalophilic Fungi has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
+
+## Historical Significance
+The development and understanding of acidophilic alkalophilic fungi has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+
+## See Also
+- [[biodiversity-of-fungi-leaf-litter-microfungi-survey-methods]]
+- [[phytohormone-activity-in-fungi-steroid-growth-regulation]]
+- [[fungi-around-the-world-species-distribution]]
+- [[Cordyceps]]
+- [[neurotropic-fungi-taxonomy-and-classification]]

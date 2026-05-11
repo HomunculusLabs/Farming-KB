@@ -1,5 +1,5 @@
 ---
-title: [[cervantes-cannabis-butter-cooking]] Tinctures
+title: "[[cervantes-cannabis-butter-cooking]] Tinctures"
 type: concept
 created: 2026-04-25
 type: concept

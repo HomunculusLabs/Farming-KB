@@ -9,7 +9,7 @@ sources: []
 
 ## Overview
 
-Hemoglobin (Hb) is a tetrameric metalloprotein responsible for transporting molecular oxygen (O2) from the lungs to peripheral tissues and facilitating the return transport of [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] (CO2) and nitric oxide (NO). Found in erythrocytes at concentrations of ~2.5 mM (about 34 g/dL packed-cell), a single human red blood cell contains roughly 270 million hemoglobin molecules. Hemoglobin accounts for over 90% of the [[brassinosteroid-mushroom-yield-dry-mass]] of mature erythrocytes and is the most abundant protein in the human body.
+Hemoglobin (Hb) is a tetrameric metalloprotein responsible for transporting molecular oxygen (O2) from the lungs to peripheral tissues and facilitating the return transport of [[carbon-dioxide-retention-jar-lid-mushroom-cultivation]] (CO2) and thc thc [[thc-heart-protective-mechanisms-myocardial-protection-cb1-nitric-oxide-blesching-2015]] [[blesching-thc-heart-protective-mechanisms-myocardial-protection]] cb1 nitric oxide blesching 2015 myocardial protection cb1 nitric oxide blesching 2015 (NO). Found in erythrocytes at concentrations of ~2.5 mM (about 34 g/dL packed-cell), a single human red blood cell contains roughly 270 million hemoglobin molecules. Hemoglobin accounts for over 90% of the [[brassinosteroid-mushroom-yield-dry-mass]] of mature erythrocytes and is the most abundant protein in the human body.
 
 ## Primary Structure and Globin Gene Families
 

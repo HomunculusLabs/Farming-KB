@@ -1,5 +1,5 @@
 ---
-title: [[blesching-cannabis-abortion-miscarriage-fertility]] [[stamets-mushroom-antiviral-hiv-aids-opportunistic-infections]]
+title: "[[blesching-cannabis-abortion-miscarriage-fertility]] [[stamets-mushroom-antiviral-hiv-aids-opportunistic-infections]]"
 created: 2026-04-26
 tags:
   - cannabis

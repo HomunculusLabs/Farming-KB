@@ -131,7 +131,7 @@ Harvest when caps are 50-75% open (before the veil tears fully for premium grade
 
 ## Related
 
-- [[agaricus-species-guide]] -- Agaricus species guide
+- [[Agaricus]] -- Agaricus species guide
 - [[mushroom-substrates]]
 - [[mushroom-grow-room-design]]
 - [[mushroom-drying-storage]]

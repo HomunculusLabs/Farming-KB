@@ -26,7 +26,7 @@ sources: ["Shulgin - PIHKAL"]
 - [[pihkal-introduction-and-methodology]]
 
 - PIHKAL (the source book)
-- [[mda-entity-pihkal]]
+- [[mda]]
 ## Practical Applications
 
 MDOH (N-HYDROXY-MDA; 3,4-METHYLENEDIOXY-N-HYDROXYAMPHETAMINE) -- PIHKAL Entry #114 has a range of practical applications that make it relevant to

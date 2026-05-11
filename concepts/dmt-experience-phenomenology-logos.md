@@ -1,5 +1,5 @@
 ---
-title: "[[dmt-experience-phenomenology-hyperspace]] and the Logos"
+title: Dmt Experience Phenomenology Logos
 source: "mckenna_t-tryptamines_consciousness.md"
 topics:
   - psychedelics
@@ -94,7 +94,7 @@ Additional research is exploring the therapeutic potential of DMT, particularly 
 - [[psilocybin-mushroom-extraterrestrial-hypothesis-mckenna]]
 - [[shamanism-as-phenomenological-methodology]]
 - tryptamine chemistry pharmacology
-- [[5-ht2a-receptor-psychedelic-mechanism]]
+- [[serotonin-receptor-interference-psychedelic-mechanism]]
 - ayahuasca pharmacology ceremony
 - default mode network ego dissolution
 - near death experience phenomenology

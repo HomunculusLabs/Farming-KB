@@ -1,9 +1,9 @@
 ---
-title: Holzer [[roundwood-shelter-building]] Construction
+title: Holzer Roundwood Shelter Construction
 created: 2026-04-18
 updated: 2026-04-18
 type: concept
-tags: [holzer, [[permaculture]], [[homesteading]]]
+tags: [holzer, [[permaculture]], [[homesteading]]
 sources:
   - "raw/papers/sepp-holzer-practical-guide.md"
   - "raw/papers/sepp-holzer-practical-guide.md"

@@ -122,7 +122,7 @@ hundred tons per year. In twenty to thirty years without plant cover,
 the topsoil washes entirely away, reducing fertility to near zero. Weeds
 and grasses are absolutely essential for maintaining the organic,
 living character of soil. Their roots prevent erosion, and their
-decomposition feeds the [[edaphic-factors-microbial-communities]] that sustain soil
+decomposition feeds the [[crimson-clover]] that sustain soil
 fertility.
 
 Deep-rooted weeds like dandelion, dock, and thistle mine minerals

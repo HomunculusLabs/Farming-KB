@@ -4,7 +4,7 @@
 
 The discovery that plants measure the length of continuous darkness
 rather than the length of the day transformed both plant biology
-and [[chrysanthemum-night-interruption-flowering-commercial-horticulture]]. Night-break experiments, in which
+and [[cannabinoid-pharmacology]]. Night-break experiments, in which
 scientists briefly illuminated plants in the middle of the dark
 period, revealed that flowering is controlled by the duration of
 unbroken darkness, not by the duration of daylight. This insight
@@ -23,7 +23,7 @@ treatments, often controlled by computer timers that can
 illuminate acres of [[cotter-growing-space-design-fruiting-rooms]] with exact timing.
 
 The technique has also been adapted for [[query-how-does-no-till-cannabis-cultivation-work]],
-where [[chrysanthemum-greenhouse-photoperiod-manipulation]] is used to maintain vegetative
+where [[cannabinoid-pharmacology]] is used to maintain vegetative
 growth under long-day conditions (typically 18 hours light, 6
 hours dark) and then trigger flowering by switching to short-day
 conditions (12 hours light, 12 hours dark). The same principle
@@ -59,7 +59,7 @@ light (~730 nm) and reverts to Pr. During daylight, Pfr
 accumulates; during the dark period, Pfr slowly reverts to Pr.
 The plant effectively measures the duration of darkness by
 tracking how much Pfr remains. A brief night-break of red light
-replenishes Pfr, resetting the plant's [[chamovitz-circadian-rhythm-internal-clock-plants]] and
+replenishes Pfr, resetting the plant's [[chrysanthemum]] and
 tricking it into perceiving a short night. This molecular
 mechanism underpins all photoperiodic responses including
 flowering, tuberisation, and dormancy induction in temperate

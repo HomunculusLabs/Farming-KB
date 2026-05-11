@@ -1,5 +1,5 @@
 ---
-title: Blesching Cannabis Decarboxylation And Raw Cannabis
+title: "Blesching Cannabis Decarboxylation And Raw Cannabis"
 created: 2026-04-28
 tags: [cannabis, decarboxylation, raw-cannabis, cannabinoids, CBD, THC]
 date: 2026-04-25

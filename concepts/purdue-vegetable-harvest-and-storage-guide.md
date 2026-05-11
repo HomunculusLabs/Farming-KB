@@ -1,5 +1,5 @@
 ---
-title: Purdue [[vegetable-harvest-and-storage-guide]] [[root-vegetable-storage-guide]]
+title: "Purdue [[vegetable-harvest-and-storage-guide]] [[root-vegetable-storage-guide]]"
 created: 2026-04-28
 tags:
   - vegetable-harvest

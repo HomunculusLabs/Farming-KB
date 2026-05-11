@@ -1,9 +1,9 @@
 ---
-title: Mycorrhizal Inoculum Reduction Techniques Comparative
+title: "Mycorrhizal Inoculum Reduction Techniques Comparative"
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
-tags: [mycology], soil-biology, symbiosis]
+tags: [[mycology]], soil-biology, symbiosis]
 sources: []
 ---
 # Mycorrhizal Inoculum Reduction Techniques

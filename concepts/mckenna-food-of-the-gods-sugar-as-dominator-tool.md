@@ -1,0 +1,145 @@
+---
+title: "Sugar as a Dominator Tool"
+source: "mckenna_t-food_of_the_gods.md"
+source_author: "[[terence-mckenna]]"
+source_title: "Food of the Gods"
+published: 1992
+tags:
+  - mckenna
+  - food-of-the-gods
+  - dominator-culture
+  - sugar
+  - addiction
+  - colonialism
+  - slavery
+  - drug-policy
+  - consciousness
+  - partnership-culture
+---
+
+## Overview
+
+In Chapter 11 of *Food of the Gods*, "Complacencies of the Peignoir: Sugar,
+Coffee, Tea, and Chocolate," [[terence-mckenna-ethnobotany-and-psychedelic-plant-intelligence]] presents sugar as a central pillar
+of what he calls [[dominator-culture-and-partnership-society]]. Unlike the psychedelic plants that shaped
+early human consciousness and supported partnership-oriented societies, sugar
+is cast as a substance that narcotizes, creates dependency, and reinforces
+hierarchical social structures. McKenna's argument positions sugar not merely as
+a food but as a drug — one uniquely suited to the maintenance of patriarchal,
+exploitative, and controlling civilizations.
+
+## Sugar as Addiction Without Insight
+
+McKenna draws a sharp distinction between the effects of sugar and those of
+psychedelic plants. Psychedelics, in his framework, expand consciousness,
+dissolve ego boundaries, and foster a sense of interconnectedness with nature
+and community. Sugar does the opposite: it narcotizes, dulls awareness, and
+creates a cycle of craving and temporary satisfaction without offering any
+genuine insight or expanded perspective.
+
+This quality makes sugar an ideal tool for [[mckenna-dissolution-of-the-dominator-culture]]. A population
+addicted to sugar is a population that can be more easily managed. The
+substance provides comfort without liberation, satiety without meaning, and
+pleasure without transformation. McKenna suggests that this is precisely why
+sugar was promoted and disseminated so aggressively by the forces of European
+colonial expansion.
+
+## Sugar and the Slave Trade
+
+The history of sugar is inseparable from the history of slavery. McKenna
+emphasizes that the enormous demand for sugar in Europe was met through the
+systematic exploitation of enslaved African labor on Caribbean and Brazilian
+plantations. The sugar trade was not merely an economic enterprise — it was an
+engine of human suffering that generated the wealth necessary to sustain
+European imperial power.
+
+This connection is not incidental to McKenna's argument. He sees the sugar
+trade as a paradigmatic example of how dominator culture operates: converting
+living things — both human beings and the sugarcane plant itself — into
+commodities to be extracted, processed, and consumed by those at the top of a
+hierarchy. The violence of slavery and the sweetness of sugar are, in
+McKenna's view, two expressions of the same underlying cultural logic.
+
+## Reinforcing Dominator Values
+
+McKenna argues that sugar reinforced several core values of dominator culture.
+First, it embodied the principle of commodification — the transformation of a
+living plant into a standardized, tradable, and addictive product. Second, it
+supported hierarchy by creating economic systems that concentrated wealth and
+power in the hands of a few. Third, it promoted control by fostering a
+dependent population whose energies were oriented toward the next fix rather
+than toward questioning the social order.
+
+Sugar, along with alcohol, tobacco, and opiates, belongs to what McKenna
+identifies as a category of drugs that support dominator and patriarchal
+values. These substances are socially sanctioned, widely distributed, and
+commercially profitable — precisely because they do not threaten the power
+structures they serve.
+
+## Drugs of Gentility: Coffee, Tea, and Chocolate
+
+In the same chapter, McKenna discusses coffee, tea, and chocolate as "drugs of
+gentility" — mild stimulants that emerged alongside sugar as socially acceptable
+intoxicants. These substances replaced the more powerful visionary plants that
+had once been central to human spiritual practice. Where psychedelic plants
+induced profound visionary experiences and challenged ordinary perceptions,
+coffee and tea offered modest alertness and sociability within the bounds of
+acceptable behavior.
+
+McKenna views this transition as part of a broader civilizational shift. The
+replacement of sacred plant use with recreational, non-threatening drug use
+reflects the ascendancy of dominator values over partnership values. Society
+moved from substances that connected people to the divine and to each other,
+toward substances that kept people productive, complacent, and socially
+conformist.
+
+## The Partnership–Dominator Binary
+
+The sugar argument is situated within McKenna's larger thesis about two types
+of cultures: partnership cultures, which he associates with goddess worship,
+egalitarian social structures, and the use of psychedelic plants; and
+[[archaic-revival-partnership-vs-dominator-cultures]], which he associates with patriarchal hierarchy, violence,
+and the use of narcotizing or addictive substances.
+
+Psychedelics, in this framework, are drugs of partnership because they
+dissolve boundaries and foster empathy. Sugar, alcohol, and tobacco are drugs
+of domination because they reinforce control, dependency, and the status quo.
+McKenna does not present this as a simple binary but as a historical pattern
+— one in which the suppression of psychedelic use and the promotion of
+addictive substances correlate with the rise of hierarchical civilization.
+
+## Exploitation Cycles and Modern Relevance
+
+McKenna extends his analysis to describe what he sees as recurring cycles of
+exploitation. The colonial [[mckenna-madeira-sugar-plantation-origin-transatlantic-slavery]] — with its enslaved labor,
+environmental destruction, and addictive product — is a template for later
+forms of industrial exploitation. The pattern of creating dependency and then
+profiting from that dependency is one that McKenna believes has been repeated
+across centuries and across industries.
+
+The modern prevalence of sugar in processed food, the global obesity epidemic,
+and the continued economic exploitation of sugar-producing nations all fit
+within this framework. McKenna's argument suggests that the relationship
+between sugar and dominator culture is not merely historical but ongoing —
+that the structures of exploitation built around sugar in the colonial era
+continue to shape contemporary patterns of consumption and inequality.
+
+## Key Quotations and Concepts
+
+- **Sugar as a drug**: McKenna insists on classifying sugar as a drug rather
+  than a food, emphasizing its addictive properties and its role in shaping
+  behavior at a civilizational scale.
+- **Complacencies of the peignoir**: The chapter title itself suggests comfort
+  and self-satisfaction — the ease with which dominator culture naturalizes
+  its own excesses through pleasant, socially acceptable substances.
+- **From sacred to recreational**: The shift from visionary plant ceremonies
+  to afternoon tea and coffee breaks represents, for McKenna, a profound
+  impoverishment of human spiritual and cognitive experience.
+
+## Related Concepts
+
+- mckenna food of the gods [[psilocybin-stoned-ape-hypothesis-critique]]
+- mckenna food of the gods dominator culture
+- mckenna food of the [[mckenna-food-gods-ergot-kykeon-eleusinian]] and kykeon
+- addiction and civilization
+- [[magic-mushroom-prohibition-and-uk-drug-policy]] and social control

@@ -1,5 +1,5 @@
 ---
-title: Soil Microorganism Ecology [[cho-loess-powder-in-natural-farming]]
+title: Soil Microorganism Ecology Natural Farming
 created: 2026-05-11
 tags: [soil, microbiology, nitrogen-fixation, ecology, farming]
 date: 2026-05-11
@@ -148,4 +148,3 @@ practical guidelines:
 - Return all crop residues to the soil surface
 - Maximize plant diversity to support diverse [[cannabis-rhizosphere-microbial-communities]]
 - Avoid chemical inputs that disrupt biological nutrient cycling
-- Trust natural biological processes rather than attempting to manage them

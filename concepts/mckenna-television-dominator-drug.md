@@ -1,5 +1,5 @@
 ---
-title: Mckenna [[mckenna-food-gods-television-dominator-drug]]
+title: "Mckenna [[mckenna-food-gods-television-dominator-drug]]"
 created: 2026-04-28
 tags: [mckenna, food-of-the-gods, television, electronic-drugs, dominator-
 culture, media, brainwashing, addiction, social-control, consumerism, sixties-

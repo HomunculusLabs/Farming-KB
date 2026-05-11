@@ -50,7 +50,7 @@ Introduce a broad range of plants to extend the flowering season:
 
 | Plant | Nectar | Pollen | Season/Notes |
 |---|---|---|---|
-| Clovers | Y | Y | Up to 400 kg/ha N yield; [[comparison-lupin-vs-crimson-clover-green-manure]] particularly high |
+| Clovers | Y | Y | Up to 400 kg/ha N yield; [[compost]] particularly high |
 | Cowpea | Y | Y | |
 | Lotus spp | Y | Y | |
 | Lucerne | Y | Y | Very long flowering period, 78-285 kg/ha/day measured in USA |

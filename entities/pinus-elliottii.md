@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Schulz, M.E. (1997). "Silvics [[berry-growing]]: Pinus elliottii." In: Silvics of [[guzman-psilocybin-mushrooms-north-america]], Vol. 1, USDA Forest Service Agriculture Handbook 654.
+  - Schulz, M.E. (1997). "Silvics berry-growing: Pinus elliottii." In: Silvics of guzman-psilocybin-mushrooms-north-america, Vol. 1, USDA Forest Service Agriculture Handbook 654.
   - Barnett, J.P. & Brendemuehl, R.H. (1968). "Seed characteristics of slash pine." USDA Forest Service Research Paper SO-43.
   - Outcalt, K.W. (2000). "The longleaf pine ecosystem." In: USDA Forest Service, Southern Research Station.
   - Lotti, T. & Della-Bianca, L. (1959). "Variety elliottii Engelm. slash pine." In: Silvics of Forest Trees of the [[dmt-containing-plants-united-states-halpern]], USDA Handbook 271.

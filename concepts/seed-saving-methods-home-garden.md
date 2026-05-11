@@ -1,5 +1,5 @@
 ---
-title: [[biointensive-seed-saving]] Methods [[cool-climate-home-garden-mollison]]
+title: "[[biointensive-seed-saving]] Methods [[cool-climate-home-garden-mollison]]"
 created: 2026-04-18
 updated: 2026-04-18
 type: concept

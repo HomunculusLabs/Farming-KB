@@ -122,7 +122,7 @@ The most commonly used primers for fungal ITS amplification:
 
 - **CBS/KNAW culture collection**: Type strain sequences
 - **MycoBank**: Fungal nomenclature database linked to sequence data
-- **Q-bank**: Plant [[cordyceps-insect-pathogenic-fungi]] database for biosecurity
+- **Q-bank**: Plant [[Cordyceps]] database for biosecurity
 - **EUROFUNGI**: European fungal culture collection sequences
 
 ## Bioinformatics Pipeline

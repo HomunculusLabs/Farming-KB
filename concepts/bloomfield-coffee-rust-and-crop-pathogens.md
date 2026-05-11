@@ -44,7 +44,7 @@ of smallholder farmers.
 ## Black Stem Rust of Wheat
 
 More wheat is cultivated than any other crop, making black stem rust
-caused by Puccinia graminis a celebrity among [[cordyceps-insect-pathogenic-fungi]]. The
+caused by Puccinia graminis a celebrity among [[Cordyceps]]. The
 life cycle involves two hosts: wheat (the primary host) and barberry
 (the alternate host). The eradication of barberry from wheat-growing
 regions significantly reduced stem rust incidence, though new virulent

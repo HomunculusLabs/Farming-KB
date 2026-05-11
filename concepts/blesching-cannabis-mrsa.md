@@ -1,5 +1,5 @@
 ---
-title: [[blesching-cannabis-abortion-miscarriage-fertility]] Mrsa
+title: Blesching Cannabis Mrsa
 created: 2026-04-26
 tags:
   - cannabis

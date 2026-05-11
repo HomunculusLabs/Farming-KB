@@ -57,7 +57,7 @@ The Spitzenkörper repositions in response to environmental signals:
 - **Chemotropism:** Growth toward nutrient sources (sugars, amino acids) involves Spitzenkörper reorientation toward the chemical gradient
 - **Thigmotropism:** Contact with surfaces causes Spitzenkörper repositioning that directs hyphal growth along grooves, ridges, and pores in solid substrates — critical for [[mycorrhizal-fungi-rock-penetration-soil-formation]] and bioweathering
 - **Electrotropism:** Weak electric fields can redirect Spitzenkörper position and hence growth direction
-- **Host signals:** In [[cordyceps-insect-pathogenic-fungi]], host-derived signals reposition the Spitzenkörper toward infection sites
+- **Host signals:** In [[Cordyceps]], host-derived signals reposition the Spitzenkörper toward infection sites
 
 ### Internal Regulation
 The Spitzenkörper position is regulated by an interplay of:

@@ -36,7 +36,7 @@ Understanding [[cover-crop-guide-detailed]] explains how different species serve
 
 | Cover Crop | Primary Benefit | When to Plant |
 |---|---|---|
-| [[comparison-lupin-vs-crimson-clover-green-manure]] | [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] | Fall (zones 6-9) |
+| [[compost]] | [[comparison-biological-nitrogen-fixation-vs-synthetic-fertilizer]] | Fall (zones 6-9) |
 | Hairy vetch | Nitrogen fixation, biomass | Fall |
 | Cereal rye | Soil structure, weed suppression | Fall |
 | Oats | Quick biomass, scavenges nutrients | Fall or spring |

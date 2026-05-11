@@ -1,5 +1,5 @@
 ---
-title: Mckenna Self Transforming Machine Elves Dmt Entities
+title: "Mckenna Self Transforming Machine Elves Dmt Entities"
 aliases: [machine elves, DMT entities, hyperspace elves, McKenna elves]
 tags: [psychedelics, DMT, consciousness, entity-encounter, phenomenology, tryptamines]
 source: mckenna_t-tryptamines_consciousness.md
@@ -8,11 +8,11 @@ created: 2026-05-09
 
 # Self-Transforming Machine Elves and DMT Entities
 
-The entity encounter is perhaps the most distinctive and controversial feature of
-the DMT experience. [[terence-mckenna]] first documented these beings in *The Invisible
-Landscape* (1975), co-authored with his brother Dennis McKenna, where he described
+The [[mckenna-dmt-i-thou-relationship-entity-encounter-ethics]] is perhaps the most distinctive and controversial feature of
+the [[dmt-experience-phenomenology-hyperspace]]. [[terence-mckenna]] first documented these beings in *The Invisible
+Landscape* (1975), co-authored with his brother [[dennis-mckenna]], where he described
 them as "self-transforming machine elves." This description has since become one of
-the most widely recognized and debated aspects of DMT phenomenology.
+the most widely recognized and debated aspects of [[dmt-phenomenology]].
 
 ## Appearance and Behavior
 
@@ -85,6 +85,6 @@ facility for such exploration than others, and these states may be difficult to
 achieve, but they are part of the human condition." He invited the attention of
 experimentalists, "whether they be shamans or scientists," noting that "there is
 something going on with these compounds that is not part of the normal
-presentational spectrum of hallucinogenic drug experience."
+presentational spectrum of [[emcdda-hallucinogenic-drug-classification-and-terminology-taxonomy]] experience."
 
 ## The Epistemological Challenge

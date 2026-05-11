@@ -68,7 +68,7 @@ The endocannabinoid system modulates the same neurotransmitter systems implicate
 
 - **CBD's role in hyperactivity:** The 2012 Melbourne study demonstrated that CBD (3 mg/kg) specifically reduced hyperactivity and normalized social behavior in an animal model, though it did not improve attention span. This suggests CBD may be most useful for the hyperactive-impulsive subtype of ADHD.
 
-- **[[chamovitz-circadian-rhythm-internal-clock-plants]] modulation:** Many ADHD patients experience sleep disturbance. The endocannabinoid system regulates [[plant-circadian-rhythms]] through CB1 receptors in the suprachiasmatic nucleus. Improved sleep from cannabis may indirectly improve daytime attention and cognitive function.
+- **[[chrysanthemum]] modulation:** Many ADHD patients experience sleep disturbance. The endocannabinoid system regulates [[plant-circadian-rhythms]] through CB1 receptors in the suprachiasmatic nucleus. Improved sleep from cannabis may indirectly improve daytime attention and cognitive function.
 
 - **[[mycelial-metabolite-excretion-stress-response-grain-jar-cultivation-guide]] normalization:** ADHD is associated with dysregulated stress responses. CBD modulates the HPA axis through 5-HT1A receptor activation, reducing cortisol reactivity and improving stress resilience.
 

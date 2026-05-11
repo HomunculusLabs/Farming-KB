@@ -1,9 +1,9 @@
 ---
-title: Mushroom [[oss-oeric-drying-and-preservation-methods]]
+title: Mushroom Drying Preservation
 created: 2026-05-11
 source: PF TEK by [[pf-tek-psilocybe-fanaticus]] (1996)
 tags: [drying, preservation, desiccation, mushroom-storage, potency, harvesting, PF-TEK]
-aliases: [magic mushroom drying, mushroom desiccation, preserving [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]], [[mushroom-storage-and-processing-methods]]]
+aliases: [magic mushroom drying, mushroom desiccation, preserving [[amanita-muscaria-legal-alternative-psilocybin-mushrooms-europe]], [[mushroom-storage-and-processing-methods]]
 ---
 
 # Mushroom Drying and Preservation

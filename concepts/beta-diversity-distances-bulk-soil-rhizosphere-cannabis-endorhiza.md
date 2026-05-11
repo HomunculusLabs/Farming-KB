@@ -16,7 +16,7 @@ tags:
 
 ## Overview
 
-The Winston et al. (2014) [[winston-cannabis-microbiome-study-design]] provided quantitative measurements of community dissimilarity between three root-associated compartments — bulk soil, rhizosphere soil, and endorhiza (root interior) — using both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances. These inter-compartment distance comparisons revealed a key pattern: rhizosphere and bulk soil communities are significantly more similar to each other than either is to the [[proteobacteria-dominance-cannabis-endorhiza-community]]. This finding has implications for understanding how root colonization progresses and whether the two-tier selection model's predicted intermediate step between soil and endorhiza is detectable as a distinct community state.
+The Winston et al. (2014) [[winston-cannabis-microbiome-study-design]] provided quantitative measurements of community dissimilarity between three root-associated compartments — bulk soil, rhizosphere soil, and endorhiza (root interior) — using both weighted and [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]] distances. These inter-compartment distance comparisons revealed a key pattern: rhizosphere and bulk soil communities are significantly more similar to each other than either is to the [[Proteobacteria]]. This finding has implications for understanding how root colonization progresses and whether the two-tier selection model's predicted intermediate step between soil and endorhiza is detectable as a distinct community state.
 
 ## The Three Compartments
 

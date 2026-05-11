@@ -22,7 +22,7 @@ Nitrogen-fixing legume useful for soil improvement and as forage.
 ### Clovers (Trifolium spp)
 Key nitrogen-fixing ground covers for pasture integration:
 - Up to 400 kg/ha nitrogen yield estimated in Russia
-- [[comparison-lupin-vs-crimson-clover-green-manure]] is particularly high-yielding
+- [[compost]] is particularly high-yielding
 - **Trifolium fragiferum** (strawberry clover) -- native to NSW, SA, Vic, and WA; good ground cover for shade and full sun
 
 ### Lucerne (Alfalfa)

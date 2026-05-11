@@ -9,7 +9,7 @@ sources: []
 # Fungal Appressorium and Infection Structures
 
 Fungal infection structures are specialized hyphal morphologies that
-enable [[cordyceps-insect-pathogenic-fungi]] to breach the physical and chemical defenses of
+enable [[Cordyceps]] to breach the physical and chemical defenses of
 host organisms. Among the most studied of these are appressoria, which
 are melanin-rich cells that generate enormous [[bloomfield-turgor-pressure-and-hyphal-invasion]] to force
 penetration pegs through host surfaces. These structures represent a

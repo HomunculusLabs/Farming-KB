@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Australia [[fukuoka-japan-fruit-fly-free-quarantine-vulnerability]] Incident
+title: "Fukuoka Australia [[fukuoka-japan-fruit-fly-free-quarantine-vulnerability]] Incident"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

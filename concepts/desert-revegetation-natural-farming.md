@@ -11,7 +11,7 @@ tags:
 date: 2026-05-11
 updated: 2026-05-11
 sources:
-  - Masanobu Fukuoka (1985). "The Natural Way of Farming: The Theory and Practice of Green Philosophy." Japan Publications.
+  - masanobu-fukuoka (1985). "The Natural Way of Farming: The microdosing-theory-and-practice of Green Philosophy." Japan Publications.
   - Fukuoka, M. (1978). "The One-Straw Revolution." Rodale Press.
   - UNCCD (2019). "Global Land Outlook." United Nations Convention to Combat Desertification.
 ---
@@ -59,7 +59,7 @@ bacteria and other soil-enriching microbes.
 Once scattered over deserts and savannahs, the hard clay coating protects
 seeds from predation by birds and rodents. The seeds remain dormant until
 rain falls and conditions are favorable for germination. This built-in
-environmental sensitivity means the right species emerge under the right
+[[lichen-ecology-environmental-sensitivity]] means the right species emerge under the right
 conditions without human management.
 
 A year after scattering, several plants will have survived, providing a
@@ -76,13 +76,13 @@ deserts. The microorganisms within the clay pellets would begin
 rebuilding soil structure from the moment they contact the ground.
 
 This contrasts sharply with conventional desert restoration, which often
-begins with soil amendments, chemical fertilizers, and irrigation
+begins with soil amendments, [[cannabis-chemical-fertilizers]], and irrigation
 infrastructure before any planting occurs.
 
 ## Philosophical Foundation
 
 The desert revegetation proposal extends from Fukuoka's broader critique
-of scientific agriculture. He argued that every human intervention in
+[[critique-of-scientific-agriculture]]. He argued that every human intervention in
 nature creates secondary problems that demand further intervention. This
 expanding spiral of fixes generates complexity, expense, and ecological
 harm.
@@ -107,7 +107,7 @@ scientific study conflicts with the monitoring and adaptive management
 that modern restoration requires.
 
 However, elements of his approach have been independently validated.
-Seed pellets and seed balls are now used in ecological restoration,
+Seed pellets and seed balls are now used in [[tropical-rainforest-seedling-mycorrhiza-ecological-restoration]],
 though typically with site-specific species selection rather than the
 broad mixtures Fukuoka advocated. The principle that vegetation creates
 conditions for further vegetation is well-established in restoration

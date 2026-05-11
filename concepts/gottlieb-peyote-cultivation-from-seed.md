@@ -1,5 +1,5 @@
 ---
-title: [[gottlieb-peyote-botany-and-mescaline-content]] Cultivation From Seed
+title: "[[gottlieb-peyote-botany-and-mescaline-content]] Cultivation From Seed"
 created: 2026-04-26
 updated: "2026-04-24"
 sources:

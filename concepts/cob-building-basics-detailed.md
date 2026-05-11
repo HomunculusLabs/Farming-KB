@@ -1,5 +1,5 @@
 ---
-title: Cob [[permaculture-beginners-guide-soil-building-basics]] Detailed
+title: Cob Building Basics Detailed
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

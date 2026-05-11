@@ -1,5 +1,5 @@
 ---
-title: Descartes and the fukuoka descartes western philosophy nature of Nature
+title: "Fukuoka Descartes Western [[fukuoka-spiritual-philosophy-nature-and-god]]"
 source: masanobu-fukuoka-the-road-back-to-nature.md
 author: [[masanobu-fukuoka]]
 tags: [fukuoka, philosophy, descartes, western-philosophy, nature, anthropocentrism, eastern-philosophy]

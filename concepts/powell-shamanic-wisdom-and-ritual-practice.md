@@ -21,7 +21,7 @@ between the human mind and the natural world.
 ## Native Cultures and the Taming of Psychedelics
 
 Despite the obvious dangers posed by [[psychedelic-substances-comparison]], including their
-capacity to induce intense psychical terror (the "[[emcdda-bad-trip-phenomenology-psychiatric-intervention]]"), native cultures
+capacity to induce intense psychical terror (the "[[EMCDDA]]"), native cultures
 have managed to "tame" them through a learned appreciation of their scope of
 effect. This taming is achieved through ritual frameworks, ceremonial
 contexts, careful dosing, and the guidance of experienced practitioners.

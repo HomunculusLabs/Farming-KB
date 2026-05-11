@@ -32,7 +32,7 @@ on the trunk, giving the species its specific epithet *coronata* (crowned).
 
 Licuri palm is best known as the primary food source for the Spix's macaw
 (Cyanopsitta spixii), one of the world's rarest birds. Although currently
-extinct in the wild, conservation breeding programs depend on maintaining licuri
+extinct in the wild, cannabis landrace conservation breeding genetic diversity breeding [[biodiversity-fungal-genetic-diversity]] programs depend on maintaining licuri
 populations for future reintroduction.
 
 The species is economically important in rural northeastern Brazil, providing

@@ -10,7 +10,7 @@ tags: [person, sustainability, blue-economy, circular-economy, zeri, ecological-
 date: 2026-05-02
 updated: 2026-05-02
 sources:
-  - /Users/t3rpz/wiki/concepts/[[fungal-roles-in-mass-extinction-recovery]].md
+  - /Users/t3rpz/wiki/concepts/fungal-roles-in-mass-extinction-recovery.md
   - /Users/t3rpz/wiki/concepts/fungi-sustainable-packaging-and-materials.md
   - https://en.wikipedia.org/wiki/Gunter_Pauli
 ---

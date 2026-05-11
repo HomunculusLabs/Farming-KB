@@ -1,5 +1,5 @@
 ---
-title: [[query-how-to-build-and-use-a-solar-food-dehydrator]] Diy
+title: Solar Food Dehydrator Diy
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

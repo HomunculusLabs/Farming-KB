@@ -3,7 +3,7 @@ title: Chrysanthemum Night Interruption Flowering Commercial Horticulture
 aliases:
   - "chrysanthemum night break lighting"
   - "night interruption flowering control"
-  - "[[chrysanthemum-greenhouse-photoperiod-manipulation]] chrysanthemum"
+  - "[[cannabinoid-pharmacology]] chrysanthemum"
   - "short day plant flowering suppression"
 tags:
   - horticulture

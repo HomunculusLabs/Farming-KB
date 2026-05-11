@@ -1,5 +1,5 @@
 ---
-title: "Darwin's [[darwin-phototropism-experiments-plant-light-sensing]] and the Concept of Plant Vision"
+title: Darwin Phototropism Experiments Plant Vision
 source: "grahamholmes-what-a-plant-knowsindd.md"
 topics:
   - plant-biology
@@ -99,7 +99,7 @@ Phototropism also interacts with gravitropismâ€”the plant's response to gravityâ
 - phototropism blue light response plants
 - auxin plant hormone overview
 - plant photoreceptors comparative overview
-- [[chamovitz-circadian-rhythm-internal-clock-plants]] plants biological clock
+- [[chrysanthemum]] plants biological clock
 - gravitropism plant gravity response
 - auxin transport pin proteins
 - [[shade-avoidance-syndrome]] plants

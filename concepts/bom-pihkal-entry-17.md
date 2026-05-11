@@ -20,7 +20,7 @@ type: concept
 - **Class:** Phenethylamine (beta-methoxy derivative of mescaline;
   member of the BOX family)
 - **Molecular formula:** C12H19NO4 (free base)
-- **Hydrochloride salt:** white crystalline product,
+- **Hydrochloride salt:** white [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]],
   mp 198.5-199.5 °C
 - **Nitroethane intermediate:** 1-methoxy-2-nitro-1-(3,4,5-
   trimethoxyphenyl)ethane, fine cream-colored crystals,

@@ -97,20 +97,17 @@ This model emphasizes **set and setting** -- the psychological preparation and t
 - Long-term effects and optimal dosing protocols are still being studied.
 - Most studies to date have been small; larger Phase 3 trials are needed for full regulatory approval.
 
-
 ## Practical Considerations
 Implementation requires careful attention to local conditions,
 available resources, and the specific goals of the practitioner.
 Documenting results and adapting approaches based on observed
 outcomes leads to continuous improvement over time.
 
-
 ## Integration Strategies
 Combining multiple approaches often yields better results than
 relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
-
 
 ## See Also
 - [[metzner-ayahuasca-therapeutic-potential]]
@@ -124,4 +121,3 @@ that can amplify overall effectiveness.
 - [[psychedelic-integration-practices]] for post-session integration
 - [[psychedelic-mushroom-set-and-setting]] for the set [[set-and-setting-framework]]
 - [[psychedelic-harm-reduction]] for safety considerations
-

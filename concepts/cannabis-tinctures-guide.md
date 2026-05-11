@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [cannabis, processing, recipe, preparation, medicine, health, potency]
-sources: []
+sources:
+  - "raw/papers/elaine-ingham-phd-the-field-guide-for-actively-aerated-com.md"
 ---
 
 ## Overview
@@ -147,4 +148,3 @@ Tinctures can be flavored with:
 - Keep in a cool, dark place
 - Alcohol tinctures: shelf stable at room temperature for 1-2 years
 - Glycerin tinctures: 6-12 months at room temperature
-- MCT oil tinctures: 3-6 months; do not refrigerate

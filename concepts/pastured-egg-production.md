@@ -1,5 +1,5 @@
 ---
-title: Pastured Egg Production
+title: "Pastured Egg Production"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -18,7 +18,7 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 ### Eggmobile (Joel Salatin Model)
 - Enclosed shelter on wheels, holding 50-100 hens
 - Roosting space inside, nesting boxes on one side
-- Moved behind grazing cattle (birds spread manure, eat fly larvae)
+- Moved behind grazing cattle (birds spread manure, eat [[black-soldier-fly-larvae-as-feed]])
 - Floorless or slatted floor (manure drops directly on pasture)
 - Requires a portable electric fence perimeter
 
@@ -49,7 +49,7 @@ The cornerstone of pastured egg production is the mobile coop -- a shelter that 
 ### Stocking Density
 - 50-100 hens per acre (moderate stocking)
 - Can go higher with frequent rotation: up to 200-300 hens/acre with daily moves
-- Overstocking leads to bare ground, parasite buildup, and poor forage
+- Overstocking leads to [[savory-bare-ground-and-soil-exposure]], parasite buildup, and poor forage
 
 ### Rotation Schedule
 - Move coop every 1-7 days depending on stocking density

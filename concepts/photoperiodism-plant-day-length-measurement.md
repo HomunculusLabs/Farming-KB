@@ -1,5 +1,5 @@
 ---
-title: [[photoperiodism]] Plant [[coleman-persephone-months-winter-day-length]] Measurement
+title: "[[photoperiodism]] Plant [[coleman-persephone-months-winter-day-length]] Measurement"
 created: 2026-05-09
 tags:
   - plant-biology

@@ -38,7 +38,7 @@ plant health and secondary metabolite production.
 
 Nitrogen was identified as the single strongest edaphic factor correlated with
 rhizosphere community composition. See
-[[nitrogen-edaphic-factor-cannabis-microbiome]] for comprehensive analysis.
+[[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]] for comprehensive analysis.
 Total nitrogen and available nitrogen forms (ammonium, nitrate) were strongly
 associated with shifts in bacterial community structure, particularly affecting
 the abundance of Proteobacteria and Bacteroidetes in the rhizosphere. Cannabis
@@ -64,8 +64,7 @@ terrestrial ecosystems, and the Cannabis rhizosphere was no exception. The
 slightly acidic to neutral pH range of the study soils supported diverse
 bacterial assemblages, with pH shifts correlating with changes in the relative
 abundance of Acidobacteria, Actinobacteria, and Proteobacteria. The
-[[acidobacteria-decline-rhizosphere-endorhiza-transition|decline of
-Acidobacteria]] from bulk soil to root compartments was partly mediated by the
+[[acidobacteria-decline-rhizosphere-endorhiza-transition|decline of Acidobacteria]] from bulk soil to root compartments was partly mediated by the
 pH microgradient created by root exudation.
 
 ### Salinity
@@ -126,8 +125,7 @@ The Orange County site, also characterized by sandy loam but with different
 nutrient profiles and pH, supported a divergent rhizosphere community. Key
 differences in nitrogen availability and organic carbon content between the two
 sites drove community divergence, as demonstrated by the Mantel and BEST
-analyses. Despite these differences, the [[two-tier-selection-model|two-tier
-selection model]] was supported at both locations, with the same core taxa
+analyses. Despite these differences, the [[two-tier-selection-model|two-tier selection model]] was supported at both locations, with the same core taxa
 enriched in the endorhiza regardless of site.
 
 ## Implications for Cannabis Cultivation
@@ -142,7 +140,7 @@ Cannabis microbiome in agricultural settings.
 
 ## See Also
 
-- [[nitrogen-edaphic-factor-cannabis-microbiome]]
+- [[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome]]
 - [[two-tier-selection-model]]
 - [[alpha-beta-diversity-cannabis-root-microbiomes]]
 - [[acidobacteria-decline-rhizosphere-endorhiza-transition]]

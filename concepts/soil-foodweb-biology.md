@@ -1,89 +1,126 @@
 ---
-title: Soil soil-foodweb-biology-balance
-aliases: [soil foodweb, soil ecology, soil microbiology, soil organisms, soil biology, rhizosphere]
-tags: [soil-biology, microbiology, ecology, nutrient-cycling, organic-agriculture, soil-ecology, soil-foodweb]
-created: 2026-05-09
-source: The Field Guide for [[actively-aerated-compost-tea]] (Elaine Ingham)
+title: "Soil Foodweb Biology"
+aliases:
+  - soil food web
+  - soil ecology
+  - soil microbiology
+tags:
+  - soil-biology
+  - microbial-ecology
+  - nutrient-cycling
+  - organic-gardening
+  - elaine-ingham
+source: The Field Guide I for AACT - Ingham (2004)
+created: 2026-05-11
 ---
 
 # Soil Foodweb Biology
 
-The soil foodweb is the complex community of organisms that live in soil, ranging from microscopic bacteria and fungi to visible earthworms and insects. Dr. Elaine Ingham's work, detailed in her field guide for compost tea, places the soil foodweb at the center of sustainable agriculture, arguing that healthy soil biology — not chemical inputs — is the foundation of plant health, nutrient cycling, and disease suppression.
+The soil foodweb is the complex community of organisms living in soil —
+bacteria, fungi, protozoa, nematodes, microarthropods, earthworms, and
+larger fauna — that drive nutrient cycling, decompose organic matter,
+maintain soil structure, and regulate plant health. Dr. Elaine Ingham's
+soil foodweb framework provides a practical model for understanding and
+managing soil biology to optimize plant growth without chemical inputs.
 
-## The Soil Foodweb Concept
-
-The soil foodweb describes the feeding relationships among soil organisms. Like any food web, it consists of producers, consumers, and decomposers linked through [[dighton-fungal-trophic-interactions-soil-food-webs]]. In soil, the primary producers are photosynthetic organisms (plants, algae, cyanobacteria) that fix carbon from the atmosphere. Everything else in the soil foodweb ultimately depends on this fixed carbon.
-
-Ingham's key insight is that the soil foodweb is the engine that drives nutrient availability for plants. In a healthy soil foodweb, nutrients are cycled continuously — organic matter is decomposed, nutrients are mineralized, and they become available for plant uptake. [[cervantes-chemical-fertilizers-guide]] bypass this biological system, but they do so at the cost of degrading the soil foodweb over time.
-
-## The Organism Groups
+## The Soil Foodweb Pyramid
 
 ### Bacteria
+The most numerous soil organisms (100 million to 1 billion per gram of
+healthy soil). Primary decomposers of simple organic compounds — sugars,
+proteins, and amino acids. Bacterial-dominated soils characterize annual
+cropping systems, disturbed soils, and early successional ecosystems.
 
-Bacteria are the most numerous organisms in soil, typically numbering in the hundreds of millions per gram. They are the primary decomposers of simple organic compounds — sugars, amino acids, and other readily available substrates. Bacterial biomass turns over rapidly (every few hours), making bacterial nutrients available quickly to other organisms.
-
-Bacteria play critical roles in:
-
-- **Nutrient mineralization:** Converting organic nitrogen, phosphorus, and sulfur into plant-available inorganic forms
-- **Nitrogen fixation:** Free-living and symbiotic bacteria convert atmospheric N₂ into ammonium
-- **Disease suppression:** Some bacteria produce antibiotics, compete with pathogens for resources, or induce systemic resistance in plants
-- **Soil aggregation:** Bacterial exopolysaccharides glue soil particles together, forming microaggregates that are the building blocks of soil structure
+Key roles: rapid decomposition of fresh organic matter; nitrogen fixation;
+production of polysaccharides that bind soil particles; competitive
+exclusion of pathogens; production of antibiotics and signaling compounds.
 
 ### Fungi
+Primary decomposers of complex organic materials — lignin, cellulose, and
+recalcitrant compounds bacteria cannot break down. Fungal-dominated soils
+characterize perennial systems, forests, and mature grasslands. Fungal
+biomass is measured by total hyphal length and diameter under direct
+microscopy.
 
-Soil fungi include saprotrophs (decomposers), [[mycorrhizal-fungi]] (plant symbionts), and pathogens. Fungal biomass typically exceeds bacterial biomass in undisturbed soils, particularly in forests and grasslands.
-
-Fungi are the primary decomposers of complex organic materials — lignin, cellulose, and other recalcitrant compounds that bacteria cannot efficiently break down. [[fungal-hyphae]] also physically bind soil particles, contributing to aggregate stability and creating channels for water movement and root growth.
-
-The ratio of fungi to bacteria (F:B ratio) is an important indicator of soil health and management:
-
-- **Bacterial-dominated soils (low F:B):** Typical of disturbed, tilled, or recently amended soils. Favor annual weeds and brassicas.
-- **Fungal-dominated soils (high F:B):** Typical of perennial systems, forests, and mature grasslands. Favor perennials, trees, and late-successional plant communities.
-
-Ingham recommends specific F:B ratios for different plant types: 0.1:1 for brassicas, 0.3:1 for grasses, 1:1 for row crops, 2:1 for vines, 5:1 for trees, and 10:1 or higher for old-growth forests.
+Key roles: decomposition of woody materials and humus; mycorrhizal
+associations with 80-90% of plant species; long-distance nutrient
+transport through mycelial networks; production of glomalin (glycoprotein
+binding soil aggregates and contributing to carbon storage); disease
+suppression through competition, antibiosis, and induced systemic
+resistance.
 
 ### Protozoa
+Flagellates, amoebae, and ciliates are the primary consumers of bacteria.
+They graze on bacteria, releasing plant-available nitrogen (ammonium)
+in the process. Bacteria immobilize nitrogen in their biomass, but when
+protozoa consume them, excess nitrogen is mineralized for plant uptake.
+A healthy gram of soil contains 10,000-100,000 protozoa.
 
-Protozoa are single-celled eukaryotic organisms that feed on bacteria. The three main groups in soil are:
-
-- **Flagellates:** Small, motile protozoa that consume individual bacteria
-- **Amoebae:** Move using pseudopodia and engulf bacteria; larger than flagellates
-- **Ciliates:** The largest soil protozoa, with hair-like cilia for movement and feeding
-
-Protozoa are essential for nutrient cycling because they regulate bacterial populations and release plant-available nutrients through their excretion. When a protozoan consumes a bacterium, it uses approximately 50% of the bacterial carbon for respiration and incorporates 20% into its own biomass. The remaining 30% — primarily nitrogen and phosphorus — is excreted in plant-available forms.
-
-This process, called the "microbial loop," is one of the most important mechanisms for nutrient mineralization in soil. Ingham estimates that protozoan grazing can release 30–80% of plant nitrogen demand in healthy soils.
+Key roles: mineralization of bacterial nitrogen; regulation of bacterial
+populations; maintenance of [[core-endorhiza-bacterial-community-composition-cannabis]] diversity through selective
+grazing.
 
 ### Nematodes
+Microscopic roundworms filling several ecological roles: bacterial feeders,
+fungal feeders, and predators. A teaspoon of healthy soil contains 20-100
+nematodes. Bacterial-feeding nematodes mineralize nitrogen at larger scale
+than protozoa. Fungal-feeding nematodes regulate fungal populations.
+Predatory nematodes control root-feeding nematodes. Root-feeding nematodes
+become significant crop pests when beneficial populations are depleted.
 
-Nematodes are microscopic roundworms that occupy several trophic levels in the soil foodweb:
+### Microarthropods and Earthworms
+Collembola (springtails), mites, and earthworms fragment organic matter,
+increasing surface area for microbial decomposition, and create soil
+structure through burrowing and casting activities.
 
-- **Bacterial-feeding nematodes:** Graze on bacteria, performing a similar nutrient mineralization function as protozoa but at larger scale
-- **Fungal-feeding nematodes:** Graze on fungal hyphae, releasing fungal nutrients
-- **Predatory nematodes:** Feed on other nematodes and small soil animals, regulating populations
-- **Root-feeding (plant-parasitic) nematodes:** Feed on plant roots, causing crop damage
+## Bacterial-Fungal Succession
 
-In healthy soils, predatory nematodes keep plant-parasitic nematode populations in check. Ingham considers a diverse nematode community — including representatives of multiple feeding groups — to be an indicator of healthy soil foodweb function.
+Soil biology follows predictable successional patterns:
+1. **Disturbance** (tilling): Bacterial dominance — bacteria rapidly
+   colonize disturbed soil with available simple carbon compounds
+2. **Early succession:** Mixed communities as complex organic matter
+   accumulates and fungi establish
+3. **Late succession:** Fungal dominance in mature ecosystems with
+   woody debris, perennial roots, and stable humus
 
-### Microarthropods
+The fungal-to-bacterial biomass ratio (F:B ratio) indicates soil
+appropriateness for intended crops:
+- **Row crops and vegetables:** F:B 0.1:1 to 1:1
+- **Pastures and grasslands:** F:B 1:1 to 5:1
+- **Forests and woody systems:** F:B 10:1 to 100:1
 
-Soil microarthropods include springtails (Collembola) and mites (Acari). These visible (1–2 mm) organisms feed on fungi, bacteria, and each other. They contribute to nutrient cycling by grazing on fungal hyphae and redistributing organic matter through the soil profile.
+## Nutrient Cycling: The Microbial Loop
 
-### Earthworms and Larger Organisms
+1. Organic matter enters soil as plant residues or amendments
+2. Bacteria and fungi decompose it, incorporating nutrients into biomass
+   (immobilization)
+3. Protozoa and bacterial-feeding nematodes consume them, releasing excess
+   nitrogen and phosphorus (mineralization)
+4. Plants absorb mineralized nutrients through roots
+5. Root exudates feed bacteria and fungi, completing the cycle
 
-Earthworms are the "ecosystem engineers" of the soil foodweb. They create burrows that improve water infiltration and root penetration, incorporate organic matter into the soil, and stimulate microbial activity through their gut passages. The presence of earthworms is generally considered a reliable indicator of healthy soil.
+This self-regulating system releases nutrients at rates plants can absorb,
+preventing leaching that characterizes soluble [[solomon-chemical-fertilizer-incomplete-potassium-yield-tradeoff]] use.
 
-Larger soil organisms — beetles, ants, termites, millipedes — fragment organic matter, making it more accessible to microbial decomposers, and create habitat through their burrowing and tunneling activities.
+## Disease Suppression
 
-## The Soil Foodweb and Plant Nutrition
+Healthy soil foodwebs suppress plant diseases through: competition for
+infection sites and resources; antibiotic production; predation on
+pathogens by [[teaming-with-microbes-protozoa-and-nematodes]]; [[endophytic-mycorrhizal-induced-systemic-resistance]] in
+plants; and physical barriers created by mycorrhizal hyphae around roots.
 
-### How Plants Get Nutrients
+## Management with AACT
 
-In a biologically healthy soil, most plant-available nutrients are produced through the activity of the soil foodweb, not from applied fertilizers. The process works as follows:
+[[actively-aerated-compost-tea]] Tea introduces beneficial organisms and their
+food sources directly to soil or leaf surfaces, shifting biological
+balance toward health and productivity.
 
-1. **Plant exudation:** Plant roots release sugars, amino acids, and other compounds into the rhizosphere, feeding bacteria and fungi
-2. **Microbial growth:** Bacteria and fungi multiply around roots, immobilizing nutrients in their biomass
-3. **Predation:** Protozoa and nematodes consume bacteria and fungi, releasing excess nutrients in plant-available forms
-4. **Nutrient uptake:** Plant roots absorb the mineralized nutrients, often facilitated by mycorrhizal fungal networks
+## See Also
 
-This system is self-regulating: plants release more exudates when they need more nutrients, stimulating more microbial activity and nutrient cycling. Chemical fertilizers disrupt this system by providing nutrients directly, which reduces plant investment in exudates and the associated [[edaphic-factors-microbial-community-structure]].
+- [[aact-brewing-science]]
+- [[mycelial-nutrient-translocation]]
+
+## References
+
+- Ingham, E.R. *The Field Guide I for Actively Aerated Compost Tea*.
+  Sustainable Studies Institute, 2004.

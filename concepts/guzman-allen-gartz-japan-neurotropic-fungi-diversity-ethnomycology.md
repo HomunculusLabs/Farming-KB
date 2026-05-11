@@ -125,7 +125,7 @@ While Japan is relatively well-surveyed compared to most Asian countries, Guzmá
 
 - [[guzman-allen-gartz-neurotropic-fungi-asia]]
 - [[guzman-allen-gartz-neurotropic-fungi-australasia]]
-- [[cordyceps-claviceps-sacred-neurotropic-mexico]]
+- [[cordyceps-claviceps-sacred-neurotropic-fungi-mexico]]
 - [[gymnopilus-spectabilis-profile]]
 - [[gartz-pluteus-salicinus-wood-inhabiting-psilocybin]]
 - [[amanita-muscaria-chemistry-and-pharmacology]]

@@ -1,5 +1,5 @@
 ---
-title: [[tompkins-luther-burbank-intuitive-breeding]] Plant [[cervantes-backcross-breeding-methods]]
+title: "[[tompkins-luther-burbank-intuitive-breeding]] Plant [[cervantes-backcross-breeding-methods]]"
 created: 2026-04-28
 tags: [plant-breeding, horticulture, burbank, selection, intuition, plant-communication]
 date: 2026-04-25

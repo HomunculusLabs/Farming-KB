@@ -1,5 +1,5 @@
 ---
-title: [[falconer-mushroom-bed-boxing-and-protection]] Cellar Ventilation And Moisture
+title: "[[falconer-mushroom-bed-boxing-and-protection]] Cellar Ventilation And Moisture"
 created: 2026-04-28
 tags: [
     [[mushroom-cultivation],

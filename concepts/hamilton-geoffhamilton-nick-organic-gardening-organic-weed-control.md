@@ -1,5 +1,5 @@
 ---
-title: [[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]] [[coleman-preemergence-flaming-weed-control]]
+title: "[[hamilton-geoffhamilton-nick-organic-gardening-companion-planting]] [[hamilton-geoffhamilton-nick-organic-gardening-organic-pest-control]] [[coleman-preemergence-flaming-weed-control]]"
 created: 2026-04-28
 tags: [weed-control, organic-gardening, mulching, hoeing, land-management]
 date: 2026-04-25

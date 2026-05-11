@@ -47,7 +47,7 @@ WIN 55,212-2 (often abbreviated as WIN-2) is described by Blesching as "a potent
 - Immune function
 - Neuroprotection
 
-WIN 55,212-2 has been a standard research tool in [[blesching-cannabinoid-pharmacology]] for decades and has contributed significantly to the understanding of how cannabinoid receptor activation affects various physiological systems.
+WIN 55,212-2 has been a standard research tool in [[cannabinoid]] for decades and has contributed significantly to the understanding of how cannabinoid receptor activation affects various physiological systems.
 
 ## CB1 Antagonists
 

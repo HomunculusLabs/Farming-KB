@@ -1,5 +1,5 @@
 ---
-title: [[myxomycete-sampling-collection-moist-chamber-culturing]] Technique [[brassinosteroid-effects-on-fungal-fruiting-morphology]]
+title: Moist Chamber Technique Fungal Fruiting
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

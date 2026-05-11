@@ -1,5 +1,5 @@
 ---
-title: Powell Psilocybin Brain Plasticity
+title: "Powell Psilocybin Brain Plasticity"
 created: 2026-04-26
 sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"

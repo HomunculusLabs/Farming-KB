@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-drying-canning-pickling-methods]] Storage
+title: Mushroom Drying Storage
 created: 2026-04-11
 updated: 2026-04-12
 type: concept

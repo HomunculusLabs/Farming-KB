@@ -100,20 +100,17 @@ Holmgren emphasises that systems operate at different scales. Functional scale i
 6. Use **scatters** for wildlife habitat and tree placement
 7. Always consider **scale** -- small systems within large systems
 
-
 ## Practical Considerations
 Implementation requires careful attention to local conditions,
 available resources, and the specific goals of the practitioner.
 Documenting results and adapting approaches based on observed
 outcomes leads to continuous improvement over time.
 
-
 ## Integration Strategies
 Combining multiple approaches often yields better results than
 relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
-
 
 ## See Also
 - [[fukuoka-learning-about-nature-distances-one-from-nature]]
@@ -128,4 +125,3 @@ that can amplify overall effectiveness.
 - [[edge-effect-and-microclimate]] -- Edge as a pattern phenomenon
 - [[keyline-design]] -- Pattern-based water management
 - [[food-forest-design]] -- Forest structure as applied pattern
-

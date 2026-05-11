@@ -1,5 +1,5 @@
 ---
-title: Golden Guide Morning Glory And Ololiuqui
+title: "Golden Guide Morning Glory And Ololiuqui"
 created: 2026-04-28
 tags: [hallucinogenic-plants, lsa, morning-glory, ololiuqui, ethnobotany,
   convolvulaceae, aztec, mescaline]

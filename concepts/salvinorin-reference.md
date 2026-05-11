@@ -102,7 +102,23 @@ Salvinorin A is unscheduled in many countries but regulated or banned in others.
 
 ## History and Cultural Context
 
-Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid [[cannabinoid-receptor-pharmacology]].
+Salvia divinorum has been used for centuries by the Mazatec people of Oaxaca, Mexico, in traditional [[metzner-shamanic-healing-and-divination-paradigm]] ceremonies. The active compound was isolated and characterized in 1982 by Alfredo Ortega and colleagues. Its unique KOR mechanism was identified in 2002 by Bryan Roth's research group at UNC Chapel Hill, opening new avenues in opioid [[cannabinoid]].
+
+## Practical Applications
+
+The principles outlined here find application across multiple domains including research, education, and practical implementation. Understanding the underlying mechanisms enables more effective application in real-world scenarios.
+
+## Key Considerations
+
+When applying these concepts, several factors warrant attention: environmental conditions, regional climate variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
+
+## See Also
+
+- [[soil-amendment-reference]]
+- [[shirota-psilocin-spectral-characterization-forensic-reference-standard]]
+- [[seed-starting-reference]]
+- [[seed-company-supplier-reference]]
+- [[salvinorin-pharmacology]]
 
 ## See Also
 

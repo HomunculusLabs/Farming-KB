@@ -1,5 +1,5 @@
 ---
-title: Falconer Who Should [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]
+title: "Falconer Who Should [[query-how-can-i-grow-mushrooms-alongside-garden-vegetables]]"
 created: 2026-04-28
 tags:
   [

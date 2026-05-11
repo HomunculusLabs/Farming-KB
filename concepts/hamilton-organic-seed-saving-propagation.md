@@ -1,5 +1,5 @@
 ---
-title: [[geoff-hamilton-organic-techniques]] [[biointensive-seed-saving]] Propagation
+title: Hamilton Organic Seed Saving Propagation
 created: 2026-04-26
 author: geoff-hamilton
 sources: hamilton-geoffhamilton-nick_-organic-gardening.md

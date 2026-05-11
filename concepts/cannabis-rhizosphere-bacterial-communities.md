@@ -1,5 +1,5 @@
 ---
-title: Cannabis [[rhizosphere-bacterial-community-dynamics]] Communities
+title: Cannabis Rhizosphere Bacterial Communities
 slug: cannabis-rhizosphere-bacterial-communities
 source: understanding-cultivar-specificity-cannabis-microbiome
 tags: [cannabis, rhizosphere, microbiome, soil-biology, root-exudates]

@@ -1,89 +1,144 @@
+---
+title: Homobrassinolide
+wikitarget: homobrassinolide
+aliases: [22S,23S-homobrassinolide, 22S-23S-homobrassinolide]
+created: 2026-05-11
+source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
+tags: [brassinosteroids, steroids, plant-growth-regulators, phytohormones]
+---
+
 # Homobrassinolide
 
-## Overview
+Homobrassinolide (22S,23S-homobrassinolide) is a synthetic brassinosteroid
+with demonstrated growth-promoting activity in both plants and fungi. It is a
+C29 brassinosteroid prepared from stigmasterol, distinguished from natural
+brassinolide by an additional methylene group in the side chain. Widely studied
+as an agricultural plant growth regulator, it has also shown unexpected and
+significant activity in fungal biological systems.
 
-Homobrassinolide (28-homobrassinolide, often abbreviated HBL) is a synthetic brassinosteroid analog with a methyl group extension at the C-24 position of the side chain compared to natural brassinolide. It is one of the most widely studied and commercially applied brassinosteroids due to its high biological activity, relative ease of synthesis from plant sterols, and broad-spectrum growth-promoting effects across diverse plant species.
+## Chemical Properties
 
-## Chemical Structure and Properties
+Homobrassinolide belongs to the brassinosteroid family of polyhydroxylated
+steroids. Key chemical characteristics include:
 
-### Structural Features
-Homobrassinolide belongs to the 28-homobrassinosteroid class, characterized by:
+- **Molecular formula**: C29H50O6
+- **Molecular weight**: ~494 g/mol
+- **Steroid core**: Ergostane-type skeleton with 29 carbons
+- **Characteristic groups**: Multiple hydroxyl groups, a 6-oxo group, and a
+  lactone ring spanning C-23 to C-26 in the side chain
+- **Stereochemistry**: The 22S,23S configuration at the vicinal diol is
+  critical for biological activity
+- **Synthesis**: Prepared from stigmasterol, a common plant sterol found in
+  soybeans, calabar beans, and various vegetable oils
 
-- A cholestane skeleton with a **C-24 ethyl group** (one additional methyl compared to brassinolide)
-- A **2α,3α,22α,23α-tetrahydroxy** substitution pattern
-- A **6-oxo-7-oxalactone** B-ring structure (seven-membered lactone ring)
-- Multiple stereoisomers exist; the 22S,23S configuration shows highest activity
+The 22S,23S stereochemistry is one of several possible diastereomers.
+Homobrassinolide can also exist as the 22R,23R isomer, but the 22S,23S form
+has been most extensively studied for biological activity. The additional
+methylene group in the side chain (compared to brassinolide) modifies the
+molecule's conformation and may influence [[beta-glucan-receptor-binding]] affinity and
+metabolic stability.
 
-### Molecular Formula
-C₂₉H₅₀O₆
+## Synthesis from Stigmasterol
 
-### Physical Properties
-- White crystalline solid
-- Soluble in methanol, ethanol, acetone, and dimethyl sulfoxide (DMSO)
-- Practically insoluble in water (requiring surfactant or co-solvent for [[ultra-low-cost-foliar-application-methods]])
-- Stable under normal [[singh-endophytic-fungi-plant-growth-promotion-contaminated-soils]] Its effects include:
+The synthetic preparation of 22S,23S-homobrassinolide from stigmasterol
+represents an important achievement in brassinosteroid chemistry. Stigmasterol
+is a widely available and inexpensive plant sterol, making it an attractive
+[[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]] for large-scale synthesis. The synthetic route involves:
 
-### Growth Promotion
-- **[[biological-nitrogen-fixation-agriculture]] activity
+1. Oxidative modification of the stigmasterol side chain to introduce
+   appropriate functionality
+2. Selective introduction of hydroxyl groups at the required positions
+3. Formation of the characteristic lactone ring between C-23 and C-26
+4. Stereochemical control at C-22 and C-23 to produce the desired S,S
+   configuration
 
-### Stress Tolerance
-- **Drought**: Improves water use efficiency and osmotic adjustment
-- **Temperature**: Enhances thermotolerance and chilling resistance
-- **Salinity**: Maintains ion homeostasis under salt stress
-- **Heavy metals**: Reduces toxicity symptoms from cadmium, lead, and aluminum
+The availability of synthetic homobrassinolide enabled broader agricultural
+testing and research that would not have been possible with natural
+brassinolide alone, which was initially available only in trace amounts from
+biological sources.
 
-### Quality Improvement
-- Increased chlorophyll content and photosynthetic rate
-- Enhanced protein and nutrient content in grains
-- Improved post-harvest shelf life in fruits and vegetables
-- Reduced pesticide residue through synergistic effects
+## Activity in Plants
 
-## Application in Fungal Cultivation
+Homobrassinolide exhibits the full spectrum of brassinosteroid biological
+activities in plants:
 
-A remarkable and little-explored application of homobrassinolide is its effect on fungal growth mycelial-metabolite-excretion-stress-response-grain-jars
-4. **Physiological output**: Altered membrane properties, enzyme activities, and metabolic fluxes
+- **Cell elongation**: Promotion of stem and root elongation at nanomolar
+  concentrations through activation of cell wall loosening enzymes
+- **Cell division**: Stimulation of cell division in meristematic tissues,
+  increasing overall biomass production
+- **Yield improvement**: Increased seed yield, fruit set, and biomass in
+  various crop species including rice, wheat, and vegetables
+- **Stress tolerance**: Enhanced resistance to drought, salinity, extreme
+  temperatures, and pathogen attack through priming of defense responses
+- **Photosynthetic enhancement**: Increased chlorophyll content and
+  photosynthetic efficiency in treated plants
 
-The extended C-24 ethyl group of homobrassinolide does not significantly alter its binding affinity compared to brassinolide, and in some systems it shows equal or greater activity, possibly due to improved membrane permeability or metabolic stability.
+The effective concentration range for homobrassinolide application is
+typically 10⁻³ to 10⁻¹ ppm, consistent with the extreme potency of
+brassinosteroids as plant hormones. Commercial formulations are applied as
+foliar sprays or seed treatments.
 
-## Safety and Environmental Profile
+## Activity in Fungi: The Gartz Study
 
-- **Toxicity**: Extremely low toxicity to mammals, birds, and [[comparison-beneficial-insects-guide-vs-integrated-pest-management]] (LD₅₀ > 2000 mg/kg)
-- **Environmental fate**: Rapidly degraded by soil microorganisms (half-life < 24 hours)
-- **Non-persistent**: Does not bioaccumulate due to rapid metabolism
-- **Concentration used**: Nano- to micromolar range minimizes any environmental impact
+A landmark 1990 study by Gartz, Adam, and Vorbrodt demonstrated that
+22S,23S-homobrassinolide has a strong growth-promoting effect on the
+subtropical fungus *Psilocybe cubensis*. This was the first report of
+brassinosteroid activity on fungi, as prior studies had focused exclusively
+on plant systems.
 
-These properties make homobrassinolide attractive as an environmentally benign alternative to conventional synthetic [[ingham-natural-growth-regulators-soil-microbes]].
+### Experimental Design
 
-## Regulatory Status and Commercial Availability
+*Psilocybe cubensis* was cultivated on two substrate systems:
+1. **Malt agar**: 6% malt agar plates
+2. **Dung/grain substrate**: Horse dung/rice grain mixture in water with
+   5 g KH₂PO₄ per liter added
 
-Homobrassinolide is registered as a plant growth regulator in several countries, including China, India, and parts of Southeast Asia. In China, it is widely used on rice, wheat, vegetables, and fruit crops under various trade names. In India, it is marketed as a foliar spray for yield enhancement and stress mitigation. Registration requirements vary by jurisdiction; in the European Union and United States, brassinosteroid products have limited commercial availability due to more stringent regulatory frameworks for plant biostimulants.
+Both systems were supplemented with 10⁻² ppm 22S,23S-homobrassinolide,
+with ten replicate experimental runs each. Control series without steroid
+were run in parallel under identical conditions.
 
-Commercial formulations typically contain 0.01–0.1% active ingredient diss [[query-what-is-the-strongest-psilocybin-mushroom-species]] ngal applications**: Systematic evaluation across edible and [[gourmet-medicinal-mushroom-casing-layer-techniques]] species
-- **Synergistic combinations**: Interaction with other plant biostimulants and reduced-rate agrochemicals
-- **Molecular breeding**: Engineering crops with enhanced BR sensitivity or production
-- **Nanotechnology**: Encapsulation for controlled release and improved delivery efficiency
-- **[[jeavons-climate-adaptation-growing-seasons]]**: Role in helping crops cope with increasing temperature and drought stress
+### Results
+
+The brassinosteroid produced dramatic effects across all measured parameters:
+
+- **Mycelial growth rate**: Two to three times faster than controls on malt
+  agar, representing a substantial acceleration of vegetative growth
+- **Fruiting onset**: First flush appeared in 3-3.5 weeks with brassinosteroid
+  versus 4-5 weeks in controls — a 25-40% reduction in time to first harvest
+- **First flush yield**: Four to seven mushrooms in the first flush with
+  treatment versus one to three in controls
+- **Dry mass**: 3.4-3.9 g per 10 g substrate versus 2.3-2.9 g in controls —
+  approximately 35-48% increase in total [[biological-efficiency]]
+- **Fruit body quality**: Formation [[brassinosteroid-suppression-of-incomplete-fruit-body-formation]] bodies (aborts) was
+  almost completely suppressed; treated fruit bodies lacked the typical
+  [[membranous-annulus-loss-brassinosteroid-induced-morphological-change]] on their stems, suggesting a developmental effect
+
+### Proposed Mechanisms of Fungal Action
+
+The mechanism is not fully understood, but several hypotheses exist:
+
+1. **Membrane interaction**: As a sterol-like molecule, homobrassinolide may
+   incorporate into fungal cell membranes, altering fluidity and transport
+2. **Signal transduction**: Fungi may possess receptors that recognize
+   brassinosteroid-like molecules, analogous to plant BRI1 receptors
+3. **Metabolic stimulation**: Direct stimulation of fungal metabolic pathways
+   involved in growth, nutrient uptake, and differentiation
+4. **Developmental programming**: [[gartz-brassinosteroid-fruiting-body-morphological-changes-psilocybe-cubensis]] (loss of annulus)
+   suggest effects on the fruit body differentiation program
+
+## Significance
+
+This discovery has implications for commercial mushroom production, fungal
+physiology research, and understanding of cross-kingdom sterol signaling.
+
+## See Also
+
+- [[brassinosteroids]]
+- [[psilocybe-cubensis]]
+- [[mycelial-growth-promotion]]
 
 ## References
 
-- Adam, G., Marquardt, V. (1986). "Synthesis of brassinosteroids." Phytochemistry, 25, 1787–1791.
-- Gartz, J., Adam, G., Vorbrodt, H.-M. (1990). "Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of the Fungus [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]." Naturwissenschaften, 77, 388–389.
-- Khripach, V., Zhabinskii, V., de Groot, A. (1999). Brassinosteroids: A New Class of Plant Hormones. Academic Press.
-## Practical Considerations
-
-Successful implementation of Homobrassinolide requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+1. Gartz, J., Adam, G., Vorbrodt, H.-M. (1990). *Naturwissenschaften*, 77,
+   388-389.
+2. Adam, G., Marquardt, V. (1986). *Phytochemistry*, 25, 1787.

@@ -1,5 +1,5 @@
 ---
-title: [[biodiversity-fungi-ectomycorrhizal-diversity]] Freshwater Aquatic Habitats
+title: "[[biodiversity-fungi-ectomycorrhizal-diversity]] Freshwater Aquatic Habitats"
 created: 2026-04-28
 tags:
   - freshwater-fungi

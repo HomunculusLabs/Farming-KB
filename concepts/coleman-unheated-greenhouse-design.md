@@ -1,8 +1,8 @@
 ---
-title: [[coleman-unheated-greenhouse-economic-model-passive-winter-production]] Design
+title: Coleman Unheated Greenhouse Design
 created: 2026-04-26
-tags: [greenhouse-design, unheated-greenhouse, hoop-house, high-tunnel, [[eliot-coleman]]]
-sources: The [[coleman-claytonia-winter-harvest-cultivation]] Handbook, eliot-coleman (2009)
+tags: [greenhouse-design, unheated-greenhouse, hoop-house, high-tunnel, [[eliot-coleman]]
+sources: The coleman-claytonia-winter-harvest-cultivation Handbook, eliot-coleman (2009)
 type: concept
 updated: 2026-04-26
 ---

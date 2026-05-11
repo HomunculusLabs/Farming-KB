@@ -1,5 +1,5 @@
 ---
-title: [[coleman-succession-planting-winter-harvest]]
+title: Succession Planting Winter
 aliases: [succession planting, relay cropping, winter sowing schedule, fall planting]
 tags: [planting, winter-growing, season-extension, organic-farming, scheduling]
 source: eliot-coleman-winter-harvest-handbook.md

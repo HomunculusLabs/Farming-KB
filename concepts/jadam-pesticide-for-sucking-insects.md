@@ -98,20 +98,17 @@ JADAM pesticides are primarily contact-action:
 
 Adding 0.5kg fine red clay powder increases effectiveness but do NOT exceed JWA 10L for continuous use. High JWA can damage the white powdery coating of fruits and stun growth.
 
-
 ## Practical Considerations
 Implementation requires careful attention to local conditions,
 available resources, and the specific goals of the practitioner.
 Documenting results and adapting approaches based on observed
 outcomes leads to continuous improvement over time.
 
-
 ## Integration Strategies
 Combining multiple approaches often yields better results than
 relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
-
 
 ## See Also
 - [[jadam-pesticide-for-chewing-insects]]
@@ -125,4 +122,3 @@ that can amplify overall effectiveness.
 - [[jadam-pesticide-for-aphids-and-mites]] -- lighter formulation for aphids and mites
 - [[jadam-natural-pesticide-jnp]] -- complete formulation reference with all combinations
 - [[insect-allies]] -- beneficial predators of sucking insects
-

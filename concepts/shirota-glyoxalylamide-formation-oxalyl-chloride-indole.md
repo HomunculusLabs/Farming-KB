@@ -1,5 +1,5 @@
 ---
-title: [[shirota-glyoxalylamide-intermediate-oxalyl-chloride-acylation-pathway]] Formation [[shirota-oxalyl-chloride-glyoxalylamide-crystallization-psilocin-route]] [[indole]]
+title: "Shirota Glyoxalylamide Formation Oxalyl Chloride Indole"
 aliases: ["oxalyl chloride indole acylation", "[[glyoxalylamide-intermediate-in-tryptamine-synthesis]] tryptamine", "Shirota oxalyl chloride procedure"]
 tags: [synthesis, [[psilocin]], organic-chemistry, glyoxalylamide, shirota, oxalyl-chloride]
 ---
@@ -84,6 +84,6 @@ The glyoxalylamide intermediate is the direct precursor to psilocin in the Shiro
 
 Reduction of the glyoxalylamide with lithium aluminum hydride converts both the glyoxalyl carbonyl and the acetyl carbonyl to methylene groups, producing psilocin in a single operation.
 
-This reduction step is remarkable because it simultaneously removes the acetyl protecting group from the 4-position and reduces the glyoxalylamide side chain to the desired ethylamine.
+This reduction step is remarkable because it simultaneously removes the acetyl protecting group from the 4-position and reduces the glyoxalylamide [[dimethylamine-amidation-tryptamine-side-chain-construction]] to the desired ethylamine.
 
 The efficiency of this transformation is a key advantage of the Shirota route over alternative syntheses.

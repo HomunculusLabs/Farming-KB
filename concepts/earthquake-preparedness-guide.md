@@ -1,5 +1,5 @@
 ---
-title: Earthquake [[flood-preparedness-guide]]
+title: Earthquake Preparedness Guide
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

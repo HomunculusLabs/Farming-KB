@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-sugar-as-addiction-and-drug-of-the-dominator]] Addiction [[mckenna-sugar-slavery-dominator-culture-commodities]]
+title: Mckenna Sugar Addiction Slavery Dominator Culture
 source: mckenna_t-food_of_the_gods.md
 author: [[terence-mckenna]]
 extracted: 2026-05-11

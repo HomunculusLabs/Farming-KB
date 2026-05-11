@@ -21,7 +21,7 @@ and rediscovered by [[fukuoka-road-critique-of-modern-science]] in the 1950s.
 ### The Spanish Chronicles
 
 The earliest known documentation comes from **Bernardino de Sahagún** (1569–1582),
-who recorded the Nahuatl word **"teonanácatl"** — literally "[[soma-controversy-fly-agaric-as-divine-mushroom]]" or
+who recorded the Nahuatl word **"teonanácatl"** — literally "[[edaphic-factors]]" or
 "flesh of the gods." This term has since been indiscriminately applied to all
 Mexican hallucinogenic fungi, though it originally referred to specific species.
 

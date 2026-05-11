@@ -1,5 +1,5 @@
 ---
-title: [[bill-mollison-permaculture-designers-manual]] Settlement Types
+title: "Permaculture Designers Manual Settlement Types"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept
@@ -15,7 +15,7 @@ sources: [raw/papers/bill-mollison-permaculture-a-designers-manual.md]
 
 We need well-designed villages today more than any other enterprise: villages to re-locate those soon-to-be-refugees from sea-level rise, villages to house people from urban slums, and villages where people of like mind can find someone else to talk to and to work with.
 
-An intentional village should have a group ethic acceptable to all who come there. Ethics, if shared, discussed, and acknowledged, give unity to groups, villages, and nations, indicate a way to go, and control our use of [[bill-mollison-permaculture-a-designers-manual-earthworking-and-earth-resources]].
+An intentional village should have a group ethic acceptable to all who come there. Ethics, if shared, discussed, and acknowledged, give unity to groups, villages, and nations, indicate a way to go, and control our use of [[bill-mollison-permaculture-a-designers-manual-aquaculture-and-water-systems]] [[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]] earthworking and earth resources.
 
 ## Village Aims
 

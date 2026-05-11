@@ -31,7 +31,7 @@ yielding a [[blesching-cannabis-chi-score-methodology]] of 3.00.
 
 See also: [[cannabis-chronic-pain-management]],
 [[blesching-cannabis-multiple-sclerosis]],
-[[blesching-cannabinoid-pharmacology]]
+[[cannabinoid]]
 
 ## Classification of Neuropathies
 

@@ -66,7 +66,7 @@ Key benefits of shiitake include:
 - Rich nutritional profile including B vitamins, copper, and selenium
 Shiitake is one of the most accessible medicinal mushrooms and can be
 incorporated into daily cooking. Compound-level details are at
-[[agaricus-blazei]].
+[[Agaricus]].
 ## Preparation Methods
 The therapeutic value of medicinal mushrooms depends heavily on how they are
 prepared and processed. Different compounds require different extraction methods:

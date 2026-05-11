@@ -79,7 +79,7 @@ In the European Red List, Carex dioica is assessed as Least Concern globally but
 
 ## Cultivation and Uses
 
-Carex dioica is occasionally cultivated in specialist alpine and wetland plant collections. It is not widely available in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]] due to its diminutive size and specific habitat requirements.
+Carex dioica is occasionally cultivated in specialist alpine and wetland plant collections. It is not widely available in [[cannabinoid-pharmacology]] due to its diminutive size and specific habitat requirements.
 
 Propagation from seed is possible but slow. Germination rates are low without cold stratification, and seedling growth is extremely slow in the first year. Division of established plants in spring is more reliable.
 

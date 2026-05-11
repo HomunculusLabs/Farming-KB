@@ -88,3 +88,34 @@ Mycofiltration installations provide benefits beyond water quality:
 - Cold temperatures slow mycelial activity and filtration effectiveness
 - Very high contaminant loads may overwhelm the system
 - Specific pollutant removal rates vary with species, substrate, and conditions
+
+## Experimental Results and Field Trials
+Stamets documents several field trials demonstrating mycofiltration
+effectiveness. In one notable experiment, mycelial mats of *Stropharia
+rugosoannulata* were placed in drainage channels carrying runoff from
+a dairy farm. Coliform bacteria counts were reduced by over 99% as
+water passed through the mycelial filter. In another trial, mycofiltration
+mats installed around a construction site reduced sediment and turbidity
+in downstream waterways by 80-95%, while also reducing concentrations of
+petroleum hydrocarbons from equipment operations.
+
+## Comparison with Conventional Filtration
+Mycofiltration offers several advantages over conventional water treatment:
+lower capital costs (simple infrastructure), lower operating costs (no
+chemical inputs, minimal energy requirements), ability to treat a broad
+range of contaminant types simultaneously, and production of a beneficial
+byproduct (spent mycelial substrate usable as soil amendment). Limitations
+include slower treatment rates than mechanical systems, sensitivity to
+temperature extremes, and less precise control over effluent quality.
+
+## Integration with Living Infrastructure
+Stamets envisions mycofiltration as a component of "living infrastructure"
+— engineered ecosystems that provide water treatment, erosion control,
+habitat creation, and carbon sequestration simultaneously. Mycofiltration
+buffers can be integrated into agricultural drainage systems, stormwater
+management networks, roadside ditches, and riparian zones. This approach
+aligns with the broader ecological engineering philosophy that natural
+systems, properly designed and managed, can outperform conventional
+technological solutions for many environmental challenges.
+
+## See Also

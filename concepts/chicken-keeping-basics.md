@@ -1,5 +1,5 @@
 ---
-title: [[chicken-keeping]] Basics
+title: "[[chicken-keeping]] Basics"
 created: 2026-04-17
 updated: 2026-04-18
 type: concept

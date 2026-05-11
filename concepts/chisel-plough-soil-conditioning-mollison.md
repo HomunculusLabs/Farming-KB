@@ -1,5 +1,5 @@
 ---
-title: [[comparison-chisel-plough-vs-no-tillage]] Soil Conditioning Mollison
+title: Chisel Plough Soil Conditioning Mollison
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

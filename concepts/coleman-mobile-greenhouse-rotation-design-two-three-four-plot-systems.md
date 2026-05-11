@@ -1,5 +1,5 @@
 ---
-title: [[coleman-mobile-greenhouse-crop-rotation-design]] Rotation Design Two Three Four Plot Systems
+title: Coleman Mobile Greenhouse Rotation Design Two Three Four Plot Systems
 source: "[[eliot-coleman]] - The [[cold-house-winter-harvest-system]] Handbook"
 source_path: "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 topics: [coleman, winter-harvest, mobile-greenhouse, crop-rotation, double-cropping, succession-planting, greenhouse-design, intensive-cropping]

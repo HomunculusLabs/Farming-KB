@@ -1,5 +1,5 @@
 ---
-title: [[turner-essential-psychedelics-cosmic-synergism-combinations]] 5 [[5-meo-dmt-and-bufo-alvarius]] Void Experience
+title: Turner Essential Psychedelics 5 Meo Dmt Void Experience
 created: 2026-04-26
 updated: 2026-04-24
 sources:

@@ -1,5 +1,5 @@
 ---
-title: Stable Carbon Isotope Labelling Mycorrhizal Fatty Acids
+title: "Stable Carbon Isotope Labelling Mycorrhizal Fatty Acids"
 created: 2026-04-17
 updated: 2026-04-17
 type: concept
@@ -18,7 +18,7 @@ Three main approaches are used for 13C labelling of plant-soil systems. In monox
 - [[stable-carbon-isotope-signature-fatty-acids-mycorrhizal-carbon-tracking]]
 ## Background and Context
 
-Stable Carbon Isotope Labelling and Fatty Acid Signatures in Mycorrhizal Research is an important subject that has garnered significant attention
+Stable Carbon Isotope Labelling and Fatty Acid Signatures in [[isotopic-tracers-mycorrhizal-research]] is an important subject that has garnered significant attention
 from researchers, practitioners, and enthusiasts alike. The topic
 sits at the intersection of multiple disciplines, drawing on insights
 from biology, ecology, chemistry, and practical experience. A thorough

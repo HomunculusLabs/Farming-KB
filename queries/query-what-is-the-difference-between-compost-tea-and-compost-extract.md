@@ -35,7 +35,7 @@ molasses, [[comparison-kelp-meal-vs-rock-dust]], and [[comparison-fish-hydrolysa
 supports explosive microbial reproduction, while the food sources feed bacteria
 and fungi. By the end of the brew, microbial populations have multiplied by
 orders of magnitude compared to the starting compost. The
-[[compost-tea-brewing-equipment-ingham]] design directly
+[[circadian-rhythm-in-plants]] design directly
 affects whether your tea is beneficial or potentially pathogenic, making this a
 critical investment for serious organic growers.
 
@@ -66,7 +66,7 @@ inoculant.
   compost tea multiplies it exponentially
 - Aeration and microbial food sources during brewing are what distinguish
   [[query-what-is-integrated-pest-management-for-organic-mushroom-cultivation]] that extract cannot match
-- Proper [[compost-tea-brewing-equipment-ingham]] maintaining adequate oxygen levels is essential for
+- Proper [[circadian-rhythm-in-plants]] maintaining adequate oxygen levels is essential for
   safe, effective compost tea
 
 ## Related

@@ -21,7 +21,7 @@ type: query
 
 > **Q: What are the best cover crops for sandy soil?**
 >
-> Sandy soils are fast-draining, low in nutrients, and prone to erosion and leaching. The best cover crops are deep-rooted or drought-tolerant species that [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], add [[hamilton-composting-and-organic-matter-management]], and hold soil in place. Top picks include **cowpea**, **[[comparison-lupin-vs-crimson-clover-green-manure]]**, **hairy vetch**, **daikon radish**, **winter rye**, and **oats** — often grown as multi-species mixes for maximum benefit.
+> Sandy soils are fast-draining, low in nutrients, and prone to erosion and leaching. The best cover crops are deep-rooted or drought-tolerant species that [[query-how-to-fix-nitrogen-toxicity-in-cannabis]], add [[hamilton-composting-and-organic-matter-management]], and hold soil in place. Top picks include **cowpea**, **[[compost]]**, **hairy vetch**, **daikon radish**, **winter rye**, and **oats** — often grown as multi-species mixes for maximum benefit.
 
 ## Challenges of Sandy Soil
 
@@ -32,7 +32,7 @@ type: query
 - **Wind & Water Erosion:** Loose, dry sand shifts easily. Bare sandy soil is highly vulnerable to both wind erosion and sheet runoff.
 - **Temperature Fluctuations:** Sand heats up fast in sun and cools quickly at night, stressing seedlings and soil biology.
 
-The right cover crop addresses several of these at once. See [[comparison-lupin-vs-crimson-clover-green-manure]].
+The right cover crop addresses several of these at once. See [[compost]].
 
 ### Cowpea (*Vigna unguiculata*)
 
@@ -82,5 +82,5 @@ The right cover crop addresses several of these at once. See [[comparison-lupin-
 ## Related Pages
 
 - [[query-how-to-choose-cover-crops-for-your-climate-and-goals]]
-- [[comparison-lupin-vs-crimson-clover-green-manure]]
+- [[compost]]
 - [[comparison-mulch-vs-cover-crops]]

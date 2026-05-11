@@ -54,7 +54,7 @@ Schmiedeberg and Koppe established the fundamental pharmacological antagonism: t
 throbbing heart of a frog is silenced by a drop of muscarine, and action is
 restored by a drop of atropine. Animals injected with atropine are protected from
 a fatal dose of muscarine. This reciprocal antagonism between a fungal poison and
-a plant-derived alkaloid was among the earliest examples of [[cannabinoid-receptor-pharmacology]].
+a plant-derived alkaloid was among the earliest examples of [[cannabinoid]].
 
 ## Clinical Case: The October 1876 Poisoning
 

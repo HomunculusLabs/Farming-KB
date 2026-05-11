@@ -1,5 +1,5 @@
 ---
-title: [[ayahuasca-tourism]] Western Seekers And Integration
+title: Ayahuasca Tourism Western Seekers And Integration
 created: 2026-04-26
 updated: 2026-04-24
 sources:

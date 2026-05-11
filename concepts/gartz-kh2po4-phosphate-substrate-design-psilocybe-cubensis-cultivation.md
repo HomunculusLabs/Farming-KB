@@ -1,5 +1,5 @@
 ---
-title: Gartz Kh2Po4 Phosphate Substrate Design [[psilocybe-cubensis-cultivation]]
+title: Gartz Kh2Po4 Phosphate Substrate Design Psilocybe Cubensis Cultivation
 source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
 source_author: Gartz, J.; Adam, G.; Vorbrodt, H.-M.
 source_year: 1990

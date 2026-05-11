@@ -42,7 +42,7 @@ illustrates how preconceived notions can shape psychedelic experiences.
 
 ## See Also
 
-- [[emcdda-bad-trip-phenomenology-psychiatric-intervention]]
+- [[EMCDDA]]
 
 - [[leary-harvard-psilocybin-project]]
 - gordon-wasson

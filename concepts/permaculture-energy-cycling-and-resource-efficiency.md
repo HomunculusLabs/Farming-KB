@@ -1,5 +1,5 @@
 ---
-title: [[permaculture-energy-descent-planning]] Cycling And Resource Efficiency
+title: "[[permaculture-energy-descent-planning]] Cycling And Resource Efficiency"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

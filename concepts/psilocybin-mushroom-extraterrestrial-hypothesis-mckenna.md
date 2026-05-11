@@ -1,5 +1,5 @@
 ---
-title: "[[psilocybin-mushrooms-and-ecology]] the Extraterrestrial Hypothesis"
+title: Psilocybin Mushroom Extraterrestrial Hypothesis Mckenna
 source: "mckenna_t-tryptamines_consciousness.md"
 topics:
   - psychedelics

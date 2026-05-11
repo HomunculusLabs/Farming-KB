@@ -1,5 +1,5 @@
 ---
-title: Aact [[ingham-tannins-terpenes-phenolic-compounds]] Compounds Wood Composting Ingham
+title: Aact Tannins Terpenes Phenolic Compounds Wood Composting Ingham
 source: "Elaine Ingham - The Field Guide I for [[actively-aerated-compost-tea]] Tea (AACT)"
 source_path: "raw/papers/elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com.md"
 topics: [aact, composting, tannins, terpenes, phenolic-compounds, wood-chips, allelopathy, weed-suppression]
@@ -88,3 +88,16 @@ Black walnut deserves special attention due to juglone:
 1. **Age all woody materials** before incorporating into AACT compost — minimum 4 weeks, ideally longer
 2. **Use fungal-dominant teas** when working with woody systems — the fungi are better equipped to handle phenolic compounds
 3. **Test compost maturity** — if the compost still smells strongly of terpenes or has visible intact wood chips, it needs more time
+
+## Practical Applications
+Aact Tannins Terpenes Phenolic Compounds Wood Composting Ingham has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
+
+## Historical Significance
+The development and understanding of aact tannins terpenes phenolic compounds wood composting ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+
+## See Also
+- [[ingham-tannins-terpenes-phenolic-compounds]]
+- [[ingham-manure-antibiotics-chemical-residues-composting]]
+- [[thermal-composting-vs-aact]]
+- [[ingham-wood-chips-compost-fungal-domination]]
+- [[aact-water-quality-chlorine-removal-brewing-standards-ingham]]

@@ -1,92 +1,93 @@
 ---
 title: Serotonin
-created: 2026-04-28
-type: chemical
-tags: [neurotransmitter, tryptamine, monoamine, biochemistry, pharmacology]
-date: 2026-04-28
-updated: 2026-04-28
-sources: [/Users/t3rpz/wiki/raw/papers/magic-mushrooms-around-the-world-by-jochen-gartz.md]
+source: a-golden-guide-to-hallucinogenic-plants.md
+type: entity
 ---
 
-# Serotonin
+## Description
 
-**Serotonin** (5-hydroxytryptamine, 5-HT) is a monoamine neurotransmitter found throughout the central nervous system, peripheral nervous system, and various non-neural tissues. Biochemically derived from [[psilocybin]], dimethyltryptamine|DMT, and [[indole]] derivative with a hydroxyl group at the 5-position of the indole ring — the same position where [[bufotenin-entity-tihkal]] carries its hydroxyl. This 5-substitution is critical for 5-HT [[tihkal-receptor-binding-serotonin]] affinity.
+Serotonin (5-hydroxytryptamine, or 5-HT) is a monoamine neurotransmitter found primarily in the gastrointestinal tract, blood platelets, and central nervous system of humans and other warm-blooded animals. In the context of hallucinogenic plant and fungal compounds, serotonin is of paramount importance because many of the most powerful natural hallucinogens share a [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] to serotonin, which may explain their psychoactive effects.
 
-## Biosynthesis and Metabolism
+## Classification
 
-### Biosynthesis Pathway
+- **Category**: Monoamine neurotransmitter / Neurohormone
+- **Chemical class**: Tryptamine (5-hydroxydimethyltryptamine)
+- **Molecular formula**: C10H12N2O
+- **Location**: Nervous tissue of warm-blooded animals, GI tract, blood platelets
 
-Serotonin is synthesized in a two-step pathway from the essential [[cho-fish-amino-acid-preparation]] [[tryptophan]] is converted to 5-hydroxytryptophan (5-HTP) by tryptophan hydroxylase (TPH), the rate-limiting enzyme. This reaction requires tetrahydrobiopterin (BH₄) as a cofactor and molecular oxygen.
-2. **Decarboxylation:** 5-HTP is decarboxylated by aromatic L-amino acid decarboxylase (AADC) to form serotonin (5-HT). Pyridoxal phosphate (vitamin B₆) serves as the cofactor.
+## Key Facts
 
-Approximately 90% of the body's serotonin is produced in enterochromaffin cells of the gastrointestinal tract, where it regulates gut motility and secretion. The remaining 10% is synthesized in serotonergic neurons of the central nervous system.
+- Plays a major role in the biochemistry of the central nervous system
+- Chemically classified as 5-hydroxydimethyltryptamine
+- Present in the nervous tissue of all warm-blooded animals
+- The indole nucleus of many hallucinogens shows structural similarity to serotonin
+- This structural similarity may explain hallucinogenic activity
+- Studying hallucinogenic tryptamines may help explain the function of serotonin in the body
 
-### Metabolism
+## Structural Relationship to Hallucinogens
 
-Serotonin is primarily metabolized by monoamine oxidase A (MAO-A) to 5-hydroxyindoleacetaldehyde, which is then oxidized by aldehyde dehydrogenase to **5-hydroxyindoleacetic acid** (5-HIAA). 5-HIAA is excreted in urine and serves as a clinical biomarker for serotonin turnover.
+Many natural hallucinogens contain the indole ring that is also present in serotonin:
 
-## Serotonin Receptors
+- **DMT (dimethyltryptamine)**: Simple tryptamine with direct structural similarity
+- **Psilocybin/Psilocin**: 4-substituted tryptamines structurally related to serotonin
+- **LSD ([[lsd-d-lysergic-acid-diethylamide]])**: Contains an indole nucleus
+- **Ibogaine**: Indole alkaloid with serotonin-like core
+- **Harmine/Harmaline**: Beta-carboline alkaloids derived from tryptamine
 
-The serotonin system is remarkably complex, with **14 distinct receptor subtypes** organized into 7 families (5-HT₁ through 5-HT₇):
+This structural similarity between hallucinogenic compounds and serotonin is one of the most significant findings in psychoactive pharmacology. The theory is that these compounds may act as agonists or antagonists at [[serotonin-receptor-interference-psychedelic-mechanism]] sites, particularly the 5-HT2A receptor subtype.
 
-| Family | Key Subtypes | Primary Signaling | Distribution |
-|--------|-------------|-------------------|--------------|
-| 5-HT₁ | 5-HT₁A, 5-HT₁B, 5-HT₁D, 5-HT₁E, 5-HT₁F | Gi/o (inhibitory) | Cortex, raphe, basal ganglia |
-| 5-HT₂ | 5-HT₂A, 5-HT₂B, 5-HT₂C | Gq/11 (excitatory) | Cortex, platelets, vascular |
-| 5-HT₃ | 5-HT₃ | Ligand-gated ion channel | Brainstem, GI tract, vagus |
-| 5-HT₄ | 5-HT₄ | Gs (excitatory) | GI tract, hippocampus |
-| 5-HT₅ | 5-HT₅A, 5-HT₅B | Gi/o | Cortex, hippocampus |
-| 5-HT₆ | 5-HT₆ | Gs | Striatum, cortex |
-| 5-HT₇ | 5-HT₇ | Gs | Hypothalamus, thalamus, cortex |
+## Dual Relationship
 
-The **5-HT₂A receptor** is of particular significance in the context of psychedelic compounds: [[lsd-lysergic-acid-diethylamide-experience-guide]] all produce their primary subjective effects through agonism at this receptor. The structural similarity of these compounds to endogenous serotonin underlies their ability to modulate consciousness, perception, and mood.
+The source text notes two key structural parallels:
+1. **Indolic hallucinogens and serotonin**: DMT, psilocybin, LSD all share the indole ring with serotonin
+2. **Mescaline and norepinephrine**: Mescaline (from peyote) is structurally similar to the neurohormone norepinephrine
 
-## Physiological Functions
+These chemical similarities may help explain hallucinogenic activity and certain processes of the central nervous system.
 
-### Central Nervous System
-- **Mood regulation:** Serotonin is central to emotional processing; dysfunction is implicated in depression and anxiety disorders
-- **Sleep-wake cycle:** Serotonergic neurons in the raphe nuclei regulate circadian rhythms and sleep architecture
-- **Appetite:** Modulates satiety signals; drugs targeting 5-HT receptors (e.g., fenfluramine) affect appetite
-- **Cognition:** Contributes to learning, memory consolidation, and executive function
-- **Pain modulation:** Descending serotonergic pathways from the raphe nuclei modulate nociception
+## Relevance to Cultivation and Mycology
 
-### Peripheral Functions
-- **Gastrointestinal:** Regulates peristalsis, secretion, and visceral sensation
-- **Platelet aggregation:** Serotonin released from platelets promotes vasoconstriction and clot formation
-- **Cardiovascular:** Modulates vascular tone and heart rate
-- **Bone metabolism:** Influences bone density through 5-HT₂C and HTR1B receptors
+Serotonin is central to understanding fungal hallucinogens:
 
-## Clinical Significance
+- [[hplc-analysis-of-psilocybin-and-psilocin]] are 4-substituted tryptamines that act on [[psilocybin-pharmacology-and-serotonin-receptors]]
+- Understanding serotonin pharmacology is essential for understanding mushroom psychoactivity
+- The serotonin connection explains why indole-containing fungi produce hallucinogenic effects
+- Relevant to the pharmacological classification of psychoactive mushroom species
 
-### Psychiatric Disorders
-- **Major depressive disorder (MDD):** The monoamine hypothesis implicates deficient serotonergic signaling; SSRIs (selective serotonin reuptake inhibitors) are first-line treatments
-- **Anxiety disorders:** 5-HT₁A partial agonists (buspirone) and SSRIs are effective
-- **Obsessive-compulsive disorder:** High-dose SSRIs target serotonergic circuits in the cortico-striato-thalamo-cortical loop
+## Related Topics
 
-### Psychoactive Drug Interactions
-The structural homology between serotonin and psychedelic tryptamines is fundamental to their pharmacological action:
+- Tryptamine
+- Lysergic Acid Diethylamide
+- Mescaline
+- Psilocybin pharmacology
+## Botanical Characteristics
 
-- [[psilocin]] act as partial agonists at 5-HT₂A receptors
-- dimethyltryptamine|DMT is a potent 5-HT₂A agonist and also activates sigma-1 receptors
-- [[ayahuasca-vision-art-and-shipibo-tradition]]) prevent serotonin metabolism, potentiating endogenous and exogenous tryptamines
+Serotonin exhibits distinct morphological features that make it
+valuable in cultivated and ecological settings. Understanding these
+characteristics helps growers optimize conditions for healthy development
+and maximum productivity.
+## Cultivation Requirements
 
-## Historical Context
+Successful cultivation of Serotonin depends on several environmental
+factors including climate zone, soil type, and water availability.
+Growers should select appropriate sites with well-drained soil and
+adequate sun exposure for best results.
+## Propagation Methods
 
-Serotonin was first isolated in 1948 by Maurice Rapport, Arda Green, and Irvine Page at the Cleveland Clinic. They named it "serotonin" (serum-tonic) for its vasoconstrictive properties found in blood serum. In 1953, Betty Twarog and Page identified serotonin in the mammalian brain. The recognition of serotonin as a neurotransmitter, along with the subsequent discovery of its role in mental illness, revolutionized psychiatry and psychopharmacology. The structural kinship between serotonin and the psychedelic tryptamines was recognized early by researchers including gordon-wasson, who noted that [[tryptophan]] — the essential amino acid precursor to serotonin
-- [[psilocybin]] — 4-phosphoryloxy-N,N-dimethyltryptamine; mushroom-derived 5-HT₂A agonist
-- [[dimethyltryptamine]] — N,N-dimethyltryptamine; potent endogenous psychedelic
-- [[melatonin-entity-tihkal]] — N-acetyl-5-methoxytryptamine; serotonin-derived hormone regulating circadian rhythm
-- [[psilocybin]] and [[lsd-lysergic-acid-diethylamide-experience-guide]] is a potent 5-HT₂A agonist with additional high affinity for 5-HT₁A, 5-HT₂B, 5-HT₂C, and 5-HT₆/₇ receptors
-- [[5-meo-dmt-compound-profile]] is a potent 5-HT₁A agonist in addition to 5-HT₂A activity, producing a qualitatively different experience from DMT
+Serotonin can be propagated through several methods including seed
+germination, cuttings, and grafting. Each approach has specific
+advantages depending on the grower's goals and available resources.
+## Uses and Applications
 
-This receptor cross-activity explains why compounds with modest structural differences from serotonin can produce profoundly [[weil-the-natural-mind-altered-states-normalcy]] of consciousness while maintaining selectivity for specific receptor subtypes.
+Traditional and modern applications of Serotonin span food production,
+medicine, and ecological services. The plant provides multiple yields
+that contribute to diversified farming and permaculture systems.
+## Ecological Considerations
 
-## Serotonin in Comparative Perspective
+Serotonin interacts with surrounding ecosystems through pollinator
+relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
+functions enhance overall system resilience and biodiversity.
 
-Serotonin's evolutionary history extends far beyond the vertebrate nervous system:
-
-- **Invertebrates:** Serotonin functions as a neurotransmitter, neuromodulator, and hormone in insects, crustaceans, mollusks, and nematodes. In Drosophila, serotonin modulates aggression, sleep, and circadian rhythms
-- **Plants:** Serotonin (5-HT) is found in many plant species where it may function in defense, growth regulation, and as a precursor to [[tryptamine-consciousness-theory]] — parent class of serotonin-derived psychoactive compounds
-- [[psilocybin]] — mushroom alkaloid with serotonergic mechanism of action
-- [[melatonin-entity-tihkal]] — serotonin-derived hormone regulating circadian rhythm
-- [[cannabidivarin]]
+## See Also
+- [[psilocybin-psilocin-chemistry-serotonin-5ht2a-mechanism-emcdda-2006]]
+- [[psilocybin-serotonin-5ht2a-receptor-pharmacology]]
+- [[psilocybin-serotonin-mimic-thalamic-filter-model]]

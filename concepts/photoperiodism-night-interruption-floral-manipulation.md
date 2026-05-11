@@ -10,7 +10,7 @@ created: 2026-05-10
 ## Overview
 
 The discovery that plants measure the length of continuous darkness (not the length of
-daylight) led to one of the most practically useful techniques in horticulture: night [[chrysanthemum-night-interruption-flowering-commercial-horticulture]]
+daylight) led to one of the most practically useful techniques in horticulture: night [[cannabinoid-pharmacology]]
 interruption. By briefly turning lights on during the middle of the night, growers can
 prevent short-day plants from flowering or induce long-day plants to flower at
 commercially desirable times. This technique, developed from the foundational

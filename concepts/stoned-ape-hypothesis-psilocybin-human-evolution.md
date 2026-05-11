@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-food-gods-stoned-ape-hypothesis]] - [[psilocybin]] and Human Evolution
+title: Stoned Ape Hypothesis Psilocybin Human Evolution
 created: 2026-05-11
 tags: [evolution, consciousness, psilocybin, anthropology, mycology]
 date: 2026-05-11

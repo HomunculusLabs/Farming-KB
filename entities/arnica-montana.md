@@ -3,7 +3,7 @@ title: "arnica montana"
 created: 2026-04-28
 type: species
 tags:
-  - [[herbal-medicine]]]
+  - [[herbal-medicine]]
   - medicinal-plant
   - asteraceae
   - anti-inflammatory

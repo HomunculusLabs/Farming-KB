@@ -32,7 +32,7 @@ central carbon metabolism via the ribulose monophosphate pathway.
 The [[otu-differential-abundance-cannabis-microbiome]] of Methylophilus across the three studied cannabis
 cultivars was one of the most pronounced taxonomic signals in the entire
 experiment. Bookoo Kush harbored approximately 13% Methylophilus sequences in
-its [[proteobacteria-dominance-cannabis-endorhiza-community]], making it one of the dominant genera in that
+its [[Proteobacteria]], making it one of the dominant genera in that
 cultivar's root interior. In stark contrast, Burmese showed only 0.13%
 Methylophilus — a 100-fold reduction. Sour Diesel had no detectable
 Methylophilus sequences whatsoever in its endorhiza. This three-tier gradient

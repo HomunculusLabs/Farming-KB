@@ -1,5 +1,5 @@
 ---
-title: Coprophilous [[neurotropic-fungi-taxonomic-groups-classification]] Distribution
+title: Coprophilous Fungi Taxonomic Groups Distribution
 created: 2026-04-26
 tags:
   - [[mycology]]

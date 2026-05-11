@@ -88,3 +88,38 @@ It produces antibiotics that inhibit competing bacteria and fungi —
 a survival strategy necessitated by having only a single cell wall
 protecting it from millions of hostile microbes per gram of soil.
 Different mushroom species produce different antibiotic profiles,
+
+## Mycelial Intelligence and Decision-Making
+The concept of "mycelial mind" extends beyond chemical signaling to
+encompass what Stamets and other mycologists describe as a form of
+distributed intelligence. Mycelial networks can solve spatial problems —
+finding the most efficient routes between nutrient sources, optimizing
+resource distribution, and making trade-offs between growth and defense.
+Slime mold experiments by Japanese researchers demonstrated that
+*Physarum polycephalum* could recreate the Tokyo rail network with
+greater efficiency than human engineers, suggesting that similar
+optimization processes may operate in true fungal mycelium.
+
+## The Wood Wide Web
+Forest ecologist Suzanne Simmonds popularized the term "Wood Wide Web"
+to describe the mycorrhizal networks that connect trees in forests.
+These networks — which Stamets also extensively documents — allow
+mother trees to funnel carbon to their offspring, stressed trees to
+signal for assistance, and dying trees to dump their remaining
+nutrients into the network for redistribution. The mycelial network
+functions as a communication infrastructure that enables cooperative
+behavior at the ecosystem scale, challenging traditional views of
+forest ecology as purely competitive.
+
+## Industrial and Technological Applications
+The network properties of mycelium have inspired several technological
+applications. Mycelium-based composites are being developed as
+sustainable alternatives to Styrofoam packaging, leather, and building
+insulation. Companies like Ecovative Design grow mycelium on
+agricultural waste substrates to produce materials with properties
+comparable to conventional synthetics. Mycelial mats have also been
+investigated as biological filters for water treatment, as conductive
+substrates for electronics, and as living building materials that
+can self-heal when damaged.
+
+## See Also

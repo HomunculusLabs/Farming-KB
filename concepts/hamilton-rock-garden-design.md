@@ -1,5 +1,5 @@
 ---
-title: Hamilton Rock [[community-garden-design]]
+title: "Hamilton Rock Garden Design"
 created: 2026-04-20
 updated: 2026-04-20
 type: concept
@@ -19,7 +19,7 @@ The choice of plants is enormous, providing attractive flower colors and shapes,
 
 ## Planting Alpines
 
-Plant alpines in spring or fall, and sow alpine seeds in the winter because they need a period of cold before they will germinate. The one really important factor for success is good drainage. In the wild, alpines grow in cracks in rocks or in the gravel (scree) that has broken off and rolled down the mountainside. This is the type of environment that you need to reproduce.
+Plant alpines in spring or fall, and sow [[cannabis-strain-sweet-pink-grapefruit-alpine-seeds-oner]] pink grapefruit alpine [[critical-haze-strain-profile-resin-seeds-oner]] in the winter because they need a period of cold before they will germinate. The one really important factor for success is good drainage. In the wild, alpines grow in cracks in rocks or in the gravel (scree) that has broken off and rolled down the mountainside. This is the type of environment that you need to reproduce.
 
 ## Rock Garden Construction
 

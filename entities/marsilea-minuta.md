@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Johnson, D.M. (1986). "Marsilea." Flora of [[psilocybin-north-america-pacific-northwest]], Vol. 2.
+  - Johnson, D.M. (1986). "Marsilea." Flora of psilocybin-north-america-pacific-northwest, Vol. 2.
   - Naithani, B.D. (1985). "Marsileaceae." Fascicles of Flora of India.
   - Nagendran, C.R. et al. (1977). "Studies on Marsilea minuta." Proceedings of the Indian Academy of Sciences.
   - USDA NRCS (2024). "Marsilea minuta." PLANTS Database.

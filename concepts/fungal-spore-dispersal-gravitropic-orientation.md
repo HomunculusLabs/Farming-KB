@@ -1,5 +1,5 @@
 ---
-title: [[fungal-spore-dispersal]] Gravitropic Orientation
+title: Fungal Spore Dispersal Gravitropic Orientation
 source: tropisms-in-the-mushroom-psilocybe-cubensis.md
 extracted: 2026-05-09
 type: concept

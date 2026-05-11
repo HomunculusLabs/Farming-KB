@@ -1,5 +1,5 @@
 ---
-title: Cannabis Sativa Vs Indica Therapeutic Differences Blesching
+title: "Cannabis Sativa Vs Indica Therapeutic Differences Blesching"
 source: uwe-blesching-the-cannabis-health-index
 tags: [sativa, indica, cannabis-strains, thc, cbd, therapeutic-window, modes-of-administration, endocannabinoid-system]
 ---
@@ -30,7 +30,7 @@ choices.
 
 ## Sativa: Characteristics and Therapeutic Profile
 
-Sativa strains are characterized by a higher THC to lower CBD/CBN ratio. This
+[[african-landrace-sativa-strains]] are characterized by a higher THC to lower CBD/CBN ratio. This
 cannabinoid profile produces effects that are generally stimulating, energizing,
 and uplifting. Sativa strains are typically more mental and emotional in their
 therapeutic orientation, making them suitable for addressing conditions that involve
@@ -41,9 +41,9 @@ awareness.
 Because of their stimulating nature, sativa strains are generally best suited for
 daytime use. They increase alertness and can be particularly helpful for patients
 dealing with depression, fatigue, and conditions where mental clarity and energy
-are desired outcomes. THC, the dominant cannabinoid in sativa strains, binds to
+are desired outcomes. THC, the dominant cannabinoid [[terpene-profiles-in-sativa-strains]], binds to
 both CB1 and CB2 receptors, producing changes in the central nervous system,
-immune system, and autonomic nervous system simultaneously. This broad receptor
+immune system, and [[blesching-endocannabinoid-autonomic-nervous-system-adrenal-glands]] simultaneously. This broad receptor
 engagement accounts for sativa's multifaceted [[cervantes-terpenoid-pharmacology-therapeutic-effects]], which include
 both pain relief and muscle relaxation alongside their more prominent mental and
 emotional effects.
@@ -79,7 +79,7 @@ experience chronic inflammation and are likely CB2-deficient.
 Establishing one's own therapeutic window is governed by three factors: the body's
 present endocannabinoid state (relative balance or deficiency), the cannabinoid
 profile in the medicine, and the form in which it is consumed. The vast majority of
-adverse effects are directly related to using cannabis in excess of the subjective
+[[adverse-effects-and-harm-reduction-psilocybin]] are directly related to using cannabis in excess of the subjective
 therapeutic window. Taking too little can be sub-optimal, while too much can
 actually increase the very symptoms being treated. For example, while cannabis can
 reduce anxiety at the proper dose, using too much too rapidly can multiply feelings

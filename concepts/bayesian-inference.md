@@ -3,7 +3,7 @@ title: bayesian inference
 created: 2026-04-28
 updated: 2026-05-06
 sources:
-  - "raw/papers/[[bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture]]|permaculture|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
+  - "raw/papers/bill-mollison-permaculture-a-designers-manual-guild-design-in-permaculture|permaculture|permaculture-a-designers-manual-bill-mollison-permaculture-a-designers-manual-animal-systems-in-permaculture|bill-mollison.md"
 type: concept
 tags: [reference]
 ---

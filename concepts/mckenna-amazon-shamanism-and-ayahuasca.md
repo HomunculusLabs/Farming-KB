@@ -69,6 +69,26 @@ Ethnographers such as Theodore Koch-Grunberg returned from Amazonas with
 accounts of tribes using telepathy-inducing plant drugs. The modern era of
 psychopharmacology's interest dates to the 1920s Renaissance in Germany.
 
+## Practical Applications
+
+Research continues to reveal therapeutic potential for mental health conditions including depression, anxiety, PTSD, and addiction. Clinical studies demonstrate promising results when combined with appropriate therapeutic frameworks and integration support.
+
+## Safety Considerations
+
+Responsible engagement requires understanding set and setting, proper dosing protocols, potential interactions with and the importance of integration support. Harm reduction practices emphasize preparation, trusted facilitators, and post-experience processing.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
+
+## See Also
+
+- [[mckenna-ayahuasca-and-amazonian-shamanism]]
+- [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]
+- [[mckenna-shamanism-and-the-lost-archaic-world]]
+- [[mckenna-shamanism-and-techniques-of-ecstasy]]
+- [[mckenna-food-gods-amazonian-shamanism-ayahuasca]]
+
 ## See Also
 
 - [[harner-ayahuasca-shamanism-amazon]]

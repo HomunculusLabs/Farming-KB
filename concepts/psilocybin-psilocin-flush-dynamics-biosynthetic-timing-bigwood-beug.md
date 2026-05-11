@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-psilocin-flush-accumulation-patterns]] Dynamics Biosynthetic Timing Bigwood Beug
+title: Psilocybin Psilocin Flush Dynamics Biosynthetic Timing Bigwood Beug
 source: Variation of [[hplc-analysis-of-psilocybin-and-psilocin]] Levels with Repeated Flushes (Bigwood & Beug, 1982)
 tags: [psilocybin, psilocin, psilocybe-cubensis, flush, biosynthesis, alkaloid, bigwood-beug, cultivation, fruiting]
 ---

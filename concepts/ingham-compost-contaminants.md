@@ -13,7 +13,7 @@ sources:
 
 Extracted from Elaine Ingham's AACT Field Guide, covering herbicide
 contamination issues that affect [[aact-compost-quality-standards-ingham]] and
-[[compost-tea-brewing-equipment-ingham]]
+[[circadian-rhythm-in-plants]]
 - [[ingham-anaerobic-vs-aerobic-compost-tea]]
 - [[humic-acids-soil-biology-ingham]]
 - [[anaerobic-rumen-fungi-biology-herbivore-digestion]]

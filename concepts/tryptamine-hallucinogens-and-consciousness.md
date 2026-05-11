@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-tryptamine-hallucinogens-and-consciousness]] Consciousness
+title: Tryptamine Hallucinogens And Consciousness
 aliases:
   - Tryptamines and mind
   - Psychedelic consciousness

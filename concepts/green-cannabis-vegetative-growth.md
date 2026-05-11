@@ -1,5 +1,5 @@
 ---
-title: Green [[cannabis-vegetative-growth-stage]]
+title: "Green [[cannabis-vegetative-growth-stage]]"
 created: 2026-04-26
 updated: 2026-04-25
 sources:

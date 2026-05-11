@@ -56,7 +56,7 @@ organizing center for tip growth.
 
 ## Invasive Growth Strategies
 
-Plant [[cordyceps-insect-pathogenic-fungi]] employ a variety of strategies to penetrate and
+Plant [[Cordyceps]] employ a variety of strategies to penetrate and
 colonize host tissues. Some fungi, such as the [[rice-blast-fungus-functional-genomics]]
 [[fungi-in-the-environment-rice-blast-magnaporthe-grisea]], develop specialized [[fungal-appressorium-and-infection-structures]] called appressoria.
 These dome-shaped cells generate enormous turgor pressures, up to 80

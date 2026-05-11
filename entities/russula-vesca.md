@@ -13,7 +13,7 @@ tags:
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Bills, G.F. (1998). "Russula." In: [[psilocybin-mushroom-biology-chemistry]] and [[cotter-mushroom-products-and-value-added-applications]]. Springer.
+  - Bills, G.F. (1998). "Russula." In: psilocybin-mushroom-biology-chemistry and cotter-mushroom-products-and-value-added-applications. Springer.
   - Kibby, G. (2011). "Russula." In: Mushrooms and Toadstools. Bloomsbury.
   - Knudsen, H. & Vesterholt, J. (2012). Funga Nordica. Nordsvamp.
   - Romagnesi, H. (1967). Les Russules d'Europe et d'Afrique du Nord. Bordas.

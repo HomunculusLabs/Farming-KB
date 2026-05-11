@@ -4,7 +4,8 @@ created: 2026-04-12
 updated: 2026-04-12
 type: concept
 tags: [permaculture, animal-husbandry, forage, equipment, livestock, design, construction]
-sources: []
+sources:
+  - "raw/papers/bill-mollison-permaculture-design-course.md"
 ---
 
 # Permaculture Chicken Tractors

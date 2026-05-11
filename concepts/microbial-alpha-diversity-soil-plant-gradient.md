@@ -1,5 +1,5 @@
 ---
-title: Microbial Alpha Diversity Soil Plant Gradient
+title: Microbial [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] Soil Plant Gradient
 created: 2026-04-28
 tags: [microbiome, diversity, soil-science]
 date: 2026-04-28
@@ -17,13 +17,13 @@ Alpha diversity (within-sample microbial richness) in Cannabis follows a
 consistent pattern: it peaks in bulk soil, decreases slightly in the
 rhizosphere, and drops dramatically in the endorhiza. This gradient reflects
 the progressive filtering of microbial diversity as bacteria transition from
-the open soil environment through the root zone and into root tissue. Winston
+the open soil environment through the [[cervantes-root-zone-heating]] and into root tissue. Winston
 et al. (2014) quantified this pattern using both observed species counts and
 the chao1 richness estimator across two experiments.
 
 ## The Diversity Gradient Pattern
 
-The alpha diversity gradient follows a consistent three-step pattern:
+The [[cannabis-alpha-diversity-gradient-bulk-soil-rhizosphere-endorhiza]] follows a consistent three-step pattern:
 
 1. **Bulk soil**: Highest diversity, representing the full complement of
    soil microbial life adapted to the local edaphic conditions.
@@ -72,7 +72,7 @@ experiment, but only in the bulk soil and rhizosphere compartments:
 
 The convergence of endorhiza diversity across soil types supports the
 two-tier [[two-tier-selection-model-plant-microbiome]]: despite different starting diversities in the
-soil, the plant selects a similarly diverse [[proteobacteria-dominance-cannabis-endorhiza-community]] regardless
+soil, the plant selects a similarly diverse [[Proteobacteria]] regardless
 of soil origin.
 
 ## Experiment 1: Shallow Sequencing Results

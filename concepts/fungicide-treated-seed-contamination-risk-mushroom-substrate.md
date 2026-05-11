@@ -52,7 +52,7 @@ and inhibit fundamental fungal cellular processes:
 - **Strobilurins (azoxystrobin)**: Inhibit [[electron-transport-chain-mitochondrial-respiration]] at complex III,
   essentially starving the fungal cell of ATP.
 
-These compounds are not selective for [[cordyceps-insect-pathogenic-fungi]] — they affect all fungi
+These compounds are not selective for [[Cordyceps]] — they affect all fungi
 indiscriminately, including cultivated mushroom species.
 
 ### Contact Fungicides

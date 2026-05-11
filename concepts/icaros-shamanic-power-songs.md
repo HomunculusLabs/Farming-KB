@@ -1,5 +1,5 @@
 ---
-title: [[icaros-shamanic-chanting]] [[icaros-power-songs]]
+title: Icaros Shamanic Power Songs
 source: [[ayahuasca-visions]]
 topics:
   - icaros

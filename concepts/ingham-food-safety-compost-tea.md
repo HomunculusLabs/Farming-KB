@@ -73,7 +73,7 @@ Pathogens become a risk when:
   pockets where E. coli can proliferate
 - Compost is not properly made (incomplete [[ingham-compost-tea-pathogen-safety-coliforms-ecoli]]
 
-- [[compost-tea-brewing-equipment-ingham]]
+- [[circadian-rhythm-in-plants]]
 ## Practical Considerations
 
 Successful implementation of Food Safety and Human Pathogens in Compost Tea requires attention to

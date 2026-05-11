@@ -1,5 +1,5 @@
 ---
-title: [[solomon-garden-center-seedling-traps-transplant-buyer-awareness]] Centers Seedling Traps
+title: "[[solomon-garden-center-seedling-traps-transplant-buyer-awareness]] Centers Seedling Traps"
 created: 2026-04-26
 tags:
   - gardening

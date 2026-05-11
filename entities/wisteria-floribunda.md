@@ -8,7 +8,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - "Valder, P. (1995). Wisterias: A [[allen-australian-psilocybe-species-comprehensive-guide]]. Timber Press."
+  - "Valder, P. (1995). Wisterias: A allen-australian-psilocybe-species-comprehensive-guide. Timber Press."
   - "Miller, R. & Koday, N. (2021). \"Wisteria floribunda.\" USDA NRCS PLANTS Database."
   - "RHS (2023). Wisteria floribunda. Royal Horticultural Society."
 ---

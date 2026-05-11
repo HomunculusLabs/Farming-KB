@@ -1,5 +1,5 @@
 ---
-title: Oil Drum Sterilizer Mushroom Substrate Bags
+title: "Oil Drum Sterilizer Mushroom Substrate Bags"
 created: 2026-05-08
 updated: 2026-05-09
 type: concept
@@ -38,15 +38,15 @@ The drum is filled with water to the designated level and heated until it
 reaches a rolling boil. Substrate bags, typically polypropylene bags filled
 with sawdust-based substrate at 60 to 65 percent moisture content, are loaded
 onto the grate. The lid is placed on the drum. Once steam begins escaping from
-the drum, the timer starts. For pasteurization of oyster mushroom substrate,
+the drum, the timer starts. For pasteurization of [[oyster-mushroom-substrate-materials-preparation]],
 the standard treatment is approximately 6 to 8 hours at atmospheric pressure.
 
 After the treatment period, the heat source is removed and the bags are allowed
 to cool slowly inside the drum for several hours. Rapid cooling can cause
 condensation inside the bags, which may create overly wet spots favorable to
 contamination. Once bags are cool enough to handle (below 30 degrees Celsius),
-they are transferred to the inoculation area for spawning with mushroom grain
-spawn or sawdust spawn.
+they are transferred to the inoculation area for spawning with [[mushroom-grain-sterilization]]
+spawn or [[comparison-grain-spawn-vs-sawdust-spawn]].
 
 ## Safety Considerations
 
@@ -82,9 +82,9 @@ dripping free water.
 
 Substrate is packed into polypropylene bags of 2 to 5 kilogram capacity,
 depending on the species being cultivated. Bags should be packed firmly but
-not so tight that air circulation within the bag is restricted. Each bag is
+not so tight that [[stamets-growing-room-air-circulation-co2-management]] within the bag is restricted. Each bag is
 sealed with a PVC collar, cotton plug, or the neck is tied off with string
-or wire. The opening must allow gas exchange while preventing contaminant
+or wire. The opening must allow [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] while preventing contaminant
 spores from entering after sterilization.
 
 Pre-soaking substrate ingredients for 12 to 24 hours before packing can

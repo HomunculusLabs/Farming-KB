@@ -1,5 +1,5 @@
 ---
-title: Query When And How Should I Prune My [[comparison-grafting-vs-budding-fruit-trees]]
+title: Query When And How Should I Prune My Fruit Trees
 tags:
   - fruit-trees
   - pruning

@@ -1,5 +1,5 @@
 ---
-title: Cervantes [[coleman-cold-house-wind-protection-microclimate]] [[indoor-vs-outdoor-cannabis]]
+title: "Cervantes [[coleman-cold-house-wind-protection-microclimate]] [[indoor-vs-outdoor-cannabis]]"
 created: 2026-04-26
 tags: [cannabis, outdoor-growing, wind, environment, cervantes]
 date: 2026-04-25

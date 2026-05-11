@@ -1,5 +1,5 @@
 ---
-title: [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]] in Plant Defense
+title: Salicylic Acid Plant Defense
 type: concept
 tags:
   - plant-hormones

@@ -1,7 +1,7 @@
 ---
-title: Inoculation Point Taping Technique Sterile [[mushroom-bag-inoculation-short-needle-vs-long-needle]] Jarrold
+title: Inoculation Point Taping Technique Sterile Bag Inoculation Jarrold
 tags: [[mushroom-cultivation]], sterile-technique, inoculation, boil-a-bag, contamination-prevention, jarrold]
-related: [mushroom-bag-inoculation-short-needle-vs-long-needle, [[jarrold-boil-a-bag-mushroom-cultivation-method]], [[spore-syringe-preparation-jarrold-method]]]
+related: [mushroom-bag-inoculation-short-needle-vs-long-needle, [[jarrold-boil-a-bag-mushroom-cultivation-method]], [[spore-syringe-preparation-jarrold-method]]
 source: [jarrold-indoor-mushroom-growing-technique-boil-a-bag]
 created: 2026-05-10
 ---

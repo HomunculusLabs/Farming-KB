@@ -31,7 +31,7 @@ Oral active dosage: approximately 160 mg and above.
 
 Intravenous dosage producing mescaline-like effects: approximately 0.04 mM/kg.
 
-The compound appears to have moderate potency, falling somewhere between [[mda-entity-pihkal]]|MDA when administered orally.
+The compound appears to have moderate potency, falling somewhere between [[mda]]|MDA when administered orally.
 
 Duration is not well characterized but appears to be moderate.
 

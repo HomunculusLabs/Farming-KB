@@ -97,20 +97,17 @@ The development of these ideas reflects decades of practical experience
 and scientific inquiry. Traditional knowledge systems, empirical observation,
 and modern research methods have all contributed to current understanding.
 
-
 ## Cultivation Considerations
 Successful cultivation requires attention to environmental factors
 including light cycles, temperature ranges, humidity control, and
 nutrient management. Both indoor and outdoor approaches have
 distinct advantages depending on climate and regulatory context.
 
-
 ## Safety and Regulation
 Regulatory frameworks vary significantly by jurisdiction. Growers
 should consult local laws regarding cultivation, possession, and use.
 Proper identification and quality control remain essential for
 consumer safety across all production methods.
-
 
 ## See Also
 - [[blesching-cannabis-decarboxylation-and-raw-cannabis]]
@@ -125,4 +122,3 @@ consumer safety across all production methods.
 - [[blesching-cannabis-anxiety]]
 - [[blesching-cannabis-homeostasis-and-immune-regulation]]
 - [[blesching-cannabis-inflammatory-diseases]]
-

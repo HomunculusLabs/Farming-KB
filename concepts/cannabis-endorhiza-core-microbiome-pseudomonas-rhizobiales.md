@@ -32,15 +32,15 @@ of the [[two-tier-selection-model|two-tier selection model]], in which host
 plant phylogeny and conserved root architecture exert broad filtering on which
 bacterial groups gain entry into root tissues. This contrasts with the second
 tier, where cultivar-specific traits determine strain-level enrichment, as seen
-with [[methylophilus|Methylophilus]] and
-[[sphingomonas-wittichii|Sphingomonas wittichii]].
+with [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza|Methylophilus]] and
+[[sphingomonas-wittichii-maui-wowie|Sphingomonas wittichii]].
 
 ## Core Taxa and Functional Roles
 
 ### Pseudomonas
 
 Pseudomonas was among the most consistently detected genera in the Cannabis
-endorhiza. See [[pseudomonas-endophytes-cannabis]] for a detailed treatment.
+endorhiza. See [[endophytes-in-cannabis]] for a detailed treatment.
 Pseudomonas species produce siderophores, indole-3-acetic acid (IAA), and
 antimicrobial compounds active against soil-borne pathogens. Siderophore-mediated
 iron acquisition sequesters iron from fungal pathogens, IAA stimulates lateral
@@ -57,7 +57,7 @@ bulk soil, aligning with the
 [[alpha-beta-diversity-cannabis-root-microbiomes|diversity filtering]] along the
 soil-to-root continuum. Their presence in Cannabis roots suggests non-symbiotic
 endophytic nitrogen fixation, potentially contributing to
-[[nitrogen-edaphic-factor-cannabis-microbiome|nitrogen dynamics]] during
+[[edaphic-factor-ranking-nitrogen-salinity-cannabis-microbiome|nitrogen dynamics]] during
 vegetative and flowering growth stages.
 
 ### Xanthomonadaceae
@@ -89,8 +89,7 @@ Sphingobacteriales (Bacteroidetes) were core endorhiza members. See
 degrade complex plant polysaccharides, and their enrichment reflects adaptation
 to the carbon-rich root endosphere where plant cell wall degradation products
 and mucilage serve as growth substrates. Sphingobacteriales also contribute to
-[[cannabis-cultivar-specificity-microbial-selection-mechanisms|cultivar-specific
-differentiation]] at the strain level.
+[[cannabis-cultivar-specificity-microbial-selection-mechanisms|cultivar-specific differentiation]] at the strain level.
 
 ## Persistence Mechanisms
 
@@ -100,8 +99,7 @@ sources, forming biofilms on root surfaces, tolerating reactive oxygen species
 during root-microbe recognition, and producing plant growth-promoting compounds
 that reinforce the host-microbe mutualism.
 
-The [[acidobacteria-decline-rhizosphere-endorhiza-transition|decline of
-Acidobacteria]] along the same gradient highlights the selective nature of
+The [[acidobacteria-decline-rhizosphere-endorhiza-transition|decline of Acidobacteria]] along the same gradient highlights the selective nature of
 endorhiza colonization. Acidobacteria, adapted to low-nutrient oligotrophic soil,
 are largely excluded from the carbon-rich root interior, whereas core taxa
 thrive. This demonstrates that the core microbiome is defined by functional
@@ -120,7 +118,7 @@ under drought, salinity, or heavy metal exposure.
 
 While core taxa are universally present, their OTU abundance can vary by
 cultivar, representing the second tier of [[two-tier-selection-model|selection]].
-Some taxa like [[cellvibrio-root-decay-indicator-cannabis|Cellvibrio]] are not
+Some taxa like [[cellvibrio-root-decay-indicator-cannabis-endorhiza|Cellvibrio]] are not
 core beneficial members but conditionally present organisms whose abundance
 reflects root health status, with enrichment associated with root decay
 processes.
@@ -128,11 +126,11 @@ processes.
 ## See Also
 
 - [[two-tier-selection-model]]
-- [[pseudomonas-endophytes-cannabis]]
+- [[endophytes-in-cannabis]]
 - [[actinobacteria-enrichment-cannabis-endorhiza]]
 - [[bacteroidetes-strain-differentiation-cannabis-endorhiza]]
-- [[cellvibrio-root-decay-indicator-cannabis]]
-- [[methylophilus]]
-- [[sphingomonas-wittichii]]
+- [[cellvibrio-root-decay-indicator-cannabis-endorhiza]]
+- [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]]
+- [[sphingomonas-wittichii-maui-wowie]]
 - [[cannabis-cultivar-specificity-microbial-selection-mechanisms]]
 - [[alpha-beta-diversity-cannabis-root-microbiomes]]

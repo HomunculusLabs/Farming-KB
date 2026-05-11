@@ -121,23 +121,3 @@ Root vegetable storage depends on three variables: temperature, humidity, and ve
 - Larger roots store better than small ones
 
 ## Turnip Storage (Brassica rapa)
-
-### Ideal Conditions
-- Temperature: 32-35F
-- Humidity: 90-95%
-- Darkness: Important
-- Ventilation: Good
-
-### Harvest and Storage
-- Harvest before heavy frost (though light frost improves flavor)
-- Cut tops to 1/2 inch
-- Store in damp sand or sawdust
-- Storage life: 2-4 months (shorter than other roots)
-- Best eaten within 2 months for optimal texture
-
-### Common Problems
-- **Pithiness** — Woody, spongy texture from oversized or over-mature roots
-- **Strong flavor** — More pronounced with age; young turnips are milder
-- **Rapid softening** — Turnips lose quality faster than carrots or beets
-
-## Rutabaga Storage (Brassica napus)

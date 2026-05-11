@@ -9,7 +9,7 @@ sources: []
 # Fungal Bioaccumulation vs Biosorption
 
 Understanding the distinction between bioaccumulation and biosorption is
-essential for designing effective fungal [[bioremediation-strategies]]. These two
+essential for designing effective fungal [[bioremediation-monitoring-and-assessment]]. These two
 mechanisms differ fundamentally in their dependence on metabolism, kinetics,
 reversibility, and applicability to contaminated site remediation. Both
 processes are exploited in mycoremediation but require different engineering

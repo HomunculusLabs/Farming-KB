@@ -64,7 +64,7 @@ grasslands, and forest edges from sea level to 1,500 meters elevation.
 
 In India, wild populations concentrate in the Western Ghats, eastern India
 (Odisha, Jharkhand), Himalayan foothills (Uttarakhand), and peninsular India.
-Prefers partial shade, high humidity, and sandy loam soils.
+Prefers partial shade, high humidity, and [[sandy-loam-texture-cannabis-microbiome-assembly]] soils.
 
 ## Phytochemistry
 

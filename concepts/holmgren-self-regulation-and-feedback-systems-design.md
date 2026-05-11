@@ -1,5 +1,5 @@
 ---
-title: Holmgren [[ecosystem-self-regulation]] And Feedback Systems Design
+title: Holmgren Self Regulation And Feedback Systems Design
 source: [[david-holmgren]] - Permaculture: Principles & Pathways [[holmgren-beyond-sustainability]]
 source_author: David Holmgren
 concepts:

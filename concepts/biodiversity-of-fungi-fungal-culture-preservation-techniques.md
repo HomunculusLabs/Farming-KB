@@ -1,12 +1,12 @@
 ---
-title: Biodiversity Of Fungi Fungal Culture Preservation Techniques
+title: "Biodiversity Of Fungi Fungal Culture Preservation Techniques"
 source: [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] (Mueller, Bills & Foster, 2004)
 concepts: [culture-preservation, cryopreservation, lyophilization, silica-gel, fungal-culture]
 ---
 
 # Fungal Culture Preservation Techniques
 
-Maintaining living fungal cultures in a viable state is essential for taxonomic research,
+Maintaining living [[brassinosteroids-in-fungal-cultures]] in a viable state is essential for taxonomic research,
 biotechnology, plant pathology, and [[fungal-biodiversity-conservation-status]]. Chapter 3 of *Biodiversity
 of Fungi* (Mueller, Bills & Foster, 2004), by Nakasone, Peterson, and Jong, provides a
 comprehensive treatment of methods for preserving and distributing fungal cultures. The
@@ -21,9 +21,9 @@ particularly valuable for field stations and resource-limited settings.
 ### Serial Transfer on Agar
 
 The simplest approach: fungi are periodically transferred to fresh agar slants or plates,
-typically at one to six month intervals depending on growth rate and medium composition.
+typically at one to six month intervals depending on [[soil-temperature-plant-growth-rate-doubling-rule]] and medium composition.
 While straightforward, serial transfer is labor-intensive and carries significant drawbacks.
-Cultures gradually lose sporulation capacity, pathogenicity, enzyme production, and other
+Cultures gradually lose sporulation capacity, pathogenicity, [[fungal-extracellular-enzyme-production]], and other
 phenotypic traits with each passage. Genetic drift through accumulated mutations is a
 persistent risk, making serial transfer unsuitable for long-term maintenance of reference
 strains or type material.
@@ -41,7 +41,7 @@ beneath the oil layer can be technically fussy.
 
 Cultures are placed in sterile distilled water and stored at refrigeration temperatures
 (~5°C). This deceptively simple method works remarkably well for certain groups, especially
-**oomycetes**, many **basidiomycetes**, and **ectomycorrhizal fungi**. Most isolates
+**oomycetes**, many **basidiomycetes**, and **[[ectomycorrhizal-fungi]]**. Most isolates
 survive two or more years under these conditions. The technique is inexpensive, requires
 no cryoprotectants, and is widely recommended for field mycology laboratories. Sporulating
 cultures, hyphal plugs, and colonized agar pieces can all be stored by this method.

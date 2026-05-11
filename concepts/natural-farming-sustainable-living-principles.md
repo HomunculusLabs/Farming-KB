@@ -1,5 +1,5 @@
 ---
-title: [[cho-loess-powder-in-natural-farming]] [[sustainable-living-habits-for-homesteads]] Principles
+title: Natural Farming Sustainable Living Principles
 created: 2026-04-28
 tags:
   - [[permaculture]]

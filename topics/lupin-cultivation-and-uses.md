@@ -139,8 +139,8 @@ are detrimental. Lupins are notably salt-sensitive and should not be grown on sa
 ## Related Pages
 
 - [[cover-crop-species-comparison]] — Lupin alongside other cover crop species
-- [[comparison-lupin-vs-crimson-clover-green-manure]] — Detailed comparison of lupin
-  and [[comparison-lupin-vs-crimson-clover-green-manure]] as green manures
+- [[compost]] — Detailed comparison of lupin
+  and [[compost]] as green manures
 - [[comparison-fava-bean-vs-chickpea-vs-lentil-grain-legumes]] — Lupin compared with
   other cool-season grain legumes
 - [[comparison-nettle-vs-comfrey]] — [[comparison-dynamic-accumulators-vs-cover-crops]] for [[comparison-nutrient-cycling-vs-nutrient-dense-gardening]]

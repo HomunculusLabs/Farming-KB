@@ -101,20 +101,17 @@ Both approaches work. EM is convenient and consistent; IMO captures local biolog
 - [[soil-food-web-nutrient-cycling]] — the biology EM supports
 - [[compost-tea-aact]] — AACT as alternative biology delivery
 
-
 ## Practical Considerations
 Implementation requires careful attention to local conditions,
 available resources, and the specific goals of the practitioner.
 Documenting results and adapting approaches based on observed
 outcomes leads to continuous improvement over time.
 
-
 ## Integration Strategies
 Combining multiple approaches often yields better results than
 relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
-
 
 ## See Also
 - [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]]
@@ -128,4 +125,3 @@ that can amplify overall effectiveness.
 - [[jadam-methods]]
 - [[fermented-plant-extract-fpe]]
 - [[knf-vs-jadam-vs-em]] — comparison
-

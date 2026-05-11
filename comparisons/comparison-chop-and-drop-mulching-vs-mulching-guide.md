@@ -33,7 +33,7 @@ techniques available to gardeners and farmers at any scale.
 The approach eliminates the need to transport material to and from a compost
 pile, reducing labor significantly compared to conventional composting.
 Dedicated mulch-producing species like comfrey, cardoon, and daikon radish
-are planted specifically for this purpose. Cover crops such as [[comparison-lupin-vs-crimson-clover-green-manure]]
+are planted specifically for this purpose. Cover crops such as [[compost]]
 and hairy vetch are also designed for slash-in-place management, fixing
 atmospheric nitrogen that is released when plants are cut and decompose.
 

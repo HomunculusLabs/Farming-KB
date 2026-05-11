@@ -47,7 +47,7 @@ Scientists have conducted numerous studies to examine the effects of cannabis
 and cannabinoids on individuals with manic-depressive disorder. Results
 revealed that the body's own [[blesching-cannabis-ptsd-anxiety]]
 - [[blesching-cannabis-schizophrenia]]
-- [[blesching-cannabinoid-pharmacology]]
+- [[cannabinoid]]
 ## Practical Considerations
 
 When working with Cannabis and Bipolar Disorder, several practical factors should be

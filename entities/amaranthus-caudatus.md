@@ -82,7 +82,7 @@ including East Africa (Ethiopia, Kenya), South Asia (Nepal, India), and
 
 Optimal growth occurs at temperatures of 20–28°C with moderate rainfall
 (400–800 mm annually). The plant is drought-tolerant once established
-and can grow in poor, acidic, or alkaline soils.
+and can grow in poor, acidic, or [[plants-tolerant-of-alkaline-soils]].
 
 It performs best in well-drained, fertile loams but tolerates sandy and
 clay soils. Day-neutral photoperiod response allows cultivation across a

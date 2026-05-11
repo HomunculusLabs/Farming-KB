@@ -1,5 +1,5 @@
 ---
-title: Straw Substrate Yeast Extract Enrichment Preparation
+title: "Straw Substrate Yeast Extract Enrichment Preparation"
 source: "Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag - D.H. Jarrold"
 source_author: "D.H. Jarrold"
 topics: mushroom-cultivation, substrate, straw, yeast-extract, nutrition, preparation
@@ -7,7 +7,7 @@ topics: mushroom-cultivation, substrate, straw, yeast-extract, nutrition, prepar
 
 # Straw Substrate Preparation with Yeast Extract Enrichment
 
-In the Boil-a-Bag cultivation method, the substrate — the material in which [[antimicrobial-compounds-mushroom-mycelium]]
+In the Boil-a-Bag [[boil-a-bag-mushroom-cultivation-method]], the substrate — the material in which [[antimicrobial-compounds-mushroom-mycelium]]
 grows — is based on chopped straw enriched with yeast extract and supplemented with brown rice
 flour. This combination provides the carbon, nitrogen, minerals, and vitamins that mushroom
 mycelium requires for vigorous colonization and eventual fruiting. The substrate preparation
@@ -17,7 +17,7 @@ readily available materials and basic kitchen equipment.
 ## Straw as a Primary Substrate
 
 Straw serves as the primary bulk substrate in this method, providing the structural matrix and
-carbon source that supports mycelial growth. Straw is an agricultural byproduct consisting of
+carbon source that supports [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]]. Straw is an agricultural byproduct consisting of
 the dried stalks of cereal grains after the grain and chaff have been removed. It is widely
 available, inexpensive, and has been used in [[accessible-mushroom-cultivation-for-disabilities]] for decades due to its
 favorable physical and chemical properties.
@@ -41,7 +41,7 @@ aeration; pieces that are too short compact excessively and can restrict airflow
 stores, where it is sold as animal bedding. Alternatively, whole straw bales can be obtained
 from agricultural suppliers or farm stores and chopped manually using scissors, shears, or a
 mechanical chopper. Hay should not be used as a substitute, as it contains seed heads that
-can sprout and compete with the mushroom mycelium.
+can sprout and compete with the [[growing-gourmet-iconic-types-mushroom-mycelium]].
 
 - **Quantity**: The amount of straw needed depends on the number of bags being prepared. In
 Jarrold's method, six bags are typically prepared at once, requiring enough chopped straw to
@@ -50,7 +50,7 @@ firmly pack all six bags nearly to the top.
 ## Yeast Extract Soak
 
 The key nutritional enrichment in Jarrold's method is a yeast extract soak, which serves to
-both hydrate the straw and supplement it with nutrients that accelerate spore germination and
+both hydrate the straw and supplement it with nutrients that accelerate [[duggar-mushroom-life-cycle-spore-germination-fruiting]] and
 mycelial growth:
 
 - **Preparation**: One heaped tablespoon of Marmite (or equivalent yeast extract product such
@@ -74,7 +74,7 @@ the metabolic enzymes that drive spore germination and early mycelial growth.
 - **Pasteurization effect**: The use of boiling water serves a dual purpose — it hydrates the
 straw and provides a degree of pasteurization by killing many of the competitor organisms
 present on the straw. While this initial hot water treatment does not achieve full
-sterilization (which is accomplished later in the pressure cooker), it significantly reduces
+sterilization (which is accomplished later in the [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]), it significantly reduces
 the initial microbial load on the substrate.
 
 ## Draining

@@ -26,7 +26,7 @@ The gills are adnexed to free, with a mottled appearance characteristic of the g
 
 ## Distribution and Habitat
 
-Like other Copelandia species, *C. anomalus* is presumed to be a tropical to subtropical species found on herbivore dung, particularly that of cattle, horses, and other grazing animals. The genus is widely distributed in tropical and subtropical regions worldwide, including [[psilocybe-southeast-asia-pacific]], the Pacific Islands, Central and South America, Africa, and parts of Australia. In Australia, [[copelandia-cambodginiensis]] are the most commonly encountered Copelandia species, found in northern Queensland, the Northern Territory, and the Kimberley region of Western Australia during the wet season (November to March).
+Like other Copelandia species, *C. anomalus* is presumed to be a tropical to subtropical species found on herbivore dung, particularly that of cattle, horses, and other grazing animals. The genus is widely distributed in tropical and subtropical regions worldwide, including [[psilocybe-southeast-asia-pacific]], the Pacific Islands, Central and South America, Africa, and parts of Australia. In Australia, [[Copelandia]] are the most commonly encountered Copelandia species, found in northern Queensland, the Northern Territory, and the Kimberley region of Western Australia during the wet season (November to March).
 
 In the context of the Australasian region, Copelandia species are found in northern Australia, New Zealand, and Pacific Islands including Fiji, Samoa, and Tonga. The species is closely associated with the "cattle dung ecosystem" — a specialized niche where numerous coprophilous fungi compete for limited resources on fresh dung deposits. Succession patterns on dung typically see Copelandia species fruiting within 1–3 weeks of deposition, after preliminary colonizers but before the substrate is fully exhausted.
 
@@ -49,7 +49,7 @@ Distinguishing *C. anomalus* from other Copelandia species requires careful [[fu
 ## Similar Species
 
 Within the [[guzman-allen-gartz-copelandia-genus-diversity-biogeography]], *C. anomalus* may be confused with several more commonly encountered species:
-- **Copelandia cyanescens**: The most widespread species; typically larger with more pronounced bluing. See [[copelandia-cambodginiensis]].
+- **Copelandia cyanescens**: The most widespread species; typically larger with more pronounced bluing. See [[Copelandia]].
 - **Panaeolus species**: Non-psychoactive species in the same family with mottled gills but lacking the intense blue bruising and potent alkaloid content. See [[panaeolus-cinctulus]].
 
 ## Cultural Significance

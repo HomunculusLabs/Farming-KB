@@ -1,5 +1,5 @@
 ---
-title: "Compost Extract vs Compost Leachate"
+title: "Compost [[comparison-fermented-plant-extract-vs-compost-tea]] Leachate"
 tags: [comparison, compost-extract, compost-leachate, compost-methods, soil-amendments]
 date: 2026-05-10
 updated: 2026-05-10
@@ -10,7 +10,7 @@ sources: []
 
 ## Overview
 
-Compost extract and compost leachate are both liquid products derived from compost, but they differ significantly in their production methods, biological content, and applications. While they are often confused or mistakenly called "compost tea," each serves distinct purposes in soil and plant management.
+Compost extract and compost leachate are both liquid products derived from compost, but they differ significantly in their [[hashish-production-methods]], biological content, and applications. While they are often confused or mistakenly called "compost tea," each serves distinct purposes in soil and plant management.
 
 ## Compost Extract
 
@@ -28,7 +28,7 @@ Compost extract is created by actively agitating compost in water to physically 
 
 - Contains organisms that were present on the surface of compost particles
 - Organisms are dormant and have not had time to wake up or multiply
-- Biological diversity is limited to what was on the compost surface
+- [[fungi-convention-on-biological-diversity]] is limited to what was on the compost surface
 - No population growth occurs during the extraction process
 - Primarily contains bacteria and fungi that were easily dislodged
 
@@ -44,8 +44,8 @@ Compost extract is created by actively agitating compost in water to physically 
 
 - Limited biological diversity compared to actively aerated compost tea
 - Dormant organisms may take time to become active in soil
-- Less effective for disease suppression than brewed compost tea
-- Still requires quality compost as starting material
+- Less effective for [[aact-banana-cultivation-tropical-crop-disease-suppression-ingham]] than brewed compost tea
+- Still requires quality compost as [[shirota-4-hydroxyindole-acetyl-protection-psilocin-synthesis-starting-material]]
 - Not suitable as a foliar spray due to larger particle size
 
 ## Compost Leachate
@@ -63,7 +63,7 @@ Compost leachate is the most passive liquid product derived from compost, create
 ### Biological Content
 
 - Very limited biological content; primarily soluble nutrients
-- May contain anaerobic organisms if compost had anaerobic zones
+- May contain [[ingham-anaerobic-organisms-role-soil]] if compost had anaerobic zones
 - Minimal beneficial organisms present
 - Contains primarily soluble nutrients, enzymes, hormones, humic and fulvic acids
 - Plant growth responses come from nutritional content rather than biological activity
@@ -122,6 +122,6 @@ Leachate quality is highly variable and depends on compost age, composition, and
 
 - [[aact-compost-extract-leachate-tea-distinctions-ingham]]
 - [[actively-aerated-compost-tea]]
-- [[compost-tea-brewing-methods]]
+- [[circadian-rhythm-in-plants]]
 - [[compost-biology-organisms]]
 - [[vermicompost-tea]]

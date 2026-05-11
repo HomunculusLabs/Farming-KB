@@ -1,5 +1,5 @@
 ---
-title: [[cotter-off-grid-mushroom-cultivation]] [[cervantes-grow-room-electricity-basics]]
+title: "[[cotter-off-grid-mushroom-cultivation]] [[cervantes-grow-room-electricity-basics]]"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

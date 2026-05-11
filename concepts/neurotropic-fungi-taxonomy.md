@@ -1,5 +1,5 @@
 ---
-title: [[copelandia-panaeoloideae-neurotropic-fungi-taxonomy-distribution]]
+title: Neurotropic Fungi Taxonomy
 created: 2026-05-11
 source: Guzmán, Allen & Gartz (2000) - A Worldwide Geographical Distribution of the Neurotropic Fungi
 tags: [mycology, taxonomy, neurotropic, psilocybin, hallucinogenic, fungi]

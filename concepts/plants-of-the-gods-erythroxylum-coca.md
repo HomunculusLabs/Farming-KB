@@ -1,5 +1,5 @@
 ---
-title: Plants Of The Gods [[erythroxylum-coca]]
+title: "Plants Of The Gods Erythroxylum Coca"
 created: 2026-04-28
 tags:
   - ethnobotany
@@ -62,7 +62,7 @@ large doses to induce visions, functioning as a mild hallucinogen.
 ## Psychoactive Properties
 
 The primary active alkaloid in coca is cocaine
-(benzoylmethylecgonine), along with other [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]]
+(benzoylmethylecgonine), along with other [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] tropane alkaloids flying salves tropane alkaloids [[schultes-witches-ointments-flying-salves]]
 including ecgonine, benzoylecgonine, and methylecgonine. The total
 alkaloid content of dried coca leaves typically ranges from 0.5%
 to 1.5%. In traditional chewing, the effects are mild stimulation,

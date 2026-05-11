@@ -42,7 +42,7 @@ climate or soil requirements that limit their adaptability.
 
 Cover crops are temporary plantings selected and managed for their 
 soil-building properties rather than direct food harvest. Common species 
-include [[comparison-lupin-vs-crimson-clover-green-manure]], winter rye, hairy vetch, field peas, buckwheat, and 
+include [[compost]], winter rye, hairy vetch, field peas, buckwheat, and 
 daikon radish. They are planted during seasonal windows when main crops are not 
 growing, such as over winter or between successions. Cover crops prevent soil 
 erosion by maintaining living root systems and canopy cover, fix atmospheric 

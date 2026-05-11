@@ -78,3 +78,23 @@ maintaining a small willow coppice, a permaculture designer has a
 perpetual supply of rooting hormone, basketry material, filter
 charcoal, and propagation stock, all from a single multi-functional
 element in the system.
+
+## Practical Applications
+
+These principles can be applied in permaculture design, sustainable agriculture, and ecological restoration projects. Practitioners integrate these approaches to build resilient food production systems and healthy soil ecosystems. Design strategies emphasize working with natural patterns.
+
+## Design Considerations
+
+When implementing these techniques, consider local climate conditions, soil type, water availability, and existing vegetation patterns. Successful integration requires observation over multiple seasons and adaptive management based on system feedback.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
+
+## See Also
+
+- [[mollison-designers-natural-swimming-pools-and-water-purification]]
+- [[mollison-designers-wool-insulation-and-natural-textiles]]
+- [[mollison-designers-wind-energy-and-windmills-for-water-supply]]
+- [[mollison-designers-water-purification-and-storage-principles]]
+- [[mollison-designers-trout-and-cool-water-aquaculture-species]]

@@ -99,20 +99,17 @@ The development of these ideas reflects decades of practical experience
 and scientific inquiry. Traditional knowledge systems, empirical observation,
 and modern research methods have all contributed to current understanding.
 
-
 ## Ecological Role
 Fungal organisms play critical roles in ecosystem functioning through
 decomposition, nutrient cycling, and symbiotic relationships with plants.
 Understanding their ecological contributions informs both cultivation
 practices and conservation efforts across diverse habitats.
 
-
 ## Research Directions
 Current research explores applications in bioremediation, sustainable
 agriculture, and pharmaceutical development. Advances in genomic
 sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
-
 
 ## See Also
 - [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
@@ -127,4 +124,3 @@ and expand our understanding of fungal biology.
 - [[cancer-medicinal-mushrooms-maitake-d-fraction]]
 - [[cancer-medicinal-mushrooms-hericium-erinaceus]]
 - [[cancer-medicinal-mushrooms-psk-gastric-cancer]]
-

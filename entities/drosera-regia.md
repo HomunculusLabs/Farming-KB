@@ -72,7 +72,7 @@ Propagation is most commonly achieved through leaf cuttings, root cuttings, or d
 
 The mucilage secreted by the tentacles of *D. regia* is among the most viscous of any sundew species, capable of immobilizing large prey including flies, moths, and small beetles.
 
-When prey contacts the tentacles, the glandular heads bend toward the capture site within minutes, a nastic response driven by auxin-mediated cell expansion.
+When prey contacts the tentacles, the glandular heads bend toward the capture site within minutes, a nastic response driven by auxin-mediated acropetal cell expansion stipe elongation mushroom development [[evaporative-demand-gradient-stipe-elongation-mechanism-badham-1982]] [[bloomfield-mushroom-development-without-meristems]].
 
 The leaf blade itself may slowly fold over the trapped insect over several hours, increasing contact surface area for enzyme secretion.
 

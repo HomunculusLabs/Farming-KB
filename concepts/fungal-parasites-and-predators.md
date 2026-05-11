@@ -21,7 +21,7 @@ Nematophagous (nematode-eating) fungi are a diverse group that trap, kill, and d
 
 Species in the genera Arthrobotrys, Dactylaria, and Monacrosporium produce specialized trapping structures:
 
-- **Adhesive knobs**: Small sticky knobs on short branches that adhere to passing nematodes (Arthrobotrys oligospora)
+- **Adhesive knobs**: Small sticky knobs on short branches that adhere to passing nematodes ([[arthrobotrys-oligospora]])
 - **Adhesive networks**: Three-dimensional webs of sticky hyphae (Arthrobotrys conoides)
 - **Constricting rings**: Hyphal rings that swell inward in under 0.1 seconds when a nematode passes through, mechanically crushing it (Arthrobotrys dactyloides)
 - **Non-constricting rings**: Sticky ring structures that hold nematodes until they die
@@ -53,16 +53,16 @@ Mechanisms of action:
 2. **Antibiosis**: Production of secondary metabolites (trichothecenes, gliotoxin, peptaibols) that inhibit or kill other fungi
 3. **Competition**: Rapid colonization of resources, outcompeting pathogens for space and nutrients
 4. **Enzyme production**: Chitinases, glucanases, and proteases that degrade fungal cell walls
-5. **Induced systemic resistance**: Priming plant immune responses
+5. **[[endophytic-mycorrhizal-induced-systemic-resistance]]**: Priming plant immune responses
 
 Trichoderma is used against Botrytis (gray mold), Rhizoctonia (damping off), Fusarium wilt, Pythium, and Sclerotinia. Available as seed treatments, soil drenches, and foliar sprays.
 
 ### Other Mycoparasites
 
 - **Gliocladium virens**: Related to Trichoderma, used against Pythium and Rhizoctonia
-- **Ampelomyces quisqualis**: Parasitizes powdery mildew fungi; used as a biocontrol agent in vineyards and greenhouses
-- **Pythium oligandrum**: A mycoparasitic Pythium that attacks other Pythium species and some plant pathogenic fungi
-- **Sporidesmium sclerotivorum**: Parasitizes Sclerotinia sclerotioria, destroying its overwintering structures
+- **[[ampelomyces-quisqualis]]**: Parasitizes powdery mildew fungi; used as a biocontrol agent in vineyards and greenhouses
+- **[[pythium-oligandrum]]**: A mycoparasitic Pythium that attacks other Pythium species and some plant pathogenic fungi
+- **[[sporidesmium-sclerotivorum]]**: Parasitizes Sclerotinia sclerotioria, destroying its overwintering structures
 
 ## Entomopathogenic Fungi
 
@@ -83,7 +83,7 @@ Fungi that infect and kill insects. See [[fungal-symbiosis-types]] for contrast 
 
 ### Cordyceps and Ophiocordyceps
 
-- Famous for infecting and manipulating insect behavior (e.g., Ophiocordyceps unilateralis and "zombie ants")
+- Famous for infecting and manipulating insect behavior (e.g., [[ophiocordyceps-unilateralis]] and "zombie ants")
 - Spores infect ants, fungal growth takes over the nervous system, ants climb vegetation and bite down, then the fruiting body erupts from the ant's head to release spores
 - Over 400 species of Cordyceps sensu lato described, each typically specific to one insect genus
 
@@ -117,5 +117,5 @@ Challenges:
 - [[fungal-symbiosis-types]] — Mutualistic fungal relationships
 - [[mycorrhizal-inoculation-guide]] — Beneficial fungal inoculation for crops
 - [[fungal-dna-barcoding]] — Identifying these fungi in environmental samples
-- [[cordyceps-and-entomopathogenic-fungi]]
+- [[Cordyceps]]
 - [[fungal-ecology]]

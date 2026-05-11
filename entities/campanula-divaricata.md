@@ -11,8 +11,8 @@ tags:
 date: 2026-05-10
 updated: 2026-05-10
 sources:
-  - Shetler, S.G. & Morin, N.R. (1986). "Campanula L." In: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (eds.), Flora of North America North of Mexico, Vol. 19. Oxford University Press.
-  - Weakley, A.S. (2020). Flora of the Southeastern United States. University of North Carolina Herbarium.
+  - Shetler, S.G. & Morin, N.R. (1986). "Campanula L." In: Flora huckleberries-and-wild-berries-of-north-america Editorial Committee (eds.), Flora [[huckleberries-and-wild-berries-of-north-america]] North of Mexico, Vol. 19. Oxford University Press.
+  - Weakley, A.S. (2020). Flora of the Southeastern United States. University of [[north-carolina-mycodiversity]] Herbarium.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern United States and Adjacent Canada. New York Botanical Garden.
 ---
 
@@ -22,7 +22,7 @@ sources:
 
 **Campanula divaricata**, commonly called the **Appalachian bellflower** or **spreading bellflower**, is a delicate perennial species in the family Campanulaceae. It is native to the Appalachian Mountain region of [[polypore-fungi-eastern-north-america]].
 
-The species is characterized by its slender, diffusely branched stems bearing small, nodding, pale blue to white campanulate flowers. It is one of the few North American *Campanula* species adapted to shaded, mesic forest habitats.
+The species is characterized by its slender, diffusely branched stems bearing small, nodding, pale blue to white campanulate flowers. It is one of the few [[growing-gourmet-north-american-reishi-species]] *Campanula* species adapted to shaded, mesic forest habitats.
 
 The species was first described by the French botanist André Michaux in 1803 from specimens collected during his travels through the Appalachian mountains. The type locality is in the Carolinas.
 
@@ -58,7 +58,7 @@ It grows at elevations of **300–1,500 m** in the Blue Ridge, Allegheny, and Cu
 
 Habitat includes rich, mesic cove forests, northern hardwood forests, and cool, shaded ravines. It prefers acidic to circumneutral soils derived from sandstone, shale, or metasedimentary parent material.
 
-Typical plant associates include *Acer saccharum*, *Tilia americana*, *Dryopteris intermedia*, *[[polystichum-acrostichoides]]*, *Trillium* species, and other mesophytic forest herbs.
+Typical plant associates include *[[acer-saccharum]]*, *[[tilia-americana]]*, *Dryopteris intermedia*, *[[polystichum-acrostichoides]]*, *Trillium* species, and other [[guzman-allen-gartz-mexico-mesophytic-forest-neurotropic-hotspot]] herbs.
 
 The species shows a strong fidelity to shaded, moist microsites and is rarely found in open areas. It benefits from the cool, humid microclimate provided by dense forest canopies along stream corridors.
 
@@ -66,7 +66,7 @@ The Appalachian distribution pattern is shared with many other plant species tha
 
 ## Cultivation
 
-Campanula divaricata is cultivated as a native shade-garden plant, though it remains uncommon in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]]. Native-plant nurseries in the [[bolete-fungi-appalachian-region]] occasionally offer it.
+Campanula divaricata is cultivated as a native shade-garden plant, though it remains uncommon in [[cannabinoid-pharmacology]]. Native-plant nurseries in the [[bolete-fungi-appalachian-region]] occasionally offer it.
 
 **Growing requirements:**
 - **Soil:** Humus-rich, acidic to neutral loam, consistently moist

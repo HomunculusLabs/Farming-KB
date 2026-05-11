@@ -1,5 +1,5 @@
 ---
-title: [[phototropism-darwin-plant-light-response]] [[phototropism-light-sensing]]
+title: "[[phototropism-darwin-plant-light-response]] [[phototropism-light-sensing]]"
 created: 2026-05-09
 tags:
   - plant-biology

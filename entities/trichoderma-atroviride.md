@@ -22,7 +22,7 @@ created: 2026-04-28
 
 ## Overview
 
-**Trichoderma atroviride** P. Karst. is a filamentous ascomycete fungus renowned for its biocontrol activity against plant [[cordyceps-insect-pathogenic-fungi]].
+**Trichoderma atroviride** P. Karst. is a filamentous ascomycete fungus renowned for its biocontrol activity against plant [[Cordyceps]].
 
 It is one of the most extensively studied *Trichoderma* species, functioning as an aggressive mycoparasite, plant growth promoter, and inducer of [[endophytic-mycorrhizal-induced-systemic-resistance]] in crops.
 

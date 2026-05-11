@@ -1,5 +1,5 @@
 ---
-title: [[green-cannabis-grow-bible-breeding-genetics-and-true-breeding]] Bible [[cervantes-vegetative-phase]] Management
+title: Green Cannabis Grow Bible Vegetative Phase Management
 created: 2026-04-26
 updated: 2026-04-24
 sources:

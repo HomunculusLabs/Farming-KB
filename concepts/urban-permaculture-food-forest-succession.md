@@ -1,5 +1,5 @@
 ---
-title: Urban Permaculture Food Forest Succession
+title: "Urban Permaculture Food Forest Succession"
 created: 2026-04-18
 updated: 2026-04-21
 type: concept
@@ -12,14 +12,14 @@ sources: [raw/papers/nicole-faires-the-ultimate-guide-to-natural-farming-and-sus
 
 By growing many different kinds of things, a diverse food system guarantees eating well year-round. When onion season is over, leek season is just beginning. When the kale starts going to seed, the first heads of lettuce are ready to harvest. In a well-designed orchard, early, mid, and late season apple trees grow right next to each other, extending the fresh fruit harvest from mid-summer through late autumn.
 
-The key principle: never rely on a single crop or single harvest window. Diversity is all about stability and abundance -- the important stuff. If this was an industrial monocrop farm, the community would have to ship in tons of food or things would get really boring.
+The key principle: never rely on a single crop or single [[harvest-window-cannabis]]. Diversity is all about stability and abundance -- the important stuff. If this was an industrial monocrop farm, the community would have to ship in tons of food or things would get really boring.
 
 ## Early, Mid, and Late Varieties
 
 Most fruit and vegetable species have been bred into early, mid, and late season varieties. By planting all three, a gardener extends the harvest window without increasing the number of beds or trees:
 
 **Apples:**
-- Early season (summer) -- Lodi, Yellow Transparent, Pristine
+- [[solomon-sprouting-seeds-and-early-season-nutrition]] (summer) -- Lodi, Yellow Transparent, Pristine
 - Mid season (early autumn) -- Gala, Honeycrisp, Granny Smith
 - Late season (late autumn/winter) -- Fuji, Braeburn, Winesap
 
@@ -44,13 +44,13 @@ A year-round eating plan follows the natural rhythm of seasons:
 
 **Late summer/early autumn:** Grapes, pears, late apples, winter squash, root crops, drying herbs
 
-**Autumn:** Late apples, persimmons, nuts, pumpkins, root vegetables in storage, kale and brassicas after frost sweetens them
+**Autumn:** Late apples, persimmons, nuts, pumpkins, [[growing-root-vegetables-guide]] in storage, kale and brassicas after frost sweetens them
 
 **Winter:** Stored root crops (potatoes, carrots, beets, turnips), stored squash, canned goods, frozen vegetables, dried herbs and fruits, winter greens (kale, collards, Brussels sprouts, mache, claytonia)
 
 ## Preservation Strategies
 
-With canning, drying, and freezing, there is no problem eating jam, pesto, and all sorts of other goodies all year round. No one ever goes hungry around a well-managed permaculture site. Preservation extends the harvest and creates food security:
+With canning, drying, and freezing, there is no problem eating jam, pesto, and all sorts of other goodies all year round. No one ever goes hungry around a well-managed [[permaculture-site-analysis]]. Preservation extends the harvest and creates food security:
 
 **Canning:**
 - Tomato sauce, salsa, jam, jelly, pickles, chutney, relish
@@ -68,7 +68,7 @@ With canning, drying, and freezing, there is no problem eating jam, pesto, and a
 - Berries freeze well for smoothies and baking
 - Cooked dishes (soups, stews, pesto in ice cube trays)
 
-**Root cellaring:**
+**[[comparison-root-cellaring-guide-vs-canning-and-preserving]]:**
 - Potatoes, carrots, beets, turnips, parsnips store for months in cool, humid conditions
 - Winter squash stores at room temperature for months
 - Onions and garlic hang in mesh bags

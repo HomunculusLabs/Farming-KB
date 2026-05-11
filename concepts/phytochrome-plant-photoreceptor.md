@@ -1,5 +1,5 @@
 ---
-title: [[phytochrome]] Plant Photoreceptor
+title: "[[phytochrome]] Plant Photoreceptor"
 source: grahamholmes-what-a-plant-knowsindd.md
 tags: [plant-biology, photobiology, plant-senses]
 created: 2026-05-09

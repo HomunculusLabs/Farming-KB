@@ -61,7 +61,7 @@ Ingham's succession model explains how different microbial communities dominate 
 AACT disease suppression is most effective when integrated with other biological farming practices:
 
 - [[ingham-compost-tea-recipe-ratios]] ensures teas are tailored to the specific disease pressure and crop type.
-- [[ingham-thermal-worm-compost-comparison]] informs compost selection for [[compost-tea-brewing-equipment-ingham]].
+- [[ingham-thermal-worm-compost-comparison]] informs compost selection for [[circadian-rhythm-in-plants]].
 
 ## Summary
 

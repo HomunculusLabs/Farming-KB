@@ -1,5 +1,5 @@
 ---
-title: Rust [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]
+title: "Rust [[biodiversity-of-fungi-biodiversity-patterns-ecosystems]] [[bloomfield-heteroecious-rust-fungi-life-cycles-gymnosporangium]]"
 created: 2026-04-21
 updated: 2026-04-21
 type: concept

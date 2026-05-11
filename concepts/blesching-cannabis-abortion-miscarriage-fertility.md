@@ -16,7 +16,7 @@ type: concept
 
 # Cannabis, Abortion, Miscarriage, and Fertility
 
-The [[blesching-cannabinoid-pharmacology]] interactions:
+The [[cannabinoid]] interactions:
 
 - Low doses may support a physiological process
 - High doses may inhibit the same process

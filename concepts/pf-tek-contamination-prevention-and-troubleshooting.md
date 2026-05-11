@@ -1,5 +1,5 @@
 ---
-title: Pf Tek [[cervantes-cannabis-contamination-prevention]] And Troubleshooting
+title: Pf Tek Contamination Prevention And Troubleshooting
 concept_type: topic
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 created: 2026-05-09

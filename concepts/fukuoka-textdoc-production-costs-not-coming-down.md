@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-textdoc-absence-no-fertilizer-tests]] Production Costs Not Coming Down
+title: Fukuoka Textdoc Production Costs Not Coming Down
 created: 2026-04-28
 tags: [economics, production-costs, [[fukuoka-textdoc-sericulture-entanglement-natural-scientific-farming|scientific]-farming, food-prices, critique]
 date: 2026-04-28

@@ -82,7 +82,7 @@ Fodder kale, oilseed radish, tyfon (a turnip x Chinese cabbage hybrid), rape, an
 On clay soils in mild areas, don't overwinter brassicas unless you can yank them out by hand when blooming begins. Sow at least 40 days before the end of the autumn growing season. Their leaves protect the ground in autumn; their huge taproots really open up the soil.
 
 ### Winter Legumes
-Annual legumes are the mainstay for overwintering in mild climates. Beware of perennial legumes which grow more slowly their first year and may be a bother the next. [[comparison-lupin-vs-crimson-clover-green-manure]] is widely used in Oregon. Hairy vetch is popular. Lupins and small-seeded fava beans are also suited.
+Annual legumes are the mainstay for overwintering in mild climates. Beware of perennial legumes which grow more slowly their first year and may be a bother the next. [[compost]] is widely used in Oregon. Hairy vetch is popular. Lupins and small-seeded fava beans are also suited.
 
 ## No-Till from Cover Crops
 

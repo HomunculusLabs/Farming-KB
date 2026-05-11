@@ -118,7 +118,7 @@ As the strongest community structuring factor, nitrogen management should be a p
 
 ## Related Concepts
 
-- [[rhizosphere-microbiome-two-tier-selection-model]]
+- [[Rhizosphere]]
 - [[cannabis-endorhiza-bacterial-communities]]
 - [[cultivar-specificity-plant-microbiome]]
 - soil ph and microbial activity

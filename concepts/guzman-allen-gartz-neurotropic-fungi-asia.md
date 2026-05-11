@@ -50,7 +50,7 @@ Southeast Asia is a major center of tropical neurotropic fungal diversity, parti
 - **Indonesia (Java, Sumatra)** — Psilocybe subaeruginascens var. subaeruginascens was documented from Java by Singer and Smith (1958). Copelandia cyanescens is widespread, reported by Wasson (1959a), Heim (1960), and Allen and Gartz (1997). Boletus flammeus, B. nigerrimus, and B. nigroviolaceus were documented from Singapore by Corner (1972), though Ott (1993) questioned whether these boletes are truly neurotropic.
 - **Thailand** — Psilocybe samuiensis was described from Ko Samui by Guzmán, Bandala, and Allen (Gartz et al., 1994). [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]], Copelandia cyanescens, and Dictyophora indusiata are also documented.
 - **Cambodia** — [[amanita-muscaria]]
-- [[copelandia-cambodginiensis]]
+- [[Copelandia]]
 ## Practical Considerations
 
 When working with Neurotropic Fungi of Asia: Distribution, Taxonomy, and Ethnobotany, several practical factors should be

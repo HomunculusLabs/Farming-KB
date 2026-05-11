@@ -52,7 +52,7 @@ Caribbean, Africa, Asia, and Oceania. Key species include:
 - **Copelandia bispora**: A distinctive species producing only two spores
   per basidium rather than the typical four. Found in tropical America.
 
-- **[[copelandia-cambodginiensis]]**: Described from Cambodia, this species
+- **[[Copelandia]]**: Described from Cambodia, this species
   is widespread in Southeast Asia. It is commonly found on bovine dung
   in rice paddies and pastures.
 

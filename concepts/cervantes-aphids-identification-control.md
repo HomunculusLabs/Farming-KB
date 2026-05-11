@@ -1,5 +1,5 @@
 ---
-title: Cervantes Aphids [[cervantes-spider-mites-identification-control]]
+title: "Cervantes Aphids [[cervantes-spider-mites-identification-control]]"
 created: 2026-04-28
 tags:
   - cannabis

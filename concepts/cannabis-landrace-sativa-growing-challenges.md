@@ -31,7 +31,7 @@ The most significant barrier to growing landrace sativas is their flowering time
 
 ### Why Sativas Flower So Long
 
-Landrace sativas evolved near the equator, where day length remains relatively constant throughout the year. In their native environments, these plants rely on other environmental cues beyond photoperiod to trigger and complete flowering. When grown at higher latitudes, the changing day length can confuse the plant's [[chamovitz-circadian-rhythm-internal-clock-plants]], leading to extended or irregular flowering patterns.
+Landrace sativas evolved near the equator, where day length remains relatively constant throughout the year. In their native environments, these plants rely on other environmental cues beyond photoperiod to trigger and complete flowering. When grown at higher latitudes, the changing day length can confuse the plant's [[chrysanthemum]], leading to extended or irregular flowering patterns.
 
 ### Strategies for Managing Flowering Time
 

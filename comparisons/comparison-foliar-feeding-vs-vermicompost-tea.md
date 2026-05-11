@@ -58,7 +58,7 @@ vermicomposting that can enhance seedling vigor and root development.
 | Application Targets | Leaves (stomata and cuticle) | Leaves and soil (drench) |
 | Nutrient Range | Limited to what is dissolved in spray | Broad spectrum from vermicompost |
 | [[aact-disease-suppression-mechanisms-ingham]] | None (may increase if overhead) | Strong (competitive microbial exclusion) |
-| Cost | Low (basic nutrients and sprayer) | Moderate ([[compost-tea-brewing-equipment-ingham]], quality castings) |
+| Cost | Low (basic nutrients and sprayer) | Moderate ([[circadian-rhythm-in-plants]], quality castings) |
 | Complexity | Low (mix and spray) | Moderate (brewing requires monitoring and timing) |
 | Best For | Acute deficiency correction, stress recovery | Ongoing plant health, disease prevention, soil building |
 | Drawbacks | Does not fix soil problems, burn risk, transient | Requires fresh ingredients, strict brewing hygiene, short shelf life |

@@ -1,5 +1,5 @@
 ---
-title: [[neurotropic-fungi-classification]] Four Groups System
+title: Guzman Neurotropic Fungi Classification Four Groups Chemistry System
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 source_author: Guzmán, Allen & Gartz (2000)
 type: concept

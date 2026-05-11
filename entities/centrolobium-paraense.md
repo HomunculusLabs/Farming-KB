@@ -18,7 +18,7 @@ sources:
 
 ## Overview
 
-**Centrolobium paraense** is a Neotropical timber tree in the family Fabaceae, subfamily Faboideae, commonly known as **araribá** or **pau-rainha** in Brazil. It is renowned for producing a dense, durable hardwood with a striking yellow-orange heartwood that darkens to reddish-brown with age.
+**Centrolobium paraense** is a Neotropical [[dalbergia-sissoo-permaculture-timber-tree]] in the family Fabaceae, subfamily Faboideae, commonly known as **araribá** or **pau-rainha** in Brazil. It is renowned for producing a dense, durable hardwood with a striking yellow-orange heartwood that darkens to reddish-brown with age.
 
 The species reaches heights of 25–35 meters in natural forest settings, with a straight cylindrical bole up to 18 meters. It is valued both as a commercial timber species and as an ornamental street tree in tropical urban landscapes.
 

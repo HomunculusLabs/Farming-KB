@@ -1,0 +1,131 @@
+---
+title: "Fukuoka Pesticide Carnage Spider Firefly Dragonfly"
+source: The Natural Way of Farming - [[masanobu-fukuoka]]
+tags: [fukuoka, natural-farming, pesticides, spiders, fireflies, dragonflies, rice-farming, ecological-balance, biodiversity]
+created: 2026-05-11
+---
+
+# Pesticide Carnage: The Destruction of Spiders, Fireflies, and Beneficial Insects in Rice Fields
+
+Fukuoka offers one of the most vivid and damning accounts of pesticide
+application ever written in agricultural literature. His description of what
+happens when toxic chemicals are sprayed on Japanese rice fields reveals not
+merely collateral damage but a systematic extermination of the very organisms
+that protect crops from pests.
+
+## The Scale of Application
+
+"Toxic chemicals are applied at least eight times a year on Japanese rice
+fields." This extraordinary frequency of chemical application forms the
+backdrop against which Fukuoka poses his central question: "Is it not odd
+then that hardly any agricultural scientists have bothered to investigate why
+the amount of insect damage in these fields remains largely the same as in
+fields where no pesticides are used?"
+
+This single observation encapsulates the futility of chemical pest control.
+Despite eight annual applications of toxic chemicals, rice leafhopper damage
+remains essentially unchanged. The target pest is not controlled; what is
+controlled—and destroyed—is everything else.
+
+## The First Application: Spiders and Fireflies
+
+"The first application of pesticide does not kill off the hordes of rice
+leafhoppers, but the tens of thousands of young spiders on each square yard
+of land simply vanish, and the swarms of fireflies that fly up from the
+stands of grass disappear at once."
+
+Consider the magnitude of what is lost. Tens of thousands of spiders per
+square yard—these are the primary predators of leafhoppers and other rice
+pests. Fukuoka describes his own natural farm: "As I walk through the paddy
+field, spiders and frogs scramble about, locusts jump up, and droves of
+dragonflies hover overhead. Whenever a large outbreak of leafhoppers occurs,
+the spiders multiply too, without fail."
+
+This natural predator-prey dynamic is exactly what pesticides destroy. The
+spiders, which would multiply in response to leafhopper outbreaks and
+suppress them naturally, are eliminated by the very chemicals meant to solve
+the leafhopper problem. The pest survives; its natural enemy does not.
+
+The fireflies, too, vanish at once. These are not merely beautiful insects
+but indicators of a healthy aquatic ecosystem in the rice paddy. Their
+disappearance signals the beginning of a cascade of destruction through the
+entire paddy food web.
+
+## The Second Application: Chalcid Flies, Dragonfly Larvae, Tadpoles, Loaches
+
+"The second application kills off the chalcid flies, which are important
+natural predators, and leaves victim dragonfly larvae, tadpoles, and loaches."
+
+Each successive application of pesticide strips away another layer of the
+ecological protection system. Chalcid flies are parasitoid wasps that lay
+their eggs inside pest insects, providing [[fukuoka-textdoc-arrowhead-scale-ladybug-biological-control]] that no
+chemical can match. Dragonfly larvae are aquatic predators that consume
+mosquito larvae and other pests in the paddy water. Tadpoles and loaches are
+part of the aquatic food web that maintains water quality and controls
+insect populations.
+
+Fukuoka's verdict is unequivocal: "Just one look at this slaughter would
+suffice to show the insanity of the blanket application of pesticides."
+
+## The Broader Pattern: Pollinators Destroyed
+
+Fukuoka extends this analysis beyond rice to other crops. "A case in point
+is the application of toxic pesticides to apple trees and hothouse
+strawberries. This kills off pollinating insects such as bees and gadflies,
+forcing man to collect the pollen himself and artificially pollinate each of
+the blossoms."
+
+The pattern is consistent: pesticides kill beneficial organisms while
+failing to control target pests, and the farmer must then perform manually
+the services that nature once provided for free. "Although he cannot even
+hope to replace the myriad activities of all the plants, animals, and
+microorganisms in nature, man goes out of his way to block their activities,
+then studies each of these functions carefully and attempts to find
+substitutes. What a ridiculous waste of effort."
+
+## The Natural Alternative
+
+Fukuoka contrasts this carnage with the functioning of his natural rice
+field. There, a [[fukuoka-pesticide-cascade-collapse-natural-balance]] asserts itself without any chemical
+intervention. "No matter that there are insect pests here. As long as their
+natural enemies are also present, a natural balance asserts itself." The
+field produces roughly 250 heads of grain per square yard, or about 33
+bushels per quarter-acre, without any pesticide application whatsoever.
+
+The presence of spiders, frogs, locusts, and dragonflies is not a sign of
+pest problems but of ecological health. These organisms are the farmers'
+true allies, performing pest control more effectively and efficiently than
+any chemical spray.
+
+## The Philosophical Foundation
+
+Fukuoka's argument against pesticides rests on a deeper philosophical point
+about human knowledge. "No matter how hard he tries, man can never rule over
+nature. What he can do is serve nature, which means living in accordance
+with its laws." The pesticide paradigm assumes that man can identify the
+"pest" and eliminate it while sparing everything else. But nature does not
+recognize the category of "pest"—these are "only distinctions invented by
+man." The notion that an insect is either a pest or a predator is alien to
+nature; "notions of right and wrong, good and bad, are alien to nature."
+
+When humans apply pesticides, they are not exercising control over nature but
+demonstrating their ignorance of its complexity. The destruction of spiders,
+fireflies, dragonflies, and countless other organisms is the price of this
+ignorance—a price that nature ultimately collects from the farmer himself in
+the form of reduced yields, degraded soil, and escalating chemical dependence.
+
+## The Cost in Energy and Money
+
+Beyond the ecological destruction, Fukuoka notes that [[cho-loess-powder-in-natural-farming]]
+produces 130 pounds of rice—200,000 kilocalories of energy—per man-day of
+labor, without the input of any outside materials. This is about 100 times
+the daily caloric intake of a farmer on a natural diet. Each doubling of
+energy input through mechanization and chemicals has brought diminishing
+returns while increasing costs and environmental harm.
+
+The farmer who applies pesticides eight times per year is not increasing his
+productivity; he is spending money to destroy the free pest control services
+that nature provides, then spending more money to replace them with inferior
+chemical substitutes. The economics of this arrangement benefit only the
+manufacturers of [[agricultural-chemicals-mycorrhizal-impact]], not the farmer, the consumer, or
+the land.

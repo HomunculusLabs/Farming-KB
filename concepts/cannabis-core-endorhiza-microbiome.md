@@ -15,7 +15,7 @@ effects operating at a secondary level of community selection.
 
 ## Core Taxa Composition
 
-The core [[proteobacteria-dominance-cannabis-endorhiza-community]] of cannabis includes representatives from several
+The core [[Proteobacteria]] of cannabis includes representatives from several
 major bacterial groups: Pseudomonas, Cellvibrio, Oxalobacteraceae,
 Xanthomonadaceae, Actinomycetales, and Sphingobacteriales. These taxa were
 present in the endorhiza of every cultivar examined in controlled studies,

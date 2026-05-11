@@ -1,5 +1,5 @@
 ---
-title: Guilt Martyrdom Harbored Anger As Health Hazards
+title: "[[blesching-harbored-anger-guilt-martyrdom-destructive-emotions]] Harbored Anger As Health Hazards"
 type: concept
 tags:
   - psychology

@@ -19,7 +19,7 @@ This index tracks all wiki pages created from Elaine Ingham's comprehensive guid
 
 - [[aact-brewing-ingredients-ingham]] - Foods by function (bacterial, fungal, micronutrient), compost ratios, sample recipe
 
-- [[compost-tea-brewing-equipment-ingham]] - Tank design, aeration systems, cleaning, choosing a machine, transport
+- [[circadian-rhythm-in-plants]] - Tank design, aeration systems, cleaning, choosing a machine, transport
 
 ### Aeration and Oxygen
 

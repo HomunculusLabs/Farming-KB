@@ -1,90 +1,90 @@
 ---
 title: Harmaline
-created: 2026-04-28
-type: chemical
-tags:
-  - beta-carboline
-  - mao-inhibitor
-  - psychedelic
-  - entheogen
-  - psychoactive-compound
-  - tryptamine
-  - ayahuasca-analogue
-  - peganum-harmala
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Naranjo, C. (1973). The Healing Journey. Pantheon Books."
-  - "Shulgin, A. & Shulgin, A. (1997). TIHKAL. Transform Press."
-  - "Ott, J. (1994). Ayahuasca Analogues. Natural Products Co."
-  - "Hagen, M. A., et al. (2010). From the Amazon to the clinic.
-    J Psychoactive Drugs."
+source: a-golden-guide-to-hallucinogenic-plants.md
+type: entity
 ---
 
-# Harmaline
+## Description
 
-## Overview
+Harmaline is a beta-carboline alkaloid found in Syrian Rue ([[mckenna-food-gods-peganum-harmala-soma]]) [[ayahuasca-and-banisteriopsis-caapi]]. It is a dihydro derivative of harmine and shares many of its pharmacological properties, including monoamine oxidase inhibition and mild hallucinogenic effects. Together with harmine, it is one of the key active compounds enabling the ayahuasca effect.
 
-Harmaline is a beta-carboline alkaloid and reversible inhibitor
-of monoamine oxidase A (RIMA). It is not psychedelic alone but
-enables oral DMT activity by blocking first-pass metabolism in
-the gut and liver. Closely related to harmine (7-hydroxy vs
-7-methoxy), harmaline is generally more sedating. It occurs
-naturally in [[golden-guide-syrian-rue-and-maoi-plants]] (*[[mckenna-food-gods-peganum-harmala-soma]]*) and the Ayahuasca
-vine (*[[ayahuasca-and-banisteriopsis-caapi]]*).
+## Classification
 
-## Chemical Identity
+- **Category**: Beta-carboline alkaloid
+- **Chemical class**: Beta-carboline (dihydroharmine)
+- **Molecular formula**: C13H14N2O
+- **Source organisms**: Peganum harmala, Banisteriopsis caapi
 
-| Property   | Value                                   |
-|------------|-----------------------------------------|
-| Formula    | C₁₃H₁₄N₂O                              |
-| Molar Mass | 214.26 g/mol                            |
-| CAS Number | 304-21-2                                |
-| IUPAC Name | 4,9-dihydro-7-methoxy-1-methyl-3H-pyrido[3,4-b]indole |
-| SMILES     | COc1ccc2c(c1)[nH]c3c(cn(c3)C)CC2       |
+## Key Facts
 
-## Natural Occurrence
+- Known hallucinogenic alkaloid in Syrian Rue (Peganum harmala) seeds
+- Found alongside harmine in Banisteriopsis caapi (ayahuasca vine)
+- Dihydro derivative of harmine (partially reduced form)
+- Acts as a reversible monoamine oxidase inhibitor (MAOI-A)
+- Generally considered more hallucinogenic than harmine but less potent as an MAOI
+- Part of the beta-carboline trio (harmine, harmaline, tetrahydroharmine) in ayahuasca
+- Indole-related structure with similarity to serotonin
 
-- **[[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]]** ([[mckenna-peganum-harmala-syrian-rue-soma-theory]]) — seeds contain 3–4%
-  mixed [[turner-harmala-alkaloids-preparation-and-dosage]]; harmaline is a major constituent.
-- **Banisteriopsis caapi** (Ayahuasca vine) — bark contains
-  harmaline, harmine, and tetrahydroharmine.
-- **[[passiflora-incarnata]]** (Passionflower) — trace amounts
-  in leaves and roots.
+## Pharmacological Effects
 
-## Pharmacology
+- Reversible MAO-A inhibition (enables oral DMT activity)
+- More overtly hallucinogenic than harmine at equivalent doses
+- Produces visual phenomena [[glossolalia-and-altered-states]] of consciousness
+- Tremor and motor effects at higher doses
+- Nausea and purgative effects (contributes to ayahuasca purging)
+- Synergistic with DMT and other tryptamines
 
-Harmaline acts as a reversible MAO-A inhibitor, blocking
-oxidative deamination of serotonin, norepinephrine, and DMT.
-Orally bioavailable, metabolized via hepatic CYP2D6, with a
-half-life of ~1–3 hours. Onset 20–60 min; duration 4–8 h.
+## Role in Ayahuasca
 
-| Target | Affinity (Ki) | Action            |
-|--------|---------------|-------------------|
-| MAO-A  | ~0.1 µM       | Reversible inhib. |
-| 5-HT₂A | >10 µM        | Weak / negligible |
-| GABA-A | ~10 µM        | Positive modul.   |
+Harmaline works alongside harmine in Banisteriopsis caapi to inhibit gut MAO, allowing DMT from [[chacruna-psychotria-viridis]] or other additive plants to become orally active. The combination of beta-carboline MAOIs with DMT-containing plants represents one of the most sophisticated examples of indigenous pharmacological knowledge.
 
-Secondary actions include GABA-A modulation and imidazoline
-[[tihkal-receptor-binding-serotonin]], contributing to sedative effects.
+## Presence in Syrian Rue
 
-## Subjective Effects
+Found in the seeds of Peganum harmala alongside harmine. The seeds have been used in Asian folk medicine for centuries and as a spice, red dye, and oil source. The visionary use of Syrian Rue has not been fully documented but is suspected based on the extraordinary cultural esteem for the plant.
 
-- **Visual alterations:** Closed-eye imagery, geometric
-  patterns, enhanced color perception at higher doses.
-- **Sedation:** Pronounced physical and mental lethargy.
-- **Nausea:** Common, especially above 100 mg crude extract.
-- **Dream-like states:** Hypnagogic imagery, lucid dreaming.
-- **Tremor:** Fine motor tremor in hands and limbs.
+## Relevance to Cultivation and Mycology
 
-## Role in Ayahuasca and Analogues
+- Part of the indole family that includes fungal hallucinogens like psilocybin
+- Understanding harmaline helps explain the pharmacology of beta-carbolines
+- Relevant to comparative study of plant and fungal psychoactive compounds
+- Illustrates how different indole derivatives produce varying pharmacological profiles
 
-[[harmala-alkaloids]] serve as the MAOI component in ayahuasca,
-allowing oral DMT to reach the CNS. Traditional ayahuasca
-combines *B. caapi* or *P. harmala* with DMT-containing
-plants like *[[chacruna-psychotria-viridis]]*. **Pharmahuasca** uses
-purified harmaline alongside freebase DMT without plant
-material. Harmaline-dominant preparations produce more
-sedation than harmine-dominant ones.
+## Related Topics
 
-## Therapeutic Research
+- Harmine
+- Peganum harmala
+- Banisteriopsis caapi
+- Tryptamine
+- Beta-carboline alkaloids
+## Botanical Characteristics
+
+Harmaline exhibits distinct morphological features that make it
+valuable in cultivated and ecological settings. Understanding these
+characteristics helps growers optimize conditions for healthy development
+and maximum productivity.
+## Cultivation Requirements
+
+Successful cultivation of Harmaline depends on several environmental
+factors including [[holzer-climate-zone-microclimate-creation]], soil type, and water availability.
+Growers should select appropriate sites with well-drained soil and
+adequate sun exposure for best results.
+## Propagation Methods
+
+Harmaline can be propagated through several methods including seed
+germination, cuttings, and grafting. Each approach has specific
+advantages depending on the grower's goals and available resources.
+## Uses and Applications
+
+Traditional and modern applications of Harmaline span food production,
+medicine, and ecological services. The plant provides multiple yields
+that contribute to diversified farming and permaculture systems.
+## Ecological Considerations
+
+Harmaline interacts with surrounding ecosystems through pollinator
+relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
+functions enhance overall system resilience and biodiversity.
+
+## See Also
+- [[naranjo-harmaline-yage-experiment]]
+- [[harmaline-entity-tihkal]]
+- [[growing-gourmet-king-oyster-eryngii-cultivation]]

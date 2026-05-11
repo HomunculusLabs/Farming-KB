@@ -17,7 +17,7 @@ Blesching moves beyond this colloquial understanding to provide a detailed neuro
 analysis of how the blesching [[endocannabinoid-system-overview]].
 hunger hormone ghrelin and the satiety hormone leptin. This has profound
 clinical implications for cachexia, HIV/AIDS wasting, cancer-related
-anorexia, and eating disorders. See also [[blesching-cannabinoid-pharmacology]] for THC [[cannabinoid-receptor-pharmacology]]):
+anorexia, and eating disorders. See also [[cannabinoid]] for THC [[cannabinoid]]):
 
 1. **Hypothalamic CB1 activation**: THC binds CB1 receptors on POMC neurons
    in the arcuate nucleus, paradoxically causing them to release

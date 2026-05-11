@@ -1,5 +1,5 @@
 ---
-title: [[comparison-pruning-fruit-trees-vs-grafting-fruit-trees]]
+title: Pruning Fruit Trees
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

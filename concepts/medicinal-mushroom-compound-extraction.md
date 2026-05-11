@@ -1,5 +1,5 @@
 ---
-title: [[gourmet-medicinal-mushroom-casing-layer-techniques]] Compound Extraction
+title: Medicinal Mushroom Compound Extraction
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

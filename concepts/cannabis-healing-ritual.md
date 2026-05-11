@@ -1,5 +1,5 @@
 ---
-title: [[blesching-cannabis-healing-practices-setting-intention-affirmations]] Ritual
+title: "[[blesching-cannabis-healing-practices-setting-intention-affirmations]] Ritual"
 created: 2026-04-28
 tags:
   - ritual

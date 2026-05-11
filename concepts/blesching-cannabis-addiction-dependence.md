@@ -1,5 +1,5 @@
 ---
-title: [[blesching-cannabis-abortion-miscarriage-fertility]] Addiction Dependence
+title: "[[blesching-cannabis-abortion-miscarriage-fertility]] Addiction Dependence"
 created: 2026-04-26
 tags:
   - cannabis

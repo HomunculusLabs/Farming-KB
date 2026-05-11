@@ -17,7 +17,7 @@ In D.H. Jarrold's guide *Indoor [[duggar-mushroom-growing-room-design]] Techniqu
 
 ## Overview
 
-Inoculation is a critical step in [[mushroom-cultivation]] where [[spore-solution]] is introduced to a sterilised substrate. In the [[boil-a-bag-mushroom-cultivation-technique]], the substrate is contained within a bag topped with a [[jarrold-filter-can-vermiculite-air-exchange-mushroom-cultivation]] that allows [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] while blocking contaminants. Jarrold describes two approaches: the **short needle method**, which injects directly through the bag wall, and the **long needle method**, which injects through the sterile filter medium.
+Inoculation is a critical step in [[mushroom-cultivation]] where [[spore]] is introduced to a sterilised substrate. In the [[boil-a-bag-mushroom-cultivation-technique]], the substrate is contained within a bag topped with a [[jarrold-filter-can-vermiculite-air-exchange-mushroom-cultivation]] that allows [[mushroom-cultivation-jar-lid-management-loose-fit-vacuum-gas-exchange]] while blocking contaminants. Jarrold describes two approaches: the **short needle method**, which injects directly through the bag wall, and the **long needle method**, which injects through the sterile filter medium.
 
 The choice of inoculation method has a direct impact on the overall [[maitake-fruiting-body-success-rate-management]] of the grow. Contamination during inoculation is one of the most common causes of failure in amateur [[mushroom-cultivation]], making the technique used at this stage especially important. Jarrold's guide reflects practical experience with both methods and provides clear reasoning for preferring the long needle approach.
 

@@ -1,5 +1,5 @@
 ---
-title: [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] and Soil [[edaphic-factors-microbial-community-structure]]
+title: Edaphic Factors Soil Microbial Community Structure
 source: understanding-cultivar-specificity-cannabis-microbiome.md
 topics: soil science, microbiology, edaphology, Cannabis, rhizosphere
 created: 2026-05-11
@@ -97,6 +97,22 @@ The study reported detailed soil physicochemical data for five soil samples:
 | OC.2 | 64.0% | 16.0% | 20.0% | 6.77 | 1.73 | 0.53% | 20.0% | 0.371 |
 
 The Mo-Bio soils (MB) showed relatively consistent texture but varied in nitrogen and carbon content. The Orange County soil (OC) was notable for its extremely high organic carbon (20.0%) and low salinity (1.73), representing a fundamentally different edaphic environment that supported a distinct microbial community.
+
+## Practical Applications
+
+These principles can be applied in permaculture design, sustainable agriculture, and ecological restoration projects. Practitioners integrate these approaches to build resilient food production systems and healthy soil ecosystems.
+
+## Key Considerations
+
+When applying these concepts, several factors warrant attention: environmental conditions, regional climate variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
+
+## See Also
+
+- [[edaphic-factors-microbial-community-structure]]
+- [[soil-edaphic-factors-microbial-communities]]
+- [[cannabis-rhizosphere-community-structure-edaphic-factors]]
+- [[crimson-clover]]
+- [[edaphic-determinants-cannabis-microbiome-community-structure]]
 
 ## See Also
 

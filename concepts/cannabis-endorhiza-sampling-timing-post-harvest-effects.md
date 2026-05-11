@@ -61,7 +61,7 @@ that degrades cellulose, the primary structural component of plant cell
 walls. Its high post-harvest abundance strongly indicates early-stage root
 tissue decomposition. The large standard deviation (13.0%) suggests highly
 variable decay rates among root balls. Cellvibrio was part of the "core
-[[proteobacteria-dominance-cannabis-endorhiza-community]]" in both experiments (alongside Pseudomonas,
+[[Proteobacteria]]" in both experiments (alongside Pseudomonas,
 Oxalobacteraceae, Xanthomonadaceae, Actinomycetales, and
 Sphingobacteriales). However, its core membership in Experiment 1 likely
 reflects the decay artifact rather than genuine endophytic association, as

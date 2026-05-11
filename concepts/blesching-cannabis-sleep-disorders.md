@@ -3,7 +3,7 @@ title: Blesching Cannabis Sleep Disorders
 created: 2026-04-26
 updated: 2026-04-24
 sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-ptsd-anxiety]] [[cannabis-chronic-pain-management]]"
+wikilinks: "blesching-endocannabinoid-system-overview [[cannabinoid]] [[blesching-cannabis-ptsd-anxiety]] [[cannabis-chronic-pain-management]]"
 type: concept
 tags: [cannabis]
 ---

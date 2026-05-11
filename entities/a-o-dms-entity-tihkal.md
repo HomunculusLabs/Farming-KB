@@ -38,7 +38,7 @@ Alpha-O-DMS was one of the most potent orally active tryptamines documented in T
 
 ## Modern Significance
 
-Alpha-O-DMS remains one of the most powerful oral tryptamines known, and its exceptional potency and long duration make it a compound of theoretical interest in [[cannabinoid-receptor-pharmacology]]. The combination of alpha-methyl protection from MAO with 5-methoxy receptor affinity represents a pharmacological "double advantage" that has informed modern drug [[mollison-designers-snow-ice-and-winter-design-strategies]].
+Alpha-O-DMS remains one of the most powerful oral tryptamines known, and its exceptional potency and long duration make it a compound of theoretical interest in [[cannabinoid]]. The combination of alpha-methyl protection from MAO with 5-methoxy receptor affinity represents a pharmacological "double advantage" that has informed modern drug [[mollison-designers-snow-ice-and-winter-design-strategies]].
 
 ## Additional References
 

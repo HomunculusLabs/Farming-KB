@@ -1,5 +1,5 @@
 ---
-title: [[analytical-methods-psilocybin-psilocin-quantification]] Tissue Distribution
+title: Psilocybin Psilocin Tissue Distribution
 aliases: [[alkaloid-distribution-mushroom-caps-stems]] cap stem, psilocybin cap vs stem, psilocin tissue localization]
 tags: [mycology, psilocybin, psilocin, psilocybe-cubensis, alkaloid-distribution, cap-stem-analysis]
 created: 2026-05-10

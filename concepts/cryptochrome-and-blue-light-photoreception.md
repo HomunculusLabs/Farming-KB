@@ -78,7 +78,7 @@ plant's gene regulatory network.
 Key cryptochrome-mediated responses include:
 
 - **Circadian clock entrainment**: Cryptochromes absorb blue light at dawn and
-  reset the [[chamovitz-circadian-rhythm-internal-clock-plants]], synchronising leaf movement, stomatal conductance,
+  reset the [[chrysanthemum]], synchronising leaf movement, stomatal conductance,
   and metabolic gene expression with the light-dark cycle.
 - **De-etiolation**: Trigger the transition from elongated etiolated growth to
   photomorphogenic development, inhibiting hypocotyl elongation and promoting

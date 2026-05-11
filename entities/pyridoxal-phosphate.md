@@ -1,5 +1,5 @@
 ---
-title: Pyridoxal Phosphate
+title: "Pyridoxal Phosphate"
 type: chemical
 aliases:
   - PLP
@@ -86,5 +86,5 @@ PLP can then help return electrons in a controlled direction to form product.
 In transamination, PLP accepts an amino group and becomes [[serotonin]] biosynthesis pathways.
 Histidine decarboxylase uses PLP to make histamine.
 Serine hydroxymethyltransferase uses PLP in one-carbon metabolism linked to folate chemistry.
-Cystathionine beta-synthase and cystathionine gamma-lyase use PLP in sulfur amino acid metabolism.
+Cystathionine beta-synthase and cystathionine gamma-lyase use PLP in sulfur [[knf-fish-amino-acid]] metabolism.
 Glycogen phosphorylase contains PLP, although in that enzyme the phosphate group has a distinctive catalytic role.

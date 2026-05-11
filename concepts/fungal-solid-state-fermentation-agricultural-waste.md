@@ -1,5 +1,5 @@
 ---
-title: Fungal [[staycare-solid-state-fermentation-for-bioremediation]] Agricultural Waste
+title: Fungal Solid State Fermentation Agricultural Waste
 created: 2026-04-16
 updated: 2026-04-16
 type: concept

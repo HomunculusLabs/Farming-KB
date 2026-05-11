@@ -72,7 +72,7 @@ The hedgerow system provides food for bees AND wind-free flight paths for greate
 
 | Plant | Nectar | Pollen | Notes |
 |-------|--------|--------|-------|
-| Clovers | N | P | Up to 400 kg/ha N yield in Russia; [[comparison-lupin-vs-crimson-clover-green-manure]] particularly high |
+| Clovers | N | P | Up to 400 kg/ha N yield in Russia; [[compost]] particularly high |
 | Cowpea | N | P | -- |
 | Lotus spp | N | P | -- |
 | Lucerne | N | P | Very long flowering period, 78-285 kg/ha/day in USA; good lock-up fodder |

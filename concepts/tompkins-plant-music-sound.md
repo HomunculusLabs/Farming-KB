@@ -4,7 +4,7 @@ created: 2026-04-26
 aliases: [Dorothy Retallack, plant music experiments, sonic botany]
 tags: [botany, acoustics, music, plant-growth]
 related: [[tompkins-plant-perception-experiments]], [[tompkins-plant-electrical-signals]], [[tompkins-ancient-plant-knowledge]]
-sources: Tompkins & Bird, [[plant-communication-volatile-organic-compounds]] of Plants (1973)
+sources: Tompkins & Bird, plant-communication-volatile-organic-compounds of Plants (1973)
 type: concept
 updated: 2026-04-26
 ---
@@ -30,7 +30,7 @@ individual spirit or angel."
 ## T.C. Singh's Experiments in India
 
 Dr. T.C. Singh at Annamalai University systematically studied the
-effects of music on plants. When his assistant played the South Indian
+effects of music on plants. When his assistant played the [[cannabis-strain-south-indian-landrace-autofem-oner]] indian landrace autofem oner
 "Maya-malava-gaula raga" to mimosas for a fortnight, the experimental
 plants developed 66% more stomata per unit area, thicker epidermal
 walls, and palisade cells up to 50% longer and broader.

@@ -3,7 +3,7 @@ title: Blesching Cannabis Ptsd Anxiety
 created: 2026-04-26
 updated: 2026-04-24
 sources: "uwe-blesching, The blesching-cannabis-health-index-autoimmune-conditions (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-sleep-disorders]] [[cannabis-for-epilepsy-and-seizure-disorders]]"
+wikilinks: "blesching-endocannabinoid-system-overview [[cannabinoid]] [[blesching-cannabis-sleep-disorders]] [[cannabis-for-epilepsy-and-seizure-disorders]]"
 type: concept
 tags: [cannabis]
 ---

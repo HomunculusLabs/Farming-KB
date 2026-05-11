@@ -130,5 +130,5 @@ shiitake extract with 1-3g C. militaris extract daily, taken with food.
 - [[shiitake-medicinal-compounds]]
 - [[lentinan-lem-lap-shiitake-compounds]]
 - [[cordyceps-militaris]]
-- [[comparison-cordyceps-vs-lions-mane]]
+- [[comparison-cordyceps-vs-lions-mane-cultivation]]
 - [[medicinal-mushroom-compounds-and-health-benefits]]

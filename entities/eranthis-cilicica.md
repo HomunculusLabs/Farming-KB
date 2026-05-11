@@ -56,7 +56,7 @@ Hybridization between Eranthis cilicica and Eranthis hyemalis occurs in cultivat
 
 Eranthis cilicica is native to the Taurus Mountains of southern Turkey, particularly the historic Cilician region (ancient Cilicia). It grows at elevations of 1,000–2,200 m in deciduous woodlands and scrub communities.
 
-The species prefers limestone-derived alkaline soils and grows in areas with cold, wet winters and dry summer conditions. It occurs in open woodland clearings, rocky limestone slopes, and along seasonally moist stream margins.
+The species prefers limestone-derived [[plants-tolerant-of-alkaline-soils]] and grows in areas with cold, wet winters and dry summer conditions. It occurs in open woodland clearings, rocky limestone slopes, and along seasonally moist stream margins.
 
 Populations in the wild are locally abundant but restricted to specific microhabitats with suitable drainage and dappled shade. The species is not currently considered globally threatened but has a limited natural range.
 

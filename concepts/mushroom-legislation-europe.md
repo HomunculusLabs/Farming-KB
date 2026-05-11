@@ -1,5 +1,5 @@
 ---
-title: [[hallucinogenic-mushroom-legislation-in-europe]] Europe
+title: Mushroom Legislation Europe
 created: 2026-05-11
 source: EMCDDA (2006) - Hallucinogenic Mushrooms: An Emerging Trend Case Study
 tags: [legislation, law, europe, regulation, drug-policy, EMCDDA, scheduling, smartshop]

@@ -1,5 +1,5 @@
 ---
-title: Hofmann [[lsd-psychedelic-experience-guide]] Art Expression
+title: "Hofmann [[lsd-psychedelic-experience-guide]] Art Expression"
 created: 2026-04-28
 tags:
   - psychedelic-art

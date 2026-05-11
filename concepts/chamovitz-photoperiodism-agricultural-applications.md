@@ -14,7 +14,7 @@ Allard in 1918, as recounted by Daniel Chamovitz, revolutionised
 commercial agriculture. By understanding how plants measure the length
 of continuous darkness, farmers gained the ability to manipulate
 flowering timing to meet market demands. Chamovitz illustrates these
-principles with vivid examples from [[chrysanthemum-night-interruption-flowering-commercial-horticulture]].
+principles with vivid examples from [[cannabinoid-pharmacology]].
 
 ## The Maryland Mammoth Discovery
 

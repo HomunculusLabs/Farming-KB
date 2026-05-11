@@ -1,5 +1,5 @@
 ---
-title: [[coleman-winter-harvest-greenhouse-temperature-management]] Washing And Packing
+title: "[[coleman-winter-harvest-greenhouse-temperature-management]] Washing And Packing"
 created: 2026-04-28
 tags:
   - post-harvest

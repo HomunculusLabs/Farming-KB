@@ -48,7 +48,7 @@ Application rates for [[lowenfels-earthworms-soil-food-web]]. Rates are provided
 ### Vegetable/Flower Row Crops
 - **Fall**: 1-5 tons/acre compost as top dressing on [[jadam-crop-residue-fertilizer]]
 - **Spring soil drench**: 15 gal/acre, two weeks before planting
-- **[[jadam-seed-treatment-and-nursery-management]]**: Roll fungicide-free seed in compost tea with [[compost-tea-brewing-methods]]
+- **[[jadam-seed-treatment-and-nursery-management]]**: Roll fungicide-free seed in compost tea with [[circadian-rhythm-in-plants]]
 - mycorrhizal-inoculation-techniques
 - [[2c-d-pihkal-entry-23]]
 - [[dom-compound-profile]]

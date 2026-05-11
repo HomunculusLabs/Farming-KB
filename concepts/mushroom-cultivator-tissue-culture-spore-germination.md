@@ -1,5 +1,5 @@
 ---
-title: [[coprinus-atrementarius-entity-the-mushroom-cultivator]] Tissue Culture [[growing-gourmet-spore-germination-strain-isolation]]
+title: Mushroom Cultivator Tissue Culture Spore Germination
 created: 2026-04-28
 tags: mycology, tissue-culture, spore-germination, cloning, sterile-technique, mushroom-cultivator]
 date: 2026-04-25

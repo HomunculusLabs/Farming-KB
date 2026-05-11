@@ -51,8 +51,7 @@ Specific exudate compounds select for bacteria with corresponding catabolic
 pathways. Malate, citrate, and succinate exudation selects for organisms with
 tricarboxylic acid cycle intermediates as preferred carbon sources. Amino acid
 exudation profiles influence the abundance of proteolytic and amino
-acid-utilizing taxa. The [[cannabis-endorhiza-core-microbiome-pseudomonas-
-rhizobiales|core microbiome]] taxa are those with broad metabolic versatility
+acid-utilizing taxa. The [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales|core microbiome]] taxa are those with broad metabolic versatility
 that can utilize a wide range of exudate compounds across cultivars, while
 cultivar-specific enrichments represent specialists adapted to cultivar-unique
 exudate components.
@@ -78,8 +77,8 @@ on specific metabolic capabilities.
 ### Presence-Absence Exceptions
 
 A limited number of OTUs showed true cultivar-specific presence-absence
-patterns. Notable examples included [[methylophilus|Methylophilus]] and
-[[sphingomonas-wittichii|Sphingomonas wittichii]], which were detected
+patterns. Notable examples included [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza|Methylophilus]] and
+[[sphingomonas-wittichii-maui-wowie|Sphingomonas wittichii]], which were detected
 specifically in certain cultivars and served as strain-level markers. These
 presence-absence patterns suggest that some cultivars create unique niches or
 produce specific signaling molecules that recruit otherwise absent taxa into the
@@ -104,8 +103,7 @@ specific strain-level signatures in the endorhiza, suggesting host immune
 responses may be modulated by cultivar genotype to permit differential endophyte
 establishment.
 
-The [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure|
-weighted UniFrac strain clustering]] patterns observed in the Winston et al.
+The [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure| weighted UniFrac strain clustering]] patterns observed in the Winston et al.
 study revealed that cultivar-specific OTUs clustered by cultivar identity when
 abundance-weighted distances were used, further supporting the genotype-
 dependent selection hypothesis.
@@ -126,15 +124,13 @@ may be necessary to achieve reliable colonization and beneficial effects.
 Effective inoculant strains for a given Cannabis cultivar should be selected
 based on compatibility with that cultivar's exudate profile and root immune
 environment. Strains already naturally enriched in a target cultivar's
-endorhiza, such as the [[cannabis-endorhiza-core-microbiome-pseudomonas-
-rhizobiales|core microbiome]] members, are logical candidates because they have
+endorhiza, such as the [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales|core microbiome]] members, are logical candidates because they have
 already demonstrated the ability to colonize and persist in that cultivar's
 root tissues.
 
 ### Soil Environment Considerations
 
-The strong [[cannabis-rhizosphere-community-structure-edaphic-factors|edaphic
-effects]] documented by Winston et al. mean that inoculant development must also
+The strong [[cannabis-rhizosphere-community-structure-edaphic-factors|edaphic effects]] documented by Winston et al. mean that inoculant development must also
 account for soil conditions. A strain colonizing effectively in one soil type may
 fail in another due to differences in pH, nitrogen, or competing microbiota.
 
@@ -142,8 +138,8 @@ fail in another due to differences in pH, nitrogen, or competing microbiota.
 
 - [[two-tier-selection-model]]
 - [[cannabis-endorhiza-core-microbiome-pseudomonas-rhizobiales]]
-- [[methylophilus]]
-- [[sphingomonas-wittichii]]
+- [[methylophilus-methylotrophic-bacteria-cannabis-endorhiza]]
+- [[sphingomonas-wittichii-maui-wowie]]
 - [[cannabis-cannabinoid-endophyte-community-correlation]]
 - [[cannabis-rhizosphere-community-structure-edaphic-factors]]
 - [[weighted-unifrac-strain-clustering-cannabis-endorhiza-community-structure]]

@@ -41,7 +41,7 @@ who died after leaping from a tower block window after consuming
 The coroner's inquest confirmed the contributory role of the mushrooms
 together with alcohol. In Dun Laoghaire, Ireland, a 33-year-old man
 died after falling from the fourth floor of a building after consuming
-[[emcdda-bad-trip-phenomenology-psychiatric-intervention]] mushroom users. During a [[emcdda-bad-trip-phenomenology-psychiatric-intervention]],
+[[EMCDDA]] mushroom users. During a [[EMCDDA]],
 individuals are typically extremely anxious, severely agitated, confused
 and disoriented, with impaired concentration and judgement. Acute
 psychotic episodes may involve bizarre and frightening images, severe

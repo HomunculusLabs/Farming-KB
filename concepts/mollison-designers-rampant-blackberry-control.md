@@ -1,5 +1,5 @@
 ---
-title: [[mollison-designers-alley-cropping-and-contour-hedgerow-systems]] Rampant Blackberry Control
+title: Mollison Designers Rampant Blackberry Control
 created: 2026-04-26
 tags:
   - [[permaculture]]

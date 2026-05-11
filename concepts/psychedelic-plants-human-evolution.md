@@ -119,7 +119,7 @@ more complex and bidirectional than McKenna's framework allows.
 
 ## See Also
 
-- [[food-of-the-gods-stoned-ape]]
+- [[mckenna-food-of-the-gods-stoned-ape-hypothesis]]
 - [[soma-vedic-enigma]]
 - [[eleusinian-mysteries]]
 - [[dominator-partnership-culture]]

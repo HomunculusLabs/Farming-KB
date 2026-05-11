@@ -8,7 +8,7 @@ tags: [thc, cardiovascular, heart, cardioprotection, cb1, nitric-oxide, bronchod
 
 ## Overview
 
-Tetrahydrocannabinol (THC), the primary psychoactive cannabinoid in cannabis, demonstrates a complex and somewhat paradoxical relationship with the cardiovascular system. While acute cannabis use is associated with transient tachycardia and blood pressure changes, emerging research has identified several mechanisms by which THC may protect the heart from damage, particularly in the context of ischemia (reduced blood flow) and myocardial infarction (heart attack). These cardioprotective properties represent one of the more surprising findings in [[blesching-cannabinoid-pharmacology]], given that heart disease remains the leading cause of death in many developed nations.
+Tetrahydrocannabinol (THC), the primary psychoactive cannabinoid in cannabis, demonstrates a complex and somewhat paradoxical relationship with the cardiovascular system. While acute cannabis use is associated with transient tachycardia and blood pressure changes, emerging research has identified several mechanisms by which THC may protect the heart from damage, particularly in the context of ischemia (reduced blood flow) and myocardial infarction (heart attack). These cardioprotective properties represent one of the more surprising findings in [[cannabinoid]], given that heart disease remains the leading cause of death in many developed nations.
 
 ## Chemical and Pharmacological Basis
 

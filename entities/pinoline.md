@@ -56,7 +56,7 @@ The MAO-A inhibitory activity of pinoline is relatively weak compared to pharmac
 
 Pinoline has been administered to human subjects in a limited number of clinical studies, primarily for sleep research.
 
-**At endogenous concentrations:** The compound is believed to contribute to natural sleep regulation. Pineal pinoline levels fluctuate with the light-dark cycle, peaking during the dark phase. It may potentiate melatonin's effects on [[chamovitz-circadian-rhythm-internal-clock-plants]].
+**At endogenous concentrations:** The compound is believed to contribute to natural sleep regulation. Pineal pinoline levels fluctuate with the light-dark cycle, peaking during the dark phase. It may potentiate melatonin's effects on [[chrysanthemum]].
 
 **At exogenous doses (pharmacological):** Studies by Musgrave et al. (1998) using doses of 2–10 mg reported mild sedation, relaxation, and slight mood elevation. Visual effects were not prominent at these doses. The subjective profile is considerably milder than that of harmine or harmaline.
 

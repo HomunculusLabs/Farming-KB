@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-cyanofibrillosa]] Profile
+title: Psilocybe Cyanofibrillosa Profile
 created: 2026-05-10
 tags:
   - mycology

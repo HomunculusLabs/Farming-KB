@@ -1,90 +1,92 @@
 ---
-title: "Harmine"
-created: 2026-04-28
-updated: 2026-04-28
-type: chemical
-tags:
-  - beta-carboline
-  - mao-inhibitor
-  - psychedelic-compound
-  - ayahuasca
-  - entheogen
-  - tryptamine
-sources:
-  - Naranjo, C. (1973). "The Healing Journey." Pantheon Books.
-  - Schultes, R.E. & Hofmann, A. (1979). "Plants of the Gods." McGraw-Hill.
-  - McKenna, D.J. (2004). "Clinical investigations of the [[metzner-ayahuasca-therapeutic-potential]] of
-    ayahuasca." Ph.D. thesis, University of Melbourne.
-  - SAMHSA (2023). "Harmine and Harmaline: Drug Fact Sheet."
+title: Harmine
+source: a-golden-guide-to-hallucinogenic-plants.md
+type: entity
 ---
 
-## Overview
+## Description
 
-Harmine is a β-carboline alkaloid and reversible inhibitor of monoamine oxidase A
-(MAO-A). It is the principal psychoactive β-carboline in [[ayahuasca-and-banisteriopsis-caapi]], the
-primary botanical component of ayahuasca, and in [[mckenna-food-gods-peganum-harmala-soma]] (Syrian rue).
+Harmine is a beta-carboline alkaloid found primarily in Syrian Rue ([[mckenna-food-gods-peganum-harmala-soma]]) [[ayahuasca-and-banisteriopsis-caapi]] (a key component of ayahuasca). It is one of the most important compounds in ethnopharmacology, serving both as a mild hallucinogen in its own right and as a monoamine oxidase inhibitor (MAOI) that potentiates the effects of DMT and other tryptamines.
 
-Harmine's significance lies primarily in its role as a monoamine oxidase inhibitor,
-which allows orally administered dimethyltryptamine (DMT) to become psychoactive by
-preventing its rapid [[enzymatic-degradation-in-mycoremediation]] the gut and liver.
+## Classification
 
-Beyond its MAO-inhibitory function, harmine has direct psychoactive effects at
-higher doses, including mild visual stimulation, nausea, and tremorogenic activity.
-It also has documented antidepressant, neuroprotective, and anti-cancer properties.
+- **Category**: Beta-carboline alkaloid
+- **Chemical class**: Beta-carboline (indole-related)
+- **Molecular formula**: C13H12N2O
+- **Source organisms**: Peganum harmala (Syrian Rue), Banisteriopsis caapi
 
-## Chemical Properties
+## Key Facts
 
-- **IUPAC name:** 7-Methoxy-1-methyl-9H-pyrido[3,4-b]indole
-- **Molecular formula:** C₁₃H₁₂N₂O
-- **Molecular weight:** 212.25 g/mol
-- **Chemical class:** β-Carboline ([[mckenna-telepathine-harmala-alkaloid-discovery]])
-- **CAS number:** 442-51-3
-- **SMILES:** COc1cc2c(cc1)nc3c2n(cc3)C
+- Known hallucinogenic alkaloid found in Syrian Rue (Peganum harmala) seeds
+- One of the principal active compounds in Banisteriopsis caapi (ayahuasca vine)
+- Beta-carboline structure shares the indole nucleus with [[dmt-tryptamine-hallucinogens]]
+- Acts as a reversible monoamine oxidase inhibitor (MAOI-A)
+- This MAOI activity allows orally ingested DMT to become psychoactive (ayahuasca effect)
+- Present in the seeds of Syrian Rue, which have many uses in Asian folk medicine
+- Molecularly related to serotonin through the indole ring structure
 
-Harmine is a fluorescent compound that exhibits blue-green fluorescence under UV
-light at 365 nm. This property is used in [[palmer-mushroom-hunting-field-identification]] of [[mckenna-peganum-harmala-soma-substitute-psilocybin-synergy]]
-seeds.
+## Pharmacological Effects
 
-The compound is soluble in ethanol, methanol, and slightly soluble in water. Its
-pKa is approximately 7.7, and it exists predominantly in protonated form at
-physiological pH.
+- Reversible MAO-A inhibitor (allows DMT to be active orally)
+- Mild hallucinogenic effects at higher doses
+- Serotonin reuptake inhibition
+- Potential antidepressant properties
+- May contribute to the visionary effects of ayahuasca beyond MAOI role
+- Synergistic with DMT: harmine alone produces mild effects, but with DMT creates profound visions
 
-Harmine belongs to the harmala alkaloid family, which includes harmaline (the
-3,4-dihydro derivative), harmalol (the 7-hydroxy analogue), and tetrahydroharmine.
-These compounds co-occur in B. caapi and P. harmala in varying ratios.
+## Role in Ayahuasca
 
-## Pharmacology
+Harmine (along with harmaline and tetrahydroharmine) is a primary active constituent of Banisteriopsis caapi, the ayahuasca vine. The beta-carboline alkaloids in the vine inhibit monoamine oxidase in the gut, preventing the breakdown of DMT from additive plants like [[chacruna-psychotria-viridis]]. This is one of the most remarkable examples of aboriginal pharmacological knowledge.
 
-**Monoamine oxidase inhibition:**
+## Presence in Syrian Rue
 
-Harmine is a competitive reversible inhibitor of MAO-A with IC₅₀ values of
-approximately 0.1–5 µM depending on assay conditions. This inhibition prevents
-the oxidative deamination of monoamine neurotransmitters and exogenous tryptamines.
+The seeds of Peganum harmala contain high concentrations of harmine and harmaline. The extraordinary esteem in which Asian peoples hold this plant might indicate a former religious use as a hallucinogen, though purposeful visionary use has not been established in the literature.
 
-This inhibition is the pharmacological basis for ayahuasca's [[tihkal-oral-activity-mao-inhibition]]. DMT is
-rapidly metabolized by MAO-A in the gut when ingested alone. Co-administration of
-harmine-containing plants allows DMT to reach systemic circulation.
+## Relevance to Cultivation and Mycology
 
-**Direct receptor activity:**
+Harmine bridges plant and fungal pharmacology:
 
-- 5-HT₂A receptor: weak partial agonist (EC₅₀ > 10 µM)
-- Dopamine receptors: moderate affinity, contributes to tremorogenic effects
-- Benzodiazepine site of GABA_A: competitive antagonist at high concentrations
-- Ion channels: inhibits several voltage-gated ion channels
+- Shares the indole nucleus with psilocybin, psilocin, and other fungal hallucinogens
+- Understanding beta-carbolines helps contextualize the broader family [[four-families-of-indole-hallucinogens]]
+- Relevant to understanding synergistic pharmacology (MAOI + tryptamine combinations)
+- Important for comprehensive knowledge of naturally occurring psychoactive compounds
 
-**Neuropharmacological effects:**
+## Related Topics
 
-- Increases brain-derived neurotrophic factor (BDNF) expression
-- Stimulates adult hippocampal neurogenesis in animal models
+- Harmaline
+- Peganum harmala
+- Banisteriopsis caapi
+- Tryptamine
+- Indole alkaloids
+## Botanical Characteristics
 
-## Effects and Dosage
+Harmine exhibits distinct morphological features that make it
+valuable in cultivated and ecological settings. Understanding these
+characteristics helps growers optimize conditions for healthy development
+and maximum productivity.
+## Cultivation Requirements
 
-**Typical dose range (oral):** 50–300 mg (as isolated compound)
+Successful cultivation of Harmine depends on several environmental
+factors including climate zone, soil type, and water availability.
+Growers should select appropriate sites with well-drained soil and
+adequate sun exposure for best results.
+## Propagation Methods
 
-When consumed as part of ayahuasca, harmine dose depends on the B. caapi
-concentration and preparation method. Typical [[schultes-ayahuasca-preparations]] deliver
-25–150 mg of harmine per serving.
+Harmine can be propagated through several methods including seed
+germination, cuttings, and grafting. Each approach has specific
+advantages depending on the grower's goals and available resources.
+## Uses and Applications
 
-**Effects from harmine alone (without DMT):**
+Traditional and modern applications of Harmine span food production,
+medicine, and ecological services. The plant provides multiple yields
+that contribute to diversified farming and permaculture systems.
+## Ecological Considerations
 
-- Moderate doses (50–150 mg): Mild visual alterations, enhanced colors, mild
+Harmine interacts with surrounding ecosystems through pollinator
+relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
+functions enhance overall system resilience and biodiversity.
+
+## See Also
+- [[harmine-entity-tihkal]]
+- [[mckenna-banisteriopsis-caapi-harmine-mao-inhibition-chemistry]]
+- [[growing-gourmet-king-oyster-eryngii-cultivation]]

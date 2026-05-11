@@ -61,7 +61,7 @@ This compound is a research chemical with limited human data. Shulgin's dosage r
 
 ## See Also
 
-- [[mda-entity-pihkal]]
+- [[mda]]
 - [[mdbu-entity-pihkal]]
 ## Practical Considerations
 

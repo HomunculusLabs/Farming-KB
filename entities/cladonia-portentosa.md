@@ -11,7 +11,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Ahti, T. (1961). "Taxonomic studies on reindeer [[lichens]] (Cladonia, subg. Cladina)." Annales Botanici Societatis Zoologicae Botanicae Fennicae, 32(1), 1-160.
+  - Ahti, T. (1961). "Taxonomic studies on reindeer lichens (Cladonia, subg. Cladina)." Annales Botanici Societatis Zoologicae Botanicae Fennicae, 32(1), 1-160.
   - Hammer, S. (1995). "Cladonia." In: Purvis, O.W. et al. (eds), The Lichen Flora of Great Britain and Ireland. London: Natural History Museum.
   - Brodo, I.M., Sharnoff, S.D. & Sharnoff, S. (2001). Lichens of [[psilocybin-north-america-pacific-northwest]]. Yale University Press.
   - Wirth, V. (2010). Flechten Baden-Württembergs, Teil 1-2. Eugen Ulmer Verlag.

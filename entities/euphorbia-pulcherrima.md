@@ -86,5 +86,5 @@ The poinsettia industry is now valued at over USD 250 million annually in the
 production for decades, developing the compact, branched cultivars now standard.
 
 Modern commercial cultivars are propagated vegetatively through stem cuttings.
-Growth is controlled through [[chrysanthemum-greenhouse-photoperiod-manipulation]]: short days (less than
+Growth is controlled through [[cannabinoid-pharmacology]]: short days (less than
 12 hours of light) trigger bract colouration after approximately 8-10 weeks.

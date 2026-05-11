@@ -46,7 +46,7 @@ When choosing cover crops for heavy clay, consider the following factors:
 
 **Climate Compatibility**: Choose varieties suited to your growing season length. [[winter-rye]] tolerates cold well, while [[sorghum-bicolor]] prefers warmer conditions and grows rapidly during summer months.
 
-**Integration Goals**: Determine if the primary goal is nitrogen fixation, organic matter addition, compaction reduction, or weed suppression. This will guide your selection of [[legume]] vs. [[grass]] combinations.
+**Integration Goals**: Determine if the primary goal is nitrogen fixation, organic matter addition, compaction reduction, or weed suppression. This will guide your selection of [[legume-nitrogen-myth-beans-feed-corn]] vs. [[grass-seed-jar-colonisation-metabolite-stress-casing-transition-mushroom-cultivation]] combinations.
 
 **Timing Considerations**: Match cover crop planting and termination times with your main crop schedule. Some cover crops like [[hairy-vetch]] can be terminated by mowing, while others like [[daikon-radish]] may require tillage.
 
@@ -88,7 +88,7 @@ Implementing a well-designed cover cropping program for heavy clay typically res
 
 ### Common Challenges and Solutions
 
-**Slow Germination**: Clay soils can crust over and impede seedling emergence. Use higher seeding rates and consider [[compost]] as a seedbed amendment to improve soil structure around seeds.
+**Slow Germination**: Clay soils can crust over and impede seedling emergence. Use higher seeding rates and consider [[circadian-rhythm-in-plants]] as a seedbed amendment to improve soil structure around seeds.
 
 **Weed Competition**: Some cover crops may not establish quickly enough to suppress weeds. Use a nurse crop like [[annual-ryegrass]] to provide initial ground cover while the primary cover crop establishes.
 
@@ -102,7 +102,7 @@ Integrate cover crops into your overall crop rotation strategy for maximum benef
 
 1. **Compaction Phase**: Use deep-rooted crops like [[daikon-radish]] and [[forage-turnip]] for one season
 2. **Organic Matter Phase**: Follow with grass-heavy mixes like [[winter-rye]] and [[oats]]
-3. **Nutrient Balance Phase**: Incorporate nitrogen-fixing [[legumes]] like [[hairy-vetch]] and [[comparison-lupin-vs-crimson-clover-green-manure]]
+3. **Nutrient Balance Phase**: Incorporate nitrogen-fixing [[legumes]] like [[hairy-vetch]] and [[compost]]
 4. **Cash Crop Phase**: Plant vegetables or cash crops in the improved soil
 
 This rotational approach addresses multiple soil limitations systematically rather than trying to solve everything at once.
@@ -130,7 +130,7 @@ Different climate regions may require adjustments to the standard cover crop app
 
 - Heavy clay soil requires specialized cover crop selection focusing on deep roots and organic matter
 - [[daikon-radish]] and [[forage-turnip]] provide essential taproots for breaking up compaction
-- [[hairy-vetch]] and [[comparison-lupin-vs-crimson-clover-green-manure]] fix nitrogen while improving soil structure
+- [[hairy-vetch]] and [[compost]] fix nitrogen while improving soil structure
 - [[winter-rye]] and [[oats]] build organic matter through extensive root systems
 - Proper timing and termination methods are crucial for maximum soil improvement
 - Monitor soil response through visual observations and testing to track improvement

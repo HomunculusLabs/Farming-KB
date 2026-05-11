@@ -20,7 +20,7 @@ responsible for several significant OTU abundance differences between cannabis
 strains in both experiments. Specifically, two orders within the phylum were
 highlighted:
 
-- **Sphingobacteriales**: Present as part of the core [[proteobacteria-dominance-cannabis-endorhiza-community]]
+- **Sphingobacteriales**: Present as part of the core [[Proteobacteria]]
   across all cultivars. These bacteria are known for their ability to
   degrade complex polysaccharides and are commonly found in soil and
   plant-associated environments. They are gram-negative, aerobic or

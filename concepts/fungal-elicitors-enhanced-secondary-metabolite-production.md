@@ -41,8 +41,8 @@ of molecular classes:
   acid and eicosapentaenoic acid, can elicit defence responses and secondary
   metabolite production in plant cell cultures.
 Fungal elicitors are the most extensively studied type of biotic elicitor.
-They are broadly classified by their source organism: [[cordyceps-insect-pathogenic-fungi]],
-[[auxin-production-by-symbiotic-fungi]], and [[biodiversity-of-fungi-endophytic-fungi]] each produce distinct elicitor profiles
+They are broadly classified by their source organism: [[Cordyceps]],
+[[Auxin]], and [[biodiversity-of-fungi-endophytic-fungi]] each produce distinct elicitor profiles
 with different effects on plant metabolism.
 
 ### Abiotic Elicitors

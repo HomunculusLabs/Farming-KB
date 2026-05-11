@@ -10,7 +10,7 @@ tags:
 date: 2026-05-08
 updated: 2026-05-08
 sources:
-  - Bresinsky A, Besl H (1990). A Colour Atlas of [[ramsbottom-poisonous-fungi-identification-guide]]. Wolfe Publishing.
+  - Bresinsky A, Besl H (1990). A Colour Atlas of ramsbottom-poisonous-fungi-identification-guide. Wolfe Publishing.
   - Benjamin DR (1995). Mushrooms: Poisons and Panaceas. W.H. Freeman.
   - Vesterholt J (2008). "The genus Lepiota in Denmark." Friesia 13:1–35.
   - Cattle C, Sutton B, Matheny PB (2022). "Molecular phylogeny of Lepiota sensu lato." Mycologia 114(4): 895–912.

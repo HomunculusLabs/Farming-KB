@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-road-africa-greening-desert]] European Culture Of Food
+title: "[[fukuoka-road-africa-greening-desert]] European Culture Of Food"
 created: 2026-04-28
 tags: [europe, food, culture, diet, east-west]
 date: 2026-04-28

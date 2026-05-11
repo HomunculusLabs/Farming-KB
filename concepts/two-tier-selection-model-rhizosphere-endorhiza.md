@@ -13,7 +13,7 @@ type: concept
 
 ## Overview
 
-The two-tier selection model describes how [[edaphic-factors-microbial-communities]] associated
+The two-tier selection model describes how [[crimson-clover]] associated
 with plant roots are assembled through two sequential filtering steps. First,
 [[soil-edaphic-factors-microbial-communities]] determine which bacteria colonize the rhizosphere from
 the broader bulk soil community. Second, host plant genotype determines which

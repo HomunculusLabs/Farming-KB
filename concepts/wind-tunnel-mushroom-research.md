@@ -1,5 +1,5 @@
 ---
-title: [[closed-circuit-wind-tunnel-design-mushroom-tropism-badham-1982]] [[chaga-mushroom-research]]
+title: Wind Tunnel Mushroom Research
 concept_category: [[mycology-research-methods]]
 related_concepts:
   - mushroom-tropisms-anemotropism-geotropism

@@ -88,3 +88,16 @@ Sulfate-reducing bacteria are the key organisms in anaerobic treatment systems, 
 The role of [[arbuscular-mycorrhizal-fungi-biology-symbiosis]] in establishing and maintaining wetland vegetation on the harsh substrate conditions typical of AMD treatment sites is described in [[mycoremediation]] for AMD passive treatment includes routine measurement of pH, alkalinity, acidity, sulfate, dissolved metals, and flow rates at system inflows and outflows.
 
 ## Design Considerations and Long-Term Performance
+
+## Practical Applications
+Acid Mine Drainage Treatment has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
+
+## Historical Significance
+The development and understanding of acid mine drainage treatment has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+
+## See Also
+- [[ingham-citric-acid-chlorine-removal-water-treatment]]
+- [[ingham-root-disease-treatment]]
+- [[singh-distillery-wastewater-fungal-treatment]]
+- [[constructed-wetlands-wastewater-treatment]]
+- [[singh-constructed-wetlands-fungal-wastewater-treatment]]

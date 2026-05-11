@@ -1,5 +1,5 @@
 ---
-title: Holzer [[cervantes-microclimate-frost-protection]] Techniques
+title: "Holzer [[cervantes-microclimate-frost-protection]] Techniques"
 created: 2026-04-26
 tags:
   - frost-protection

@@ -1,7 +1,7 @@
 ---
-title: Nature Has No Cause and Effect — Fukuoka's Epistemology
+title: "Fukuoka Nature No Cause And Effect"
 source: administrator-microsoft-word-fukuoka-textdoc.md
-author: Masanobu Fukuoka
+author: [[masanobu-fukuoka]]
 topics: [natural-farming, philosophy, epistemology, ecology, systems-thinking]
 ---
 
@@ -10,7 +10,7 @@ topics: [natural-farming, philosophy, epistemology, ecology, systems-thinking]
 One of Masanobu Fukuoka's most radical philosophical claims is that
 nature operates without cause and effect. This assertion, which seems
 to contradict the foundations of Western science, is central to his
-critique of scientific agriculture and his argument for leaving the
+critique [[fukuoka-critique-of-scientific-agriculture]] and his argument for leaving the
 management of ecosystems to nature itself.
 
 ## The Claim in Context
@@ -124,8 +124,8 @@ theory and complexity science:
 - **Sensitive dependence**: Initial conditions that differ
   imperceptibly can lead to radically different outcomes
 
-Fukuoka arrived at these insights not through mathematical modeling but
-through decades of direct observation of natural and agricultural
+Fukuoka arrived at these insights not through [[davidson-mathematical-modeling-fungal-mycelia]] but
+through decades of [[fukuoka-direct-observation-method]] of natural and agricultural
 ecosystems.
 
 ## The Farmer's Humility
@@ -134,7 +134,7 @@ The recognition that nature has no cause and effect is ultimately an
 argument for humility. The farmer who accepts this truth stops trying
 to impose human designs on the land and instead learns to work within
 the patterns that nature already establishes. This does not mean doing
-nothing — Fukuoka was emphatic that natural farming requires careful
+nothing — Fukuoka was emphatic that [[cho-loess-powder-in-natural-farming]] requires careful
 observation and timely action. But the actions are guided by nature's
 rhythms rather than by human theories about what should work.
 
@@ -148,5 +148,3 @@ systems causes more harm than good.
 - [[fukuoka-do-nothing-farming-philosophy]]
 - [[fukuoka-desert-cause-vegetation]]
 - [[fukuoka-aerial-seeding-clay-pellets-desert-revegetation-technique]]
-- [[fukuoka-microbes-soil-health-discriminating-knowledge]]
-- [[fukuoka-one-gram-soil]]

@@ -1,5 +1,5 @@
 ---
-title: [[shirota-4-acetylindole-crystallization-nmr-characterization-synthesis]] [[acetyl-protection-route-psilocin-psilocybin-synthesis]] Intermediates
+title: Nmr Characterization Psilocin Psilocybin Intermediates
 created: 2026-04-28
 tags:
   - nmr

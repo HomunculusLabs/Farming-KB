@@ -1,5 +1,5 @@
 ---
-title: Mycelial Nutrient Translocation Networks Gadd
+title: "Mycelial Nutrient Translocation Networks Gadd"
 source: geoffrey-gadd-sarah-c-watkinson-paul-s-dyer-fungi-in-the-environment
 tags: [mycelium, nutrient-transport, basidiomycetes, cord-formation, vacuolar-transport, PCSI, fungal-ecology]
 ---
@@ -8,14 +8,14 @@ tags: [mycelium, nutrient-transport, basidiomycetes, cord-formation, vacuolar-tr
 
 ## Overview
 
-Basidiomycetes are the major agents of decomposition and nutrient cycling
+Basidiomycetes are the major agents of decomposition [[mollison-designers-fish-pond-fertiliser-and-nutrient-cycling]]
 in forest ecosystems, occurring as both saprotrophs and mycorrhizal
 symbionts. Their mycelium can scavenge and sequester nutrients from soil,
 concentrate nutrients from decomposing organic matter, relocate nutrients
 between different organic resources, and ultimately make nutrients available
 to plants to maintain primary productivity. The capacity for coordinated
 nutrient redistribution through [[fungal-mycelial-networks-nutrient-translocation]] is a defining feature of
-fungal biology and underpins the lichen biology and ecological significance of fungi in
+[[bloomfield-fungal-biology-and-hyphal-growth]] underpins the [[lichen-biology-and-ecological-significance]] [[soil-microbial-biomass-measurement-ecological-significance]] of fungi in
 terrestrial environments.
 
 The architecture of mycelial networks is not static but is continuously
@@ -73,7 +73,7 @@ A novel non-invasive technique, photon-counting scintillation imaging
 (PCSI), has been developed to track movement of carbon-14 labelled
 nitrogen compounds in foraging mycelial networks in real time. This
 approach uses the non-metabolized amino-acid analogue alpha-amino-
-isobutyrate (14C-AIB) to map nitrogen distribution and transport patterns.
+isobutyrate (14C-AIB) to map [[mollison-designers-legume-tree-inoculation-and-nitrogen-distribution]] and transport patterns.
 PCSI enables continuous imaging for extended periods exceeding six weeks,
 revealing complex shifts in nitrogen distribution and transport priority
 throughout the developing network.

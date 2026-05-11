@@ -1,5 +1,5 @@
 ---
-title: Fukuoka Textdoc Rodenticide Cycle Forest Destruction Mouse Weasel
+title: "Fukuoka Textdoc Rodenticide Cycle Forest Destruction Mouse Weasel"
 created: 2026-04-28
 tags: [ecology, rodenticide, forest-destruction, cascade-failure, food-chain, pine-forest, ecosystem-balance, pest-control]
 date: 2026-04-28

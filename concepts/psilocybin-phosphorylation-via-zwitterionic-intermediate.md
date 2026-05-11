@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]] Via [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]
+title: "[[psilocybin-phosphorylation-tetrabenzylpyrophosphate-method]] Via [[psilocybin-synthesis-zwitterionic-intermediate-filtration-method]]"
 created: 2026-05-08
 updated: 2026-05-08
 type: concept

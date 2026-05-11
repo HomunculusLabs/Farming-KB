@@ -1,5 +1,5 @@
 ---
-title: [[mushroom-potency-harvesting-and-drying]] Drying
+title: Mushroom Potency Harvesting Drying
 source: fanaticus-pf-tek-psilocybe-fanaticus.md
 tags: [potency, harvesting, drying, desiccation, cultivation, dosage]
 ---

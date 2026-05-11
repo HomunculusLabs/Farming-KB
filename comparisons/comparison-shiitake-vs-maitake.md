@@ -1,5 +1,5 @@
 ---
-title: "Shiitake vs Maitake"
+title: "Shiitake vs [[comparison-maitake-vs-shiitake-cultivation]]"
 tags: [comparison, shiitake, maitake, mushroom-cultivation, medicinal-mushrooms]
 date: 2026-05-11
 updated: 2026-05-11
@@ -10,8 +10,8 @@ sources: []
 
 ## Overview
 
-Shiitake (Lentinula edodes) and maitake (Grifola frondosa) are two of the most
-celebrated medicinal mushrooms in East Asian tradition and modern research
+Shiitake (Lentinula edodes) and maitake ([[grifola-frondosa]]) are two of the most
+celebrated [[cancer-medicinal-mushrooms]] in East Asian tradition and modern research
 alike.
 Both are white-rot wood decomposers found on hardwood trees, both produce
 powerful
@@ -19,7 +19,7 @@ beta-glucan compounds with immunomodulatory effects, and both have been
 cultivated
 for centuries. Yet they differ substantially in cultivation difficulty,
 preferred
-substrates, medicinal compounds, and culinary character. Shiitake is the
+substrates, [[cotter-mushroom-nutrition-medicinal-compounds]], and culinary character. Shiitake is the
 second
 most cultivated mushroom worldwide and an excellent entry point for beginners,
 while maitake commands premium prices for its flavor and potency but demands
@@ -51,7 +51,7 @@ clinical trials. Lentinan is approved as an adjunct cancer therapy in Japan
 and
 is administered alongside conventional chemotherapy. Shiitake also contains
 lenthionine, which contributes to its distinctive umami flavor and has shown
-antimicrobial properties. Nutritionally, shiitake is rich in B vitamins,
+[[medicinal-mushroom-antimicrobial-properties]]. Nutritionally, shiitake is rich in B vitamins,
 vitamin
 D (especially when dried with the gills exposed to sunlight), and minerals.
 
@@ -68,7 +68,7 @@ during log colonization and competing with wild fungi outdoors.
 
 Maitake, known as "hen of the woods" for its large, rosette-like clusters of
 overlapping fan-shaped caps, is native to temperate hardwood forests across
-eastern North America, Europe, and Japan. It grows at the base of oak trees
+[[polypore-fungi-eastern-north-america]], Europe, and Japan. It grows at the base of oak trees
 and
 other hardwoods, where it can reach weights exceeding 20 kilograms in the
 wild.
@@ -88,7 +88,7 @@ regulate blood sugar levels and support cardiovascular health.
 
 Cultivating maitake is considerably more challenging than shiitake. The
 species
-undergoes four distinct morphological stages during fruiting body development,
+undergoes four distinct morphological stages during [[bloomfield-mushroom-formation-fruiting-body-development-cultivation]],
 each requiring specific environmental conditions. Failure to manage parameters
 at any transition point can arrest development entirely. Maitake also requires
 a soil casing layer for optimal fruiting, adding complexity not needed for
@@ -148,8 +148,3 @@ as pharmaceutical-grade extracts. For home cultivators, growing both species
 diversifies production risk: shiitake provides reliable baseline yields while
 maitake offers a premium product for special occasions or direct sale.
 ## See Also
-- [[comparison-maitake-vs-shiitake-cultivation]]
-- [[comparison-maitake-vs-reishi-medicinal-mushrooms]]
-- [[comparison-enoki-vs-maitake-cultivation]]
-- [[comparison-maitake-vs-wine-cap-cultivation]]
-- [[chen-maitake-harvesting-yield-comparison]]

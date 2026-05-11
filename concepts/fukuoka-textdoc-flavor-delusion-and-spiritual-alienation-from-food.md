@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-textdoc-flavor-philosophy-spiritual-alienation-food]] Delusion And [[fukuoka-flavor-philosophy-spiritual-alienation-food]] From Food
+title: Fukuoka Textdoc Flavor Delusion And Spiritual Alienation From Food
 created: 2026-04-28
 tags: [fukuoka, [[natural-farming]], food-philosophy, [[natural-diet]], flavor, spiritual-alienation]
 date: 2026-04-28

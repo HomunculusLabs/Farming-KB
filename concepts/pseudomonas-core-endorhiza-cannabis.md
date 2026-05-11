@@ -28,7 +28,7 @@ root microbiome.
 Pseudomonas is a genus within the Gammaproteobacteria class, one of the
 predominant proteobacterial groups found in plant endorhiza environments.
 The study noted that with the exception of the aerobic cellulolytic
-bacterium Cellvibrio, all prevalent members of the core [[proteobacteria-dominance-cannabis-endorhiza-community]]
+bacterium Cellvibrio, all prevalent members of the core [[Proteobacteria]]
 were well-known [[endorhiza-endophytic-bacteria]] primarily within the orders
 Gammaproteobacteria and Alphaproteobacteria. This taxonomic consistency
 with other plant systems supports the observation that certain bacterial

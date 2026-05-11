@@ -1,5 +1,5 @@
 ---
-title: Savory Human Creativity In [[savory-holistic-resource-management-biological-monitoring]]
+title: "Savory Human Creativity In [[savory-holistic-resource-management-biological-monitoring]]"
 created: 2026-04-28
 tags: [creativity, decision-making, management, holistic-management, extension]
 date: 2026-04-27

@@ -74,7 +74,7 @@ Green manures (cover crops grown specifically to be incorporated into soil) are 
 
 ### Nitrogen-Fixing Green Manures
 
-[[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, field peas, and fava beans.
+[[compost]], hairy vetch, field peas, and fava beans.
 Terminate at peak flowering for maximum nitrogen contribution.
 These can fix 50-200 lbs N/acre depending on species and growing conditions.
 

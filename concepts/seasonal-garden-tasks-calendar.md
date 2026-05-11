@@ -63,7 +63,7 @@ Month-by-month task list for [[permaculture-designers-manual-temperate-climate-d
 
 ## April
 
-**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[cover-cropping-guide]] -- terminate [[comparison-lupin-vs-crimson-clover-green-manure]] and winter pea (crimp or mow 2-3 weeks before planting).
+**Garden tasks**: Harden off transplants (tomatoes, peppers, eggplant) -- 7-10 days of increasing outdoor exposure. Transplant after last frost (~April 10-15). Direct sow: beans, corn, cucumbers, squash, melons (soil temp 60F+). Second sowing of radishes, lettuce, spinach. Begin [[cover-cropping-guide]] -- terminate [[compost]] and winter pea (crimp or mow 2-3 weeks before planting).
 
 **Livestock**: Spring pasture rotation begins. Integrate ducklings with flock. First rotational graze. Check for parasites after turnout.
 

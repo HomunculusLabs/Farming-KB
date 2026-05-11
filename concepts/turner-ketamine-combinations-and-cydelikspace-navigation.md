@@ -1,5 +1,5 @@
 ---
-title: [[turner-ketamine]] Combinations And Cydelikspace Navigation
+title: "[[turner-ketamine]] Combinations And Cydelikspace Navigation"
 created: 2026-04-13
 updated: 2026-04-13
 type: concept

@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-illusions-of-scientific-farming]] [[fukuoka-organic-versus-natural-farming]]
+title: Scientific Farming Versus Natural Farming
 created: 2026-05-11
 tags: [farming, agriculture, philosophy, ecology, critique]
 date: 2026-05-11

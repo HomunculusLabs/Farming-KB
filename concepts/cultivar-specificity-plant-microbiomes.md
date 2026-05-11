@@ -110,7 +110,7 @@ enable marker-assisted breeding for beneficial microbiome traits.
 
 - [[two-tier-selection-model-plant-microbiome]]
 - [[cannabis-endorhiza-microbiome]]
-- [[edaphic-factors-microbial-communities]]
+- [[crimson-clover]]
 
 ## References
 

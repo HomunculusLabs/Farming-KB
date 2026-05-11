@@ -19,7 +19,7 @@ benefit the soil rather than for harvest. They are a cornerstone of
 
 Cover crops aren't just for farmers. Even small gardeners can use them
 effectively. In a [[hamilton-vegetable-bed-preparation]], after harvesting summer crops, sow
-[[comparison-lupin-vs-crimson-clover-green-manure]] or winter rye for winter cover. In spring, cut the
+[[compost]] or winter rye for winter cover. In spring, cut the
 cover crop and plant directly through the residue. For perennial beds,
 [[fukuoka-white-clover-cover-crop-system]] makes an excellent [[comparison-living-mulch-vs-cover-crops]] between plants, fixing
 nitrogen and suppressing weeds while tolerating foot traffic.

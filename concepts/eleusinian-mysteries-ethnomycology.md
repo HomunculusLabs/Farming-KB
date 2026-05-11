@@ -1,5 +1,5 @@
 ---
-title: [[catholic-church-suppression-eleusinian-mysteries]] Ethnomycology
+title: Eleusinian Mysteries Ethnomycology
 aliases: [eleusinian mysteries, ethnomycology, mushroom cults, ancient mushroom use, soma]
 tags: [mycology, history, ethnobotany, ancient-greece, religion, ethnomycology]
 created: 2026-05-10

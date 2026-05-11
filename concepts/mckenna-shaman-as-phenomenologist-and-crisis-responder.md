@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-shaman-as-phenomenologist-plant-chemist]] Phenomenologist And Crisis Responder
+title: Mckenna Shaman As Phenomenologist And Crisis Responder
 source: mckenna_t-tryptamines_consciousness.md
 concepts: [[shamanism]], phenomenology, crisis-response, plant-chemistry, peripheral-social-role, mckenna]
 tags: [shamanism, ethnobotany, psychedelics, mckenna, indigenous-knowledge, plant-medicine]

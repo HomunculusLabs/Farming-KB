@@ -69,6 +69,26 @@ The fundamental principle: give plants what is the same as (or similar to) the p
 
 JADAM's critique is summarized in a memorable phrase: "From the soil, you demand fruits yet you give peels!" Farming does not become organic by merely putting organic matter into the soil. Organic matter comes in all qualities. The goal should be to provide the complete nutritional balance that crops need, not to simply substitute chemical inputs with organic ones.
 
+## Practical Applications
+
+The principles outlined here find application across multiple domains including research, education, and practical implementation. Understanding the underlying mechanisms enables more effective application in real-world scenarios.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
+
+## See Also
+
+- [[jadam-rice-bran-skin-fertilizer-problems]]
+- [[jadam-rice-water-weevil-control]]
+- [[jadam-rice-pesticide-program]]
+- [[jadam-rice-cultivation-methods]]
+- [[jadam-rice-bakanae-treatment]]
+
 ## See Also
 - [[jadam-leaf-mold-soil-method]]
 - [[jadam-food-waste-liquid-fertilizer]]

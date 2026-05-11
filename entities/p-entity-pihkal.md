@@ -1,5 +1,5 @@
 ---
-title: P [[2-4-dma-entity-pihkal]]
+title: P Entity Pihkal
 created: 2026-04-23
 updated: 2026-04-23
 type: entity

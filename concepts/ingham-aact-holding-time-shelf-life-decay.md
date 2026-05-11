@@ -48,7 +48,7 @@ very well may select for an ever-diminishing set of organism diversity. (see [[c
 The reason for the five day cut-off is that by that time, you are
 dealing with a limited set of microbe diversity." Even with adequate
 oxygen, the microbial community shifts over time as some species
-outcompete others in the contained liquid environment. (see [[compost-tea-brewing-methods]]).
+outcompete others in the contained liquid environment. (see [[circadian-rhythm-in-plants]]).
 
 ## The Danger of Adding Food to Held Tea
 

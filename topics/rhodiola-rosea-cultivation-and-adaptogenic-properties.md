@@ -1,5 +1,5 @@
 ---
-title: [[rhodiola-rosea]] Cultivation [[ashwagandha-cultivation-uses-and-adaptogenic-properties]]
+title: Rhodiola Rosea Cultivation And Adaptogenic Properties
 tags:
   - rhodiola
   - adaptogens

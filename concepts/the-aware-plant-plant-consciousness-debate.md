@@ -1,5 +1,5 @@
 ---
-title: The Aware Plant [[the-aware-plant-plant-consciousness-debate-chamovitz]]
+title: "The Aware Plant [[the-aware-plant-plant-consciousness-debate-chamovitz]]"
 created: 2026-04-28
 tags: [plant-biology, consciousness, philosophy-of-mind, plant-intelligence]
 date: 2026-04-28

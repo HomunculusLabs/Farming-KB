@@ -1,82 +1,132 @@
 ---
 title: Brassinosteroids
-category: Phytohormones
-tags: [phytohormones, steroids, plant-growth, brassinolide, brassica]
-related: mycelial-growth-enhancement-with-phytohormones
-source: Gartz et al. (1990) - Growth-Promoting Effect of a Brassinosteroid in Mycelial Cultures of [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
+wikitarget: brassinosteroids
+aliases: [BR, brassinolide, plant brassinosteroid]
+created: 2026-05-11
+source: growth-promoting-effect-of-a-brassinosteroid-in-mycelial-cultures-of-the-fungus-psilocybe-cubensis-gartz-adam-vorbrodt.md
+tags: [phytohormones, plant-growth-regulators, steroids, brassinosteroids]
 ---
+
 # Brassinosteroids
 
-Brassinosteroids are a class of polyhydroxylated steroidal [[query-how-do-you-make-effective-microorganisms-em-for-agriculture]].
+Brassinosteroids (BRs) are a class of polyhydroxylated steroidal plant growth
+regulators recognized as a distinct group of phytohormones. First isolated from
+*Brassica napus* pollen in 1979, approximately 30 members have been identified
+across a wide variety of higher plants including Angiospermae and
+Gymnospermae, as well as in green algae. They are regarded from several
+laboratories as representing a new class of plant hormones with profound
+effects on [[cytokinin-plant-growth-and-development]].
 
-### Source-Sink Relationships
-Brassinosteroids influence photosynthetic capacity and assimilate
-partitioning, contributing to their yield-enhancing effects.
+## Chemical Structure
+
+Brassinosteroids are based on the ergostane skeleton — a 28- or 29-carbon
+sterol core with distinctive hydroxyl groups. The most biologically active
+form is brassinolide, a C28 steroidal lactone. Key [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]]:
+
+- **A-ring**: α,β-unsaturated ketone at C-2/C-3, 3β-hydroxyl group
+- **B-ring**: 7-oxo or 7-hydroxyl group in most active forms
+- **Side chain**: Vicinal diol at C-22 and C-23, and a lactone at C-23/C-26
+
+The stereochemical configuration of hydroxyl groups at C-22 and C-23 is
+critical for biological activity. The 22R,23R configuration (as in brassinolide)
+or the 22S,23S configuration (as in homobrassinolide) are both associated with
+strong growth-promoting activity. Synthetic analogues such as 22S,23S-
+homobrassinolide, prepared from stigmasterol, have been developed to study
+structure-activity relationships and enable practical field applications.
+
+## Biosynthesis
+
+BRs are biosynthesized from campesterol, a plant sterol distinct from the
+cholesterol-based pathways found in animals. The primary biosynthetic pathway:
+
+1. **Campesterol → campestanol**: Reduction of the C-5 double bond
+2. **C-6 oxidation pathway**: Sequential oxidation producing cathasterone,
+   teasterone, typhasterol, and finally castasterone
+3. **Castasterone → brassinolide**: Baeyer-Villiger oxidation converting the
+   6-ketone to the characteristic brassinolide lactone ring
+
+An alternative early C-22 oxidation pathway branches from campestanol. The
+pathway involves cytochrome P450 enzymes (CYP85A and CYP90 families) and is
+tightly regulated by feedback inhibition mechanisms.
+
+## Physiological Effects
+
+### Cell Elongation and Division
+The most prominent BR effect is promotion of cell elongation and cell division.
+BRs activate cell wall loosening enzymes including expansins and xyloglucan
+endotransglycosylases (XTHs), which allow cell walls to yield to turgor
+pressure, promoting both longitudinal cell expansion and lateral division.
+
+### Vascular Development
+BRs are critical for vascular differentiation, promoting xylem formation and
+influencing phloem development. BR-deficient mutants show severe defects in
+vascular bundle patterning throughout the plant body.
+
+### Reproductive Development
+BRs are essential for normal pollen and anther development, pollen tube
+growth, seed set, and fruit development. Application of BRs increases fruit
+yield and quality in several crop species.
+
+### Stress Responses
+- **Abiotic**: Enhanced tolerance to drought, salinity, extreme temperatures,
+  heavy metals, [[reactive-oxygen-species-and-oxidative-stress]] via upregulation of antioxidant enzyme
+  systems (superoxide dismutase, catalase, peroxidase)
+- **Biotic**: Priming of plant immune responses and upregulation of
+  pathogenesis-related (PR) proteins against fungal and bacterial pathogens
+
+### Photomorphogenesis and Senescence
+BRs interact with light signaling to regulate photomorphogenesis. They delay
+leaf senescence by maintaining chlorophyll content and photosynthetic capacity
+in aging tissues.
 
 ## Agricultural Applications
 
-Promising results include increased crop yields in rice, wheat, barley,
-[[comparison-cannabis-clone-rooting-and-transplanting-vs-seed-germination]]. Commercial formulations have been registered
-in several countries, particularly in [[neurotropic-fungi-japan-east-asia-species-cultural-context]] for [[jadam-rice-cultivation-methods]].
+Promising results in brassinosteroid application include:
 
-## Occurrence and Activity in Fungi
+- **Yield enhancement**: [[fukuoka-textdoc-increased-production-not-increased-yields]] in rice, wheat, maize, and various
+  vegetable crops through improved photosynthetic capacity
+- **Anti-stress effects**: Protection against environmental stressors including
+  drought, cold, and salinity, improving crop resilience
+- **Quality improvement**: Enhanced [[coleman-winter-greens-nutritional-quality-cold-sweetening]], better fruit set, and
+  improved post-harvest shelf life
 
-While considered exclusively plant compounds, research has demonstrated
-brassinosteroid biological activity in fungal systems. Studies on
-*Psilocybe cubensis* showed 22S,23S-homobrassinolide dramatically
-increased [[brassinosteroid-psilocybe-cubensis-mycelial-growth-research]] rate and [[comparison-fruiting-body-vs-mycelium-extracts-medicinal-mushrooms]] production, suggesting
-a previously unrecognized biological role in higher fungi.
-
-The mechanisms remain unknown — it is unclear whether fungi possess
-brassinosteroid receptors analogous to the BRI1 receptor kinase in
-plants, or whether effects are mediated through non-specific steroid
-interactions with fungal membranes or metabolism.
+Commercial BR formulations, typically applied at extremely low concentrations
+(10⁻² to 10⁻¹ ppm), have been registered in several countries. Their extreme
+potency at nanomolar concentrations makes commercial application economically
+viable even at small scales.
 
 ## Signaling Pathway
 
-In plants, brassinosteroid signaling proceeds through:
+The BR signaling cascade is well-characterized:
 
-1. BR binds to BRI1 receptor kinase at the cell surface
-2. BRI1 associates with co-receptor BAK1
-3. Downstream phosphorylation activates BSK and CDG1 kinases
-4. These inhibit the GSK3-like kinase BIN2
-5. Transcription factors BZR1 and BES1 are dephosphorylated and
-   translocate to the nucleus to regulate BR-responsive genes
+1. **BRI1**: Leucine-rich repeat receptor-like kinase (LRR-RLK) serving as
+   the primary BR receptor at the cell surface
+2. **BAK1**: Co-receptor forming a heterodimer with BRI1 upon BR binding
+3. **BSKs and CDGs**: Cytoplasmic kinases that transduce the signal downstream
+4. **BIN2**: GSK3-like kinase that phosphorylates and inhibits downstream
+   transcription factors in the absence of BR signal
+5. **BZR1 and BES1**: Transcription factors that regulate BR-responsive gene
+   expression when dephosphorylated
 
-This pathway integrates with auxin and gibberellin signaling to
-coordinate growth and developmental responses.
+## Cross-Kingdom Activity
 
-## Analytical Detection
-
-Brassinosteroids occur at nanogram to picogram per gram concentrations,
-requiring sensitive analytical methods:
-
-- **LC-MS/MS**: The preferred method for high sensitivity without
-  derivatization
-- **GC-MS**: Historical standard after derivatization
-- **ELISA**: High-throughput screening using specific antibodies
+Research by Gartz, Adam, and Vorbrodt (1990) demonstrated that the synthetic
+brassinosteroid 22S,23S-homobrassinolide produced strong growth-promoting
+effects in mycelial cultures of the fungus *[[anemotropism-in-psilocybe-cubensis]]*, suggesting
+brassinosteroids may play physiological roles in higher fungi. This cross-
+kingdom activity raises interesting questions about the evolutionary
+conservation of brassinosteroid signaling mechanisms.
 
 ## See Also
 
-- [[mycelial-growth-enhancement-with-phytohormones]] — Phytohormone
-  application to fungal cultivation
-- psilocybe-cubensis-fruiting-optimization — [[mycelial-growth-enhancement-with-phytohormones]]
-  outcomes in *P. cubensis*
-## Practical Considerations
+- [[homobrassinolide]]
+- [[psilocybe-cubensis]]
+- [[mycelial-growth-promotion]]
 
-Successful implementation of Brassinosteroids requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
+## References
 
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+1. Grove, M.D., et al. (1979). *Nature*, 281, 216-217.
+2. Adam, G., Marquardt, V. (1986). *Phytochemistry*, 25, 1787.
+3. Meudt, W.J. (1987). ACS Symp. Ser., 325, 53.
+4. Gartz, J., Adam, G., Vorbrodt, H.-M. (1990). *Naturwissenschaften*, 77,
+   388-389.

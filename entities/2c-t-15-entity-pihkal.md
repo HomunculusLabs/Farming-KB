@@ -34,7 +34,7 @@ carbon ring (the cyclohexyl homologue) was discussed as 2C-T-5 in the recipe for
 ## Safety Notes
 
 2C-T-15 is a research chemical documented in PIHKAL. Dosage data and safety profiles are based on limited [[2c-o-4-entity-pihkal]]
-- [[mda-entity-pihkal]]-pihkal
+- [[mda]]-pihkal
 
 - PIHKAL (Shulgin & Shulgin, 1991)
 - Related compounds in the 2C-T series

@@ -8,7 +8,7 @@ tags: [microbiology, cannabis, root-decay, cellvibrio, endorhiza, cellulolytic-b
 
 ## Overview
 
-In the Winston et al. (2014) study of the [[cultivar-cannabis-microbiome-two-tier-selection-model]], the aerobic cellulolytic bacterium *Cellvibrio* appeared as a dominant member of the [[proteobacteria-dominance-cannabis-endorhiza-community]] in the first experiment, comprising up to 16.9% of taxonomy-assigned reads. This unexpectedly high abundance was traced to post-harvest root decay rather than genuine endophytic colonization, making *Cellvibrio* a useful biomarker for distinguishing between active root endosphere communities and those undergoing senescence and decomposition.
+In the Winston et al. (2014) study of the [[cultivar-cannabis-microbiome-two-tier-selection-model]], the aerobic cellulolytic bacterium *Cellvibrio* appeared as a dominant member of the [[Proteobacteria]] in the first experiment, comprising up to 16.9% of taxonomy-assigned reads. This unexpectedly high abundance was traced to post-harvest root decay rather than genuine endophytic colonization, making *Cellvibrio* a useful biomarker for distinguishing between active root endosphere communities and those undergoing senescence and decomposition.
 
 ## Cellvibrio Biology
 

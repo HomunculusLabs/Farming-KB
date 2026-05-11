@@ -19,7 +19,7 @@ type: concept
 - **Class:** Phenethylamine (beta-methoxy derivative of MDPEA;
   member of the BOX family)
 - **Molecular formula:** C10H13NO3 (free base)
-- **Hydrochloride salt:** fine white crystalline product
+- **Hydrochloride salt:** fine white [[shirota-psilocybin-crystalline-product-catalytic-hydrogenolysis]]
   - Hydrate form: mp 105-106.5 °C (with bubbling and darkening)
   - Anhydrous form: mp 152-153 °C (from CH3CN or heating to
     100 °C in toluene)

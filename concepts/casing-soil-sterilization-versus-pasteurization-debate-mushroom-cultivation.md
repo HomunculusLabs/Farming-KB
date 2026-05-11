@@ -71,7 +71,7 @@ subbalteatus*, which may have different casing requirements than *A. bisporus*:
 ### Practical Experience
 The authors state explicitly that they have had "only bad experiences with untreated
 or pasteurised casing soils." This empirical observation, while anecdotal, suggests
-that the theoretical benefits of [[edaphic-factors-microbial-communities]] in casing may not translate
+that the theoretical benefits of [[crimson-clover]] in casing may not translate
 to practice in all cultivation contexts, particularly for these species at small
 scale.
 

@@ -98,20 +98,17 @@ and modern research methods have all contributed to current understanding.
 - [[harner-campa-ayahuasca-ceremony]]
 - [[ayahuasca-tourism-shaman-character-evaluation]]
 
-
 ## Practical Considerations
 Implementation requires careful attention to local conditions,
 available resources, and the specific goals of the practitioner.
 Documenting results and adapting approaches based on observed
 outcomes leads to continuous improvement over time.
 
-
 ## Integration Strategies
 Combining multiple approaches often yields better results than
 relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
-
 
 ## See Also
 - [[amaringo-ayahuasca-visions-shipibo-iconography]]
@@ -125,4 +122,3 @@ that can amplify overall effectiveness.
 - [[mckenna-tryptamine-ayahuasca-and-dmt-combinations]]
 - [[dmt-and-ayahuasca-history]]
 - [[ayahuasca-and-dmt-plant-medicine]]
-

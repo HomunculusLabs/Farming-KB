@@ -1,5 +1,5 @@
 ---
-title: [[coleman-quick-hoops]] Low Cost [[cold-climate-farming-and-season-extension]] Structures Design
+title: Coleman Quick Hoops Low Cost Season Extension Structures Design
 source: "[[eliot-coleman]] - The [[cold-house-winter-harvest-system]] Handbook"
 source_path: "raw/papers/eliot-coleman-winter-harvest-handbook.md"
 topics: [coleman, winter-harvest, quick-hoops, season-extension, low-tunnels, protected-cultivation, row-cover, conduit-hoops, overwintering]

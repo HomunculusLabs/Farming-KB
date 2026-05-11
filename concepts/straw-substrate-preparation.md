@@ -1,5 +1,5 @@
 ---
-title: [[jarrold-straw-substrate-preparation-marmite-supplementation]]
+title: Straw Substrate Preparation
 aliases: [straw substrate, mushroom substrate, pasteurized straw, spawn substrate preparation]
 created: 2026-05-10
 source: jarrold-indoor-mushroom-growing-technique-boil-a-bag.md

@@ -82,7 +82,7 @@ layer of loam topsoil and spread it above the clay:
 4. The imported loam becomes the topsoil; the original clay becomes subsoil.
 
 This approach requires an initial investment (approximately $1,200 for 120 cubic
-yards of sandy loam topsoil, though costs vary) but pays large dividends for
+yards of [[sandy-loam-texture-cannabis-microbiome-assembly]] topsoil, though costs vary) but pays large dividends for
 decades. The gardener then needs only two to three cubic yards (1.5 to 2 m³) of
 compost per year to maintain the genuine loam topsoil, compared to 20-25 cubic
 yards annually for the organic-matter-incorporation approach.

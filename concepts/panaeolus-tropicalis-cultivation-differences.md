@@ -60,7 +60,7 @@ Growers transitioning from cubensis should be aware of these adjustments:
 
 - [[panaeolus-cyanescens-cultivation-guide]] — detailed step-by-step cultivation
 - panaeolus tropicalis cultivation differences — species profile and identification
-- [[copelandia-genus-species-guide]] — genus-level taxonomy
+- [[Copelandia]] — genus-level taxonomy
 - [[mushroom-cultivation-fruiting-chambers]] — fruiting environment design
 - [[three-pillars-mushroom-cultivation-spawn-substrate-environment]] — sterile procedures
 ## Practical Considerations

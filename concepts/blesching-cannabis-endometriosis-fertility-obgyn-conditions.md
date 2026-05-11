@@ -1,6 +1,6 @@
 ---
-title: Blesching Cannabis Endometriosis Fertility Obgyn Conditions
-source: The [[blesching-cannabis-health-index-autoimmune-conditions]] (Uwe Blesching, PhD, 2015)
+title: [[blesching-cannabis-endometriosis-pain-inflammation]] Fertility Obgyn Conditions
+source: The [[blesching-cannabis-health-index-autoimmune-conditions]] ([[uwe-blesching]], PhD, 2015)
 tags: [cannabis, endometriosis, fertility, pregnancy, childbirth, menstrual, obgyn, endocannabinoid, blesching, chi-score]
 ---
 
@@ -8,7 +8,7 @@ tags: [cannabis, endometriosis, fertility, pregnancy, childbirth, menstrual, obg
 
 ## Overview
 
-In *The Cannabis Health Index*, Uwe Blesching compiles evidence for cannabis in treating obstetric and gynecological (OBGYN) conditions, an area of medicine where modern clinical studies remain scarce. Historical records spanning from Sumerian and Egyptian medicine through nineteenth-century [[herbal-materia-medica]] describe consistent use of cannabis for menstrual difficulties, childbirth pain, threatened abortion, [[blesching-cannabis-morning-sickness]], postpartum bleeding, and menopausal symptoms. Modern research is beginning to validate these traditional applications through the lens of the endocannabinoid system's role in female reproductive physiology.
+In *The [[blesching-cannabis-health-index-cannabinoid-terpene-synergy]]*, Uwe Blesching compiles evidence for cannabis in treating obstetric and gynecological (OBGYN) conditions, an area of medicine where modern clinical studies remain scarce. Historical records spanning from Sumerian and Egyptian medicine through nineteenth-century [[herbal-materia-medica]] describe consistent use of cannabis for menstrual difficulties, [[blesching-cannabis-childbirth-pain]], threatened abortion, [[blesching-cannabis-morning-sickness]], postpartum bleeding, and menopausal symptoms. Modern research is beginning to validate these traditional applications through the lens of the endocannabinoid system's role in female reproductive physiology.
 
 ## Historical Context
 
@@ -36,7 +36,7 @@ The endocannabinoid system plays a direct role in the earliest processes of conc
 
 ### The Dual Nature Problem
 
-These dose-dependent and opposing properties of cannabis are not unique to reproduction—they appear throughout [[blesching-cannabinoid-pharmacology]] in pain modulation, mood regulation, and immune function. This biphasic response pattern helps explain the seemingly contradictory historical references:
+These dose-dependent and opposing properties of cannabis are not unique to reproduction—they appear throughout [[cannabinoid]] in [[endogenous-opioids-pain-modulation-endocannabinoid-interaction]], mood regulation, and immune function. This biphasic response pattern helps explain the seemingly contradictory historical references:
 
 - Cannabis used to **prevent miscarriage** (low-dose effect supporting implantation)
 - Cannabis used as an **early abortifacient** (high-dose effect inhibiting implantation)
@@ -61,7 +61,7 @@ The exact causes remain unclear, but retrograde menstruation (menstrual blood co
 
 ### Cannabis Research Evidence
 
-**Combined CHI Value: 5** (from 2 studies reviewed)
+**Combined [[blesching-cannabis-prostate-cancer-chi-value-3]]: 5** (from 2 studies reviewed)
 
 1. **Florida State University (2010)** — Animal study (rats):
    - CB1 receptors are present in nerve cells innervating endometrial growths

@@ -68,7 +68,7 @@ Select biofertilizers when you need a predictable, targeted biological input. In
 
 [[pgpr-mycorrhizal-inoculants-microplant-establishment]] are valuable when establishing perennial crops, orchards, or timber plantations on degraded soils where native [[dighton-mycorrhizal-networks-carbon-transfer]] have been depleted by prolonged tillage, fallow periods, or chemical inputs. Phosphate-solubilizing inoculants make sense in soils with high total phosphorus but low availability.
 
-Biofertilizers also suit operations that want a simple, repeatable input without investing in [[compost-tea-brewing-equipment-ingham]]. Commercial products come with clear application rates and integrate easily into existing planting workflows with minimal training or infrastructure changes. Regulatory considerations also differ: biofertilizers are typically registered as agricultural inputs with defined application rates, while compost tea falls into a regulatory gray area in many jurisdictions.
+Biofertilizers also suit operations that want a simple, repeatable input without investing in [[circadian-rhythm-in-plants]]. Commercial products come with clear application rates and integrate easily into existing planting workflows with minimal training or infrastructure changes. Regulatory considerations also differ: biofertilizers are typically registered as agricultural inputs with defined application rates, while compost tea falls into a regulatory gray area in many jurisdictions.
 
 ## When to Choose Compost Tea
 

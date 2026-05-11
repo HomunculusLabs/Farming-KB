@@ -1,5 +1,5 @@
 ---
-title: [[aquarium-humidity-chamber-mushroom-fruiting]] Fruiting
+title: Humidity Chamber Mushroom Fruiting
 slug: humidity-chamber-mushroom-fruiting
 tags: [mycology, mushroom-cultivation, fruiting, humidity, grow-chamber]
 related: [straw-substrate-mushroom-cultivation-boil-a-bag, spore-syringe-preparation-mushroom-cultivation]

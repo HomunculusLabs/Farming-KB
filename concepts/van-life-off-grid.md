@@ -1,5 +1,5 @@
 ---
-title: Van Life [[cotter-off-grid-mushroom-cultivation]]
+title: "Van Life [[cotter-off-grid-mushroom-cultivation]]"
 created: 2026-04-12
 updated: 2026-04-12
 type: concept
@@ -17,7 +17,7 @@ Camper van living off-grid combines mobility with self-sufficiency. A well-built
 
 **Ford Transit**
 - Available in 150, 250, 350 configurations
-- High roof and extended length options
+- High roof and extended length [[query-what-are-the-best-heating-options-for-an-off-grid-homestead]]
 - EcoBoost gas or diesel engines
 - Good parts availability
 - Price: $30,000-55,000 new, $15,000-35,000 used

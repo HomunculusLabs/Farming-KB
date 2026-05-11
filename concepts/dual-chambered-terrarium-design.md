@@ -1,5 +1,5 @@
 ---
-title: Dual [[pf-tek-dual-chambered-terrarium-design-humidity-management]]
+title: "Dual [[pf-tek-dual-chambered-terrarium-design-humidity-management]]"
 created: 2026-04-28
 tags: [terrarium, humidity, fruiting, aquarium, cultivation]
 date: 2026-04-28

@@ -1,5 +1,5 @@
 ---
-title: [[korean-natural-farming]] Imo Collection [[query-how-do-i-use-fermented-plant-extracts-in-my-garden]]
+title: Korean Natural Farming Imo Collection Fermented Plant Extracts
 category: sustainable-agriculture
 source: general-knowledge
 mined: 2026-05-10

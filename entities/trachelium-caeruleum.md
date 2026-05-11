@@ -74,7 +74,7 @@ Pest problems include aphids on young shoots and inflorescences, [[cervantes-spi
 
 Greenhouse production requires daylength manipulation to induce flowering outside the natural season. Long-day treatment (>14 hours) accelerates flowering, making Trachelium suitable for programmed year-round harvest.
 
-Cut stems should be harvested when approximately half the florets in the corymb are open. Post-harvest treatment with commercial floral preservatives extends vase life significantly beyond the untreated baseline.
+Cut stems should be harvested when approximately half the florets in the corymb are open. Post-harvest treatment with [[night-interruption-photoperiodism-commercial-floral-manipulation]] preservatives extends vase life significantly beyond the untreated baseline.
 
 ## Ecological Role
 

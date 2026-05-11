@@ -7,7 +7,7 @@ date: 2026-04-28
 updated: 2026-04-28
 sources: [/Users/t3rpz/wiki/raw/papers/unknown-growing-gourmet-and-medicinal-mushrooms-s.md]
 ---
-# Agaricus subrufescens Agaricus subrufescens, commonly known as the Almond Agaricus or the Brazil Mushroom, is a gourmet and medicinal mushroom distinguished by its pronounced almond aroma. Originally described from North America, this species has gained significant attention for both its culinary qualities and its medicinal properties, particularly its immune-enhancing beta-glucan content. It is closely related to [[agaricus-blazei]], a name often used interchangeably in commercial contexts. See [[ganoderma-lucidum]] for another widely studied medicinal mushroom.
+# Agaricus subrufescens Agaricus subrufescens, commonly known as the Almond Agaricus or the Brazil Mushroom, is a gourmet and medicinal mushroom distinguished by its pronounced almond aroma. Originally described from North America, this species has gained significant attention for both its culinary qualities and its medicinal properties, particularly its immune-enhancing beta-glucan content. It is closely related to [[Agaricus]], a name often used interchangeably in commercial contexts. See [[ganoderma-lucidum]] for another widely studied medicinal mushroom.
 
 ## Taxonomy and Description
 

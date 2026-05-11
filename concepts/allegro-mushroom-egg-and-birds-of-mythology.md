@@ -78,20 +78,17 @@ and modern research methods have all contributed to current understanding.
 - [[allegro-mushroom-cosmography]]
 - [[allegro-sacred-prostitute-and-the-mushroom-cult]]
 
-
 ## Ecological Role
 Fungal organisms play critical roles in ecosystem functioning through
 decomposition, nutrient cycling, and symbiotic relationships with plants.
 Understanding their ecological contributions informs both cultivation
 practices and conservation efforts across diverse habitats.
 
-
 ## Research Directions
 Current research explores applications in bioremediation, sustainable
 agriculture, and pharmaceutical development. Advances in genomic
 sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
-
 
 ## See Also
 - [[allegro-cross-and-mushroom-symbolism]]
@@ -127,4 +124,3 @@ Cross-disciplinary collaboration and advances in analytical
 methods create opportunities for innovation and refinement.
 Recommended resources include current literature, practitioner
 communities, and systematic experimentation to build expertise.
-

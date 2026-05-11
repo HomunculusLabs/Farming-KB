@@ -87,7 +87,7 @@ supplemental watering during dry periods. Rainwater harvesting works effectively
 no benefit. For renters and those with limited land rights, portable rain barrel systems can be installed and removed
 without permanent modifications to the property.
 
-The chemical-free water quality of harvested rainwater makes it especially valuable for compost [[compost-tea-brewing-equipment-ingham]], seedling
+The chemical-free water quality of harvested rainwater makes it especially valuable for compost [[circadian-rhythm-in-plants]], seedling
 irrigation, and sensitive biological applications where chlorine and other municipal treatment chemicals would harm soil
 microbiology. Brad Lancaster's framework prioritises rainwater harvesting as the first step in any water management
 strategy because it is accessible, scalable, and immediately beneficial regardless of property size, slope, or soil

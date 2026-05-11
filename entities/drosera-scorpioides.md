@@ -27,7 +27,7 @@ This species is one of the tallest pygmy sundews, forming erect stems up to
 6–8 cm tall with a compact rosette of sticky glandular leaves at the apex.
 The stem is covered in dead leaf bases, giving it a bearded appearance.
 
-D. scorpioides produces gemmae for asexual reproduction, a characteristic
+D. scorpioides produces gemmae for [[conidia-and-asexual-reproduction-in-filamentous-fungi]], a characteristic
 shared with other pygmy sundews. It is highly valued in cultivation for its
 architectural form and the bright pink coloration it develops under strong
 light.

@@ -12,7 +12,7 @@ updated: 2026-05-08
 sources:
   - McKenna, Terence. *Food of the Gods: The Search for the Original
     [[stropharia-cubensis-tree-of-knowledge]]*. Bantam Books, 1992.
-  - Wasson, R. Gordon. *Soma: [[soma-controversy-fly-agaric-as-divine-mushroom]] of Immortality*.
+  - Wasson, R. Gordon. *Soma: [[edaphic-factors]] of Immortality*.
     Harcourt Brace Jovanovich, 1968.
 related_concepts:
   - stoned-ape-hypothesis

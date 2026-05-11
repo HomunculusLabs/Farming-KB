@@ -84,6 +84,6 @@ taxonomic shifts:
 - **Decrease**: Acidobacteria (especially order iii1-15), dramatic
   reduction in endorhiza (Bonferroni-corrected ANOVA: p = 1.12e-7)
 - **Increase**: Proteobacteria and Actinobacteria within endorhiza
-- **Core [[proteobacteria-dominance-cannabis-endorhiza-community]]**: Pseudomonas, Cellvibrio, Oxalobacteraceae,
+- **Core [[Proteobacteria]]**: Pseudomonas, Cellvibrio, Oxalobacteraceae,
   Xanthomonadaceae, Actinomycetales, Sphingobacteriales — predominantly
   Gammaproteobacteria and Alphaproteobacteria

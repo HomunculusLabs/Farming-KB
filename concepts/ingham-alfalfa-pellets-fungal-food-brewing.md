@@ -32,7 +32,7 @@
     32|select for certain fungal species. This moderate C:N ratio makes it a
     33|useful intermediate food resource when you want both bacterial and fungal
     34|growth in a brew, unlike the strong fungal selectors which have much
-    35|wider C:N ratios. (see [[compost-tea-brewing-methods]]).
+    35|wider C:N ratios. (see [[circadian-rhythm-in-plants]]).
     36|
     37|The key distinction Ingham makes is that alfalfa hay (not straw) is the
     38|correct material. Hay retains the leafy, nutrient-rich portions of the

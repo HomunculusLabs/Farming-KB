@@ -1,5 +1,5 @@
 ---
-title: Soil Foodweb Biological Balancing Protocol Ingham
+title: "Soil Foodweb Biological Balancing Protocol Ingham"
 aliases: [soil [[soil-foodweb-balancing-protocol-ingham]], twelve steps soil biology, restoring soil biology, Ingham balancing protocol]
 tags: [soil-biology, soil-foodweb, compost-tea, mycorrhizae, soil-health, restoration]
 sources:
@@ -21,7 +21,7 @@ Before any corrective action is taken, the current state of soil biology must be
 - Total and active fungal biomass
 - Protozoa numbers (flagellates, amoebae, ciliates)
 - Nematode numbers and [[core-endorhiza-bacterial-community-composition-cannabis]] (bacterial-feeders, fungal-feeders, predators, root-feeders)
-- Mycorrhizal colonization percentage
+- [[arbuscular-mycorrhizal-colonization-patterns]] percentage
 - Microarthropod and earthworm presence
 
 Without this baseline data, any amendments are guesses. The test results define which steps of the protocol are needed.
@@ -34,7 +34,7 @@ Without this baseline data, any amendments are guesses. The test results define 
 
 **If bacteria are too low**:
 - Add compost (thermal or worm compost depending on fungal needs)
-- Apply actively aerated compost tea (AACT)
+- Apply [[actively-aerated-compost-tea-aact-brewing]] compost tea (AACT)
 - Add bacterial foods: molasses, sugars, simple carbohydrates
 
 **If bacteria are too high**:
@@ -43,7 +43,7 @@ Without this baseline data, any amendments are guesses. The test results define 
 - Add fungal-dominated compost or compost tea
 - Warning: do not add excessive food all at once or the soil may be driven anaerobic by rapid microbial growth
 
-The goal is not maximum bacteria but balanced bacteria at appropriate levels for the plant community being grown. Annual crops typically need more bacterial dominance; perennials and woody plants need more fungal dominance.
+The goal is not maximum bacteria but balanced bacteria at appropriate levels for the plant community being grown. Annual crops typically need more bacterial dominance; perennials and woody plants need more [[gadd-soil-biomass-fungal-dominance-elemental-cycles]].
 
 ### Steps Four and Five: Fungal Balance
 
@@ -65,13 +65,13 @@ The goal is not maximum bacteria but balanced bacteria at appropriate levels for
 **Assessment**: Check root samples for vesicular-arbuscular mycorrhizal (VAM) colonization percentage.
 
 **If colonization is 0–15%**:
-- Mycorrhizal inoculum (spores) must be placed directly next to roots or on/around seeds
+- [[arbuscular-mycorrhizal-inoculum-production-best-practices]] (spores) must be placed directly next to roots or on/around seeds
 - VAM fungi cannot be effectively delivered through compost tea because they are obligate root symbionts
 - Direct placement is essential — spores broadcast on the soil surface will not effectively colonize roots
 
 **If colonization is 15–40%**:
 - The system is building; adding humic acid as fungal food may be sufficient to support continued colonization
-- Avoid practices that damage mycorrhizal networks (excessive tillage, high phosphorus fertilizers, fungicides)
+- Avoid practices that damage [[arbuscular-mycorrhizal-networks]] (excessive tillage, high phosphorus fertilizers, fungicides)
 
 **If colonization is above 40%**:
 - The system is well-colonized; maintain conditions that support mycorrhizae

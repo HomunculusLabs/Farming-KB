@@ -1,90 +1,150 @@
 ---
-title: Withania Somnifera
+title: "Withania Somnifera"
 type: species
-tags: [herbal-plant, adaptogen, ayurveda, medicinal-herb]
+tags:
+  - herbal-plant
+  - adaptogen
+  - ayurveda
+  - solanaceae
+  - withanolides
+  - ashwagandha
+  - nootropic
+  - anti-inflammatory
+  - rasayana
 date: 2026-04-28
 updated: 2026-04-28
 sources:
-  - Singh N, et al. "An overview on ashwagandha: A rasayana (rejuvenator) of Ayurveda." African Journal of Traditional, Complementary and Alternative Medicines, 2011;8(5S):208-213.
-  - Chandrasekhar K, et al. "A prospective, randomised double-blind, placebo-controlled study of safety and efficacy of Ashwagandha root extract in reducing stress and anxiety in adults." Indian Journal of Psychological Medicine, 2012;34(3):255-262.
-  - Singh R, et al. "Withania somnifera (Ashwagandha): a comprehensive review on phytochemistry, pharmacology, and role in cancer therapy." Phytomedicine, 2021;80:153383.
-  - Mishra P, et al. "Ecology, conservation, and cultivation of Withania somnifera: An important medicinal plant of arid and semi-arid regions." Economic Botany, 2020;74(2):161-175.
-  - Patil R, et al. "Withania somnifera (L.) Dunal: A comprehensive review on morphological, micro-morphological and pharmacological aspects." 3 Biotech, 2022;12(4):104.
+  - Indian Journal of Psychological Medicine - Ashwagandha RCTs
+  - Alternative Medicine Review - Withanolide pharmacology
+  - Ayurvedic Pharmacopoeia of India
 ---
-
-# Withania somnifera
-
-**Withania somnifera**, commonly known as ashwagandha, winter cherry, or Indian ginseng, is an evergreen shrub in the family Solanaceae. It is one of the most important and widely used herbs in Ayurveda, the traditional medicine system of India, where it has been employed for over 3,000 years. The species name *somnifera* means "sleep-inducing" in Latin, reflecting one of its traditional uses.
-
-## Taxonomy
-
-| Rank | Classification |
-|------|---------------|
-| Kingdom | Plantae |
-| Clade | Tracheophytes, Angiosperms, Eudicots, Asterids |
-| Order | Solanales |
-| Family | Solanaceae |
-| Genus | Withania |
-| Species | W. somnifera |
-
-Withania somnifera was first described by Carl Linnaeus and later placed in its current genus by Michel Félix Dunal. Two main chemotypes are recognized based on withanolide profiles: one rich in withaferin A (Type I, Indian origin) and one rich in withanolide A (Type II, mainly from Central Asia and the Middle East).
-
-## Botanical Description
-
-Withania somnifera is a short, perennial shrub growing 35–75 cm tall. The plant is tomentose (densely covered in fine woolly hairs), giving it a greyish-green appearance.
-
-- **Stems**: Erect, branched, covered in stellate hairs.
-- **Leaves**: Simple, ovate, up to 10 cm long and 5 cm wide, dull green, alternate.
-- **Flowers**: Small, green, bell-shaped, borne in axillary clusters; hermaphroditic.
-- **Fruit**: Orange-red berries approximately 6 mm in diameter, enclosed in an inflated, papery calyx (the source of the name "winter cherry").
-- **Roots**: Thick, tuberous, fleshy, pale brown on the exterior, creamy white internally — this is the primary part used medicinally.
-
-The plant is native to dry regions of India, northern Africa, and the Middle East, and is also found in Mediterranean Europe. It grows wild in sandy loam soils at altitudes from sea level to 1,500 m.
-
-## Traditional Ayurvedic Uses
-
-In Ayurvedic medicine, ashwagandha is classified as a *rasayana* (rejuvenating tonic). The Sanskrit name "ashwagandha" translates to "smell of a horse," referring both to the root's characteristic odor and the traditional belief that it imparts the vigor and strength of a stallion.
-
-Key traditional applications include:
-
-- **Balya** (strength promoter): Used to restore vitality after illness and to build physical endurance.
-- **Vata hara**: Prescribed to pacify aggravated vata dosha, associated with the nervous system, movement, and aging.
-- **Medhya rasayana**: Used as a brain tonic to enhance memory, cognition, and learning.
-- **Vajikarana**: Employed as an aphrodisiac and to support reproductive health in both men and women.
-- **Nidra janana**: Used to promote restful sleep and manage insomnia.
-
-Classical formulations include *Ashwagandharishta*, *Ashwagandhadi churna*, and *Ashwagandha Ghrita*.
-
-## Active Compounds
-
-The primary bioactive constituents of Withania somnifera are a group of naturally occurring steroidal lactones called **withanolides**, which are structurally similar to ergostane-type steroids.
-
-### Major Withanolides
-
-- **Withanolide D**: Potent neuroprotective and anti-inflammatory compound; considered one of the key markers for quality standardization.
-- **Withaferin A**: A bioactive withanolide with demonstrated anticancer, anti-inflammatory, and pro-apoptotic properties. Shown to inhibit NF-κB signaling and induce [[blesching-cannabis-oxidative-stress-and-antioxidant-defense]] in tumor cells.
-- **Withanolide A**: Associated with neuroprotective effects and cognitive enhancement; promotes neurite outgrowth.
-- **Withanone**: Exhibits anticancer activity and may influence telomerase activity.
-- **12-Deoxywithastramonolide**: Anti-inflammatory and immunomodulatory.
-
-### Other Constituents
-
-- **Alkaloids**: Including anaferine, anahygrine, and somniferine.
-- **Saponins**: Sitoindosides VII–X, which may contribute to adaptogenic activity.
-- **Flavonoids**: Including [[quercetin]] derivatives.
-- **Iron**: The root contains significant iron content (~3 mg/g dry weight), relevant to its traditional use as a blood-building tonic.
-
-The withanolide profile varies significantly with cultivar, geographic origin, [[query-how-to-read-cannabis-trichomes-for-the-perfect-harvest-time]], and processing method. Standardized extracts are typically calibrated to 2.5–5% total withanolides.
-## See Also
-
-- [[curculigo-orchioides]]
-
-## Merged: "Withania somnifera (Ashwagandha)"
 
 # Withania somnifera (Ashwagandha)
 
-withania somnifera, commonly known as ashwagandha, Indian ginseng, or winter cherry, is an evergreen shrub in the Solanaceae (nightshade) family. It is one of the most important herbs in Ayurvedic medicine, where it has been used for over 3,000 years as a rasayana (rejuvenating tonic). The name "ashwagandha" derives from Sanskrit, meaning "smell of the horse," referring both to the root's characteristic odor and the traditional belief that it confers the vigor and strength of a horse. Modern pharmacological research has validated many of its traditional uses, establishing it as one of the most evidence-based [[psychedelic-research-legal-history-united-states]], and Australia.
+## Overview
 
-## Ayurvedic History and Traditional Use
+*Withania somnifera*, commonly known as **Ashwagandha**, **Indian Ginseng**, or **Winter Cherry**, is a perennial shrub in the family Solanaceae. One of the most important herbs in Ayurvedic medicine, it has been classified as a *Rasayana* (rejuvenator) and used for over 3,000 years to promote vitality, reduce stress, and enhance cognitive function. The name "ashwagandha" derives from Sanskrit: *ashwa* (horse) + *gandha* (smell), referring to the horse-like odor of the root and its traditional association with conferring the strength and vitality of a stallion.
 
-Ashwagandha occupies a central position in the Ayurvedic pharmacopoeia, classified as a rasayana (rejuvenating agent) and medhya rasayana (cognitive enhancer). Classical Ayurvedic texts including the Charaka Samhita, Sushruta Samhita, and Bhavaprakasha Nighantu describe its use for strengthening the body, promoting longevity, improving vitality, enhancing reproductive function, and treating conditions of weakness and debility. Traditionally, the root powder (churna) is used internally, often mixed with warm milk, ghee, or honey. Traditional indications include emaciation, insomnia, arthritis, impotence, cognitive decline, anxiety, and convalescence. In Unani (Greco-Arabic) medicine, it is known as "Asagandh" and used for similar purposes including as a brain tonic and aphrodisiac.
+## Taxonomy
+
+| Rank       | Classification     |
+|------------|--------------------|
+| Kingdom    | Plantae            |
+| Division   | Angiosperms        |
+| Class      | Eudicots           |
+| Order      | Solanales          |
+| Family     | Solanaceae         |
+| Genus      | Withania           |
+| Species    | *W. somnifera*     |
+
+## Botanical Description
+
+- **Habit**: Erect, evergreen shrub, 35–75 cm tall, branching from the base
+- **Leaves**: Ovate, obtuse, 5–10 cm long, dull green, covered with fine tomentose hairs
+- **Flowers**: Small, greenish-yellow or bell-shaped, axillary, solitary or in short clusters
+- **Fruit**: Small, globose berry, 6–8 mm diameter, enclosing many seeds; enclosed in enlarged papery calyx (resembling a miniature lantern), orange-red when ripe
+- **Root**: Fleshy, tuberous, light brown externally and white internally; the primary medicinal part
+
+## Geographic Distribution
+
+Native to the dry regions of **India, Pakistan, Sri Lanka, North Africa, the Middle East**, and the **Mediterranean**. It thrives in arid and semi-arid conditions at elevations up to 1,700 m. Major commercial cultivation occurs in the Indian states of Madhya Pradesh, Rajasthan, and Andhra Pradesh.
+
+## Active Compounds (Withanolides)
+
+The pharmacological activity of *W. somnifera* is primarily attributed to **withanolides** — steroidal lactones built on an ergostane skeleton. Over 40 withanolides have been isolated.
+
+### Key Withanolides
+
+| Compound            | Location   | Primary Activity                          |
+|---------------------|------------|-------------------------------------------|
+| Withaferin A        | Leaves     | Anti-cancer, anti-angiogenic, cytotoxic   |
+| Withanolide D       | Leaves     | Immunomodulatory, anti-inflammatory       |
+| Withanolide A       | Roots      | Neuroprotective, memory enhancement       |
+| Withanone           | Roots      | Anti-aging, DNA protection                |
+| Withanoside IV      | Roots      | Neuroregenerative, anti-convulsant        |
+
+### Other Bioactive Components
+
+- **Sitoindosides VII–X**: Glycowithanolides unique to ashwagandha, contributing to adaptogenic activity
+- **Alkaloids**: Withanine, somniferine, withasomnine (mild sedative properties)
+- **Iron**: Root is notably rich in bioavailable iron, supporting traditional use for anemia
+
+## Pharmacology and Health Benefits
+
+### Stress and Cortisol Modulation (Adaptogenic)
+
+Ashwagandha's best-documented effect is modulation of the **hypothalamic-pituitary-adrenal (HPA) axis**. Multiple RCTs demonstrate:
+
+- **Cortisol reduction**: 14–28% decrease in serum cortisol vs. placebo over 60 days
+- **Perceived stress**: Significant reduction on the Perceived Stress Scale (PSS)
+- **Mechanism**: Withanolides mimic GABAergic activity, reducing neuronal excitability and HPA overactivation
+
+### Testosterone and Male Fertility
+
+- **Testosterone**: Studies in men aged 40–70 showed 14.7% increase in testosterone vs. placebo (600 mg/day KSM-66 extract, 8 weeks)
+- **Sperm parameters**: Significant improvements in sperm count (+167%), motility (+57%), and semen volume in oligospermic men
+- **Mechanism**: Likely mediated through reduced cortisol (which suppresses gonadal function) and direct Leydig cell support
+
+### Cognitive Function
+
+- **Memory**: Withanolide A promotes dendritic reconstruction and synaptic formation in hippocampal neurons
+- **Attention**: Improved reaction time and cognitive task performance in healthy adults
+- **Alzheimer's models**: Withanoside IV and withanolide A reduced amyloid-beta and tau pathology in rodent models
+
+### Thyroid Function
+
+Ashwagandha root extract has shown the ability to normalize thyroid hormone levels in subclinical hypothyroidism:
+
+- T4 increase of ~10% in subclinical hypothyroid patients
+- TSH decrease toward normal range
+- Mechanism: direct stimulation of thyroid hormone synthesis via antioxidant protection of thyroid tissue
+
+### Musculoskeletal and Athletic Performance
+
+- **VO₂ max**: Improved cardiovascular endurance in athletes (600 mg/day, 8 weeks)
+- **Strength**: Increased bench press and leg extension 1RM in untrained males
+- **Recovery**: Reduced creatine kinase and muscle damage markers post-exercise
+
+## Cultivation
+
+### Growing Conditions
+
+| Parameter        | Requirement                           |
+|------------------|---------------------------------------|
+| Soil             | Sandy loam, well-drained, pH 7.5–8.0 |
+| Climate          | Semi-arid, 20–35°C                    |
+| Rainfall         | 500–750 mm annually                   |
+| Propagation      | [[clay-seed-pellets-direct-seeding]]; seed rate 5–6 kg/ha   |
+| Spacing          | 20–30 cm between plants              |
+| Irrigation       | Minimal; drought-tolerant once established |
+
+### Harvest and Processing
+
+- **Growing cycle**: 150–180 days from sowing to harvest
+- **Harvest**: Entire plant uprooted when berries begin to ripen; roots separated, washed, and dried
+- **Yield**: 400–600 kg dried root per hectare under rainfed conditions
+- **Post-harvest**: Roots are dried at 40–50°C, cut into pieces or powdered. Leaves may be separately harvested for withaferin A extraction
+
+### Popular Extract Standardizations
+
+| Extract       | Part Used | Standardization          | Manufacturer |
+|---------------|-----------|--------------------------|--------------|
+| KSM-66        | Root      | 5% withanolides          | Ixoreal      |
+| Sensoril      | Root+Leaf | 10% withanolides         | Natreon      |
+| Shoden        | Root+Leaf | 35% withanolides         | Arjuna       |
+
+## Safety and Dosage
+
+- **Typical dosage**: 300–600 mg/day root extract (standardized to 2.5–5% withanolides)
+- **[[blesching-cannabis-safety-profile]]**: GRAS in the US; LD50 > 5 g/kg in rodents (extremely [[fukuoka-low-toxicity-pesticide-deception]])
+- **Side effects**: Rare; mild GI upset at high doses
+- **Contraindications**: Nightshade family allergy, hyperthyroidism (may overstimulate), pregnancy (uterine stimulant properties), [[blesching-cannabis-health-index-autoimmune-conditions]] (immune-stimulating)
+- **[[ayahuasca-drug-interactions]]**: Potential interaction with thyroid medications, sedatives, and immunosuppressants
+
+## Traditional Ayurvedic Context
+
+In Ayurvedic medicine, ashwagandha is classified as:
+
+- **Rasayana**: Rejuvenative tonic promoting longevity and vitality
+- **Balya**: Strength-promoting
+- **Vajikarna**: Aphrodisiac and reproductive tonic

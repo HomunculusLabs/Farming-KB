@@ -30,7 +30,7 @@ treatment intentionally kills microbes to ensure water safety for human
 consumption. (see [[ingham-micronized-compost-aact-brewing-technique]]).
 
 However, the organisms that make compost tea effective are precisely the
-aerobic bacteria, fungi, protozoa, and nematodes that chlorine targets. (see [[compost-tea-brewing-methods]]).
+aerobic bacteria, fungi, protozoa, and nematodes that chlorine targets. (see [[circadian-rhythm-in-plants]]).
 Ingham's observations of fully chlorinated water on organisms in tea are
 unequivocal: "Activity is destroyed." She cautions that anyone relying
 on plate counts to assess the damage will miss most of the impact, since

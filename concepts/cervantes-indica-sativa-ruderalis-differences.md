@@ -75,7 +75,7 @@ Under international law, all cannabis is classified as *Cannabis sativa* regardl
 
 ## Hybrid Strains and Modern Breeding
 
-Modern [[oner-cannabis-breeding-fundamentals]] has extensively crossed the four subspecies to combine desirable traits. The goal is typically to combine the yield, density, and rapid flowering of indica/afghanica genetics with the potency, flavor, and cerebral effects of sativa strains. Ruderalis genetics have been incorporated primarily for their autoflowering trait, allowing harvests without [[chrysanthemum-greenhouse-photoperiod-manipulation]]. Indica-sativa hybrids represent the vast majority of modern commercial strains, while autoflowering ruderalis hybrids have become a significant market segment since the early 2000s.
+Modern [[oner-cannabis-breeding-fundamentals]] has extensively crossed the four subspecies to combine desirable traits. The goal is typically to combine the yield, density, and rapid flowering of indica/afghanica genetics with the potency, flavor, and cerebral effects of sativa strains. Ruderalis genetics have been incorporated primarily for their autoflowering trait, allowing harvests without [[cannabinoid-pharmacology]]. Indica-sativa hybrids represent the vast majority of modern commercial strains, while autoflowering ruderalis hybrids have become a significant market segment since the early 2000s.
 
 ## Selecting the Right Subspecies for Growing Conditions
 

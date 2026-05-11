@@ -5,86 +5,146 @@ tags:
   - psychedelic
   - tryptamine
   - serotonergic
-  - schedule-I
-  - neuroplasticity
-  - psilocybe
-  - mental-health
-  - entheogen
   - 5-HT2A
+  - neuroplasticity
+  - schedule-I
+  - psilocybe
+  - prodrug
+  - entheogen
+  - mental-health
 date: 2026-04-28
-updated: 2026-05-10
+updated: 2026-04-28
 sources:
-  - Nichols, D.E. (2016) — taar1-trace-amine-associated-receptor-psychedelic-pharmacology review
-  - Carhart-Harris et al. (2016) — Imperial College depression trial
-  - Johnson, M. et al. — [[johns-hopkins-psychedelic-research]] smoking cessation study
-  - DEA [[controlled-substances-act-and-psychedelic-research]] Act, Schedule I
-  - [[compass-pathways]] clinical trial data
+  - Johns Hopkins Center for Psychedelic Research
+  - MAPS ([[maps-multidisciplinary-association-for-psychedelic-studies]] Psychedelic Studies)
+  - Carhart-Harris et al. - Imperial College London fMRI studies
 ---
 
 # Psilocybin
 
 ## Overview
 
-**Psilocybin** (4-phosphoryloxy-N,N-dimethyltryptamine) is a naturally occurring **psychedelic tryptamine** alkaloid found in over 200 species of fungi, primarily in the genus *Psilocybe*. First isolated by **Albert Hofmann** in 1958 from *[[dark-incubation-sclerotia-production-psilocybe-mexicana-tampanensis]]*, psilocybin is a **prodrug** that the body rapidly dephosphorylates into **psilocin** (4-hydroxy-N,N-dimethyltryptamine), the primary psychoactive metabolite.
+**Psilocybin** (4-PO-DMT, *O*-phosphoryl-4-hydroxy-N,N-dimethyltryptamine) is a naturally occurring psychedelic prodrug found in over 200 species of fungi, predominantly within the genus *Psilocybe*. Upon ingestion, psilocybin is rapidly dephosphorylated by alkaline phosphatase in the gut, liver, and kidneys to produce **psilocin** (4-HO-DMT), the primary psychoactive metabolite. Psilocin acts as a **partial agonist at 5-HT₂A [[psilocybin-pharmacology-and-serotonin-receptors]]**, producing profound alterations in perception, cognition, emotion, and sense of self.
 
-After decades of prohibition-driven research suppression, psilocybin has experienced a dramatic scientific renaissance since the mid-2010s, with landmark [[cancer-medicinal-mushrooms-schizophyllan-spg-clinical-trials]] demonstrating efficacy for treatment-resistant depression, end-of-life anxiety, substance use disorders, and obsessive-compulsive disorder. It is currently classified as **Schedule I** under the US Controlled Substances Act, though multiple jurisdictions have decriminalized or legalized therapeutic use.
+## Chemical Profile
 
-## Chemistry
+| Property              | Value                                            |
+|-----------------------|--------------------------------------------------|
+| Chemical formula      | C₁₂H₁₇N₂O₄P                                     |
+| Molecular weight      | 284.25 g/mol                                     |
+| CAS number            | 520-52-5                                         |
+| IUPAC name            | [3-[2-(dimethylamino)ethyl]-1H-indol-4-yl] dihydrogen phosphate |
+| Appearance            | White to off-white crystalline solid             |
+| Solubility            | Soluble in water, methanol; insoluble in nonpolar solvents |
+| Melting point         | 220–228°C (decomposes)                           |
+| Active metabolite     | Psilocin (4-HO-DMT), C₁₂H₁₆N₂O, MW 204.27      |
 
-### Molecular Properties
+### Structural Classification
 
-| Property | Value |
-|---|---|
-| Chemical name | 4-Phosphoryloxy-N,N-dimethyltryptamine |
-| Molecular formula | C₁₂H₁₇N₂O₄P |
-| Molecular weight | 284.25 g/mol |
-| Appearance | White to off-white crystalline solid |
-| Solubility | Soluble in water, methanol; insoluble in nonpolar solvents |
-| pKa | 8.47 (amine); 1.3 (phosphate) |
-| CAS number | 520-52-5 |
+Psilocybin belongs to the **tryptamine** family, structurally related to serotonin (5-hydroxytryptamine), DMT (N,N-dimethyltryptamine), and bufotenin. The 4-hydroxy substitution on the indole ring distinguishes it from 5-substituted tryptamines like DMT and bufotenin.
 
-### Structural Relationship
+## Natural Occurrence
 
-Psilocybin is structurally analogous to **serotonin (5-hydroxytryptamine, 5-HT)** and **DMT (N,N-dimethyltryptamine)**. Key [[metzner-shamanic-ceremony-versus-psychotherapy-structural-features]] are:
+### Primary Fungal Genera
 
-- **Indole ring**: Core tryptamine scaffold shared with serotonin, melatonin, and DMT
-- **4-position hydroxyl**: Critical for 5-HT₂A receptor affinity; psilocybin has a phosphate ester at this position
-- **N,N-dimethylamine**: Tertiary amine at the terminus of the ethylamine side chain
+| Genus          | Notable Species                          | Geographic Range         |
+|----------------|------------------------------------------|--------------------------|
+| *Psilocybe*    | *P. cubensis*, *P. semilanceata*, *P. cyanescens* | Worldwide (tropical to temperate) |
+| *Panaeolus*    | *P. cyanescens*, *P. tropicalis*         | Tropical/subtropical     |
+| *Inocybe*      | *I. aeruginascens*                       | Europe                   |
+| *Gymnopilus*   | *G. junonius*                            | Worldwide                |
+| *Pluteus*      | *P. salicinus*                           | Europe, North America    |
 
-The phosphate group is cleaved in vivo by **alkaline phosphatase** enzymes in the gut, liver, and kidneys, converting it to psilocin within minutes of ingestion.
+### Concentration in Biomass
 
-### Psilocin (Active Metabolite)
+Psilocybin content varies significantly by species, substrate, and growing conditions:
 
-| Property | Value |
-|---|---|
-| Molecular formula | C₁₂H₁₆N₂O |
-| Molecular weight | 204.27 g/mol |
-| Half-life | ~2.5 hours |
-| Peak plasma concentration | 60–90 minutes post-ingestion (oral) |
-| Duration of action | 4–6 hours (typical) |
-| CAS number | 520-53-6 |
+- *Psilocybe semilanceata*: 0.98% dry weight (highest naturally occurring)
+- *Psilocybe cubensis*: 0.50–0.90% dry weight
+- *Psilocybe cyanescens*: 0.75–1.80% dry weight (including psilocin)
 
-## Pharmacology
+## Pharmacokinetics
 
-### Receptor Activity
+### Absorption and Metabolism
 
-Psilocin is a **partial agonist** at multiple [[serotonin-receptor-interference-psychedelic-mechanism]] subtypes:
+1. **Ingestion** → psilocybin enters GI tract
+2. **Dephosphorylation** → alkaline phosphatase converts psilocybin to psilocin (within minutes)
+3. **Absorption** → psilocin absorbed through GI mucosa into portal circulation
+4. **First-pass metabolism** → some psilocin glucuronidated in the liver
+5. **Crosses blood-brain barrier** → psilocin reaches CNS within 20–40 minutes
 
-| Receptor | Affinity (Ki) | Activity | Significance |
-|---|---|---|---|
-| 5-HT₂A | ~6 nM | Partial agonist | Primary mediator of psychedelic effects |
-| 5-HT₂C | ~10 nM | Partial agonist | Contributes to anxiogenic effects, appetite suppression |
-| 5-HT₁A | ~50 nM | Agonist | Anxiolytic, contributes to entactogenic qualities |
-| 5-HT₂B | Moderate | Agonist | Low risk at typical doses; cardiac valve concern with chronic use |
+### Elimination
 
-The **5-HT₂A receptor** is the primary target responsible for the characteristic [[leary-psychedelic-experience-bardo-mapping]]. Cortical layer V pyramidal neurons express high densities of 5-HT₂A receptors. Activation causes increased cortical excitability, enhanced cross-modal connectivity, disruption of the **[[default-mode-network-and-ego-dissolution]] (DMN)**, and increased neuroplasticity signaling cascades (BDNF, mTOR pathway).
+- **Half-life**: ~2.5 hours for psilocin
+- **Duration of effects**: 4–6 hours (dose-dependent)
+- **Excretion**: Primarily renal as psilocin glucuronide; detectable in urine for 24–72 hours
+- **No accumulation**: Complete elimination within 24 hours
 
-### Pharmacokinetics
+## Mechanism of Action
 
-- **Absorption**: Rapid oral absorption; onset 20–40 minutes
-- **Distribution**: Crosses the blood-brain barrier readily (lipophilic psilocin)
-- **Metabolism**: Hepatic via **MAO-A** → 4-hydroxyindole-3-acetic acid (4-HIAA); also O-glucuronidation
-- **Elimination**: Renal excretion; >95% cleared within 24 hours
-- **MAOI interaction**: Concurrent MAO-A inhibitors can dramatically potentiate and prolong effects
+### 5-HT₂A Receptor Agonism
 
-### Blood Levels and Dose Response
+Psilocin is a **partial agonist** at 5-HT₂A serotonin receptors, densely expressed in the prefrontal cortex. This activation triggers:
+
+- Phospholipase C activation and intracellular calcium release
+- Cortical neuron depolarization and altered firing patterns
+- Disruption of [[default-mode-network-and-ego-dissolution]] (DMN) connectivity
+
+### Default Mode Network Disruption
+
+fMRI studies by Carhart-Harris and colleagues at Imperial College London demonstrated that psilocybin:
+
+- **Decreases DMN integrity**: Reduces connectivity between medial prefrontal cortex and posterior cingulate cortex
+- **Increases global connectivity**: Brain regions normally segregated begin communicating
+- **Produces "entropic" brain states**: Increased entropy in neural signaling, associated with unconstrained cognition
+
+### Neuroplasticity
+
+Recent research reveals psilocybin promotes **structural and functional neuroplasticity**:
+
+- Increased dendritic spine density in prefrontal cortex neurons (within 24 hours)
+- Upregulation of brain-derived neurotrophic factor (BDNF)
+- Enhanced synaptic connectivity persisting weeks after a single dose
+- These changes may underpin long-term therapeutic benefits
+
+## Dosage Guide
+
+| Level             | Dose (oral)      | Effects                                         |
+|-------------------|------------------|--------------------------------------------------|
+| Microdose         | 0.1–0.3 g dried  | Sub-perceptual; enhanced focus, mood             |
+| Threshold         | 0.5–1.0 g dried  | Mild perceptual changes, enhanced colors         |
+| Moderate          | 1.0–2.5 g dried  | Altered perception, emotional release, introspection |
+| Full experience   | 2.5–5.0 g dried  | Visual hallucinations, ego dissolution, mystical states |
+| High dose         | 5.0–7.0 g dried  | Complete ego death, profound transpersonal experiences |
+| Heroic dose       | 7.0+ g dried     | Not recommended without extensive experience and support |
+
+*Note: Doses refer to dried *Psilocybe cubensis* mushroom material (~1% psilocybin equivalent). Pure synthetic psilocybin dosing is typically 10–30 mg.*
+
+## Therapeutic Applications
+
+### Treatment-Resistant Depression
+
+- **Johns Hopkins (2020)**: Two doses (20 mg + 30 mg) with psychotherapy produced rapid and sustained antidepressant effects in 67% of participants at 12-month follow-up
+- **[[compass-pathways]] (2022)**: Phase IIb trial showed dose-dependent improvement; 25 mg single dose significantly outperformed 1 mg control
+
+### End-of-Life Anxiety
+
+- **NYU (2016)**: Single dose (0.3 mg/kg) produced significant reductions in anxiety and depression in cancer patients, sustained at 6.5-year follow-up
+- Participants consistently ranked the experience among the most meaningful of their lives
+
+### Substance Use Disorders
+
+- **Smoking cessation**: 80% abstinence at 6 months (vs. ~35% for varenicline) — Johns Hopkins pilot
+- **Alcohol dependence**: Heavy drinking days reduced by 50% at 36 weeks — NYU trial
+
+### Cluster Headaches
+
+Anecdotal and preliminary clinical evidence suggests psilocybin may abort cluster headache cycles at sub-psychedelic doses, possibly through 5-HT₂A-mediated trigeminal nerve modulation.
+
+## Safety Profile
+
+- **Toxicity**: Extremely low; no organ toxicity at typical doses. LD50 in rats is ~280 mg/kg (roughly 1000× a typical human dose)
+- **Addiction potential**: None identified; psilocybin is not reinforcing and may actually reduce substance dependence
+- **Psychological risks**: Can trigger acute anxiety, paranoia, or psychotic episodes in predisposed individuals
+- **Contraindications**: Personal or family history of schizophrenia or [[blesching-cannabis-bipolar-disorder]]; concurrent MAOI use; unmanaged cardiovascular conditions
+- **Set and setting**: Therapeutic outcomes are critically dependent on psychological preparation, supportive environment, and integration

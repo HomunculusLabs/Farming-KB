@@ -1,5 +1,5 @@
 ---
-title: Coleman Cool Greenhouse Vs Cold Greenhouse Temperature Comparison
+title: "Coleman Cool Greenhouse Vs Cold Greenhouse Temperature Comparison"
 source: eliot-coleman-winter-harvest-handbook.md
 tags: [greenhouse, cool-greenhouse, cold-greenhouse, eliot-coleman, winter-production, temperature-management, minimal-heat]
 created: 2026-05-10
@@ -15,7 +15,7 @@ Eliot Coleman distinguishes between two types of protected [[mushroom-growing-en
 
 Coleman's definitions differ from British usage and should be understood clearly:
 
-- **Cold greenhouse**: Completely unheated structure. May have a heater installed for occasional use (e.g., early-starting warm-season transplants), but no heat is applied during winter vegetable production. Also called a "cold house." This is the [[lichens-primary-production-soil-formation-dighton]] structure for the winter harvest system.
+- **Cold greenhouse**: Completely unheated structure. May have a heater installed for occasional use (e.g., early-starting warm-season transplants), but no heat is applied during winter [[dry-gardening-unirrigated-vegetable-production-solomon]]. Also called a "cold house." This is the [[lichens-primary-production-soil-formation-dighton]] structure for the winter harvest system.
 
 - **Cool greenhouse**: Maintained at a minimum temperature just above freezing, typically 32-34°F (0-1°C), using a supplemental heat source. Also called a "cool house." The thermostat is set low enough that heat runs only on the coldest nights.
 
@@ -37,9 +37,9 @@ The cold-hardy vegetables grown in this system tolerate these temperatures. Cole
 
 - **Zero heating costs**: No fuel consumption whatsoever for crop production
 - **Simplicity**: No heating system to install, maintain, or manage
-- **Sustainability**: Lowest possible carbon footprint for winter production
+- **Sustainability**: Lowest possible carbon footprint for [[coleman-beet-greens-cold-house-winter-production]]
 - **Reliability**: No risk of crop loss from heating system failure
-- **Low capital cost**: Standard hoop house construction with no heating infrastructure
+- **Low capital cost**: Standard hoop [[low-cost-mushroom-growing-house-construction-developing-countries]] with no heating infrastructure
 
 ### Limitations
 
@@ -81,7 +81,7 @@ Coleman's cool greenhouse at Four Season Farm uses a propane heater with the the
 - **More crops per season**: 5-6 harvests per winter vs 3-4 in unheated houses
 - **Broader crop range**: Baby turnips, radishes, and tender lettuces become viable
 - **Earlier spring production**: Spring carrots available 6 weeks earlier (April 1 vs May 5)
-- **Faster growth**: Even 2-3 degrees of frost protection measurably accelerates growth
+- **Faster growth**: Even 2-3 degrees of [[cervantes-microclimate-frost-protection]] measurably accelerates growth
 - **Insurance against extreme cold**: Protection during the most damaging cold events
 
 ### Economic Analysis

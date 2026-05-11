@@ -1,5 +1,5 @@
 ---
-title: [[comparison-black-locust-vs-honey-locust]] Entity
+title: "[[comparison-black-locust-vs-honey-locust]] Entity"
 created: 2026-04-28
 tags: [species, plant, nitrogen-fixer, tree, legume]
 date: 2026-04-25
@@ -11,7 +11,7 @@ type: entity
 # Honey Locust
 
 **Type:** Species (Plant)
-**Category:** Nitrogen-fixing leguminous tree
+**Category:** Nitrogen-fixing [[carob-ceratonia-siliqua-mediterranean-leguminous-tree]]
 **Also known as:** permaculture
 design, particularly in temperate and subtropical grazing systems. Its
 combination of high-proton pod production (superior to oats), extremely

@@ -35,7 +35,7 @@ Commensal yeasts — including *Candida*, *Malassezia*, and *Trichosporon* — c
 - [[fungal-parasites]] — parasitic fungal interactions
 - [[fungal-bacterial-interactions]] — cross-kingdom microbial interactions
 - [[fungal-ecosystem-services]] — ecosystem-level impacts of fungal interactions
-- [[cordyceps-and-entomopathogenic-fungi]] — [[cordyceps-insect-pathogenic-fungi]] fungi
+- [[Cordyceps]] — [[Cordyceps]] fungi
 - trichomycetes-gut-fungi — gut-dwelling fungi of arthropods
 - [[fungal-infections-human]] — human-fungal interactions
 

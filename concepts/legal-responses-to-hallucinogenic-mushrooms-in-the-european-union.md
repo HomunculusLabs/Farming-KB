@@ -1,5 +1,5 @@
 ---
-title: Legal Responses To [[emcdda-eu-legislative-timeline-hallucinogenic-mushrooms-2001-2006]] In The European Union
+title: Legal Responses To Hallucinogenic Mushrooms In The European Union
 concept_type: topic
 source: carolina-mushrooms_08qxp.md
 created: 2026-05-09

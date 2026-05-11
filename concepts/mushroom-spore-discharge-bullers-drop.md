@@ -1,7 +1,7 @@
 ---
-title: [[mushroom-spore-discharge-mechanism]] and [[bullers-drop-spore-discharge]] Mechanism
+title: Mushroom Spore Discharge Bullers Drop
 created: 2026-05-11
-tags: [[[mycology]], fungi, spores, ballistospore, biophysics]
+tags: [[mycology]], fungi, spores, ballistospore, biophysics]
 date: 2026-05-11
 updated: 2026-05-11
 sources:

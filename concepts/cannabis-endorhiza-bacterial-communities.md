@@ -116,8 +116,8 @@ As the legal cannabis industry continues to mature, understanding the endorhiza 
 
 ## Related Concepts
 
-- [[rhizosphere-microbiome-two-tier-selection-model]]
-- [[edaphic-factors-microbiome-structuring]]
+- [[Rhizosphere]]
+- [[crimson-clover]]
 - [[cultivar-specificity-plant-microbiome]]
 - [[16s-rrna-sequencing-microbiome-analysis-cannabis]]
 

@@ -1,5 +1,5 @@
 ---
-title: [[query-how-to-prevent-hermaphrodite-cannabis-plants]]
+title: "[[query-how-to-prevent-hermaphrodite-cannabis-plants]]"
 created: 2026-04-26
 updated: 2026-04-23
 sources:

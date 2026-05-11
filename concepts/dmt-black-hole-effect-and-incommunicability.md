@@ -1,5 +1,5 @@
 ---
-title: Dmt Black Hole Effect And Incommunicability
+title: "Dmt Black Hole Effect And Incommunicability"
 tags: [dmt, tryptamine, consciousness, phenomenology, mckenna, incommunicability, epistemology]
 date: 2026-04-28
 updated: 2026-04-28
@@ -61,7 +61,7 @@ relative communicability of LSD experiences. McKenna noted that he could find
 parallels between his LSD experiences and the iconography of Mahayana Buddhism
 in fact, his LSD experiences drove him to collect Mahayana art. However, he
 found a "total absence of the motifs of DMT" in any visual or textual
-tradition familiar to him. This absence suggests that the DMT experience
+tradition familiar to him. This absence suggests that the [[dmt-experience-phenomenology-hyperspace]]
 generates imagery and conceptual content that has not been successfully
 integrated into human cultural production, at least in the traditions McKenna
 surveyed.
@@ -84,7 +84,7 @@ epistemology and the nature of evidence. If there exists a category of
 experience that is both real, in the sense of being subjectively authentic and
 reproducible, and fundamentally incommunicable, then the foundations of shared
 knowledge are called into question. McKenna positioned this within a broader
-critique of what counts as valid evidence in Western intellectual traditions,
+critique of what counts as valid evidence in [[mckenna-decentralizing-bender-western-intellectual-history-consciousness]] traditions,
 arguing that the "guardians of scientific truth" have declared shamanic
 experience and plant-induced ecstasies inadmissible even though they
 represent "the source of novelty and the cutting edge of the ingression of the

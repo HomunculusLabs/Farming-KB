@@ -1,5 +1,5 @@
 ---
-title: Psilocybin Psilocin Flush Variation
+title: "Psilocybin Psilocin Flush Variation"
 aliases: [psilocybin flush levels, psilocin [[psilocybin-variation-across-flushes]], alkaloid content fruiting waves]
 tags: [mycology, psilocybin, psilocin, psilocybe-cubensis, alkaloid-variation, fruiting, HPLC-analysis]
 created: 2026-05-10
@@ -12,7 +12,7 @@ The levels of psilocybin (4-PO-DMT) and its dephosphorylated active metabolite p
 
 ## Key Finding: Divergent Patterns
 
-The most striking finding is that psilocybin and psilocin follow completely different temporal patterns across flushes:
+The most striking finding is that psilocybin and psilocin follow completely different temporal patterns [[psilocin-accumulation-pattern-across-flushes]]:
 
 - **Psilocybin**: Levels are variable (over a factor of four) but show no consistent upward or downward trend. First flush and last flush levels are generally similar.
 - **Psilocin**: Generally absent in the first one or two flushes, rises to a maximum by the fourth flush, then begins to decline. This pattern is remarkably consistent across replicate cultures.
@@ -63,9 +63,9 @@ Psilocybin (4-phosphoryloxy-N,N-dimethyltryptamine) is believed to serve as a st
 
 Psilocin (4-hydroxy-N,N-dimethyltryptamine) appears to accumulate as the mycelium ages and the substrate is progressively depleted. Several hypotheses explain the delayed appearance:
 
-1. **Enzyme induction**: The phosphatase enzyme that dephosphorylates psilocybin to psilocin may be upregulated as the culture matures or as substrate nutrients become limiting
+1. **[[fungal-enzyme-induction-and-regulation]]**: The phosphatase enzyme that dephosphorylates psilocybin to psilocin may be upregulated as the culture matures or as substrate nutrients become limiting
 2. **Phosphate depletion**: As the mycelium consumes available phosphate from the substrate, the equilibrium between psilocybin and psilocin may shift toward the dephosphorylated form
-3. **Stress response**: Later flushes may represent a more stressed physiological state for the mycelium (depleted nutrients, accumulated metabolites), and psilocin accumulation could be part of a stress-related secondary metabolism shift
+3. **[[epinephrine-stress-response-endocannabinoid-modulation-blesching]]**: [[psilocin-emergence-in-later-flushes]] may represent a more stressed physiological state for the mycelium (depleted nutrients, accumulated metabolites), and [[psilocin-accumulation-flushes]] could be part of a stress-related secondary metabolism shift
 4. **Post-harvest conversion**: Some psilocin detected in later flushes may result from enzymatic dephosphorylation of psilocybin during the interval between flushes, as older fruiting bodies remain on the substrate longer
 
 ## Street Sample Variability

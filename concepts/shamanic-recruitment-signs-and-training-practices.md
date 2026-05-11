@@ -1,6 +1,6 @@
 ---
-title: Shamanic Recruitment Signs And Training Practices
-tags: [shamanism, ethnobotany, anthropology, mckenna, training, initiation, altered-states]
+title: "Shamanic Recruitment Signs And Training Practices"
+tags: [[shamanism]], ethnobotany, anthropology, mckenna, training, initiation, altered-states]
 date: 2026-04-28
 updated: 2026-04-28
 sources:

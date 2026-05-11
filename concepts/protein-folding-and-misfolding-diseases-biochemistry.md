@@ -51,7 +51,7 @@ Macroautophagy delivers cytoplasmic cargo to lysosomes via double-membrane autop
 
 ## Chemical and Pharmacological Chaperones
 
-- **Chemical chaperones** (TMAO, 4-phenylbutyrate [4-PBA], glycerol, DMSO, betaine): Small, non-specific osmolytes that stabilize protein native states by favoring compact conformations and reducing aggregation. TMAO shifts the folding equilibrium toward the native state; 4-PBA is FDA-approved for urea cycle disorders and investigated for CF and neurodegeneration.
+- **Chemical chaperones** (TMAO, 4-phenylbutyrate [4-PBA], glycerol, DMSO, betaine): Small, non-specific osmolytes that stabilize protein native states by favoring compact conformations and reducing aggregation. TMAO shifts the folding equilibrium toward the native state; 4-PBA is FDA-approved for [[urea-cycle-biochemistry]] disorders and investigated for CF and neurodegeneration.
 
 - **Pharmacological chaperones**: Small molecules that bind specific target proteins (often in the active/ligand-binding site), stabilizing the native fold and promoting proper trafficking. Examples include lumacaftor (VX-809) and tezacaftor (VX-661) for DeltaF508-CFTR, migalastat for Fabry disease (alpha-galactosidase A), and tafamidis for transthyretin amyloidosis (stabilizes TTR tetramer).
 
@@ -75,7 +75,7 @@ Understanding the biophysical principles of protein folding and the cellular mac
 ## See Also
 
 - [[glutathione-biochemistry-and-redox-biology]]
-- [[lignin-degradation-by-fungi]]
+- [[Lignin]]
 ## Practical Considerations
 
 Successful implementation of Protein Folding And Misfolding Diseases Biochemistry requires attention to

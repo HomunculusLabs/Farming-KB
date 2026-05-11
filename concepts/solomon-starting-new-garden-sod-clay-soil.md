@@ -1,5 +1,5 @@
 ---
-title: [[solomon-starting-new-garden-sod-removal-tillage-techniques]] Garden Sod Clay Soil
+title: "[[solomon-starting-new-garden-sod-removal-tillage-techniques]] Garden Sod Clay Soil"
 source: "gardening-when-it-counts-steve-solomon.md"
 source_author: "[[steve-solomon]]"
 published: 2005

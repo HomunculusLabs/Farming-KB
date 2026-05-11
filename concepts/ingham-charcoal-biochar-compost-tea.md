@@ -8,7 +8,7 @@ sources: [/Users/t3rpz/wiki/raw/papers/elaine-ingham-phd_-the-field-guide-i-for-
 type: concept
 ---
 
-# Charcoal and [[compost-tea-brewing-equipment-ingham]]
+# Charcoal and [[circadian-rhythm-in-plants]]
 - [[ingham-turf-lawn-compost-tea-programs]]
 - [[ingham-seaweed-sea-minerals-compost-tea]]
 ## Background and Context

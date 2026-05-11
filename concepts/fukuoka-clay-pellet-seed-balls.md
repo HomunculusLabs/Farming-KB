@@ -1,5 +1,5 @@
 ---
-title: "Fukuoka's Clay Pellet Seed Balls: Technique and [[desert-revegetation]]"
+title: Fukuoka Clay Pellet Seed Balls
 source: "The Natural Way of Farming — [[masanobu-fukuoka]]"
 topics:
   - seed-balls

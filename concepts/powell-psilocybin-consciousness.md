@@ -1,5 +1,5 @@
 ---
-title: Powell [[mckenna-tryptamine-psilocybin-consciousness-evolution]]
+title: "Powell [[mckenna-tryptamine-psilocybin-consciousness-evolution]]"
 created: 2026-04-26
 sources: "The powell-psilocybin-solution-ecological-cognition-theory — Simon G. Powell"
 author: "Simon G. Powell"

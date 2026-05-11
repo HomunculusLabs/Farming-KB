@@ -1,5 +1,5 @@
 ---
-title: Hplc Detection Limits Calibration [[hplc-quantification-psilocybin-psilocin-bigwood-beug-1982]] Beug
+title: Hplc Detection Limits Calibration Psilocybin Psilocin Bigwood Beug
 source: variation-of-psilocybin-and-psilocin-levels-bigwood-beug.md
 source_author: Bigwood & Beug (1982)
 topics: HPLC, detection limit, calibration, psilocybin, psilocin, quantification, analytical chemistry

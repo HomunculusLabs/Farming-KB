@@ -1,5 +1,5 @@
 ---
-title: Mariri (Magical Phlegm)
+title: [[mariri]] (Magical Phlegm)
 created: 2026-04-28
 tags:
   - mariri
@@ -19,7 +19,7 @@ type: concept
 The mariri, also called mann or yachay, is a magical phlegm that
 constitutes the central reservoir of a [[amazonian-plant-teachers-doctores]]. It is
 described as a "colored cord" that is "spilled forth" from the
-shaman's mouth. The Queen Inamullo (necklace of thorns), also known
+shaman's mouth. The [[queen-inamullo]] (necklace of thorns), also known
 as Huacra-chukcha (hair of thorns), is the master teacher of the
 arts connected with the mariri. She carries a jar of delicate balsams
 for the protection of mariris able to harmonise with the vibrations
@@ -53,8 +53,8 @@ various things emerge:
 2. **Second tube**: The white mann, which is medicinal
 3. **Third tube**: The yachay-trueno (magical phlegm-thunder), used
    by true sorcerers
-4. **Fourth tube**: The Sachamama (mother of the forest), also used
-   by sorcerers, belonging to marupa sorcery
+4. **Fourth tube**: The [[sachamama]] (mother of the forest), also used
+   by sorcerers, belonging to [[marupa-sorcery]]
 5. **Fifth tube**: Another marupa-influenced mann used to convey
    messages through animals
 6. **Sixth tube**: Contains yana-alacran (black scorpion), spider,
@@ -75,7 +75,7 @@ home of those belonging to the dynasty of the great wise masters.
 
 ## The Mariri in Sorcery
 
-Sorcerers store harmful agents in [[plant-micronutrients-and-their-essential-functions|their]] mariris. The Cocama sorcerer
+Sorcerers store harmful agents in [[plant-micronutrients-and-their-essential-functions]] mariris. The Cocama sorcerer
 keeps animals -- insects, snakes, scorpions, bats, rays, toads --
 in his mann and sends them to cause harm. The sorcerer who uses the
 huani (a steel bow with crystal arrow) keeps a living piranha inside
@@ -86,5 +86,5 @@ beings are also associated with the mariri of sorcerers.
 ## The Papalluses: Guardians of the Mariri
 
 The papalluses are lilac spirits with red eyes who serve as guardians
-of the mann and the huani. Under their arms they carry the [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens|magic]]
+of the mann and the huani. Under their arms they carry the [[mckenna-language-as-magic-shamanic-theory-linguistic-reality-plant-hallucinogens]]
 steel bow and crystal arrow. They can be evil when seeking revenge but

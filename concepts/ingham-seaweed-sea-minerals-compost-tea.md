@@ -73,7 +73,7 @@ tea recipes. While molasses provides the simple sugars that fuel
 rapid bacterial growth, seaweed provides the complex carbohydrates,
 minerals, and growth factors that support a more diverse community
 including fungi. The combination creates a more balanced food
-resource that supports the full [[compost-tea-brewing-equipment-ingham]]
+resource that supports the full [[circadian-rhythm-in-plants]]
 - [[ingham-turf-lawn-compost-tea-programs]]
 - [[ingham-spray-nozzles-equipment-compost-tea]]
 ## Practical Considerations

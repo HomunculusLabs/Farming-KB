@@ -1,5 +1,5 @@
 ---
-title: [[comparison-biointensive-vs-square-foot-gardening]]
+title: Square Foot Gardening
 created: 2026-04-12
 updated: 2026-04-12
 type: concept

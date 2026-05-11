@@ -87,3 +87,34 @@ The [[medicinal-mushroom-antimicrobial-properties]] of mycofiltration are partic
 ### Old-Growth Forests as Natural Filtration Models
 
 Old-growth forests demonstrate the capacity of fungal networks to maintain water quality at a landscape scale. The forest floor is underlain by vast mycorrhizal and saprotrophic fungal networks that filter water as it percolates through soil horizons. Streams emerging from old-growth forests are notably cleaner than those from younger or managed forests, a difference attributable in significant part to the maturity and complexity of the fungal networks.
+
+## Mycofiltration System Design Considerations
+Designing an effective mycofiltration system requires attention to several
+key parameters. Flow rate must be matched to the biological activity rate
+of the fungal species — too fast and contaminants pass through untreated;
+too slow and the system becomes anaerobic. Substrate depth, porosity, and
+surface area all affect contact time and filtration efficiency. Stamets
+recommends a minimum contact time of 2-3 minutes for basic particulate
+and biological filtration, with longer retention times needed for chemical
+pollutant removal.
+
+## Species Selection for Specific Contaminants
+Different fungal species exhibit different filtration capabilities:
+- *Pleurotus ostreatus*: Excellent for bacterial and particulate removal;
+  moderate chemical pollutant degradation
+- *Stropharia rugosoannulata*: Particularly effective for *E. coli* and
+  coliform bacteria; tolerant of varying temperatures
+- *Ganoderma lucidum*: Strong enzymatic activity for chemical pollutant
+  degradation; produces antimicrobial compounds
+- *Trametes versicolor*: Powerful lignin-degrading enzymes effective
+  against PAHs, dyes, and pharmaceutical contaminants
+
+## Maintenance and Longevity
+Mycofiltration systems require periodic maintenance to remain effective.
+As the mycelium consumes available nutrients and the substrate compacts,
+filtration capacity gradually declines. Systems typically remain effective
+for 6-18 months depending on contaminant load, flow volume, and species.
+After the active lifespan, spent mycelial substrate can be composted or
+incorporated into soil as an organic amendment.
+
+## See Also

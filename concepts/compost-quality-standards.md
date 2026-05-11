@@ -9,7 +9,7 @@ sources:
 ---
 # Compost Quality Standards
 
-Compost quality is the single most important factor determining the effectiveness of [[compost-tea-brewing-methods]]
+Compost quality is the single most important factor determining the effectiveness of [[circadian-rhythm-in-plants]]
 - [[soil-microbiology-basics]]
 - [[2c-d-pihkal-entry-23]]
 - [[dom-compound-profile]]

@@ -41,7 +41,7 @@ One of the most important implications of Darwin's experiment is the demonstrati
 
 ### Implications for Plant Biology
 
-This separation of perception and response became a central organizing principle in plant physiology. It led to the eventual discovery of [[auxin-production-by-symbiotic-fungi|auxins]], that mediate the bending response. The concept that a plant can "see" in one location and "respond" in another fundamentally changed how scientists understood plant integration and coordination of growth.
+This separation of perception and response became a central organizing principle in plant physiology. It led to the eventual discovery of [[Auxin|auxins]], that mediate the bending response. The concept that a plant can "see" in one location and "respond" in another fundamentally changed how scientists understood plant integration and coordination of growth.
 
 ## The Maryland Mammoth Tobacco
 

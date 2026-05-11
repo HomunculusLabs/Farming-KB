@@ -76,7 +76,7 @@ build soil [[hamilton-composting-and-organic-matter-management]].
 **[[root-exudates]], nodule turnover, and biomass incorporation. They
 support diverse microbial communities, improve soil aggregation and water infiltration,
 and enhance [[mycorrhizal-networks]]. Cover-crop legumes
-([[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, field peas, cowpeas) add both nitrogen and substantial
+([[compost]], hairy vetch, field peas, cowpeas) add both nitrogen and substantial
 carbon to the soil profile.
 
 ## Cost

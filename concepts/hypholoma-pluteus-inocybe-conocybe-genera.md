@@ -87,4 +87,4 @@ Conocybe contains 4 documented neurotropic species:
 - [[pluteus-villosus]]
 
 - [[neurotropic-fungi-classification]]
-- [[gymnopilus-genus-neurotropic-species]]
+- [[Gymnopilus]]

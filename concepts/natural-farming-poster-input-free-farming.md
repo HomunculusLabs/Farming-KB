@@ -78,3 +78,23 @@ While the poster's techniques are primarily from KNF, the underlying philosophy 
 - [[korean-natural-farming-imo-recipes]] — IMO collection as the foundation of input-free soil building
 - [[natural-farming-philosophy]] — broader natural farming philosophy
 - [[natural-farming-vs-organic-farming]] — comparison with certified organic approaches
+
+## Practical Applications
+
+The principles outlined here find application across multiple domains including research, education, and practical implementation. Understanding the underlying mechanisms enables more effective application in real-world scenarios.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability goals. Success depends on careful observation and adaptive management based on feedback from the system.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
+
+## See Also
+
+- [[natural-farming-poster-korean-techniques-summary]]
+- [[natural-farming-poster-korean-methods-summary]]
+- [[chos-global-natural-farming-input-reduction-methods]]
+- [[what-natural-farming-method-should-i-use]]
+- [[soil-microorganisms-natural-farming]]

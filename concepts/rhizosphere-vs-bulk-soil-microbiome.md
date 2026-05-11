@@ -7,7 +7,7 @@ created: 2026-05-09
 
 # Rhizosphere vs Bulk Soil Microbiome in Cannabis
 
-Understanding how [[edaphic-factors-microbial-communities]] differ across the root-soil continuum
+Understanding how [[crimson-clover]] differ across the root-soil continuum
 is essential for characterizing plant-microbiome interactions. The Winston et
 al. (2014) study systematically compared [[cannabis-endorhiza-bacterial-communities]] across three
 sample types — bulk soil, rhizosphere soil, and endorhiza (root interior) —

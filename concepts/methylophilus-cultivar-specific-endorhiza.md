@@ -17,7 +17,7 @@ Methylophilus emerged as the most statistically significant bacterial genus
 driving cultivar-specific differences in [[alpha-diversity-gradient-bulk-soil-cannabis-endorhiza]] microbial
 communities in the Winston et al. (2014) study. This methylotrophic bacterium
 showed dramatically different abundance patterns across three Cannabis
-cultivars, comprising 13% of the [[proteobacteria-dominance-cannabis-endorhiza-community]] in Bookoo Kush while
+cultivars, comprising 13% of the [[Proteobacteria]] in Bookoo Kush while
 being nearly absent in Burmese (0.13%) and completely absent in Sour Diesel.
 This extreme cultivar-specific enrichment makes Methylophilus a notable
 case study in host plant genotype filtering of [[alpha-beta-diversity-cannabis-root-microbiomes]].

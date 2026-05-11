@@ -1,5 +1,5 @@
 ---
-title: Coleman [[azurescens-outdoor-bed-preparation-woodchips]] And Minimal Tillage
+title: "Coleman [[azurescens-outdoor-bed-preparation-woodchips]] And Minimal Tillage"
 created: 2026-04-28
 tags:
   - tillage

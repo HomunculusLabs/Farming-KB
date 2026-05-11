@@ -14,7 +14,7 @@ sources:
   - Rasmussen, H.N. (1995). Terrestrial Orchids: From Seed to Mycotrophic Plant. Cambridge University Press.
   - Shefferson, R.P. et al. (2008). "Life History of the Rare Terrestrial Orchid Cypripedium calceolus." Botanical Journal of the Linnean Society, 156(2), 163–174.
   - Stewart, J. & Button, J. (2004). "Reintroduction of Cypripedium calceolus to Britain." Curtis's Botanical Magazine, 21(4), 284–295.
-  - Kull, T. & Hutchings, M.J. (2006). "A Comparative Analysis of Decline in Rare Orchid Populations." Biological Conservation, 131(2), 187–194.
+  - Kull, T. & Hutchings, M.J. (2006). "A [[human-eye-plant-photoreceptor-comparative-analysis]] of Decline in Rare Orchid Populations." Biological Conservation, 131(2), 187–194.
 ---
 
 ## Overview

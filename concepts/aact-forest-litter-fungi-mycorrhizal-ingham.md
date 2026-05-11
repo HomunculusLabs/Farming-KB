@@ -48,7 +48,7 @@ The tea serves as a carrier for even distribution, but the spores should not be 
 
 ### Why Mycorrhizal Fungi Are Different
 
-Mycorrhizal fungi (both vesicular-arbuscular mycorrhizae and ectomycorrhizae) form [[fungi-in-the-environment-symbiotic-relationships]] with plant roots. They require root exudates to initiate colonization and do not grow freely in soil or tea the way saprophytic fungi like Trichoderma do. Their biology makes them incompatible with the high-agitation [[compost-tea-brewing-equipment-ingham]] environment.
+Mycorrhizal fungi (both vesicular-arbuscular mycorrhizae and ectomycorrhizae) form [[fungi-in-the-environment-symbiotic-relationships]] with plant roots. They require root exudates to initiate colonization and do not grow freely in soil or tea the way saprophytic fungi like Trichoderma do. Their biology makes them incompatible with the high-agitation [[circadian-rhythm-in-plants]] environment.
 
 ### Research Resources
 
@@ -88,3 +88,16 @@ Ingham strongly cautions against adding actinobacteria to compost tea or compost
 2. **Petri plate vs. field reality** — Much of the research showing actinobacterial benefits was done on petri plates, which has limited transferability to field conditions. Many microbial interactions observed in laboratory settings never occur in real soil environments.
 
 3. **Soil food web disruption** — Adding actinobacteria can shift the soil microbial community away from the true bacteria and beneficial fungi that support healthy plant growth. This shift can prevent the soil from progressing toward a more complex, stable food web structure.
+
+## Practical Applications
+Aact Forest Litter Fungi Mycorrhizal Ingham has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
+
+## Historical Significance
+The development and understanding of aact forest litter fungi mycorrhizal ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+
+## See Also
+- [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
+- [[aact-calcium-fungi-interaction-nutrient-bioavailability-ingham]]
+- [[ingham-trichoderma-biocontrol-fungi-aact]]
+- [[fungi-forest-fire-succession-litter-dighton]]
+- [[arbuscular-mycorrhizal-fungi-in-tropical-forest-restoration]]

@@ -1,5 +1,5 @@
 ---
-title: Hamilton Layering [[cannabis-propagation-techniques]]
+title: "Hamilton Layering [[cannabis-propagation-techniques]]"
 created: 2026-04-28
 tags:
   - organic-gardening

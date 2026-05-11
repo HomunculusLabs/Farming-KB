@@ -101,20 +101,17 @@ High-altitude grasslands support specialized species:
 - In grasslands, psilocybin species can be confused with various toxic *Galerina* and *Inocybe* species that share similar niches.
 - See [[psilocybin-mushroom-identification-guide]] for identification features and [[psychedelic-harm-reduction]] for safety practices.
 
-
 ## Ecological Role
 Fungal organisms play critical roles in ecosystem functioning through
 decomposition, nutrient cycling, and symbiotic relationships with plants.
 Understanding their ecological contributions informs both cultivation
 practices and conservation efforts across diverse habitats.
 
-
 ## Research Directions
 Current research explores applications in bioremediation, sustainable
 agriculture, and pharmaceutical development. Advances in genomic
 sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
-
 
 ## See Also
 - [[psilocybin-mushroom-habitat-and-ecology]]
@@ -127,4 +124,3 @@ and expand our understanding of fungal biology.
 - [[psilocybin-mushroom-global-distribution]] for geographic range
 - [[psilocybin-mushroom-identification-guide]] for field identification
 - [[psychedelic-mushroom-pharmacology]] for the active compounds
-

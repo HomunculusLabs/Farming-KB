@@ -1,5 +1,5 @@
 ---
-title: [[fukuoka-lundberg-family-farms-natural-rice]] Natural Rice California
+title: Fukuoka Lundberg Natural Rice California
 source: "The Road Back to Nature (Fukuoka)"
 tags: [fukuoka, natural-farming, rice, california, organic, lundberg, agriculture]
 created: 2026-05-09

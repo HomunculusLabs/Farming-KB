@@ -74,6 +74,26 @@ Successful bioaugmentation requires fungal inoculum that can withstand competiti
 
 Several limitations affect fungal bioremediation on contaminated substrates: (1) Four white-rot fungi (P. chrysosporium, P. ostreatus, C. versicolor, and Wye isolate no. 7) could not thrive in highly contaminated soil, remaining metabolically inactive. (2) Autochthonous microflora sometimes show greater PAH degradation potential than inoculated fungi. (3) High nitrogen concentrations inhibit P. chrysosporium xenobiotic degradation, though some species like P. ostreatus and Bjerkandera adusta degrade xenobiotics in nitrogen-rich conditions. (4) PAH solubility limits oxidation of high-molecular-weight compounds like chrysene and dibenz[a,h]anthracene. (5) Glucose addition can inhibit pyrene metabolism by Phialophora alba. These limitations highlight the need for careful species selection, pretreatment strategies, and integration with bacterial consortia.
 
+## Practical Applications
+
+The concepts discussed here have direct applications in mushroom cultivation, mycoremediation, and fungal ecology research. Understanding these principles enables practitioners to optimize growing conditions and develop innovative approaches to fungal biotechnology. Field applications include substrate preparation, contamination management, and species identification.
+
+## Research Directions
+
+Current research explores the intersection of fungal biology with sustainable agriculture and environmental remediation. Studies focus on enzymatic pathways, metabolic interactions, and ecological relationships between fungal species and their environments.
+
+## Key Considerations
+
+When applying these concepts, consider regional variations, available resources, and long-term sustainability. Adaptation to local conditions and continuous learning from both successes and failures support meaningful progress.
+
+## See Also
+
+- [[tropical-mushroom-cultivation-agricultural-waste-substrates-poverty-alleviation]]
+- [[mushroom-cultivation-bulk-substrates]]
+- [[wine-cap-mushroom-cultivation]]
+- [[victorian-mushroom-spawn-cultivation]]
+- [[victorian-mushroom-cultivation]]
+
 ## See Also
 
 - mycoremediation-of-petroleum-hydrocarbons

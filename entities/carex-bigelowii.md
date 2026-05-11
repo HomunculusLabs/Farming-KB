@@ -84,6 +84,6 @@ Molecular phylogenetic studies support recognizing these as distinct species, th
 
 ## Cultivation
 
-Carex bigelowii is occasionally cultivated in rock gardens and alpine plant collections, though it is not widely available in [[chrysanthemum-night-interruption-flowering-commercial-horticulture]]. Its compact stature, fine texture, and extreme cold hardiness make it suitable for simulated alpine landscapes.
+Carex bigelowii is occasionally cultivated in rock gardens and alpine plant collections, though it is not widely available in [[cannabinoid-pharmacology]]. Its compact stature, fine texture, and extreme cold hardiness make it suitable for simulated alpine landscapes.
 
 Propagation is achieved by rhizome division in early spring or by seed sown in autumn. Seeds require cold stratification and may take 2–4 months to germinate under optimal conditions.

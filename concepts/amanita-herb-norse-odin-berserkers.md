@@ -22,7 +22,7 @@ The berserkers ("bear-shirts") were elite Norse warriors legendary for fighting 
 
 Odin is the Norse god of wisdom, poetry, war, and death. In Norse mythology, Odin sacrifices his own eye and hangs himself from the world tree Yggdrasil for nine nights to gain [[mckenna-sect-of-the-phoenix-and-archaic-secret-knowledge]] -- a motif that, in Teeter's reading, parallels the Soma ceremony's theme of a god who undergoes death and transformation to acquire divine wisdom.
 
-The dedicatory poem at the front of Teeter's book includes "Odin; God of Wisdom" among the many names for [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]], alongside Soma, Haoma, Ambrosia, Dionysus, and others, suggesting Teeter treats Odin as another manifestation of the same [[soma-controversy-fly-agaric-as-divine-mushroom]] sacrament.
+The dedicatory poem at the front of Teeter's book includes "Odin; God of Wisdom" among the many names for [[allegro-star-of-the-morning-venus-and-the-sacred-mushroom]], alongside Soma, Haoma, Ambrosia, Dionysus, and others, suggesting Teeter treats Odin as another manifestation of the same [[edaphic-factors]] sacrament.
 
 ## The Fly Agaric in Northern Europe
 

@@ -26,7 +26,7 @@ then terminated and incorporated into the soil as green manure before the next c
 
 Cover crops are grown during periods when the soil would otherwise be bare and exposed, typically between
 cash crop cycles during fall, winter, or early spring. They are classified by their primary function:
-nitrogen fixers (legumes such as [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, field peas, and clover-grass mixtures),
+nitrogen fixers (legumes such as [[compost]], hairy vetch, field peas, and clover-grass mixtures),
 soil builders (grasses such as cereal rye, annual ryegrass, oats, and barley), and biofumigants (mustard
 family crops that release allelopathic compounds upon termination that suppress soil-borne pathogens and
 weed seeds). Cover crops are terminated before the cash crop is planted, either by mowing,

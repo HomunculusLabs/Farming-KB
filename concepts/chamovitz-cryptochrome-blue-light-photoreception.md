@@ -10,7 +10,7 @@ created: 2026-05-10
 
 ## Overview
 
-While phytochrome receives the most attention in plant photobiology for its role in detecting red and far-red light, plants possess additional photoreceptor systems that are equally sophisticated. Cryptochromes are blue-light-absorbing photoreceptors that play critical roles in plant development, [[chamovitz-circadian-rhythm-internal-clock-plants]] entrainment, and de-etiolation. Along with phototropins, they form a complementary system to phytochrome that allows plants to sense the full spectrum of their light environment. Daniel Chamovitz's "What a Plant Knows" explores how these photoreceptor systems together give plants a richer visual sense than is commonly appreciated.
+While phytochrome receives the most attention in plant photobiology for its role in detecting red and far-red light, plants possess additional photoreceptor systems that are equally sophisticated. Cryptochromes are blue-light-absorbing photoreceptors that play critical roles in plant development, [[chrysanthemum]] entrainment, and de-etiolation. Along with phototropins, they form a complementary system to phytochrome that allows plants to sense the full spectrum of their light environment. Daniel Chamovitz's "What a Plant Knows" explores how these photoreceptor systems together give plants a richer visual sense than is commonly appreciated.
 
 ## The Blue-Light Sensing Problem
 
@@ -84,7 +84,7 @@ The implications extend beyond basic biology. Because human cryptochromes regula
 Understanding cryptochrome signaling has practical implications for horticulture and agriculture:
 
 - **Supplemental lighting in greenhouses**: Blue light supplementation can be used to control plant architecture through cryptochrome-mediated growth inhibition, producing shorter, sturdier stems that are better suited for transplanting
-- **[[chrysanthemum-greenhouse-photoperiod-manipulation]]**: Understanding CRY2's role in flowering allows growers to manipulate day length responses for out-of-season flowering in ornamental and food crops
+- **[[cannabinoid-pharmacology]]**: Understanding CRY2's role in flowering allows growers to manipulate day length responses for out-of-season flowering in ornamental and food crops
 - **Vertical farming**: Cryptochrome-optimized light spectra can produce more compact, desirable plant morphologies in controlled environment agriculture, reducing the need for chemical [[aact-natural-growth-regulators-bacteria-fungi-humus-cycle-ingham]]
 - **[[fungal-stress-responses]]**: Cryptochrome signaling intersects with abiotic stress pathways, suggesting that light quality management could improve plant resilience to drought, temperature extremes, and pathogen pressure
 - **[[coleman-sowing-seedling-production]]**: Nursery operations can use blue-light-enriched environments to produce stronger, more compact seedlings through cryptochrome activation

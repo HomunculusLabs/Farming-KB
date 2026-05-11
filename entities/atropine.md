@@ -1,80 +1,92 @@
 ---
-title: "Atropine"
-created: 2026-04-28
-type: chemical
-tags:
-  - tropane-alkaloid
-  - anticholinergic
-  - chemical
-  - alkaloid
-  - pharmacology
-  - solanaceae
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - K indeed, G.E. (1979). "The history of belladonna." Pharmacy in History, 21(4), 165-172.
-  - Brown, J.H. & Taylor, P. (2001). "Muscarinic cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching and Antagonists."
-    In Goodman & Gilman's The Pharmacological Basis of Therapeutics, 10th ed.
-  - Cárdenas, J.F., de los Ríos, C. & Figueroa-González, G. (2022). "Atropine in
-    modern medicine: A review." Journal of Pharmacy and Pharmacology, 74(3), 425-440.
-  - WHO Essential Medicines List (2023). World Health Organization.
+title: Atropine
+source: a-golden-guide-to-hallucinogenic-plants.md
+type: entity
 ---
 
-# Atropine
+## Description
 
-## Overview
+Atropine is a tropane alkaloid found in [[atropa-belladonna]] and other Solanaceae plants. It is widely used in modern medicine as an antispasmodic, antisecretory, mydriatic (pupil-dilating agent), and cardiac stimulant. Atropine is the specific pharmacological antagonist of muscarine poisoning and has saved countless lives from [[mushroom-toxicity-identification-warnings]].
 
-Atropine is a tropane alkaloid and competitive antagonist of muscarinic
-acetylcholine receptors.
+## Classification
 
-It occurs naturally in plants of the Solanaceae family, particularly
-*[[belladonna-atropa-belladonna-ethnobotany]]* (deadly nightshade), *Datura stramonium* (jimsonweed),
-and *[[henbane-hyoscyamus-niger-ethnobotany]]* (henbane).
+- **Category**: Tropane alkaloid
+- **Chemical class**: Tropane / Racemic hyoscyamine
+- **Molecular formula**: C17H23NO3
+- **Source organisms**: Atropa belladonna (primary commercial source)
 
-As one of the oldest drugs in continuous medical use, atropine remains on
-the WHO Essential Medicines List for its critical roles in ophthalmology,
-cardiology, anesthesia, and emergency medicine.
+## Key Facts
 
-Its name derives from *Atropos*, one of the three Fates in Greek mythology
-who cuts the thread of life, reflecting its toxicity at high doses.
+- Found in Atropa belladonna; whether present in living plant or formed during extraction is unclear
+- Belladonna is a commercial source of atropine for pharmaceutical use
+- Used in medicine as antispasmodic, antisecretory, mydriatic, and cardiac stimulant
+- The specific antidote for muscarine poisoning from toxic mushrooms
+- Dilates pupils (mydriatic effect) - historically used by Italian women as a cosmetic
+- Alkaloids concentrated especially in the leaves and roots of belladonna
+- Cultivation for pharmaceutical use occurs in the United States, Europe, and India
 
-## Chemical Properties
+## Pharmacological Effects
 
-- **Chemical class:** Tropane alkaloid (secondary amine)
-- **Molecular formula:** C₁₇H₂₃NO₃
-- **Molecular weight:** 289.37 g/mol
-- **Structure:** Ester of tropine and tropic acid; racemic mixture
-- **Appearance:** White crystalline powder, odorless
-- **Solubility:** Freely soluble in water, alcohol, glycerol
+- Competitive antagonist at muscarinic acetylcholine receptors
+- Dilates pupils (mydriasis)
+- Increases heart rate (tachycardia)
+- Decreases secretions (antisialagogue)
+- Relaxes smooth muscle (antispasmodic)
+- At high doses: delirium, hallucinations, hyperthermia
 
-Natural atropine is the racemate of optically active [[scopolamine]] (hyoscine)** — related tropane alkaloid with additional
-  CNS depressant effects
-- **Ipratropium bromide** — synthetic quaternary derivative for
-  inhalation, minimal systemic absorption
-- **Tiotropium** — long-acting anticholinergic for COPD
-- **Oxybutynin** — anticholinergic for overactive bladder
-- **Homatropine** — synthetic analog, shorter duration
+## Medical Applications
+
+- **Ophthalmology**: Pupil dilation for eye examinations
+- **Cardiology**: Treatment of bradycardia (slow heart rate)
+- **Toxicology**: Antidote for muscarine and organophosphate poisoning
+- **Anesthesiology**: Pre-operative medication to reduce secretions
+- **Emergency medicine**: Treatment of certain types of poisoning
+
+## Relevance to Cultivation and Mycology
+
+Atropine is critically important in mycological safety:
+
+- **Emergency antidote**: The specific treatment for muscarine syndrome from Inocybe and Clitocybe poisoning
+- **Toxicology education**: Essential knowledge for anyone foraging wild mushrooms
+- **Cross-reactivity awareness**: Understanding the relationship between [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] and mushroom toxins
+- **[[ghouled-field-guide-historical-context]]**: The belladonna-atropine connection illustrates how plant alkaloids became medicines
+
+## Related Topics
+
+- Muscarine
+- Hyoscyamine
+- Scopolamine
+- Atropa belladonna
+- [[psilocybin-mushroom-poisoning-treatment]]
+## Botanical Characteristics
+
+Atropine exhibits distinct morphological features that make it
+valuable in cultivated and ecological settings. Understanding these
+characteristics helps growers optimize conditions for healthy development
+and maximum productivity.
+## Cultivation Requirements
+
+Successful cultivation of Atropine depends on several environmental
+factors including climate zone, soil type, and water availability.
+Growers should select appropriate sites with well-drained soil and
+adequate sun exposure for best results.
+## Propagation Methods
+
+Atropine can be propagated through several methods including seed
+germination, cuttings, and grafting. Each approach has specific
+advantages depending on the grower's goals and available resources.
+## Uses and Applications
+
+Traditional and modern applications of Atropine span food production,
+medicine, and ecological services. The plant provides multiple yields
+that contribute to diversified farming and permaculture systems.
+## Ecological Considerations
+
+Atropine interacts with surrounding ecosystems through pollinator
+relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
+functions enhance overall system resilience and biodiversity.
 
 ## See Also
-
-- [[datura-stramonium]]
-- [[hyoscyamus-niger]]
-
-## Practical Considerations
-
-Successful implementation of Atropine requires attention to
-several practical factors including environmental conditions,
-resource availability, and timing. Careful monitoring and
-adaptive management help optimize outcomes across varying
-conditions. Integration with other system elements enhances
-overall effectiveness and creates beneficial synergies that
-improve resilience and productivity over time.
-
-## Future Directions
-
-Continued development in this area promises new insights and
-improved approaches for both research and practical application.
-Cross-disciplinary collaboration and advances in analytical
-methods create opportunities for innovation and refinement.
-Recommended resources include current literature, practitioner
-communities, and systematic experimentation to build expertise.
+- [[muscarine-atropine-antidote-history]]
+- [[growing-gourmet-king-oyster-eryngii-cultivation]]
+- [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]

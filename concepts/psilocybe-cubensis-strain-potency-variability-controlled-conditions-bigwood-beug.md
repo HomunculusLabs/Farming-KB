@@ -1,5 +1,5 @@
 ---
-title: [[oss-oeric-psilocybe-cubensis-strain-guide]] [[psilocybe-cubensis-street-sample-potency-variability]] Controlled Conditions Bigwood Beug
+title: Psilocybe Cubensis Strain Potency Variability Controlled Conditions Bigwood Beug
 source: Variation of [[hplc-analysis-of-psilocybin-and-psilocin]] Levels (Bigwood & Beug, 1982)
 tags: [psilocybe-cubensis, strain, potency, variability, alkaloid, bigwood-beug, controlled-culture, street-sample]
 ---

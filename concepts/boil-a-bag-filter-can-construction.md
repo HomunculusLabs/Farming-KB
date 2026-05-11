@@ -1,13 +1,13 @@
 ---
-title: Boil A Bag Filter Can Construction
-source: "Indoor Mushroom Growing Technique for the Boil-A-Bag - D.H. Jarrold"
+title: "Boil A Bag Filter Can Construction"
+source: "Indoor [[duggar-mushroom-growing-history-and-methods]] Technique for the Boil-A-Bag - D.H. Jarrold"
 source_author: "D.H. Jarrold"
 topics: mushroom-cultivation, sterilization, filter, boil-a-bag, mycology, contamination-control
 ---
 
 # Boil-a-Bag Filter Can Construction
 
-The filter can is a critical component of the Boil-a-Bag mushroom cultivation method developed
+The filter can is a critical component of the Boil-a-Bag [[jarrold-boil-a-bag-mushroom-cultivation-method]] developed
 by D.H. Jarrold. It serves as a breathable yet contaminant-resistant barrier that allows gas
 exchange during [[mycelial-colonization]] while preventing airborne contaminants from entering the
 [[oyster-mushroom-non-sterilized-substrate-cultivation]]. The filter can is inserted into the neck of the boil-a-bag and secured
@@ -16,10 +16,10 @@ cooker and inoculated through the filter medium.
 
 ## Purpose and Function
 
-In mushroom cultivation, the mycelium requires oxygen to grow and produces carbon dioxide as a
+[[contamination-prevention-in-mushroom-cultivation]], the mycelium requires oxygen to grow and produces carbon dioxide as a
 metabolic byproduct. In a sealed bag, the mycelium would quickly consume all available oxygen
 and suffocate. Conversely, an open bag would allow airborne mold spores and bacterial
-contaminants to enter and colonize the nutrient-rich substrate before the mushroom mycelium can
+contaminants to enter and colonize the nutrient-rich substrate before the [[antimicrobial-compounds-mushroom-mycelium]] can
 establish itself.
 
 The filter can solves this problem by providing a medium that allows gaseous exchange — oxygen
@@ -29,7 +29,7 @@ winding channels between the filter particles, but larger particles including mo
 bacteria cannot navigate these narrow, twisting passages.
 
 The filter can also serves a secondary function during [[pf-tek-sterilization-and-inoculation-techniques]]. When
-secured in the bag's neck, it creates a sealed environment that can withstand pressure cooker
+secured in the bag's neck, it creates a sealed environment that can withstand [[double-layer-tinfoil-jar-covering-pressure-cooker-method]]
 temperatures. After sterilization and cooling, the long-needle inoculation method allows the
 cultivator to pass a needle directly through the filter medium to deposit spores into the
 substrate, maintaining sterility throughout the process.

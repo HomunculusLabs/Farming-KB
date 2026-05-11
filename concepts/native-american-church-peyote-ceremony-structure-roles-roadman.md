@@ -1,5 +1,5 @@
 ---
-title: [[halpern-sacramental-peyote-and-native-american-church]] Peyote [[ayahuasca-ceremony-structure-and-practice]] Roles Roadman
+title: "[[halpern-sacramental-peyote-and-native-american-church]] Peyote [[ayahuasca-ceremony-structure-and-practice]] Roles Roadman"
 source: metzner_r-hallucinogenic_drugs_in_psychotherapyshamanism.md
 tags: [native-american-church, peyote, ceremony, roadman, shamanism, entheogenic-ritual]
 created: 2026-05-10

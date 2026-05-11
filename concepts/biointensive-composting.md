@@ -27,7 +27,7 @@ The target C:N ratio for GB compost piles is approximately 30:1. This is achieve
 - **Established beds**: 1/2 to 1 inch per crop cycle
 - **[[comparison-biofertilizers-and-soil-inoculants-vs-compost-tea-guide]]**: Can be made from GB compost for [[comparison-foliar-feeding-vs-vermicompost-tea]] and soil drenching (see [[biointensive-gardening-overview]]
 - [[biointensive-bed-preparation]]
-- [[compost-tea-brewing-methods]]
+- [[circadian-rhythm-in-plants]]
 
 - [[2c-d-pihkal-entry-23]]
 - [[compost-tea-application-rates]]

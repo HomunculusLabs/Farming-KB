@@ -103,20 +103,17 @@ Suzanne Simard's research (referenced by Stamets) demonstrated:
 - [[garden-mushroom-growing]] for mycorrhizae in garden settings
 - [[fungal-ecosystem-roles]] for nutrient cycling details
 
-
 ## Ecological Role
 Fungal organisms play critical roles in ecosystem functioning through
 decomposition, nutrient cycling, and symbiotic relationships with plants.
 Understanding their ecological contributions informs both cultivation
 practices and conservation efforts across diverse habitats.
 
-
 ## Research Directions
 Current research explores applications in bioremediation, sustainable
 agriculture, and pharmaceutical development. Advances in genomic
 sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
-
 
 ## See Also
 - [[mycorrhizal-networks-and-the-wood-wide-web]]
@@ -127,4 +124,3 @@ and expand our understanding of fungal biology.
 ## Related
 
 - [[soil-fungi-biodiversity]]
-

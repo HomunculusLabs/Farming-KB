@@ -1,5 +1,5 @@
 ---
-title: Ingham Protozoa Soil Food Web Nutrient Cycling
+title: "Ingham Protozoa Soil Food Web Nutrient Cycling"
 source: "elaine-ingham-phd_-the-field-guide-i-for-actively-aerated-com"
 source_author: "Elaine R. Ingham"
 topics: ["soil-food-web", "protozoa", "nutrient-cycling", "microbiology", "compost-tea"]
@@ -10,7 +10,7 @@ type: concept
 
 ## Overview
 
-Protozoa are single-celled eukaryotic organisms that play an essential role in the soil food web as the primary consumers of bacteria and fungi. By grazing on [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] populations, protozoa mineralize nutrients—converting them from microbial biomass into plant-available forms—making them a critical link between the decomposer community and plant nutrition. Ingham's work consistently emphasizes that healthy soils require adequate protozoan populations for sustainable plant growth without [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]].
+Protozoa are single-celled eukaryotic organisms that play an essential role in the soil food web as the primary consumers of bacteria and fungi. By grazing on [[query-what-is-the-difference-between-bacterial-and-fungal-dominant-soil]] populations, protozoa mineralize nutrients—converting them from [[soil-microbial-biomass-measurement-ecological-significance]] into plant-available forms—making them a critical link between the decomposer community and plant nutrition. Ingham's work consistently emphasizes that healthy soils require adequate protozoan populations for sustainable plant growth without [[teaming-with-nutrients-natural-vs-synthetic-fertilizers]].
 
 ## The Three Groups of Soil Protozoa
 
@@ -54,7 +54,7 @@ This "microbial loop" is extremely efficient at cycling nutrients. Protozoan gra
 
 ### Assessment Levels
 
-In compost tea and compost, protozoan populations are assessed to ensure adequate diversity and abundance:
+In [[compost-tea-and-biological-extracts]] compost, protozoan populations are assessed to ensure adequate diversity and abundance:
 
 | Group | Target Level (per gram dry weight) |
 |-------|----------------------------------|
@@ -64,11 +64,11 @@ In compost tea and compost, protozoan populations are assessed to ensure adequat
 
 ### When Protozoa Are Deficient
 
-If flagellates or amoebae are too low in a compost tea application:
+If flagellates or amoebae are too low in a [[compost-tea-application-methods]]:
 
 - Add an inoculum of protozoa (flagellate, amoeba, or ciliate) available from good compost sources
 - Protozoa need to be above minimum thresholds for the nutrient mineralization cycle to function
-- Ciliates above target levels suggest anaerobic conditions in the compost or tea brewing process
+- Ciliates above target levels suggest anaerobic conditions in the compost or [[compost-tea-brewing]] process
 
 ### Protozoa in Compost Quality Standards
 

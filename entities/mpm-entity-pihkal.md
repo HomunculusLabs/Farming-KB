@@ -58,7 +58,7 @@ properties of the isolated salt were strange (soluble in acetone but
 not in water) and the microanalysis was low in the carbon value. The
 molecular structure had a pleasant appeal to it, with a complete
 reflection symmetry shown by the atoms of the amphetamine [[shirota-glyoxalylamide-side-chain-construction-psilocin-synthesis]]
-and the isopropoxy side chain. But the nature of the actual product
+and the isopropoxy [[dimethylamine-amidation-tryptamine-side-chain-construction]]. But the nature of the actual product
 in hand had no appeal at all, and no assay was ever started.
 
 For the preparation of MBM, the starting phenol was alkylated to

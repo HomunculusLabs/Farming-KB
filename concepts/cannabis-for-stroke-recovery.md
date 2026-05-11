@@ -47,7 +47,7 @@ Perhaps the most promising finding: CBD treatment administered both before AND a
 
 ### Novel Temperature Regulation Discovery
 
-The Japanese research team discovered a new mechanism of body [[hamilton-greenhouse-heating-and-temperature-control]]. THC prevents stroke damage by producing lower body temperature through a pathway independent of the hypothalamus, which was previously assumed to be solely responsible for temperature regulation. This represents a significant advance in understanding [[blesching-cannabinoid-pharmacology]].
+The Japanese research team discovered a new mechanism of body [[hamilton-greenhouse-heating-and-temperature-control]]. THC prevents stroke damage by producing lower body temperature through a pathway independent of the hypothalamus, which was previously assumed to be solely responsible for temperature regulation. This represents a significant advance in understanding [[cannabinoid]].
 
 ## Proposed Clinical Applications
 

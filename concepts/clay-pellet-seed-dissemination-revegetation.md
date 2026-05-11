@@ -1,5 +1,5 @@
 ---
-title: [[clay-pellet-seed-ball-method-for-desert-revegetation]] Dissemination for Revegetation
+title: Clay Pellet Seed Dissemination Revegetation
 created: 2026-05-11
 tags: [farming, revegetation, desertification, seed-balls, ecology]
 date: 2026-05-11

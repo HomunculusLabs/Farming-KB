@@ -49,7 +49,7 @@ The Huichol and other tribes recognize two forms of peyote:
 The Huichol make long pilgrimages to the sacred places where peyote grows in search
 of the sacrament. They believe that if a person has not been properly purified, the
 spirits will lead them to the False Peyote (Ariocarpus retusus, known as tsuwiri),
-and if they partake of it they will suffer madness or at least a [[emcdda-bad-trip-phenomenology-psychiatric-intervention]].
+and if they partake of it they will suffer madness or at least a [[EMCDDA]].
 
 ## Tarahumara Indian Uses
 

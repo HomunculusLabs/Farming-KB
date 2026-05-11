@@ -1,5 +1,5 @@
 ---
-title: [[phototropism]] And Darwins Light Experiments
+title: "[[phototropism]] And Darwins Light Experiments"
 created: 2026-05-09
 tags: [plant-biology, phototropism, darwin, blue-light, auxin]
 date: 2026-05-09

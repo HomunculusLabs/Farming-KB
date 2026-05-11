@@ -1,5 +1,5 @@
 ---
-title: Fukuoka [[fukuoka-textdoc-dharma-wheel-civilization-collapse]] Theory Evolution
+title: Fukuoka Dharma Wheel Theory Evolution
 tags:
   - philosophy
   - evolution

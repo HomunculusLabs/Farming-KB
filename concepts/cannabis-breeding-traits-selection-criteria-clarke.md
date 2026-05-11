@@ -1,5 +1,5 @@
 ---
-title: [[cannabis-breeding-basics]] Traits [[vic-high-cannabis-phenotype-selection-criteria]] Clarke
+title: "[[cannabis-breeding-basics]] Traits [[vic-high-cannabis-phenotype-selection-criteria]] Clarke"
 created: 2026-04-28
 tags: [cannabis, breeding, traits, selection, resin, maturation, Clarke]
 date: 2026-04-25

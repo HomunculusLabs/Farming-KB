@@ -1,5 +1,5 @@
 ---
-title: [[solomon-garden-center-seedling-traps-transplant-buyer-awareness]] Hoe And [[cannabis-sativa-indoor-cultivation-techniques]]
+title: "[[solomon-garden-center-seedling-traps-transplant-buyer-awareness]] Hoe And [[cannabis-sativa-indoor-cultivation-techniques]]"
 created: 2026-04-26
 updated: 2026-04-23
 sources:

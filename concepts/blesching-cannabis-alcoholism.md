@@ -1,5 +1,5 @@
 ---
-title: [[blesching-cannabis-abortion-miscarriage-fertility]] Alcoholism
+title: Blesching Cannabis Alcoholism
 created: 2026-04-26
 tags: [cannabis, alcoholism, addiction, substitution, harm-reduction]
 date: 2026-04-25

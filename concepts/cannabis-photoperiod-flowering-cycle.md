@@ -1,5 +1,5 @@
 ---
-title: [[comparison-autoflowering-cannabis-vs-cannabis-photoperiod-flowering-cycle]] Cycle
+title: Cannabis Photoperiod Flowering Cycle
 created: 2026-04-28
 tags: [cannabis, photoperiod, flowering, light-cycle, grow-bible]
 date: 2026-04-25

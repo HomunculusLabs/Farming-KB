@@ -1,5 +1,5 @@
 ---
-title: Shamanism and the [[mckenna-food-gods-shamanism-techniques-of-ecstasy-mircea-eliade]]
+title: Shamanism Techniques Of Ecstasy
 created: 2026-05-11
 tags: [shamanism, anthropology, consciousness, religion, psychedelics]
 date: 2026-05-11

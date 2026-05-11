@@ -69,7 +69,7 @@ Light-spored mushrooms with rose-colored spore prints, the only psilocybin-conta
 
 Species are final wood-destroyers growing on well-decomposed wood of various hardwoods.
 
-Confirmed active species: [[copelandia-genus-species-guide]] for detailed coverage.
+Confirmed active species: [[Copelandia]] for detailed coverage.
 
 Copelandia cyanescens is the most widely distributed and well-known species.
 

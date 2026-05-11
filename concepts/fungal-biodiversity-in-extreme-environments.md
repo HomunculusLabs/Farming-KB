@@ -99,20 +99,17 @@ High-altitude environments share many selective pressures with polar regions (co
 
 The ability of fungi to survive extreme conditions makes them of particular interest to astrobiology. Experiments have demonstrated that certain fungi (particularly melanized species) can survive exposure to space conditions, including vacuum, UV and cosmic radiation, and extreme temperature fluctuations. This resilience raises questions about the potential for fungal life on other planets and the role of fungi in planetary ecology beyond Earth.
 
-
 ## Ecological Role
 Fungal organisms play critical roles in ecosystem functioning through
 decomposition, nutrient cycling, and symbiotic relationships with plants.
 Understanding their ecological contributions informs both cultivation
 practices and conservation efforts across diverse habitats.
 
-
 ## Research Directions
 Current research explores applications in bioremediation, sustainable
 agriculture, and pharmaceutical development. Advances in genomic
 sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
-
 
 ## See Also
 - [[fungal-responses-extreme-environments]]
@@ -126,4 +123,3 @@ and expand our understanding of fungal biology.
 - [[extremophilic-fungi]]
 - [[freshwater-fungi-biodiversity]]
 - [[fungal-ecology-extreme-environments]]
-

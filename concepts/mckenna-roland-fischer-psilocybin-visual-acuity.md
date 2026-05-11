@@ -1,5 +1,5 @@
 ---
-title: Mckenna Roland Fischer [[psilocybin]] Visual Acuity
+title: "Mckenna Roland Fischer [[psilocybin]] Visual Acuity"
 created: 2026-04-28
 tags:
   - psilocybin

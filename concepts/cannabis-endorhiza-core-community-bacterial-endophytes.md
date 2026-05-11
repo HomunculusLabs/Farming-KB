@@ -58,7 +58,7 @@ associated with:
 
 ### 4. Xanthomonadaceae (Gammaproteobacteria)
 Xanthomonadaceae, including genera like Stenotrophomonas and Xanthomonas, were part of
-the core [[proteobacteria-dominance-cannabis-endorhiza-community]]. While some Xanthomonas species are plant pathogens,
+the core [[Proteobacteria]]. While some Xanthomonas species are plant pathogens,
 many Stenotrophomonas strains are beneficial endophytes that contribute to plant health
 through:
 - Antibiotic production against fungal and bacterial pathogens

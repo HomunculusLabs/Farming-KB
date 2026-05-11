@@ -64,7 +64,7 @@ Northward, populations become scattered and reach their limit in southern Sweden
 The bee orchid colonizes a variety of open, dry habitats.
 It is found in calcareous grasslands, scrubland, coastal dunes, roadside verges, and quarries.
 
-The species tolerates a broad pH range but shows a strong preference for alkaline soils.
+The species tolerates a broad pH range but shows a strong preference for [[plants-tolerant-of-alkaline-soils]].
 
 It grows at elevations from sea level to approximately 1,600 meters.
 

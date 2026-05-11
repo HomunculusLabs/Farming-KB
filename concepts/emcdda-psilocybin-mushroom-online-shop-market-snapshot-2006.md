@@ -1,5 +1,5 @@
 ---
-title: [[emcdda-psilocybin-mushroom-dose-and-effects]] Online [[emcdda-hallucinogenic-mushroom-internet-shop-market-snapshot-2006]] 2006
+title: Emcdda Psilocybin Mushroom Online Shop Market Snapshot 2006
 source: carolina-mushrooms_08qxp.md (EMCDDA Thematic Paper 2006)
 author: Hillebrand, Olszewski & Sedefov (EMCDDA)
 type: concept

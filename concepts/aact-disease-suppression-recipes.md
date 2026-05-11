@@ -88,3 +88,16 @@ When pesticides (including sulfur-based fungicides) must be used:
 
 - Apply compost tea 3-5 days after pesticide application
 - Sulfur always kills some beneficial organisms; increasing sulfur applications leads to more disease unless biology is restored
+
+## Practical Applications
+Aact Disease Suppression Recipes has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
+
+## Historical Significance
+The development and understanding of aact disease suppression recipes has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+
+## See Also
+- [[ingham-aact-disease-suppression-through-food-competition]]
+- [[aact-disease-suppression-mechanisms-ingham]]
+- [[ingham-aact-orchard-disease-suppression-verticillium-brown-rot-cedar-rust]]
+- [[ingham-aact-disease-suppression]]
+- [[ingham-aact-disease-suppression-competition-mechanisms]]

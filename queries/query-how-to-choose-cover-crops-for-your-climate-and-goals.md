@@ -23,7 +23,7 @@ Start with the one thing you need most. You can layer benefits, but your primary
 
 ### Nitrogen Fixation (Legumes)
 
-- **[[comparison-lupin-vs-crimson-clover-green-manure]]**, **hairy vetch**, **field peas**, **cowpeas**, **red clover**, **alfalfa**
+- **[[compost]]**, **hairy vetch**, **field peas**, **cowpeas**, **red clover**, **alfalfa**
 - [[query-which-legumes-fix-the-most-nitrogen-for-gardens-and-farms]] 40–200 lb N/acre depending on species, stand density, and [[savory-growing-season-and-non-growing-season-management]] length
 - Inoculate with the correct Rhizobium strain at planting — skip this and fixation drops dramatically
 - Best as a component in a multi-species mix rather than a pure stand

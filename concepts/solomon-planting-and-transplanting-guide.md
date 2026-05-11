@@ -1,5 +1,5 @@
 ---
-title: Solomon Planting And Transplanting Guide
+title: "Solomon Planting And Transplanting Guide"
 created: 2026-04-18
 updated: 2026-04-18
 sources: Gardening When It Counts (steve-solomon)

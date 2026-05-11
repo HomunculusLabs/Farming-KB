@@ -132,6 +132,6 @@ Eye bolts, wire, pulley, twine mounted on existing wall/fence/eaves. Minimum 3â€
 
 - faires-hops-cultivation-and-home-brewing
 
-- [[compost-tea-brewing-equipment-ingham]]
-- [[compost-tea-brewing-methods]]
+- [[circadian-rhythm-in-plants]]
+- [[circadian-rhythm-in-plants]]
 - [[query-how-does-cover-cropping-benefit-soil-and-when-should-i-plant-them]]

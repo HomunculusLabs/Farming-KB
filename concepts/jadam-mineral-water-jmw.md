@@ -101,20 +101,17 @@ JMW provides the inorganic mineral component of the JADAM nutrition triangle:
 
 This combination provides both organic (microbe-processed) and inorganic (direct mineral) nutrition -- the balance that [[jadam-methods]] emphasizes.
 
-
 ## Practical Considerations
 Implementation requires careful attention to local conditions,
 available resources, and the specific goals of the practitioner.
 Documenting results and adapting approaches based on observed
 outcomes leads to continuous improvement over time.
 
-
 ## Integration Strategies
 Combining multiple approaches often yields better results than
 relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
-
 
 ## See Also
 - [[jadam-natural-mineral-water]]
@@ -128,4 +125,3 @@ that can amplify overall effectiveness.
 - [[jadam-methods]] — full [[jadam-soil-management-no-till-and-weed-control]] and nutrition philosophy
 - [[soil-food-web-nutrient-cycling]] — the biology these mineral inputs support
 - [[dynamic-accumulators]] — plants that mine minerals as living alternative
-

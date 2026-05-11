@@ -79,7 +79,7 @@ administration. Key examples include:
 - Maitake D-fraction: orally bioavailable
 - AHCC: orally bioavailable (low molecular weight alpha-glucans)
 
-The [[agaricus-blazei]] beta-1,6 glucan study demonstrated that acid
+The [[Agaricus]] beta-1,6 glucan study demonstrated that acid
 treatment to reduce molecular mass from high to approximately 10 kDa
 converted a non-orally-active compound into an orally-active one. This
 finding could have significant application with other large [[beta-glucans]]

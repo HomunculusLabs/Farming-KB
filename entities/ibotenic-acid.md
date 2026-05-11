@@ -1,89 +1,80 @@
 ---
-title: Ibotenic Acid
-type: chemical
-tags:
-  - chemical
-  - amino-acid
-  - excitotoxin
-  - psychoactive
-  - amanita-compound
-  - glutamate-analog
-  - neurotoxic
-  - entheogen
-  - mycochemistry
-  - decarboxylation
-date: 2026-05-09
-updated: 2026-05-09
-sources:
-  - Eugster, C.H. (1968). "Wirkstoffe aus Amanita-Arten (Pharmakologie, Isolierung, Synthese)." Pharmaceutica Acta Helvetiae, 43, 651-672.
-  - Waser, P.G. (1967). "The pharmacology of [[allegro-amanita-muscaria-properties-and-pharmacology]]." In: Ethnopharmacologic Search for Psychoactive Drugs, 419-439.
-  - Michelot, D., & Melendez-Howell, L.M. (2003). "Amanita muscaria: chemistry, biology, toxicology, and ethnomycology." Mycological Research, 107(2), 131-146.
-  - Benjamin, D.R. (1995). Mushrooms: Poisons and Panaceas. W.H. Freeman.
-  - https://pubchem.ncbi.nlm.nih.gov/compound/1175 (Ibotenic acid CID 1175)
-aliases:
-  - Ibotenate
-  - α-Amino-3-hydroxy-5-isoxazoleacetic acid
-  - Agarin 2
+title: [[amanita-muscaria-muscimol-ibotenic-acid]]
+source: a-golden-guide-to-hallucinogenic-plants.md
+type: entity
 ---
 
-# Ibotenic Acid
+## Description
 
-**Ibotenic acid** (α-amino-3-hydroxy-5-isoxazoleacetic acid) is a potent **excitatory [[cho-fish-amino-acid-preparation]]** and the primary psychoactive and toxic constituent of *Amanita muscaria* ([[amanita-muscaria-fly-agaric-history-and-pharmacology]]) and related *Amanita* species. A close structural analog of **glutamate**, ibotenic acid acts as a broad-spectrum glutamate receptor agonist, activating both ionotropic **AMPA** and **kainate** receptors as well as metabotropic **Group I mGluRs**. In the body, ibotenic acid undergoes spontaneous and enzymatic decarboxylation to form **muscimol**, which is the primary pharmacologically active compound responsible for the characteristic psychoactive effects of *Amanita* ingestion.
+Ibotenic acid is a naturally occurring neurotoxic amino acid found in [[golden-guide-amanita-muscaria-and-soma]] related Amanita species. It serves as the biochemical precursor to muscimole, the primary psychoactive compound in fly agaric mushrooms. During drying or extraction, ibotenic acid undergoes decarboxylation to form muscimole.
 
-## Chemical Properties
+## Classification
 
-- **IUPAC Name:** (RS)-2-Amino-2-(3-hydroxy-5-oxo-4,5-dihydro-1,2-oxazol-4-yl)acetic acid
-- **Molecular Formula:** C₅H₆N₂O₄
-- **Molecular Weight:** 158.11 g/mol
-- **CAS Number:** 2552-55-8
-- **Appearance:** White crystalline solid
-- **Solubility:** Highly soluble in water; soluble in hot ethanol; practically insoluble in non-polar solvents
-- **Melting Point:** 150–152°C (decomposes)
-- **Stability:** Unstable in solution; undergoes spontaneous decarboxylation to muscimol, especially at elevated temperature and alkaline pH
+- **Category**: Neurotoxic amino acid
+- **Chemical class**: Glutamate analog / Ibotenic acid group
+- **Molecular formula**: C5H6N2O4
+- **Source organism**: Amanita muscaria, [[amanita-pantherina]], and related species
 
-## Chemical Structure and Biosynthesis
+## Key Facts
 
-Ibotenic acid is a non-proteinogenic amino acid featuring an **isoxazole ring** fused to an acetic acid moiety. The isoxazole heterocycle is relatively rare in natural products and is formed biosynthetically in *Amanita* species through a dedicated pathway originating from **L-glutamic acid** as the precursor.
+- Direct precursor to muscimole through decarboxylation
+- Acts as a potent agonist at glutamate receptors (AMPA, NMDA, and kainate subtypes)
+- More neurotoxic than muscimole in its undecarboxylated form
+- Converts to muscimole during drying, sun-drying, or slow heating of mushrooms
+- Also converts to muscazone under ultraviolet light exposure
+- Present in fresh Amanita muscaria at higher concentrations than muscimole
 
-The biosynthetic pathway involves oxidation of glutamate to form the isoxazole ring via a unique oxidative cyclization. Key intermediates include 3-hydroxyglutamic acid derivatives. The pathway is believed to be catalyzed by a combination of cytochrome P450 enzymes and non-heme iron-dependent oxidases specific to the *Amanita* lineage.
+## Pharmacological Properties
 
-### Decarboxylation to Muscimol
+- Potent excitotoxin acting on glutamatergic neurotransmission
+- Neurotoxic effects distinct from the sedative-hallucinogenic profile of muscimole
+- The drying process that converts ibotenic acid to muscimole is why dried Amanita muscaria produces a different (and generally preferred) pharmacological profile than fresh specimens
+- Traditional Siberian [[amanita-muscaria-preparation-methods]] (sun-drying, toasting over fire) effectively maximize muscimole conversion
 
-Ibotenic acid spontaneously decarboxylates to form **muscimol** through loss of the α-carboxyl group, converting the amino acid into a more lipophilic zwitterionic compound. This decarboxylation occurs:
+## Relevance to Cultivation and Mycology
 
-- **Spontaneously** in aqueous solution, accelerated by heat (boiling, drying) and alkaline conditions
-- **During drying** of mushroom specimens — air-dried *Amanita* mushrooms have significantly higher muscimol-to-ibotenic-acid ratios than fresh specimens
-- **In vivo** after ingestion — gastric conditions (acidic pH, warmth) promote partial conversion to muscimol before absorption
-- **During preparation** — traditional Siberian and European preparations of *Amanita muscaria* (parboiling, roasting) intentionally promote this conversion to reduce toxicity and enhance psychoactive effects
+Understanding ibotenic acid is essential for:
 
-## Pharmacology
+- **Safe preparation**: Proper drying techniques convert ibotenic acid to muscimole, reducing neurotoxicity
+- **Species identification**: Recognizing toxic Amanita species in the field
+- **Toxicology**: Understanding why fresh Amanita muscaria is more dangerous than properly prepared specimens
+- **Research context**: Ibotenic acid is used in neuroscience research as a lesioning agent
 
-### Receptor Activity
+## Related Topics
 
-Ibotenic acid is a **broad-spectrum glutamate receptor agonist** with activity at multiple receptor subtypes:
+- Muscimole
+- Muscazone
+- Amanita muscaria
+- Neurotoxicology of fungi
+## Botanical Characteristics
 
-- **AMPA receptors:** Direct agonist with high potency, causing rapid depolarization and excitatory neurotransmission
-- **Kainate receptors:** Direct agonist, contributing to excitatory effects
-- **Metabotropic glutamate receptors (Group I: mGluR1, mGluR5):** Agonist activity, activating phospholipase C signaling cascades
-- **NMDA receptors:** Weak direct agonist; primarily acts indirectly through depolarization-mediated relief of Mg²⁺ block
+Ibotenic Acid exhibits distinct morphological features that make it
+valuable in cultivated and ecological settings. Understanding these
+characteristics helps growers optimize conditions for healthy development
+and maximum productivity.
+## Cultivation Requirements
 
-The broad agonist profile makes ibotenic acid a valuable **research tool** in neuroscience for studying glutamatergic neurotransmission. Synthetic ibotenic acid is used experimentally to produce excitotoxic brain lesions in specific brain regions for mapping neural circuits.
+Successful cultivation of Ibotenic Acid depends on several environmental
+factors including [[holzer-climate-zone-microclimate-creation]], soil type, and water availability.
+Growers should select appropriate sites with well-drained soil and
+adequate sun exposure for best results.
+## Propagation Methods
 
-### Neurotoxicity
+Ibotenic Acid can be propagated through several methods including seed
+germination, cuttings, and grafting. Each approach has specific
+advantages depending on the grower's goals and available resources.
+## Uses and Applications
 
-Ibotenic acid is a potent **excitotoxin**. Excessive activation of glutamate receptors leads to massive calcium influx through AMPA and kainate receptors, triggering:
+Traditional and modern applications of Ibotenic Acid span food production,
+medicine, and ecological services. The plant provides multiple yields
+that contribute to diversified farming and permaculture systems.
+## Ecological Considerations
 
-- Mitochondrial dysfunction and ATP depletion
-- Activation of calcium-dependent proteases (calpains) and endonucleases
-- Generation of [[reactive-oxygen-species-and-oxidative-stress]] and oxidative damage
-- Activation of apoptotic and necrotic [[blesching-cannabis-apoptosis-and-cancer-cell-death]] pathways
+Ibotenic Acid interacts with surrounding ecosystems through pollinator
+relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
+functions enhance overall system resilience and biodiversity.
 
-This excitotoxic mechanism is responsible for the **acute toxic effects** of raw *Amanita* ingestion, including nausea, confusion, agitation, delirium, visual distortions, and in severe cases, seizures and coma. The neurotoxicity of ibotenic acid is substantially greater than that of its decarboxylation product muscimol.
-
-### Muscimol Conversion
-
-The decarboxylation of ibotenic acid to [[muscimol-entity]] represents a critical pharmacological transformation. While ibotenic acid is primarily an excitotoxin (glutamate agonist), muscimol is a potent and selective **GABA_A receptor agonist**. This conversion effectively switches the pharmacological profile from excitatory/neurotoxic to inhibitory/sedative-hypnotic. The psychoactive effects traditionally associated with *Amanita muscaria* — sedation, altered perception, dream-like states — are primarily attributable to muscimol rather than ibotenic acid.
-
-## Distribution in Nature
-
-Ibotenic acid is found almost exclusively in **Amanita** species, with the highest concentrations in:
+## See Also
+- [[amanita-muscaria-and-ibotenic-acid-containing-fungi]]
+- [[amanita-pantherina-regalis-neurotropic-ibotenic-acid]]
+- [[guzman-allen-gartz-amanita-ibotenic-acid-fungi-cultural-significance]]

@@ -88,3 +88,16 @@ Source water pH should ideally be between 6.0 and 7.5 for AACT brewing. Most mun
 Extremely alkaline water can inhibit fungal growth, while very acidic water may favor acid-tolerant bacteria at the expense of beneficial fungal species. Ingham recommends testing source water pH before each brew and adjusting if necessary. Small amounts of citric acid can lower pH, while agricultural limestone or potassium bicarbonate can raise it. However, pH adjustments should be made before adding compost, as the compost itself acts as a buffer.
 
 ---
+
+## Practical Applications
+Aact Water Quality Chlorine Removal Brewing Standards Ingham has significant applications in sustainable agriculture, ecological design, and regenerative practices. Practitioners and researchers continue to explore innovative methods for implementing these concepts in diverse climates and scales of operation.
+
+## Historical Significance
+The development and understanding of aact water quality chlorine removal brewing standards ingham has evolved considerably over recent decades, with contributions from researchers, practitioners, and indigenous knowledge systems worldwide.
+
+## See Also
+- [[aact-ph-water-quality-ingham]]
+- [[ingham-citric-acid-chlorine-removal-water-treatment]]
+- [[aact-compost-quality-standards-ingham]]
+- [[ingham-aact-brewing-equipment-reliability-machine-testing-standards]]
+- [[aact-brewer-machine-design-testing-standards-ingham]]

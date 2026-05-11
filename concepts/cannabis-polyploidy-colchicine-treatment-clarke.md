@@ -1,5 +1,5 @@
 ---
-title: Cannabis Polyploidy [[colchicine]] Treatment Clarke
+title: "Cannabis Polyploidy [[colchicine]] Treatment Clarke"
 created: 2026-04-28
 tags: [cannabis, genetics, polyploidy, breeding, Clarke]
 date: 2026-04-25

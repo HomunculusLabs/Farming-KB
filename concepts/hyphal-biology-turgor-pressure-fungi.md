@@ -1,5 +1,5 @@
 ---
-title: [[hyphal-biology-and-mycelial-architecture]] [[bloomfield-turgor-pressure-and-hyphal-invasion]] in Fungi
+title: Hyphal Biology Turgor Pressure Fungi
 created: 2026-05-11
 tags: [mycology, fungi, hyphae, turgor, cell-biology]
 date: 2026-05-11

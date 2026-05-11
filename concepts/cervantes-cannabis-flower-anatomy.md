@@ -1,5 +1,5 @@
 ---
-title: [[cervantes-cannabis-butter-cooking]] Flower Anatomy
+title: "[[cervantes-cannabis-butter-cooking]] Flower Anatomy"
 created: 2026-04-26
 tags: [cannabis, flower-anatomy, calyx, pistil, botany]
 date: 2026-04-25

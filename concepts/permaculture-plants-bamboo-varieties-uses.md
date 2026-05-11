@@ -1,5 +1,5 @@
 ---
-title: [[permaculture]] Plants Bamboo Varieties Uses
+title: "[[permaculture]] Plants Bamboo Varieties Uses"
 created: 2026-04-26
 updated: 2026-04-24
 sources:

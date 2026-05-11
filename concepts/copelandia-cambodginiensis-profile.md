@@ -41,7 +41,7 @@ distinguishing feature from close relatives.
 
 According to Ola'h (1969), P. cambodginiensis is larger in stature
 than its close relative [[panaeolus-tropicalis]] and generally smaller
-than tropisms-psilocybe-cubensis-gravitropism and [[copelandia-cambodginiensis]]
+than tropisms-psilocybe-cubensis-gravitropism and [[Copelandia]]
 ## Practical Considerations
 
 When working with Copelandia cambodginiensis Profile, several practical factors should be

@@ -102,20 +102,17 @@ The "Wood Wide Web" — mycorrhizal networks connect individual plants into an [
 - Avoid fungicides where possible
 - Rotate crops that support AMF (not brassicas)
 
-
 ## Ecological Role
 Fungal organisms play critical roles in ecosystem functioning through
 decomposition, nutrient cycling, and symbiotic relationships with plants.
 Understanding their ecological contributions informs both cultivation
 practices and conservation efforts across diverse habitats.
 
-
 ## Research Directions
 Current research explores applications in bioremediation, sustainable
 agriculture, and pharmaceutical development. Advances in genomic
 sequencing and cultivation techniques continue to reveal new species
 and expand our understanding of fungal biology.
-
 
 ## See Also
 - [[nitrogen-transfer-through-common-mycorrhizal-networks]]
@@ -128,4 +125,3 @@ and expand our understanding of fungal biology.
 - [[ectomycorrhizal-ecology]] — for ECM networks in forests
 - [[soil-food-web-structure]] — for the broader soil web
 - [[fungal-role-in-carbon-cycling]] — for carbon flow through networks
-

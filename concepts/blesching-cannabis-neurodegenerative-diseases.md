@@ -3,7 +3,7 @@ title: Cannabis for Neurodegenerative Diseases
 created: 2026-04-26
 updated: 2026-04-24
 sources: "uwe-blesching, The cannabis-health-index (CHI)"
-wikilinks: "blesching-endocannabinoid-system-overview [[blesching-cannabinoid-pharmacology]] [[blesching-cannabis-multiple-sclerosis]] [[cannabis-chronic-pain-management]]"
+wikilinks: "blesching-endocannabinoid-system-overview [[cannabinoid]] [[blesching-cannabis-multiple-sclerosis]] [[cannabis-chronic-pain-management]]"
 type: concept
 tags: [cannabis]
 ---

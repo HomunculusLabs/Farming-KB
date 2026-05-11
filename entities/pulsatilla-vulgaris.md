@@ -65,7 +65,7 @@ grey seed head through summer.
 Native to calcareous grasslands, dry meadows, and open scrub from
 the UK and France east to Ukraine, south to the Iberian Peninsula.
 
-Prefers well-drained alkaline soils (pH 6.5-8.0) in full sun.
+Prefers well-drained [[plants-tolerant-of-alkaline-soils]] (pH 6.5-8.0) in full sun.
 Characteristic of species-rich calcareous grasslands; declining in
 many areas due to agricultural intensification. Protected under
 national legislation in several European countries.

@@ -24,7 +24,7 @@ outcomes.
 
 ## Communal Ayahuasca Practice
 
-The Sharanahua, like the [[harner-cashinahua-banisteriopsis-usage|Cashinahua]], tend to participate together in the
+The Sharanahua, like the [[harner-cashinahua-banisteriopsis-usage]], tend to participate together in the
 hallucinogenic experience [[harner-jivaro-shamanism-yage]] alone. The communal
 approach of the Sharanahua and Cashinahua produces more harmonious
 sessions, with participants sharing those aspects of the revelatory
@@ -48,7 +48,7 @@ patient during the shared trance experience.
 Traditional curing songs play a crucial role in shaping the nature of
 the patient's experience and reinforcing their belief that they have
 been cured. The shaman sings over the patient, describing what he sees
-in the spirit world, identifying the cause of illness, and announcing
+in the [[yakuruna-aquatic-spirit-world]], identifying the cause of illness, and announcing
 the cure. This verbal interaction, occurring while both parties are
 under the influence of ayahuasca, creates a unique therapeutic dynamic
 in which the shaman's words directly shape the patient's visionary

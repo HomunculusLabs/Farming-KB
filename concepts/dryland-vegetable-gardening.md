@@ -1,90 +1,138 @@
 ---
-title: Dryland home-vegetable-garden-planning
-source: Gardening When It Counts - steve-solomon
-source_author: [[steve-solomon]]
-tags: [gardening, dryland, water-conservation, irrigation, vegetable-production]
-created: 2026-05-08
+title: "Dryland Vegetable Gardening"
+aliases:
+  - dry gardening
+  - waterwise vegetables
+  - [[comparison-desert-gardening-vs-drought-gardening]]
+  - unirrigated gardening
+tags:
+  - gardening
+  - water-conservation
+  - drought
+  - vegetable-production
+  - steve-solomon
+source: Gardening When It Counts - Steve Solomon (2005)
+created: 2026-05-11
 ---
 
 # Dryland Vegetable Gardening
 
-## Overview
+Dryland vegetable gardening is the practice of [[container-growing-vegetables-herbs]] without
+any irrigation, relying entirely on natural rainfall and soil moisture.
+Steve Solomon mastered this system after selling Territorial Seed Company
+in 1986 and dedicating years to researching pre-irrigation gardening
+methods. He documented his findings in *Waterwise Vegetables* (now out
+of print). The technique was standard practice before pressurized water
+systems and remains viable in any climate with a reliably wet season,
+including Mediterranean, continental, and maritime climates.
 
-Dryland vegetable gardening is the practice of [[container-growing-vegetables-herbs]] with
-little or no supplemental irrigation, relying primarily on natural
-rainfall and soil [[cervantes-mulch-outdoor-moisture-conservation]] techniques. Steve Solomon
-researched and mastered this nearly lost art, documenting his approach
-in *Waterwise Vegetables* and expanding on it in *Gardening When It
-Counts*. The method was standard practice for our ancestors before
-pressurized water systems existed.
+## Core Principle
 
-## The Principle of Wide Spacing for Moisture
+The fundamental principle of dryland gardening is spacing. When plants
+are placed far enough apart, their root zones do not compete for soil
+moisture. Each plant develops a deep, extensive root system that mines
+water and nutrients from a large soil volume — resources that crowded
+plants in intensive beds never access. Counterintuitively, widely spaced
+plants often produce more total food per unit of area than crowded ones,
+because each individual plant is larger, healthier, and more productive.
 
-The fundamental principle of dryland gardening is that plants must be
-spaced far enough apart that their root zones do not compete for limited
-soil moisture. Each plant develops an extensive root system that draws
-from a large soil volume, accessing moisture that would be unavailable
-to more densely packed plantings.
+## How It Works
 
-In irrigated gardens, plants can be spaced relatively closely because
-regular watering replenishes soil moisture. In dryland systems, the
-total available moisture is fixed by rainfall, so the number of plants
-that can be supported is determined by how much water the soil holds
-and how widely plants are spaced.
+In regions with dry summers (like the [[psilocybin-north-america-pacific-northwest]], California,
+southern Australia, or Mediterranean Europe), soil accumulates moisture
+during the wet winter and spring. This moisture is stored at depth, below
+the evaporation zone. A widely spaced vegetable plant sends roots down
+to access this deep moisture reservoir. The critical requirement is that
+the soil profile must be recharged annually by sufficient winter/spring
+precipitation.
 
-## Soil Preparation for Moisture Retention
+In regions with summer rainfall, dryland gardening is even easier — the
+key is timing plantings so that crops mature during reliably moist periods.
 
-Successful dryland gardening begins with soil that can hold and slowly
-release moisture. Deep, well-structured soils with adequate organic
-matter retain significantly more plant-available water than compacted,
-sandy, or low-organic-matter soils.
+## Spacing for Dry Gardening
 
-Key soil preparation practices include deep cultivation to break up
-compaction layers, incorporation of [[hamilton-composting-and-organic-matter-management]] to improve water-
-[[pf-tek-vermiculite-type-comparison-water-holding-capacity]], and maintenance of good soil structure through minimal
-tillage once the garden is established. The goal is a soil that acts
-like a sponge, absorbing rainfall and releasing it gradually to plant
-roots over weeks or months.
+Dry gardening requires roughly 2-3 times the spacing recommended on seed
+packets. Solomon's guidelines:
 
-## Climate Considerations
+- **Tomatoes:** 4-6 feet apart (vs. 2-3 feet irrigated)
+- **Peppers and eggplant:** 3-4 feet apart (vs. 18-24 inches)
+- **Winter squash:** 8-12 feet apart (vs. 4-6 feet)
+- **Corn:** 12-18 inches in rows 4-5 feet apart
+- **Root crops (carrots, beets):** 4-6 inches in rows 3 feet apart
+- **Brassicas:** 24-36 inches apart (vs. 12-18 inches)
 
-Dryland gardening works best in regions with reliable, well-distributed
-rainfall during the [[savory-growing-season-and-non-growing-season-management]]. Mediterranean climates with wet
-winters and dry summers are particularly suited because the soil profile
-recharges during winter rains, providing a moisture reservoir that
-sustains crops through the dry months.
+The exact spacing depends on your climate's rainfall pattern, soil type
+(clay holds more moisture than sand), and the specific variety.
 
-In regions with summer rainfall patterns, dryland gardening is also
-feasible but requires different timing strategies. The gardener must
-understand local precipitation patterns and plan planting schedules to
-match moisture availability.
+## Soil Preparation
 
-Solomon's experience in the [[psilocybin-north-america-pacific-northwest]] (Cascadia bioregion)
-demonstrated that dryland methods work even in areas that many
-gardeners assume require irrigation. The key is appropriate plant
-selection and spacing rather than climate alone.
+Dryland gardening demands excellent soil preparation because plants cannot
+rely on frequent watering to compensate for poor soil structure:
 
-## Crop Selection for Dryland Gardens
+1. **Deep soil loosening:** Double-dig or use a broadfork to break up
+   compaction at least 18 inches deep. This allows roots to penetrate
+   quickly to moisture at depth.
+2. **Organic matter:** Incorporate compost or aged manure to improve
+   water-holding capacity. However, avoid excessive nitrogen, which
+   promotes leafy growth that increases water demand.
+3. **[[garden-soil-fertility-mineral-balance-solomon]]:** Apply [[complete-organic-fertilizer-cof-recipe-solomon]] (COF) at the
+   standard rate. Balanced minerals help plants develop efficient root
+   systems and resist drought stress.
+4. **Surface mulch:** Apply 2-4 inches of organic mulch (straw, leaves,
+   grass clippings) after planting to reduce surface evaporation. This is
+   critical — bare soil loses moisture rapidly to sun and wind.
 
-Not all vegetables are equally suited to dryland conditions. Root crops
-like potatoes, carrots, parsnips, and beets generally perform well
-because their roots penetrate deep into the soil moisture profile.
-[[winter-squash-guide]] and pumpkins develop extensive root systems and can
-produce well with minimal irrigation.
+## Timing and Variety Selection
 
-Brassicas like cabbage, broccoli, and kale are moderate performers in
-dryland conditions. They require consistent moisture for good head
-formation but can manage with less than intensive systems demand.
+Timing is critical. In Mediterranean climates, plant as early as soil can
+be worked in spring so that crops establish roots before the dry season.
+Choose early-maturing varieties so plants complete their cycle before deep
+soil moisture is exhausted.
 
-Some crops are genuinely difficult to grow without irrigation. Celery,
-lettuce, and other [[lettuce-and-leafy-greens]] have shallow root systems and high water
-content, making them poor choices for dryland gardens. Solomon recommends
-that gardeners in truly water-limited situations focus on calorie-dense
-crops rather than [[hamilton-salad-vegetables-organic]].
+For varieties, Solomon recommends seeking drought-adapted types:
+- **Tomatoes:** Determinate or semi-determinate varieties with smaller
+  fruit tend to perform better than large indeterminate types
+- **Root crops:** Carrots and beets are among the most reliable dryland
+  vegetables — they naturally send roots deep for moisture
+- **Winter squash:** Once established, many squash varieties are remarkably
+  drought-tolerant
+- **Beans:** Bush beans can produce a crop on stored soil moisture alone
+- **Potatoes:** An excellent dryland crop when planted deep
 
-## Mulching Strategies
+## Advantages
 
-Surface mulching is essential for dryland gardening. A thick layer of
-organic mulch (straw, leaves, or compost) dramatically reduces
-evaporative water loss from the soil surface. It also moderates soil
-temperature, reducing the rate at which moisture is drawn to the surface
+- **No irrigation infrastructure:** No pipes, pumps, timers, or sprinklers
+- **Zero water cost:** Particularly important as municipal water prices rise
+- **Disease reduction:** Dry foliage conditions reduce fungal diseases
+- **Pest resistance:** Non-stressed plants are less attractive to pests
+- **Labor reduction:** No daily watering chores
+- **Superior flavor:** Slow growth concentrates sugars and nutrients
+
+## Limitations
+
+- **Requires more land:** 2-3x the area of irrigated gardens for the same
+  caloric output
+- **Climate-dependent:** Requires sufficient off-season rainfall to
+  recharge soil moisture
+- **Not suitable for all crops:** Celery, cauliflower, lettuce, and other
+  moisture-demanding crops are impractical without irrigation
+- **Year-to-year variability:** Yield depends on seasonal rainfall patterns
+
+## Historical Precedent
+
+Dryland vegetable gardening was the norm worldwide before the 20th century.
+The British wartime allotment gardeners grew extensive vegetables with
+minimal irrigation. Solomon himself gardens in Tasmania without irrigation,
+producing roughly half his household's yearly food from about 2,000 square
+feet of growing beds.
+
+## See Also
+
+- [[vegetable-garden-spacing-systems-solomon]]
+- [[complete-organic-fertilizer-cof]]
+
+## References
+
+- Solomon, Steve. *Gardening When It Counts*. New Society Publishers, 2005.
+  Chapter 6.
+- Solomon, Steve. *Waterwise Vegetables*. Sasquatch Books, 1993 (OOP).

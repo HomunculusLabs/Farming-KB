@@ -1,9 +1,9 @@
 ---
-title: [[mushroom-spore-syringe-inoculation]]
+title: Spore Syringe Inoculation
 created: 2026-05-11
 source: PF TEK by Psilocybe Fanaticus (1996)
 tags: [inoculation, spore-syringe, sterilization, mycology, contamination-prevention, PF-TEK]
-aliases: [[mushroom-spore-inoculation-technique]], sterile technique mushrooms, [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]]
+aliases: [[mushroom-spore-inoculation-technique]], sterile technique mushrooms, [[gottlieb-psilocybin-cultivation-spore-syringe-preparation]]
 ---
 
 # Spore Syringe Inoculation

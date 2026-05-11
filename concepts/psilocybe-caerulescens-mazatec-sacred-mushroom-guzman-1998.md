@@ -1,5 +1,5 @@
 ---
-title: [[psilocybe-caerulescens]] Mazatec Sacred Mushroom Guzman 1998
+title: Psilocybe Caerulescens Mazatec Sacred Mushroom Guzman 1998
 source: world-wide-distribution-of-magic-mushrooms-guzman-allen-&-gartz.md
 author: Guzmán, Allen & Gartz (1998)
 type: concept

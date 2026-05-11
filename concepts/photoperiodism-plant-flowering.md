@@ -118,7 +118,7 @@ LEAFY, converting vegetative meristems into floral meristems.
 
 ## Applications in Cannabis Cultivation
 
-[[chrysanthemum-greenhouse-photoperiod-manipulation]] is fundamental to Cannabis cultivation. Most
+[[cannabinoid-pharmacology]] is fundamental to Cannabis cultivation. Most
 commercial strains are short-day plants flowering under 12 hours or
 less.
 Growers maintain 18-24 hours of light during vegetative growth to

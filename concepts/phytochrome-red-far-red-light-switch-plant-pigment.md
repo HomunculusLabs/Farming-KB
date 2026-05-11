@@ -34,7 +34,7 @@ The phytochrome molecule itself is a **chromoprotein**: a protein covalently bon
 
 ## What Plants Actually Measure: Continuous Darkness
 
-Despite the common terminology of "day length" or "photoperiod," phytochrome-mediated responses are really about measuring the **length of continuous darkness**. During daylight, Pfr accumulates. After sunset, Pfr slowly reverts to Pr through a thermal (dark) reversion process, or is actively degraded. The plant's [[chamovitz-circadian-rhythm-internal-clock-plants]] then tracks how long Pfr levels have been low — i.e., how long the night has been. If the dark period exceeds a critical threshold, specific physiological responses (like flowering) are triggered. This is why interrupting the night with a brief flash of red light resets the "darkness counter" — it converts the remaining Pr back to Pfr, and the plant behaves as if the night never happened.
+Despite the common terminology of "day length" or "photoperiod," phytochrome-mediated responses are really about measuring the **length of continuous darkness**. During daylight, Pfr accumulates. After sunset, Pfr slowly reverts to Pr through a thermal (dark) reversion process, or is actively degraded. The plant's [[chrysanthemum]] then tracks how long Pfr levels have been low — i.e., how long the night has been. If the dark period exceeds a critical threshold, specific physiological responses (like flowering) are triggered. This is why interrupting the night with a brief flash of red light resets the "darkness counter" — it converts the remaining Pr back to Pfr, and the plant behaves as if the night never happened.
 
 ---
 

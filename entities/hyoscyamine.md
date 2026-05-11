@@ -1,90 +1,98 @@
 ---
-title: "Hyoscyamine"
-type: chemical
-tags:
-  - tropane-alkaloid
-  - anticholinergic
-  - antimuscarinic
-  - alkaloid
-  - pharmacology
-  - entheogen
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - Lee, M.R. (2007). "Solanaceous plants and the history of tropane alkaloids." Pharmaceutical Historian, 37(2), 38-44.
-  - Ramsay, R.R. et al. (2010). "Tropane alkaloids: pharmacology and toxicology." Handbook of Experimental Pharmacology, 197, 209-232.
-  - Marion, L. (1949). "The tropane alkaloids." In Manske, R.H.F. & Holmes, H.L. (eds.), The Alkaloids, Vol. 1, 317-376. Academic Press.
-  - Kohn, F. (2007). "Hyoscyamine sulfate." In Brittain, H.G. (ed.), Analytical Profiles of Drug Substances, Vol. 33, 183-220.
-  - EFSA Panel on Contaminants (2013). "Scientific opinion on tropane alkaloids in food." EFSA Journal, 11(10), 3386.
-created: 2026-04-28
+title: Hyoscyamine
+source: a-golden-guide-to-hallucinogenic-plants.md
+type: entity
 ---
 
-# Hyoscyamine
+## Description
 
-## Overview
+Hyoscyamine is a tropane alkaloid found in plants of the Solanaceae (nightshade) family, particularly [[atropa-belladonna]] (belladonna), [[henbane-hyoscyamus-niger-ethnobotany]] (henbane), and [[mandragora-officinarum]] (mandrake). It is the main active principle in belladonna and henbane, though the more psychoactive scopolamine is also present in these plants.
 
-**Hyoscyamine** (C₁₇H₂₃NO₃) is a tropane alkaloid and the levorotatory enantiomer of atropine.
+## Classification
 
-It is the primary active constituent of several medicinally important Solanaceae plants, including **[[plants-of-the-gods-atropa-belladonna-deadly-nightshade]]** (*[[belladonna-atropa-belladonna-ethnobotany]]*), **henbane** (*[[henbane-hyoscyamus-niger-ethnobotany]]*), and **datura** (*[[datura-stramonium]]*).
+- **Category**: Tropane alkaloid
+- **Chemical class**: Tropane
+- **Molecular formula**: C17H23NO3
+- **Source organisms**: Atropa belladonna, Hyoscyamus niger, Mandragora officinarum
 
-Hyoscyamine is a competitive antagonist at muscarinic acetylcholine receptors, producing anticholinergic effects.
+## Key Facts
 
-It has been used in medicine for over two millennia and remains a component of several modern pharmaceuticals, most notably as **hyoscyamine sulfate**.
+- Main active principle in belladonna (Atropa belladonna)
+- Principal alkaloid of henbane (Hyoscyamus niger)
+- Present in mandrake alongside scopolamine
+- Less hallucinogenic than scopolamine but more abundant in many source plants
+- Anticholinergic effects: blocks muscarinic acetylcholine receptors
+- Occurs throughout the plant but concentrated in leaves and roots
+- Was a key ingredient in medieval witches' brews
 
-At toxic doses, hyoscyamine causes the syndrome of anticholinergic poisoning: dry mouth, dilated pupils, tachycardia, urinary retention, and delirium.
+## Pharmacological Effects
 
-## Chemical Properties
+- Potent anticholinergic agent
+- Dry mouth, dilated pupils, increased heart rate
+- Decreased gastrointestinal motility
+- Urinary retention
+- At high doses: delirium, confusion, hallucinations
+- Effects are similar to atropine (which is racemic hyoscyamine)
 
-**Molecular formula:** C₁₇H₂₃NO₃
+## Role in Source Plants
 
-**Molecular weight:** 289.37 g/mol
+- **Atropa belladonna**: The main active principle; belladonna is a commercial source
+- **Hyoscyamus niger**: Principal alkaloid alongside scopolamine
+- **Mandragora officinarum**: Active hallucinogenic ingredient alongside scopolamine
+- Concentrated in leaves and roots of these species
 
-**IUPAC name:** (8-Methyl-8-azabicyclo[3.2.1]octan-3-yl) 3-hydroxy-2-phenylpropanoate
+## Historical Significance
 
-**Structure:** Tropane ring system esterified with tropic acid at the 3-position. The stereocenter at the 3-position of the tropane ring gives hyoscyamine its levorotatory configuration.
+- Was one of the active ingredients in medieval witches' brews
+- Belladonna was used by Italian women to dilate pupils as a beauty treatment
+- Henbane was valued in European medicine as a sedative and anodyne
+- Mandrake had an unparalleled role in [[shroom-european-folklore]] and magic
 
-**Solubility:** Slightly soluble in water (1:500), freely soluble in ethanol, chloroform, and ether.
+## Relevance to Cultivation and Mycology
 
-**Melting point:** 108–109 °C (free base), 205–207 °C (sulfate salt, decomposition).
+Understanding hyoscyamine helps cultivators:
 
-**Optical rotation:** [α]D²⁰ = −21° to −23° (1% in ethanol).
+- Distinguish Solanaceae alkaloid poisoning from fungal toxicity
+- Recognize dangerous plants that may grow near cultivation sites
+- Appreciate the chemical diversity of natural psychoactive compounds
+- Understand the pharmacological context of plant-derived medicines
 
-The racemic mixture of hyoscyamine and atropine is known as **atropine**; commercial atropine is in fact the racemate.
+## Related Topics
 
-Hyoscyamine sulfate is the most common pharmaceutical salt form, with significantly improved water solubility.
+- Scopolamine
+- Atropine
+- Atropa belladonna
+- Hyoscyamus niger
+- Mandragora officinarum
+## Botanical Characteristics
 
-## Pharmacology
+Hyoscyamine exhibits distinct morphological features that make it
+valuable in cultivated and ecological settings. Understanding these
+characteristics helps growers optimize conditions for healthy development
+and maximum productivity.
+## Cultivation Requirements
 
-Hyoscyamine acts as a competitive antagonist at all five muscarinic acetylcholine receptor subtypes (M₁–M₅).
+Successful cultivation of Hyoscyamine depends on several environmental
+factors including [[holzer-climate-zone-microclimate-creation]], soil type, and water availability.
+Growers should select appropriate sites with well-drained soil and
+adequate sun exposure for best results.
+## Propagation Methods
 
-It has negligible affinity for nicotinic acetylcholine receptors at therapeutic doses, distinguishing it from neuromuscular blocking agents.
+Hyoscyamine can be propagated through several methods including seed
+germination, cuttings, and grafting. Each approach has specific
+advantages depending on the grower's goals and available resources.
+## Uses and Applications
 
-Antagonism of M₃ receptors in smooth muscle produces bronchodilation, reduced gastrointestinal motility, and urinary retention.
+Traditional and modern applications of Hyoscyamine span food production,
+medicine, and ecological services. The plant provides multiple yields
+that contribute to diversified farming and permaculture systems.
+## Ecological Considerations
 
-M₁ receptor antagonism in the CNS underlies the cognitive and perceptual effects seen at higher doses.
+Hyoscyamine interacts with surrounding ecosystems through pollinator
+relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
+functions enhance overall system resilience and biodiversity.
 
-M₂ receptor blockade on cardiac tissue causes tachycardia by reducing [[tong-len-compassion-meditation-vagal-tone-blesching]].
-
-The compound crosses the blood-brain barrier readily, contributing to both therapeutic CNS effects and deliriant toxicity.
-
-**Potency:** Hyoscyamine is approximately twice as potent as racemic atropine, since only the (-)-enantiomer is pharmacologically active.
-
-## Effects
-
-At therapeutic doses (0.125–0.5 mg orally), hyoscyamine reduces smooth muscle spasm and glandular secretions.
-
-Common [[cbd-therapeutic-effects]] include dry mouth, mild pupil dilation, and reduced GI cramping.
-
-At toxic doses (>2 mg in adults), the anticholinergic toxidrome develops: severe xerostomia, anhidrosis, mydriasis, tachycardia, hypertension, hyperthermia, urinary retention, and delirium.
-
-The deliriant state is characterized by visual hallucinations, disorientation, agitation, and inability to distinguish hallucination from reality.
-
-Severe poisoning can progress to seizures, coma, and respiratory arrest.
-
-**Dose ranges:** Therapeutic oral dose is 0.125–0.5 mg, repeated every 4–6 hours. Parenteral dose is 0.25–0.5 mg IV/IM/SC.
-
-The lethal dose is estimated at 10–20 mg for adults.
-
-## Medical Applications
-
-Hyoscyamine sulfate is approved for treatment of [[blesching-cannabis-gastrointestinal-disorders]] including [[blesching-cannabis-irritable-bowel-syndrome]] syndrome, peptic ulcer disease, and functional dyspepsia.
+## See Also
+- [[growing-gourmet-king-oyster-eryngii-cultivation]]
+- [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]
+- [[persimmon-cultivation-and-variety-guide]]

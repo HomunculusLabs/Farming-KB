@@ -39,7 +39,7 @@ pines inoculated with nematodes did not die. Second, he could not find the
 healthy pines, and the nematodes could not survive on pine sap alone.
 
 When he studied trunks of pines showing early signs of decline, he
-discovered three or four types of [[cordyceps-insect-pathogenic-fungi]] (eumycetes) that had not
+discovered three or four types of [[Cordyceps]] (eumycetes) that had not
 been mentioned in the official analysis. These were thought to have been
 introduced with imported lumber. Yet even inoculating pines with hyphae from
 these fungi had little effect on overall tree health.

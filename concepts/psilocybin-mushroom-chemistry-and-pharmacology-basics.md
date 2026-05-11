@@ -1,5 +1,5 @@
 ---
-title: [[psilocybin-mushroom-chemistry]] And Pharmacology Basics
+title: Psilocybin Mushroom Chemistry And Pharmacology Basics
 source: EMCDDA "Hallucinogenic Mushrooms: An Emerging Trend Case Study" (2006)
 ---
 

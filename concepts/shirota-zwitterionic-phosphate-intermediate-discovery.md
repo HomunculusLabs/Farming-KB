@@ -1,5 +1,5 @@
 ---
-title: Shirota [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] Discovery
+title: "Shirota [[hmbc-noesy-nmr-analysis-zwitterionic-phosphate-intermediate-psilocybin]] Discovery"
 aliases: [zwitterion intermediate, N,O-dibenzyl phosphate, [[intramolecular-benzyl-migration-zwitterionic-phosphate-psilocybin-synthesis]]
 tags: [chemistry, synthesis, psilocybin, phosphorylation, NMR, organic-chemistry]
 source: concise-large-scale-synthesis-of-psilocin-and-psilocybin-shirota-hakamata-goda.md

@@ -11,7 +11,7 @@ tags:
 date: 2026-05-09
 updated: 2026-05-09
 sources:
-  - Weakley, A.S. (2023). Flora of the Southeastern dmt-containing-plants-united-states-halpern. University of [[north-carolina-mycodiversity]] Herbarium.
+  - Weakley, A.S. (2023). Flora of the Southeastern dmt-containing-plants-united-states-halpern. University of north-carolina-mycodiversity Herbarium.
   - Gleason, H.A. & Cronquist, A. (1991). Manual of Vascular Plants of Northeastern [[dmt-containing-plants-united-states-halpern]] and Adjacent Canada. New York Botanical Garden.
   - USDA NRCS (2024). "Viburnum acerifolium" PLANTS Database. https://plants.usda.gov/
   - Cullina, W. (2002). Native Trees, Shrubs, and Vines. Houghton Mifflin.

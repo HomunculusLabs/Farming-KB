@@ -1,5 +1,5 @@
 ---
-title: [[mckenna-food-gods-lsd-invention-hofmann-sandoz-psychedelic-era]] Crisis Lsd Withdrawal
+title: "[[mckenna-food-gods-lsd-invention-hofmann-sandoz-psychedelic-era]] Crisis Lsd Withdrawal"
 created: 2026-04-28
 tags: [lsd, sandoz, hofmann, drug-policy, history, pharmaceutical]
 date: 2026-04-25

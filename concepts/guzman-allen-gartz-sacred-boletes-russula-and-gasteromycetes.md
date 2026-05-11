@@ -1,5 +1,5 @@
 ---
-title: [[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] [[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]] And Gasteromycetes
+title: "[[guzman-allen-gartz-africa-southern-hemisphere-underexplored-neurotropic-fungi]] [[guzman-new-guinea-sacred-boletes-russula-neurotropic-controversy-heim-wasson]] And Gasteromycetes"
 created: 2026-04-28
 tags:
   - boletes

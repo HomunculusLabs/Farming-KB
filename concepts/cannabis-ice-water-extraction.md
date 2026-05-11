@@ -1,5 +1,5 @@
 ---
-title: Cannabis Ice Water Extraction
+title: "[[comparison-cannabis-ice-water-extraction-vs-hashish-guide]] Extraction"
 created: 2026-04-26
 updated: 2026-04-23
 sources:

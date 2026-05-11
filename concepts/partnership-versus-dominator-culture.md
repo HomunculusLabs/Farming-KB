@@ -1,5 +1,5 @@
 ---
-title: Partnership Versus [[dominator-culture-and-partnership-society]]
+title: Partnership Versus Dominator Culture
 created: 2026-05-11
 tags: [culture, history, anthropology, feminism, psychedelics]
 date: 2026-05-11

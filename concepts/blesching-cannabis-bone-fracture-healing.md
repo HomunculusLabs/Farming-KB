@@ -33,7 +33,7 @@ poor healing due to inappropriate immobilization.
 
 Conditions such as [[blesching-cannabis-osteoporosis]]
 - [[blesching-cannabis-neuroprotection]]
-- [[blesching-cannabinoid-pharmacology]]
+- [[cannabinoid]]
 - [[blesching-cannabis-deep-relaxation-healing]]
 ## Practical Applications
 

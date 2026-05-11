@@ -56,7 +56,7 @@ converts Pr to Pfr, promoting flowering in long-day plants. Far-red light revers
 conversion, effectively canceling the red light signal. This on-off [[far-red-light-phytochrome-switch-mechanism]] allows
 plants to measure the length of continuous darkness, which governs flowering timing.
 
-- **Cryptochromes**: These blue-light receptors are involved in [[chamovitz-circadian-rhythm-internal-clock-plants]] regulation
+- **Cryptochromes**: These blue-light receptors are involved in [[chrysanthemum]] regulation
 and other light-dependent processes. They help plants maintain internal clocks synchronized
 with the daily light cycle.
 

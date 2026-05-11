@@ -1,5 +1,5 @@
 ---
-title: [[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] [[edaphic-factors-soil-microbial-community-structure]]
+title: Edaphic Factors Microbial Community Structure
 created: 2026-05-09
 tags: [soil-science, microbiome, edaphic-factors, rhizosphere, cannabis]
 date: 2026-05-09

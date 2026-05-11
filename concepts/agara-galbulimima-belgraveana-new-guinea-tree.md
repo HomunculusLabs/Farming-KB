@@ -1,5 +1,5 @@
 ---
-title: Agara [[galbulimima-belgraveana]] New Guinea Tree
+title: "Agara Galbulimima Belgraveana New Guinea Tree"
 created: 2026-04-28
 tags: [ethnobotany, papua-new-guinea, australia, malaysia,
   himantandraceae, alkaloids, hallucinogenic-plants, schultes]
@@ -57,7 +57,7 @@ intoxication, followed by a deep sleep during which the user experiences
 visions and fantastic dreams. This progression from initial agitation or
 disorientation through sedation to a visionary dream state is reminiscent
 of the effects produced by several other psychoactive plant preparations,
-particularly those containing [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]], which typically produce an
+particularly those containing [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] tropane alkaloids flying salves tropane alkaloids [[schultes-witches-ointments-flying-salves]], which typically produce an
 initial period of delirium and agitation before settling into a state of
 sedation and hallucination.
 

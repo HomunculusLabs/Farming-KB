@@ -108,20 +108,17 @@ Condition dried foods before storage: place in jars, seal, and shake daily for 7
 
 For other off-grid cooking and heating methods, see [[rocket-stove-design]] and [[cob-oven-construction]]. For long-term storage of your dehydrated goods, refer to [[emergency-preparedness]].
 
-
 ## Practical Considerations
 Implementation requires careful attention to local conditions,
 available resources, and the specific goals of the practitioner.
 Documenting results and adapting approaches based on observed
 outcomes leads to continuous improvement over time.
 
-
 ## Integration Strategies
 Combining multiple approaches often yields better results than
 relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
-
 
 ## See Also
 - [[comparison-solar-dehydrator-vs-electric-dehydrator]]

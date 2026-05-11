@@ -82,7 +82,7 @@ Cold water slows reproduction rates. Most tea organisms need 24 hours to activat
 
 ## See Also
 
-- [[compost-tea-brewing-methods]]
+- [[circadian-rhythm-in-plants]]
 - [[ingham-field-guide-overview]]
 - [[ingham-aact-disease-suppression]]
 - [[compost-tea-aact]]

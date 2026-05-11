@@ -1,5 +1,5 @@
 ---
-title: [[pf-tek-vermiculite-brown-rice-substrate-dry-barrier]] Substrate
+title: Vermiculite Brown Rice Substrate
 created: 2026-05-11
 source: PF TEK by Psilocybe Fanaticus (1996)
 tags: [substrate, vermiculite, brown-rice, cultivation, mycology, PF-TEK, mushroom-growing]

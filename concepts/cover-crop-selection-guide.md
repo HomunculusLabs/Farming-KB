@@ -42,7 +42,7 @@ Planted late summer or fall; mowed or tilled in spring while flowering and befor
 | Crop | N-fixer | Height | Notes |
 |------|---------|--------|-------|
 | Austrian winter pea | Yes | 2 ft | Hardy to 0°F |
-| [[comparison-lupin-vs-crimson-clover-green-manure]] | Yes | 18 in | Hardy to 10°F |
+| [[compost]] | Yes | 18 in | Hardy to 10°F |
 | Hairy vetch | Yes | 3-6 ft | Hardy to -10°F |
 | Common vetch | Yes | 3-6 ft | Hardy to 0°F |
 | Fava/bell bean | Yes | 3-6 ft | Mix with legumes |

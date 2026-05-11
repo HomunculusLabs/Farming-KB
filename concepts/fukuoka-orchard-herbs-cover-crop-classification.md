@@ -54,7 +54,7 @@ Legumes form the backbone of the orchard cover crop system because of their nitr
 - Ladino clover: the primary cover crop, provides year-round weed control for all fruit trees
 - Red and white clover: year-round weed control
 - Alfalfa: year-round, especially valuable in warm regions where clover loses summer vigor
-- [[comparison-lupin-vs-crimson-clover-green-manure]], sweet clover, sub clover: year-round persistence
+- [[compost]], sweet clover, sub clover: year-round persistence
 
 **Spring and summer crops:**
 - Mung bean and cowpea: spring to summer, for large evergreen trees, controls summer weeds

@@ -1,83 +1,99 @@
 ---
 title: Tryptamine
-created: 2026-04-28
-type: chemical
-tags:
-  - alkaloid
-  - indole
-  - neurotransmitter
-  - psychoactive
-  - monoamine
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - /Users/t3rpz/wiki/raw/papers/growing-psilocybe-azurescens.md
+source: a-golden-guide-to-hallucinogenic-plants.md
+type: entity
 ---
 
-# Tryptamine
+## Description
 
-Tryptamine is an indoleamine compound that serves as the parent structural backbone for a broad class of biologically active molecules, including neurotransmitters, psychedelic substances, plant hormones, and pharmaceuticals. It is found throughout nature in plants, animals, and fungi, playing diverse roles in biochemistry and pharmacology.
+Tryptamine is a monoamine alkaloid that serves as the foundational chemical structure for a large family of hallucinogenic compounds. The indole nucleus of tryptamine appears in numerous [[cultural-evolution-and-psychoactive-substances]], including DMT (dimethyltryptamine), psilocybin, psilocin, serotonin, and the ergoline and beta-carboline alkaloids. Understanding tryptamine is essential for understanding the chemistry of the most powerful natural hallucinogens.
 
-## Chemical Structure and Properties
+## Classification
 
-Tryptamine (IUPAC name: 2-(1H-indol-3-yl)ethanamine; molecular formula C10H12N2) consists of an indole ring system attached to a two-carbon ethylamine side chain at the 3-position of the indole ring. The indole ring is a fused bicyclic structure composed of a six-membered benzene ring fused to a five-membered pyrrole ring containing a nitrogen atom.
+- **Category**: Monoamine alkaloid (base structure)
+- **Chemical class**: Indole ethylamine
+- **Molecular formula**: C10H12N2
+- **Structural components**: Phenyl ring + pyrrol ring (forming the indole nucleus) + ethylamine side chain
 
-The molecular weight of tryptamine is 160.22 g/mol. It is a colorless crystalline solid at room temperature with a melting point of approximately 118 degrees C. Tryptamine is a monoamine compound and a weak base, with a pKa of approximately 9.4 for the amine group. It is soluble in water, ethanol, and most polar organic solvents.
+## Key Facts
 
-The indole ring system is planar and aromatic, contributing to the molecule's ability to interact with biological receptors through pi-stacking and hydrogen bonding. The ethylamine side chain is flexible, allowing the molecule to adopt different conformations when bound to receptor sites.
+- Composed of phenyl and pyrrol segments forming the indole ring
+- The indole ring is the core structural feature shared by most hallucinogens
+- Tryptamine derivatives may be "simple" (unsubstituted) or have various side chains
+- Substitutions include hydroxy (OH), methoxy (CH3), and phosphogloxy (OPO3H) groups
+- The majority of hallucinogenic alkaloids with nitrogen are tryptamine-related
+- Many may have originated in plants from the amino acid tryptophan
 
-## Biosynthesis
+## Hallucinogenic Tryptamine Derivatives
 
-In [[savory-living-organisms-as-tools]], tryptamine is produced through a straightforward enzymatic pathway:
+The tryptamine nucleus appears in numerous hallucinogenic compounds:
 
-1. **Tryptophan uptake**: The essential amino acid tryptophan is obtained from dietary sources (in animals) or synthesized de novo via the shikimate pathway (in plants and microorganisms)
-2. **Decarboxylation**: The enzyme aromatic L-amino acid decarboxylase (also called DOPA decarboxylase) catalyzes the removal of the carboxyl group from tryptophan's alpha-carbon
-3. **Tryptamine formation**: The product is tryptamine, with the release of carbon dioxide
+- **Simple tryptamines**: DMT (dimethyltryptamine), DET, DPT
+- **Hydroxylated tryptamines**: Psilocin (4-OH-DMT), bufotenin (5-OH-DMT)
+- **Phosphorylated tryptamines**: Psilocybin (4-PO4-DMT)
+- **Ergoline derivatives**: LSD, ergine (complex tryptamine structures)
+- **Beta-carboline derivatives**: Harmine, harmaline (fused tryptamine rings)
+- **Ibogaine-type**: Complex polycyclic tryptamine structures
 
-In mammals, this pathway operates primarily in the brain and peripheral tissues, producing tryptamine as a trace monoamine neurotransmitter alongside its more abundant derivative serotonin (5-hydroxytryptamine). In fungi and plants, tryptamine serves as a central precursor to a wide variety of [[antifungal-secondary-metabolites-coprophilous-fungi]].
+## Structural Significance
 
-## Biological Roles
+The indole ring (tryptamine core) is evident in:
+- Numerous simple tryptamines (DMT, etc.)
+- [[morning-glory-ergoline-alkaloids-chemistry]] (ergine and others)
+- Ibogaine alkaloids
+- Beta-carboline alkaloids (harmine, harmaline)
+- [[lsd-d-lysergic-acid-diethylamide]] (LSD)
 
-### Neurotransmitter Function
+The significance of indolic hallucinogens may be explained by their [[serotonin-psilocin-structural-similarity-hallucinogenic-mechanism]] to serotonin (5-hydroxydimethyltryptamine), the neurotransmitter present in the nervous tissue of warm-blooded animals that plays a major role in central nervous system biochemistry.
 
-Tryptamine acts as a neuromodulator in the mammalian central nervous system, though it is present at much lower concentrations than serotonin, dopamine, or norepinephrine. It is an agonist at several serotonin (5-HT) receptor subtypes, particularly 5-HT2A, 5-HT1A, and 5-HT2C, and also activates trace amine-associated receptors (TAARs).
+## Biosynthetic Origin
 
-Endogenous tryptamine is metabolized extremely rapidly by monoamine oxidase A (MAO-A), which converts it to indoleacetic acid (IAA), giving it a very short half-life in vivo (on the order of seconds to minutes). This rapid metabolism limits its endogenous signaling capacity but also means that tryptamine derivatives that resist MAO metabolism (such as N-methylated tryptamines) can produce much more pronounced and sustained effects.
+Most hallucinogenic tryptamines may have originated in plants from the amino acid tryptophan. This biosynthetic pathway connects the indole hallucinogens to basic protein metabolism.
 
-### Fungal Secondary Metabolism
+## Relevance to Cultivation and Mycology
 
-In [[forensic-identification-methods-psilocybin-mushrooms-tlc-gc-hplc]] such as [[psilocybe-cubensis]], and [[psilocybe-azurescens]] can exceed 2% of the mushroom's dry weight.
+Tryptamine is the central chemical concept for understanding fungal hallucinogens:
 
-### Plant Secondary Metabolism
+- [[hplc-analysis-of-psilocybin-and-psilocin]] are 4-substituted tryptamine derivatives found in Psilocybe mushrooms
+- Understanding tryptamine chemistry is essential for understanding mushroom pharmacology
+- The tryptamine-serotonin connection explains why these fungi produce psychoactive effects
+- Relevant to identifying and classifying psychoactive mushroom species by their chemical profiles
 
-In plants, tryptamine is a precursor to numerous important indole alkaloids through a pathway that begins with the strictosidine synthase reaction. Notable examples include:
+## Related Topics
 
-- **[[turner-harmala-alkaloids-preparation-and-dosage]]**: harmine, harmaline, and tetrahydroharmine found in [[peganum-harmala]] (Syrian rue), which act as MAO inhibitors
-- **Ergot alkaloids**: produced by [[anadenanthera-peregrina]] (yopo) seeds and bufo alvarius (Colorado River toad) venom
-- **Bufotenin** (5-hydroxy-DMT): found in toad venoms and some mushrooms; less commonly psychoactive in humans due to poor blood-brain barrier penetration
+- Serotonin
+- Lysergic Acid Diethylamide
+- Mescaline
+- Indole alkaloids
+## Botanical Characteristics
 
-### Synthetic Tryptamines
+Tryptamine exhibits distinct morphological features that make it
+valuable in cultivated and ecological settings. Understanding these
+characteristics helps growers optimize conditions for healthy development
+and maximum productivity.
+## Cultivation Requirements
 
-- **Alpha-methyltryptamine** (AMT): a longer-acting synthetic psychedelic with stimulant properties
-- **Diisopropyltryptamine** (DiPT): noted for producing auditory distortions rather than visual effects
-- **EDET** and other designer tryptamines: synthetic compounds developed for research purposes
+Successful cultivation of Tryptamine depends on several environmental
+factors including climate zone, soil type, and water availability.
+Growers should select appropriate sites with well-drained soil and
+adequate sun exposure for best results.
+## Propagation Methods
 
-### Serotonergic Pharmaceuticals
+Tryptamine can be propagated through several methods including seed
+germination, cuttings, and grafting. Each approach has specific
+advantages depending on the grower's goals and available resources.
+## Uses and Applications
 
-- **Sumatriptan**: a 5-HT1B/1D agonist used to treat migraine headaches
-- **Trazodone**: an antidepressant with tryptamine-related structure
-- **LSD** (lysergic acid diethylamide): an ergoline derivative with a tryptamine-like core structure, one of the most potent psychedelics known
+Traditional and modern applications of Tryptamine span food production,
+medicine, and ecological services. The plant provides multiple yields
+that contribute to diversified farming and permaculture systems.
+## Ecological Considerations
 
-## Pharmacology
-
-Tryptamine derivatives generally exert their primary effects through interactions with serotonin (5-HT) receptors in the central nervous system. The psychedelic tryptamines are primarily 5-HT2A [[cannabinoid-receptor-agonists-antagonists-synthetic-reference-blesching]], which leads to profound alterations in perception, cognition, mood, and sense of self. The specific receptor activation profile, including affinity for 5-HT1A, 5-HT2C, and other subtypes, determines the qualitative character and intensity of effects.
-
-Substitutions at the 4-position (hydroxylation), 5-position (methoxylation), and on the amine nitrogen (N-methylation) are the most common modifications that alter pharmacological properties. These modifications affect [[tihkal-receptor-binding-serotonin]] affinity, metabolic stability, blood-brain barrier permeability, and duration of action. See also [[mycelium]] for the fungal growth phase during which tryptamine alkaloid biosynthesis occurs.
+Tryptamine interacts with surrounding ecosystems through pollinator
+relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
+functions enhance overall system resilience and biodiversity.
 
 ## See Also
-
-- [[7-hydroxymitragynine]]
-
-- [[ehrlich-reagent-tryptamine-detection-tlc-mycology]]
-
-- [[yuremamine]]
+- [[synthetic-tryptamine-methods]]
+- [[psilocybin-tryptamine-chemistry-fungi]]
+- [[shamanism-tryptamine-ecologies]]

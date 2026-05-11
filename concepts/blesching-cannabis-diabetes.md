@@ -89,5 +89,5 @@ when and how to exercise.
 
 ## See Also
 
-- [[blesching-cannabinoid-pharmacology]]
+- [[cannabinoid]]
 - [[blesching-cannabis-cardiovascular-health]]

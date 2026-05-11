@@ -1,5 +1,5 @@
 ---
-title: Natural [[natural-farming-five-principles]]
+title: Natural Farming Five Principles Fukuoka
 created: 2026-05-11
 tags: [farming, permaculture, agriculture, philosophy]
 date: 2026-05-11

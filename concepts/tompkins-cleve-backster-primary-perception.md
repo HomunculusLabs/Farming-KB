@@ -1,5 +1,5 @@
 ---
-title: Tompkins [[cleve-backster]] Primary Perception
+title: "Tompkins [[cleve-backster]] Primary Perception"
 created: 2026-04-28
 tags: [[plant-perception]], backster-effect, galvanometer, esp, polygraph,
       consciousness, plant-intelligence]

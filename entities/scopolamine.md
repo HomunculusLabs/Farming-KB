@@ -1,92 +1,99 @@
 ---
-title: "Scopolamine"
-created: 2026-04-28
-type: chemical
-tags:
-  - tropane-alkaloid
-  - deliriant
-  - anticholinergic
-  - antimuscarinic
-  - pharmaceutical
-date: 2026-04-28
-updated: 2026-04-28
-sources:
-  - "Renner, U.D. et al. (2005). \"Pharmacology of Scopolamine and Its Metabolites.\" Drugs of Today, 41(Suppl A), 3-16."
-  - "Ketchum, J.S. et al. (1973). \"Atropine, Scopolamine, and Related Antimuscarinic Drugs.\" Raven Press."
-  - "Cuenca, E. et al. (2020). \"Tropane Alkaloids from Solanaceae.\" Annual Review of Plant Biology, 71, 659-686."
-  - "Meyer, R. & Quenzer, L.F. (2013). Psychopharmacology: Drugs, the Brain, and Behavior. Sinauer."
+title: Scopolamine
+source: a-golden-guide-to-hallucinogenic-plants.md
+type: entity
 ---
 
-# Scopolamine
+## Description
 
-## Overview
+Scopolamine (also known as hyoscine) is a tropane alkaloid found in numerous plants of the Solanaceae (nightshade) family, including Datura species, Atropa belladonna, Hyoscyamus niger (henbane), and [[mandragora-officinarum]] (mandrake). It is one of the most pharmacologically significant hallucinogenic alkaloids and has been used for millennia in medicine, poison, and ritual.
 
-Scopolamine (hyoscine) is a tropane alkaloid antimuscarinic agent produced by
-Solanaceae plants. It competitively antagonizes muscarinic acetylcholine
-receptors, producing mydriasis, tachycardia, anhidrosis, and at high doses,
-deliriant psychoactivity. Among the oldest pharmaceuticals still in clinical
-use, it remains standard [[cannabis-for-motion-sickness]], ophthalmology, and anesthesia
-premedication.
+## Classification
 
-## Chemical Properties
+- **Category**: Tropane alkaloid
+- **Chemical class**: Tropane / Scopolamine group
+- **Molecular formula**: C17H21NO4
+- **Source organisms**: Datura spp., Atropa belladonna, Hyoscyamus spp., Mandragora spp.
 
-- **IUPAC name:** (1S,2S,4S,5R,7S)-9-methyl-3-oxa-9-azatricyclo[3.3.1.0²,⁷]
-  nonan-7-yl 3-hydroxy-2-phenylpropanoate
-- **Molecular formula:** C₁₇H₂₁NO₄
-- **Molecular weight:** 303.35 g/mol
-- **CAS number:** 51-34-3
-- **Melting point:** 59–61 °C (hydrobromide salt)
-- **Solubility:** Freely soluble in water (HBr salt), soluble in ethanol
+## Key Facts
 
-Structurally related to atropine and hyoscyamine, scopolamine differs by
-an epoxide bridge between C-6 and C-7 of the tropane ring. This modification
-confers greater lipid solubility and blood-brain barrier penetration, producing
-more pronounced central effects than atropine.
+- Principal hallucinogenic alkaloid in Datura metel and many other Solanaceae
+- Present in heaviest concentrations in the leaves and seeds of Datura
+- More psychoactive than hyoscyamine (the other major alkaloid in these plants)
+- Was a key ingredient in the witches' brews of medieval Europe
+- Causes true hallucinations (not merely distortions) along with delirium
+- Crosses the blood-brain barrier readily
+- Used in modern medicine as an antiemetic and [[blesching-cannabis-motion-sickness]] treatment
 
-## Biosynthesis
+## Pharmacological Effects
 
-Biosynthesized in Solanaceae roots from phenylalanine via phenylacetaldehyde →
-tropinone → tropine → littorine → hyoscyamine → scopolamine. The final two
-steps are catalyzed by hyoscyamine 6β-hydroxylase (H6H), which hydroxylates
-then epoxidizes hyoscyamine. The pathway is most active in hairy root cultures
-of [[brugmansia-suaveolens]].
+- Potent anticholinergic agent blocking muscarinic acetylcholine receptors
+- Causes delirium, hallucinations, and loss of short-term memory
+- Physical effects: dilated pupils, dry mouth, tachycardia, urinary retention
+- Can produce a state of profound suggestibility (historically exploited by criminals)
+- Effects can last 24-72 hours or longer
+- Central nervous system depression with paradoxical excitation
 
-## Pharmacology
+## Presence in Source Plants
 
-### Receptor Activity
+- **Datura metel**: Principal alkaloid; heaviest in leaves and seeds
+- **Atropa belladonna**: Present alongside hyoscyamine
+- **Hyoscyamus niger**: Present in significant amounts alongside hyoscyamine
+- **Mandragora officinarum**: Active hallucinogenic ingredient of mandrake
 
-- **M₁ (CNS):** Potent antagonist — amnestic and deliriant effects
-- **M₂ (cardiac):** Antagonist — tachycardia via vagal blockade
-- **M₃ (smooth muscle/glands):** Antagonist — reduces secretions, mydriasis
-- **M₄/M₅ (CNS):** Moderate affinity
+## Historical Significance
 
-Scopolamine has ~10-fold higher affinity for central muscarinic receptors than
-atropine, owing to superior BBB penetration.
+- Core ingredient [[solanaceous-hallucinogens-of-medieval-european-witchcraft]] witches' [[witches-fungi-and-flying-ointments]] and brews
+- Associated with the Oracle of Delphi (possibly the intoxicating smoke)
+- Used in ancient Chinese and Indian medicine for millennia
+- Exploited by thieves in Asia for stupefying victims (criminal use)
+- The "zombie cucumber" of Haitian voodoo traditions
 
-### Pharmacokinetics
+## Relevance to Cultivation and Mycology
 
-- **Bioavailability:** ~10-50% oral; ~80% transdermal
-- **Onset:** 30-60 min oral, 2-4 hr transdermal, 5-20 min IV
-- **Half-life:** 2.5-4.5 hr oral, 9.5 hr transdermal
-- **Metabolism:** Hepatic ester hydrolysis; minimal CYP involvement
-- **Excretion:** Primarily renal (~50% unchanged)
+While scopolamine is a plant alkaloid, it is important in the broader context of psychoactive natural products:
 
-## Clinical Uses
+- Illustrates how Solanaceae alkaloids differ fundamentally from fungal hallucinogens
+- Understanding [[mckenna-witch-ointments-tropane-alkaloids-flying-salves]] helps distinguish them from indole-based mushroom toxins
+- Datura species commonly grow as weeds near cultivation areas
+- Awareness of scopolamine-containing plants is essential for forager safety
 
-- **Motion sickness:** Transdermal patch (1 mg/72 hr); first-line therapy
-- **Ophthalmology:** 0.25% solution for mydriasis and cycloplegia
-- **Anesthesia premedication:** IV/IM 0.3-0.6 mg (antisialagogue + amnesia)
-- **PONV prophylaxis:** IV 0.1-0.2 mg; superior to ondansetron in some trials
-- **GI/renal spasm:** IM 0.5 mg as antispasmodic
+## Related Topics
 
-## Psychoactive Effects
+- Hyoscyamine
+- Atropine
+- Datura species
+- Atropa belladonna
+- Tropane alkaloids
+## Botanical Characteristics
 
-At supratherapeutic doses (>1 mg IV, >2 mg oral), scopolamine produces a
-characteristic deliriant syndrome fundamentally distinct from serotonergic or
-[[atropa-belladonna]] alongside atropine/hyoscyamine.
+Scopolamine exhibits distinct morphological features that make it
+valuable in cultivated and ecological settings. Understanding these
+characteristics helps growers optimize conditions for healthy development
+and maximum productivity.
+## Cultivation Requirements
 
-## History
+Successful cultivation of Scopolamine depends on several environmental
+factors including climate zone, soil type, and water availability.
+Growers should select appropriate sites with well-drained soil and
+adequate sun exposure for best results.
+## Propagation Methods
 
-First isolated in 1880 by Albert Ladenburg from *Scopolia carniolica*.
-Ethnobotanical use dates to pre-Columbian [[guzman-psilocybin-mushrooms-south-america]], where [[datura-stramonium]] — Major natural source plant
-- [[hyoscyamus-niger]] — Henbane, Solanaceae source of tropane alkaloids
+Scopolamine can be propagated through several methods including seed
+germination, cuttings, and grafting. Each approach has specific
+advantages depending on the grower's goals and available resources.
+## Uses and Applications
+
+Traditional and modern applications of Scopolamine span food production,
+medicine, and ecological services. The plant provides multiple yields
+that contribute to diversified farming and permaculture systems.
+## Ecological Considerations
+
+Scopolamine interacts with surrounding ecosystems through pollinator
+relationships, soil improvement, and [[amphibian-habitat-creation]]. These ecological
+functions enhance overall system resilience and biodiversity.
+
+## See Also
+- [[growing-gourmet-king-oyster-eryngii-cultivation]]
+- [[mushroom-cultivation-disabilities-oyster-mushroom-guide]]
+- [[persimmon-cultivation-and-variety-guide]]

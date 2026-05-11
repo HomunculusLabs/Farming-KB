@@ -1,5 +1,5 @@
 ---
-title: Purdue [[seasonal-vegetable-planting]] Reference Table
+title: "Purdue [[seasonal-vegetable-planting]] Reference Table"
 created: 2026-04-28
 tags:
   - vegetable-gardening

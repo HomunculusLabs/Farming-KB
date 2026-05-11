@@ -37,7 +37,7 @@ their [[blesching-cannabis-safety-adverse-effects-evidence]] have posed problems
 
 The [[cannabis-for-chronic-pain]]
 - [[cannabis-sleep-disorders-and-insomnia]]
-- [[blesching-cannabinoid-pharmacology]]
+- [[cannabinoid]]
 ## Practical Considerations
 
 When working with Cannabis and Migraine, several practical factors should be

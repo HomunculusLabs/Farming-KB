@@ -1,5 +1,5 @@
 ---
-title: [[turner-essential-psychedelics-5-meo-dmt-void-experience]] [[ketamine]] Anaesthetic Realm
+title: "[[turner-essential-psychedelics-5-meo-dmt-void-experience]] [[ketamine]] Anaesthetic Realm"
 created: 2026-04-26
 updated: 2026-04-24
 sources:

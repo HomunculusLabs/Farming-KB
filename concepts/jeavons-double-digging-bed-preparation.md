@@ -1,5 +1,5 @@
 ---
-title: Jeavons [[comparison-double-digging-vs-no-till]] [[azurescens-outdoor-bed-preparation-woodchips]]
+title: "Jeavons [[comparison-double-digging-vs-no-till]] [[azurescens-outdoor-bed-preparation-woodchips]]"
 created: 2026-04-26
 author: [[john-jeavons]]
 sources: How to Grow More Vegetables, 8th edition

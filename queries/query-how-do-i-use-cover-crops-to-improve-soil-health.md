@@ -48,7 +48,7 @@ natural herbicidal effect can persist for weeks after the cover crop is
 terminated, giving your subsequent cash crop a head start without any
 chemical herbicide applications. The [[soil-foodweb]], and build
   long-term soil fertility with each successive planting
-- Legumes like [[comparison-lupin-vs-crimson-clover-green-manure]] and hairy vetch fix 50 to 150 pounds of
+- Legumes like [[compost]] and hairy vetch fix 50 to 150 pounds of
   nitrogen per acre through Rhizobium symbiosis
 - Deep-rooted species like daikon radish and cereal rye break up compacted
   soil layers and improve water infiltration

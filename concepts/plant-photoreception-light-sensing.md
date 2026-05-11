@@ -51,7 +51,7 @@ Phototropins are blue-light receptors that control directional growth responses:
 ### Cryptochromes
 Cryptochromes are blue-light receptors with roles in:
 
-- **Circadian clock entrainment**: Cryptochromes help synchronize the plant's [[chamovitz-circadian-rhythm-internal-clock-plants]] with external light/dark cycles
+- **Circadian clock entrainment**: Cryptochromes help synchronize the plant's [[chrysanthemum]] with external light/dark cycles
 - **De-etiolation**: Work alongside phytochromes to inhibit stem elongation and promote leaf expansion when seedlings emerge into light
 - **Flowering time**: Cryptochromes contribute to photoperiodic sensing and influence the transition to flowering
 - **Magnetoreception**: Some evidence suggests cryptochromes may enable plants to sense magnetic fields, though this remains controversial

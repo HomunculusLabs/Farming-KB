@@ -128,7 +128,7 @@ host genetics.
 ## See Also
 
 - [[cannabis-endorhiza-microbiome]]
-- [[edaphic-factors-microbial-communities]]
+- [[crimson-clover]]
 - [[cultivar-specificity-plant-microbiomes]]
 
 ## References

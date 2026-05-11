@@ -25,7 +25,7 @@ a significant role in fertility.
 
 The [[blesching-cannabis-pregnancy]]
 - [[blesching-cannabis-menstrual-pain]]
-- [[blesching-cannabinoid-pharmacology]]
+- [[cannabinoid]]
 ## Practical Applications
 
 Cannabis and Fertility and Reproductive Health has a range of practical applications that make it relevant to

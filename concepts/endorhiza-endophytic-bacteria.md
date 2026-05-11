@@ -14,7 +14,7 @@ Endorhiza bacteria are microorganisms that have colonized the
 internal tissues of plant roots. Unlike [[lowenfels-rhizosphere-bacteria-plant-interaction]]
 living in soil surrounding roots, endorhiza (endophytic) bacteria
 reside within root tissue itself, forming intimate associations
-with their host plant. In Cannabis spp., the [[proteobacteria-dominance-cannabis-endorhiza-community]]
+with their host plant. In Cannabis spp., the [[Proteobacteria]]
 shows the strongest cultivar-specificity of any root-associated
 microbial compartment.
 

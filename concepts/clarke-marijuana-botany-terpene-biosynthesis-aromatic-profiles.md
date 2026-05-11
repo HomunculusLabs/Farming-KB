@@ -1,5 +1,5 @@
 ---
-title: [[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]] Aromatic Profiles
+title: "[[clarke-marijuana-botany-cannabinoid-biosynthesis-pathway]] [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]] Aromatic Profiles"
 created: 2026-04-28
 tags: [cannabis, terpenes, botany, aroma, breeding, clarke]
 date: 2026-04-25

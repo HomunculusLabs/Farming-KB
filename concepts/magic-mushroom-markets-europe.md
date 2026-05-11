@@ -1,5 +1,5 @@
 ---
-title: Magic [[hallucinogenic-mushroom-markets-europe]]
+title: Magic Mushroom Markets Europe
 source: carolina-mushrooms_08qxp.md
 created: 2026-05-09
 tags: [policy, law, market, europe, smartshop, legislation, regulation, EMCDDA, online-sales]

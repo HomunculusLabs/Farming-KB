@@ -97,20 +97,17 @@ LAB is a core KNF input collected from the local environment via rice wash and m
 | Putrid smell | Wrong bacteria dominated | Start over, ensure clean jar |
 | Weak results | Dilution too high | Reduce to 1:500 |
 
-
 ## Practical Considerations
 Implementation requires careful attention to local conditions,
 available resources, and the specific goals of the practitioner.
 Documenting results and adapting approaches based on observed
 outcomes leads to continuous improvement over time.
 
-
 ## Integration Strategies
 Combining multiple approaches often yields better results than
 relying on any single technique. Consider how this topic relates
 to broader system design and look for synergies between methods
 that can amplify overall effectiveness.
-
 
 ## See Also
 - [[lactic-acid-bacteria-knf]]
@@ -125,4 +122,3 @@ that can amplify overall effectiveness.
 - [[indigenous-microorganisms-imo]] — LAB used in IMO #3 cultivation
 - [[fermented-mixed-compost-fmc]] — LAB prevents FMC from decaying
 - [[fermented-plant-extract-fpe]] — FPJ pairs well with LAB
-

@@ -107,20 +107,17 @@ Herbs are central to organic pest management. See [[companion-planting-reference
 - [[seed-starting-reference]] -- Propagation methods
 - [[seasonal-planning]] -- Monthly task calendar
 
-
 ## Design Applications
 Permaculture design principles emphasize multi-functional elements,
 efficient energy cycling, and working with natural patterns rather
 than against them. Integration with existing landscape features
 maximizes productivity while minimizing external inputs.
 
-
 ## Implementation Notes
 Practical implementation requires site-specific adaptation considering
 local climate, soil conditions, available resources, and the grower's
 experience level. Observation and iterative refinement over multiple
 seasons produce the most resilient and productive systems.
-
 
 ## See Also
 - [[hamilton-geoffhamilton-nick-organic-gardening-organic-gardening-principles]]

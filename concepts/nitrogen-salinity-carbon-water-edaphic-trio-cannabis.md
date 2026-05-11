@@ -1,0 +1,138 @@
+# Nitrogen, Salinity, Carbon, and Water as Edaphic Determinants of the Cannabis Microbiome
+
+The edaphic (soil-related) factors that shape the [[cannabis-root-microbiome]]
+were systematically evaluated by Winston et al. (2014) using BEST
+(Bio-Env + STepwise) analysis, a multivariate statistical approach that
+identifies the subset of environmental variables that optimally explains
+observed variation in [[core-endorhiza-bacterial-community-composition-cannabis]]. The analysis revealed that
+nitrogen, carbon, and water content together provided the best three-factor
+explanation of microbiome variance across the studied systems.
+
+## BEST Analysis Methodology
+
+BEST analysis is a two-stage procedure that combines the Bio-Env algorithm
+with forward selection. In the first stage, Bio-Env computes the rank
+correlation (Spearman's rho) between the biological distance matrix
+(community dissimilarity) and every possible subset of environmental
+variables, identifying the combination that maximizes correspondence. In the
+second stage, forward selection adds variables one at a time based on their
+marginal contribution to the correlation, testing for significance at each
+step.
+
+Winston et al. (2014) applied BEST analysis to both weighted and unweighted
+UniFrac distance matrices, providing complementary perspectives on how
+[[cannabinoid-microbiome-correlation-confounded-edaphic-factors]] influence community structure (abundance-weighted) and
+community composition (presence-absence weighted). The use of both metrics
+is important because, as the study demonstrated, Cannabis cultivars affect
+abundance but not presence, while soil affects both.
+
+## Individual Edaphic Factor Correlations
+
+When each edaphic factor was evaluated individually for its correlation with
+microbiome distance, nitrogen emerged as the single strongest predictor.
+Nitrogen showed a weighted correlation of r = 0.465 and an unweighted
+correlation of r = 0.630 with community dissimilarity. This indicates that
+soil nitrogen content is a major driver of both which taxa are present and
+how abundant they are in the Cannabis root microbiome.
+
+The strong influence of nitrogen is consistent with its central role in plant
+nutrition and microbial metabolism. Nitrogen availability directly affects
+root exudation patterns — plants grown in nitrogen-rich soils typically
+exude less carbon to recruit nitrogen-fixing or nitrogen-mineralizing
+microbes, while nitrogen-limited plants invest more heavily in exudate-driven
+microbial recruitment. This feedback loop between plant nitrogen status,
+exudate composition, and [[edaphic-factors-microbial-community-structure]] likely underlies the
+strong correlation observed.
+
+Salinity was the second strongest individual factor, with a weighted
+correlation of r = 0.437 and an unweighted correlation of r = 0.620. High
+salinity imposes osmotic stress on both plants and microbes, selectively
+favoring halotolerant taxa and suppressing salt-sensitive organisms. In
+Cannabis, which is considered moderately salt-sensitive, salinity effects on
+the microbiome may be mediated both through direct effects on microbial
+physiology and through indirect effects on plant root exudation and immune
+responses under salt stress.
+
+Carbon content ranked third individually, with correlations of r = 0.330
+(weighted) and r = 0.512 (unweighted). Soil organic carbon is a primary
+substrate for heterotrophic soil bacteria, and its availability influences
+the size and diversity of the [[edaphic-factors-soil-microbial-community-structure]] from which the root
+microbiome is recruited. Higher carbon content generally supports larger and
+more diverse microbial populations, providing a richer pool of potential
+root colonizers.
+
+Water content showed correlations of r = 0.281 (weighted) and r = 0.466
+(unweighted). Soil moisture influences oxygen availability, nutrient
+diffusion, and microbial mobility, all of which affect community assembly.
+Waterlogged conditions favor [[ingham-anaerobic-organisms-role-soil]], while dry conditions limit
+microbial activity and may select for desiccation-tolerant taxa.
+
+pH was the weakest individual predictor, with correlations of r = 0.221
+(weighted) and r = 0.292 (unweighted). While pH is often cited as a master
+variable in soil microbial ecology, its relatively modest correlation in the
+Cannabis system may reflect the narrow pH range of the soils studied or the
+dominance of other factors in the specific experimental context.
+
+## Optimal Three-Factor Combination
+
+When variables were combined, the BEST analysis identified nitrogen, carbon,
+and water content as the optimal three-factor model for explaining community
+variance, with a combined Spearman's rho of 0.632. This three-factor model
+explained substantially more variance than any single factor alone, indicating
+that edaphic effects on the Cannabis microbiome are multifactorial and
+interactive.
+
+The inclusion of water content alongside nitrogen and carbon is noteworthy.
+While nitrogen and carbon are directly related to microbial nutrition, water
+content operates through physical mechanisms — modulating diffusion, gas
+exchange, and microbial movement. Its inclusion in the optimal model suggests
+that both resource availability and physical soil conditions must be
+considered to adequately predict microbiome composition.
+
+Notably, the optimal three-factor model did not include salinity, despite
+salinity being the second strongest individual predictor. This apparent
+contradiction reflects the multivariate nature of the analysis: salinity's
+contribution to community variance is partially redundant with the variance
+explained by nitrogen and carbon, meaning it does not add significant
+explanatory power once those factors are already included.
+
+## Statistical Significance and Robustness
+
+All individual edaphic factors showed statistically significant correlations
+with community distance at p = 0.001, confirming that each factor exerts a
+genuine influence on the Cannabis root microbiome. The consistency of results
+across both weighted and unweighted analyses further strengthens confidence in
+the findings, as the two metrics capture different aspects of community
+variation.
+
+The fact that the optimal model explains approximately 63% of community
+variance (rho = 0.632) indicates that edaphic factors are the dominant
+determinants of Cannabis microbiome composition, consistent with the broader
+finding that soil type showed 657 significant unweighted OTU differences while
+cultivar showed none. The remaining unexplained variance is likely attributable
+to plant genotype effects, stochastic colonization processes, and unmeasured
+environmental variables such as temperature, light exposure, and microbial
+interactions.
+
+## Practical Implications for Cannabis Cultivation
+
+The edaphic factor analysis provides actionable guidance for Cannabis growers
+seeking to optimize their soil microbiome. Nitrogen management should be a
+primary focus, given its status as the strongest individual predictor of
+community variation. However, the multivariate nature of the results
+emphasizes that no single factor should be managed in isolation — the
+interaction between nitrogen, carbon, and water creates the soil environment
+that shapes the microbial community.
+
+Growers using living soil or organic cultivation methods can use these
+findings to design soil mixes that promote desirable microbiome profiles.
+Balancing carbon inputs (compost, organic matter) with nitrogen availability
+and maintaining appropriate moisture levels will collectively create conditions
+favorable to a diverse and beneficial root-associated microbial community.
+
+## See Also
+
+[[strain-otu-presence-absence-vs-abundance-cannabis-microbiome]]
+[[Endorhiza]]
+[[proteobacteria-enrichment-endorhiza-cannabis-two-tier-model]]
+[[cellvibrio-aerobic-cellulytic-endorhiza-cannabis]]

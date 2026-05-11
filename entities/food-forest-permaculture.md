@@ -1,0 +1,149 @@
+---
+title: "Food Forest (Permaculture System)"
+type: species
+tags:
+  - permaculture
+  - agroforestry
+  - food-forest
+  - polyculture
+  - perennial-agriculture
+  - regenerative-design
+  - guild-design
+  - carbon-farming
+date: 2026-04-28
+updated: 2026-04-28
+sources:
+  - "Jacke, D. & Toensmeier, E. (2005). Edible Forest Gardens Vol. I & II. Chelsea Green."
+  - "Mollison, B. (1988). Permaculture: A Designer's Manual. Tagari Publications."
+  - "Shepard, M. (2013). Restoration Agriculture. Acres USA."
+---
+
+# Food Forest (Permaculture System)
+
+## Overview
+
+A food forest — also called a forest garden or edible forest garden — is a perennial polyculture system modeled on the structure and ecology of a natural woodland ecosystem, but composed primarily of food-producing species. It is a core design strategy within permaculture, integrating trees, shrubs, vines, herbs, ground covers, and root crops into a self-maintaining, productive ecosystem. Unlike annual agriculture, food forests emphasize perennial plants that establish once and produce for decades, dramatically reducing inputs of labor, fertilizer, and water over time.
+
+## Ecological Basis
+
+### Forest Ecology as Template
+
+Natural forests are the most productive and resilient terrestrial ecosystems. They exhibit:
+
+- **Vertical stratification**: Multiple canopy layers capturing sunlight at every height
+- **Nutrient cycling**: Closed-loop decomposition with no external inputs needed
+- **Mutualistic networks**: Mycorrhizal fungi connecting plants for [[mycelial-network-resource-sharing-plants]]
+- **Succession dynamics**: Predictable progression from pioneer species to climax community
+- **Biodiversity**: High species richness creating [[functional-redundancy-fungal-communities]] and pest resilience
+
+A food forest replicates these principles with species selected for human utility — food, medicine, fiber, fuel, and fertility.
+
+### The Seven Layers
+
+The classic food forest model comprises seven distinct vertical layers:
+
+| Layer | Height | Examples | Functions |
+|-------|--------|----------|-----------|
+| **Canopy** | 10–30 m | Chestnut, walnut, oak, persimmon | Overstory nuts, windbreak, habitat |
+| **Understory** | 3–10 m | Apple, pear, plum, mulberry | Tree fruits, shade tolerance |
+| **Shrub** | 1–3 m | Berry bushes, currants, hazelnut | Berries, nuts, wildlife forage |
+| **Herbaceous** | 0.5–1.5 m | Comfrey, rhubarb, asparagus, herbs | [[comparison-dynamic-accumulators-vs-cover-crops]], culinary herbs |
+| **Ground cover** | 0–0.5 m | Strawberry, creeping thyme, clover | Weed suppression, soil protection |
+| **Rhizosphere** | Below ground | Potatoes, yacon, groundnut, garlic | Root crops, soil aeration |
+| **Vine** | Climbing | Kiwi, grape, passionflower, hops | Vertical production, shade |
+
+An eighth layer — the **mycelial network** — is increasingly recognized as fundamental, connecting the entire system through underground fungal highways.
+
+## Guild Design
+
+A **guild** is a group of mutually beneficial plants arranged around a central element (typically a fruit or nut tree). Each member serves multiple functions:
+
+### Classic Apple Tree Guild Example
+
+```
+Apple tree (center)
+├── Comfrey (dynamic accumulator — mines potassium, calcium from subsoil)
+├── Daffodil (pest deterrent — repels deer and rodents)
+├── Chives (insectary — attracts pollinators; anti-fungal)
+├── Clover (nitrogen fixer — green manure, living mulch)
+├── Yarrow (insectary — attracts predatory wasps; dynamic accumulator)
+└── Mint (ground cover — weed suppression; aromatic pest confuser)
+```
+
+### Key Functional Roles in Guilds
+
+1. **Nitrogen fixers**: Leguminous plants (clover, locust, seaberry) converting atmospheric N₂ into plant-available forms
+2. **Dynamic accumulators**: Deep-rooted plants (comfrey, dock, dandelion) mining minerals from subsoil
+3. **Insectaries**: Flowering plants providing nectar and pollen [[query-how-do-i-design-habitat-for-beneficial-insects]]
+4. **Mulch plants**: Rapidly growing biomass producers for chop-and-drop mulching
+5. **Pest confusers**: Aromatic herbs masking the scent of target crops from pests
+6. **Habitat plants**: Providing shelter for predatory insects, birds, and amphibians
+
+## Succession and Establishment
+
+### Phase 1: Site Preparation (Year 0)
+
+- Soil testing and amendment (mineral balancing per Albrecht/Kinsey methodology)
+- Swale construction for water harvesting on contour
+- Cover cropping with nitrogen fixers (clover, vetch, daikon radish)
+- Initial earthworks for water retention (ponds, berms, keyline plowing)
+
+### Phase 2: Pioneer Establishment (Years 1–3)
+
+- Plant nitrogen-fixing support trees (black locust, autumn olive, seaberry, acacia)
+- Establish windbreaks and hedgerows
+- Begin canopy tree planting with heavy mulching
+- Introduce mycorrhizal inoculant at planting
+- Maintain alleys between tree rows for annual crops or pasture
+
+### Phase 3: Understory Development (Years 3–7)
+
+- Fill shrub and herbaceous layers as canopy begins to cast shade
+- Introduce mushroom cultivation on inoculated logs and woodchip beds
+- Begin chop-and-drop mulching cycles with support species
+- Reduce annual cropping as perennials mature
+
+### Phase 4: Maturation (Years 7–15)
+
+- Canopy closes; shade-tolerant understory species thrive
+- System becomes increasingly self-maintaining
+- Nutrient cycling operates through decomposition and mycelial networks
+- Selective pruning and harvest become primary management activities
+
+### Phase 5: Climax Food Forest (Years 15+)
+
+- Fully productive, largely self-sustaining ecosystem
+- Minimal external inputs required
+- Yields stabilize at 2–5 kg/m²/year for established temperate systems
+- Carbon sequestration peaks; soil organic matter stabilizes at 5–10%
+
+## Species Selection by Climate
+
+### Temperate (USDA Zones 5–8)
+
+**Canopy**: Chestnut, black walnut, persimmon, pawpaw, heartnut, oak
+**Understory**: Apple, pear, plum, cherry, mulberry, Asian pear, medlar
+**Shrub**: Hazelnut, elderberry, aronia, seaberry, currant, gooseberry, blueberry
+**Herbaceous**: Comfrey, rhubarb, asparagus, [[comparison-jerusalem-artichoke-vs-potato]], hosta
+**Vine**: Hardy kiwi, grape, schisandra, hops, maypop
+**Ground cover**: Strawberry, wild ginger, woodland strawberry, ramps
+
+### Subtropical (USDA Zones 9–11)
+
+**Canopy**: Avocado, mango, macadamia, breadfruit, jackfruit, coconut
+**Understory**: Citrus, banana, papaya, guava, loquat, carambola
+**Shrub**: Coffee, cacao, tea, pineapple, moringa, cassava
+**Vine**: Passionfruit, vanilla, chayote, malabar spinach
+**Root crops**: Taro, sweet potato, yam, turmeric, ginger
+
+## Water Management
+
+### Keyline Design
+
+Keyline patterning directs water from valleys to ridges, maximizing infiltration across the landscape. Swales (level ditches on contour) capture runoff and allow slow percolation into the soil profile, reducing irrigation needs by 50–80% once established.
+
+### Greywater Integration
+
+Food forests can accept greywater outputs from households (laundry, shower, kitchen sink) as irrigation input, provided biocompatible soaps are used. Mulch basins and [[comparison-constructed-wetlands-vs-bioswales]] pre-filter water before plant uptake.
+
+## Economic Analysis

@@ -1,5 +1,5 @@
 ---
-title: [[chamovitz-darwin-phototropism-experiment-canary-grass]] [[phototropism]] Model Organism
+title: "[[chamovitz-darwin-phototropism-experiment-canary-grass]] [[phototropism]] Model Organism"
 tags: [botany, phototropism, model-organism, darwin, plant-physiology, history-of-science]
 date: 2026-04-28
 updated: 2026-04-28

@@ -40,7 +40,7 @@ responsible for disease development.
 
 Recent experiments suggest the [[blesching-cannabis-neuroprotection]]
 - [[blesching-cannabis-huntingtons-disease]]
-- [[blesching-cannabinoid-pharmacology]]
+- [[cannabinoid]]
 ## Practical Considerations
 
 When working with Cannabis and Alzheimer's Disease, several practical factors should be

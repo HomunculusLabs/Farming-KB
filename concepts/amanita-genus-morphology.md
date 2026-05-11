@@ -47,10 +47,10 @@ Not all members of the genus are harmful. Ramsbottom (1945) describes:
 **Deadly species** (cell-degenerating toxins):
 - [[ramsbottom-poisonous-fungi-toxins-and-symptoms]] — [[bloomfield-destroying-angel-amanita-virosa-amatoxin-poisoning-clinical-course]]
 - [[allegro-colour-and-consistency-of-the-amanita-muscaria]] — [[amanita-muscaria-fly-agaric-history-and-pharmacology]]
-- [[agaricus-species-guide]] — Caesar's mushroom, much prized on the Continent but absent from Britain
+- [[Agaricus]] — Caesar's mushroom, much prized on the Continent but absent from Britain
 
 **Less dangerous:**
-- [[mushroom-foraging-safety-guide]]. The deadly species ([[agaricus-species-guide]] species commonly sought as edibles.
+- [[mushroom-foraging-safety-guide]]. The deadly species ([[Agaricus]] species commonly sought as edibles.
 
 ## See Also
 

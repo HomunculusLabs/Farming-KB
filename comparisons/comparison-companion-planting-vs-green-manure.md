@@ -29,7 +29,7 @@ Green manures are cover crops grown specifically to improve soil
 health. They are typically planted during fallow periods — between
 seasonal cash crops, over winter, or in unused beds — and then
 incorporated into the soil or terminated as surface mulch. Leguminous
-green manures like [[comparison-lupin-vs-crimson-clover-green-manure]], hairy vetch, and field peas fix
+green manures like [[compost]], hairy vetch, and field peas fix
 atmospheric nitrogen through rhizobial symbiosis, contributing
 70-200 lbs of nitrogen per acre. Non-legume options like winter
 rye, buckwheat, and sorghum-sudangrass add massive amounts of

@@ -40,7 +40,7 @@ and Maui Wowie cultivars grown in two different soil types with significant
 edaphic variation. Sphingomonas wittichii was identified as a significant
 OTU driving differences between strains in the weighted analysis. The
 species-level taxonomic assignment distinguishes this finding from the
-broader Sphingobacteriales presence in the core [[proteobacteria-dominance-cannabis-endorhiza-community]],
+broader Sphingobacteriales presence in the core [[Proteobacteria]],
 indicating that while Sphingomonas-related taxa are universally present,
 the specific species S. wittichii shows cultivar preference for Maui Wowie.
 

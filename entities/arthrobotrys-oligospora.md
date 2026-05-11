@@ -73,7 +73,7 @@ with lectins from other [[escovopsis-parasitic-fungi-attine-ant-gardens]], indic
 ### Comparative Genomics
 
 DNA microarray analyses have compared gene expression in A. oligospora
-with plant [[cordyceps-insect-pathogenic-fungi]], revealing conserved regulatory mechanisms
+with plant [[Cordyceps]], revealing conserved regulatory mechanisms
 in infection structure development. Similar stress and defense
 response gene classes are differentially expressed across ecologically
 diverse fungi during infection structure formation.
